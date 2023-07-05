@@ -16,28 +16,44 @@ def sanitize_url_to_name(input):
 
    return output
 
+def main_folders_manager():
+    global ALL_WEBSITES_FOLDER
+    ALL_WEBSITES_FOLDER = os.path.join('.\\', ALL_WEBSITES_FOLDER)
+    if(not os.path.exists(ALL_WEBSITES_FOLDER)):
+        os.mkdir(ALL_WEBSITES_FOLDER)
+
+def website_path_creator(search_url):
+    global website_folder
+    global website_name
+    global data_file
+
+    website_name = sanitize_url_to_name(search_url)
+
+    website_folder = ''
+    website_folder = os.path.join(ALL_WEBSITES_FOLDER, website_name)
+
+    data_file = "data.txt"
+    data_file = os.path.join(website_folder, data_file)
+
+    if(not os.path.exists(website_folder)):
+        os.mkdir(website_folder)
+
+search_url = 'http://hashomer.org.br/'
+
 ALL_WEBSITES_FOLDER = 'SITES'
-ALL_WEBSITES_FOLDER = os.path.join('.\\', ALL_WEBSITES_FOLDER)
+main_folders_manager()
 
 
-search_url = 'http://hashomer.org.br/' # DO NOT DELETE!!! _______________________________________
-
-website_name = sanitize_url_to_name(search_url)
 
 website_folder = ''
-website_folder = os.path.join(ALL_WEBSITES_FOLDER, website_name)
+website_name = ''
+data_file = ''
 
-data_file = "data.txt"
-data_file = os.path.join(website_folder, data_file)
+website_path_creator(search_url)
 
-if(not os.path.exists(ALL_WEBSITES_FOLDER)):
-   os.mkdir(ALL_WEBSITES_FOLDER)
-if(not os.path.exists(website_folder)):
-   os.mkdir(website_folder)
+html_data = url_extractor.extract_html(search_url)
 
-
-
-url_extractor.save_html(url_extractor.extract_html(search_url), data_file)
+#url_extractor.save_html(html_data, data_file)
 
 
 pass
