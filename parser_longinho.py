@@ -22,6 +22,14 @@ def cleanhtml(raw_html):
   return cleantext
 
 
+def get_file_data(filepath):
+    # Get raw html data from file
+    filedata = ''
+    with open(filepath, 'rb') as file:
+        filedata = file.read()
+        filedata = filedata.decode('utf-8')
+    return filedata
+
 def link_parser(input):
     # Returns all links found in the page
     link_parse_data = input.split('\n')
@@ -44,6 +52,7 @@ def text_parser(input):
     return text_parse_data
 
 
+# Folder management. Delete later
 test_folder = 'PARSERTEST'
 test_file = "data.txt"
 
@@ -55,20 +64,10 @@ if not os.path.exists(test_folder):
 
 
 
-# Get data from file
-filedata = ''
-with open(test_file, 'rb') as file:
-    filedata = file.read()
-    filedata = filedata.decode('utf-8')
 
 
-link_list = link_parser(filedata)
-text_list = text_parser(filedata)
-
-
-
-
-
+link_list = link_parser(get_file_data(test_file))
+text_list = text_parser(get_file_data(test_file))
 
 
 
