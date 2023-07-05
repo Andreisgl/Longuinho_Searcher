@@ -53,6 +53,7 @@ main_folders_manager()
 website_folder = ''
 website_name = ''
 data_file = ''
+html_data = ''
 
 website_path_creator(search_url)
 

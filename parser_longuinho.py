@@ -30,9 +30,9 @@ def get_file_data(filepath):
         filedata = filedata.decode('utf-8')
     return filedata
 
-def link_parser(input):
+def link_parser(file_data):
     # Returns all links found in the page
-    link_parse_data = input.split('\n')
+    link_parse_data = file_data.split('\n')
     link_parse_data = remove_whitespaces_from_list(link_parse_data)
 
     temp_list = []
@@ -43,9 +43,9 @@ def link_parser(input):
                 temp_list.append(item)
     return temp_list
 
-def text_parser(input):
+def text_parser(file_data):
     # Return all blocks of text in the file
-    text_parse_data = input
+    text_parse_data = file_data
     text_parse_data = cleanhtml(text_parse_data)
     text_parse_data = text_parse_data.split('\n')
     text_parse_data = remove_whitespaces_from_list(text_parse_data)
