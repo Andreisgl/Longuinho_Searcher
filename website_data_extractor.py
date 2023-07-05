@@ -1,4 +1,4 @@
-# This file centralizes the full functionality of the crawler.
+# This script extracts and saves all useful data from a single website
 import os
 import urllib.request
 import parser_longuinho
