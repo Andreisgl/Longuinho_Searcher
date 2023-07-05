@@ -1,7 +1,7 @@
 # This script extracts and saves all useful data from a single website
 import os
 import urllib.request
-import parser_longuinho
+import parser_l
 
 def main_folders_manager():
     global ALL_WEBSITES_FOLDER
@@ -69,10 +69,10 @@ def get_website_data(url):
     data_file, link_list_file, text_list_file = website_path_creator(url)
 
     raw_file_data = extract_html(url)
-    html_data = parser_longuinho.byte_to_string(raw_file_data)
+    html_data = parser_l.byte_to_string(raw_file_data)
 
-    link_list = parser_longuinho.link_parser(html_data)
-    text_list = parser_longuinho.text_parser(html_data)
+    link_list = parser_l.link_parser(html_data)
+    text_list = parser_l.text_parser(html_data)
 
     # Save data in folder
     save_html_to_file(raw_file_data, data_file) # Save raw html
