@@ -44,8 +44,9 @@ with urllib.request.urlopen(search_url) as response:
    html = response.read()
 
 
-with open(data_file, 'w') as file:
-   data = html.decode('ascii', 'ignore')
+with open(data_file, 'wb') as file:
+   #data = html.decode('ascii', 'ignore')
+   data = html
    file.write(data)
 
 

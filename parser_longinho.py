@@ -44,18 +44,22 @@ def text_parser(input):
     return text_parse_data
 
 
-test_folder = 'TESTE'
-test_file = "teste.txt"
+test_folder = 'PARSERTEST'
+test_file = "data.txt"
 
 test_folder = os.path.join('.\\', test_folder)
 test_file = os.path.join(test_folder, test_file)
+
+if not os.path.exists(test_folder):
+    os.mkdir(test_folder)
 
 
 
 # Get data from file
 filedata = ''
-with open(test_file, 'r') as file:
+with open(test_file, 'rb') as file:
     filedata = file.read()
+    filedata = filedata.decode('utf-8')
 
 
 link_list = link_parser(filedata)
