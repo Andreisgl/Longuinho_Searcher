@@ -27,8 +27,11 @@ def get_file_data(filepath):
     filedata = ''
     with open(filepath, 'rb') as file:
         filedata = file.read()
-        filedata = filedata.decode('utf-8')
+        filedata = byte_to_string(filedata)
     return filedata
+
+def byte_to_string(filedata):
+    return filedata.decode('utf-8')
 
 def link_parser(file_data):
     # Returns all links found in the page

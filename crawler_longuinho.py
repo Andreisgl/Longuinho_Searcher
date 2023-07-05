@@ -43,23 +43,31 @@ def save_html_to_file(html, filepath):
       file.write(html)
 
 
-search_url = 'http://hashomer.org.br/'
-
 ALL_WEBSITES_FOLDER = 'SITES'
 main_folders_manager()
+
+
+
+search_url = 'http://hashomer.org.br/'
 
 
 
 website_folder = ''
 website_name = ''
 data_file = ''
-html_data = ''
+file_data = ''
 
 website_path_creator(search_url)
 
-html_data = url_extractor.extract_html(search_url)
+file_data = url_extractor.extract_html(search_url)
+html_data = parser_longuinho.byte_to_string(file_data)
 
-#save_html_to_file(html_data, data_file)
+link_list = parser_longuinho.link_parser(html_data)
+text_list = parser_longuinho.text_parser(html_data)
+
+
+# Save data in folder
+save_html_to_file(file_data, data_file)
 
 
 pass
