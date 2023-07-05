@@ -4,10 +4,6 @@ import os
 import re
 
 
-
-
-
-
 def find_url(string):
     regex = r"(?i)\b((?:https?://|www\d{0,3}[.]|[a-z0-9.\-]+[.][a-z]{2,4}/)(?:[^\s()<>]+|\(([^\s()<>]+|(\([^\s()<>]+\)))*\))+(?:\(([^\s()<>]+|(\([^\s()<>]+\)))*\)|[^\s`!()\[\]{};:'\".,<>?«»“”‘’]))"
     url = re.findall(regex, string)
@@ -26,19 +22,6 @@ def cleanhtml(raw_html):
   return cleantext
 
 
-test_folder = 'TESTE'
-test_file = "teste.txt"
-
-test_folder = os.path.join('.\\', test_folder)
-test_file = os.path.join(test_folder, test_file)
-
-
-# Get data from file
-filedata = ''
-with open(test_file, 'r') as file:
-    filedata = file.read()
-
-
 def link_parser(input):
     # Returns all links found in the page
     link_parse_data = input.split('\n')
@@ -52,14 +35,8 @@ def link_parser(input):
                 temp_list.append(item)
     return temp_list
 
-link_list = link_parser(filedata)
-
-
-
-
-
 def text_parser(input):
-    # Parse for text
+    # Return all blocks of text in the file
     text_parse_data = input
     text_parse_data = cleanhtml(text_parse_data)
     text_parse_data = text_parse_data.split('\n')
@@ -67,10 +44,22 @@ def text_parser(input):
     return text_parse_data
 
 
+test_folder = 'TESTE'
+test_file = "teste.txt"
 
+test_folder = os.path.join('.\\', test_folder)
+test_file = os.path.join(test_folder, test_file)
+
+
+
+# Get data from file
+filedata = ''
+with open(test_file, 'r') as file:
+    filedata = file.read()
+
+
+link_list = link_parser(filedata)
 text_list = text_parser(filedata)
-
-
 
 
 
