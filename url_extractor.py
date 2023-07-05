@@ -18,9 +18,7 @@ def extract_html(url):
       html = response.read()
    return html
 
-def save_html(html, filepath):
-   with open(filepath, 'wb') as file:
-      file.write(html)
+
 
 
 #save_html(extract_html(search_url), data_file)

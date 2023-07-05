@@ -38,6 +38,11 @@ def website_path_creator(search_url):
     if(not os.path.exists(website_folder)):
         os.mkdir(website_folder)
 
+def save_html_to_file(html, filepath):
+   with open(filepath, 'wb') as file:
+      file.write(html)
+
+
 search_url = 'http://hashomer.org.br/'
 
 ALL_WEBSITES_FOLDER = 'SITES'
@@ -53,7 +58,7 @@ website_path_creator(search_url)
 
 html_data = url_extractor.extract_html(search_url)
 
-#url_extractor.save_html(html_data, data_file)
+#save_html_to_file(html_data, data_file)
 
 
 pass
