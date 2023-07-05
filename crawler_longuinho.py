@@ -11,7 +11,8 @@ test_file = "teste.txt"
 test_folder = os.path.join('.\\', test_folder)
 test_file = os.path.join(test_folder, test_file)
 
-os.mkdir(test_folder)
+if(not os.path.exists(test_folder)):
+   os.mkdir(test_folder)
 
 
 
