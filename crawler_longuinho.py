@@ -94,8 +94,6 @@ def get_website_data(data_file, link_list_file, text_list_file):
     save_list_to_file(link_list, link_list_file) # Save links
     save_list_to_file(text_list, text_list_file) # Save text
 
-get_website_data(website_path_creator(search_url)[0],
-                 website_path_creator(search_url)[1],
-                 website_path_creator(search_url)[2])
+get_website_data(website_path_creator(search_url))
 
 pass
