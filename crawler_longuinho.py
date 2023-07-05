@@ -18,7 +18,7 @@ def sanitize_url_to_name(input):
 ALL_WEBSITES_FOLDER = 'SITES'
 ALL_WEBSITES_FOLDER = os.path.join('.\\', ALL_WEBSITES_FOLDER)
 
-search_url = 'http://andreisegal.dev.br/'
+search_url = 'http://hashomer.org.br/'
 
 website_name = sanitize_url_to_name(search_url)
 
@@ -45,7 +45,7 @@ with urllib.request.urlopen(search_url) as response:
 
 
 with open(data_file, 'w') as file:
-   data = html.decode('utf-8')
+   data = html.decode('ascii', 'ignore')
    file.write(data)
 
 
