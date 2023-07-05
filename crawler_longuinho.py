@@ -76,6 +76,8 @@ def get_website_data(url):
     save_list_to_file(link_list, link_list_file) # Save links
     save_list_to_file(text_list, text_list_file) # Save text
 
+    return data_file, link_list_file, text_list_file
+
 
 ALL_WEBSITES_FOLDER = 'SITES'
 
@@ -83,6 +85,6 @@ search_url = 'http://hashomer.org.br/'
 
 main_folders_manager()
 
-get_website_data(search_url)
+a = get_website_data(search_url)
 
 pass
