@@ -1,4 +1,4 @@
-# This script crawls the web. It finds and downloads a webpage's raw data
+# This script downloads a webpage's raw data
 
 import os
 import urllib.request
