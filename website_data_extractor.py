@@ -84,7 +84,7 @@ def get_website_data(url):
 
 ALL_WEBSITES_FOLDER = 'SITES'
 
-search_url = 'http://hashomer.org.br/'
+
 
 main_folders_manager()
 
