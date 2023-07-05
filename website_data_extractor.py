@@ -75,11 +75,12 @@ def get_website_data(url):
     text_list = parser_l.text_parser(html_data)
 
     # Save data in folder
-    save_html_to_file(raw_file_data, data_file) # Save raw html
-    save_list_to_file(link_list, link_list_file) # Save links
-    save_list_to_file(text_list, text_list_file) # Save text
+    #save_html_to_file(raw_file_data, data_file) # Save raw html
+    #save_list_to_file(link_list, link_list_file) # Save links
+    #save_list_to_file(text_list, text_list_file) # Save text
 
-    return data_file, link_list_file, text_list_file
+    #return data_file, link_list_file, text_list_file
+    return raw_file_data, link_list, text_list
 
 
 ALL_WEBSITES_FOLDER = 'SITES'
