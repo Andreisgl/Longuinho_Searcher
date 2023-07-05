@@ -67,39 +67,28 @@ main_folders_manager()
 search_url = 'http://hashomer.org.br/'
 
 
+
 website_folder = ''
 website_name = ''
-
 data_file = ''
-file_data = ''
-
 link_list_file = ''
 text_list_file = ''
 
+raw_file_data = ''
+
 website_path_creator(search_url)
 
-file_data = url_extractor.extract_html(search_url)
-html_data = parser_longuinho.byte_to_string(file_data)
+raw_file_data = url_extractor.extract_html(search_url)
+html_data = parser_longuinho.byte_to_string(raw_file_data)
 
 link_list = parser_longuinho.link_parser(html_data)
 text_list = parser_longuinho.text_parser(html_data)
 
 
 # Save data in folder
-save_html_to_file(file_data, data_file)
-
-
-save_list_to_file(link_list, link_list_file)
-save_list_to_file(text_list, text_list_file)
-
-# Implement save text blocks later
-
-
-
-
-
-
-
+save_html_to_file(raw_file_data, data_file) # Save raw html
+save_list_to_file(link_list, link_list_file) # Save links
+save_list_to_file(text_list, text_list_file) # Save text
 
 
 pass
