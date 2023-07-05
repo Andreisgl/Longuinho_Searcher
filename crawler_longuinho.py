@@ -1,28 +1,50 @@
 # This script crawls the web. It finds and downloads a webpage's raw data
 
 import os
-
 import urllib.request
 
+def sanitize_url_to_name(input):
+   removal_list = ['http://', 'https://', 'www.']
+   
+   output = input
+   for item in removal_list:
+      output = output.replace(item, '')
+   
+   if output[-1] == '/':
+      output = output[:-1]
 
-test_folder = 'TESTE'
-test_file = "teste.txt"
+   return output
 
-test_folder = os.path.join('.\\', test_folder)
-test_file = os.path.join(test_folder, test_file)
-
-if(not os.path.exists(test_folder)):
-   os.mkdir(test_folder)
-
-
-
+ALL_WEBSITES_FOLDER = 'SITES'
+ALL_WEBSITES_FOLDER = os.path.join('.\\', ALL_WEBSITES_FOLDER)
 
 search_url = 'http://andreisegal.dev.br/'
+
+website_name = sanitize_url_to_name(search_url)
+
+website_folder = ''
+website_folder = os.path.join(ALL_WEBSITES_FOLDER, website_name)
+
+
+
+data_file = "data.txt"
+data_file = os.path.join(website_folder, data_file)
+
+
+if(not os.path.exists(ALL_WEBSITES_FOLDER)):
+   os.mkdir(ALL_WEBSITES_FOLDER)
+
+if(not os.path.exists(website_folder)):
+   os.mkdir(website_folder)
+
+
+
+
 with urllib.request.urlopen(search_url) as response:
    html = response.read()
 
 
-with open(test_file, 'w') as file:
+with open(data_file, 'w') as file:
    data = html.decode('utf-8')
    file.write(data)
 
