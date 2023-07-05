@@ -19,6 +19,7 @@ def sanitize_url_to_name(input):
 ALL_WEBSITES_FOLDER = 'SITES'
 ALL_WEBSITES_FOLDER = os.path.join('.\\', ALL_WEBSITES_FOLDER)
 
+
 search_url = 'http://hashomer.org.br/' # DO NOT DELETE!!! _______________________________________
 
 website_name = sanitize_url_to_name(search_url)
@@ -35,3 +36,8 @@ if(not os.path.exists(website_folder)):
    os.mkdir(website_folder)
 
 
+
+url_extractor.save_html(url_extractor.extract_html(search_url), data_file)
+
+
+pass
