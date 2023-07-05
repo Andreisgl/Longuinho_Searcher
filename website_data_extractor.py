@@ -1,7 +1,8 @@
 # This file centralizes the full functionality of the crawler.
 import os
 
-import url_extractor
+import urllib.request
+
 import parser_longuinho
 
 def sanitize_url_to_name(input):
@@ -15,6 +16,11 @@ def sanitize_url_to_name(input):
       output = output[:-1]
 
    return output
+
+def extract_html(url):
+   with urllib.request.urlopen(url) as response:
+      html = response.read()
+   return html
 
 def main_folders_manager():
     global ALL_WEBSITES_FOLDER
@@ -65,7 +71,7 @@ def get_website_data(url):
 
     data_file, link_list_file, text_list_file = website_path_creator(url)
 
-    raw_file_data = url_extractor.extract_html(url)
+    raw_file_data = extract_html(url)
     html_data = parser_longuinho.byte_to_string(raw_file_data)
 
     link_list = parser_longuinho.link_parser(html_data)
