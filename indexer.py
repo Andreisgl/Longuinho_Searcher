@@ -16,10 +16,11 @@ def save_html_to_file(html, filepath):
 
 def save_list_to_file(list, path):
    with open(path, 'wb') as file:
-    for item in list:
-        aux = item.encode('utf-8')
+    for index in range(len(list)):
+        aux = list[index].encode('utf-8')
         file.write(aux)
-        file.write(b'\n')
+        if index != len(list)-1:
+            file.write(b'\n')
 
 
 def website_path(name):
