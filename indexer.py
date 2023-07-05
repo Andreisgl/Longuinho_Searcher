@@ -25,27 +25,28 @@ def create_website_folder(website_name):
     website_folder = os.path.join(ALL_WEBSITES_FOLDER, website_name)
     if(not os.path.exists(website_folder)):
         os.mkdir(website_folder)
+    return website_folder
 
 
 search_url = 'http://hashomer.org.br/'
 website_name, raw_file_data, link_list, text_list = site_ex.get_website_data(search_url)
 
 main_folders_manager()
-create_website_folder(website_name)
 
+website_folder = create_website_folder(website_name)
+data_file = 'data.txt'
+data_file = os.path.join(website_folder, data_file)
 
+link_list_file = 'links.txt'
+link_list_file = os.path.join(website_folder, link_list_file)
 
-
-
-
-
+text_list_file = 'text.txt'
+text_list_file = os.path.join(website_folder, text_list_file)
 
 
 # Save data in folder
-    #save_html_to_file(raw_file_data, data_file) # Save raw html
-    #save_list_to_file(link_list, link_list_file) # Save links
-    #save_list_to_file(text_list, text_list_file) # Save text
-
-    #return data_file, link_list_file, text_list_file
+save_html_to_file(raw_file_data, data_file) # Save raw html
+save_list_to_file(link_list, link_list_file) # Save links
+save_list_to_file(text_list, text_list_file) # Save text
 
 pass
