@@ -69,8 +69,8 @@ if not os.path.exists(test_folder):
 
 
 
-link_list = link_parser(get_file_data(test_file))
-text_list = text_parser(get_file_data(test_file))
+#link_list = link_parser(get_file_data(test_file))
+#text_list = text_parser(get_file_data(test_file))
 
 
 
