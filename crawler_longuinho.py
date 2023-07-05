@@ -61,6 +61,23 @@ def save_list_to_file(list, path):
         file.write(b'\n')
 
 
+def get_website_data(url):
+
+    data_file, link_list_file, text_list_file = website_path_creator(url)
+
+    raw_file_data = url_extractor.extract_html(url)
+    html_data = parser_longuinho.byte_to_string(raw_file_data)
+
+    link_list = parser_longuinho.link_parser(html_data)
+    text_list = parser_longuinho.text_parser(html_data)
+
+    # Save data in folder
+    save_html_to_file(raw_file_data, data_file) # Save raw html
+    save_list_to_file(link_list, link_list_file) # Save links
+    save_list_to_file(text_list, text_list_file) # Save text
+
+
+
 ALL_WEBSITES_FOLDER = 'SITES'
 
 
@@ -70,30 +87,8 @@ search_url = 'http://hashomer.org.br/'
 
 main_folders_manager()
 
-def get_website_data(data_file, link_list_file, text_list_file):
-
-    #website_folder = ''
-    #website_name = ''
-    #data_file = ''
-    #link_list_file = ''
-    #text_list_file = ''
-
-    raw_file_data = ''
-
-    #website_path_creator(search_url)
-
-    raw_file_data = url_extractor.extract_html(search_url)
-    html_data = parser_longuinho.byte_to_string(raw_file_data)
-
-    link_list = parser_longuinho.link_parser(html_data)
-    text_list = parser_longuinho.text_parser(html_data)
 
 
-    # Save data in folder
-    save_html_to_file(raw_file_data, data_file) # Save raw html
-    save_list_to_file(link_list, link_list_file) # Save links
-    save_list_to_file(text_list, text_list_file) # Save text
-
-get_website_data(website_path_creator(search_url))
+get_website_data(search_url)
 
 pass
