@@ -1,9 +1,13 @@
 # This file centralizes the full functionality of the crawler.
 import os
-
 import urllib.request
-
 import parser_longuinho
+
+def main_folders_manager():
+    global ALL_WEBSITES_FOLDER
+    ALL_WEBSITES_FOLDER = os.path.join('.\\', ALL_WEBSITES_FOLDER)
+    if(not os.path.exists(ALL_WEBSITES_FOLDER)):
+        os.mkdir(ALL_WEBSITES_FOLDER)
 
 def sanitize_url_to_name(input):
    removal_list = ['http://', 'https://', 'www.']
@@ -21,12 +25,6 @@ def extract_html(url):
    with urllib.request.urlopen(url) as response:
       html = response.read()
    return html
-
-def main_folders_manager():
-    global ALL_WEBSITES_FOLDER
-    ALL_WEBSITES_FOLDER = os.path.join('.\\', ALL_WEBSITES_FOLDER)
-    if(not os.path.exists(ALL_WEBSITES_FOLDER)):
-        os.mkdir(ALL_WEBSITES_FOLDER)
 
 def website_path_creator(search_url):
     #website_folder
@@ -52,7 +50,6 @@ def website_path_creator(search_url):
     text_list_file = os.path.join(website_folder, text_list_file)
 
     return data_file, link_list_file, text_list_file
-
 
 
 def save_html_to_file(html, filepath):
@@ -91,6 +88,6 @@ search_url = 'http://hashomer.org.br/'
 
 main_folders_manager()
 
-a = get_website_data(search_url)
+#get_website_data(search_url)
 
 pass
