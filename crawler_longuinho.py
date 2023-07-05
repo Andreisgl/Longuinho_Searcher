@@ -23,8 +23,8 @@ def main_folders_manager():
         os.mkdir(ALL_WEBSITES_FOLDER)
 
 def website_path_creator(search_url):
-    global website_folder
-    global website_name
+    #website_folder
+    #website_name
     website_name = sanitize_url_to_name(search_url)
     website_folder = ''
     website_folder = os.path.join(ALL_WEBSITES_FOLDER, website_name)
@@ -32,18 +32,20 @@ def website_path_creator(search_url):
         os.mkdir(website_folder)
 
 
-    global data_file
+    #data_file
     data_file = "data.txt"
     data_file = os.path.join(website_folder, data_file)
 
 
-    global link_list_file
+    #link_list_file
     link_list_file = 'links.txt'
     link_list_file = os.path.join(website_folder, link_list_file)
 
-    global text_list_file
+    #text_list_file
     text_list_file = 'text.txt'
     text_list_file = os.path.join(website_folder, text_list_file)
+
+    return data_file, link_list_file, text_list_file
 
 
 
@@ -60,35 +62,40 @@ def save_list_to_file(list, path):
 
 
 ALL_WEBSITES_FOLDER = 'SITES'
-main_folders_manager()
+
 
 
 
 search_url = 'http://hashomer.org.br/'
 
+main_folders_manager()
+
+def get_website_data(data_file, link_list_file, text_list_file):
+
+    #website_folder = ''
+    #website_name = ''
+    #data_file = ''
+    #link_list_file = ''
+    #text_list_file = ''
+
+    raw_file_data = ''
+
+    #website_path_creator(search_url)
+
+    raw_file_data = url_extractor.extract_html(search_url)
+    html_data = parser_longuinho.byte_to_string(raw_file_data)
+
+    link_list = parser_longuinho.link_parser(html_data)
+    text_list = parser_longuinho.text_parser(html_data)
 
 
-website_folder = ''
-website_name = ''
-data_file = ''
-link_list_file = ''
-text_list_file = ''
+    # Save data in folder
+    save_html_to_file(raw_file_data, data_file) # Save raw html
+    save_list_to_file(link_list, link_list_file) # Save links
+    save_list_to_file(text_list, text_list_file) # Save text
 
-raw_file_data = ''
-
-website_path_creator(search_url)
-
-raw_file_data = url_extractor.extract_html(search_url)
-html_data = parser_longuinho.byte_to_string(raw_file_data)
-
-link_list = parser_longuinho.link_parser(html_data)
-text_list = parser_longuinho.text_parser(html_data)
-
-
-# Save data in folder
-save_html_to_file(raw_file_data, data_file) # Save raw html
-save_list_to_file(link_list, link_list_file) # Save links
-save_list_to_file(text_list, text_list_file) # Save text
-
+get_website_data(website_path_creator(search_url)[0],
+                 website_path_creator(search_url)[1],
+                 website_path_creator(search_url)[2])
 
 pass
