@@ -38,7 +38,7 @@ def website_path(name):
 
     return data_file, link_list_file, text_list_file
 
-def save_website(search_url):
+def get_website(search_url):
     # Saves important data from the website, returns paths for the data.
     website_name, raw_file_data, link_list, text_list = site_ex.get_website_data(search_url)
     data_file, link_list_file, text_list_file = website_path(website_name)
