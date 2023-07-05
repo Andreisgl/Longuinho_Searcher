@@ -68,6 +68,15 @@ text_list = parser_longuinho.text_parser(html_data)
 
 # Save data in folder
 save_html_to_file(file_data, data_file)
+# Implement save text blocks later
+
+link_list_file = 'links.txt'
+link_list_file = os.path.join(website_folder, link_list_file)
+with open(link_list_file, 'w') as file:
+   for item in link_list:
+      file.write(item)
+      file.write('\n')
+   pass
 
 
 pass
