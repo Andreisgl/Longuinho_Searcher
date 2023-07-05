@@ -3,11 +3,7 @@ import os
 import urllib.request
 import parser_l
 
-def main_folders_manager():
-    global ALL_WEBSITES_FOLDER
-    ALL_WEBSITES_FOLDER = os.path.join('.\\', ALL_WEBSITES_FOLDER)
-    if(not os.path.exists(ALL_WEBSITES_FOLDER)):
-        os.mkdir(ALL_WEBSITES_FOLDER)
+
 
 def sanitize_url_to_name(input):
    removal_list = ['http://', 'https://', 'www.']
@@ -32,8 +28,8 @@ def website_path_creator(search_url):
     website_name = sanitize_url_to_name(search_url)
     website_folder = ''
     website_folder = os.path.join(ALL_WEBSITES_FOLDER, website_name)
-    if(not os.path.exists(website_folder)):
-        os.mkdir(website_folder)
+    #if(not os.path.exists(website_folder)):
+    #    os.mkdir(website_folder)
 
 
     #data_file
@@ -49,24 +45,15 @@ def website_path_creator(search_url):
     text_list_file = 'text.txt'
     text_list_file = os.path.join(website_folder, text_list_file)
 
-    return data_file, link_list_file, text_list_file
+    return website_name, data_file, link_list_file, text_list_file
 
 
-def save_html_to_file(html, filepath):
-   with open(filepath, 'wb') as file:
-      file.write(html)
 
-def save_list_to_file(list, path):
-   with open(path, 'wb') as file:
-    for item in list:
-        aux = item.encode('utf-8')
-        file.write(aux)
-        file.write(b'\n')
 
 
 def get_website_data(url):
 
-    data_file, link_list_file, text_list_file = website_path_creator(url)
+    website_name, data_file, link_list_file, text_list_file = website_path_creator(url)
 
     raw_file_data = extract_html(url)
     html_data = parser_l.byte_to_string(raw_file_data)
@@ -80,14 +67,14 @@ def get_website_data(url):
     #save_list_to_file(text_list, text_list_file) # Save text
 
     #return data_file, link_list_file, text_list_file
-    return raw_file_data, link_list, text_list
+    return website_name, raw_file_data, link_list, text_list
 
 
 ALL_WEBSITES_FOLDER = 'SITES'
 
 
 
-main_folders_manager()
+#main_folders_manager()
 
 #get_website_data(search_url)
 
