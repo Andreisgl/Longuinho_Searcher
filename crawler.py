@@ -41,6 +41,7 @@ def load_incoming_from_file():
 def iterate_queue(number_of_items):
     global current_link_queue
     global incoming_link_queue
+    intermediate_link_queue = []
 
     load_incoming_from_file()
     remove_blacklisted_sites()
@@ -55,7 +56,7 @@ def iterate_queue(number_of_items):
     for link in range(number_of_items):
         
         aux_list = []
-        list_path = indexer.get_website(incoming_link_queue[link])[1]
+        list_path = indexer.get_website(incoming_link_queue[link])[1] #Possible bottleneck?
 
         print('{} of {} - {}'.format(link+1, number_of_items, incoming_link_queue[link]))
 
@@ -78,9 +79,11 @@ def iterate_queue(number_of_items):
             print('FileNotFoundError EXCEPTION!')
         
         incoming_link_queue.pop(link)
-        incoming_link_queue = incoming_link_queue + current_link_queue
+        intermediate_link_queue = intermediate_link_queue + current_link_queue
+        #incoming_link_queue = incoming_link_queue + current_link_queue
         current_link_queue.clear()
-
+    
+    incoming_link_queue = incoming_link_queue + intermediate_link_queue
     save_incoming_queue_to_file()
     
     
