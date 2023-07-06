@@ -25,8 +25,16 @@ def save_incoming_queue_to_file():
 
 def load_incoming_from_file():
     global incoming_link_queue
-    with open(link_queue_file, 'r') as file:
-        incoming_link_queue = (file.read()).split('\n')
+    while True:
+        try:
+            with open(link_queue_file, 'rb') as file:
+                #data = str(file.read())
+                data = (file.read()).decode('utf-8')
+                incoming_link_queue = data.split('\n')
+        except FileNotFoundError:
+            plant_seed()
+            continue
+        break
 
 def iterate_queue(number_of_items):
     global current_link_queue
@@ -40,7 +48,8 @@ def iterate_queue(number_of_items):
         number_of_items = max_number
     
     
-    link_counter = 0
+    found_links = 0
+    pages_searched = 0
     for link in range(number_of_items):
         
         aux_list = []
@@ -52,13 +61,14 @@ def iterate_queue(number_of_items):
             with open(list_path, 'r') as file:
                 try:
                     aux_list = (file.read()).split('\n')
-                    link_counter += len(aux_list)
+                    found_links += len(aux_list)
                     for item in aux_list:
                         current_link_queue.append(item)
+                    pages_searched += 1
                 except UnicodeDecodeError:
                     print('UnicodeDecode EXCEPTION!')
         except FileNotFoundError:
-            pass
+            print('FileNotFoundError EXCEPTION!')
         
         incoming_link_queue.pop(link)
         incoming_link_queue = incoming_link_queue + current_link_queue
@@ -66,8 +76,8 @@ def iterate_queue(number_of_items):
 
         save_incoming_queue_to_file()
     
-    number_found = link_counter
-    print('Pages searched: {}\tPages found: {}'.format(number_of_items, number_found))
+    
+    print('Pages searched: {} out of {}\tPages found: {}'.format(pages_searched, number_of_items, found_links))
 
 def remove_blacklisted_sites():
     # Some sites just take too long to index, like the web.archive.
@@ -124,7 +134,8 @@ def expand_index(number_of_iterations, max_urls_per_iteration):
     print('Expanded index: {} iterations, {} links.'.format(number_of_iterations, max_urls_per_iteration))
 
 #plant_seed()
-expand_index(1, 10000)
+
+expand_index(1, 10)
 
 
 pass
