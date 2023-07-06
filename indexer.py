@@ -39,6 +39,8 @@ def website_path(name):
     #aux.append(name)
     if '/' in aux:
         aux = aux.split('/')
+    else:
+        aux = [aux]
     aux.insert(0, ALL_WEBSITES_FOLDER)
     website_folder = aux[0]
     for level in range(len(aux)-1):
