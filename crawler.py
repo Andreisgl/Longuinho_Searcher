@@ -28,12 +28,14 @@ def load_incoming_from_file():
         incoming_link_queue = (file.read()).split('\n')
 
 def iterate_queue(number_of_items):
+    global current_link_queue
+    global incoming_link_queue
+
     max_number = len(incoming_link_queue)
     if (number_of_items >= max_number) or (number_of_items == 0):
         number_of_items = max_number
     
-    global current_link_queue
-    global incoming_link_queue
+    
     load_incoming_from_file()
     for link in range(number_of_items):
         aux_list = []
@@ -42,8 +44,8 @@ def iterate_queue(number_of_items):
             aux_list = (file.read()).split('\n')
         for item in aux_list:
             current_link_queue.append(item)
-        incoming_link_queue.clear()
-        incoming_link_queue = current_link_queue.copy()
+        incoming_link_queue.pop(link)
+        incoming_link_queue = incoming_link_queue + current_link_queue
         current_link_queue.clear()
 
         save_incoming_queue_to_file()
@@ -63,9 +65,9 @@ def plant_seed():
     # Runs a single iteration from the seed URL
     incoming_link_queue.append(SEED_URL)
 
-    number_of_iterations = 1
+    number_of_iterations = 3
     for iteration in range(number_of_iterations):
-        iterate_queue(number_of_iterations)
+        iterate_queue(1)
 
 plant_seed()
 

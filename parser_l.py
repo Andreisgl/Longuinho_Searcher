@@ -31,7 +31,10 @@ def get_file_data(filepath):
     return filedata
 
 def byte_to_string(filedata):
-    return filedata.decode('utf-8')
+    try:
+        return filedata.decode('utf-8')
+    except:
+        return ''
 
 def link_parser(file_data):
     # Returns all links found in the page

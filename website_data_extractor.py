@@ -20,9 +20,12 @@ def sanitize_url_to_name(input):
 def extract_html(url):
    url = sanitize_url_to_name(url)
    url = 'http://' + url
-   with urllib.request.urlopen(url) as response:
-      html = response.read()
-   return html
+   try:
+      with urllib.request.urlopen(url) as response:
+         html = response.read()
+      return html
+   except:
+      return ''
 
 
 def get_website_data(url):
