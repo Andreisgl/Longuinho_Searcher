@@ -52,6 +52,9 @@ def iterate_queue(number_of_items):
         current_link_queue.clear()
 
         save_incoming_queue_to_file()
+    
+    number_found = len(aux_list)
+    print('Pages searched: {}\tPages found: {}'.format(number_of_items, number_found))
 
 CRAWLER_FOLDER = 'CRAWLER'
 link_queue_file = 'link_queue.txt'
@@ -74,12 +77,13 @@ def plant_seed():
         iterate_queue(0)
     print('Seed planted!')
 
-#plant_seed()
+
 
 def expand_index(number_of_iterations, max_urls_per_iteration):
     for iteration in range(number_of_iterations):
         iterate_queue(max_urls_per_iteration)
     print('Expanded index: {} iterations, {} links.'.format(number_of_iterations, max_urls_per_iteration))
 
+plant_seed()
 #expand_index(1, 10)
 pass

@@ -17,6 +17,10 @@ def sanitize_url_to_name(input):
 
    return output
 
+def sanitize_url_to_filesystem(input):
+   input = sanitize_url_to_name(input)
+   return input
+
 def extract_html(url):
    url = sanitize_url_to_name(url)
    url = 'http://' + url
@@ -30,7 +34,7 @@ def extract_html(url):
 
 
 def get_website_data(url):
-    website_name = sanitize_url_to_name(url)
+    website_name = sanitize_url_to_filesystem(url)
 
     raw_file_data = extract_html(url)
     html_data = parser_l.byte_to_string(raw_file_data)
