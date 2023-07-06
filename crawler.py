@@ -43,10 +43,20 @@ def iterate_queue(number_of_items):
     for link in range(number_of_items):
         aux_list = []
         list_path = indexer.get_website(incoming_link_queue[link])[1]
-        with open(list_path, 'r') as file:
-            aux_list = (file.read()).split('\n')
-        for item in aux_list:
-            current_link_queue.append(item)
+
+        print(incoming_link_queue[link])
+
+        try:
+            with open(list_path, 'r') as file:
+                try:
+                    aux_list = (file.read()).split('\n')
+                    for item in aux_list:
+                        current_link_queue.append(item)
+                except UnicodeDecodeError:
+                    print('UnicodeDecode EXCEPTION!')
+        except FileNotFoundError:
+            pass
+        
         incoming_link_queue.pop(link)
         incoming_link_queue = incoming_link_queue + current_link_queue
         current_link_queue.clear()
@@ -84,6 +94,6 @@ def expand_index(number_of_iterations, max_urls_per_iteration):
         iterate_queue(max_urls_per_iteration)
     print('Expanded index: {} iterations, {} links.'.format(number_of_iterations, max_urls_per_iteration))
 
-plant_seed()
-#expand_index(1, 10)
+#plant_seed()
+expand_index(1, 49)
 pass

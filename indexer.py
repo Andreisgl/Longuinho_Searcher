@@ -11,16 +11,27 @@ def main_folders_manager():
         os.mkdir(ALL_WEBSITES_FOLDER)
 
 def save_html_to_file(html, filepath):
-   with open(filepath, 'wb') as file:
-      file.write(html)
+   try:
+       with open(filepath, 'wb') as file:
+           file.write(html)
+   except FileNotFoundError:
+       pass
 
 def save_list_to_file(list, path):
-   with open(path, 'wb') as file:
-    for index in range(len(list)):
-        aux = list[index].encode('utf-8')
-        file.write(aux)
-        if index != len(list)-1:
-            file.write(b'\n')
+    try:
+        with open(path, 'wb') as file:
+            for index in range(len(list)):
+                aux = list[index].encode('utf-8')
+                file.write(aux)
+                if index != len(list)-1:
+                    file.write(b'\n')
+    except FileNotFoundError:
+       pass
+
+
+    
+        
+        
 
 
 def website_path(name):
@@ -33,7 +44,11 @@ def website_path(name):
     for level in range(len(aux)-1):
         website_folder = os.path.join(website_folder, aux[level+1])
         if(not os.path.exists(website_folder)):
-            os.mkdir(website_folder)
+            try:
+                os.mkdir(website_folder)
+            except FileNotFoundError:
+                print('FileNotFoundError EXCEPTION!')
+                return '','',''
 
     data_file = 'data.txt'
     data_file = os.path.join(website_folder, data_file)
