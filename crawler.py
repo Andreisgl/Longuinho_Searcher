@@ -32,8 +32,13 @@ def load_incoming_from_file():
             with open(link_queue_file, 'rb') as file:
                 #data = str(file.read())
                 data = (file.read()).decode('utf-8')
+                if data == '':
+                    raise EmptyListException
                 incoming_link_queue = data.split('\n')
         except FileNotFoundError:
+            plant_seed()
+            continue
+        except EmptyListException:
             plant_seed()
             continue
         break
