@@ -33,14 +33,16 @@ def iterate_queue(number_of_items):
     global incoming_link_queue
 
     load_incoming_from_file()
+    remove_blacklisted_sites()
 
     max_number = len(incoming_link_queue)
     if (number_of_items >= max_number) or (number_of_items == 0):
         number_of_items = max_number
     
     
-    
+    link_counter = 0
     for link in range(number_of_items):
+        
         aux_list = []
         list_path = indexer.get_website(incoming_link_queue[link])[1]
 
@@ -50,6 +52,7 @@ def iterate_queue(number_of_items):
             with open(list_path, 'r') as file:
                 try:
                     aux_list = (file.read()).split('\n')
+                    link_counter += len(aux_list)
                     for item in aux_list:
                         current_link_queue.append(item)
                 except UnicodeDecodeError:
@@ -63,8 +66,34 @@ def iterate_queue(number_of_items):
 
         save_incoming_queue_to_file()
     
-    number_found = len(aux_list)
+    number_found = link_counter
     print('Pages searched: {}\tPages found: {}'.format(number_of_items, number_found))
+
+def remove_blacklisted_sites():
+    # Some sites just take too long to index, like the web.archive.
+    # This allows to remove it from the incoming list.
+
+    # Only use when list is already loaded
+    blacklist = ['web.archive.org', 'abclocal.go.com']
+    prefixes = ['http://', 'https://']
+    full_terms = []
+
+    for url in blacklist:
+        for prefix in prefixes:
+            full_terms.append(prefix + url)
+
+    #load_incoming_from_file()
+    
+    pop_counter = 0
+    for i in range(len(full_terms)):
+        for j in range(len(incoming_link_queue)-1, 0, -1):
+            #incoming_link_queue.pop(delete_index_list[j])
+            if incoming_link_queue[j].find(full_terms[i]) != -1:
+                pop_counter += 1
+                incoming_link_queue.pop(j)
+    print(str(pop_counter) + ' entries removed')
+    #save_incoming_queue_to_file()
+    pass
 
 CRAWLER_FOLDER = 'CRAWLER'
 link_queue_file = 'link_queue.txt'
@@ -95,5 +124,7 @@ def expand_index(number_of_iterations, max_urls_per_iteration):
     print('Expanded index: {} iterations, {} links.'.format(number_of_iterations, max_urls_per_iteration))
 
 #plant_seed()
-expand_index(1, 10)
+expand_index(1, 10000)
+
+
 pass
