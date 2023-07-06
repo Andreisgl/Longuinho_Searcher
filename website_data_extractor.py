@@ -3,7 +3,13 @@ import os
 import urllib.request
 import parser_l
 
+illegal_filename_characters = ['#', '<', '$', '+', '%','>', '!', '`', '&', '*', "'", '|', '{', '?', '"', '=', '}', '/', ':', '\\', '\xa0', '@']
 
+translation_characters = ['☺', '☻', '♥', '♦', '♣', '♠', '•', '○', '◙', '♂', '♀', '♪', '♫', '☼', '►', '◄', '↕', '‼', '¶', '§', '▬', '↨']
+
+print(illegal_filename_characters)
+print(translation_characters)
+input('Done!!!!!!!!!!!!!1')
 
 def sanitize_url_to_name(input):
    removal_list = ['http://', 'https://', 'www.']
@@ -19,6 +25,7 @@ def sanitize_url_to_name(input):
 
 def sanitize_url_to_filesystem(input):
    input = sanitize_url_to_name(input)
+
    return input
 
 def extract_html(url):
