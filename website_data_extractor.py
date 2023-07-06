@@ -3,13 +3,10 @@ import os
 import urllib.request
 import parser_l
 
-illegal_filename_characters = ['#', '<', '$', '+', '%','>', '!', '`', '&', '*', "'", '|', '{', '?', '"', '=', '}', '/', ':', '\\', '\xa0', '@']
-
+illegal_filename_characters = ['#', '<', '$', '+', '%','>', '!', '`', '&', '*', "'", '|', '{', '?', '"', '=', '}', ':', '\\', '\xa0', '@', ';']
+# remove '/', since it is needed for diferent levels
 translation_characters = ['☺', '☻', '♥', '♦', '♣', '♠', '•', '○', '◙', '♂', '♀', '♪', '♫', '☼', '►', '◄', '↕', '‼', '¶', '§', '▬', '↨']
 
-print(illegal_filename_characters)
-print(translation_characters)
-input('Done!!!!!!!!!!!!!1')
 
 def sanitize_url_to_name(input):
    removal_list = ['http://', 'https://', 'www.']
@@ -24,7 +21,17 @@ def sanitize_url_to_name(input):
    return output
 
 def sanitize_url_to_filesystem(input):
+   mode = 0
    input = sanitize_url_to_name(input)
+   global illegal_filename_characters
+   global translation_characters
+
+   if mode == 0: # URL to filesystem
+      for i in range(len(illegal_filename_characters)):               
+         input = input.replace(illegal_filename_characters[i], translation_characters[i])
+   else:
+      # TODO Translate back
+      pass
 
    return input
 
