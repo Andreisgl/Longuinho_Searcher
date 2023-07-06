@@ -4,6 +4,8 @@
 import os
 import indexer as indexer
 
+class EmptyListException(Exception):
+    pass
 
 def main_folder_manager():
     global CRAWLER_FOLDER
@@ -61,12 +63,17 @@ def iterate_queue(number_of_items):
             with open(list_path, 'r') as file:
                 try:
                     aux_list = (file.read()).split('\n')
+                    if (aux_list[0] == '') and (len(aux_list) == 1):
+                        raise EmptyListException
+
                     found_links += len(aux_list)
                     for item in aux_list:
                         current_link_queue.append(item)
                     pages_searched += 1
                 except UnicodeDecodeError:
                     print('UnicodeDecode EXCEPTION!')
+                except EmptyListException:
+                    print('EmptyListException EXCEPTION!')
         except FileNotFoundError:
             print('FileNotFoundError EXCEPTION!')
         
@@ -78,6 +85,7 @@ def iterate_queue(number_of_items):
     
     
     print('Pages searched: {} out of {}\tPages found: {}'.format(pages_searched, number_of_items, found_links))
+    return pages_searched
 
 def remove_blacklisted_sites():
     # Some sites just take too long to index, like the web.archive.
