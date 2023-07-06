@@ -65,9 +65,9 @@ def plant_seed():
     # Runs a single iteration from the seed URL
     incoming_link_queue.append(SEED_URL)
 
-    number_of_iterations = 3
+    number_of_iterations = 1
     for iteration in range(number_of_iterations):
-        iterate_queue(1)
+        iterate_queue(0)
 
 plant_seed()
 

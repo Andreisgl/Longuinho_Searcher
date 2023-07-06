@@ -25,7 +25,8 @@ def extract_html(url):
          html = response.read()
       return html
    except:
-      return ''
+      print('HTML error @ ' + url)
+      return b''
 
 
 def get_website_data(url):
