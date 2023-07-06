@@ -57,21 +57,6 @@ def text_parser(file_data):
     text_parse_data = remove_whitespaces_from_list(text_parse_data)
     return text_parse_data
 
-
-# Folder management. Delete later
-test_folder = 'PARSERTEST'
-test_file = "data.txt"
-
-test_folder = os.path.join('.\\', test_folder)
-test_file = os.path.join(test_folder, test_file)
-
-if not os.path.exists(test_folder):
-    os.mkdir(test_folder)
-
-
-
-
-
 #link_list = link_parser(get_file_data(test_file))
 #text_list = text_parser(get_file_data(test_file))
 
