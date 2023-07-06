@@ -23,12 +23,17 @@ def get_links_from_url(url):
 def save_incoming_queue_to_file():
     indexer.save_list_to_file(incoming_link_queue, link_queue_file)
 
+def load_incoming_from_file():
+    with open(link_queue_file, 'r') as file:
+        incoming_link_queue = (file.read()).split('\n')
+
 def iterate_queue():
     global current_link_queue
     global incoming_link_queue
-    for link in incoming_link_queue:
+    load_incoming_from_file()
+    for link in range(len(incoming_link_queue)):
         aux_list = []
-        list_path = indexer.get_website(link)[1]
+        list_path = indexer.get_website(incoming_link_queue[link])[1]
         with open(list_path, 'r') as file:
             aux_list = (file.read()).split('\n')
         for item in aux_list:
@@ -43,7 +48,7 @@ link_queue_file = 'link_queue.txt'
 main_folder_manager()
 
 
-SEED_URL = 'hashomer.org.br'
+SEED_URL = 'andreisegal.dev.br'
 
 
 current_link_queue = []
@@ -53,7 +58,7 @@ def plant_seed():
     # Runs a single iteration from the seed URL
     incoming_link_queue.append(SEED_URL)
 
-    number_of_iterations = 3
+    number_of_iterations = 1
     for iteration in range(number_of_iterations):
         iterate_queue()
 
