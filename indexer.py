@@ -24,9 +24,13 @@ def save_list_to_file(list, path):
 
 
 def website_path(name):
-    website_folder = os.path.join(ALL_WEBSITES_FOLDER, name)
-    if(not os.path.exists(website_folder)):
-        os.mkdir(website_folder)
+    aux = name.split('/')
+    aux.insert(0, ALL_WEBSITES_FOLDER)
+    website_folder = aux[0]
+    for level in range(len(aux)-1):
+        website_folder = os.path.join(website_folder, aux[level+1])
+        if(not os.path.exists(website_folder)):
+            os.mkdir(website_folder)
 
     data_file = 'data.txt'
     data_file = os.path.join(website_folder, data_file)

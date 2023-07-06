@@ -20,38 +20,41 @@ def get_links_from_url(url):
         link_list = (file.read()).split('\n')
     return link_list
 
-def save_current_link_queue_to_file():
-    indexer.save_list_to_file(current_link_queue, link_queue_file)
+def save_incoming_queue_to_file():
+    indexer.save_list_to_file(incoming_link_queue, link_queue_file)
 
-def move_current_queue_to_incoming():
-    incoming_link_queue = current_link_queue.copy()
+def iterate_queue():
+    global current_link_queue
+    global incoming_link_queue
+    for link in incoming_link_queue:
+        aux_list = []
+        list_path = indexer.get_website(link)[1]
+        with open(list_path, 'r') as file:
+            aux_list = (file.read()).split('\n')
+        for item in aux_list:
+            current_link_queue.append(item)
+        incoming_link_queue.clear()
+        incoming_link_queue = current_link_queue.copy()
+        current_link_queue.clear()
+        save_incoming_queue_to_file()
 
 CRAWLER_FOLDER = 'CRAWLER'
 link_queue_file = 'link_queue.txt'
 main_folder_manager()
 
 
-SEED_URL = 'hashomer.org.br'
+SEED_URL = 'andreisegal.dev.br'
+
+
 current_link_queue = []
 incoming_link_queue = []
 
 incoming_link_queue.append(SEED_URL)
 
+number_of_iterations = 2
 
-for link in incoming_link_queue:
-    aux_list = []
-    list_path = indexer.get_website(link)[1]
-    with open(list_path, 'r') as file:
-        aux_list = (file.read()).split('\n')
-    for item in aux_list:
-        current_link_queue.append(item)
-    incoming_link_queue.clear()
-    incoming_link_queue = current_link_queue.copy()
-
-# Go through incoming CHECK
-# Add all links obtained in incoming to current CHECK
-# clear incoming CHECK
-# move current to incoming
+for iteration in range(number_of_iterations):
+    iterate_queue()
 
 
 
