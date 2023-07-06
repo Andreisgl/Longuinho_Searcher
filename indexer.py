@@ -24,8 +24,8 @@ def save_list_to_file(list, path):
 
 
 def website_path(name):
-    aux = []
-    aux.append(name)
+    aux = name
+    #aux.append(name)
     if '/' in aux:
         aux = aux.split('/')
     aux.insert(0, ALL_WEBSITES_FOLDER)
