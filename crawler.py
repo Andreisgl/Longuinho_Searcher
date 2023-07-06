@@ -43,19 +43,20 @@ link_queue_file = 'link_queue.txt'
 main_folder_manager()
 
 
-SEED_URL = 'andreisegal.dev.br'
+SEED_URL = 'hashomer.org.br'
 
 
 current_link_queue = []
 incoming_link_queue = []
 
-incoming_link_queue.append(SEED_URL)
+def plant_seed():
+    # Runs a single iteration from the seed URL
+    incoming_link_queue.append(SEED_URL)
 
-number_of_iterations = 2
+    number_of_iterations = 3
+    for iteration in range(number_of_iterations):
+        iterate_queue()
 
-for iteration in range(number_of_iterations):
-    iterate_queue()
-
-
+plant_seed()
 
 pass
