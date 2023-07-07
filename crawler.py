@@ -65,7 +65,6 @@ def iterate_queue(number_of_items):
     intermediate_link_queue = []
 
     load_incoming_from_file()
-    clean_incoming_links()
 
     max_number = len(incoming_link_queue)
     if (number_of_items >= max_number) or (number_of_items == 0):
