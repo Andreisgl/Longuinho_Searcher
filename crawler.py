@@ -45,6 +45,9 @@ def get_links_from_url(url):
         
     return link_list, error_type
 
+#LIST MANAGEMENT
+def load_list_from_file():
+    pass
 #INCOMING_LINK_QUEUE
 def save_incoming_queue_to_file():
     indexer.save_list_to_file(incoming_link_queue, link_queue_file)
@@ -70,6 +73,8 @@ def load_incoming_from_file():
 def save_to_history(list_of_links):
     # Saves a list of links to the 'link_history_file'
     indexer.save_list_to_file(link_history_file, link_history_list)
+def load_history_from_file():
+    pass
 
 #####
 def iterate_queue(number_of_items):
