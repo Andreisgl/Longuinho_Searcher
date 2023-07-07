@@ -4,7 +4,7 @@ import urllib.request
 import parser_l
 
 illegal_filename_characters = ['#', '<', '$', '+', '%','>', '!', '`', '&', '*', "'", '|', '{', '?', '"', '=', '}', ':', '\\', '\xa0', '@', ';']
-# remove '/', since it is needed for diferent levels
+# removed '/', since it is needed for diferent levels
 translation_characters = ['☺', '☻', '♥', '♦', '♣', '♠', '•', '○', '◙', '♂', '♀', '♪', '♫', '☼', '►', '◄', '↕', '‼', '¶', '§', '▬', '↨']
 
 
