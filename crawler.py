@@ -260,6 +260,7 @@ def plant_seed():
 
 
 def expand_index(number_of_urls_to_expand):
+    max_pages_per_iteration = 1
     number_of_iterations = 0
     total_pages_searched = 0
     remaining_number_to_search = number_of_urls_to_expand
@@ -267,7 +268,7 @@ def expand_index(number_of_urls_to_expand):
 
     while total_pages_searched < number_of_urls_to_expand:
         (pages_searched, number_of_items,
-            found_links) = iterate_queue(remaining_number_to_search)
+            found_links) = iterate_queue(max_pages_per_iteration)
         
         number_of_iterations += 1
         total_pages_searched += pages_searched
@@ -284,7 +285,7 @@ def expand_index(number_of_urls_to_expand):
     print('New pages found: {}'.format(total_found_links))
     pass
 
-expand_index(5)
+expand_index(100)
 
 
 
