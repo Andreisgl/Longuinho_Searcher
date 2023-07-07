@@ -60,13 +60,14 @@ def load_list_from_file(in_file, list):
 def save_incoming_queue_to_file():
     indexer.save_list_to_file(incoming_link_queue, link_queue_file)
 def load_incoming_from_file():
-    global link_history_file
+    global link_queue_file
     global incoming_link_queue
     while True:
         data = load_list_from_file(link_queue_file, incoming_link_queue)
         if data == FileNotFoundError:
             plant_seed()
             continue
+        incoming_link_queue = data
         break
         #save_incoming_queue_to_file()
     return data
@@ -234,7 +235,6 @@ def expand_index(number_of_iterations, max_urls_per_iteration):
     print('Expanded index by {} iterations, {} links.'.format(number_of_iterations, max_urls_per_iteration))
 
 #plant_seed()
-
 expand_index(1, 10)
 
 
