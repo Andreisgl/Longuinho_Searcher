@@ -3,12 +3,16 @@
 
 import os
 import indexer as indexer
+import shutil
+import textwrap
 
 class EmptyListException(Exception):
     pass
 
 
-
+def get_terminal_columns():
+    return shutil.get_terminal_size().columns
+no_terminal_columns = get_terminal_columns()
 
 def main_folder_manager():
     global CRAWLER_FOLDER
@@ -112,8 +116,12 @@ def iterate_queue(number_of_items):
     while (pages_searched < number_of_items):        
         aux_list, url_error = get_links_from_url(incoming_link_queue[index])# Possible bottleneck?
 
-        print('{} of {} - {}'.format(pages_searched+1, number_of_items, incoming_link_queue[index]))
+        # Print current URL
+        display_url = textwrap.wrap(incoming_link_queue[index], no_terminal_columns)
+        print('{} of {}\n{}'.format(pages_searched+1,
+                                     number_of_items, display_url[0]))
 
+        # Keep doing normal stuff
         ammount_of_links = len(aux_list)
         if ammount_of_links > 0 and aux_list[0] != '': ##########
             found_links += ammount_of_links
