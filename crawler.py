@@ -180,10 +180,15 @@ def remove_duplicated_sites():
     global incoming_link_queue
 
     initial_size = len(incoming_link_queue)
-    incoming_link_queue = list(dict.fromkeys(incoming_link_queue))
+    #incoming_link_queue = list(dict.fromkeys(incoming_link_queue))
+    incoming_link_queue = remove_duplicates_from_list(incoming_link_queue)
     final_size = len(incoming_link_queue)
     
     return initial_size - final_size
+
+def remove_duplicates_from_list(in_list):
+    in_list = list(dict.fromkeys(in_list))
+    return in_list
 
 def clean_incoming_links():
     # This function rids 'incoming_link_queue' from:
