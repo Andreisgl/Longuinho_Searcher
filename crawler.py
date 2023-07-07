@@ -87,14 +87,17 @@ def load_history_from_file():
 
 #####
 def iterate_queue(number_of_items):
-    # Goes through the list scraping all links from the first URL in the list,
+    # Goes through 'incoming'
+    # scrapes all links from the first URL in the list,
     # appends discovered links into the end of the list,
-    # and removes the current link from the current URL.
+    # removes the current link from the current URL,
+    # and proceeds to the next URL in 'incoming'
     global current_link_queue
     global incoming_link_queue
     intermediate_link_queue = []
     global link_history_list
 
+    print ('START Iteration')
     load_incoming_from_file()
     load_history_from_file()
 
@@ -137,23 +140,30 @@ def iterate_queue(number_of_items):
     
     ###TODO add to 'clean_incoming_links' function to remove any links already present in history!!!!!!!!!!!
     removed_links = clean_incoming_links()
+    found_links = found_links - removed_links
 
     ###TODO Before saving 'incoming', remove any links already present in history!!!!!!!!!!!
     save_incoming_queue_to_file()
     save_to_history()
     
-    print('Iteration finished!')
-    print('Pages searched: {} out of {}'.format(pages_searched, number_of_items))
-    print('New pages found: ' + str(found_links + removed_links))
+    print('\nIteration finished!')
+    print('Pages searched: {} out of {}'
+          .format(pages_searched, number_of_items))
+    print('New pages found: {}\n'.format(str(found_links)))
     return pages_searched
+#####
 
+def remove_all_instances_in_list(term, list):
+    pop_counter = 0
+    for j in range(len(list)-1, 0, -1):
+        if list[j].find(term) != -1:
+            pop_counter += 1
+            list.pop(j)
+    return pop_counter
 def remove_link_from_incoming_queue(term):
     # Removes links from 'incoming_queue', return ammount of terms removed.
     pop_counter = 0
-    for j in range(len(incoming_link_queue)-1, 0, -1):
-        if incoming_link_queue[j].find(term) != -1:
-            pop_counter += 1
-            incoming_link_queue.pop(j)
+    remove_all_instances_in_list(term, incoming_link_queue)
     return pop_counter
 def remove_blacklisted_sites():
     # Some sites just take too long to index, like the web.archive.
@@ -189,8 +199,6 @@ def remove_duplicates_from_list(in_list):
     in_list = list(dict.fromkeys(in_list))
     return in_list
 
-def remove_all_instances_in_list():
-    pass
 def remove_links_in_history_from_incoming():
     # Removes from 'incoming' links already present in history.
     return 0
@@ -205,8 +213,14 @@ def clean_incoming_links():
     removed_duplicate_counter = remove_duplicated_sites()
     removed_blacklist_counter = remove_blacklisted_sites()
     removed_existent_counter = remove_links_in_history_from_incoming()
-    print('''Removed {} duplicates and {} blacklisted websites.
-    '''.format(removed_duplicate_counter, removed_blacklist_counter))
+
+
+    final_statistics = (
+        'Removed {} duplicates, {} blacklisted, {} already indexed websites.'
+        ).format(removed_duplicate_counter, removed_blacklist_counter,
+        removed_existent_counter)
+    
+    #print(final_statistics)
 
     return removed_duplicate_counter + removed_blacklist_counter
 
