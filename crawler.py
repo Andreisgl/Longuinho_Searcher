@@ -36,6 +36,7 @@ def get_links_from_url(url):
                     error_type = 'UnicodeDecode EXCEPTION!'
             except EmptyListException:
                 error_type = 'EmptyListException EXCEPTION!'
+                link_list = []
     except FileNotFoundError:
             error_type = 'FileNotFoundError EXCEPTION!'
         
@@ -67,6 +68,8 @@ def load_incoming_from_file():
             plant_seed()
             continue
         break
+        #save_incoming_queue_to_file()
+    return data
 
 #HISTORY
 def save_to_history(list_of_links):
@@ -89,12 +92,14 @@ def iterate_queue(number_of_items):
     global incoming_link_queue
     intermediate_link_queue = []
 
+    load_incoming_from_file()
+    load_history_from_file()
+
     max_number = len(incoming_link_queue)
     if (number_of_items >= max_number) or (number_of_items == 0):
         number_of_items = max_number
     
-    load_incoming_from_file()
-    load_history_from_file()
+    
     found_links = 0
     pages_searched = 0
     index = 0
@@ -104,7 +109,7 @@ def iterate_queue(number_of_items):
         print('{} of {} - {}'.format(pages_searched+1, number_of_items, incoming_link_queue[index]))
 
         ammount_of_links = len(aux_list)
-        if ammount_of_links > 0:
+        if ammount_of_links > 0 and aux_list[0] != '': ##########
             found_links += ammount_of_links
             for item in aux_list:
                 current_link_queue.append(item)
@@ -228,9 +233,9 @@ def expand_index(number_of_iterations, max_urls_per_iteration):
         iterate_queue(max_urls_per_iteration)
     print('Expanded index by {} iterations, {} links.'.format(number_of_iterations, max_urls_per_iteration))
 
-plant_seed()
+#plant_seed()
 
-#expand_index(1, 10)
+expand_index(1, 10)
 
 
 
