@@ -251,6 +251,7 @@ def plant_seed():
     incoming_link_queue.append(SEED_URL)
     save_incoming_queue_to_file()
 
+    return 0
     number_of_iterations = 1
     for iteration in range(number_of_iterations):
         iterate_queue(0)
