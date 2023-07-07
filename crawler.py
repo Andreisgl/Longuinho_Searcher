@@ -73,18 +73,18 @@ def load_incoming_from_file():
     return data
 
 #HISTORY
-def save_to_history(link):
-    link = '\n' + link
+def save_to_history():
+    #link = '\n' + link
     # Saves a list of links to the 'link_history_file'
     with open(link_history_file, 'ab') as file:
-        file.write(link.encode('utf-8'))
+        indexer.save_list_to_file(link_history_list, link_history_file)
         pass
 def load_history_from_file(): #########TODO
     data = load_list_from_file(link_history_file, link_history_list)
     if data == FileNotFoundError or data == '':
-        link_history_list.append(SEED_URL)
-        #with open(link_history_file, 'wb'):
-        #    save_to_history(link_history_list[0])
+        #link_history_list.append(SEED_URL)
+        with open(link_history_file, 'wb'):
+            save_to_history()
 
 
 #####
@@ -95,6 +95,7 @@ def iterate_queue(number_of_items):
     global current_link_queue
     global incoming_link_queue
     intermediate_link_queue = []
+    global link_history_list
 
     load_incoming_from_file()
     load_history_from_file()
@@ -122,7 +123,7 @@ def iterate_queue(number_of_items):
             print(url_error)
 
         # Save current link to history
-        save_to_history(incoming_link_queue[index])
+        link_history_list.append(incoming_link_queue[index])
         # Remove current link from incoming
         incoming_link_queue.pop(index)
 
@@ -139,6 +140,8 @@ def iterate_queue(number_of_items):
     
     removed_links = clean_incoming_links()
     save_incoming_queue_to_file()
+    save_to_history()
+    
     print('Iteration finished!')
     #print('''Pages searched: {} out of {}\tPages found: {} Pages removed: {}'''.format(pages_searched, number_of_items, found_links, removed_links))
     print('Pages searched: {} out of {}'.format(pages_searched, number_of_items))
