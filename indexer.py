@@ -68,6 +68,8 @@ def get_website(search_url):
     website_name, raw_file_data, link_list, text_list = site_ex.get_website_data(search_url)
     data_file, link_list_file, text_list_file = website_path(website_name)
 
+    pass
+
     # Save data in folder
     save_html_to_file(raw_file_data, data_file) # Save raw html
     save_list_to_file(link_list, link_list_file) # Save links

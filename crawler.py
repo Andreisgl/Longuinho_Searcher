@@ -18,8 +18,20 @@ def main_folder_manager():
 
 def get_links_from_url(url):
     link_list_file = indexer.get_website(url)[1]
-    with open(link_list_file, 'r') as file:
-        link_list = (file.read()).split('\n')
+    link_list = []
+    try:
+        with open(link_list_file, 'r') as file:
+            try:
+                link_list = (file.read()).split('\n')
+                if (link_list[0] == ''):
+                    raise EmptyListException
+            except UnicodeDecodeError:
+                    print('UnicodeDecode EXCEPTION!')
+            except EmptyListException:
+                print('EmptyListException EXCEPTION!')
+    except FileNotFoundError:
+            print('FileNotFoundError EXCEPTION!')
+        
     return link_list
 
 def save_incoming_queue_to_file():
@@ -63,29 +75,17 @@ def iterate_queue(number_of_items):
     pages_searched = 0
     index = 0
     while (pages_searched < number_of_items):        
-        aux_list = []
-        list_path = indexer.get_website(incoming_link_queue[index])[1] #Possible bottleneck?
+        aux_list = get_links_from_url(incoming_link_queue[index])# Possible bottleneck?
 
         print('{} of {} - {}'.format(pages_searched, number_of_items, incoming_link_queue[index]))
 
-        try:
-            with open(list_path, 'r') as file:
-                try:
-                    aux_list = (file.read()).split('\n')
-                    if (aux_list[0] == ''):
-                        raise EmptyListException
+        ammount_of_links = len(aux_list)
+        if ammount_of_links > 0:
+            found_links += ammount_of_links
+            for item in aux_list:
+                current_link_queue.append(item)
+            pages_searched += 1
 
-                    found_links += len(aux_list)
-                    for item in aux_list:
-                        current_link_queue.append(item)
-                    pages_searched += 1
-                except UnicodeDecodeError:
-                    print('UnicodeDecode EXCEPTION!')
-                except EmptyListException:
-                    print('EmptyListException EXCEPTION!')
-        except FileNotFoundError:
-            print('FileNotFoundError EXCEPTION!')
-        
         incoming_link_queue.pop(index)
         intermediate_link_queue = intermediate_link_queue + current_link_queue
         #incoming_link_queue = incoming_link_queue + current_link_queue
@@ -155,7 +155,7 @@ def expand_index(number_of_iterations, max_urls_per_iteration):
 
 #plant_seed()
 
-expand_index(1, 20)
+expand_index(1, 10)
 
 
 pass
