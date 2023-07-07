@@ -267,9 +267,9 @@ def expand_index(number_of_urls_to_expand):
         total_found_links += found_links
 
         print('\nIteration finished!')
-        print('Pages searched: {}'
+        print('Pages searched: {}\n'
             .format(pages_searched))
-        print('New pages found: {}\n'.format(str(found_links)))
+        #print('New pages found: {}\n'.format(str(found_links)))
 
     print('Expanded index by {} iterations, {} links.'.format(
         number_of_iterations, total_pages_searched))
