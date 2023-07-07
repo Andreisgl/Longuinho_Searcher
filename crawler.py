@@ -7,6 +7,13 @@ import indexer as indexer
 class EmptyListException(Exception):
     pass
 
+
+link_queue_file = ''
+link_history_file = ''
+
+incoming_link_queue = []
+link_history_list = []
+
 def main_folder_manager():
     global CRAWLER_FOLDER
     CRAWLER_FOLDER = os.path.join('.\\', CRAWLER_FOLDER)
@@ -15,6 +22,9 @@ def main_folder_manager():
 
     global link_queue_file
     link_queue_file = os.path.join(CRAWLER_FOLDER, link_queue_file)
+
+    global link_history_file
+    link_history_file = os.path.join(CRAWLER_FOLDER, link_history_file)
 
 def get_links_from_url(url):
     link_list_file = indexer.get_website(url)[1]
@@ -35,9 +45,9 @@ def get_links_from_url(url):
         
     return link_list, error_type
 
+#INCOMING_LINK_QUEUE
 def save_incoming_queue_to_file():
     indexer.save_list_to_file(incoming_link_queue, link_queue_file)
-
 def load_incoming_from_file():
     global incoming_link_queue
     while True:
@@ -56,6 +66,12 @@ def load_incoming_from_file():
             continue
         break
 
+#HISTORY
+def save_to_history(list_of_links):
+    # Saves a list of links to the 'link_history_file'
+    indexer.save_list_to_file(link_history_file, link_history_list)
+
+#####
 def iterate_queue(number_of_items):
     # Goes through the list scraping all links from the first URL in the list,
     # appends discovered links into the end of the list,
@@ -64,13 +80,11 @@ def iterate_queue(number_of_items):
     global incoming_link_queue
     intermediate_link_queue = []
 
-    load_incoming_from_file()
-
     max_number = len(incoming_link_queue)
     if (number_of_items >= max_number) or (number_of_items == 0):
         number_of_items = max_number
     
-    
+    load_incoming_from_file()
     found_links = 0
     pages_searched = 0
     index = 0
@@ -89,11 +103,17 @@ def iterate_queue(number_of_items):
             print(url_error)
 
         incoming_link_queue.pop(index)
+
+        # Save all pages found in this search
         intermediate_link_queue = intermediate_link_queue + current_link_queue
-        #incoming_link_queue = incoming_link_queue + current_link_queue
+
         current_link_queue.clear()
         index += 1
     
+    # Before saving to history, remove duplicates!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+    #save_to_history(intermediate_link_queue)###########################3
+
+    # Add all found pages into 'incoming_link_queue'
     incoming_link_queue = incoming_link_queue + intermediate_link_queue
     
     removed_links = clean_incoming_links()
