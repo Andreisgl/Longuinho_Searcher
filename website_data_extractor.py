@@ -43,7 +43,7 @@ def extract_html(url):
          html = response.read()
       return html
    except:
-      print('HTML error @ ' + url)
+      #print('HTML error @ ' + url)
       return b''
 
 
