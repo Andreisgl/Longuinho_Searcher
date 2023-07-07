@@ -44,6 +44,9 @@ def load_incoming_from_file():
         break
 
 def iterate_queue(number_of_items):
+    # Goes through the list scraping all links from the first URL in the list,
+    # appends discovered links into the end of the list,
+    # and removes the current link from the current URL.
     global current_link_queue
     global incoming_link_queue
     intermediate_link_queue = []
