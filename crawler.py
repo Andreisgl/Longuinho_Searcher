@@ -74,15 +74,13 @@ def load_incoming_from_file():
 
 #HISTORY
 def save_to_history():
-    #link = '\n' + link
     # Saves a list of links to the 'link_history_file'
     with open(link_history_file, 'ab') as file:
         indexer.save_list_to_file(link_history_list, link_history_file)
         pass
-def load_history_from_file(): #########TODO
+def load_history_from_file():
     data = load_list_from_file(link_history_file, link_history_list)
     if data == FileNotFoundError or data == '':
-        #link_history_list.append(SEED_URL)
         with open(link_history_file, 'wb'):
             save_to_history()
 
@@ -139,11 +137,12 @@ def iterate_queue(number_of_items):
     incoming_link_queue = incoming_link_queue + intermediate_link_queue
     
     removed_links = clean_incoming_links()
+    # Add too links removed for already existing in history!!!!!!!!!!!!!!!!!
+
     save_incoming_queue_to_file()
     save_to_history()
     
     print('Iteration finished!')
-    #print('''Pages searched: {} out of {}\tPages found: {} Pages removed: {}'''.format(pages_searched, number_of_items, found_links, removed_links))
     print('Pages searched: {} out of {}'.format(pages_searched, number_of_items))
     print('New pages found: ' + str(found_links + removed_links))
     return pages_searched
