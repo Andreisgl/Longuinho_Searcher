@@ -146,10 +146,13 @@ def iterate_queue(number_of_items):
     save_incoming_queue_to_file()
     save_to_history()
     
+    # Data for output: pages_searched, number_of_items, found_links
+    return pages_searched, number_of_items, found_links
     print('\nIteration finished!')
     print('Pages searched: {} out of {}'
           .format(pages_searched, number_of_items))
     print('New pages found: {}\n'.format(str(found_links)))
+    
     return pages_searched
 #####
 
