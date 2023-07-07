@@ -19,6 +19,7 @@ def main_folder_manager():
 def get_links_from_url(url):
     link_list_file = indexer.get_website(url)[1]
     link_list = []
+    error_type = ''
     try:
         with open(link_list_file, 'r') as file:
             try:
@@ -26,13 +27,13 @@ def get_links_from_url(url):
                 if (link_list[0] == ''):
                     raise EmptyListException
             except UnicodeDecodeError:
-                    print('UnicodeDecode EXCEPTION!')
+                    error_type = 'UnicodeDecode EXCEPTION!'
             except EmptyListException:
-                print('EmptyListException EXCEPTION!')
+                error_type = 'EmptyListException EXCEPTION!'
     except FileNotFoundError:
-            print('FileNotFoundError EXCEPTION!')
+            error_type = 'FileNotFoundError EXCEPTION!'
         
-    return link_list
+    return link_list, error_type
 
 def save_incoming_queue_to_file():
     indexer.save_list_to_file(incoming_link_queue, link_queue_file)
@@ -75,9 +76,9 @@ def iterate_queue(number_of_items):
     pages_searched = 0
     index = 0
     while (pages_searched < number_of_items):        
-        aux_list = get_links_from_url(incoming_link_queue[index])# Possible bottleneck?
+        aux_list, url_error = get_links_from_url(incoming_link_queue[index])# Possible bottleneck?
 
-        print('{} of {} - {}'.format(pages_searched, number_of_items, incoming_link_queue[index]))
+        print('{} of {} - {}'.format(pages_searched+1, number_of_items, incoming_link_queue[index]))
 
         ammount_of_links = len(aux_list)
         if ammount_of_links > 0:
@@ -85,6 +86,8 @@ def iterate_queue(number_of_items):
             for item in aux_list:
                 current_link_queue.append(item)
             pages_searched += 1
+        else:
+            print(url_error)
 
         incoming_link_queue.pop(index)
         intermediate_link_queue = intermediate_link_queue + current_link_queue
