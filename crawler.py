@@ -8,11 +8,7 @@ class EmptyListException(Exception):
     pass
 
 
-link_queue_file = ''
-link_history_file = ''
 
-incoming_link_queue = []
-link_history_list = []
 
 def main_folder_manager():
     global CRAWLER_FOLDER
@@ -46,25 +42,28 @@ def get_links_from_url(url):
     return link_list, error_type
 
 #LIST MANAGEMENT
-def load_list_from_file():
-    pass
+def load_list_from_file(in_file, list):
+    try:
+        with open(in_file, 'rb') as file:
+            data = (file.read()).decode('utf-8')
+            if data == '':
+                #raise EmptyListException
+                return ''
+            list = data.split('\n')
+            return list
+    except FileNotFoundError:
+        return FileNotFoundError
+    
+
 #INCOMING_LINK_QUEUE
 def save_incoming_queue_to_file():
     indexer.save_list_to_file(incoming_link_queue, link_queue_file)
 def load_incoming_from_file():
+    global link_history_file
     global incoming_link_queue
     while True:
-        try:
-            with open(link_queue_file, 'rb') as file:
-                #data = str(file.read())
-                data = (file.read()).decode('utf-8')
-                if data == '':
-                    raise EmptyListException
-                incoming_link_queue = data.split('\n')
-        except FileNotFoundError:
-            plant_seed()
-            continue
-        except EmptyListException:
+        data = load_list_from_file(link_queue_file, incoming_link_queue)
+        if data == FileNotFoundError:
             plant_seed()
             continue
         break
@@ -72,9 +71,14 @@ def load_incoming_from_file():
 #HISTORY
 def save_to_history(list_of_links):
     # Saves a list of links to the 'link_history_file'
-    indexer.save_list_to_file(link_history_file, link_history_list)
-def load_history_from_file():
-    pass
+    indexer.save_list_to_file(link_history_list, link_history_file)
+def load_history_from_file(): #########TODO
+    data = load_list_from_file(link_history_file, link_history_list)
+    if data == FileNotFoundError or data == '':
+        link_history_list.append(SEED_URL)
+        with open(link_history_file, 'wb'):
+            save_to_history(link_history_list)
+
 
 #####
 def iterate_queue(number_of_items):
@@ -90,6 +94,7 @@ def iterate_queue(number_of_items):
         number_of_items = max_number
     
     load_incoming_from_file()
+    load_history_from_file()
     found_links = 0
     pages_searched = 0
     index = 0
@@ -187,8 +192,16 @@ def clean_incoming_links():
 
     return removed_duplicate_counter + removed_blacklist_counter
 
+
+
 CRAWLER_FOLDER = 'CRAWLER'
 link_queue_file = 'link_queue.txt'
+link_history_file = 'link_history.txt'
+
+incoming_link_queue = []
+link_history_list = []
+
+
 main_folder_manager()
 
 
