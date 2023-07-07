@@ -61,12 +61,14 @@ def iterate_queue(number_of_items):
     
     found_links = 0
     pages_searched = 0
-    for index in range(number_of_items):
+    index = 0
+    while (pages_searched < number_of_items): #and (pages_searched <= max_number):
+    #for index in range(number_of_items):
         
         aux_list = []
         list_path = indexer.get_website(incoming_link_queue[index])[1] #Possible bottleneck?
 
-        print('{} of {} - {}'.format(index+1, number_of_items, incoming_link_queue[index]))
+        print('{} of {} - {}'.format(pages_searched, number_of_items, incoming_link_queue[index]))
 
         try:
             with open(list_path, 'r') as file:
@@ -90,6 +92,7 @@ def iterate_queue(number_of_items):
         intermediate_link_queue = intermediate_link_queue + current_link_queue
         #incoming_link_queue = incoming_link_queue + current_link_queue
         current_link_queue.clear()
+        index += 1
     
     incoming_link_queue = incoming_link_queue + intermediate_link_queue
     save_incoming_queue_to_file()
@@ -152,9 +155,9 @@ def expand_index(number_of_iterations, max_urls_per_iteration):
         iterate_queue(max_urls_per_iteration)
     print('Expanded index: {} iterations, {} links.'.format(number_of_iterations, max_urls_per_iteration))
 
-#plant_seed()
+plant_seed()
 
-expand_index(1, 20)
+#expand_index(1, 20)
 
 
 pass
