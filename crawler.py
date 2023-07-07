@@ -154,7 +154,7 @@ def plant_seed():
 def expand_index(number_of_iterations, max_urls_per_iteration):
     for iteration in range(number_of_iterations):
         iterate_queue(max_urls_per_iteration)
-    print('Expanded index: {} iterations, {} links.'.format(number_of_iterations, max_urls_per_iteration))
+    print('Expanded index by {} iterations, {} links.'.format(number_of_iterations, max_urls_per_iteration))
 
 #plant_seed()
 
