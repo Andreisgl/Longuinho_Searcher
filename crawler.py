@@ -131,14 +131,14 @@ def iterate_queue(number_of_items):
         current_link_queue.clear()
         index += 1
     
-    
 
     # Add all found pages into 'incoming_link_queue'
     incoming_link_queue = incoming_link_queue + intermediate_link_queue
     
+    ###TODO add to 'clean_incoming_links' function to remove any links already present in history!!!!!!!!!!!
     removed_links = clean_incoming_links()
-    # Add too links removed for already existing in history!!!!!!!!!!!!!!!!!
 
+    ###TODO Before saving 'incoming', remove any links already present in history!!!!!!!!!!!
     save_incoming_queue_to_file()
     save_to_history()
     
@@ -147,7 +147,7 @@ def iterate_queue(number_of_items):
     print('New pages found: ' + str(found_links + removed_links))
     return pages_searched
 
-def remove_link_from_queue(term):
+def remove_link_from_incoming_queue(term):
     # Removes links from 'incoming_queue', return ammount of terms removed.
     pop_counter = 0
     for j in range(len(incoming_link_queue)-1, 0, -1):
@@ -169,16 +169,8 @@ def remove_blacklisted_sites():
         for prefix in prefixes:
             full_terms.append(prefix + url)
     for term in full_terms:
-        remove_link_from_queue(term)
+        remove_link_from_incoming_queue(term)
     return remove_counter
-    #pop_counter = 0
-    #for i in range(len(full_terms)):
-        #for j in range(len(incoming_link_queue)-1, 0, -1):
-            
-            #if incoming_link_queue[j].find(full_terms[i]) != -1:
-                #pop_counter += 1
-                #incoming_link_queue.pop(j)
-    #print(str(pop_counter) + ' entries removed')
 
 def remove_duplicated_sites():
     # This function removes duplicates from the incoming list.
@@ -197,14 +189,22 @@ def remove_duplicates_from_list(in_list):
     in_list = list(dict.fromkeys(in_list))
     return in_list
 
+def remove_all_instances_in_list():
+    pass
+def remove_links_in_history_from_incoming():
+    # Removes from 'incoming' links already present in history.
+    return 0
+
 def clean_incoming_links():
     # This function rids 'incoming_link_queue' from:
-    # Duplicated websites and
-    # Blacklisted websites.
+    # Duplicated websites,
+    # Blacklisted websites
+    # and websites already present in history
     # Returns the total ammount of websites eliminated.
     
     removed_duplicate_counter = remove_duplicated_sites()
     removed_blacklist_counter = remove_blacklisted_sites()
+    removed_existent_counter = remove_links_in_history_from_incoming()
     print('''Removed {} duplicates and {} blacklisted websites.
     '''.format(removed_duplicate_counter, removed_blacklist_counter))
 
