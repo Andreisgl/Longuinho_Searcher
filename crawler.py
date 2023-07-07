@@ -65,7 +65,7 @@ def iterate_queue(number_of_items):
     intermediate_link_queue = []
 
     load_incoming_from_file()
-    remove_blacklisted_sites()
+    clean_incoming_links()
 
     max_number = len(incoming_link_queue)
     if (number_of_items >= max_number) or (number_of_items == 0):
@@ -96,37 +96,72 @@ def iterate_queue(number_of_items):
         index += 1
     
     incoming_link_queue = incoming_link_queue + intermediate_link_queue
+    
+    removed_links = clean_incoming_links()
     save_incoming_queue_to_file()
-    
-    
-    print('Pages searched: {} out of {}\tPages found: {}'.format(pages_searched, number_of_items, found_links))
+    print('Iteration finished!')
+    #print('''Pages searched: {} out of {}\tPages found: {} Pages removed: {}'''.format(pages_searched, number_of_items, found_links, removed_links))
+    print('Pages searched: {} out of {}'.format(pages_searched, number_of_items))
+    print('New pages found: ' + str(found_links + removed_links))
     return pages_searched
 
+def remove_link_from_queue(term):
+    # Removes links from 'incoming_queue', return ammount of terms removed.
+    pop_counter = 0
+    for j in range(len(incoming_link_queue)-1, 0, -1):
+        if incoming_link_queue[j].find(term) != -1:
+            pop_counter += 1
+            incoming_link_queue.pop(j)
+    return pop_counter
 def remove_blacklisted_sites():
     # Some sites just take too long to index, like the web.archive.
     # This allows to remove it from the incoming list.
-
-    # Only use when list is already loaded
+    # Returns number of excluded terms.
+    # Only use when incoming_link_queue is already loaded
     blacklist = ['web.archive.org', 'abclocal.go.com']
     prefixes = ['http://', 'https://']
     full_terms = []
+    remove_counter = 0
 
     for url in blacklist:
         for prefix in prefixes:
             full_terms.append(prefix + url)
+    for term in full_terms:
+        remove_link_from_queue(term)
+    return remove_counter
+    #pop_counter = 0
+    #for i in range(len(full_terms)):
+        #for j in range(len(incoming_link_queue)-1, 0, -1):
+            
+            #if incoming_link_queue[j].find(full_terms[i]) != -1:
+                #pop_counter += 1
+                #incoming_link_queue.pop(j)
+    #print(str(pop_counter) + ' entries removed')
 
-    #load_incoming_from_file()
+def remove_duplicated_sites():
+    # This function removes duplicates from the incoming list.
+    # Returns number of excluded terms.
+    # Only use when incoming_link_queue is already loaded
+    global incoming_link_queue
+
+    initial_size = len(incoming_link_queue)
+    incoming_link_queue = list(dict.fromkeys(incoming_link_queue))
+    final_size = len(incoming_link_queue)
     
-    pop_counter = 0
-    for i in range(len(full_terms)):
-        for j in range(len(incoming_link_queue)-1, 0, -1):
-            #incoming_link_queue.pop(delete_index_list[j])
-            if incoming_link_queue[j].find(full_terms[i]) != -1:
-                pop_counter += 1
-                incoming_link_queue.pop(j)
-    print(str(pop_counter) + ' entries removed')
-    #save_incoming_queue_to_file()
-    pass
+    return initial_size - final_size
+
+def clean_incoming_links():
+    # This function rids 'incoming_link_queue' from:
+    # Duplicated websites and
+    # Blacklisted websites.
+    # Returns the total ammount of websites eliminated.
+    
+    removed_duplicate_counter = remove_duplicated_sites()
+    removed_blacklist_counter = remove_blacklisted_sites()
+    print('''Removed {} duplicates and {} blacklisted websites.
+    '''.format(removed_duplicate_counter, removed_blacklist_counter))
+
+    return removed_duplicate_counter + removed_blacklist_counter
 
 CRAWLER_FOLDER = 'CRAWLER'
 link_queue_file = 'link_queue.txt'
@@ -159,6 +194,8 @@ def expand_index(number_of_iterations, max_urls_per_iteration):
 #plant_seed()
 
 expand_index(1, 10)
+
+
 
 
 pass
