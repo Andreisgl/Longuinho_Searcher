@@ -148,10 +148,7 @@ def iterate_queue(number_of_items):
     
     # Data for output: pages_searched, number_of_items, found_links
     return pages_searched, number_of_items, found_links
-    print('\nIteration finished!')
-    print('Pages searched: {} out of {}'
-          .format(pages_searched, number_of_items))
-    print('New pages found: {}\n'.format(str(found_links)))
+    
     
     return pages_searched
 #####
@@ -261,8 +258,17 @@ def plant_seed():
 
 def expand_index(number_of_iterations, max_urls_per_iteration):
     for iteration in range(number_of_iterations):
-        iterate_queue(max_urls_per_iteration)
-    print('Expanded index by {} iterations, {} links.'.format(number_of_iterations, max_urls_per_iteration))
+        (pages_searched, number_of_items,
+         found_links) = iterate_queue(max_urls_per_iteration)
+        
+        print('\nIteration finished!')
+        print('Pages searched: {} out of {}'
+            .format(pages_searched, number_of_items))
+        print('New pages found: {}\n'.format(str(found_links)))
+    pass
+        
+
+    print('Expanded index by {} iterations, {} links.'.format(number_of_iterations, pages_searched))
 
 #plant_seed()
 expand_index(1, 2)
