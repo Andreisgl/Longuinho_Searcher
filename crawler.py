@@ -228,9 +228,9 @@ def expand_index(number_of_iterations, max_urls_per_iteration):
         iterate_queue(max_urls_per_iteration)
     print('Expanded index by {} iterations, {} links.'.format(number_of_iterations, max_urls_per_iteration))
 
-#plant_seed()
+plant_seed()
 
-expand_index(1, 10)
+#expand_index(1, 10)
 
 
 
