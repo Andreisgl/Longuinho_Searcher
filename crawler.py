@@ -247,31 +247,36 @@ def plant_seed():
     # Runs a single iteration from the seed URL
     incoming_link_queue.append(SEED_URL)
     save_incoming_queue_to_file()
-
-    return 0
-    number_of_iterations = 1
-    for iteration in range(number_of_iterations):
-        iterate_queue(0)
     print('Seed planted!')
 
 
 
-def expand_index(number_of_iterations, max_urls_per_iteration):
-    for iteration in range(number_of_iterations):
+def expand_index(number_of_urls_to_expand):
+    number_of_iterations = 0
+    total_pages_searched = 0
+    remaining_number_to_search = number_of_urls_to_expand
+    total_found_links = 0
+
+    while total_pages_searched < number_of_urls_to_expand:
         (pages_searched, number_of_items,
-         found_links) = iterate_queue(max_urls_per_iteration)
+            found_links) = iterate_queue(remaining_number_to_search)
         
+        number_of_iterations += 1
+        total_pages_searched += pages_searched
+        remaining_number_to_search -= pages_searched
+        total_found_links += found_links
+
         print('\nIteration finished!')
-        print('Pages searched: {} out of {}'
-            .format(pages_searched, number_of_items))
+        print('Pages searched: {}'
+            .format(pages_searched))
         print('New pages found: {}\n'.format(str(found_links)))
+
+    print('Expanded index by {} iterations, {} links.'.format(
+        number_of_iterations, total_pages_searched))
+    print('New pages found: {}'.format(total_found_links))
     pass
-        
 
-    print('Expanded index by {} iterations, {} links.'.format(number_of_iterations, pages_searched))
-
-#plant_seed()
-expand_index(1, 2)
+expand_index(5)
 
 
 
