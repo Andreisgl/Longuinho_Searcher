@@ -112,12 +112,11 @@ def iterate_queue(number_of_items):
     
     found_links = 0
     pages_searched = 0
-    index = 0
     while (pages_searched < number_of_items):
-        aux_list, url_error = get_links_from_url(incoming_link_queue[index])# Possible bottleneck?
+        aux_list, url_error = get_links_from_url(incoming_link_queue[0])# Possible bottleneck?
 
         # Print current URL
-        display_url = textwrap.wrap(incoming_link_queue[index], no_terminal_columns)
+        display_url = textwrap.wrap(incoming_link_queue[0], no_terminal_columns)
         print('{} of {}\n{}'.format(pages_searched+1,
                                      number_of_items, display_url[0]))
 
@@ -132,15 +131,14 @@ def iterate_queue(number_of_items):
             print(url_error)
 
         # Save current link to history
-        link_history_list.append(incoming_link_queue[index])
+        link_history_list.append(incoming_link_queue[0])
         # Remove current link from incoming
-        incoming_link_queue.pop(index)
+        incoming_link_queue.pop(0)
 
         # Save all pages found in this search
         intermediate_link_queue = intermediate_link_queue + current_link_queue
 
         current_link_queue.clear()
-        index += 1
     
 
     # Add all found pages into 'incoming_link_queue'
