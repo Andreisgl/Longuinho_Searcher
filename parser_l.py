@@ -45,11 +45,11 @@ def link_parser(file_data):
     for index in link_parse_data:
         
         # IGNORE DANGEROUS ENTRIES!!!
-        if '\'\'' in index or '\"\"' in index or '\\' in index:
+        if '\'' in index or '\"\"' in index or '\\' in index:
             continue
 
         search = find_url(index)
-        pass
+
         if len(search) >= 1:
             for item in search:
                 temp_list.append(item)
