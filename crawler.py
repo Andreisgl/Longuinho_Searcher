@@ -69,7 +69,6 @@ def load_list_from_file(in_file, list):
             return list
     except FileNotFoundError:
         return FileNotFoundError
-    
 
 #INCOMING_LINK_QUEUE
 def save_incoming_queue_to_file():
@@ -84,7 +83,6 @@ def load_incoming_from_file():
             continue
         incoming_link_queue = data
         break
-        #save_incoming_queue_to_file()
     return data
 
 #HISTORY
@@ -92,13 +90,11 @@ def save_to_history():
     # Saves a list of links to the 'link_history_file'
     with open(link_history_file, 'ab') as file:
         indexer.save_list_to_file(link_history_list, link_history_file)
-        pass
 def load_history_from_file():
     data = load_list_from_file(link_history_file, link_history_list)
     if data == FileNotFoundError or data == '':
         with open(link_history_file, 'wb'):
             save_to_history()
-
 
 # MAIN ITERATOR - TODO: Make function to iterate history folder for reindexing
 def iterate_queue(number_of_items):
@@ -128,14 +124,12 @@ def iterate_queue(number_of_items):
 
         # Print current URL
         display_url = textwrap.wrap(incoming_link_queue[0], no_terminal_columns)
-        #print('{} of {}\n{}'.format(pages_searched+1,
-        #                             number_of_items, display_url[0]))
 
         print('{}'.format(display_url[0]))
 
         # Keep doing normal stuff
         ammount_of_links = len(aux_list)
-        if ammount_of_links > 0 and aux_list[0] != '': ##########
+        if ammount_of_links > 0 and aux_list[0] != '':
             found_links += ammount_of_links
             for item in aux_list:
                 current_link_queue.append(item)
@@ -157,19 +151,15 @@ def iterate_queue(number_of_items):
     # Add all found pages into 'incoming_link_queue'
     incoming_link_queue = incoming_link_queue + intermediate_link_queue
     
-    ###TODO add to 'clean_incoming_links' function to remove any links already present in history!!!!!!!!!!!
+    # Clean 'incoming' before saving
     removed_links = clean_incoming_links()
     found_links = found_links - removed_links
 
-    ###TODO Before saving 'incoming', remove any links already present in history!!!!!!!!!!!
     save_incoming_queue_to_file()
     save_to_history()
     
     # Data for output: pages_searched, number_of_items, found_links
     return pages_searched, number_of_items, found_links
-    
-    
-    return pages_searched
 
 # LIST CLEANING
 def remove_all_instances_in_list(term, list):
@@ -296,7 +286,7 @@ def expand_index(number_of_urls_to_expand):
     print('New pages found: {}'.format(total_found_links))
     pass
 
-expand_index(2)
+expand_index(20)
 
 
 
