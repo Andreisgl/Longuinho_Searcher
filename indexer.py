@@ -1,5 +1,6 @@
 # This script saves important data from the website and returns paths for the data.
 import os
+from datetime import datetime, timezone, tzinfo
 import website_data_extractor as site_ex
 
 ALL_WEBSITES_FOLDER = 'SITES'
@@ -70,7 +71,10 @@ def get_website(search_url):
     website_name, raw_file_data, link_list, text_list = site_ex.get_website_data(search_url)
 
     # CREATE METADATA
-    meta_list = [search_url]
+    meta_url = 'URL\{}'.format(search_url)
+    meta_datetime_indexed = 'DATEINDEXED\{}'.format((datetime.now()).strftime('%d/%m/%Y %H:%M:%S'))
+    meta_list = [meta_url,
+                 meta_datetime_indexed]
     ###
 
     # If it has no links and no text, it is probably an image or file.
