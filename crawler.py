@@ -260,7 +260,7 @@ def plant_seed():
 
 
 def expand_index(number_of_urls_to_expand):
-    max_pages_per_iteration = 1
+    max_pages_per_iteration = 10
     number_of_iterations = 0
     total_pages_searched = 0
     remaining_number_to_search = number_of_urls_to_expand
