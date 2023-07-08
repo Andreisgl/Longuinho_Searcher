@@ -27,7 +27,7 @@ def main_folder_manager():
     link_history_file = os.path.join(CRAWLER_FOLDER, link_history_file)
 
 def get_links_from_url(url):
-    link_list_file = indexer.get_website(url)[1]
+    data_file, link_list_file = indexer.get_website(url)[0:2] # Data, link, text.
     link_list = []
     error_type = ''
     try:
@@ -42,7 +42,15 @@ def get_links_from_url(url):
                 error_type = 'EmptyListException EXCEPTION!'
                 link_list = []
     except FileNotFoundError:
-            error_type = 'FileNotFoundError EXCEPTION!'
+            # Check if it just has no links or is not indexed at all
+            try:
+                with open(data_file, 'r'):
+                    pass
+                # If data_file opens, it just has no links
+                error_type = 'No links in this site!'
+            except FileNotFoundError:
+                    # If it does not exist, it is not indexed at all
+                    error_type = 'Site not indexed'
         
     return link_list, error_type
 

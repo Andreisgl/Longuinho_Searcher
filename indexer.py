@@ -28,12 +28,6 @@ def save_list_to_file(list, path):
     except FileNotFoundError:
        pass
 
-
-    
-        
-        
-
-
 def website_path(name):
     aux = name
     #aux.append(name)
@@ -65,15 +59,33 @@ def website_path(name):
 
 def get_website(search_url):
     # Saves important data from the website, returns paths for the data.
+    data_file = ''
+    link_list_file = ''
+    text_list_file = ''
+
     website_name, raw_file_data, link_list, text_list = site_ex.get_website_data(search_url)
-    data_file, link_list_file, text_list_file = website_path(website_name)
 
     # If it has no links and no text, probably an image.
     # Not worthy of indexing, and just occupies space.
-    if len(link_list) != 0 and len(text_list) != 0:
-        # Save data in folder
-        save_html_to_file(raw_file_data, data_file) # Save raw html
+    indexing_condition = len(link_list) != 0 and len(text_list) != 0
+    # But if you reeeeeealy want to index images as well,
+    # I'm giving you the option to.
+    # Be aware: Not having text or links does not mean it is surely an image
+    i_really_want_to_index_images_and_whatnot = False
+
+    
+    if indexing_condition or i_really_want_to_index_images_and_whatnot:
+        data_file, link_list_file, text_list_file = website_path(website_name)
+    
+    
+    # Save data in folder
+    if len(raw_file_data) == 0:
+        return data_file, link_list_file, text_list_file
+    
+    save_html_to_file(raw_file_data, data_file) # Save raw html/data
+    if len(link_list) != 0:
         save_list_to_file(link_list, link_list_file) # Save links
+    if len(text_list) != 0:
         save_list_to_file(text_list, text_list_file) # Save text
 
     return data_file, link_list_file, text_list_file
