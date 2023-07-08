@@ -38,23 +38,13 @@ def byte_to_string(filedata):
         return ''
 
 def link_parser(file_data):
-    # Returns all links found in the page
-    link_parse_data = file_data.split('\n')
-    link_parse_data = remove_whitespaces_from_list(link_parse_data)
-    
-    temp_list = []
-    for index in link_parse_data:
-        
+    receive = find_url(file_data)
+    output = []
+    for url in receive:
         # IGNORE DANGEROUS ENTRIES!!!
-        if '\'' in index or '\"\"' in index or '\\' in index:
-            continue
-
-        search = find_url(index)
-
-        if len(search) >= 1:
-            for item in search:
-                temp_list.append(item)
-    return temp_list
+        if not ('\'' in url or '\"\"' in url or '\\' in url):
+            output.append(url)
+    return output
 
 def text_parser(file_data):
     # Return all blocks of text in the file
