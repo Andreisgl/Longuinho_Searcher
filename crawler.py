@@ -6,14 +6,16 @@ import indexer as indexer
 import shutil
 import textwrap
 
+# EXCEPTIONS
 class EmptyListException(Exception):
     pass
 
-
+# DISPLAY STUFF
 def get_terminal_columns():
     return shutil.get_terminal_size().columns
 no_terminal_columns = get_terminal_columns()
 
+# PATH MANAGEMENT
 def main_folder_manager():
     global CRAWLER_FOLDER
     CRAWLER_FOLDER = os.path.join('.\\', CRAWLER_FOLDER)
@@ -26,6 +28,7 @@ def main_folder_manager():
     global link_history_file
     link_history_file = os.path.join(CRAWLER_FOLDER, link_history_file)
 
+# LINK EXTRACTION
 def get_links_from_url(url):
     data_file, link_list_file = indexer.get_website(url)[0:2] # Data, link, text.
     link_list = []
@@ -97,7 +100,7 @@ def load_history_from_file():
             save_to_history()
 
 
-#####
+# MAIN ITERATOR - TODO: Make function to iterate history folder for reindexing
 def iterate_queue(number_of_items):
     # Goes through 'incoming'
     # scrapes all links from the first URL in the list,
@@ -167,8 +170,8 @@ def iterate_queue(number_of_items):
     
     
     return pages_searched
-#####
 
+# LIST CLEANING
 def remove_all_instances_in_list(term, list):
     pop_counter = 0
     for j in range(len(list)-1, 0, -1):
@@ -197,7 +200,6 @@ def remove_blacklisted_sites():
     for term in full_terms:
         remove_link_from_incoming_queue(term)
     return remove_counter
-
 def remove_duplicated_sites():
     # This function removes duplicates from the incoming list.
     # Returns number of excluded terms.
@@ -210,15 +212,12 @@ def remove_duplicated_sites():
     final_size = len(incoming_link_queue)
     
     return initial_size - final_size
-
 def remove_duplicates_from_list(in_list):
     in_list = list(dict.fromkeys(in_list))
     return in_list
-
 def remove_links_in_history_from_incoming():
     # Removes from 'incoming' links already present in history.
     return 0
-
 def clean_incoming_links():
     # This function rids 'incoming_link_queue' from:
     # Duplicated websites,
@@ -279,7 +278,6 @@ def expand_index(number_of_urls_to_expand):
         pages_to_search = remaining_number_to_search
         if remaining_number_to_search > max_pages_per_iteration:
             pages_to_search = max_pages_per_iteration
-            pass
         (pages_searched, number_of_items,
             found_links) = iterate_queue(pages_to_search)
         
