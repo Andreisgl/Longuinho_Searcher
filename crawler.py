@@ -117,8 +117,10 @@ def iterate_queue(number_of_items):
 
         # Print current URL
         display_url = textwrap.wrap(incoming_link_queue[0], no_terminal_columns)
-        print('{} of {}\n{}'.format(pages_searched+1,
-                                     number_of_items, display_url[0]))
+        #print('{} of {}\n{}'.format(pages_searched+1,
+        #                             number_of_items, display_url[0]))
+
+        print('{}'.format(display_url[0]))
 
         # Keep doing normal stuff
         ammount_of_links = len(aux_list)
@@ -279,8 +281,8 @@ def expand_index(number_of_urls_to_expand):
         total_found_links += found_links
 
         print('\nIteration finished!')
-        print('Pages searched: {}\n'
-            .format(pages_searched))
+        print('Pages searched: {} of {}\n'
+            .format(pages_searched, number_of_urls_to_expand))
         #print('New pages found: {}\n'.format(str(found_links)))
 
     print('Expanded index by {} iterations, {} links.'.format(
@@ -288,7 +290,7 @@ def expand_index(number_of_urls_to_expand):
     print('New pages found: {}'.format(total_found_links))
     pass
 
-expand_index(1)
+expand_index(2)
 
 
 
