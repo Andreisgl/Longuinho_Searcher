@@ -17,7 +17,7 @@ def remove_whitespaces_from_list(in_list):
 
     return in_list
 
-def cleanhtml(raw_html):
+def cleanhtml(raw_html): #TODO FUNCTION UNUSED!!!
   CLEANR = re.compile('<.*?>|&([a-z0-9]+|#[0-9]{1,6}|#x[0-9a-f]{1,6});')
   cleantext = re.sub(CLEANR, '', raw_html)
   return cleantext
