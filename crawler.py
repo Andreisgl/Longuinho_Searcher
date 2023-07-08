@@ -265,10 +265,15 @@ def expand_index(number_of_urls_to_expand):
     total_pages_searched = 0
     remaining_number_to_search = number_of_urls_to_expand
     total_found_links = 0
+    pages_to_search = 0
 
     while total_pages_searched < number_of_urls_to_expand:
+        pages_to_search = remaining_number_to_search
+        if remaining_number_to_search > max_pages_per_iteration:
+            pages_to_search = max_pages_per_iteration
+            pass
         (pages_searched, number_of_items,
-            found_links) = iterate_queue(remaining_number_to_search)
+            found_links) = iterate_queue(pages_to_search)
         
         number_of_iterations += 1
         total_pages_searched += pages_searched
@@ -285,7 +290,7 @@ def expand_index(number_of_urls_to_expand):
     print('New pages found: {}'.format(total_found_links))
     pass
 
-expand_index(10)
+expand_index(14)
 
 
 
