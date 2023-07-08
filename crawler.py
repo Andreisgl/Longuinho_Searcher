@@ -137,8 +137,9 @@ def iterate_queue(number_of_items):
         else:
             print(url_error)
 
-        # Save current link to history
-        link_history_list.append(incoming_link_queue[0])
+        # Save current link to history, if page is indexed
+        if url_error != 'Site not indexed':
+            link_history_list.append(incoming_link_queue[0])
         # Remove current link from incoming
         incoming_link_queue.pop(0)
 
@@ -286,7 +287,7 @@ def expand_index(number_of_urls_to_expand):
     print('New pages found: {}'.format(total_found_links))
     pass
 
-expand_index(20)
+expand_index(2)
 
 
 
