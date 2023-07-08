@@ -113,7 +113,7 @@ def iterate_queue(number_of_items):
     found_links = 0
     pages_searched = 0
     index = 0
-    while (pages_searched < number_of_items):        
+    while (pages_searched < number_of_items):
         aux_list, url_error = get_links_from_url(incoming_link_queue[index])# Possible bottleneck?
 
         # Print current URL
