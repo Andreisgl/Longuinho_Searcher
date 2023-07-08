@@ -30,7 +30,9 @@ def main_folder_manager():
 
 # LINK EXTRACTION
 def get_links_from_url(url):
-    data_file, link_list_file = indexer.get_website(url)[0:2] # Data, link, text.
+    website_paths = indexer.get_website(url)
+    website_paths = website_paths[0:2]+website_paths[3:4]
+    data_file, link_list_file, meta_list_file = website_paths # Data, link, text.
     link_list = []
     error_type = ''
     try:
@@ -47,9 +49,9 @@ def get_links_from_url(url):
     except FileNotFoundError:
             # Check if it just has no links or is not indexed at all
             try:
-                with open(data_file, 'r'):
+                with open(meta_list_file, 'r'):
                     pass
-                # If data_file opens, it just has no links
+                # If meta_list_file opens, it just has no links
                 error_type = 'No links in this site!'
             except FileNotFoundError:
                     # If it does not exist, it is not indexed at all
