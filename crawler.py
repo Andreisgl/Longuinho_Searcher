@@ -288,7 +288,7 @@ def expand_index(number_of_urls_to_expand):
     print('New pages found: {}'.format(total_found_links))
     pass
 
-expand_index(1)
+expand_index(20)
 
 
 
