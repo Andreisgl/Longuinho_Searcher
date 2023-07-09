@@ -32,7 +32,7 @@ def main_folder_manager():
 def get_links_from_url(url):
     website_paths = indexer.get_website(url)
     website_paths = website_paths[0:2]+website_paths[3:4]
-    data_file, link_list_file, meta_list_file = website_paths # Data, link, text.
+    link_list_file, meta_list_file = website_paths[1:] # Data, link, text.
     link_list = []
     error_type = ''
     try:
