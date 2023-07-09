@@ -294,10 +294,19 @@ def expand_index(number_of_urls_to_expand):
     pass
 
 def main():
-    expand_index(2)
+    print('Web crawler for Longin searcher')
+    error_counter = 0
+    while True:
+        try:
+            answer = int(input('Input how many webpages to index: '))
+        except ValueError:
+            error_counter += 1
+            if error_counter >= 3:
+                print('Input a number, dummy!')
+            continue
+        break
+    expand_index(answer)
+
 
 if __name__ == '__main__':
     main()
-
-
-pass
