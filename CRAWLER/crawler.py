@@ -2,10 +2,13 @@
 # and puts them into a queue for further crawling
 
 import os
-import indexer as indexer
 import shutil
 import textwrap
 
+from INDEXER import indexer as indexer
+
+cdw = os.getcwd()
+pass
 # EXCEPTIONS
 class EmptyListException(Exception):
     pass
@@ -18,7 +21,7 @@ no_terminal_columns = get_terminal_columns()
 # PATH MANAGEMENT
 def main_folder_manager():
     global CRAWLER_FOLDER
-    CRAWLER_FOLDER = os.path.join('.\\', CRAWLER_FOLDER)
+    CRAWLER_FOLDER = os.path.join(os.path.dirname(__file__), CRAWLER_FOLDER)
     if not os.path.exists(CRAWLER_FOLDER):
         os.mkdir(CRAWLER_FOLDER)
 
@@ -234,7 +237,7 @@ def clean_incoming_links():
 
 
 
-CRAWLER_FOLDER = 'CRAWLER'
+CRAWLER_FOLDER = 'crawler_data'
 link_queue_file = 'link_queue.txt'
 link_history_file = 'link_history.txt'
 
@@ -289,9 +292,11 @@ def expand_index(number_of_urls_to_expand):
     print('New pages found: {}'.format(total_found_links))
     pass
 
-expand_index(2)
+def main():
+    expand_index(2)
 
-
+if __name__ == '__main__':
+    main()
 
 
 pass

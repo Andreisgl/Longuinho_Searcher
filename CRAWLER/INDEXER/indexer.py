@@ -1,13 +1,14 @@
 # This script saves important data from the website and returns paths for the data.
 import os
 import time
-import website_data_extractor as site_ex
+from . import website_data_extractor as site_ex
 
 ALL_WEBSITES_FOLDER = 'SITES'
 
 def main_folders_manager():
     global ALL_WEBSITES_FOLDER
-    ALL_WEBSITES_FOLDER = os.path.join('.\\', ALL_WEBSITES_FOLDER)
+    basedir = os.path.dirname(os.path.dirname(__file__))
+    ALL_WEBSITES_FOLDER = os.path.join(basedir, ALL_WEBSITES_FOLDER)
     if(not os.path.exists(ALL_WEBSITES_FOLDER)):
         os.mkdir(ALL_WEBSITES_FOLDER)
 
@@ -31,7 +32,7 @@ def save_list_to_file(list, path):
 
 def website_path(name):
     aux = name
-    #aux.append(name)
+    data_file, link_list_file, text_list_file, meta_list_file = '', '', '', ''
     if '/' in aux:
         aux = aux.split('/')
     else:
@@ -45,7 +46,7 @@ def website_path(name):
                 os.mkdir(website_folder)
             except FileNotFoundError:
                 print('FileNotFoundError EXCEPTION!')
-                return '','',''
+                return data_file, link_list_file, text_list_file, meta_list_file
 
     data_file = 'data.txt'
     data_file = os.path.join(website_folder, data_file)
@@ -102,7 +103,7 @@ def get_website(search_url):
     
     # Save data in folder
     if len(raw_file_data) == 0: # If it has no data, there is nothing to index
-        return data_file, link_list_file, text_list_file
+        return data_file, link_list_file, text_list_file, meta_list_file
     
     save_html_to_file(raw_file_data, data_file) # Save raw html/data
     if len(link_list) != 0:

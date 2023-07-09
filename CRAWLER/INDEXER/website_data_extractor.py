@@ -1,7 +1,7 @@
 # This script extracts and saves all useful data from a single website
 import os
 import urllib.request
-import parser_l
+from . import parser_l
 
 illegal_filename_characters = ['#', '<', '$', '+', '%','>', '!', '`', '&', '*', "'", '|', '{', '?', '"', '=', '}', ':', '\\', '\xa0', '@', ';']
 # removed '/', since it is needed for diferent levels
