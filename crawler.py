@@ -151,22 +151,12 @@ def remove_duplicates_from_list(in_list):
 def remove_links_in_history_from_incoming():
     # Removes from 'incoming' links already present in history.
     global incoming_link_queue
-    links_removed = 0
+    global link_history_list
     starting_ammount = len(incoming_link_queue)
 
-    i = 0
-    while True:
-        if i <= len(link_history_list)-1:
-            break
-        inc = incoming_link_queue[i]
-        for h in range(len(link_history_list)):
-            his = link_history_list[h]
-            if inc == his:
-                incoming_link_queue.pop(i)
-            else:
-                i += 1
-    links_removed = starting_ammount - len(incoming_link_queue)
-    return links_removed
+    incoming_link_queue = [x for x in incoming_link_queue if x not in link_history_list]
+
+    return starting_ammount - len(incoming_link_queue)
 def clean_incoming_links():
     # This function rids 'incoming_link_queue' from:
     # Duplicated websites,
