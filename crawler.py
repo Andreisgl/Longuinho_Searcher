@@ -40,9 +40,9 @@ def get_links_from_url(url):
     link_list = []
     error_type = ''
     try:
-        with open(link_list_file, 'r') as file:
+        with open(link_list_file, 'rb') as file:
             try:
-                link_list = (file.read()).split('\n')
+                link_list = ((file.read()).decode('utf-8')).split('\n')
                 if (link_list[0] == ''):
                     raise EmptyListException
             except UnicodeDecodeError:
@@ -212,7 +212,7 @@ def crawl_queue(number_of_items):
     pages_searched = 0
     while (pages_searched < number_of_items):
         # Print current URL
-        display_url = textwrap.wrap(incoming_link_queue[0], no_terminal_columns)
+        display_url = textwrap.wrap(incoming_link_queue[0], no_terminal_columns-1)
         print('{}'.format(display_url[0]))
         
         # Keep doing normal stuff
@@ -228,7 +228,7 @@ def crawl_queue(number_of_items):
             print(url_error)
 
         # Save current link to history, if page is indexed
-        if url_error != 'Site not indexed':
+        if (url_error != 'Site not indexed'):
             link_history_list.append(incoming_link_queue[0])
         # Remove current link from incoming
         incoming_link_queue.pop(0)
