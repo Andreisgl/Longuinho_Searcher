@@ -94,13 +94,15 @@ def load_incoming_from_file():
 #HISTORY
 def save_to_history():
     # Saves a list of links to the 'link_history_file'
-    with open(link_history_file, 'ab') as file:
-        site_saver.save_list_to_file(link_history_list, link_history_file)
+    site_saver.save_list_to_file(link_history_list, link_history_file)
+    pass
 def load_history_from_file():
-    data = load_list_from_file(link_history_file, link_history_list)
-    if data == FileNotFoundError or data == '':
+    global link_history_list
+    link_history_list = load_list_from_file(link_history_file, link_history_list)
+    if link_history_list == FileNotFoundError or link_history_list == '':
+        link_history_list = []
         with open(link_history_file, 'wb'):
-            save_to_history()
+            pass
 
 # LIST CLEANING
 def remove_all_instances_in_list(term, list):
