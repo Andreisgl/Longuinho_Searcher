@@ -40,15 +40,30 @@ def website_path(name):
         aux = [aux]
     aux.insert(0, ALL_WEBSITES_FOLDER)
     website_folder = aux[0]
+
+    error = False
+    level_counter = 0
     for level in range(len(aux)-1):
         website_folder = os.path.join(website_folder, aux[level+1])
+        level_counter += 1
+
         if(not os.path.exists(website_folder)):
             try:
                 os.mkdir(website_folder)
             except FileNotFoundError:
                 print('FileNotFoundError EXCEPTION!')
-                return data_file, link_list_file, text_list_file, meta_list_file
-
+                error = True
+                break
+    
+    #Undo the file creation if it failed
+    if error:
+        for i in range(level_counter-1):
+            website_folder = os.path.split(website_folder)[0]
+            os.rmdir(website_folder)
+        return data_file, link_list_file, text_list_file, meta_list_file
+        
+            
+    
     data_file = 'data.txt'
     data_file = os.path.join(website_folder, data_file)
 
