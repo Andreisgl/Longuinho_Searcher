@@ -102,72 +102,6 @@ def load_history_from_file():
         with open(link_history_file, 'wb'):
             save_to_history()
 
-# MAIN ITERATOR - TODO: Make function to iterate history folder for reindexing
-def iterate_queue(number_of_items):
-    # Goes through 'incoming'
-    # scrapes all links from the first URL in the list,
-    # appends discovered links into the end of the list,
-    # removes the current link from the current URL,
-    # and proceeds to the next URL in 'incoming'
-    global current_link_queue
-    global incoming_link_queue
-    intermediate_link_queue = []
-    global link_history_list
-
-    print ('START Iteration')
-    load_incoming_from_file()
-    load_history_from_file()
-
-    max_number = len(incoming_link_queue)
-    if (number_of_items >= max_number) or (number_of_items == 0):
-        number_of_items = max_number
-    
-    
-    found_links = 0
-    pages_searched = 0
-    while (pages_searched < number_of_items):
-        aux_list, url_error = get_links_from_url(incoming_link_queue[0])# Possible bottleneck?
-
-        # Print current URL
-        display_url = textwrap.wrap(incoming_link_queue[0], no_terminal_columns)
-
-        print('{}'.format(display_url[0]))
-
-        # Keep doing normal stuff
-        ammount_of_links = len(aux_list)
-        if ammount_of_links > 0 and aux_list[0] != '':
-            found_links += ammount_of_links
-            for item in aux_list:
-                current_link_queue.append(item)
-            pages_searched += 1
-        else:
-            print(url_error)
-
-        # Save current link to history, if page is indexed
-        if url_error != 'Site not indexed':
-            link_history_list.append(incoming_link_queue[0])
-        # Remove current link from incoming
-        incoming_link_queue.pop(0)
-
-        # Save all pages found in this search
-        intermediate_link_queue = intermediate_link_queue + current_link_queue
-
-        current_link_queue.clear()
-    
-
-    # Add all found pages into 'incoming_link_queue'
-    incoming_link_queue = incoming_link_queue + intermediate_link_queue
-    
-    # Clean 'incoming' before saving
-    removed_links = clean_incoming_links()
-    found_links = found_links - removed_links
-
-    save_incoming_queue_to_file()
-    save_to_history()
-    
-    # Data for output: pages_searched, number_of_items, found_links
-    return pages_searched, number_of_items, found_links
-
 # LIST CLEANING
 def remove_all_instances_in_list(term, list):
     pop_counter = 0
@@ -236,7 +170,77 @@ def clean_incoming_links():
 
     return removed_duplicate_counter + removed_blacklist_counter
 
+# CRAWLING
+def plant_seed():
+    # Runs a single iteration from the seed URL
+    incoming_link_queue.append(SEED_URL)
+    save_incoming_queue_to_file()
+    print('Seed planted!')
+# MAIN ITERATOR - TODO: Make function to iterate history folder for reindexing
+def crawl_queue(number_of_items):
+    # Goes through 'incoming'
+    # scrapes all links from the first URL in the list,
+    # appends discovered links into the end of the list,
+    # removes the current link from the current URL,
+    # and proceeds to the next URL in 'incoming'
+    global current_link_queue
+    global incoming_link_queue
+    intermediate_link_queue = []
+    global link_history_list
 
+    print ('START Iteration')
+    load_incoming_from_file()
+    load_history_from_file()
+
+    max_number = len(incoming_link_queue)
+    if (number_of_items >= max_number) or (number_of_items == 0):
+        number_of_items = max_number
+    
+    
+    found_links = 0
+    pages_searched = 0
+    while (pages_searched < number_of_items):
+        aux_list, url_error = get_links_from_url(incoming_link_queue[0])# Possible bottleneck?
+
+        # Print current URL
+        display_url = textwrap.wrap(incoming_link_queue[0], no_terminal_columns)
+
+        print('{}'.format(display_url[0]))
+
+        # Keep doing normal stuff
+        ammount_of_links = len(aux_list)
+        if ammount_of_links > 0 and aux_list[0] != '':
+            found_links += ammount_of_links
+            for item in aux_list:
+                current_link_queue.append(item)
+            pages_searched += 1
+        else:
+            print(url_error)
+
+        # Save current link to history, if page is indexed
+        if url_error != 'Site not indexed':
+            link_history_list.append(incoming_link_queue[0])
+        # Remove current link from incoming
+        incoming_link_queue.pop(0)
+
+        # Save all pages found in this search
+        intermediate_link_queue = intermediate_link_queue + current_link_queue
+
+        current_link_queue.clear()
+    
+
+    # Add all found pages into 'incoming_link_queue'
+    incoming_link_queue = incoming_link_queue + intermediate_link_queue
+    
+    # Clean 'incoming' before saving
+    removed_links = clean_incoming_links()
+    found_links = found_links - removed_links
+
+    save_incoming_queue_to_file()
+    save_to_history()
+    
+    # Data for output: pages_searched, number_of_items, found_links
+    return pages_searched, number_of_items, found_links
 
 CRAWLER_FOLDER = 'crawler_data'
 link_queue_file = 'link_queue.txt'
@@ -255,11 +259,7 @@ SEED_URL = 'https://en.wikipedia.org/wiki/English_Wikipedia'
 current_link_queue = []
 incoming_link_queue = []
 
-def plant_seed():
-    # Runs a single iteration from the seed URL
-    incoming_link_queue.append(SEED_URL)
-    save_incoming_queue_to_file()
-    print('Seed planted!')
+
 
 
 
@@ -276,7 +276,7 @@ def expand_index(number_of_urls_to_expand):
         if remaining_number_to_search > max_pages_per_iteration:
             pages_to_search = max_pages_per_iteration
         (pages_searched, number_of_items,
-            found_links) = iterate_queue(pages_to_search)
+            found_links) = crawl_queue(pages_to_search)
         
         number_of_iterations += 1
         total_pages_searched += pages_searched
