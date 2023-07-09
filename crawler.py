@@ -150,7 +150,23 @@ def remove_duplicates_from_list(in_list):
     return in_list
 def remove_links_in_history_from_incoming():
     # Removes from 'incoming' links already present in history.
-    return 0
+    global incoming_link_queue
+    links_removed = 0
+    starting_ammount = len(incoming_link_queue)
+
+    i = 0
+    while True:
+        if i <= len(link_history_list)-1:
+            break
+        inc = incoming_link_queue[i]
+        for h in range(len(link_history_list)):
+            his = link_history_list[h]
+            if inc == his:
+                incoming_link_queue.pop(i)
+            else:
+                i += 1
+    links_removed = starting_ammount - len(incoming_link_queue)
+    return links_removed
 def clean_incoming_links():
     # This function rids 'incoming_link_queue' from:
     # Duplicated websites,
@@ -161,16 +177,18 @@ def clean_incoming_links():
     removed_duplicate_counter = remove_duplicated_sites()
     removed_blacklist_counter = remove_blacklisted_sites()
     removed_existent_counter = remove_links_in_history_from_incoming()
-
+    
+    total_removed = removed_duplicate_counter + removed_blacklist_counter + removed_existent_counter
 
     final_statistics = (
         'Removed {} duplicates, {} blacklisted, {} already indexed websites.'
         ).format(removed_duplicate_counter, removed_blacklist_counter,
         removed_existent_counter)
     
-    #print(final_statistics)
+    print(final_statistics)
+    print('Total removed: ' + str(total_removed))
 
-    return removed_duplicate_counter + removed_blacklist_counter
+    return total_removed
 
 # CRAWLING
 def plant_seed():
@@ -202,14 +220,13 @@ def crawl_queue(number_of_items):
     found_links = 0
     pages_searched = 0
     while (pages_searched < number_of_items):
-        aux_list, url_error = get_links_from_url(incoming_link_queue[0])# Possible bottleneck?
-
         # Print current URL
         display_url = textwrap.wrap(incoming_link_queue[0], no_terminal_columns)
-
         print('{}'.format(display_url[0]))
-
+        
         # Keep doing normal stuff
+        aux_list, url_error = get_links_from_url(incoming_link_queue[0])# Possible bottleneck?
+
         ammount_of_links = len(aux_list)
         if ammount_of_links > 0 and aux_list[0] != '':
             found_links += ammount_of_links
