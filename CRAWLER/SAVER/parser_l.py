@@ -7,16 +7,12 @@ from bs4 import BeautifulSoup
 
 def find_url(string):
     pass
-    output = []
     urlsoup = BeautifulSoup(string, 'html.parser')
     aux = urlsoup.find_all('a')
-    for link in aux:
-        href = link.get('href')
-        if href != None and href.startswith('http'):
-            output.append(href)
-    return output
+    return [x.get('href') for x in aux
+            if x.get('href') != None and x.get('href').startswith('http')]
 
-def remove_whitespaces_from_list(in_list):
+def remove_whitespaces_from_list(in_list): # Unused function? Check better later
     for index in range(len(in_list)):
         in_list[index] = in_list[index].strip()
     in_list = [x for x in in_list if x != '']
