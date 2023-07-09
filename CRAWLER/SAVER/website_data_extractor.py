@@ -36,15 +36,18 @@ def sanitize_url_to_filesystem(input):
    return input
 
 def extract_html(url):
+   #TODO: add headers to pass as browser
    url = sanitize_url_to_name(url)
    url = 'http://' + url
    try:
-      with urllib.request.urlopen(url) as response:
+      with urllib.request.urlopen(url, timeout = 20.0) as response:
          html = response.read()
       return html
+   except TimeoutError:
+      print('TIMEOUT @ ' + url)
    except:
-      #print('HTML error @ ' + url)
-      return b''
+      print('UNKNOWN HTML ERROR')
+   return b''
 
 
 def get_website_data(url):
