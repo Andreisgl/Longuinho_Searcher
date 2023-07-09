@@ -5,7 +5,7 @@ import os
 import shutil
 import textwrap
 
-from CRAWLER.INDEXER import indexer as indexer
+from CRAWLER.SAVER import site_saver as site_saver
 
 cdw = os.getcwd()
 pass
@@ -34,7 +34,7 @@ def main_folder_manager():
 
 # LINK EXTRACTION
 def get_links_from_url(url):
-    website_paths = indexer.get_website(url)
+    website_paths = site_saver.get_website(url)
     website_paths = website_paths[0:2]+website_paths[3:4]
     link_list_file, meta_list_file = website_paths[1:] # Data, link, text.
     link_list = []
@@ -78,7 +78,7 @@ def load_list_from_file(in_file, list):
 
 #INCOMING_LINK_QUEUE
 def save_incoming_queue_to_file():
-    indexer.save_list_to_file(incoming_link_queue, link_queue_file)
+    site_saver.save_list_to_file(incoming_link_queue, link_queue_file)
 def load_incoming_from_file():
     global link_queue_file
     global incoming_link_queue
@@ -95,7 +95,7 @@ def load_incoming_from_file():
 def save_to_history():
     # Saves a list of links to the 'link_history_file'
     with open(link_history_file, 'ab') as file:
-        indexer.save_list_to_file(link_history_list, link_history_file)
+        site_saver.save_list_to_file(link_history_list, link_history_file)
 def load_history_from_file():
     data = load_list_from_file(link_history_file, link_history_list)
     if data == FileNotFoundError or data == '':
