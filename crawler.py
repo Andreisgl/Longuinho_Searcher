@@ -122,7 +122,8 @@ def remove_blacklisted_sites():
     # This allows to remove it from the incoming list.
     # Returns number of excluded terms.
     # Only use when incoming_link_queue is already loaded
-    blacklist = ['web.archive.org', 'abclocal.go.com', 'slate.com']
+    blacklist = []
+    #blacklist = ['web.archive.org', 'abclocal.go.com', 'slate.com']
     prefixes = ['http://', 'https://']
     full_terms = []
     remove_counter = 0
