@@ -5,7 +5,7 @@ import os
 import shutil
 import textwrap
 
-from INDEXER import indexer as indexer
+from CRAWLER.INDEXER import indexer as indexer
 
 cdw = os.getcwd()
 pass
@@ -21,7 +21,8 @@ no_terminal_columns = get_terminal_columns()
 # PATH MANAGEMENT
 def main_folder_manager():
     global CRAWLER_FOLDER
-    CRAWLER_FOLDER = os.path.join(os.path.dirname(__file__), CRAWLER_FOLDER)
+    CRAWLER_FOLDER = os.path.join(os.path.dirname(__file__),
+                                  'CRAWLER', CRAWLER_FOLDER)
     if not os.path.exists(CRAWLER_FOLDER):
         os.mkdir(CRAWLER_FOLDER)
 

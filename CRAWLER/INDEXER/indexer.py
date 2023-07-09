@@ -3,11 +3,12 @@ import os
 import time
 from . import website_data_extractor as site_ex
 
-ALL_WEBSITES_FOLDER = 'SITES'
+ALL_WEBSITES_FOLDER = 'SITES_INDEX'
 
 def main_folders_manager():
     global ALL_WEBSITES_FOLDER
     basedir = os.path.dirname(os.path.dirname(__file__))
+    basedir = ''
     ALL_WEBSITES_FOLDER = os.path.join(basedir, ALL_WEBSITES_FOLDER)
     if(not os.path.exists(ALL_WEBSITES_FOLDER)):
         os.mkdir(ALL_WEBSITES_FOLDER)
