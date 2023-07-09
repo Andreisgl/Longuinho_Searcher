@@ -6,9 +6,15 @@ from bs4 import BeautifulSoup
 
 
 def find_url(string):
-    regex = r"(?i)\b((?:https?://|www\d{0,3}[.]|[a-z0-9.\-]+[.][a-z]{2,4}/)(?:[^\s()<>]+|\(([^\s()<>]+|(\([^\s()<>]+\)))*\))+(?:\(([^\s()<>]+|(\([^\s()<>]+\)))*\)|[^\s`!()\[\]{};:'\".,<>?«»“”‘’]))"
-    url = re.findall(regex, string)
-    return [x[0] for x in url]
+    pass
+    output = []
+    urlsoup = BeautifulSoup(string, 'html.parser')
+    aux = urlsoup.find_all('a')
+    for link in aux:
+        href = link.get('href')
+        if href != None and href.startswith('http'):
+            output.append(href)
+    return output
 
 def remove_whitespaces_from_list(in_list):
     for index in range(len(in_list)):
