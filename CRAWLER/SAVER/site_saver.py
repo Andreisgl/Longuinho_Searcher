@@ -43,6 +43,18 @@ def save_list_to_file(list, path):
     except FileNotFoundError:
        pass
 
+def load_list_from_file(in_file, list):
+    try:
+        with open(in_file, 'rb') as file:
+            data = (file.read()).decode('utf-8')
+            if data == '':
+                #raise EmptyListException
+                return ''
+            list = data.split('\n')
+            return list
+    except FileNotFoundError:
+        return FileNotFoundError
+
 def website_path(name):
     global DATA_FILENAME
     global LINK_LIST_FILENAME
