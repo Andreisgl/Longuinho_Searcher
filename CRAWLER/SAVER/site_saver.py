@@ -5,15 +5,23 @@ from . import website_data_extractor as site_ex
 
 def main_folders_manager():
     global ALL_WEBSITES_FOLDER
-    basedir = os.path.dirname(os.path.dirname(__file__))
-    basedir = ''
-    ALL_WEBSITES_FOLDER = os.path.join(basedir, ALL_WEBSITES_FOLDER)
+    database_dir = os.path.dirname(os.path.dirname(__file__))
+    ALL_WEBSITES_FOLDER = os.path.join(database_dir, ALL_WEBSITES_FOLDER)
     if(not os.path.exists(ALL_WEBSITES_FOLDER)):
         os.mkdir(ALL_WEBSITES_FOLDER)
 
 def get_pages_database_path():
     # The indexer will need to know where the pages are located
     return ALL_WEBSITES_FOLDER
+
+def get_filenames():
+    global DATA_FILENAME
+    global LINK_LIST_FILENAME
+    global TEXT_LIST_FILENAME
+    global META_LIST_FILENAME
+
+    return (DATA_FILENAME, LINK_LIST_FILENAME,
+            TEXT_LIST_FILENAME, META_LIST_FILENAME)
 
 
 def save_html_to_file(html, filepath):
@@ -35,6 +43,11 @@ def save_list_to_file(list, path):
        pass
 
 def website_path(name):
+    global DATA_FILENAME
+    global LINK_LIST_FILENAME
+    global TEXT_LIST_FILENAME
+    global META_LIST_FILENAME
+
     aux = name
     data_file, link_list_file, text_list_file, meta_list_file = '', '', '', ''
     if '/' in aux:
@@ -65,19 +78,11 @@ def website_path(name):
             os.rmdir(website_folder)
         return data_file, link_list_file, text_list_file, meta_list_file
         
-            
-    
-    data_file = 'data.txt'
-    data_file = os.path.join(website_folder, data_file)
 
-    link_list_file = 'links.txt'
-    link_list_file = os.path.join(website_folder, link_list_file)
-
-    text_list_file = 'text.txt'
-    text_list_file = os.path.join(website_folder, text_list_file)
-
-    meta_list_file = 'meta.txt'
-    meta_list_file = os.path.join(website_folder, meta_list_file)
+    data_file = os.path.join(website_folder, DATA_FILENAME)
+    link_list_file = os.path.join(website_folder, LINK_LIST_FILENAME)
+    text_list_file = os.path.join(website_folder, TEXT_LIST_FILENAME)
+    meta_list_file = os.path.join(website_folder, META_LIST_FILENAME)
 
     return data_file, link_list_file, text_list_file, meta_list_file
 
@@ -135,6 +140,13 @@ def get_website(search_url): # Rename later to 'save_website'
     save_list_to_file(meta_list, meta_list_file)
 
     return data_file, link_list_file, text_list_file, meta_list_file
+
+
+DATA_FILENAME = 'data.txt'
+LINK_LIST_FILENAME = 'links.txt'
+TEXT_LIST_FILENAME = 'text.txt'
+META_LIST_FILENAME = 'meta.txt'
+
 
 ALL_WEBSITES_FOLDER = 'SITES_INDEX'
 main_folders_manager()
