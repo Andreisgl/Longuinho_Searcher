@@ -15,6 +15,16 @@ def main_folders_manager():
      LINK_LIST_FILENAME,
      TEXT_LIST_FILENAME,
      META_LIST_FILENAME) = site_saver.get_filenames()
+    
+    # MAIN FOLDER
+    global INDEXER_FOLDER
+    INDEXER_FOLDER = os.path.join(os.path.dirname(__file__), INDEXER_FOLDER)
+    if not os.path.exists(INDEXER_FOLDER):
+        os.mkdir(INDEXER_FOLDER)
+
+    # MAIN_PAGE_LIST FILE
+    global main_page_list_file
+    main_page_list_file = os.path.join(INDEXER_FOLDER, main_page_list_file)
 
 def file_comber(curr_dir, file_name):
     # Recursively finds and returns paths for a file name in a directory
@@ -40,7 +50,6 @@ def file_comber(curr_dir, file_name):
 def get_all_of_a_file_in_database(file_name):
     # Finds recursively all instances of a file name in the database
     return file_comber(PAGES_DATABASE_FOLDER, file_name)
-
 def get_file_name_in_folder(file_name, folder):
     folder = os.path.dirname(folder)
     aux_list = []
@@ -69,14 +78,65 @@ def gather_all_paths_in_database():
             # I really didn't know you could append directly like this. Yay!
     return main_page_list
 
+def main_page_list_to_saveable_list():
+    # 'main_page_list' is a list of lists, so it can't be saved as it is.
+    # This function concatenates the contents of the sublist, separated by
+    # a specific character,
+    # and turns it into a simple list.
+    global main_page_list
+    separation_char = ('|')
+    
+    saveable_list = []
+
+    for page in main_page_list:
+        substring = ''
+        for index, path in enumerate(page): # Another loop trick! I like it!
+            substring += path
+            if not index == len(page)-1:
+                substring += separation_char
+        saveable_list.append(substring)
+    return saveable_list
+def unpack_main_page_list(input):
+    # Translates 'main_page_list' from file to useable form
+    separation_char = ('|')
+    output = []
+
+    for page in input:
+        output.append(page.split('|'))
+
+    return output
+
+def save_main_page_list():
+    global main_page_list_file
+    data = main_page_list_to_saveable_list()
+    site_saver.save_list_to_file(data, main_page_list_file)
+def load_main_page_list():
+    global main_page_list_file
+    list = site_saver.load_list_from_file(main_page_list_file)
+    aux = unpack_main_page_list(list)
+
+
+def open_list_file(path): #TODO: Remove, as it is redundant now
+    # Open a webpage's file and return its data as a list
+    with open(path, 'rb') as file:
+        data = file.read()
+    return (data.decode('utf-8')).split('\n')
+
+
 def main():
     main_folders_manager()
     
-    a = gather_all_paths_in_database()
+    global main_page_list
+    global main_page_list_file
 
     
+    main_page_list = gather_all_paths_in_database()
+    save_main_page_list()
+    
+    load_main_page_list()
 
-    pass
+    return ''
+
 
 # DATABASE INFO
 PAGES_DATABASE_FOLDER = site_saver.get_pages_database_path()
@@ -85,8 +145,9 @@ LINK_LIST_FILENAME = ''
 TEXT_LIST_FILENAME = ''
 META_LIST_FILENAME = ''
 
-
-
+INDEXER_FOLDER = 'INDEXER'
+main_page_list_file = 'INDEXER_MPL.txt'
+main_page_list = []
 
 
 
