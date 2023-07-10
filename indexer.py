@@ -41,12 +41,41 @@ def get_all_of_a_file_in_database(file_name):
     # Finds recursively all instances of a file name in the database
     return file_comber(PAGES_DATABASE_FOLDER, file_name)
 
+def get_file_name_in_folder(file_name, folder):
+    folder = os.path.dirname(folder)
+    aux_list = []
+    if file_name in os.listdir(folder):
+        return os.path.join(folder, file_name)
+    return ''
+    
+
+def gather_all_paths_in_database():
+    # Returns a list of all file paths for all pages
+    global DATA_FILENAME
+    global LINK_LIST_FILENAME
+    global TEXT_LIST_FILENAME
+    global META_LIST_FILENAME
+
+    # Through meta files, we can locate every page without directory wizardry.
+    file_name_list = [DATA_FILENAME, LINK_LIST_FILENAME, TEXT_LIST_FILENAME]
+
+    meta_list = get_all_of_a_file_in_database(META_LIST_FILENAME)
+    main_page_list = [[x] for x in meta_list]
+    
+    # Make elements of 'main_page_list' lists containing all four file paths
+    for name in file_name_list:
+        for page in main_page_list:
+            page.append(get_file_name_in_folder(name, page[0]))
+            # I really didn't know you could append directly like this. Yay!
+    return main_page_list
 
 def main():
     main_folders_manager()
-
-    auxlist = get_all_of_a_file_in_database(META_LIST_FILENAME)
     
+    a = gather_all_paths_in_database()
+
+    
+
     pass
 
 # DATABASE INFO
