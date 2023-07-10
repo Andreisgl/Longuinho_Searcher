@@ -73,7 +73,7 @@ def load_incoming_from_file():
     global link_queue_file
     global incoming_link_queue
     while True:
-        data = site_saver.load_list_from_file(link_queue_file, incoming_link_queue)
+        data = site_saver.load_list_from_file(link_queue_file)
         if data == FileNotFoundError:
             plant_seed()
             continue
@@ -88,7 +88,7 @@ def save_to_history():
     pass
 def load_history_from_file():
     global link_history_list
-    link_history_list = site_saver.load_list_from_file(link_history_file, link_history_list)
+    link_history_list = site_saver.load_list_from_file(link_history_file)
     if link_history_list == FileNotFoundError or link_history_list == '':
         link_history_list = []
         with open(link_history_file, 'wb'):

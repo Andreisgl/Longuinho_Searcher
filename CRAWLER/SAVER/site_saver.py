@@ -43,7 +43,7 @@ def save_list_to_file(list, path):
     except FileNotFoundError:
        pass
 
-def load_list_from_file(in_file, list):
+def load_list_from_file(in_file):
     try:
         with open(in_file, 'rb') as file:
             data = (file.read()).decode('utf-8')
