@@ -5,7 +5,8 @@ from . import website_data_extractor as site_ex
 
 def main_folders_manager():
     global ALL_WEBSITES_FOLDER
-    database_dir = os.path.dirname(os.path.dirname(__file__))
+    #database_dir = os.path.dirname(os.path.dirname(__file__))
+    database_dir = ''
     ALL_WEBSITES_FOLDER = os.path.join(database_dir, ALL_WEBSITES_FOLDER)
     if(not os.path.exists(ALL_WEBSITES_FOLDER)):
         os.mkdir(ALL_WEBSITES_FOLDER)
