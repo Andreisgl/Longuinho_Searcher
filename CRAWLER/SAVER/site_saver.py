@@ -3,8 +3,6 @@ import os
 import time
 from . import website_data_extractor as site_ex
 
-ALL_WEBSITES_FOLDER = 'SITES_INDEX'
-
 def main_folders_manager():
     global ALL_WEBSITES_FOLDER
     basedir = os.path.dirname(os.path.dirname(__file__))
@@ -12,6 +10,11 @@ def main_folders_manager():
     ALL_WEBSITES_FOLDER = os.path.join(basedir, ALL_WEBSITES_FOLDER)
     if(not os.path.exists(ALL_WEBSITES_FOLDER)):
         os.mkdir(ALL_WEBSITES_FOLDER)
+
+def get_pages_database_path():
+    # The indexer will need to know where the pages are located
+    return ALL_WEBSITES_FOLDER
+
 
 def save_html_to_file(html, filepath):
    try:
@@ -133,4 +136,5 @@ def get_website(search_url): # Rename later to 'save_website'
 
     return data_file, link_list_file, text_list_file, meta_list_file
 
+ALL_WEBSITES_FOLDER = 'SITES_INDEX'
 main_folders_manager()
