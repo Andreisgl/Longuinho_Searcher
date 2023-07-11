@@ -26,6 +26,9 @@ def main_folders_manager():
     global main_page_path_list_file
     main_page_path_list_file = os.path.join(INDEXER_FOLDER, main_page_path_list_file)
 
+    global ranked_url_list_file
+    ranked_url_list_file = os.path.join(INDEXER_FOLDER, ranked_url_list_file)
+
 def file_comber(curr_dir, file_name):
     # Recursively finds and returns paths for a file name in a directory
     # Get proper paths for every folder in current dir
@@ -58,6 +61,59 @@ def get_file_name_in_folder(file_name, folder):
     return ''
     
 
+
+# LIST CONVERSION
+def list_of_lists_to_saveable_list(input_list):
+    # Some lists can't be writen to a file line by line,
+    # as it is with such as 'main_page_path_list' and 'ranked_url_list'.
+
+    # This function concatenates the contents of the sublist, separated by
+    # a specific character,
+    # and turns it into a simple list.
+
+    # NOTE: This only works with a simple list of lists, in the format:
+    # list[['a', 'b', 'c'], ['d', 'e', 'f']]
+    # Result: ['a|b|c', 'd|e|f']
+    
+    # If a int type is present in the sublist,
+    # it will be marked with an identifier
+
+    separation_char = ('|')
+    int_identifier = '´'
+
+    simple_list = []
+
+    for item in input_list:
+        substring = ''
+        for index, path in enumerate(item): # Another loop trick! I like it!
+            # If subitem is int, mark it with an identifier
+            if type(path) == int:
+                path = int_identifier + str(path)
+            substring += path
+            if not index == len(item)-1:
+                substring += separation_char
+        simple_list.append(substring)
+
+    return simple_list
+def unpack_list_of_lists(input_list):
+    # This function does the opposite of 'list_of_lists_to_saveable_list()'
+    # Returns the layered list in its original state
+
+    separation_char = ('|')
+    int_identifier = '´'
+
+    output_list = []
+    for page in input_list:
+        data = page.split('|')
+        for index, subitem in enumerate(data):
+            if int_identifier in subitem:
+                data[index] = int(subitem.split(int_identifier)[1])
+        output_list.append(data)
+
+    return output_list
+
+
+# MAIN_PAGE_PATH_LIST
 def gather_all_paths_in_database():
     # Returns a list of all file paths for all pages
     global DATA_FILENAME
@@ -78,61 +134,34 @@ def gather_all_paths_in_database():
             # I really didn't know you could append directly like this. Yay!
     return main_page_path_list
 
-def main_page_path_list_to_saveable_list():
-    # 'main_page_path_list' is a list of lists, so it can't be saved as it is.
-    # This function concatenates the contents of the sublist, separated by
-    # a specific character,
-    # and turns it into a simple list.
-    global main_page_path_list
-    separation_char = ('|')
-    
-    saveable_list = []
-
-    for page in main_page_path_list:
-        substring = ''
-        for index, path in enumerate(page): # Another loop trick! I like it!
-            substring += path
-            if not index == len(page)-1:
-                substring += separation_char
-        saveable_list.append(substring)
-    return saveable_list
-def unpack_main_page_path_list(input):
-    # Translates 'main_page_path_list' from file to useable form
-    separation_char = ('|')
-    output = []
-
-    for page in input:
-        output.append(page.split('|'))
-
-    return output
-
 def save_main_page_path_list():
+    global main_page_path_list
     global main_page_path_list_file
-    data = main_page_path_list_to_saveable_list()
+
+    data = list_of_lists_to_saveable_list(main_page_path_list)
+    
     site_saver.save_list_to_file(data, main_page_path_list_file)
 def load_main_page_path_list():
     global main_page_path_list
+    global main_page_path_list_file
+
     list = site_saver.load_list_from_file(main_page_path_list_file)
-    main_page_path_list = unpack_main_page_path_list(list)
+    main_page_path_list = unpack_list_of_lists(list)
+def update_main_page_path_list():
+    global main_page_path_list
+    main_page_path_list = gather_all_paths_in_database()
 
-
-def open_list_file(path): #TODO: Remove, as it is redundant now
-    # Open a webpage's file and return its data as a list
-    with open(path, 'rb') as file:
-        data = file.read()
-    return (data.decode('utf-8')).split('\n')
-
-
+# TERM SEARCHING
 def search_term_in_list(search_term, in_list):
     # Returns items in 'in_list' that contain the 'search_term'
     return [x for x in in_list if search_term in x]
-
 def search_list_in_page(search_term, path):
     # Returns lines in a file that contain the 'search_term'
     data = site_saver.load_list_from_file(path)
     return search_term_in_list(search_term, data)
 
 
+# RANKED_URL_LIST
 def get_url_ranking_from_database():
     # Ranks all pages by the ammount of times they are mentioned in the database
     # Returns URLs and the times cited in descending order
@@ -166,20 +195,42 @@ def get_url_ranking_from_database():
     mention_list = [x for mention_list,
                     x in
                     sorted(zip(mention_count_list,mention_list),reverse=True)]
-
     return mention_list
 
-def main():
-    main_folders_manager()
-    
+def save_ranked_url_list():
+    global ranked_url_list
+    global ranked_url_list_file
+
+    data = list_of_lists_to_saveable_list(ranked_url_list)
+    site_saver.save_list_to_file(data, ranked_url_list_file)
+def load_ranked_url_list():
+    global ranked_url_list
+    global ranked_url_list_file
+
+    list = site_saver.load_list_from_file(ranked_url_list_file)
+    ranked_url_list = unpack_list_of_lists(list)
+def update_ranked_url_list():
+    global ranked_url_list
+    ranked_url_list = get_url_ranking_from_database()
+
+
+def main():   
     global main_page_path_list
     global main_page_path_list_file
-    load_main_page_path_list()
-    main_page_path_list = gather_all_paths_in_database()
-    
-    aux = get_url_ranking_from_database()
+    global ranked_url_list
+    global ranked_url_list_file
 
-    return ''
+    main_folders_manager()
+    
+
+    load_main_page_path_list()
+    load_ranked_url_list()
+    
+    #update_ranked_url_list()
+    #save_ranked_url_list()
+    
+
+    pass
 
 
 
@@ -191,9 +242,12 @@ TEXT_LIST_FILENAME = ''
 META_LIST_FILENAME = ''
 
 INDEXER_FOLDER = 'INDEXER'
+
 main_page_path_list_file = 'INDEXER_MPL.txt'
 main_page_path_list = []
 
+ranked_url_list = []
+ranked_url_list_file = 'INDEXER_URL_rank.txt'
 
 
 if __name__ == '__main__':
