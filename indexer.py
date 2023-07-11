@@ -22,9 +22,9 @@ def main_folders_manager():
     if not os.path.exists(INDEXER_FOLDER):
         os.mkdir(INDEXER_FOLDER)
 
-    # MAIN_PAGE_LIST FILE
-    global main_page_list_file
-    main_page_list_file = os.path.join(INDEXER_FOLDER, main_page_list_file)
+    # main_page_path_list FILE
+    global main_page_path_list_file
+    main_page_path_list_file = os.path.join(INDEXER_FOLDER, main_page_path_list_file)
 
 def file_comber(curr_dir, file_name):
     # Recursively finds and returns paths for a file name in a directory
@@ -69,26 +69,26 @@ def gather_all_paths_in_database():
     file_name_list = [DATA_FILENAME, LINK_LIST_FILENAME, TEXT_LIST_FILENAME]
 
     meta_list = get_all_of_a_file_in_database(META_LIST_FILENAME)
-    main_page_list = [[x] for x in meta_list]
+    main_page_path_list = [[x] for x in meta_list]
     
-    # Make elements of 'main_page_list' lists containing all four file paths
+    # Make elements of 'main_page_path_list' lists containing all four file paths
     for name in file_name_list:
-        for page in main_page_list:
+        for page in main_page_path_list:
             page.append(get_file_name_in_folder(name, page[0]))
             # I really didn't know you could append directly like this. Yay!
-    return main_page_list
+    return main_page_path_list
 
-def main_page_list_to_saveable_list():
-    # 'main_page_list' is a list of lists, so it can't be saved as it is.
+def main_page_path_list_to_saveable_list():
+    # 'main_page_path_list' is a list of lists, so it can't be saved as it is.
     # This function concatenates the contents of the sublist, separated by
     # a specific character,
     # and turns it into a simple list.
-    global main_page_list
+    global main_page_path_list
     separation_char = ('|')
     
     saveable_list = []
 
-    for page in main_page_list:
+    for page in main_page_path_list:
         substring = ''
         for index, path in enumerate(page): # Another loop trick! I like it!
             substring += path
@@ -96,8 +96,8 @@ def main_page_list_to_saveable_list():
                 substring += separation_char
         saveable_list.append(substring)
     return saveable_list
-def unpack_main_page_list(input):
-    # Translates 'main_page_list' from file to useable form
+def unpack_main_page_path_list(input):
+    # Translates 'main_page_path_list' from file to useable form
     separation_char = ('|')
     output = []
 
@@ -106,14 +106,14 @@ def unpack_main_page_list(input):
 
     return output
 
-def save_main_page_list():
-    global main_page_list_file
-    data = main_page_list_to_saveable_list()
-    site_saver.save_list_to_file(data, main_page_list_file)
-def load_main_page_list():
-    global main_page_list
-    list = site_saver.load_list_from_file(main_page_list_file)
-    main_page_list = unpack_main_page_list(list)
+def save_main_page_path_list():
+    global main_page_path_list_file
+    data = main_page_path_list_to_saveable_list()
+    site_saver.save_list_to_file(data, main_page_path_list_file)
+def load_main_page_path_list():
+    global main_page_path_list
+    list = site_saver.load_list_from_file(main_page_path_list_file)
+    main_page_path_list = unpack_main_page_path_list(list)
 
 
 def open_list_file(path): #TODO: Remove, as it is redundant now
@@ -136,15 +136,15 @@ def search_list_in_page(search_term, path):
 def get_url_ranking_from_database():
     # Ranks all pages by the ammount of times they are mentioned in the database
     # Returns URLs and the times cited in descending order
-    global main_page_list
-    global main_page_list_file
+    global main_page_path_list
+    global main_page_path_list_file
 
     
     mention_list = []
     mention_count_list = []
 
     page_counter = 0
-    for page in main_page_list:
+    for page in main_page_path_list:
         link_list = site_saver.load_list_from_file(page[2])
         page_dir = page[0]
         
@@ -172,10 +172,10 @@ def get_url_ranking_from_database():
 def main():
     main_folders_manager()
     
-    global main_page_list
-    global main_page_list_file
-    load_main_page_list()
-    main_page_list = gather_all_paths_in_database()
+    global main_page_path_list
+    global main_page_path_list_file
+    load_main_page_path_list()
+    main_page_path_list = gather_all_paths_in_database()
     
     aux = get_url_ranking_from_database()
 
@@ -191,8 +191,8 @@ TEXT_LIST_FILENAME = ''
 META_LIST_FILENAME = ''
 
 INDEXER_FOLDER = 'INDEXER'
-main_page_list_file = 'INDEXER_MPL.txt'
-main_page_list = []
+main_page_path_list_file = 'INDEXER_MPL.txt'
+main_page_path_list = []
 
 
 
