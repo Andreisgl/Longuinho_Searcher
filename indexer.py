@@ -111,9 +111,9 @@ def save_main_page_list():
     data = main_page_list_to_saveable_list()
     site_saver.save_list_to_file(data, main_page_list_file)
 def load_main_page_list():
-    global main_page_list_file
+    global main_page_list
     list = site_saver.load_list_from_file(main_page_list_file)
-    aux = unpack_main_page_list(list)
+    main_page_list = unpack_main_page_list(list)
 
 
 def open_list_file(path): #TODO: Remove, as it is redundant now
@@ -123,17 +123,26 @@ def open_list_file(path): #TODO: Remove, as it is redundant now
     return (data.decode('utf-8')).split('\n')
 
 
+def search_term_in_list(search_term, in_list):
+    # Returns items in 'in_list' that contain the 'search_term'
+    return [x for x in in_list if search_term in x]
+
+def search_list_in_page(search_term, path):
+    # Returns lines in a file that contain the 'search_term'
+    data = site_saver.load_list_from_file(path)
+    return search_term_in_list(search_term, data)
+
 def main():
     main_folders_manager()
     
     global main_page_list
     global main_page_list_file
-
-    
-    main_page_list = gather_all_paths_in_database()
-    save_main_page_list()
-    
     load_main_page_list()
+    main_page_list = gather_all_paths_in_database()
+    
+    search_term = ' page '
+    aux = search_list_in_page(search_term, main_page_list[93][3])
+    
 
     return ''
 
