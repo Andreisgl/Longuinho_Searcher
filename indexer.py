@@ -220,6 +220,10 @@ def main():
     global ranked_url_list
     global ranked_url_list_file
 
+    print('Gotta fix ranked_list !!!!!')
+    pass
+
+
     main_folders_manager()
     
 
