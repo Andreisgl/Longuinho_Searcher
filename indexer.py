@@ -132,6 +132,43 @@ def search_list_in_page(search_term, path):
     data = site_saver.load_list_from_file(path)
     return search_term_in_list(search_term, data)
 
+
+def get_url_ranking_from_database():
+    # Ranks all pages by the ammount of times they are mentioned in the database
+    # Returns URLs and the times cited in descending order
+    global main_page_list
+    global main_page_list_file
+
+    
+    mention_list = []
+    mention_count_list = []
+
+    page_counter = 0
+    for page in main_page_list:
+        link_list = site_saver.load_list_from_file(page[2])
+        page_dir = page[0]
+        
+        for index, link in enumerate(link_list):
+            # Index unique links
+            if link not in mention_list:
+                mention_list.append(link)
+                mention_count_list.append(0)
+            # Increase count for existing links
+            else:
+                location = mention_list.index(link)
+                mention_count_list[location] += 1
+            page_counter += 1
+    
+    # Make a list for all URLs, each item consisting of [URL, count, path]
+    mention_list = [[x, mention_count_list[i], page_dir] 
+                    for i, x in enumerate(mention_list)]
+    # Order links from most cited to less cited
+    mention_list = [x for mention_list,
+                    x in
+                    sorted(zip(mention_count_list,mention_list),reverse=True)]
+
+    return mention_list
+
 def main():
     main_folders_manager()
     
@@ -140,11 +177,10 @@ def main():
     load_main_page_list()
     main_page_list = gather_all_paths_in_database()
     
-    search_term = ' page '
-    aux = search_list_in_page(search_term, main_page_list[93][3])
-    
+    aux = get_url_ranking_from_database()
 
     return ''
+
 
 
 # DATABASE INFO
