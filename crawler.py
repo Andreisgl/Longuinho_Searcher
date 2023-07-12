@@ -94,6 +94,12 @@ def load_history_from_file():
         with open(link_history_file, 'wb'):
             pass
 
+# STATISTICS:
+def count_pages_indexed():
+    global link_history_list
+    load_history_from_file()
+    return len(link_history_list)
+
 # LIST CLEANING
 def remove_all_instances_in_list(term, list):
     pop_counter = 0
@@ -299,6 +305,8 @@ def expand_index(number_requested):
 def main():
     print('TODO!!!!!!! MAKE CRAWLER NOT NEED TO ACCESS A SABED FILE!!!!!!!!!!!!!!!!\n\n\n')
     print('Web crawler for Longin searcher')
+    print('Pages currently indexed: {}'.format(count_pages_indexed()))
+
     error_counter = 0
     while True:
         try:
@@ -310,8 +318,8 @@ def main():
             continue
         break
     expand_index(answer)
-
-    input('Job finished! Press any key to close.')
+    print('Pages currently indexed: {}\n'.format(count_pages_indexed()))
+    input('Job finished! Press ENTER to close.')
 
 
 if __name__ == '__main__':
