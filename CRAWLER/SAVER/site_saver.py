@@ -88,7 +88,10 @@ def website_path(name):
     if error:
         for i in range(level_counter-1):
             website_folder = os.path.split(website_folder)[0]
-            os.rmdir(website_folder)
+            try:
+                os.rmdir(website_folder)
+            except OSError:
+                break
         return data_file, link_list_file, text_list_file, meta_list_file
         
 

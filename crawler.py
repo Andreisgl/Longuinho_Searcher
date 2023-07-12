@@ -297,6 +297,7 @@ def expand_index(number_requested):
     pass
 
 def main():
+    print('TODO!!!!!!! MAKE CRAWLER NOT NEED TO ACCESS A SABED FILE!!!!!!!!!!!!!!!!\n\n\n')
     print('Web crawler for Longin searcher')
     error_counter = 0
     while True:
