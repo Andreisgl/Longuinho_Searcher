@@ -163,39 +163,68 @@ def search_list_in_page(search_term, path):
 
 # RANKED_URL_LIST
 def get_url_ranking_from_database():
-    # Ranks all pages by the ammount of times they are mentioned in the database
-    # Returns URLs and the times cited in descending order
+    # Ranks pages by the ammount of times they are mentioned in the database
+    # Returns [URL, meta file path, times cited] in descending order.
     global main_page_path_list
     global main_page_path_list_file
 
     
     mention_list = []
     mention_count_list = []
+    page_link_list = []
 
     page_counter = 0
     for page in main_page_path_list:
-        link_list = site_saver.load_list_from_file(page[2])
+        # Get URL from current page
+        page_link = (site_saver.load_list_from_file(page[0])[0]).split('\\')[1]
+        page_link = [page_link, page[0]] # Trasport URL and page path
+        page_link_list.append(page_link)
+        # Get URLs mentioned in this page
+        sub_link_list = site_saver.load_list_from_file(page[2])
+
         page_dir = page[0]
-        
-        for index, link in enumerate(link_list):
-            # Index unique links
+        for index, link in enumerate(sub_link_list):
+            
             if link not in mention_list:
+                # Index unique links
                 mention_list.append(link)
                 mention_count_list.append(0)
-            # Increase count for existing links
             else:
+                # Increase count for existing links
                 location = mention_list.index(link)
                 mention_count_list[location] += 1
             page_counter += 1
     
-    # Make a list for all URLs, each item consisting of [URL, count, path]
-    mention_list = [[x, mention_count_list[i], page_dir] 
-                    for i, x in enumerate(mention_list)]
+    # Make a list for all URLs, each item consisting of [URL, count]
+    mention_list = [[x, mention_count_list[i]] for i, x in enumerate(mention_list)]
+
     # Order links from most cited to less cited
-    mention_list = [x for mention_list,
-                    x in
-                    sorted(zip(mention_count_list,mention_list),reverse=True)]
-    return mention_list
+    #mention_list = [x for mention_list, x in sorted(zip(mention_count_list,mention_list),reverse=True)]
+
+    # Strip counts from 'mention_list'
+    aux = [x[0] for x in mention_list]
+    aux2 = [x[1] for x in mention_list]
+    pass
+
+    # The ranking of the currently indexed pages
+    page_link_rank = []
+    page_link_mention_count = []
+
+    for page_link in page_link_list:
+        try:
+            # Find index of 'page_link' mentioned in 'aux'
+            index = aux.index(page_link[0])
+        except ValueError:
+            page_mention_count = 0
+        page_mention_count = aux2[index]
+        page_link_rank.append([page_link[0], page_link[1], page_mention_count])
+        page_link_mention_count.append(page_mention_count)
+    
+    # Order list
+    page_link_rank = [x for page_link_rank, x in sorted(zip(page_link_mention_count,page_link_rank),reverse=True)]
+    
+
+    return page_link_rank
 
 def save_ranked_url_list():
     global ranked_url_list
@@ -210,6 +239,7 @@ def load_ranked_url_list():
     list = site_saver.load_list_from_file(ranked_url_list_file)
     ranked_url_list = unpack_list_of_lists(list)
 def update_ranked_url_list():
+    # The rank of the currently indexed pages
     global ranked_url_list
     ranked_url_list = get_url_ranking_from_database()
 
@@ -219,19 +249,14 @@ def main():
     global main_page_path_list_file
     global ranked_url_list
     global ranked_url_list_file
-
-    print('Gotta fix ranked_list !!!!!')
-    pass
-
-
-    main_folders_manager()
+    
     
 
-    load_main_page_path_list()
-    load_ranked_url_list()
+    #load_main_page_path_list()
+    #load_ranked_url_list()
     
-    #update_ranked_url_list()
-    #save_ranked_url_list()
+    update_ranked_url_list()
+    save_ranked_url_list()
     
 
     pass
@@ -253,6 +278,7 @@ main_page_path_list = []
 ranked_url_list = []
 ranked_url_list_file = 'INDEXER_URL_rank.txt'
 
+main_folders_manager()
 
 if __name__ == '__main__':
     main()
