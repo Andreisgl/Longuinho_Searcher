@@ -37,6 +37,7 @@ def sanitize_url_to_filesystem(input):
 
 def extract_html(url):
    #TODO: add headers to pass as browser
+   print('TODO!!!!!!! CHANGE urlopen() to urlget()') #TODO
    url = sanitize_url_to_name(url)
    url = 'http://' + url
    try:
