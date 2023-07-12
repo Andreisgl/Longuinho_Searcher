@@ -37,17 +37,28 @@ def sanitize_url_to_filesystem(input):
 
 def extract_html(url):
    #TODO: add headers to pass as browser
-   print('TODO!!!!!!! CHANGE urlopen() to urlget()') #TODO
    url = sanitize_url_to_name(url)
    url = 'http://' + url
+   
+
+
+
+
    try:
       with urllib.request.urlopen(url, timeout = 20.0) as response:
          html = response.read()
       return html
    except TimeoutError:
       print('TIMEOUT @ ' + url)
-   except:
-      print('UNKNOWN HTML ERROR')
+   except urllib.error.HTTPError as e:
+      if e.status != 307:
+         raise  # not a status code that can be handled here
+      redirected_url = urllib.parse.urljoin(url, e.headers['Location'])
+      resp = urllib.request.urlopen(redirected_url)
+      print('Redirected -> %s' % redirected_url)  # the original redirected url 
+   print('Response URL -> %s ' % resp.url)  # the final url
+   #except:
+   #   print('UNKNOWN HTML ERROR')
    return b''
 
 

@@ -185,7 +185,7 @@ def crawl_queue(number_of_items):
     # removes the current link from the current URL,
     # and proceeds to the next URL in 'incoming'
     global current_link_queue
-    global incoming_link_queue
+    global incoming_link_queue # DOES THIS NEED TO BE GLOBAL?????????????
     intermediate_link_queue = []
     global link_history_list
 
@@ -310,6 +310,8 @@ def main():
             continue
         break
     expand_index(answer)
+
+    input('Job finished! Press any key to close.')
 
 
 if __name__ == '__main__':
