@@ -37,6 +37,7 @@ def sanitize_url_to_filesystem(input):
 
 def extract_html(url):
    #TODO: add headers to pass as browser
+   real_url = url
    url = sanitize_url_to_name(url)
    url = 'http://' + url
    
@@ -47,40 +48,27 @@ def extract_html(url):
    try:
       with urllib.request.urlopen(url, timeout = 20.0) as response:
          html = response.read()
-      return html
-   
-   except urllib.error.HTTPError as e:
-      try:
-         if e.status >= 300 and e.status <= 308: # HTTP redirection codes
-            redirected_url = urllib.parse.urljoin(url, e.headers['Location'])
-            resp = urllib.request.urlopen(redirected_url)
-            print('Redirected -> %s' % redirected_url)  # the original redirected url 
-            print('Response URL -> %s ' % resp.url)  # the final url
-         else:
-            raise # Update specific procedures for different error codes later
-      except:
-         return b''
-   
-
-
+      real_url = response.url
+      html_code = response.status
+      return html, real_url
 
    ### Disable later?
    except TimeoutError:
       print('TIMEOUT @ ' + url)
    except:
-      print('UNKNOWN HTML ERROR')
-   return b''
+      print('HTML CODE: {}'.format(html_code))
+   return b'', real_url
 
 
 def get_website_data(url):
-    website_name = sanitize_url_to_filesystem(url)
+   raw_file_data, real_url = extract_html(url)
+   html_data = parser_l.byte_to_string(raw_file_data)
 
-    raw_file_data = extract_html(url)
-    html_data = parser_l.byte_to_string(raw_file_data)
+   link_list = parser_l.link_parser(html_data)
+   text_list = parser_l.text_parser(html_data)
 
-    link_list = parser_l.link_parser(html_data)
-    text_list = parser_l.text_parser(html_data)
+   website_name = sanitize_url_to_filesystem(real_url)
 
-    return website_name, raw_file_data, link_list, text_list
+   return website_name, raw_file_data, link_list, text_list, real_url
 
 pass

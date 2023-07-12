@@ -35,7 +35,9 @@ def main_folder_manager():
 # LINK EXTRACTION
 def get_links_from_url(url):
     website_paths = site_saver.get_website(url)
+    real_url = website_paths[4]
     website_paths = website_paths[0:2]+website_paths[3:4]
+    
     link_list_file, meta_list_file = website_paths[1:] # Data, link, text.
     link_list = []
     error_type = ''
@@ -61,7 +63,7 @@ def get_links_from_url(url):
                     # If it does not exist, it is not indexed at all
                     error_type = 'Site not indexed'
         
-    return link_list, error_type
+    return link_list, error_type, real_url
 
 #LIST MANAGEMENT
 
@@ -206,13 +208,18 @@ def crawl_queue(number_of_items):
     
     found_links = 0
     pages_searched = 0
-    while (pages_searched < number_of_items):
+    while (pages_searched < number_of_items):        
+        # Get data from URL
+        aux_list, url_error, real_url = get_links_from_url(incoming_link_queue[0])# Possible bottleneck?
+
         # Print current URL
         display_url = textwrap.wrap(incoming_link_queue[0], no_terminal_columns-1)
         print('{}'.format(display_url[0]))
-        
-        # Keep doing normal stuff
-        aux_list, url_error = get_links_from_url(incoming_link_queue[0])# Possible bottleneck?
+        if incoming_link_queue[0] != real_url:
+            # If the page searched was redirected, print final page as well
+            display_real_url = textwrap.wrap('Redirected to: ' + incoming_link_queue[0], no_terminal_columns-1)
+            print('{}'.format(display_real_url[0]))
+
 
         ammount_of_links = len(aux_list)
         if ammount_of_links > 0 and aux_list[0] != '':
@@ -225,7 +232,14 @@ def crawl_queue(number_of_items):
 
         # Save current link to history, if page is indexed
         if (url_error != 'Site not indexed'):
+            # Append searched URL to the history.
             link_history_list.append(incoming_link_queue[0])
+
+            # Redirections happen. This updates history with the new URL
+            # The searched and real URLs need to be appended, so the searched
+            # URL is not searched again in the future
+            if incoming_link_queue[0] != real_url:
+                link_history_list.append(real_url)
         # Remove current link from incoming
         incoming_link_queue.pop(0)
 

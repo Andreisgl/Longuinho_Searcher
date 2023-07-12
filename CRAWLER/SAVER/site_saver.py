@@ -112,10 +112,10 @@ def get_website(search_url): # Rename later to 'save_website'
     (website_name,
      raw_file_data,
      link_list,
-     text_list) = site_ex.get_website_data(search_url)
+     text_list, real_url) = site_ex.get_website_data(search_url)
 
     # CREATE METADATA
-    meta_url = 'URL\{}'.format(search_url)
+    meta_url = 'URL\{}'.format(real_url)
     now = time.time()
     meta_datetime_local=time.strftime('%Y-%m-%d %H:%M %Z',time.localtime(now))
     meta_datetime_gmt = time.strftime('%Y-%m-%d %H:%M %Z', time.gmtime(now))
@@ -155,7 +155,7 @@ def get_website(search_url): # Rename later to 'save_website'
     
     save_list_to_file(meta_list, meta_list_file)
 
-    return data_file, link_list_file, text_list_file, meta_list_file
+    return data_file, link_list_file, text_list_file, meta_list_file, real_url
 
 
 DATA_FILENAME = 'data.txt'
