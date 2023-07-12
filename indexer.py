@@ -251,13 +251,22 @@ def main():
     global ranked_url_list_file
     
     
+    load_main_page_path_list()
+    load_ranked_url_list()
+    
+    #update_ranked_url_list()
+    #save_ranked_url_list()
+    
 
-    #load_main_page_path_list()
-    #load_ranked_url_list()
-    
-    update_ranked_url_list()
-    save_ranked_url_list()
-    
+
+    # Search depending on relevance
+    search_term = ' English '
+    results = []
+    for page in ranked_url_list:
+        path = os.path.join(os.path.dirname(page[1]), TEXT_LIST_FILENAME)
+        aux = search_list_in_page(search_term, path)
+        if aux != []:
+            results.append(aux)
 
     pass
 
