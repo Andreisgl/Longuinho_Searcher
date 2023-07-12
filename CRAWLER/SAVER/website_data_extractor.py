@@ -48,17 +48,27 @@ def extract_html(url):
       with urllib.request.urlopen(url, timeout = 20.0) as response:
          html = response.read()
       return html
+   
+   except urllib.error.HTTPError as e:
+      try:
+         if e.status >= 300 and e.status <= 308: # HTTP redirection codes
+            redirected_url = urllib.parse.urljoin(url, e.headers['Location'])
+            resp = urllib.request.urlopen(redirected_url)
+            print('Redirected -> %s' % redirected_url)  # the original redirected url 
+            print('Response URL -> %s ' % resp.url)  # the final url
+         else:
+            raise # Update specific procedures for different error codes later
+      except:
+         return b''
+   
+
+
+
+   ### Disable later?
    except TimeoutError:
       print('TIMEOUT @ ' + url)
-   except urllib.error.HTTPError as e:
-      if e.status != 307:
-         raise  # not a status code that can be handled here
-      redirected_url = urllib.parse.urljoin(url, e.headers['Location'])
-      resp = urllib.request.urlopen(redirected_url)
-      print('Redirected -> %s' % redirected_url)  # the original redirected url 
-   print('Response URL -> %s ' % resp.url)  # the final url
-   #except:
-   #   print('UNKNOWN HTML ERROR')
+   except:
+      print('UNKNOWN HTML ERROR')
    return b''
 
 
