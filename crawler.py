@@ -99,8 +99,10 @@ def load_history_from_file():
 # STATISTICS:
 def count_pages_indexed():
     global link_history_list
+    global history_redirect_indicator
     load_history_from_file()
-    return len(link_history_list)
+    real_indexed_list = [x for x in link_history_list if history_redirect_indicator not in x]
+    return len(real_indexed_list)
 
 # LIST CLEANING
 def remove_all_instances_in_list(term, list):
@@ -193,7 +195,7 @@ def crawl_queue(number_of_items):
     # removes the current link from the current URL,
     # and proceeds to the next URL in 'incoming'
     global current_link_queue
-    global incoming_link_queue # DOES THIS NEED TO BE GLOBAL?????????????
+    global incoming_link_queue
     intermediate_link_queue = []
     global link_history_list
 
@@ -232,14 +234,20 @@ def crawl_queue(number_of_items):
 
         # Save current link to history, if page is indexed
         if (url_error != 'Site not indexed'):
-            # Append searched URL to the history.
-            link_history_list.append(incoming_link_queue[0])
-
             # Redirections happen. This updates history with the new URL
             # The searched and real URLs need to be appended, so the searched
             # URL is not searched again in the future
+
             if incoming_link_queue[0] != real_url:
+                global history_redirect_indicator
+                # Append searched URL to the history, mark it as redirector.
+                link_history_list.append(history_redirect_indicator + incoming_link_queue[0])
+                # Append real URL
                 link_history_list.append(real_url)
+            else:
+                 # Append searched URL to the history as it is
+                link_history_list.append(incoming_link_queue[0])
+        
         # Remove current link from incoming
         incoming_link_queue.pop(0)
 
@@ -268,6 +276,9 @@ link_history_file = 'link_history.txt'
 
 incoming_link_queue = []
 link_history_list = []
+
+# Indicates redirects in history, so they are not accounted as indexed.
+history_redirect_indicator  = '´'
 
 
 main_folder_manager()
