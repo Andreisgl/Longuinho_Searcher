@@ -199,7 +199,7 @@ def crawl_queue(number_of_items):
     intermediate_link_queue = []
     global link_history_list
 
-    print ('START Iteration')
+    print ('\nSTART Iteration\n')
     load_incoming_from_file()
     load_history_from_file()
 
