@@ -1,6 +1,9 @@
 # This script extracts and saves all useful data from a single website
 import os
+import time
+
 import urllib.request
+
 from . import parser_l
 
 illegal_filename_characters = ['#', '<', '$', '+', '%','>', '!', '`', '&', '*', "'", '|', '{', '?', '"', '=', '}', ':', '\\', '\xa0', '@', ';']
@@ -71,9 +74,22 @@ def extract_html(url):
       print('ERROR CODE: {}'.format(error_code))
 
       if error_code == 11001: # Connection problem
+         retry_times = 3
+         retry_cooldown_secs = 1
+         can_retry = True
+
          print('CHECK YOUR CONNECTION!!')
+         
+         for i in range(retry_times):
+            print('Retrying... {}/{}'.format(i+1, retry_times))
+            time.sleep(retry_cooldown_secs)
+
+            if i == range(retry_times):
+               can_retry = False
+         if can_retry:
+            continue # Retry
          input('Press enter to retry\n') # Freeze code
-         continue # Retry
+         continue
 
       elif error_code == 403: # Forbidden
          pass # Do not attempt to retry
