@@ -38,6 +38,14 @@ def sanitize_url_to_filesystem(input):
 def extract_html(url):
    #TODO: add headers to pass as browser
    real_url = url
+   error_code = ''
+
+   # If 'True', skip URL
+   # If 'False', retry
+   # Retry only if connection problem is suspected.
+   # Other errors shall return empty data
+   pass_over_retry = None
+
    url = sanitize_url_to_name(url)
    url = 'http://' + url
    
@@ -49,14 +57,30 @@ def extract_html(url):
       with urllib.request.urlopen(url, timeout = 20.0) as response:
          html = response.read()
       real_url = response.url
-      html_code = response.status
+      http_code = response.status
       return html, real_url
 
-   ### Disable later?
-   except TimeoutError:
-      print('TIMEOUT @ ' + url)
+   except urllib.error.URLError as e: # Unable to access URL
+      
+      if e.reason.errno == 11001:
+         error_code = e.reason.errno
+      else:
+         error_code = e.code
+      
    except:
-      print('HTML CODE: {}'.format(html_code))
+      error_code = '?'
+
+   print('ERROR CODE: {}'.format(error_code))
+
+   if error_code == 11001: # Connection problem
+      pass_over_retry = False
+      input('Press enter to continue') # Freeze code
+   elif error_code == 403: # Forbidden
+      pass_over_retry = True
+      # Return empty data: return b'', real_url
+   else:
+      pass_over_retry = True
+   
    return b'', real_url
 
 
