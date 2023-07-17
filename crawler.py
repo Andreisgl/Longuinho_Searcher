@@ -32,6 +32,7 @@ def save_list_in_file(in_list, filepath):
     # Saves a list as lines in a file
     # Returns 'True' if succeeded,
     # 'False' if failed.
+
     try:
         with open(filepath, 'wb') as file:
             for index, item in enumerate(in_list):
@@ -63,6 +64,8 @@ def load_incoming_from_file():
     global incoming_url_list
     global incoming_url_list_file
     incoming_url_list = load_list_from_file(incoming_url_list_file)
+    if incoming_url_list == '':
+        incoming_url_list = []
 
 # HISTORY LIST MANAGEMENT
 def save_history_to_file():
@@ -75,6 +78,8 @@ def load_history_from_file():
     global url_history_list
     global url_history_list_file
     url_history_list = load_list_from_file(url_history_list_file)
+    if url_history_list == '':
+        url_history_list = []
 
 
 
@@ -98,6 +103,7 @@ def pathfinder(ammount_to_search):
     global url_history_list_file
 
     load_incoming_from_file() # Load 'incoming' list
+    load_history_from_file() # Load 'history' list
 
     # Limit how many items to comb through base on how many are available
     max_number_of_links = len(incoming_url_list)
@@ -106,7 +112,7 @@ def pathfinder(ammount_to_search):
 
     
     # If 'incoming' file is empty
-    if incoming_url_list == '':
+    if incoming_url_list == []:
         # Add seed url to it
         incoming_url_list.append(SEED_URL)
         save_incoming_to_file()
