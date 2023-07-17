@@ -5,12 +5,6 @@ import os
 import urllib.request
 from bs4 import BeautifulSoup
 
-
-TEST_URL = 'https://en.wikipedia.org/wiki/Main_Page'
-#TEST_URL = 'https://eaa'
-
-search_url = TEST_URL
-
 # EXTRACTION
 def page_extractor(search_url):
     success_flag = True
@@ -42,12 +36,14 @@ def page_extractor(search_url):
     if success_flag:
         data_returned = (raw_data,
                          was_redirected,
+                         search_url,
                          final_url,
                          http_code,
                          success_flag)
     else:
         data_returned = (b'',
                          was_redirected,
+                         search_url,
                          final_url,
                          error_code,
                          success_flag)
@@ -77,7 +73,6 @@ def parse_urls(raw_data):
             clean_list.append(link)
 
     return clean_list
-
 # TEXT
 def parse_text(raw_data):
     text_soup = BeautifulSoup(raw_data, 'html.parser')
@@ -89,10 +84,17 @@ def parse_text(raw_data):
 
     return text
 
+# GET FULL DATA
+def get_data_from_url(search_url):
+    (raw_data,
+     was_redirected,
+     search_url,
+     final_url,
+     http_code,
+     success_flag) = page_extractor(search_url)
+    
+    url_list = parse_urls(raw_data)
+    text_list = parse_text(raw_data)
 
-data_package = page_extractor(TEST_URL)
-url_list = parse_urls(data_package[0])
-text_list = parse_text(data_package[0])
-
-
-pass
+    # Lots of data, yes, but it is necessary to stramline the upcoming processes
+    return raw_data, was_redirected, search_url, final_url, http_code, success_flag, url_list, text_list
