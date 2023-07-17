@@ -85,7 +85,7 @@ def load_history_from_file():
 def remove_duplicates_from_incoming():
     # Removes duplicates from 'incoming',
     # returns ammount of URLs removed.
-    # 'INCOMING' HAS TO BE LOADED BEFOREHAND!!!
+    # Only use when 'incoming_link_queue' is already loaded
     global incoming_url_list
     initial_length = len(incoming_url_list)
     incoming_url_list = list(dict.fromkeys(incoming_url_list))
@@ -94,7 +94,7 @@ def remove_duplicates_from_incoming():
 def removed_links_in_history_from_incoming():
     # Removes from 'incoming' URLs already present in 'history',
     # returns ammount of URLs removed
-    # BOTH LISTS HAVE TO BE LOADED BEFOREHAND!!!
+    # Only use when both lists are already loaded
     global incoming_url_list
     global url_history_list
 
@@ -103,8 +103,46 @@ def removed_links_in_history_from_incoming():
                          if x not in url_history_list]
     final_length = len(incoming_url_list)
     return initial_length - final_length
-#def remove_blacklisted_sites_from_incoming
+def remove_blacklisted_sites_from_incoming():
+    # Some sites just take too long to load, like the web.archive.
+    # This allows to remove them from the incoming list.
+    # Returns number of excluded terms.
+    # Only use when 'incoming_link_queue' is already loaded
 
+    global incoming_url_list
+    global blacklisted_websites
+    
+    # Add prefixes to each website so they reflect their counterparts
+    # in 'incoming'
+    prefixes = ['', 'http://', 'https://']
+    full_terms = []
+
+    initial_length = len(incoming_url_list)
+
+    for site in blacklisted_websites:
+        for prefix in prefixes:
+            full_terms.append(prefix + site)
+    for index, url in enumerate(incoming_url_list):
+        for site in full_terms:
+            if url.startswith(site):
+                incoming_url_list.pop(index)
+    
+    final_length = len(incoming_url_list)
+
+    return initial_length - final_length
+def clean_incoming():
+    # Unifies all cleaning methos into a single call
+    # Returns total ammount of URLs removed
+    # Only use when 'incoming_link_queue' is already loaded
+
+    removed_counter = 0
+    removed_counter +=  remove_duplicates_from_incoming()
+    removed_counter += removed_links_in_history_from_incoming()
+    removed_counter += remove_blacklisted_sites_from_incoming()
+    return removed_counter
+    
+
+# CRAWLING
 def pathfinder(ammount_to_search):
     # This function picks all links in a seed URL,
     # appends them to the 'incoming_url_list',
@@ -126,17 +164,17 @@ def pathfinder(ammount_to_search):
     load_incoming_from_file() # Load 'incoming' list
     load_history_from_file() # Load 'history' list
 
-    # Limit how many items to comb through base on how many are available
-    max_number_of_links = len(incoming_url_list)
-    if ammount_to_search > max_number_of_links:
-        ammount_to_search = max_number_of_links
-
-    
     # If 'incoming' file is empty
     if incoming_url_list == []:
         # Add seed url to it
         incoming_url_list.append(SEED_URL)
         save_incoming_to_file()
+
+    # Limit how many items to comb through base on how many are available
+    max_number_of_links = len(incoming_url_list)
+    if ammount_to_search > max_number_of_links:
+        ammount_to_search = max_number_of_links
+
     
     # If the called link redirected to somewhere else,
     # Mark it so it is included in history,
@@ -147,6 +185,7 @@ def pathfinder(ammount_to_search):
     intermediate_url_list = []
     current_url = ''
     number_of_pages_searched = 0
+    number_of_new_pages_found = 0
     while number_of_pages_searched < ammount_to_search:
         # Set up URL, get data
         current_url = incoming_url_list[0]
@@ -172,10 +211,15 @@ def pathfinder(ammount_to_search):
     for list in intermediate_url_list:
         for link in list:
             incoming_url_list.append(link)
+            number_of_new_pages_found += 1
 
-    # Save incoming and history
+    # Clean 'incoming' before saving
+    removed_counter = clean_incoming()
+    number_of_new_pages_found -= removed_counter
+    # Save 'incoming' and history
     save_incoming_to_file()
     save_history_to_file()
+
     return number_of_pages_searched
 
 MAIN_FOLDER = 'crawler_data'
@@ -186,12 +230,13 @@ incoming_url_list_file = 'queue.txt'
 url_history_list = []
 url_history_list_file = 'history.txt'
 
+blacklisted_websites = ['web.archive.org', 'abclocal.go.com', 'slate.com']
+
 SEED_URL = 'https://en.wikipedia.org/wiki/Main_Page'
 
 
 main_paths_manager()
 
-#aux = pathfinder(10)
-remove_duplicates_from_incoming()
-removed_links_in_history_from_incoming()
+pathfinder(10)
+
 pass
