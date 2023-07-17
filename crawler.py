@@ -28,6 +28,55 @@ def main_paths_manager():
             pass
 
 
+def save_list_in_file(in_list, filepath):
+    # Saves a list as lines in a file
+    # Returns 'True' if succeeded,
+    # 'False' if failed.
+    try:
+        with open(filepath, 'wb') as file:
+            for index, item in enumerate(in_list):
+                file.write(item.encode('utf-8'))
+                if index < len(in_list)-1:
+                    file.write('\n'.encode('utf-8'))
+        return True
+    except:
+        return False
+
+def load_list_from_file(file_path):
+    # Returns a list containing all lines in a file
+
+    data = ''
+    with open(file_path, 'rb') as file:
+        data = (file.read()).decode('utf-8')
+    if data != '':
+        data = data.split('\n')
+    
+    return data
+
+def pathfinder():
+    # This function picks all links in a seed URL,
+    # appends them to the 'incoming_url_list',
+    # and does the same to the following URLs in the list
+
+    global SEED_URL
+
+    global incoming_url_list
+    global incoming_url_list_file
+
+    global url_history_list
+    global url_history_list_file
+
+    #save_list_in_file(['aa', 'ee', 'ii'], incoming_url_list_file)
+
+
+
+    aux_list = load_list_from_file(incoming_url_list_file)
+
+
+
+    #aux = get_data_from_url()
+    pass
+
 MAIN_FOLDER = 'crawler_data'
 
 incoming_url_list = []
@@ -41,14 +90,4 @@ SEED_URL = 'https://en.wikipedia.org/wiki/Main_Page'
 
 main_paths_manager()
 
-def pathfinder():
-    # This function picks all links in a seed URL,
-    # appends them to the 'incoming_url_list',
-    # and does the same to the following URLs in the list
-
-    global SEED_URL
-    global incoming_url_list
-    global url_history_list
-
-    aux = get_data_from_url()
-    pass
+pathfinder()
