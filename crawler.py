@@ -27,7 +27,7 @@ def main_paths_manager():
         with open(url_history_list_file, 'w'):
             pass
 
-
+# LIST SAVING MANAGEMENT
 def save_list_in_file(in_list, filepath):
     # Saves a list as lines in a file
     # Returns 'True' if succeeded,
@@ -41,7 +41,6 @@ def save_list_in_file(in_list, filepath):
         return True
     except:
         return False
-
 def load_list_from_file(file_path):
     # Returns a list containing all lines in a file
 
@@ -53,10 +52,38 @@ def load_list_from_file(file_path):
     
     return data
 
-def pathfinder():
+# INCOMING LIST MANAGEMENT
+def save_incoming_to_file():
+    # Saves 'incoming_url_list' to its respective file
+    global incoming_url_list
+    global incoming_url_list_file
+    save_list_in_file(incoming_url_list, incoming_url_list_file)
+def load_incoming_from_file():
+    # Saves 'incoming_url_list' from its respective file
+    global incoming_url_list
+    global incoming_url_list_file
+    incoming_url_list = load_list_from_file(incoming_url_list_file)
+
+# HISTORY LIST MANAGEMENT
+def save_history_to_file():
+    # Saves 'incoming_url_list' to its respective file
+    global url_history_list
+    global url_history_list_file
+    save_list_in_file(url_history_list, url_history_list_file)
+def load_history_from_file():
+    # Saves 'incoming_url_list' from its respective file
+    global url_history_list
+    global url_history_list_file
+    url_history_list = load_list_from_file(url_history_list_file)
+
+
+
+
+def pathfinder(ammount_to_search):
     # This function picks all links in a seed URL,
     # appends them to the 'incoming_url_list',
     # and does the same to the following URLs in the list
+    # Searches the ammount of links defined in 'ammount_to_search'
 
     global SEED_URL
 
@@ -66,11 +93,27 @@ def pathfinder():
     global url_history_list
     global url_history_list_file
 
-    #save_list_in_file(['aa', 'ee', 'ii'], incoming_url_list_file)
+
+    load_incoming_from_file() # Load 'incoming' list
 
 
+    # Found URLs go here before being appended to 'incoming' list
+    intermediate_url_list = []
 
-    aux_list = load_list_from_file(incoming_url_list_file)
+    current_url = ''
+
+    
+
+    # If 'incoming' file is empty
+    if incoming_url_list == '':
+        # Add seed url to it
+        incoming_url_list.append(SEED_URL)
+        save_incoming_to_file()
+    
+    current_url = incoming_url_list[0]
+    data_pack = get_data_from_url(current_url)
+    intermediate_url_list = data_pack[6]
+    
 
 
 
@@ -90,4 +133,4 @@ SEED_URL = 'https://en.wikipedia.org/wiki/Main_Page'
 
 main_paths_manager()
 
-pathfinder()
+pathfinder(10)
