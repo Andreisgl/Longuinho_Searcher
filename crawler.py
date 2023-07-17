@@ -90,16 +90,24 @@ def load_history_from_file():
 
 # TO BE INDEXED LIST
 def save_to_be_indexed_to_file():
-    # This functions saves the 'to_be_indexed_queue' to its file
+    # This functions saves 'to_be_indexed_queue' to its file
     global to_be_indexed_queue
     global to_be_indexed_queue_file
 
-    #aux = translate_list_of_list(to_be_indexed_queue, True)
-    dummy_pack_list = [['pack1', ['subpack1a', 'subpack1b']],['pack2', ['subpack2a', 'subpack2b']]]
-    aux = translate_list_of_list(dummy_pack_list, True)
+    aux = translate_list_of_list(to_be_indexed_queue, True)
+    #dummy_pack_list = [['pack1', ['subpack1a', 'subpack1b']],['pack2', ['subpack2a', 'subpack2b']]]
+    #aux = translate_list_of_list(dummy_pack_list, True)
 
     save_list_in_file(aux, to_be_indexed_queue_file)
     pass
+def load_to_be_indexed_from_file():
+    # This functions loads 'to_be_indexed_queue' from its file
+    global to_be_indexed_queue
+    global to_be_indexed_queue_file
+
+    aux = load_list_from_file(to_be_indexed_queue_file)
+    to_be_indexed_queue = translate_list_of_list(aux, False)
+
 def translate_list_of_list(in_list, encode_flag):
     # This functions translate lists of lists to a file-saveable format
     # encode_flag:
@@ -112,18 +120,26 @@ def translate_list_of_list(in_list, encode_flag):
     #   A list inside a list inside a list: [ [ [] ] ]
     # This is messy, I know. That's how I was able to do it.
     
-    separation_char1 = '|'
-    separation_char2 = '^'
+    separation_char1 = '|*|'
+    separation_char2 = '^*^'
     out_list = []
     intermediate_list = []
-    #pack_substring = ''
-    if encode_flag:
+    if encode_flag: # Normal to saveable
         for pack in in_list:
             pack_substring = ''
             for index, item in enumerate(pack):
                 if type(item) == str:
                     pack_substring += item
-                
+                if type(item) == bytes:
+                    item = item.decode('utf-8')
+                if type(item) == bool:
+                    # Convert bool values to string
+                    if item:
+                        item = 'True'
+                    else:
+                        item = 'False'
+                if type(item) == int:
+                    item = str(item)
                 if type(item) == list:
                     sub_substring = ''
                     for index2, subitem in enumerate(item):
@@ -133,13 +149,24 @@ def translate_list_of_list(in_list, encode_flag):
                             sub_substring += separation_char2
                     item = sub_substring
 
-                    pack_substring += item
+                pack_substring += item
 
                 if index < len(pack)-1:
                     pack_substring += separation_char1
                 pass
             out_list.append(pack_substring)
+    else: # Saveable to normal:
+        for pack in in_list:
+            # Divide into normal structure
+            pack = pack.split(separation_char1)
+            # Unpack link and text lists
+            pack[5] = pack[5].split(separation_char2)
+            pack[6] = pack[6].split(separation_char2)
+            out_list.append(pack)
+
+        pass
     return out_list
+
 # MAIN LIST MANAGEMENT AND CLEANING
 def remove_duplicates_from_incoming():
     # Removes duplicates from 'incoming',
@@ -226,6 +253,7 @@ def pathfinder(ammount_to_search):
 
     load_incoming_from_file() # Load 'incoming' list
     load_history_from_file() # Load 'history' list
+    load_to_be_indexed_from_file() # Load 'to_be_indexed' list
 
     # If 'incoming' file is empty
     if incoming_url_list == []:
@@ -251,7 +279,8 @@ def pathfinder(ammount_to_search):
         intermediate_url_list.append(data_pack[6])
 
         # Save 'data_pack' to 'to_be_indexed_queue' for later indexing
-        to_be_indexed_queue.append(data_pack)
+        # Ignore raw data when indexing
+        to_be_indexed_queue.append(data_pack[1:])
 
         # Save to history
         if data_pack[1]:
@@ -277,9 +306,11 @@ def pathfinder(ammount_to_search):
     # Clean 'incoming' before saving
     removed_counter = clean_incoming()
     number_of_new_pages_found -= removed_counter
-    # Save 'incoming' and history
+
+    # Save 'incoming', 'history' and 'to_be_indexed'
     save_incoming_to_file()
     save_history_to_file()
+    save_to_be_indexed_to_file()
 
     return number_of_pages_searched
 def page_saver(): ####REWORKKKKKKKK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -323,8 +354,10 @@ SEED_URL = 'https://en.wikipedia.org/wiki/Main_Page'
 
 main_paths_manager()
 
-pathfinder(1)
+pathfinder(19)
 #page_saver()
-save_to_be_indexed_to_file()
+
+#save_to_be_indexed_to_file()
+#load_to_be_indexed_from_file()
 
 pass
