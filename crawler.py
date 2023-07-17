@@ -81,7 +81,16 @@ def load_history_from_file():
     if url_history_list == '':
         url_history_list = []
 
-
+# MAIN LIST MANAGEMENT
+def remove_duplicates_from_incoming():
+    # Removes duplicates from 'incoming',
+    # returns ammount of URLs removed.
+    # 'INCOMING' HAS TO BE LOADED FOR IT TO WORK!!!
+    global incoming_url_list
+    initial_length = len(incoming_url_list)
+    incoming_url_list = list(dict.fromkeys(incoming_url_list))
+    final_length = len(incoming_url_list)
+    return initial_length - final_length
 
 
 def pathfinder(ammount_to_search):
@@ -170,5 +179,6 @@ SEED_URL = 'https://en.wikipedia.org/wiki/Main_Page'
 
 main_paths_manager()
 
-aux = pathfinder(10)
+#aux = pathfinder(10)
+remove_duplicates_from_incoming()
 pass
