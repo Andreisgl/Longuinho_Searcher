@@ -93,7 +93,11 @@ def save_to_be_indexed_to_file():
     # This functions saves the 'to_be_indexed_queue' to its file
     global to_be_indexed_queue
     global to_be_indexed_queue_file
-    aux = translate_list_of_list(to_be_indexed_queue, True)
+
+    #aux = translate_list_of_list(to_be_indexed_queue, True)
+    dummy_pack_list = [['data', 'url', ['linklist', 'anotherlink']], [['duck', 'goose'], 'apple']]
+    aux = translate_list_of_list(dummy_pack_list, True)
+
     save_list_in_file(aux, to_be_indexed_queue_file)
     pass
 def translate_list_of_list(in_list, encode_flag):
@@ -116,33 +120,23 @@ def translate_list_of_list(in_list, encode_flag):
     if encode_flag:
         for pack in in_list:
             for index, item in enumerate(pack):
-                # Translate types to string
-                if type(item) == bytes:
-                    #item = item.decode('utf-8')########################################################3
-                    item = 'dummyrawdata'
-                elif type(item) == bool:
-                    item = 'True'
-                    if not item:
-                        item = 'False'
-                elif type(item) == int:
-                    item = str(item)
-                elif type(item) == str:
-                    item = 'dummyurl' ############################################################################
-                elif type(item) == list:
-                    # Organize sublist as single element
-                    item = ['dummy', 'sublist', 'yay'] #######################################################################
+                if type(item) == str:
+                    pack_substring += item
+                
+                if type(item) == list:
                     sub_substring = ''
-                    for index, sub_item in enumerate(item):
-                        sub_substring += sub_item
-                        if index < len(item)-1:
+                    for index2, subitem in enumerate(item):
+                        if type(subitem) == str:
+                            sub_substring += subitem
+                        if index2 < len(item)-1:
                             sub_substring += separation_char2
                     item = sub_substring
-                    
-                pack_substring += item
-                if index < len(in_list[0])-2:
+
+                    pack_substring += item
+
+                if index < len(pack):
                     pack_substring += separation_char1
-            intermediate_list.append(pack_substring)
-            out_list.append(intermediate_list)
+                pass
     return out_list
 # MAIN LIST MANAGEMENT AND CLEANING
 def remove_duplicates_from_incoming():
