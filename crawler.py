@@ -81,17 +81,29 @@ def load_history_from_file():
     if url_history_list == '':
         url_history_list = []
 
-# MAIN LIST MANAGEMENT
+# MAIN LIST MANAGEMENT AND CLEANING
 def remove_duplicates_from_incoming():
     # Removes duplicates from 'incoming',
     # returns ammount of URLs removed.
-    # 'INCOMING' HAS TO BE LOADED FOR IT TO WORK!!!
+    # 'INCOMING' HAS TO BE LOADED BEFOREHAND!!!
     global incoming_url_list
     initial_length = len(incoming_url_list)
     incoming_url_list = list(dict.fromkeys(incoming_url_list))
     final_length = len(incoming_url_list)
     return initial_length - final_length
+def removed_links_in_history_from_incoming():
+    # Removes from 'incoming' URLs already present in 'history',
+    # returns ammount of URLs removed
+    # BOTH LISTS HAVE TO BE LOADED BEFOREHAND!!!
+    global incoming_url_list
+    global url_history_list
 
+    initial_length = len(incoming_url_list)
+    incoming_url_list = [x for x in incoming_url_list
+                         if x not in url_history_list]
+    final_length = len(incoming_url_list)
+    return initial_length - final_length
+#def remove_blacklisted_sites_from_incoming
 
 def pathfinder(ammount_to_search):
     # This function picks all links in a seed URL,
@@ -181,4 +193,5 @@ main_paths_manager()
 
 #aux = pathfinder(10)
 remove_duplicates_from_incoming()
+removed_links_in_history_from_incoming()
 pass
