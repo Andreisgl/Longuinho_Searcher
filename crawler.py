@@ -85,6 +85,10 @@ def pathfinder(ammount_to_search):
     # and does the same to the following URLs in the list
     # Searches the ammount of links defined in 'ammount_to_search'
 
+    # With the crawling path defined,
+    # another function can follow the found path and
+    # effectively index the pages
+
     global SEED_URL
 
     global incoming_url_list
@@ -93,32 +97,59 @@ def pathfinder(ammount_to_search):
     global url_history_list
     global url_history_list_file
 
-
     load_incoming_from_file() # Load 'incoming' list
 
-
-    # Found URLs go here before being appended to 'incoming' list
-    intermediate_url_list = []
-
-    current_url = ''
+    # Limit how many items to comb through base on how many are available
+    max_number_of_links = len(incoming_url_list)
+    if ammount_to_search > max_number_of_links:
+        ammount_to_search = max_number_of_links
 
     
-
     # If 'incoming' file is empty
     if incoming_url_list == '':
         # Add seed url to it
         incoming_url_list.append(SEED_URL)
         save_incoming_to_file()
     
-    current_url = incoming_url_list[0]
-    data_pack = get_data_from_url(current_url)
-    intermediate_url_list = data_pack[6]
+    # If the called link redirected to somewhere else,
+    # Mark it so it is included in history,
+    # but not counted as an indexed page
+    redirector_flag = '´'
+
+    # Found URLs go here before being appended to 'incoming' list
+    intermediate_url_list = []
+    current_url = ''
+    number_of_pages_searched = 0
+    while number_of_pages_searched < ammount_to_search:
+        # Set up URL, get data
+        current_url = incoming_url_list[0]
+        data_pack = get_data_from_url(current_url)
+        intermediate_url_list.append(data_pack[6])
+
+        # Save to history
+        if data_pack[1]:
+            # If there was a redirection
+            # Append searched_url with marker
+            url_history_list.append(redirector_flag + data_pack[2])
+            # Append final_url unaltered
+            url_history_list.append(data_pack[3])
+        else:
+            # Just append it normally
+            url_history_list.append(data_pack[3])
+        
+        number_of_pages_searched += 1
+        # Remove current URL from queue
+        incoming_url_list.pop(0)
     
+    # Transfer all collected URLs in intermediate list to incoming
+    for list in intermediate_url_list:
+        for link in list:
+            incoming_url_list.append(link)
 
-
-
-    #aux = get_data_from_url()
-    pass
+    # Save incoming and history
+    save_incoming_to_file()
+    save_history_to_file()
+    return number_of_pages_searched
 
 MAIN_FOLDER = 'crawler_data'
 
@@ -133,4 +164,5 @@ SEED_URL = 'https://en.wikipedia.org/wiki/Main_Page'
 
 main_paths_manager()
 
-pathfinder(10)
+aux = pathfinder(10)
+pass
