@@ -95,7 +95,7 @@ def save_to_be_indexed_to_file():
     global to_be_indexed_queue_file
 
     #aux = translate_list_of_list(to_be_indexed_queue, True)
-    dummy_pack_list = [['data', 'url', ['linklist', 'anotherlink']], [['duck', 'goose'], 'apple']]
+    dummy_pack_list = [['pack1', ['subpack1a', 'subpack1b']],['pack2', ['subpack2a', 'subpack2b']]]
     aux = translate_list_of_list(dummy_pack_list, True)
 
     save_list_in_file(aux, to_be_indexed_queue_file)
@@ -116,9 +116,10 @@ def translate_list_of_list(in_list, encode_flag):
     separation_char2 = '^'
     out_list = []
     intermediate_list = []
-    pack_substring = ''
+    #pack_substring = ''
     if encode_flag:
         for pack in in_list:
+            pack_substring = ''
             for index, item in enumerate(pack):
                 if type(item) == str:
                     pack_substring += item
@@ -134,9 +135,10 @@ def translate_list_of_list(in_list, encode_flag):
 
                     pack_substring += item
 
-                if index < len(pack):
+                if index < len(pack)-1:
                     pack_substring += separation_char1
                 pass
+            out_list.append(pack_substring)
     return out_list
 # MAIN LIST MANAGEMENT AND CLEANING
 def remove_duplicates_from_incoming():
