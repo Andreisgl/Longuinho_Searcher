@@ -354,7 +354,7 @@ SEED_URL = 'https://en.wikipedia.org/wiki/Main_Page'
 
 main_paths_manager()
 
-pathfinder(19)
+pathfinder(2)
 #page_saver()
 
 #save_to_be_indexed_to_file()
