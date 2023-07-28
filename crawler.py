@@ -3,6 +3,7 @@
 
 import os
 from website_extractor import get_data_from_url
+from site_saver import save_website
 
 def main_paths_manager():
     # This function creates and completes the paths
@@ -226,7 +227,7 @@ def clean_incoming():
     removed_counter += removed_links_in_history_from_incoming()
     removed_counter += remove_blacklisted_sites_from_incoming()
     return removed_counter
-    
+
 
 # CRAWLING
 def pathfinder(ammount_to_search):
@@ -275,23 +276,27 @@ def pathfinder(ammount_to_search):
     while number_of_pages_searched < ammount_to_search:
         # Set up URL, get data
         current_url = incoming_url_list[0]
-        data_pack = get_data_from_url(current_url)
-        intermediate_url_list.append(data_pack[6])
+        data_pack = save_website(current_url) # Indexes url and returns important data
+        intermediate_url_list.append(data_pack[7]) # Get link list
 
-        # Save 'data_pack' to 'to_be_indexed_queue' for later indexing
-        # Ignore raw data when indexing
-        to_be_indexed_queue.append(data_pack[1:])
+            # Save 'data_pack' to 'to_be_indexed_queue' for later indexing
+            # Ignore raw data when indexing
+            #to_be_indexed_queue.append(data_pack[1:])
+
+        #############################################################################################################
+        # Save website as in old version
+        #save_website(current_url)
 
         # Save to history
-        if data_pack[1]:
+        if data_pack[4]:
             # If there was a redirection
             # Append searched_url with marker
-            url_history_list.append(redirector_flag + data_pack[2])
+            url_history_list.append(redirector_flag + data_pack[5])
             # Append final_url unaltered
-            url_history_list.append(data_pack[3])
+            url_history_list.append(data_pack[6])
         else:
             # Just append it normally
-            url_history_list.append(data_pack[3])
+            url_history_list.append(data_pack[6])
         
         number_of_pages_searched += 1
         # Remove current URL from queue
@@ -354,7 +359,7 @@ SEED_URL = 'https://en.wikipedia.org/wiki/Main_Page'
 
 main_paths_manager()
 
-pathfinder(2)
+pathfinder(10)
 #page_saver()
 
 #save_to_be_indexed_to_file()
