@@ -27,13 +27,6 @@ def main_paths_manager():
     if not os.path.exists(url_history_list_file): # Create file if it does not exist
         with open(url_history_list_file, 'w'):
             pass
-    
-    # to_be_indexed_queue_file
-    global to_be_indexed_queue_file
-    to_be_indexed_queue_file = os.path.join(MAIN_FOLDER, to_be_indexed_queue_file)
-    if not os.path.exists(to_be_indexed_queue_file): # Create file if it does not exist
-        with open(to_be_indexed_queue_file, 'w'):
-            pass
 
 # LIST SAVING MANAGEMENT
 def save_list_in_file(in_list, filepath):
@@ -88,26 +81,6 @@ def load_history_from_file():
     url_history_list = load_list_from_file(url_history_list_file)
     if url_history_list == '':
         url_history_list = []
-
-# TO BE INDEXED LIST
-def save_to_be_indexed_to_file():
-    # This functions saves 'to_be_indexed_queue' to its file
-    global to_be_indexed_queue
-    global to_be_indexed_queue_file
-
-    aux = translate_list_of_list(to_be_indexed_queue, True)
-    #dummy_pack_list = [['pack1', ['subpack1a', 'subpack1b']],['pack2', ['subpack2a', 'subpack2b']]]
-    #aux = translate_list_of_list(dummy_pack_list, True)
-
-    save_list_in_file(aux, to_be_indexed_queue_file)
-    pass
-def load_to_be_indexed_from_file():
-    # This functions loads 'to_be_indexed_queue' from its file
-    global to_be_indexed_queue
-    global to_be_indexed_queue_file
-
-    aux = load_list_from_file(to_be_indexed_queue_file)
-    to_be_indexed_queue = translate_list_of_list(aux, False)
 
 def translate_list_of_list(in_list, encode_flag):
     # This functions translate lists of lists to a file-saveable format
@@ -248,13 +221,11 @@ def pathfinder(ammount_to_search):
     global url_history_list
     global url_history_list_file
 
-    global to_be_indexed_queue
 
     global redirector_flag
 
     load_incoming_from_file() # Load 'incoming' list
     load_history_from_file() # Load 'history' list
-    load_to_be_indexed_from_file() # Load 'to_be_indexed' list
 
     # If 'incoming' file is empty
     if incoming_url_list == []:
@@ -307,7 +278,6 @@ def pathfinder(ammount_to_search):
     # Save 'incoming', 'history' and 'to_be_indexed'
     save_incoming_to_file()
     save_history_to_file()
-    save_to_be_indexed_to_file()
 
     return number_of_pages_searched
 
@@ -319,9 +289,6 @@ incoming_url_list_file = 'queue.txt'
 
 url_history_list = []
 url_history_list_file = 'history.txt'
-
-to_be_indexed_queue = []
-to_be_indexed_queue_file = 'to_be_indexed.txt'
 
 blacklisted_websites = ['web.archive.org', 'abclocal.go.com', 'slate.com']
 
