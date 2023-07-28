@@ -97,6 +97,25 @@ def sanitize_url_to_name(input):
 
    return output
 
+# Illegal characters for filesystem and substitutes
+illegal_filename_characters = ['#', '<', '$', '+', '%','>', '!', '`', '&', '*', "'", '|', '{', '?', '"', '=', '}', ':', '\\', '\xa0', '@', ';']
+translation_characters = ['☺', '☻', '♥', '♦', '♣', '♠', '•', '○', '◙', '♂', '♀', '♪', '♫', '☼', '►', '◄', '↕', '‼', '¶', '§', '▬', '↨']
+def sanitize_url_to_filesystem_name(input):
+   mode = 0
+   input = sanitize_url_to_name(input)
+   global illegal_filename_characters
+   global translation_characters
+
+   if mode == 0: # URL to filesystem
+      for i in range(len(illegal_filename_characters)):               
+         input = input.replace(illegal_filename_characters[i], translation_characters[i])
+   else:
+      # TODO Translate back
+      pass
+
+   return input
+
+
 # GET FULL DATA
 def get_data_from_url(search_url):
     (raw_data,
@@ -106,7 +125,7 @@ def get_data_from_url(search_url):
      http_code,
      success_flag) = page_extractor(search_url)
     
-    website_name = sanitize_url_to_name(search_url)
+    website_name = sanitize_url_to_filesystem_name(search_url)
     
     url_list = parse_urls(raw_data)
     text_list = parse_text(raw_data)

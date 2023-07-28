@@ -117,7 +117,10 @@ def save_website(search_url): # Rename later to 'save_website'
     # raw_data, was_redirected, search_url, final_url, website_name, http_code, success_flag, url_list, text_list
 
     #(website_name, raw_file_data, link_list, text_list, real_url) = site_ex.get_data_from_url(search_url)
-    (raw_file_data, was_redirected, search_url, real_url, website_name, http_code, success_flag, link_list, text_list) = site_ex.get_data_from_url(search_url)
+    (raw_file_data,
+     was_redirected, search_url, real_url, website_name,
+     http_code, success_flag,
+     link_list, text_list) = site_ex.get_data_from_url(search_url)
 
     # CREATE METADATA
     meta_url = 'URL\{}'.format(real_url)
