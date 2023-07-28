@@ -279,14 +279,6 @@ def pathfinder(ammount_to_search):
         data_pack = save_website(current_url) # Indexes url and returns important data
         intermediate_url_list.append(data_pack[7]) # Get link list
 
-            # Save 'data_pack' to 'to_be_indexed_queue' for later indexing
-            # Ignore raw data when indexing
-            #to_be_indexed_queue.append(data_pack[1:])
-
-        #############################################################################################################
-        # Save website as in old version
-        #save_website(current_url)
-
         # Save to history
         if data_pack[4]:
             # If there was a redirection
@@ -318,23 +310,7 @@ def pathfinder(ammount_to_search):
     save_to_be_indexed_to_file()
 
     return number_of_pages_searched
-def page_saver(): ####REWORKKKKKKKK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-    # This function goes over the history and indexes its URLs
-    #global incoming_url_list
-    global url_history_list
 
-    load_history_from_file()
-
-    # Ignore all marked redirectors from history
-    work_queue = [x for x in url_history_list
-                  if not x.startswith(redirector_flag)]
-    
-    for url in work_queue:
-        pass
-    
-    pass
-def dummy_index_function():
-    pass
 
 MAIN_FOLDER = 'crawler_data'
 
@@ -360,9 +336,5 @@ SEED_URL = 'https://en.wikipedia.org/wiki/Main_Page'
 main_paths_manager()
 
 pathfinder(10)
-#page_saver()
-
-#save_to_be_indexed_to_file()
-#load_to_be_indexed_from_file()
 
 pass
