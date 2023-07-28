@@ -98,3 +98,6 @@ def get_data_from_url(search_url):
 
     # Lots of data, yes, but it is necessary to stramline the upcoming processes
     return raw_data, was_redirected, search_url, final_url, http_code, success_flag, url_list, text_list
+
+
+pass
