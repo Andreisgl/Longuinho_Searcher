@@ -209,9 +209,8 @@ def pathfinder(ammount_to_search):
     # and does the same to the following URLs in the list
     # Searches the ammount of links defined in 'ammount_to_search'
 
-    # For every valid link visited, its data pack will be saved to a list
-    # so it can be indexed without having to extract the data again.
-    # 'page_saver()' will gather the data of this list and index it.
+    # Visiting an URL will automatically save it into the database,
+    # due to 'site_saver's functionality
 
     global SEED_URL
 
@@ -230,10 +229,9 @@ def pathfinder(ammount_to_search):
     # If 'incoming' file is empty
     if incoming_url_list == []:
         # Add seed url to it
-        incoming_url_list.append(SEED_URL)
-        save_incoming_to_file()
+        plant_seed()
 
-    # Limit how many items to comb through base on how many are available
+    # Limit how many items to comb through based on how many are available
     max_number_of_links = len(incoming_url_list)
     if ammount_to_search > max_number_of_links:
         ammount_to_search = max_number_of_links
@@ -281,6 +279,16 @@ def pathfinder(ammount_to_search):
 
     return number_of_pages_searched
 
+def plant_seed():
+    global incoming_url_list
+    global SEED_URL
+
+    if type(SEED_URL) == str:
+        incoming_url_list.append(SEED_URL)
+    else:
+        for seed in SEED_URL:
+            incoming_url_list.append(seed)
+        save_incoming_to_file()
 
 MAIN_FOLDER = 'crawler_data'
 
