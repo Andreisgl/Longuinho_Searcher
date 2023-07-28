@@ -84,6 +84,19 @@ def parse_text(raw_data):
 
     return text
 
+# WEBSITE NAME
+def sanitize_url_to_name(input):
+   removal_list = ['http://', 'https://', 'www.']
+   
+   output = input
+   for item in removal_list:
+      output = output.replace(item, '')
+   
+   if output[-1] == '/':
+      output = output[:-1]
+
+   return output
+
 # GET FULL DATA
 def get_data_from_url(search_url):
     (raw_data,
@@ -93,11 +106,13 @@ def get_data_from_url(search_url):
      http_code,
      success_flag) = page_extractor(search_url)
     
+    website_name = sanitize_url_to_name(search_url)
+    
     url_list = parse_urls(raw_data)
     text_list = parse_text(raw_data)
 
     # Lots of data, yes, but it is necessary to stramline the upcoming processes
-    return raw_data, was_redirected, search_url, final_url, http_code, success_flag, url_list, text_list
+    return raw_data, was_redirected, search_url, final_url, website_name, http_code, success_flag, url_list, text_list
 
 
 pass
