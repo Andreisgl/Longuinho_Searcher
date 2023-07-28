@@ -2,9 +2,19 @@
 # and appends those to the list
 
 import os
-from website_extractor import get_data_from_url
+import shutil
+import textwrap
+
 from site_saver import save_website
 
+
+# DISPLAY STUFF
+def get_terminal_columns():
+    return shutil.get_terminal_size().columns
+no_terminal_columns = get_terminal_columns()
+
+
+# MAIN PATHS MANAGER
 def main_paths_manager():
     # This function creates and completes the paths
     # for important files and folders
@@ -248,6 +258,10 @@ def pathfinder(ammount_to_search):
         data_pack = save_website(current_url) # Indexes url and returns important data
         intermediate_url_list.append(data_pack[7]) # Get link list
 
+        # Print current URL
+        display_url = textwrap.wrap(current_url, no_terminal_columns-1)
+        print('{}'.format(display_url[0]))
+
         # Save to history
         if data_pack[4]:
             # If there was a redirection
@@ -255,6 +269,10 @@ def pathfinder(ammount_to_search):
             url_history_list.append(redirector_flag + data_pack[5])
             # Append final_url unaltered
             url_history_list.append(data_pack[6])
+
+            # If the page searched was redirected, print final page as well
+            display_url = textwrap.wrap('Redirected to: ' + current_url, no_terminal_columns-1)
+            print('{}'.format(display_url[0]))
         else:
             # Just append it normally
             url_history_list.append(data_pack[6])
@@ -290,6 +308,7 @@ def plant_seed():
             incoming_url_list.append(seed)
         save_incoming_to_file()
 
+
 MAIN_FOLDER = 'crawler_data'
 
 incoming_url_list = []
@@ -310,6 +329,6 @@ SEED_URL = 'https://en.wikipedia.org/wiki/Main_Page'
 
 main_paths_manager()
 
-pathfinder(10)
+pathfinder(19)
 
 pass
