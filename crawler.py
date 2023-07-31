@@ -241,6 +241,8 @@ def pathfinder(ammount_to_search):
 
     global redirector_flag
 
+    print('Start Run!')
+
     load_incoming_from_file() # Load 'incoming' list
     load_history_from_file() # Load 'history' list
 
@@ -315,8 +317,17 @@ def expand_index(number_to_expand):
     number_remaining = number_to_expand
     pages_searched = 0
     number_currently_found = 0
+
+    # Limits each pathfinding so progress gets saved every x pages
+    max_number_per_run = 10
+    to_search  = 0
     while pages_searched < number_to_expand:
-        number_currently_found = pathfinder(number_remaining)
+        if number_remaining > max_number_per_run:
+            to_search = max_number_per_run
+        else:
+            to_search = number_remaining
+        
+        number_currently_found = pathfinder(to_search)
         pages_searched += number_currently_found
         number_remaining -= number_currently_found
     pass
