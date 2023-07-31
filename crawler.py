@@ -95,10 +95,7 @@ def load_history_from_file():
     if url_history_list == '':
         url_history_list = []
 
-# TO BE INDEXED LIST
-
-
-
+# MORE LIST STUFF
 def translate_list_of_list(in_list, encode_flag):
     # This functions translate lists of lists to a file-saveable format
     # encode_flag:
@@ -218,6 +215,13 @@ def clean_incoming():
     removed_counter += remove_blacklisted_sites_from_incoming()
     return removed_counter
 
+# STATISTICS:
+def count_pages_indexed():
+    global url_history_list
+    global redirector_flag
+    load_history_from_file()
+    real_indexed_list = [x for x in url_history_list if redirector_flag not in x]
+    return len(real_indexed_list)
 
 # CRAWLING
 def pathfinder(ammount_to_search):
@@ -356,9 +360,10 @@ SEED_URL = 'https://en.wikipedia.org/wiki/Main_Page'
 
 main_paths_manager()
 
-#pathfinder(10)
 
 print('This is the Longin Crawler!')
+load_history_from_file()
+print('Ammount of pages currently indexed: {}'.format(count_pages_indexed()))
 while True:
     try:
         answer = int(input('How many pages do you want to index? '))
