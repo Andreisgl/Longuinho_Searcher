@@ -285,6 +285,16 @@ def pathfinder(ammount_to_search):
 
     return number_of_pages_searched
 
+# INTERFACE
+def expand_index(number_to_expand):
+    number_remaining = number_to_expand
+    pages_searched = 0
+    number_currently_found = 0
+    while pages_searched < number_to_expand:
+        number_currently_found = pathfinder(number_remaining)
+        pages_searched += number_currently_found
+        number_remaining -= number_currently_found
+    pass
 
 MAIN_FOLDER = 'crawler_data'
 
@@ -306,6 +316,18 @@ SEED_URL = 'https://en.wikipedia.org/wiki/Main_Page'
 
 main_paths_manager()
 
-pathfinder(10)
+#pathfinder(10)
+
+print('This is the Longin Crawler!')
+while True:
+    try:
+        answer = int(input('How many pages do you want to index?'))
+    except ValueError:
+        print('Input a valid number!')
+        continue
+    expand_index(answer)
+    break
+    
+
 
 pass
