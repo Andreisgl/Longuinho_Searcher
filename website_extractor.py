@@ -26,12 +26,19 @@ def page_extractor(search_url):
 
     except urllib.error.URLError as e: # Unable to access URL
         success_flag = False
-        if e.reason.errno == 11001:
-            # Unable to connect. Possible connection error or wrong URL
-            error_code = e.reason.errno
-        else:
+        
+        try:
+            a = e.reason.errno
+            if e.reason.errno == 11001:
+                # Unable to connect. Possible connection error or wrong URL
+                error_code = a
+            
+        except AttributeError:
             # This can be any error code, like '403', '404'...
             error_code = e.code
+            pass
+        
+            
 
     if success_flag:
         data_returned = (raw_data,
