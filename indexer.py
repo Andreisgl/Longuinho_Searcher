@@ -1,6 +1,6 @@
 # This script wil comb through the pages database and manipulate information
 import os
-from CRAWLER.SAVER import site_saver
+import site_saver
 
 def main_folders_manager():
     # Creates and manages all necessary folders
