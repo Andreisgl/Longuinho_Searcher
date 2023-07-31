@@ -53,7 +53,9 @@ def load_list_from_file(in_file):
             list = data.split('\n')
             return list
     except FileNotFoundError:
-        return FileNotFoundError
+        with open(in_file, 'w'):
+            pass
+        return ''
 
 def website_path(name):
     global DATA_FILENAME

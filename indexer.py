@@ -26,6 +26,7 @@ def main_folders_manager():
     global main_page_path_list_file
     main_page_path_list_file = os.path.join(INDEXER_FOLDER, main_page_path_list_file)
 
+    # ranked_url_list FILE
     global ranked_url_list_file
     ranked_url_list_file = os.path.join(INDEXER_FOLDER, ranked_url_list_file)
 
@@ -254,8 +255,10 @@ def main():
     load_main_page_path_list()
     load_ranked_url_list()
     
-    #update_ranked_url_list()
-    #save_ranked_url_list()
+    if ranked_url_list == []:
+        update_main_page_path_list()
+        update_ranked_url_list()
+        save_ranked_url_list()
     
 
 
