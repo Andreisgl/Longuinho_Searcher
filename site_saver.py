@@ -151,8 +151,12 @@ def save_website(search_url): # Rename later to 'save_website'
         data_file, link_list_file, text_list_file, meta_list_file = website_path(website_name)
     
     
+    return_data = (data_file, link_list_file, text_list_file, meta_list_file,
+            was_redirected, search_url, real_url,
+            link_list, text_list)
+
     if len(raw_file_data) == 0: # If it has no data, there is nothing to index
-        return data_file, link_list_file, text_list_file, meta_list_file
+        return return_data
     
     # Save data in folder
     if not is_page: # If the link is a page, do not save raw data
@@ -165,11 +169,7 @@ def save_website(search_url): # Rename later to 'save_website'
     
     save_list_to_file(meta_list, meta_list_file)
 
-    # raw_data, was_redirected, search_url, final_url, website_name, http_code, success_flag, url_list, text_list
-    
-    return (data_file, link_list_file, text_list_file, meta_list_file,
-            was_redirected, search_url, real_url,
-            link_list, text_list)
+    return return_data
 
 
 DATA_FILENAME = 'data.txt'
