@@ -367,7 +367,7 @@ while True:
         continue
     expand_index(answer)
     break
-    
+input('Done! Press ENTER to exit')
 
 
 pass
