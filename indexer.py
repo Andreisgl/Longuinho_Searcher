@@ -264,10 +264,16 @@ def main():
 
     # Search depending on relevance
     search_term = ' English '
+
     results = []
     for page in ranked_url_list:
-        path = os.path.join(os.path.dirname(page[1]), TEXT_LIST_FILENAME)
-        aux = search_list_in_page(search_term, path)
+        page_base_dir = os.path.dirname(page[1])
+
+        meta_path = page[1]
+        text_path = os.path.join(page_base_dir, TEXT_LIST_FILENAME)
+        url = page[0]
+
+        aux = search_list_in_page(search_term, text_path)
         if aux != []:
             results.append(aux)
 
