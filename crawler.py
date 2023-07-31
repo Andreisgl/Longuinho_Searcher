@@ -2,8 +2,15 @@
 # and appends those to the list
 
 import os
+
+import shutil
+import textwrap
+
+
 from website_extractor import get_data_from_url
 from site_saver import save_website
+
+
 
 def main_paths_manager():
     # This function creates and completes the paths
@@ -27,6 +34,12 @@ def main_paths_manager():
     if not os.path.exists(url_history_list_file): # Create file if it does not exist
         with open(url_history_list_file, 'w'):
             pass
+
+# DISPLAY STUFF
+def get_terminal_columns():
+    return shutil.get_terminal_size().columns
+no_terminal_columns = get_terminal_columns()
+
 
 # LIST SAVING MANAGEMENT
 def save_list_in_file(in_list, filepath):
@@ -254,6 +267,11 @@ def pathfinder(ammount_to_search):
         data_pack = save_website(current_url) # Indexes url and returns important data
         intermediate_url_list.append(data_pack[7]) # Get link list
 
+        # Print current URL
+        display_url = textwrap.wrap(current_url, no_terminal_columns-1)
+        print('{}'.format(display_url[0]))
+
+
         # Save to history
         if data_pack[4]:
             # If there was a redirection
@@ -261,6 +279,13 @@ def pathfinder(ammount_to_search):
             url_history_list.append(redirector_flag + data_pack[5])
             # Append final_url unaltered
             url_history_list.append(data_pack[6])
+
+            # Print final URL
+            # Print current URL
+            print('REDIRECTED TO:')
+            display_url = textwrap.wrap(current_url, no_terminal_columns-1)
+            print('{}'.format(display_url[0]))
+
         else:
             # Just append it normally
             url_history_list.append(data_pack[6])
@@ -321,7 +346,7 @@ main_paths_manager()
 print('This is the Longin Crawler!')
 while True:
     try:
-        answer = int(input('How many pages do you want to index?'))
+        answer = int(input('How many pages do you want to index? '))
     except ValueError:
         print('Input a valid number!')
         continue
