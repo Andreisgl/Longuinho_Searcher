@@ -245,7 +245,7 @@ def pathfinder(ammount_to_search):
 
     global redirector_flag
 
-    print('Start Run!')
+    print('\nStart Run!')
 
     load_incoming_from_file() # Load 'incoming' list
     load_history_from_file() # Load 'history' list
@@ -338,6 +338,7 @@ def expand_index(number_to_expand):
         number_currently_found = pathfinder(to_search)
         pages_searched += number_currently_found
         number_remaining -= number_currently_found
+        print('\nPages remaining: {}'.format(number_remaining))
     pass
 
 MAIN_FOLDER = 'crawler_data'
