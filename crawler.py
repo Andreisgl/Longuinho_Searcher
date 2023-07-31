@@ -261,12 +261,17 @@ def pathfinder(ammount_to_search):
     # Found URLs go here before being appended to 'incoming' list
     intermediate_url_list = []
     current_url = ''
+    old_url = ''
+    #
     number_of_pages_searched = 0
     number_of_new_pages_found = 0
     while number_of_pages_searched < ammount_to_search:
         # Set up URL, get data
         current_url = incoming_url_list[0]
+
         data_pack = save_website(current_url) # Indexes url and returns important data
+        old_url = data_pack[5]
+        real_url = data_pack[6]
         intermediate_url_list.append(data_pack[7]) # Get link list
 
         # Print current URL
@@ -278,14 +283,13 @@ def pathfinder(ammount_to_search):
         if data_pack[4]:
             # If there was a redirection
             # Append searched_url with marker
-            url_history_list.append(redirector_flag + data_pack[5])
+            url_history_list.append(redirector_flag + old_url)
             # Append final_url unaltered
-            url_history_list.append(data_pack[6])
+            url_history_list.append(real_url)
 
             # Print final URL
-            # Print current URL
             print('REDIRECTED TO:')
-            display_url = textwrap.wrap(current_url, no_terminal_columns-1)
+            display_url = textwrap.wrap(real_url, no_terminal_columns-1)
             print('{}'.format(display_url[0]))
 
         else:
