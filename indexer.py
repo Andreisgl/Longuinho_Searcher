@@ -244,6 +244,7 @@ def update_ranked_url_list():
     global ranked_url_list
     ranked_url_list = get_url_ranking_from_database()
 
+# Search
 
 def main():   
     global main_page_path_list

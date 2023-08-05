@@ -2,15 +2,10 @@
 # and appends those to the list
 
 import os
-
 import shutil
 import textwrap
-
-
 from website_extractor import get_data_from_url
 from site_saver import save_website
-
-
 
 def main_paths_manager():
     # This function creates and completes the paths
@@ -256,7 +251,7 @@ def pathfinder(ammount_to_search):
         incoming_url_list.append(SEED_URL)
         save_incoming_to_file()
 
-    # Limit how many items to comb through base on how many are available
+    # Limit how many items to comb through based on how many are available
     max_number_of_links = len(incoming_url_list)
     if ammount_to_search > max_number_of_links:
         ammount_to_search = max_number_of_links
@@ -281,7 +276,6 @@ def pathfinder(ammount_to_search):
         # Print current URL
         display_url = textwrap.wrap(current_url, no_terminal_columns-1)
         print('{}'.format(display_url[0]))
-
 
         # Save to history
         if data_pack[4]:
