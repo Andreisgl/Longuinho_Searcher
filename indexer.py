@@ -258,13 +258,14 @@ def main():
     
     if ranked_url_list == []:
         update_main_page_path_list()
+        save_main_page_path_list()
         update_ranked_url_list()
         save_ranked_url_list()
     
 
 
     # Search depending on relevance
-    search_term = ' English '
+    search_term = ' Combat '
 
     results = []
     for page in ranked_url_list:
@@ -274,8 +275,8 @@ def main():
         text_path = os.path.join(page_base_dir, TEXT_LIST_FILENAME)
         url = page[0]
 
-        aux = search_list_in_page(search_term, text_path)
-        if aux != []:
+        aux = [search_list_in_page(search_term, text_path), url, meta_path]
+        if aux[0] != []:
             results.append(aux)
 
     pass
