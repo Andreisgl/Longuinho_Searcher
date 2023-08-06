@@ -411,6 +411,8 @@ while True:
         continue
     expand_index(answer)
     break
+
+print('Ammount of pages currently indexed: {}'.format(count_pages_indexed()))
 input('Done! Press ENTER to exit')
 
 
