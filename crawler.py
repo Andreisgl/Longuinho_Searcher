@@ -238,7 +238,9 @@ def clean_incoming():
                        + existing_counter
                        + blacklisted_counter)
     
-    print('Removed {} pages:\n{} duplicates,\n{}existing\n{} blacklisted')
+    print('\nRemoved {} pages:\n{} duplicates,\n{} existing\n{} blacklisted'
+          .format(removed_counter, duplicate_counter,
+                  existing_counter, blacklisted_counter))
     return removed_counter
 
 # STATISTICS:
