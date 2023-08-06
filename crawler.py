@@ -248,7 +248,7 @@ def pathfinder(ammount_to_search):
     # If 'incoming' file is empty
     if incoming_url_list == []:
         # Add seed url to it
-        incoming_url_list.append(SEED_URL)
+        plant_seed()
         save_incoming_to_file()
 
     # Limit how many items to comb through based on how many are available
@@ -313,7 +313,16 @@ def pathfinder(ammount_to_search):
     save_history_to_file()
 
     return number_of_pages_searched
+def plant_seed():
+    global incoming_url_list
+    global SEED_URL
 
+    if type(SEED_URL) == str:
+        incoming_url_list.append(SEED_URL)
+    else:
+        for seed in SEED_URL:
+            incoming_url_list.append(seed)
+        save_incoming_to_file()
 # INTERFACE
 def expand_index(number_to_expand):
     number_remaining = number_to_expand
