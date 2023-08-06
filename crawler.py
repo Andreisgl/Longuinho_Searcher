@@ -231,9 +231,15 @@ def clean_incoming():
     # Only use when 'incoming_link_queue' is already loaded
 
     removed_counter = 0
-    removed_counter +=  remove_duplicates_from_incoming()
-    removed_counter += removed_links_in_history_from_incoming()
-    removed_counter += remove_blacklisted_sites_from_incoming()
+    duplicate_counter = remove_duplicates_from_incoming()
+    existing_counter = removed_links_in_history_from_incoming()
+    blacklisted_counter = remove_blacklisted_sites_from_incoming()
+
+    removed_counter = (duplicate_counter
+                       + existing_counter
+                       + blacklisted_counter)
+    
+    print('Removed {} pages:\n{} duplicates,\n{}existing\n{} blacklisted')
     return removed_counter
 
 # STATISTICS:
