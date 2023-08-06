@@ -36,6 +36,13 @@ def main_paths_manager():
     if not os.path.exists(seed_list_file): # Create file if it does not exist
         with open(seed_list_file, 'w'):
             pass
+    
+    #blacklist_list_file
+    global blacklist_list_file
+    blacklist_list_file = os.path.join(MAIN_FOLDER, blacklist_list_file)
+    if not os.path.exists(blacklist_list_file): # Create file if it does not exist
+        with open(blacklist_list_file, 'w'):
+            pass
 
 # DISPLAY STUFF
 def get_terminal_columns():
@@ -85,17 +92,27 @@ def load_incoming_from_file():
 
 # HISTORY LIST MANAGEMENT
 def save_history_to_file():
-    # Saves 'incoming_url_list' to its respective file
+    # Saves 'history_list' to its respective file
     global url_history_list
     global url_history_list_file
     save_list_in_file(url_history_list, url_history_list_file)
 def load_history_from_file():
-    # Saves 'incoming_url_list' from its respective file
+    # Saves 'history_list' from its respective file
     global url_history_list
     global url_history_list_file
     url_history_list = load_list_from_file(url_history_list_file)
     if url_history_list == '':
         url_history_list = []
+
+# BLACKLIST LIST MANAGEMENT
+
+def load_blacklist_from_file():
+    # Saves 'history_list' from its respective file
+    global blacklist_list
+    global blacklist_list_file
+    blacklist_list = load_list_from_file(blacklist_list_file)
+    if blacklist_list == '':
+        blacklist_list = []
 
 # MORE LIST STUFF
 def translate_list_of_list(in_list, encode_flag):
@@ -186,7 +203,9 @@ def remove_blacklisted_sites_from_incoming():
     # Only use when 'incoming_link_queue' is already loaded
 
     global incoming_url_list
-    global blacklisted_websites
+    global blacklist_list
+    
+    load_blacklist_from_file()
     
     # Add prefixes to each website so they reflect their counterparts
     # in 'incoming'
@@ -195,7 +214,7 @@ def remove_blacklisted_sites_from_incoming():
 
     initial_length = len(incoming_url_list)
 
-    for site in blacklisted_websites:
+    for site in blacklist_list:
         for prefix in prefixes:
             full_terms.append(prefix + site)
     for index, url in enumerate(incoming_url_list):
@@ -362,7 +381,8 @@ url_history_list_file = 'history.txt'
 seed_list = []
 seed_list_file = 'seeds.txt'
 
-blacklisted_websites = ['web.archive.org', 'abclocal.go.com', 'slate.com']
+blacklist_list = []
+blacklist_list_file = 'blacklist.txt'
 
 # If the called link redirected to somewhere else,
 # Mark it so it is included in history,
