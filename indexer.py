@@ -161,6 +161,22 @@ def search_list_in_page(search_term, path):
     data = site_saver.load_list_from_file(path)
     return search_term_in_list(search_term, data)
 
+def search_term_in_ranked_database(search_term):
+    # Search depending on relevance
+    #search_term = ' Combat '
+    global ranked_url_list
+
+    results = []
+    for page in ranked_url_list:
+        page_base_dir = os.path.dirname(page[1])
+
+        meta_path = page[1]
+        text_path = os.path.join(page_base_dir, TEXT_LIST_FILENAME)
+        url = page[0]
+
+        aux = [search_list_in_page(search_term, text_path), url, meta_path]
+        if aux[0] != []:
+            results.append(aux)
 
 # RANKED_URL_LIST
 def get_url_ranking_from_database():
@@ -246,6 +262,7 @@ def update_ranked_url_list():
 
 # Search
 
+
 def main():   
     global main_page_path_list
     global main_page_path_list_file
@@ -256,7 +273,7 @@ def main():
     load_main_page_path_list()
     load_ranked_url_list()
     
-    if ranked_url_list == []:
+    if True:#ranked_url_list == []:
         update_main_page_path_list()
         save_main_page_path_list()
         update_ranked_url_list()
@@ -264,20 +281,7 @@ def main():
     
 
 
-    # Search depending on relevance
-    search_term = ' Combat '
-
-    results = []
-    for page in ranked_url_list:
-        page_base_dir = os.path.dirname(page[1])
-
-        meta_path = page[1]
-        text_path = os.path.join(page_base_dir, TEXT_LIST_FILENAME)
-        url = page[0]
-
-        aux = [search_list_in_page(search_term, text_path), url, meta_path]
-        if aux[0] != []:
-            results.append(aux)
+    
 
     pass
 
