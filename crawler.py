@@ -105,7 +105,6 @@ def load_history_from_file():
         url_history_list = []
 
 # BLACKLIST LIST MANAGEMENT
-
 def load_blacklist_from_file():
     # Saves 'history_list' from its respective file
     global blacklist_list
