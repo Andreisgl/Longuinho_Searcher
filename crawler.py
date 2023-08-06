@@ -29,6 +29,13 @@ def main_paths_manager():
     if not os.path.exists(url_history_list_file): # Create file if it does not exist
         with open(url_history_list_file, 'w'):
             pass
+    
+    #seed_list_file
+    global seed_list_file
+    seed_list_file = os.path.join(MAIN_FOLDER, seed_list_file)
+    if not os.path.exists(seed_list_file): # Create file if it does not exist
+        with open(seed_list_file, 'w'):
+            pass
 
 # DISPLAY STUFF
 def get_terminal_columns():
@@ -229,7 +236,7 @@ def pathfinder(ammount_to_search):
     # so it can be indexed without having to extract the data again.
     # 'page_saver()' will gather the data of this list and index it.
 
-    global SEED_URL
+    global seed_list
 
     global incoming_url_list
     global incoming_url_list_file
@@ -315,14 +322,14 @@ def pathfinder(ammount_to_search):
     return number_of_pages_searched
 def plant_seed():
     global incoming_url_list
-    global SEED_URL
+    global seed_list
+    global seed_list_file
 
-    if type(SEED_URL) == str:
-        incoming_url_list.append(SEED_URL)
-    else:
-        for seed in SEED_URL:
-            incoming_url_list.append(seed)
-        save_incoming_to_file()
+    seed_list = load_list_from_file(seed_list_file)
+    
+    for seed in seed_list:
+        incoming_url_list.append(seed)
+    save_incoming_to_file()
 # INTERFACE
 def expand_index(number_to_expand):
     number_remaining = number_to_expand
@@ -352,14 +359,15 @@ incoming_url_list_file = 'queue.txt'
 url_history_list = []
 url_history_list_file = 'history.txt'
 
+seed_list = []
+seed_list_file = 'seeds.txt'
+
 blacklisted_websites = ['web.archive.org', 'abclocal.go.com', 'slate.com']
 
 # If the called link redirected to somewhere else,
 # Mark it so it is included in history,
 # but not counted as an indexed page
 redirector_flag = '´'
-
-SEED_URL = 'https://en.wikipedia.org/wiki/Main_Page'
 
 
 main_paths_manager()
