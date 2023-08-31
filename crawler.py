@@ -381,7 +381,7 @@ def expand_index(number_to_expand):
     number_currently_found = 0
 
     # Limits each pathfinding so progress gets saved every x pages
-    max_number_per_run = 10
+    max_number_per_run = 100
     to_search  = 0
 
     start_time = time.perf_counter()
@@ -400,10 +400,10 @@ def expand_index(number_to_expand):
     print('{} pages added to index.'.format(pages_searched))
 
     total_seconds = finish_time - start_time
-    seconds = total_seconds%60
-    minutes = (total_seconds//60)%60
-    hours = ((total_seconds//60)//60)%24
-    days = ((total_seconds//60)//60)//24
+    seconds = round(total_seconds%60, 3)
+    minutes = round((total_seconds//60)%60)
+    hours = round(((total_seconds//60)//60)%24)
+    days = round(((total_seconds//60)//60)//24)
     
     print('Task took {} days, {}:{}:{}'.format(days, hours, minutes, seconds))
     
