@@ -3,6 +3,7 @@
 
 import os
 import shutil
+import time
 
 import textwrap
 from multiprocessing import Pool
@@ -307,7 +308,7 @@ def pathfinder(ammount_to_search):
         data_pack = save_website(current_url) # Indexes url and returns important data
         ###
 
-        sample = data_pack[7][:10]
+        sample = data_pack[7][:20]
         with Pool() as pool:
             result = pool.map(save_website, sample)
             #print(result)
