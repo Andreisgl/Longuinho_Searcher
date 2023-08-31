@@ -305,6 +305,14 @@ def pathfinder(ammount_to_search):
         current_url = incoming_url_list[0]
 
         data_pack = save_website(current_url) # Indexes url and returns important data
+        ###
+
+        sample = data_pack[7][:1]
+        with Pool() as pool:
+            result = pool.map(save_website, sample)
+            print(result)
+        
+        ###
         old_url = data_pack[5]
         real_url = data_pack[6]
         intermediate_url_list.append(data_pack[7]) # Get link list
