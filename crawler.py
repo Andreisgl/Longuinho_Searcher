@@ -7,6 +7,7 @@ import time
 
 import textwrap
 from multiprocessing import Pool
+import csv
 
 from website_extractor import get_data_from_url
 from site_saver import save_website
@@ -402,17 +403,20 @@ def main():
     print('Ammount of pages currently indexed: {}'.format(count_pages_indexed()))
     input('Done! Press ENTER to exit')
 
-def multiprocessing_tests():
+def multip_test_iteration(number_of_pages, chunk_size):
+    # Does an iteration of the multiprocessing performance.
+    # Choose how many pages to index and chunk size.
+    # Returns number of pages indexed, time taken, and time per page
+
     global incoming_url_list
     load_incoming_from_file()
 
-    sample = incoming_url_list[:500]
+    sample = incoming_url_list[:number_of_pages]
 
     start_time = time.perf_counter()
 
     with Pool() as pool:
-        result = pool.map(save_website, sample)
-        pass
+        result = pool.map(save_website, sample, chunksize=chunk_size)
 
     finish_time = time.perf_counter()
     time_taken = finish_time - start_time
@@ -420,6 +424,47 @@ def multiprocessing_tests():
     sample_length = len(sample)
     #print('Time taken: {}\nPages indexed: {}\nTime per page: {}'.format(time_taken, sample_length, time_taken/sample_length))
         
+    return sample_length, time_taken/sample_length
+
+def multiprocessing_statistics():
+    # Executes many iterations automatically, as planned.
+
+    out_file = 'test_output.csv'
+
+    # Steps to be permutated for the test
+    number_of_pages_steps = [1, 5, 10, 50, 100, 500, 1000]
+    chunk_size_steps = [1, 5, 10, 20, 50]
+
+    #number_of_pages_steps = [1, 5, 10]
+    #chunk_size_steps = [1, 5]
+
+    # Names of the test results per iteration
+    result_names = ['no_pages', 'time/page']
+    
+
+
+    chunk_results = []
+    for css in chunk_size_steps:
+        print('chunksize: {}'.format(css))
+        result = []
+        for nop in number_of_pages_steps:
+            print('steps: {}'.format(nop))
+            result.append(multip_test_iteration(nop, css))
+        chunk_results.append(result)
+
+    # Save data to file
+    with open(out_file, 'w', encoding='UTF8', newline='') as file:
+        writer = csv.writer(file)  
+
+        for index, chunk in enumerate(chunk_results):
+            writer.writerow(['chunksize: {}'.format(chunk_size_steps[index])])
+            writer.writerow(result_names)
+            
+            for round in chunk:
+                writer.writerow(round)
+            writer.writerow([])
+
+
     pass
 
 MAIN_FOLDER = 'crawler_data'
@@ -446,7 +491,7 @@ main_paths_manager()
 
 if __name__ == '__main__':
     #main()
-    multiprocessing_tests()
+    multiprocessing_statistics()
 
 
 

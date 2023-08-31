@@ -9,7 +9,11 @@ crawler_data/*
 # Indexer folder
 INDEXER
 
+# Test stuff
+test_output.csv
 
+# My storage stuff
+storage
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
