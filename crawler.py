@@ -295,6 +295,16 @@ def pathfinder(ammount_to_search):
         ammount_to_search = max_number_of_links
 
 
+    ###
+    sample = incoming_url_list[:ammount_to_search]
+
+    data_pack_bundle = []
+    with Pool() as pool:
+        data_pack_bundle = pool.map(save_website, sample, chunksize=5)
+    pass
+    ###
+
+
     # Found URLs go here before being appended to 'incoming' list
     intermediate_url_list = []
     current_url = ''
@@ -306,7 +316,8 @@ def pathfinder(ammount_to_search):
         # Set up URL, get data
         current_url = incoming_url_list[0]
 
-        data_pack = save_website(current_url) # Indexes url and returns important data
+        #data_pack = save_website(current_url) # Indexes url and returns important data
+        data_pack = data_pack_bundle[number_of_pages_searched] # Indexes url and returns important data
         
 
         old_url = data_pack[5]
@@ -372,6 +383,8 @@ def expand_index(number_to_expand):
     # Limits each pathfinding so progress gets saved every x pages
     max_number_per_run = 10
     to_search  = 0
+
+    start_time = time.perf_counter()
     while pages_searched < number_to_expand:
         if number_remaining > max_number_per_run:
             to_search = max_number_per_run
@@ -382,7 +395,21 @@ def expand_index(number_to_expand):
         pages_searched += number_currently_found
         number_remaining -= number_currently_found
         print('\nPages remaining: {}'.format(number_remaining))
-    pass
+    finish_time = time.perf_counter()
+
+    print('{} pages added to index.'.format(pages_searched))
+
+    total_seconds = finish_time - start_time
+    seconds = total_seconds%60
+    minutes = (total_seconds//60)%60
+    hours = ((total_seconds//60)//60)%24
+    days = ((total_seconds//60)//60)//24
+    
+    print('Task took {} days, {}:{}:{}'.format(days, hours, minutes, seconds))
+    
+
+    
+    
 
 
 # MAIN
