@@ -403,6 +403,7 @@ def main():
     print('Ammount of pages currently indexed: {}'.format(count_pages_indexed()))
     input('Done! Press ENTER to exit')
 
+# Multiprocessing tests
 def multip_test_iteration(number_of_pages, chunk_size):
     # Does an iteration of the multiprocessing performance.
     # Choose how many pages to index and chunk size.
@@ -425,7 +426,6 @@ def multip_test_iteration(number_of_pages, chunk_size):
     #print('Time taken: {}\nPages indexed: {}\nTime per page: {}'.format(time_taken, sample_length, time_taken/sample_length))
         
     return sample_length, time_taken/sample_length
-
 def multiprocessing_statistics():
     # Executes many iterations automatically, as planned.
     # I have determined the best chunk size for sizes 100 forward is 5.
