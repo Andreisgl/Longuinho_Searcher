@@ -428,6 +428,8 @@ def multip_test_iteration(number_of_pages, chunk_size):
 
 def multiprocessing_statistics():
     # Executes many iterations automatically, as planned.
+    # I have determined the best chunk size for sizes 100 forward is 5.
+    # See "1 - multiprocessing test.ods"
 
     out_file = 'test_output.csv'
 
@@ -490,8 +492,8 @@ redirector_flag = '´'
 main_paths_manager()
 
 if __name__ == '__main__':
-    #main()
-    multiprocessing_statistics()
+    main()
+    #multiprocessing_statistics()
 
 
 
