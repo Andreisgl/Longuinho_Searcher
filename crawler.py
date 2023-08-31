@@ -307,25 +307,6 @@ def pathfinder(ammount_to_search):
 
         data_pack = save_website(current_url) # Indexes url and returns important data
         
-        ###
-        while False:
-            sample = data_pack[7][:500]
-
-            start_time = time.perf_counter()
-
-            with Pool() as pool:
-                result = pool.map(save_website, sample)
-                #print(result)
-                pass
-
-            finish_time = time.perf_counter()
-            time_taken = finish_time - start_time
-
-            sample_length = len(sample)
-            #print('Time taken: {}\nPages indexed: {}\nTime per page: {}'.format(time_taken, sample_length, time_taken/sample_length))
-            
-            break
-        ###
 
         old_url = data_pack[5]
         real_url = data_pack[6]
@@ -421,7 +402,25 @@ def main():
     print('Ammount of pages currently indexed: {}'.format(count_pages_indexed()))
     input('Done! Press ENTER to exit')
 
+def multiprocessing_tests():
+    global incoming_url_list
+    load_incoming_from_file()
 
+    sample = incoming_url_list[:500]
+
+    start_time = time.perf_counter()
+
+    with Pool() as pool:
+        result = pool.map(save_website, sample)
+        pass
+
+    finish_time = time.perf_counter()
+    time_taken = finish_time - start_time
+
+    sample_length = len(sample)
+    #print('Time taken: {}\nPages indexed: {}\nTime per page: {}'.format(time_taken, sample_length, time_taken/sample_length))
+        
+    pass
 
 MAIN_FOLDER = 'crawler_data'
 
@@ -446,7 +445,8 @@ redirector_flag = '´'
 main_paths_manager()
 
 if __name__ == '__main__':
-    main()
+    #main()
+    multiprocessing_tests()
 
 
 
