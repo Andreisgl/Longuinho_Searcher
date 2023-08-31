@@ -307,10 +307,11 @@ def pathfinder(ammount_to_search):
         data_pack = save_website(current_url) # Indexes url and returns important data
         ###
 
-        sample = data_pack[7][:1]
+        sample = data_pack[7][:10]
         with Pool() as pool:
             result = pool.map(save_website, sample)
-            print(result)
+            #print(result)
+            pass
         
         ###
         old_url = data_pack[5]
@@ -388,6 +389,27 @@ def expand_index(number_to_expand):
         print('\nPages remaining: {}'.format(number_remaining))
     pass
 
+
+# MAIN
+
+def main():
+    print('This is the Longin Crawler!')
+    load_history_from_file()
+    print('Ammount of pages currently indexed: {}'.format(count_pages_indexed()))
+    while True:
+        try:
+            answer = int(input('How many pages do you want to index? '))
+        except ValueError:
+            print('Input a valid number!')
+            continue
+        expand_index(answer)
+        break
+
+    print('Ammount of pages currently indexed: {}'.format(count_pages_indexed()))
+    input('Done! Press ENTER to exit')
+
+
+
 MAIN_FOLDER = 'crawler_data'
 
 incoming_url_list = []
@@ -410,21 +432,10 @@ redirector_flag = '´'
 
 main_paths_manager()
 
+if __name__ == '__main__':
+    main()
 
-print('This is the Longin Crawler!')
-load_history_from_file()
-print('Ammount of pages currently indexed: {}'.format(count_pages_indexed()))
-while True:
-    try:
-        answer = int(input('How many pages do you want to index? '))
-    except ValueError:
-        print('Input a valid number!')
-        continue
-    expand_index(answer)
-    break
 
-print('Ammount of pages currently indexed: {}'.format(count_pages_indexed()))
-input('Done! Press ENTER to exit')
 
 
 pass
