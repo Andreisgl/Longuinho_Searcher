@@ -306,15 +306,27 @@ def pathfinder(ammount_to_search):
         current_url = incoming_url_list[0]
 
         data_pack = save_website(current_url) # Indexes url and returns important data
-        ###
-
-        sample = data_pack[7][:20]
-        with Pool() as pool:
-            result = pool.map(save_website, sample)
-            #print(result)
-            pass
         
         ###
+        while False:
+            sample = data_pack[7][:500]
+
+            start_time = time.perf_counter()
+
+            with Pool() as pool:
+                result = pool.map(save_website, sample)
+                #print(result)
+                pass
+
+            finish_time = time.perf_counter()
+            time_taken = finish_time - start_time
+
+            sample_length = len(sample)
+            #print('Time taken: {}\nPages indexed: {}\nTime per page: {}'.format(time_taken, sample_length, time_taken/sample_length))
+            
+            break
+        ###
+
         old_url = data_pack[5]
         real_url = data_pack[6]
         intermediate_url_list.append(data_pack[7]) # Get link list
