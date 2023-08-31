@@ -83,9 +83,10 @@ def website_path(name):
                 os.mkdir(website_folder)
             except FileNotFoundError:
                 print('FileNotFoundError EXCEPTION!')
+                error = True
             except OSError:
                 print('OSError EXCEPTION! Unable to index page.')
-            error = True
+                error = True
             break
     
     #Undo the file creation if it failed
