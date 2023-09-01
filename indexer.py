@@ -285,7 +285,7 @@ def main():
         update_ranked_url_list()
         save_ranked_url_list()
     
-    search_term = 'English'
+    search_term = 'plane'
     result = search_term_in_ranked_database(search_term)
     
 
