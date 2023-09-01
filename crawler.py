@@ -416,6 +416,9 @@ def expand_index(number_to_expand):
 # MAIN
 
 def main():
+
+    print('TODO!!!!! Move page printing to website_extractor.save_website()\n\n\n\n\n')
+
     print('This is the Longin Crawler!')
     load_history_from_file()
     print('Ammount of pages currently indexed: {}'.format(count_pages_indexed()))
