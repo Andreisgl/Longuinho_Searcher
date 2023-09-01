@@ -406,6 +406,7 @@ def expand_index(number_to_expand):
     days = round(((total_seconds//60)//60)//24)
     
     print('Task took {} days, {}:{}:{}'.format(days, hours, minutes, seconds))
+    print('Average of {} seconds per page.'.format(total_seconds/pages_searched))
     
 
     
