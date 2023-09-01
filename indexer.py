@@ -150,6 +150,7 @@ def load_main_page_path_list():
     main_page_path_list = unpack_list_of_lists(list)
 def update_main_page_path_list():
     global main_page_path_list
+    print('Update MPL')
     main_page_path_list = gather_all_paths_in_database()
 
 # TERM SEARCHING
@@ -185,13 +186,15 @@ def get_url_ranking_from_database():
     global main_page_path_list
     global main_page_path_list_file
 
+    print('Ranking URLs')
     
     mention_list = []
     mention_count_list = []
     page_link_list = []
 
     page_counter = 0
-    for page in main_page_path_list:
+    for index, page in enumerate(main_page_path_list):
+        print('Ranking: {}/{}\t {} instances'.format(index+1, len(main_page_path_list), page_counter))
         # Get URL from current page
         page_link = (site_saver.load_list_from_file(page[0])[0]).split('\\')[1]
         page_link = [page_link, page[0]] # Trasport URL and page path
@@ -258,6 +261,8 @@ def load_ranked_url_list():
 def update_ranked_url_list():
     # The rank of the currently indexed pages
     global ranked_url_list
+    
+    print('Update RUL')
     ranked_url_list = get_url_ranking_from_database()
 
 # Search
