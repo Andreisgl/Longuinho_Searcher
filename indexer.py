@@ -194,11 +194,7 @@ def get_url_ranking_from_database():
 
     page_counter = 0
     for index, page in enumerate(main_page_path_list):
-<<<<<<< HEAD
         print('Ranking: {}/{}\t {} instances'.format(index+1, len(main_page_path_list), page_counter))
-=======
-        print('Ranking: {}/{}\t {} instances'.format(index, len(main_page_path_list), page_counter))
->>>>>>> 0c8e48933ad439d5cb44874b3a641943af9efe56
         # Get URL from current page
         page_link = (site_saver.load_list_from_file(page[0])[0]).split('\\')[1]
         page_link = [page_link, page[0]] # Trasport URL and page path
@@ -282,14 +278,14 @@ def main():
     load_main_page_path_list()
     load_ranked_url_list()
     
-    if True:#ranked_url_list == []:
+    if False:#ranked_url_list == []:
         update_main_page_path_list()
         save_main_page_path_list()
         update_ranked_url_list()
         save_ranked_url_list()
     
-
-
+    search_term = 'Name'
+    result = search_term_in_ranked_database(search_term)
     
 
     pass
