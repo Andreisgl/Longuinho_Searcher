@@ -178,6 +178,7 @@ def search_term_in_ranked_database(search_term):
         aux = [search_list_in_page(search_term, text_path), url, meta_path]
         if aux[0] != []:
             results.append(aux)
+    return results
 
 # RANKED_URL_LIST
 def get_url_ranking_from_database():
@@ -284,7 +285,7 @@ def main():
         update_ranked_url_list()
         save_ranked_url_list()
     
-    search_term = 'Name'
+    search_term = 'English'
     result = search_term_in_ranked_database(search_term)
     
 
