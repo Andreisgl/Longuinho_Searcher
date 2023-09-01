@@ -5,6 +5,8 @@ import os
 import urllib.request
 from bs4 import BeautifulSoup
 
+import urllib.parse as urlparse
+
 # EXTRACTION
 def page_extractor(search_url):
     success_flag = True
@@ -14,6 +16,10 @@ def page_extractor(search_url):
     final_url = ''
     http_code = 0
     error_code = 0
+
+    # Treats URLs with special characters
+    search_url = urllib.parse.quote(sanitize_url_to_name(search_url))
+    search_url = 'http://' + search_url
 
     try: # Gets the url
         with urllib.request.urlopen(search_url, timeout = 20.0) as response:
@@ -37,7 +43,10 @@ def page_extractor(search_url):
             # This can be any error code, like '403', '404'...
             error_code = e.code
             pass
-        
+    except:
+        success_flag = False
+        error_code = '?'
+        print('UNKNOWN ERROR')
             
 
     if success_flag:
@@ -122,6 +131,29 @@ def sanitize_url_to_filesystem_name(input):
 
    return input
 
+# CONVERSION AND STUFF
+def iri_to_uri(iri, encoding='Latin-1'):
+    "Takes a Unicode string that can contain an IRI and emits a URI."
+    scheme, authority, path, query, frag = urlparse.urlsplit(iri)
+    scheme = scheme.encode(encoding)
+    if ":" in authority:
+        host, port = authority.split(":", 1)
+        authority = host.encode('idna') + ":%s" % port
+    else:
+        authority = authority.encode(encoding)
+    path = urllib.quote(
+      path.encode(encoding), 
+      safe="/;%[]=:$&()+,!?*@'~"
+    )
+    query = urllib.quote(
+      query.encode(encoding), 
+      safe="/;%[]=:$&()+,!?*@'~"
+    )
+    frag = urllib.quote(
+      frag.encode(encoding), 
+      safe="/;%[]=:$&()+,!?*@'~"
+    )
+    return urlparse.urlunsplit((scheme, authority, path, query, frag))
 
 # GET FULL DATA
 def get_data_from_url(search_url):
