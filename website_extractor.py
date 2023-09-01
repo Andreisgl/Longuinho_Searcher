@@ -30,19 +30,6 @@ def page_extractor(search_url):
         if final_url != search_url: # This means there was a redirection
             was_redirected = True
 
-    except urllib.error.URLError as e: # Unable to access URL
-        success_flag = False
-        
-        try:
-            a = e.reason.errno
-            if e.reason.errno == 11001:
-                # Unable to connect. Possible connection error or wrong URL
-                error_code = a
-            
-        except AttributeError:
-            # This can be any error code, like '403', '404'...
-            error_code = e.code
-            pass
     except:
         success_flag = False
         error_code = '?'
