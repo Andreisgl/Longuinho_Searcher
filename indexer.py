@@ -254,18 +254,18 @@ def main():
     global ranked_url_list
     global ranked_url_list_file
     
-    
+    input('TODO: ADD META FILES TO RANKING')
     load_main_page_path_list()
     load_ranked_url_list()
     
-    if True:
+    if False:
         update_main_page_path_list()
         save_main_page_path_list()
         update_ranked_url_list()
         save_ranked_url_list()
     
-    #search_term = 'plane'
-    #result = search_term_in_ranked_database(search_term)
+    search_term = 'plane'
+    result = search_term_in_ranked_database(search_term)
     
 
     pass
