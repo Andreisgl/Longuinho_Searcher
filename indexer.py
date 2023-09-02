@@ -253,9 +253,9 @@ def main():
     load_main_page_path_list()
     load_ranked_url_list()
     
-    if True:#ranked_url_list == []:
-        #update_main_page_path_list()
-        #save_main_page_path_list()
+    if True:
+        update_main_page_path_list()
+        save_main_page_path_list()
         update_ranked_url_list()
         save_ranked_url_list()
     
