@@ -2,6 +2,10 @@
 import os
 import site_saver
 
+from multiprocessing import Pool
+
+from collections import Counter
+
 def main_folders_manager():
     # Creates and manages all necessary folders
 
@@ -188,63 +192,33 @@ def get_url_ranking_from_database():
     global main_page_path_list_file
 
     print('Ranking URLs')
+
+    # Get all links possible in all indexed pages
+    all_links = []
+
+    sample = main_page_path_list
+    sample = [x[2] for x in sample]
+
+    data_pack_bundle = []
+    with Pool() as pool:
+        data_pack_bundle = pool.map(site_saver.load_list_from_file, sample, chunksize=5)
     
-    mention_list = []
-    mention_count_list = []
-    page_link_list = []
+    # Put all link bundles in a simple, single list.
+    for page in data_pack_bundle:
+        for link in page:
+            all_links.append(link)
 
-    page_counter = 0
-    for index, page in enumerate(main_page_path_list):
-        print('Ranking: {}/{}\t {} instances'.format(index+1, len(main_page_path_list), page_counter))
-        # Get URL from current page
-        page_link = (site_saver.load_list_from_file(page[0])[0]).split('\\')[1]
-        page_link = [page_link, page[0]] # Trasport URL and page path
-        page_link_list.append(page_link)
-        # Get URLs mentioned in this page
-        sub_link_list = site_saver.load_list_from_file(page[2])
-
-        page_dir = page[0]
-        for index, link in enumerate(sub_link_list):
-            
-            if link not in mention_list:
-                # Index unique links
-                mention_list.append(link)
-                mention_count_list.append(1)
-            else:
-                # Increase count for existing links
-                location = mention_list.index(link)
-                mention_count_list[location] += 1
-            page_counter += 1
+    # Count all obtained links
+    count_list = Counter(all_links)
+    # Assemble list of every link and their score
+    full_mention_list = [[x, count_list[x]] for x in all_links]
     
-    # Make a list for all URLs, each item consisting of [URL, count]
-    mention_list = [[x, mention_count_list[i]] for i, x in enumerate(mention_list)]
-
-    # Order links from most cited to less cited
-    #mention_list = [x for mention_list, x in sorted(zip(mention_count_list,mention_list),reverse=True)]
-
-    # Strip counts from 'mention_list'
-    aux = [x[0] for x in mention_list]
-    aux2 = [x[1] for x in mention_list]
-    pass
-
-    # The ranking of the currently indexed pages
-    page_link_rank = []
-    page_link_mention_count = []
-
-    for page_link in page_link_list:
-        try:
-            # Find index of 'page_link' mentioned in 'aux'
-            index = aux.index(page_link[0])
-        except ValueError:
-            page_mention_count = 0
-        page_mention_count = aux2[index]
-        page_link_rank.append([page_link[0], page_link[1], page_mention_count])
-        page_link_mention_count.append(page_mention_count)
+    full_mention_list.sort(key=lambda full_mention_list: full_mention_list[1], reverse=True)
     
-    # Order list
-    page_link_rank = [x for page_link_rank, x in sorted(zip(page_link_mention_count,page_link_rank),reverse=True)]
+    # Strip score from list
+    page_link_rank = [x[0] for x in full_mention_list]
     
-
+    print('URLs ranked!')
     return page_link_rank
 
 def save_ranked_url_list():
