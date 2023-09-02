@@ -196,14 +196,26 @@ def get_url_ranking_from_database():
     # Get all links possible in all indexed pages
     all_links = []
 
-    sample = main_page_path_list
-    sample = [x[2] for x in sample]
+    sample = main_page_path_list # Workset to work with
+
+    link_list_paths = [x[2] for x in sample] # Get all link files' paths
+    pages_work_set = []
+    # Reduce sample list to [URL, meta_file_path]
+    for page in sample:
+        meta_path = page[0]
+        page_link = (site_saver.load_list_from_file(meta_path)[0]).split('\\')[1]
+        pages_work_set.append([page_link, meta_path])
+    pass
+
+
+    
+
 
     data_pack_bundle = []
     with Pool() as pool:
-        data_pack_bundle = pool.map(site_saver.load_list_from_file, sample, chunksize=5)
+        data_pack_bundle = pool.map(site_saver.load_list_from_file, link_list_paths, chunksize=5)
     
-    # Put all link bundles in a simple, single list.
+    # Put all link from bundles in a simple, single list.
     for page in data_pack_bundle:
         for link in page:
             all_links.append(link)
@@ -212,10 +224,11 @@ def get_url_ranking_from_database():
     count_list = Counter(all_links)
 
     # Create list of all links obtained, without duplicates.
-    all_unique_links = set(all_links)
+    #all_unique_links = set(all_links) # Is this redundant, with the 'sample' list?
+    #pages_work_set
 
     # Assemble list of every link and their score
-    full_mention_list = [[x, count_list[x]] for x in all_unique_links]
+    full_mention_list = [[x[0], x[1], count_list[x[0]]] for x in pages_work_set]
     
     full_mention_list.sort(key=lambda full_mention_list: full_mention_list[1], reverse=True)
     
@@ -254,13 +267,12 @@ def main():
     global ranked_url_list
     global ranked_url_list_file
     
-    input('TODO: ADD META FILES TO RANKING')
     load_main_page_path_list()
     load_ranked_url_list()
     
-    if False:
-        update_main_page_path_list()
-        save_main_page_path_list()
+    if True:
+        #update_main_page_path_list()
+        #save_main_page_path_list()
         update_ranked_url_list()
         save_ranked_url_list()
     
