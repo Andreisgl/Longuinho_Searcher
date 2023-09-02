@@ -209,7 +209,7 @@ def get_url_ranking_from_database():
             if link not in mention_list:
                 # Index unique links
                 mention_list.append(link)
-                mention_count_list.append(0)
+                mention_count_list.append(1)
             else:
                 # Increase count for existing links
                 location = mention_list.index(link)
@@ -279,14 +279,14 @@ def main():
     load_main_page_path_list()
     load_ranked_url_list()
     
-    if False:#ranked_url_list == []:
-        update_main_page_path_list()
-        save_main_page_path_list()
+    if True:#ranked_url_list == []:
+        #update_main_page_path_list()
+        #save_main_page_path_list()
         update_ranked_url_list()
         save_ranked_url_list()
     
-    search_term = 'plane'
-    result = search_term_in_ranked_database(search_term)
+    #search_term = 'plane'
+    #result = search_term_in_ranked_database(search_term)
     
 
     pass
