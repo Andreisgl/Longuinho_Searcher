@@ -210,13 +210,18 @@ def get_url_ranking_from_database():
 
     # Count all obtained links
     count_list = Counter(all_links)
+
+    # Create list of all links obtained, without duplicates.
+    all_unique_links = set(all_links)
+
     # Assemble list of every link and their score
-    full_mention_list = [[x, count_list[x]] for x in all_links]
+    full_mention_list = [[x, count_list[x]] for x in all_unique_links]
     
     full_mention_list.sort(key=lambda full_mention_list: full_mention_list[1], reverse=True)
     
     # Strip score from list
-    page_link_rank = [x[0] for x in full_mention_list]
+    #page_link_rank = [x[0] for x in full_mention_list]
+    page_link_rank = full_mention_list
     
     print('URLs ranked!')
     return page_link_rank
