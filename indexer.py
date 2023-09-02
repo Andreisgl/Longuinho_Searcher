@@ -205,12 +205,7 @@ def get_url_ranking_from_database():
         meta_path = page[0]
         page_link = (site_saver.load_list_from_file(meta_path)[0]).split('\\')[1]
         pages_work_set.append([page_link, meta_path])
-    pass
-
-
     
-
-
     data_pack_bundle = []
     with Pool() as pool:
         data_pack_bundle = pool.map(site_saver.load_list_from_file, link_list_paths, chunksize=5)
@@ -276,8 +271,8 @@ def main():
         update_ranked_url_list()
         save_ranked_url_list()
     
-    search_term = 'plane'
-    result = search_term_in_ranked_database(search_term)
+    #search_term = 'plane'
+    #result = search_term_in_ranked_database(search_term)
     
 
     pass
