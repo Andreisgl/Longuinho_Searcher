@@ -295,7 +295,7 @@ def pathfinder(ammount_to_search):
         ammount_to_search = max_number_of_links
 
 
-    ###
+    ### Multi-core processing
     sample = incoming_url_list[:ammount_to_search]
 
     data_pack_bundle = []
