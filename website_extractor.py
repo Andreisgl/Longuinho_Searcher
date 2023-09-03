@@ -5,6 +5,8 @@ import os
 import urllib.request
 from bs4 import BeautifulSoup
 
+import urllib.parse as urlparse
+
 # EXTRACTION
 def page_extractor(search_url):
     success_flag = True
@@ -15,6 +17,10 @@ def page_extractor(search_url):
     http_code = 0
     error_code = 0
 
+    # Treats URLs with special characters
+    search_url = urllib.parse.quote(sanitize_url_to_name(search_url))
+    search_url = 'http://' + search_url
+
     try: # Gets the url
         with urllib.request.urlopen(search_url, timeout = 20.0) as response:
             raw_data = response.read()
@@ -24,14 +30,11 @@ def page_extractor(search_url):
         if final_url != search_url: # This means there was a redirection
             was_redirected = True
 
-    except urllib.error.URLError as e: # Unable to access URL
+    except:
         success_flag = False
-        if e.reason.errno == 11001:
-            # Unable to connect. Possible connection error or wrong URL
-            error_code = e.reason.errno
-        else:
-            # This can be any error code, like '403', '404'...
-            error_code = e.code
+        error_code = '?'
+        print('UNKNOWN ERROR')
+            
 
     if success_flag:
         data_returned = (raw_data,
@@ -54,7 +57,11 @@ def page_extractor(search_url):
 # URLs
 def parse_urls(raw_data):
     # Returns all URLs from a page's raw data
-    url_soup = BeautifulSoup(raw_data, 'html.parser')
+    try:
+        url_soup = BeautifulSoup(raw_data, 'html.parser')
+    except:
+        print('URL Parser Error: Unable to parse URLs')
+        return []
     aux = url_soup.find_all('a')
     link_list = []
     for item in aux:
@@ -75,7 +82,11 @@ def parse_urls(raw_data):
     return clean_list
 # TEXT
 def parse_text(raw_data):
-    text_soup = BeautifulSoup(raw_data, 'html.parser')
+    try:
+        text_soup = BeautifulSoup(raw_data, 'html.parser')
+    except:
+        print('Text Parser Error: Unable to parse text')
+        return []
     text = text_soup.get_text()
 
     text = text.split('\n') # Split into lines
@@ -115,6 +126,29 @@ def sanitize_url_to_filesystem_name(input):
 
    return input
 
+# CONVERSION AND STUFF
+def iri_to_uri(iri, encoding='Latin-1'):
+    "Takes a Unicode string that can contain an IRI and emits a URI."
+    scheme, authority, path, query, frag = urlparse.urlsplit(iri)
+    scheme = scheme.encode(encoding)
+    if ":" in authority:
+        host, port = authority.split(":", 1)
+        authority = host.encode('idna') + ":%s" % port
+    else:
+        authority = authority.encode(encoding)
+    path = urllib.quote(
+      path.encode(encoding), 
+      safe="/;%[]=:$&()+,!?*@'~"
+    )
+    query = urllib.quote(
+      query.encode(encoding), 
+      safe="/;%[]=:$&()+,!?*@'~"
+    )
+    frag = urllib.quote(
+      frag.encode(encoding), 
+      safe="/;%[]=:$&()+,!?*@'~"
+    )
+    return urlparse.urlunsplit((scheme, authority, path, query, frag))
 
 # GET FULL DATA
 def get_data_from_url(search_url):

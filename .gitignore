@@ -2,12 +2,18 @@
 SITES_INDEX
 
 # Crawler folder
-crawler_data
+crawler_data/*
+!crawler_data/seeds.txt
+!crawler_data/blacklist.txt
 
 # Indexer folder
 INDEXER
 
+# Test stuff
+test_output.csv
 
+# My storage stuff
+storage
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

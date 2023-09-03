@@ -1,6 +1,10 @@
 # This script saves important data from the website and returns paths for the data.
 import os
+import shutil
 import time
+
+import textwrap
+
 import website_extractor as site_ex
 
 def main_folders_manager():
@@ -10,6 +14,12 @@ def main_folders_manager():
     ALL_WEBSITES_FOLDER = os.path.join(database_dir, ALL_WEBSITES_FOLDER)
     if(not os.path.exists(ALL_WEBSITES_FOLDER)):
         os.mkdir(ALL_WEBSITES_FOLDER)
+
+# DISPLAY STUFF
+def get_terminal_columns():
+    return shutil.get_terminal_size().columns
+no_terminal_columns = get_terminal_columns()
+
 
 def get_pages_database_path():
     # The indexer will need to know where the pages are located
@@ -53,7 +63,9 @@ def load_list_from_file(in_file):
             list = data.split('\n')
             return list
     except FileNotFoundError:
-        return FileNotFoundError
+        with open(in_file, 'w'):
+            pass
+        return ''
 
 def website_path(name):
     global DATA_FILENAME
@@ -82,7 +94,10 @@ def website_path(name):
             except FileNotFoundError:
                 print('FileNotFoundError EXCEPTION!')
                 error = True
-                break
+            except OSError:
+                print('OSError EXCEPTION! Unable to index page.')
+                error = True
+            break
     
     #Undo the file creation if it failed
     if error:
@@ -102,10 +117,6 @@ def website_path(name):
 
     return data_file, link_list_file, text_list_file, meta_list_file
 
-
-
-
-
 def save_website(search_url): # Rename later to 'save_website'
     # Saves important data from the website, returns paths for the data.
     data_file = ''
@@ -113,14 +124,24 @@ def save_website(search_url): # Rename later to 'save_website'
     text_list_file = ''
     meta_list_file = ''
 
-
-    
-
     #(website_name, raw_file_data, link_list, text_list, real_url) = site_ex.get_data_from_url(search_url)
     (raw_file_data,
      was_redirected, search_url, real_url, website_name,
      http_code, success_flag,
      link_list, text_list) = site_ex.get_data_from_url(search_url)
+
+    # Prints
+    # Print current URL
+    display_url = textwrap.wrap(search_url, no_terminal_columns-1)
+    print('{}'.format(display_url[0]))
+
+    # Save to history
+    if was_redirected:
+        # Print final URL
+        print('REDIRECTED TO:')
+        display_url = textwrap.wrap(real_url, no_terminal_columns-1)
+        print('{}'.format(display_url[0]))
+
 
     # CREATE METADATA
     meta_url = 'URL\{}'.format(real_url)
@@ -149,8 +170,12 @@ def save_website(search_url): # Rename later to 'save_website'
         data_file, link_list_file, text_list_file, meta_list_file = website_path(website_name)
     
     
+    return_data = (data_file, link_list_file, text_list_file, meta_list_file,
+            was_redirected, search_url, real_url,
+            link_list, text_list)
+
     if len(raw_file_data) == 0: # If it has no data, there is nothing to index
-        return data_file, link_list_file, text_list_file, meta_list_file
+        return return_data
     
     # Save data in folder
     if not is_page: # If the link is a page, do not save raw data
@@ -163,11 +188,7 @@ def save_website(search_url): # Rename later to 'save_website'
     
     save_list_to_file(meta_list, meta_list_file)
 
-    # raw_data, was_redirected, search_url, final_url, website_name, http_code, success_flag, url_list, text_list
-    
-    return (data_file, link_list_file, text_list_file, meta_list_file,
-            was_redirected, search_url, real_url,
-            link_list, text_list)
+    return return_data
 
 
 DATA_FILENAME = 'data.txt'
