@@ -204,8 +204,7 @@ def removed_links_in_history_from_incoming():
     global url_history_list
 
     initial_length = len(incoming_url_list)
-    incoming_url_list = [x for x in incoming_url_list
-                         if x not in url_history_list]
+    incoming_url_list = list(set(incoming_url_list).difference(url_history_list))
     final_length = len(incoming_url_list)
     return initial_length - final_length
 def remove_blacklisted_sites_from_incoming():
@@ -263,7 +262,7 @@ def clean_incoming():
           .format(removed_counter, duplicate_counter,
                   existing_counter, blacklisted_counter))
     
-    show_debugging_timings = True
+    show_debugging_timings = False
     if show_debugging_timings:
         duplicate_time = duplicate_finish_time - duplicate_start_time
         existing_time = existing_finish_time - existing_start_time
@@ -439,7 +438,7 @@ def expand_index(number_to_expand):
     number_currently_found = 0
 
     # Limits each pathfinding so progress gets saved every x pages
-    max_number_per_run = 100
+    max_number_per_run = 1000
     to_search  = 0
 
     start_time = time.perf_counter()
