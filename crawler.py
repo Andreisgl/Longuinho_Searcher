@@ -249,7 +249,7 @@ def clean_incoming():
     return removed_counter
 
 # STATISTICS:
-def count_pages_indexed():
+def count_pages_crawled():
     global url_history_list
     global redirector_flag
     load_history_from_file()
@@ -409,7 +409,7 @@ def main():
 
     print('This is the Longin Crawler!')
     load_history_from_file()
-    print('Ammount of pages currently indexed: {}'.format(count_pages_indexed()))
+    print('Ammount of pages already crawled: {}'.format(count_pages_crawled()))
     while True:
         try:
             answer = int(input('How many pages do you want to index? '))
@@ -419,7 +419,7 @@ def main():
         expand_index(answer)
         break
 
-    print('Ammount of pages currently indexed: {}'.format(count_pages_indexed()))
+    print('Ammount of pages already crawled: {}'.format(count_pages_crawled()))
     input('Done! Press ENTER to exit')
 
 # Multiprocessing tests
