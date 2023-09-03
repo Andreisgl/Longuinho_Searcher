@@ -1,0 +1,620 @@
+Upstream projects - MediaWiki
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageGet MediaWikiGet extensionsTech blogContribute
+Support
+User helpFAQTechnical manualSupport deskCommunication
+Development
+Developer portalCode statistics
+MediaWiki.org
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+In other languages
+Add links
+Search
+Search
+ EnglishCreate accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+Beginning
+1Motivation
+2Invented here
+3MediaWiki dependencies
+4Development and operations
+5Miscellaneous
+Toggle Miscellaneous subsection
+5.1Integrated on Wikimedia projects
+5.2Editing tools
+5.3Web browsers
+6Notes
+7See also
+Toggle the table of contents
+Toggle the table of contents
+Upstream projects
+PageDiscussion
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+From mediawiki.org
+MediaWiki developers and users[1] rely on several upstream and/or 3rd party projects for their architecture or processes. At the same time, they develop software projects used by others, which are downstream to them. These links define our location in the free software map, our neighbor communities, and the flows of feedback, patches, and contributors.
+Let's identify our upstream projects, our neighbor communities, and the contributors that connect us with them.
+Motivation[edit]
+This is a first step to improve our relations with other communities, to increase the contributions received, and our influence in the projects that matter to us.
+Our mid-term goals include:
+identify the projects where we want to see significant development, to the point of sending patches as well
+identify the communities where Wikimedia should be regularly active and heard
+identify the people in the Wikimedia and upstream communities that know each other and act as bridge
+identify organizations and events we should get in touch and be part of
+get involved in bigger development efforts regularly, become a regular FOSS player
+Invented here[edit]
+See Maintainers for all components, libraries, and extensions that we maintain and deploy with or around MediaWiki.
+For a larger list of software projects that we publish see Wikimedia Open Source.
+Other projects from the MediaWiki engineering community
+Name & URL
+Description
+Language(s)
+Repository
+Bug tracker
+Main contacts
+translatewiki.net
+Where we organise localisation of MediaWiki.
+PHP, Puppet
+phab:diffusion/GTWN/
+#translatewiki.net in Phabricator, translatewiki:Support
+Nikerabbit (founder), Abijeet Patro (co-maintainer), Siebrand (co-maintainer), Raymond (MediaWiki updates responsible)
+Pywikibot
+Python Wiki Robot Framework to automatize tasks
+Python
+Diffusion
+Phabricator (under "Pywikibot")
+xqt
+More stuff (hundreds of projects) by fellow MediaWiki developers and Wikimedians is also listed at:
+https://www.openhub.net/p/mediawiki-webtools
+https://www.openhub.net/p/mediawiki-clients
+https://www.openhub.net/p/mediawiki-scripts
+https://www.openhub.net/p/wikibots
+Others: https://www.openhub.net/orgs/wikimedia/projects
+MediaWiki dependencies[edit]
+Projects that we use server-side or client-side as part of MediaWiki core, or WMF-deployed extensions. See also key Wikimedia projects.
+Upstream components
+Name & URL
+Description
+Language(s)
+Repository
+Bug tracker
+Main contacts
+GNU diff and diff3
+Powers recent changes, history and undo button (i.e. most editing features).
+Elasticsearch
+Distributed real-time search and analytics engine.
+Java
+GitHub
+GitHub
+jQuery
+Lots of DOM traversing, and other DOM-related helpers, for JavaScript.
+JavaScript
+GitHub
+GitHub
+OpenJS Foundation, Timo Tijhof
+jQuery UI
+Simple widgets for client-side UIs. Deprecated within MediaWiki.
+JavaScript
+GitHub
+bugs.jqueryui.com
+OpenJS Foundation, Timo Tijhof
+Vue.js
+Vue is a progressive framework for building user interfaces.
+JavaScript
+GitHub
+GitHub
+Unihan Database
+For Chinese language conversion
+Used as database
+Smart Common Input Method
+For Chinese language conversion
+Used as database
+libtabe
+For Chinese language conversion
+Used as database
+ImageMagick
+general purpose image scaling
+C
+No repo ImageMagick.tar.gz
+Forum
+Lua
+Scripting language
+C
+ACE
+Web based code editor
+JavaScript, HTML
+GitHub
+GitHub
+User:TheDJ (has signed contributor license)
+VIPS
+Image scaling of large images (VipsScaler)
+GitHub
+GitHub
+User:Bryan
+libRsvg
+PNG renderer for SVG images
+C
+GNOME git
+GNOME Gitlab (Wikimedia tagged issues)
+MathJax
+Math rendering in HTML/SVG/MathML; used by Math extension
+JavaScript
+GitHub
+GitHub
+CodeMirror
+a browser based text editor (Used by the CodeMirror extension to provide syntax highlighting in the 2010 wikitext editor.)
+JavaScript
+GitHub
+GitHub; GitHub (for version 6)
+FFmpeg
+Video conversion and scaling
+C
+ffmpeg
+ffmpeg
+MWLib
+mediawiki parser and converter
+Python
+GitHub
+GitHub
+Pygments.org
+Syntax highlighting
+Python
+Bitbucket
+Bitbucket
+Unicode CLDR (Common Locale Data Repository)
+All we manage to take: language names, plural rules, language-territory information, ...
+[1]
+Nemo (CLDR Survey Tool manager)
+CLDRPluralRuleParser
+Plural support based on CLDR
+JavaScript
+GitHub
+GitHub
+Santhosh Thottingal
+Apertium
+Free software, rule-based machine translation; used by Translate, ContentTranslation and others.
+Soureforge
+[2]
+Francis Tyers, Firespeaker, Unhammer
+Ceph
+Distributed storage system
+C++
+GitHub
+Ceph
+GlusterFS
+Distributed file system
+[3]
+Leaflet
+Maps on Mobile
+JavaScript
+[4]
+Lilypond
+used by the Score extension
+Gitlab.com
+MariaDB
+Relational database.
+[5]
+memcached
+GitHub
+[6]
+multilightbox
+used by Extension:MultimediaViewer
+[7]
+MySQL
+Relational database.
+[8]
+PHP
+Programming language that MediaWiki is written in
+[9]
+Rangy
+JavaScript range and selection library, used by VisualEditor
+[10]
+Swift
+Distributed storage system
+[11]
+lightncandy
+HTML templating (mustache and handlebars) in PHP
+PHP
+GitHub
+GitHub
+EBernhardson, Kaldari
+Composer
+Dependency manager for PHP libraries - used for managing MediaWiki libraries and CI
+PHP
+getcomposer.org
+GitHub
+Legoktm, Bryan Davis, Reedy
+Blazegraph
+RDF-graph database supporting RDF and SPARQL - used by WDQS
+Java
+Blazegraph.com
+Jira / GitHub
+Zotero translators
+Used by Citoid to generate citation data from a URL or other identifier
+JavaScript
+GitHub
+GitHub
+Video.js
+Used by TimedMediaHandler as an audio/video player interface
+JavaScript
+GitHub
+GitHub
+Brion VIBBER and TheDJ
+Development and operations[edit]
+Projects that make up part of our development process to operate the production cluster itself. They are installed on Wikimedia servers and are used in the release process of key Wikimedia projects.
+Upstream tools
+Name & URL
+Description
+Language(s)
+Repository
+Bug tracker
+Main contacts
+Jenkins
+Continuous integration
+Java
+GitHub
+Jira
+(CD Foundation), Hashar, MarkTraceur
+Jenkins Job Builder
+Job creation system
+Python
+Git
+Openstack Storyboard
+(OpenStack), Hashar, MarkTraceur
+Zuul
+Gerrit/Jenkins bridge trigger
+Python
+Git
+Openstack Storyboard
+(OpenStack), Hashar, MarkTraceur
+Gerrit
+Code review tool
+Java
+Gerrit
+Monorail
+(Google), QChris
+Etherpad Lite
+Real-time collaborative document editing
+JavaScript (Node.js)
+GitHub
+GitHub
+MarkTraceur, Mutante
+PHPUnit
+Unit testing framework for PHP
+PHP
+GitHub
+GitHub
+Node.js
+Programming language, e.g. used by ESLint, and Karma.
+C++, JavaScript
+GitHub
+GitHub
+OpenJS Foundation, Timo Tijhof
+QUnit
+Unit testing framework for JavaScript.
+JavaScript
+GitHub
+GitHub
+OpenJS Foundation, Timo Tijhof
+Doxygen
+Documentation generation
+C++, PHP
+GitHub
+GitHub
+Timo Tijhof
+Karma
+Automation for running unit tests in web browsers and capturing their results.
+JavaScript
+GitHub
+GitHub
+(Google), Timo Tijhof
+Grunt
+Task runner for build and test scripts.
+JavaScript
+GitHub
+GitHub
+(jQuery Foundation)
+Vagrant
+GitHub
+GitHub
+(HashiCorp)
+Logstash
+A tool that can be used to collect, process and forward events and log messages
+JRuby
+GitHub
+Jira
+(Elastic), bd808
+Kibana
+A browser based analytics and search interface for Elasticsearch that was developed primarily to view Logstash event data
+JavaScript
+GitHub
+GitHub
+(Elastic), bd808
+Graphite/Carbon
+Real-time graphing system and time series
+Python
+GitHub
+GitHub
+Grafana
+Metrics visualisation
+Go, JavaScript
+GitHub
+GitHub
+JSDuck
+Static site generator for documentation.
+Ruby
+GitHub
+GitHub
+Mailman suite
+Mailing list server / management (see also Mailing lists administration)
+Python
+GitLab
+GitLab
+Legoktm, Ladsgroup
+git-review
+Command line tool for using Gerrit
+Git
+[12]
+(OpenStack),
+Phabricator
+Task tracker and software development tool used by Wikimedia, see https://phabricator.wikimedia.org
+PHP
+Phorge.it
+#phabricator-upstream and we.phorge.it
+Andre Klapper
+PHP CodeSniffer
+Continuous integration
+PHP
+GitHub
+GitHub
+Legoktm
+Phan
+Continuous integration
+PHP
+GitHub
+GitHub
+Selenium
+Automated Browser Testing
+[13]
+Debian
+Free Operating System used on all production servers and cloud VPS instances.
+various
+[14]
+[15]
+multiple Debian devs in SRE, Legoktm
+Let's Encrypt
+non-profit certificate authority - used for TLS (SSL) certificates for many services
+github/letsencrypt
+SRE Traffic team
+Apache Trafficserver (ATS)
+Reverse proxy and forward proxy server
+C++
+GitHub
+GitHub
+SRE Traffic team
+Varnish
+Reverse proxy server
+[16]
+nginx
+Reverse proxy / web server
+[17]
+Puppet
+Configuration management system.
+Ruby
+GitHub
+Jira
+Wikimedia SRE
+RT (Request Tracker)
+Ticket system used by Wikimedia Operations team
+[18]
+Icinga
+Network system monitoring (icinga.wikimedia.org)
+[19]
+Znuny
+Ticket system used for answering queries, see https://ticket.wikimedia.org/
+Znuny: [20]
+CiviCRM
+Used for WMF Fundraising (now upstreaming patches)
+[21]
+WordPress
+https://blog.wikimedia.org
+PHP
+Trac
+(mailing lists)
+Rawdog
+https://en.planet.wikimedia.org/ etc
+Python
+http://offog.org/git/rawdog/
+Django
+Python web framework
+Python
+https://github.com/django/django
+OpenStack Nova
+OpenStack compute service.
+Python
+OpenStack GitHub
+Launchpad
+Wikimedia Cloud Services team
+OpenStack Neutron
+OpenStack software-defined-networking service.
+Python
+OpenStack GitHub
+Launchpad
+Wikimedia Cloud Services team
+OpenStack Glance
+OpenStack image service.
+Python
+OpenStack GitHub
+Launchpad
+Wikimedia Cloud Services team
+OpenStack Keystone
+OpenStack identity service.
+Python
+OpenStack GitHub
+Launchpad
+Wikimedia Cloud Services team
+OpenStack Swift
+OpenStack object storage service.
+Python
+OpenStack GitHub
+Launchpad
+Wikimedia SRE
+Kubernetes
+Cloud platform for running containers
+Go
+Kubernetes GitHub
+Kubernetes issues on GitHub
+Wikimedia SRE and Wikimedia Cloud Services team
+Linux Kernel
+The core that runs all of our servers
+C
+Git source tree
+TBD, probably better to use the Debian BTS.
+Wikimedia SRE and Wikimedia Cloud Services team and others.
+Netfilter
+Linux packet filtering framework
+C
+Netfilter source repositories
+Netfilter bugzilla
+Wikimedia SRE and Wikimedia Cloud Services team and others.
+Son of Grid Engine
+Distributed and scheduled computing platform
+Several
+SGE source repositories
+SGE mailing list
+Wikimedia Cloud Services team
+AJV (Another JSON Schema Validator)
+JSONSchema Validator that powers WMF's streaming Event Platform components like EventGate and schema repositories.
+NodeJS
+AJV GitHub
+AJV issues on GitHub
+Wikimedia Data Engineering and MediaWiki Platform Team
+Apache Superset
+Dashboarding and data exploration tool
+Python
+Superset GitHub
+Wikimedia Data Engineering
+Turnilo
+Data exploration tool
+JavaScript
+Turnilo GitHub
+Wikimedia Data Engineering
+libtiff
+tiffinfo; see e.g. phab:T269908
+C
+libtiff GitHub
+(what else?)
+Miscellaneous[edit]
+Integrated on Wikimedia projects[edit]
+Projects that are used in some way (embedding, linking) with Wikimedia projects, but operated by volunteers e.g. in Wikimedia Cloud or Toolforge.
+Upstream tools
+Name & URL
+Description
+Language(s)
+Repository
+Bug tracker
+Main contacts
+IIPImage
+Viewing and zooming of ultra high-resolution images (linked by default on Wikimedia Commons)
+C++
+SourceForge
+SourceForge
+Tesseract OCR
+Automated text recognition (OCR)
+C++
+GitHub
+GitHub
+Stefan Weil
+Hundreds of other packages on Tools
+(what else?)
+Editing tools[edit]
+Applications commonly used by developers or editors. For a full listing, see the lists m:Open Source Toolset, m:FLOSS-Exchange, d:Q6584911.
+Upstream tools
+Name & URL
+Description
+Language(s)
+Repository
+Bug tracker
+Main contacts
+Multimedia software and SVG tools
+Software used to contribute/work on multimedia in MediaWiki wikis, like Inkscape and GIMP. May play well with MediaWiki or not.
+LibreOffice (formerly OpenOffice)
+Productivity suite, can e.g. produce charts and export/publish documents to wikitext (via libreoffice-wiki-publisher).
+[22]
+Browser spellcheckers
+Aiding editors to prevent errors before they're saved.
+Over 120 in Firefox, see respective descriptions.
+KIPI uploader and other third party upload tools
+Multimedia contribution software by third parties, usually made for integration in their software (e.g. digiKam, Gwenview).
+(what else?)
+Web browsers[edit]
+See also: Compatibility
+Name & URL
+Description
+Language(s)
+Repository
+Bug tracker
+Main contacts
+Chrome
+Browser by Google
+chromium.org (Wikimedia issues are specifically tracked)
+Performance Team
+Firefox
+Browser by Mozilla
+mozilla.org
+Performance Team
+Opera
+Browser by Opera Software
+opera.com
+Internet Explorer
+Browser by Microsoft
+microsoft.com
+Safari
+Browser by Apple
+webkit.org
+(what else?)
+Notes[edit]
+↑ For instance, whether volunteers or for work: maintainers and contributors of MediaWiki core and extensions and other developers; Wikimedia projects editors and sysadmins; sysadmins of MediaWiki wikis.
+See also[edit]
+Developers/Maintainers
+Key Wikimedia software projects (As of August 2015 is out of date)
+Wikimedia projects mirrored on GitHub: https://github.com/wikimedia
+Wikimedia Open Source
+Library infrastructure for MediaWiki
+m:FLOSS-Exchange
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Upstream_projects&oldid=6080882"
+Categories: MediaWiki developmentLibrariesHidden category: Pages containing potentially dated statements
+ This page was last edited on 25 August 2023, at 14:24.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About MediaWiki.org
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

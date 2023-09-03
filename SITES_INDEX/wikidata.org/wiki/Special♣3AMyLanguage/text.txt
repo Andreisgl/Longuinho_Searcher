@@ -1,0 +1,846 @@
+Wikidata:Wikisource/Lists/language editions - Wikidata
+Wikidata:Wikisource/Lists/language editions
+From Wikidata
+< Wikidata:Wikisource
+Jump to navigation
+Jump to search
+Wikisource language editions (Q15156455)
+Manually update list
+This list is periodically updated by a bot. Manual changes to the list will be removed on the next update!
+WDQS | PetScan | TABernacle |  Find images Recent changes
+#
+qid
+label
+title
+subtitle
+description
+lang
+language
+url
+dbname
+start
+Commons
+logo
+1
+Q18198097
+Multilingual Wikisource
+Wikisource edition for the languages without it's own dedicated Wikisource
+mul
+multiple languages
+https://wikisource.org/
+sourceswiki
+2003
+2
+Q15156541
+French Wikisource
+fr:Wikisource
+fr:La bibliothèque libre
+French version of Wikisource
+fr
+French
+https://fr.wikisource.org/
+frwikisource
+2005-08
+French Wikisource
+3
+Q24577681
+Dutch Wikisource
+nl:Wikisource
+nl:De Vrije Bibliotheek
+Wikisource language edition
+nl
+Dutch
+https://nl.wikisource.org/
+nlwikisource
+2005-08-24
+Dutch Wikisource
+4
+Q19822573
+Chinese Wikisource
+zh-hant:維基文庫
+zh-hant:自由的圖書館
+edition of the free library
+zh
+Chinese
+https://zh.wikisource.org/
+zhwikisource
+2005-09
+Chinese Wikisource
+5
+Q15156406
+English Wikisource
+en:Wikisource
+en:The Free Library
+English version of Wikisource
+en
+English
+https://en.wikisource.org/
+enwikisource
+2005-09-11
+English Wikisource
+6
+Q24577664
+Haitian Creole Wikisource
+ht:Wikisous
+ht:Biblyotèk lib
+Wikisource language edition
+ht
+Haitian Creole
+https://ht.wikisource.org/
+htwikisource
+2006
+7
+Q24577697
+Min Nan Wikisource
+nan:Wikisource
+nan:Chū-iû ê tô͘-su-kóan
+Wikisource language edition
+nan
+Southern Min
+https://zh-min-nan.wikisource.org/
+zh_min_nanwikisource
+2006
+8
+Q16735590
+Czech Wikisource
+cs:Wikizdroje
+cs:volně dostupná knihovna
+edition of the free library
+cs
+Czech
+https://cs.wikisource.org/
+cswikisource
+2006-03-29
+Czech Wikisource
+9
+Q116220634
+Toki Pona Wikisource
+closed Wikimedia project
+Toki Pona
+https://tokipona.wikisource.org/
+tokiponawikisource
+2007
+10
+Q24577691
+Telugu Wikisource
+te:వికీసోర్స్
+te:స్వేఛ్ఛాయుత గ్రంధాలయము
+Wikisource language edition
+te
+Telugu
+https://te.wikisource.org/
+tewikisource
+2007-07
+11
+Q20726423
+Bengali Wikisource
+bn:উইকিসংকলন
+bn:একটি উন্মুক্ত পাঠাগার
+Bengali version of Wikisource
+bn
+Bengali
+https://bn.wikisource.org/
+bnwikisource
+2007-09-25
+Bengali Wikisource
+12
+Q24577649
+Breton Wikisource
+br:Wikimammenn
+br:Al Levraoueg Dieub
+Wikisource language edition
+br
+Breton
+https://br.wikisource.org/
+brwikisource
+2007-10-21
+13
+Q24577695
+Venetian Wikisource
+vec:Wikisource
+vec:La biblioteca lìbara
+Wikisource language edition
+vec
+Venetian
+https://vec.wikisource.org/
+vecwikisource
+2010-11
+14
+Q28861316
+Punjabi Gurmukhi Wikisource
+pa:ਵਿਕੀਸਰੋਤ
+Wikisource in the language Punjabi, Gurmukhi script
+pa
+Punjabi
+https://pa.wikisource.org/
+pawikisource
+2017-04-27
+15
+Q51977600
+Basque Wikisource
+eu:Wikiteka
+Basque version of Wikisource
+eu
+Basque
+https://eu.wikisource.org/
+euwikisource
+2018-04-19
+16
+Q54893569
+Piedmontese Wikisource
+Wikisource in Piedmontese language
+pms
+Piedmontese
+https://pms.wikisource.org/
+pmswikisource
+2018-06-08
+17
+Q66587539
+Neapolitan Wikisource
+Wikisource in Neapolitan language
+nap
+Neapolitan
+https://nap.wikisource.org/
+napwikisource
+2019-08-14
+Neapolitan Wikisource
+18
+Q69590574
+Hindi Wikisource
+Wikisource in Hindi language
+hi
+Hindi
+https://hi.wikisource.org/
+hiwikisource
+2019-10-08
+19
+Q97568657
+Ligurian Wikisource
+Ligurian edition of Wikisource
+lij
+Ligurian
+https://lij.wikisource.org/
+lijwikisource
+2020-07-20
+20
+Q104115883
+Walloon Wikisource
+language edition of Wikisource
+wa
+Walloon
+https://wa.wikisource.org/
+wawikisource
+2020-12-15
+21
+Q107387552
+Balinese Wikisource
+ban:WikiPustaka
+ban:Pustaka bebas
+Wikisource language edition
+ban
+Balinese
+https://ban.wikisource.org/
+banwikisource
+2021-06
+Balinese Wikisource
+22
+Q107586427
+Javanese Wikisource
+jv:Wikisumber
+jv:Kapustakan mardika
+Wikisource language edition
+jv
+Javanese
+https://jv.wikisource.org/
+jvwikisource
+2021-08-04
+Javanese Wikisource
+23
+Q15156648
+Gujarati Wikisource
+gu:વિકિસ્રોત
+gu:મુક્ત સાહિત્યસ્રોત
+Wikimedia project, a free online digital library in Gujarati language on a wiki
+gu
+Gujarati
+https://gu.wikisource.org/
+guwikisource
+24
+Q15156667
+Sanskrit Wikisource
+sa:विकिस्रोतम्
+sa:मुक्त पुस्तकालय
+Wikimedia project, a free online digital library in Sanskrit language on a wiki
+sa
+Sanskrit
+https://sa.wikisource.org/
+sawikisource
+Sanskrit Wikisource
+25
+Q15281537
+Italian Wikisource
+it:Wikisource
+it:La biblioteca libera
+Italian version of Wikisource
+it
+Italian
+https://it.wikisource.org/
+itwikisource
+Italian Wikisource
+26
+Q15298974
+Polish Wikisource
+pl:Wikiźródła
+pl:Wolna biblioteka
+Polish version of Wikisource
+pl
+Polish
+https://pl.wikisource.org/
+plwikisource
+Polish Wikisource
+27
+Q15298977
+Catalan Wikisource
+ca:Viquitexts
+ca:la biblioteca lliure
+Catalan version of Wikisource
+ca
+Catalan
+https://ca.wikisource.org/
+cawikisource
+Catalan Wikisource
+28
+Q15522295
+German Wikisource
+de:Wikisource
+de:Die freie Quellensammlung
+edition of the free library
+de
+German
+https://de.wikisource.org/
+dewikisource
+German Wikisource
+29
+Q15618752
+Spanish Wikisource
+es:Wikisource
+es:La biblioteca libre
+Spanish version of Wikisource
+es
+Spanish
+https://es.wikisource.org/
+eswikisource
+Spanish Wikisource
+30
+Q15634506
+Russian Wikisource
+ru:Викитека
+ru:Свободная библиотека
+edition of the free library
+ru
+Russian
+https://ru.wikisource.org/
+ruwikisource
+Russian Wikisource
+31
+Q16515025
+Swedish Wikisource
+sv:Wikisource
+sv:Det fria biblioteket
+Swedish version of Wikisource
+sv
+Swedish
+https://sv.wikisource.org/
+svwikisource
+Swedish Wikisource
+32
+Q19826831
+Portuguese Wikisource
+pt:Wikisource
+pt:a biblioteca livre
+edition of the free library
+pt
+Portuguese
+https://pt.wikisource.org/
+ptwikisource
+Portuguese Wikisource
+33
+Q20726429
+Ukrainian Wikisource
+uk:Вікіджерела
+uk:Вільна бібліотека
+Wikisource Ukrainian language version
+uk
+Ukrainian
+https://uk.wikisource.org/
+ukwikisource
+Ukrainian Wikisource
+34
+Q21205461
+Latin Wikisource
+la:Vicifons
+la:Fontes liberi
+Latin-language edition of Wikisource
+la
+Latin
+https://la.wikisource.org/
+lawikisource
+35
+Q22004646
+Odia Wikisource
+or:ଉଇକିପାଠାଗାର
+or:ଏକ ଖୋଲା ପାଠାଗାର
+edition of the free library
+or
+Odia
+https://or.wikisource.org/
+orwikisource
+Odia Wikisource
+36
+Q22004659
+Malayalam Wikisource
+ml:വിക്കിഗ്രന്ഥശാല
+ml:സ്വതന്ത്ര ഗ്രന്ഥശാല
+edition of the free library
+ml
+Malayalam
+https://ml.wikisource.org/
+mlwikisource
+Malayalam Wikisource
+37
+Q22004676
+Hebrew Wikisource
+he:ויקיטקסט
+he:הספריה החופשית
+edition of the free library
+he
+Hebrew
+https://he.wikisource.org/
+hewikisource
+Hebrew Wikisource
+38
+Q22004684
+Assamese Wikisource
+edition of the free library
+as
+Assamese
+https://as.wikisource.org/
+aswikisource
+Assamese Wikisource
+39
+Q22004694
+Armenian Wikisource
+hy:Վիքիդարան
+hy:Ազատ գրադարան
+edition of the free library
+hy
+Armenian
+https://hy.wikisource.org/
+hywikisource
+Armenian Wikisource
+40
+Q22004943
+Vietnamese Wikisource
+vi:Wikisource
+vi:Văn thư lưu trữ mở
+edition of the free library
+vi
+Vietnamese
+https://vi.wikisource.org/
+viwikisource
+Vietnamese Wikisource
+41
+Q24577644
+Old English Wikisource
+Wikisource language edition
+ang
+Old English
+https://ang.wikisource.org/
+angwikisource
+42
+Q24577645
+Arabic Wikisource
+ar:ويكي مصدر
+ar:المكتبة الحرة
+Wikisource language edition
+ar
+Arabic
+https://ar.wikisource.org/
+arwikisource
+Arabic Wikisource
+43
+Q24577646
+Azerbaijani Wikisource
+az:Vikimənbə
+az:Açıq Kitabxana
+Wikisource language edition
+az
+Azerbaijani
+https://az.wikisource.org/
+azwikisource
+Azerbaijani Wikisource
+44
+Q24577647
+Belarusian Wikisource
+be:Вікікрыніцы
+be:Свабодная бібліятэка
+Wikisource language edition
+be
+Belarusian
+https://be.wikisource.org/
+bewikisource
+45
+Q24577648
+Bulgarian Wikisource
+bg:Уикиизточник
+bg:свободната библиотека
+Wikisource language edition
+bg
+Bulgarian
+https://bg.wikisource.org/
+bgwikisource
+46
+Q24577650
+Bosnian Wikisource
+bs:Wikizvor
+bs:Slobodna biblioteka
+Wikisource language edition
+bs
+Bosnian
+https://bs.wikisource.org/
+bswikisource
+47
+Q24577651
+Welsh Wikisource
+cy:Wicidestun
+cy:Y Llyfrgell Rydd
+Wikisource language edition
+cy
+Welsh
+https://cy.wikisource.org/
+cywikisource
+48
+Q24577653
+Danish Wikisource
+da:Wikisource
+da:Det frie bibliotek
+Wikisource language edition
+da
+Danish
+https://da.wikisource.org/
+dawikisource
+49
+Q24577655
+Modern Greek Wikisource
+el:Βικιθήκη
+el:Η ελεύθερη βιβλιοθήκη
+Wikisource language edition
+el
+Modern Greek
+https://el.wikisource.org/
+elwikisource
+50
+Q24577656
+Esperanto Wikisource
+eo:Vikifontaro
+eo:La libera biblioteko
+Wikisource language edition
+eo
+Esperanto
+https://eo.wikisource.org/
+eowikisource
+51
+Q24577657
+Estonian Wikisource
+et:Vikitekstid
+et:Avatud Raamatukogu
+Wikisource language edition
+et
+Estonian
+https://et.wikisource.org/
+etwikisource
+52
+Q24577658
+Persian Wikisource
+fa:ویکی‌نبشته
+fa:کتابخانهٔ آزاد
+Wikisource language edition
+fa
+Persian
+https://fa.wikisource.org/
+fawikisource
+53
+Q24577659
+Finnish Wikisource
+fi:Wikiaineisto
+fi:Vapaa kirjasto
+Wikisource language edition
+fi
+Finnish
+https://fi.wikisource.org/
+fiwikisource
+54
+Q24577660
+Faroese Wikisource
+fo:Wikisource
+fo:Hitt frælsa bókasavnið
+Wikisource language edition
+fo
+Faroese
+https://fo.wikisource.org/
+fowikisource
+55
+Q24577661
+Galician Wikisource
+gl:Galifontes
+gl:A biblioteca libre
+Wikisource language edition
+gl
+Galician
+https://gl.wikisource.org/
+glwikisource
+56
+Q24577663
+Croatian Wikisource
+hr:Wikizvor
+hr:Slobodna knjižnica
+Wikisource language edition
+hr
+Croatian
+https://hr.wikisource.org/
+hrwikisource
+57
+Q24577665
+Hungarian Wikisource
+hu:Wikiforrás
+hu:A szabad könyvtár
+Wikisource language edition
+hu
+Hungarian
+https://hu.wikisource.org/
+huwikisource
+58
+Q24577666
+Indonesian Wikisource
+id:Wikisumber
+id:Perpustakaan bebas
+Indonesian-language edition of Wikisource
+id
+Indonesian
+https://id.wikisource.org/
+idwikisource
+59
+Q24577669
+Icelandic Wikisource
+is:Wikiheimild
+is:Frjálsa bókasafnið
+Wikisource language edition
+is
+Icelandic
+https://is.wikisource.org/
+iswikisource
+60
+Q24577671
+Japanese Wikisource
+ja:ウィキソース
+ja:フリー図書館
+Wikisource language edition
+ja
+Japanese
+https://ja.wikisource.org/
+jawikisource
+61
+Q24577672
+Kannada Wikisource
+kn:ವಿಕಿಸೋರ್ಸ್
+kn:ಮುಕ್ತಸಾಹಿತ್ಯ ಕೋಶ
+Wikisource language edition
+kn
+Kannada
+https://kn.wikisource.org/
+knwikisource
+62
+Q24577673
+Korean Wikisource
+ko:위키문헌
+ko:우리 모두의 도서관
+Wikisource language edition
+ko
+Korean
+https://ko.wikisource.org/
+kowikisource
+63
+Q24577674
+Limburgish Wikisource
+li:Wikibrónne
+li:De vriej bieb
+Wikisource language edition
+li
+Limburgish
+https://li.wikisource.org/
+liwikisource
+64
+Q24577676
+Lithuanian Wikisource
+lt:Vikišaltiniai
+lt:Laisvoji biblioteka
+Wikisource language edition
+lt
+Lithuanian
+https://lt.wikisource.org/
+ltwikisource
+65
+Q24577678
+Macedonian Wikisource
+mk:Викиизвор
+mk:Слободна библиотека
+Wikisource language edition
+mk
+Macedonian
+https://mk.wikisource.org/
+mkwikisource
+66
+Q24577680
+Marathi Wikisource
+mr:विकिस्रोत
+mr:मुक्त पुस्तकालय
+Wikisource language edition
+mr
+Marathi
+https://mr.wikisource.org/
+mrwikisource
+67
+Q24577682
+Norwegian Wikisource
+no:Wikikilden
+no:Det frie biblioteket
+Wikisource language edition
+no
+Norwegian
+https://no.wikisource.org/
+nowikisource
+68
+Q24577683
+Romanian Wikisource
+ro:Wikisource
+ro:Biblioteca liberă
+Wikisource language edition
+ro
+Romanian
+https://ro.wikisource.org/
+rowikisource
+69
+Q24577684
+Sakha Wikisource
+sah:Бикитиэкэ
+sah:Аһаҕас бибилитиэкэ
+Wikisource language edition
+sah
+Yakut
+https://sah.wikisource.org/
+sahwikisource
+70
+Q24577685
+Slovak Wikisource
+sk:Wikizdroj
+sk:slobodná knižnica
+Wikisource language edition
+sk
+Slovak
+https://sk.wikisource.org/
+skwikisource
+71
+Q24577686
+Slovene Wikisource
+sl:Wikivir
+sl:Prosta zbirka virov
+Wikisource language edition
+sl
+Slovene
+https://sl.wikisource.org/
+slwikisource
+72
+Q24577688
+Serbian Wikisource
+sr:Викизворник
+sr:Слободна библиотека
+Wikisource language edition
+sr
+Serbian
+https://sr.wikisource.org/
+srwikisource
+73
+Q24577690
+Tamil Wikisource
+ta:விக்கிமூலம்
+ta:கட்டற்ற நூலகம்
+Wikisource language edition
+ta
+Tamil
+https://ta.wikisource.org/
+tawikisource
+Tamil Wikisource
+74
+Q24577692
+Thai Wikisource
+th:วิกิซอร์ซ
+th:หอสมุดเสรี
+Wikisource language edition
+th
+Thai
+https://th.wikisource.org/
+thwikisource
+75
+Q24577693
+Turkish Wikisource
+tr:VikiKaynak
+tr:Özgür Kütüphane
+Wikisource language edition
+tr
+Turkish
+https://tr.wikisource.org/
+trwikisource
+76
+Q24577696
+Yiddish Wikisource
+yi:װיקיביבליאָטעק
+yi:די פֿרײַע ביבליאָטעק
+Wikisource language edition
+yi
+Yiddish
+https://yi.wikisource.org/
+yiwikisource
+End of automatically generated list.
+Retrieved from "https://www.wikidata.org/w/index.php?title=Wikidata:Wikisource/Lists/language_editions&oldid=1882604336"
+Hidden category: Lists based on Wikidata
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Project pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In Wikipedia
+Add links
+ This page was last edited on 25 April 2023, at 21:02.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement
