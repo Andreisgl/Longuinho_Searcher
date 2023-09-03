@@ -156,6 +156,7 @@ def update_main_page_path_list():
     global main_page_path_list
     print('Update MPL')
     main_page_path_list = gather_all_paths_in_database()
+    save_main_page_path_list()
 
 # TERM SEARCHING
 def search_term_in_list(search_term, in_list):
@@ -249,9 +250,14 @@ def load_ranked_url_list():
 def update_ranked_url_list():
     # The rank of the currently indexed pages
     global ranked_url_list
+
+    update_main_page_path_list()
+    save_main_page_path_list()
     
     print('Update RUL')
     ranked_url_list = get_url_ranking_from_database()
+
+    save_ranked_url_list()
 
 # Search
 
@@ -265,11 +271,8 @@ def main():
     load_main_page_path_list()
     load_ranked_url_list()
     
-    if True:
-        #update_main_page_path_list()
-        #save_main_page_path_list()
+    if False:
         update_ranked_url_list()
-        save_ranked_url_list()
     
     #search_term = 'plane'
     #result = search_term_in_ranked_database(search_term)
