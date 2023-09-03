@@ -334,10 +334,6 @@ def pathfinder(ammount_to_search):
         real_url = data_pack[6]
         intermediate_url_list.append(data_pack[7]) # Get link list
 
-        # Print current URL
-        display_url = textwrap.wrap(current_url, no_terminal_columns-1)
-        print('{}'.format(display_url[0]))
-
         # Save to history
         if data_pack[4]:
             # If there was a redirection
@@ -350,8 +346,8 @@ def pathfinder(ammount_to_search):
             url_history_list.append(data_pack[6])
         
         number_of_pages_searched += 1
-        # Remove current URL from queue
-        incoming_url_list.pop(0)
+    # Remove current URL from queue
+    incoming_url_list.pop(ammount_to_search)
     
     # Transfer all collected URLs in intermediate list to incoming
     for list in intermediate_url_list:
@@ -385,7 +381,7 @@ def expand_index(number_to_expand):
     number_currently_found = 0
 
     # Limits each pathfinding so progress gets saved every x pages
-    max_number_per_run = 100
+    max_number_per_run = 1000
     to_search  = 0
 
     start_time = time.perf_counter()
