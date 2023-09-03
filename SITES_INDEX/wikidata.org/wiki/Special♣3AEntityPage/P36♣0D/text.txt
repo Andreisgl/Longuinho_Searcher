@@ -1,0 +1,206 @@
+capital - Wikidata
+capital
+(P36)
+From Wikidata
+Jump to navigation
+Jump to search
+seat of government of a country, province, state or other type of administrative territorial entitycapital citycapital townchef-lieuprincipal placecounty seatadministrative centreadministrative headquartershas capitalcourt residenceseatadministrative seatseat of governmentadministrative capitalgovernment capitalcounty towngovernment seatadministrative centerlocation of capital
+Language
+Label
+Description
+Also known as
+English
+capital
+seat of government of a country, province, state or other type of administrative territorial entity
+capital citycapital townchef-lieuprincipal placecounty seatadministrative centreadministrative headquartershas capitalcourt residenceseatadministrative seatseat of governmentadministrative capitalgovernment capitalcounty towngovernment seatadministrative centerlocation of capital
+Data type
+Item
+Statements
+instance of
+Wikidata property to indicate a location
+0 references
+has list
+Wikidata:Wikivoyage/Lists/Quickbar
+0 references
+Wikidata item of this property
+capital city
+0 references
+administrative centre
+0 references
+chef-lieu
+0 references
+centralort
+0 references
+centralized bureau
+0 references
+Wikidata property example
+Estonia
+capital
+Tallinn
+0 references
+Russia
+capital
+Moscow
+Saint Petersburg
+Wikidata usage instructions
+use applicable start time/end time as separator, preferred rank for current capital (English)
+0 references
+Italy
+capital
+Rome
+0 references
+Vatican City
+capital
+no value
+0 references
+Bolivia
+capital
+Sucre
+La Paz
+Wikidata usage instructions
+constitutional and de facto capitals of the country. Use determination method as separator. (English)
+0 references
+Regenkreis
+capital
+Straubing
+Regensburg
+Wikidata usage instructions
+successive capitals of former subnational entity. Use start time/end time as separator. (English)
+0 references
+equivalent property
+http://vocab.getty.edu/ontology#tgn3202_capital_is
+0 references
+inverse property
+capital of
+0 references
+inverse label item
+capital of
+0 references
+property usage tracking category
+Category:Pages using Wikidata property P36
+0 references
+category for value same as Wikidata
+Q42533365
+0 references
+stability of property value
+sometimes changes  / sometimes unstable identifier
+0 references
+values can be added
+0 references
+related property
+headquarters location
+0 references
+property proposal discussion
+https://www.wikidata.org/wiki/Wikidata:Property_proposal/Archive/1#P36
+0 references
+Constraints
+property constraint
+single-value constraint
+exception to constraint
+South Africa
+Union of South Africa
+Kingdom of England
+Switzerland
+Greece
+France
+Duchy of Saxe-Coburg and Gotha
+Polish–Lithuanian Commonwealth
+Canary Islands
+separator
+point in time
+end time
+start time
+determination method
+together with
+applies to part
+0 references
+inverse constraint
+property
+capital of
+0 references
+allowed qualifiers constraint
+property
+start time
+end time
+point in time
+replaces
+replaced by
+determination method
+nature of statement
+reason for deprecated rank
+reason for preferred rank
+object has role
+statement is subject of
+latest start date
+earliest date
+earliest end date
+latest date
+applies to part
+0 references
+subject type constraint
+class
+administrative territorial entity
+human settlement
+island
+fictional country
+municipal corporation in the United States
+area
+geographic region
+fictional planet
+real country in a fiction work
+fictional geographic region
+fictional administrative territorial entity
+metropolitan area
+relation
+instance of
+0 references
+value-type constraint
+class
+administrative territorial entity
+human settlement
+political territorial entity
+fictional city
+capital city
+relation
+instance of
+0 references
+contemporary constraint
+0 references
+property scope constraint
+property scope
+as main value
+0 references
+allowed-entity-types constraint
+item of property constraint
+Wikibase item
+0 references
+Retrieved from "https://www.wikidata.org/w/index.php?title=Property:P36&oldid=1954829690"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+PropertyDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Download as PDFPrintable version
+ This page was last edited on 16 August 2023, at 13:05.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

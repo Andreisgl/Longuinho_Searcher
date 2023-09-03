@@ -1,0 +1,436 @@
+official website - Wikidata
+official website
+(P856)
+From Wikidata
+Jump to navigation
+Jump to search
+URL of the official page of an item (current or former) [if the page changes, add an additional statement with preferred rank. Do not remove the former URL]siteweb addresshome pagehomepageofficial pageofficial web sitewebsite (official)web siteofficial URLhome page (official)official sitewebsiteURL (official)homepage (official)official homepagewww site (official)site officialwebsite officialsite (official)URLURL official
+Language
+Label
+Description
+Also known as
+English
+official website
+URL of the official page of an item (current or former) [if the page changes, add an additional statement with preferred rank. Do not remove the former URL]
+siteweb addresshome pagehomepageofficial pageofficial web sitewebsite (official)web siteofficial URLhome page (official)official sitewebsiteURL (official)homepage (official)official homepagewww site (official)site officialwebsite officialsite (official)URLURL official
+Data type
+URL
+Statements
+instance of
+Wikidata property related to creative works
+0 references
+Wikidata property for items about organizations
+0 references
+Wikidata property for items about people
+0 references
+Wikidata property encoding a vCard value
+0 references
+Wikidata property for Wikivoyage listings
+0 references
+Wikidata property related to websites
+0 references
+short name
+webbplats (Swedish)
+0 references
+site web (French)
+0 references
+sito web (Italian)
+0 references
+hjemmeside (Danish)
+0 references
+has quality
+official
+0 references
+on focus list of Wikimedia project
+WikiProject Websites
+0 references
+OpenStreetMap tag or key
+Key:website
+0 references
+Key:contact:website
+0 references
+subproperty of
+URL
+0 references
+Wikidata item of this property
+official website
+0 references
+home page
+1 reference
+Wikimedia import URL
+https://www.wikidata.org/wiki/Wikidata:Project_chat/Archive/2018/11#Rename_official_homepage_(P856)_to_%22homepage%22_or_%22official_URL%22
+Wikidata usage instructions
+For active WMF sites, please use P4174.  If an official homepage changes, add an additional statement with preferred rank. Do not remove the former URL. (English)
+0 references
+Pour les sites WMF actifs, veuillez utiliser P4174. Si une page d'accueil officielle change, ajoutez une déclaration supplémentaire avec le rang préféré. Ne supprimez pas l'ancienne URL. (French)
+0 references
+对于活动的 WMF 站点，请使用 P4174。 如果官方主页发生变化，请添加具有首选排名的附加声明。 不要删除以前的 URL。 (Simplified Chinese)
+0 references
+Для активних сайтів WMF використовуйте P4174. Якщо офіційна домашня сторінка змінюється, додайте додаткову заяву з бажаним рангом. Не видаляйте попередню URL -адресу. (Ukrainian)
+0 references
+활성 WMF 사이트의 경우 P4174를 사용하십시오. 공식 홈페이지가 변경되면 선호 순위와 함께 추가 설명을 추가합니다. 이전 URL을 제거하지 마십시오. (Korean)
+0 references
+Gebruik P4174 vir aktiewe WMF -webwerwe. As 'n amptelike tuisblad verander, voeg 'n bykomende verklaring by met die voorkeurranglys. Moenie die voormalige URL verwyder nie. (Afrikaans)
+0 references
+Per i siti WMF attivi, utilizzare P4174. Se una homepage ufficiale cambia, aggiungi un'ulteriore dichiarazione con il grado preferito. Non rimuovere l'URL precedente. (Italian)
+0 references
+Für aktive WMF-Sites verwenden Sie bitte P4174. Wenn sich eine offizielle Homepage ändert, fügen Sie eine zusätzliche Aussage mit bevorzugtem Rang hinzu. Entfernen Sie nicht die frühere URL. (German)
+0 references
+アクティブなWMFサイトの場合は、P4174を使用してください。 公式ホームページが変更された場合は、優先ランクのステートメントを追加してください。 以前のURLは削除しないでください。 (Japanese)
+0 references
+सक्रिय WMF साइटों के लिए, कृपया P4174 का उपयोग करें। यदि कोई आधिकारिक होमपेज बदलता है, तो पसंदीदा रैंक के साथ एक अतिरिक्त स्टेटमेंट जोड़ें। पुराने यूआरएल को न हटाएं। (Hindi)
+0 references
+Para sitios WMF activos, utilice P4174. Si cambia una página de inicio oficial, agregue una declaración adicional con rango preferido. No elimine la URL anterior. (Spanish)
+0 references
+Para sites WMF ativos, use P4174. Se uma página inicial oficial mudar, adicione uma declaração adicional com a classificação preferida. Não remova o URL anterior. (Portuguese)
+0 references
+För aktiva WMF -webbplatser, använd P4174. Om en officiell hemsida ändras, lägg till ett ytterligare uttalande med önskad rang. Ta inte bort den tidigare webbadressen. (Swedish)
+0 references
+Maka saịtị WMF nọ n'ọrụ, biko jiri P4174. Ọ bụrụ na ihu akwụkwọ gọọmentị gbanwere, tinye nkwupụta ọzọ yana ọkwa kacha amasị. Ewepụla URL mbụ. (Igbo)
+0 references
+Kwa wavuti zinazotumika za WMF, tafadhali tumia P4174. Ikiwa ukurasa rasmi wa nyumbani unabadilika, ongeza taarifa ya ziada na kiwango unachopendelea. Usiondoe URL ya zamani. (Swahili)
+0 references
+فعال WMF سائٹوں کے لیے ، براہ کرم P4174 استعمال کریں۔ اگر کوئی آفیشل ہوم پیج تبدیل ہوتا ہے تو ترجیحی درجہ کے ساتھ ایک اضافی بیان شامل کریں۔ سابقہ یو آر ایل کو نہ ہٹائیں۔ (Urdu)
+0 references
+Aktif WMF siteleri için lütfen P4174'ü kullanın. Resmi bir ana sayfa değişirse, tercih edilen sıralamaya sahip ek bir ifade ekleyin. Eski URL'yi kaldırmayın. (Turkish)
+0 references
+For aktive WMF -sider, vennligst bruk P4174. Hvis en offisiell hjemmeside endres, kan du legge til en ekstra uttalelse med foretrukket rangering. Ikke fjern den tidligere nettadressen. (Norwegian Bokmål)
+0 references
+Đối với các trang web WMF đang hoạt động, vui lòng sử dụng P4174. Nếu trang chủ chính thức thay đổi, hãy thêm một tuyên bố bổ sung với xếp hạng ưu tiên. Không xóa URL cũ. (Vietnamese)
+0 references
+Wikidata property example
+Facebook
+official website
+https://www.facebook.com
+language of work or name
+multiple languages
+0 references
+Daikin Industries
+official website
+http://www.daikin.co.jp/
+language of work or name
+Japanese
+0 references
+Intel
+official website
+https://www.intel.com/content/www/us/en/homepage.html
+language of work or name
+English
+0 references
+Mort Fertel
+official website
+https://marriagemax.com/
+language of work or name
+English
+archive URL
+https://web.archive.org/web/20211029131136/https://marriagemax.com/
+archive date
+29 October 2021
+0 references
+third-party formatter URL
+https://web.archive.org/web/*/$1/
+language of work or name
+English
+0 references
+https://webcache.googleusercontent.com/search?q=cache:$1
+language of work or name
+multiple languages
+0 references
+$1
+language of work or name
+multiple languages
+0 references
+equivalent property
+http://xmlns.com/foaf/0.1/homepage
+0 references
+http://d-nb.info/standards/elementset/gnd#homepage
+0 references
+http://dati.beniculturali.it/cis/hasWebSite
+0 references
+http://dbpedia.org/property/homepage
+0 references
+https://ogp.me/ns#url
+0 references
+external superproperty
+http://schema.org/url
+0 references
+inverse label item
+URL path for this website
+0 references
+corresponding template
+Template:Official website
+0 references
+Template:Wikidata/P856
+used by
+Template:Wikidata
+0 references
+Template:Official URL
+used by
+Wikimedia infobox template
+0 references
+property usage tracking category
+Category:Pages using Wikidata property P856
+0 references
+category for value same as Wikidata
+Category: Official website is in Wikidata
+0 references
+category for value not in Wikidata
+Category:Official website not in Wikidata
+0 references
+category for value different from Wikidata
+Category:Official website different in Wikidata and Wikipedia
+0 references
+stability of property value
+sometimes changes / sometimes unstable identifier
+0 references
+values can be added
+0 references
+related property
+official blog URL
+0 references
+stated in
+0 references
+imported from Wikimedia project
+0 references
+website account on
+0 references
+house publication
+0 references
+described at URL
+0 references
+exact match
+0 references
+curriculum vitae URL
+0 references
+terms of service URL
+0 references
+charter URL
+0 references
+privacy policy URL
+0 references
+official shop URL
+0 references
+contact page URL
+0 references
+official jobs URL
+0 references
+property proposal discussion
+https://www.wikidata.org/wiki/Wikidata:Property_proposal/Archive/14#P856
+0 references
+Constraints
+property constraint
+format constraint
+format as a regular expression
+(https?|ftps?)://\S+
+0 references
+allowed qualifiers constraint
+property
+of
+described by source
+language of work or name
+title
+subject named as
+publisher
+point in time
+start time
+end time
+end cause
+archive URL
+archive date
+has quality
+does not have quality
+applies to jurisdiction
+intended public
+copyright license
+applies to part
+part of
+subject has role
+reason for deprecated rank
+reason for preferred rank
+web feed URL
+statement is subject of
+copyright status
+earliest date
+latest start date
+earliest end date
+latest date
+object has role
+complies with
+software engine
+retrieved
+together with
+maintained by
+nature of statement
+writing system
+online access status
+minimum age
+merged into
+archives at
+sourcing circumstances
+1 reference
+property
+merged into
+inferred from
+Seibu Department Stores
+object stated in reference as
+https://www.wikidata.org/w/index.php?title=Q847688&diff=prev&oldid=1726621199
+conflicts-with constraint
+property
+instance of
+item of property constraint
+Wikimedia disambiguation page
+Wikimedia category
+Wikimedia template
+exception to constraint
+list of natural events named by the Japan Meteorological Agency
+0 references
+property scope constraint
+property scope
+as main value
+constraint clarification
+For qualifiers use URL (P2699), for references use reference URL (P854) (English)
+1 reference
+Wikimedia import URL
+https://www.wikidata.org/wiki/Help:Sources
+stated in
+Wikipedia:Verifiability
+retrieved
+3 April 2019
+single-best-value constraint
+separator
+language of work or name
+applies to jurisdiction
+intended public
+applies to part
+start time
+end time
+subject has role
+subject named as
+of
+object has role
+publisher
+0 references
+item-requires-statement constraint
+property
+instance of
+0 references
+format constraint
+format as a regular expression
+(?i)((?!\b(://web\.archive\.org/)).)*
+syntax clarification
+not include 'web.archive.org' (English)
+请不要包含“web.archive.org”，请改为正常添加原始链接，将存档链接添加为“存档URL”（P1065）并加限定符“结束日期”（P582）至前官方网站 (Simplified Chinese)
+exception to constraint
+Wayback Machine
+constraint clarification
+Add archive link with 'archive URL' (P1065) and qualify former official website with 'end date' (P582) instead. (English)
+0 references
+required qualifier constraint
+property
+language of work or name
+constraint status
+suggestion constraint
+0 references
+allowed-entity-types constraint
+item of property constraint
+Wikibase item
+0 references
+distinct-values constraint
+exception to constraint
+Basshunter
+Deutsche Airplay-Charts
+Al Liamm
+Al Liamm
+Telegram
+Koh-Lanta, season 17
+Sempach
+RDA/ONIX framework value vocabularies
+RDA value vocabularies
+AIATSIS Place Thesaurus
+AIATSIS Subject Thesaurus
+Washington State Parks and Recreation Commission
+Washington State Parks website
+Navile's University Library. Section of Chemistry "Giacomo Ciamician"
+Navile's University Library. Section of the Department of Pharmacy and Biotechnology
+Macaulay Library
+Macaulay Library
+Q55673203
+Q55673099
+Secretary of State of Delaware
+Delaware Department of State
+Rowland Ricketts
+Chinami Ricketts
+Noto Serif Gurmukhi
+Noto Sans Gurmukhi
+Cape Canaveral Space Force Station
+Space Launch Delta 45
+New Zealand Hockey Federation
+Hockey New Zealand: Altiusrt
+Maryland Biodiversity Project
+Maryland Biodiversity Project
+Nebraska Invasive Species Program
+Nebraska Invasive Species Program
+municipality of Mexico
+Merriam-Webster online dictionary
+merriam-webster.com
+Merriam-Webster
+Bureau of Meteorology
+Bureau of Meteorology
+Q114458607
+Nürburgring
+BestWestern.com
+Best Western Hotels & Resorts
+Travel Weekly
+TravelWeekly.com
+Livres Hebdo
+livreshebdo.fr
+Wise Music Classical
+Wise Music Classical
+Voyager 1
+Voyager 2
+Thai-Japanese Association School
+National Archives of Sweden
+National Archives of Sweden
+Cambridge Dictionary
+Cambridge Advanced Learner's Dictionary
+Shetland UHI
+Shetland College
+Israel Composers' League
+Israel Composers' League
+Municipal League of King County
+Municipal League Foundation
+0 references
+format constraint
+format as a regular expression
+^((?!www\.google\.com\/search\?).)*$
+0 references
+Retrieved from "https://www.wikidata.org/w/index.php?title=Property:P856&oldid=1966174396"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+PropertyDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Download as PDFPrintable version
+ This page was last edited on 1 September 2023, at 19:45.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

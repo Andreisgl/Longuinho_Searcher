@@ -1,0 +1,187 @@
+Manual:Interwiki - MediaWiki
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageGet MediaWikiGet extensionsTech blogContribute
+Support
+User helpFAQTechnical manualSupport deskCommunication
+Development
+Developer portalCode statistics
+MediaWiki.org
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+In other languages
+Add links
+Search
+Search
+ EnglishCreate accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+Beginning
+1Interwiki links to other projects
+Toggle Interwiki links to other projects subsection
+1.1Table and query API
+1.2Default
+1.3Adding a new website for interwiki linking
+1.3.1Single line
+1.3.2Export, add, re-import
+1.3.3To test
+1.3.4Field documentation
+2Interwiki links to other languages
+3Exporting the interwiki table from a wiki
+4See also
+Toggle the table of contents
+Toggle the table of contents
+Manual:Interwiki
+ManualDiscussion
+English
+ReadView sourceView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadView sourceView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+From mediawiki.org
+Translate this pageLanguages:Deutsch
+English
+Türkçe
+español
+français
+italiano
+polski
+português
+română
+suomi
+čeština
+русский
+فارسی
+ไทย
+中文
+日本語
+한국어
+Interwiki links are links to pages of other projects, using a prefixed internal link style.
+Interwiki links make it possible to link to pages of (e.g.) Wikipedia, Wikibooks, Wikinews etc. or to your wiki-project in different languages.
+(See Manual:Wiki family .)
+A link like [[Wikipedia:Main Page]] will appear like this: Wikipedia:Main Page and redirect you to Wikipedia's Main Page.
+Interwiki links to other projects
+Table and query API
+Interwiki links are hosted in the interwiki  table of the MediaWiki database.
+You can retrieve the interwiki list from the interwikimap property of the siteinfo  meta query API, in other words by making an API request like
+api.php?action=query&meta=siteinfo&siprop=interwikimap
+Default
+Several Wikimedia projects (and others) are ready for interwiki linking by default, so you can use them without editing your database.
+The following are some examples of interwiki prefixes which are available by default (Wikipedia is also available, 1.10 and after):
+prefix
+destination URL
+usage example
+commons
+https://commons.wikimedia.org/wiki/
+[[commons:MediaWiki]]
+mediazilla
+http://bugzilla.wikimedia.org/
+[[mediazilla:1209]]
+metawikimedia (before version 1.23: metawikipedia)
+https://meta.wikimedia.org/wiki/
+[[metawikimedia:Main Page]]
+The full list of default interwiki prefixes is available at maintenance/interwiki.list
+See m:Help:Interwiki linking for complete information on linking from/to Wikimedia projects.
+In some installations none of these is pre-installed. Try [[metawikipedia:Main Page]] in this case.
+Adding a new website for interwiki linking
+Interwiki links are set in the interwiki table of the database.
+To modify these, you will need to edit the database, as below.
+It is recommended to use the "Interwiki" extension, which eases the process.
+As Wikipedia isn't set up by default prior to version 1.10, you might want to add it (and other projects that you desire).
+The examples below show how to set up w: as a link to the English Wikipedia.
+The idea is to insert a line of the form:
+('prefix', 'URL format string', 1, 0)
+into the interwiki table.
+Single line
+Advanced users may use a single command line, as follows:
+MySQL and PostgreSQL
+MediaWiki versions:
+ 1.10 – 1.16
+INSERT INTO interwiki (iw_prefix, iw_url, iw_local, iw_trans) VALUES ('w', 'https://en.wikipedia.org/wiki/$1', 1, 0);
+Newer MediaWiki versions require some extra fields such as iw_wikiid.
+Export, add, re-import
+Alternatively, you can use the following multi-step process, which exports the interwiki table, adds a line, then re-imports it:
+Export the database table interwiki
+add to the end of the table a line of the following form (using English wikipedia as an example):
+('w', 'https://en.wikipedia.org/wiki/$1', 1, 0);
+In the above code, the semicolon ';' as seen, MUST be at the end of the table. At the end of any other line within that table Only has ','.
+Import the database table interwiki
+To test
+To test configuration:
+Go to your site,
+create an article, with the following content:
+[[w:Wikipedia:Village pump|]]
+This should display a link to the 'Village pump' page on en.Wikipedia.org (the url https://en.wikipedia.org/wiki/Wikipedia:Village_pump)
+Field documentation
+Further information: Manual:Interwiki_table
+Tip for wiki admins: Several help pages link to MediaWiki.org's Manual namespace.  To make these links work on your local wiki, add an interwiki link with iw_prefix=manual and iw_url=http://www.mediawiki.org/wiki/Manual:$1
+Tip for wiki admins: $wgTranscludeCacheExpiry  in your LocalSettings.php should be set if changes in the transcluded wiki are done. Alternatively, you can flush the table transcache on your local wiki.
+Interwiki links to other languages
+Interwiki links to other languages
+If you have installed a Wiki family , you can link from an article in English to an article in German (if you have a German project, too). 
+You can set up MediaWiki to show those links in the sidebar, just below the toolbox.
+In your filesystem, there is a subfolder of your MediaWiki installation, called "languages". 
+Go there and have a look at Names.php  as it contains a list of known languages and their prefixes. 
+E.g. you want to add your German project, search Names.php for "Deutsch" and note the prefix "de".
+If you know the "right" prefix, edit your database by adding a new line to table interwiki:
+iw_prefix: language-prefix (e.g. "de" for German), which is listed in "Names.php"
+iw_url: URL to your wiki-project (e.g. http://de.example.org/index.php/$1)
+iw_local: same as above "Adding More"
+iw_trans: same as above "Adding More"
+Now, you can link an article to the same in other languages. 
+Adding [[de:Hauptseite]] on your English Main_Page will create a link "Deutsch" below the toolbox, which leads to the Main_Page of the German wiki (Hauptseite).
+Note, that this link is shown in Sidebar's section, only, and not inside of the article. 
+If you want to create a link inside of the text, you have to add a colon previous to the prefix: [[:de:Hauptseite]] or set $wgInterwikiMagic  to false.
+Exporting the interwiki table from a wiki
+The following JavaScript code performs the API query to retrieve the interwiki map of an existing wiki, then displays the SQL INSERT statements to fill the interwiki table on a new wiki. You run it for example by injecting the code through your browser's developer tools, or by placing it inside Special:MyPage/skinname.js and previewing.
+function ExtractInterwikiMapTable() {
+$.getJSON(mw.config.get('wgScriptPath') + '/api.php?action=query&meta=siteinfo&siprop=interwikimap&format=json', function(data) {
+var iw_prefix, iw_url, iw_local, iw_api, re_escape = /(')/g, result = '';
+for (var i = 0, iwm = data.query.interwikimap; i < iwm.length; i++) {
+iw_prefix = "'" + iwm[i].prefix.replace(re_escape, '\\$1') + "'";
+iw_url = "'" + iwm[i].url.replace(re_escape, '\\$1') + "'";
+iw_local = (typeof iwm[i].local == 'string') ? '1' : '0';
+iw_api = "'" + (iwm[i].iw_api || '').replace(re_escape, '\\$1') + "'";
+result += 'INSERT INTO interwiki (iw_prefix, iw_url, iw_local, iw_trans, iw_api) VALUES ('+iw_prefix+', '+iw_url+', '+iw_local+', 0, '+iw_api+');\n'
+}
+$('<textarea style="width:800px;height:400px;"/>').val(result).appendTo(document.body);
+});
+}
+$(ExtractInterwikiMapTable);
+See also
+Help:Links 
+Extension:Interwiki  (provides Special:Interwiki)
+Manual:$wgExtraInterlanguageLinkPrefixes 
+Manual:Interwiki table 
+Help:Interwiki linking on Meta-Wiki
+Interwiki map of MediaWiki.org
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Manual:Interwiki&oldid=5690311"
+Category: Interwiki
+ This page was last edited on 2 January 2023, at 12:09.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About MediaWiki.org
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

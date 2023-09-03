@@ -1,0 +1,87 @@
+Time scales, their users, and leap seconds - NASA/ADS
+Now on home page
+ ads
+ Enable full ADS
+                    
+ 
+view 
+                Abstract
+              
+                Citations
+                (2)
+                References
+                (16)
+                Co-Reads
+              
+                Similar Papers
+              
+                Volume Content
+              
+                  Graphics
+                  
+                  Metrics
+                  
+                Export Citation
+              
+NASA/ADS
+                  
+                  Time scales, their users, and leap seconds
+                  
+                  
+Seidelmann, P. Kenneth
+;
+                    
+                    Seago, John H.
+Abstract
+                    Numerous time scales exist to address specific user requirements. Accurate dynamical time scales (barycentric, geocentric and terrestrial) have been developed based on the theory of relativity. A family of time scales has been developed based on the rotation of the Earth that includes Universal Time (specifically UT1), which serves as the traditional astronomical basis of civil time. International Atomic Time (TAI) is also maintained as a fundamental time scale based on the output of atomic frequency standards. Coordinated Universal Time (UTC) is an atomic scale for worldwide civil timekeeping, referenced to TAI, but with epoch adjustments via so-called leap seconds to remain within one second of UT1. A review of the development of the time scales, the status of the leap-second issue, and user considerations and perspectives are discussed. A description of some more recent applications for time usage is included.
+                  
+Publication:
+Metrologia
+Pub Date:
+August 2011
+DOI:
+10.1088/0026-1394/48/4/S09
+Bibcode:
+                    2011Metro..48S.186S
+                    
+ 
+full text sources
+Publisher
+|
+ 
+            © The SAO/NASA Astrophysics Data System
+            
+ adshelp[at]cfa.harvard.edu
+              
+                The ADS is operated by the Smithsonian Astrophysical Observatory under NASA Cooperative
+                Agreement NNX16AC86A
+              Resources
+            
+ About ADS
+                
+ ADS Help
+                
+ What's New
+                
+ Careers@ADS
+                
+              Social
+            
+ @adsabs
+                
+ ADS Blog
+                
+              Project
+            
+Switch to full ADS
+Is ADS down?
+                  (or is it just me...)
+Smithsonian Institution
+Smithsonian Privacy
+                  Notice
+Smithsonian Terms of
+                  Use
+Smithsonian
+                  Astrophysical Observatory
+NASA
+🌓

@@ -1,0 +1,295 @@
+Extension:SiteMatrix - MediaWiki
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageGet MediaWikiGet extensionsTech blogContribute
+Support
+User helpFAQTechnical manualSupport deskCommunication
+Development
+Developer portalCode statistics
+MediaWiki.org
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+In other languages
+Add links
+Search
+Search
+ EnglishCreate accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+Beginning
+1Installation
+2Configuration
+Toggle Configuration subsection
+2.1Additional requirements
+3API
+Toggle API subsection
+3.1More examples
+4See also
+Toggle the table of contents
+Toggle the table of contents
+Extension:SiteMatrix
+Issue tracker: #MediaWiki-extensions-SiteMatrix
+ExtensionDiscussion
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+From mediawiki.org
+(Redirected from API:Sitematrix)
+This page is outdated. It was written for an older version of MediaWiki and may not apply to the most recent version. If you have checked or updated this page and found the content to be suitable, please remove this notice.  See the talk page for a possible discussion on this.  
+Please expand this page. More information might be found on the talk page.
+This extension is made for Wikimedia wikis. It does work for other wikis, but note that the extension contains Wikimedia-specific text.
+MediaWiki extensions manual 
+ SiteMatrix
+Release status:  stable
+Implementation 
+Special page , API 
+Description 
+adds a special page with a matrix of all Wikimedia sites
+Author(s) 
+Tim Starling, Brion Vibber, Victor Vasiliev, Alexandre Emsenhuber
+Latest version 
+1.4.0 (2016-07-22)
+MediaWiki 
+>= 1.41
+License 
+GNU General Public License 2.0 or later
+Download
+Download extension Git [?]: 
+Download Git master
+browse repository (GitHub)
+commit history
+repository contributors (GitHub)
+code review
+Example 
+Special:SiteMatrix
+Parameters 
+$wgSiteMatrixSites
+$wgSiteMatrixFishbowlSites
+$wgSiteMatrixFile
+$wgSiteMatrixClosedSites
+$wgSiteMatrixPrivateSites
+Hooks used 
+APIQuerySiteInfoGeneralInfo MagicWordwgVariableIDs ParserGetVariableValueSwitch 
+Quarterly downloads
+8 (Ranked 152nd)
+Public wikis using
+897 (Ranked 272nd)
+Translate the SiteMatrix extension if it is available at translatewiki.net
+Issues 
+Open tasks · Report a bug
+The SiteMatrix extension adds a special page with a matrix of all sites of the Wikimedia Foundation. First a table of all normal language wikis, with blue links for existing wikis and red links for non-existing wikis. Below a list of other special projects (like Meta, Commons, Wikimania, ...), mostly the sites like *.wikimedia.org. It also adds a NUMBEROFWIKIS parserfunction which shows the total number of wikis[1].
+Installation
+Download and place the file(s) in a directory called SiteMatrix in your extensions/ folder.
+Add the following code at the bottom of your LocalSettings.php  file: wfLoadExtension( 'SiteMatrix' );
+ Done – Navigate to Special:Version on your wiki to verify that the extension is successfully installed.
+To users running MediaWiki 1.24 or earlier:
+The instructions above describe the new way of installing this extension using wfLoadExtension().
+If you need to install this extension on these earlier versions (MediaWiki 1.24 and earlier), instead of wfLoadExtension( 'SiteMatrix' );, you need to use:
+require_once "$IP/extensions/SiteMatrix/SiteMatrix.php";
+Configuration
+There are some variables that you need to change:
+$wgSiteMatrixFile - The path to a list of language codes recognised by MediaWiki (example).
+$wgSiteMatrixPrivateSites - The path to a list of wiki databases that are private (optional)
+$wgSiteMatrixFishbowlSites - The path to a list of wiki databases that are public, but only logged in users can edit. (optional)
+$wgSiteMatrixClosedSites - The path of a list of wiki databases that "closed" (optional)
+You would also need to customise $wgSiteMatrixSites to list the different wikis in your own wikifarm. To add a new site, follow the template in extension.json as a guide (but be sure to convert the syntax to PHP). As this has been removed for better compatibility, use the code below as a reference:
+"wiki": {
+"name": "Wikipedia",
+"host": "www.wikipedia.org",
+"prefix": "w"
+},
+"wiktionary": {
+"name": "Wiktionary",
+"host": "www.wiktionary.org",
+"prefix": "wikt"
+}
+Additional requirements
+To ensure that the extension works correctly to your needs, there are a few dependencies to this extension:
+$wgLocalDatabases  - To tell the extension all the wiki databases that exist in your wikifarm.
+$wgConf  - To feed the extension with the correct links to the different wikis in your wikifarm.
+API
+This extension adds an API module that provides the same information as Special:SiteMatrix: a set of language groups plus special wikis.
+The following documentation is the output of Special:ApiHelp/sitematrix, automatically generated by the pre-release version of MediaWiki that is running on this site (MediaWiki.org).
+action=sitematrix (sm)(main | sitematrix)
+This module requires read rights.Source: SiteMatrixLicense: GPL-2.0-or-later
+Get Wikimedia sites list.
+The code (technically dbname/wikiid) is either the language code + project code for content projects or the subdomain + main domain for all the others.
+Parameters:smtypeFilter the Site Matrix by type:
+special
+One off and multilingual Wikimedia projects.
+language
+Wikimedia projects under this language code.Values (separate with | or alternative): language, specialDefault: special|languagesmstateFilter the Site Matrix by wiki state.
+Values (separate with | or alternative): all, closed, fishbowl, nonglobal, privateDefault: allsmlangpropWhich information about a language to return.
+Values (separate with | or alternative): code, dir, localname, name, siteDefault: code|name|site|dir|localnamesmsitepropWhich information about a site to return.
+Values (separate with | or alternative): code, dbname, lang, sitename, urlDefault: url|dbname|code|sitenamesmlimitMaximum number of results.
+Type: integer or maxThe value must be between 1 and 5,000.Default: 5000smcontinueWhen more results are available, use this to continue. More detailed information on how to continue queries can be found on mediawiki.org.
+Example:Show the site matrixapi.php?action=sitematrix [open in sandbox]
+More examples
+Show site matrix (only parts are shown here)
+api.php?action=sitematrix&formatversion=2 [try in ApiSandbox]Result
+{
+    "sitematrix": {
+        "count": 892,
+        "0": {
+            "code": "aa",
+            "name": "Qafár af",
+            "site": [
+                {
+                    "url": "https://aa.wikipedia.org",
+                    "dbname": "aawiki",
+                    "code": "wiki",
+                    "sitename": "Wikipedia",
+                    "closed": ""
+                },
+                {
+                    "url": "https://aa.wiktionary.org",
+                    "dbname": "aawiktionary",
+                    "code": "wiktionary",
+                    "sitename": "Wiktionary",
+                    "closed": ""
+                },
+                {
+                    "url": "https://aa.wikibooks.org",
+                    "dbname": "aawikibooks",
+                    "code": "wikibooks",
+                    "sitename": "Wikibooks",
+                    "closed": ""
+                }
+            ],
+            "localname": "Afar"
+        },
+        "1": {
+            "code": "ab",
+            "name": "Аҧсшәа",
+            "site": [
+                {
+                    "url": "https://ab.wikipedia.org",
+                    "dbname": "abwiki",
+                    "code": "wiki",
+                    "sitename": "Авикипедиа"
+                },
+                {
+                    "url": "https://ab.wiktionary.org",
+                    "dbname": "abwiktionary",
+                    "code": "wiktionary",
+                    "sitename": "Wiktionary",
+                    "closed": ""
+                }
+            ],
+            "localname": "Abkhazian"
+        },
+        ...CUT...
+        "290": {
+            "code": "zu",
+            "name": "isiZulu",
+            "site": [
+                {
+                    "url": "https://zu.wikipedia.org",
+                    "dbname": "zuwiki",
+                    "code": "wiki",
+                    "sitename": "Wikipedia"
+                },
+                {
+                    "url": "https://zu.wiktionary.org",
+                    "dbname": "zuwiktionary",
+                    "code": "wiktionary",
+                    "sitename": "Wiktionary"
+                },
+                {
+                    "url": "https://zu.wikibooks.org",
+                    "dbname": "zuwikibooks",
+                    "code": "wikibooks",
+                    "sitename": "Wikibooks",
+                    "closed": ""
+                }
+            ],
+            "localname": "Zulu"
+        },
+        "specials": [
+            {
+                "url": "https://advisory.wikimedia.org",
+                "dbname": "advisorywiki",
+                "code": "advisory",
+                "sitename": "Advisory Board",
+                "closed": ""
+            },
+            {
+                "url": "https://ar.wikimedia.org",
+                "dbname": "arwikimedia",
+                "code": "arwikimedia",
+                "sitename": "Wikimedia Argentina"
+            },
+            {
+                "url": "https://arbcom-de.wikipedia.org",
+                "dbname": "arbcom_dewiki",
+                "code": "arbcom-de",
+                "sitename": "Arbitration Committee",
+                "private": ""
+            },
+            ...CUT...
+            {
+                "url": "https://login.wikimedia.org",
+                "dbname": "loginwiki",
+                "code": "login",
+                "sitename": "Wikimedia Login Wiki"
+            },
+            {
+                "url": "https://www.mediawiki.org",
+                "dbname": "mediawikiwiki",
+                "code": "mediawiki",
+                "sitename": "MediaWiki"
+            },
+            {
+                "url": "https://meta.wikimedia.org",
+                "dbname": "metawiki",
+                "code": "meta",
+                "sitename": "Meta"
+            },
+            ...CUT...
+            {
+                "url": "https://zero.wikimedia.org",
+                "dbname": "zerowiki",
+                "code": "zero",
+                "sitename": "Wikipedia",
+                "private": ""
+            }
+        ]
+    }
+}
+See also
+Special:SiteMatrix - SiteMatrix special page on this wiki.
+dumpInterwiki.php in Extension:WikimediaMaintenance
+This extension is being used on one or more Wikimedia projects. This probably means that the extension is stable and works well enough to be used by such high-traffic websites. Look for this extension's name in Wikimedia's CommonSettings.php and InitialiseSettings.php configuration files to see where it's installed. A full list of the extensions installed on a particular wiki can be seen on the wiki's Special:Version page.
+↑ phab:T140479
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Extension:SiteMatrix&oldid=4382307#API"
+Categories: Outdated pagesPages to be expandedStable extensionsSpecial page extensionsAPI extensionsGPL licensed extensionsExtensions in Wikimedia version controlAPIQuerySiteInfoGeneralInfo extensionsMagicWordwgVariableIDs extensionsParserGetVariableValueSwitch extensionsAll extensionsExtensions used on WikimediaHidden categories: Extensions without an imageExtensions without a compatibility policy
+ This page was last edited on 1 February 2021, at 14:18.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About MediaWiki.org
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

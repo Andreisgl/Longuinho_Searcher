@@ -1,0 +1,134 @@
+Wikidata:Wiktionary - Wikidata
+Shortcut: WD:WT
+Wikidata:Wiktionary
+From Wikidata
+Revision as of 14:29, 10 October 2021 by Ameisenigel (talk | contribs) (MyLanguage)(diff) ← Older revision | Latest revision (diff) | Newer revision → (diff)
+Jump to navigation
+Jump to search
+Other languages:Bahasa Indonesia
+Bahasa Melayu
+Basa Bali
+British English
+Bân-lâm-gú
+Deutsch
+English
+Esperanto
+Nederlands
+Tiếng Việt
+Türkçe
+asturianu
+català
+dansk
+español
+français
+galego
+italiano
+magyar
+polski
+português
+svenska
+čeština
+ślůnski
+Ελληνικά
+беларуская (тарашкевіца)
+български
+русский
+српски / srpski
+тоҷикӣ
+українська
+հայերեն
+עברית
+اردو
+العربية
+بهاس ملايو
+فارسی
+مازِرونی
+مصرى
+پنجابی
+हिन्दी
+বাংলা
+தமிழ்
+മലയാളം
+中文
+日本語
+ꯃꯤꯇꯩ ꯂꯣꯟ
+Overview
+ 
+Documentation
+ 
+ Development
+ 
+Tools
+ 
+Support for Wiktionary
+ 
+How to help
+ 
+Statistics
+ 
+Lexemes
+ 
+Discussion
+ 
+Wikidata:Lexicographical data
+Tracked in PhabricatorTask T212843
+Wikidata aims to support Wiktionary editors and content, with including lexicographical data into the knowledge base, but also by providing automatic language links for the projects. On this page, you will find an overview and updates.
+To learn more about lexicographical data on Wikidata, check Wikidata:Lexicographical data. If you are Wiktionary editor, check also User:Rua/Wikidata for Wiktionarians.
+Sitelinks
+Since 2017, the interwikilinks on Wiktionary are not added manually anymore. Instead, two automatic systems provide links for the content pages of Wiktionaries (linking pages on different language versions of Wiktionary having the exact same titles) and the pages outside of the main namespace (links stored on Wikidata).
+You can find the documentation page regarding interwikilinks on Wiktionary here. Feel free to help improving and translating it!
+Experiments
+Several Wiktionary communities started discussing about possible usage of Wikidata data on Wiktionary, ideas of tools and needs for new features. Some projects also have a page dedicated to collaboration with Wikidata. Here's a list of the current experiments, feel free to improve it!
+On English Wiktionary, there is a project page dedicated to Wikidata. The arbitrary access (possibility to include data from Wikidata on Wiktionary) has been deployed on demand of the community, for testing the feature.
+See also:
+list of ideas of tools
+History – list of discussions
+Comparison of Projects and Proposals for Wiktionary
+ Wikipedia   
+ Wikivoyage  
+ Wikimedia Commons   
+ Wikisource   
+ Wikiquote   
+ Wikinews   
+ Wikispecies   
+ Wiktionary   
+ Wikibooks   
+ Wikiversity   
+ Meta-Wiki   
+ MediaWiki.org   
+ Incubator   
+Retrieved from "https://www.wikidata.org/w/index.php?title=Wikidata:Wiktionary&oldid=1510363143"
+Categories: Sister projectsWikidata:WiktionaryWikidata-en
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Project pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+Print/export
+In Wikipedia
+DeutschLatinaRuna Simi
+Edit links
+ This page was last edited on 10 October 2021, at 14:29.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

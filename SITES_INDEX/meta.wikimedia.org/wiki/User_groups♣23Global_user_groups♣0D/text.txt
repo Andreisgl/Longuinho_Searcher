@@ -1,0 +1,411 @@
+User groups - Meta
+User groups
+From Meta, a Wikimedia project coordination wiki
+Jump to navigation
+Jump to search
+Translate this pageOther languages:Bahasa Indonesia
+Bahasa Melayu
+Basa Banyumasan
+British English
+Deutsch
+English
+Esperanto
+Ghanaian Pidgin
+Lëtzebuergesch
+Nederlands
+Ripoarisch
+Tiếng Việt
+Türkçe
+Zazaki
+dansk
+eesti
+español
+euskara
+français
+hrvatski
+italiano
+kurdî
+magyar
+polski
+português
+português do Brasil
+sicilianu
+suomi
+svenska
+čeština
+Ελληνικά
+български
+македонски
+русский
+татарча
+татарча / tatarça
+українська
+հայերեն
+עברית
+اردو
+العربية
+سنڌي
+فارسی
+پښتو
+नेपाली
+मराठी
+हिन्दी
+বাংলা
+ਪੰਜਾਬੀ
+ગુજરાતી
+മലയാളം
+ไทย
+ဘာသာ မန်
+မြန်မာဘာသာ
+ქართული
+中文
+日本語
+粵語
+한국어
+This page is about user groups and rights on MediaWiki, for the simple and flexible affiliation structure please see Wikimedia User Groups
+The following is a list of user groups in the Wikimedia Foundation projects. It is organized in approximate descending order of permissions. Note that the order is not directly correlated to power in the proper sense of the word, but rather refers to technical access in the MediaWiki software. Be aware that, though the technical abilities are the same on all Foundation projects, certain groups' definitions and roles differ from wiki to wiki.
+Contents
+1 Local groups
+2 Global user groups
+2.1 Global bot
+2.2 Global rollback
+2.3 Global sysop
+2.4 VRT permissions agents
+2.5 Staff
+2.5.1 Background
+2.5.2 Assignment
+2.5.3 Permissions
+2.6 Steward
+2.7 Special-purpose 
+3 See also
+Local groups
+Here's a list of user groups, from the highest access level to the lowest.
+Steward (this is a global group)
+Checkuser
+Oversight
+Bureaucrat 
+Administrator (sysop)
+OAuth administrators (only on Meta)
+Global renamers (only on Meta)
+Eliminators (some wikis)
+Abuse filter manager (some wikis)
+Rollbacker (some wikis)
+Reviewer or Editor (some wikis that use Flagged Revisions)
+Template editor (some wikis)
+File mover (some wikis)
+Patroller (some wikis)
+Account creator (exists globally, used in some wikis)
+IP block exempt 
+Bot 
+Flooder  (some wikis)
+Registered user  and Newly registered user 
+Unregistered user 
+Blocked user  (this is not a user group)
+Global user groups
+See also Global permissions , Global groups  and Global rights .
+Global bot
+Global bots have bot access on all wikis where global bots are enabled (see the list of wikis). Global bots are subject to the standard bot policy, which limits these bots to specific tasks. 
+See:
+Standard bot policy
+Global bots: members | wikis and rights | log
+Global rollback
+Users with global rollback can revert a series of edits by one user with one click on any wiki, primarily intended for vandalism and nonsense. Users must be demonstrably active in crosswiki counter-vandalism for access.
+See:
+Global rollback 
+Global rollbackers: members | rights
+Global sysop
+Global sysops are users with sysop access on multiple small wikis, mainly for the purpose of fighting vandalism in the absence of local administrators. They are appointed after a lengthy discussion on Steward requests/Global permissions.
+See:
+Global sysops 
+Global sysops: members | rights
+VRT permissions agents
+VRT permissions agents are users who have access to the permissions queues of the Wikimedia VRTS.  The global group is used primarily for identification purposes, and the only user right it contains is the ability to activate two factor authentication.
+Staff
+The Staff group is assigned to some paid employees of the Wikimedia Foundation. This group has special access primarily for technical or legal purposes.
+Background
+The Wikimedia Foundation is constantly evaluating who is a member of the staff user group in order to minimize the proliferation of this very specialized tool. Membership of the staff group is constantly re-evaluated, particularly in light of a more limited tool being available that will fit a staff member's needs, if someone is expected to not need staff rights for a period of time, or if there is something that triggers during a risk assessment. These re-evaluations are part of good security practices.
+Previously, who did and did not have staff rights was relatively arbitrary, based upon asking the staff member who was in charge of these rights. The process has been subsequently formalized to protect against abuse or misuse of staff rights. In order to receive staff rights, it requires second level sign-off (meaning that for a new employee in a department, director level signoff is required and for a new manager, C-level signoff is required), a formal written use-case that is kept on file and routinely reviewed to determine whether the use-case is still met by assignment of staff rights, a brief training session explaining their appropriate and inappropriate use, and an acknowledgement (in writing) of the rights and responsibilities that come with staff rights.
+Previously, there were few protections against abuse. Today, there are a number of checks and balances built into the system. On the English Wikipedia, for instance, the Arbitration Committee reviews all logged actions and discusses questionable actions with Jan (as the WMF employee responsible for approving rights assignments) to ensure they are within policy. On other wikis where there is no comparable subcommittee, the Trust and Safety (T&S) team audits and reviews employee actions. This has resulted in employee disciplinary action on occasion. These are not toothless protections.
+Assignment
+Staff rights are managed by the Global Head of Trust and Safety and the second-level Wikimedia Foundation manager of the person requesting staff rights.
+Wikimedia stewards and staff will add or remove permissions (former link) from the staff global user group and they also add or remove user accounts from the staff global user group based on the requests of the Global Head of Trust and Safety or their designee. There is no requirement that community consensus be demonstrated or that the above requirements (including sign-offs) are proved.
+Rationale and responsibility of advanced permissions assignment for Wikimedia Foundation staff are currently recorded in a locked Google spreadsheet. A mirror of that page can be found at WMF Advanced Permissions.
+Permissions
+The following chart lists the user rights available in the staff user group and an explanation of why these rights are necessary for staff to have.
+User right
+Purpose
+autoconfirmed
+...
+autopatrol
+...
+bigdelete
+At times, the T&S or technical team need the ability to delete pages with a high number of revisions for technical reasons, or for legal compliance reasons.
+browsearchive
+...
+centralauth-merge
+...
+centralauth-unmerge
+...
+centralnotice-admin
+...
+checkuser
+The T&S team uses this right for legal compliance (subpoena, etc.) and safety reasons (investigations of threats)
+checkuser-log
+The T&S team uses this right for legal compliance (subpoena, etc.) and safety reasons (investigations of threats)
+delete
+The T&S team uses this right for legal compliance and copyright purposes.
+deletedhistory
+The T&S team uses this right for legal compliance and copyright purposes.
+deletedtext
+The T&S team uses this right for legal compliance and copyright purposes.
+deletelogentry
+The T&S team uses this right for legal compliance purposes.
+deleterevision
+The T&S team uses this right for legal compliance and copyright purposes.
+edit
+...
+editinterface
+The T&S team uses this right for legal compliance and copyright purposes (i.e., to change the copyright notices, etc.).  Other staff members use it to support the development of other projects and technical initiatives.
+editusercss
+This was done for a couple of reasons.
+First, we have had times when we saw a user insert some code in their own user.js and user.css files that really shouldn't be there, and then propagate that code out to the wikis by adding a transclusion from their own user files to, for instance, Mediawiki:Common.js of a smaller wiki, and thereby add google tracking code, for instance. This allows staff to easily (and in a logged fashion) remove such code.
+Second, in order to include a script for those users who hold staff rights which colors red the interface buttons for things that they really shouldn't touch without a REALLY good reason  (i.e., the execute checkuser button).  You can see that script in my own user.js file. This is a reminder for new staff who didn't come from the community that these are specialized rights, and not everyone has access to them, and serves as a mental "speedbump" against using them.
+editusercssjs
+edituserjs
+globalblock
+...
+globalblock-exempt
+...
+globalblock-whitelist
+...
+globalunblock
+...
+hiderevision
+...
+hideuser
+...
+import
+...
+importupload
+...
+ipblock-exempt
+...
+moodbar-admin
+...
+move
+...
+move-rootuserpages
+...
+move-subpages
+...
+movefile
+...
+noratelimit
+...
+nuke
+...
+override-antispoof
+...
+oversight
+...
+prefstats
+...
+protect
+...
+purge
+...
+reupload
+...
+reupload-shared
+...
+superprotect
+...
+suppressionlog
+...
+suppressredirect
+...
+suppressrevision
+...
+tboverride
+...
+tboverride-account
+...
+transcode-reset
+...
+transcode-status
+...
+uboverride
+...
+unblockself
+...
+undelete
+...
+unwatchedpages
+...
+upload
+...
+upload_by_url
+...
+See: 
+Current paid staff
+Staff: global permission · global groups (toolforge) · member list · group changelog
+Special global permissions
+original proposal
+Steward
+Stewards have complete access to the wiki interface, and perform technical implementation of community consensus, deal with emergencies, and intervene against crosswiki vandalism. Stewards are elected annually with participation from all wikis.
+See:
+Stewards 
+Stewards/History
+Stewards: members | rights (global)
+Special-purpose 
+Ombuds commission 
+System administrators 
+Founder 
+Abuse filter helpers 
+Interface editors 
+See also
+Wikimedia power structure (essay)
+vteUser groups LocalgroupsIn MetaWithout global effects
+confirmed user
+IP block exemption
+autopatroller
+patroller
+uploader
+flooder
+translation admin
+transwiki importer
+bureaucrat
+oversighter
+checkuser
+account creator
+With global effects
+administrator
+centralnotice admin
+interface admin
+OAuth administrators
+push subscription managers
+massmessage sender
+global renamer
+WMF Trust and Safety
+WMF Office IT
+In some wikis
+uploader
+autopatroller
+patroller
+reviewer
+rollbacker
+autochecked user
+extended confirmed user
+file mover
+interface editor
+edit filter manager
+template editor
+eliminator
+translation admin
+massmessage sender
+ArbCom member
+page mover
+technician
+bot admin
+flooder
+curator
+ engineer
+In one wiki(except Meta)
+noratelimit user
+GWToolset user
+Upload Wizard campaign editor
+image reviewer
+test admin
+property creator
+Wikidata staff
+ researcher
+Cross-wiki
+blocked user
+unregistered user
+newly-registered user
+registered user
+confirmed user
+autoconfirmed user
+account creator
+bot
+administrator
+interface admin
+bureaucrat
+oversight
+checkuser
+IP block exempt
+importer
+transwiki importer
+users blocked from the IP information tool
+Flow bot
+Historical groups
+Extended uploaders
+course coordinator, instructor, online and campus volunteer
+mover
+zeroadmin
+Globalgroups
+locked account
+unified account
+CAPTCHA exemptions
+API high limit requestor
+bot
+rollbacker
+abuse filter helper
+abuse filter maintainer
+interface editor
+recursive export
+IP block exemption
+new wikis importer
+deleter
+sysop
+ombuds
+VRT member
+founder
+staff
+WMF researcher
+two-factor authentication testers
+WMF ops monitoring
+Flow creator
+system administrator
+steward
+Links in italic are separate account statuses that are not assigned through user groups.
+See also: Wikimedia user groups
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=User_groups&oldid=25439057"
+Categories: User groupsCommunity
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Content pageDiscussion
+English
+Views
+ReadView sourceView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+Wikimedia CommonsWikidataWikipediaWikisourceWikiversityWiktionary
+In other languages
+AlemannischالعربيةالدارجةAzərbaycancaتۆرکجهБашҡортсаBoarischभोजपुरीBanjarবাংলাབོད་ཡིགBosanskiCatalàDanskDagbanliDeutschEnglishEsperantoEspañolفارسیSuomiFrançaisGagauzگیلکی客家語/Hak-kâ-ngîHrvatskiHornjoserbsceMagyarBahasa IndonesiaIlokanoГӀалгӀайItaliano日本語JawaქართულიҚазақшаភាសាខ្មែរಕನ್ನಡ한국어कॉशुर / کٲشُرKurdîLatviešuमैथिलीമലയാളംМонголဘာသာ မန်मराठीPlattdüütschनेपालीNederlandsNorskOccitanଓଡ଼ିଆPolskiPortuguêsРусскийᱥᱟᱱᱛᱟᱲᱤسنڌيSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSoomaaligaShqipСрпски / srpskiSvenskaதமிழ்తెలుగుТоҷикӣไทยTolışiTürkçeOʻzbekcha / ўзбекчаVènetoTiếng Việt吴语Zeêuws中文文言粵語
+Edit links
+ This page was last edited on 11 August 2023, at 00:36.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

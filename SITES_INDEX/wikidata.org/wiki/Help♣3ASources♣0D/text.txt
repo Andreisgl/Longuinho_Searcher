@@ -1,0 +1,301 @@
+Help:Sources - Wikidata
+Shortcut: WD:S
+Help:Sources
+From Wikidata
+Jump to navigation
+Jump to search
+Translate this page
+Other languages:Bahasa Indonesia
+Basa Bali
+British English
+Deutsch
+English
+Esperanto
+Frysk
+Lëtzebuergesch
+Nederlands
+Ripoarisch
+Scots
+Zazaki
+bosanski
+català
+dansk
+español
+euskara
+français
+galego
+italiano
+latviešu
+magyar
+norsk bokmål
+occitan
+polski
+português do Brasil
+română
+suomi
+svenska
+čeština
+ślůnski
+Ελληνικά
+беларуская
+български
+македонски
+русский
+српски / srpski
+українська
+հայերեն
+עברית
+العربية
+فارسی
+हिन्दी
+বাংলা
+தமிழ்
+മലയാളം
+ქართული
+中文
+日本語
+粵語
+한국어
+The majority of statements on Wikidata should be verifiable: they should be supported by a source of information such as a book, scientific publication, or newspaper article. In Wikidata, references are used to point to specific sources that back up the data provided in a statement.
+References, like statements, also consist of at least one property-value pair (for a reference, the value is the source). Typically the property used for sources is one of two options: stated in (P248) (referring to publications and media) and reference URL (P854) (used for websites and online databases).
+This guideline explains when it is necessary to add a source to a statement in Wikidata. It also explains the steps to be followed in order to add a source.
+Contents
+1 Language independent general principles
+1.1 When to source a statement
+1.2 Adding a source to a statement
+1.3 Different types of sources
+1.3.1 Books
+1.3.2 Scientific, newspaper or magazine article
+1.3.3 Reports, policy, legislation and technical documentation
+1.3.4 Web page
+1.3.5 Databases
+1.3.6 Media & Entertainment (TV/radio/music/video)
+1.3.7 Headstones at Commons
+1.3.8 Wikisource source text
+1.3.9 Archive collections, especially vital records
+2 See also
+Language independent general principles[edit]
+When to source a statement[edit]
+Wikidata is a collection of sourced data, which means that most statements should indicate where the data comes from.
+Wikidata includes three main types of statements: facts about the subject of the item, mappings of external identifiers and media links to Wikimedia Commons. The following applies primarily to the first type.
+In some cases sources are not required:
+When a value is common knowledge, and it has not been disputed. For example, it is common knowledge that Earth (Q2) is an instance of (P31) a terrestrial planet (Q128207)
+When the item has a statement that refers to an external source of information (such as a database or authority control file) which allows easy verification of the statement. For example, a statement about Harry Potter and the Philosopher's Stone (Q43361)'s GND ID (P227) (an authority file maintained by the German National Library) does not need a source (the value, 4615979-4, is a direct link to the appropriate page on the German National Library's website)
+When the item itself is a source for a statement. For example, for The Hunger Games (Q11679) book series, it's possible to say that the author (P50) is Suzanne Collins (Q228624) without needing to then include The Hunger Games (Q11679) as a reference for this statement.
+For more information, see Help:Sources/Items not needing sources.
+Adding a source to a statement[edit]
+example of a sourced statement
+There are four basic steps to follow when adding a source regardless of the type of source being added.
+Check if an item for the source already exists in Wikidata using the Item by title search
+Add the source as an item if: i) it's not in Wikidata already and ii) it is not a webpage
+Add a reference to your statement and point to the source item. For source items in Wikidata, use the property stated in (P248); for sources that exist online outside of Wikidata, use reference URL (P854)
+Add the source and all necessary qualifiers
+More information on searching for and creating items can be found at Help:Items.
+Different types of sources[edit]
+References should point to reliable sources of information such as university-level textbooks or reference books, academic journals, and newspapers. For more information on identifying reliable sources, please see Wikidata:Verifiability.
+One could differentiate between online or offline references. Both can be added to Wikidata. An internet accessible database can be an online reference. Offline references are books and other works found in libraries and archives.
+References can be categorized into primary, secondary, and tertiary references. All categories can be added to Wikidata. A secondary reference being one that analyzes primary references, a compilation of secondary references is a tertiary reference. Encyclopædiæ and library catalogues are generally tertiary references. Wikidata could be seen as a tertiary (or quaternary) reference, but one can't add it to Wikidata itself.
+References can be contemporary ones or historic ones. Wikidata includes both. Consider appropriate ranks for information that is no longer current.
+Please note that while pages on Wikipedia (and other Wikimedia sites) can and should be added as sitelinks, they are not appropriate as sources for Wikidata statements. As per the Wikipedia policy on verifiability, the content of articles in Wikipedia must be verifiable; it should be supported by sources also (in the form of citations). However, just because something is stated on a Wikipedia page, does not mean that it is acceptable to consider the Wikipedia page itself as a source; it's much better to locate the actual citation and use that instead. 
+Tools that import data from Wikimedia projects generally add imported from Wikimedia project (P143) (and sometimes also Wikimedia import URL (P4656)) in the reference part of statements. Statements that are only supported by "imported from Wikimedia project (P143)" are not considered sourced statements. If you encounter one of these statements, please replace "imported from Wikimedia project" with an actual reference.
+This list is not complete, and types of sources in addition to the ones found on this page may be reliable; if you would like to add a new section with instructions on how to add such sources, please do so.
+Books[edit]
+In Wikidata, books are treated according to the Functional Requirements for Bibliographic Records (Q16388) (FRBR) model, a commonly used conceptual framework in library science.
+Without going into too much detail, the FRBR model allows us to make a distinction between creative works, and their different editions or translations; in Wikidata, these are known as work items and edition items respectively. For example, we can say that Hamlet (Q41567) and Bible (Q1845) are work items, while Hamlet, Prince of Denmark (Q14422206) and the King James Version (Q623398) are edition items.
+When sourcing statements, you should only ever use the edition item of a book. In some cases, it will be necessary to first add the work item to Wikidata in order to create an edition item. You can do so by following the steps below:
+Check if the work item already exists in Wikidata. If an item is found, proceed to step 4. If the item is not found, create a new one for it and go to step 2.
+Add at least the following statements to the work item:
+instance of (P31) → written work (Q47461344)
+author (P50) (or author name string (P2093) if you know nothing nontrivial other than their name)
+title (P1476) (and subtitle (P1680) if applicable)
+language of work or name (P407)
+Add any additional properties to the work item that may seem necessary, for example:
+based on (P144), genre (P136), main subject (P921), follows (P155) and followed by (P156) (in case of a series), and others listed at Wikidata:WikiProject Books#Work_item_properties.
+Check if the edition item of your work item exists in Wikidata. If an item is found, proceed to step 8. If the item is not found, create a new item for the edition and go to step 5. Make sure to label the edition item in a way that can be differentiated from the work item
+Label the new edition item in a way that can be differentiated from the work item by adding the edition number with the title
+for example, The Autobiography of Alice B. Toklas (1st edition) (Q15152326)
+Add at least the following statements to the edition item:
+instance of (P31) → version, edition, or translation (Q3331189)
+edition or translation of (P629) → the Q#### of the work item
+title (P1476) (and subtitle (P1680) if applicable)
+language of work or name (P407)
+edition number (P393)
+Add any additional properties to the edition item that may seem necessary, for example:
+place of publication (P291), publisher (P123), publication date (P577), illustrator (P110), editor (P98), number of pages (P1104), and others listed at Wikidata:WikiProject Books#Edition_item_properties
+Return to the work item and, if DeltaBot didn't do it already,  add has edition or translation (P747).
+Return to the item page you were adding a reference to source your statement with stated in (P248) and link it to the edition item
+Add any additional properties to the reference section which can help when verifying the value of the statement:
+page(s) (P304), column (P3903), chapter (P792), section, verse, paragraph, or clause (P958)
+Example:
+Work item: CRC Handbook of Chemistry and Physics (Q904273), edition item: CRC Handbook of Chemistry and Physics (92nd edition) (Q11927173)
+Used to source statement: CAS Registry Number (P231) of
+ethanol (Q153)
+Reference: stated in (P248) — CRC Handbook of Chemistry and Physics (92nd edition) (Q11927173)
+Scientific, newspaper or magazine article[edit]
+Publication articles require that both the publication and the article be added as items to Wikidata (if they haven't already been). One can use SourceMD.
+Check if the publication item already exists in Wikidata. If an item is found, proceed to step 3. If the item is not found, create a new one for it and go to step 2.
+Ensure that at least the following statements are added to the publication item:
+instance of (P31) → academic journal (Q737498) for academic journal
+or instance of (P31) → newspaper (Q11032) for newspaper
+or instance of (P31) → magazine (Q41298) for magazine
+title (P1476) (and subtitle (P1680) if applicable)
+language of work or name (P407)
+Check if the article item exists in Wikidata. If an item is found, proceed to step 5. If the item is not found, create a new item for the article and go to step 4.
+Ensure that at least the following statements are added to the article item:
+instance of (P31) → article (Q191067) (more specifically: scholarly article (Q13442814), news article (Q5707594), magazine article (Q30070590), etc.)
+published in (P1433) → (whatever the publication item is)
+title (P1476) (and subtitle (P1680) if applicable)
+language of work or name (P407)
+author (P50) (or author name string (P2093) if you know nothing nontrivial other than their name)
+You may use the Source MetaData tool to assist creation if you know the DOI of the article.
+Return to the item page you were adding a reference to source your statement with stated in (P248) and link it to the article item.
+If needed, return to the publication item and add additional properties:
+place of publication (P291), publisher (P123), ISSN (P236), editor (P98)
+If needed, return to the article item and add additional properties:
+issue (P433), publication date (P577), page(s) (P304), quotation (P1683), chapter (P792), volume (P478), DOI (P356), full work available at URL (P953) and main subject (P921).
+Example:
+Journal item: Geological Society Special Publication (Q15817216), article item: The age of the Earth in the twentieth century: a problem (mostly) solved (Q15545344)
+Used to source statement: inception (P571) of
+Earth (Q2)
+Reference: stated in (P248) — The age of the Earth in the twentieth century: a problem (mostly) solved (Q15545344)
+Reports, policy, legislation and technical documentation[edit]
+Check if the document item exists in Wikidata. If an item is found, proceed to the step 3. If the item is not found, create a new item for the edition and go to step 2.
+Ensure that at least the following statements are added to the document item:
+instance of (P31) → report (Q10870555) for a report
+or instance of (P31) → technical documentation (Q1413406) for technical documentation
+or instance of (P31) → policy (Q1156854) for policy
+or instance of (P31) → legislation (Q49371) for legislation
+title (P1476) (and subtitle (P1680) if applicable)
+language of work or name (P407)
+author (P50) (or author name string (P2093) if you know nothing nontrivial other than their name)
+Return to the item page you were adding a reference to source your statement with stated in (P248) and link it to the document item.
+If needed, return to the document item and add additional properties:
+applies to jurisdiction (P1001), publication date (P577), publisher (P123), DOI (P356), language of work or name (P407), page(s) (P304), quotation (P1683), volume (P478) and chapter (P792)
+Example:
+Legislation item: Civil Marriage Act (Q3258612)
+Used to source statement: start time (P580) of
+Same-sex marriage in Canada (Q17447)
+Reference: stated in (P248) — Civil Marriage Act (Q3258612)
+Web page[edit]
+If there is a Wikidata property for a website, follow #Databases below.
+Check if an item exists in Wikidata for the website containing the web page. If an item is found, source your statement with stated in (P248) and link it to the website item. If an item is not found but the website is notable, create one for it. If the website is not notable, use title of broader work (P6333) instead.
+Source your statement with reference URL (P854) and link it to the URL of the webpage
+Add the following qualifiers to your reference so the source can be tracked down if the URL changes:
+publication date (P577) → the publication date of the webpage. If no publication date is provided use retrieved (P813), the date when the data was taken from the web page.
+title (P1476) → title of the webpage
+archive URL (P1065) → archived webpage
+archive date (P2960) → date of archived webpage
+language of work or name (P407) → language of the webpage
+online access status (P6954) → could be open access (Q232932), registration required (Q107459441), paywall (Q910845), etc.
+If needed, add additional qualifiers:
+author (P50) and publisher (P123). Please note if the web page belongs to a major web site that already has an item in Wikidata, you should use publisher.
+quotation (P1683) → exact quotation of text from the webpage
+Examples:
+Web page item: United States Population Clock (Q3398022)
+Used to source statement: population (P1082) of
+United States of America (Q30)
+Reference: stated in (P248) — United States Population Clock (Q3398022)
+Non-web page item
+Used to source statement: date of birth (P569) of
+Giambattista Bodoni (Q220768)
+Reference: reference URL (P854) — http://www.treccani.it/enciclopedia/giambattista-bodoni_%28Dizionario-Biografico%29/
+Databases[edit]
+Please note: this approach only applies to databases that already have a corresponding property defined in Wikidata. The property is often an identifier unique to the database such as the PubMed ID (P698) for PubMed or the IMDb ID (P345) for the Internet Movie Database. Consult the list of properties for authority control IDs to determine whether the database property has been added to Wikidata. You can also use the advanced options of Special:Search to search for the database and/or its identifiers in the Property namespace. If no such property exists for the database, treat the database as a webpage (see above).
+Search for the database item in Wikidata. If an item is found, proceed to the next step. If the item is not found, create a new one for it.
+Ensure that at least the following statement is added to the database item:
+instance of (P31) → database (Q8513)
+Return to the item page you were adding a reference to source your statement with stated in (P248) and link it to the database item. The applicable value can be found through applicable 'stated in' value (P9073).
+Add the following qualifiers to your reference in order to indicate the specific register of the database.
+database property → database property ID (the unique identifier for the data as per the database)
+title (P1476) → the title of the dataset in the database. This may not be needed if the database property is in the external link section of the item the statement is used on.
+publication date (P577) → the publication date for the data. If no publication date is provided use retrieved (P813), the date when the data was taken from the database. This may not be needed if the date is already otherwise included in the statement being referenced.
+Example:
+Database item: PubChem (Q278487), database property: PubChem CID (P662)
+Used to source statement: InChI (P234) of
+ethanol (Q153)
+Reference: stated in (P248) — PubChem (Q278487)
+Media & Entertainment (TV/radio/music/video)[edit]
+Check if the media item exists in Wikidata. If an item is found, proceed to the next step. If the item is not found, create a new one for it.
+Source your statement with stated in (P248) and link it to the media item
+If needed, return to the media item and add additional properties:
+publication date (P577), author (P50), part of the series (P179), quotation (P1683).
+Example:
+Documentary item: Man on Wire (Q1417721)
+Used to source statement: occupation (P106) of
+Philippe Petit (Q705289)
+Reference: stated in (P248) — Man on Wire (Q1417721)
+Headstones at Commons[edit]
+Add the following:
+type of reference (P3865)=tombstone (Q203443) and reference image (P10253) with the image at Commons
+Example:
+Headstone image: File:Beatrice_Dowsky.jpg
+Used to source statement: date of birth (P569) of
+Beatrice von Dovsky (Q88821)
+Reference: type of reference (P3865) — tombstone (Q203443) and reference image (P10253) — File:Beatrice_Dowsky.jpg
+Wikisource source text[edit]
+Add the following two:
+As for books above, add stated in (P248) pointing to the Wikidata item of the edition with sitelinks to Wikisource + page(s) (P304) to indicate the page of the book (for bibliographic templates)
+As for websites above, add reference URL (P854) pointing to the subpage supporting the statement
+Archive collections, especially vital records[edit]
+Always try to fill:
+type of reference (P3865) - e.g., birth certificate (Q83900), marriage certificate (Q1299632), death certificate (Q708653), birth registry (Q11971341), baptism registry (Q28369847), marriage registry (Q14324227), death registry (Q12029619), home certificate (Q1595673), conscription sheet (Q105921971), chronicle (Q185363), etc.
+Depending on circumstances (especially based on the structure of the collection provided by its creator or custodian), also try to enter additional identifiers, such as:
+registration district (P5564) - regional subdivision of the collection, if created in Wikidata
+volume (P478) - compact resource, such as book or documentation box that does not have a Wikidata item. May return error if not alphanumeric.
+inventory number (P217) - alternative free-form identifier
+page(s) (P304) - page in a book; sometimes it is better to enter folio(s) (P7416)
+line(s) (P7421) - row within a page or document, if numbered
+section, verse, paragraph, or clause (P958) - another identifiable part of document
+Archival Resource Key (P8091) - if assigned
+Examples
+Josef J. Zapf (Q96901921) - dates of birth and death based on Austrian church books
+Hermann Mattkey (Q96694727) - dates of birth and death based on Czech church books (German-language source with Czech metadata)
+See also[edit]
+Wikidata property to indicate a source (Q18608359)
+For related Help pages, see:
+Help:Sources/Items not needing sources, more information on when items don't need sources
+Help:Statements, which explains what statements are and what rules they follow
+Help:Qualifiers, which explains what qualifiers are and what rules they follow
+Special:BookSources - search for book sources by ISBN (International Standard Book Number)
+Authority control identifiers, a list of database properties
+Wikidata:Zotero, which explains how to use a tool which makes it easy to create items about articles, web pages, etc. with QuickStatements
+Wikidata SPARQL queries
+Properties most often applied to references
+For additional information and guidance see:
+Project chat, for discussing all and any aspects of Wikidata
+Wikidata:Glossary, the glossary of terms used in this and other Help pages
+Help:FAQ, frequently asked questions asked and answered by the Wikidata community
+Help:Contents, the Help portal featuring all the documentation available for Wikidata
+Retrieved from "https://www.wikidata.org/w/index.php?title=Help:Sources&oldid=1937348713"
+Categories: Help:SourcesHelp-en
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Help pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In Wikipedia
+Add links
+ This page was last edited on 19 July 2023, at 16:00.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

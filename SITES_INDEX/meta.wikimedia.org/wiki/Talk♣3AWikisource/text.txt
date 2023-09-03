@@ -1,0 +1,191 @@
+Talk:Wikisource/Archives/2003 - Meta
+Talk:Wikisource/Archives/2003
+From Meta, a Wikimedia project coordination wiki
+< Talk:Wikisource
+Jump to navigation
+Jump to search
+This is an archive of past discussions. Do not edit the contents of this page. If you wish to start a new discussion or revive an old one, please do so on the current talk page.
+Contents
+1 Historical discussion
+1.1 Handling primary sources, or Project Sourceberg
+1.1.1 Project Sourceberg Mission
+1.1.2 Name suggestions
+1.1.3 Necessary features
+1.1.4 Getting it going
+1.1.5 Related commentary
+1.1.6 Why we are reinventing the wheel?
+1.1.6.1 Why not just use Project Gutenberg?
+1.1.7 How to complement Project Gutenberg
+1.1.8 Sundry unincorporated commentary
+1.2 Introductions
+1.3 Overview
+1.4 Benefits
+Historical discussion
+Below is a historical discussion about the creation of the project that was moved from the Wikisource content page on 28 May 2006; please see that page's history for a record of user contributions.
+The originally proposed name for the project was "Project Sourceberg".
+Handling primary sources, or Project Sourceberg
+What to do about  primary sources? People like to add them to Wikipedia, but people also are (rightly) disturbed by their presence. Is the answer to enter an arms race in which the Primaryists add and the Pedists (short for Pure Encyclopia-ists) delete?
+No.
+Another problem: people with a firmly held take on a subject can take over entries. This is good if their take is externally supportable and not just an idiosyncratic view. Right now about the only way this can be discovered is through a lot of haggling in the entry and in Talk, though creating related entries that surround a topic also helps. But the best way would be to show references.
+suggestion:  as long term goal, require two individuals to agree to put something up visible to the public, or take it down making it invisible... make the two enter a joint reason that goes in the log.  So, if there are ten reasons to take something down, that's ten reasons that ten individuals can register... but the article stays visible... until one person agrees with one reason, then it comes down... then it sits in "limbo" (good name) as a list of reasons to put it back up builds up... say six such reasons arise... it stays down until one person agrees with one of these reasons, and enters it as a joint decision.  This must be someone who did not previously register a reason of their own... with this system, we pile up all the reasons why a thing is taken down or put up, and there's a chance to deal with all of it... talk does this informally now, of course...
+I think the long term solution is to make a complementary Wiki (or perhaps namespace) just for handling primary sources/original texts. Maybe it would have the texts, maybe it would just link to external sources. It could be to Project Gutenberg what Wikipedia is to Nupedia. 
+Most important of all, it would allow Wikipedians to easily and specifically reference sources.
+Maybe it should be called Project Sourceberg.
+Project Sourceberg Mission
+Allow people to handle primary sources better than currently, so that no one gets upset. Maybe that means provide a repository for primary sources; maybe that means figure out how to improve the Wikipedia interface for linking to outside repositories.
+Name suggestions
+Project Sourceberg is a w:pun on Project Gutenberg whose initials, PS, also stand for Primary Sources (and Post Scriptum). The name deliberately refers to Project Gutenberg so as to forge a connection which will hopefully become strong. Some of the idea was to have a brief acronym (PS) which could also be used in crosslinking with the main Pedia.
+However, as one person asserted, Gutenberg is named after someone, Sourceberg just sounds like someone ran out of ideas (a similar argument applies to wikipedia, but at least that's descriptive). Though it does follow the tradition set by Projekt Runeberg (for Nordic languages).
+Actually w:Elias Runeberg is just as real a person as Gutenberg. (not that I object to the name "Sourceberg" though, I like it in fact.) Cimon avaro 03:09 20 May 2003 (UTC)
+Just a late correction: That should be Johan Ludvig Runeberg, Swedish-language Finnish poet and author of the national anthem of Finland, among other things.//130.238.5.5 15:11, 9 Sep 2004 (UTC)
+Sourceberg is more descriptive than wikipedia. berg is the german word for mountain.JøhP 12:11 25 Jul 2003 (UTC)
+However, http://ps.wikipedia.com is reserved for the Pushto language Pedia (the language of the Pashtuns of Afghanistan).
+WikiBiblion is the name currently being used for a page which lists primary sources already entered into Wikipedia. It would make sense as a name for a project with a more defined mission.
+Wiki Sourcetexts is another proposal, which could be abbreviated to WST. But WST doesn't make sense on its own.
+sources.wikipedia.com But what would short acronym/abbr. be? "Source"?
+ref.wikipedia.com Reference Electronic Folio
+viz.wikipedia.com Virtual Information Zone?
+doc.wikipedia.com. Maybe someone can come up with a good expansion of DOC.
+Maybe "Downloadable Online Compendium"? -User:Geoffrey
+{language code}.wikisource.org its a sister project do wikipedia and wiktionary sho should hav its own domain name, and have the wiki name in it. It would keep consistency with the rest of wikimedia. [[User:Vrykolaka|Reply to Vrykolaka]]
+wikifreepress, wikibrarian (wiki librarian), wikiprint, wikiquarian (wiki antiquarian), wikilit.
+Necessary features
+Wikipedia is designed for anonymous, constant editing, which is great for the accumulative, morphing encyclopedia entries. Project Sourceberg needs to encourage easy additions and corrections but discourage arbitrary editing of the primary texts.
+1. Different interface; maybe three fields, one for prefatory comments, one for the text itself, and one for external references
+2. Easy reference/crosslinking to Wikipedia, like with links such as (from Wikipedia) [[ps:The Declaration of Independence]] or (from PS.Wikipedia) [[w:History of the United States]].
+3. Alternate formats of texts, such as text, HTML, multiple-page HTML, wikified text, (docbook) etc.
+4. Understanding of scope and mission; we don't want to try to duplicate Project Gutenberg's efforts; rather, we want to complement them. Perhaps Project Sourceberg can mainly work as an interface for easily linking from Wikipedia to a Project Gutenberg file, and as an interface for people to easily submit new work to PG.
+I would rather see Wikipedia cooperate very closely with both w:Project Gutenberg and the w:Online Book Initiative so we can easily link to their databases. I think that the Wikipedia should have articles about significant original works like w:Shakespeare. It should include excerpts and an external link to the aforementioned databases where readers can download the entire piece. <>< w:tbc
+5. Project Sourceberg, preferably, would have a content-agnostic layer which would allow any source, from book to LP to website to bumper sticker, to be referenced. That way whatever source material is appropriate to the entry (the w:Star Trek entry would look different from w:Punic Wars) could be references.
+Do we need a standard in how to referer to sources? So that everybody add the information in the same way? For search, compairing and further functions.
+Example:
+Source: Website, book, music
+Place: http://x, page 18, track 12
+Date: 2003-01-03
+A good thing would be to reuse sources too, so that you don't need to write the souce over and over again discussing two things back and forth.
+On top of that layer would be the format-specific tools that would, say, link into Project Gutenberg, etc.
+Add your own ideas; be bold in editing.
+Getting it going
+We could definitely start Project Sourceberg as a plain vanilla Wiki and quickly implement the [[ps:*]] notation, and just begin by moving off the primary sources that are already on Wikipedia, like the Constitution and the GPL.
+Related commentary
+There are numerous other discussions of the primary sources problem, which should be listed below.
+Note some primary sources have already been copied to wikipedia; a few are listed at WikiBiblion.
+Why we are reinventing the wheel?
+Larry Sanger, among others, wonders what the point is. Project Gutenberg already exists. What really is the need for having this project? 
+The short answer is that people are going to add primary sources to Wikipedia, whether some people want them to or not. But Wikipedia isn't well equipped to handle primary sources. So instead of internecine fighting, the community can develop a part of Wikipedia which is well equipped to handle primary sources.
+Why not just use Project Gutenberg?
+It's a lot harder to link to Project Gutenberg than it is to another page in Wikipedia.
+If a person has access to a primary source which isn't on Project Gutenberg, it's a lot easier and faster to add it to Wikipedia than it is to Project Gutenberg.
+Some primary sources really do make sense being in Wikipedia; even paper encyclopedias often contain particularly important or brief primary sources, such as the w:Gettysburg Address or the w:periodic table.
+Project Gutenberg does not contain any way to do several things that are easy to do with wikipedia.
+It is easy to create many different catagorization schemes in wiki.  If you want to create a list of writings created by 18 century English composers you can easily do so.
+Wikipedia already has history that can be easily linked in to give historical context to a writing.
+Project Gutenberg does not have any way of creating links between works.  For example, with wiki we could create links to major influences on the author, links to influenced by, and links to similar contempory works.  All of this is not done and unlikely to be done in project gutenberg.
+We could do translations.
+How to complement Project Gutenberg
+If the main reason people are adding primary sources is that it's too hard just to link to Project Gutenberg, then maybe the main purpose of Project Sourceberg 
+is to work as an interface for easily linking from Wikipedia to a Project Gutenberg file, and as an interface for people to easily submit new work to PG.
+Sundry unincorporated commentary
+And, like Larry, I'm interested that we think it over to see what we can add to Project Gutenberg.  It seems unlikely that primary sources should in general be editable by anyone -- I mean, Shakespeare is Shakespeare, unlike our commentary on his work, which is whatever we want it to be.  -- w:Jimbo Wales
+Then again, is Shakespeare Shakespeare? There's all the different folio versions, etc. But more the type of editing which would be useful and really great to encourage would be annotation, etc.--not changing the text but wikifying it, etc. 
+I think that we could really create something that was halfway in between PG and WP, that would be useful for both, maybe exploiting the Wiki philosophy for marking up texts in a free-form manner; Project Sourceberg could become a definitive repository for annotated texts.
+Just an idea. I really think that if we just set up something that links PG to WP in some easy-to-use way, and allow flexibility in how people use those links, remarkable things will happen (that may go beyond the formal scope of either). --TheCunctator
+I haven't really thought a lot about this, but I do think there is some use to our having some primary sources.  Even though I helped start it, maybe not Shakespeare.  But stuff like the U.S. Declaration of Independence, where the article itself might be longer than the document it's about, it seems that might be a good idea.  That could be a rough rule of thumb: it's OK to put a primary source into Wikipedia if the source is shorter than an ideal article, or series of articles, about the source.
+For this, we don't need a new wiki.  We can just use a new namespace!  See http://wikipedia.sourceforge.net/fpw/wiki.phtml if you haven't already. --LMS
+I'm confused. What does that link mean? Note also that Project Sourceberg isn't necessarily about making a Wiki--it's about helping Wikipedia handle primary sources better, which may involve a wiki, or editing the wikipedia code, or setting up a dialogue with the project gutenberg people. Project Sourceberg is a project, not a technology. --TheCunctator
+The link is to w:Magnus Manske's new beta wiki, which will eventually (we hope) be used to run Wikipedia, and which has "namespace" technology.  That can be used to implement the project.
+A useful implementation of the project would consist simply of Wikipedia's modest collection of primary sources, which doesn't need a name.  (Actually, it already has a name--WikiBiblion.)  The name "Project Sourceberg" makes it sound as if we're engaged in an ambitious project, comparable to Project Gutenberg.  Do you want us to be?  I don't want to be.  I don't really want to be in the business of uploading zillions of novels, etc., to Wikipedia.  The Gettysburg Address is one thing; the complete works of Dickens is quite another. --LMS
+I want to be engaged in an ambitious project. If you don't want to, that's fine, as long as you don't rain on my parade. The ambitiousness is in its usefulness, not necessarily its overhead. Perhaps I shouldn't make my PS:PG::WikiP:NuP analogy, because it implies that the only way PS would work is to be comparable to PG. The itch I want to scratch is the problem of usefully integrating primary sources with Wikipedia--right now it's awful, and people are rightly frustrated. If the problem can be fixed with minimal effort, then that's fine. If it takes a lot of effort, then that's fine too.
+Part of the point is that even if PS involved the complete works of Dickens, it wouldn't be to Wikipedia. It would be to something else, in a way that would make it very useful for Wikipedia. --w:TheCunctator
+OK, I don't want to rain on your parade.  Maybe what's needed is a much clearer statement of what the proposal is, down to nitty-gritty details. --LMS
+To be frank, the fact that Gutenburg was started in the 70's is reflected by their insistance in vanilla ascii (which makes sense I suppose, for embedded devices and stuff) and the use of a series of mirrors for 50k files. It took me about 10 minutes to find a book by Twain (granted, it will be easier now to find another book). I think Wikipedia has a        add to Gutenburg, and perhaps it could be used as a channel for new stuff like Wikipedia is supposed to be for Nupedia. - w:Eean
+Something is right here: the observation that "sources" don't belong in Wikipedia, but something is very wrong about this idea: Think of what a source is. For the documents discussed here, the sources are printed documents (e.g., a particular printed edition of Shakespeare's Hamlet). Anything on the Net is a copy of that source, and has to emulate its source as closely as possible in order to be useful. For everybody being able to edit the digital copy would be devastating, so Jimbo is right about these things not belonging in any wiki at all. There are hundreds of reliable and useful repositories of digital copies of printed sources on the net already. They are generally called digital libraries and have evolved over the last ten years. One of the biggest is the Making of America (http://moa.umdl.umich.edu/). Project Gutenberg (http://promo.net/pg/) might also be considered one of them, although their bibliographic and textual accuracy is sometimes in question. In order to use any digital library from Wikipedia, it must have useful URLs that can be linked to. Wikipedia can already use fully qualified URLs, but it would also be easy to implement a shorthand, similar to the ISBN style links, e.g. gutenberg: followed by the text's serial number.  Starting a separate project for this is a major undertaking and if somebody wants to do that, they should know they can finish it.--user:LA2, March 1, 2002.
+I (Stephen Gilbert) have some hurriedly scribbled notes in my notebook along these lines. Here they are:
+Introductions
+The idea of using such a project to provide an easy way to link to texts from Wikipedia seems backwards to me. What if this project's goal was to link source texts to Wikipedia articles? A long time ago, someone started importing Darwin's The Origin of Species into Wikipedia, and I was quite excited about that. Imagine being able to quickly and easily cross-reference concepts in such a source text with relevant encyclopedia articles! LaterI came to the conclusion that such sources do not really belong in an editable encyclopedia. I would like to see a project that focuses on editing and linking texts to Wikipedia. I'll refer to it by the name of The SourceLink Project, because I don't like the name Project Sourceberg (Sorry Cunc!).
+Overview
+SourceLink would use a wiki (let's call it SourceLinkWiki) to edit and link the texts to Wikipedia articles. SourceLinkWiki wouldbe completely separate from Wikipedia Proper, acting as a sister project, using modified wiki software that allowed easy linking to Wikipedia. I see a text going through two stages:
+Live -- All sources would start out in the wiki, where they are edited and linked to Wikipedia. This would be the development stage of the project.
+Frozen -- Once a text reaches a completed state, with appropriate links, a frozen version is made. This would be the version that the project promotes as being stable and safe to use (i.e. no one can change the words in it, and it has been thoroughly edited). Once a text is frozen, we may want to lock it on the wiki as well, or we could keep it live. I'm not sure which would be better.
+People could access the frozen texts online, or they could be downloaded. Downloadable texts would be in two forms. One would be with live links to Wikipedia online, while the other would have snapshots of the linked Wikipedia articles bundled with the texts.
+Benefits
+SourceLink would would provide a way to wikify sources without having to put them in the encyclopedia. People are obviously interested in this, since it has been a big issue on Wikipedia more than once.
+SourceLink could act as a bridge between Project Gutenberg and Wikipedia, establishing closer ties between the two projects. There is the potential to promote enormous cross-pollination between Wikipedia, PG and SourceLink:
+The materials produced by PG would be put to good use, providing easy cross-referencing to background encyclopedia articles.
+Since SourceLink texts will be linked to Wikipedia, people following the links may become regular Wikipedians. Also, if important concepts are linked from a source but there is no Wikipedia article for them, or the article is shoddy, SourceLink participants may contribute articles to improve the linked text.
+SourceLink could act as an extra layer of editing for PG, contributing correct texts back to the project.
+Comments and discussion are more than welcome. --Stephen Gilbert
+I've been interested in figuring out how to build a wiki for the 
+study of religion, in my case its related to the Vedas and the
+Upanisads.
+Numerous "source texts" are available in the public domain, The
+complete vedas, upanisads and the vedanta-sutras amongst others
+are available in eText format, besides I've been working with [[Distributed 
+Proofreaders]] and the Internet Sacred Texts Archive to get a few 
+more books (dozen or so) online and into Project Guttenberg.
+Stephen Gilbert's comments above made a lot of sense to me since
+There would most probably need to be a source section,(which allows wiki
+tike editing in the development phase - by a select few -- and than is frozen) 
+a protected section for the interpretations of various doctrines by
+respected scholars and a more open community section for
+discussion, current links to available resouces (books etc.)
+I am sure many of you may have thought about this, if anyone
+could share comments/suggestions or point me to previous
+discussions that would be great.
+Ajiva rts 00:13 Feb 9, 2003 (UTC)
+I would not wish to edit the text of a primary source. When a source text can and will be changed, it loses credibility - and therefore its usefulness as a primary source. As well, primary source authors (past and present) would not want their names and credentials attached to works which might have been modified.
+However, I am very interested in:
+Annotating and footnoting the primary sources
+Enabling source text to become a link (without changing the wording)
+Wiki to discuss the texts, compare the texts
+Allowing longer commentaries and papers to be presented and discussed.
+Projects such as Project Gutenberg provide the raw material like a brick without mortar. Wiki is an excellent mortar - it's inherent strength is the ability to relate, compare, link, discuss. Some people's whole scholarship revolves around a particular text or author, and they can provide valuable background information in a way not possible without the actual text being present.
+Could Project Sourceberg therefore wrap a flexible wiki community around core static primary source material? That would be far beyond the capabilities of Project Gutenberg as it now stands. Yet it would satisfy the wiki community, who long to make connections with that rich treasure trove of information.
+The beauty of that kind of structure is that an esteemed researcher but reluctant contributor can protect their work to a limited degree, and yet still have it discussed, linked, and analysed in an open wiki environment.
+- Ig
+Maybe for instance, disable everything but square brackets in edit mode?
+- Ig again
+study vs research : The thought occurs to me - Wikipedians want a simple wikipowered quick reference study tool. Sourcebergians want a simple wikipowered research tool. In others words, sourcebergians wish to do real open source research with unrestricted peer support, feedback, debate and editing help in a wiki environment. Seen in that light, the sourceberg project is rather exciting.
+Therefore, an environment which supports contrasting argument, fact-finding missions, idea gathering, comparitive studies would be ideal for a sourceberg wiki, rather than a wikipedia which is more about presenting common knowledge or facts. - Ig
+Also easy to imagine an environment that arrays all this stuff in real time for purposes of decision-making, see en:Wikipedia:vote and TIPAESA for an example and a potential structure, respectively.  Direct support also for consensus decision making and approval voting might be valuable, since those methods seem to be the most popular.
+Ig, I am actively working on trying something like this i.e. wikis for study, do email me and we can share ideas. Ajiva rts 16:08 Feb 21, 2003 (UTC)
+What interests me is:
+Imported texts which are then hyperlinked. IDeally the text could be frozen, perhaps with variant editions accessible through marking up the alterations. But then it would also be good if this could be openly edited for creating links. I think there maybe contradictions between these two goals.
+Secondly I would like a bibliographical resource, so that behind a wikipedia topic could be a bibliography page to which people could add useful references. Some of these would be available on the internet, others would not be. It would also be useful to state where copies of texts not availabel on the internet can be found. We are thinking along these lines at the Anti-systemic library based at the London Action Resource Centre and would like to implement the project in co-operation with others. Harry Potter
+I think that the need for primary sources on the 'pedia is manifest.  On the other hand, I don't like the idea of relegating them to a subdomain of their own, or even a subdirectory.  The best way to understand a primary source is to look at it together with annotation.  When I go to w:United States Constitution, I want to see the full text of the Constitution, not just some contributor's annotations.  
+On the other hand, I think I understand the need to keep the primary sources from overrunning the wiki.  It won't do to have the text of w:War and Peace jostling for space with a few paragraphs of annotation.  These two needs pull in opposite directions, and it almost seems best to have two parallel systems for dealing with primary sources. -Smack 05:43 30 Jun 2003 (UTC)
+Stephen Gilbert's ideas make sense to me.  So do Ig's.  -Ijon
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Talk:Wikisource/Archives/2003&oldid=3170736"
+Categories: Talk archives2003
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Content pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage information
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 21 December 2011, at 23:26.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

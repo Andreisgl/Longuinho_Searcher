@@ -1,0 +1,994 @@
+Latin phonology and orthography - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Languages
+Language links are at the top of the page across from the title.
+Search
+Search
+Create accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1Letterforms
+2Letters and phonemes
+Toggle Letters and phonemes subsection
+2.1Consonants
+2.1.1Notes on phonetics
+2.1.2Notes on spelling
+2.2Vowels
+2.2.1Monophthongs
+2.2.2Long and short vowels
+2.2.3Adoption of Greek upsilon
+2.2.4Sonus medius
+2.2.5Vowel nasalization
+2.2.6Diphthongs
+2.3Vowel and consonant length
+2.4Table of orthography
+3Syllables and stress
+Toggle Syllables and stress subsection
+3.1Nature of the accent
+3.2Old Latin stress
+3.3Classical Latin syllables and stress
+3.3.1Syllable
+3.3.2Nucleus
+3.3.3Onset and coda
+3.3.4Heavy and light syllables
+3.3.5Stress rule
+3.3.6Iambic shortening
+4Elision
+5Modern conventions
+Toggle Modern conventions subsection
+5.1Spelling
+5.1.1Letters
+5.1.2Diacritics
+5.2Pronunciation
+5.2.1Post-Medieval Latin
+5.2.2Loan words and formal study
+5.2.3Ecclesiastical pronunciation
+6Pronunciation shared by Vulgar Latin and Romance languages
+7Examples
+Toggle Examples subsection
+7.1From Classical Latin
+7.2From Medieval Latin
+8See also
+9Notes
+10References
+11Bibliography
+12Further reading
+13External links
+Toggle the table of contents
+Toggle the table of contents
+Latin phonology and orthography
+13 languages
+العربيةBrezhonegDeutschHrvatskiItalianoLatinaLietuviųNederlandsРусскийСрпски / srpskiSrpskohrvatski / српскохрватскиTürkçe中文
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Download as PDFPrintable version
+In other projects
+Wikimedia CommonsWiktionary
+From Wikipedia, the free encyclopedia
+Phonology of the Latin language
+This article is about Latin phonology and orthography. For English pronunciation of Latin words, see Traditional English pronunciation of Latin.
+Transcription of Appius Claudius in Roman square capitals.[note 1] The words are separated by engraved dots, a common but by no means universal practice, and some of the long vowels (e.g., in TVSCÓRVM) are marked by apices.
+This article contains phonetic transcriptions in the International Phonetic Alphabet (IPA). For an introductory guide on IPA symbols, see Help:IPA. For the distinction between [ ], / / and ⟨ ⟩, see IPA § Brackets and transcription delimiters.
+Latin phonology continually evolved over the centuries, making it difficult for speakers in one era to know how Latin was spoken before then. A given phoneme may be represented by different letters in different periods. This article deals primarily with modern scholarship's best reconstruction of Classical Latin's phonemes (phonology) and the pronunciation and spelling used by educated people in the late Roman Republic. This article then touches upon later changes and other variants. Knowledge of how Latin was pronounced comes from Roman grammar books, common misspellings by Romans, transcriptions into other ancient languages, and from how pronunciation has evolved in derived Romance languages.[1]
+Latin orthography is the spelling of Latin words written in the scripts of all historical phases of Latin from Old Latin to the present. All scripts use the Latin alphabet, but conventional spellings may vary from phase to phase. The Latin alphabet was adapted from the Old Italic script to represent the phonemes of the Latin language. The Old Italic script had in turn been borrowed from the Greek alphabet, itself adapted from the Phoenician alphabet. The Latin alphabet most resembles the Greek alphabet around 540 BC, as it appears on the black-figure pottery of the time.
+Letterforms[edit]
+A papyrus fragment in Roman cursive with portions of speeches delivered in the Roman Senate
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed. (June 2009) (Learn how and when to remove this template message)
+The forms of the Latin alphabet used during the Classical period did not distinguish between upper case and lower case. Roman inscriptions typically use Roman square capitals, which resemble modern capitals, and handwritten text often uses old Roman cursive, which includes letterforms similar to modern lowercase.
+Letters and phonemes[edit]
+In ancient Latin spelling, individual letters mostly corresponded to individual phonemes, with three main exceptions:
+The vowel letters a, e, i, o, u, y represented both short and long vowels. The long vowels were often marked by apices during the Classical period ⟨Á É Ó V́ Ý⟩, and long i was written using a taller version ⟨I⟩, called i longa "long I": ⟨ꟾ⟩;[2] but now long vowels are sometimes written with a macron in modern editions (ā), while short vowels are marked with a breve (ă) in dictionaries when necessary.
+Some pairs of vowel letters, such as ae, represented either a diphthong in one syllable or two vowels in adjacent syllables.
+The letters i and u (v) represented either the close vowels /i/ and /u/ or the semivowels /j/ and /w/.
+In the tables below, Latin letters and digraphs are paired with the phonemes that they usually represent in the International Phonetic Alphabet.
+Consonants[edit]
+This is a table of the consonant phonemes of Classical Latin. Those in parentheses have a debatable status as phonemes, and those marked with an asterisk are only found in Greek loanwords in educated pronunciation, except for some instances of /kʰ/. See below for further details.
+Labial
+Coronal
+Palatal
+Velar
+Glottal
+plain
+labialized
+Plosive
+voiced
+b
+d
+ɡ
+(ɡʷ)
+voiceless
+p
+t
+k
+(kʷ)
+aspirated
+pʰ*
+tʰ*
+kʰ*
+Fricative
+voiced
+z*
+voiceless
+f
+s
+h
+Nasal
+m
+n
+Rhotic
+r
+Approximant
+l
+j
+w
+Notes on phonetics[edit]
+The labialized velar stops /kʷ/ and /ɡʷ/ may both have been single phonemes rather than clusters like the /kw/ and /ɡw/ in English quick and penguin. /kʷ/ is more likely to have been a phoneme in its own right than /ɡʷ/. /kʷ/ occurs between vowels and counts as a single consonant in Classical Latin poetry, but /ɡʷ/ occurs only after [ŋ], where it cannot be identified as a single or double consonant.[3] /kʷ/ and [ɡʷ] were palatalized before a front vowel, becoming [kᶣ] and [ɡᶣ], as in quī [kᶣiː] listeni compared with quod [kʷɔd], and lingua [ˈlɪŋ.ɡʷa] compared with pinguis [ˈpɪŋ.ɡᶣɪs]. This sound change did not apply to /w/ in the same position: uī - vī [wiː].[4]
+/kʷ ɡʷ/ before /u/ may have become [k ɡ] by dissimilation. This is suggested by the fact that equus [ˈɛ.kʷʊs] and unguunt [ˈʊŋ.ɡʷʊnt] (Old Latin equos and unguont) are spelled ecus and ungunt, which may have indicated the pronunciations [ˈɛ.kʊs] and [ˈʊŋ.ɡʊnt]. These spellings may, however, simply indicate that c g before u were labialized like /kʷ ɡʷ/, so that writing a double uu was redundant.[5]
+The voiceless plosives /p t k kʷ/ in Latin were likely less aspirated than voiceless plosives at the beginning of words in English; for example, Latin /k/ was not as strongly aspirated as k in kind but more like k in English sky or look. However, there was no phonemic contrast between voiceless and aspirated plosives in native Latin words, and the voiceless plosives were probably somewhat aspirated at the beginnings of words and near /r/ and /l/.[6][7] Some Greek words beginning with the voiceless plosives /p t k/, when they were borrowed into colloquial Latin, were spelled with the graphemes used to represent voiced plosives b d g /b d ɡ/, e.g., Latin gubernator besides West Greek κυβερνάτας [kʉbernaːtaːs] (cybernatas, helmsman). That suggests that Latin speakers felt the Greek voiceless plosives to sound less aspirated than their own native equivalents.[8]
+The aspirated consonants /pʰ tʰ kʰ/ as distinctive phonemes were originally foreign to Latin, appearing in educated loanwords and names from Greek. In such cases, the aspiration was likely produced only by educated speakers.[6][7]
+/z/ was also not native to Classical Latin. It appeared in Greek loanwords starting around the first century BC, when it was probably pronounced [z] initially and doubled [zz] between vowels, in contrast to Classical Greek [dz] or [zd]. In Classical Latin poetry, the letter ⟨z⟩ between vowels always counts as two consonants for metrical purposes.[9][10]
+In Classical Latin, the coronal sibilant /s/ was likely unvoiced in all positions. In Old Latin, single /s/ between vowels was pronounced as voiced [z] but had changed to /r/ by rhotacism by the time of Classical Latin, as in gerō /ˈɡe.roː/ as compared with gestus /ˈɡes.tus/. Single intervocalic /s/ in Classical Latin usually derives from an earlier double /ss/ after a long vowel or diphthong, as in causa, cāsus from earlier caussa, cāssus;[11] or is found in loanwords, such as pausa from Greek παῦσις (pausis).[citation needed]
+In Old Latin, final /s/ after a short vowel was often lost, probably after first changing to [h] (debuccalization), as in the inscriptional form Cornelio for Cornelios (Classical Latin Cornelius). Often in the poetry of Plautus, Ennius, and Lucretius, final /s/ before a word beginning in a consonant did not make the preceding syllable heavy. By the Classical period this was felt to be somewhat of a marker of non-urban speech by Cicero.[11]
+/f/ was labiodental in Classical Latin, but it may have been bilabial [ɸ] in Old Latin,[12] or perhaps [ɸ] in free variation with [f]. Lloyd, Sturtevant, and Kent make this argument based on certain misspellings in inscriptions, the Proto-Indo-European phoneme *bʰ from which many instances of the Latin f descended (others are from *dʰ and *gʷʰ) and the way the sound appears to have behaved in Vulgar Latin, particularly in Spain.[13]
+In most cases /m/ was pronounced as a bilabial nasal. At the end of a word, however, it was generally lost beginning in Old Latin (except when another nasal or a plosive followed it), causing the preceding vowel to be lengthened and nasalized,[14] as in decem [ˈdɛ.kẽː] listeni. In Old Latin inscriptions, final m is often omitted, as in viro for virom (virom) (Classical virum). It was frequently elided before a following vowel in Latin poetry, and it was lost without a trace (apart from lengthening, possibly) in the Romance languages,[15] except in monosyllabic words, where it's reflected as /n/ or its further developments.
+/n/ assimilated to /m/ before labial consonants as in impār, inpār [ˈɪm.paːr], to [ɱ] before /f/ (when present at all as opposed to representing nasalisation) and to [ŋ] before velar consonants, as in quīnque [ˈkᶣiːŋ.kᶣɛ] listeni.[16] This assimilation, like most other Latin contact processes, occurred regardless of word boundaries, for instance between the preposition in and a following word: in causā [ɪŋ ˈkau̯.saː], in pāce [ɪm ˈpaː.kɛ],[17] as well as between two lexical words: nōmen mātris [ˈnoːmɛmˈmaːtrɪs].
+/ɡ/ assimilated to a velar nasal [ŋ] before /n/.[18] Allen and Greenough say that a vowel before [ŋn] is always long,[19] but W. Sidney Allen says that is based on an interpolation in Priscian, and the vowel was actually long or short depending on the root, as for example rēgnum [ˈreːŋ.nũː] from the root of rēx [reːks], but magnus [ˈmaŋ.nʊs] from the root of magis [ˈma.ɡɪs].[20] /ɡ/ probably did not assimilate to [ŋ] before /m/. The cluster /ɡm/ arose by syncope, as for example tegmen [ˈtɛɡ.mɛn] from tegimen. Original /ɡm/ developed into /mm/ in flamma, from the root of flagrō.[3] At the start of a word, original /gn/ was reduced to [n], and this change was reflected in the orthography in later texts: gnātus [ˈnaː.tʊs] became nātus, gnōscō [ˈnoː.skoː] became nōscō.
+In Classical Latin, the rhotic /r/ was most likely an alveolar trill [r]. Gaius Lucilius likens it to the sound of a dog, and later writers describe it as being produced by vibration. In Old Latin, intervocalic /z/ developed into /r/ (rhotacism), suggesting an approximant like the English [ɹ], and /d/ was sometimes written as /r/, suggesting a tap [ɾ] like Spanish single r.[21]
+/l/ was strongly velarized in syllable coda and probably somewhat palatalized when geminated or followed by /i(ː)/. In intervocalic position, it appears to have been velarized before all vowels except /i(ː)/.[22]
+/j/ generally appeared only at the beginning of words, before a vowel, as in iaceō /ˈja.ke.oː/, except in compound words such as adiaceō /adˈja.ke.oː/ listeni. Between vowels, this sound was generally not found as a single consonant, only as doubled /jː/, as in cuius /ˈkuj.jus/ listeni, except in compound words such as trāiectus /traːˈjek.tus/. This geminate /j:/ is sometimes marked in modern editions by a circumflex on the preceding vowel, e.g. cûius, êius, mâior, etc. The phoneme /j/ varied with /i/ in the same morpheme in iam /jam/ and etiam /ˈe.ti.am/, and in poetry, one could be replaced with the other for the purposes of meter.[23]
+/w/ was pronounced as an approximant until the first century AD, when /w/ and /b/ began to develop into fricatives. In poetry, /w/ and /u/ could be replaced with each other, as in /ˈsi.lu.a/ for silva /ˈsil.wa/ and /ˈɡen.wa/ for genua /ˈɡe.nu.a/. Unlike /j/, it was not doubled as /wː/ or /ww/ between vowels, except in Greek loanwords: cavē /ˈka.weː/, but Evander /ewˈwan.der/ from Εὔανδρος.[24]
+/h/ was apparently still pronounced in Classical Latin, but was probably voiced to [ɦ] between vowels and prone to loss in this environment already at an early stage (compare especially diribeō with rhotacism from *disibeō and earlier *dishibeō).[25]
+Notes on spelling[edit]
+Doubled consonant letters, such as cc, ss, represented geminated (doubled or long) consonants: /kː sː/. In Old Latin, geminate consonants were written singly like single consonants, until the middle of the 2nd century BC, when they began to be doubled in writing.[note 2] Grammarians mention the marking of double consonants with the sicilicus, a diacritic in the shape of a sickle. This mark appears in a few inscriptions of the Augustan era.[26]
+c and k both represent the velar stop /k/; qu represents the labialized velar stop /kʷ/. The letters q and c distinguish minimal pairs between /ku/ and /kʷ/, such as cui /kui̯/ and quī /kʷiː/.[27] In Classical Latin, k appeared in only a few words, such as kalendae or Karthagō (but can also be spelled calendae and Carthagō respectively).[28]
+x represented the consonant cluster /ks/. In Old Latin, this sequence was also spelled as ks, cs, and xs. X was borrowed from the Western Greek alphabet, in which the letterform of chi (Χ) was pronounced as /ks/. In the standard Ionic alphabet, used for modern editions of Ancient Greek, on the other hand, Χ represented /kʰ/, and the letter xi (Ξ) represented /ks/.[29]
+In Old Latin inscriptions, /k/ and /ɡ/ were not distinguished. They were both represented by c before e and i, q before o and u, and k before consonants and a.[2] The letterform of c derives from Greek gamma Γ, which represented /ɡ/, but its use for /k/ may come from Etruscan, which did not distinguish voiced and voiceless plosives. In Classical Latin, c represented /ɡ/ only in c and cn, the abbreviations of the praenomina (first names) Gaius and Gnaeus.[28][30]
+The letter g was created in the third century BC to distinguish the voiced /ɡ/ from voiceless /k/.[31] Its letterform derived from c by the addition of a diacritic or stroke. Plutarch attributes this innovation to Spurius Carvilius Ruga around 230 BC,[2] but it may have originated with Appius Claudius Caecus in the fourth century BC.[32]
+The combination gn probably represented the consonant cluster [ŋn], at least between vowels, as in agnus [ˈaŋ.nʊs] listeni.[14][33] Vowels before this cluster were sometimes long and sometimes short.[20]
+The digraphs ph, th, and ch represented the aspirated plosives /pʰ/, /tʰ/ and /kʰ/. They began to be used in writing around 150 BC,[31] primarily as a transcription of Greek phi Φ, theta Θ, and chi Χ, as in Philippus, cithara, and achāia. Some native words were later also written with these digraphs, such as pulcher, lachrima, gracchus, triumphus, probably representing aspirated allophones of the voiceless plosives near /r/ and /l/. Aspirated plosives and the glottal fricative /h/ were also used hypercorrectively, an affectation satirized in Catullus 84.[6][7]
+In Old Latin, Koine Greek initial /z/ and /zz/ between vowels were represented by s and ss, as in sona from ζώνη and massa from μᾶζα. Around the second and first centuries B.C., the Greek letter zeta Ζ was adopted to represent /z/ and /zz/.[10] However, the Vulgar Latin spellings z or zi for earlier di and d before e, and the spellings di and dz for earlier z, suggest the pronunciation /dz/, as for example ziomedis for diomedis, and diaeta for zeta.[34]
+In ancient times u and i represented the approximant consonants /w/ and /j/, as well as the close vowels /u(ː)/ and /i(ː)/.
+i representing the consonant /j/ was usually not doubled in writing, so a single i represented double /jː/ or /jj/ and the sequences /ji/ and /jːi/, as in cuius for *cuiius /ˈkuj.jus/, conicit for *coniicit /ˈkon.ji.kit/, and rēicit for *reiiicit /ˈrej.ji.kit/. Both the consonantal and vocalic pronunciations of i could occur in some of the same environments: compare māius /ˈmaj.jus/ with Gāius /ˈɡaː.i.us/, and Iūlius /ˈjuː.li.us/ with Iūlus /iˈuː.lus/. The vowel before a doubled /jː/ is sometimes marked with a macron, as in cūius. It indicates not that the vowel is long but that the first syllable is heavy from the double consonant.[23]
+v between vowels represented single /w/ in native Latin words but double /ww/ in Greek loanwords. Both the consonantal and vocalic pronunciations of v sometimes occurred in similar environments, as in genua [ˈɡɛ.nʊ.a] and silva [ˈsɪl.wa].[24][35]
+Vowels[edit]
+Monophthongs[edit]
+Latin has ten native vowels, spelled a, e, i, o, u. In Classical Latin, each vowel had short and long versions: /a e i o u/ and /aː eː iː oː uː/. The long versions of the close and mid vowels e, i, o, u likely had a different vowel quality from the short versions,[note 3] so that long /eː, oː/ were similar to short /i, u/ (see following section). Some loanwords from Greek had the vowel y, which was pronounced as /y yː/ by educated speakers but approximated with the native vowels u and i by less educated speakers.
+Front
+Central
+Back
+long
+short
+short
+long
+short
+long
+Close
+iː
+ɪ
+ʊ
+uː
+Mid
+eː
+ɛ
+ɔ
+oː
+Open
+a aː
+Long and short vowels[edit]
+Each vowel letter (with the possible exception of y) represents at least two phonemes. a can represent either short /a/ or long /aː/, e represents either /e/ or /eː/, etc.
+Short mid vowels /e, o/ and close vowels /i, u/ were pronounced with a different quality from their long counterparts, being also more open: [ɛ], [ɔ], [ɪ] and [ʊ]. This opening made the short vowels i, u [ɪ, ʊ] similar in quality to long ē ō [eː, oː] respectively. i, ē and u, ō were often written in place of each other in inscriptions:[36]
+trebibos for tribibus [ˈtrɪ.bɪ.bʊs]
+minsis for mensis [ˈmẽː.sɪs]
+sob for sub [sʊb]
+punere for pōnere [ˈpoː.næ.rɛ]
+Short /e/ most likely had a more open allophone before /r/ and tended toward near-open [æ].[37]
+Short /e/ and /i/ were probably pronounced closer when they occurred before another vowel. mea was written as mia in inscriptions. Short /i/ before another vowel is often written with i longa, as in dīes, indicating that its quality was similar to that of long /iː/, and it was almost never confused with e in this position.[38]
+Adoption of Greek upsilon[edit]
+y was used in Greek loanwords with upsilon Υ. This letter represented the close front rounded vowel, both short and long: /y yː/.[39] Latin did not have this sound as a distinctive phoneme, and speakers tended to pronounce such loanwords with /u uː/ in Old Latin and /i iː/ in Classical and Late Latin if they were unable to produce /y yː/.
+Sonus medius[edit]
+An intermediate vowel sound (likely a close central vowel [ɨ] or possibly its rounded counterpart [ʉ]), called sonus medius, can be reconstructed for the classical period.[40] Such a vowel is found in documentum, optimus, lacrima (also spelled docimentum, optumus, lacruma) and other words. It developed out of a historical short /u/, later fronted by vowel reduction. In the vicinity of labial consonants, this sound was not as fronted and may have retained some rounding, thus being more similar if not identical to the unreduced short /u/ [ʊ].[41] The Claudian letter Ⱶ ⱶ was possibly invented to represent this sound, but is never actually found used this way in the epigraphic record (it usually served as a replacement for the upsilon).
+Vowel nasalization[edit]
+Examples of nasalized vowels at ends of words and before -ns-, -nf- sequences
+monstrum
+mensis
+infans, infantem
+Problems playing these files? See media help.
+Vowels followed by a nasal consonant were allophonically realised as long nasal vowels in two environments:[42]
+Before word-final m:[15]
+monstrum /ˈmon.strum/ > [ˈmõː.strũː]
+dentem /ˈden.tem/ > [ˈdɛn.tẽː]
+Before nasal consonants followed by a fricative:[17]
+censor /ˈken.sor/ > [ˈkẽː.sɔr] (in early inscriptions, often written as cesor)
+consul /ˈkon.sul/ > [ˈkõː.sʊɫ̪] (often written as cosol and abbreviated as cos)
+inferōs /ˈin.fe.roːs/ > [ˈĩː.fæ.roːs] (written as iferos)
+Those long nasal vowels had the same quality as ordinary long vowels. In Vulgar Latin, the vowels lost their nasalisation, and they merged with the long vowels (which were themselves shortened by that time). This is shown by many forms in the Romance languages, such as Spanish costar from Vulgar Latin cōstāre (originally constāre) and Italian mese from Vulgar Latin mēse (Classical Latin mensem). On the other hand, the short vowel and /n/ were restored, for example, in French enseigne and enfant from insignia and infantem (e is the normal development of Latin short i), likely by analogy with other forms beginning in the prefix in-.[43]
+When a final -m occurred before a plosive or nasal in the next word, however, it was pronounced as a nasal at the place of articulation of the following consonant. For instance, tan dūrum [tan ˈduː.rũː] was written for tam dūrum in inscriptions, and cum nōbīs [kʊn ˈnoː.biːs] was a double entendre,[15] possibly for cunnō bis [ˈkʊnnoː bɪs].
+Diphthongs[edit]
+Diphthongs classified by beginning sound
+Front
+Back
+Close
+ui    ui̯
+Mid
+ei    ei̯eu    eu̯
+oe    oe̯ ~ eː
+Open
+ae    ae̯ ~ ɛːau    au̯
+ae, oe, au, ei, eu could represent diphthongs: ae represented /ae̯/, oe represented /oe̯/, au represented /au̯/, ei represented /ei̯/, and eu represented /eu̯/. ui sometimes represented the diphthong /ui̯/, as in cui listeni and huic.[27] The diphthong ei mostly had changed to ī by the classical epoch; ei remained only in a few words such as the interjection hei.
+If there is a tréma above the second vowel, both vowels are pronounced separately: aë [a.ɛ], aü [a.ʊ], eü [ɛ.ʊ] and oë [ɔ.ɛ]. However, disyllabic eu in morpheme borders is traditionally written without the tréma: meus [ˈmɛ.ʊs] 'my'.
+In Old Latin, ae, oe were written as ai, oi and probably pronounced as [ai̯, oi̯], with a fully closed second element, similar to the final syllable in French travaili. In the late Old Latin period, the last element of the diphthongs was lowered to [e],[44] so that the diphthongs were pronounced [ae̯] and [oe̯] in Classical Latin. They were then monophthongized to [ɛː] and [eː] respectively, starting in rural areas at the end of the Republican period.[note 4] The process, however, does not seem to have been completed before the 3rd century AD, and some scholars say that it may have been regular by the 5th century.[45]
+Vowel and consonant length[edit]
+Vowel and consonant length were more significant and more clearly defined in Latin than in modern English. Length is the duration of time that a particular sound is held before proceeding to the next sound in a word. In the modern spelling of Latin, especially in dictionaries and academic work, macrons are frequently used to mark long vowels: ⟨ā ē ī ō ū ȳ⟩, while the breve is sometimes used to indicate that a vowel is short: ⟨ă ĕ ĭ ŏ ŭ y̆⟩.
+Long consonants were usually indicated through doubling, but ancient Latin orthography did not distinguish between the vocalic and consonantal uses of i and v. Vowel length was indicated only intermittently in classical sources and even then through a variety of means. Later medieval and modern usage tended to omit vowel length altogether. A short-lived convention of spelling long vowels by doubling the vowel letter is associated with the poet Lucius Accius. Later spelling conventions marked long vowels with an apex (a diacritic similar to an acute accent) or, in the case of long i, by increasing the height of the letter (long i); in the second century AD, those were given apices as well.[46] The Classical vowel length system faded in later Latin and ceased to be phonemic in Romance, having been replaced by contrasts in vowel quality. Consonant length, however, remains contrastive in much of Italo-Romance, cf. Italian nono "ninth" versus nonno "grandfather".[47]
+Recording of ānus, annus, anus
+A minimal set showing both long and short vowels and long and short consonants is ānus /ˈaː.nus/ ('anus'), annus /ˈan.nus/ ('year'), anus /ˈa.nus/ ('old woman').
+Table of orthography[edit]
+The letters b, d, f, h, m, n are always pronounced as in English [b], [d], [f], [h], [m], [n] respectively, and they do not usually cause any difficulties. The exceptions are mentioned below:
+Pronunciation of Latin consonants
+Latingrapheme
+Latinphone
+English approximation
+⟨c⟩, ⟨k⟩
+[k]
+Always hard as k in sky, never soft as in cellar, cello, or social. ⟨k⟩ is a letter coming from Greek, but seldom used and generally replaced by c.
+⟨ch⟩
+[kʰ]
+As ch in chemistry, and aspirated; never as in challenge or change and also never as in Bach or chutzpa. Transliteration of Greek ⟨χ⟩, mostly used in Greek loanwords.
+⟨g⟩
+[ɡ]
+Always hard as g in good, never soft as g in gem.
+⟨gn⟩
+[ɡn ~ ŋn]
+As ngn in wingnut.
+⟨i⟩
+[j]
+Sometimes at the beginning of a syllable, as y in yard, never as j in just.
+[jː]
+Doubled between vowels, as y y in toy yacht.
+⟨l⟩
+[l]
+When doubled ⟨ll⟩ or before ⟨i⟩, as clear l in link (l exilis).[48][49]
+[ɫ]
+In all other positions, as dark l in bowl (l pinguis).
+⟨p⟩
+[p]
+As p in spy, never aspirated.
+⟨ph⟩
+[pʰ]
+As p in party, always aspirated; never as in photo when being pronounced in English. Transliteration of Greek ⟨φ⟩, mostly used in Greek loanwords.
+⟨qu⟩
+[kʷ]
+Similar to qu in quick, never as qu in antique. Before ⟨i⟩, like cu in French cuir.
+⟨quu⟩
+[kʷɔ ~ kʷu ~ ku]
+There were two trends: the educated and popular pronunciation. Within educated circles it was pronounced [kʷɔ], evoking the Old Latin pronunciation (equos, sequontur); meanwhile, within popular circles it was pronounced [ku] (ecus, secuntur).[50][51]
+⟨r⟩
+[r]
+As r in Italian and several Romance languages.
+⟨rh⟩
+[r̥]
+As r in Italian and several Romance languages, but voiceless; e.g. diarrhoea ⟨διάῤῥοια⟩. (see Voiceless alveolar trill). Transcription of Greek ῥ, mostly used in Greek loanwords.
+⟨s⟩
+[s]
+As s in say, never as s in rise or measure.
+⟨t⟩
+[t]
+As t in stay, never as t in nation.
+⟨th⟩
+[tʰ]
+As th in thyme, and aspirated; never as in thing, or that. Transliteration of Greek ⟨θ⟩, mostly used in Greek loanwords.
+⟨v⟩
+[w]
+Sometimes at the beginning of a syllable, or after ⟨g⟩ and ⟨s⟩, as w in wine, never as v in vine.
+⟨vu⟩
+[wɔ ~ wu]
+As one is pronounced in some English accents, but without the nasal sound: parvus [ˈpɐr.wɔs], vivunt [ˈwiː.wɔnt]. The spelling vu is post-classical (in order to become regular in spelling).[50][52]
+⟨x⟩
+[k͡s]
+A letter representing ⟨c⟩ + ⟨s⟩, as well as ⟨g⟩ + ⟨s⟩: as x in English axe.
+⟨z⟩
+[d͡z ~ zː]
+As in zoom, never as in pizza (mostly used in Greek loanwords). Transliteration of Greek ⟨ζ⟩.
+Pronunciation of Latin vowels
+Latingrapheme
+Latinphone
+English approximation
+⟨a⟩
+[a]
+Similar to u in cut when short. Transliteration of Greek short ⟨α⟩.
+[aː]
+Similar to a in father when long. Transliteration of Greek long ⟨α⟩.
+⟨e⟩
+[ɛ]
+As e in pet when short. Transliteration of Greek ⟨ε⟩.
+[eː]
+Similar to ey in they when long. Transliteration of Greek ⟨η⟩, and ⟨ει⟩ in some cases.
+⟨i⟩
+[ɪ]
+As i in sit when short. Transliteration of short Greek ⟨ι⟩.
+[iː]
+Similar to i in machine when long. Transliteration of Greek long ⟨ι⟩, and ⟨ει⟩ in some cases.
+⟨o⟩
+[ɔ]
+As o in sort when short. Transliteration of Greek ⟨ο⟩.
+[oː]
+Similar to o in holy when long. Transliteration of Greek ⟨ω⟩, and ⟨ου⟩ in some cases.
+⟨u⟩
+[ʊ]
+Similar to u in put when short.
+[uː]
+Similar to u in true when long. Transliteration of Greek ⟨ου⟩.
+⟨y⟩
+[ʏ]
+As in German Stück when short (or as short u or i) (mostly used in Greek loanwords). Transliteration of Greek short ⟨υ⟩.
+[yː]
+As in German früh when long (or as long u or i) (mostly used in Greek loanwords). Transliteration of Greek long ⟨υ⟩.
+Pronunciation of Latin diphthongs
+Latingrapheme
+Latinphone
+English approximation
+⟨ae⟩
+[ae̯]
+As in aisle. Transliteration of Greek ⟨αι⟩.
+⟨au⟩
+[au̯]
+As in out. Transliteration of Greek ⟨αυ⟩.
+⟨ei⟩
+[ei̯]
+As to ey in they. Transliteration of Greek ⟨ει⟩ in some cases.
+⟨eu⟩
+[eu̯]
+As in Portuguese eu. Transliteration of Greek ⟨ευ⟩.
+⟨oe⟩
+[oe̯]
+As in boy. Transliteration of Greek ⟨οι⟩.
+⟨ui⟩
+[ui̯]
+As in Spanish muy, approximately to hooey.
+⟨yi⟩
+[ʏɪ̯]
+Transliteration of the Greek diphthong ⟨υι⟩.
+Syllables and stress[edit]
+Nature of the accent[edit]
+Although some French and Italian scholars believe that the classical Latin accent was purely a pitch accent, which had no effect on the placing of words in a line of poetry, the view of most scholars is that the accent was a stress accent. One argument for this is that unlike most languages with tonal accents, there are no minimal pairs like ancient Greek φῶς (falling accent) "light" vs. φώς (rising accent) "man" where a change of accent on the same syllable changes the meaning.[53] Among other arguments are the loss of vowels before or after the accent in words such as discip(u)līna and sinist(e)ra; and the shortening of post or pre-accentual syllables in Plautus and Terence by brevis brevians, for example, scansions such as senex and voluptātem with the second syllable short.[54]
+Old Latin stress[edit]
+In Old Latin, as in Proto-Italic, stress normally fell on the first syllable of a word.[55] During this period, the word-initial stress triggered changes in the vowels of non-initial syllables, the effects of which are still visible in classical Latin. Compare for example:
+faciō 'I do/make', factus 'made'; pronounced /ˈfa.ki.oː/ and /ˈfak.tus/ in later Old Latin and Classical Latin.
+afficiō 'I affect', affectus 'affected'; pronounced /ˈaf.fi.ki.oː/ and /ˈaf.fek.tus/ in Old Latin following vowel reduction, /af.ˈfi.ki.oː/ and /af.ˈfek.tus/ in Classical Latin.
+In the earliest Latin writings, the original unreduced vowels are still visible. Study of this vowel reduction, as well as syncopation (dropping of short unaccented syllables) in Greek loan words, indicates that the stress remained word-initial until around the time of Plautus, in the 3rd century BC.[56] The placement of the stress then shifted to become the pattern found in classical Latin.
+Classical Latin syllables and stress[edit]
+See also: Dreimorengesetz
+In Classical Latin, stress changed. It moved from the first syllable to one of the last three syllables, called the antepenult, the penult, and the ultima (short for antepaenultima 'before almost last', paenultima 'almost last', and ultima syllaba 'last syllable'). Its position is determined by the syllable weight of the penult. If the penult is heavy, it is accented; if the penult is light and there are more than two syllables, the antepenult is accented.[57] In a few words originally accented on the penult, accent is on the ultima because the two last syllables have been contracted, or the last syllable has been lost.[58]
+Syllable[edit]
+To determine stress, syllable weight of the penult must be determined. To determine syllable weight, words must be broken up into syllables.[59] In the following examples, syllable structure is represented using these symbols: C (a consonant), K (a stop), R (a liquid), and V (a short vowel), VV (a long vowel or diphthong).
+Nucleus[edit]
+Every short vowel, long vowel, or diphthong belongs to a single syllable. This vowel forms the syllable nucleus. Thus magistrārum has four syllables, one for every vowel (a i ā u: V V VV V), aereus has three (ae e u: VV V V), tuō has two (u ō: V VV), and cui has one (ui: VV).[60]
+Onset and coda[edit]
+A consonant before a vowel or a consonant cluster at the beginning of a word is placed in the same syllable as the following vowel. This consonant or consonant cluster forms the syllable onset.[60]
+fēminae /feː.mi.nae̯/ (CVV.CV.CVV)
+uidēre /wi.deː.re/ (CV.CVV.CV)
+puerō /pu.e.roː/ (CV.V.CVV)
+beātae /be.aː.tae̯/ (CV.VV.CVV)
+grauiter /ɡra.wi.ter/ (CCV.CV.CVC)
+strātum /straː.tum/ (CCCVV.CVC)
+After this, if there is an additional consonant inside the word, it is placed at the end of the syllable. This consonant is the syllable coda. Thus if a consonant cluster of two consonants occurs between vowels, they are broken up between syllables: one goes with the syllable before, the other with the syllable after.[61]
+puella /pu.el.la/ (CV.VC.CV)
+supersum /su.per.sum/ (CV.CVC.CVC)
+coāctus /ko.aːk.tus/ (CV.VVC.CVC)
+intellēxit /in.tel.leːk.sit/ (VC.CVC.CVVC.CVC)
+There are two exceptions. A consonant cluster of a stop p t c b d g followed by a liquid l r between vowels usually goes to the syllable after it, although it is also sometimes broken up like other consonant clusters.[61]
+volucris /wo.lu.kris/ or /wo.luk.ris/ (CV.CV.KRVC or CV.CVK.RVC)
+Heavy and light syllables[edit]
+As shown in the examples above, Latin syllables have a variety of possible structures. Here are some of them. The first four examples are light syllables, and the last six are heavy. All syllables have at least one V (vowel). A syllable is heavy if it has another V or C (or both) after the first V. In the table below, the extra V or VC is bolded, indicating that it makes the syllable heavy.
+V
+C
+V
+C
+C
+V
+C
+C
+C
+V
+C
+V
+V
+C
+V
+C
+C
+V
+V
+C
+V
+V
+V
+C
+V
+V
+C
+Thus, a syllable is heavy if it ends in a long vowel or diphthong, a short vowel and a consonant, a long vowel and a consonant, or a diphthong and a consonant. Syllables ending in a diphthong and consonant are rare in Classical Latin.
+The syllable onset has no relationship to syllable weight; both heavy and light syllables can have no onset or an onset of one, two, or three consonants.
+In Latin a syllable that is heavy because it ends in a long vowel or diphthong is traditionally called syllaba nātūrā longa ('syllable long by nature'), and a syllable that is heavy because it ends in a consonant is called positiōne longa ('long by position'). These terms are translations of Greek συλλαβὴ μακρά φύσει (syllabḕ makrá phýsei = 'syllable long by nature') and μακρὰ θέσει (makrà thései = 'long by proposition'), respectively; therefore positiōne should not be mistaken for implying a syllable "is long because of its position/place in a word" but rather "is treated as 'long' by convention".  This article uses the words heavy and light for syllables, and long and short for vowels since the two are not the same.[61]
+Stress rule[edit]
+In a word of three or more syllables, the weight of the penult determines where the accent is placed. If the penult is light, accent is placed on the antepenult; if it is heavy, accent is placed on the penult.[61] Below, stress is marked by placing the stress mark ⟨ˈ⟩ before the stressed syllable.
+Words with stress on antepenult
+volucris
+fēminae
+puerō
+/ˈwo.lu.kris/
+/ˈfeː.mi.nae̯/
+/ˈpu.e.roː/
+CV.CV.CCVC
+CVV.CV.CVV
+CV.V.CVV
+Words with stress on penult
+volucris
+vidēre
+intellēxit
+beātae
+puella
+coāctus
+CV.CVC.CVC
+CV.CVV.CV
+VC.CVC.CVVC.CVC
+CV.VV.CVV
+CV.VC.CV
+CV.VVC.CVC
+/woˈluk.ris/
+/wiˈdeː.re/
+/in.telˈleːk.sit/
+/beˈaː.tae̯/
+/puˈel.la/
+/koˈaːk.tus/
+Iambic shortening[edit]
+Main article: Brevis brevians
+Iambic shortening or brevis brevians is vowel shortening that occurs in words of the type light–heavy, where the light syllable is stressed. By this sound change, words like egō, modō, benē, amā with long final vowel change to ego, modo, bene, ama with short final vowel.[62]
+The term also refers to shortening of closed syllables following a short syllable, for example quid ĕst, volŭptātem, apŭd iudicem and so on. This type of shortening is found in early Latin, for example in the comedies of Plautus and Terence, but not in poetry of the classical period.
+Elision[edit]
+Where one word ended with a vowel (including the nasalized vowels written am em im um~(om) and the diphthong ae) and the next word began with a vowel, the former vowel, at least in verse, was regularly elided; that is, it was omitted altogether, or possibly (in the case of /i/ and /u/) pronounced like the corresponding semivowel. When the second word was est or es, and possibly when the second word was et, a different form of elision sometimes occurred (prodelision): the vowel of the preceding word was retained, and the e was elided instead. Elision also occurred in Ancient Greek, but in that language, it is shown in writing by the vowel in question being replaced by an apostrophe, whereas in Latin elision is not indicated at all in the orthography, but can be deduced from the verse form. Only occasionally is it found in inscriptions, as in scriptust for scriptum est.[63]
+Modern conventions[edit]
+Spelling[edit]
+Letters[edit]
+Modern usage, even for classical Latin texts, varies in respect of I and V. During the Renaissance, the printing convention was to use  I (upper case) and i (lower case) for both vocalic /i/ and consonantal /j/, to use V in the upper case and in the lower case to use v at the start of words and u subsequently within the word regardless of whether /u/ and /w/ was represented.[64]
+Many publishers (such as Oxford University Press) have adopted the convention of using I (upper case) and i (lower case) for both /i/ and /j/, and V (upper case) and u (lower case) for both /u/ and /w/.
+An alternative approach, less common today, is to use i and u only for the vowels and j and v for the approximants.
+Most modern editions, however, adopt an intermediate position, distinguishing between u and v but not between i and j. Usually, the non-vocalic v after q or g is still printed as u rather than v, probably because in this position it did not change from /w/ to /v/ in post-classical times.[note 5]
+Diacritics[edit]
+Textbooks and dictionaries usually indicate the length of vowels by putting a macron or horizontal bar above the long vowel, but it is not generally done in regular texts. Occasionally, mainly in early printed texts up to the 18th century, one may see a circumflex used to indicate a long vowel where this makes a difference to the sense, for instance, Româ /ˈroːmaː/ ('from Rome' ablative) compared to Roma /ˈroːma/ ('Rome' nominative).[65]
+Sometimes, for instance in Roman Catholic service books, an acute accent over a vowel is used to indicate the stressed syllable. It would be  redundant for one who knew the classical rules of accentuation and made the correct distinction between long and short vowels, but most Latin speakers since the 3rd century have not made any distinction between long and short vowels, but they have kept the accents in the same places; thus, the use of accent marks allows speakers to read a word aloud correctly even if they have never heard it spoken aloud.
+Pronunciation[edit]
+Post-Medieval Latin[edit]
+Main article: Pronunciation of Neo-Latin
+Since around the beginning of the Renaissance period onwards, with the language being used as an international language among intellectuals, pronunciation of Latin in Europe came to be dominated by the phonology of local languages, resulting in a variety of different pronunciation systems. See the article Latin regional pronunciation for more details on those (with the exception of the Italian one, which is described in the section on Ecclesiastical pronunciation below).
+Loan words and formal study[edit]
+When Latin words are used as loanwords in a modern language, there is ordinarily little or no attempt to pronounce them as the Romans did; in most cases, a pronunciation suiting the phonology of the receiving language is employed.
+Latin words in common use in English are generally fully assimilated into the English sound system, with little to mark them as foreign, for example, cranium, saliva.  Other words have a stronger Latin feel to them, usually because of spelling features such as the digraphs ae and oe (occasionally written as ligatures: æ and œ, respectively), which both denote /iː/ in English.  The digraph ae or ligature æ in some words tend to be given an /aɪ/ pronunciation, for example, curriculum vitae.
+However, using loan words in the context of the language borrowing them is a markedly different situation from the study of Latin itself. In this classroom setting, instructors and students attempt to recreate at least some sense of the original pronunciation. What is taught to native anglophones is suggested by the sounds of today's Romance languages,[citation needed] the direct descendants of Latin. Instructors who take this approach rationalize that Romance vowels probably come closer to the original pronunciation than those of any other modern language (see also the section below on "Derivative languages").
+However, other languages—including Romance family members—all have their own interpretations of the Latin phonological system, applied both to loan words and formal study of Latin. But English, Romance, or other teachers do not always point out that the particular accent their students learn is not actually the way ancient Romans spoke.
+Ecclesiastical pronunciation[edit]
+See also: Ecclesiastical Latin
+Since the late 19th and early 20th centuries, an Italianate pronunciation of Latin has grown to be accepted as a universal standard in the Catholic Church. Before then, the pronunciation of Latin in church was the same as the pronunciation of Latin in other fields and tended to reflect the sound values associated with the nationality and native language of the speaker.[66] Other ecclesiastical pronunciations are still in use, especially outside the Catholic Church.
+A guide to this Italianate pronunciation is provided below. Since the letters or letter-combinations b, d, f, m, n, ph, v, x are pronounced as they are in English, they are not included in the table.
+Consonants
+Grapheme
+Pronunciation
+Context
+Example
+English approximation
+⟨c⟩
+[t͡ʃ]
+Before ae, e, i, oe, y
+procella
+change
+[ʃ]
+Before ae, e, i, oe, y and after x
+excellit
+shade
+[k]
+Before a, o, u
+carnem
+sky (never aspirated as in kill)
+⟨ch⟩
+[k]
+Always
+Antiochia
+⟨g⟩
+[d͡ʒ]
+Before ae, e, i, oe, y
+agere
+gem
+[ɡ]
+Before a, o, u
+plaga
+gate
+⟨gn⟩
+[ɲ(ː)]
+Always
+signum
+canyon (roughly); precisely Italian gnocchi
+⟨h⟩
+∅
+In nearly all cases
+hora
+(silent)
+[k]
+Between vowels in a few words
+mihi
+sky (never aspirated as in kill)
+⟨i⟩
+[j]
+Beginning of a word and before a vowel
+ianua
+yard
+[jː]
+Between vowels
+Gaius
+Doubled, as in toy yacht
+⟨k⟩
+[k]
+Always
+kalendae
+sky (never aspirated as in kill)
+⟨l⟩
+[l]
+Always
+paulum
+slip (never 'dark' as in pools)
+⟨p⟩
+[p]
+Always
+praeda
+spy (never aspirated as in pill)
+⟨qu⟩
+[kʷ]
+Always
+atque
+quick (never as in antique)
+⟨r⟩
+[r]
+Always
+regina
+(rolled like Italian or Spanish rana)
+⟨rh⟩
+⟨s⟩
+[s]
+Always (formally)
+sanctum
+sing
+[z]
+Between vowels (informally)
+miser
+tease
+⟨sc⟩
+[ʃ]
+Before ae, e, i, oe, y
+ascendit
+shade
+[sk]
+Before a, o, u
+pascunt
+scare
+⟨t⟩
+[t]
+Generally
+tironibus
+stay (never aspirated as in table nor soft as in nation)
+[t͡s]
+Before unstressed i and not after s/t/x
+nationem
+pizza
+⟨z⟩
+[d͡z]
+Always
+zona
+mad zebra (pronounced quickly)
+Vowels
+Grapheme
+Pronunciation
+English approximation
+⟨a⟩
+[ä]
+father (roughly)
+precisely Spanish ramo
+⟨ae⟩
+[ɛ]/[e]
+pet
+⟨oe⟩
+⟨e⟩
+⟨i⟩
+[i]
+seek
+⟨o⟩
+[ɔ]/[o]
+sort
+⟨u⟩
+[u]
+cool
+⟨y⟩
+[i]
+seek
+Diphthongs
+Grapheme
+Pronunciation
+English approximation
+⟨au⟩
+[au̯]
+out
+⟨ei⟩
+[ɛi̯]
+they
+⟨eu⟩
+[ɛu̯]
+no obvious example;
+roughly EH-oo
+⟨ui⟩
+[ui̯]
+screwy
+Vowel length is not phonemic. As a result, the automatic stress accent of Classical Latin, which was dependent on vowel length, becomes a phonemic one in Ecclesiastical Latin. (Some Ecclesiastical texts mark the stress with an acute accent in words of three or more syllables.)
+Word-final m and n are pronounced fully, with no nasalization of the preceding vowel.
+In his Vox Latina: A guide to the Pronunciation of Classical Latin, William Sidney Allen remarked that this pronunciation, used by the Catholic Church in Rome and elsewhere, and whose adoption Pope Pius X recommended in a 1912 letter to the Archbishop of Bourges, "is probably less far removed from classical Latin than any other 'national' pronunciation"; but, as can be seen from the table above, there are, nevertheless, very significant differences.[67] The introduction to the Liber Usualis indicates that Ecclesiastical Latin pronunciation should be used at Church liturgies.[68] The Pontifical Academy for Latin is the pontifical academy in the Vatican that is charged with the dissemination and education of Catholics in the Latin language.
+Outside of Austria, Germany, Czechia and Slovakia, it is the most widely used standard in choral singing which, with a few exceptions like Stravinsky's Oedipus rex, is concerned with liturgical texts.[citation needed] Anglican choirs adopted it when classicists abandoned traditional English pronunciation after World War II. The rise of historically informed performance and the availability of guides such as Copeman's Singing in Latin has led to the recent revival of regional pronunciations.
+Pronunciation shared by Vulgar Latin and Romance languages[edit]
+Further information: Phonological changes from Classical Latin to Proto-Romance, Vulgar Latin, and Romance languages
+Because it gave rise to many modern languages, Latin did not "die"; it merely evolved over the centuries in different regions in diverse ways. The local dialects of Vulgar Latin that emerged eventually became modern Italian, Spanish, French, Romanian, Portuguese, Catalan, Romansh, Dalmatian, Sardinian, and many others.
+Key features of Vulgar Latin and Romance languages include:
+Total loss of /h/ as well as the loss, in polysyllabic words, of final /m/.
+Conversion of the distinction of vowel length into a distinction of height, and subsequent merger of some of these phonemes. Most Romance languages merged short /u/ with long /oː/ and short /i/ with long /eː/.
+Monophthongization of /ae̯/ into /ɛː/ and /oe̯/ into /eː/.
+Loss of marginal phonemes such as aspirates (/pʰ/, /tʰ/, /kʰ/, generally replaced by /f/, /t/, /k/) and the close front-rounded vowel (/y/, generally replaced by /i/).
+Loss of /n/ before /s/[69] (CL spōnsa > VL spōsa) but this influence on the later development of Romance languages was limited from written influence, analogy, and learned borrowings.[70]
+Palatalization of /k/ before /e/ and /i/ (not in all varieties), probably first into /kʲ/ and then /tʲ/ before it finally developed into /ts/ or /tʃ/.[71]
+Palatalization of /ɡ/ before /e/ and /i/, merging with /j/, which could develop into an affricate [dʒ], and then further into [ʒ] in some Romance varieties.[71]
+Palatalization of /ti/ followed by a vowel (if not preceded by s, t, x) into /tsj/. It merged with /ts/ in dialects in which /k/ had developed into this sound, but it remained separate elsewhere (such as Italian).
+Palatalization of /li/ and /ni/ followed by a vowel into [ʎ] and [ɲ].
+Fortition of syllable-initial /w/ into /β/, developing further into [v] in many Romance varieties, or sometimes alternatively into [b] in some contexts.
+Lenition of /b/ between vowels into [β], developing further into [v] in many Romance varieties.
+Examples[edit]
+The following examples are both in verse, which demonstrates several features more clearly than prose.
+From Classical Latin[edit]
+Virgil's Aeneid, Book 1, verses 1–4. Quantitative metre (dactylic hexameter). Translation: "I sing of arms and the man, who, driven by fate, came first from the borders of Troy to Italy and the Lavinian shores; he [was] much afflicted both on lands and on the deep by the power of the gods, because of fierce Juno's vindictive wrath."
+Recording of first four lines of Aeneid in reconstructed Classical Latin pronunciation
+Ancient Roman orthography (before 2nd century)[note 6]
+ARMA·VIRVMQVE·CANÓ·TRÓIAE·QVꟾ·PRꟾMVS·ABÓRꟾS
+ꟾTALIAM·FÁTÓ·PROFVGVS·LÁVꟾNIAQVE·VÉNIT
+LꟾTORA·MVLTVM·ILLE·ETTERRꟾS·IACTÁTVS·ETALTÓ
+Vꟾ·SVPERVM·SAEVAE·MEMOREM·IV́NÓNIS·OBꟾRAM
+Traditional (19th century) English orthography
+Arma virúmque cano, Trojæ qui primus ab oris
+Italiam, fato profugus, Lavíniaque venit
+Litora; multùm ille et terris jactatus et alto
+Vi superum, sævæ memorem Junonis ob iram.
+Modern orthography with macrons
+Arma virumque canō, Trōiae quī prīmus ab ōrīs
+Ītaliam, fātō profugus, Lāvīniaque vēnit
+Lītora; multum ille et terrīs iactātus et altō
+Vī superum, saevae memorem Iūnōnis ob īram.
+Modern orthography without macrons
+Arma virumque cano, Troiae qui primus ab oris
+Italiam, fato profugus, Laviniaque venit
+Litora; multum ille et terris iactatus et alto
+Vi superum, saevae memorem Iunonis ob iram.
+[Reconstructed] Classical Roman pronunciation
+[ˈar.ma wɪ|ˈrũː.kᶣɛ ˈka|noː ˈtroː|jae̯ kᶣiː |ˈpriː.mʊs‿a‖ˈb‿oː.riːs
+iː.ˈta.li|ãː ˈfaː|toː ˈprɔ.fʊ|ɡʊs laː|ˈwiː.nja.kᶣɛ ‖ˈweː.nɪt
+ˈliː.tɔ.ra | ˈmʊɫ.t(ᶣ)‿ɪl|l‿ɛt ˈtɛr|riːs jak|ˈtaː.tʊ.s‿ɛ‖ˈt.aɫ.toː
+wiː ˈsʊ.pæ|rũː ˈsae̯|wae̯ ˈmɛ.mɔ|rẽː juː|ˈnoː.nɪ.s‿ɔ‖ˈb‿iː.rãː]
+Note the elisions in mult(um) and ill(e) in the third line. For a fuller discussion of the prosodic features of this passage, see Dactylic hexameter.
+Some manuscripts have "Lāvīna" rather than "Lāvīnia" in the second line.
+From Medieval Latin[edit]
+Beginning of Pange Lingua Gloriosi Corporis Mysterium by Thomas Aquinas (13th century). Rhymed accentual metre. Translation: "Extol, [my] tongue, the mystery of the glorious body and the precious blood, which the fruit of a noble womb, the king of nations, poured out as the price of the world."
+Traditional orthography as in Roman Catholic service books (stressed syllable marked with an acute accent on words of three syllables or more).
+Pange lingua gloriósi
+Córporis mystérium,
+Sanguinísque pretiósi,
+quem in mundi prétium
+fructus ventris generósi
+Rex effúdit géntium.
+Italianate ecclesiastical pronunciation (broadly transcribed):
+[ˈpand͡ʒe ˈliŋɡwa ɡlori'osi
+ˈkorporis misˈterium
+saŋɡwiˈniskwe pret͡si'osi
+kwem in ˈmundi ˈpret͡sium
+ˈfruktus ˈventris d͡ʒeneˈrosi
+reks efˈfudit ˈd͡ʒent͡sium]
+See also[edit]
+Latin alphabet
+Latin grammar
+Latin regional pronunciation
+Traditional English pronunciation of Latin
+Deutsche Aussprache des Lateinischen (in German) – traditional German pronunciation
+Schulaussprache des Lateinischen (in German) – revised "school" pronunciation
+Traditional French pronunciation (in French)
+Notes[edit]
+^ Appivs ClavdivsC(ai) f(ilivs) Caecvscensor co(n)s(vl) bis dict(ator) interrex IIIpr(aetor) II aed(ilis) cvr(vlis) II q(vaestor) tr(ibvnvs) mil(itvm) III com(-)plvra oppida de( )Samnitibvs cepitSabinorvm et Tvscórvm exerci(-)tvm fvdit pácem fierí cvm Pyrrhorege prohibvit in censvra viamAppiam stravit etaqvam invrbem( )addvxit aedem Bellonaefecit
+^ epistula ad tiburtes, a letter by praetor Lucius Cornelius from 159 BC, contains the first examples of doubled consonants in the words potuisse, esse, and peccatum (Clackson & Horrocks 2007, pp. 147, 149).
+^ There is, however, a minority view that the short high vowels <ĭ, ŭ> were tense [i, u] and that the long mid vowels <ē, ō> were lax [ɛː, ɔː] (Calabrese, 2005).
+^ The simplification was already common in rural speech as far back as the time of Varro (116 BC – 27 BC): cf. De lingua Latina, 5:97 (referred to in Smith 2004, p. 47).
+^ This approach is also recommended in the help page for the Latin Wikipedia.
+^ "The word-divider is regularly found on all good inscriptions, in papyri, on wax tablets, and even in graffiti from the earliest Republican times through the Golden Age and well into the Second Century. ... Throughout these periods the word-divider was a dot placed half-way between the upper and the lower edge of the line of writing. ... As a rule, interpuncta are used simply to divide words, except that prepositions are only rarely separated from the word they govern, if this follows next. ... The regular use of the interpunct as a word-divider continued until sometime in the Second Century, when it began to fall into disuse, and Latin was written with increasing frequency, both in papyrus and on stone or bronze, in scriptura continua." Wingo 1972, pp. 15, 16
+References[edit]
+^ Covington, Michael. (2019). Latin Pronunciation Demystified.
+^ a b c Sihler 1995, pp. 20–22, §25: the Italic alphabets
+^ a b Allen 1978, p. 25
+^ Allen 1978, p. 17
+^ Allen 1978, pp. 19, 20
+^ a b c Allen 1978, pp. 26, 27
+^ a b c Clackson & Horrocks 2007, p. 190
+^ Allen 1978, pp. 12, 13
+^ Levy, p. 150 harvnb error: no target: CITEREFLevy (help)
+^ a b Allen 1978, pp. 45, 46
+^ a b Allen 1978, pp. 35–37
+^ Allen 1978, pp. 34, 35
+^ Lloyd 1987, p. 80
+^ a b Lloyd 1987, p. 81
+^ a b c Allen 1978, pp. 30, 31
+^ Lloyd 1987, p. 84
+^ a b Allen 1978, pp. 27–30
+^ Allen 1978, pp. 23–25
+^ Allen & Greenough 2001, §10d
+^ a b Allen 1978, pp. 71–73
+^ Allen 1978, p. 33
+^ Cser 2020: §4.9. In footnote 206, he adds: "The evidence has been thoroughly assessed in the diachronic literature; see Sen (2012: 472–3; 2015: 15 sqq.), Meiser (1998: 68–9), Leumann (1977: 85–7)."
+^ a b Allen 1978, pp. 37–40
+^ a b Allen 1978, pp. 40–42
+^ Allen 1978, pp. 43–45
+^ Allen 1978, p. 11
+^ a b Allen 1978, p. 42
+^ a b Allen 1978, pp. 15, 16
+^ Allen 1978, p. 45
+^ Allen & Greenough, §1a harvnb error: no target: CITEREFAllenGreenough (help)
+^ a b Clackson & Horrocks 2007, p. 96
+^ Allen 1978, p. 15
+^ Allen 1978, p. 23
+^ Sturtevant 1920, pp. 115–116
+^ Allen & Greenough 2001, §6d, 11c
+^ Allen 1978, pp. 47–49
+^ Allen 1978, p. 51
+^ Allen 1978, pp. 51, 52
+^ Allen 1978, p. 52
+^ Allen 1978, p. 56
+^ Allen 1978, p. 59
+^ Clackson 2008, p. 77
+^ Allen 1978, pp. 55, 56
+^ Ward 1962
+^ Clackson & Horrocks 2007, pp. 273, 274
+^ Allen 1978, pp. 65
+^ "Pronouncing Italian double consonants". www.italianlanguageguide.com. Retrieved 2019-03-03.
+^ Sihler 2008, p. 174 harvnb error: no target: CITEREFSihler2008 (help).
+^ Allen 2004, pp. 33–34 harvnb error: no target: CITEREFAllen2004 (help)
+^ a b Traina; Perini (1998), pp. 62–63 {{citation}}: Missing or empty |title= (help)
+^ Traina, Alfonso (2002). L'alfabeto e la pronunzia del latino (5 ed.). Bologna: Pàtron. pp. 44 and 59–60.. Traina cites various sources: Quintilianus (I, 7, 26) certifies that his teachers had the group 'vo' written in its epoch by now writing 'vu'; Velio Longo (VII 58 K.) attests the spelling 'quu' pronounced [ku]; various inscriptions from different periods even show the spelling 'cu' for 'quu'.
+^ Traina, Alfonso (2002). L'alfabeto e la pronunzia del latino (5 ed.). Bologna: Pàtron. pp. 44 and 59–60.. Traina cites various sources: Quintilianus (I, 7, 26) certifies that his teachers had the group 'vo' written in its epoch by now writing 'vu'; Velio Longo (VII 58 K.) attests the spelling 'quu' pronounced [ku]; various inscriptions from different periods even show the spelling 'cu' for 'quu'.
+^ W. C. de Melo (2007), Review: Cesare Questa, La metrica di Plauto e Terenzio. Bryn Mawr Classical Review.
+^ W. Sidney Allen (1978), Vox Latina, 2nd edition, pp. 85–86.
+^ Fortson 2004, p. 254 harvnb error: no target: CITEREFFortson2004 (help)
+^ Sturtevant 1920, pp. 207–218
+^ Allen 1978, p. 83
+^ Allen 1978, p. 87
+^ Allen & Greenough 2001, §11
+^ a b Allen et al. harvnb error: no target: CITEREFAllenGreenough2001§7 (help)
+^ a b c d Allen 1978, pp. 89–92
+^ Allen 1978, p. 86
+^ Allen & Greenough 2001, p. 400, section 612 e, f
+^ For example, Henri Estienne's Dictionarium, seu Latinae linguae thesaurus (1531)
+^ Gilbert 1939
+^ Brittain 1955.
+^ Allen 1978, p. 108
+^ Liber Usualis, p. xxxvj
+^ Allen 1978, pp. 28–29
+^ Allen 1978, p. 119
+^ a b Pope 1952, chapter 6, §4
+Bibliography[edit]
+Alkire, Ti; Rosen, Carol (2010). Romance Languages: A Historical Introduction. Cambridge University Press. ISBN 978-0521889155.
+Allen, William Sidney (1978) [1965]. Vox Latina—a Guide to the Pronunciation of Classical Latin (2nd ed.). Cambridge University Press. ISBN 0-521-37936-9.
+Allen, William Sidney (1987). Vox Graeca: The Pronunciation of Classical Greek. Cambridge University Press. ISBN 978-0521335553.
+Allen, Joseph A.; Greenough, James B. (2001) [1903]. Mahoney, Anne (ed.). New Latin Grammar for Schools and Colleges. Newburyport, Massachusetts: R. Pullins Company. ISBN 1-58510-042-0.
+Brittain, Frederick (1955). Latin in Church. The History of its Pronunciation (2nd ed.). Mowbray.
+Clackson, James; Horrocks, Geoffrey (2007). The Blackwell History of the Latin Language. Oxford, UK: Blackwell Publishing. ISBN 978-1-4051-6209-8.
+Clackson, James (2008). "Latin". In Roger D. Woodard (ed.). The Ancient Languages of Europe. Cambridge University Press. ISBN 978-0-521-68495-8.
+Cser, András (2020). "The phonology of Classical Latin". Transactions of the Philological Society. Publications of the Philological Society. 118: 1–218. doi:10.1111/1467-968X.12184. S2CID 219404384.
+Gilbert, Allan H (June 1939). "Mock Accents in Renaissance and Modern Latin". Publications of the Modern Language Association of America. 54 (2): 608–610. doi:10.2307/458579. JSTOR 458579.
+Hayes, Bruce (1995). Metrical stress theory: principles and case studies. University of Chicago. ISBN 9780226321042.
+Levy, Harry L. (1989). A Latin Reader for Colleges. University of Chicago Press.
+Lloyd, Paul M. (1987). From Latin to Spanish. Diane Publishing. ISBN 978-0-87169-173-6.
+Neidermann, Max (1945) [1906]. Précis de phonétique historique du latin (2 ed.). Paris.{{cite book}}:  CS1 maint: location missing publisher (link)
+McCullagh, Matthew (2011). "The Sounds of Latin: Phonology". In James Clackson (ed.). A Companion to the Latin Language. Blackwell Publishing. ISBN 978-1405186056.
+Pekkanen, Tuomo (1999). Ars grammatica—Latinan kielioppi (in Finnish and Latin) (3rd-6th ed.). Helsinki: Helsinki University Press. ISBN 951-570-022-1.
+Pope Pius X (November 22, 1903). "Tra le Sollecitudini". Rome, Italy: Adoremus. Retrieved 15 June 2013.
+Pope, M. K. (1952) [1934]. From Latin to Modern French with especial consideration of Anglo-Norman (revised ed.). Manchester: Manchester University Press.
+Sihler, Andrew L. (1995). New Comparative Grammar of Greek and Latin. Oxford: Oxford University Press. ISBN 0-19-508345-8.
+Smith, Jane Stuart (2004). Phonetics and Philology: Sound Change in Italic. Oxford University Press. ISBN 0-19-925773-6.
+Sturtevant, Edgar Howard (1920). The pronunciation of Greek and Latin. Chicago: University of Chicago Press.
+Ward, Ralf L. (June 1962). "Evidence For The Pronunciation Of Latin". The Classical World. 55 (9): 273–275. doi:10.2307/4344896. JSTOR 4344896.
+Wingo, E. Otha (1972). Latin Punctuation in the Classical Age. De Gruyter Mouton. ISBN 978-9027923233.
+Further reading[edit]
+Hall, William Dawson, and Michael De Angelis. 1971. Latin Pronunciation According to Roman Usage. Anaheim, CA: National Music Publishers.
+Trame, Richard H. 1983. "A Note On Latin Pronunciation." The Choral Journal 23, no. 5: 29. https://www.jstor.org/stable/23546146.Copy
+External links[edit]
+Wikimedia Commons has media related to Latin pronunciation.
+phonetica latinæ: Classical and ecclesiastical Latin pronunciation with audio examples
+"Ecclesiastical Latin". Catholic Encyclopedia. 1910.
+Lord, Frances Ellen (2007) [1894]. The Roman Pronunciation of Latin: Why we use it and how to use it. Gutenberg Project.
+glottothèque - Ancient Indo-European Grammars online, an online collection of video lectures on Ancient Indo-European languages, including lectures about the phonology and writing systems of Early Latin
+vtePhonologies of the world's languages
+Phonologies
+Orthographies
+Grammars
+Adjectives
+Determiners
+Nouns
+Prepositions
+Pronouns
+Verbs
+A–E
+Abkhaz
+Acehnese
+Adyghe
+Afrikaans
+American Sign Language
+Arabic
+Modern Standard
+Egyptian
+Hejazi
+Levantine
+Tunisian
+Avestan
+Belarusian
+Bengali
+Bulgarian
+Burmese
+Catalan
+Chinese
+Mandarin
+Cantonese
+Old
+Historical
+Chukchi
+Cornish
+Czech
+Danish
+Dutch
+Standard
+Orsmaal-Gussenhoven dialect
+English
+Australian
+General American
+New Zealand
+Received Pronunciation
+Regional North American
+South African
+Standard Canadian
+Old
+Middle
+Esperanto
+Estonian
+F–L
+Faroese
+Finnish
+French
+Parisian
+Quebec
+Galician
+German
+Standard
+Bernese
+Greek
+Standard Modern
+Ancient
+Koine
+Greenlandic
+Gujarati
+Hawaiian
+Hebrew (Modern)
+Hindustani
+Hungarian
+Icelandic
+Ingrian
+Inuit
+Irish
+Italian
+Japanese
+Kiowa
+Konkani
+Korean
+Kurdish
+Kyrgyz
+Latgalian
+Latin
+Latvian
+Limburgish
+Maastrichtian
+Lithuanian
+Luxembourgish
+M–S
+Macedonian
+Malay
+Maldivian
+Māori
+Marathi
+Massachusett
+Medumba
+Navajo
+Nepali
+Norwegian
+Occitan
+Ojibwe
+Old Saxon
+Oromo
+Ottawa
+Pashto
+Persian
+Polish
+Portuguese
+Proto-Indo-European
+Ripuarian
+Colognian
+Kerkrade dialect
+Romanian
+Russian
+Sardinian
+Scots
+Scottish Gaelic
+Serbo-Croatian
+Slovak
+Slovene
+Somali
+Sotho
+Spanish
+Dialects and varieties
+Swedish
+T–Z
+Tagalog
+Tamil
+Taos
+Turkish
+Ubykh
+Ukrainian
+Upper Sorbian
+Uyghur
+Vietnamese
+Welsh
+West Frisian
+Yiddish
+Zuni
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Latin_phonology_and_orthography&oldid=1173222502"
+Categories: Latin languageItalic phonologiesIndo-European Latin-script orthographiesHidden categories: Pages using the Phonos extensionArticles containing Latin-language textHarv and Sfn no-target errorsCS1 errors: missing titleArticles with short descriptionShort description is different from WikidataArticles needing additional references from June 2009All articles needing additional referencesArticles containing Ancient Greek (to 1453)-language textAll articles with unsourced statementsArticles with unsourced statements from January 2015Articles with hAudio microformatsArticles containing Spanish-language textArticles containing Italian-language textArticles containing French-language textArticles containing Greek-language textArticles with unsourced statements from October 2014Articles with unsourced statements from December 2020Articles with German-language sources (de)Articles with French-language sources (fr)CS1 maint: location missing publisherCS1 Finnish-language sources (fi)CS1 Latin-language sources (la)CS1: Julian–Gregorian uncertaintyCommons link is on Wikidata
+ This page was last edited on 1 September 2023, at 01:48 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

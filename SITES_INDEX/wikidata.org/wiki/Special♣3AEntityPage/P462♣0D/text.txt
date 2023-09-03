@@ -1,0 +1,148 @@
+color - Wikidata
+color
+(P462)
+From Wikidata
+Jump to navigation
+Jump to search
+color of subjectcolourcolorscolourshas colorhas colourpigmentdyehas the colourhas the colorof the colorof the colourwith the colourwith the color
+Language
+Label
+Description
+Also known as
+English
+color
+color of subject
+colourcolorscolourshas colorhas colourpigmentdyehas the colourhas the colorof the colorof the colourwith the colourwith the color
+Data type
+Item
+Statements
+instance of
+Wikidata property for perceptual properties
+0 references
+Wikidata property related to color
+0 references
+Wikidata property used as "depicts" (P180) qualifier on Commons
+0 references
+Wikidata item of this property
+color
+0 references
+Wikidata property example
+charcoal
+color
+black
+0 references
+12 Angry Men
+color
+black and white
+0 references
+World on a Wire
+color
+color
+0 references
+inverse label item
+has this color
+0 references
+property usage tracking category
+Category:Pages using Wikidata property P462
+0 references
+category for value same as Wikidata
+Q42533415
+0 references
+stability of property value
+sometimes changes  / sometimes unstable identifier
+0 references
+related property
+flower color
+0 references
+sRGB color hex triplet
+0 references
+hair color
+0 references
+eye color
+0 references
+official color
+1 reference
+Wikimedia import URL
+https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/official_color&oldid=834132717
+property proposal discussion
+https://www.wikidata.org/wiki/Wikidata:Property_proposal/Archive/6#P462
+0 references
+Constraints
+property constraint
+value-type constraint
+class
+color
+color
+relation
+instance or subclass of
+0 references
+none-of constraint
+item of property constraint
+black-and-white photographic film
+replacement value
+black and white
+0 references
+none-of constraint
+item of property constraint
+color
+color
+replacement value
+color
+0 references
+conflicts-with constraint
+property
+instance of
+item of property constraint
+human
+musical work
+album
+single
+0 references
+none-of constraint
+item of property constraint
+light skin
+dark skin
+olive skin
+African Americans
+Black people
+0 references
+property scope constraint
+property scope
+as main value
+as qualifier
+0 references
+allowed-entity-types constraint
+item of property constraint
+Wikibase item
+Wikibase MediaInfo
+0 references
+Retrieved from "https://www.wikidata.org/w/index.php?title=Property:P462&oldid=1885908319"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+PropertyDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Download as PDFPrintable version
+ This page was last edited on 30 April 2023, at 16:47.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

@@ -1,0 +1,105 @@
+Scholia
+Author
+      Work
+    
+Work
+Venue
+Series
+Catalogue
+Publisher
+Printer
+      Organization
+    
+Organization
+Publisher
+Printer
+Sponsor
+      Location
+    
+Location
+Country
+      Event
+    
+Event
+Event series
+      Project
+    
+Clinical trial
+Project
+Award
+      Topic
+    
+General
+Disease
+Taxon
+Gene
+Protein
+Pathway
+Chemical
+Chemical element
+Chemical class
+Lexeme
+Ontology
+Software
+Use
+      Tools
+    
+Arxiv to Quickstatements
+Q to Bibliography templates
+Text to topics
+      Help
+    
+About
+Statistics
+FAQ
+Improve data
+Topic
+Reasonator
+SQID
+The topic in context
+Recently published works on the topic 
+Publications per year
+Earliest published works on the topic
+Authors
+Authors publishing about the topic
+Author score
+Authors scored according to field of work, publications within the topic
+and citing works within the topic.
+Missing authors here?
+Then go to the
+curation
+page to resolve the author names.
+Co-author graph
+The 25 most prolific authors and some of their key co-authors.
+Awards received by authors who published on the topic
+Topics
+Co-occurring topics
+Co-occurring topics graph
+Only a maximum of the 400 most often occuring links are shown.
+Co-occurring topics map
+Uses
+Venues and series publishing works about the topic
+Citations
+Works cited from works on the topic
+Authors cited from works on the topic
+Map of organizations associated with works about the topic
+The colours indicate how many publications on the topic are associated with organizations in the given location, as detailed in the legend (top right).
+Citation graph of works about the topic, aggregated by country
+The graph indicates the countries associated with organizations whose authors have published works on the topic, and indicates the most cited countries (arrowheads) as well as the countries they are most frequently cited from.
+    Data from Wikidata and
+    English Wikipedia
+    |
+    Code from
+    GitHub repository
+    |
+    Hosted on   Wikimedia Toolforge,
+    a Wikimedia Foundation service
+    |
+    License for content: CC0 for data, CC-BY-SA for text and media
+    |
+    Report technical problems at Scholia's
+    Issues GitHub page.
+    |
+    Follow us on Mastodon or
+Twitter.
+    

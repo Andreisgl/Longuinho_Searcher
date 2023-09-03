@@ -1,0 +1,426 @@
+User:Magnus Manske/quick statements2 - Wikidata
+User:Magnus Manske/quick statements2
+From Wikidata
+< User:Magnus Manske
+Jump to navigation
+Jump to search
+This is an informal brainstorming page to collect ideas for a version 2 of QuickStatements (aka QS). The underlying assumption here is a complete rewrite of the tool from scratch, allowing backwards compatibility to the current version without being limited by it. All constructive suggestions are welcome, no promises as to implementation!
+See also current QS issues on bitbucket, includes feature requests, which should probably be copied here to get a better overview.
+Contents
+1 PRE-ALPHA VERSION IS UP FOR TESTING
+2 Initialising
+3 Interface
+4 Bugfixes for V1
+5 Requirements over current version
+5.1 Reconciliation
+5.2 Avoid duplication
+6 Thoughts on Code and implementation
+6.1 Model
+6.2 Internal JSON format
+7 Documentation for v2
+8 Upload report for batch uploads
+9 Removing a property does not seem to work
+10 Add multiple sources in one claim
+11 Ability to export QS batch to tab/csv
+12 Petscan to QS
+13 Can't submit literals in CSV format?
+14 QuickStatements for Commons
+15 Removing a property does not seem to work
+16 Hitting wall in removing P:1552 from category using Petscan.
+17 Adding a single qualifier multiple times
+18 Bug in line 16
+19 Is there a bug logging in?
+20 Other problem logging in
+21 TSV copy/paste import not implemented
+22 50% error rate solved after repeated retry
+23 Interactive session not responding
+24 Extremely low execution speed
+25 Impossible to switch back and forth to offline batch mode once interactive mode is started
+26 Adding multiple statements with identical properties & values, but different qualifiers
+27 Process URL encoded values
+28 Troubleshooting
+29 Batches not being seen
+30 Errors adding identifiers
+31 How to troubleshoot
+32 QuickStatements API cannot write date statements?
+33 Removing Lexeme forms grammatical features
+34 Add identifier if it isn't added already
+35 Advice on fixing errors
+36 Unable to add statement and reference in same batch?
+37 Bug: "Undefined index: new_statement"
+38 Slow CSV Import?
+39 Value case insensitive
+40 phab:T334313
+41 broken CSV import?
+42 "Update Wikidata" from mix'n'match to quickstatements
+43 V1 vs. CSV
+44 Need help reverting my first batch
+PRE-ALPHA VERSION IS UP FOR TESTING[edit]
+I have started implementing a new version here. It should be able to perform all the version 1 commands (see "import commands"). Co-developers welcome!
+CAUTION! The code is mostly untested and under heavy development. It might nuke Wikidata and steal your lunch. Try it on the Sandbox item (Wikidata Sandbox (Q4115189)) only, for now.
+Initialising[edit]
+Keep import for tab-delimited (V1) but also allow for other paste/upload formats (CSV, JSON?) (issue)
+Some form of API
+"Upload" a list of commands to be done by a bot, to eliminate the necessity of keeping a browser window open/having continued internet access. This could be done through the proposed API. Would require an interface to emergency-stop QS bot edits for a single user (not blocking the entire bot).
+Integration with the Wikipedia and Wikidata tools plugin for Chrome. Once the statements are prepared with the proper qids, push a button to launch quickstatements. Similar to the workflow with sourceMD and references. Andrawaag (talk) 18:27, 17 November 2016 (UTC)Reply[reply]
+Moving this here, as it is a way to initialise QuickStatements. This would be JS code in the Chrome plugin for the most part, right? --Magnus Manske (talk) 18:36, 17 November 2016 (UTC)Reply[reply]
+Fantastic idea, I'm all for this. Pinging @Tomayac: Spinster 💬   18:30, 20 November 2016 (UTC)Reply[reply]
+Seeing this only now. Please email me at tomac@google.com with concrete asks and details on this request, or open a GitHub issue on the project page.
+Interface[edit]
+STOP (or pause) button  Done
+It should be possible to add multiple references to a statement. ProteinBoxBot is a good example of good references made up from multiple statements. ChristianKl (talk) 10:20, 17 November 2016 (UTC)Reply[reply]
+Make the UI a table view instead of a single text field. ChristianKl (talk) 10:18, 17 November 2016 (UTC)  DoneReply[reply]
+I would imagine a table at least as an intermediate page, but there need to be ways to get a large number of commands in to populate the table. Maybe start with a table, but have a "import QS1 commands"? --Magnus Manske (talk) 10:33, 17 November 2016 (UTC)Reply[reply]
+Multi-language interface via ToolTranslate  Done
+"Fuzzy matching" mode (request). Would presumably trigger an intermediate interface step between uploading/submitting and executing.
+Duplicate functionality from PetScan (same small set of operations, done on a lot of items)?
+"Interactive mode": Show an intermediate table (row=item, column=operation), let the user edit the values. As part of this:
+Query-style autocomplete for item/property names, replace with Q number.  Done
+Columns with "show" values (e.g. for translation; show columns with English label, edit column with French label)
+"third-party match": Give a list of values for property X, matched to values for property Y; get a list of items, with Y values filled in for the respective X
+When a statement is not understood (typically because the user made a syntax error), output an error about it. Syntax highlighting would be wonderful but I guess it is too difficult to implement.
+Not sure if it should be in the tool or not but it would be a really helpful addition to one of the tools if you automatically match things like names of countries and other common terms to their Q numbers that you have to match to import data about existing items. John Cummings (talk) 21:57, 20 November 2016 (UTC)Reply[reply]
+Pending / Done counter at the bottom of the page should have error counter too. Also stop on error functionality would be nice.Zache (talk) 13:07, 14 February 2017 (UTC)Reply[reply]
+Doing the same action for many items more easily:
+Instead of writing: Qx|Q17|Q801||Qa|Q17|Q801||Qb|Q17|Q801||Qc|Q17|Q801.... ==> Qx,Qa,Qb|Q17|Q801. 
+Possible? Thanks.Mikey641 (talk) 14:57, 2 April 2017 (UTC)Reply[reply]
+Bugfixes for V1[edit]
+Restarting web browser runs QuickStatements again (issue)  Done in V2
+Better parsing of date/time
+Quantities with decimal point are extended with many additional digits. (For instance 0.641 becomes 0.6410000000000000142108547152020037174224853515625) 123 (talk) 19:58, 9 April 2017 (UTC)Reply[reply]
+Using LAST as target of a claim works in QuickStatements v1 but not in QuickStatements v2. − Pintoch (talk) 16:09, 19 June 2017 (UTC)Reply[reply]
+Requirements over current version[edit]
+unit support (may already work, I don't remember...)
+The NIOSH fork supports units in this way: 13.5U11573, where 13.5 is the numeric amount of the measurement and U11573 refers to metre (Q11573) as the unit.
+edit properties
+edit statements that link to properties
+remove statements/references/qualifiers
+remove items (admins only)
+group multiple reference statements into a single reference on creation
+"Adding 'retrieved' dates to references, which is not yet possible now" Spinster 💬   18:34, 20 November 2016 (UTC)Reply[reply]
+work on multiple Wikibase installations (Commons, Wikitionary, Librarybase)
+support "external items" type (Commons, Wikitionary)
+groups as many edits as possible into a single Wikidata API action, to cut down on the number of edits made (RC flood, DB revisions etc). For example, the mentioned PHP code already groups all statements for a CREATE into a single action (example).
+adding descriptions without replacing the current ones
+There is only one description per item/language, same as labels. Maybe a "do not overwrite" checkbox? Or "append when description exists"? --Magnus Manske (talk) 10:34, 17 November 2016 (UTC)Reply[reply]
+Precision option when adding latitude/longitude coordinate statements. Currently always sets precision to a millionth of a degree (±0.000001°) NavinoEvans (talk) 16:16, 21 November 2016 (UTC)Reply[reply]
+use properties as qualifier values
+output item-ID in same line when outputting an error (and link the items):  Done
+Instead of: "ERROR (set_desc) : Item [[Q5|Q5]] already has label "Human" associated with language code en, using the same description text."
+Output: "Q2999999": ERROR (set_desc) : Item Q5 already has label "Human" associated with language code en, using the same description text."
+The ability to set "unknown value" / "no value" settings for properties would be really useful - this was the one thing I felt was a real gap in v1. Andrew Gray (talk) 18:52, 10 December 2016 (UTC)Reply[reply]
+I totally agree, furthermore when setting the property Property:P1448, one should be able to set the language, as required for this property. Affom (talk) 12:49, 29 April 2017 (UTC)Reply[reply]
+Currently, there seems to be no log of the batches, nor entries in the user's contribution history (or did I miss it?) So it's a bit difficult to keep track of what someone did. Jneubert (talk) 09:25, 28 April 2017 (UTC)Reply[reply]
+It would be useful to have possibility to add ranks with QS. XXN, 12:29, 3 May 2017 (UTC)Reply[reply]
+Adding new versions of existing properties. At the moment, adding sources/qualifiers to a Pxxx:Qyyy pair just drops all the qualifiers into the existing pair (eg. It would be great if we could force a new pair to be created with a new set of qualifiers - this would be really helpful for eg/ people who hold the same office on different occasions with different start/end dates. At the moment we need to edit these by hand. Andrew Gray (talk) 16:09, 11 June 2017 (UTC)Reply[reply]
+It should be easy to retrieve the Q-numbers for newly created items so they can be fed back into the original dataset. I could imagine a feature like the following:
+Following the CREATE command users may on the same line provide a string that contains a unique ID from the original dataset.
+Upon data ingestion, the QuickStatements Tool outputs a CSV containing the provided string along with the Q-number of the newly created item.
+The user could then easily use the resulting CSV file to feed the Q-numbers of the newly created Wikidata items back into the original dataset.
+Reconciliation[edit]
+Having imported some bibliographic items I miss support of reconciliation (matching strings to items). How about this: the character ? before a string value should indicate that this value must manually be reconciliated. Example:
+   LAST P50 ?"Larry Wall"
+   LAST P123 ?"O'Reilly"
+The user interface should ask to select an item via dropdown/autosuggest, e.g. Larry Wall (Q92597) and O’Reilly Media (Q1065097). Suggestion may be improved by limiting the list to items of the type required by property, e.g. author (P50) has property value type constraint human (Q5). But even without this optimization reconciliation would be great help.
+Optional support of language to select from:
+   LAST P17 ?de:"Deutschland"
+-- JakobVoss (talk) 08:01, 17 August 2017 (UTC)Reply[reply]
+Avoid duplication[edit]
+Could the tool give a warning when someone tries to create a new entry which already exists in Wikidata? I especially think in the context of publications where the same title may already indicate that this item may already exist. --Zuphilip (talk) 12:14, 8 June 2017 (UTC)Reply[reply]
+To do so, quickstatements would need to query selected LAST ... statements whether there is already an item with this statement. How do we indicate which statement should be used to check for duplicates? Maybe check for properties with distinct-values constraint (Q21502410)? -- JakobVoss (talk) 08:01, 17 August 2017 (UTC)Reply[reply]
+Thoughts on Code and implementation[edit]
+Original QS using JavaScript and WiDaR
+A QS PHP class (source) which uses its own bot exists; could become the backend for QS2?
+Suggest intermediate format (JSON) to convert from other input formats. JSON would then be used to run, store etc. Could also be submitted directly (API). Could use Wikidata API JSON to create/edit, but likely needs to be more flexible (e.g. adding to an existing statement, if the property/value combination already exists, as QS currently does)
+Model[edit]
+First attempt at modelling the data flow.
+A "command" is an atomic unit, representing one change/edit, when seen on its own.
+Multiple commands can be grouped from other commands by the user (e.g. multiple reference statements as one reference "group").
+Multiple commands can be grouped from other commands automatically for execution on Wikidata, if technically feasible (e.g. all statements for a CREATE command).
+Server code can execute a single command, and report back on success. Accessible via API.
+Web interface (JS) can fire individual commands against the API, mark commands in interface on success/failure. This would be running from the browser, as QS1 is doing.
+Should those be logged in QS2 database? Review/rollback?
+API can take a command batch, store the individual commands in a database associated with the batch, and run them from the server as a bot user, adding user name and batch ID in the edit comment.
+Web interface can also submit a batch via API.
+Commands stored in the database can be used for review/rollback.
+Internal JSON format[edit]
+Each command is a JSON object. Qxxx is an item, Pxxx is a property, PQxxx is either. {datavalue} is a JSON object representing a datavalue in Wikidata API notation.
+Adding a statement  Done
+{"action":"add","what":"statement","item":"PQxxx","property":"Pxxx","value":{datavalue}}
+Adding a qualifier  Done
+{"action":"add","what":"qualifier","item":"PQxxx","property":"Pxxx","value":{datavalue},"qualifier":{datavalue_qualifier}}
+requires either a statement as above, or a statement ID as "id":"...". {datavalue_qualifier} is the datavalue of the qualifier, in Wikidata API notation.
+Adding sources  Done
+{"action":"add","what":"qualifier","item":"PQxxx","property":"Pxxx","value":{datavalue},"sources":[{datavalue_source,...}]}
+requires either a statement as above, or a statement ID as "id":"...". [{datavalue_source}] is an array of datavalue of the sources, in Wikidata API notation.
+Adding a label/description/alias  Done
+{"action":"add","what":"label","item":"PQxxx","language":"ISO code","value":"The new label"}
+what is label, description, or alias; the latter adds, the others replace
+Adding a sitelink  Done
+{"action":"add","what":"sitelink","item":"PQxxx","site":"enwiki","value":"Wiki page name"}
+Remove statement/sources/qualifier
+Use "action":"remove" on any of the above to remove. A value may be "any" to remove all instances.
+Create a new item  Done
+{"action":"create","type":"item"}
+type can be item or property
+Documentation for v2[edit]
+While the first version of the tool had a good explanation, the UI for QuickStatements2 does not offer any hint at how we are supposed to create a command. How about a short example showing how to write and run a sample command? The only way I can find to enter a command is the "Import from v1" option, I can't believe it is the only way, right? Or is it? Thank you! Syced (talk) 09:20, 7 September 2017 (UTC)Reply[reply]
+"Import from v1" has the only documentation I can find. The tool is also backward compatible with older version which is well documented. --Jarekt (talk) 11:41, 7 September 2017 (UTC)Reply[reply]
+Same question as Syced, is "Import from v1" the only option? (it's the only one that I used).
+Jarekt for the documentation for the v1, it's quite good but it's improvable. For instance, it doesn't mention subtleties like the calendar for dates, the ranking or badges (I guess it's not possible but ideally, it should be clearly said). In the end, I think that a specific documentation for the v2 is necessary and maybe a central for asking "How can I do this" would be welcome (instead of asking on the Project chat, on talk pages, on Twitter or on IRC here the discussion are losted).
+Cdlt, VIGNERON (talk) 17:46, 3 October 2017 (UTC)Reply[reply]
+May be we should create some un-official project page Help:Quick statements where we would copy current V1 documentation and start expanding it, with what we know about V2. --Jarekt (talk) 17:55, 3 October 2017 (UTC)Reply[reply]
+I started a documentation page: Help:QuickStatements. Feel free to enrich it, thanks! Syced (talk) 04:05, 4 October 2017 (UTC)Reply[reply]
+Syced, Great. I am working on expanding it. --Jarekt (talk) 13:21, 4 October 2017 (UTC)Reply[reply]
+Thanks! I agree https://tools.wmflabs.org/wikidata-todo/quick_statements.php is gentler on new users. I had forgotten the exact syntax so I had no clue what to do on the new version, but after I checked the old documentation it's working great. :) Nemo 08:23, 17 October 2017 (UTC)Reply[reply]
+New location of the QuickStatements tool Geertivp (talk) 21:49, 20 May 2020 (UTC)Reply[reply]
+Upload report for batch uploads[edit]
+Thank you for creating such a useful tool. I am using this tool for writing descriptions in Malayalam language. I have some suggestions for improving the tool :
+For batch uploads done using 'Run in background' option, it will be nice to have a 'batch report' that explains the errors in detail. As of now, the user has to choose 'Your last batches' and can only see the number of successful uploads and errors. It will be nice to have details about the errors shown in the 'batch report' so that the user knows which items had errors and why.
+When I tried to upload 40,000 descriptions in one go, I could not run it either by using commands or by using batches. Is there a limit to the maximum number of uploads that can be done at a particular point of time? If yes, what is the limit and why do we have it? Netha Hussain (talk) 08:01, 22 September 2017 (UTC)Reply[reply]
+I want to back this request by Netha Hussain. I think there is indeed a need for a better report feature for uploads via Quicstatements1&2. Has this already been considered? Getting the following overviews would really help keeping Wikidata clean:
+clear overview of items that gave errors
+a structured list of all new items you have just created using LAST (just looking at your user contributions doesn't help as you can not see the edits made via User:QuickStatementsBot).
+@Magnus Manske: I would really like to know your opinion on that. Thank you! - Alina data (talk) 14:26, 21 February 2018 (UTC)Reply[reply]
+Removing a property does not seem to work[edit]
+I am trying to remove a property from an item.
+First I clicked "Import commands" then "Version 1 format" then I entered the following, which contains a proper TAB character:
+-Q5332409P571
+Upon clicking "Import", nothing happens. Just "No data available in table".
+Second I read in the documentation that Remove is a V2-only feature, so I decided to try the V2 syntax, which is apparently:
+Q5332409|P571
+There is nowhere to import this command, the Import command menu is only about V1, strangely. So I tried running it via URL: https://tools.wmflabs.org/quickstatements/#v2=-Q5332409%7CP571 but that does not work either, only "No data available in table" is shown.
+Has anyone managed to remove a property? If yes, how?
+Thank you! Syced (talk) 06:20, 6 November 2017 (UTC)Reply[reply]
+Syced I was just removing some properties with lines like  -Q33169363|P373|"Aoike-chō, Nagoya"  and it worked just fine. My guess is that you still need the value of the property you are removing. Which makes sense in case there are several. That is also what the documentation suggest. --Jarekt (talk) 18:36, 6 November 2017 (UTC)Reply[reply]
+Add multiple sources in one claim[edit]
+Hi. I'd like to add two sources in one claim, but in the new interface of QuickStatements V2, I cannot do that. The below code works fine in older interface:
+LAST|P5205|14|S143|Q33109119||LAST|P5205|14|S854|"http://kanji.jitenon.jp/kanjid/1895.html", but in the new one, it makes two duplicate claims (https://www.wikidata.org/w/index.php?title=Q55406214&oldid=707356668). This phenomenon doesn't happen when it does not entail an item creation (https://www.wikidata.org/w/index.php?title=Q12174424&type=revision&diff=707251396&oldid=707250957). --Okkn (talk) 06:31, 7 July 2018 (UTC)Reply[reply]
+Ability to export QS batch to tab/csv[edit]
+As a use case ... my batch has completed. It has 89 errors. I want to download the errors in the same (tab, csv) format as was used to upload them, so that I can work through them to fix issues. (Sure I could work from the error list in the QS interface, but I cannot, for instance, track my progress as I wade through issues, and I have 30 batches each with ~50 errors per batch & am bear of small brain.) So. I'm thinking it would be good to be able to extract the contents of a batch, perhaps suffixed by a #status. thx --Tagishsimon (talk) 08:12, 17 July 2018 (UTC)Reply[reply]
+Would also be useful to be able to view errors for a QS temporary 'browser-based' batch when viewing the batch through the discuss/revert link - cf. https://tools.wmflabs.org/editgroups/b/QSv2T/1533259904195/ - albeit I appreciate right now you likely do not store the data? Errors tend to be the most interesting thing for me (playing with labels & descriptions) as they often point to duplicate items. But I lack the time, now, to fix those from my last batch, and lack the discipline to keep a browser tab open until I do have time, days or weeks later. --Tagishsimon (talk) 11:50, 3 August 2018 (UTC)Reply[reply]
+Petscan to QS[edit]
+Hello Magnus,
+I don't understand why this Petscan https://petscan.wmflabs.org/?psid=5146689&al_commands=-P50%3AQ8254925%0AP50%3AQ4233718%0A when I click on "Start QS" and run, gives errors for removal of erroneous value, while still adding the new value. In Petscan, it runs OK, so it's not a syntax problem.
+Can you please explain what I do wrong ? Thanks for you help. Hsarrazin (talk) 23:42, 24 July 2018 (UTC)Reply[reply]
+PS : I noticed that on the REMOVE action, the QID lacks Q at the begining. Could this be the cause ? Hsarrazin (talk) 13:03, 25 July 2018 (UTC)Reply[reply]
+I saw today that it is now fixed... Thanks !  \o/
+Can't submit literals in CSV format?[edit]
+Hi @Magnus Manske: thanks for this great tool!
+But how can we submit literals (strings) using the new CSV format?
+Its documentation Help:QuickStatements#CSV_file_syntax says "The double quotes for string values seem to interfere with CSV syntax. Empirically four double quotes before and one after the string have been found to work" but
+that works only for one literal on the line, the second literal fails
+you may agree that's a rather baroque way of denoting strings
+Is it possible for you to use TSV as the basic format, and then hopefully quotes will make it through unmangled?
+Otherwise the utility of the CSV format is very limited, and we'll have to stick to the v1 format --Vladimir Alexiev (talk) 16:06, 19 November 2018 (UTC)Reply[reply]
+QuickStatements for Commons[edit]
+Tracked in PhabricatorTask T181062
+Structured data gets rolled out on Commons, for now only with labes. Would it be possible to enable QuickStatements for Commons? (Ping for @Keegan (WMF): who knows about eventual technical issues) --GPSLeo (talk) 09:43, 11 January 2019 (UTC)Reply[reply]
+Added the related Phabricator ticket. Some functionalities are currently possible, but it's still a pain that you need to know the M numbers of the files you want to edit (i.e. you can't just feed a list of filenames into QS). Spinster 💬   08:46, 22 November 2019 (UTC)Reply[reply]
+Removing a property does not seem to work[edit]
+I am trying to remove a property from various items.
+I have tried several formats, but I can't remove P571.
+For example, 
+-Q2644688P5711942
+-Q2644688P5711942-01-01T00:00:00Z
+-Q2644688P5711942-01-01T00:00:00Z/09
+-Q2644688|P571|1942
+-Q2644688|P571|1942-01-01T00:00:00Z
+-Q2644688|P571|1942-01-01T00:00:00Z/09
+--&beer&love (talk) 13:54, 7 October 2019 (UTC)Reply[reply]
+@&beer&love: The format is:
+-Q2644688P571+1942-00-00T00:00:00Z/9
+Note 00 for month and day when precision is year, and leading +.  I removed a few of the inception (P571) statements using this format, e.g. on Frank Zappa (Q127330). -LiberatorG (talk) 07:09, 8 October 2019 (UTC)Reply[reply]
+Thanks. --&beer&love (talk)
+Hitting wall in removing P:1552 from category using Petscan.[edit]
+Hi there, I'm hitting a wall on this and seeking help, I've filed a bug on Phabricator, and wanted to give you a heads up here.
+Thanks Magnus!
+Shameran81 (talk) 22:58, 12 November 2019 (UTC)Reply[reply]
+Adding a single qualifier multiple times[edit]
+Hi Magnus. I am currently importing data from past censuses in Macedonia that could be later easily re-used in templates across Wikipedia articles (see WikiProject Macedonia for more details). I know that the tool can not add a single qualifier multiple times, which visually makes it a bit confusing that there is only one value with multiple census years (see at Evla (Q3041202) for instance). Do you know any other way (other than manual editing) this could be visually improved? Thank you.--Kiril Simeonovski (talk) 07:09, 28 February 2020 (UTC)Reply[reply]
+Bug in line 16[edit]
+Showing a (running) batch, like for instance https://tools.wmflabs.org/quickstatements/#/batch/26133, an error occurs:
+TypeError: j.datavalue is null
+in line 16
+if ( typeof j.datavalue != 'undefined' && j.datavalue.type == 'wikibase-entityid' ) to_cache[j.datavalue.value.id] = 1 ;
+Thanks! Bargioni (talk) 21:19, 1 March 2020 (UTC)Reply[reply]
+Is there a bug logging in?[edit]
+After hitting log in mediawiki, I get "Error retrieving token: mwoauthdatastore-bad-verifier" ? Bouzinac (talk) 22:30, 15 March 2020 (UTC)Reply[reply]
+Other problem logging in[edit]
+I have aother transient error during login; a workaround is to retry the Oauth login once again.
+Error retrieving token: mwoauthdatastore-request-token-not-found
+Possibly related to previous error?
+Geertivp (talk) 10:26, 28 March 2020 (UTC)Reply[reply]
+TSV copy/paste import not implemented[edit]
+New requirement: import from TSV file via copy/paste.
+I am preparing batches using Excel. Excel copy/paste by default generate TSV format. Then I have to copy/paste first to notepad to replace all TABs to "," via find/replace all. This step would be avoided when Quickstatements2 would also allow to straight import TSV format files in addition to CSV format. Geertivp (talk) 10:26, 28 March 2020 (UTC)Reply[reply]
+50% error rate solved after repeated retry[edit]
+I am running a well structured batch, but 50% of the transactions fail without any good reason. When I reset the errors and retry the batch (without changing the input file) the transactions are correctly executed eventually after several retries.
+Transient server (overload) errors? (local/remote) Network instablility? Geertivp (talk) 10:26, 28 March 2020 (UTC)Reply[reply]
+I have exactly the same issue. Has happened repeatedly, it is very annoying and , in many cases, it ends up selectively failing to introduce core information. Any thoughts on how to solve it? @Geertivp: did you have any progress on that? TiagoLubiana (talk) 17:33, 11 April 2020 (UTC)Reply[reply]
+As I indicated above, the only workaround I currently have is, after the current batch terminated, to reset the errors, and re-execute the remaining transactions. After repeating this exercise several times, the complete batch was eventually completed. Very annoying. Geertivp (talk) 10:25, 12 April 2020 (UTC)Reply[reply]
+Sometimes it is completed but says there are errors, and sometimes it makes the same edit twice. Batch 30306, now completed, has "100% (4448) of 4647 done, 199 errors" after several attempts, and although some were because I forgot to check for duplicates (the list included Q21891735 and Q26380071 twice, and Q26505508 four times), it looks like most of the "errors" are attempts to retry removing statements that were removed the first time but had not been reported as successful. Also https://tools.wmflabs.org/editgroups/b/QSv2/30306/ says 4679 edits, so some edits were performed twice by Quickstatements - at least 12 of the 4647 were not done, so if the number is correct there are 44 of these. I found one of them, Q26612148, [1] and addition of P131 there failed the first time, then when retrying it was added twice. Peter James (talk) 18:18, 19 April 2020 (UTC)Reply[reply]
+I think this happens when you are adding statements with qualifiers or references and more than one worker is running on the batch (whether locally or remotely). The statements fail when they execute before the previous statement has executed and is visible, and therefore when it tries to add the qualifier/reference, it fails. I wish the user could specify maximum workers, or if workers were always say 5+ statements apart so that they don't have this problem Carlinmack (talk) 12:15, 1 January 2023 (UTC)Reply[reply]
+Interactive session not responding[edit]
+I am running an interactive session. It is not responsive any more. I need to click (possibly multiple times) on STOP/Start to resume processing. Job is eventually completed, but this is kind of embarassing.
+Kind of timeout? Geertivp (talk) 10:38, 28 March 2020 (UTC)Reply[reply]
+Might be related to next problem. Geertivp (talk) 10:25, 12 April 2020 (UTC)Reply[reply]
+Extremely low execution speed[edit]
+It appears in Western Europe, that the only time of day that the transactions are executed at 1 transactions per/s is (early) in the morning when the USA is sleeping and Asia is going to bed. Geertivp (talk) 10:25, 12 April 2020 (UTC)Reply[reply]
+Impossible to switch back and forth to offline batch mode once interactive mode is started[edit]
+I would like to have to possibility to start first to execute a batch interactively, and then switch to offline batch mode, once the jobs seems to be running OK. Currently, once I start online, I cannot transfer the batch to offline. I need to stay connected all the time and have no option to do so, except as to abandon the current bath, and resubmit the remaining transaction in offline batch mode.
+The other way round would be to switch to online batch mode again to monitor each transaction as it executes. You could compare this functionality with the &, fg, and bg commands of Linux where you have the possibility to switch between foreground and backgrond process execution mode. Geertivp (talk) 10:25, 12 April 2020 (UTC)Reply[reply]
+Adding multiple statements with identical properties & values, but different qualifiers[edit]
+Be great if this were possible - currently trying to find a way to add multiple terms of office in the same role in bulk.  The only workaround I've found thus far would be to create new items and merge, but that seems... messy.  Can also see uses for individuals winning an award multiple times, etc.  Lirazelf (talk) 12:48, 14 April 2020 (UTC)Reply[reply]
+Process URL encoded values[edit]
+When assiging a Commons Category, Wikidata Query Download does not properly encode UTF-8 URL strings. It leaves the URL encoding untouched.
+Example in V1 format:
+Q15630294P373"Andr%C3%A9_Dumas"
+This does not work with QuickStatements when assigning a Commons Category, as the %C3%A9 should be converted to "é" and the _ (underscore) to " " (space).
+It would be wonderful when Wikidata Query Download, or QuickStatements would convert the URL encoded string automatically into "André Dumas".
+For more information, see d:User:Geertivp/training/Wikidata Query/Commons Creator page without Commons category.
+Geertivp (talk) 19:25, 18 April 2020 (UTC)Reply[reply]
+I have found a work-around by using schema:name to extract the proper target Category, that can be processes without further conversion in QuickStatements V1 syntax. Geertivp (talk) 20:55, 18 April 2020 (UTC)Reply[reply]
+Troubleshooting[edit]
+Hello, I've tried to input that QS file but 1/2 of the statements come out into error. Retry and retry and some statements still in error. Is there a reason? Thanks
+The troubled batch : https://quickstatements.toolforge.org/#/batch/36531 Bouzinac (talk) 13:22, 6 June 2020 (UTC)Reply[reply]
+Batches not being seen[edit]
+I've now run three batches by hand, using the v2 interface at https://quickstatements.toolforge.org/#/batch . (The first and third were successful; the second failed, for trivial and now-fixed reasons.) Unfortunately, these are not turning up on my "last batches" list. Presumably as a result of this, it looks like I can't make any API-based submissions, as I get the message "Problem generating OAuth signature; user '{}' needs to have submitted a batch namually at least once before" from the API. Can anybody help? -- The Anomebot 3 (talk) 14:00, 23 June 2020 (UTC) (User:The Anome, currently logged in as my bot)Reply[reply]
+Update: looks like the earlier batches didn't get logged because they didn't have a name. Hasn't fixed my login problem yet, but it's one step forward. -- The Anomebot 3 (talk) 14:25, 23 June 2020 (UTC)Reply[reply]
+OK, I've thrown a big batch in manually, and it seems to have disappeared without trace. Back to my first approach of talking directly to the API. -- The Anomebot 3 (talk) 15:52, 24 June 2020 (UTC)Reply[reply]
+Errors adding identifiers[edit]
+Batch 39056 consists of 8 edits; errors on four the first time, two were successful on second attempt but the two edits that add identifiers always fail with "No success flag set in API result". Peter James (talk) 14:42, 29 July 2020 (UTC)Reply[reply]
+How to troubleshoot[edit]
+Hi Magnus Manske Thanks so much for QS tool! I would love to optimize this tool for uploading our collections at the Smithsonian! I am new to Wikidata and very new to QS for bulk creating new items. I have been testing QS to establish workflow for our library team which has just started to test QS bulk load. 
+When I followed instructions for commands (V1 and CSF), QS system seemed to read the data fine but hanging after clicking <Run>. I have received some gracious pointers when I reported on the RUN_takes_a_long_time Talk page with screenshots. But the QS still not loading the data. Is this beyond the syntax issue that are not obvious to me? Is there anything else I need to adjust. 
+Incidentally, like the previous user, somehow I am also not able to see the previous loads via <Your last batches>. Thank you very much for your help! jshieh (talk) 14:53, 30 July 2020 (UTC)Reply[reply]
+CREATE
+LASTLen"Morris Blackburn"
+LASTP31Q5
+LASTP21Q6581097
+LASTP27Q30
+LASTP569+1902-00-00T00:00:00Z/9
+LASTP570+1979-00-00T00:00:00Z/9
+LASTP106Q1028181
+CREATE
+LASTLen"Berthold Schmutzhart"
+LASTP31Q5
+LASTP21Q6581097
+LASTP27Q30
+LASTP106Q1028181
+jshieh, Magnus did not replied on this talk page since 2016, so you might need to get help from other users. I would suggest:
+trying small batches to test the tool. In big runs do not run batches bigger than 25k "simple" statements (like the ones above).
+use "Run" not "Run in the background" as they have different behaviors
+Your above statements look good except that they are duplicates of Morris Blackburn (Q20860828) and Berthold Schmutzhart (Q98447422). And creating duplicate records should not be happening.
+I am using the tool quite a lot (see https://quickstatements.toolforge.org/#/batches/JarektBot or https://quickstatements.toolforge.org/#/batches/Jarekt) and can try to help if you have issues with it. Jarekt (talk) 03:16, 24 September 2020 (UTC)Reply[reply]
+QuickStatements API cannot write date statements?[edit]
+Copied from Help_talk:QuickStatements
+Following up on this earlier note, I've tracked down the problem to the QuickStatements API and dates. It seems specifically that the QuickStatements API cannot write date statements. I've tried with and without quotes (%22) around the date. See the examples below (I've blanked out my token; Find yours here if you want to test):
+This works (without quote marks): https://quickstatements.toolforge.org/#/v1=Q4115189%09P580%09+2010-01-01T00:00:00Z%2F11
+API fails (without quote marks): https://quickstatements.toolforge.org/api.php?action=import&submit=1&format=v1&batchname=&username=Evolution_and_evolvability&token=#######################################&data=Q4115189%09P580%09+2010-01-01T00:00:00Z%2F11
+API fails (with quote marks): https://quickstatements.toolforge.org/api.php?action=import&submit=1&format=v1&batchname=&username=Evolution_and_evolvability&token=#######################################&data=Q4115189%09P580%09%22+2010-01-01T00:00:00Z%2F11%22
+Can anyone spot a workaround (please reply at Help_talk:QuickStatements)? It seems a pretty important feature to be missing. T.Shafee(evo&evo) (talk) 00:17, 1 June 2021 (UTC)Reply[reply]
+Removing Lexeme forms grammatical features[edit]
+Hi, I need to replace about 1500 grammatical features in 500 lexemes. My plan is to remove the wrong grammatical features, then add the correct one. My initial batch look like:
+-L576680    L576680-F1    Q1317831
+but it gave error. I guess this means the feature hasn't been implemented yet?
+Is there any other way to do this? I tried to ask in Wikidata:Bot_requests#Request_to_change_lexeme_forms'_grammatical_features_(2021-07-08), but no reply for 3 months now.
+If there's no other way, then I'd have to ask to delete those 500 lexemes and just upload a new batch...
+Thanks! Bennylin (talk) 15:04, 1 October 2021 (UTC)Reply[reply]
+Add identifier if it isn't added already[edit]
+Hello, I'm new to this, is there a way to add an identifier to an item only if it isn't already added? Or is this what happens already? AntisocialRyan (Talk) 01:46, 15 March 2022 (UTC)Reply[reply]
+@AntisocialRyan: If the identifier already exists quick statements just skips the command and nothing bad will happen. Greetings Bigbossfarin (talk) 21:33, 10 April 2022 (UTC)Reply[reply]
+Oh great! What if it has different capitalization? AntisocialRyan (Talk) 23:24, 10 April 2022 (UTC)Reply[reply]
+Advice on fixing errors[edit]
+I wanted to add a TripAdvisor id, so I added a line "Q5470717|P3134|2225973", it passed the validator, but when I hit RUN I got and error with hover text "invalid snak data". The problem is there is no advice on what that means or how I can fix it. The "try to reset errors" just seems to drive the car off the cliff again. Vicarage (talk) 09:16, 20 March 2022 (UTC)Reply[reply]
+Unable to add statement and reference in same batch?[edit]
+I have a bunch of statements where I add some information in a new statement, and then immediately add a reference. However, for almost all of the reference statements, an error is thrown. I don't get why this seems to be the case, maybe it doesn't make the statement fast enough so it can't add a reference? RPI2026F1 (talk) 16:00, 19 October 2022 (UTC)Reply[reply]
+Bug: "Undefined index: new_statement"[edit]
+Hi, I get an error when I try to execute a new item creation statement in QS using the Import CSV command. There's no error for update statements. Here is the error I get:
+<br/><b>Notice</b>:  Undefined index: new_statement in <b>/data/project/quickstatements/public_html/quickstatements.php</b> on line <b>640</b><br/><br/><b>Notice</b>:  Undefined index: new_statement in <b>/data/project/quickstatements/public_html/quickstatements.php</b> on line <b>640</b><br/><br/><b>Notice</b>:  Undefined index: new_statement in <b>/data/project/quickstatements/public_html/quickstatements.php</b> on line <b>640</b><br/><br/><b>Notice</b>:  Undefined index: new_statement in <b>/data/project/quickstatements/public_html/quickstatements.php</b> on line <b>640</b><br/><br/><b>Notice</b>:  Undefined index: new_statement in <b>/data/project/quickstatements/public_html/quickstatements.php</b> on line <b>640</b><br/><br/><b>Notice</b>:  Undefined index: new_statement in <b>/data/project/quickstatements/public_html/quickstatements.php</b> on line <b>640</b><br/><br/><b>Notice</b>:  Undefined index: new_statement in <b>/data/project/quickstatements/public_html/quickstatements.php</b> on line <b>640</b><br/><br/><b>Notice</b>:  Undefined index: new_statement in <b>/data/project/quickstatements/public_html/quickstatements.php</b> on line <b>640</b><br/><br/><b>Notice</b>:  Undefined index: new_statement in <b>/data/project/quickstatements/public_html/quickstatements.php</b> on line <b>640</b><br/><br/><b>Notice</b>:  Undefined index: new_statement in <b>/data/project/quickstatements/public_html/quickstatements.php</b> on line <b>640</b><br/>
+Looking at the recent code changes, it seems the recent commits may have introduce this `new_statement` value: [2]. Should I create a issue in Github? Deansfa (talk) 21:53, 4 November 2022 (UTC)
+P.S: I'm just realizing I'm on your personal talk page, I believe it was the talk page of a project. Sorry about that.Reply[reply]
+@Deansfa: I’m encountering the same issue. Even the example in the documentation does not work. I get the following response from API:
+<br />
+<b>Notice</b>:  Undefined index: new_statement in <b>/data/project/quickstatements/public_html/quickstatements.php</b> on line <b>640</b><br />
+{"status":"OK","data":{"commands":[{"action":"create","type":"item","data":{"labels":{"en":{"language":"en","value":"Regina Phalange"}},"descriptions":{"en":{"language":"en","value":"fictional character"}},"claims":[{"mainsnak":{"snaktype":"value","property":"P31","datavalue":{"type":"wikibase-entityid","value":{"entity-type":"item","id":"Q95074"}},"new_statement":null},"type":"statement","rank":"normal"}]}}]},"debug":{"format":"csv","temporary":false,"openpage":0}}
+which is not a valid json and it silently fails client-side. -- Meisam (talk) 21:48, 12 February 2023 (UTC)Reply[reply]
+Slow CSV Import?[edit]
+Hi, I'm trying to do a simple CSV Import (which I did quite easily for much larger batches a couple of weeks ago but haven't tried since) and am just getting the spinning cursor indefinitely. Is there something going on with CSV Import? Mloparco (talk) 05:58, 4 January 2023 (UTC)Reply[reply]
+Hi! Not sure if this is the same behavior or bug, but I am encountering the same issue: importing via the CSV format just hangs with the spinner spinning indefinitely. One thing that I've noticed though is that this only happens if there are rows where the first column (qid) is empty—that is, the intention is to create a new item. If the first column is not empty, the import of CSV commands proceeds as expected. —seav (talk) 21:05, 2 February 2023 (UTC)Reply[reply]
+This is probably the same issue as the one described above. I posted multiple messages about it. It is caused by this change made to QuickStatement. I personally switched to the tabular format, which works well. --Deansfa (talk) 01:07, 13 February 2023 (UTC)Reply[reply]
+Value case insensitive[edit]
+Hello, I'm new so this might be a me thing. I've added some twitter accounts via QS via Open Refine, however when my values are sometimes in a different case to existing Wikidata values. Leading to duplicate values get added to Wikidata. Is there something I should be doing to only add values after a case insensitive match fails? YzG9Rux2 (talk) 15:22, 4 March 2023 (UTC)Reply[reply]
+phab:T334313[edit]
+𝟙𝟤𝟯𝟺𝐪𝑤𝒆𝓇𝟷𝟮𝟥𝟜𝓺𝔴𝕖𝖗𝟰 (𝗍𝗮𝘭𝙠) 15:34, 9 April 2023 (UTC)Reply[reply]
+broken CSV import?[edit]
+I'm trying CSV import in one of these formats (with and without quotes)
+qid,P528,qal972,#,S854,s813
+Q2006583,"AB",Q112610835,add Bloomberg.com exchange code,"https://stockmarketmba.com/globalstockexchanges.php",+2023-04-24T00:00:00Z/11
+qid,P528,qal972,#,S854,s813
+Q2006583,AB,Q112610835,add Bloomberg.com exchange code,https://stockmarketmba.com/globalstockexchanges.php,+2023-04-24T00:00:00Z/11
+In both cases the preview talks about "type: unknown:
+{ "type": "unknown", "text": "AB" }
+{ "type": "unknown", "text": "https://stockmarketmba.com/globalstockexchanges.php" }
+And then every statement results in Error.
+Is the CSV importer broken? -- Vladimir Alexiev (talk) 08:59, 25 April 2023 (UTC)Reply[reply]
+Egon Willighagen wrote: the quote issue is confusing me too. I cannot say for sure.
+When I see your "type unknown" message, it probably means (as you suspect) something with the number of quotes.
+You can also try two or three quotes. I haven't figured out when to use 0,1,2, or 3 quotes.
+Vladimir: 3 quotes did it. Cheers for human ingenuity that can overcome CSV stupidity 😊
+"Update Wikidata" from mix'n'match to quickstatements[edit]
+Snipped and moved to https://www.wikidata.org/wiki/Topic:Xlagso8w15o7c96v
+Rohfle (talk) 13:32, 4 July 2023 (UTC)Reply[reply]
+V1 vs. CSV[edit]
+When I try to add the V1 Command 
+Q120435196P4219"17586" it works fine.
+When I try this via CSV 
+qid,P4219
+Q120435196,"17586"
+then I get an error. Why? --Geiserich77 (talk) 08:33, 7 July 2023 (UTC)Reply[reply]
+Need help reverting my first batch[edit]
+Hello @Magnus Manske,
+This is my first time mass-editing properties.
+I've noticed French departments have an Annual number of weddings property that is only filled in for the year 2015. So I went on the French national institute of statistics (INSEE) website, downloaded some datasets and created a dataset that looks like this:
+qid,P5982,qal5982,S854
+Q3083,2164,2017,https://www.insee.fr/fr/statistiques?debut=0&theme=2&categorie=1&collection=4
+Q3083,2181,2021,https://www.insee.fr/fr/statistiques?debut=0&theme=2&categorie=1&collection=4
+Q3083,2248,2018,https://www.insee.fr/fr/statistiques?debut=0&theme=2&categorie=1&collection=4
+Q3083,1494,2020,https://www.insee.fr/fr/statistiques?debut=0&theme=2&categorie=1&collection=4
+Q3083,2228,2019,https://www.insee.fr/fr/statistiques?debut=0&theme=2&categorie=1&collection=4
+This edited the Annual number of weddings property for the FR department Ain: https://www.wikidata.org/wiki/Q3083
+As you can see, I messed up. My years are not properly formatted and I'm using Annual number of weddings as a qualifier where I meant to use Point in time.
+I cannot revert my batch.
+Can you please help me by reverting my batch + helping me formt my data properly?
+Thank you Vincent Tep (talk) 00:43, 31 August 2023 (UTC)Reply[reply]
+OK, fixed it myself, I managed to do what I wanted! Please disregard the message above. Vincent Tep (talk) 10:06, 31 August 2023 (UTC)Reply[reply]
+Retrieved from "https://www.wikidata.org/w/index.php?title=User:Magnus_Manske/quick_statements2&oldid=1965279658"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+User pageDiscussion
+English
+Views
+ReadEditAdd topicView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesUser contributionsLogsView user groupsSpecial pagesPermanent linkPage information
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 31 August 2023, at 10:06.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

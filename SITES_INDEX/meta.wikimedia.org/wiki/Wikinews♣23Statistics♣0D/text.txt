@@ -1,0 +1,638 @@
+Wikinews - Meta
+Wikinews
+From Meta, a Wikimedia project coordination wiki
+Jump to navigation
+Jump to search
+Other languages:
+English · Ænglisc · brezhoneg · čeština · Deutsch · English · español · français · italiano · polski · português · română · Türkçe · Ελληνικά · български · молдовеняскэ · հայերեն · हिन्दी · বাংলা · ਪੰਜਾਬੀ · ไทย · 日本語 · 中文 · 中文（臺灣） · 中文（中国大陆） · 粵語 · 粵語 · العربية · فارسی
+Wikimedia projects
+MediaWiki
+Meta-Wiki
+Wikibooks
+Wikidata
+Wikifunctions
+Wikimedia Commons
+Wikinews
+Wikiquote
+Wikipedia
+Wikisource
+Wikispecies
+Wiktionary
+Wikiversity
+Wikivoyage
+Complete list of Wikimedia projects — List of Wikimedia projects by size
+Logo, result of Wikinews logo contest voting
+Wikinews is a project which aims to collaboratively report and summarize news on all subjects from a neutral point of view. This page describes the project goals, and outlines basic requirements for the project. There will be Wikinews communities in many languages (see Wikinews Statistics). The precise implementation of the Wikinews requirements is left up to these individual communities. You can ask for a new language to be set up at the requests for new languages page.
+Wikinews
+Policy
+Local policies
+Accreditation
+Coordination
+Forum
+IRC
+Appearance
+Wikinews.org template
+Wikinews on Commons
+Launching
+Language proposal policy
+Requests for new languages
+changes - modify
+We seek to provide a set of policy ideas here on Meta that the individual Wikinews communities can use as the basis for local policy development. These implementation ideas are presently collected at Wikinews/Thinktank.
+Media coverage of Wikinews itself can be listed at Wikinews/Press coverage.
+Contents
+1 Wikinews Statistics
+2 Multilingual portal
+3 Languages that use Russian Wikinews site to serve their Wikinews
+4 Languages that use Wikipedia to serve their Wikinews
+5 History
+6 Purpose
+7 Internationality
+8 Article stages
+9 Original reporting
+10 Ensuring accuracy and legality
+11 Ensuring neutrality
+12 Frequently Asked Questions (FAQ)
+13 Current Wikinews initiatives
+Wikinews Statistics[edit]
+External Source, dynamically sortable to any criteria, self-updating every six hours by cronjob
+External Source, generated wikisyntax, which manually is being pasted in this page
+These statistics are updated four times a day. See commons:Data:Wikipedia statistics/data.tab for the date/time of last update.
+№
+Language
+Wiki
+Articles
+All pages
+Edits
+Admins
+Users
+Active users
+Files
+1
+Russian
+ru
+1,495,640
+13,968,461
+16,619,096
+7
+53,372
+63
+17
+2
+Serbian
+sr
+53,015
+80,928
+3,164,824
+6
+6,497
+7
+0
+3
+Portuguese
+pt
+29,931
+70,437
+551,524
+6
+27,981
+27
+58
+4
+French
+fr
+23,637
+80,220
+881,017
+11
+52,732
+45
+1
+5
+English
+en
+21,928
+2,881,380
+4,737,708
+16
+2,862,846
+129
+4,662
+6
+Polish
+pl
+17,359
+49,565
+273,733
+5
+19,866
+20
+1,255
+7
+Chinese
+zh
+16,896
+42,655
+235,677
+7
+35,214
+37
+1
+8
+German
+de
+13,832
+61,192
+838,025
+5
+34,065
+23
+63
+9
+Spanish
+es
+12,055
+48,487
+705,836
+12
+45,033
+18
+0
+10
+Italian
+it
+11,737
+42,248
+982,646
+4
+27,546
+26
+115
+11
+Arabic
+ar
+9,221
+58,144
+245,909
+4
+20,803
+19
+63
+12
+Czech
+cs
+8,216
+16,763
+82,861
+2
+6,531
+14
+1
+13
+Catalan
+ca
+4,784
+14,609
+176,734
+4
+9,662
+9
+0
+14
+Dutch
+nl
+4,674
+14,525
+156,329
+3
+10,670
+13
+0
+15
+Greek
+el
+3,065
+12,816
+66,037
+1
+3,524
+3
+0
+16
+Tamil
+ta
+3,048
+17,626
+55,126
+1
+7,199
+4
+0
+17
+Limburgish
+li
+2,452
+3,912
+24,776
+2
+743
+2
+0
+18
+Swedish
+sv
+2,077
+8,634
+42,274
+3
+6,588
+5
+1
+19
+Ukrainian
+uk
+1,948
+7,417
+47,015
+4
+6,534
+8
+0
+20
+Persian
+fa
+1,627
+19,384
+253,700
+3
+7,346
+5
+30
+21
+Finnish
+fi
+1,509
+5,697
+57,971
+1
+4,522
+6
+1
+22
+Romanian
+ro
+1,472
+7,492
+37,711
+3
+11,755
+7
+0
+23
+Japanese
+ja
+1,406
+32,497
+175,749
+4
+24,918
+28
+1
+24
+Esperanto
+eo
+956
+8,068
+163,069
+1
+3,803
+6
+0
+25
+Gun
+guw
+934
+1,558
+18,700
+2
+192
+4
+0
+26
+Albanian
+sq
+739
+2,355
+8,906
+1
+2,291
+2
+0
+27
+Norwegian
+no
+624
+4,144
+21,339
+1
+3,842
+3
+2
+28
+Korean
+ko
+615
+4,001
+29,607
+2
+4,869
+7
+1
+29
+Bosnian
+bs
+363
+4,974
+23,997
+1
+2,752
+1
+0
+30
+Hebrew
+he
+279
+5,201
+45,339
+4
+4,816
+6
+51
+Totals
+Articles
+All pages
+Edits
+Admins
+Users
+Active users
+Files
+All active Wikinews wikis
+1,746,039
+17,575,390
+30,723,235
+126
+3,308,512
+547
+6,323
+Multilingual portal[edit]
+https://www.wikinews.org/ points to a multilingual portal using Tim Starling's portal script. Updates to portals are now managed via Phabricator and Gerrit.
+Languages that use Russian Wikinews site to serve their Wikinews[edit]
+Some languages use Russian Wikinews site to serve their Wikinews (see project: n:ru:Викиновости:Многоязычность - Wikinews:Multilingual).
+Language code
+Language
+Main page
+Published news
+ba
+Bashkir
+n:ru:Баш бит
+n:ru:Баҫтырылған
+eve
+Even
+n:ru:Дукуттан
+lez
+Lezgian
+n:ru:Акъудун
+myv
+Erzya
+n:ru:Прявт лопа
+n:ru:Нолдазь
+olo
+Livvi-Karelian
+n:ru:Новости на ливвиковском наречии
+sah
+Sakha (Yakut)
+n:ru:Сүрүн сирэй
+n:ru:Бэчээттэммит
+tt
+Tatar
+n:ru:Алгы бит
+n:ru:Бастырылган
+udm
+Udmurt
+n:ru:Кутскон бам
+n:ru:Поттэмын
+For some historical reasons, the Erzya, Tatar, and Yakut Wikinews test projects co-exist on Incubator. A nomination for deletion of these three test projects was not successful.
+Languages that use Wikipedia to serve their Wikinews[edit]
+The Alemannic Wikinews has been created as separate namespace within Alemannic Wikipedia: Nochricht:Dialäkt-Neuigkeite.
+The Bavarian Wikinews has been created as separate namespace within Bavarian Wikipedia: Nochricht:Boarische Nochrichtn.
+The Literary Chinese Wikinews has been created as separate namespace within Literary Chinese Wikipedia: 維基大典:世事.
+The Low German Wikinews has been created as separate namespace within Low German Wikipedia: Portal:Wikinews.
+The Rhine Franconian Wikinews has been created as separate namespace within Rhine Franconian Wikipedia: Portal:Rheifränggisches Wikinews.
+History[edit]
+This page was originally a proposal for the new project. It was first envisaged as Wikews by an anonymous contributor, with Kwekubo coining the name. It was voted on at Wikinews/Vote.  Then a demo site was set up at demo.wikinews.org, which was made live after a month of discussion and content seeding. See also the history about all Wikimedia projects.
+October 26, 2004: A non-binding straw poll is started over which content license to use -- ::Wikinews/License straw poll.
+October 27, 2004: A discussion session today, 20:00 UTC, on irc.freenode.net, #wikinews.  ::Log : /IRC meeting Oct 27
+December 2, 2004: demo.wikinews.org moved to en.wikinews.org.
+December 3, 2004: German edition was created.
+January 28, 29, 2005: Dutch, French, Swedish and Spanish editions were created.
+February 6, 2005: Bulgarian edition was launched.
+February 12, 2005: A new logo is chosen, see Wikinews logo contest voting.
+February 19, 2005: Polish, Romanian and Portuguese were launched.
+March 13, 2005: The English edition reached 1,000 news articles.
+March 19, 2005: Ukrainian edition was launched.
+March 24, 2005: The German edition reached 1,000 news articles.
+March 31, 2005: Italian edition was launched.
+May 23, 2005: Serbian edition was launched.
+July 14, 2005: Japanese edition was launched.
+July 31, 2005:The Polish edition reached 1,000 news articles.
+November 1, 3, 2005: Russian and Hebrew editions were created.
+November 28, 2005: The Portuguese edition reached 1,000 news articles.
+December 5, 2005: The Italian edition reached 1,000 news articles.
+December 12, 2005: Thai and Arabic editions were created.
+December 27, 2005: The Spanish edition reached 1,000 news articles.
+January 11, 2006: Norwegian edition was created.
+January 18, 2006: The Swedish edition reached 1,000 news articles.
+March 13, 2006: Chinese edition was created.
+April 30, 2006: The English edition reached 5,000 news articles.
+May 26, 2006: Catalan edition was launched.
+November 1, 2006: The French edition reached 1,000 news articles.
+July 13, 2007: The Low Saxon edition was launched.
+August 21, 2007: The Polish edition has reached 5,000 news articles.
+November 25, 2007: The Finnish edition was launched.
+January 29, 2008: The Italian edition has reached 5,000 news articles.
+May 26, 2008: Czech and Hungarian editions were launched.
+August 10, 2008: The Serbian edition reached 3,000 news articles.
+January 8th, 2009: The Dutch edition reached 1,000 news articles.
+January 20, 2009: The Portuguese edition reached 4,000 news articles.
+February 20, 2009: The Bavarian edition was launched.
+April 1, 2009: The French edition reached 5,000 news articles.
+May 2, 2009: The Serbian edition reached 5,000 news articles.
+May 19, 2009: The Portuguese edition reached 4,500 news articles.
+May 26, 2009: The Italian edition has reached 7,000 news articles.
+June 3, 2009: The French edition has reached 5,500 news articles.
+June 9, 2009: The Serbian edition has reached 6,000 news articles.
+June 26, 2009: The Serbian edition has reached 7,000 news articles.
+June 26, 2009: The Polish edition has reached 10,000 news articles.
+July 14, 2009: The Portuguese edition has reached 5,000 news articles.
+September 3, 2009: The Alemannic edition was launched.
+December 3, 2009: The Spanish edition has reached 5,000 news articles.
+February 23, 2010: The Romanian edition has reached 500 articles.
+February 24, 2010: The Dutch edition has been locked due to inactivity.
+March 1, 2010: The Hungarian Wikinews has reached 500 news articles.
+March 5, 2010: The Serbian edition has reached 30,000 news articles.
+August 19, 2010: The Korean edition was launched.
+October 17, 2010: The Persian edition was launched.
+November 9, 2010: The Czech edition has reached 1,000 news articles.
+November 13, 2010: The Esperanto edition was launched.
+December 28, 2010: The Romanian edition has reached 1,000 news articles.
+February 27, 2011: The Persian edition has reached 500 news articles.
+March 15, 2011: The Esperanto edition has reached 100 articles.
+March 18, 2011: The Shqip (Albanian) edition is launched.
+April 8, 2011: The Greek edition has been created.
+May 15, 2011: The Hungarian and Thai editions have been locked following a discussion.
+May 21, 2011: The Arabic edition has reached 1000 news articles.
+June 20, 2011: The Greek edition has reached 500 news articles.
+July 14, 2011: The Persian edition has reached 1000 news articles.
+October 18, 2011: The Greek edition has reached 1000 news articles.
+August 15, 2012: The Greek edition has reached 2000 news articles.
+September 7, 2012: The Russian edition has reached 4000 news articles.
+August 22, 2013: The Palatinate German edition was launched.
+November 24, 2013: The Portuguese edition has reached 8000 news articles. [1]
+March 12, 2014: The Russian edition has reached 7000 news articles. [2]
+April 9, 2014: The German edition has reached 12000 news articles. [3]
+August 2, 2014: The Russian edition has reached 8000 news articles. [4]
+September 15, 2014: The Spanish edition has reached 9000 news articles. [5]
+December 3, 2014: The Portuguese edition exceeds the Spanish edition. [6]
+December 9, 2014: The Portuguese edition has reached 9000 news articles. [7]
+December 11, 2014: The Portuguese edition exceeds the Italian edition. [8]
+December 31, 2014: The Portuguese edition has reached 10000 news articles.
+August 20, 2015: The Chinese edition has reached 5000 news articles. [9]
+October 17, 2015: The Arab edition has reached 2000 news articles. [10]
+March 17, 2016: The Russian edition has reached 10000 news articles.
+August 27, 2016: The Russian edition has reached 11000 news articles. [11]
+November 8, 2016: The Chinese edition has reached 6000 news articles. [12]
+November 23, 2016: The English edition has reached 21000 news articles. [13]
+December 19, 2016: The Tamil edition has reached 3000 news articles. [14]
+December 21, 2016: The Czech edition has reached 4000 news articles. [15]
+April 16, 2017: The Arabic edition has reached 3000 news articles. [16]
+July 5, 2017: The Dutch edition is reopened after nearly seven years of inactivity.
+July 12, 2017: The Russian edition exceeds the German edition.
+July 17, 2017: The Czech edition has reached 5000 news articles. [17]
+August 6, 2017: The Portuguese edition exceeds the Polish edition. [18]
+August 29, 2017: The Chinese edition has reached 7000 news articles. [19]
+January 9, 2018: The Arabic edition has reached 4000 news articles. [20]
+February 9, 2018: The Arabic edition exceeds the Czech edition. [21]
+February 13, 2018: The Arabic edition exceeds the Chinese edition. [22]
+May 14, 2018: The Italian edition has reached 9000 news articles. [23]
+June 20, 2018: The Chinese edition exceeds the Arabic edition. [24]
+June 23, 2018: The Chinese edition has reached 7500 news articles.
+September 26, 2018: The Chinese edition has reached 8000 news articles. [25]
+October 12, 2018: The Serbian edition has reached 77000 news articles. [26]
+November 14, 2018: The Limburgish edition was created.
+November 16, 2018: The Portuguese edition has reached 13000 news articles. [27]
+January 29, 2019: The Catalan edition has reached 4000 news articles. [28]
+February 13, 2019: The Chinese edition exceeds the Italian edition. [29]
+May 10, 2019: The Portuguese edition exceeds the German edition.
+May 28, 2019: The Chinese edition has reached 10000 news articles. [30]
+July 25, 2019: The Dutch edition has reached 4000 news articles. [31]
+August 23, 2019: After update correct the news number, the Polish edition appears ahead of the Portuguese and German editions. [32]
+September 23, 2019: The Bulgarian edition has been closed and marked for deletion following a year-long discussion.
+October 23, 2019: The Russian edition has reached 20000 news articles. [33]
+October 30, 2019: The Limburgish edition has reached 1000 news articles. [34]
+June 22, 2020: The Turkish edition has been closed based on a community discussion. (Phabricator ticket: T247330; proposal on Meta)
+July 26, 2021: DPL had been turned off on the Russian edition after it caused an outage because the extension was not optimized for such a huge workload (Phabricator ticket: T287362; ru.wn coverage)
+October 11, 2021: The Russian Wikinews overtakes the Polish Wikipedia by their number of articles. See ru.wn coverage.
+Purpose[edit]
+see the original Wikinews manifesto
+Wikinews seeks to create a free source of news, where every human being is invited to contribute reports about events large and small, either from direct experience, or summarized from elsewhere.
+While Wikinews aims to be a useful resource of its own, it will also provide an alternative to proprietary news agencies like the Associated Press or Reuters; that is, it will allow independent media outfits to get a high quality feed of news free of charge to complement their own reporting.
+Wikinews follows key principles which have made Wikipedia and other Wikimedia websites what they are today: neutrality, free content, and an open decision making process.
+Internationality[edit]
+The internationality of the Wikimedia Foundation is one of our biggest strengths, and the Wikinews projects is building on this strength right from the start. Our first requirement is that Wikinews will be set up like Wikipedia, with a language domain for every Wikinews project:
+http://de.wikinews.org
+http://en.wikinews.org
+...
+and so on. A Wikinews project in a language will be started under two conditions: a) that the language is accepted as one of the Wikimedia project languages, b) that there are a sufficient number of people who express an interest in working on that language edition. Before a Wikinews language version is officially recognized as a Wikimedia project, and before the first sysop can be appointed, there must at least be 5 participants.  This condition is there to prevent a single individual from effectively becoming a "benevolent dictator" in a Wikinews language version.
+Stories from each language subdomain could be combined into a multilingual newspaper, as is discussed on the talk page.
+Article stages[edit]
+A news article is a historical document. It is something which people expect to be able to cite without substantial changes to its content, especially after the event is no longer current. This means that, at the time of publication, a news article must be solidly fact-checked and as objective as possible. Anyone should be able to take a published Wikinews article, print it out and distribute it, or use it as a citation – at any time.
+Unlike a Wikipedia article, a Wikinews article has a lifecycle. An article goes through a development process before it is considered ready for publication. The publishing stage links the article from prominent pages, and as the article ages it will remain publicly accessible with a permanent url.
+Original reporting[edit]
+In order to implement our vision of not just a news summary service, but a source of original reporting, we formulate as our third requirement for Wikinews that there will be at least two types of reports:
+summaries from external sources
+reports by Wikinews reporters (based on first-hand experiences or on interviews and research)
+In this context, we also establish one key principle that any Wikinews implementation must follow: to make available to the reader all the knowledge which we ourselves have, that is, to fully cite our sources, with the exception of sources which are anonymized for their protection.
+Ensuring accuracy and legality[edit]
+The inclusion of original reports greatly expands the range of Wikimedia content for which the Wikimedia Foundation is potentially liable. The importance of news in informing public opinion also places on us an additional burden to, from the start, do our best to ensure the absolute accuracy of the content we publish.
+Our fourth requirement for Wikinews is therefore that there must be processes in place to ensure that original reports are accurate and legal in the country of publication (and possibly the country of the primary readership, but this is left for individual Wikinews communities to decide in agreement with the Wikimedia Foundation). We cannot rely on the wiki process to improve articles after they are published, because, unlike an encyclopedia article, a news article has a limited lifetime: it receives very high exposure for a very brief period of time. Articles must be accurate and legal at the time of publication.
+The thinktank lists some general ideas on how to maintain openness for original reports while guaranteeing that we can actually verify the information which is inserted. None of these ideas are, however, a requirement for the Wikinews proposal as presented here - the precise methods by which the requirement of accuracy and legality is satisfied will be left up to the individual Wikinews projects to implement.
+Ensuring neutrality[edit]
+Wikinews adopts the neutral point of view policy which has been key behind the success of Wikipedia. All opinions and beliefs have to be attributed to their adherents, all factual claims have to be sourced. Wikinews will not engage in political advocacy; unlike some newspapers, it will not endorse political candidates, for example. An article which is not neutral at the time of final review should either be fixed or not be published.
+Frequently Asked Questions (FAQ)[edit]
+How will you avoid duplication of effort with Wikipedia?
+Wikinews articles provide very detailed information about specific events ("Allende toppled: Pinochet new ruler"). Wikipedia articles provide condensed information about a series of events (w:History of Chile, w:Augusto Pinochet, etc.). Also, Wikinews allows original research, while Wikipedia does not (Wikinews may eventually become reliable enough to be cited as a source on Wikipedia).
+Let's take as a specific example the article w:Hurricane Charley on the English Wikipedia. In Wikinews, we would not just publish a brief timeline as in Wikipedia, but a detailed article about
+what the forecast of the hurricane path and strength for the next day is
+according to different experts
+what preparations are being made by the local authorities (evacuations  etc.)
+what the situation is like for the people living in the storm area (live wiki-report)
+Where Wikipedia would just summarize something like
+this report in one sentence, Wikinews might well reproduce (if in the public domain) the whole thing in order to give people as much useful "live" information as  
+possible.
+So the two projects are very different, and in many cases, the work of summarizing the Wikinews article in Wikipedia will not be much different from the work of summarizing other sources like CNN or MSNBC.
+Nevertheless, Wikinews would also benefit from good article abstracts in addition to the full articles; so, for example, you could have a Wikinews article about the release of a new version of Microsoft Windows, and the introduction would briefly summarize what the main changes are, while the main text would go into much more detail.
+It makes sense to aim for cross-wiki transclusion of this content: Wikinews could provide the abstracts, and Wikipedia could dynamically transclude them (like template pages) on a page like w:current events.
+Overlap with Wikipedia background articles can be avoided by simply prominently linking to them in the Wikinews article and not going into too much detail about the history of an event.
+What will the scope of the Wikinews project be?
+This is left up to the individual Wikinews communities to decide (in the spirit of Wikipedia:What Wikipedia is not), but in general, we will want to discourage things which are not verifiable or not significant. Nevertheless, Wikinews should grow into a very broad news source that even covers relatively minor events in very specific fields ("Linux kernel 2.6.7 released, FP crash fix"). The project will have to develop guidelines and processes by which events of major and minor significance can be distinguished, i.e. be given different prominence.
+How can I ever trust what I read in Wikinews?
+Our goal is that you can trust us more than you can trust other media, because we tell you exactly what we know and with what level of certainty we know it. In practice this means that factual information will always be sourced, even if it is to an anonymous source who has contacted a Wikinews reporter.
+Reporting is expensive: how will you pay for travel costs, etc.?
+Wikinews will depend on volunteers, at least initially. In the long term, it may be desirable to have a Wikinews research fund within the Wikimedia budget, so that Wikinews reporters can apply for funding for expensive research. Nevertheless, given that the Wikimedia community is very international, any country that has some level of Internet coverage is likely to have some Wikinews reporters sooner or later.
+What processes will be in place for when a Wikinews user knowingly publishes POV or factually incorrect information?
+Some ideas for dealing with this are outlined on the Wikinews/Thinktank page. In the general, we will want to exclude such users from the Wikinews community as we seek to exclude POV-pushers and vandals from the other Wikimedia communities.
+Current Wikinews initiatives[edit]
+Wikinews has a range of projects underway, many of them designed to encourage the creation of original reporting content on the various Wikinews language editions.
+WORTNET translates original news reporting across the languages.
+Wikinews/Interview of the month creates opportunities to interview news makers live in IRC.
+Wikinews/RSS is a project to build RSS feeds for the Wikinews projects.
+The Wikinewsie Group/Local Wikinews policies
+Wikinews/Facebook, a proposal to merge all the different Wikinews Facebook page.
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Wikinews&oldid=25517133"
+Categories: WikinewsLists of Wikimedia projects
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Content pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+Wikimedia CommonsWikibooksWikipediaWikiversity
+In other languages
+AfrikaansAlemannischالعربيةঅসমীয়াAsturianuAzərbaycancaBoarischŽemaitėškaБеларускаяБеларуская (тарашкевіца)БългарскиবাংলাBosanskiCatalà閩東語 / Mìng-dĕ̤ng-ngṳ̄کوردیČeštinaЧӑвашлаDanskDeutschΕλληνικάEnglishEsperantoEspañolفارسیSuomiFrançais客家語/Hak-kâ-ngîעבריתहिन्दीMagyarՀայերենBahasa IndonesiaItaliano日本語Jawaქართულიಕನ್ನಡ한국어KurdîLatinaLadinoLietuviųLatviešuമലയാളംBahasa MelayuMaltiनेपालीNederlandsNorsk nynorskNorskOccitanଓଡ଼ିଆਪੰਜਾਬੀPolskiPortuguêsRomânăРусскийРусиньскыйСаха тылаSicilianuSrpskohrvatski / српскохрватскиSimple EnglishSlovenčinaSlovenščinaShqipСрпски / srpskiSvenskaதமிழ்తెలుగుТоҷикӣไทยTagalogTürkçeТатарча / tatarçaУкраїнськаاردوOʻzbekcha / ўзбекчаTiếng ViệtWinaray吴语ייִדישYorùbáVahcuengh中文Bân-lâm-gú粵語
+Edit links
+ This page was last edited on 26 August 2023, at 00:43.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

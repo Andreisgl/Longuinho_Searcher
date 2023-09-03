@@ -1,0 +1,1111 @@
+Wikidata as a knowledge graph for the life sciences - Wikidata
+Wikidata as a knowledge graph for the life sciences
+(Q87830400)
+From Wikidata
+Jump to navigation
+Jump to search
+scientific article published on 17 March 2020
+edit
+Language
+Label
+Description
+Also known as
+English
+Wikidata as a knowledge graph for the life sciences
+scientific article published on 17 March 2020
+Statements
+instance of
+scholarly article
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+image
+Elife-52614-fig1-v1.jpg7,734 × 5,476; 3.83 MB
+0 references
+Wikidata as a knowledge graph for the life sciences.pdf1,275 × 1,650, 15 pages; 704 KB
+reason for preferred rank
+whole
+0 references
+title
+Wikidata as a knowledge graph for the life sciences (English)
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+main subject
+Wikidata
+0 references
+FAIR data
+0 references
+life sciences
+0 references
+ontology
+0 references
+knowledge graph
+0 references
+biology
+0 references
+semantic interoperability
+0 references
+knowledge graph of science
+0 references
+author
+Andra Waagmeester
+series ordinal
+1
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Gregory Stupp
+series ordinal
+2
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Sebastian Burgstaller-Muehlbacher
+series ordinal
+3
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Benjamin M. Good
+series ordinal
+4
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Malachi Griffith
+series ordinal
+5
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Obi Griffith
+series ordinal
+6
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Kristina Hanspers
+series ordinal
+7
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Henning Hermjakob
+series ordinal
+8
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Toby Hudson
+series ordinal
+9
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Kevin Hybiske
+series ordinal
+10
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Sarah M Keating
+series ordinal
+11
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Magnus Manske
+series ordinal
+12
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Michael Mayers
+series ordinal
+13
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Daniel Mietchen
+series ordinal
+14
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Elvira Mitraka
+series ordinal
+15
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Alexander R. Pico
+series ordinal
+16
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Timothy Elliott Putman
+series ordinal
+17
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Anders Riutta
+series ordinal
+18
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Núria Queralt Rosinach
+series ordinal
+19
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Lynn Schriml
+series ordinal
+20
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Thomas Shafee
+series ordinal
+21
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Denise Slenter
+series ordinal
+22
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Ralf Stephan
+series ordinal
+23
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Katherine Thornton
+series ordinal
+24
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Ginger Tsueng
+series ordinal
+25
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Roger Tu
+series ordinal
+26
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Sabah Ul-Hasan
+series ordinal
+27
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Egon Willighagen
+series ordinal
+28
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Chunlei Wu
+series ordinal
+29
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+Andrew I. Su
+series ordinal
+30
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+language of work or name
+English
+0 references
+publication date
+17 March 2020
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+number of pages
+15
+0 references
+full work available at URL
+https://elifesciences.org/articles/52614
+0 references
+published in
+eLife
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+volume
+9
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+document file on Wikimedia Commons
+Wikidata as a knowledge graph for the life sciences.pdf1,275 × 1,650, 15 pages; 704 KB
+0 references
+Wikisource index page URL
+https://en.wikisource.org/wiki/Index:Wikidata_as_a_knowledge_graph_for_the_life_sciences.pdf
+0 references
+cites work
+Searching Online Mendelian Inheritance in Man (OMIM): A Knowledgebase of Human Genes and Genetic Phenotypes.
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+​WikiCite 2018-2019: Citations for the sum of all human knowledge
+0 references
+Bayesian ontology querying for accurate and noise-tolerant semantic searches
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+The Unified Medical Language System (UMLS): integrating biomedical terminology
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+Directly e-mailing authors of newly published papers encourages community curation
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+Wikidata as a semantic framework for the Gene Wiki initiative
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+Protein Data Bank: the single global archive for 3D macromolecular structure data
+0 references
+NGLY1 mutation causes neuromotor impairment, intellectual disability, and neuropathy
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+Models for financial sustainability of biological databases and resources
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+Standardized description of scientific evidence using the Evidence Ontology (ECO)
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+Scholia, Scientometrics and Wikidata
+series ordinal
+42
+0 references
+Wikidata: A large-scale collaborative ontological medical database
+series ordinal
+59
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+Wikidata: A New Platform for Collaborative Data Collection
+series ordinal
+63
+0 references
+PDB-Ligand: a ligand database based on PDB for the automated and customized classification of ligand-binding structures
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+LMSD: LIPID MAPS structure database
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+Mendelian Inheritance in Man and its online version, OMIM
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+The NCI Thesaurus quality assurance life cycle
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+PubChem: a public information system for analyzing bioactivities of small molecules
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+Clinical diagnostics in human genetics with semantic similarity searches in ontologies
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+The BridgeDb framework: standardized access to gene, protein and metabolite identifier mapping services
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+MassBank: a public repository for sharing mass spectral data for life sciences
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+Normalized names for clinical drugs: RxNorm at 6 years
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+The IUPHAR/BPS Guide to PHARMACOLOGY: an expert-driven knowledgebase of drug targets and their ligands
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+Mutations in NGLY1 cause an inherited disorder of the endoplasmic reticulum-associated degradation pathway
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+The BioMart community portal: an innovative alternative to large, centralized data repositories
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+The IUPHAR/BPS Guide to PHARMACOLOGY in 2016: towards curated quantitative interactions between 1300 protein targets and 6000 ligands
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+The FAIR Guiding Principles for scientific data management and stewardship
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+Sustainable funding for biocuration: The Arabidopsis Information Resource (TAIR) as a case study of a subscription-based funding model
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+Prospective phenotyping of NGLY1-CDDG, the first congenital disorder of deglycosylation
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+Sharing and community curation of mass spectrometry data with Global Natural Products Social Molecular Networking
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+DrugCentral: online drug compendium
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+SPLASH, a hashed identifier for mass spectra
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+The Human Phenotype Ontology in 2017
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+The Monarch Initiative: an integrative data and analytic platform connecting phenotypes to genotypes across species
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+CIViC is a community knowledgebase for expert crowdsourcing the clinical interpretation of variants in cancer
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+WikiGenomes: an open Web application for community consumption and curation of gene annotation data in Wikidata
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+Systematic integration of biomedical knowledge prioritizes drugs for repurposing
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+WikiPathways: a multifaceted pathway database bridging metabolomics to other omics research
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+The Reactome Pathway Knowledgebase.
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+The IUPHAR/BPS Guide to PHARMACOLOGY in 2018: updates and expansion to encompass the new guide to IMMUNOPHARMACOLOGY.
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+Marking 15 years of the Genetic and Rare Diseases Information Center
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+Ensembl 2018.
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+The CompTox Chemistry Dashboard: a community data resource for environmental chemistry.
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+Funding knowledgebases: Towards a sustainable funding model for the UniProt use case.
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+Cross-linking BioThings APIs through JSON-LD to facilitate knowledge exploration.
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+Harmonising phenomics information for a better interoperability in the rare disease field.
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+Uniform resolution of compact identifiers for biomedical data.
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+The Pfam protein families database in 2019
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+UniProt: a worldwide hub of protein knowledge
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+InterPro in 2019: improving coverage, classification and access to protein sequence annotations
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+Human Disease Ontology 2018 update: classification, content and workflow expansion
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+FAIRsharing as a community approach to standards, repositories and policies
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+ChlamBase: a curated model organism database for the Chlamydia research community
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+Evaluating FAIR maturity through a scalable, automated, community-governed framework
+1 reference
+stated in
+PubMed
+reference URL
+https://pubmed.ncbi.nlm.nih.gov/32180547
+retrieved
+12 December 2020
+based on heuristic
+inferred from PubMed ID database lookup
+The Semantic Web – ISWC 2017: 16th International Semantic Web Conference, Vienna, Austria, October 21-25, 2017, Proceedings, Part II
+1 reference
+stated in
+COCI
+reference URL
+https://opencitations.net/index/coci/api/v1/references/10.7554/ELIFE.52614
+retrieved
+30 October 2021
+Database resources of the National Center for Biotechnology Information
+1 reference
+stated in
+COCI
+reference URL
+https://opencitations.net/index/coci/api/v1/references/10.7554/ELIFE.52614
+retrieved
+30 October 2021
+ORCID
+1 reference
+stated in
+COCI
+reference URL
+https://opencitations.net/index/coci/api/v1/references/10.7554/ELIFE.52614
+retrieved
+30 October 2021
+A systematic literature review on Wikidata
+1 reference
+stated in
+COCI
+reference URL
+https://opencitations.net/index/coci/api/v1/references/10.7554/ELIFE.52614
+retrieved
+30 October 2021
+Identifiers
+DOI
+10.7554/ELIFE.52614
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+PMCID
+7077981
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+PubMed ID
+32180547
+1 reference
+stated in
+Europe PubMed Central
+PMCID
+7077981
+reference URL
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32180547%20AND%20SRC:MED&resulttype=core&format=json
+retrieved
+13 April 2020
+ResearchGate publication ID
+339985351
+1 reference
+reference URL
+https://www.researchgate.net/publication/339985351_Wikidata_as_a_knowledge_graph_for_the_life_sciences
+title
+(PDF) Wikidata as a knowledge graph for the life sciences (English)
+retrieved
+28 January 2021
+ 
+Sitelinks
+Wikipedia(0 entries)
+edit
+Wikibooks(0 entries)
+edit
+Wikinews(0 entries)
+edit
+Wikiquote(0 entries)
+edit
+Wikisource(0 entries)
+edit
+Wikiversity(0 entries)
+edit
+Wikivoyage(0 entries)
+edit
+Wiktionary(0 entries)
+edit
+Multilingual sites(0 entries)
+edit
+Retrieved from "https://www.wikidata.org/w/index.php?title=Q87830400&oldid=1936354897"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+ItemDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 17 July 2023, at 19:50.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

@@ -1,0 +1,231 @@
+Download - MediaWiki
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageGet MediaWikiGet extensionsTech blogContribute
+Support
+User helpFAQTechnical manualSupport deskCommunication
+Development
+Developer portalCode statistics
+MediaWiki.org
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+In other languages
+БългарскиবাংলাČeštinaDanskDeutschΕλληνικάEnglishEspañolفارسیSuomiFrançaisGalegoעבריתBahasa IndonesiaItaliano日本語한국어LatinaLietuviųPolskiPortuguêsРусскийShqipSvenskaதமிழ்ไทยTürkçeУкраїнськаOʻzbekcha / ўзбекча吴语中文粵語
+Edit links
+Search
+Search
+ EnglishCreate accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+Beginning
+1Latest release
+Toggle Latest release subsection
+1.1System Requirements
+1.2Download via command line
+1.3Download from Git (for developers)
+1.4Signature downloads
+1.5Alternatives to manual installation
+2What next?
+3Legacy releases
+4Development releases
+5Old releases
+6Footnotes
+Toggle the table of contents
+Toggle the table of contents
+Download
+PageDiscussion
+English
+ReadView sourceView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadView sourceView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+Wikimedia CommonsMeta-WikiWikidataWikipediaWikivoyage
+From mediawiki.org
+Translate this pageLanguages:Afrikaans
+Bahasa Indonesia
+Bahasa Melayu
+Basa Banyumasan
+Boarisch
+Cymraeg
+Deutsch
+Deutsch (Sie-Form)
+Dusun Bundu-liwan
+English
+Esperanto
+Hausa
+Ido
+Lëtzebuergesch
+Nederlands
+Qaraqalpaqsha
+Scots
+Sunda
+Tagalog
+Tiếng Việt
+Türkçe
+Zazaki
+aragonés
+bosanski
+brezhoneg
+català
+dansk
+eesti
+español
+español (formal)
+français
+galego
+hrvatski
+interlingua
+italiano
+kurdî
+lietuvių
+magyar
+norsk bokmål
+occitan
+oʻzbekcha / ўзбекча
+polski
+português
+português do Brasil
+română
+slovenčina
+slovenščina
+suomi
+svenska
+čeština
+Ελληνικά
+беларуская
+български
+русский
+српски / srpski
+татарча / tatarça
+українська
+ўзбекча
+қазақша
+հայերեն
+עברית
+ئۇيغۇرچە / Uyghurche
+العربية
+تۆرکجه
+سنڌي
+فارسی
+پښتو
+کوردی
+अंगिका
+अवधी
+मराठी
+हिन्दी
+অসমীয়া
+বাংলা
+தமிழ்
+తెలుగు
+മലയാളം
+සිංහල
+ไทย
+ပအိုဝ်ႏဘာႏသာႏ
+ဖၠုံလိက်
+ဘာသာ မန်
+မြန်မာဘာသာ
+ქართული
+ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ
+中文
+吴语
+日本語
+粵語
+ꯃꯤꯇꯩ ꯂꯣꯟ
+조선말
+한국어
+ Install MediaWiki : Requirements  • Download  • Extract  • Upload  • Set up database  • Install  • Configure  • Customize    FAQ  •  Common issues  •  Get help and support 
+Latest release
+ Download MediaWiki 1.40.0 (.zip)
+Download .tar.gz instead
+Help with downloading
+Most computers can extract a zip file without additional software.
+Users of 7-Zip: Note that prior to 2021, 7-Zip was unable to extract .tar.gz files correctly (T257102). It is recommended to update to the latest version first.
+Users of macOS: Note that The Unarchiver is unable to extract .tar.gz files correctly (T258716). Archive Utility can be used instead.
+All versions
+MediaWiki 1.40.0 (download .zip, download .tar.gz) - stable
+MediaWiki 1.39.4 (download .zip, download .tar.gz) - long-term support (LTS)
+MediaWiki 1.35.11 (download .zip, download .tar.gz) - legacy long-term support (LTS)
+To users of MediaWiki versions version 1.36-1.38 and 1.34 and earlier: These versions are no longer supported. Please update to a newer version of MediaWiki.
+License
+MediaWiki is free software licensed under version 2 (or later version) of the GNU General Public License.
+Because MediaWiki is licensed free of charge, there is no warranty, to the extent permitted by applicable law.
+Read the full text of the GNU GPL version 2 for details.
+More information
+Release notes 
+Manual:Installation guide 
+Manual:Upgrading 
+Version lifecycle 
+System Requirements
+MediaWiki requires PHP 7.4.3+, a webserver software, and either MariaDB  10.3.0+, MySQL  5.7.0+, SQLite  3.8.0+ or PostgreSQL  10.0+.
+Using MariaDB or MySQL is recommended as Wikimedia uses MariaDB.
+Any other database servers are less tested and you may likely run into some bugs.
+For more information, please read the pages on system requirements and compatibility.
+MediaWiki is not compatible with PHP 7.4.0 - 7.4.2 due to an upstream bug. Use PHP 7.4.3+ instead. See task T246594 for more information.
+If using PHP8, it is recommended to use MediaWiki 1.38.4+, or 1.39 or higher. PHP8 is not in use by Wikimedia wikis, and thus gets less testing, but other groups do use MediaWiki with PHP8 without issue. If you encounter any bugs when using MediaWiki with PHP8, please report them. See task T248925 for more information.
+Download via command line
+To download MediaWiki 1.40.0 in a terminal on a Linux machine using wget, use one of the following commands:
+wget https://releases.wikimedia.org/mediawiki/1.40/mediawiki-1.40.0.tar.gz
+Alternatively, using cURL:
+curl -O https://releases.wikimedia.org/mediawiki/1.40/mediawiki-1.40.0.tar.gz
+Download from Git (for developers)
+Active MediaWiki developers should instead download from Git to get the latest version of the MediaWiki software.
+The git repository has earlier versions of the software, so it is possible to switch to ("check out") a particular release.
+Developers downloading from Git will also need to manually install dependencies via Composer .
+Signature downloads
+GPG security signatures to verify your download with GNU Privacy Guard:
+MediaWiki 1.40.0 - stable
+MediaWiki 1.39.4 - current long-term support (LTS)
+GPG keys
+Alternatives to manual installation
+Some users may prefer to skip manual installation by using a pre-integrated MediaWiki software appliance or hosting services.
+Repositories of some Linux distributions also increasingly offer packages for MediaWiki, with different degrees of frequency and extensions coverage (e.g. Debian, Ubuntu, Fedora, Gentoo).
+What next?
+Subscribe to our release announcements mailing list.
+Stay up to date with releases, and keep your server secure!
+Legacy releases
+If your MediaWiki installation is heavily modified, it may be difficult to incorporate the latest official changes/updates to MediaWiki. To support such users, we maintain old branches of our code for up to a year for the legacy release and up to three years for the legacy long term support release.
+Download legacy release MediaWiki (1.39.4)
+Development releases
+If you want to run on the latest development (i.e. alpha) version, you can either download it as mediawiki-master.tar.gz, or download from Git.
+From Git you can either download the complete repository (about 528 MiB)
+git clone https://gerrit.wikimedia.org/r/mediawiki/core.git
+or the latest revision only (about 85 MiB; this is often called a shallow clone: less time and smaller downloads).[1]
+git clone --depth 1 https://gerrit.wikimedia.org/r/mediawiki/core.git
+You can also view the latest source code in your browser.
+Old releases
+You can find tarballs (with extension *.tar.gz) of all versions of MediaWiki back to March 2005 (the earliest being MediaWiki 1.3.11) in the MediaWiki download archives.
+To browse, including even older versions, see the tags of the Git repository.
+Footnotes
+↑ 
+This could cause reference problems when you later use "git pull" to upgrade your shallow clone and the newer revision refers to older revisions which are not yet downloaded to your system. In such a case you can simply download more - increase the depth value - or all revisions later, or make a fresh shallow clone.
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Download&oldid=6024997"
+Categories: MediaWiki IntroductionInstallation
+ This page was last edited on 12 July 2023, at 22:00.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About MediaWiki.org
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

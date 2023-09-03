@@ -1,0 +1,827 @@
+Wikimedia Commons - Wikidata
+Wikimedia Commons
+(Q565)
+From Wikidata
+Jump to navigation
+Jump to search
+online repository of free-use image, sound, and other media files; part of the Wikimedia ecosystemCommonscommonswikiWikiCommonscommons.wikimedia.orgcommons wikimediacommons:Wikimedia commonsWikipedia Commons
+Language
+Label
+Description
+Also known as
+English
+Wikimedia Commons
+online repository of free-use image, sound, and other media files; part of the Wikimedia ecosystem
+CommonscommonswikiWikiCommonscommons.wikimedia.orgcommons wikimediacommons:Wikimedia commonsWikipedia Commons
+Statements
+instance of
+Wikimedia content project
+0 references
+archive
+0 references
+wiki with script conversion
+applies to part
+Extension:Translate
+0 references
+Wikimedia Foundation project
+0 references
+photo library
+0 references
+part of
+Wikimedia Foundation project
+0 references
+logo image
+Commons-logo-en.svg608 × 800; 3 KB
+0 references
+image
+Commons screenshot.png5,123 × 7,091; 4.53 MB
+0 references
+inception
+7 September 2004
+0 references
+IPA transcription
+ˌwɪ.kɪ.ˈmi.di.ə ˈkɑ.mənz
+language of work or name
+English
+pronunciation variety
+General American English
+0 references
+sponsor
+Alfred P. Sloan Foundation
+0 references
+founded by
+Erik Möller
+0 references
+Jimmy Wales
+0 references
+Wikimedia Foundation
+0 references
+country
+no value
+0 references
+located in the administrative territorial entity
+no value
+0 references
+owned by
+Wikimedia Foundation
+0 references
+country of origin
+United States of America
+0 references
+language of work or name
+multiple languages
+0 references
+catalog code
+101582
+catalog
+Datenbank-Infosystem
+0 references
+mascot
+Commons-tan
+0 references
+operator
+Wikimedia Foundation
+0 references
+data size
+135,749,755,695,740 byte
+point in time
+16 August 2017
+1 reference
+reference URL
+https://commons.wikimedia.org/wiki/Special:MediaStatistics?uselang=en
+quotation
+The following data is cached, and was last updated 11:51, 16 August 2017. [...] Total file size for all files: 135,749,755,695,740 bytes (English)
+retrieved
+8 September 2017
+246,218,971,518,004 byte
+point in time
+7 October 2019
+1 reference
+reference URL
+https://commons.wikimedia.org/wiki/Special:MediaStatistics
+291,770,164,782,919 byte
+point in time
+22 October 2020
+1 reference
+reference URL
+https://commons.wikimedia.org/wiki/Special:MediaStatistics
+326,359,483,952,645 byte
+point in time
+19 April 2021
+1 reference
+reference URL
+https://commons.wikimedia.org/wiki/Special:MediaStatistics?uselang=en
+quotation
+The following data is cached, and was last updated 09:07, 19 April 2021. (English)
+retrieved
+19 April 2021
+375,021,629,721,153 byte
+point in time
+2 June 2022
+1 reference
+reference URL
+https://commons.wikimedia.org/wiki/Special:MediaStatistics?uselang=en
+software engine
+MediaWiki
+1 reference
+imported from Wikimedia project
+Russian Wikipedia
+retrieved
+13 December 2018
+programmed in
+PHP
+1 reference
+imported from Wikimedia project
+Russian Wikipedia
+retrieved
+13 December 2018
+official app
+Wikimedia Commons Android App
+platform
+Android
+1 reference
+reference URL
+https://play.google.com/store/apps/details?id=fr.free.nrw.commons
+retrieved
+22 November 2020
+official website
+https://commons.wikimedia.org/
+language of work or name
+multiple languages
+1 reference
+imported from Wikimedia project
+Russian Wikipedia
+retrieved
+13 December 2018
+web feed URL
+https://commons.wikimedia.org/w/api.php?action=featuredfeed&feed=potd&feedformat=atom
+language of work or name
+English
+title
+Wikimedia Commons picture of the day feed (English)
+1 reference
+reference URL
+https://commons.wikimedia.org/w/api.php?action=featuredfeed&feed=potd&feedformat=atom
+title
+Wikimedia Commons picture of the day feed (English)
+retrieved
+2 April 2023
+https://commons.wikimedia.org/w/api.php?action=featuredfeed&feed=motd&feedformat=atom
+language of work or name
+English
+title
+Wikimedia Commons media of the day feed (English)
+1 reference
+reference URL
+https://commons.wikimedia.org/w/api.php?action=featuredfeed&feed=motd&feedformat=atom
+title
+Wikimedia Commons media of the day feed (English)
+retrieved
+2 April 2023
+locator map image
+Wikimedia logo family complete-2023.svg1,375 × 1,375; 1.05 MB
+0 references
+uses
+Wikibase
+0 references
+small logo or icon
+Commons-logo.svg1,024 × 1,376; 932 bytes
+0 references
+Alexa rank
+300
+point in time
+1 December 2018
+1 reference
+archive date
+1 December 2017
+archive URL
+https://web.archive.org/web/20171201153135/https://www.alexa.com/siteinfo/https://commons.wikimedia.org/
+stated in
+Alexa Internet
+reference URL
+https://www.alexa.com/siteinfo/https://commons.wikimedia.org/
+retrieved
+1 December 2017
+social media followers
+20,247
+Twitter numeric user ID
+285907780
+point in time
+6 January 2021
+0 references
+20,119
+Twitter numeric user ID
+285907780
+point in time
+2 December 2020
+0 references
+IRC channel URL
+irc://irc.freenode.net/#wikimedia-commons
+0 references
+API endpoint URL
+https://commons.wikimedia.org/w/api.php
+protocol
+MediaWiki action API
+described at URL
+https://www.mediawiki.org/wiki/API:Main_page
+1 reference
+retrieved
+13 November 2020
+https://commonsreconcile.toolforge.org/en/api
+protocol
+OpenRefine reconciliation service API
+source code repository URL
+https://gerrit.wikimedia.org/r/q/project:labs%252Ftools%252Fcommons-recon-service
+0 references
+https://commons.wikimedia.org/w/rest.php
+protocol
+MediaWiki REST API
+0 references
+https://commons.wikimedia.org/api/rest_v1/
+protocol
+Wikimedia REST API
+0 references
+OpenStreetMap tag or key
+Key:wikimedia_commons
+0 references
+Stack Exchange tag
+https://stackoverflow.com/tags/wikimedia-commons
+0 references
+different from
+MediaCommons
+1 reference
+imported from Wikimedia project
+English Wikipedia
+Wikimedia import URL
+https://en.wikipedia.org/w/index.php?title=Wikimedia_Commons&oldid=949914447
+Flickr Commons
+0 references
+permanent duplicated item
+Wikimedia Commons
+0 references
+Q32858153
+1 reference
+inferred from
+Q32858153
+Commons gallery
+Wikimedia Commons
+0 references
+Commons category
+Wikimedia Commons
+0 references
+topic's main category
+Category:Wikimedia Commons
+0 references
+search formatter URL
+https://commons.wikimedia.org/w/index.php?search=$1
+language of work or name
+multiple languages
+0 references
+Identifiers
+VIAF ID
+3860156565694023500008
+0 references
+215150747071016302186
+0 references
+GND ID
+1192150198
+0 references
+NUKAT ID
+n2017147475
+0 references
+All the Tropes ID
+Wikimedia_Commons
+0 references
+AlternativeTo software ID
+wikimedia-commons
+0 references
+Australian Trade Mark Number
+1571924
+object has role
+word trademark
+0 references
+1579762
+object has role
+figurative trademark
+0 references
+1652558
+object has role
+word trademark
+0 references
+1660849
+object has role
+figurative trademark
+0 references
+BaGLAMa GID
+1
+0 references
+Datahub page
+wikimedia_commons
+0 references
+English Vikidia ID
+Wikimedia_Commons
+0 references
+F-Droid package
+fr.free.nrw.commons
+0 references
+com.commonslab.commonslab
+0 references
+Facebook ID
+WikiCommons
+0 references
+Freebase ID
+/m/04f_qd
+1 reference
+stated in
+Freebase Data Dumps
+publication date
+28 October 2013
+French Vikidia ID
+Wikimedia_Commons
+0 references
+GitHub topic
+wikimedia-commons
+0 references
+Google+ ID
+113750847505603536456
+0 references
+IMDb ID
+co0324249
+0 references
+Instagram username
+wikicommons
+0 references
+interwiki prefix at Wikimedia
+c
+formatter URL
+https://commons.wikimedia.org/wiki/$1
+0 references
+commons
+formatter URL
+https://commons.wikimedia.org/wiki/$1
+0 references
+Japan Search name ID
+ウィキメディア・コモンズ
+0 references
+LinkedIn organization ID
+wikicommons
+0 references
+OpenDOAR ID
+3143
+0 references
+Quora topic ID
+Wikimedia-Commons
+0 references
+ScienceDirect topic ID
+computer-science/wikimedia-commons
+0 references
+subreddit
+Wikimedia_Commons
+start time
+19 July 2016
+language of work or name
+English
+subject named as
+Wikimedia Commons
+0 references
+Trustpilot company ID
+commons.wikimedia.org
+has quality
+unclaimed Trustpilot business
+subject named as
+Wikimedia
+0 references
+TV Tropes ID
+no value
+statement supported by
+All the Tropes
+1 reference
+stated in
+All the Tropes
+All the Tropes ID
+Wikimedia_Commons
+Twitter username
+WikiCommons
+number of subscribers
+20,119
+Twitter numeric user ID
+285907780
+point in time
+2 December 2020
+has quality
+verified account or profile
+start time
+21 April 2011
+1 reference
+retrieved
+10 May 2018
+WikiCommonsComm
+Twitter numeric user ID
+2774680136
+start time
+27 August 2014
+point in time
+18 October 2021
+1 reference
+reference URL
+https://twitter.com/WikiCommonsComm/with_replies
+title
+Tweets with replies by Wikimedia Commons (@WikiCommonsComm) / Twitter (English)
+retrieved
+14 October 2021
+VK ID
+wikimedia.commons
+0 references
+Wikibase Registry ID
+Q39
+0 references
+Wikibase World ID
+Q2
+applies to part
+Wikibase MediaInfo
+0 references
+Wikimedia database name
+commonswiki
+0 references
+Zhihu topic ID
+19651766
+subject named as
+维基共享资源
+0 references
+ 
+Sitelinks
+Wikipedia(156 entries)
+afwiki
+Wikimedia Commons
+alswiki
+Wikimedia Commons
+angwiki
+Wikimedia Commons
+anwiki
+Wikimedia Commons
+arcwiki
+ܘܝܩܝܡܝܕܝܐ ܩܘܡܡܘܢܣ
+arwiki
+ويكيميديا كومنز
+arzwiki
+ويكيميديا كومونز
+astwiki
+Wikimedia Commons
+aswiki
+ৱিকিমিডিয়া কমন্স
+avwiki
+Викигъамас
+azbwiki
+ویکی‌مدیا کامنز
+azwiki
+Vikianbar
+barwiki
+Wikimedia Commons
+bat_smgwiki
+Vikitėka
+bawiki
+Викимилек
+be_x_oldwiki
+Вікісховішча
+bewiki
+Вікісховішча
+bgwiki
+Общомедия
+biwiki
+Wikimedia Commons
+bjnwiki
+Wikimedia Commons
+blkwiki
+ဝီခီမီဒီယာ ကောင်မွဉ်း
+bnwiki
+উইকিমিডিয়া কমন্স
+bpywiki
+উইকিমিডিয়া কমন্স
+brwiki
+Wikimedia Commons
+bswiki
+Wikimedia Commons
+cawiki
+Wikimedia Commons
+cdowiki
+Wikimedia Commons
+cebwiki
+Wikimedia Commons
+cewiki
+Викиларма
+ckbwiki
+ویکیمیدیا کۆمنز
+cswiki
+Wikimedia Commons
+cvwiki
+Викиампар
+cywiki
+Comin Wicimedia
+dawiki
+Wikimedia Commons
+dewiki
+Wikimedia Commons
+dtywiki
+विकिमिडिया कमन्स
+elwiki
+Wikimedia Commons
+enwiki
+Wikimedia Commons
+eowiki
+Vikimedia Komunejo
+eswiki
+Wikimedia Commons
+etwiki
+Wikimedia Commons
+euwiki
+Wikimedia Commons
+extwiki
+Commons
+fawiki
+ویکی‌انبار
+fiwiki
+Wikimedia Commons
+frwiki
+Wikimedia Commons
+furwiki
+Wikimedia Commons
+gawiki
+Cómhaoin Wikimedia
+gdwiki
+Wikimedia Commons
+glwiki
+Wikimedia Commons
+guwiki
+વિકિમીડિયા કૉમન્સ
+hakwiki
+Wikimedia Commons
+hawiki
+Wikimedia Commons
+hewiki
+ויקישיתוף
+hiwiki
+विकिमीडिया कॉमन्स
+hrwiki
+Zajednički poslužitelj
+huwiki
+Wikimédia Commons
+hywiki
+Վիքիպահեստ
+iawiki
+Wikimedia Commons
+idwiki
+Wikimedia Commons
+igwiki
+Wikimedia Commons
+ilowiki
+Wikimedia Commons
+iswiki
+Wikimedia Commons
+itwiki
+Wikimedia Commons
+jawiki
+ウィキメディア・コモンズ
+jvwiki
+Wikimedia Commons
+kaawiki
+Wikiqoyma
+kawiki
+ვიკისაწყობი
+kbdwiki
+Уикисурэтылъэ
+kkwiki
+Ортаққор
+klwiki
+Wikimedia Commons
+kmwiki
+វិគីមេឌា Commons
+knwiki
+ವಿಕಿಮೀಡಿಯ ಕಾಮನ್ಸ್
+kowiki
+위키미디어 공용
+kshwiki
+Wikimedia Commons
+kuwiki
+Wikimedia Commons
+kywiki
+Викиказына
+lawiki
+Vicimedia Communia
+lmowiki
+Wikimedia Commons
+lnwiki
+Wikimedia Commons
+ltgwiki
+Vikiteka
+ltwiki
+Vikiteka
+lvwiki
+Vikikrātuve
+maiwiki
+विकिमिडिया कमन्स
+mgwiki
+Wikimedia Commons
+mhrwiki
+Викиклат
+minwiki
+Wikimedia Commons
+miwiki
+Wikimedia Commons
+mkwiki
+Ризница (Викимедија)
+mlwiki
+വിക്കിമീഡിയ കോമൺസ്
+mnwiki
+Викимедиа Коммонс
+mrwiki
+विकिमीडिया कॉमन्स
+mswiki
+Wikimedia Commons
+mtwiki
+Wikimedia Commons
+mywiki
+Wikimedia Commons
+ndswiki
+Wikimedia Commons
+newiki
+विकिमिडिया कमन्स
+nlwiki
+Wikimedia Commons
+nnwiki
+Wikimedia Commons
+nowiki
+Wikimedia Commons
+nsowiki
+Wikimedia Commons
+nywiki
+Wikimedia Commons
+ocwiki
+Wikimedia Commons
+orwiki
+ଉଇକିକମନ୍ସ
+oswiki
+ВикиКъæбиц
+pamwiki
+Wikimedia Commons
+papwiki
+Wikimedia Commons
+pawiki
+ਵਿਕੀਮੀਡੀਆ ਕਾਮਨਜ਼
+plwiki
+Wikimedia Commons
+pswiki
+ويکي انبار
+ptwiki
+Wikimedia Commons
+quwiki
+Wikimedia Commons
+rowiki
+Wikimedia Commons
+ruewiki
+Вікісклад
+ruwiki
+Викисклад
+satwiki
+ᱣᱤᱠᱤᱢᱤᱰᱤᱭᱟ ᱠᱚᱢᱚᱱᱥ
+scowiki
+Wikimedia Commons
+sdwiki
+وڪيميڊيا ڪامنز
+shnwiki
+Wikimedia Commons
+shwiki
+Wikimedia Commons
+simplewiki
+Wikimedia Commons
+siwiki
+විකිමීඩියා කොමන්ස්
+skwiki
+Wikimedia Commons
+slwiki
+Wikimedijina zbirka
+smnwiki
+Wikimedia Commons
+sowiki
+Wikimedia Commons
+sqwiki
+Wikimedia Commons
+srwiki
+Викимедијина остава
+suwiki
+Wikimedia Commons
+svwiki
+Wikimedia Commons
+swwiki
+Wikimedia Commons
+tawiki
+விக்கிமீடியா பொதுவகம்
+tewiki
+వికీమీడియా కామన్స్
+tgwiki
+Викианбор
+thwiki
+วิกิมีเดียคอมมอนส์
+tlwiki
+Wikimedia Commons
+tpiwiki
+Wikimedia Commons
+trwiki
+Wikimedia Commons
+ttwiki
+Викиҗыентык
+udmwiki
+Wikimedia Commons
+ukwiki
+Вікісховище
+urwiki
+ویکی ذخائر
+uzwiki
+Vikiombor
+vecwiki
+Wikimedia Commons
+viwiki
+Wikimedia Commons
+warwiki
+Wikimedia Commons
+wuuwiki
+维基共享资源
+xmfwiki
+ვიკიოწკარუე
+yiwiki
+וויקימעדיע קאמאנס
+yowiki
+Wikimedia Commons
+zawiki
+Veizgiek Gunghyungh
+zh_classicalwiki
+維基共享
+zh_min_nanwiki
+Wikimedia Commons
+zh_yuewiki
+維基同享
+zhwiki
+维基共享资源
+zuwiki
+Wikimedia Commons
+Wikibooks(3 entries)
+azwikibooks
+Vikimedia/Vikimedia Commons
+etwikibooks
+Wikimedia Commons
+nlwikibooks
+Handboek Wikimedia Commons
+Wikinews(3 entries)
+eowikinews
+Kategorio:Vikimedia Komunejo
+nlwikinews
+Categorie:Wikimedia Commons
+ruwikinews
+Категория:Викисклад
+Wikiquote(1 entry)
+plwikiquote
+Wikimedia Commons
+Wikisource(1 entry)
+azwikisource
+Vikianbar
+Wikiversity(2 entries)
+arwikiversity
+ويكيميديا كومنز
+enwikiversity
+Commons
+Wikivoyage(0 entries)
+Wiktionary(0 entries)
+Multilingual sites(2 entries)
+commonswiki
+Wikimedia Commons
+metawiki
+Wikimedia Commons
+Retrieved from "https://www.wikidata.org/w/index.php?title=Q565&oldid=1963323022"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+ItemDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 28 August 2023, at 19:12.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

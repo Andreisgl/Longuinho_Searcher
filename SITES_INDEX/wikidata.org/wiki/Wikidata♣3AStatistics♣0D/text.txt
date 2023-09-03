@@ -1,0 +1,121 @@
+Wikidata:Statistics - Wikidata
+Shortcuts: WD:ST, WD:STAT, WD:STATS
+Wikidata:Statistics
+From Wikidata
+Jump to navigation
+Jump to search
+Translate this page
+Other languages:Bahasa Indonesia
+British English
+Deutsch
+English
+Esperanto
+Nederlands
+Sunda
+Tiếng Việt
+azərbaycanca
+català
+dansk
+español
+euskara
+français
+hrvatski
+italiano
+latviešu
+magyar
+polski
+português
+português do Brasil
+svenska
+čeština
+ślůnski
+македонски
+русский
+српски / srpski
+тоҷикӣ
+українська
+հայերեն
+עברית
+اردو
+العربية
+فارسی
+مازِرونی
+বাংলা
+ไทย
+ລາວ
+中文
+日本語
+粵語
+한국어
+Statistical hub
+Pointers to all sorts of statistics. About Wikidata content, the Wikidata community, type of content, etc.
+How big is Wikidata?
+Wikidata currently contains 106,543,189 items. 1,965,854,450 edits have been made since the project launch.
+You can find additional details at wikidata-todo/stats.php and stats.wikimedia.org/#/wikidata.org.
+Who edits Wikidata?
+There are currently 23,521 active users. You can find more data at Wikimedia Statistics.
+Wikipedia statistics
+The Wikidata Concepts Monitor (WDCM) provides a full overview of Wikidata usage for more than 800 Wikimedia projects. Wikidata helps uncover a lot of facts about Wikipedia content. Find more at Wikidata:Statistics/Wikipedia.
+Make your own
+You may be interested in the following links:
+Wikidata Query Service
+Download the data
+Wikidata Toolkit
+Wikidata Concepts Monitor (WDCM)
+See also
+Wikidata:Database reports
+Wikidata Grafana Dashboard
+Wikiscan
+What is in Wikidata?
+ (71,611,020)
+  human: 6,376,879 (8.9%)
+  taxon: 2,726,046 (3.8%)
+  administrative territorial entity: 1,943,285 (2.7%)
+  architectural structure: 3,159,472 (4.4%)
+  occurrence: 3,898,674 (5.4%)
+  chemical compound: 1,188,724 (1.7%)
+  film: 294,370 (0.4%)
+  thoroughfare: 630,794 (0.9%)
+  astronomical object: 4,601,733 (6.4%)
+  Wikimedia list article: 404,454 (0.6%)
+  Wikimedia disambiguation page: 1,358,230 (1.9%)
+  Wikinews article: 195,900 (0.3%)
+  scholarly article: 22,574,314 (31.5%)
+  other P31/P279: 18,284,676 (25.5%)
+  no P31/P279: 3,973,469 (5.5%)
+Module:Statistical data/by project/classes, 2020-02-16
+Retrieved from "https://www.wikidata.org/w/index.php?title=Wikidata:Statistics&oldid=1876166148"
+Categories: Wikidata:StatisticsWikidata-en
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Project pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+Wikimedia Commons
+In Wikipedia
+Add links
+ This page was last edited on 16 April 2023, at 09:40.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

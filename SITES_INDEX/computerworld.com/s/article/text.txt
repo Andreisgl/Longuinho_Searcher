@@ -1,0 +1,75 @@
+  
+Wikipedia simplifies IT infrastructure by moving to one Linux vendor | Computerworld
+Close Ad
+computerworld
+UNITED STATES 
+United States 
+Australia 
+India 
+Netherlands 
+New Zealand 
+United Kingdom 
+More from the Foundry Network
+About Us |
+Contact |
+Republication Permissions |
+Privacy Policy |
+Cookie Policy |
+European Privacy Settings |
+Member Preferences |
+Advertising |
+Foundry Careers |
+Ad Choices |
+E-commerce Links |
+California: Do Not Sell My Personal Info |
+Follow Us
+×
+Close
+Home
+Data Center
+News
+Wikipedia simplifies IT infrastructure by moving to one Linux vendor
+It's moving 400 servers to Ubuntu Linux from a mix of Red Hat and Fedora
+By Todd R. Weiss
+Writer, 
+Computerworld |
+Since the free, online Wikipedia user-created encyclopedia began in 2001, the Linux-based IT infrastructure behind it has been expanded and lassoed together to keep up with the demands of the popular Web site.That meant that often it was haphazardly expanded by tossing in a new server with a different operating system each time. Over five years, the servers were running a variety of versions of Red Hat Linux and Red Hat Fedora, making it more complicated to install applications and maintain the servers.Soon, that problem will be gone.
+In a few months, Wikipedia will finish a major transformation by moving from a combination of versions of Red Hat products to Ubuntu Linux Version 8.04 on all 400 of its servers that support the Web site.The changeover began in 2006 as the growth of the site took off, said Brion Vibber, CTO of the San Francisco-based  Wikimedia Foundation Inc., the nonprofit group that supports the online Wikipedia encyclopedia and other projects."We had a mix of things: some Red Hat 9, some Fedora -- several different versions," Vibber said. The group used a custom-scripted installation procedure, but found that having a multitude of versions was more difficult to maintain for its small five-person IT staff around the world.  The move to all-Ubuntu was primarily done with the goal of "making our own administration and maintenance simpler," he said. "We decided that we want to standardize on something."
+The switch has been done over time, starting with caching proxy servers in 2006 and moving on to other servers in segments. Today, the group is continuing to transition its main application Web servers to Ubuntu as part of its regular maintenance schedule, Vibber said.  Most of the group's 400 servers are in a data center in Tampa, Fla., while a few reside in secondary data centers in South Korea and Amsterdam."It definitely has gotten a lot simpler," Vibber said. Mass upgrades can be done more easily, and the data center can be managed as a unit, he said."We can run the same combination everywhere, and it does the same thing" and runs the same software, Vibber said. "Everything is a million times easier."
+Related Blogs
+Steven J. Vaughan-Nichols: 
+ Ubuntu scores major Wikipedia win
+The mixture of Red Hat operating systems was created as Wikipedia quickly grew, backed by a group of volunteer IT people who created it out of what they had available. In 18 months, the original site went from around 15 servers to 200, making maintenance and operations a whole different ballgame, Vibber said.  Gordon Haff, an analyst at Illuminata Inc. in Nashua, N.H., said Wikimedia's switch from Red Hat to Ubuntu is also likely a result of Ubuntu's making the enterprise server and consumer desktop versions of its operating systems available for free to all users, with no lightening of the systems for nonpaying customers. Red Hat used to do that years ago, but then moved to a model where its free and paid versions differed in some features and abilities, he said. Now the Fedora community Linux project is separate from the flagship enterprise version of the operating system, adding to the factors that must be considered by users, he said.The problem with having multiple paid, unpaid and community versions is that a customer then has a menagerie of products that may or may not be as easily compatible, Haff said.Wikipedia could just as easily have made the switchover to all Red Hat, but that would have cost more money, he said. "It would seem to me that if money weren't an issue here, there wouldn't be anything keeping them from upgrading everything to Red Hat." The collaborative Wikipedia encyclopedia is written by volunteers around the globe. The project includes 75,000 active contributors working on more than 10 million articles in 250 languages, including more than 2.5 million articles in English, according to the group. The site has about 684 million visitors a year. The Ubuntu changes affect all Wikimedia Web sites. 
+Related: 
+Data Center
+Open Source
+Operating Systems
+Linux
+Web Applications
+Todd R. Weiss is an award-winning technology journalist and freelance writer who worked as a staff reporter for Computerworld from 2000 to 2008.
+Follow
+Copyright © 2008 IDG Communications, Inc.
+It’s time to break the ChatGPT habit
+Shop Tech Products at Amazon
+Computerworld
+ The Voice of Business Technology
+Follow us
+About Us
+Contact
+Republication Permissions
+Privacy Policy
+Cookie Policy
+European Privacy Settings
+Member Preferences
+Advertising
+Foundry Careers
+Ad Choices
+E-commerce Links
+California: Do Not Sell My Personal Info
+Copyright © 2023 IDG Communications, Inc.
+Explore the Foundry Network descend
+CIO
+Computerworld
+CSO Online
+InfoWorld
+Network World

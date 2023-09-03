@@ -1,0 +1,129 @@
+subproperty of - Wikidata
+subproperty of
+(P1647)
+From Wikidata
+Jump to navigation
+Jump to search
+all resources related by this property are also related by that propertyrdfs:subPropertyOfsubPropertyOfsuperpropertyparent propertyhas parent propertyinstance of propertysubclass of property
+Language
+Label
+Description
+Also known as
+English
+subproperty of
+all resources related by this property are also related by that property
+rdfs:subPropertyOfsubPropertyOfsuperpropertyparent propertyhas parent propertyinstance of propertysubclass of property
+Data type
+Property
+Statements
+instance of
+Wikidata property for documentation of properties
+0 references
+transitive Wikidata property
+0 references
+asymmetric Wikidata property
+0 references
+fundamental Wikidata entity
+0 references
+subproperty of
+related property
+0 references
+Wikidata item of this property
+subproperty
+0 references
+Wikidata property example for properties
+parent taxon
+subproperty of
+subclass of
+0 references
+equivalent property
+http://www.w3.org/2000/01/rdf-schema#subPropertyOf
+0 references
+stability of property value
+sometimes changes / sometimes unstable identifier
+0 references
+property proposal discussion
+https://www.wikidata.org/wiki/Wikidata:Property_proposal/Archive/27#P1647
+0 references
+Constraints
+property constraint
+subject type constraint
+class
+Wikidata property
+relation
+instance of
+constraint status
+mandatory constraint
+0 references
+value-type constraint
+class
+Wikidata property
+relation
+instance of
+constraint status
+mandatory constraint
+0 references
+value-requires-statement constraint
+property
+Wikidata item of this property
+0 references
+value-requires-statement constraint
+property
+Wikidata property example
+0 references
+conflicts-with constraint
+property
+subclass of
+constraint status
+mandatory constraint
+0 references
+property scope constraint
+constraint status
+mandatory constraint
+property scope
+as main value
+0 references
+allowed-entity-types constraint
+item of property constraint
+Wikibase property
+constraint status
+mandatory constraint
+0 references
+item-requires-statement constraint
+property
+property constraint
+0 references
+value-requires-statement constraint
+property
+Wikidata property example for properties
+0 references
+Retrieved from "https://www.wikidata.org/w/index.php?title=Property:P1647&oldid=1951691689"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+PropertyDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Download as PDFPrintable version
+ This page was last edited on 11 August 2023, at 08:22.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

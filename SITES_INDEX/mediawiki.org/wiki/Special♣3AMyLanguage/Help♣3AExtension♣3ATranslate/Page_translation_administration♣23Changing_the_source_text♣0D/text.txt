@@ -1,0 +1,422 @@
+Help:Extension:Translate/Page translation administration - MediaWiki
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageGet MediaWikiGet extensionsTech blogContribute
+Support
+User helpFAQTechnical manualSupport deskCommunication
+Development
+Developer portalCode statistics
+MediaWiki.org
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+In other languages
+Add links
+Search
+Search
+ EnglishCreate accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+Beginning
+1Life of a translatable page
+2Anatomy of a translatable page
+3Segmentation
+4Markup examples
+5Changing the source text
+6Migrating to page translation
+Toggle Migrating to page translation subsection
+6.1How to use?
+6.2Actions available
+6.3Troubleshooting
+6.4Tips
+Toggle the table of contents
+Toggle the table of contents
+Help:Extension:Translate/Page translation administration
+HelpDiscussion
+English
+ReadView sourceView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadView sourceView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+Print/export
+Create a bookDownload as PDFPrintable version
+From mediawiki.org
+< Help:Extension:Translate
+Translate this pageLanguages:Bahasa Indonesia
+Bahasa Melayu
+Deutsch
+English
+Esperanto
+Kiswahili
+Lëtzebuergesch
+Nederlands
+Tiếng Việt
+Türkçe
+Zazaki
+català
+dansk
+español
+français
+italiano
+kurdî
+lietuvių
+magyar
+polski
+português
+português do Brasil
+slovenčina
+suomi
+svenska
+čeština
+беларуская (тарашкевіца)
+македонски
+русский
+українська
+עברית
+العربية
+فارسی
+مصرى
+भोजपुरी
+मराठी
+हिन्दी
+বাংলা
+മലയാളം
+ไทย
+ပအိုဝ်ႏဘာႏသာႏ
+中文
+日本語
+한국어
+Documentation for Extension:Translate 
+Translators (main help page )
+How to translate 
+Best practices 
+Statistics and reporting 
+Quality assurance 
+Message group states 
+Offline translation 
+Glossary 
+Translation administrators
+How to prepare a page for translation 
+Page translation administration 
+Unstructured element translation 
+Group management 
+Move translatable page 
+Import translations via CSV 
+Sysadmins and developers
+Installation 
+Configuration 
+Getting started with development 
+Developer guide 
+Extending Translate 
+Validators 
+Insertables 
+Group configuration 
+Group configuration example 
+Translation memories 
+Translation aids 
+PHP hooks
+Translate this template
+What. The page translation feature allows controlled translation of wiki pages into other languages.
+That means that the content of each translation will be, usually, equal to the source page.
+This is opposed to, for example, the different language version of articles in different Wikipedias, which are fully independent of each other.
+It is assumed that pages are only translated from one primary language to other languages, but translators can take advantage of translations in other languages too if they exist.
+Why. Without any help, translating more than a few pages into other languages becomes a time-waster at best, an unmaintainable mess at worst.
+With the page translation feature you can avoid the mess and bring structure to the translation process.
+The core idea is that the source text is segmented into smaller units, each of which will be translated individually.
+When the source text is segmented into units, all changes can be isolated and translators only need to update the translations of units which have had changes in source text.
+This also enables translators to work on units of manageable size and share the work between multiple translators or continue the translation in later sessions, because they don't need to do all at once.
+Who. This page elaborates on the page translation tutorial by providing deeper insight on how the system works, and suggests best practices for a wide variety of cases.
+This page is intended for page translation administrators and generally for everyone who edits the source text of translatable pages, even if they don't have the access to the administrative features of approving changes for translation.
+To apply for extended rights as a translation administrator on MediaWiki.org, go to Project:Requests.
+As for requests on Meta, see Meta:Requests.
+For Commons, Commons:Noticeboard.
+Life of a translatable page
+Roles. Multiple people are involved in the process of writing and translating a wiki page: the initial writer creates a page, someone corrects spelling errors, a page translation administrator marks the page for translation, translators translate, someone makes changes to the page, a page translation administrator marks those changes for translation and translators update translations.
+Those roles may overlap more or less, but the ultimate responsibility for a hassle-free translation is left for the page translation administrator.
+The administrator decides when the page is ready for translation the first time, ensures that the segmentation serves a purpose and approves (or corrects) changes.
+Preparation. To have something translated you have to write it first.
+If you already have done translation without the Translate extension, see below the section about migrating translations.
+If you want lots of translations quickly, it is crucial for the source text to be in good shape.
+Before marking a page for translation, ask someone else to proofread it and if possible ask a language specialist to make the text clearer and more concise.
+Difficult vocabulary and hard to understand sentences are a show stopper to many volunteer translations.
+Markup, too, can cause problems for translators, but as a translation administrator you can avoid those issues, see the section about handling markup below.
+Naturally the changes you make to the source text of translations require updates of all existing translations, so it is better to wait until the contents of the page have stabilized.
+On the other hand, changes do happen, and the system handles that well, so check out the section about handling changes below.
+Tagging. When the text is otherwise ready for translation, anyone can mark the translatable parts by enclosing them in ‎<translate> tags and adding the ‎<languages /> bar to the page.
+The latter adds a list of all translations of the page, with their completion and up-to-date percentages.
+There is no other indication that translations exist.
+See below how to actually do the tagging.
+The system will detect when the tags are placed on the translatable page, and the page will have a link to mark it for translation.
+It will also complain and prevent saving if you for example forgot to add a closing tag.
+The translatable page will also be listed on Special:PageTranslation as ready for marking.
+Marking. After the tagging, a translation administrator marks the page for translation.
+The interface is explained in Page translation example.
+The translation administrator's responsibility is to make sure that the segmentation makes sense and that tagging has been proper.
+The page can be marked again if it has changed in the meanwhile.
+See below how to make changes that cause minimal disruptions.
+The marking of the page starts a background process that uses MediaWiki's job queue.
+This process goes over each translation page and regenerates it: changes in the translation page template will be reflected and outdated translations will highlighted with a pink background.
+On the contrary, the translation interface is updated immediately.
+Changes. Users can continue making changes to the translatable page source. The changes will be visible to users viewing the page in the source language, but translations are done against the translation units extracted from the last version of the translatable page which has been marked for translation: the translation pages are reported to be 100 % up to date if all translation units have been translated, even if the source page has new changes. You can easily see whether there are unmarked changes when viewing the translatable page in the source language: there is a notice at the top which says that you can translate this page and also links to changes if there are any.
+Invalidation. If changes are made to the translatable page source, the translation administrator will be given the option to "Do not invalidate translations" for each section.
+If a section is invalidated, then the translated languages will get a pink background color for those sections, and a clock icon will be shown to translators in the translation interface.
+If a section is not invalidated, then no changes will be visible to readers of the translated pages, and translators will have to examine the section within the translation interface in order to see the changes.
+Source language. There is also a translation page with the language code of the source language: it doesn't contain the extra tags and other markup related to page translation which are used in the translatable page source. This page is not linked from the interface, but it is handy for example when you want to transclude the page (typically for translatable templates) or export it.
+For example, the page you're on is available without markups at Help:Extension:Translate/Page translation administration/en.
+Changing the source language. The extension will normally assume that the translatable source page is in the wiki's default language. Administrators can change a specific page's language setting, using the Special:PageLanguage page, so that it can be used as a source page for translation. See Page content language for details.
+Translation language. Translation pages may contain text in different languages if it is not fully translated.
+On translation pages, untranslated translation units will be tagged with appropriate language and text direction so that CSS rules are applied correctly.
+MediaWiki, however, does not currently allow setting the language for parsing other than at the page level.
+All magic words and parser functions use the translation target language, even if the surrounding text is not translated.
+This can create an unwanted mismatch for example when formatting numbers or dates.
+Some magic functions and parser tags allow setting the output language, in which case you can use magic word {{TRANSLATIONLANGUAGE}} that returns either the source language for untranslated units or the target language for translated units.
+Closed translation requests. Some translatable pages have a content that is only interesting for a certain period of time. For example announcements and regular status updates, like the Wikimedia monthly highlights. You can keep those pages around with translations, but hide them from the translation interface. This does not prevent further translations to the pages, but it greatly reduces the chance that a user accidentally starts translating the page. Discouraging and its reversion are done from Special:PageTranslation.
+Prioritizing languages. You can also define a list of languages that you specifically want translations into; leaving the language list empty is interpreted as all languages allowed. The page will behave like a discouraged page (see previous paragraph) for the languages not in the priority list and, when translating into them, translators will be given a notice. You can also prevent the translation in other languages, say if translations are actually used elsewhere and you won't be able to use them but in some languages. 
+Grouping.
+It is possible to group related pages together.
+These groups work like all the other message groups.
+They have their own statistics and contain all the messages of the subgroups: in this case translatable pages.
+This functionality is currently in Special:AggregateGroups.
+Aggregate message groups are collapsed by default in Special:LanguageStats in the group selector at Special:Translate.
+Moving. You can move translatable pages as you would move any other page. When moving you can choose whether you want to move any non-translation subpages too. The move uses a background job to move the many related pages. While the move is in progress, it is not possible to translate the page. Completion is noted in the page translation log.
+Deleting. Like move, deletion is accessed from the normal place. You can delete either the whole translatable page, or just one translation page, from the delete button on it. Deletion will also delete all the related translation unit pages. As in move, a background process will delete the pages over time and completion is noted in the page translation log. Deletion requires "delete" and "pagetranslation" permission, but individual translation unit pages can always be deleted with standard "delete".
+Reverting. Similarly, reverting incorrect edits works as usual (including the rollback button): you only have to edit the affected translation unit and the translation page will be updated as well. To find the edit to the translation unit from the edit to the translation page, just click the "contribs" link for the editor and look for an edit at a similar time.
+Protecting. It is possible to protect the translatable page. Translation pages cannot be protected, nor does the protection of the translatable page extend to them. To prevent further edits to translations, you should add the source language as only priority language and disable translations to other languages, see prioritizing languages above. Together these two actions effectively prevent changes to both the source page and translation pages with its translation unit pages. It is possible to protect individual translation unit pages, though it is not advisable.
+Removal from translation. It is also possible to unmark a page for translation. You can use Special:PageTranslation or follow the link in the top of translatable page to remove it from translation. This will remove any structure related to page translation, but leave all the existing pages in place, freely editable. This action is not recommended.
+Language aware transclusion.
+It is possible to transclude a translatable page into another page as a template.
+In such a case, the translatable page will be loaded in the language of the target page if it has been translated to that language.
+If that translation does not exist, the translatable page will be loaded in the source language.
+This behavior of a translatable page is controlled by the Enable translation aware transclusion for this page option when marking the page for translation.
+New translatable pages will have this behavior turned on by default.
+Anatomy of a translatable page
+The translation of a translatable page will produce many pages, which all together compose the translatable page in the broadest sense: their title is determined by the title of the translatable Page:
+Page - the source page
+Page/<language code> - the translation pages, plus a copy of the source page without markup
+Translations:Page/<translation unit identifier>/<language code> - all the translation unit pages
+In addition to this, there are the translation page template and the sources of translation units, extracted from the source page and stored in the database. The system keeps track of which versions of the source page contain translation tags and which version of them have been marked for translation.
+Every time a translation unit page is updated, the system will also regenerate the corresponding translation page. This will result in two edits. The translation unit page edit is hidden by default in recent changes and can be shown by choosing show translations from the translation filter. Any action other than editing (like deleting and moving) the translation unit pages will not trigger the regeneration of the corresponding translation page.
+If you need the copy of the source page without markup, e.g. to be pasted in another wiki without Translate,
+identify the source language code (for English, en) and visit Page/<language code>
+click the "View history" button to reach an address like this and replace action=history with action=raw in the address bar, press enter
+the text will be displayed or saved.
+Segmentation
+General principles:
+All text intended for translation must be wrapped in ‎<translate> tags. There can be multiple pairs of tags in one page.
+Everything outside those tags will not change in any translation page. This static text, together with the placeholders which mark the place where the translation of each translation unit will be substituted, is called the translation page template.
+Too much markup in the text makes it difficult for translators to translate. Use more fine grained placing of ‎<translate> tags when there are lots of markup.
+The text inside ‎<translate> tags is split into translation units where there is one or more empty lines between them (two or more newlines).
+Restrictions. The page translation feature places some restrictions on the text.
+There should not be any markup that spans over two or more translation units.
+In other words, each paragraph should be self-contained.
+This is currently not enforced in the software, but violating it will cause invalid rendering of the page, the severity depending on whether MediaWiki itself is able to fix the resulting HTML output or not.
+Parsing order. Beware, the ‎<translate> tags work differently from other tags, because they do not go through the parser.
+This should not cause problems usually, but may if you are trying something fancy.
+In more detail, they are parsed before any other tags like ‎<pre> or ‎<source>, except for ‎<nowiki> which is recognized by the Translate extension.
+Before Translate version 2020.10, ‎<nowiki> was not handled consistently and pages would still appear in Special:PageTranslation. Escape it like "&lt;translate>...&lt;/translate>" as a workaround.
+Tag placing. If possible, try to put the tags on their own lines, with no empty lines between the content and the tags. Sometimes this is not possible, for example if you want to translate some content surrounded by the markup, but not the markup itself. This is fine too, for example:
+{{Template|1=<translate>Some localised parameter</translate>}}
+To make this work, the extension has a simple whitespace handling: whitespace is preserved, except if an opening or closing ‎<translate>‎</translate> tag is the only thing on a line. In that case the newline after the opening tag or before the closing tag is eaten. This means that they don't cause extra space in the rendered version of the page.
+Variables. It is possible to use variables similar to template variables.
+The syntax for this is ‎<tvar name="name">contents‎</tvar> (quotes are optional if the value contains no spaces or any of " ' ` = < >).
+For translators these will show up only as $name, and in translation pages will automatically be replaced by the value defined in the translatable page (so they are global "constants" across all its translation pages).
+Variables can be used to hide untranslatable content in the middle of a translation unit.
+It also works for things like numbers that need to be updated often.
+You can update the number in all translations by changing the number in the translatable page source and re-marking the page.
+You do not need to invalidate translations, because the number is not part of the translation unit pages.
+Before Translate version 2021.04, the syntax was <tvar|name>contents</> (T274881). This syntax is still supported, but it is deprecated.
+Comma-separated values. For content such as Graph data, that needs to be parsed by the software as comma-separated values, you should separate the translation units between each comma, so that the translating editors don't use localized commas which will confuse the software.
+Plain-text values.
+To prevent any kind of modification of the translation value, use nowrap attribute like this: <translate nowrap>...</translate>.
+By default outdated and untranslated values are modified in order to support highlighting and language tagging.
+Markup examples
+Below are listed some alternatives and suggested ways to handle different kinds of wiki markup.
+Categories
+Categories can be added in two ways: in the translation page template or in one of the translation units.
+If you have the categories in the translation page template, all translations will end up in the same category.
+If you have categories inside translation units, you should teach the users a naming scheme.
+On the right we show two possible schemes which are independent of the technical means to adopt them.
+Translation by adding language suffix: Category:Cars/fi (recommended)
+[...]
+</translate>
+[[Category:MediaWiki{{#translation:}}]]
+Category page name not translated (just like the page names).
+One category for each language.
+Page translation could be used for the category itself: the categories would be linked together and the headings would be translated (but not the name of the category in links and such).
+No translation: Category:Cars
+All translations in same category (good if only few languages, bad if many).
+Category name not translated (can be put as is in the translation template).
+Headings
+Headings can in principle be tied to the following paragraph, but it is better to have them separated with an empty line. This way someone can quickly translate the table of contents before going into the contents.
+When tagging headings, it is important to include the heading markup inside the tags and insert a newline between the opening translate tag and the heading markup, or MediaWiki will no longer identify them properly. For example, section editing only works with the recommended mark-up given in the example. The markup also immediately gives translators a context: they are translating a heading.
+Additionally, it ensures that linkable anchors are generated for the heading
+Wrong: (no newline after ‎<translate> tag, heading out of translate tags)
+== <translate>Culture</translate> ==
+Wrong: (no newline)
+<translate>== Culture ==</translate>
+Recommended segmentation:
+<translate>
+== Culture ==
+Lorem ipsum dolor.
+</translate>
+Images
+Images that do contain language specific content like text should include the full image syntax in an unit. Other images can only tag the description with optional hint in message documentation of the page after it has been marked.
+<translate>
+[[File:Europe.png|thumb|Map of Europe with capital cities]]
+</translate>
+[[File:Ball.png|50px|<translate>Ball icon</translate>]]
+Links
+Links can be included in the paragraph they are inside. This allows changing the link label, but also changing the link target to a localized version if one exists.
+If the target page is (or should be) also translatable, you should link to it by prepending Special:MyLanguage/ to its title. Only the link label will need to be translated, because this automatically redirects users to the translation page in their own interface language, as selected for instance via the UniversalLanguageSelector. However, to achieve a constant behavior the syntax must be used for all links.
+Internal links:
+<translate>
+Helsinki is capital of [[Finland (country)|Finland]].
+</translate>
+Links to translatable pages:
+<translate>
+It has marvelous beaches with a lot of [[Special:MyLanguage/Seagull|seagulls]].
+</translate>
+External links:
+<translate>
+PHP ([http://php.net website]) is a programming language.
+</translate>
+Lists
+Lists can get long, so might want to split them into multiple parts with one item in each unit.
+Do so only if the items are sufficiently independent to be translated separately in all languages: don't create "lego messages". For instance, you must avoid to split a single sentence in multiple units, or to separate logically dependent parts which may affect each other (with regard to punctuation or style of the list, for instance).
+To split a list, use ‎<translate>-tags for each item without including leading asterisks/hashes/semicolons.
+Do not insert blank lines as this will break the HTML output.
+* <translate>General principles</translate>
+* <translate>Headings</translate>
+* <translate>Images</translate>
+* <translate>Tables</translate>
+or
+<translate>
+Please visit:
+* our main page
+* then the FAQ page.
+</translate>
+Numbers
+With numbers and other non-linguistic elements you may want to pull the actual number out of translation and make it a variable. This has multiple benefits:
+You can update the number without invalidating translations.
+Translation memory can work better when the changing number is ignored.
+<translate>
+Income this month <tvar name=income>{{FORMATNUM:3567800}}</tvar> EUR
+</translate>
+Note that this prevents the translators from localising the number by doing currency conversion. The FORMATNUM call makes sure the number is formatted correctly in the target language.
+Templates
+Templates have varying functions and purposes, so the best solution depends on what the template is for. If the template is not a part of longer paragraph, it should be left out, unless it has parameters that need to be translated. If the template has no linguistic content itself, you don't need to do anything for the template itself.
+For an example of templates translated with page translation, see Template:Extension-Translate . To use this template, you need to have another template similar to {{Translatable navigation template}}, because you cannot include the template by {{TemplateName}} anymore. This is not yet provided by the Translate extension itself, but that is in the plans.
+Another way is to use the unstructured element translation to translate the template, but then the language of the template will follow the user's interface language, not the language of the page they are viewing.
+Attributes
+By default the Translate extension may wrap outdated translation units to highlight them and untranslated units to set proper language metadata.
+In some circumstances the additional markup added by this wrapping is not suitable.
+<abbr title="<translate nowrap>Frequently asked questions</translate>"><translate>FAQ</translate></abbr>
+Translation language (introduced in 5e8106cdc353)
+When text is using language-dependent formatting methods, a mismatch may appear for untranslated sections.
+{{TRANSLATIONLANGUAGE}} can be used to avoid that.
+2020-09-15 is {{#time:l|2020-09-15|{{TRANSLATIONLANGUAGE}}}}
+The above input may render as:
+English: 2020-09-15 is Tuesday.
+Finnish: 2020-09-15 on tiistai.
+Without the magic word, untranslated text on a Finnish translation page would render as:
+2020-09-15 is tiistai
+Translatable page (introduced in a582f3ad21bd)
+It can be used in templates that are transcluded on both translatable and non-translatable pages, and should behave differently depending on whether the page is translatable (e.g. use user language on non-translatable pages). It returns the title of the translation page (the page other languages are translated from) if a page is translatable (including translated pages), and nothing if the page is not translatable. Similarly to the ‎<languages> parser tag, it returns nothing if the page contains translation markup but hasn’t been marked for translation yet.
+{{#if:{{TRANSLATABLEPAGE}}|{{Some template}}|{{Some template/{{int:lang}}}}}}
+Assuming Template:Some template is a translatable template with language-aware transclusion (see above) enabled, and MediaWiki:lang and its translations are set up on the given wiki similarly to mediawiki.org, the above code transcludes it in the page language on translatable pages, and in the UI language on other pages.
+Changing the source text
+General principles:
+Avoid changes
+Make the changes as isolated as possible
+Do not add translation unit markers yourself
+Unit markers. When a page is marked for translation, the system will update the translatable page source and add unique identifiers, called "unit markers", for each translation unit.
+See example below.
+An example of a unit marker is <!--T:1-->.
+These unit markers are crucial for the system, which uses them to track changes to each translation unit.
+You should never add unit markers yourself.
+The unit markers are always on the line before the unit; or, if it starts with a heading, after the first heading on the same line.
+The different placement for headings is needed to keep section editing working as expected.
+<translate>
+== Birds == <!--T:1-->
+Birds are animals which....
+<!--T:2-->
+Birds can fly and...
+</translate>
+Changing unit text. Changing is the most common operation for translation units. You can fix spelling mistakes, correct grammar or do other changes to the unit. When re-marking the page for translation, you will see the difference in the unit text. The same difference is also shown to translators when they update their translations. For simple spelling fixes and other cases where you don't want the existing translations to be highlighted on the translated pages, you can avoid invalidating them: translators will still see the difference if they ever update the translation for any reason.
+Adding new text. You can freely add new text inside ‎<translate> tags. Make sure that there is one empty line between adjacent units, so that the system will see it as a new unit. You can also add ‎<translate> tags around the new text, if it is not inside existing ‎<translate> tags. Again, do not add unit markers yourself, the system will do it.
+Deleting text. You can delete whole units. If you do so, also remove the unit marker.
+Splitting units. You can split existing units by adding an empty line in the middle of a unit, or by placing ‎<translate> tags so that they split the unit. You can either keep the unit marker with the first unit or remove it altogether. In the first case, translators see the old text when updating the old translation. If you removed the unit marker, both units will behave as if no translation ever existed, after the page is re-marked for translation.
+Original state
+Keeping the marker
+Removing the marker
+<!--T:1-->
+Cat purrs. Dog barks.
+<!--T:1-->
+Cat purrs.
+<!--T:2--> (Added after remarking)
+Dog barks.
+<!--T:2--> (Added after remarking)
+Cat purrs.
+<!--T:3--> (Added after remarking)
+Dog barks.
+Kissa kehrää. Koira haukkuu.
+Kissa kehrää. Koira haukkuu.
+Dog barks.
+Cat purrs.
+Dog barks.
+Merging units. If you merge units, you have to remove at least all but one unit marker.
+Moving units. You can move units around without invalidating translations: just move the unit marker together with the rest of the unit.
+Before marking the new version of the page for translation, ensure that the best practices are followed, especially that translators get a new translation unit if the content has changed. Also make sure that there are no unnecessary changes to prevent wasting translators time. If the source page is getting many changes, it may be worthwhile to wait for it to stabilize, and push the work for translators only after that.
+Unused unit translations are not deleted automatically, but that should not cause trouble.
+Migrating to page translation
+If you have been translating pages before using the page translation system, you might want to migrate the pages to the new system, at least the ones you expect to have new translations and want statistics for. You will probably have existing templates for language switching and maybe different page naming conventions.
+You can start migration by cleaning up, tagging and marking the source page. You can keep the existing language-switching templates while you migrate the old translations. If your pages follow the language code subpages naming convention, they will be replaced with the source text after marking the source page for translation, but you'll still be able to access translations from history.
+This manual task has been partly automated by Special:PageMigration (available to translation administrators only), which shows the source and target units besides each other and allows the user to adjust the units by providing a set of features mentioned later in this page.
+How to use?
+Screenshot showing an example use of Special:PageMigration for "Help:Special pages" as page name and "fr" as language code.
+Go to Special:PageMigration
+Enter the title of the page and the language code. For example, "Help:Special pages" & "fr"
+The source text which was divided into units by Translate and the imported translations will be shown besides each other with some initial alignment.
+Use the actions available for each unit to manually do the remaining alignment
+As translated units are editable, do required manual improvements (for add translation variables, fix links and markup, etc.)
+Click on the "Save" button. This will create pages under the Translations namespace of the form Translations:Page/<translation unit identifier>/<language code>. The old translations have been imported into Translate.
+Else, if you wish to abort the importing, click on the 'Cancel' button.
+Actions available
+Each row consisting of source and target unit has a set of action icons. They are used as follows:
+Add: Clicking on this action icon adds a new empty unit below the current one. Use this feature if you want to split the current unit and need a unit below.
+Swap: Clicking on this action icon swaps the content of the current unit with the unit below it. You can use this feature when the units get aligned improperly due to different ordering of sections. Or when you need to drag a unit below or above. In either case, remember it swaps with the unit below and does not create any additional units.
+Delete: Clicking on this action icon completely removes the corresponding target unit from the page and shifts the remaining target units up by one unit. Use this to remove unwanted content like code or imported translations which are present completely in the source language. Note: this irrevocable action (in the current session).
+Troubleshooting
+If you mark a page for translation and immediately go to the special page and try to import translations, you may get an error message like "Page <page-name>/<language-name> does not contain old translations.". This is because FuzzyBot didn't fuzzy the messages on the old page yet: the tool won't find an edit by FuzzyBot on the translation page. In this case, simply wait for FuzzyBot to do its job. Once an edit is seen, you can proceed with the imports.
+Please wait for some time after pressing the "Save" button. While the button background remains gray, there is an ongoing process of importing non-empty units. Once the button becomes colored again, the import is completed.
+Tips
+Migration will be easier if you first (before the mark to translation) check whether existing translations are similar to the original English text, and manually edit the structure of pages: break paragraphs and lists, add the missing headings (even if empty).
+Will be useful to check the result in the core translation interface - some of the units may be immediately marked as obsolete because of errors markup or if not all of the translation variables was added.
+Translation of the page title will have to be added manually. If you do not know very well the language of the imported page, you can try to find the translation of the page title among the "links here" or sometimes in redirects.
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Help:Extension:Translate/Page_translation_administration&oldid=5995820"
+Category: Extension:Translate
+ This page was last edited on 21 June 2023, at 03:00.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About MediaWiki.org
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

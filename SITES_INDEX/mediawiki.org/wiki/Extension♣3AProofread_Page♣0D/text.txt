@@ -1,0 +1,303 @@
+Extension:Proofread Page - MediaWiki
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageGet MediaWikiGet extensionsTech blogContribute
+Support
+User helpFAQTechnical manualSupport deskCommunication
+Development
+Developer portalCode statistics
+MediaWiki.org
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+In other languages
+Add links
+Search
+Search
+ EnglishCreate accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+Beginning
+1Use
+2Requirements and recommendations
+3Installation
+Toggle Installation subsection
+3.1Extension
+3.2Thumbnailing
+3.3Namespaces
+4Configuration
+Toggle Configuration subsection
+4.1Configuration of index namespace
+4.2Page separator
+4.3Join hyphenated words across pages
+4.4Configure change tagging (optional)
+5Usage
+Toggle Usage subsection
+5.1Creating your first page (example with DjVu)
+5.2Syntax
+6Notes
+7See also
+Toggle the table of contents
+Toggle the table of contents
+Extension:Proofread Page
+Issue tracker: #MediaWiki-extensions-ProofreadPage
+ExtensionDiscussion
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+Multilingual WikisourceWikisource
+From mediawiki.org
+Translate this pageLanguages:Deutsch
+Deutsch (Sie-Form)
+English
+Esperanto
+Tiếng Việt
+Türkçe
+español
+français
+polski
+čeština
+русский
+नेपाली
+हिन्दी
+中文
+日本語
+MediaWiki extensions manual 
+ Proofread Page
+Release status:  stable
+Implementation 
+Page action , ContentHandler , Tag , API , Database 
+Description 
+The Proofread Page extension can render a book either as a column of OCR text beside a column of scanned images, or broken into its logical organization (such as chapters or poems) using transclusion.
+Author(s) 
+ThomasV (original author)Tpt (current maintainer)
+Latest version 
+continuous updates
+Compatibility policy 
+Snapshots releases along with MediaWiki. Master is not backward compatible.
+MediaWiki 
+current master
+PHP 
+7.0+
+Database changes 
+Yes
+Composer 
+mediawiki/proofread-page
+Tables 
+pr_index 
+License 
+GNU General Public License 2.0 or later
+Download
+Download extension Git [?]: 
+Download Git master
+browse repository (Phabricator · GitHub)
+commit history
+repository contributors (GitHub)
+code review
+Help 
+Help:Extension:ProofreadPage
+Example 
+s:Index:Wind in the Willows (1913).djvu
+Namespace 
+Page, Index
+Parameters 
+$wgProofreadPagePageJoiner
+$wgProofreadPagePageSeparator
+$wgProofreadPageNamespaceIds
+$wgProofreadPageEnableEditInSequence
+$wgProofreadPageBookNamespaces
+$wgProofreadPageUseStatusChangeTags
+$wgProofreadPagePageSeparatorPlaceholder
+Added rights 
+pagequality
+pagequality-admin
+Hooks used 
+BeforePageDisplay CanonicalNamespaces ChangeTagsListActive ContentHandlerDefaultModelFor EditFormPreloadText GetBetaFeaturePreferences GetLinkColours GetPreferences ImageOpenShowImageInlineBefore InfoAction ListDefinedTags LoadExtensionSchemaUpdates MultiContentSave OutputPageParserOutput ParserFirstCallInit ParserTestTables RecentChange_save ScribuntoExternalLibraries ScribuntoExternalLibraryPaths SetupAfterCache SkinTemplateNavigation::Universal wgQueryPages 
+Translate the Proofread Page extension if it is available at translatewiki.net
+Issues 
+Open tasks · Report a bug
+Proofread Page extension
+2020 Coolest ToolAward Winner
+in the category
+Impact
+The Proofread Page extension creates a book either:
+as a column of OCR text beside a column of scanned images, or
+broken into chapters or poems. The content of a document appears in the MediaWiki page (via transclusion).
+The extension is intended to allow easy comparison of text to the original digitization.
+This extension shows the text in several ways without actually duplicating the original text.[1]
+Use[edit]
+The extension is installed on all Wikisource wikis.
+For the syntax, see the Wikisource Proofread Page documentation.
+It was previously also used on Bibliowiki.
+Requirements and recommendations[edit]
+Access to the command line is required if running the update script (maintenance/update.php) from the web browser fails (see Upgrade documentation and Update.php documentation).
+If you want to use DjVu files (optional but recommended), a native DjVu handler needs to be available for configuration. See also Manual:How to use DjVu with MediaWiki .
+In addition, use of ProofreadPage is highly improved by the use of the following extensions:
+LabeledSectionTransclusion  (strongly recommended)
+Cite  (default page footer contains ‎<references />
+Poem 
+PdfHandler  (may require additional PHP packages) — adds PDF support
+PagedTiffHandler 
+ParserFunctions 
+TemplateStyles  (Enables Index-specific CSS)
+Scribunto  (Enables the proofreading Lua library)
+Installation[edit]
+Extension[edit]
+Download and place the file(s) in a directory called ProofreadPage in your extensions/ folder.
+Add the following code at the bottom of your LocalSettings.php  file: wfLoadExtension( 'ProofreadPage' );
+Run the update script which will automatically create the necessary database tables that this extension needs.
+ Done – Navigate to Special:Version on your wiki to verify that the extension is successfully installed.
+Thumbnailing[edit]
+The extension links directly to image thumbnails which often don't exist.
+You must catch 404 errors and generate the missing thumbnails.
+You can do this with any one of these solutions:
+Set an Apache RewriteRule in .htaccess to thumb.php  for missing thumbnails:
+    RewriteEngine On
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^/w/images/thumb/[0-9a-f]/[0-9a-f][0-9a-f]/([^/]+)/page([0-9]+)-?([0-9]+)px-.*$ /w/thumb.php?f=$1&p=$2&w=$3 [L,QSA]
+or set the Apache 404 handler to Wikimedia's thumb-handler. This is a general-purpose 404 handler with Wikimedia-specific code, not simply a thumbnail generator.
+    ErrorDocument 404 /w/extensions/upload-scripts/404.php
+For MediaWiki >= 1.20, you can simply redirect to thumb_handler.php:
+    RewriteEngine On
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^/w/images/thumb/[0-9a-f]/[0-9a-f][0-9a-f]/([^/]+)/page([0-9]+)-?([0-9]+)px-.*$ /w/thumb_handler.php [L,QSA]
+or in apache2.conf:
+    ErrorDocument 404 /w/thumb_handler.php
+ Warning: There is an .htaccess file in the images directory that may interfere with any .htaccess rules you install.
+If you encounter a problem similar to the following:
+phab:T301291 – PDF and DjVu files on Commons failed to be processed (no thumbnails, zero pages) but otherwise valid
+phab:T298417 – Undeleted DjVu files show incorrect metadata: 0x0 size, no page number info
+phab:T299521 – PDF file has 0x0 image size in Commons after uploading a new version while the page number is correct
+Try next steps:
+repair thumbnails for DjVu files of the core MediaWiki (for PDF use mimetype application/pdf )
+php maintenance/refreshImageMetadata.php --verbose --mime image/vnd.djvu --force
+needed for actualization info about the pages counts of the Special:IndexPages
+php maintenance/refreshLinks.php --namespace 252
+Namespaces[edit]
+ProofreadPage create by default two custom namespaces named "Page" and "Index" in English with respectively ids 250 and 252.
+Their names are translated if your wiki use another language.
+Full list.
+You can customize their name or their ID: Create namespaces by hand and set their IDs in LocalSettings.php  using $wgProofreadPageNamespaceIds global.
+You will do something like:
+define( 'NS_PROOFREAD_PAGE', 250);
+define( 'NS_PROOFREAD_PAGE_TALK', 251);
+define( 'NS_PROOFREAD_INDEX', 252);
+define( 'NS_PROOFREAD_INDEX_TALK', 253);
+$wgExtraNamespaces[NS_PROOFREAD_PAGE] = 'Page';
+$wgExtraNamespaces[NS_PROOFREAD_PAGE_TALK] = 'Page_talk';
+$wgExtraNamespaces[NS_PROOFREAD_INDEX] = 'Index';
+$wgExtraNamespaces[NS_PROOFREAD_INDEX_TALK] = 'Index_talk';
+$wgProofreadPageNamespaceIds = array(
+    'index' => NS_PROOFREAD_INDEX,
+    'page' => NS_PROOFREAD_PAGE
+);
+Namespace id customization is not recommended and might not be supported in the future.
+Configuration[edit]
+In order to use the page quality system, it is necessary to create five categories. The names of these categories must be defined in MediaWiki:Proofreadpage_quality0_category to MediaWiki:Proofreadpage_quality4_category.
+Ensure that you have installed Extension:ParserFunctions 
+Configuration of index namespace[edit]
+For more details, see Extension:Proofread Page/Index data configuration 
+You need to create MediaWiki:Proofreadpage_index_template in order to display index pages. This page is a template that receive as parameter entries of the edition form.
+You need to create MediaWiki:Proofreadpage_index_data_config.json that contain the configuration of the index form. This new configuration page overrides MediaWiki:Proofreadpage_index_attributes and MediaWiki:Proofreadpage_js_attributes.
+The configuration is a JSON array of properties.
+Here is the structure of a property in the array, all the parameters are optional, the default value are set:
+{
+  "ID": { //id of the metadata (first parameter of proofreadpage_index_attributes)
+    "type": "string", //the property type (for compatibility reasons the values have not to be of this type). Possibles values: string, number, page. If set, the newly set values should be valid according to the type (e.g. for a number a valid number, for a page an existing wiki page...)
+    "size": 1, //only for the type string : number of lines of the input (third parameter of proofreadpage_index_attributes)
+    "values":  {"a":"A", "b":"B","c":"C", "d":"D"}, //an array values : label that list the possible values (for compatibility reasons the stored values have not to be one of these)
+    "default": "", //the default value
+    "header": false, //add the property to MediaWiki:Proofreadpage_header_template template (true is equivalent to being listed in proofreadpage_js_attributes)
+    "label": "ID", //the label in the form (second parameter of proofreadpage_index_attributes)
+    "help": "", //a short help text
+    "delimiter": [], //list of delimiters between two part of values. By example ["; ", " and "] for strings like "J. M. Dent; E. P. Dutton and A. D. Robert"
+    "data": "" //proofreadpage's metadata type that the property is equivalent to
+  }
+}
+The data parameter can have for value:
+"type", "language", "title", "author", "translator", "illustrator", "editor", "school", "year", "publisher", "place", "progress"
+Page separator[edit]
+The extension puts a separator between every transcluded page and the next, which is defined by wgProofreadPagePageSeparator.
+The default value is &#32; (a whitespace).
+Set wgProofreadPagePageSeparator = "" to suppress the separator.
+Join hyphenated words across pages[edit]
+When a word is hyphenated between a page and the next, the extension joins together the two halves of the word.
+Example: his- and tory becomes history.
+The "joiner" character is defined by wgProofreadPagePageJoiner and defaults to '-' (the ASCII hyphen character).
+Configure change tagging (optional)[edit]
+See Change tagging to set up change tags.
+Usage[edit]
+Creating your first page (example with DjVu)[edit]
+Before following these steps ensure you have followed the instructions in Manual:How to use DjVu with MediaWiki .
+(when and in which namespace is the DjVu file itself uploaded?)
+Create a page in the "Page" namespace (or the internationalized name if you use an not-English wiki). For example if your namespace is 'Page' create Page:Carroll - Alice's Adventures in Wonderland.djvu
+Create the corresponding file for this page commons:File:Carroll - Alice's Adventures in Wonderland.djvu (or set Manual:$wgUseInstantCommons  to true).
+Create the index page Index:Carroll - Alice's Adventures in Wonderland.djvu
+Insert the tag ‎<pagelist /> in the Pages field to visualize the page list
+To edit page 5 of the book navigate to 'Page:Carroll - Alice's Adventures in Wonderland/5' and click edit
+Syntax[edit]
+This extension introduces the following tags:
+‎<pages>, ‎<pagelist>
+Notes[edit]
+↑ 
+Because the pages are not in the main namespace, they are not included in the statistical count of text units.
+See also[edit]
+Sections
+Index data configuration 
+Change tagging 
+Lua library reference 
+Page viewer 
+Edit-in-Sequence  — A new system (as of 2022) for proofreading without having to reload the entire page.
+Roadmap of the development 
+API
+Metadata API  — The proofread meta submodule
+Proofread properties API  — Proofreading-related properties of individual pages
+Index data API  — Access index pages data (fields and categories)
+Index pagination API  — List pages in a given index
+Manual:How to use DjVu with MediaWiki 
+PdfHandler  — Adds PDF support to Proofread Page
+The current full description and instructions (in English) may be found at: s:Help:Proofread
+Usage statistics can be found here: https://phetools.toolforge.org/statistics.php 
+ToDo and feature request list from the Community
+A public-domain user manual is being written at: Help:Extension:ProofreadPage 
+MediaWiki:OCR.js - the OCR script
+This extension is being used on one or more Wikimedia projects. This probably means that the extension is stable and works well enough to be used by such high-traffic websites. Look for this extension's name in Wikimedia's CommonSettings.php and InitialiseSettings.php configuration files to see where it's installed. A full list of the extensions installed on a particular wiki can be seen on the wiki's Special:Version page.
+This extension is included in the following wiki farms/hosts and/or packages: 
+Miraheze 
+WikiForge
+WikiTide
+This is not an authoritative list. Some wiki farms/hosts and/or packages may contain this extension even if they are not listed here. Always check with your wiki farms/hosts or bundle to confirm.
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Extension:Proofread_Page&oldid=6037242"
+Categories: Stable extensionsPage action extensionsContentHandler extensionsTag extensionsAPI extensionsDatabase extensionsExtensions supporting ComposerGPL licensed extensionsExtensions in Wikimedia version controlExtensions which add rightsBeforePageDisplay extensionsCanonicalNamespaces extensionsChangeTagsListActive extensionsContentHandlerDefaultModelFor extensionsEditFormPreloadText extensionsGetBetaFeaturePreferences extensionsGetLinkColours extensionsGetPreferences extensionsImageOpenShowImageInlineBefore extensionsInfoAction extensionsListDefinedTags extensionsLoadExtensionSchemaUpdates extensionsMultiContentSave extensionsOutputPageParserOutput extensionsParserFirstCallInit extensionsParserTestTables extensionsRecentChange save extensionsScribuntoExternalLibraries extensionsScribuntoExternalLibraryPaths extensionsSetupAfterCache extensionsSkinTemplateNavigation::Universal extensionsWgQueryPages extensionsAll extensionsExtensions used on WikimediaExtensions included in MirahezeExtensions included in WikiForgeExtensions included in WikiTideExtension:ProofreadPageView page extensionsImage extensionsTranscription extensionsHidden categories: Extensions with release branches compatibility policyExtensions with manual MediaWiki version
+ This page was last edited on 22 July 2023, at 22:59.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About MediaWiki.org
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

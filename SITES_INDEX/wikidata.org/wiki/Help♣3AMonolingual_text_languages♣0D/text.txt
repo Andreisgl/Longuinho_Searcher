@@ -1,0 +1,119 @@
+Help:Monolingual text languages - Wikidata
+Help:Monolingual text languages
+From Wikidata
+Jump to navigation
+Jump to search
+Translate this pageOther languages:Bahasa Melayu
+British English
+Deutsch
+English
+Esperanto
+Nederlands
+dansk
+español
+français
+polski
+português do Brasil
+svenska
+ślůnski
+русский
+українська
+հայերեն
+العربية
+پنجابی
+अवधी
+ગુજરાતી
+中文
+日本語
+粵語
+The list of Wikimedia language codes available for monolingual text values is fixed. It can only be changed by the development team.
+Contents
+1 Special language codes
+2 When a language code is missing
+3 Getting a language code added
+4 Requirements for a new language code
+5 Using inside SPARQL queries
+6 Lists
+7 See also
+Special language codes[edit]
+In addition to language codes describing actual languages, there are four special language codes available:
+und: For content whose language is not yet determined (undetermined)
+mis: For content whose language is known, but has no language code (uncoded languages). We also use it for content whose language has a language code that is not yet available on Wikidata.org.
+mul: For content in multiple languages (multiple languages), meaning either content that is the same in more than one language, or content that contains more than one language, so a reader would need to know all of them to understand it.
+zxx: For content that is not linguistic (no linguistic content, not applicable)
+See the #Lists below for current uses.
+When a language code is missing[edit]
+It might happen that you need a language code that is not yet supported. In that case, follow these steps:
+Use mis as language code in the statement, reference or qualifier where you need the unsupported language code
+If possible, add a qualifier language of work or name (P407) with the item for the language; create an item for the language, if none already exists
+If possible, add a reference for the correct language to the statement
+Request the language code if it fulfills the requirements for a new language code (see below)
+Getting a language code added[edit]
+The preferred way to request a language code to be added for monolingual text values is by opening a new ticket in Phabricator. Add the following information:
+The language code (examples: lkt, sr-cyrl)
+Language name in the language itself or English (examples: Lakota, Serbian in Cyrillic)
+The used script, if not obvious (example: Cyrillic)
+Where and when the language was or is used (example: In use by the Lakota people in North America)
+The Wikidata item id (example: Q33537)
+Make sure you link to the item where you want to use the language code (see previous section). If you didn't already add a reference to the statement, add it to the Phabricator ticket.
+If you don't want to or can't use Phabricator, add your request to Wikidata:Report a technical problem.
+Request language code on Phabricator
+Requirements for a new language code[edit]
+Note: This is work in progress and not finished policy
+A new language code probably has to fulfill the following requirements:
+It has to be valid IETF language tag. If no tag is available, an attempt to register the tag can be made.
+It has to be required for an actual use-case on Wikidata (other than native label (P1705) on item for the language itself)
+A language code does not have to fulfill the requirements of the language proposal policy for new Wikis. Specifically:
+The language doesn't need an active community or amount of usage
+The language code doesn't need to denote a unique language (For example, we have nn and nb, but also no, which is a macrolanguage covering both)
+In general, if you need a language code to correctly model real-world data, it should be accepted as long as it's a valid language code.
+Using inside SPARQL queries[edit]
+BIND (LANG(?label) AS ?language)
+SELECT * WHERE {
+  ?s ?label "The Rolling Stones"@en .
+  ?s ?p ?o
+}
+Try it! 
+?spouse rdfs:label ?spouse_label .
+FILTER (LANG(?spouse_label) = "en").
+Lists[edit]
+Help:Wikimedia language codes/lists/all
+Wikidata:Database reports/monolingual text/undetermined language (und)
+Wikidata:Database reports/monolingual text/multiple languages (mul)
+Wikidata:Database reports/monolingual text/missing language codes (mis)
+Wikidata:Database reports/monolingual text/no linguistic content (zxx)
+See also[edit]
+https://phabricator.wikimedia.org/tag/language_codes/
+Retrieved from "https://www.wikidata.org/w/index.php?title=Help:Monolingual_text_languages&oldid=1760560843"
+Categories: Help:Monolingual text languagesHelp-en
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Help pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In Wikipedia
+Add links
+ This page was last edited on 29 October 2022, at 15:20.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

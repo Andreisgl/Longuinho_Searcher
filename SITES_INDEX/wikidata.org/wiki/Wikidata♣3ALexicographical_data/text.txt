@@ -1,0 +1,439 @@
+Wikidata:Lexicographical data/Documentation - Wikidata
+Wikidata:Lexicographical data/Documentation
+From Wikidata
+< Wikidata:Lexicographical data
+Jump to navigation
+Jump to search
+Translate this pageOther languages:Bahasa Indonesia
+Bahasa Melayu
+Cymraeg
+Deutsch
+English
+Esperanto
+Nederlands
+Türkçe
+asturianu
+català
+dagbanli
+dansk
+eesti
+español
+euskara
+français
+italiano
+polski
+português do Brasil
+svenska
+ślůnski
+Ελληνικά
+русский
+српски / srpski
+українська
+հայերեն
+العربية
+بهاس ملايو
+فارسی
+پنجابی
+हिन्दी
+বাংলা
+മലയാളം
+中文
+日本語
+한국어
+Overview
+ 
+Documentation
+ 
+ Development
+ 
+Tools
+ 
+Support for Wiktionary
+ 
+How to help
+ 
+Statistics
+ 
+Lexemes
+ 
+Discussion
+ 
+Wikidata:Lexicographical data
+This documentation page is currently being reworked. Some important changes may occur.
+This is the main documentation page for lexicographical data on Wikidata.
+See also the technical documentation on extension WikibaseLexeme.
+Contents
+1 Introduction
+2 Data Model
+2.1 Sample lexemes by language and lexical category
+3 Interface
+3.1 Lexeme
+3.1.1 Create a new Lexeme
+3.1.2 Edit a Lexeme
+3.1.3 Add, edit or delete statements of a Lexeme
+3.1.4 Delete a Lexeme
+3.1.5 Search for a Lexeme
+3.2 Form
+3.2.1 Create a new Form
+3.2.2 Edit a Form
+3.2.3 Delete a Form
+3.2.4 Transliterations (Scripts/Phonetics)
+3.3 Sense
+3.3.1 Create a new Sense
+3.3.1.1 Translations, Synonyms, etc.
+3.3.2 Edit a Sense
+3.3.3 Remove a Sense
+4 Features
+4.1 What is included in the first version
+4.2 What will be added in the future
+5 See also
+Introduction[edit]
+Data Model[edit]
+Visualization of the Lexeme data model
+The data model of WikibaseLexeme describes the structure of the data that is handled as "Lexemes" in Wikibase. The text below is a summary; for more detailed information, see Extension:WikibaseLexeme/Data Model.
+A Lexeme is a lexical element of a language, such as a word, a phrase, or a prefix (see Lexeme on Wikipedia). Lexemes are Entities in the sense of the Wikibase data model.
+From a high level the Lexeme hierarchy is modeled like so:
+Lexeme (ID)
+Lemmas
+Forms
+Senses
+A Lexeme is described using the following information:
+An ID. Lexemes have IDs starting with an "L" followed by a natural number in decimal notation, e.g. L3746552. These IDs are unique within the repository that manages the Lexeme. The ID can be combined with a repository's concept base URI to form a unique URI for the Lexeme.
+The Language to which the lexeme belongs. This is a reference to a concrete Item, e.g. English (Q1860).
+The Lexical category to which the lexeme belongs. This is given as a reference to a concrete Item, e.g. adjective (Q34698).
+Lemma (plural Lemmas) for use as a human readable representation of the lexeme, e.g. "run" or "when pigs fly".  A Lexeme can have several lemmas, even though it is rare, but sometimes common for multi-script languages, for example, सूर्य/سُوریہ (L476308) or ama/𒂼 (L1).
+Note: the script of the Lemma items are indicated by the language script code, which should be a valid IETF language tag, although the current design is likely more restricted than the full spec. Do NOT over-specify, especially when confusion is not at all possible.
+For uncoded languages, use mis-x-Q[...] to refer to its item ID. Similarly, use langcode-x-Q[...] for coded languages written in an uncoded script. The software currently rejects anything written after the first QID, so you will not be able to describe what script an uncoded language is written in.
+A list of Lexeme Statements (claims) to describe properties of the lexeme that are not specific to a Form or Sense (e.g. derived from or grammatical gender or syntactic function)
+Usage examples of Lexemes demonstrate a certain Sense of a word, as well as a Form, so should be made as a statement on the Lexeme itself and with qualifiers such as:
+Statement: usage example (P5831)
+Add qualifier: subject form (P5830)
+Add qualifier: subject sense (P6072)
+Add qualifier: language style (P6191) with values colloquial language (Q901711) or formal register (Q104597585) (optional)
+A list of Forms, typically one for each relevant combination of grammatical features, such as 2nd person / singular / past tense. A Form is described using the following information:
+An ID. Forms have IDs starting with the ID of the Lexeme they belong to, followed by a hyphen ("-") and an "F", followed by a natural number in decimal notation: e.g. L3746552-F7
+A representation, spelling out the Form as a string.
+A list of grammatical features that define for which syntactic role the given form applies. These are given as references to a concrete Items, e.g. participle (Q814722) for participle.
+A list of Form Statements further describing the Form or its relations to other Forms or Items (e.g. IPA transcription (P898), pronunciation audio, rhymes with, used until, used in region)
+A list of Senses, describing the different meanings of the lexeme (e.g. "financial institution" and "edge of a body of water" for the English noun bank). A sense is described using the following information:
+An ID. Senses have IDs starting with the ID of the Lexeme they belong to, followed by a hyphen ("-") and an "S", followed by a natural number in decimal notation: e.g. L3746552-S4. These IDs are unique within the repository that manages the Lexeme. The ID can be combined with a repository's concept base URI to form a unique URI for the Sense.
+A Gloss, defining the meaning of the Sense using natural language.
+A list of Sense Statements further describing the Sense and its relations to Senses and Items (e.g. translation, synonym, antonym, connotation, register, denotes, evokes).
+This data model is further extended by the set of properties typically used for Lexeme statements, Form statements, and Sense statements. See Wikidata:Lexicographical data/Properties for an overview of these properties and Wikidata:Property proposal/Lexemes for current proposals of additional properties.
+Sample lexemes by language and lexical category[edit]
+Sample Lexeme by Language and Lexical Category
+verb
+noun
+pronoun
+adjective
+adverb
+preposition
+postposition
+conjunction
+interjection
+numeral
+determiner
+particle
+Arabic
+ذهب (L7882)
+كِتَابٌ (L2233)
+أنا (L7883)
+جميل (L7884)
+عادةً (L7885)
+في (L2452)
+لَكِنَّ (L7886))
+يعني (L7887)
+واحد (L7891)
+هذا (L7892)
+English
+go (L3006)
+book (L536)
+I (L487)
+beautiful (L3360)
+usually (L4114)
+in (L2987)
+ago (L3240)
+but (L1387)
+oh (L4327)
+one (L327)
+this (L2994)
+German
+wissen (L2058)
+Zukunft (L80)
+ich (L7877)
+ausgezeichnet (L530)
+querbeet (L7059)
+in (L6748)
+aber (L7879)
+ach (L7889)
+eins (L7880)
+dieser (L7881)
+Korean
+먹다 (L17)
+사람 (L130)
+나 (L246)
+괴롭다 (L100)
+함께 (L168)
+가만 (L86)
+극/極 (L83)
+고전적/古典的 (L49)
+Spanish
+ir (L7385)
+libro (L317)
+yo (L55951)
+hermoso (L55952)
+normalmente (L55953)
+en (L11741)
+N/A
+pero (L55954)
+oh (L692468)
+uno (L44969)
+esto (L55955)
+French
+aller (L750)
+livre (L6873)
+je (L9094)
+beau (L7026)
+toujours (L9105)
+dans (L9148)
+mais (L9261)
+merci (L11618)
+un (L9167)
+ce (L9203)
+Pashto
+تلل
+کتاب
+زه
+ښکلی
+په
+خو
+یو
+Persian
+رفتن (L2921)
+ (L743088)
+من/ман (L2377)
+ (L717789)
+معمولاً (L749792)
+در
+ (L742563)
+آخ (L749794)
+ (L709026)
+این/ин (L742781)
+Russian
+быть (L2111)
+вода (L189)
+я (L2027)
+хороший (L10951)
+хорошо (L10948)
+в/въ (L2109)
+N/A
+и (L2108)
+всё (L2115)
+три (L32930)
+N/A
+не (L2110)
+Swedish
+göra (L38963)
+boll (L32310)
+han (L35645)
+listig (L39404)
+ofta (L35726)
+på (L35650)
+-
+och (L35648)
+hej (L246342)
+fem (L46944)
+den (L47066)
+ju (L53540)
+Ukrainian
+віра (L708605)
+заклепковий (L600000)
+Vietnamese
+xóa/xoá (L679210)
+ký hiệu/kí hiệu (L679212)
+quá (L646386)
+qua (L646377)
+N/A
+và (L619034)
+𪷮 (L679797)
+記號 (L679744)
+過 (L679754)
+過 (L679748)
+N/A
+𡝕 (L679791)
+Mandarin Chinese
+设置
+纪录片
+他 (L7967)
+坚韧不拔
+慢慢地
+在 (L641314)
+但是
+哦
+一 (L1773)
+?
+的 (L7975)
+Punjabi (Q58635)
+ਹੱਸਣ/ہسّݨ (L688582)
+ਡੱਡੂ/ڈڈّو/ڈڈو (L678986)
+ਉਹ/اوہ (L686605)
+ਕਾਲ਼ਾ/کاࣇا (L684186)
+ਨਹੀਂ/نہیں (L686542)
+-
+ਵਿਚ/وِچ (L679728)
+ਕਿਉਂਕਿ/کیوں کہ (L686369)
+ਆਹੋ/آہو (L689404)
+-
+ਇਕ/اِک (L686328)
+ਤਾਂ/تاں (L686341)
+Modern Greek
+σπρώχνω (L1100000)
+μήλο (L944286)
+In some cases or languages, there may be multiple entities for related words, in others just one. The below table provides an overview how they may be linked:
+One or several lexemes for nouns?
+difference in1 lexeme2+ lexemes
+senseadd several sensesadd applicable sense to lexemelink other(s) with homograph lexemeduplicate forms on each
+etym.add etym. to each senseadd etym. to lexeme baselink other(s) with homograph lexemeduplicate forms on each
+genderadd gender to each senseadd gender to lexeme baselink other(s) with homograph lexemeduplicate forms on each
+common/properadd several sensesuse lexical category "noun"add applicable sense to lexemelink other(s) with homograph lexemeduplicate forms on each
+caps/lowercaseadd several formsqualify forms to applicable sensesadd applicable sense to lexemelink other(s) with homograph lexemeadd only applicable forms
+singular/pluraladd several formsqualify forms to applicable sensesadd applicable senseif possible link other(s) with homograph lexemeadd only applicable forms
+pronunciationadd the same form twicequalify forms to applicable senses, add prononciationadd applicable senseif possible link other(s) with homograph lexemeadd form and applicable pronunciation
+forms/spellingadd several forms or alternate formsqualify forms to applicable sensesadd applicable senseif possible link other(s) with homograph lexemeadd only applicable forms
+For a given language and criterion (first column), just one of the two might apply
+Interface[edit]
+Lexeme[edit]
+Screenshot of the Lexeme creation page
+Create a new Lexeme[edit]
+Go to Special:NewLexeme
+Enter a lemma (dictionary form of a word) — Lemma
+Enter the language of the lexeme by typing the name of the language or Q-ID — Lexeme's language
+In the field that appears above, enter the language code of the lemma — Spelling variant of the Lemma
+Enter the lexical category by typing its name or the Q-ID (example: verb, noun, adjective...) — Lexical category
+Click on "Create"
+The Lexeme is now created with this basic information, you can continue editing it
+Screenshot of the top of a Lexeme page
+Edit a Lexeme[edit]
+Click on the edit button, next to the lemma
+Edit the content of the different fields
+Lemma
+Language code of the lemma — Spelling variant
+Language of the Lexeme — Language
+Lexical category
+Click on "publish"
+Screenshot of the interface to edit a statement
+Add, edit or delete statements of a Lexeme[edit]
+To add a statement of a Lexeme, click on "add statement"
+Enter a property: start typing its name in the property field (example: derived from lexeme) and select it in the suggester
+Enter a value. Note: A Wikidata property for lexicographic senses (Q54275340) such as translation (P5972) or synonym (P5973) does not currently support value search results for senses by Lexeme name. That means in order to enter a value for a statement, you need to enter the precise Lexeme Sense ID for the Lexeme Sense you want as a value. For example, mother (L3625) has the statement synonym (P5973) mom (L11530). Entering L11530-S2 is the only way this value can be published.As seen here, Wikidata will not be able to find Lexemes and their senses when searching by their name.Searching by a precise Lexeme Sense ID however returns a publishable result.
+Just like on Items, you can add qualifiers and references
+Save by clicking "publish"
+To edit a statement, click on "edit"
+To delete a statement, click on "edit", then "remove"
+Delete a Lexeme[edit]
+Go to WD:RFD
+Search for a Lexeme[edit]
+Here's how you can look for Lexemes, Lemmas, Forms or Senses, via Special:Search or the search box on any page:
+look for a lexeme by its L-number
+by typing "Lexeme:L123"
+by typing "L123" and selecting the Lexeme namespace
+look for a Lexeme by the name of its lemma
+by typing "Lexeme:sandbox"
+by typing "sandbox" and selecting the Lexeme namespace
+use the L shortcut: "L:L123" or "L:sandbox"
+look for a Form: (eg "Lexeme:mangeant") with any of the methods described above
+Note that the selector (drop-down menu popping up to suggest results) is not working yet. But if you press Enter or search after typing your keyword, you'll access the results.
+Form[edit]
+add a Form
+Create a new Form[edit]
+In the Forms section, click on "add Form"
+Fill the representation — Representation (mandatory)
+Fill the language code of the representation — Spelling variant (mandatory)
+Enter one or several grammatical features, by typing their name and selecting them in the list of items — Grammatical features
+Edit a Form[edit]
+Click on the "edit" button next to the representation
+Modify the content in the fields
+Click on "publish"
+Delete a Form[edit]
+Click on the "edit" button next to the representation
+Click on "remove"
+Transliterations (Scripts/Phonetics)[edit]
+New subpage link to be added here (proposed by on mailing list by Thadguidry (talk) 04:29, 13 December 2020 (UTC))Reply[reply]
+Sense[edit]
+Create a new Sense[edit]
+In the Senses section of a Lexeme, click on "add Sense"
+Enter a language code (for example: en, fr, zh) — Language
+Enter a gloss (very short phrase defining the meaning)(equivalent to: skos:definition) — Gloss.  NOTE:If a gloss is quoted or citable from a source, then use gloss quote (P8394)
+You can add new glosses by clicking on "add"
+Click on "publish"
+Translations, Synonyms, etc.[edit]
+For each Sense there can be many Sense statements made to not only other Senses, but also to Items through translations, synonyms, antonyms, connotations, register, evokes, usage examples, refers-to-concept, etc.
+This is shown on the colored visualization of the Lexeme Data Model svg image above.
+Edit a Sense[edit]
+Click on the "edit" button, next to the Sense ID
+Edit the content of the different fields
+Click on "publish"
+Remove a Sense[edit]
+Click on the "edit" button, next to the Sense ID
+Click on "remove"
+Features[edit]
+See also: Wikidata:Lexicographical data/Development
+What is included in the first version[edit]
+New datatypes: Lexeme, Form
+Add, edit, delete Lexemes
+Add, edit, delete Forms
+Add, edit, delete statements
+Add, edit, delete qualifiers
+Add, edit, delete references
+Linking to an Item from a Lexeme  or a Form
+item for this sense (P5137)
+Linking to another Lexeme from a Lexeme, a Form or an Item
+Search and suggestions when entering a value
+Basic internal APIs (used for UI, you should not use them)
+What will be added in the future[edit]
+Ordered from near to long-term plans
+Search for content with Special:Search  Done
+Display the lemma in the history pages, recent changes and watchlist   Done
+Add, edit, delete Senses   Done
+RDF support and ability to query the data on query.wikidata.org   Done
+Better API support
+Automatic generation of Forms
+Data access on clients (other Wikimedia projects)
+Editing data directly from Wiktionary
+See also[edit]
+Wikidata:Lexicographical data/Documentation/Languages
+Wikidata:Lexicographical data/Documentation/Resources
+Book on wikibooks
+Retrieved from "https://www.wikidata.org/w/index.php?title=Wikidata:Lexicographical_data/Documentation&oldid=1946119735"
+Categories: Wikidata:Lexicographical dataWikidata-en
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Project pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In Wikipedia
+Add links
+ This page was last edited on 4 August 2023, at 09:13.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

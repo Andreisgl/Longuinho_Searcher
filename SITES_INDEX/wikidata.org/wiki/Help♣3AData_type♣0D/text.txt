@@ -1,0 +1,309 @@
+Help:Data type - Wikidata
+Help:Data type
+From Wikidata
+Jump to navigation
+Jump to search
+Translate this pageOther languages:Bahasa Indonesia
+Bahasa Melayu
+Basa Bali
+British English
+Deutsch
+English
+Esperanto
+Nederlands
+Türkçe
+català
+dansk
+español
+français
+français cadien
+italiano
+latviešu
+polski
+português
+português do Brasil
+română
+svenska
+čeština
+ślůnski
+Ελληνικά
+русский
+српски / srpski
+українська
+հայերեն
+العربية
+فارسی
+বাংলা
+తెలుగు
+中文
+日本語
+粵語
+한국어
+This is an information page.It is not one of Wikidata's policies or guidelines, but rather intends to describe some aspect(s) of Wikidata's norms, customs, technicalities, or practices. It may reflect varying levels of consensus and vetting.
+Data types define how the statement will behave, and what kind of data they take. Different types of statements use different types of properties, and they are also using different data types. During creation of properties one of the choices is to set the data type, and once set the property gets locked to this data type. That has implications for how they can be used and there must be some amount of planning before a useful property can be defined.
+Coordination of work on properties happens at Wikidata:Property proposal.
+Built-in data typesData typeNumber ofpropertiesExternal identifier8,215Item1,606Quantity646String322URL99Commons media file78Point in time63Monolingual text60Property21Geographic coordinates11Tabular data6Geographic shape3Extra data typesData typeNumber ofpropertiesMathematical expression36Lexeme16Sense16Form9Musical Notation6
+Contents
+1 Properties by type
+2 Datatypes to link entities
+3 String-based data types
+3.1 String
+3.2 Monolingual text
+3.3 External identifier
+3.4 URL
+3.5 Data types to reference files on Commons
+3.5.1 Commons media
+3.5.2 Geographic shape
+3.5.3 Tabular data
+3.6 Data types for specific notations
+3.6.1 Mathematical expression
+3.6.2 Musical Notation
+4 Other data types
+4.1 Quantity
+4.2 Time
+4.3 Globe coordinate
+5 Technical details
+6 Limitations
+7 Pending data types
+7.1 To be done
+7.1.1 Duration
+7.2 To plan
+7.2.1 Calculated property
+7.2.2 Celestial coordinates
+7.2.3 Integer datatype
+7.2.4 Monostring item
+7.2.5 Multilingual text
+7.2.6 Multiline text
+7.2.7 Remote property
+7.2.8 Value series
+7.2.9 Chess
+7.2.10 Hiero
+7.2.11 Combined human-readable and numeric id
+7.2.12 Wikibase statement
+7.2.13 Regular expressions
+7.2.14 IP address ranges
+8 Data types that will never be implemented
+8.1 Boolean
+9 Changing datatype
+10 See also
+Properties by type[edit]
+For a list of the properties that currently require each type of data type, see either:
+Special:ListProperties
+List of all properties
+Constraint violations: all properties
+Category:Properties by datatype
+Datatypes to link entities[edit]
+Wikidata has 5 types of entities (Item, Property, Lexeme, Sense and Form). For each entity type there exists a same-named data type that can be used to link entities of that type.
+Item 
+Link to an item. (list of properties)
+Property 
+Link to a property. (list of properties)
+The following data types are primarily meant for statements on Lexemes,
+which make up the lexicographical data of Wikidata.
+Lexeme 
+Link to a lexeme. (list of properties)
+Form 
+For statements on lexemes that reference forms on other lexemes in order to indicate their relation. (list of properties)
+Sense 
+For statements on lexemes that reference senses on other lexemes. (list of properties)
+String-based data types [edit]
+String[edit]
+type:  string (String)
+list of properties:  Category:Properties with string-datatype -- Special:ListProperties/string
+Chain of characters, numbers and symbols that don't need to be translated into different languages or number formats. A string is not used for calculations.
+Examples:
+B123
+90928390-XLE
+u29238
+Maximum length is 1,500 characters on Wikidata, as defined with wmgWikibaseStringLimits in InitialiseSettings.php.
+Monolingual text[edit]
+type:  monolingualtext (Monolingual text)
+list of properties:  Category:Properties with monolingualtext-datatype -- Special:ListProperties/monolingualtext
+A string that is not translated into other languages. This type of string is defined once and reused in all languages. Typical use is a geographically localized entity name written in the local language, an identifier of some kind, a chemical formula or a Latin scientific name. See Help:Monolingual text languages for information about the language codes available for monolingual text values and how to request support for additional language codes. (Note that monolingual text also implies a single script system, which can make the string somewhat problematic.)
+Maximum length is 1,500 characters on Wikidata, as defined with wmgWikibaseStringLimits in InitialiseSettings.php.
+External identifier[edit]
+type:  external-id (External identifier)
+list of properties:  Category:Properties with external-id-datatype -- Special:ListProperties/external-id
+String that represents an identifier used in an external system. Will display as external link if a formatter URL (P1630) is defined. See: External identifiers.
+Maximum length is 1,500 characters on Wikidata, as defined with wmgWikibaseStringLimits in InitialiseSettings.php.
+URL[edit]
+type:  url (URL)
+list of properties:  Category:Properties with url-datatype -- Special:ListProperties/url
+A generalized "URL" that identifies some kind of external resource, perhaps a link to an external site of some kind, or an identifier used for lookup in some kind of specialized resource.
+Maximum length is 1,500 characters on Wikidata, as defined with wmgWikibaseStringLimits in InitialiseSettings.php.
+Data types to reference files on Commons[edit]
+Commons media[edit]
+type:  commonsMedia (Commons media file)
+list of properties:  Category:Properties with commonsMedia-datatype -- Special:ListProperties/commonsMedia
+References to files on Wikimedia Commons. During entry in the textfield the "File" namespace on Commons will be searched for matching entries. These files can be used both to illustrate the concepts in Wikidata and as an actual property value for inclusion on Wikipedia.
+Examples:
+Wikidata-logo.svg
+Geographic shape[edit]
+type:  geo-shape (Geographic shape)
+list of properties:  Category:Properties with geo-shape-datatype -- Special:ListProperties/geo-shape
+Reference to map data file on Wikimedia Commons. During entry in the textfield the "Data" namespace on Wikimedia Commons will be searched for matching entries.
+Tabular data[edit]
+type:  tabular-data (Tabular data)
+list of properties:  Category:Properties with tabular-data-datatype -- Special:ListProperties/tabular-data
+Reference to tabular data file on Wikimedia Commons. During entry in the textfield the "Data" namespace on Commons will be searched for matching entries.
+Data types for specific notations[edit]
+Mathematical expression[edit]
+type:  math (Mathematical expression)
+list of properties:  Category:Properties with math-datatype -- Special:ListProperties/math
+Formatted string that displays as formula.
+Example:
+\sqrt{1-e^2} produces: 
+1
+−
+e
+2
+{\displaystyle {\sqrt {1-e^{2}}}}
+See w:Help:Displaying a formula for applicable format.
+Current limitation: input text can't be queried on Query Service.
+Musical Notation[edit]
+type:  musical-notation (Musical Notation)
+list of properties:  Category:Properties with musical-notation-datatype -- Special:ListProperties/musical-notation
+Generated image in .png format that displays a musical score.  Values for that data type are strings describing music following LilyPond syntax.
+Example:
+Value string \relative c' { c d e f | g2 g | a4 a a a | g1 |}, produces
+Other data types[edit]
+Quantity[edit]
+type:  quantity (Quantity)
+list of properties:  Category:Properties with quantity-datatype -- Special:ListProperties/quantity
+A Quantity value represents a decimal number, together with information about the uncertainty interval of this number, and a unit of measurement. The attributes are:
+amount: the quantity's main value
+lowerBound: the quantity's lower bound (optional)
+upperBound: the quantity's upper bound (optional)
+unit: unit of measure item (empty for dimensionless values)
+Internally, amount, lower bound and upper bound are strings; positive numbers are stored with a plus sign, though this will not be displayed. The representation of a quantity may not be longer than 127 characters; therefore, the maximal value of a quantity is 10^126-1.
+Unit conversion is implemented based on conversion to SI unit (P2370). Most units with that property are normalized in the RDF export for the query service (October 2019). 
+The normalisation table is readable as a JSON file in the WMF Mediawiki repository.
+Examples:
+762 (dimensionless)
+2500 km (upper and lower bounds are not set, with unit)
+1.03 ± 0.02 g (enter as nominal value +/- tolerance, representing a lower and upper bound, with unit). The tolerance is in some cases not shown at Wikipedia, only the nominal value, for example in Wikidata lists produced by the listeria bot.
+Time[edit]
+type:  time (Point in time)
+list of properties:  Category:Properties with time-datatype -- Special:ListProperties/time
+This data type stores a date in Gregorian or Julian calendar. See detailed structure.
+Examples:
+2012
+1780-05 (=May 1780)
+1833-11-01 (=1st November 1833)
+See Help:Dates for more.
+Globe coordinate[edit]
+type:  globe-coordinate (Geographic coordinates)
+list of properties:  Category:Properties with globe-coordinate-datatype -- Special:ListProperties/globe-coordinate
+A geographical position given as a latitude-longitude pair (in gms or decimal degrees) for a given "globe" (any stellar body). Globe defaults to "Earth" (globe: http://www.wikidata.org/entity/Q2). A "precision" parameter describes the resolution of the source of the coordinate. Note that the coordinate system is assumed to be "WGS84" (World Geodetic System 1984 (Q11902211)), which may not be suitable for less Earth-like bodies, and this is not configurable.
+Tracked in PhabricatorTask T56097
+Currently, the Web UI of Wikidata doesn't expose all parameters of this data type. The value is visualized only as the coordinate, plus an embedded map if the globe is Earth (Q2). The precision can be modified in the edit mode. The globe is not visible, nor editable, in the item view. The full configuration is however visible in the history diff view (example).
+Tracked in PhabricatorTask T250627
+When using the Web UI, the value saved will be an exact multiple of the precision chosen.
+It is possible to edit the data in full via API. The CLI tool is one way to access the API. In this example Olympus Mons (Q520) is given a coordinate on Mars (Q111) using the globe parameter (used in coordinate location (P625)):
+wd ac Q520 P625 '{ "latitude": 18.4, "longitude": 226, "precision": 0.016666666666667, "globe": "http://www.wikidata.org/entity/Q111" }'
+The globe.js script adds a UI to set the globe parameter of coordinate location (P625).
+Bots such as LocatorBot may detect when the globe parameter of coordinate location (P625) is not set according to located on astronomical body (P376). Adding located on astronomical body (P376) and waiting for a bot to update the coordinate globe is an accepted workaround.
+Technical details [edit]
+In the Wikibase JSON format each value is represented by "datatype": <datatype>, "datavalue": {"type": <type>, "value": ...}, where the representation of the value depends on the type.
+In the RDF format data types are represented by the RDF name in the following table prefixed with http://wikiba.se/ontology# (or the wikibase: prefix in case of the RDF dumps). Note that this prefix is also available in the Wikidata query service, so for example ?prop wikibase:propertyType wikibase:String will return all properties of data type String.
+NameJSON datatypeRDF nameJSON typeImplemented byLinksItemwikibase-itemWikibaseItemwikibase-entityidbuilt-inlist, queryPropertywikibase-propertyWikibasePropertywikibase-entityidbuilt-inlist, queryLexemewikibase-lexemeWikibaseLexemewikibase-entityidWikibaseLexeme (Q28925815)list, querySensewikibase-senseWikibaseSensewikibase-entityidWikibaseLexeme (Q28925815)list, queryFormwikibase-formWikibaseFormwikibase-entityidWikibaseLexeme (Q28925815)list, queryMonolingual textmonolingualtextMonolingualtextmonolingualtextbuilt-inlist, queryStringstringStringstringbuilt-inlist, queryExternal identifierexternal-idExternalIdstringbuilt-inlist, queryURLurlUrlstringbuilt-inlist, queryCommons media filecommonsMediaCommonsMediastringbuilt-inlist, queryGeographic shapegeo-shapeGeoShapestringbuilt-inlist, queryTabular datatabular-dataTabularDatastringbuilt-inlist, queryMathematical expressionmathMathstringMath (Q21677559)list, queryMusical Notationmusical-notationMusicalNotationstringScore (Q21678392)list, queryQuantityquantityQuantityquantitybuilt-inlist, queryPoint in timetimeTimetimebuilt-inlist, queryGeographic coordinatesglobe-coordinateGlobecoordinateglobecoordinatebuilt-inlist, query
+Limitations [edit]
+Point in time doesn't support time of day. phab:T57755
+Quantity doesn't support infinity (Q205), e.g. you cannot state prime number (Q49008)quantity (P1114)infinitely many.
+Pending data types[edit]
+For none of the following dates of implementation are likely to be available. Existing datatypes may solve it in the meantime.
+See: Wikidata:Development plan
+To be done[edit]
+Duration[edit]
+Tracked in PhabricatorTask T145532
+time in HH:MM:SS format.
+To plan[edit]
+Calculated property[edit]
+Tracked in PhabricatorTask T167521
+A property calculated by Wikibase and added directly to items. Not in development plan. 
+Possible uses: number of statements on the item.
+Celestial coordinates[edit]
+Tracked in PhabricatorTask T127950
+A coordinate format for specifying positions of celestial objects. Not in development plan.
+Current work-around: see Wikidata:Property proposal/Astronomical coordinates
+Integer datatype[edit]
+Tracked in PhabricatorTask T112247
+A quantity datatype for positive integer numbers. This was partially implemented by removing precision and creating integer constraint (Q52848401).
+Monostring item[edit]
+A datatype allowing descriptions in any language, but a single label. Not in development plan.
+Current alternatives: lexemes
+Alternative that is being evaluated: multilingual label replacing repeated labels
+Multilingual text[edit]
+Tracked in PhabricatorTask T86517
+A string that must be translated into other languages. Use might be an entity name on non-local form, that is translated into various languages and script systems. (Note that multilingual text also imply a lot of manual work during translation.). Actual purpose to be determined.
+Multiline text[edit]
+Tracked in PhabricatorTask T323705
+A string that may contain newlines.
+Remote property[edit]
+Tracked in PhabricatorTask T133381Resolved
+Properties in remote repositories are likely to be identified through a special field on existing entities, not a separate datatype.
+Value series[edit]
+Tracked in PhabricatorTask T147049
+A simplified way to store series of values for different points in time. Not in development plan.
+Chess[edit]
+Tracked in PhabricatorTask T223460
+Display strings in FEN notation as in position in Forsyth-Edwards Notation (P6648) directly as chessboards.
+Hiero[edit]
+Strings for display with WikiHiero. Strings in WikiHiero syntax are embedded in <hiero></hiero> to display. Samples on Talk:Q68101340 and Property_talk:P7383.
+Phab request to do.
+Combined human-readable and numeric id[edit]
+Tracked in PhabricatorTask T260639
+Datatype to add numeric id and page title, e.g. of a MediaWiki page. Qualifier MediaWiki page ID (P9675) is sometimes added to property value with page titles. Some properties use the numeric value directly.
+Wikibase statement[edit]
+Tracked in PhabricatorTask T285157
+Datatype to reference a specific Wikidata statement. 
+Regular expressions[edit]
+Tracked in PhabricatorTask T244046
+Datatype to store regular expressions (regex). These are currently stored as strings or monolingual text, e.g. format as a regular expression (P1793), format as language specific regular expression (P8770).
+IP address ranges[edit]
+Tracked in PhabricatorTask T235389
+Datatype to store address ranges and simplify querying them.
+Data types that will never be implemented[edit]
+Boolean[edit]
+Tracked in PhabricatorTask T145528Declined
+Declined. Suggested alternative: item-datatype.
+Changing datatype[edit]
+A property in "string" datatype may be converted to "external identifier" datatype by a system administrator. To propose such a change, you may start a discussion at the talk page of the property or Project chat. After a consensus, a request may be made in Contact the development team. You should read previous discussion if you want to convert a property created before 2016.
+Other changes of data type requires creating a new property and deleting the old one. You should use Properties for deletion for such requests.
+See also[edit]
+Special:ListDatatypes
+Wikidata:WikiProject Properties/Reports/Datatypes
+Wikidata:Development plan
+Retrieved from "https://www.wikidata.org/w/index.php?title=Help:Data_type&oldid=1918860296"
+Categories: Pages which use scoreWikidata information pages
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Help pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In Wikipedia
+Add links
+ This page was last edited on 19 June 2023, at 09:06.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

@@ -1,0 +1,168 @@
+Wikidata:Scholia - Wikidata
+Wikidata:Scholia
+From Wikidata
+Jump to navigation
+Jump to search
+Translate this pageOther languages:British English
+Deutsch
+English
+Tiếng Việt
+español
+français
+hrvatski
+italiano
+polski
+svenska
+ślůnski
+български
+العربية
+پنجابی
+کوردی
+ગુજરાતી
+中文
+日本語
+Home
+Instructions
+Administration
+Talk
+Use Scholia!
+Scholia
+2022 Coolest ToolAward Winner
+in the category
+Impact
+Scholia profile of a topic
+Contents
+1 About
+2 Using Scholia
+2.1 Main tool
+2.2 Creating a scholarly profile
+2.3 Contributing bibliographic data
+2.4 Other visualizations
+2.5 Use as a reference manager
+3 Why it matters
+4 How it works
+5 Usage on Wikimedia sites
+6 History
+7 Galleries
+7.1 Scholia's dependencies
+7.2 Scholia profiles
+7.2.1 Curation pages
+7.2.2 Comparisons
+7.3 WikiCite tool chain
+8 Publications
+9 See also
+10 External links
+About[edit]
+Scholia (Q45340488)  is a project to present bibliographic information and scholarly profiles of authors and institutions using Wikidata, the community-curated database supporting Wikipedia and all other Wikimedia projects. Scholia is being developed in the framework of the larger WikiCite initiative, which seeks to index bibliographic metadata in Wikidata about resources that can be used to substantiate claims made on Wikidata, Wikipedia or elsewhere.
+Using Scholia[edit]
+Main tool[edit]
+A Scholia profile for a person
+Access the Scholia tool at http://scholia.toolforge.org/. The menu bar lists "author", "work", "organization", "topic", and suggested other data visualization options. Anyone who wishes to see a scholarly profile of a researcher based on Wikidata information about their publications may search for their name in the "author" presentation. For a Wikidata profile of a publication, search "work", and so on for the others.
+Creating a scholarly profile[edit]
+When Wikidata has an item entry for a person and item entries for at least some of their publications, then Scholia will use that information to generate a scholarly profile. Anyone wishing to create a scholarly profile with Scholia should edit the Wikidata item for that person in the usual way of engaging with Wikidata. In addition to editing the item for individuals, one should provide Wikidata with a list of that person's publications with appropriate structured data indicating that they are an author of these publications.
+Contributing bibliographic data[edit]
+Wikidata is seeking structured metadata for academic publications. The project through which the Wikimedia community is managing the social, technical, data accession, and data implementation issues for citations is WikiCite. While smaller data experiments on the order of perhaps hundreds of publications are appropriate for anyone to upload, anyone engaged in large-scale citation upload should join the Wikicite community to review the thousands of pages of documentation and content describing the complicated relationship between Wikipedia, Wikidata, and citations to everything ever published.
+To contribute enough data to create scholarly profiles for a few individuals, then collect the digital object identifier (Q25670)s for their publications and upload them to Wikidata using any of the tools which format citations for Wikidata. WikiProject Source MetaData presents tools including fatameh and Source MetaData.
+Other visualizations[edit]
+Scholia offers visualizations for publications, organizations, and other entities. The model for preparing visualizations for any of these is the same as for an individual researcher: first set up a Wikidata item for the entity to profile, then upload citations to publications which have structured data noting the relationship of the publication to the entity to profile. For instance, items about publications that have a main subject (P921) statement will appear in the "topic" visualization (example: Zika virus).
+Use as a reference manager[edit]
+Scholia integrates with BibTeX (Q8029), i.e. from inside TeX (Q5301) or LaTeX (Q5310) documents, a particular reference can be cited by just using their Wikidata identifier, through which Scholia can retrieve the bibliographic metadata that BibTeX can process to format the output according to the style file defined in the document.
+Why it matters[edit]
+Scholia detail: an author's most frequent publication venues
+A WikidataCon 2017 presentation about Scholia
+Wikimania 2019 presentation about Scholia
+Scholia provides a visualization and access to data which many researchers find useful and which otherwise would either be expensive, labor intensive, or use commercial closed data to access.
+How it works[edit]
+Scholia uses various other Wikidata functions to operate. To make a profile, it executes a set of queries using the Special:MyLanguage/Wikidata:SPARQL query service. For some of its visualizations, it uses other tools.
+Usage on Wikimedia sites[edit]
+While Scholia uses data from Wikidata, it can itself be used across Wikimedia projects, e.g. by way of a template pointing from a Wikipedia or Wikimedia Commons page to a corresponding Scholia profile. A subset of such usage is tracked here.
+History[edit]
+Finn Årup Nielsen created the tool and encourages the Wikimedia community to engage with it.
+Galleries[edit]
+Scholia's dependencies[edit]
+MediaWiki
+Wikibase
+Wikidata data model
+Wikidata data formats
+Wikidata and its SPARQL endpoint
+Wikidata Query Service servers
+WikiCite
+Python (Flask)
+JavaScript
+Scholia profiles[edit]
+Topic
+Author
+Article
+Journal
+Event
+Curation pages[edit]
+Several of Scholia's aspects have associated pages that help curate gaps related to the profile in question. They can usually be accessed by adding /curation to the profile's URL.
+Topic
+Author
+Journal
+Award
+Comparisons[edit]
+Some of Scholia's aspects allow to compare several entities. They can usually be accessed by changing the aspect in the URL from singular to plural and adding the Wikidata identifiers after the slash, separated by commas. The current setup supports comparisons of up to about 5 entities.
+Topics
+ 7 authors named "Li Li"
+WikiCite tool chain[edit]
+Author Disambiguator
+SourceMD
+See also Wikidata:SourceMD/instructions
+Publications[edit]
+Sengul-Jones, Monica (10 February 2021). "The promise of Wikidata". DataJournalism.com. European Journalism Centre.
+Boessen, Manuel (2019). "Maastrichtse hoogleraren". www.kec-um.nl. Maastricht University.
+Willighagen, Egon (26 October 2019). "Cheminformatics to improve Wikidata on chemical compounds". media.ccc.de/. WikiDataCon 2019.
+Open Publishing Awards (2019). "2019 CATEGORY: OPEN CONTENT Wikidata". openpublishingawards.org/. Coko Foundation.
+Egon Willighagen; Nina Jeliazkova; Rajarshi Guha (8 July 2019). "Journal of Cheminformatics, ORCID, and GitHub". Journal of Cheminformatics. 11 (1): 44. doi:10.1186/S13321-019-0365-4. ISSN 1758-2946. PMC 6613236. PMID 31281945. Wikidata Q65157566.
+Mietchen, Daniel; Rasberry, Lane (6 June 2019). "Robustifying Scholia - Developing a Wikipedia interface for exploring the research ecosystem". Data Science Institute blog.
+Lane Rasberry; Egon Willighagen; Finn Årup Nielsen; Daniel Mietchen (2 May 2019). "Robustifying Scholia: paving the way for knowledge discovery and research assessment through Wikidata". Research Ideas and Outcomes. 5. doi:10.3897/RIO.5.E35820. ISSN 2367-7163. Wikidata Q63433973.
+Stacy Allison-Cassin; Alison Armstrong; Phoebe Ayers;  et al. (18 April 2019), ARL White Paper on Wikidata: Opportunities and Recommendations (PDF), Washington, D.C.: Association of Research Libraries, Wikidata Q63214058
+Finn Årup Nielsen; Daniel Mietchen; Egon Willighagen (13 March 2017). "Scholia and scientometrics with Wikidata" (PDF). Joint Proceedings of the 1st International Workshop on Scientometrics and 1st International Workshop on Enabling Decentralised Scholarly Communication. CEUR Workshop Proceedings. 1878. arXiv:1703.04222. doi:10.5281/ZENODO.1036595. Wikidata Q28942417.
+Finn Årup Nielsen; Daniel Mietchen; Egon Willighagen (October 2017). "Scholia, Scientometrics and Wikidata" (PDF). The Semantic Web: ESWC 2017 Satellite Events. Lecture Notes in Computer Science: 237–259. doi:10.1007/978-3-319-70407-4_36. Wikidata Q41799194.
+Mairelys Lemus-Rojas; Jere Odell (16 February 2018), From Wikidata to Scholia: creating structured linked data to generate scholarly profiles (PDF), doi:10.17605/OSF.IO/GXQ8D, hdl:1805/15490, Wikidata Q50376976
+Finn Årup Nielsen; Daniel Mietchen; Egon Willighagen (18 March 2018). "Geospatial data and Scholia" (PDF). Proceedings of the 3rd International Workshop on Geospatial Linked Data and the 2nd Workshop on Querying the Web of Data. CEUR Workshop Proceedings. 2110. doi:10.5281/ZENODO.1202256. Wikidata Q50813856.
+Nielsen, Finn Årup (2 August 2017). "Some information about Scholia". Finn Årup Nielsen's blog.
+Nielsen, Finn Årup (13 November 2017). "Can you scrape Google Scholar?". Finn Årup Nielsen's blog.
+Nielsen, Finn Årup (24 October 2017). "Do we have a final schema for Wikicite?". Finn Årup Nielsen's blog.
+See also[edit]
+WikiProject Scholia
+External links[edit]
+https://scholia.toolforge.org/, official website
+Scholia about Scholia
+GitHub
+Retrieved from "https://www.wikidata.org/w/index.php?title=Wikidata:Scholia&oldid=1791050206"
+Category: WikiProject Scholia
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Project pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+Wikimedia Commons
+In Wikipedia
+Add links
+ This page was last edited on 16 December 2022, at 17:32.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

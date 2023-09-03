@@ -1,0 +1,104 @@
+World influence and interactions of universities from Wikipedia networks - NASA/ADS
+Now on home page
+ ads
+ Enable full ADS
+                    
+ 
+view 
+                Abstract
+              
+                Citations
+                (13)
+                References
+                (13)
+                Co-Reads
+              
+                Similar Papers
+              
+                Volume Content
+              
+                  Graphics
+                  
+                  Metrics
+                  
+                Export Citation
+              
+NASA/ADS
+                  
+                  World influence and interactions of universities from Wikipedia networks
+                  
+                  
+Coquidé, Célestin
+;
+                    
+                    Lages, José
+;
+                    
+                    Shepelyansky, Dima L.
+Abstract
+                    We present Wikipedia Ranking of World Universities (WRWU) based on analysis of networks of 24 Wikipedia editions collected in May 2017. With PageRank and CheiRank algorithms we determine ranking of universities averaged over cultural views of these editions. The comparison with the Shanghai ranking gives overlap of 60% for top 100 universities showing that WRWU gives more significance to their historical development. We show that the new reduced Google matrix algorithm allows to determine interactions between leading universities on a scale of ten centuries. This approach also determines the influence of specific universities on world countries. We also compare different cultural views of Wikipedia editions on significance and influence of universities.
+                  
+Publication:
+European Physical Journal B
+Pub Date:
+January 2019
+DOI:
+10.1140/epjb/e2018-90532-7
+arXiv:
+arXiv:1809.00332
+Bibcode:
+                    2019EPJB...92....3C
+                    
+Keywords:
+Statistical and Nonlinear Physics;
+Computer Science - Social and Information Networks;
+Physics - Physics and Society
+E-Print:
+                    
+                    Main article 17 pages, 22 figures, 10 tables
+                  
+ 
+full text sources
+Publisher
+|
+ 
+arXiv
+ 
+|
+ 
+            © The SAO/NASA Astrophysics Data System
+            
+ adshelp[at]cfa.harvard.edu
+              
+                The ADS is operated by the Smithsonian Astrophysical Observatory under NASA Cooperative
+                Agreement NNX16AC86A
+              Resources
+            
+ About ADS
+                
+ ADS Help
+                
+ What's New
+                
+ Careers@ADS
+                
+              Social
+            
+ @adsabs
+                
+ ADS Blog
+                
+              Project
+            
+Switch to full ADS
+Is ADS down?
+                  (or is it just me...)
+Smithsonian Institution
+Smithsonian Privacy
+                  Notice
+Smithsonian Terms of
+                  Use
+Smithsonian
+                  Astrophysical Observatory
+NASA
+🌓

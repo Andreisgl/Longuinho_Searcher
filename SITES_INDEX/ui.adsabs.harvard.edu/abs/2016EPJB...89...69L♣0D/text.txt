@@ -1,0 +1,105 @@
+Wikipedia ranking of world universities - NASA/ADS
+Now on home page
+ ads
+ Enable full ADS
+                    
+ 
+view 
+                Abstract
+              
+                Citations
+                (13)
+                References
+                (8)
+                Co-Reads
+              
+                Similar Papers
+              
+                Volume Content
+              
+                  Graphics
+                  
+                  Metrics
+                  
+                Export Citation
+              
+NASA/ADS
+                  
+                  Wikipedia ranking of world universities
+                  
+                  
+Lages, José
+;
+                    
+                    Patt, Antoine
+;
+                    
+                    Shepelyansky, Dima L.
+Abstract
+                    We use the directed networks between articles of 24 Wikipedia language editions for producing the wikipedia ranking of world Universities (WRWU) using PageRank, 2DRank and CheiRank algorithms. This approach allows to incorporate various cultural views on world universities using the mathematical statistical analysis independent of cultural preferences. The Wikipedia ranking of top 100 universities provides about 60% overlap with the Shanghai university ranking demonstrating the reliable features of this approach. At the same time WRWU incorporates all knowledge accumulated at 24 Wikipedia editions giving stronger highlights for historically important universities leading to a different estimation of efficiency of world countries in university education. The historical development of university ranking is analyzed during ten centuries of their history.
+                  
+Publication:
+European Physical Journal B
+Pub Date:
+March 2016
+DOI:
+10.1140/epjb/e2016-60922-0
+arXiv:
+arXiv:1511.09021
+Bibcode:
+                    2016EPJB...89...69L
+                    
+Keywords:
+Statistical and Nonlinear Physics;
+Computer Science - Social and Information Networks;
+Computer Science - Computers and Society;
+Physics - Physics and Society
+E-Print:
+                    
+                    13 pages, 17 figures, 7 tables. Accepted for publication in Eur. Phys. J. B. Supporting information is available at http://perso.utinam.cnrs.fr/~lages/datasets/WRWU/
+                  
+ 
+full text sources
+Publisher
+|
+ 
+arXiv
+ 
+|
+ 
+            © The SAO/NASA Astrophysics Data System
+            
+ adshelp[at]cfa.harvard.edu
+              
+                The ADS is operated by the Smithsonian Astrophysical Observatory under NASA Cooperative
+                Agreement NNX16AC86A
+              Resources
+            
+ About ADS
+                
+ ADS Help
+                
+ What's New
+                
+ Careers@ADS
+                
+              Social
+            
+ @adsabs
+                
+ ADS Blog
+                
+              Project
+            
+Switch to full ADS
+Is ADS down?
+                  (or is it just me...)
+Smithsonian Institution
+Smithsonian Privacy
+                  Notice
+Smithsonian Terms of
+                  Use
+Smithsonian
+                  Astrophysical Observatory
+NASA
+🌓

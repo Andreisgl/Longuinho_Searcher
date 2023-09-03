@@ -1,0 +1,166 @@
+number of subscribers - Wikidata
+number of subscribers
+(P3744)
+From Wikidata
+Jump to navigation
+Jump to search
+number of subscribers for subscription-based companies, e.g. telecommunication companies, newspapers, pay-TV channels, software, etc.subscribersnumber of followersfollowerssubscriber numbersubssubscriber countsub countfollower countnumber of subsnumber of followsnumber of subscriptionssubscriptionssubscription countfollow count
+Language
+Label
+Description
+Also known as
+English
+number of subscribers
+number of subscribers for subscription-based companies, e.g. telecommunication companies, newspapers, pay-TV channels, software, etc.
+subscribersnumber of followersfollowerssubscriber numbersubssubscriber countsub countfollower countnumber of subsnumber of followsnumber of subscriptionssubscriptionssubscription countfollow count
+Data type
+Quantity
+Statements
+instance of
+Wikidata property related to economics
+0 references
+Wikidata property for number of people
+0 references
+class of property value
+number of subscribers
+0 references
+Wikidata item of this property
+subscriber
+0 references
+number of subscribers
+0 references
+Wikidata property example
+China Mobile
+number of subscribers
+851,000,000
+0 references
+Styr & Ställ
+number of subscribers
+28,000
+0 references
+Gazeta Wyborcza
+number of subscribers
+218,000
+0 references
+type of unit for this property
+subscriber
+0 references
+stability of property value
+continuously changes  / unstable identifier
+0 references
+related property
+member count
+0 references
+units sold
+0 references
+readership
+0 references
+social media followers
+0 references
+number of viewers/listeners
+0 references
+property proposal discussion
+https://www.wikidata.org/wiki/Wikidata:Property_proposal/Number_of_subscribers
+0 references
+Constraints
+property constraint
+range constraint
+maximum value
+10,000,000,000
+minimum value
+0
+constraint status
+mandatory constraint
+0 references
+conflicts-with constraint
+property
+instance of
+item of property constraint
+human
+Wikimedia disambiguation page
+Wikimedia category
+Wikimedia template
+Wikimedia module
+Wikimedia project page
+constraint status
+mandatory constraint
+0 references
+allowed units constraint
+item of property constraint
+no value
+constraint status
+mandatory constraint
+0 references
+integer constraint
+constraint status
+mandatory constraint
+0 references
+required qualifier constraint
+property
+point in time
+constraint status
+suggestion constraint
+0 references
+item-requires-statement constraint
+property
+instance of
+constraint status
+mandatory constraint
+0 references
+single-value constraint
+separator
+point in time
+refine date
+applies to part
+0 references
+property scope constraint
+property scope
+as main value
+as qualifier
+0 references
+allowed-entity-types constraint
+item of property constraint
+Wikibase item
+constraint status
+mandatory constraint
+0 references
+citation needed constraint
+0 references
+conflicts-with constraint
+property
+instance of
+item of property constraint
+subreddit
+replacement property
+member count
+0 references
+Retrieved from "https://www.wikidata.org/w/index.php?title=Property:P3744&oldid=1922305511"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+PropertyDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Download as PDFPrintable version
+ This page was last edited on 23 June 2023, at 19:53.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

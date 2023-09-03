@@ -1,0 +1,145 @@
+Wikidata:Tools/Query data - Wikidata
+Wikidata:Tools/Query data
+From Wikidata
+< Wikidata:Tools
+Jump to navigation
+Jump to search
+Translate this page
+Query data
+Other languages:Basa Bali
+British English
+Deutsch
+English
+asturianu
+dansk
+español
+français
+latviešu
+polski
+português
+português do Brasil
+svenska
+ślůnski
+беларуская (тарашкевіца)
+українська
+العربية
+ไทย
+မြန်မာဘာသာ
+中文
+日本語
+粵語
+Cita (Q108311142)CitaAdds citations metadata (i.e., what other items an item cites) support to the reference management software Zotero, using cites work (P2860) information from Wikidata, and enabling users to easily contribute missing data.
+by Diegodlh
+CLOCQ: Fast and Effective Search Space Reduction for Complex Question Answering over Knowledge Bases (Q111316242)Provides efficient access to Wikidata, with a focus on functionalities required for question answering use cases. Additional information: https://clocq.mpi-inf.mpg.de
+by PhilippChr
+HubHuba web hub based on Wikidata
+by Maxlath
+inteGraality (Q84572489)inteGraalityDashboards of property coverage for a given part of Wikidata.
+by Jean-Frédéric
+Item Quality Evaluator (Q110831886)Item Quality EvaluatorThe Item Quality Evaluator retrieves a quality score for each requested Item and also calculates the avarage score of all Items requested.
+by Wikidata development team
+KanopiKanopiA note-taking tool that lets you directly search Wikidata to use Wikidata Nodes as notes and Statements as links between notes. Kanopi also offers higher-order tools for organizing your notes, such as Trees and Maps.
+by brianru
+Linked items (Q92076502)Linked itemsReturns sorted, de-duped list of Q values from a Wikipedia page, or chunk of wiki-text.
+by Magnus Manske
+Navel GazerWikidata users statement addition counts.
+by Bamyers99
+OpenRefine (Q5583871)OpenRefineClean messy datasets and connect them with Wikidata.
+Platypus (Q20726406)PlatypusAsk Platypus questions in English about general knowledge and math.
+by Tpt
+Property explorerShows properties of Wikidata, its classes and statistics.
+Scholia (Q45340488)ScholiaDisplays scientific and bibliographic information from Wikidata by queries to Wikidata Query Service.
+by fnielsen
+SkimA (very) limited, visual, replacement for Wikidata Query which just does one claim, based on the 'linkshere' method of the Wikidata API.
+by husky
+SPARQL extension for RoamResearchBased on Roam page, block, or custom query, imports data from Wikidata into RoamResearch, mapping properties and items to attributes and pages.
+by David Vargas
+TABernacle (Q26882268)Displays a table of statement values for a set of items (as rows) and set of properties (as columns). Items can be specified as a either a manual list, or as a SPARQL-query or PagePile ID.
+by Magnus Manske
+QAnswer (Q47545479)QAnswerQuestion answering (QA) system to query Wikidata in multiple languages: english, french, german, italian, spanish, arabic and chinese. Depending on the result set you can render the result set as images, maps, or list. If we do not find the answer in Wikidata we fall-back on the search engine Qwant. So you can see QAnswer as a web search engine using Wikidata as the underlying Knowledge Base for providing direct answers. Enjoy!
+by DD063520
+Wembedder (Q63379435)Knowledge graph embedding of Wikidata items with "most similiar" item functionality.
+by fnielsen
+Wikidata Class Browser (Q29982490)Displays wikidata class information including subclass and instance totals. Includes common class properties, qualifiers, enumerated values, instance of super class.
+by Bamyers99
+Wikidata duplicate item finderWikidata duplicate item finderFinds potential duplicate items on Wikidata, via identical labels/aliases.
+by Magnus Manske
+Wikidata Dynamic lists (Q33163005)In this Wikidata Dynamic lists tool, everyone can view lists, and change options like language, columns, and sections on-the-fly; to create your own lists, use your trusted WiDaR login. See blog post and Wikidata:Dynamic lists tool.
+Examples:
+Artworks by Peter Paul Rubens (~312 items)
+Birth in Třebíč (~146 items)
+by Magnus Manske
+Wikidata ResolverWikidata ResolverRedirect to a Wikidata item, based on inserted value for an inserted property.
+by Magnus Manske
+Wikidata TranslateWikidata TranslateA tool used for translating a term from one language to another.
+Choose the language in which you want the term to be translated by clicking on "Change your preferred languages?".
+Click the drop-down menu of "Translate from" to select the language of the term.
+A list of wikipedia pages, in your preferred languages, titled with that translated term, will appear.
+by Husky
+Wikidata Walkabout (Q99677798)Provides an interface for drilling down through Wikidata's data, by using the properties for this type property to determine the set of ideal filters for each "class" of items.
+by Yaron Koren and Sahaj Khandelwal
+Wikipedia Tools for Google Spreadsheets (Q48719750)A Google Spreadsheets add-on that provides custom functions to work with data from Wikipedia and Wikidata.
+by Tomayac
+SPARQL query builders[edit]
+BlockyQueryPrototype tool to run SPARQL queries built using visual blocks (based on SparqlBlocks).
+by MichaelSchoenitzer
+SPARQL query generatorSPARQL query generatorA simple interface to generate SPARQL queries based on subject-predicate-object triples.
+by Bene*
+Vizquery (Q30369996)VizqueryA visual way to query Wikidata without using SPARQL by means of a query builder.
+by Husky
+Wikidata Query Builder (Q105550739)Wikidata Query BuilderCreate lists of items by filtering them based on their statements.
+by Jakob Warkotsch (WMDE)
+QueryGraph (Q104778121)QueryGraphDraw a graph with nodes and edges to generate a query in SPARQL for Wikidata.
+by Shevekk
+Mathematical knowledge retrieval[edit]
+PhysWikiQuizPhysWikiQuizPhysics question generator and solution interrogator.
+by PhilMINT
+MathQAMathQAMathematical question answering system.
+by Physikerwelt
+AnnoMathTeXAnnoMathTeXFormula and identifier annotation recommender system.
+by PhilMINT
+MathMLbenMathMLbenBenchmark to evaluate tools for mathematical format conversion (LaTeX ↔ MathML ↔ CAS).
+by Physikerwelt
+See also[edit]
+ Wikidata tools
+ Edit items
+ Query data
+ Enhance user interface
+ Visualize data
+ List properties
+ Lexicographical data
+ For programmers
+ Non-Wikidata
+Retrieved from "https://www.wikidata.org/w/index.php?title=Wikidata:Tools/Query_data&oldid=1952414929"
+Categories: Wikidata:ToolsWikidata-en
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Project pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage information
+Print/export
+Create a bookDownload as PDFPrintable version
+In Wikipedia
+Add links
+ This page was last edited on 12 August 2023, at 13:02.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

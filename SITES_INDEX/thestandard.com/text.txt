@@ -1,0 +1,137 @@
+  
+InfoWorld - Technology insight for the enterprise
+Close Ad
+infoworld
+UNITED STATES 
+United States 
+United Kingdom 
+More from the Foundry Network
+About Us |
+Contact |
+Republication Permissions |
+Privacy Policy |
+Cookie Policy |
+European Privacy Settings |
+Member Preferences |
+Advertising |
+Foundry Careers |
+Ad Choices |
+E-commerce Links |
+California: Do Not Sell My Personal Info |
+Follow Us
+×
+Close
+5 easy ways to run an LLM locally
+By Sharon Machlis
+What happens when finops finds bad cloud architecture?
+By David Linthicum
+Intro to Java's Simple Web Server
+By Matthew Tyson
+ 
+ 
+ 
+Advertisement
+Don't Miss:
+Get the latest insights into generative AI by reading InfoWorld’s Generative AI Insights blog
+Azul Java learns to cut warmup times
+Azul’s ReadyNow technology learns from application usage and automatically selects the best warmup optimization patterns, the company said. 
+Paul Krill
+| 
+What happens when finops finds bad cloud architecture?
+Finops practices and tools can spot inefficiencies and opportunities to optimize. Here's what to do when you find waste in cloud deployments.
+David Linthicum
+| 
+What is Python? Powerful, intuitive programming
+Find out what makes Python a versatile powerhouse for modern software development—from data science to machine learning, systems automation, web and API development, and more.
+Serdar Yegulalp
+| 
+Advertisement
+Microsoft axes Visual Studio for Mac
+Microsoft advises current users of Visual Studio for Mac to switch to Visual Studio Code, run Visual Studio for Windows in a VM, or use Microsoft Dev Box on Azure.  
+Paul Krill
+| 
+How to improve API security in ASP.NET Core
+Take advantage of authentication and authorization, API keys, rate limiting, CORS, API versioning, and other recommended practices to build secure and robust APIs in ASP.NET Core. 
+Joydip Kanjilal
+| 
+ 
+ 
+    Get the best of InfoWorld delivered to your inbox. Sign up for our free newsletters.
+Subscribe now
+ 
+Rust changes Cargo package guidance
+Rust’s Cargo team used to recommend committing Cargo.lock for files with binaries but not libraries, but now says do what is best for your project. 
+Paul Krill
+| 
+Launch into satellite applications with Microsoft Azure
+Microsoft’s Azure Space platform and Azure Orbital Space SDK are taking edge computing to the final frontier, starting with satellite image processing, geospatial, and communications applications. 
+Simon Bisson
+| 
+5 easy ways to run an LLM locally
+Deploying a large language model on your own system can be surprisingly simple—if you have the right tools. Here's how to use LLMs like Meta's new Code Llama on your desktop.
+Sharon Machlis
+| 
+Intro to Java's Simple Web Server
+Java 18's Simple Web Server lets you use a command-line tool or API to host files and more. Here's how it works.
+Matthew Tyson
+| 
+How to use PyInstaller to create Python executables
+Use PyInstaller to package your Python apps into standalone executables for easy distribution.
+Serdar Yegulalp
+| 
+Advertisement
+OpenAI unveils ChatGPT Enterprise
+Generative AI chatbot designed for use inside organizations offers enterprise-grade security and privacy, unlimited access to GPT-4, up to 2x better performance, larger context and prompt windows, and customization options. 
+Paul Krill
+| 
+Google expands Duet AI features across its cloud services
+At its Google Cloud Next conference, the company said that it was adding Duet AI to cloud services around data analytics, databases, and infrastructure and application management.
+Anirban Ghoshal
+| 
+Google Cloud’s Colab Enterprise environment to help tune LLMs 
+At its Cloud Next conference, the company added new features for advanced MLOps for generative AI and launched Ray on Vertex AI for scaling AI workloads efficiently.
+Anirban Ghoshal
+| 
+Google’s new Vertex AI features to unlock advanced LLM capabilities
+At its annual Cloud Next conference, the company announced new tools, such as Vertex AI Extensions and Vertex AI Connectors, while updating Vertex AI Search and Vertex AI Conversations with new features.
+Anirban Ghoshal
+| 
+The shortcomings of serverless computing 
+Serverless computing is a popular approach for cloud-based applications, but it's not the best fit in every case. Too often serverless fails to deliver business value.
+David Linthicum
+| 
+ 
+From Our Advertisers
+Featured Sponsor 
+Intel
+Competitive Advantage with a Modern Data Center that Delivers Boundless Agility
+Sponsored 
+by MongoDB
+Why our agile journey led us to ditch the relational database
+Sponsored 
+by Intel
+Speeding Up Geographic Commands in Redis 7
+ 
+ 
+InfoWorld
+ 
+Follow us
+About Us
+Contact
+Republication Permissions
+Privacy Policy
+Cookie Policy
+European Privacy Settings
+Member Preferences
+Advertising
+Foundry Careers
+Ad Choices
+E-commerce Links
+California: Do Not Sell My Personal Info
+Copyright © 2023 IDG Communications, Inc.
+Explore the Foundry Network descend
+CIO
+Computerworld
+CSO Online
+InfoWorld
+Network World

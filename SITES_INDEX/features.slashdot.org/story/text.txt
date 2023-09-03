@@ -1,0 +1,791 @@
+The Early History of Nupedia and Wikipedia: A Memoir - Slashdot
+Slashdot
+Stories
+Firehose 
+All
+Popular
+Polls
+ Software
+Apparel
+Newsletter
+Jobs
+Submit
+Search Slashdot
+ Login
+or
+ Sign up
+Topics: 
+Devices
+Build
+Entertainment
+Technology
+Open Source
+Science
+YRO
+Follow us:
+RSS
+Facebook
+LinkedIn
+Twitter
+Youtube
+Mastodon
+Newsletter
+Slashdot is powered by your submissions, so send in your scoop
+ 
+Nickname:
+Password:
+ Public Terminal
+ Forgot your password?
+Close
+binspamdupenotthebestofftopicslownewsdaystalestupid
+freshfunnyinsightfulinterestingmaybe
+offtopicflamebaittrollredundantoverrated
+insightfulinterestinginformativefunnyunderrated
+descriptive
+typodupeerror
+ Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your GitHub releases to SourceForge quickly and easily with this tool so your projects have a backup location, and get your project in front of SourceForge's nearly 30 million monthly users. It takes less than a minute. Get new users downloading your project releases today!
+×
+1460705
+story
+ The Early History of Nupedia and Wikipedia: A Memoir
+156
+Posted
+by 
+  timothy
+on Monday April 18, 2005 @01:00PM
+ from the longer-than-my-memory dept.
+ 
+Larry Sanger was one of the moving forces behind the pioneering Nupedia project. That makes him one of the people to thank for Wikipedia, which has been enjoying more and more visibility of late. Sanger has prepared a lengthy, informative account of the early history of Nupedia and Wikipedia, including some cogent observations on project management, online legitimacy, dealing with trolls, and other hazards of running a large, collaborative project over the Internet. As Sanger writes, "A virtually identical version of this memoir is due to appear this summer in Open Sources 2.0, published by O'Reilly and edited by Chris DiBona, Danese Cooper, and Mark Stone. The volume is to be a successor to Open Sources: Voices from the Open Source Revolution (1999)." Read on below for the story (continued tomorrow). Update: 04/20 19:19 GMT by  T : Here's a link to the continuation of Sanger's memoir.
+ 
+Contents:
+ Preface
+ Some recent press reports
+ Nupedia
+ The origins of Wikipedia
+ Wikipedia's first few months
+   Preface 
+An impassioned debate has been raging, particularly since about the summer of 2004, about the merits of Wikipedia and the future of free online encyclopedias.  This discussion has not benefitted by much detailed, accurate consideration of the origins of Wikipedia and of its parent project, Nupedia.  But it seems to me that those origins are very important -- crucial, even -- to forming a proper judgment of the current state and best future direction of free encyclopedias.
+Wikipedia as it stands is a fantastic project; it has produced enormous amounts of content, thousands of excellent articles, and now, after just four years, is getting high-profile, international recognition as a new way of obtaining at least a rough and ready idea about very many topics.  Its surprising success may be attributed, briefly, to its free, open, and collaborative nature.
+This has been my attitude toward Wikipedia practically since its founding.  But a few months ago I wrote an article critical of certain aspects of the Wikipedia project, 'Why Wikipedia Must Jettison Its Anti-Elitism', which occasioned much debate.  I have also been quoted, as co-founder of Wikipedia, in many recent news articles about the project, making various other critical remarks.  I am afraid I am getting an undeserved reputation as someone who is opposed to everything Wikipedia stands for.  This is completely incorrect.  In fact, I am one of Wikipedia's strongest supporters.  I am partly responsible for bringing it into the world (as I will explain), and I still love it and want only the best for it.  But if a better job can be done, a better job should be done.  Wikipedia has shown fantastic potential, and it is open content--and so if the project has problems (or features) which will keep it from being the maximally authoritative, broad, and deep reference that I believe could exist, I firmly believe that the world has the right to, and should, improve upon it.
+Wikipedia's predecessor, which I was also employed to organize, was Nupedia.  Nupedia was to be a highly reliable, peer-reviewed resource that fully appreciated and employed the efforts of subject area experts, as well as the general public.  When the more free-wheeling Wikipedia took off, Nupedia was left to wither.  It might appear to have died of its own weight and complexity.  But, as I will explain, it could have been redesigned and adapted--it could have, as it were, "learned from its mistakes" and from Wikipedia's successes.  Thousands of people who had signed up and who wanted to contribute to the Nupedia system were left disappointed.  I believe this was unfortunate and unnecessary; I always wanted Nupedia and Wikipedia working together to be not only the world's largest but also the world's most reliable encyclopedia.  I hope that this memoir will help to justify this stance.  Hopefully, too, I will manage to persuade some people that collaboration between an expert project and a public project is the correct approach to the overall project of creating open content encyclopedias.
+I am not writing to request that Nupedia be resuscitated now, as nice as that would be.  But I would like to tell the story of Nupedia and the first couple years of Wikipedia, as I remember it.  A more complete history of the projects, as opposed to a memoir, must await a careful study of the Nupedia and Wikipedia archives--if early archives of them still exist (I have no idea if they do)--or else these entries from the "Wayback Machine."  Interviews with many of those heavily involved in the projects would also help a great deal, so long as interviews were done of people on different side of the disputes that helped to shape the project.
+By the way, the "overall project of creating open content encyclopedias" is something of which I have been writing since at least 2001.  For example, in July of 2001, while still working on both Wikipedia and Nupedia, I wrote, "if some other open source project proves to be more competitive, then it should and will take the lead in creating a body of free encyclopedic knowledge."  Since Wikipedia is open content and hence may be reproduced and improved upon by anyone, I have always been cognizant that it might not end up being the only or best version.  My personal devotion has always been to the ideal project as I have envisioned it, not necessarily to particular incarnations of Nupedia or Wikipedia; and I think this attitude is fully consistent with the (very positive) spirit of open source collaboration generally.
+This being said, let me also emphasize strongly that, throughout this discussion, I am not suggesting that Wikipedia needs to be replaced with something better.  I do, however, think that it needs to be supplemented by a broader, more ambitious, and more inclusive vision of the overall project.
+   Some recent press reports 
+The following memoir seems all the more important to publish now because the early history of Nupedia and Wikipedia has been mischaracterized in the press recently.  If there were only a few inaccuracies, which made no difference, I would be happy to leave well enough alone.  But some of the mischaracterizations I've seen do make a difference, because they give the public the impression that Nupedia failed because it was run by snobbish experts whose standards were too high.  As the following should make clear, that is not quite correct.  One might also gather from some reports that the idea for Wikipedia sprang fully grown from Jimmy Wales' head.  Jimmy, of course,  deserves enormous credit for investing in and guiding Wikipedia.  But a more refined idea of how Wikipedia originated and evolved is crucial to have, if one wants to appreciate fully why it works now, and why it has the policies that it does have.
+For example, in the Nov. 1, 2004 issue of Newsweek, in "It's Like a Blog, But It's a Wiki," reporter Brad Stone writes:
+[Jimmy] Wales first tried to rewrite the rules of the reference-book business five years ago with a free online encyclopedia called Nupedia. Anyone could submit articles, but they were vetted in a seven-step review process. After investing thousands of his own dollars and publishing only 24 articles, Wales reconsidered. He scrapped the review process and began using a popular kind of online Web site called a "wiki," which allows its readers to change the content. 
+This capsule history is, of course, very brief and so should be expected not to have every relevant detail.  But some of the claims made here are not just vague, they are actually misleading, and so several clarifications are in order (all of this is elaborated below):
+The article makes it sound as if Jimmy were the only person making the relevant decisions.  That is incorrect; the Nupedia system (indeed, seven steps) was established via negotiation with Nupedia's volunteer Advisory Board, mostly Ph.D. volunteers, who served as editors and peer reviewers.  I articulated our decisions in Nupedia's "Editorial Policy Guidelines."  Jimmy started and broadly authorized it all, but as to the details, he really had little to do with them.
+Nupedia's Advisory Board might be surprised to learn that Jimmy (alone!) "scrapped the review process."  Jimmy was certainly disappointed with the process (as were many people), and he did not actively support it after 2001 or so.  But in fairness to the people actually working on Nupedia, the fact is that work on Nupedia gradually petered out in 2001-2.  I in particular was stretched thin--in 2001, I was both chief organizer of Wikipedia and editor-in-chief of Nupedia--and my own slowing work on Nupedia was obvious to all active Nupedia contributors.  It might be better to say that Nupedia withered due to neglect--which was largely due to a lack of sufficient funds for paid organizers--which was as much due to the bursting of the Internet bubble as anything else.
+Also, to the best of my knowledge, the "thousands of his own dollars" invested in these projects were, if I am not very mistaken, the dollars of Bomis.com, which is jointly owned by three partners, Jimmy, Tim Shell, and Michael Davis.  (The money for Wikipedia now comes from donations.)  But again, Jimmy was the prime motivating force within Bomis.
+Moreover, Nupedia had fewer than 24 articles when Wikipedia launched, being not quite a year old at that time.  The idea of adapting wiki technology to the task of building an encyclopedia was mine, and my main job in 2001 was managing and developing the community and the rules according to which Wikipedia was run. Jimmy's role, at first, was one of broad vision and oversight; this was the management style he preferred, at least as long as I was involved.  But, again, credit goes to Jimmy alone for getting Bomis to invest in the project, and for providing broad oversight of the fantastic and world-changing project of an open content, collaboratively-built encyclopedia.  Credit also of course goes to him for overseeing its development after I left, and guiding it to the success that it is today.
+A March 2005 Wired Magazine article by Daniel Pink also got a number of things wrong, despite being, in other respects, an excellent article:
+With Sanger as editor in chief, Nupedia essentially replicated the One Best way model.  He assembled a roster of academics to write articles.  (Participants even had to fax in their degrees as proof of their expertise.)  And he established a seven-stage process of editing, fact-checking, and peer review.  "After 18 months and more than $250,000," Wales said, "we had 12 articles."
+Then an employee told Wales about Wiki software.  On January 15, 2001, they launched a Wiki-fied version and within a month, they had 200 articles.  In a year, they had 18,000. ... Sanger left the project in 2002.  "In the Nupedia mode, there was room for an editor in chief," Wales says.  "The Wiki model is too distributed for that." 
+This too needs clarifications:
+The "roster of academics" (the aforementioned Nupedia Advisory Board) was not limited to academics; they were experts in their fields, in any case.  Moreover, they were editors and peer reviewers; the general public was able to propose and write articles on subjects about which they had some knowledge.  (Consult the old assignment policy if you are interested.)
+It is incorrect to say that participants had to fax their degrees as proof of their expertise; we did verify bona fides by matching the names and e-mail addresses of editors and reviewers with a web page--often, but not always, an academic web page.  Indeed there was one (but only one) case that I recall in which I asked someone, who had no web page or any other easy way to prove who he was, to fax a degree.  Verifying bona fides seemed like a good idea especially when initially building what was to be an academically-respectable project.
+Again, I did not establish the editorial process alone; I had considerable assistance (for which I am still grateful) from Nupedia's excellent Advisory Board.
+And as I wrote on July 25, 2001 for Kuro5hin, "Britannica or Nupedia?  The Future of Free Encyclopedias," Nupedia had "just over 20" articles--not 12--after 18 months.  We always suspected that we would wind up scrapping our first attempts to design an editorial system, and that we would learn a great deal from those first attempts; and that's essentially what happened.  But Nupedia could have evolved, and would have, had we continued working on it.
+The second paragraph begins, "Then an employee told Wales about Wiki software."  I don't know how Jimmy first learned about wikis, but as I will explain below, I proposed to him and to the Nupedia community at large that we start a wiki-based encyclopedia.
+The context of the line "Sanger left the project in 2002"--particularly with Jimmy quoted as saying, "In the Nupedia mode there was room for an editor in chief"--makes it sound as if I were let go specifically because I was working only on Nupedia and that I was no longer needed for that.  In fact, I was working on Wikipedia far more at the time than Nupedia, and the reason for my departure from both projects was that Bomis was, like virtually all dot-coms, losing money.  They could not afford to pay me; I was told that I was the last of several newer Bomis employees to be laid off on account of the tech recession.  But Wikipedia indeed was able to continue on without me, and I agreed even at the time that Wikipedia could survive without me, and that it had become essentially "unmanageable" (as I put it--the following memoir should make it clear what I meant by that).
+In view of problematic reporting such as the above, considering the rather good chance that Wikipedia will become historically important (if it isn't already), and considering that the planners of related projects might find some value in this, I want to tell my story as I remember it.  This memoir covers only the first few years of the project.  I personally would be very interested to read a memoir or history of the years that followed.  But that is a job for someone else; I have followed the project fairly closely and with interest after my departure, but silently and from the sidelines.
+   Nupedia 
+I'm going to begin this memoir with several paragraphs about Nupedia, because the origin of Wikipedia cannot be explained except in that context.  Moreover, the Nupedia project itself was very worthwhile, and I think it might have been able to survive, as I will explain.  Finally, some errors regarding Nupedia have been passed around (a few examples are above), which are little better than unfounded rumors.  It is unfortunate that the thousands of hours of excellent volunteer work done on Nupedia should be thus disrespected or grossly misunderstood.  I personally will always be grateful to those initial contributors who believed in the project and our management, worked hard for a completely unproven idea, and laid the groundwork for the growing institution of open content projects.
+In 1999, Jimmy Wales wanted to start a free, collaborative encyclopedia.  I knew him from several mailing lists back in the mid-90s, and in fact we had already met in person a couple of times.  In January 2000, I e-mailed Jimmy and several other Internet acquaintances to get feedback on an idea for what was to be, essentially, a blog.  (It was to be a successor to "Sanger and Shannon's Review of Y2K News Reports," a Y2K news summary that I first wrote and then edited.)  To my great surprise, Jimmy replied to my e-mail describing his idea of a free encyclopedia, and asking if I might be interested in leading the project.  He was specifically interested in finding a philosopher to lead the project, he said.  He made it a condition of my employment that I would finish my Ph.D. quickly (whereupon I would get a raise)--which I did, in June 2000.  I am still grateful for the extra incentive.  I thought he would be a great boss, and indeed he was.
+To be clear, the idea of an open source, collaborative encyclopedia, open to contribution by ordinary people, was entirely JimmyÃââs, not mine, and the funding was entirely by Bomis.  I was merely a grateful employee; I thought I was very lucky to have a job like that land in my lap.  Of course, other people had had the idea; but it was Jimmy's fantastic foresight actually to invest in it.  For this the world owes him a considerable debt.  The actual development of this encyclopedia was the task he gave me to work on.
+So I arrived in San Diego in early February, 2000, to get to work.  One of the first things I asked Jimmy is how free a rein I had in designing the project.  What were my constraints, and in what areas was I free to exercise my own creativity?  He replied, as I clearly recall, that most of the decisions should be mine; and in most respects, as a manager, Jimmy was indeed very hands-off.  Nevertheless, I always did consult with him about important decisions, and moreover, I wanted his advice.  Now, Jimmy was quite clear that he wanted the project to be in principle open to everyone to develop, just as open source software is (to an extent).  Beyond this, however, I believe I was given a pretty free rein.  So I spent the first month or so thinking very broadly about different possibilities.  I wrote quite a bit (that writing is now all lost--that will teach me not to back up my hard drives) and discussed quite a bit with both Jimmy and one of the other Bomis partners, Tim Shell.
+I maintained from the start that something really could not be a credible encyclopedia without oversight by experts.  I reasoned that, if the project is open to all, it would require both management by experts and an unusually rigorous process.  I now think I was right about the former requirement, but wrong about the latter, which was redundant; I think that the subsequent development of Wikipedia has borne out this assessment.  But I fully realize that all of this is a matter of debate.  Some will claim that the experience of Wikipedia refuted my original judgment that expert oversight is necessary for a very credible encyclopedia; but I disagree with them.  More on this below.
+Also, I am fairly sure that one of the first policies that Jimmy and I agreed upon was a "nonbias" or neutrality policy.  I know I was extremely insistent upon it from the beginning, because neutrality has been a hobby-horse of mine for a very long time, and one of my guiding principles in writing "Sanger's Review."  Neutrality, we agreed, required that articles should not represent any one point of view on controversial subjects, but instead fairly represent all sides.  We also agreed in rejecting an alternative that (for a time) Tim and some early Nupedians plugged for: the development, for each encyclopedia topic, of a series of different articles, each written from a different point of view.
+I believed, moreover, that a strongly collaborative and open project could not survive if its contributors were not "personally invested" in the project, and that this required some input and management by its users.  So I think it was very early on that I decided that Nupedia should have an Advisory Board--editors, and peer reviewers, who would together agree to project policy--and that the public should have a say in the formulation of policy.
+An early incarnation of NupediaÃââs Advisory Board was in place by summer of 2000 or so.  It was made up of the project's highly-qualified editors and reviewers, mostly Ph.D. professors but also a good many other highly-experienced professionals.  Eventually the Advisory Board agreed to an extremely rigorous seven-step system.  A lot of the details of the Nupedia policy and processes were, I think, proposed by me, but then tweaked and elaborated by others, and the policy was not published as project policy until we had a quorum of editors and peer reviewers who could fully discuss and approve of a policy statement.  But I do not think that we discussed the proposal well enough, and further initial discussion could have made a difference, because, as it turned out, a clear mistake of mine and others was to assume that such a complicated system would be navigated patiently by many volunteers, even if they had clear-enough instructions.  That is a mistake I doubt anyone designing volunteer content creation systems will make again; I certainly would not make it again.
+I spent a huge amount of time recruiting people for Nupedia, e-mailing new arrivals, posting to mailing lists, giving interviews, etc.  I had had some experience publicizing Internet projects when I worked on several philosophy discussion groups as a grad student in the 1990s (I had perpetrated an "Association for Systematic Philosophy" as well as a "Tutorial Manifesto"), and I knew that getting many willing and active participants was difficult but important.  I even had an administrative assistant for six months in 2000 and 2001, Liz Campeau, whose sole job was to recruit people to work on Nupedia and then Wikipedia.  I think a large part of the reason Wikipedia got off the ground so quickly and so well is that it was started by Nupedians, who were then a very large base of people who wanted to work on an encyclopedia, and who had many definite ideas about how it should be done.  Maybe 2,000 Nupedia members were subscribed to the general announcement list in January of 2001, when Wikipedia launched--I forget how many but an old project news page indicates that 2,000 is about right.
+We operated the system initially using e-mail and mailing lists, while planning and finalizing process details.  That lasted from spring through fall 2000.  I think our first article ("atonality" by Christoph Hust), that made it entirely through the system, was published in June or July of 2000.  To move the system to a completely web-based one, there was, of course, a great deal of design and programming to do.  So in fall of 2000 I worked a lot with a specifically-hired programmer (Toan Vo) and the Bomis sysadmin (Jason Richey) to transfer the system from a clunky mailing list system to the web.  But by the time the web-based system was ready--I think December of 2000, just a month before Wikipedia got started--it had become obvious to Jimmy and me that the seven-step editorial process would move too slowly, even when managed on the web.  But Magnus Manske later, in 2001, made some very nice additions to the Nupedia system.
+Some institutional traditions begin easily but die hard.  So, in 2001, it was only after many months and uncomfortable comparison of Nupedia with the thriving, younger Wikipedia, that Nupedia's Advisory Board was willing to consider a simpler system seriously.  That was because Nupedia editors and peer reviewers had a very strong commitment to rigor and reliability, as did I.  Moreover, as Wikipedia became increasingly successful in 2001, Jimmy asked me to spend more and more time on it, which I did; Nupedia suffered from neglect.  But by the summer of 2001, I was able to propose, get accepted (with very lukewarm support), and install something we called the Nupedia Chalkboard, a wiki which was to be closely managed by Nupedia's staff.  It was to be both a simpler way to develop encyclopedia articles for Nupedia, and a way to import articles from Wikipedia.  No doubt due to lingering disdain for the wiki idea--which at the time was still very much unproven--the Chalkboard went largely unused.  The general public simply used Wikipedia if they wanted to write articles in a wiki format, while perhaps most Nupedia editors and peer reviewers were not persuaded that the Chalkboard was necessary or useful.
+By early winter, 2001, Nupedia had published approved versions of only about 25 articles, although there were many more (I vaguely recall over 150 drafts) at various stages in process.  I was finally able to persuade the Advisory Board to move the system to a much simpler two-step process, virtually identical to that used to run many academic journals: articles would be submitted to an editor; the editor would, if the article seemed good enough, forward it to a reviewer for acceptance or rejection; if accepted, the article would be posted.  We also were thinking of various ways of allowing public comment on or moderated editing of posted articles.  I believe this new, simpler system would have produced thousands of articles for Nupedia very quickly.  The general public on Nupedia was certainly interested and motivated, and I think it was finally becoming generally accepted by the Advisory Board that the complexity of the system was the main reason that they were not starting articles and getting them through the system.
+But, unfortunately, Nupedia's new system was never adopted when it should have been--the winter of 2001-2--because at the same time, Wikipedia was demanding as much attention as I could give it, and I had little time to implement the new Nupedia system.  I am quite sure we could have started the new Nupedia system in early 2002, if we had made the time.  But Bomis lost the ability to pay me and, newly unemployed, I did not have the time to lead Nupedia as a volunteer.  I did not entirely lose hope on Nupedia, however, as I will explain below.
+   The origins of Wikipedia 
+In the fall of 2000, Jimmy and I were very well agreed that Nupedia's slow productivity was probably going to be an ongoing problem and that there needed to be a way, moreover, in which ordinary, uncredentialed people could participate more easily.  Uncredentialed people could (and did) participate in Nupedia, particularly as writers and copyeditors, but it was pretty painful for most of them to get articles through the elaborate system.  So there seemed to be a huge fund of talent, motivated to work on an encyclopedia but not motivated enough to work on Nupedia, going to waste.
+It was my job to solve these problems.  I wrote multiple detailed proposals for a simpler, more open editing system--two or three, at least--and I ran them by Jimmy, and I think his reply to all of them was that it would require too much programming and he couldn't afford to pay more high-priced programmers (they were very high-priced at the time, you will recall, and we already had Toan and Jason working quite a bit on Nupedia's new web-based system).  Now, of course, I fully realize that we could have found a way to enlist volunteers to develop the system.  Jimmy and I both probably knew that at the time; I'm not sure why we didn't pursue it.
+So it was while I was thinking hard about how to create a more open system, that would require minimal programming to set up, that I had dinner with an old Internet friend of mine, Ben Kovitz.  Ben had moved to town for a new job and we were out at a Pacific Beach Mexican restaurant on January 2, 2001, talking about jobs, techie stuff, and philosophy, no doubt.  (Ben, Jimmy, and I were all active on those philosophy mailing lists in the mid-90s and we all knew each other.)  So Ben explained the idea of Ward Cunningham's WikiWikiWeb to me.  Instantly I was considering whether wiki would work as a more open and simple editorial system for a free, collaborative encyclopedia, and it seemed exactly right.  And the more I thought about it, without even having seen a wiki, the more it seemed obviously right.  So I'm sure it was that very evening or the following morning that I wrote a proposal--unfortunately, lost now--in which I said that this might solve the problem and that we ought to try it.  After he had nixed my several earlier proposals, and given that setting up a wiki would be very simple and require hiring no programmer, Jimmy could scarcely refuse.  I vaguely recall that he liked the idea but was initially skeptical--properly so, as I was, despite my excitement.
+Wiki advocates often used to point out (and I'm sure some still do) that Wikipedia is nonstandard as a wiki.  This is partly because we began just with the very basic wiki concept and not so much of the culture.  Wiki culture is very distinctive.  I cannot hope to explain even the highlights briefly, so I will not try; I will simply give a few notions.  Wiki pages can be started and edited by anyone, but, in "Thread Mode" (as in "the thread of this discussion") the dialogue can become complex.  In that case, or when consensus is reached, or when positions have hardened, it is considered a good idea to "refactor" pages (a term borrowed from programming), i.e., to rewrite them, but honestly, taking into account the highlights of the dialogue.  Then the dialogue might be represented as in "Document Mode."  Opinions are very welcome on a typical wiki.  There are many other collective habits that make up typical wiki culture; these are only a few.
+But I denied the necessity of organizing Wikipedia according to these precise principles.  To be sure, a few other participants wanted Wikipedia to adopt wiki culture wholesale, so that it would be "just another wiki," and they had some small influence over the direction of the project; but speaking for myself, I viewed wiki software as simply a tool, a way to organize people who want to collaborate.  I saw no necessity whatsoever of partaking in all aspects of the idiosyncratic culture that happened to be associated with the advent of this very generally-applicable tool, since we were engaged in a very specific sort of project, with very specific requirements.  This caused some consternation among some wiki advocates, who appeared to think that Wikipedia should, or inevitably would, become just another wiki, somehow necessarily partaking of typical wiki culture.  Ward Cunningham's prediction, when Jimmy asked him whether wiki software "could successfully generate a useful encyclopedia," was: "Yes, but in the end it wouldn't be an encyclopedia.  It would be a wiki."  As I said in reply: "Wikipedia has a totally different culture from this wiki, because it's pretty singlemindedly aimed at creating an encyclopedia.  It's already rather useful as an encyclopedia, and we expect it will only get better."
+Typical wiki culture aside, wiki software does encourage, but does not strictly require, extreme openness and de-centralization: openness, since (as the software is typically designed) page changes are logged and publicly viewable, and (again, only typically) pages may be further changed by anyone; de-centralization, because in order for work to be done, there is no need for a person or body to assign work, but rather, work can proceed as and when people want to do it.  Wiki software also discourages (or at least does not facilitate) the exercise of authority, since work proceeds at will on any page, and on any large, active wiki it would be too much work for any single overseer or limited group of overseers to keep up.  These all became features of Wikipedia.
+My initial idea was that the wiki would be set up as part of Nupedia; it was to be a way for the public to develop a stream of content that could be fed into the Nupedia process.  I think I got some of the basic pages written--how wikis work, what our general plan was, and so forth--over the next few days.  I wrote a general proposal for the Nupedia community, and the Nupedia wiki went live January 10.  The first encyclopedia articles for what was to become Wikipedia were written then.  It turned out, however, that a clear majority of the Nupedia Advisory Board wanted to have nothing to do with a wiki.  Again, their commitment was to rigor and reliability, a concern I shared with them and continue to have.  Still, perhaps some of those people are kicking themselves now.  They (some of them) evidently thought that a wiki could not resemble an encyclopedia at all, that it would be too informal and unstructured, as the original WikiWikiWeb was (and is), to be associated with Nupedia.  They of course were perfectly reasonable to doubt that it would turn into the fantastic source of content that it did.  Who could reasonably guess that it would work?  But it did work, and now the world knows better.
+   Wikipedia's first few months 
+So we decided to relaunch the wiki under its own domain name.  I came up with the name "Wikipedia," a silly name for what was at first a very silly project, and the newly independent project was launched at Wikipedia.com on January 15, 2001.  It was a ".com" at first because, at the time, we were contemplating selling ads to pay for me, programmers, and servers.  It was easy to deprecate ".com" in favor of ".org" in 2002, after Jimmy was able to assure users that Wikipedia would never (at least I think he said, or clearly implied, "never") run ads to support the project.
+I took it to be one of my main jobs to promote Wikipedia, and this resulted in a steady influx of new participants.  I wrote on the Wikipedia announcement page January 24, "Wikipedia has definitely taken [on] a life of its own; new people are arriving every day and the project seems to be getting only more popular.  Long live Wikipedia!"  By the end of January we reportedly and approximately had 600 articles; there were 1300 in March, 2300 in April, and 3900 in May.  Not only was the project growing steadily, the rate of growth was increasing.
+Wikipedia started with a handful of people, many from Nupedia.  The influence of Nupedians was, I think, pretty important early on; I think, especially, of the tireless Magnus Manske (who worked on the software for both projects), our resident stickler Ruth Ifcher, and the very smart poker-playing programmer Lee Daniel Crocker--to name a few.  All of these people, and several other Nupedia borrowings, had a good understanding of the requirements of good encyclopedia articles, and they were good writers and very smart.  The direction that Wikipedia ought to go in was pretty obvious to myself and them, in terms of what sort of content we wanted.  But what we did not have worked out in advance was how the community should be organized, and (not surprisingly) that turned out to be the thorniest problem.  But the facts that the project started with these good people, and that we were able to adopt, explain, and promote good habits and policies to newer people, partly accounts for why the project was able to develop a robust, functional community and eventually to succeed.  As to project leadership or management, we began with me, Jimmy, and Tim Shell; but Tim stopped participating so much after the first few months.
+But the many rank-and-file users did the heavy lifting, and if there had not been a reasonable consensus among them about what the project should look like, it just wouldn't have happened.  In any collaborative project, it is the contributors who are responsible for the outcome.  Those early adopters should feel proud of themselves, because they were absolutely instrumental in shaping a thing of beauty and usefulness.
+I recall saying casually, but repeatedly, in the project's first nine months or so, that experts and specialists should be given some particular respect when writing in their areas of expertise.  They should be deferred to, I thought, unless there were some clear evidence of bias.  (I recall an interesting discussion with a Polish scientist, Piotr Wozniak, about this issue when we came to a small disagreement about the "sleep" article.)  So, in those first months, deference to expertise was a policy that at least I usually insisted upon, but not strongly or clearly enough.  It was nearly a year after the project began that I finally articulated this view reasonably clearly as a policy to consider.  Perhaps this was because, indeed, most users did make a practice of deferring to experts up to that time.  "This is just common sense," as I wrote, "but sometimes common sense needs to be spelled out!"  What I now think is that that point of common sense needed to be spelled out quite a bit sooner and more forcefully, because in the long run, it was not adopted as official project policy, as it could have been.
+Some questions have been raised about the origin of Wikipedia policies.  The tale is interesting and instructive, and one of the main themes of this memoir.  We began with no (or few) policies in particular and said that the community would determine--through a sort of vague consensus, based on its experience working together--what the policies would be.  The very first entry on a "rules to consider" page was the "Ignore All Rules" rule (to wit: "If rules make you nervous and depressed, and not desirous of participating in the wiki, then ignore them entirely and go about your business").  This is a "rule" that, current Wikipedians might be surprised to learn, I personally proposed.  The reason was that I thought we needed experience with how wikis should work, and even more importantly at that point we needed participants more than we needed rules.  As the project grew and the requirements of its success became increasingly obvious, I became ambivalent about this particular "rule" and then rejected it altogether.  As one participant later commented, "this rule is the essence of Wikipedia."  That was certainly never my view; I always thought of the rule as being a temporary and humorous injunction to participants to add content rather than be distracted by (then) relatively inconsequential issues about how exactly articles should be formatted, etc.  In a similar spirit, I proposed that contributors be bold in updating pages (the current version is much expanded, as it should be).
+I also, for similar reasons, specifically disavowed any title; I was organizing the project but I did not want to present myself as editor-in-chief.  I wanted people to feel comfortable adding information without having to consult anything like an editor.  Participation was more important, I felt.  (Others referred to me, later, as Wikipedia's editor.)
+As we set it up, Wikipedia did have some minimal wiki cultural features: it was wide open, extremely decentralized, and (provisionally anyway) featured very little attempt to exercise authority.  Insofar as I was able to organize it at all, I guided the project through force of personality and what "moral authority" I had as co-founder of the project.  Jimmy and I agreed early on that, at least in the beginning, we should not eject anyone from the project except perhaps in the most extreme cases.  Our first forcible expulsion (which Jimmy performed) did not occur for many months, despite the presence of difficult characters from nearly the beginning of the project.  Again, we were learning: we wished to tolerate all sorts of contributors in order to be well-situated to adopt the wisest policies.  But--and in hindsight this should have seemed perfectly predictable--this provisional "hands off" management policy had the effect of creating a difficult-to-change tradition, the tradition of making the project extremely tolerant of disruptive (uncooperative, "trolling") behavior.  And as it turned out, particularly with the large waves of new contributors from the summer and fall of 2001, the project became very resistant to any changes in this policy.  I suspect that the cultures of online communities generally are established pretty quickly and then very resistant to change, because they are self-selecting; that was certainly the case with Wikipedia, anyway.
+So I could only attempt to shame any troublemakers into compliance; without recourse to any genuine punitive action, that was the most I could do.  In about the first eight months of the project, this was usually sufficient for me to do my job.  After that, however, my job got increasingly difficult, as I will explain.
+So Wikipedia began as a good-natured anarchy, a sort of Rousseauian state of digital nature.  I always took Wikipedia's anarchy to be provisional and purely for purposes of determining what the best rules, and the nature of its authority, should be.  What I, and other Wikipedians, failed to realize is that our initial anarchy would be taken by the next wave of contributors as the very essence of the project--how Wikipedia was "meant" to be--even though Wikipedia could have become anything we the contributors chose to make it.
+This point bears some emphasis: Wikipedia became what it is today because, having been seeded with great people with a fairly clear idea of what they wanted to achieve, we proceeded to make a series of free decisions that determined the policy of the project and culture of its supporting community.  Wikipedia's system is neither the only way to run a wiki, nor the only way to run an open content encyclopedia.  Its particular conjunction of policies is in no way natural, "organic," or necessary.  It is instead artificial, a result of a series of free choices, and we could have chosen differently in many cases; and choosing differently on some issues might have led to a project better than the one that exists today.
+Though it began as an anarchy, there were quite a few policies that were settled upon, more or less, within the first six months or so.  This required some struggle, especially on my part, particularly because, since the project was a wiki, some participants thought that there should be no rules at all.  (Enforceable rules were regarded as "anti-wiki," which was supposed to be a bad thing.)  But it was made clear from the beginning that we intended Wikipedia to be an encyclopedia, and so we were able to plug for at least those rules that would help define and sustain the project as an encyclopedia.
+For instance, throughout the early months, people added various content that seemed less than encyclopedic in various ways.  Many people seemed to confuse encyclopedia articles with dictionary entries, and eventually I wrote a page called "Wikipedia is not a dictionary." (I am surprised to discover that this page still exists as of this writing, with a good deal of its original content.)  As people found new ways not to write encyclopedia articles, I started "What Wikipedia is not": I and others would note on an article's discussion page that some certain content did not belong in an encyclopedia, and then underscored the point by adding an entry to the "What Wikipedia is not" page.  To take another example, Wikipedia was not to be a place for publishing original research.  In fact, this is a policy that had been settled upon and even enforced in Nupedia days; enforcing it actually led to the departure of Nupedia's erstwhile Classics editor sometime in 2001.
+Many of our first controversies were over these restrictions.  At the time, I had enough influence within the community to get these policies generally accepted.  And if we had not decided on these restrictions, Wikipedia might well have ended up, like many wikis, as nothing in particular.  But since we insisted that it was an encyclopedia, even though it was just a blank wiki and a group of people to begin with, it became an encyclopedia.  There is something very profound about that.  I also like to think that we helped to show the world the potential that wikis have.
+Another policy that was instituted early on was the nonbias or neutrality policy.  This was borrowed from the Nupedia project and made a Rule to Consider--in a very early version, the policy was put this way:
+Avoid bias: Since this is an encyclopedia, after a fashion, it would be best if you represented your controversial views either (1) not at all, (2) on *Debate, *Talk, or *Discussion pages linked from the bottom of the page that you're tempted to grace, or (3) represented in a fact-stating fashion, i.e., which attributes a particular opinion to a particular person or group, rather than asserting the opinion as fact. (3) is strongly preferred.
+Jimmy then started a specialized policy page he called "Neutral Point of View" (here is the current version).  I confess I don't much like this name as a name for the policy, because it implies that to write neutrally, or without bias, is actually to express a point of view, and, as the definite article is used, a single point of view at that.  "Neutrality", "neutral", and "neutrally" are better to use for the noun, adjective, and adverb.  But the acronym "NPOV" came to be used for all three, by Wikipedians wanting to seem hip, and then the unfortunate "POV" came to be used when the perfectly good English word "biased" would do.
+In addition to these, I recall suggesting a number of other rules--no doubt most matters of historical fact, along these lines, can be verified in archives.  I believe I am responsible for the original formulations of a lot of the article naming conventions, as well as the conventions of bolding the title of the article, starting articles with full sentences, making article titles uncapitalized, and much else.  I think these policies were just a matter of common sense for anyone who understood what a good encyclopedia should be like.  And of course I was not the only person proposing conventions.  Moreover, actual project policy, or community habits, succeeded in being established only by being followed and supported by a majority of participants.  It was then, we said, that there was a "rough consensus" in favor of the policy.  And consensus, we said, is required for a policy actually to be considered project policy.  For our purposes, a "consensus" appeared to consist of (1) widespread common practice, (2) many vocal defenders, and (3) virtually no detractors.
+But that way of settling upon policy proposals--viz., by alleged consensus--did not scale, in my opinion.  After about nine months or so, there were so many contributors, and especially brand new contributors, that nothing like a consensus could be reached, for the simple reason that condition (3) above was never achievable: there would after that always be somebody who insisted on expressing disagreement.  There was, then, a non-scaling policy adoption procedure, and a crying need to continue to adopt sensible policies.  This led to some pretty serious problems in the community, which I will relate below.  But first, something more positive.  
+It's a cliff-hanger; you'll have to wait until tomorrow to read about what made Wikipedia start to work.
+←
+Related Links
+→
+New 640-Node Apple Xserve Cluster at UIUC 
+The Greatest Defunct Websites and Dotcom Disasters
+Pros and Cons of Firefox Critically Evaluated?
+This discussion has been archived.
+No new comments can be posted.
+The Early History of Nupedia and Wikipedia: A Memoir
+ More
+Login
+The Early History of Nupedia and Wikipedia: A Memoir
+Archived Discussion
+Load All Comments
+ Full
+ Abbreviated
+ Hidden
+/Sea
+Score:
+5
+4
+3
+2
+1
+0
+-1
+ More
+Login
+ 
+Nickname:
+Password:
+ Public Terminal
+ Forgot your password?
+Close
+Close
+Search 156 Comments
+Log In/Create an Account
+Comments Filter:
+All
+Insightful
+Informative
+Interesting
+Funny
+The Fine Print: The following comments are owned by whoever posted them.  We are not responsible for them in any way.
+wow..
+ (Score:1)
+by oedneil ( 871555 ) writes:
+There was life before Wikipedia?
+Re:wow..
+ (Score:5, Informative)
+by AKAImBatman ( 238306 ) * writes:
+ <akaimbatman AT gmail DOT com>
+on Monday April 18, 2005 @01:10PM (#12271038)
+Homepage
+Journal 
+There was life before Wikipedia?  Indeed. According to the Wikipedia article [wikipedia.org], Nupedia was the original plan. It was going to be a truly professional construct similar to Britannica Online. Wikipedia was created as a way of collecting rough material for Nupedia, but the child ended up surpassing the parent in every way imaginable. Nupedia was then dismantled and effort was put into Wikipedia. Despite all the anti-Wikipedia trolls, I think the results speak for themselves. Amazing bit of work.
+Parent Share
+twitter
+facebook
+Re:wow..
+ (Score:5, Insightful)
+by radicalskeptic ( 644346 ) writes:
+ <x@gmail. c o m>
+on Monday April 18, 2005 @01:17PM (#12271124)
+ 
+Seriously. As a young scamp of 21, I find it hard to believe that anyone got anything done in any reasonable amount of time before the existence of the internet. What did people do to obtain obscure information? The only things I can think of are 1) wade through a bunch of books at the library, *praying* that one contained the tiny piece of knowledge that you needed, or 2) to find an expert in that subject. Jeez that must have sucked.  Just as an example, say I wanted to know why some people have two different colored eyes. I wouldn't even begin to know where to look for that in a book, but it took me about 20 seconds on google to find an answer.
+Parent Share
+twitter
+facebook
+Re:wow..
+ (Score:5, Informative)
+by RollingThunder ( 88952 ) writes:
+on Monday April 18, 2005 @01:29PM (#12271255)
+ 
+Card catalogs, in conjunction with the encyclopedia to help you figure out what kind of things you should be looking for. Jot down a half dozen promising looking titles, go grab said books, skim their indicies or tables of contents.  Winnow it down to what looks promising and start reading. There's still a hell of a lot out there that's not in Google, it's kind of sad/scary the way that it's becoming unknown if it's not in Google. That being said, I wouldn't go back for all the m oney in the world.  Better to go forward, to get better and more comprehensive indexes.
+Parent Share
+twitter
+facebook
+Re:wow..
+ (Score:3, Funny)
+by ePhil_One ( 634771 ) writes:
+Jot down a half dozen promising looking titles, go grab said books, skim their indicies or tables of contents. Winnow it down to what looks promising and start reading. 
+You forget one popular source for arcane facts and stats: PDOMA [netlingo.com], or Pulled Directly Out of My A**. The number one source for Dads everywhere, its also the original source in many of those Google pages.
+Re:wow..
+ (Score:5, Insightful)
+by AKAImBatman ( 238306 ) * writes:
+ <akaimbatman AT gmail DOT com>
+on Monday April 18, 2005 @01:29PM (#12271257)
+Homepage
+Journal 
+What did people do to obtain obscure information?  They went to a University library and obtained help from a trained librarian. If the information was *really* obscure, then they would actually hire a trained librarian experienced in information retrieval. One would think that the Internet would rid us of the need for professional/degreed librarians, but no so! Your average person does not have the skills necessary to dig up the true depth and breadth of information available on the internet. Librarians, OTOH, are trained to do such things. Not to mention that they won't limit their search to the internet. A lot of very old and/or priceless information is still stored in archives somewhere. Library science is actually a very interesting field. As humans we've been trying to effectively organize our information for millennia. Yet every time there's a major breakthrough in information indexing, archiving, and retrieval, we eclipse it by creating new types of information at a rates unparalleled by past experiences. I think the biggest question is, what is a human's capacity for handling this much info? Thanks to the internet, I can cram the equivalent of a year of study on WWII into about a week of off-hand research. At that rate, will we soon experience an information overload? What sort of psychological and physiological effects will it produce?
+Parent Share
+twitter
+facebook
+Re:wow..
+ (Score:1)
+by Golias ( 176380 ) writes:
+At that rate, will we soon experience an information overload? What sort of psychological and physiological effects will it produce?  Are you saying we have not already experienced "information overload"? The last man who was commonly accepted by many scholars as probably the last to know "everything" the known world had to offer died in the 1500s. Ever since then, we've all be specialists. (Would-be librarians: Have fun googling for his name.  Hint: Not DaVinci, Goethe, or Veblen, and certainly not John St
+Re:wow..
+ (Score:2)
+by GTRacer ( 234395 ) writes:
+All right, Alex, I'll go with:
+Who was Erasmus?
+GTRacer
+- Jennings knows a lot too
+Re:wow..
+ (Score:1)
+by Golias ( 176380 ) writes:
+See, ain't the Internet beautiful?  Somebody shot back with the exact answer within the hour. :)
+Re:wow..
+ (Score:2)
+by hysterion ( 231229 ) writes:
+This [blogspot.com] was #5 in the first google search I tried. (Your turn guessing my search terms :) It both mentions and disputes your candidate (Erasmus).
+Re:wow..
+ (Score:1)
+by Golias ( 176380 ) writes:
+Simply putting the phrase "last man to know everything" (in quotes) into Google's search puts that blog on page 2.  It would be relatively futile to guess what else you may have used to narrow it further.
+Re:wow..
+ (Score:4, Insightful)
+by Hatta ( 162192 ) writes:
+on Monday April 18, 2005 @02:07PM (#12271705)
+Journal 
+Thanks to the internet, I can cram the equivalent of a year of study on WWII into about a week of off-hand research.  But is it really equivalent?  You may get the desired information just as quickly, but poring over books in search of information provides a valuable context and reinforces the information in your mind.  It's not just knowing a bunch of facts that makes someone a scholar, but knowing how the facts interconnect, and how important they are.
+Parent Share
+twitter
+facebook
+Re:wow..
+ (Score:4, Interesting)
+by AKAImBatman ( 238306 ) * writes:
+ <akaimbatman AT gmail DOT com>
+on Monday April 18, 2005 @02:35PM (#12272074)
+Homepage
+Journal 
+But is it really equivalent?  I would argue a partial yes, and I'll explain why. In a classroom setting, the information is doled out in bite sized pieces, thus making it difficult to connect the dots and paint a complete picture. Anyone who is really interested in the subject usually does some study independent of what the class teaches. (In the old days this meant reading several information-dense books.) However, what a classroom setting *can* give you is an educated individual's perspective on the events being studied. Assuming you have a good teacher, they can potentially help you connect dots that few other find on their own. Of course, since those same professor's opinions are usually available in written publications, it can be argued that even that advantage can be replaced.
+Parent Share
+twitter
+facebook
+Re:wow..
+ (Score:2, Insightful)
+by Golias ( 176380 ) writes:
+The purpose of a Prof is to provide emphasis. Example:  You are studying music history.  Should you pay more attention to C.P.E. Bach than to Giovanni Gabrieli, or less?  Or about the same?  Which compositions should you spend time listening to closely in order to best understand their contributions? It's very hard for an unguided curious mind to absorb the essense of a broad subject via their own research, unless they happen to stumble across a very, very good book (for example, "Relativity for the Layman"
+Re:wow..
+ (Score:3, Insightful)
+by radtea ( 464814 ) writes:
+They went to a University library and obtained help from a trained librarian.  Don't make me laugh.  While in some specialized areas there might be a few librarians who are useful (mostly to scholars who share their narrow field of expertise) for the most part librarians view users pretty much the same as sysadmins do:  nasty people who want to get their dirty hands all over their nice pristine books/systems. I'm a physicist, and I have never met a "trained librarian" who can tell a neutron from a neutrino.
+Re:wow..
+ (Score:3, Interesting)
+by QuessFan ( 621029 ) writes:
+for the most part librarians view users pretty much the same as sysadmins do: nasty people who want to get their dirty hands all over their nice pristine books/systems.  
+As a librarian(not in Academic library, but workstudied in one during my undergraduate days.)  I find it's hard to believe.  Most libraians are addicted to the detailed usage statstics provided by modern intergrated library systems.
+In these days of diminishing resources, most subject-matter/faculty liaison librarians do all they can to inc
+Re:wow..
+ (Score:2, Interesting)
+by LoFat ByLine ( 321449 ) writes:
+a) Reference librarians, being generalists, will never know as much as a specialized researcher does about their topic area. Reference librarians tend to be most useful to undergrads or people starting to research outside their previous field of study. b) Most physics profs, in my experience, view students the same way sysadmins view their users: as clueless idiots who ask a lot of dumb questions and get in the way of doing their real work (ie, in the profs' case, research) ... dang, ad hominem attacks are
+And, a library can be a lot more in depth..
+ (Score:3, Insightful)
+by cbreaker ( 561297 ) writes:
+I think that there's something written about everything on the Internet.    But a lot of the time what you get is junk, or very short.    There's tons of news clippings, but nothing in depth. Not like a series of books.   There might be entire volumes of study and materials on very obscure subjects, whereas on the Internet, the popular and common prevails. Until all that work is freely available and searchable online, and I mean ALL of it, it'll never replace the library.
+Re:And, a library can be a lot more in depth..
+ (Score:2)
+by DerekLyons ( 302214 ) writes:
+ Not like a series of books. There might be entire volumes of study and materials on very obscure subjects, whereas on the Internet, the popular and common prevails. +5 Strongly Agree.In my area of study (US SSBN and SLBM history and technology), not one single page on the 'net has it right.  Not one.  There's probably around 3 books that get it right, plus another half-a-dozen or so with useful and important information.
+Re:And, a library can be a lot more in depth..
+ (Score:2)
+by cbreaker ( 561297 ) writes:
+I think it's almost dangerous, too, the way a lot of kids are growing up with the Internet and relying on it as the only source of information. Anyone can put anything on a web page.   Wikipedia is neat, but it's NOT a reputable source.   Google only shows you what other people put out there. Books, encyclopedias, and research papers found in libraries are often very well researched and credited - it takes a lot more time, effort and money to put out printed materials and there's a lot more review, fact pro
+Re:wow..
+ (Score:2)
+by zenyu ( 248067 ) writes:
+They went to a University library and obtained help from a trained librarian. If the information was *really* obscure, then they would actually hire a trained librarian experienced in information retrieval.   I used to work at a public library in high school, it was amazing how well that system worked. If you would walked into our library, between about 10 am and 4 pm, you essentially had the whole staff at your disposal. You would ask someone for information about a subject and they would hand you off to t
+Re:wow..
+ (Score:2)
+by AKAImBatman ( 238306 ) * writes:
+Sorry, maybe I was not specific enough. One can cram the equivalent of a one year course on WII at a University in a week of off-hand research. That's not quite the same thing as performing in-depth research for a book or research project. I'm not in any way suggesting that the Internet can replace that sort of data gathering. However, it can help facilitate bringing you in contact with the various people who have the experiences and information you need. :-)
+Re:wow..
+ (Score:1, Insightful)
+by Anonymous Coward writes:
+I find it hard to believe that anyone got anything done in any reasonable amount of time  As an older scamp, I find it hard to believe anyone gets anything done given that the internet can be such a time-sink.
+Re:wow..
+ (Score:3, Funny)
+by TripMaster Monkey ( 862126 ) * writes:
+ I can help answer this question.  The only things I can think of are 1) wade through a bunch of books at the library, *praying* that one contained the tiny piece of knowledge that you needed, or 2) to find an expert in that subject. Jeez that must have sucked.   Before the internet, we largely relied upon option #3 3.) Make shit up. Seriously.  The unavailability of ready data on all subjects was a two-edged sword, just as the ready availability is today.  Sure, you might not know the answer, but the odds
+Re:wow..
+ (Score:1)
+by mindaktiviti ( 630001 ) writes:
+You sound like you'd be good in management. :)
+Re:wow..
+ (Score:3, Funny)
+by TripMaster Monkey ( 862126 ) * writes:
+I would have been...before this Internet thing came along and called my bluff... "...and I would have been successful, too, if it wasn't for that meddling Wikipedia..."
+Re:wow..
+ (Score:2)
+by no reason to be here ( 218628 ) writes:
+And yes, I did graduate from college, using these exact same tactics.  Please share with us what college you graduated from, so that I and the wife know not to send any potential offspring there.
+Re:wow..
+ (Score:2)
+by Feynman ( 170746 ) writes:
+  
+As a young scamp of 21, I find it hard to believe that anyone got anything done [...] before the [...] internet.
+[...] say I wanted to know why some people have two different colored eyes.
+As a not-much-older-scamp of 30, I agree with your sentiment. Yet, in these terms, what the internet (and particularly the web) has done is more to make information accessible, not necessarily to improve general productivity (i.e., make it easier to get things done, as you write). Before the web, you probably woul
+Re:wow..
+ (Score:1)
+by dkone ( 457398 ) writes:
+Perhaps the ability to find any, let alone, obscure information without the internet is actually a skill.  Some may call it resourcefullness.
+Re:wow..
+ (Score:1)
+by Golias ( 176380 ) writes:
+ Just as an example, say I wanted to know why some people have two different colored eyes. I wouldn't even begin to know where to look for that in a book...   Conan the Librarian says: "Don't yoo know dah dewey decimal sistahm? (Never miss an opportunity to quote the Great Classics of Hollywood cinema.)
+Re:wow..
+ (Score:2)
+by Feynman ( 170746 ) writes:
+My mop!
+Re:wow..
+ (Score:2)
+by selderrr ( 523988 ) writes:
+well, all the time gained thanks to the amazing search powers of the internet is lost to pr0n anyway, so the net result is zero. And getting cought by your mum while surfing pr0n is a lot more likely nowadays than when you had the excuse of "gotta look up something in the library about this neurofisiological retrogression thing" while you went out to have a smoke with other 14 year olds while you peeked the lingerie catalog behind the bushes... not that I did smoke though. yikes... filthy !
+Re:wow..
+ (Score:1)
+by nomadic ( 141991 ) writes:
+If we didn't know something we just made it up.  It was a simpler, although more deceitful time.
+Re:wow..
+ (Score:2, Insightful)
+by HooliganIntellectual ( 856868 ) writes:
+As a librarian in my late 30s, I'll point out that not only did librarians and library workers provide help in finding information, but people were well-read and were themselves sources of information. People read lots of books, studied, did research, and were generally much more intelligent than the current generations. Knowledge is not just a collection of facts, it is more than the sum of the facts that you have collected.
+Re:wow..
+ (Score:4, Insightful)
+by Le Marteau ( 206396 ) writes:
+on Monday April 18, 2005 @05:04PM (#12274182)
+Journal 
+People read lots of books, studied, did research, and were generally much more intelligent than the current generations.  I know its fashionable to lament the passing of the educated age, but I doubt it.  A hundred years ago?  Except for the upper classes, I suspect most people were too busy working in the coal mines or harvesting cotton to become lay scholars.  And forget about 300 years ago.
+Parent Share
+twitter
+facebook
+Re:wow..
+ (Score:2)
+by pqdave ( 470411 ) writes:
+The library was the main soruce.  Encyclopedias, card catalog, or asking the librarian.  For hobbies you might join a club or subscribe to a magazine, the magazines would usually cycle through the beginner topics in about a year and a half, but this was usually intersperced with "you have to buy lots of stuff to be a real " For lots of stuff you just remained ignorant.
+Re:wow..
+ (Score:2)
+by flyingsquid ( 813711 ) writes:
+Seriously. As a young scamp of 21, I find it hard to believe that anyone got anything done in any reasonable amount of time before the existence of the internet. What did people do to obtain obscure information? 
+Huddled around the fire in the cave as the mammoths thundered outside, chanted the sacred songs, and waited for the effects of the sacred mushrooms to take hold.
+Netcraft confirms it, Wikipedia...
+ (Score:3, Funny)
+by Golias ( 176380 ) writes:
+Wikipedia used to be the standard repository of all knowledge and wisdom in the universe. That is, until H2G2 [bbc.co.uk] came along. H2G2 scores higher that Wikipedia in two respects. First, H2G2 is slightly cheaper; and second, it has the words "Don't Panic" inscribed in large, friendly letters on the front page. 
+Re:Netcraft confirms it, Wikipedia...
+ (Score:2, Insightful)
+by ggvaidya ( 747058 ) writes:
+1. They cost the same.2. Wikipedia has the words "Edit this page" in large, friendly letters on (almost) every page. Beat that :). (p.s. there is NOTHING friendly about sharp, *pink* letters. Brrr.)
+Re:Netcraft confirms it, Wikipedia...
+ (Score:3, Funny)
+by Golias ( 176380 ) writes:
+I was really sad to see that the H2G2 entry for Wikipedia [bbc.co.uk] was so factual and even-handed. It seems to me that they should have had nothing there apart from the following entry: "A bunch of mindless jerks who will be first against the wall when the revolution comes."
+Re:Netcraft confirms it, Wikipedia...
+ (Score:1)
+by ggvaidya ( 747058 ) writes:
+H2G2 [wikipedia.org] is older than the 'pedia, so it's actually a better hitchhiker's guide than H2G2. I can't believe I'm arguing about this ...
+Cliff-hanger?
+ (Score:4, Insightful)
+by Anonymous Coward writes:
+on Monday April 18, 2005 @01:05PM (#12270974)
+ 
+Cliff-hangers involve excitement and the desire to tune in next week. I think it would be more accurate to call this a half-ad rather than a cliff-hanger.
+Share
+twitter
+facebook
+Re:Cliff-hanger?
+ (Score:2)
+by Anthony Boyd ( 242971 ) writes:
+I think my biggest frustration reading this memoir is that the author appears to be saying, "Hey, Jimmy doesn't deserve all the credit, I worked on it too!" -- but then he goes on to say, "Of course, I only worked on it for 3 years, Jimmy actually came up with the idea and funded most of it through Boomis, and after Nupedia failed and I was laid off, Jimmy grew Wikipedia like a motherfucker." That frustrates me because I actually prefer the Nupedia style of vetting articles for publication, but the author j
+From the "I'm-not-reading-all-of-that" Dept...
+ (Score:5, Funny)
+by Blue-Footed Boobie ( 799209 ) writes:
+on Monday April 18, 2005 @01:06PM (#12270985)
+ 
+Anyone have the Cliff-Notes for this...
+Share
+twitter
+facebook
+Re:From the "I'm-not-reading-all-of-that" Dept...
+ (Score:3, Informative)
+by ggvaidya ( 747058 ) writes:
+Good enough for ya? [wikipedia.org] :)
+I can't wait!
+ (Score:1, Funny)
+by Reignking ( 832642 ) writes:
+I suppose that the lack of comments so far stems from all of us waiting for the suspenseful cliff-hanger tomorrow...I can't wait!
+Where have I been?
+ (Score:1, Funny)
+by crottsma ( 859162 ) writes:
+An impassioned debate has been raging, particularly since about the summer of 2004, about the merits of Wikipedia and the future of free online encyclopedias.
+ 
+Why didn't any of you guys tell me about this before?
+Re:Where have I been?
+ (Score:3, Insightful)
+by Neophytus ( 642863 ) writes:
+I think that the impassioned debate would be better described as an impassioned attack from those who've previously profited heavily from the distribution of information. In many ways, they're right. The basic integrity of a public wiki is compromised from day one. That's an obvious point to argue, but a very hard one to defend successfully. Imagine a sickly spokesman saying "Well... we've got people who remove vandalism" - but well intended factual errors and typing mistakes (1952 and 1852 are very differe
+Re:Where have I been?
+ (Score:2)
+by AKAImBatman ( 238306 ) * writes:
+Imagine a sickly spokesman saying "Well... we've got people who remove vandalism" - but well intended factual errors and typing mistakes (1952 and 1852 are very different!) are a lot harder to account for.  It's worth noting that traditional encyclopedias have had the same issue since their inception. Unintended errors are a fact of human life, yet it's common for the public to think that entity XYZ is immune to these things. The upside of Wikipedia is that the sheer amount of peer review helps catch these
+Re:Where have I been?
+ (Score:2)
+by mmkkbb ( 816035 ) writes:
+The downside is that the information is available prior to independent proofreading.  There is also the problem that Wikipedia requires constant upkeep. It's not hard to change things back to the broken state if someone isn't watching.
+wikipedia everywhere
+ (Score:5, Interesting)
+by Virtual Karma ( 862416 ) writes:
+on Monday April 18, 2005 @01:09PM (#12271033)
+Homepage 
+...newly independent project was launched at Wikipedia.com on January 15, 2001....
+It has come a long way since then. Search for anything these days and you see a wikipedia link. Its sad that I cant quote (and wisely so) it in any paper.
+In a short period wikipedia managed to hold thousands and thousands of articles. click here [slashdot.org] for the /. article on 300,000 articles on wikipedia.
+I still cant figure out how spammers have been kept at bay. Any idea?
+Share
+twitter
+facebook
+Re:wikipedia everywhere
+ (Score:1)
+by ggvaidya ( 747058 ) writes:
+Wikipedians [wikipedia.org]. Lots of Wikipedians. :)
+Re:wikipedia everywhere
+ (Score:1)
+by ultimabaka ( 864222 ) writes:
+...newly independent project was launched at Wikipedia.com on January 15, 2001.... 
+Don't you think it's just a wee touch too early to be writing about the early history of something that didn't exist five years ago?  Maybe we can start writing about the early history of my puppy Pepper while we're at it.  But as adorable as he is, neither he nor Wikipedia should be written about at all.  Not yet.
+Re:wikipedia everywhere
+ (Score:2)
+by millwall ( 622730 ) writes:
+Do you care to explain why? If you are contributing to the wikipedia project, what makes you less interested in the origins of the project if they are 5 years old than if they are 25 years old?
+Re:wikipedia everywhere
+ (Score:1)
+by ultimabaka ( 864222 ) writes:
+I only argue semantics here, not the worth of wikipedia as a valuable resource.  Usually you only hear about the early history of things when there's a later history you can hear about as well; say, for example, a king's reign, the early history of the Yankees, an early history of stock markets, etc.  All I'm trying to say is that there isn't enough history yet to be talking about Wikipedia's "early history." (Thus the sad parallel to my puppy.)  I imagine that ten years from now, people will talk about now
+Re:wikipedia everywhere
+ (Score:1)
+by p3d0 ( 42270 ) writes:
+ 
+Don't you think it's just a wee touch too early to be writing about the early history of something that didn't exist five years ago?
+ 
+No.
+Re:wikipedia everywhere
+ (Score:3, Informative)
+by Ray Radlein ( 711289 ) writes:
+I'm currently taking a brief WikiVacation, but before GAFIAted, I had noticed a (just on the wrong side of the-)borderline troll who had discovered a new algorithm for hurting Wiki: He would go into a long article and make about twenty different small edits in a row, all over the article. Some of the edits would be neutral. Some would be helpful (typos corrected, etc.). Some would be bad, but at least slightly defensible. And the rest would be bad edits, ranging in severity from NPOV trolling up to borderli
+It may be awhile..
+ (Score:5, Insightful)
+by geomon ( 78680 ) writes:
+on Monday April 18, 2005 @01:10PM (#12271041)
+Homepage
+Journal 
+..before Wikipedia gets the level of respect that it deserves. While encyclopedia companies will probably never like this online resource for the obvious economic reasons, there are plenty of other detractors who are going to continue to hammer it for their own reasons. Those people include subject matter experts who will take exception to the way information is presented, either because it isn't written authoritatively or is factually incorrect, and by groups who object to "boiling down" complex information for a lay audience. That resistance will continue for some time. No doubt Wikipedia will always be a thorn in the side of the bound publishers, but as more factually correct entries are secured in the repository then subject matter experts will warm to the idea of easily-accessible information. I doubt they will rely on it for their own research, relying instead to peer-refereed journals as they always have.
+Share
+twitter
+facebook
+Re:It may be awhile..
+ (Score:1, Insightful)
+by Anonymous Coward writes:
+You don't see a problem with somebody hammering at Wikipedia because subject matter is factually incorrect? Are you a moron?What's the point of an encyclopedia? Just assuming that that the information will eventually be correct makes the information worthless at any given moment. Wikipedia is and always will be a social experiment.
+Re:It may be awhile..
+ (Score:2)
+by geomon ( 78680 ) writes:
+You don't see a problem with somebody hammering at Wikipedia because subject matter is factually incorrect?  Nope. Who, other than you, said I did have a problem with the criticism of Wikipedia for presenting poorly vetted articles?
+Re:It may be awhile..
+ (Score:2)
+by kaszeta ( 322161 ) writes:
+ It may be awhile before Wikipedia gets the level of respect that it deserves.
+Or before Wikipedia deserves the level of respect that it gets.  It's a work in progress (and an impressive one at that), but it's not a definite source.  Despite that, many (most?) online communities treat it more like the latter than the former.
+ there are plenty of other detractors who are going to continue to hammer it for their own reasons. Those people include subject matter experts who will take exception to the way info 
+is this the wikkipedia entry for "wikkipedia"?
+ (Score:2, Funny)
+by 0kComputer ( 872064 ) writes:
+ just go here for the short version [wikipedia.org]   holy wall of text.
+Donations for MediaWiki; Open Sources
+ (Score:2)
+by Noksagt ( 69097 ) writes:
+Wikipedia is great & the webapp that it runs on is fantastic.  I would like to donate money to the developers (see my URL).  I know that I can support Wikimedia Foundation  [wikimediafoundation.org], but was wondering if anyone knew how much of my donation would actually go to development.  Open Sources [amazon.com] was a fantastic book, which is available for free from O'Reilly [oreilly.com].  I enjoyed it & bought a copy even after I read it on my PDA.  I eagerly anticipate the second.  Does anyone know when it will come out and if it will also be av
+Re:Donations for MediaWiki; Open Sources
+ (Score:1)
+by chris_mahan ( 256577 ) writes:
+If you want to send money to the developers, find out who they are (pick your favorite(s)) and email them, asking what their favorite form of payment is. Then, paypal $50 to this guy, and write a check for $35 for that guy. There's nothing that says you have to send the money to the Foundation itself. Of course, if your goal is to get a tax deduction, then you should have said that in your post.
+Re:Donations for MediaWiki; Open Sources
+ (Score:2)
+by GerardM ( 535367 ) writes:
+Within the Wikimedia Foundation there is a movement of allowing the person to give money to selected targets. This could be hardware, it could be development and it could be something even more specific. For more details see http://meta.wikimedia.org/wiki/Donations:Putting_y  our_money_where_your_mouth_isa proposal to make the donator decide what he want his money to be spend on. Obviously, we welcome any money :) Thanks,
+   GerardM
+Re:Donations for MediaWiki; Open Sources
+ (Score:2)
+by GerardM ( 535367 ) writes:
+At this moment in time we have no real problem getting money. It is not a ruse to have people pay more into our account. It is as much about emancipating the people that give a small amount of money. People that give much can an do indicate what money is to be spend on. In this policy, the board decides what the money can be earmarked for so it will go to things where the money is wanted.Thanks,
+  GerardM
+All I want to know is...
+ (Score:2, Funny)
+by jamonterrell ( 517500 ) writes:
+if wikipedia has officially supplanted the great Encyclopedia Galactica as the standard repository of all knowledge and wisdom yet.
+Re:All I want to know is...
+ (Score:2, Funny)
+by myukew ( 823565 ) writes:
+I looked that one up.Wikipedia says "yes of course", Encyclopedia Galactica says "no", Hitchikers Guide says "both are not interesting enough for our editors to read through, so we're giving you an article about [[pr0n]]"
+Re:All I want to know is...
+ (Score:4, Funny)
+by ggvaidya ( 747058 ) writes:
+on Monday April 18, 2005 @01:24PM (#12271199)
+Homepage
+Journal 
+Encyclopedia Galactica  We call it Google in Singapore, is that what do you guys call it in America?
+Parent Share
+twitter
+facebook
+Re:All I want to know is...
+ (Score:1)
+by TERdON ( 862570 ) writes:
+Well, at least Wikipedia is available in klingon here [wikipedia.org]. However, Google is also available in klingon, so perhaps it's a tie?
+Why not make a section for Wikipedia stories?
+ (Score:5, Insightful)
+by saigon_from_europe ( 741782 ) writes:
+on Monday April 18, 2005 @01:17PM (#12271122)
+ 
+There are very often stories about Wikipedia here on Slashdot. Wikipedia is also one of the largest community projects in the world, probably comparable to Linux, for example. If Linux has its own section, why Wikipedia can't get one too?
+Share
+twitter
+facebook
+WikiPedia Works!
+ (Score:5, Informative)
+by LegendOfLink ( 574790 ) writes:
+on Monday April 18, 2005 @01:27PM (#12271238)
+Homepage 
+I have several "professional" friends who regard WikiPedia with disdain. Much to their reluctance, I once plaid a little game of "e-mail trivia" using American History as the theme. 
+We each took turns with 5 questions each and tried to respond as fast as possible. Between the three of us, I was able to respond that fastest (less than 2 hours). Why? Because of that neat little feature in FireFox that lets me query Wikipedia. All the answers were correct. When I let my friends know that I used WikiPedia, they were surprised. 
+It works for several reasons, but the best reason is that experts edit the articles. Sure, you're going to get trolls here and there, but when an expert at a particular subject gets his or her 15 minutes of fame, they sure are damn passionate about it. When they see things trolled, they immediately fix it and thus, the integrity of the article is preserved. At that point, it's their baby, and they want it accurate! 
+The whole point of information is to keep it accurate and usable. Wikipedia is the perfect example of how a "natural unregulated process" can regulate itself.
+Share
+twitter
+facebook
+Re:WikiPedia Works!
+ (Score:1, Insightful)
+by Anonymous Coward writes:
+Until their pet article gets trolled..  ..and trolled...  ..and trolled...  ...to the point that they no longer care to waste their professional time performing simple babysitting.
+Re:WikiPedia Works!
+ (Score:4, Interesting)
+by ahoehn ( 301327 ) * writes:
+ <andrew&hoe,hn>
+on Monday April 18, 2005 @02:16PM (#12271843)
+Homepage 
+Just yesterday I was studying for a test on the early romantic period in Britain (1780's to early 1800's).  I had a list of 20 or so mostly historical terms to define, and at the outset, both Britannica Online (access paid for by my college) and Wikipedia tabs open.After looking up four or five terms in both encyclopedias, I found that Wikipedia was easier to use, had more pertinent information displayed in more prominent locations of the articles, and was plenty accurate.I've always been a bit skeptical of Wikipedia, but yesterday after 4 or 5 hours of use, I was convinced.
+Parent Share
+twitter
+facebook
+Re:WikiPedia Works!
+ (Score:4, Insightful)
+by zijus ( 754409 ) writes:
+on Monday April 18, 2005 @03:53PM (#12273131)
+ 
+ Resistance to destruction. 
+ When they see things trolled, they immediately fix it and thus, the integrity of the article is preserved. At that point, it's their baby, and they want it accurate! 
+I guess this contribution is from a kind-of-not-too-regular Wikipedia contributor. When you see an article trolled once, twice... 10 times you get tired quite quick with reverting. No to say that you don't have time to face your screen 7/24 ! In that case the best thing you can do is leave it. (See below) So... I don't think this is a correct reason of WP resistance to troll. I'd suggest the following. The mere idea of open-right-now-edition is likely to trigger enthusiasm... in both direction: destruction/construction. BUT did you ever play at destructing things ? Well the outcome is pretty much inevitable: one get quickly bored of it! One just don't get any fun/credit out of it. Now, just imagine the following: you Mr. nothing write a two liner Wikipedia article (i.e. sub-stub). Leave it a week and come back. You discover it got formatted, expended... That gives a feekin kick of pleasure: even a "ridiculous" "small" contribution started a much better one within 7 days! WHAT A JOY ! (No joke! Real experience there.) 
+My point: troller get tired. I imagine there are more "good" contributors because it's more fun and exiting. I guess trolling is getting caught because "lots of eyes scrutinising WP, eventually catch errors". Here it sounds a lot like bazaar model. It is not because one contributor is passionate about one topic that WP is resisting to troll, but because a lot of people are displeased by it.
+ Not so much of a "natural" process. 
+ ...Wikipedia is the perfect example of how a "natural unregulated process" can regulate itself. 
+AFAIU, the whole point of the memoir is to say that it was not so natural. Especially: the success of WP may be due to it's insistence on the aim at being an encyclopaedia (no a dictionary, not an essay publication bench) ... There *were* and *are* some rules. (maybe a rta is needed here?)
+ A social experiment? 
+WP is an amazing social experiment. I guess what will be learned out of it won't be limited to it's (quite good) content, but from the way people interact almost real time, from radically different cultures (thus necessarily leading to culture shock [c2.com]). To me, it is a true wonder to be confronted with thoughts or behaviours so radically different to mine, that they have me jump... When later, I get to understand, appreciate and collaborate well, that's good. Again: it is a true wonder to see a very hot article being aggressively edited (not to say defaced) for later discovering a new version inclusive of all views... Leading to a stunning quality.
+About the memoir. Maybe a little too much orientated at claiming credit... So what? Interesting? Definitely.
+Z.
+Parent Share
+twitter
+facebook
+Conclusion?
+ (Score:2, Funny)
+by bytesmythe ( 58644 ) writes:
+From the summary:
+It's a cliff-hanger; you'll have to wait until tomorrow to read about what made Wikipedia start to work.
+Wait until tomorrow? That's how long it will be before I'm done reading the summary anyway!
+Re:Conclusion?
+ (Score:2)
+by jspoon ( 585173 ) writes:
+Luckily for me, I have Edga Jr. [homestarrunner.com] to protect me from articles like this.
+History down another path
+ (Score:2)
+by ggvaidya ( 747058 ) writes:
+The incredibly amazing Wiki idea was first conceived and executed at C2.com  [c2.com] by Ward Cunningham [wikipedia.org]. Personally, I think that Wiki is the most important part of the Wikipedia package. That's what attracted me there to begin with: the idea that Anybody could edit Anything, Anytime, Anyhow. It's like natural selection with words, and it's a lot of fun. If you make a big contribution with any worth, you're pretty much guaranteed that some of it is going to stay on for ages and ages - and it's a great kick coming ba
+Wikipedia has a competitor already
+ (Score:5, Interesting)
+by Orion Blastar ( 457579 ) writes:
+ <orionblastar@NoSPAM.gmail.com>
+on Monday April 18, 2005 @01:49PM (#12271480)
+Homepage
+Journal 
+Uncyclopedia [uncyclopedia.org] which seems to be easier to read, funnier, and more factual. I wouldn't use it as a source in writing college papers, but it is one of those "snort out soda through your nose to your computer monitor" type of Encyclopedias. :)
+Share
+twitter
+facebook
+Re:Wikipedia has a competitor already
+ (Score:1)
+by Principal Skinner ( 56702 ) writes:
+I've already stopped using Wikipedia since I found out about Uncyclopedia.  I used to think New Mexico was part of the U.S.; I got better.
+Re:Wikipedia has a competitor already
+ (Score:1)
+by Tyir ( 622669 ) writes:
+More factual???
+The first article I read has this gem,
+"Fact: Sauron once nearly exterminated life as we know it. He drank a glass of fried ketchup and farted."
+And for cabbage:"Cabbage gloats over the skulls of its defeated enemies."
+Easier to read? Probably. Funnier? If this sort of this makes you laugh, I wasn't amused.
+More factual? I seriously hope you were kidding, this is more of a spoof of Wikipedia.
+Here's your sign!
+ (Score:2)
+by Orion Blastar ( 457579 ) writes:
+I guess the word Uncyclopedia does not tell you anything about the web site, does it? Either that, or you were born without a sense of humor.
+Re:Wikipedia has a competitor already
+ (Score:2)
+by Orion Blastar ( 457579 ) writes:
+Yeah Wikipedia is factual, read up on Xenu [wikipedia.org]. Every word in it is factual, right? I'd rather believe the Sauron or Cabbage articles in Uncyclopedia than the one in Wikipedia for Xenu. Plus Uncyclopedia deals with trolls, page blankers, etc much better than Wikipedia.
+Re:Wikipedia has a competitor already
+ (Score:2)
+by David Gerard ( 12369 ) writes:
+The trouble with the Wikipedia article on Xenu is that it makes it pretty much impossible to write a funnier article on the subject in Uncyclopedia.We picketed the Church of Scientology in London a few weeks ago. Our flyers were a cut-down version of the Wikipedia article on Xenu. There's nothing like having a policeman stand three feet from you in an intimidating pose, reading your leaflet and trying desperately to stop himself from sniggering.
+Re:Wikipedia has a competitor already
+ (Score:2)
+by Orion Blastar ( 457579 ) writes:
+Yeah, Sciencetology is really factual isn't it? Better pay up that $350,000USD to have them remove Thetans from your soul, so you can have God-like powers like John Travota.
+Read about it here
+ (Score:2, Funny)
+by p3d0 ( 42270 ) writes:
+http://en.wikipedia.org/wiki/Uncyclopedia [wikipedia.org].
+Re:Read about it here
+ (Score:3, Funny)
+by Orion Blastar ( 457579 ) writes:
+http://uncyclopedia.org/wiki/Wikipedia [uncyclopedia.org]  I can link to things too. ;)
+Appropriate?
+ (Score:3, Interesting)
+by photon317 ( 208409 ) writes:
+on Monday April 18, 2005 @01:56PM (#12271562)
+ 
+I'm not sure this article is really appropriate for Open Sources.  While it claims otherwise, it has the tone of a defensive article trying to justify his past and defending his reputation.
+Share
+twitter
+facebook
+Re:Appropriate?
+ (Score:2)
+by bcrowell ( 177657 ) writes:
+it has the tone of a defensive article trying to justify his past and defending his reputation. 
+More than that, I think it shows that Larry Sanger just doesn't get it.
+Sanger writes:
+   
+[...] Nupedia withered due to neglect--which was largely due to a lack of sufficient funds for paid organizers--which was as much due to the bursting of the Internet bubble as anything else. 
+Nope. I tried to participate in Nupedia, and IMO the problems had nothing to do with the lack of paid organizers. I wrote an article o
+A few thoughts
+ (Score:1, Interesting)
+by Anonymous Coward writes:
+A few thoughts. My impression was that Sanger was hired and paid by Jimmy to work on nupedia and wikipedia. I didn't realize he was the co-founder of these efforts? "[Nupedia] might appear to have died of its own weight and complexity. But, as I will explain, it could have been redesigned and adapted--it could have, as it were, 'learned from its mistakes'..." The above describes a million projects. Yes, everything could be a success, and we are happy to imagine how, but the thing is, execution counts for a
+Here's a question:
+ (Score:3, Funny)
+by Headcase88 ( 828620 ) writes:
+on Monday April 18, 2005 @02:38PM (#12272115)
+Journal 
+Why can't I edit their memoirs :'(
+Share
+twitter
+facebook
+Ok...
+ (Score:1, Troll)
+by imsabbel ( 611519 ) writes:
+Now i dont think the submitter SERIOUSLY expects anybody to read that whole rant...Nupedia didnt work. Failed. Like dead. remember it. Happy week if there was one new article. No amount of blaming wikipedia will rewrite history. Nupedia had all the chances it deserved, it failed, so no need to shift blame elsewhere.
+what, no mention on GNUPedia? (fixed fmt)
+ (Score:2, Interesting)
+by Anonymous Coward writes:
+I was surprsed to find no mention of Righard Stallman's original  GNUpedia project [google.com] (original announcement) [gnu.org] - the original GFDL corpus access provider. It's unfortunate that GNU gave up on their project when self-described Ayn Rand fanatic James Wales "stole the thunder" from their announcement by relicensing Nupedia under the GFDL - Richard Stallman's original plans for the GFDL Corpus - partly inspired by Ted Nelson's Xanadu - seem extremely relevant today as Wikipedia's neutrality and accuracy are question
+Re:what, no mention on GNUPedia?
+ (Score:2, Informative)
+by Stephen Gilbert ( 554986 ) writes:
+The history is a little muddled. Jimmy was  discussing [slashdot.org] switching Nupedia to the GFDL before any public announcement of GNUpedia. Stallman seems to have confused Nupedia and Hector's project. However, when Hector speaks of the 400 participants of GNUpedia, he is refering to the people discussing the project. GNUpedia had not produced any articles, nor any software for managing the encyclopedia. It was, like the old Interpedia [wikipedia.org] project, all talk. So, to say that GNUpedia was "the original GFDL corpus access pro
+URL?
+ (Score:1, Redundant)
+by lobsterGun ( 415085 ) writes:
+So what is this Wikipedia and where do I find it?
+Pffft
+ (Score:3, Interesting)
+by Sairret ( 786685 ) writes:
+on Monday April 18, 2005 @03:42PM (#12272973)
+ 
+Sure, but what about Everything2 [everything2.com]?
+I found that long before I found Wikipedia.
+Share
+twitter
+facebook
+Comment removed
+ (Score:3, Informative)
+by account_deleted ( 4530225 ) writes:
+on Monday April 18, 2005 @04:06PM (#12273306)
+ 
+Comment removed based on user account deletion
+Share
+twitter
+facebook
+Re:What can't it tell me?
+ (Score:3, Informative)
+by Kimos ( 859729 ) writes:
+ Trillian has informed me that Wikipedia has entires for all sorts of useful topics like "asshat" and "1337 h4X0rz"  
+For those of you who don't follow, the new version of Trillian offers realtime lookups of selected keywords. You can mouseover underlined words in chat windows and it will pop up with the Wikipedia definition.
+ 
+Some info on it here [ceruleanstudios.com].
+Re:Okay...
+ (Score:1)
+by chemistry ( 876982 ) writes:
+just checking
+Re:Wikipedia - The Encyclopedia of the American Le
+ (Score:1)
+by BackInIraq ( 862952 ) writes:
+So what I'm getting from all that is that Wikipedia basically helps balance out Fox News.  Sound about right?
+There may be more comments in this discussion. Without JavaScript enabled, you might want to turn on Classic Discussion System in your preferences instead.
+Related Links
+Top of the: day, week, month.
+346 commentsAmazon CEO Says 'It's Probably Not Going To Work Out' For Employees Who Defy Return-to-Office Policy
+263 commentsKias and Hyundais Keep Getting Stolen By the Thousands and Cities Are Suing
+225 commentsVisa, Mastercard Prepare To Raise Credit-Card Fees
+197 commentsUS Officials Look To Move Marijuana To Lower-Risk Drug Category
+192 commentsThere's a Vast Source of Clean Energy Beneath Our Feet. And a Race To Tap It.
+next
+Pros and Cons of Firefox Critically Evaluated?
+674 comments
+previous
+New 640-Node Apple Xserve Cluster at UIUC
+67 comments
+Slashdot Top Deals
+Slashdot
+Archived Discussion
+Moderate
+Moderator Help
+Delete
+Get more comments
+100 of 156 loaded
+Submit Story
+A freelance is one who gets paid by the word -- per piece or perhaps.
+-- Robert Benchley
+FAQ
+Story Archive
+Hall of Fame
+Advertising
+Terms
+Privacy Statement
+About
+Feedback
+Mobile View
+Blog
+Do Not Sell My Personal Information
+Copyright © 2023 Slashdot Media. All Rights Reserved.
+×
+Close
+Close
+Slashdot
+Working...
