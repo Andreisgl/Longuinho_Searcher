@@ -1,2 +1,0 @@
-https://github.com/oVirt/ovirt-site/issues/new?labels=content&title=Issue:%20/&template=
-https://github.com/oVirt/ovirt-site/edit/main/source/index.haml

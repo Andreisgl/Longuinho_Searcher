@@ -1,9 +1,0 @@
-https://www.mediawiki.org/wiki/MediaWiki_1.30
-https://phabricator.wikimedia.org/diffusion/MW/browse/REL1_30/RELEASE-NOTES-1.30
-https://www.mediawiki.org/wiki/Release_notes/1.30
-https://releases.wikimedia.org/mediawiki/1.30/mediawiki-1.30.0.tar.gz
-https://releases.wikimedia.org/mediawiki/1.30/mediawiki-core-1.30.0.tar.gz
-https://releases.wikimedia.org/mediawiki/1.30/mediawiki-1.30.0.tar.gz.sig
-https://releases.wikimedia.org/mediawiki/1.30/mediawiki-core-1.30.0.tar.gz.sig
-https://www.mediawiki.org/keys/keys.html
-http://hyperkitty.readthedocs.org

@@ -1,8 +1,0 @@
-http://bugzilla.wikimedia.org/
-https://git.wikimedia.org/blob/mediawiki/core.git/tags/1.23.0rc0/RELEASE-NOTES-1.23
-https://www.mediawiki.org/wiki/Release_notes/1.23
-http://download.wikimedia.org/mediawiki/1.23/mediawiki-1.23.0rc0.tar.gz
-http://download.wikimedia.org/mediawiki/1.23/mediawiki-core-1.23.0rc0.tar.gz.sig
-http://download.wikimedia.org/mediawiki/1.23/mediawiki-1.23.0rc0.tar.gz.sig
-https://www.mediawiki.org/keys/keys.html
-http://hyperkitty.readthedocs.org

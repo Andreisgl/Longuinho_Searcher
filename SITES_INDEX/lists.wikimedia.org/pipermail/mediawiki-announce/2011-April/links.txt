@@ -1,7 +1,0 @@
-http://example.com/a?b?c.html?d?e
-http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.4.tar.gz
-http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.4.patch.gz
-http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.4.tar.gz.sig
-http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.4.patch.gz.sig
-https://secure.wikimedia.org/keys.html
-https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce

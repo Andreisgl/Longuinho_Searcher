@@ -1,3 +1,0 @@
-https://gerrit.wikimedia.org/r/q/project:operations/mediawiki-config+branch:master+file:dblists%2Fclosed.dblist
-https://gerrit.wikimedia.org/g/operations/mediawiki-config/+log/master/dblists%2Fclosed.dblist
-https://gerrit.wikimedia.org/g/operations/mediawiki-config/+blame/master/dblists%2Fclosed.dblist

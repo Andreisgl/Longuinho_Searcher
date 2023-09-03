@@ -1,6 +1,0 @@
-https://git.wikimedia.org/blob/mediawiki/core.git/1.24.0/RELEASE-NOTES-1.24
-https://www.mediawiki.org/wiki/Release_notes/1.24
-http://download.wikimedia.org/mediawiki/1.24/mediawiki-1.24.0.tar.gz
-http://download.wikimedia.org/mediawiki/1.24/mediawiki-1.24.0.tar.gz.sig
-https://www.mediawiki.org/keys/keys.html
-http://hyperkitty.readthedocs.org
