@@ -306,17 +306,21 @@ def pathfinder(ammount_to_search):
     if ammount_to_search > max_number_of_links:
         ammount_to_search = max_number_of_links
 
-
+    
     ### Multi-core processing
+    print('Start Bundling')
+    bundling_start_time = time.perf_counter()
+
     sample = incoming_url_list[:ammount_to_search]
 
     data_pack_bundle = []
     with Pool() as pool:
         data_pack_bundle = pool.map(save_website, sample, chunksize=5)
-    pass
+    bundling_finish_time = time.perf_counter()
     ###
-
-
+    
+    print('Start Registering')
+    register_start_time = time.perf_counter()
     # Found URLs go here before being appended to 'incoming' list
     intermediate_url_list = []
     current_url = ''
@@ -334,6 +338,10 @@ def pathfinder(ammount_to_search):
         real_url = data_pack[6]
         intermediate_url_list.append(data_pack[7]) # Get link list
 
+        # Print current URL
+        #display_url = textwrap.wrap(current_url, no_terminal_columns-1)
+        #print('{}'.format(display_url[0]))
+
         # Save to history
         if data_pack[4]:
             # If there was a redirection
@@ -347,21 +355,46 @@ def pathfinder(ammount_to_search):
         
         number_of_pages_searched += 1
     # Remove current URL from queue
-    incoming_url_list.pop(ammount_to_search)
+    for i in range(ammount_to_search):
+        incoming_url_list.pop()
     
+    register_finish_time = time.perf_counter()
+    link_carrying_start_time = time.perf_counter()
+
     # Transfer all collected URLs in intermediate list to incoming
     for list in intermediate_url_list:
         for link in list:
             incoming_url_list.append(link)
             number_of_new_pages_found += 1
 
+    link_carrying_finish_time = time.perf_counter()
+    incoming_cleaning_start_time = time.perf_counter()
     # Clean 'incoming' before saving
     removed_counter = clean_incoming()
     number_of_new_pages_found -= removed_counter
 
+    incoming_cleaning_finish_time = time.perf_counter()
+    list_saving_start_time = time.perf_counter()
+
     # Save 'incoming', 'history' and 'to_be_indexed'
     save_incoming_to_file()
     save_history_to_file()
+
+    list_saving_finish_time = time.perf_counter()
+    
+    # Timing statistics
+    
+    bundling_time = bundling_finish_time - bundling_start_time
+    register_time = register_finish_time - register_start_time
+    link_carrying_time = link_carrying_finish_time - link_carrying_start_time
+    incoming_cleaning_time = incoming_cleaning_finish_time - incoming_cleaning_start_time
+    list_saving_time = list_saving_finish_time -list_saving_start_time
+    print('Time per section:')
+    print('Bundling: {} seconds'.format(bundling_time))
+    print('Registering: {} seconds'.format(register_time))
+    print('Link Carrying: {} seconds'.format(link_carrying_time))
+    print('Incoming Cleaning: {} seconds'.format(incoming_cleaning_time))
+    print('List Saving: {} seconds'.format(list_saving_time))
 
     return number_of_pages_searched
 def plant_seed():
