@@ -274,8 +274,8 @@ def main():
     if False:
         update_ranked_url_list()
     
-    #search_term = 'plane'
-    #result = search_term_in_ranked_database(search_term)
+    search_term = 'plane'
+    result = search_term_in_ranked_database(search_term)
     
 
     pass
