@@ -316,7 +316,7 @@ def pathfinder(ammount_to_search):
     #
     number_of_pages_searched = 0
     number_of_new_pages_found = 0
-    while number_of_pages_searched < ammount_to_search:
+    for data_pack in data_pack_bundle:
         # Set up URL, get data
         current_url = incoming_url_list[0]
 
