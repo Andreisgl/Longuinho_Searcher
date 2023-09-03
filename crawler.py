@@ -279,6 +279,7 @@ def pathfinder(ammount_to_search):
     # from being properly saved. When possible, the links inside them
     # will still be extracted and used for the crawling.
 
+    global show_debugging_timings
     global seed_list
 
     global incoming_url_list
@@ -389,12 +390,15 @@ def pathfinder(ammount_to_search):
     link_carrying_time = link_carrying_finish_time - link_carrying_start_time
     incoming_cleaning_time = incoming_cleaning_finish_time - incoming_cleaning_start_time
     list_saving_time = list_saving_finish_time -list_saving_start_time
-    print('Time per section:')
-    print('Bundling: {} seconds'.format(bundling_time))
-    print('Registering: {} seconds'.format(register_time))
-    print('Link Carrying: {} seconds'.format(link_carrying_time))
-    print('Incoming Cleaning: {} seconds'.format(incoming_cleaning_time))
-    print('List Saving: {} seconds'.format(list_saving_time))
+
+    show_debugging_timings = False
+    if show_debugging_timings:
+        print('Time per section:')
+        print('Bundling: {} seconds'.format(bundling_time))
+        print('Registering: {} seconds'.format(register_time))
+        print('Link Carrying: {} seconds'.format(link_carrying_time))
+        print('Incoming Cleaning: {} seconds'.format(incoming_cleaning_time))
+        print('List Saving: {} seconds'.format(list_saving_time))
 
     return number_of_pages_searched
 def plant_seed():
@@ -529,6 +533,8 @@ def multiprocessing_statistics():
 
 
     pass
+
+show_debugging_timings = True
 
 MAIN_FOLDER = 'crawler_data'
 
