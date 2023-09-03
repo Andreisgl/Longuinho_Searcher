@@ -226,7 +226,7 @@ def get_url_ranking_from_database():
     # Assemble list of every link and their score
     full_mention_list = [[x[0], x[1], count_list[x[0]]] for x in pages_work_set]
     
-    full_mention_list.sort(key=lambda full_mention_list: full_mention_list[1], reverse=True)
+    full_mention_list.sort(key=lambda full_mention_list: full_mention_list[2], reverse=True)
     
     # Strip score from list
     #page_link_rank = [x[0] for x in full_mention_list]
