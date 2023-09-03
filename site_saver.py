@@ -1,6 +1,10 @@
 # This script saves important data from the website and returns paths for the data.
 import os
+import shutil
 import time
+
+import textwrap
+
 import website_extractor as site_ex
 
 def main_folders_manager():
@@ -10,6 +14,12 @@ def main_folders_manager():
     ALL_WEBSITES_FOLDER = os.path.join(database_dir, ALL_WEBSITES_FOLDER)
     if(not os.path.exists(ALL_WEBSITES_FOLDER)):
         os.mkdir(ALL_WEBSITES_FOLDER)
+
+# DISPLAY STUFF
+def get_terminal_columns():
+    return shutil.get_terminal_size().columns
+no_terminal_columns = get_terminal_columns()
+
 
 def get_pages_database_path():
     # The indexer will need to know where the pages are located
@@ -119,6 +129,19 @@ def save_website(search_url): # Rename later to 'save_website'
      was_redirected, search_url, real_url, website_name,
      http_code, success_flag,
      link_list, text_list) = site_ex.get_data_from_url(search_url)
+
+    # Prints
+    # Print current URL
+    display_url = textwrap.wrap(search_url, no_terminal_columns-1)
+    print('{}'.format(display_url[0]))
+
+    # Save to history
+    if was_redirected:
+        # Print final URL
+        print('REDIRECTED TO:')
+        display_url = textwrap.wrap(real_url, no_terminal_columns-1)
+        print('{}'.format(display_url[0]))
+
 
     # CREATE METADATA
     meta_url = 'URL\{}'.format(real_url)

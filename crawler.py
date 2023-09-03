@@ -316,17 +316,11 @@ def pathfinder(ammount_to_search):
         # Set up URL, get data
         current_url = incoming_url_list[0]
 
-        #data_pack = save_website(current_url) # Indexes url and returns important data
         data_pack = data_pack_bundle[number_of_pages_searched] # Indexes url and returns important data
         
-
         old_url = data_pack[5]
         real_url = data_pack[6]
         intermediate_url_list.append(data_pack[7]) # Get link list
-
-        # Print current URL
-        display_url = textwrap.wrap(current_url, no_terminal_columns-1)
-        print('{}'.format(display_url[0]))
 
         # Save to history
         if data_pack[4]:
@@ -335,12 +329,6 @@ def pathfinder(ammount_to_search):
             url_history_list.append(redirector_flag + old_url)
             # Append final_url unaltered
             url_history_list.append(real_url)
-
-            # Print final URL
-            print('REDIRECTED TO:')
-            display_url = textwrap.wrap(real_url, no_terminal_columns-1)
-            print('{}'.format(display_url[0]))
-
         else:
             # Just append it normally
             url_history_list.append(data_pack[6])
