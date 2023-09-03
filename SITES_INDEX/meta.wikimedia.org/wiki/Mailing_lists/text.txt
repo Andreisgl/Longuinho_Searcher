@@ -1,0 +1,1018 @@
+Mailing lists/Overview - Meta
+Mailing lists/Overview
+From Meta, a Wikimedia project coordination wiki
+< Mailing lists
+Jump to navigation
+Jump to search
+Translate this pageOther languages:Bahasa Indonesia
+British English
+Bân-lâm-gú
+Deutsch
+English
+Esperanto
+Jawa
+Sunda
+azərbaycanca
+chiTumbuka
+dansk
+español
+français
+magyar
+português
+português do Brasil
+slovenščina
+svenska
+čeština
+русский
+українська
+עברית
+العربية
+अंगिका
+हिन्दी
+বাংলা
+ไทย
+မြန်မာဘာသာ
+中文
+日本語
+한국어
+Communication
+Wikimedia Social Suite
+Meetup
+Babel
+Distribution list
+ComCom
+Mailing lists
+Overview
+Administration
+Standardization
+List info template
+Unsubscribing
+Wikimedia IRC
+Channels listing
+#wikidata-admin
+#wikimedia-admin
+#wikipedia-en-admins
+Channel operators
+#wikimedia-admin
+#wikipedia-en-admins
+#wikipedia and #wikipedia-en
+Instructions
+Guidelines
+#wikipedia
+Group Contacts
+Noticeboard & Log
+Cloaks
+Bots
+FAQ
+Stalkwords
+Quotes (en)
+archives
+Quotes (fr)
+Other chat networks
+Telegram
+Discord
+Matrix.org
+Steam
+[Edit]
+These are the mailing lists hosted by Wikimedia Foundation, a non-profit organization in the state of California which operates Wikipedia, Wiktionary, Wikibooks, Wikidata, Wikiquote, Wikisource, Wikimedia Commons, Wikispecies, Wikinews, and Wikiversity, as well as many Wikimedia movement affiliates wikis, and a few other MediaWiki-based wikis.
+A mailing list is like a shared email address: messages sent to that address are distributed to all members ("subscribers") of the list.
+Except for lists marked "private", archives are available for online reading by anyone; posting to a list generally requires subscribing to it. The Mailman list overview page can be found at lists.wikimedia.org.
+Many lists are also archived at mail-archive.com and markmail.org, which provide powerful search engines.
+See the main Mailing lists page for more information on Wikimedia lists.
+Contents
+1 Wikimedia
+1.1 Wikimedia Foundation
+1.2 Interest group lists
+1.3 Internal, governance and committee lists
+1.4 Wikimania
+1.5 Wikimedia movement affiliates
+2 Regional mailing lists
+3 Project mailing lists
+3.1 Local Wikipedia mailing lists
+3.2 Local Wiktionary mailing lists
+3.3 Local Wikibooks mailing lists
+3.4 Local Wikisource mailing lists
+3.5 Local Wikinews mailing lists
+3.6 Local Wikiversity mailing lists
+3.7 Local Wikivoyage mailing lists
+3.8 Off-wiki requests lists
+4 MediaWiki and technical
+4.1 MediaWiki
+4.1.1 Code and bugs
+4.1.2 Local
+4.2 Related software, tools and infrastructure
+4.2.1 Pywikibot
+4.2.2 Wikibase
+4.2.3 Cloud Services and Toolforge
+4.2.4 Toolserver
+4.2.5 Other
+4.3 General development and technical discussion
+4.3.1 Interest areas
+5 Other lists
+5.1 Other public lists
+5.2 Other public dead lists
+5.3 Other private lists
+6 Defunct
+7 See also
+Wikimedia
+Wikimedia Foundation
+Lists relating to the Wikimedia Foundation:
+ wikimedia-l  (archive) – general mailing list, see wikimedia-l (formerly foundation-l) (gossamer-threads)
+ wikimediaannounce-l  (archive) – general Wikimedia announcements low traffic list; forwards and replies-to wikimedia-l (see Mailing lists/Wikimedia Announce)
+ advisory  (archive) – private list for the advisors on the Wikimedia Advisory Board, and Trustees
+Interest group lists
+Lists for various topics:
+ languages  (archive) – a list for all languages-related topics
+ translators-l  (archive) – a list for discussing and announcing translations across the Wikimedia projects
+ dagbani  (archive) – discussing list for the Dagbani language community
+Cultural-Partnerships-l (archive) – GLAM & Cultural sector outreach (private)
+ glam  (archive) – GLAM (public)
+ glam-us  (archive) – GLAM in the United States of America
+ glamtools  (archive) – The GLAMwiki Toolset
+ wikilovesmonuments  (archive) – Wiki Loves Monuments Photograph Competition
+wlm list by Wikimedia Fr (archives and info for members only) subscribe (open to all)
+ wlm-announce  (archive) – the announcements-only mailing list for the 2013 Wiki Loves Monuments competition
+wlm-es (archive) – Spanish list
+wlm-it (archive) – Italian list
+wlm-nl (archive) – Dutch list (members only)
+ wlm-africa  (archive) – a mailing list for African countries organising the Wiki Loves Monuments competition
+ wikilovesearth  (archive) – Wiki Loves Earth Photograph Competition
+ 1lib1ref  (archive) – 1Lib1Ref general mailing list
+ education  (archive) – Wikimedia and Education
+ education-sa  (archive) – Education Program in Saudi Arabia (members only)
+Scuola (archives) – Education in Italy
+ education-nl  (archive) – Education program in the Netherlands
+ education-collab  (archive) – The Education Collaborative (Public List)
+ wiki-research-l  (archive) – low volume list for people who are actively engaged in research on the Wikimedia projects
+ openaccess  (archive) – Open Access discussions
+openaccess by Wikimedia It (archive – Discussioni sull'open access in italiano
+ gendergap  (archive) – discussing the gender gap on Wikimedia projects
+Gendergap (archive) – German Gendergap list
+Gendergap-it
+ artandfem  (archive) – discussing list for the Art+Feminism Wikimedia community
+ museum-l  (archive) – Wikimedia and Museums, for museum professionals (never used. currently private)
+ libraries  (archive) – Wikimedia and Libraries, for library professionals, all things Wikimedian and librarian, and the inevitable love affair between the two
+Bibliotecari (archive) – Librarians discussions in Italian
+ wikimedia-ped  (archive) – Program Evaluation and Design: Announcement list for people interested in program evaluation and design
+ multimedia  (archive) – a list for discussing the contribution, curation, discovery and publishing of multimedia content to Wikimedia projects
+ wikipedia-library  (archive) – a list for coordination of the global library research and access project (see The Wikipedia Library)
+ cochrane-announce  (archive) – an announcement-only list for the Wikipedia-Cochrane Collaboration initiative
+ wikipedia-humanities  (archive) – mailing list for coordination of humanities-based outreach in the Wikipedia community
+ wikimaps  (archive) – mailing list for the Wikimaps project
+ wikipedia-pt-saude  (archive) – Wikiproject Health in Portuguese: mailing list for the Wikiproject Health in Portuguese.
+ newreaders  (archive) – A list for New Readers related topics and discussion, as well as announcements
+ wikimedia-nys  (archive) – for anything related to Noongarpedia and the Noongar language and culture of the South-West of Western Australia
+ wikimedia-genealogy  (archive) – (also archived on mail-archive.com) – the Wikimedia genealogy project
+ wikilovesafrica  (archive) – Wiki Loves Africa Photograph Competition
+ lessanspages  (archive) – Les sans pagEs A mailing list for les sans pagEs project
+Internal, governance and committee lists
+These lists have to do with specific committees or internal operations, and often require approval to join:
+ affcom  (archive) – private Affiliations committee list (AffCom)
+ board-l  (archive) – internal WMF board list, not intended for outside email. To contact the board, use the Wikimedia Foundation Board noticeboard
+ checkuser-l  (archive) – private mailing list for CheckUser users.
+ functionaries-announce  (archive) – private announce only list for Wikimedia Foundation announcements to groups of trusted users for important changes to their tools or policies. List membership rebuilt before each mailing.
+ fundraiser  (archive) – fundraising discussions, open-subscription and public successor of the now closed fundraising list (which was private, see Mailing lists/Fundraising)
+ gac  (archive) – internal list for the Project and Event Grants Grant Advisory Committee (GAC).
+ global-sysops  (archive) – private mailing list for global sysops.
+ internal-l  (archive) – internal list for Wikimedia Foundation board, Legal officers, & boards of local chapters (see instructions for chapters).
+ langcom  (archive) – Language committee (open subscription, replaces the original use of the private langcom-l list)
+ langcom-l  (archive) – Language committee private list, currently used solely to discuss private/personnel questions
+ publicpolicy  (archive) – Public Policy Advisory Group for Wikimedia advocacy efforts.
+ rcom-l  (archive) – Research Committee.
+ reading-wmf  (archive) – internal list for the Reading department in the Wikimedia Foundation. @wikimedia.org employees may join the list.
+ social-media  (archive) – public social media mailing list
+ stewards-l  (archive) – private mailing list for stewards.
+ cvn  (archive) – Countervandalism Network
+ treasurers  (archive) – mainly for treasurers and auditors of Wikimedia organizations, but also for interested individuals; public archives.
+ wmfcc-l  (archive) – Communications committee (comcom)
+Wikimania
+ wikimania-l  (archive) – for announcements and discussion about the Wikimania conference (gossamer-threads)
+Wikimania 2010 (archive) (Polish)
+Wikimania 2016 (open subscription, archive for members) (Italian)
+ wikimania-com  (archive) – Wikimania steering committee
+Wikimedia movement affiliates
+Lists for Wikimedia movement affiliates:
+ affiliates  (archive) – Internal mailing list for Wikimedia movement affiliates
+ all-affiliates  (archive) – For main representatives of the affiliates, appointed volunteer facilitators, members of the Board/Wikimedia Foundation staff for operations related to the 2019 ASBS process.
+ chapters-reports  (archive) – announcement mailing list for all Wikimedia chapters (now merged into Wikimedia Announcements)
+Chapters-l (archive) – private mailing list for Chapters
+ chairpersons  (archive) – Internal mailing list for the Wikimedia's affiliations chairpersons
+eds – Internal mailing list for executive directors
+Iberocoop – for discussion of Iberocoop activities (currently private)
+By chapter:
+ wikimediaau-l  (archive) – for matters relating to the Australian chapter
+ wikimediabr-l  (archive) – for matters relating to the planned Brazilian chapter
+ wikimedia-ca  (archive) – for matters relating to the planned Canadian chapter
+ wikimediach-l  (archive) – for matters relating to the Swiss chapter
+ wikimediach-de (archive) – German
+ wikimediach-fr (archive) – French
+ wikimediach-it (archive) – Italian
+ wikimedia-us-chi  (archive) – for Chicago-area Wikimedians
+ Wikimediacz-l  (archive) – for matters relating to the Czech chapter
+ Vereinat-l  (archive) – for matters relating to the Austrian chapter
+ Vereinde-l  (archive) – for matters relating to the German chapter
+ag-partizipation
+gendergap
+hive-berlin
+limeskarte
+neue-aktive
+wlm-koordinierung
+wp-hochschule
+ wikimediaindia-l  (archive) – for matters relating to the Indian chapter
+ wikimediafr-l (archive) – for matters relating to the French chapter (deprecated)
+ wikimediafr  (archive) – for matters relating to the French chapter (public list)
+ wikimedia-il  (archive) – Wikimedia Israel mailing list
+ wikimedia-il-assembly  (archive) – Wikimedia Israel General Assembly list
+ wikimedia-il-edu  (archive) – Wikimedia Israel Education team
+ wikimedia-il-glam  (archive) – Wikimedia Israel GLAM coordination
+ wikimedia-il-updates  (archive) – Wikimedia Israel updates
+ wikimedia-il-updates  (archive) – Wikimedia Israel updates
+ wikimedianl-l  (archive) – for matters relating to the Dutch chapter
+ press-nl  (archive) – Wikimedia Nederland Press Releases
+ wikimedia-ph  (archive) – for matters relating to the Philippine chapter
+ wikimediapl-l  (archive) – for matters relating to the Polish chapter
+ wikimediapt  (archive) – for matters relating to the PT chapter
+ wikimediaro-l  (archive) – for matters relating to the proposed Romanian chapter
+ wikimedia-ru  (archive) – for matters relating to the Russian chapter (old archive)
+ wikimediase-l  (archive) – for matters relating to the Swedish chapter
+ wikimedia-sk  (archive) – for matters relating to the Slovakia chapter-to-be
+ wikimedia-sk-oznamy  (archive) – announcements list for Slovakia chapter-to-be
+ wikimediasr-l  (archive) – for matters relating to the Serbian chapter
+ wikimediars-info  (archive) – Wikimedia Serbia Info (previously WikimediaSCG-INFO, now superseded)
+ wikimediaua  (archive) – for matters relating to the Ukrainian chapter
+ wikimedia-ua-announce  (archive) – List for announcements by Wikimedia Ukraine board.
+ wikimedia-us-mw  (archive) – for matters relating to the proposed Midwest US chapter and for organizing activities in the Midwest region of the US
+ wikimediauk-l  (archive) – for matters relating to the UK chapter
+WikimediaUK schools list
+ wikimedia-uy  (archive) – for matters relating to the Uruguayan chapter (members only)
+ wikimedia-tw  (archive) – for matters relating to the TW chapter
+ wikimediaza  (archive) – for matters relating to the proposed South African chapter
+ wikimedia_nyc (archive) – New York City area Wikimedians
+ wikimedia-asia-chapters  (archive) – Asian Wikimedia Chapters coordination
+ wikimedia-au-announce  (archive) – Wikimedia Australia Announcements
+ wikimedia-au-members  (archive) – Wikimedia Australia Members list
+ wikimedia-dc  (archive) – Wikimedia DC chapter mailing list
+ wikimedia-de-by  (archive) – Bayern-Mailingliste fur Wikimedia-Projekte / Wikimedians in Bavaria
+ wikimediadk  (archive) – Wikimedia Denmark Chapter
+ wikimedia-co  (archive) – Wikimedia Colombia Chapter
+ wikimedia-dcw (archive) – Deoband Community Wikimedia
+Regional mailing lists
+Lists for established meetup groups in particular locations:
+ wikimedia-boston  (archive) – New England-area Wikimedians – meetup group
+ wikimedia-cascadia  (archive) – Cascadia region Wikimedians discussion list
+ wikimedia-kh  (archive) – Wikimedia Cambodia/ Khmer Wikipedia mailing list – meetup group
+ wikimedia-sf  (archive) – San Francisco Bay area Wikimedians – meetup group
+ wikimediaie  (archive) – Ireland Wikimedians
+ wikimedia-bd  (archive) – Bangladeshi Wikimedians
+ wikimedia-in-wb  (archive) – Wikimedians in West Bengal (India)
+ wikimedia-us-co  (archive) – Wikimedians in Colorado, USA
+ wikimedia-us-fl  (archive) – Wikimedians in Florida, USA
+ wikimediacr  (archive) – Wikimedians in Costa Rica
+ african-wikimedians  (archive) – Wikimedians in Africa
+ wikimedia guinée conakry  (archive) – Wikimedia Guinée Conakry user community
+ wikimedia-california  (archive) – Wikimedia California
+ wikimedia-gh  (archive) – Wikimedia Ghana User Group
+ wikimedia-in-amd  (archive) – Ahmedabad Wikimedians
+ wikimedia-in-blr  (archive) – Mailing list for Wikimedians / Wikipedians in & from Bangalore, India
+ wikimedia-in-chn  (archive) – Mailing list for Wikimedians / Wikipedians in & from Chennai, Tamil Nadu, India
+ wikimedia-in-en  (archive) – Wikimedians working on India related content on English Wikipedia & related projects.
+ wikimedia-in-hyd  (archive) – Mailing list for Wikimedians / Wikipedians in & from Hyderabad , India.
+ wikimedia-in-mlr  (archive) – Wikimedians in Mangalore, India
+ wikimedia-in-mum  (archive) – Mailing list for Wikimedians / Wikipedians in & from Mumbai , India.
+ wikimedia-in-pun  (archive) – Mailing list for Wikimedians in Pune, India
+ wikimedia-lk  (archive) – Mailing list for Wikimedia Community Usergroup Sri Lanka
+ wikimedia-lv  (archive) – Wikimedians of Latvia User Group list
+ wikimedia-kr  (archive) – Mailing list for Wikimedians in South Korea
+ wikimedia-ng  (archive) – Mailing list for Wikimedians in Nigeria
+ wikimedia-th  (archive) – Wikimedians in Thailand
+ wikimedia-tr  (archive) – Wikimedia Turkiye
+ wikimedia-us-ga-atl  (archive) – Wikimedians in Atlanta, Georgia
+ wikimedia-us-mn  (archive) – Minnesota Wikimedians
+ wikimedia-us-nyc-discuss  (archive) – Wikimedia New York City Discussion list
+ wikimedia-us-nc  (archive) – North Carolina Wikipedians
+ wikimedia-us-oh  (archive) – Wikimedians in Ohio, United States
+ wikimedia-vn  (archive) – Vietnam Wikimedians User Group
+ wikimediaus-l  (archive) – Wikimedians Active in Local Regions of the United States (WALRUS)
+ wikimedia-cm  (archive) – Wikimedia Community User Group Cameroon
+ wikimedia-pe  (archive) – Wikimedia Community User Group Perú
+ wikimedia-mm  (archive) – Myanmar Wikimedia Community User Group
+Project mailing lists
+Sorted by project name:
+ abstract-wikipedia  (archive) – a mailing list for discussing Abstract Wikipedia and Wikifunctions
+ textbook-l  (archive) – for global issues, relating to all language versions of Wikibooks (see below for local mailing lists)
+ wikidata-l  (archive) – a mailing list for discussing Wikidata
+ commons-l  (archive) – for the Wikimedia Commons-related discussion
+ commons-poty  (archive) – Picture of the day feature on Commons
+ daily-image-l  (archive) – Wikimedia Commons Picture of the Day
+ photoreporters  (archive) – A mailing list for photoreporters from Wikimedia Commons
+ incubator  (archive) – list for Wikimedia Incubator-related discussion
+ wikimediameta-l  (archive) – list for issues specific for the Meta-Wiki (the wiki where you are now)
+ wikinews-l  (archive) – for global issues, relating to all language versions of Wikinews (see below for local mailing lists)
+ wikipedia-l  (archive) – for global issues, relating to all language versions of Wikipedia (see below for local mailing lists)
+ wikiquote-l  (archive) – for Wikiquote-related discussion
+ wikisource-l  (archive) – for global issues, relating to all language versions of Wikisource
+ wikispecies-l  (archive) – for global issues, relating to all language versions of Wikispecies
+ wikispecies-admin  (archive) – for admin issues on Wikispecies
+ wikiversity-l  (archive) – for global issues, relating to all language versions of Wikiversity
+ wiktionary-l  (archive) – for global issues, relating to all language versions of Wiktionary (see below for local mailing lists)
+ wikivoyage-l  (archive) – for Wikivoyage-related discussion
+Local Wikipedia mailing lists
+ wikipedia-sat  (archive) – (ᱥᱟᱱᱛᱟᱲᱤ)
+ wikials-l  (archive) – (Alemannisch)
+ wikiar-l  (archive) – (العربية)
+ wikipedia-bn  (archive) – (বাংলা)
+ wikimedia-in-wb  (archive) – (বাংলা)
+ wikipedia-bn-admins  (archive) – (বাংলা)
+ wikica-l  (archive) – (català)
+ wikida-l  (archive) – (dansk)
+ wikide-l  (archive) – (Deutsch)
+ wikien-l  (archive) – (English)
+ daily-article-l  (archive) – sends the current article featured on the Main Page to all subscribers
+ accounts-enwiki-l  (archive) – used to create accounts for new users who can't create one themselves, and internal discussion between the Account Creation Team
+ ambassador-announce-l  (archive) – English Wikipedia Ambassadors
+ wikipedia-en-editfilters  (archive) – for discussion between edit filter managers, primarily regarding hidden filters
+ wikieo-l  (archive) – (Esperanto)
+ wikies-l  (archive) – (español)
+ wikieu-l  (archive) – (español)
+ wikifa-l  (archive) – (فارسی)
+ wikifi-l  (archive) – (suomi)
+ wikifr-l  (archive) – (français)
+ wikipedia-gu  (archive) – (ગુજરાતી)
+ wikihe-l  (archive) – (עברית)
+ daily-article-he  (archive) – ערך ויקיפדיה מומלץ ביום
+ otrs-he  (archive) – Hebrew OTRS discussion
+ wikihi-l  (archive) – (हिन्दी)
+ wikihu-l  (archive) – (magyar)
+ wikiia-l  (archive) – (interlingua)
+ wikiid-l  (archive) – (Bahasa Indonesia)
+ wikiis-l  (archive) – (íslenska)
+ wikiit-l  (archive) – (italiano)
+ wikiit-admins-l  (archive) – (italiano)
+Regional lists (for meetups etc.): Lazio, Lombardia, Veneto
+ wikikn-l  (archive) – (ಕನ್ನಡ)
+ wikilb-l  (archive) – (Lëtzebuergesch)
+ wikija-l  (archive) – (日本語)
+ wikiko-l  (archive) – (한국어)
+ wikimk-l  (archive) – (македонски)
+ wikiml-l  (archive) – (മലയാളം)
+ wikinl-l  (archive) – (Nederlands)
+ wikinn-l  (archive) – (norsk nynorsk)
+ wikino-l  (archive) – (norsk)
+ wikipl-l  (archive) – (polski)
+ wikipt  (archive) – (português)
+ wikiro-l  (archive) – (română)
+ wikiru-l  (archive) – (русский)
+ wikiru-a  (archive) – (русский)
+ wikisa-l  (archive) – (संस्कृतम्)
+ wikisk-l  (archive) – (slovenčina)
+ wikiskan-l  (archive) – (new all-Scandinavian list)
+ wikisv-l  (archive) – (svenska)
+ wikita-l  (archive) – (தமிழ்)
+ wikite-l  (archive) – (తెలుగు)
+ wikitr-l  (archive) – (Türkçe)
+ wikiuk-l  (archive) – (українська)
+ wikivi-l  (archive) – (Tiếng Việt)
+ wikizh-l  (archive) – (中文)
+ wikipedia-zh-afc  (archive) –
+ wikipedia-or  (archive) – (ଓଡ଼ିଆ)
+ wikipedia-af  (archive) – Discussion list for Afrikaan speaking contributors
+ wikipedia-as  (archive) – অসমীয়া ৱিকিপিডিয়া / Assamese Wikipedia
+ wikipedia-fr-wikimag  (archive) – Wikimag (french "Wikipedia Signpost")
+ wikipedia-mai  (archive) – Discussion list for the Maithili Wikipedia
+ wikipedia-ne  (archive) – Discussion list for the Nepalese Wikipedia
+ wikipedia-pa  (archive) – Punjabi Wikipedia
+ wikipedia-sq  (archive) – Community list of Albanian Wikipedia
+ wikipedia-sah  (archive) – Sakha Wikipedia mailing list
+ wikiur-l  (archive) – Mailing list for Urdu Wiki's
+ wikiel  (archive) – Greek Wikimedia Mailing List
+ wikibetarask  (archive) – Belarusian Tarakievica Wikipedia mailing list
+ wikibg-l  (archive) – Community list of bg.wikipedia
+Local Wiktionary mailing lists
+ wiktionaryde-l  (archive) – (Deutsch)
+ wiktionarypt-l  (archive) – (Português)
+Local Wikibooks mailing lists
+ wikibooksde-l  (archive) – (Deutsch)
+Local Wikisource mailing lists
+ tawikisource (archive) – no description available
+Local Wikinews mailing lists
+ wikinews-de-l  (archive) – (Deutsch)
+ wikinews-accreditation  (archive) – verifying accreditation requests
+ wikinews-fa  (archive) – (فارسی)
+ wikinews-zh  (archive) – (中文)
+ wikinews-sr-l  (archive) – Serbian Wikinews Email list
+Local Wikiversity mailing lists
+ wikiversityde-l  (archive) – (Deutsch)
+Local Wikivoyage mailing lists
+ wikivoyage-fa  (archive) – Discussion list for Persian Wikivoyage
+ wikivoyage-pl  (archive) – Polish Wikivoyage mailing list/Lista dyskusyjna Wikipodrozy
+ wikivoyage-zh  (archive) – Chinese Wikivoyage mailing list
+Off-wiki requests lists
+ otrs-ar  (archive) – Internal discussion list for Arabic OTRS volunteers
+ otrs-de-l  (archive) – Liste fur die deutschsprachigen OTRS-Helfer / German OTRS discussion
+ otrs-en-l  (archive) – English OTRS discussion list
+ otrs-es  (archive) – Lista de discusion de OTRS en espanol / Spanish OTRS discussion
+ otrs-fr  (archive) – Discussions OTRS en francais / French OTRS discussion
+ otrs-it-l  (archive) – Lista di discussione relativa a OTRS / Italian OTRS discussion
+ otrs-ja  (archive) – Japanese OTRS discussion
+ otrs-ru  (archive) – Russian OTRS discussion
+ otrs-zh  (archive) – 中文志工回覆團隊討論 / 中文志愿者回复团队讨论 / Chinese OTRS discussion
+ oversight-request-fiwiki-l  (archive) – Pyynnöt pysyvien häivytysten suorittamiseksi suomenkielisestä Wikipediasta / Finnish Wikipedia oversighters
+ oversight-wp-simple  (archive) – Requests to permanently remove personal information from the Simple English Wikipedia
+ privacy-fr-wp  (archive) – Discussions masqueurs en francais / French Wikipedia oversighters (privacy) discussion
+ unblock-en-l  (archive) – Internal discussion between admins using the new Unblock Ticket Request System (UTRS)
+ unblock-pt-l  (archive) – Unblock requests for pt. Pedidos de desbloqueio para Wikipédia Lusófona.
+ unblock-zh  (archive) – 中文维基百科封禁申诉/中文維基百科封禁申訴/Unblock request for zhwiki
+MediaWiki and technical
+Lists related to software and technical matters.
+MediaWiki
+General MediaWiki discussion, strictly suitable (also) for a general, non-Wikimedia-only audience. 
+List
+Description
+mediawiki-l
+For administrators and users of the MediaWiki software in non-Wikimedia-related projects, including some feature and development discussion. If you are having difficulty with your own installation of MediaWiki, then this is the place to ask for help. (gossamer-threads)
+Homepage/sign-up • Subscriber login • Archives
+mediawiki-announce
+A low traffic list for announcements about new MediaWiki releases and security updates. All messages to this list also go to mediawiki-l, so you don't need to be on both. (gossamer-threads)Note: this list is in "emergency moderation". Only messages from accepted addresses don't get immediately discarded, and any message has to be manually approved by a list admin or moderator (Tim Starling, Reedy or Csteipp).
+Homepage/sign-up • Subscriber login • Archives
+mediawiki-i18n
+Discussion and notifications regarding MediaWiki internationalisation and language setup. Not to be confused with the private localisation-team.
+Homepage/sign-up • Subscriber login • Archives
+mediawiki-api
+Discussion related to the MediaWiki API and its on-going development.
+Homepage/sign-up • Subscriber login • Archives
+mediawiki-api-announce
+A low-traffic list for announcements about the API, such as breaking changes and new MediaWiki releases. All messages to this list also go to mediawiki-api, so you don't need to be on both.
+Homepage/sign-up • Subscriber login • Archives
+wikitext-l
+This list is for long-term discussion of MediaWiki's syntax ("wikitext"), its current parser, improvements, and work on Parsoid, the new parser. Specific, fixable problems with the current parser and with Parsoid should go to wikitech-l instead. We used to discuss the new VisualEditor here, but discussion of VE has now moved to wikitech-l.
+Homepage/sign-up • Subscriber login • Archives
+wikidata-tech
+Discussion regarding the development of Wikidata
+Homepage/sign-up • Subscriber login • Archives
+SemanticMediaWiki/SMW (archive, gmane)
+SemanticMediaWiki users (archive, gmane)
+Code and bugs
+Of interest mainly for developers following the code closely.
+List
+Description
+wikibugs-l
+Automated notifications of bug reports. Note that follow-ups should go into Bugzilla, or sent directly to the reporter and/or to wikitech-l. They should not be sent to wikibugs-l.
+Homepage/sign-up • Subscriber login • (not archived)
+mediawiki-commits
+Automated notifications of Git/Gerrit commits. Developers and other interested users may wish to subscribe to keep abreast of the latest whizz-bang changes that somebody forgot to mention on wikitech-l. (gossamer-threads)
+Homepage/sign-up • Subscriber login • (not archived)
+wikidata-bugs
+Automated notifications of bug reports. Note that follow-ups should go into Bugzilla, or sent directly to the reporter and/or to wikidata-l. They should not be sent to wikidata-bugs.
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-commits
+This list was merged to mediawiki-commits.
+Homepage/sign-up • Subscriber login • (not archived)
+mediawiki-codereview
+All CodeReview comments were sent to this list (only for the SVN repository; no replacement available with Git). Follow-ups went into CodeReview or were sent to wikitech-l.
+Homepage/sign-up • Subscriber login • (not archived)
+qa-alerts
+Automatic notifications of Quality Assurance alerts (browser tests) sent by Jenkins
+Homepage/sign-up • Subscriber login • Archives
+eventlogging-alerts
+EventLogging Alerts
+Homepage/sign-up • Subscriber login • Archives
+multimedia-alerts
+Automated Multimedia Alerts
+Homepage/sign-up • Subscriber login • Archives
+betacluster-alerts
+More alerts
+Homepage/sign-up • Subscriber login • Archives
+discovery-alerts
+Automatic notifications for oozie job failures
+Homepage/sign-up • Subscriber login • Archives
+Local
+MediaWiki discussions local to a specific area or userbase.
+List
+Description
+mediawiki-distributors
+A very low volume list directly related to the issues of those who package and distribute MediaWiki.
+Homepage/sign-up • Subscriber login • Archives
+mediawiki-enterprise
+For discussion related to the enterprise use of MediaWiki.
+Homepage/sign-up • Subscriber login • Archives
+ iberotec
+A list about MediaWiki, pywikibot and other technical things, in iberocoop languages (Portugues, Spanish, Italian).
+Homepage/sign-up • Subscriber login • Archives • gmane
+mediawiki-india
+A list for developers and users of MediaWiki from India.
+Homepage/sign-up • Subscriber login • Archives
+ mediawiki-fr
+Liste de discussion francophone sur MediaWiki / MediaWiki french-speaking mailinglist
+Homepage/sign-up • Subscriber login • Archives • not on Gmane?
+mediawiki-sv
+Swedish language discussions about the MediaWiki software (closed).
+Homepage/sign-up • Subscriber login • Archives
+Related software, tools and infrastructure
+Tools to help use and development of all MediaWiki and MediaWiki sites, or of Wikimedia projects by anyone including researchers etc.
+Pywikibot
+List
+Description
+pywikipedia-announce
+for important Python MediaWiki bot announcements (important bugfixes, updates and notes).
+Homepage/sign-up • Subscriber login • Archives
+pywikipedia-l
+Python MediaWiki bot discussion (user and developer) about the Pywikibot framework.(Retired in 2015)
+Homepage/sign-up • Subscriber login • Archives
+pywikibot
+Python MediaWiki bot discussion (user and developer) about the Pywikibot framework.(Currently active)
+Homepage/sign-up • Subscriber login • Archives
+pywikipedia-bugs
+Bugs filed against Pywikibot (Bugzilla).
+Homepage/sign-up • Subscriber login • Archives
+pywikibot-commits
+Commits to the Pywikibot Git repository.
+Homepage/sign-up • Subscriber login • Archives
+Wikibase
+List
+Description
+wikibaseug
+Main discussion of the Wikibase Community User Group
+Homepage/sign-up • Subscriber login • Archives
+wikibase-cloud
+A mailing list for the community of users of Wikibase.Cloud, a new addition to the Wikibase ecosystem
+Homepage/sign-up • Subscriber login • Archives
+wikibase-nl@lists.wmnederland.nl - The mailings list of the Dutch Wikibase Knowlegde Group - Homepage/sign-up - Archives
+Cloud Services and Toolforge
+List
+Description
+cloud-announce
+Important announcements about and regarding Wikimedia Cloud Services and Toolforge
+Homepage/sign-up • Subscriber login • Archives
+cloud
+For discussion about and regarding Wikimedia Cloud Services and Toolforge
+Homepage/sign-up • Subscriber login • Archives
+Toolserver
+List
+Description
+toolserver-announce
+Important announcements about and regarding the toolserver
+Homepage/sign-up • Subscriber login • Archives
+toolserver-l
+For discussion about and regarding the toolserver
+Homepage/sign-up • Subscriber login • Archives
+Other
+List
+Description
+huggle
+Discussion of Huggle anti-vandalism tool (in English).
+Homepage/sign-up • Subscriber login • Archives
+xmldatadumps-l
+Discussion of providing and downloading Wikimedia data, see Data dumps for on-wiki documentation.
+Homepage/sign-up • Subscriber login • Archives
+General development and technical discussion
+For all Wikimedians: the tech ambassadors list for discussion and announcements of upcoming changes and features:
+ wikitech-ambassadors  (archive) – no description available
+List
+Description
+wikitech-l
+For discussion of technical issues with Wikimedia servers, features and development of the MediaWiki software, etc. This is not a forum for user help (see mediawiki-l, above). (gossamer-threads)
+Homepage/sign-up • Subscriber login • Archives
+wikitech-announce
+Wikimedia technology platform and MediaWiki development and maintenance announcements, reports and updates (low-traffic).
+Homepage/sign-up • Subscriber login • Archives
+wikibots-l
+Discussion and self-help among bots users.
+Homepage/sign-up • Subscriber login • Archives
+Interest areas
+Specific technical areas of work on MediaWiki in general and Wikimedia projects specifically.
+List
+Description
+analytics
+A mailing list for the Analytics Team at WMF and everybody who has an interest in Wikipedia and analytics.
+Homepage/sign-up • Subscriber login • Archives
+centralnotice-admins
+CentralNotice admins discussion and announcements.
+Homepage/sign-up • Subscriber login • Archives
+design
+Discussion of Wikimedia design: information architecture, visual design, style, etc.
+Homepage/sign-up • Subscriber login • Archives
+ee
+This list was merged to wikitech-l. Not to be confused with the private e2.
+Homepage/sign-up • Subscriber login • Archives
+listadmins
+List for discussions and announcements related to lists.wikimedia.org
+Homepage/sign-up • Subscriber login • Archives
+maps-l
+Discussion about the integration of open maps (including from OpenStreetMap) with MediaWiki.
+Homepage/sign-up • Subscriber login • Archives
+metavid-l
+Discussion about MetaVidWiki and the integration of MetaVid with MediaWiki.
+Homepage/sign-up • Subscriber login • Archives
+mobile-l
+A list for announcing and discussing the Wikimedia mobile projects. This includes mobile web, apps, and tablets.
+Homepage/sign-up • Subscriber login • Archives
+offline-l
+This list is a place where technologists and practitioners meet to discuss the best approaches for using – as readers or as participants – MediaWiki-powered sites without Internet connectivity.
+Homepage/sign-up • Subscriber login • Archives
+teampractices
+A mailing list to discuss team practices employed in Wikimedia organizations, with focus on software engineering practices and methods such as agile development. Not to be confused with the private Engineering general discussion list for all staffers and contractors of that WMF department.
+Homepage/sign-up • Subscriber login • Archives
+wikifarm
+Discussion for managers of Wiki Farms
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-search
+A mailing list oriented around activities of the Search and Discovery department at the WMF. It is a place to discuss all things related to the search and discovery features of Wikimedia.
+Homepage/sign-up • Subscriber login • Archives
+wikivideo-l
+Discussion about video on Wikimedia projects. Closed in July 2013 - See the new Multimedia list, above.
+Homepage/sign-up • Subscriber login • Archives
+deployment-systems
+Discussion list for deployment systems
+Homepage/sign-up • Subscriber login • Archives
+cloud-announce
+Announcements for users of Wikimedia Cloud Services (formerly called labs-announce)
+Homepage/sign-up • Subscriber login • Archives
+mediawiki-core
+Wikimedia's MediaWiki Core team
+Homepage/sign-up • Subscriber login • Archives
+newprojects
+Announcement list for new Wikimedia wikis
+Homepage/sign-up • Subscriber login • Archives
+tools-nlwikibots
+[no description available]
+Homepage/sign-up • Subscriber login • Archives
+wikimetrics
+Wiki metrics
+Homepage/sign-up • Subscriber login • Archives
+xtools
+Discussion list for xTools
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-medicine
+Wiki Medicine discussion
+Homepage/sign-up • Subscriber login • Archives
+wikimediareference-l
+Discussion about the use of reference sources by Wikimedians
+Homepage/sign-up • Subscriber login • Archives
+Other lists
+Other public lists
+List
+Description
+egyptopedia-l
+Egyptopedia - L'egyptologique de Wikipedia / Egyptology Wikipedia
+Homepage/sign-up • Subscriber login • Archives
+eliso
+Esperanto kaj Libera Scio / Esperanto and Free Knowledge
+Homepage/sign-up • Subscriber login • Archives
+eliso-anoncoj
+Esperanto kaj Libera Scio (anoncoj) / Esperanto and Free Knowledge (anouncements)
+Homepage/sign-up • Subscriber login • Archives
+wikimediterraneans
+Wikimedians interested to create a cooperation between affiliates around the mediterranean sea
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-cuteness
+Wikimedia Cuteness Association
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-northern-europe
+For cooperation and joint efforts between Wikimedia organizations in Northern Europe
+Homepage/sign-up • Subscriber login • Archives
+wikija-g
+Japanese user group newsletter distribution.
+Homepage/sign-up • Subscriber login • Archives
+Other public dead lists
+List
+Description
+denkmal-at
+Austrian Monuments Collaboration
+Homepage/sign-up • Subscriber login • Archives
+devnations-l
+Growing Wikimedia in developing nations
+Homepage/sign-up • Subscriber login • Archives
+fd-advisorygroup
+Funds Dissemination Advisory Group
+Homepage/sign-up • Subscriber login • Archives
+foa-cron
+Mentors and students for the wikimedia-cron FOA project
+Homepage/sign-up • Subscriber login • Archives
+mediawiki-cvs
+MediaWiki CVS commits
+Homepage/sign-up • Subscriber login • Archives
+packaging
+[no description available]
+Homepage/sign-up • Subscriber login • Archives
+performance
+discussions on performance engineering
+Homepage/sign-up • Subscriber login • Archives
+research-newsletter
+Wikimedia Research Newsletter
+Homepage/sign-up • Subscriber login • Archives
+spcom
+Sister Projects Committee
+Homepage/sign-up • Subscriber login • Archives
+wikilovespublicart
+Wiki Loves Public Art Photograph Competition
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-am
+Mailing list for Wikimedia Armenia
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-am-internal
+[no description available]
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-dz
+Mailing list for the Algeria Wikimedians User Group
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-fi
+Wikimedia Finland mailing list
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-ge
+Wikimedia Georgia planning list
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-il-edu
+Wikimedia Israel Education team
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-in-member
+[no description available]
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-in-newsletter
+Subscription list for Wikimedia India Newsletter
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-in-newsletter-editors
+Wikimedia India Newsletter Editors
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-ma
+Wikimedia Morocco User Group
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-no
+E-postliste for medlemmer av Wikimedia Norge / Wikimedia Norge Chapter
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-sf-makerfaire
+SF MakerFaire planning list
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-sg
+Wikimedia Singapore
+Homepage/sign-up • Subscriber login • Archives
+wikimediaby
+Wikimedia Belarus email list
+Homepage/sign-up • Subscriber login • Archives
+wikimediaco-l
+Lista de discusion de Wikimedia Colombia / Wikimedia Colombia Chapter
+Homepage/sign-up • Subscriber login • Archives
+wikimediahr
+Wikimedia Croatia Chapter
+Homepage/sign-up • Subscriber login • Archives
+wikimediamy
+Wikimedia Malaysia Chapter
+Homepage/sign-up • Subscriber login • Archives
+wikimedianz-l
+Proposed New Zealand Wikimedia Chapter
+Homepage/sign-up • Subscriber login • Archives
+wikimediapa-l
+Philadelphia and Pennsylvania Wikimedians
+Homepage/sign-up • Subscriber login • Archives
+wikimy-l
+Myanmar Wikipedia mailing list
+Homepage/sign-up • Subscriber login • Archives
+wikipedia-bn-help
+Bangladesh Wikipedia help
+Homepage/sign-up • Subscriber login • Archives
+wikipedia-cak
+Kaqchikel Wikipetya' / Kaqchikel Wikipedia discussion
+Homepage/sign-up • Subscriber login • Archives
+wikistats
+Discussion of the statistics project at wikistats.wmflabs.org
+Homepage/sign-up • Subscriber login • Archives
+Other private lists
+Lists without archives.
+List
+Description
+affcom-members
+[no description available]
+Homepage/sign-up • Subscriber login • Archives
+apg-grantees
+List for APG grantees and Staff
+Homepage/sign-up • Subscriber login • Archives
+arbcom-ko
+Korean Wikipedia ArbCom
+Homepage/sign-up • Subscriber login • Archives
+board-nominations
+[no description available]
+Homepage/sign-up • Subscriber login • Archives
+bureaucrats-nl-wikipedia
+NL Wikipedia Bureaucrat list
+Homepage/sign-up • Subscriber login • Archives
+car-fr-l
+Comite d'arbitrage de la Wikipedia francophone / French Wikipedia ArbCom
+Homepage/sign-up • Subscriber login • Archives
+wikipedia-fr-comite-nomination
+Comité de nomination de la Wikipédia francophone / French Wikipedia nominators
+Homepage/sign-up • Subscriber login • Archives
+contact-nl
+Interne overleglijst voor de Nederlandstalige OTRS vrijwilligers
+Homepage/sign-up • Subscriber login • Archives
+cvn-private
+Countervandalism Network Staff
+Homepage/sign-up • Subscriber login • Archives
+design-team
+Design team internal discussion
+Homepage/sign-up • Subscriber login • Archives
+destacado-l
+El articulo destacado de Wikipedia en tu correo / Daily article (Spanish)
+Homepage/sign-up • Subscriber login • Archives
+discovery-private
+Internal communications for WMF search and discovery team
+Homepage/sign-up • Subscriber login • Archives
+educacao-br
+Lista do Grupo Wikimedia Brasileiro de Educação e Pesquisa
+Homepage/sign-up • Subscriber login • Archives
+education-collab-private
+The Education Collaborative (Public List)
+Homepage/sign-up • Subscriber login • Archives
+festivalsommer-teilnehmer
+participants of the German Wikipedia Festivalsommer project
+Homepage/sign-up • Subscriber login • Archives
+glam-us-consortium
+GLAM-Wiki U.S. Consortium advisory board
+Homepage/sign-up • Subscriber login • Archives
+global-renamers
+Internal discussions for global renamers.
+Homepage/sign-up • Subscriber login • Archives
+gozetmen
+Turkish Wikipedia oversighters
+Homepage/sign-up • Subscriber login • Archives
+hackathonorganizers
+[no description available]
+Homepage/sign-up • Subscriber login • Archives
+hch-working-group
+Community Health and Harassment working group
+Homepage/sign-up • Subscriber login • Archives
+infobg-l
+Balgarskite proekti na Wikimedia / Bulgarian Wikipedia
+Homepage/sign-up • Subscriber login • Archives
+inspire
+Inspire campaign list
+Homepage/sign-up • Subscriber login • Archives
+lgbt
+Increasing involvement of LGBT communities and organizing the Wikimedia LGBT Outreach Project
+Homepage/sign-up • Subscriber login • Archives
+mediawiki-security
+Discuss MediaWiki security issues
+Homepage/sign-up • Subscriber login • Archives
+mk-shared-knowledge
+[no description available]
+Homepage/sign-up • Subscriber login • Archives
+multimedia-team
+Internal discussion of WMF Multimedia Team
+Homepage/sign-up • Subscriber login • Archives
+pressemeldungen
+Informations-Pool des deutschen Wikinews-Projekts / German Wikinews project
+Homepage/sign-up • Subscriber login • Archives
+recruitment
+Internal list to facilitate contact with the recruitment team
+Homepage/sign-up • Subscriber login • Archives
+releng
+Release Engineering Team
+Homepage/sign-up • Subscriber login • Archives
+research-internal
+Cross-departmental internal list for all researchers at the WMF
+Homepage/sign-up • Subscriber login • Archives
+research-wmf
+Internal communication for the WMF Research team
+Homepage/sign-up • Subscriber login • Archives
+volunteer-supporters
+[no description available]
+Homepage/sign-up • Subscriber login • Archives
+wep
+For communication between all people of the Wikipedia Education Program
+Homepage/sign-up • Subscriber login • Archives
+wiki-hr
+List for the Croatian Wikipedia
+Homepage/sign-up • Subscriber login • Archives
+wikics-l
+Česká Wikipedie / Czech Wikipedia
+Homepage/sign-up • Subscriber login • Archives
+wikidata-bureaucrats
+Wikidata bureaucrat list
+Homepage/sign-up • Subscriber login • Archives
+wikidata-oversight
+Wikidata oversight list for case discussion
+Homepage/sign-up • Subscriber login • Archives
+wikifi-admin
+Suomenkielisen Wikipedian yllapitajat /Wiki-fi administrators
+Homepage/sign-up • Subscriber login • Archives
+wikifr-colloque-l
+[CLOSED] Colloque francophone 2007 sur Wikipedia / 2007 French Wikipedia Conference
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-bd-internal
+Wikimedia Bangladesh Internal List
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-ci
+Wikimedia Community User Group Cote d'Ivoire mailing list
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-cl
+Lista de correo de Wikimedia Chile / Wikimedia Chile chapter
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-co
+Wikimedia Colombia chapter
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-en-abuse
+Internal list used by the Wikipedia Abuse Response Team
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-in-del
+Wikimedia Mailing List for New Delhi and NCR
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-in-newsletter-editors
+Wikimedia India Newsletter Editors
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-kk
+Kazakh Wikipedia
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-mk
+Internal mailing list for Wikimedia Macedonia
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-mx
+Wikimedia Mexico - lista abierta
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-pk
+Wikimedia affiliate in Pakistan
+Homepage/sign-up • Subscriber login • Archives
+wikimedia-search-private
+Internal communications for WMF search and discovery team
+Homepage/sign-up • Subscriber login • Archives
+wikimediabe-l
+Wikimedia Belgium general list
+Homepage/sign-up • Subscriber login • Archives
+wikimediahk
+Wikimedia Hong Kong, the Local Wikimedia Chapter in Hong Kong
+Homepage/sign-up • Subscriber login • Archives
+wikinews-pl
+Lista dyskusyjna i kontaktowa polskiej wersji Wikinews
+Homepage/sign-up • Subscriber login • Archives
+wikipedia-ja-del
+Wikipedia-JA sysops and eliminators
+Homepage/sign-up • Subscriber login • Archives
+wikipedia-ko-admins
+Private discussion amongst Korean Wikipedia admins
+Homepage/sign-up • Subscriber login • Archives
+wmfkids
+A list for Wikimedia Foundation parents
+Homepage/sign-up • Subscriber login • Archives
+testeng
+Quality & Test Engineering Team
+Homepage/sign-up • Subscriber login • Archives
+@wikimedia.org Google Groups
+productmanagers
+Defunct
+ services  (archive) – Services (SOA) and REST API related discussions
+ intlwiki-l  (archive) – formerly for Wikipedia internationalisation and multilingual coordination, closed in favor of wikipedia-l (for project-wide issues), wikitech-l (for tech issues) and requests for permissions (for administrative setup on small wikis): see Mailing list merge
+ wikilegal-l  (archive) – legal & licensing issues, deprecated by wikimedia-l and the individual project mailing lists
+ juriwiki-l  (archive) – for legal issues
+ announce-l  (archive) – Wikizine newsletter
+wikizine-de (archive, gmane) – German
+wikizine-id (archive, gmane) – Indonesian
+wikizine-es (archive, gmane) – Spanish
+Nupedia had a number of mailing lists. Of particular interest:
+interpret-l (mbox archive)
+deutsch-l, espanol-l, francais-l, italiano-l (mbox archive), portugues-l
+ wiki-offline-reader-l  (archive) – list for the co-ordination of work on a free offline MediaWiki reader
+ wikiquality-l  (archive) – discussions regarding the design and implementation of quality-related technology for Wikimedia projects, as well as quality policies and initiatives
+ wikix-l  (archive) – planning for Wikipedia's 10th anniversary (which has already happened)
+ pywikipedia-svn  (archive) – Notification about Pywikibot commits on SVN. Closed after move to Git. New list is pywikibot-commits
+ best-practices  (archive) – Best practices documentation team
+ bilderberg-l  (archive) – Working group on Bilderberg projects
+ greenspun-illustrations  (archive) – Discussion of the Philip Greenspun illustration project
+ quarto-l  (archive) – Wikimedia newsletter discussion
+See also
+There are other ways of communicating with the community besides mailing lists. Some of them include:
+Wikimedia Meta-Wiki (this wiki!) – a general discussion and brainstorming wiki
+Wikimedia IRC channels – live chat
+Village pump equivalents on different projects – for discussions relating to the specific project: see Distribution list for a list
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Mailing_lists/Overview&oldid=25522865"
+Category: Mailing lists
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Content pageDiscussion
+English
+Views
+ReadView sourceView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+In other languages
+Add links
+ This page was last edited on 27 August 2023, at 05:03.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

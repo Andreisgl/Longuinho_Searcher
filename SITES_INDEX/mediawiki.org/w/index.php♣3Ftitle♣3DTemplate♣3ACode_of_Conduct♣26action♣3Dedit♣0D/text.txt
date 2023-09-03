@@ -1,0 +1,70 @@
+View source for Template:Code of Conduct - MediaWiki
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageGet MediaWikiGet extensionsTech blogContribute
+Support
+User helpFAQTechnical manualSupport deskCommunication
+Development
+Developer portalCode statistics
+MediaWiki.org
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+Search
+Search
+ EnglishCreate accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+View source for Template:Code of Conduct
+TemplateDiscussion
+English
+ReadView sourceView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadView sourceView history
+General
+What links hereRelated changesUpload fileSpecial pagesPage information
+← Template:Code of Conduct
+You do not have permission to edit this page, for the following reason:
+This page is currently semi-protected and can be edited only by established registered users.
+Why is the page protected?
+What can I do?
+ While most pages can be edited or translated by anyone, semi-protection is sometimes necessary to prevent vandalism to popular pages.
+ The reason for protection can be found in the protection log. If there are no relevant entries in the protection log, the page may have been moved after being protected.
+ You might be in the wrong place; MediaWiki is not Wikipedia, Wikibooks or any other Wikimedia project.   
+ If you have a user account, log in first. If you do not yet have an account, you may create one; after 4 days, you will be able to edit semi-protected pages.
+Discuss this page with others.
+Request unprotection of the page.
+Check Project:About to find out what this site is about. 
+You can view and copy the source of this page.
+<noinclude>
+<languages />
+</noinclude>{{Sidebar
+| name = Code of Conduct
+| heading1 = <translate><!--T:2--> Code of Conduct for<br>Wikimedia Technical Spaces</translate>
+| content1 = {{ll|Code of Conduct|2=<translate><!--T:3--> Principles</translate>}}
+| content2 = {{ll|Code_of_Conduct#Report_a_problem|2=<translate><!--T:4--> Report a problem</translate>}}
+| content3 = {{ll|Code of Conduct/Cases|2=<translate><!--T:5--> Handling cases</translate>}}
+| content4 = {{ll|Code of Conduct/Committee|2=<translate><!--T:6--> Committee</translate>}} ({{ll|Code of Conduct/Committee/Members|2=<translate><!--T:7--> members</translate>}})
+| content5 = {{ll|Code of Conduct/Amendments|2=<translate><!--T:8--> Amendments</translate>}}
+| content6 = {{ll|Code of Conduct/FAQ|2=<translate><!--T:9--> FAQ</translate>}}
+}}
+Templates used on this page:
+Template:Dir (view source) (semi-protected)Template:Ll (view source) (protected)Template:Localized link (view source) (protected)Template:Localized link/en (edit) Template:Navbar (view source) (semi-protected)Template:Navbar/en (edit) Template:Pagelang (view source) (protected)Template:Sidebar (view source) (semi-protected)Template:Sidebar/styles.css (edit) Template:Transclude (edit) Template:Translatable (view source) (protected)Template:Translatable/en (edit) Module:Navbar/styles.css (view source) (semi-protected)Module:Template translation (view source) (protected)Return to Template:Code of Conduct.
+Retrieved from "https://www.mediawiki.org/wiki/Template:Code_of_Conduct"
+Privacy policy
+About MediaWiki.org
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width
