@@ -12,6 +12,14 @@ import csv
 from website_extractor import get_data_from_url
 from site_saver import save_website
 
+
+# DISPLAY STUFF
+def get_terminal_columns():
+    return shutil.get_terminal_size().columns
+no_terminal_columns = get_terminal_columns()
+
+
+# MAIN PATHS MANAGER
 def main_paths_manager():
     # This function creates and completes the paths
     # for important files and folders
@@ -325,6 +333,10 @@ def pathfinder(ammount_to_search):
         old_url = data_pack[5]
         real_url = data_pack[6]
         intermediate_url_list.append(data_pack[7]) # Get link list
+
+        # Print current URL
+        display_url = textwrap.wrap(current_url, no_terminal_columns-1)
+        print('{}'.format(display_url[0]))
 
         # Save to history
         if data_pack[4]:
