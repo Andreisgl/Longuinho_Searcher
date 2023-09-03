@@ -243,9 +243,17 @@ def clean_incoming():
     # Only use when 'incoming_link_queue' is already loaded
 
     removed_counter = 0
+    duplicate_start_time = time.perf_counter()
     duplicate_counter = remove_duplicates_from_incoming()
+    duplicate_finish_time = time.perf_counter()
+    
+    existing_start_time = time.perf_counter()
     existing_counter = removed_links_in_history_from_incoming()
+    existing_finish_time = time.perf_counter()
+
+    blacklist_start_time = time.perf_counter()
     blacklisted_counter = remove_blacklisted_sites_from_incoming()
+    blacklist_finish_time = time.perf_counter()
 
     removed_counter = (duplicate_counter
                        + existing_counter
@@ -254,6 +262,17 @@ def clean_incoming():
     print('\nRemoved {} pages:\n{} duplicates,\n{} existing\n{} blacklisted'
           .format(removed_counter, duplicate_counter,
                   existing_counter, blacklisted_counter))
+    
+    show_debugging_timings = True
+    if show_debugging_timings:
+        duplicate_time = duplicate_finish_time - duplicate_start_time
+        existing_time = existing_finish_time - existing_start_time
+        blacklist_time = blacklist_finish_time - blacklist_start_time
+
+        print('Incoming Cleaning: Time per section:')
+        print('Duplicates: {} seconds'.format(duplicate_time))
+        print('Existing: {} seconds'.format(existing_time))
+        print('Blacklist: {} seconds'.format(blacklist_time))
     return removed_counter
 
 # STATISTICS:
@@ -279,7 +298,6 @@ def pathfinder(ammount_to_search):
     # from being properly saved. When possible, the links inside them
     # will still be extracted and used for the crawling.
 
-    global show_debugging_timings
     global seed_list
 
     global incoming_url_list
@@ -385,20 +403,23 @@ def pathfinder(ammount_to_search):
     
     # Timing statistics
     
-    bundling_time = bundling_finish_time - bundling_start_time
-    register_time = register_finish_time - register_start_time
-    link_carrying_time = link_carrying_finish_time - link_carrying_start_time
-    incoming_cleaning_time = incoming_cleaning_finish_time - incoming_cleaning_start_time
-    list_saving_time = list_saving_finish_time -list_saving_start_time
+    
 
     show_debugging_timings = False
     if show_debugging_timings:
-        print('Time per section:')
+        bundling_time = bundling_finish_time - bundling_start_time
+        register_time = register_finish_time - register_start_time
+        link_carrying_time = link_carrying_finish_time - link_carrying_start_time
+        incoming_cleaning_time = incoming_cleaning_finish_time - incoming_cleaning_start_time
+        list_saving_time = list_saving_finish_time -list_saving_start_time
+
+        print('Pathfinder: Time per section:')
         print('Bundling: {} seconds'.format(bundling_time))
         print('Registering: {} seconds'.format(register_time))
         print('Link Carrying: {} seconds'.format(link_carrying_time))
         print('Incoming Cleaning: {} seconds'.format(incoming_cleaning_time))
         print('List Saving: {} seconds'.format(list_saving_time))
+        print('\n')
 
     return number_of_pages_searched
 def plant_seed():
@@ -533,8 +554,6 @@ def multiprocessing_statistics():
 
 
     pass
-
-show_debugging_timings = True
 
 MAIN_FOLDER = 'crawler_data'
 
