@@ -1,0 +1,47 @@
+Wikitech
+Main Page
+From Wikitech
+Jump to navigation
+Jump to search
+Wikitech is the home of technical documentation for Wikimedia Foundation infrastructure and services.  This includes production clusters, Wikimedia Cloud Services, Toolforge hosting, and the Beta Cluster. To edit this wiki, you need a Wikimedia developer account. Wikitech does not use the Wikimedia Unified Login (like on Wikipedia) and does not permit editing without an account.
+ IntroductionAn overview of the Wikimedia Cloud Services (WMCS) products and ecosystem.
+ Cloud VPSWikimedia Cloud VPS provides a cloud computing infrastructure powered by OpenStack for projects related to the Wikimedia movement.
+ ToolforgeToolforge is a hosting environment for developers working on tools (bots, webservices, scheduled jobs) that help maintain and support Wikimedia wikis.
+ Data ServicesWiki Replicas and offerings for analysis, Tool building, and exploration. Both Cloud VPS and Toolforge can be used to access Data Services.
+ ProductionWikimedia production infrastructure is the servers, software, and databases that power the live Wikimedia Foundation websites. It is maintained by the Wikimedia Site Reliability Engineering team as well as other teams. This includes:
+MediaWiki at WMF: highly-configured deployment of MediaWiki, the free software wiki platform.
+Data centers: physical locations where our servers are racked.
+Traffic: Wikimedia CDN, as powered by Varnish.
+... and vast array of other applications, from Apache Traffic Server to Zookeeper!
+To learn how to operate your own MediaWiki site, refer the documentation on mediawiki.org instead.
+Retrieved from "https://wikitech.wikimedia.org/w/index.php?title=Main_Page&oldid=2084539"
+Navigation menu
+Personal tools
+EnglishLog in
+Namespaces
+Main PageDiscussion
+English
+Views
+ReadView sourceView history
+More
+Search
+Navigation
+Main pageRecent changesServer admin log: ProdAdmin log: RelEngIncident statusDeploymentsSRE Team Help
+Cloud VPS & Toolforge
+Cloud VPS portalToolforge portalRequest VPS projectAdmin log: Cloud VPS
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 12 June 2023, at 20:29.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Wikitech
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

@@ -1,0 +1,197 @@
+Licensing update/Questions and Answers/ia - Meta
+Licensing update/Questions and Answers/ia
+From Meta, a Wikimedia project coordination wiki
+< Licensing update‎ | Questions and Answers
+Jump to navigation
+Jump to search
+Le votation super le actualisation del licentia ha terminate.Le resultato ha essite publicate. Nota ben que alcun paginas non reflecte ancora le resultato e pote esser obsolete. Omne assistentia con traductiones continua a esser multo appreciate.
+Other languages:
+English · Bahasa Indonesia · Bahasa Melayu · bosanski · català · čeština · dansk · Deutsch · English · español · Esperanto · français · interlingua · italiano · magyar · Nederlands · norsk bokmål · polski · português · slovenčina · svenska · suomi · Tiếng Việt · Ελληνικά · български · русский · 한국어 · 日本語 · 中文 · 中文（简体） · 中文（繁體） · العربية · فارسی
+Actualisation del licentia
+Proposition
+Questiones e responsas
+Contra-argumentos
+Comparation de licentias
+Comité
+Agenda
+Traduction
+Resultato
+Implementation
+Outreach
+Project Transitions
+ This box: view · talk · edit 
+Contents
+1 De qual cosa tracta isto?
+2 Proque cambiar?
+3 Proque es le GFDL un problema?
+4 Le historia
+5 Le data del 1 de novembre 2008
+6 Le data de augusto 2009
+7 Reimplaciar GFDL per CC-BY-SA?
+8 Licentia duple
+9 Exportation e importation de datos CC-BY-SA
+10 FSF contra CC?
+11 Proque GFDL al initio?
+12 Differentia notabile?
+13 Validitate legal?
+14 Que seque?
+15 Projectos non FWM
+16 Imagines
+17 Attribution
+18 Quales es le argumentos contra iste cambio?
+19 Processo de votation
+De qual cosa tracta isto?[edit]
+Qual cosa es proponite, e como altera illo le situation de hodie?
+Alteremente que le major parte del contento in le web, le texto publicate in Wikimedia e altere projectos del Fundation Wikimedia non es sub copyright traditional. In loco de isto, le communitate de Wikimedia es dedicate al principios del information libere similar al principios que ha essite articulate pro software per le movimentos pro software libere e de open source, permittente a omnes de reusar le information pro qualcunque scopo. Isto es complite per licentias que concede libertates que le gente non haberea sub copyright traditional.
+Le licentia seligite pro Wikipedia es le Licentia GNU pro Documentation Libere (GFDL) disveloppate e mantenite per le Fundation pro Software Libere. Sublineante le connexion profunde inter Wikipedia e le communitate de software libere, iste licentia ha essite originalmente disveloppate pro le documentation de software con licentia libere. Nonobstante, con le crescimento e expansion rapide de Wikipedia e del altere projectos, il ha devenite de plus in plus obvie que iste licentia non es plus tanto conveniente a Wikimedia que in le passato. Ergo, pro render le contento de Wikipedia plus facile a usar e legalmente compatibile con projectos existente de contento libere, le Fundation Wikimedia intende submitter un proposition al communitate de Wikimedia de render omne contento actualmente distribuite per le Fundation Wikimedia sub GFDL disponibile sub le licentia CC-BY-SA 3.0, ubi CC-BY-SA exludera GFDL quandocunque es importate contento de tertie persona licentiate exclusivemente sub CC-BY-SA; isto, e le ration del proposition que CC-BY-SA sia plus apte, se explica in detalio ci infra.
+Le GFDL ha recentemente essite actualisate de sorta que iste relicentiamento es possibile sin peter le permission de cata possessor de copyright que ha contribuite a un obra collaborative (vide ci infra). Nonobsante, le decision de si le conditiones de licentia debe esser actualisate es intendite a esser prendite democraticamente per medio de un voto global per tote le communitate, in le qual un majoritate simple del usatores qualificate constituera supporto sufficiente pro effectuar iste cambiamento. Le voto ha comenciate le prime dies de april e finira le 3 de maio.
+Proque cambiar?[edit]
+Proque es le Fundation Wikimedia interessate in cambiar del Licentia GNU pro Documentation Libere (GFDL) al licentia Creative Commons Attribution Share-Alike (CC-BY-SA)?
+Pro comenciar con un citation de Jimmy Wales:
+"Quando io comenciava Wikipedia, Creative Commons non existeva. Le Licentia pro Documentation Libere esseva le prime licentia que ben demonstrava como le principios del movimento de software libere pote esser applicabile a altere typos de obras. Nonobstante, illo es projectate pro un categoria specific de obras: le documentation de software. Le licentia CC-BY-SA es un licentia plus generic que satisface le besonios hodierne de Wikipedia, e io es multo grate que le FSF ha permittite iste cambiamento. Le cambio a CC-BY-SA permittera in addition le mixtion libere del contento de nostre projectos con altere contento CC-BY-SA. Isto es un necessitate critic pro le futuro de Wikimedia."
+Le GFDL esseva originalmente formulate pro attaccar un specific serie de problemas, includente le possibilitate que alcun companias poterea usar documentation non libere qua modo de incombrar software alteremente libere. Le decisiones de designo a base del disveloppamento de un licentia pro documentation non attacca sempre le problemas que se presenta con projectos multi-usator de collaboration massive como Wikipedia, e illos pote de facto crear nove problemas que rende le contento libere minus facile a usar.
+Isto es un grande parte del motivo proque Creative Commons ha designate un specific licentia generic de copyleft pro obras que non es software: le licentia CC-BY-SA. Le licentias de Creative Commons ha essite rapidemente adoptate in le web; on estima que plus de 130 milliones de obras es licentiate sub un de illos. (Vide le statisticas de Creative Commons.) Infortunatemente, le obras sub CC-BY-SA e GFDL non pote esser directemente combinate, creante un barriera inutile ma multo problematic al compatibilitate intra le movimento de cultura libere.
+Le Fundation pro Software Libere (que mantene le GFDL), Creative Commons (que mantene le licentia CC-BY-SA), e le Fundation Wikimedia (que opera Wikipedia inter altere projectos de cultura libere) ha entrate in collaboration pro disveloppar un cammino a "migrar" o "relicentiar" le contento de Wikipedia (e le contento de wikis similar) verso le licentia CC-BY-SA que combina le valores de cultura libere del GFDL con un major usabilitate practic in le contexto de obras collaborative.
+Un examination de nostre comparation del duo licentias pote etiam esser utile qua responsa a iste question.
+Proque es le GFDL un problema?[edit]
+In qual modo ha le GFDL, le qual me sembla haber functionate ben, essite un problema pro Wikipedia o su communitates de contributores e usatores?
+Le membro del communitate David Gerard ha providite un belle summario del problemas ante nos, dunque in le spirito de reusar le contento utile, nos adapta su summario:
+"Le GFDL esseva scribite como licentia pro manuales de software in papiro con un autor o pauc autores. Illo non es del toto apte pro contento wiki con possibilemente centos de contributores. Le predecessor de Wikipedia, Nupedia, finalmente lo adoptava proque le licentia CC-BY-SA non existeva ancora.
+"Es multo difficile obedir al GFDL in le practica, al minus in contextos como le projectos multiusator de collaboration massive como Wikipedia.
+"Le tentativa de obedir pote esser onerose. Per le litteras del licentia, omne citation (plus grande que fair use) ab un obra sub GFDL require que un copia del licentia (circa tres paginas imprimite) sia attachate. A causa de isto, le contento GFDL es quasi impossibile a reusar in contento audio o video.
+"Ben que es facile obedir a illo in le web (ligamine a un copia local del GFDL) o in un libro (reproduction del licentia in tres paginas), es quasi impossibile reusar lo in pecias plus curte.
+"Le paginas 'como obedir' in varie Wikipedias representa lo que le contributores individual pensa que es un bon idea, e non necessarimente lo que le litteras del licentia dice - como dice le planctos de multe reusatores accusate de violation pro non sequer le interpretation del mense.
+"Mesmo secar e collar texto inter duo articulos de Wikipedia es technicamente un violation, a minus que le lista complete de autores de ille pecia es attachate. Isto non es practicabile in un wiki.
+"CC-BY-SA deveni de plus in plus le licentia normal pro contento libere intendite a restar libere ('copyleft'). Isto es un mundo integre de texto, imagines, filmes et cetera in le qual non pote esser miscite le material de Wikimedia. (Un analogia con software es le uso de un licentia copyleft que non es compatibile con le GPL - illo rende le obra un insula isolate pro nulle beneficio in particular.)"
+In addition il es bon observar que un interpretation litteral del requisito de attribution del GFDL require le duplication complete del section "historia" del articulo con cata obra derivate (non solmente le nomines del autores – le section integre). Pro un articulo con milles de versiones, isto es obviemente multo onerose, ma mesmo con solmente un minor numero de versiones, isto es un considerabile quantitate de texto.
+Le historia[edit]
+Que es le historia del negotiationes pro permitter iste migration?
+Iste cammino de migration ha essite le subjecto de discussiones inter le FSF, Creative Commons, e le Fundation Wikimedia durante plure annos. Istes ha essite discussiones amical, e le participantes ha totes laborate pro le objectivo commun de assecurar que le contento "relicentiate" o "migrate" es fortemente libere, e consistente con le principios forte de "copyleft". A un certe grado le discussiones se ha concentrate in un facto generalmente recognoscite – que Wikipedia es un del depositos le plus grande de information libere, ma que a causa de problemas de licentia illo non pote sempre esser facilemente reusate, remiscite, e combinate con altere materiales disponibile sub le licentia alquanto differente ma similarmente intentionate CC-BY-SA (le qual es in uso general alterubi in Internet). De facto, plure altere projectos del Fundation Wikimedia usa equalmente CC-BY-SA, ergo un del objectivos pertinente es le harmonisation del licentias de Wikipedia con illos del contento de altere projectos del Fundation Wikimedia.
+Le 1 de decembre 2007, le Consilio Administrative del Fundation Wikimedia prendeva le decision importante de requestar officialmente le implementation de un cammino de migration verso CC-BY-SA in le licentia GFDL 1.3. Iste decision includeva in addition un dedication al "discussion e votation communitari" ante le implementation de qualcunque cambiamento in le sitos web del Fundation Wikimedia.
+Le data del 1 de novembre 2008[edit]
+Io nota que le data pro eligibilitate de contento relicentiabile es le 1 de nov. 2008 – ille data ha ja passate. Proque non usava vos un data futur in loco de un que ha ja passate?
+Le objectivo ci non esseva causar un "haste al migration", ma provider un cammino pro le projectos existente a considerar e adoptar un cambio de licentia. Como le Fundation pro Software LIbere indica in su proprie FAQ: "si un obra esseva originalmente publicate in un altere loco que un wiki public, tu pote usar lo solmente sub CC-BY-SA 3.0 si illo esseva addite a un wiki ante le 1 de novembre 2008. Nos non vole conceder iste permission pro le totalitate del obras publicate sub GFDL. Nos anque non vole que le gente manipula le systema per adder materiales sub GFDL a un wiki, e usar los postea sub CC-BY-SA. Le selection de un data ultime que ha ja passate impedi isto sin ambiguitate."
+Isto non affice nostre possibilitate de migrar contento proveniente de nostre wiki, ma solmente le possibilitate de relicentiar contento proveniente de extra le wikis del Fundation Wikimedia.
+Le data de augusto 2009[edit]
+Non concede le FSF iste permission pro alora remover lo plus tarde – in augusto 2009? Non es isto arbitrari? Si le migration inter licentias es un bon cosa, proque jammais imponer un data ultime super le option?
+De novo il es utile referer se al FAQ del Fundation pro Software Libere. Le objectivo de iste negotiation non ha essite le facilitation eterne de cambiar inter licentias libere ma attaccar le problema que le licentia de base pro Wikipedia (e multe wikis simialr) es un licentia que non es particularmente apte pro collaboration in wikis proque illo ha essite disveloppate pro satisfacer altere objectivos. Como le FAQ del FSF lo dice: "Iste permission non es plus disponibile post le 1 de augusto 2009. Nos non vole que isto deveni un permission general a cambiar inter licentias: es multo plus bon pro le communitate si cata wiki prende su proprie decision de qual licentia illo prefere usar, e mantene su preferentia. Iste data ultime assecura ille resultato, offerente totevia a tote le administratores de wikis tempore ample pro prender lor decision."
+Reimplaciar GFDL per CC-BY-SA?[edit]
+Alora vos tenta basicamente substituer le GFDL in Wikipedia per CC-BY-SA?
+No, nos propone que tote le contento actualmente disponibil sub GFDL essera equalmente rendite disponibile sub le licentia CC-BY-SA, e que tote le versiones futur debe haber un licentia duple, con le exception de additiones exclusivemente CC-BY-SA ab origines externe. Vide le See the proposition principal pro detalios.
+Licentia duple[edit]
+Que es un licentia duple? Como administrara vos isto?
+Isto simplemente significa que le contento essera disponibile sub ambe licentias GFDL e CC-BY-SA simultaneemente, a minus que alcun materiales exclusivemente CC-BY-SA es importate e incorporate in le contento in question. In altere parolas, le reusatores potera optar pro reusar le contento de Wikipedia sub le licentia GFDL o sub le licentia CC-BY-SA (con multo pauc exceptiones). Nos ha collaborate con FSF e alteres pro tentar implementar le licentia duple in un modo que require relativemente pauc complicationes administrative (ni labor additional pro contributores o usatores). Le aspectos general de iste arrangiamento ha essite elaborate in un e-mail per Richard Stallman, qui esseva conscie del besonio de simplificar le problemas del licentia:
+TOTE le contributores se declara de accordo con lo sequente:
+Wikipedia pote publicar su texto novemebte scribute sub e GFDL e CC-BY-SA in parallello. Nonobstante, si illo importava qualcunque material externe que es disponibile sub CC-BY-SA e non sub GFDL, Wikipedia es obligate a respectar ille restriction.
+Tote le versiones ancian es publicate sub GFDL e CC-BY-SA.
+Tote le versiones nove es publicate con iste declaration de licentia:
+Iste pagina es publicate sub CC-BY-SA. Dependente de su historia de modificationes, illo POTE esser additionalmente disponibile sub GFDL; vide [ligamine] pro como determinar isto.
+Non es un licentia duple un solution complexe de iste situation?
+Nos crede que Richard ha facite un bon designo de un implementation appropriate pro un licentia duple – nos crede que iste compromisso de licentia duple deberea idealmente convincer e le proponentes e le opponentes del licentia duple a supportar le cambio. Nos recognosce que iste compromisso non placera totalmente a omnes, ma nos spera que ni le latere pro licentia duple ni su opponentes mantenera un position inflexibile. Un parte del motivo pro tener le GFDL integrate in le modo que nos propone ci es precisemente que le GFDL ha essite de valor inquestionabile pro Wikipedia trans le annos. Nos recognosce que FSF procede con su proprie effortios a revider e evoluer le GFDL. Si tu nos adjuta a proceder con iste compromisso, nos pote revisiter le situation de licentia duple post un anno o duo in collaboration con le FSF pro determinar si illo es ancora necessari.
+Il essera le obligation del reusatores determinar si un articulo include alcun modificationes exclusivemente CC-BY-SA – le licentia duple non debe esser un onere super contributores. Isto anque non es intendite a esser bidirectional, dunque le insertion de texto exclusivemente GFDL non essera possibile.
+Potera nos inserer contento exclusivemente GFDL?
+Ben que le insertion de texto exclusivemente GFDL in le projectos de WikiMedia finalmente non essera plus possibile, nos propone continuar permitter le cargamentos multimedia exclusivemente GFDL 1.2 pro le futuro previsibile, pro adressar preoccupationes concernente copyleft forte e debile, usque tal preoccupationes es completemente resolvite al satisfaction del membros del communitate. (Pro un discussion de "copyleft forte" contra "copyleft debile", lege le articulo de Wikipedia in anglese super "Copyleft".)
+Como determinara le reusatores si un articulo es disponibile sub GFDL o non?
+Le licentia CC-BY-SA require attribution, ergo quando alcun contento de tertie persona es importate sub "CC-BY-SA exclusive", es necessari facer nota de qui es le autor e del facto que illo ha essite publicate sub CC-BY-SA, como parte del normal proceduras existente per le quales le projectos face nota de tal historias (nos recommenda le pede del articulo o le historia de versiones). Le reusatores debera anque consultar iste information pro determinar si alcun contento exclusivemente CC-BY-SA ha essite importate. Nostre directivas de licentia clarificara isto.
+Exportation e importation de datos CC-BY-SA[edit]
+Es le idea permitter que Wikipedia exporta contento licentiate sub CC-BY-SA? O facilitar le importation de contento sub CC-BY-SA?
+In un parola, ambes. Iste proposition vole al minus permitter le importation e exportation de contento licentiate sub CC-BY-SA. Alcun projectos multo grande ha jam adoptate CC-BY-SA qua licentia standard. Un de nostre objectivos es permitter que le altere projectos pote beneficiar del contento de Wikipedia plus facilemente, e vice versa. Nos pensa que reducer le barrieras inter projectos in iste modo (per migrar o relicentiar le contento de Wikipedia sub un licentia plus amical al usatores) multo inricchira tote iste projectos.
+FSF contra CC?[edit]
+Toto isto pare multo bon, ma a vices io me demanda si isto es un typo de conspiration contra le Fundation pro Software Libere per le equipa de Creative Commons – io me recorda leger in listas de diffusion que existe un grado de diffidentia inter iste gruppos.
+Nostre experientia ha essite que necuno ha conspirate contra alcuno, e que tote le participantes ha essite remarcabilemente amical e cooperative, con concentration acute al objectivo de augmentar le interoperabilitate e compatibilitate inter le projectos de cultura libere. Es importante sublinear que Creative Commons ha tentate recognoscer le forte dedication al libertate per le communitate de Wikimedia in tres modos:
+per exhibir ligamines multo prominente verso le Definition de obras cultural libere a partir del licentias CC-BY-SA e CC-BY. Iste definition es le base del proprie Politica de licentias del Fundation Wikimedia.
+per publicar un Declaration de intention concernente le licentia CC-BY-SA pro clarificar le scopo e futuro del licentia;
+per ingagiar directemente con nostre communitate in nostre listas de diffusion concernente iste questiones.
+Proque non diceva le FSF simplemente "OK, le proxime GFDL essera identic a CC-BY-SA?"
+"Pois que, ben que le sitos de Wikimedia forma de longe le plus grande corpore de contento GFDL, le FSF habeva besonio de conservar detalios importante del functionamento del licentia pro su audientia original: le autores del manuales pro software. In plus, multe manuales pro software usa functiones del GFDL que non existe in CC-BY-SA, como le provisiones pro textos de copertura e 'sectiones invariabile'." – David Gerard
+Proque GFDL al initio?[edit]
+Si le GFDL es si difficile pro contributores e usatores, proque esseva illo adoptate pro Wikiepdia del toto?
+Quando Wikipedia comenciava, il habeva jam occurrite alcun experimentation con altere tentativas de licentias libere (a Nupedia e alterubi), ma nulle de istes habeva le historia de successos ample del GFDL. Al mesme tempore, le licentias libere de Creative Commons non habeva ancora essite disveloppate (o al minus non in lor forma actual). Ergo GFDL esseva a ille tempore le melior option disponibile. Ora que GFDL ha evoluite, e CC-BY-SA es disponibile, nos ha un melior option disponibile, e un que providera plus compatibilitate inter le projectos de cultura libere.
+Differentia notabile?[edit]
+Remarcara le usator o contributor medie alcun differentia?
+Nostre experientia ha essite que relativemente pauc contributores e usatores es tanto ingagiate con le questiones de licentias que nos discute ci pro esser afficite in alcun modo significante per le actualisation (sin pretender stereotypar le "contributor medie" per dicer isto). Nonobstante, nos crede que le differentia essera significante pro altere communitates e individuos que disveloppa contento.
+Validitate legal?[edit]
+Non es iste nove clausula de migration "surprendente" e dunque legalmente invalide?
+Nos crede que le clausula de migration es consistente con le linguage usate in GFDL 1.2: "Le Fundation pro Software Libere pote publicar versiones nove e revidite del Licentia GNU pro Documentation Libere de tempore a tempore. Tal nove versiones essera similar in spirito al version presente, ma pote differer in detalio pro adressar nove problemas o affaires." Le uso del GFDL per Wikipedia ha date origine a "nove problemas o affaires", le quales esseva adressate per dar un cammino de migration a un licentia "similar in spirito" le qual es, nonobstante, plus simple a usar in le contexto in le qual nos usa actualmente le GFDL. Ben que le formulation specific de CC-BY-SA es differente de illo del GFDL, le libertates que illo garanti e preserva es identic, e gratias al Declaration de intention per Creative Commons, es garantite de esser protegite a longe termino. Le Fundation pro Software Libere es un custode responsabile de su licentias e ha facite iste cambiamento al GFDL in plen conscientia de su implicationes.
+Es tal cambios unilateral a un licentia legal in tote le jurisdictiones ubi le gente pote voler reusar nostre contento?
+Nos crede que le actualisationes de licentia que non fundamentalmente altera le spirito del licentia e que es permittite per le licentia mesme es legalmente valide in omne jurisdictiones.
+Que seque?[edit]
+Que va evenir post isto?
+Le proposition a Licensing update/ia essera revidite e discutite ulteriormente ante le lanceamento de un voto communitari, le qual debe occurer ante april.
+Projectos non FWM[edit]
+Qual licentia es suggerite pro altere projectos wiki (anque sub GFDL al presente) pro le plus bon intercambio con projectos WMF?
+Existe duo camminos ci. Un cammino es que un projecto wiki actualmente sub GFDL se profita del nove version del GFDL (intra le periodo de tempore specificate) e subjecta su contento a un licentia duple precisemente como Wikipedia propone actualmente de facer lo con su contento. Un altere cammino esserea simplemente licentiar (o relicentiar) su wiki sub CC-BY-SA 3.x o plus recente.
+E pro le periodo de transition? ("Periodo de transition" es le tempore ab le publication del GFDL 1.3 usque al adoption del politica de licentia duple al projectos de Wikimedia.)
+Pro esser preparate pro omne resultato del consultation del communitate, le licentia duple es le solition le plus secur.
+Imagines[edit]
+Affice iste migration e texto e imagines, o solmente texto?
+Illo afficera e texto e imagines, excepte imagines licentiate sub "GFDL 1.2 solmente". Illos non essera subjecte al licentia duple.
+Si le migration occurre, cambiara illo qual licentias de imagines pote esser usate in projectos del Fundation Wikimedia?
+Non immediatemente. Es possibile que, in alcun tempore futur, le materiales sub GFDL 1.2 sia prohibite. Nonobstante, isto evenira solmente si CC-BY-SA es modificate a render lo plus explicitemente un licentia de "copyleft forte" pro le multimedia incastrate, requirente que le contento circumferente sia licentiate sub CC-BY-SA. Al momento ambe licentias es alquanto ambigue in iste aspecto.
+Attribution[edit]
+Le sequente assertion appare in le section "Proque es le GFDL un problema?".
+In addition il es bon observar que un interpretation litteral del requisito de attribution del GFDL require le duplication complete del section "historia" del articulo con cata obra derivate (non solmente le nomines del autores – le section integre). Pro un articulo con milles de versiones, isto es obviemente multo onerose, ma mesmo con solmente un minor numero de versiones, isto es un considerabile quantitate de texto.
+Como essera iste requisito "onerose" evitate usante CC-BY-SA?
+Le mechanismo de attribution primari (recognoscentia visibile) recognoscite in documentos GFDL es attribution per le pagina de titulo, limitate al autores principal. Nostre proprie conditiones de uso (exemplo de un nota in le Wikipedia anglese) ha generalmente permittite que le gente da recognoscentia per referentiar le articulo o pagina de historia, ma iste terminos non satisfaceva litteralmente le requisitos del GFDL. Le pagina Historia attingibile ab un articulo de Wikipedia poterea esser interpretate como non esser un "section" o "subunitate titulate" como requirite per le licentia (illo pote anque esser in un altere servitor que illo del pagina); similarmente, non existe un pagina de Titulo.
+Considerante le conditiones de uso existente de nostre proprie sito e le modos real in le qual es date recognoscentia a un contributor in Wikipedia, nos crede que un approche consistente a attribution in Wikipedia es declarar un requisito a attribuer articulos per facer ligamines a illos. CC-BY-SA permitte iste modello de attribution, como illo permitte que le autor require attribution per nomine o attribution per adresse URL. Le facto que iste approche es consistente con le linguage e intention del CC-BY-SA ha essite validate per le Consiliero General de Creative Commons. Un sondage explorative conducite in le Wikipedias in anglese e germano etiam suggere que iste es le modello de attribution preferite per le communitate de Wikipedia e representa le optime reconciliation de nostre desiro a recognoscer nostre autores, e de nostre mission de facilitar le excambio libere de cognoscentia.
+Le section "Historia" de documentos GFDL existe pro scopos de traciar modificationes. CC-BY-SA non include requisitos significante de traciar modificationes, excepte illo de dar un indication rationabile que un documento ha essite modificate ab su version original.
+Essera un altere partito designate (como in le section 4(c) de CC-BY-SA 3.0) pro recognoscentia (p.ex. le Fundastion Wikimedia como instituto sponsor o entitate publicator)?
+No.
+Essera le contributor requirite a renunciar a su derectos de attribution quando preme le button "Publicar"?
+No.
+Quales es le argumentos contra iste cambio?[edit]
+Existe un pagina aperte pro colliger contra-argumentos, a alcunes del quales le Fundation Wikimedia respondera in le pagina de discussion.
+Processo de votation[edit]
+Proque me transfere vos a un servitor separate pro votar?
+Pro impedir le manipulation del voto e pro proteger le confidentialiate del ballottas, le voto es administrate per un tertio independente, Software in the Public Interest, Inc., un organisation sin scopo lucrative. SPI ha anque previemente administrate un election al Consilio de Administration del Fundation Wikimedia. SPI executa un installation del software MediaWiki con le extension SecurePoll.
+Le resultatos del voto essera contate per le comité de actualisation de licentia, un gruppo independente de voluntarios de Wikimedia. In conformitate con le politica de accesso a datos non public, le informationes de adresses IP es limitate al usatores que ha revelate lor etate e identitate al Fundation Wikimedia e qui ha attingite le majoria in lor jurisdiction.
+Qual informationes es inviate a SPI e como functiona le transferimento del session?
+Wikimedia invia le sequente informationes super votatores a SPI:
+Nomine de usator
+Stato de blocada
+Numero de modificationes
+Membrato in gruppos
+Preferentia de lingua
+De istes, solmente le preferentia de lingua es un dato private. Wikimedia invia anque un indicio de authentication que es specific a SecurePoll e non es utile pro alcun altere scopo. Le informationes forensic como le adresses IP es colligite per le servitor de SPI directemente ab le usator.
+Technicamente, le transferimento del session functiona como seque:
+Wikimedia da un indicio secrete al usator
+Le usator invia le indicio a SPI per cliccar super le button de saltar
+SPI invia le indicio retro a Wikimedia, a auth-api.php via HTTPS, pro verification
+Wikimedia verifica le indicio e forni le datos del usator
+SPI verifica le qualificationes del votator con iste informationes, crea un ID de votator, e defini un cookie local de session.
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Licensing_update/Questions_and_Answers/ia&oldid=15562522"
+Categories: Copyright/iaLicensing update/ia
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Content pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+In other languages
+Add links
+ This page was last edited on 27 April 2016, at 13:22.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

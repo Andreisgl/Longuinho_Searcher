@@ -1,0 +1,117 @@
+Wikidata
+Wikidata:Trang Chính
+Từ Wikidata
+Bước tới điều hướng
+Bước tới tìm kiếm
+Chào mừng bạn đến Wikidata
+cơ sở kiến thức nguồn mở hiện có 106.531.373 khoản mục dữ liệu mà ai cũng có thể sửa đổi
+Giới thiệu • Thảo luận về dự án • Cổng cộng đồng • Trợ giúp
+Bạn muốn giúp chúng tôi dịch thuật? Dịch các thông điệp bị thiếu.
+Xin chào!
+Wikidata là một cơ sở dữ liệu mở và miễn phí mà cả người và máy móc đều có thể đọc và chỉnh sửa. 
+Wikidata đóng vai trò là trung tâm lưu trữ dữ liệu theo cấu trúc của các dự án Wikimedia, bao gồm Wikipedia, Wikivoyage, Wikisource… 
+Không chỉ vậy, Wikidata hỗ trợ nhiều trang web và các dịch vụ khác. Nội dung của Wikidata được phát hành dưới giấy phép tự do, có thể được xuất theo các định dạng chuẩn, và có thể liên kết đến các trung tâm dữ liệu khác trên mạng.
+Hãy tham gia!
+Danh sách các hướng dẫn dành cho người mới có thể thấy ở cổng cộng đồng.
+Tìm hiểu về Wikidata
+Wikidata là gì? Bạn hãy đọc Giới thiệu Wikidata.
+Khám phá Wikidata với một mục mẫu về tác giả Douglas Adams (Q42).
+Bắt đầu với dịch vụ truy vấn SPARQL của Wikidata.
+Đóng góp cho Wikidata
+Học cách sửa đổi Wikidata: hãy làm theo hướng dẫn.
+Làm việc với các tình nguyện viên khác về chủ đề mà bạn quan tâm: tham gia một Dự án Wiki.
+Các cá nhân và tổ chức cũng có thể quyên góp dữ liệu.
+Gặp gỡ cộng đồng Wikidata
+Ghé vào cổng cộng đồng hoặc tham dự một sự kiện Wikidata.
+Tạo một Tài khoản.
+Thảo luận và đặt câu hỏi tại Thảo Luận Dự án, qua các nhóm Telegram, hoặc qua kênh chat IRC trực tuyếnkết nối.
+Sử dụng dữ liệu từ Wikidata
+Học cách truy xuất và sử dụng dữ liệu từ Wikidata.
+Xem thêm…
+Tin tức
+2023-07-21: Entity schema E400, about an archival resource in the Yale University Art Gallery, is created.
+2023-06-29: The Wikidata development team talk about what they've been working on in the office hours at 17:00 UTC on Telegram.
+2023-06-27: The one hundred and twenty millionth item, about a Turkish female given name Nazmiye, is created.
+2023-05-13: Wikidata tool QuickStatements (Q20084080) ran its batch 200000.
+Thêm tin tức… (sửa đổi [bằng tiếng Anh])  Tin tức viết bằng tiếng Anh? Hãy dịch chúng!
+Tìm hiểu về dữ liệu
+Lần đầu bước vào thế giới hùng vĩ của các dữ liệu? Phát triển và nâng cao kiến thức về dữ liệu của bạn qua những nội dung được thiết kế để giúp bạn tiếp thu nhanh và cảm thấy thoải mái với những nguyên tắc cơ bản mà không cần tốn thời gian.
+Khoản mục: Trái Đất (Q2)
+Thuộc tính: điểm cao nhất (P610)
+giá trị tùy biến: Everest (Q513)
+Những điểm nổi bật hiện tại
+Bernhard Plesansky (Q24285937)
+Michael Anthony Perez (Q121891331)
+Tropical Storm Kirogi (Q122132991)
+Estonia in the Junior Eurovision Song Contest (Q121995504)
+Ali Boushaki (Q28936494) (pictured)
+Pax Ahimsa Gethen (Q121763432)
+2023 Johannesburg building fire (Q122146423)
+Khám phá
+Những đề xuất sáng tạo và đóng góp từ cộng đồng Wikidata
+Dự án Wiki tiêu biểu:
+Dự án Wiki Âm nhạc
+Dự án Wiki Âm nhạc là nơi có các biên tập viên giúp thêm dữ liệu về nghệ sĩ, bản phát hành âm nhạc, bản nhạc, giải thưởng và buổi biểu diễn! Ngoài ra, nhập và liên kết Wikidata với nhiều cơ sở dữ liệu âm nhạc và dịch vụ phát trực tuyến là một trọng tâm khác của dự án. Đọc về mô hình dữ liệu của chúng tôi trên  trang dự án và đến trò chuyện với chúng tôi trên Telegram.
+Nhiều hơn:
+Xem Wikidata:Công cụ để biết một số công cụ và tiện ích tốt nhất mà chúng ta có để sử dụng và khám phá Wikidata.
+Bạn biết một dự án thú vị hoặc công tác nghiên cứu dùng Wikidata? Bạn có thể đề cử nội dung giới thiệu trên Trang Chính ở đây!
+Liên hệ
+Danh sách thư Wikidata
+Danh sách thư kỹ thuật Wikidata
+Yêu cầu thảo luận về những chủ đề cụ thể
+Facebook, Mastodon, Twitter
+Hãy để một tin nhắn tại trang tin nhắn của dự án
+Chat trên Telegram hoặc trên IRCkết nối
+Báo cáo sự cố kỹ thuật
+Tóm tắt thời sự hàng tuần
+Wikidata là một trong các dự án phi lợi nhuận, đa ngôn ngữ và nội dung mở của Wikimedia.
+ Wikipedia – Bách khoa toàn thư   
+ Wiktionary – Từ điển   
+ Wikibooks – Tủ sách giáo khoa, cẩm nang và nấu ăn   
+ Wikinews – Tin tức   
+ Wikiquote – Bộ sưu tập danh ngôn   
+ Wikisource – Văn thư lưu trữ   
+ Wikiversity – Học liệu   
+ Wikivoyage – Cẩm nang du lịch   
+ Wikispecies – Danh mục các loài   
+ Wikimedia Commons – Kho tư liệu   
+ Incubator – Các phiên bản ngôn ngữ mới   
+ Meta-Wiki – Điều phối các dự án Wikimedia   
+ MediaWiki – Tài liệu phần mềm   
+Lấy từ “https://www.wikidata.org/w/index.php?title=Wikidata:Trang_Chính&oldid=1943454499”
+Thể loại: Wikidata-vi
+Bảng điều hướng
+Công cụ cá nhân
+Tiếng ViệtChưa đăng nhậpTin nhắnĐóng gópTạo tài khoảnĐăng nhập
+Không gian tên
+Trang ChínhThảo luận
+English
+Giao diện
+ĐọcSửa đổiXem lịch sử
+Thêm
+Tìm kiếm
+Điều hướng
+Trang ChínhCộng đồngThảo luận dự ánTạo khoản mục mớiThay đổi gần đâyKhoản mục ngẫu nhiênDịch vụ truy vấnLân cậnTrợ giúpĐóng góp
+Dữ liệu từ điển học
+Tạo từ vị mớiThay đổi gần đâyTừ vị ngẫu nhiên
+Công cụ
+Các liên kết đến đâyThay đổi liên quanTrang đặc biệtLiên kết thường trựcThông tin trangKhoản mục Wikidata
+In/xuất ra
+Tạo một quyển sáchTải dưới dạng PDFTải về bản in
+Tại dự án khác
+Wikimedia CommonsMediaWikiMeta-WikiWikispecies
+Ngôn ngữ khác
+Thêm liên kết
+ Trang này được sửa đổi lần cuối vào ngày 31 tháng 7 năm 2023, 11:36.
+Tất cả dữ liệu có cấu trúc trong các không gian tên chính, Property (thuộc tính), và Lexeme (từ vị), và EntitySchema (sơ đồ thực thể) được phát hành theo Giấy phép Creative Commons CC0;
+văn bản trong các không gian tên khác được được phát hành theo Giấy phép Creative Commons Ghi công–Chia sẻ tương tự; có thể áp dụng điều khoản bổ sung.
+Bằng cách sử dụng trang Web này, bạn chấp nhận các Điều khoản Sử dụng và Quy định về quyền riêng tư.
+Quy định quyền riêng tư
+Giới thiệu Wikidata
+Lời phủ nhận
+Bộ Quy tắc Ứng xử Chung
+Phiên bản di động
+Truy cập dữ liệu
+Lập trình viên
+Thống kê
+Tuyên bố về cookie

@@ -1,0 +1,119 @@
+Wiki – Wikipedia
+Wiki
+Från Wikipedia
+Hoppa till navigering
+Hoppa till sök
+WikiSökbar webbplats där sidorna kan redigeras av besökarna Infrastruktur Undertyp avwebbplats, gemenskapsprojekt, innehållshanteringssystem Uppkallad efterWikiWikiWeb Förlagawebben Start­da­tum25 mars 1995 Upp­täc­ka­re eller upp­fin­na­reWard Cunningham ACM Clas­si­fi­ca­tion Code (2012)10003301 
+En intervju med Ward Cunningham, skaparen av den första wikin.
+En wiki (engelska: [ˈwɪki] ( lyssna)), från hawaiiska wiki, "snabb",[1] är en webbplats där sidorna enkelt och snabbt kan redigeras av besökarna själva via ett webbgränssnitt. Ändringar publiceras omedelbart, utan att fördröjas av granskningsförfaranden. Uppmärkning av länkar, typografi och annan formatering görs antingen med ett speciellt märkspråk, som kallas wikikod och som avses vara enklare att använda än HTML, eller genom WYSIWYG-redigering. Den mest spridda wikin är uppslagsverket Wikipedia, som finns i ett stort antal olika språkversioner.
+Innehåll
+1 Historia
+2 Beskrivning
+2.1 Jämförelse med (andra) webbpubliceringssystem
+3 Användningsområden
+3.1 Uppslagsverk och faktadatabas
+3.2 Projektplats
+3.3 Lärplattform
+3.4 Anteckningsbok
+4 Att skapa en egen wiki
+5 Wikiterminologi
+5.1 Wikifiering
+6 Exempel på wikier
+7 Se även
+8 Referenser
+Historia[redigera | redigera wikitext]
+Wiki wiki-bussarna (expressbussar) som trafikerar Honolulu International Airport, och som inspirerade Ward Cunningham till namnet.
+Ward Cunningham skapade 25 mars 1995 den första wikin som ett internt system på företaget han arbetade på. Wikin var då ett enkelt sätt för att kunna uppdatera och lägga till ny information via en webbläsare.[2] Systemet fungerade så bra att han lade ut systemet på internet och gav det namnet WikiWikiWeb. Denna den första wikin, som fick namnet Portland Pattern Repository's Wiki[3], är än idag en av Internets största wikier.[källa behövs]
+Beskrivning[redigera | redigera wikitext]
+Ordet wiki åsyftar oftast en wiki med fritt och öppet innehåll som är tillgänglig för allmänheten och där alla besökare kan hjälpas åt att skriva och förbättra sidornas innehåll. Därför finns i regel ingen central redaktion, och materialets tillförlitlighet är därför varierande.[4] Exempel på en sådan är Wikipedia, världens största uppslagsverk. Det förekommer även wikier där enbart ett begränsat antal betrodda har möjlighet att redigera, och ibland även läsa. Sådana wikier kan bland annat publiceras på intranät som bara är nåbara inom det egna företaget. I dessa fall är wikitekniken enbart ett sätt att underlätta kollaborativt utvecklande av en webbplats, alternativt ett sätt att samarbeta inom ett mer begränsat projekt.
+En öppen wiki växer i allmänhet snabbare och lockar fler författare än en webbplats där publiceringen fördröjs av granskning av experter. En wikisida med stort redigeringsdjup, det vill säga som många författare har bidragit till, är i allmänhet mer trovärdig än en sida med få bidrag.[källa behövs]
+En nyckel till wikikonceptet är versionshantering. Det innebär att när någon sparar en ny version av texten, finns den gamla kvar och kan återställas vid behov. Detta gör att vandalism (avsiktligt sabotage), klotter (oavsiktligt sabotage), spam och misstag snabbt kan upptäckas och återställas. 
+Jämförelse med (andra) webbpubliceringssystem[redigera | redigera wikitext]
+En wiki har likheter med andra webbpubliceringssystem, där man också kan möjliggöra versionshantering och kollaborativ webbaserad WYSIWYG-redigering, exempelvis av en grupp webbredaktörer inom en organisation. Viktiga skillnader är att (andra) webbpubliceringssystem i regel inte visar sidhistoriken för allmänheten, att dessa kan hantera arbetsflöden för granskning och godkännande av webbsidesversioner innan publicering, att olika användargrupper har ansvar för olika sidor och att sidorna organiseras i en hierarkisk trädstruktur.
+En wiki har å sin sida diskussionssidor kopplade till varje publik sida och tillåter sammanfattande redigeringskommentarer i historiken. En wiki organiseras i allmänhet i en platt struktur där varje sida har ett unikt namn, vilket gör att en wiki ofta har bättre sökmöjligheter, att den kan vara mer lämpad för information som kan organiseras som sökbara kataloger och ordböcker, och att det är enklare att länka mellan sidor i wikin. Wikier redigeras ofta med wikikod istället för grafiskt användargränssnitt och WYSISYG, vilket ger färre "klick" och går snabbare för den som är rutinerad men kan innebära något högre inlärningströskel. 
+Utvecklingen går emellertid mot minskade tekniska skillnader mellan wikier och andra webbpubliceringssystem. Den stora skillnaden är kulturell snarare än teknisk. Webbpubliceringssystem används ofta i linjeorganisationer, där det finns en tydlig beslutsordning och ansvarsfördelning som kan förhindra kollaborativt utvecklande av en webbplats (även om webbpubliceringssystemen konfigureras så att de tillåter öppenhet). Kulturen runt wikitekniken gynnade däremot redan från början en öppen struktur med artikelskapande som ett fritt grupparbete över Internet.
+Användningsområden[redigera | redigera wikitext]
+I dag används wikisystem huvudsakligen till:
+Uppslagsverk och andra faktadatabaser
+Projekt
+Bloggplats
+Community
+Lärplattform
+Anteckningsbok
+I själva verket blir de flesta wikier en blandning av samtliga, eftersom de alla interagerar med varandra. Här nedan följer förklaringar på olika typer av wikier och exempel:
+Uppslagsverk och faktadatabas[redigera | redigera wikitext]
+Samtliga wikier kan egentligen kallas för faktadatabaser, eftersom de används till att lagra sökbar information om något eller någon. Det finns dock wikier som mera utpräglat syftar till att vara encyklopedier. Wikipedia är en flerspråkig sådan wiki. Den engelskspråkiga versionen av Wikipedia (en.wikipedia.org) är dessutom den mest besökta av alla världens wikier.[5] Wikipedia hade i augusti 2008 cirka 38,6 miljoner sidor sammanlagt i alla olika språkversioner. Svenskspråkiga Wikipedia (sv.wikipedia.org) har för närvarande 2 570 428 artikelsidor.
+Projektplats[redigera | redigera wikitext]
+I projektgrupper är wikitekniken utmärkt, eftersom den ger stor till möjlighet projektstyrning och för att utbyta dokument mellan olika parter i ett projekt. Besökare kan följa arbetet på olika sidor i versionshanteraren. De flesta projektwikier är stängda för allmänheten. De förekommer dock både hos företag, universitet och hos grund- och gymnasieskolor.
+Lärplattform[redigera | redigera wikitext]
+Läromedel kan författas kollaborativt av flera lärare på en egen wiki. Istället för att utveckla ett nytt läromedel från grunden kan lärare utgå från befintliga Wikipediaartiklar, bidra till dem, och sedan hänvisa sina elever till dessa. Lärare vid olika skolor kan fritt utbyta kursmoduler på en öppen wiki.  
+Kursdeltagare kan få som gruppuppgift att publicera sig på skolans wiki, exempelvis tillsammans utveckla en ordlista för en kurs. På så sätt ger eleverna varandra mer återkoppling på texterna än vad läraren kan ge. Elever kan även få som redovisningsuppgift att publicera sig på Wikipedia, i syfte att skriva för en större publik och utveckla en förståelse för vilka faktorer som påverkar en wikiartikels trovärdighet – och därmed utveckla ett källkritiskt förhållningssätt. Om läraren känner till kursdeltagarnas användaridentiteter kan läraren se vilka bidrag kursdeltagaren har gjort, även om andra författare senare vidareutvecklat artikeln eller återställt redigeringen. Detta gäller dock under förutsättning att artikeln inte raderats.   
+Anteckningsbok[redigera | redigera wikitext]
+En wiki kan användas som en personlig anteckningsbok och personlig databas som man kan komma åt i hela världen. Dessa brukar ofta vara privata och inte till allmänhetens beskådan.
+Att skapa en egen wiki[redigera | redigera wikitext]
+För att bygga upp en egen wiki krävs ett wikihotell eller att man installerar en wikiprogramvara på en egen server. Exempel på wikihotell (engelska: wiki farm eller wiki hosting service) med svenskt användargränssnitt är Fandom (f.d. Wikia), Mindtouch, Zoho Wiki och skolwiki.[6]
+Wikiterminologi[redigera | redigera wikitext]
+Wikifiering[redigera | redigera wikitext]
+Wikifiera är en verbifiering av ordet wiki. Ordet syftar på att formatera en wikiartikel till wikikod och att länka artiklar till varandra.
+Exempel på wikier[redigera | redigera wikitext]
+EvoWiki
+MeatballWiki
+Pornopedia
+Portland Pattern Repository (allra första wikin)
+Seriewikin (svenska)
+SourceWatch
+Susning.nu (svenska)
+Wikia (webbhotell för ett stort antal wikier)
+Wikinations
+Wikinfo
+Wikipedia (flerspråkig)
+Wikivoyage
+WikiAnswers
+Se även[redigera | redigera wikitext]
+Användargenererat innehåll
+Webb 2.0
+Wikipedia i skolan
+Wikiprogramvara
+Wikiwebbplatser (kategori)
+Referenser[redigera | redigera wikitext]
+^ "Hawaiian to English". Mauimapp.com. Läst 1 februari 2014. (engelska)
+^ ”Wiki history”. Wiki history. Cunningham & Cunningham, Inc. http://c2.com/cgi/wiki?WikiHistory. Läst 25 mars 2013. 
+^ Portland Pattern Repository's Wiki
+^ "wiki". NE.se. Läst 1 februari 2014.
+^ Alexas topplista över de mest besökta webbplatserna i världen
+^ ”WikiMatrix: Jämförelse av wikiprogramvaror med svensk användargränssnitt”. Arkiverad från originalet den 27 januari 2012. https://web.archive.org/web/20120127141400/http://www.wikimatrix.org/search.php?sid=59622. Läst 18 januari 2010. 
+v • rKommunikation via datorchatt · elektronisk lärplattform · sociala medierAsynkron kommunikationBBS · e-post (e-postlista) · FidoNet · Internetforum · gästbok på Internet · UsenetSynkron kommunikationIP-telefoni (röstchatt) · IRC · videokonferens (e-möte · webbkonferens) · snabbmeddelandenPubliceringblogg (mikroblogg) · wiki
+Auktoritetsdata • LCCN: sh00004800 • GND: 4806885-8 • BNF: cb14613334t (data) • NKC: ph534677
+Hämtad från "https://sv.wikipedia.org/w/index.php?title=Wiki&oldid=53860293"
+Kategori: WikiDolda kategorier: Underhållskategori för DataboxAlla artiklar som behöver källorAlla artiklar som behöver enstaka källorArtiklar som behöver enstaka källor 2011-06Artiklar som behöver enstaka källor 2014-02Wikipediaartiklar med identifierare från LCCNWikipediaartiklar med identifierare från GNDWikipediaartiklar med identifierare från BNF
+Navigeringsmeny
+Personliga verktyg
+Inte inloggadDiskussionBidragSkapa kontoLogga in
+Namnrymder
+ArtikelDiskussion
+svenska
+Visningar
+LäsRedigeraRedigera wikitextVisa historik
+Mer
+Sök
+Navigering
+HuvudsidaIntroduktionDeltagarportalenBybrunnenSenaste ändringarnaSlumpartikelLadda upp filerStöd WikipediaKontakta WikipediaHjälp
+På andra projekt
+CommonsMeta-wiki
+Skriv ut/exportera
+Skapa en bokLadda ned som PDFUtskriftsvänlig version
+Verktyg
+Sidor som länkar hitRelaterade ändringarSpecialsidorPermanent länkSidinformationAnvänd som referensWikidata-objekt
+Språk
+AfrikaansAlemannischАԥсшәаالعربيةAragonésArpetanঅসমীয়াAsturianuAzərbaycancaBamanankanবাংলাBanjarBân-lâm-gúБашҡортсаБеларускаяБеларуская (тарашкевіца)БългарскиBoarischBosanskiBrezhonegБуряадCatalàЧӑвашлаCebuanoČeštinaCorsuCymraegDanskDeutschEestiΕλληνικάEnglishEspañolEsperantoEuskaraفارسیFøroysktFrançaisFurlanGaeilgeGalegoГӀалгӀайХальмг한국어HausaՀայերենहिन्दीHrvatskiIgboIlokanoBahasa IndonesiaInterlinguaᐃᓄᒃᑎᑐᑦ / inuktitutÍslenskaItalianoעבריתJawaಕನ್ನಡქართულიҚазақшаKiswahiliKreyòl ayisyenKriyòl gwiyannenKurdîКыргызчаLatinaLatviešuLëtzebuergeschLietuviųLimburgsLingua Franca NovaLa .lojban.LombardMagyarМакедонскиMalagasyമലയാളംMaltiमराठीმარგალურიمصرىBahasa MelayuMinangkabauМонголမြန်မာဘာသာNāhuatlNa Vosa VakavitiNederlandsNedersaksiesनेपाली日本語Norsk bokmålNorsk nynorskNouormandOccitanOʻzbekcha / ўзбекчаਪੰਜਾਬੀPangasinanPlattdüütschPolskiΠοντιακάPortuguêsRomânăRuna SimiРусиньскыйРусскийसंस्कृतम्SarduScotsShqipSicilianuසිංහලSimple EnglishSlovenčinaSlovenščinaSoomaaligaکوردیСрпски / srpskiSrpskohrvatski / српскохрватскиSundaSuomiTagalogதமிழ்TaqbaylitТатарча / tatarçaၽႃႇသႃႇတႆး తెలుగుไทยТоҷикӣTürkçeУкраїнськаاردوTiếng ViệtVõro文言Winaray吴语ייִדישYorùbá粵語ZazakiŽemaitėška中文
+Redigera länkar
+ Sidan redigerades senast den 26 augusti 2023 kl. 14.21.
+Wikipedias text är tillgänglig under licensen  Creative Commons Erkännande-dela-lika 4.0 Unported. För bilder, se respektive bildsida (klicka på bilden). Se vidare Wikipedia:Upphovsrätt och användarvillkor.
+Wikimedias integritetspolicy
+Om Wikipedia
+Förbehåll
+Uppförandekod
+Mobil vy
+Utvecklare
+Statistik
+Information om kakor

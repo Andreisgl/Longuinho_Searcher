@@ -1,0 +1,16 @@
+https://translatewiki.net/w/i.php?title=Special:LanguageStats&suppresscomplete=1
+https://translatewiki.net/w/i.php?title=Special:Translate&action=proofread&group=!recent
+https://translatewiki.net/w/i.php?title=Special:RecentChanges&translations=only&trailer=/en
+https://translatewiki.net/w/i.php?title=Special:RecentChanges&limit=500&hidebots=0&translations=only&users=FuzzyBot&trailer=/en
+https://translatewiki.net/w/i.php?title=Special:RecentChanges&translations=filter
+https://translatewiki.net/w/i.php?title=Special:Translate&group=core-0-mostused
+https://translatewiki.net/w/i.php?title=Special:Translate&group=core
+https://translatewiki.net/w/i.php?title=Special:Translate&group=ext-0-wikimedia-main
+https://translatewiki.net/w/i.php?title=Special:Translate&group=ext-0-wikimedia
+https://translatewiki.net/w/i.php?title=Special:Translate&group=ext-0-all
+https://translatewiki.net/w/i.php?title=Special:Translate&group=ext-installer
+https://translatewiki.net/w/i.php?title=Translating:Group_statistics&oldid=11859264
+https://www.spi-inc.org/projects/translatewiki.net/
+https://www.mediawiki.org/
+https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki
+http://www.netcup.de/

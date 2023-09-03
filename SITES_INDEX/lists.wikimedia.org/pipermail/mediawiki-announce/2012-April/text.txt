@@ -1,0 +1,376 @@
+[MediaWiki-announce] MediaWiki 1.19.0rc1 - MediaWiki-announce - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+                            2023
+                        
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2022
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2021
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2020
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2019
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2018
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2017
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2016
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2015
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2014
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2013
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2012
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2011
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2010
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2009
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2008
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2007
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2006
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2005
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2004
+                        
+December
+            List overview
+ Download
+thread
+[MediaWiki-announce] MediaWiki 1.19.0rc1
+Sam Reed
+                26 Apr
+                
+                    2012
+                
+            
+                26 Apr
+                
+                '12
+                
+            
+11:25 p.m.
+ 
+I'm happy to announce the availability of the first release candidate
+release of the new MediaWiki 1.19 release series.
+Please test it and let us know what you think of it. Barring new bug
+reports, this release candidate will soon be released as MediaWiki 1.19.0.
+Please try it out and let us know what you think. Don't run it on any
+wikis that you really care about, unless you are both very brave and
+very confident in your MediaWiki administration skills.
+MediaWiki 1.19 is a large release that contains many new features and
+bug fixes. This is a summary of the major changes of interest to users.
+You can consult the RELEASE-NOTES-1.19 file for the full list of changes
+in this version.
+Our thanks go to everyone who helped to improve MediaWiki by testing
+the beta release and submitting bug reports.
+****************************************************************
+                             What's new?
+****************************************************************
+MediaWiki 1.19 brings the usual host of various bugfixes and new features.
+Comprehensive list of what's new is in the release notes.
+* Bumped MySQL version requirement to 5.0.2.
+* Disable the partial HTML and MathML rendering options for Math,
+  and render as PNG by  default.
+  * MathML mode was so incomplete most people thought it simply didn't work.
+* New skins/common/*.css files usable by skins instead of having to copy
+piles of
+  generic styles from MonoBook or Vector's css.
+* The default user signature now contains a talk link in addition to the
+user link.
+* Searching blocked usernames in block log is now clearer.
+* Better timezone recognition in user preferences.
+* Extensions can now participate in the extraction of titles from URL paths.
+* The command-line installer supports various RDBMSes better.
+* The interwiki links table can now be accessed also when the interwiki
+cache
+  is used (used in the API and the Interwiki extension).
+Internationalization
+- --------------------
+* More gender support (for instance in user lists).
+* Add languages: Canadian English.
+* Language converter improved, e.g. it now works depending on the page
+  content language.
+* Time and number-formatting magic words also now depend on the page
+  content language.
+* Bidirectional support further improved after 1.18.
+Full release notes:
+https://gerrit.wikimedia.org/r/gitweb?p=mediawiki/core.git;a=blob;f=RELEASE-
+NOTES-1.19;hb=REL1_19
+https://www.mediawiki.org/wiki/Release_notes/1.19
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.19/mediawiki-1.19.0rc1.tar.gz
+Patch to previous version (1.19.0beta2):
+http://download.wikimedia.org/mediawiki/1.19/mediawiki-1.19.0rc1.patch.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.19/mediawiki-1.19.0rc1.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.19/mediawiki-1.19.0rc1.patch.gz.si
+g
+Public keys:
+https://secure.wikimedia.org/keys.html
+ 0
+ 0
+            Reply
+        
+Back to the thread
+            Back to the list
+        
+ 
+            Powered by HyperKitty version 1.3.4.
+        

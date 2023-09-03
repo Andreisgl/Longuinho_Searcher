@@ -1,0 +1,429 @@
+[MediaWiki-announce] Maintenance release: MediaWiki 1.39.2 - MediaWiki-announce - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+                            2023
+                        
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2022
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2021
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2020
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2019
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2018
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2017
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2016
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2015
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2014
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2013
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2012
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2011
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2010
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2009
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2008
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2007
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2006
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2005
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2004
+                        
+December
+            List overview
+ Download
+thread
+[MediaWiki-announce] Maintenance release: MediaWiki 1.39.2
+Sam Reed
+                22 Feb
+                
+                    2023
+                
+            
+                22 Feb
+                
+                '23
+                
+            
+11:55 p.m.
+ 
+I would like to announce the availability of MediaWiki 1.39.2.
+
+This release primarily is to fix various issues around database upgrades
+that users have reported on both MySQL/MariaDB and PostgreSQL.
+
+In the case of MySQL/MariaDB, there may have been the chance of data loss
+(as always, please backup before upgrading!), and page views may have
+resulted in an error like "The revision #0 of the page named "x" does not
+exist." This was seen only when upgrading in a bigger jump between versions
+(for example 1.31 to 1.39). More information can be seen in
+https://phabricator.wikimedia.org/T326071.
+
+https://phabricator.wikimedia.org/T328169 has been filed to write a
+maintenance script to fix the issues caused by these upgrades. It is
+expected this will be included in a later point release.
+
+Various patches aimed at support for PHP 8.0, 8.1, and 8.2 have been
+back-ported. This should fix some log spam, and MediaWiki should work fully
+on versions PHP 8.0 and 8.1.
+
+Reports of bugs with PHP 8.0, 8.1, or 8.2 support are particularly welcome,
+and fixes will be back-ported when possible. Please see
+https://phabricator.wikimedia.org/tag/php_8.0_support/,
+https://phabricator.wikimedia.org/tag/php_8.1_support/ and
+https://phabricator.wikimedia.org/tag/php_8.2_support/ for the relevant
+work boards.
+
+The tarballs have already been uploaded as of this email; the git tag has
+also already been pushed.
+
+== Release notes ==
+
+Full release notes for 1.39.2:
+https://phabricator.wikimedia.org/diffusion/MW/browse/REL1_39/RELEASE-NOTES…
+https://www.mediawiki.org/wiki/Release_notes/1.39
+
+== Changes since MediaWiki 1.39.1 ==
+* Localisation updates.
+* (T325872) ChangeTags: Remove table name from condition.
+* (T324895) MWCallbackStream: Add explicit $stream property.
+* (T297031, T326039) PostgresUpdater: Move setDefault ahead of
+changeNullableField.
+* (T321319) Produce HTML for invalid JSON.
+* (T215466, T326071) MigrateActors: Write to revision table (Follow-up
+24115a8).
+* (T223027) ReservedUsernames config: Add reserved names from maintenance
+scripts.
+* (T325000, T324896, T307631) Updated OOUI from v0.44.3 to v0.44.5.
+* Remove /images .htaccess rules that are no longer relevant.
+* Disable php in .htaccess of images directory as a hardening measure.
+* (T322583) Include missing message parameter in message.
+* LocalFileTest: use encodeBlob/decodeBlob for img_metadata.
+* DatabaseSqlite: fix null blobs.
+* rdbms: avoid pg_escape_bytea() call-style deprecation notices.
+* (T322278) Improve LocalisationCache post-merge validation check.
+* (T324408, T326367) Updated wikimedia/remex-html from 3.0.2 to 3.0.3.
+* (T322278) Fix the remaining Phan failures on PHP 8.1.
+* (T322278, T326367) Respond to some messages from Phan on PHP 8.1.
+* Fix phan error when Excimer is enabled.
+* (T326021) Add matrix: to $wgUrlProtocols.
+* (T314099) stream wrapper: Declare $context class property.
+* (T314099) libs\jsminplus: Declare JSNode::$expression.
+* (T314096) composer.json: Updated composer/spdx-licenses from 1.5.6 to
+1.5.7.
+* (T326472) Upgrading cssjanus/cssjanus (v2.1.0 => v2.1.1).
+* (T308536) rdbms: Remove deprecation mark for $wgSharedDB.
+* (T215466, T326071) installer: Split drop action out of the SQL patch for
+actor migration.
+* (T322603) SqliteMaintenance.php: Fix fatally broken instanceof check.
+* (T326377) rdbms: Use DBConnRef in SelectQueryBuilder.
+* api/en.json: api-help-datatype-expiry add missing 'may'.
+* (T317329) OutputPage: Fix undefined ['host'] in ImagePreconnect code.
+* (T328222) Pass empty string to strlen() if schema is null for
+PostgresDatabase.
+* (T289926) SpecialRevisionDelete: Set default of '' for wpReason.
+* (T155582, T328503) Fix XML dumps for content types with non-string
+getNativeData().
+* (T326886) PoolCounterRedis: Fix wrong cast, locks weren't being released.
+* (T314099) revisiondelete: Replace dynamic property Status::$itemStatuses
+* (T327821) skin: Restore default 'value' attribute in makeSearchButton().
+* (T329198) ParamValidator: Improve paramvalidator-help-multi-max message.
+* (T329415) Clear the statsd data buffer regardless of StatsdServer config.
+* (T292348) WikiImporter: do not fail if upload entry in dump lacks 'text'
+tag.
+* (T330049) UnregisteredLocalFile: Don't call MimeAnalyzer if no path.
+* (T324894 TempFSFile: Use a WeakMap for reference tracking if available.
+* (T295637) Add no to fallback chain of nb and nn.
+
+**********************************************************************
+Download:
+https://releases.wikimedia.org/mediawiki/1.39/mediawiki-1.39.2.tar.gz
+https://releases.wikimedia.org/mediawiki/1.39/mediawiki-1.39.2.zip
+
+Download without bundled extensions:
+https://releases.wikimedia.org/mediawiki/1.39/mediawiki-core-1.39.2.tar.gz
+https://releases.wikimedia.org/mediawiki/1.39/mediawiki-core-1.39.2.zip
+
+Patch to previous version (1.39.1):
+https://releases.wikimedia.org/mediawiki/1.39/mediawiki-1.39.2.patch.gz
+https://releases.wikimedia.org/mediawiki/1.39/mediawiki-1.39.2.patch.zip
+
+GPG signatures:
+https://releases.wikimedia.org/mediawiki/1.39/mediawiki-core-1.39.2.tar.gz.…
+https://releases.wikimedia.org/mediawiki/1.39/mediawiki-core-1.39.2.zip.sig
+https://releases.wikimedia.org/mediawiki/1.39/mediawiki-1.39.2.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.39/mediawiki-1.39.2.zip.sig
+https://releases.wikimedia.org/mediawiki/1.39/mediawiki-1.39.2.patch.gz.sig
+https://releases.wikimedia.org/mediawiki/1.39/mediawiki-1.39.2.patch.zip.sig
+
+Public keys:
+https://www.mediawiki.org/keys/keys.html
+ 0
+ 0
+            Reply
+        
+Back to the thread
+            Back to the list
+        
+ 
+            Powered by HyperKitty version 1.3.4.
+        

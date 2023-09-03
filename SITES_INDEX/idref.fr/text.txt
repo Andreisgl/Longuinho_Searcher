@@ -1,0 +1,71 @@
+ 
+
+Trinité-et-Tobago
+paprika.idref.fr
+data.idref.fr
+Documentation
+
+Bonjour ,
+Bienvenue sur IdRef, Identifiants et référentiels pour l'Enseignement supérieur et la Recherche.
+Trinité-et-Tobago
+data.idref
+Export biblio
+Export XML
+Export RDF
+Améliorer la notice
+Signaler une erreur
+                  Identifiant pérenne de la notice : 026564289
+                     URI de l'entité :
+                     http://www.idref.fr/026564289/id
+Notice de type 
+                  Collectivité
+                  
+                  
+Point d'accès autorisé
+Trinité-et-Tobago
+Information
+Langue d'expression : anglais
+Pays associé : Trinité-et-Tobago
+Notes 
+Note publique d'information : Etat indépendant depuis août 1962 ; capitale Port of Spain ; langue officielle anglais
+Forme parallele
+Trinidad and Tobago
+Source
+S.Y. 1986. Europa yearbook 1983
+Identifiants externes
+ Identifiant VIAF : http://viaf.org/viaf/122737458
+ Identifiant ARK BNF : http://catalogue.bnf.fr/ark:/12148/cb118787798
+Utilisation dans Rameau
+Le point d'accès peut être employé dans un point d'accès sujet
+Le point d'accès ne peut s'employer qu'en élément initial
+Equivalent dans un autre référentiel
+Informations sur la notice
+Identifiant de la notice : 026564289
+RCR créateur de la notice : 0004
+Date de création : 20-11-1979
+RCR dernier modificateur de la notice : 341720001
+Date de dernière modification : 04-09-2020 à 15 h 03
+... Références liées : ...
+IdRef - Identifiants et Référentiels pour l'ESR
+L'interface publique IdRef permet la consultation des notices d'autorités produites par les établissements membres des réseaux documentaires de l'ESR (Sudoc, Calames, Star). 
+
+IdRef est à la disposition des usagers professionnels habilités à créer/corriger/enrichir les notices d'autorité (authentification requise). 
+A partir d'IdRef, une gamme de services (triple store data.idref.fr, entrepôt OAI-PMH, APIs) est disponible en accès libre pour faciliter la réutilisation des données.
+Pour les développeurs
+Documentation IdRef
+APIs et web services
+data.idref.fr
+OAI-PMH IdRef
+GitHub Abes
+Utilisation des données
+Libre et gratuite sous licence Etalab
+
+GitHub Etalab
+Assistance
+Guichet AbesSTP
+A propos |
+Partenaires |
+Données Personnelles |
+CGU |
+Mentions Légales |
+Accessibilité numérique

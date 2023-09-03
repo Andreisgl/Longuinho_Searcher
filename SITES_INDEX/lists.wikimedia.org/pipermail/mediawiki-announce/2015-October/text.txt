@@ -1,0 +1,432 @@
+[MediaWiki-announce] Security Release: 1.25.3, 1.24.4 and 1.23.11 - MediaWiki-announce - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+                            2023
+                        
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2022
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2021
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2020
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2019
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2018
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2017
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2016
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2015
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2014
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2013
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2012
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2011
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2010
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2009
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2008
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2007
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2006
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2005
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2004
+                        
+December
+            List overview
+ Download
+thread
+[MediaWiki-announce] Security Release: 1.25.3, 1.24.4 and 1.23.11
+Chad
+                17 Oct
+                
+                    2015
+                
+            
+                17 Oct
+                
+                '15
+                
+            
+2:08 a.m.
+ 
+I would like to announce the release of MediaWiki 1.25.3, 1.24.4, and
+1.23.11.
+These releases fix five security issues in core, in addition to other bug
+fixes. Download links are given at the end of this email
+== Security fixes ==
+* Wikipedia user RobinHood70 reported two issues in the chunked upload API.
+The
+API failed to correctly stop adding new chunks to the upload when the
+reported
+size was exceeded (T91203), allowing a malicious users to upload add an
+infinite number of chunks for a single file upload. Additionally, a
+malicious
+user could upload chunks of 1 byte for very large files, potentially
+creating
+a very large number of files on the server's filesystem (T91205).
+<https://phabricator.wikimedia.org/T91203>
+<https://phabricator.wikimedia.org/T91205>
+* Internal review discovered that it is not possible to throttle file
+uploads.
+<https://phabricator.wikimedia.org/T91850>
+* Internal review discovered a missing authorization check when removing
+suppression from a revision. This allowed users with the 'viewsuppressed'
+user
+right but not the appropriate 'suppressrevision' user right to unsuppress
+revisions.
+<https://phabricator.wikimedia.org/T95589>
+* Richard Stanway from teamliquid.net reported that thumbnails of PNG files
+generated with ImageMagick contained the local file path in the image
+metadata.
+<https://phabricator.wikimedia.org/T108616>
+== Bug Fixes in 1.25.3 ==
+* Fix having multiple callbacks for a single hook.
+<https://phabricator.wikimedia.org/T98975>
+* maintenance/refreshLinks.php did not always remove all links pointing to
+  nonexistent pages.
+<https://phabricator.wikimedia.org/T107632>
+* $wgEmergencyContact and $wgPasswordSender now use their default value if
+set
+  to an empty string.
+<https://phabricator.wikimedia.org/T104142>
+* Provide fallbacks for use of mb_convert_encoding() in HtmlFormatter. It
+was
+  causing an error when accessing the api help page if the mbstring PHP
+  extension was not installed.
+<https://phabricator.wikimedia.org/T62174>
+* Confirmation emails would sometimes contain invalid codes.
+<https://phabricator.wikimedia.org/T105896>
+* Fixed edit stash inclusion queries.
+<https://phabricator.wikimedia.org/T105597>
+== Bug Fixes in 1.24.4 ==
+* Minimal PSR-3 debug logger to support backports from 1.25+.
+<https://phabricator.wikimedia.org/T91653>
+* Fix indexing of moved pages with PostgreSQL. Requires running
+  update.php to fix.
+<https://phabricator.wikimedia.org/T68650>
+== Release notes ==
+Full release notes for 1.25.3:
+<https://www.mediawiki.org/wiki/Release_notes/1.25>
+Full release notes for 1.24.4:
+<https://www.mediawiki.org/wiki/Release_notes/1.24>
+Full release notes for 1.23.11:
+<https://www.mediawiki.org/wiki/Release_notes/1.23>
+For information about how to upgrade, see
+<https://www.mediawiki.org/wiki/Manual:Upgrading>
+**********************************************************************
+   1.25.3
+**********************************************************************
+Download:
+https://releases.wikimedia.org/mediawiki/1.25/mediawiki-1.25.3.tar.gz
+https://releases.wikimedia.org/mediawiki/1.25/mediawiki-core-1.25.3.tar.gz
+Patch to previous version:
+https://releases.wikimedia.org/mediawiki/1.25/mediawiki-1.25.3.patch.gz
+https://releases.wikimedia.org/mediawiki/1.25/mediawiki-i18n-1.25.3.patch.gz
+GPG signatures:
+https://releases.wikimedia.org/mediawiki/1.25/mediawiki-1.25.3.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.25/mediawiki-1.25.3.patch.gz.sig
+https://releases.wikimedia.org/mediawiki/1.25/mediawiki-core-1.25.3.tar.gz.…
+https://releases.wikimedia.org/mediawiki/1.25/mediawiki-i18n-1.25.3.patch.g…
+Public keys:
+https://www.mediawiki.org/keys/keys.html
+**********************************************************************
+   1.24.4
+**********************************************************************
+Download:
+https://releases.wikimedia.org/mediawiki/1.24/mediawiki-1.24.4.tar.gz
+https://releases.wikimedia.org/mediawiki/1.24/mediawiki-core-1.24.4.tar.gz
+Patch to previous version:
+https://releases.wikimedia.org/mediawiki/1.24/mediawiki-1.24.4.patch.gz
+https://releases.wikimedia.org/mediawiki/1.24/mediawiki-i18n-1.24.4.patch.gz
+GPG signatures:
+https://releases.wikimedia.org/mediawiki/1.24/mediawiki-1.24.4.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.24/mediawiki-1.24.4.patch.gz.sig
+https://releases.wikimedia.org/mediawiki/1.24/mediawiki-core-1.24.4.tar.gz.…
+https://releases.wikimedia.org/mediawiki/1.24/mediawiki-i18n-1.24.4.patch.g…
+Public keys:
+https://www.mediawiki.org/keys/keys.html
+**********************************************************************
+   1.23.11
+**********************************************************************
+Download:
+https://releases.wikimedia.org/mediawiki/1.23/mediawiki-1.23.11.tar.gz
+https://releases.wikimedia.org/mediawiki/1.23/mediawiki-core-1.23.11.tar.gz
+Patch to previous version:
+https://releases.wikimedia.org/mediawiki/1.23/mediawiki-1.23.11.patch.gz
+https://releases.wikimedia.org/mediawiki/1.23/mediawiki-i18n-1.23.11.patch.…
+GPG signatures:
+https://releases.wikimedia.org/mediawiki/1.23/mediawiki-1.23.11.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.23/mediawiki-1.23.11.patch.gz.sig
+https://releases.wikimedia.org/mediawiki/1.23/mediawiki-core-1.23.11.tar.gz…
+https://releases.wikimedia.org/mediawiki/1.23/mediawiki-i18n-1.23.11.patch.…
+Public keys:
+https://www.mediawiki.org/keys/keys.html
+-Chad
+    
+ 0
+ 0
+            Reply
+        
+Back to the thread
+            Back to the list
+        
+ 
+            Powered by HyperKitty version 1.3.4.
+        

@@ -1,0 +1,121 @@
+
+Trinidad and Tobago Trade Summary 2010 | WITS Data
+WITS
+Chat bot SearchEn    Es
+Toggle navigation
+Toggle navigation
+Chat bot SearchEnglish Español|
+ Login 
+ Register 
+Trade Stats By CountryBy IndicatorBy Product (HS 6-digit)VisualizationData DownloadMetadataData AvailabilityHelpTariffsGPTAD UNCTAD TRAINS Non-Tariff Measures SummaryBy CountryVisualizationData DownloadMetadataData AvailabilityAbout NTMGVCAbout GVC Visualization GVC Indicator Metadata GVC Data Download APIAPI overview API documentation Analytical database ToolsCompare Countries Simulation ToolBulk Download Home About WITS ReferenceMethodologyGlossaryReference DataConcordancesLinksTrainingTraining overview Video Tutorials eLearning Support LinksDid you knowFAQWITS manualHelpeLearningAt a GlanceSummaryPartnerProduct GroupCountry
+
+                  Go To 
+Exports
+Imports
+Trade % of GDP MRV
+Trade
+Trade Indicators
+Tariff
+Developement Indicators
+Top Exports
+Top Imports
+Products
+
+                  
+               
+Share 
+
+                        Facebook
+
+                        Twitter
+
+                        Linkedin
+
+                        Google Plus
+
+                        Reddit
+
+                        Stumble Upon
+
+                        Delicious
+
+                        Email
+whatsapp
+
+                        
+               
+Custom Query
+
+                      
+               
+               
+Download
+Help
+
+                  
+            
+ Trinidad and Tobago Trade Summary 2010 Data
+
+                           Trinidad and Tobago exports, imports, tariff by year. Trinidad and Tobago  monthly trade data Trinidad and Tobago  quarterly trade data
+Country / Region
+Year
+ For at a glance i.e. latest available trade, tariff, trade barriers and other trade related data Click Here.
+                                
+
+                                    Please note the exports, imports and tariff data are based on reported data and not gap filled. Please check the  Data Availability  for coverage. 
+                                
+ TABLE
+ TEXT
+Imports/Exports
+Products
+TRADE SUMMARY FOR Trinidad and Tobago
+Overall Exports and Imports
+ Exportsmore »  Definition   Total Import/Export Value in thousands of US Dollars current value.  Source   WITS - UNSD Comtrade  Classification   Harmonized System 1988/92, SITC Revision 2  Valuation   Export - FOB; Import - CIF  Currency Unit  US Dollar - Current value  Last Updated   Jan-03-2020    Exports (in US$ Mil):  10,982   Definition   Total number of products exported by a country at the Harmonized System six digit level in any given year.  Source   WITS - UNSD Comtrade  Classification   Harmonized System 1988/92, SITC Revision 2  Notes   1)  All traded products at HS 6 digits are considered for this computation.    Last Updated   Jan-03-2020    No. Of products:  2,279   Definition   Number of countries to whom a particular country exports data in any given year.  Source   WITS - UNSD Comtrade  Classification   Harmonized System 1988/92, SITC Revision 2  Notes   1) Product 'Total' is used for this computation.   Last Updated   Jan-03-2020    No. Of partners:  131 Importsmore »  Definition   Total Import/Export Value in thousands of US Dollars current value.  Source   WITS - UNSD Comtrade  Classification   Harmonized System 1988/92, SITC Revision 2  Valuation   Export - FOB; Import - CIF  Currency Unit  US Dollar - Current value  Last Updated   Jan-03-2020    Imports (in US$ Mil):  6,480   Definition   Total number of products imported by a country at the Harmonized System (HS) six digit level in any given year.  Source   WITS - UNSD Comtrade  Classification   Harmonized System 1988/92, SITC Revision 2  Notes   1)  All traded products at HS 6 digits are considered for this computation.    Last Updated   Jan-03-2020    No. Of products:  3,691   Definition   Number of countries from which a particular country imports data in any given year.  Source   WITS - UNSD Comtrade  Classification   Harmonized System 1988/92, SITC Revision 2  Notes   1) Product 'Total' is used for this computation.    Last Updated   Jan-03-2020    No. Of partners:  164 
+Top 5 Products exports imports at HS 6 digit level
+ Exports (US$ Thousands)
+ 
+                                                                          
+  Product Code  271000  Product Name Petroleum oils, etc, (excl. crude); preparation  Data Source UN Comtrade  Petroleum oils, etc, ...3,430,861.17  Product Code  281410  Product Name Anhydrous ammonia  Data Source UN Comtrade  Anhydrous ammonia1,376,473.29  Product Code  270900  Product Name Petroleum oils and oils obtained from bituminou  Data Source UN Comtrade  Petroleum oils and o ...1,367,494.14  Product Code  271111  Product Name Natural gas, liquefied  Data Source UN Comtrade  Natural gas, liquefi ...1,268,410.00  Product Code  290511  Product Name Methanol (methyl alcohol)  Data Source UN Comtrade  Methanol (methyl alc ...616,497.70
+Imports  (US$ Thousands)
+  Product Code  270900  Product Name Petroleum oils and oils obtained from bituminou  Data Source UN Comtrade  Petroleum oils and o ...2,035,680.05  Product Code  260111  Product Name Non-agglomerated iron ores and concentrates  Data Source UN Comtrade  Non-agglomerated iro ...254,257.75  Product Code  271000  Product Name Petroleum oils, etc, (excl. crude); preparation  Data Source UN Comtrade  Petroleum oils, etc, ...115,551.23  Product Code  880240  Product Name Aircraft nes of an unladen weight exceeding 15,  Data Source UN Comtrade  Aircraft nes of an u ...109,317.48  Product Code  870421  Product Name Diesel powered trucks with a GVW not exceeding  Data Source UN Comtrade  Diesel powered truck ...92,386.30
+Top 5 Export and Import partners
+Market
+Trade (US$ Mil)
+Partner share(%)
+ United States5,279 48.07 Jamaica710 6.47 Barbados374 3.40 Suriname300 2.73 Colombia287 2.62
+Exporter
+Trade (US$ Mil)
+Partner share(%)
+ United States1,811 27.95 Gabon836 12.90 Colombia614 9.47 Brazil466 7.20 China373 5.76
+Exports and Imports of Product Groups
+Product Categories
+Exports
+Imports
+ Export(US$ Mil)
+ Product share(%)
+ Import(US$ Mil)
+ Prod share(%)
+ Weighted Average (%)
+Raw materials1,970 17.94 2,544 39.27 6.17 Intermediate goods2,947 26.83 894 13.79 7.08 Consumer goods5,705 51.95 1,501 23.17 15.69 Capital goods359 3.27 1,536 23.70 6.67 
+Trade Indicatorsmore »  Definition   Hirschman Herfindahl index  is a measure of the dispersion of trade value across an exporter’s partners. A country with trade (export or import) that is concentrated in a very few markets will have an index value close to 1. Similarly, a country with a perfectly diversified trade portfolio will have an index close to zero.   Source   WITS - UNSD Comtrade  Classification   Harmonized System 1988/92, SITC Revision 2  Valuation   Export - FOB; Import - CIF  Currency Unit    Notes   1) Mirror Exports is considered for export data  2) All Countries except World and EUN are considered as partner group 3) Product 'Total' is used for this computation 4) The indicator is computed at reporter-partner level and aggregated to reporter level  Last Updated   Jan-03-2020    HH Market concentration index:  0.23   Definition    It is calculated as the number of countries to which the reporter exports a particular product divided by the number of countries that report importing the product that year.   Source   WITS - UNSD Comtrade  Classification   Harmonized System 1988/92, SITC Revision 2  Valuation   Export - FOB; Import - CIF  Currency Unit    Notes   1) Mirror Exports is considered for export data 2) All products at HS 6 digits are considered 3) Computation is performed at Country-Product level and aggregated to country level  Last Updated   Jan-03-2020    Index of export market penetration:  2.79   Definition   Annual percentage growth rate of the world’s trade value (export or import), by sector, at market prices in current U.S. dollars  Source   WITS - UNSD Comtrade  Classification   Harmonized System 1988/92, SITC Revision 2  Valuation   Export - FOB; Import - CIF  Currency Unit    Notes   1) Mirror Exports is considered 2)Growth for a given year is computed with respect to the previous year  Last Updated   Jan-03-2020    World Growth:  9.74   Definition   Annual percentage growth rate of the country’s trade value (export or import), by sector, at market prices in current U.S. dollars   Source   WITS - UNSD Comtrade  Classification   Harmonized System 1988/92, SITC Revision 2  Valuation   Export - FOB; Import - CIF  Currency Unit    Notes   1) Mirror Exports is considered 2)Growth for a given year is computed with respect to the previous year  Last Updated   Jan-03-2020    Country Growth:  9.03 Tariffsmore »  Source   WITS - UNCTAD TRAINS  Classification   Harmonized System 1988/92, HS 1996, HS 2002, HS 2007, HS 2012  Notes    Last Updated   Jan-03-2020    No Of Tariff Agreement:  2   Definition   Effectively Applied MaxRate (%) tariff; The highest tariff value at the tariff line level within the product category  Source   WITS - UNCTAD TRAINS  Classification   Harmonized System 1988/92, HS 1996, HS 2002, HS 2007, HS 2012  Notes   Specific duty expressions are estimated using UNCTAD Method (If available)  Last Updated   Jan-03-2020    Maximum Rate (%):  424.84   Definition   Effectively Applied Simple Average tariff (%)  Source   WITS - UNCTAD TRAINS  Classification   Harmonized System 1988/92, HS 1996, HS 2002, HS 2007, HS 2012  Notes   Specific duty expressions are estimated using UNCTAD Method (If available)  Last Updated   Jan-03-2020    Simple Average (%):  11.94   Definition   Effectively Applied Weighted Average (%) tariff; The average of tariffs weighted by their corresponding trade value  Source   WITS - UNCTAD TRAINS  Classification   Harmonized System 1988/92, HS 1996, HS 2002, HS 2007, HS 2012  Notes   Specific duty expressions are estimated using UNCTAD Method (If available)  Last Updated   Jan-03-2020    Weighted Average (%):  8.61   Definition   Effectively Applied Duty Free Imports in thousands of US Dollar  Source   WITS - UNCTAD TRAINS  Classification   Harmonized System 1988/92, HS 1996, HS 2002, HS 2007, HS 2012  Notes   Specific duty expressions are estimated using UNCTAD Method (If available)  Last Updated   Jan-03-2020    Duty Free Imports (US$ Thousand):  198,519.08   Definition   Effectively Applied Duty Free Tariff  Lines Share in percentage  Source   WITS - UNCTAD TRAINS  Classification   Harmonized System 1988/92, HS 1996, HS 2002, HS 2007, HS 2012  Notes   1) Tariff_AHS_DutyFreeLines]*100/[Tariff_AHS_TotalLines] 2) Specific duty expressions are estimated using UNCTAD Method (If available)  Last Updated   Jan-03-2020    Duty Free Tariff Lines Share (%):  4.28 Development Indicators more »  Definition   GDP at purchaser's prices is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in current U.S. dollars. Dollar figures for GDP are converted from domestic currencies using single year official exchange rates. For a few countries where the official exchange rate does not reflect the rate effectively applied to actual foreign exchange transactions, an alternative conversion factor is used.  Source   WDI  Topic  Economic Policy & Debt: National accounts: US$ at current prices: Aggregate indicators  Last Updated   Jan-10-2020    GDP (current US$):  22,158   Definition   GNI per capita (formerly GNP per capita) is the gross national income, converted to U.S. dollars using the World Bank Atlas method, divided by the midyear population. GNI is the sum of value added by all resident producers plus any product taxes (less subsidies) not included in the valuation of output plus net receipts of primary income (compensation of employees and property income) from abroad. GNI, calculated in national currency, is usually converted to U.S. dollars at official exchange rates for comparisons across economies, although an alternative rate is used when the official exchange rate is judged to diverge by an exceptionally large margin from the rate actually applied in international transactions. To smooth fluctuations in prices and exchange rates, a special Atlas method of conversion is used by the World Bank. This applies a conversion factor that averages the exchange rate for a given year and the two preceding years, adjusted for differences in rates of inflation between the country, and through 2000, the G-5 countries (France, Germany, Japan, the United Kingdom, and the United States). From 2001, these countries include the Euro area, Japan, the United Kingdom, and the United States.  Source   WDI  Topic  Economic Policy & Debt: National accounts: Atlas GNI & GNI per capita  Last Updated   Jan-10-2020    GNI per capita, Atlas method (current US$):  15,500.00   Definition   Difference between Exports of goods and services (% of GDP) and Imports of goods and services (% of GDP)  Source   WITS - WDI  Notes  Indicator codes: NE.EXP.GNFS.ZS, NE.IMP.GNFS.ZS  Last Updated   Jan-10-2020   Trade Balance (% of GDP): ...   Definition   Difference between Exports of goods and services (current US$) and Imports of goods and services (current US$)  Source   WITS - WDI  Notes  Indicator codes: NE.EXP.GNFS.CD, NE.IMP.GNFS.CD  Last Updated   Jan-10-2020   Trade Balance (current US$ Mil): ...   Definition   Trade in services is the sum of service exports and imports divided by the value of GDP, all in current U.S. dollars.  Source   WDI  Topic  Economic Policy & Debt: Balance of payments: Current account: Goods, services & income  Last Updated   Jan-10-2020    Trade in services (% of GDP):  5.70   Definition   Trade is the sum of exports and imports of goods and services measured as a share of gross domestic product.  Source   WDI  Topic  Economic Policy & Debt: National accounts: Shares of GDP & other  Last Updated   Jan-10-2020    Trade (% of GDP):   
+About 
+.
+Contact 
+.
+Usage Conditions
+.
+Legal
+.
+Data Providers
+.
+Page refreshed : Sep-2-2023 21:46 ET
+Partners
+ITC
+.
+UNCTAD
+.
+UNSTATS
+.
+World Trade Organization
+.
+World Bank

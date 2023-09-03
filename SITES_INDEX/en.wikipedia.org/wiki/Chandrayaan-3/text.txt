@@ -1,0 +1,1244 @@
+Chandrayaan-3 - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Languages
+Language links are at the top of the page across from the title.
+Search
+Search
+Create accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1Background
+2Objectives
+3Spacecraft
+Toggle Spacecraft subsection
+3.1Design
+3.1.1Propulsion module
+3.1.2Lander
+3.1.3Rover
+3.2Payloads
+3.2.1Lander
+3.2.2Rover
+3.2.3Propulsion module
+4Mission profile
+Toggle Mission profile subsection
+4.1Launch
+4.2Orbit
+4.3Descent
+4.4Mission life
+5Team
+6Funding
+7Results
+Toggle Results subsection
+7.1Temperature variation
+7.2Detection of sulfur
+7.3Plasma measurement
+7.4Seismic measurements
+7.5Lunar water
+8Domestic reactions
+9See also
+10References
+11External links
+Toggle the table of contents
+Toggle the table of contents
+Chandrayaan-3
+55 languages
+AnarâškielâअंगिकाالعربيةAragonésঅসমীয়াAzərbaycancaবাংলাБеларускаяभोजपुरीBosanskiČeštinaDeutschEestiEspañolفارسیFrançaisGaeilgeGalegoગુજરાતીगोंयची कोंकणी / Gõychi Konknniहिन्दीBahasa IndonesiaItalianoעבריתಕನ್ನಡकॉशुर / کٲشُرLatviešuLëtzebuergeschमैथिलीമലയാളംमराठीBahasa MelayuNederlandsनेपाली日本語ଓଡ଼ିଆOʻzbekcha / ўзбекчаਪੰਜਾਬੀپښتوPortuguêsRomânăРусскийᱥᱟᱱᱛᱟᱲᱤSimple EnglishکوردیSvenskaதமிழ்తెలుగుไทยತುಳುTürkçeУкраїнськаاردوTiếng Việt中文
+Edit links
+ArticleTalk
+English
+ReadView sourceView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadView sourceView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Download as PDFPrintable version
+In other projects
+Wikimedia Commons
+Coordinates: 69°22′23″S 32°19′08″E﻿ / ﻿69.373°S 32.319°E﻿ / -69.373; 32.319
+From Wikipedia, the free encyclopedia
+Ongoing Indian lunar lander mission
+This article documents a current or recent space mission. Details may change as the mission progresses. Initial news reports may be unreliable. The last updates to this article may not reflect the most current information.For more information please see WikiProject Spaceflight. Please feel free to improve this article (but note that updates without valid and reliable references will be removed) or discuss changes on the talk page. (Learn how and when to remove this template message)
+Chandrayaan-3Vikram lander on lunar surface captured by the Pragyan roverMission typeLanderRoverOperatorISROCOSPAR ID2023-098B SATCAT no.57320WebsiteOfficial websiteMission duration1 month and 18 days (elapsed)
+Propulsion module: ≤ 3 to 6 months (planned) 27 days (elapsed) (since orbit insertion)
+Vikram lander: ≤ 14 days (planned) 9 days (elapsed) (since landing)
+Pragyan rover: ≤ 14 days (planned) 9 days (elapsed) (since deployment)
+Spacecraft propertiesBusChandrayaanManufacturerISROLaunch mass3900 kg[1]Payload massPropulsion Module:  2148 kgLander Module (Vikram): 1726 kgRover (Pragyan) 26 kg Total: 3900 kgPowerPropulsion Module: 758 WLander Module: 738 W (WS with Bias)Rover: 50 W
+Start of missionLaunch date14 July 2023 (2023-07-14), 14:35:17 IST (09:05:17 UTC)[2]RocketLVM3 M4Launch siteSatish Dhawan Space CentreContractorISRO
+Moon orbiterOrbital insertion5 August 2023Orbital parametersPericynthion altitude153 km (95 mi)Apocynthion altitude163 km (101 mi)Moon landerSpacecraft componentVikram landerLanding date23 August 2023 (2023-08-23), 18:03 IST (12:33 UTC)[3]Landing siteShiv Shakti point
+69°22′23″S 32°19′08″E﻿ / ﻿69.373°S 32.319°E﻿ / -69.373; 32.319[4]
+(between Manzinus C and Simpelius N craters)[5]Moon roverLanding date23 August 2023Distance driven15 m (49 ft)[6]
+Mission Insignia
+Chandrayaan programme← Chandrayaan-2LUPEX → 
+Chandrayaan-3 (/ˌtʃʌndrəˈjɑːn/) is the third mission in the Chandrayaan programme, a series of lunar-exploration missions developed by the Indian Space Research Organisation (ISRO).[7] Launched in July 2023, the mission consists of a lunar lander named Vikram and a lunar rover named Pragyan, similar to those launched with Chandrayaan-2 in 2019. The propulsion module carried the lander and rover configuration to lunar orbit in preparation for a powered descent by the lander.[8][9]
+Chandrayaan-3 was launched from Satish Dhawan Space Centre on 14 July 2023. The spacecraft entered lunar orbit on 5 August, and the lander touched down in the lunar south polar region[10] on 23 August at 12:32 UTC, making India the fourth country to successfully land on the Moon, and the first to do so near the lunar south pole.[11][12][13]
+Background
+Further information: Chandrayaan programmeSee also: Lunar south poleOn 22 July 2019, ISRO launched Chandrayaan-2 on board a Launch Vehicle Mark-3 (LVM3) launch vehicle consisting of an orbiter, a lander and a rover.[14] The lander was scheduled to touch down on the lunar surface on 6 September 2019 to deploy the Pragyan rover. The lander ultimately crashed when it lost contact with earth (ISRO) and deviated from its intended trajectory while attempting to land near the lunar south pole.[15][16]
+The lunar  south pole region holds particular interest for scientific exploration due to studies that show large amounts of ice there. Mountainous terrain and unpredictable lighting conditions not only protect the ice from melting but also make landing scientific probes there a challenging undertaking. This ice could contain solid-state compounds that would normally melt under warmer conditions elsewhere on the Moon, compounds which could provide insight into lunar, Earth, and Solar System history. Ice could also be used as a source of drinking water and hydrogen for fuel and oxygen for future crewed missions and outposts.[17][18]
+The European Space Tracking network (ESTRACK), operated by the European Space Agency (ESA), and Deep Space Network operated by Jet Propulsion Laboratory (JPL) of NASA are supporting the mission.[19]
+Under a new cross-support arrangement, ESA tracking support could be provided for upcoming ISRO missions such as those of India's first human spaceflight programme, Gaganyaan, and the Aditya-L1 solar research mission. In return, future ESA missions will receive similar support from ISRO's own tracking stations.[20]
+Objectives
+ISRO's mission objectives for the Chandrayaan-3 mission are:
+Getting a lander to land safely and softly on the surface of the Moon.
+Observing and demonstrating the rover's driving capabilities on the Moon.
+Conducting and observing experiments on the materials available on the lunar surface to better understand the composition of the Moon.[21]
+Spacecraft
+Design
+Chandrayaan-3 comprises three main components: a propulsion module, lander, and rover.
+Chandrayaan-3 encapsulated within LVM3's payload fairing
+Chandrayaan-3 integrated components
+Propulsion module
+The propulsion module carries the lander and rover configuration to a 100-kilometre (62 mi) lunar orbit. It is a box-like structure with a large solar panel mounted on one side and a cylindrical mounting structure for the lander (the Intermodular Adapter Cone) on top.[9][8]
+Propulsion module
+Lander
+The Vikram lander is responsible for the soft landing on the Moon. It is also box-shaped, with four landing legs and four landing thrusters capable of producing 800 newtons of thrust each. It carries the rover and various scientific instruments to perform on-site analysis.[22][23] The lander has four variable-thrust engines with slew rate changing capabilities, unlike Chandrayaan-2's lander, which had five, with the fifth one being centrally mounted and capable only of fixed thrust. One of the main reasons for Chandrayaan-2's landing failure was attitude increase during the camera coasting phase. This was removed by allowing the lander to control attitude and thrust during all phases of descent. Attitude correction rate is increased from Chandrayaan-2's 10°/s to 25°/s with Chandrayaan-3. Additionally, the Chandrayaan-3 lander is equipped with a laser Doppler velocimeter (LDV) to allow measuring attitude in three directions.[24][25] The impact legs have been made stronger compared to Chandrayaan-2 and instrumentation redundancy has been improved. It will target a more precise 16 km2 (6.2 sq mi) landing region based on images previously provided by the Orbiter High-Resolution Camera (OHRC) onboard Chandrayaan-2's orbiter. ISRO improved the structural rigidity, increased polling in instruments, increased data frequency and transmission, and added additional multiple contingency systems to improve lander survivability in the event of failure during descent and landing.[26][25]
+Lander
+Rover
+The Pragyan rover is a six-wheeled vehicle with a mass of 26 kilograms (57 pounds). It is 917 millimetres (3.009 ft) x 750 millimetres (2.46 ft) x 397 millimetres (1.302 ft) in size.[27] The rover is expected to take multiple measurements to support research into the composition of the lunar surface, the presence of water ice in the lunar soil, the history of lunar impacts, and the evolution of the Moon's atmosphere.[28][10]
+Pragyan rover
+Payloads
+Lander
+Chandra's Surface Thermophysical Experiment (ChaSTE) will measure the thermal conductivity and temperature of the lunar surface.
+Instrument for Lunar Seismic Activity (ILSA) will measure the seismicity around the landing site.
+Langmuir Probe (LP) will estimate the near-surface plasma density over time.[29]
+Chandra's Surface Thermophysical Experiment (ChaSTE)
+Instrument for Lunar Seismic Activity (ILSA)
+Langmuir Probe (RAMBHA-LP)
+Rover
+An alpha particle X-ray spectrometer (APXS) will derive the chemical composition and infer the mineralogical composition of the lunar surface.
+Laser-induced breakdown spectroscopy (LIBS) will determine the elemental composition (Mg, Al, Si, K, Ca, Ti, Fe) of lunar soil and rocks around the lunar landing site.[29]
+Alpha Particle X-Ray Spectrometer (APSX)
+Laser-Induced Breakdown Spectroscope (LIBS)
+Propulsion module
+Spectro-polarimetry of Habitable Planet Earth (SHAPE) will study spectral and polarimetric measurements of Earth from the lunar orbit in the near-infrared (NIR) wavelength range (1–1.7 μm [3.9×10−5–6.7×10−5 in]).[9][8]
+Spectro-polarimetry of Habitable Planet Earth (SHAPE)
+Mission profile
+Animation of Chandrayaan-3Around the Earth – Orbit raising phaseAround the EarthAround the Moon   Chandrayaan-3's Path ·    Earth ·    Moon
+Launch
+LVM3 M4, Chandrayaan-3 – Launch vehicle lifting off from the second launch pad of SDSC-SHAR, Sriharikota
+Chandrayaan-3 was launched aboard an LVM3-M4 rocket on 14 July 2023, at 09:05 UTC from Satish Dhawan Space Centre Second Launch Pad in Sriharikota, Andhra Pradesh, India, entering an Earth parking orbit with a perigee of 170 km (106 mi) and an apogee of 36,500 km (22,680 mi).
+Orbit
+After a series of earth bound manoeuvres that placed Chandrayaan-3 in a trans-lunar injection orbit,[30][31][32] ISRO performed a lunar-orbit insertion (LOI) on 5 August, successfully placing the Chandrayaan-3 spacecraft into an orbit around the Moon. The LOI operation was carried out from the ISRO Telemetry, Tracking, and Command Network (ISTRAC) in Bengaluru.[33][34]
+On 17 August, the Vikram lander separated from the propulsion module to begin the last phase of the mission.[35]
+Descent
+Image of Chandrayaan-3 Lander as captured by OHRC camera aboard Chandrayaan-2 Orbiter
+Pragyan roll out
+On 23 August 2023, as the lander approached the low point of its orbit, its four engines fired as a braking manoeuvre at 30 kilometres (19 mi) above the Moon's surface. After 11.5 minutes, the lander was 7.2 km (4.5 miles) above the surface; it maintained this altitude for about 10 seconds, then stabilized itself using eight smaller thrusters and rotated from a horizontal to a vertical position while continuing its descent.
+It then used two of its four engines to slow its descent to roughly 150 metres (490 ft); it hovered there for about 30 seconds and located an optimal landing spot before continuing downward and touching down at 12:32 UTC.[22][36]
+Stages of Chandrayaan-3 deployment and flight
+Stage and sequence
+Date/Time (UTC)
+LAM burn time
+Orbit
+Orbital period
+References
+Earth orbit: Launch
+14 July 2023
+—
+170 km × 36,500 km (110 mi × 22,680 mi)
+—
+Earth bound maneuvers: 1
+15 July 2023
+—
+173 km × 41,762 km (107 mi × 25,950 mi)
+—
+[37][38]
+Earth bound maneuvers: 2
+17 July 2023
+—
+226 km × 41,603 km (140 mi × 25,851 mi)
+—
+[37][39]
+Earth bound maneuvers: 3
+18 July 2023
+—
+228 km × 51,400 km (142 mi × 31,938 mi)
+—
+[40]
+Earth bound maneuvers: 4
+20 July 2023
+—
+233 km × 71,351 km (145 mi × 44,335 mi)
+—
+[37][41]
+Earth bound maneuvers: 5
+25 July 2023
+—
+236 km × 127,603 km (147 mi × 79,289 mi)
+—
+[42]
+Trans-lunar injection
+31 July 2023
+—
+288 km × 369,328 km (179 mi × 229,490 mi)
+—
+[43]
+Lunar bound maneuvers:1 (Lunar orbit insertion)
+5 August 2023
+1,835 s (30.58 min)
+164 km × 18,074 km (102 mi × 11,231 mi)
+Approx. 21 h (1,300 min)
+[44]
+Lunar bound maneuvers: 2
+6 August 2023
+—
+170 km × 4,313 km (106 mi × 2,680 mi)
+—
+[45]
+Lunar bound maneuvers:3
+9 August 2023
+—
+174 km × 1,437 km (108 mi × 893 mi)
+—
+[46]
+Lunar bound maneuvers:4
+14 August 2023
+—
+150 km × 177 km (93 mi × 110 mi)
+—
+[47]
+Lunar bound maneuvers:5
+16 August 2023
+—
+153 km × 163 km (95 mi × 101 mi)
+—
+[48]
+Lander deorbit maneuvers: 1
+18 August 2023
+—
+113 km × 157 km (70 mi × 98 mi)
+—
+[49]
+Lander deorbit maneuvers: 2
+19 August 2023
+60 s (1.0 min)
+25 km × 134 km (16 mi × 83 mi)
+—
+[50]
+Landing
+23 August 202312:32
+TBC
+—
+—
+[3]
+Rover deployment
+23 August 2023
+—
+—
+—
+[3]
+The Moon as captured by the Lander Position Detection Camera (LPDC) aboard Chandrayaan-3 lander on 15 August 2023
+View from the Lander Imager Camera-1 (LI-1) on 17 August 2023 just after the separation of the Chandrayaan-3 Lander Module from the Propulsion Module
+Chandrayaan-3 orbital manoeuvre
+Mission life
+Propulsion module: Carries lander and rover to 100-by-100-kilometre (62 mi × 62 mi) orbit, with operation of experimental payload for up to six months.[51]
+Lander module: one lunar daylight period (14 Earth days)[51]
+Rover module: one lunar daylight period (14 Earth days)[51]
+Team
+ISRO Chairperson: S. Somanath[52]
+Mission Director: S. Mohanakumar[53]
+Associate Mission Director: G. Narayanan[54]
+Project Director: P. Veeramuthuvel[55]
+Deputy Project Director: Kalpana Kalahasti[56]
+Vehicle Director: Biju C. Thomas[57]
+Funding
+In December 2019, ISRO requested the initial funding of the project, amounting to ₹75 crore (US$9.4 million), out of which ₹60 crore (US$7.5 million) would be for meeting expenditure towards machinery, equipment, and other capital expenditure, while the remaining ₹15 crore (US$1.9 million) was sought for operating expenditure.[58] Amit Sharma, CEO of an ISRO vendor, said, "With local sourcing of equipment and design elements, we are able to reduce the price considerably."[59]
+Confirming the existence of the project, ISRO's former chairman K. Sivan stated that the estimated cost would be around ₹615 crore (equivalent to ₹721 crore or US$90 million in 2023).[60][61][62]
+Results
+After reaching the Moon's south pole region, Chandrayaan-3 deployed the Pragyan rover to explore the cratered surface, using integrated cameras to send back videos of its environment, and started working on the research objectives planned for a two-week stay on the moon.[63]
+The first video of the rover, posted on 25 August 2023, showed it leaving the Vikram lander on a ramp and driving onto the Moon’s surface. ISRO also shared video footage from the lander as it approached the landing site, kicking up dust as it touched down on the surface. ISRO wrote afterwards that the rover’s two scientific instruments had been turned on and that it had moved eight meters.[64]
+A 4-metre-diameter (13 ft) crater, as captured by the Navigation camera onboard the rover.
+On 26 August, ISRO posted a new video of the rover driving away, moving almost out of the lander’s sight.[65] On 27 August, ISRO published two pictures taken by the rover three metres (9.8 ft) from the edge of a large crater.
+Temperature variation
+ISRO also released data from the observations made by ChaSTE (Chandra's Surface Thermophysical Experiment), one of the four instruments present on the lander module. ChaSTE was designed to study the heat conductivity of the Moon’s surface and measure the differences in temperatures at different points on and below the surface, with the overall objective of creating a thermal profile of the Moon.
+The graph of temperature variation across the lunar topsoil at a point in the solar polar region, as measured by the ChaSTE instrument.
+The first set of data released by ISRO showed a very sharp difference in temperatures just above and below the surface of the Moon. A graphical plot put out by ISRO showed that while temperatures on the surface were over 50 °C (122 °F), they dropped to nearly −10 °C (14 °F) just a few millimetres below the surface. The measurements suggested that the topsoil of the lunar surface did not conduct heat very well, and insulated the sub-surface from heat.
+These measurements were consistent with what is known about the thermal profile of the Moon from previous expeditions and experiments. But this was the first direct measurement of temperatures of the topsoil and the subsoil near the  south pole.[66]
+ISRO scientist BH Darukesha said the high range of 70-degree-Celsius (158-degree-Fahrenheit) temperature near the surface was "not expected".[67]
+Detection of sulfur
+On 29 August, ISRO reported that the laser-induced breakdown spectroscope (LIBS) instrument onboard the Pragyan rover has "unambiguously" confirmed the presence of sulfur in the lunar surface near the south pole, through "first-ever in-situ measurements".[68][69] The presence of sulfur on the Moon has been known before;[70] however, it was detected for the first time at the south pole by the rover.[71]
+Noah Petro, a project scientist at NASA, while speaking to the BBC, described Pragyaan's findings as a "tremendous accomplishment".[72]
+Apart from sulfur, the rover also detected other elements including aluminium (Al), calcium (Ca), iron (Fe), chromium (Cr), titanium (Ti), manganese (Mn), silicon (Si), and oxygen (O).[73] The agency said the search for hydrogen (H) is also underway.[74]
+Pragyan rover detected elements present on moon.
+Plasma measurement
+On 31 August, ISRO released plasma density data from the RAMBHA Instrument aboard the Vikram lander. Initial assessments reported relatively low plasma densities above the lunar surface varying from 5 to 30 million electrons per m³. The evaluation pertains to early stages of the lunar day. The probe aims to explore the changes in the near-surface plasma environment throughout the duration of the lunar day.[75]
+Seismic measurements
+On the same day, ISRO released data from the ILSA payload on the lander, providing vibration measurements of the rover movement on 25 August, and a presumed natural event on 26 August. The cause of the latter event is a subject of investigation.[76]
+Lunar water
+John Bridges, a professor of planetary science at the University of Leicester, UK,[77] told New Scientist that due to the low pressure on the moon it would be "unlikely" for Chandrayaan-3 to find liquid water near to the surface – even in areas where the temperature was above freezing point so water would not be trapped in ice – because it would boil away, although at lower depths the pressure could rise enough to allow liquid water. However, he also added that it's "too early" to interpret the readings from Chandrayaan-3. "But it's fantastic they're getting data", Bridges said. "You can't help comparing it to certain other space agencies; engineers are just getting on now and doing it. They're sort of overtaking Russia", he concluded.[78]
+Domestic reactions
+Congratulating the ISRO team behind the successful Chandrayaan-3 Moon mission at ISRO Telemetry, Tracking and Command Network in Bengaluru, Prime Minister Narendra Modi announced that the touchdown point of the Vikram lander would henceforth be known as Shiv Shakti point.[79] He further declared 23 August, the day the Vikram lander landed on the moon, as National Space Day.[80][81]
+See also
+Aditya-L1 – Indian solar observation mission
+Gaganyaan – Indian crewed spacecraft project
+Indian Human Spaceflight Programme
+Indian Martian Exploration Programme
+Venus Orbiter Mission – Indian Venus exploration mission
+References
+^ "Chandrayaan-3 vs Russia's Luna-25 | Which one is likely to win the space race". cnbctv18.com. 14 August 2023. Archived from the original on 16 August 2023. Retrieved 16 August 2023.
+^ "Chandrayaan-3". www.isro.gov.in. Archived from the original on 10 July 2023. Retrieved 14 July 2023.
+^ a b c Jones, Andrew (23 August 2023). "Chandrayaan-3: India becomes fourth country to land on the moon". SpaceNews.com. Archived from the original on 23 August 2023. Retrieved 23 August 2023.
+^ "LVM3-M4 Gallery". Indian Space Research Organisation. Archived from the original on 28 August 2023. Retrieved 28 August 2023.
+^ "India launches Chandrayaan-3 mission to the lunar surface". Physicsworld. 14 July 2023. Archived from the original on 17 July 2023. Retrieved 15 July 2023.
+^ @isro (30 August 2023). "Beyond Borders across Moonscapes" (Tweet). Retrieved 30 August 2023 – via Twitter.
+^ Kumar, Hari; Travelli, Alex; Mashal, Mujib; Chang, Kenneth (23 August 2023). "India Moon Landing: In Latest Moon Race, India Lands First in Southern Polar Region". The New York Times. ISSN 0362-4331. Archived from the original on 26 August 2023. Retrieved 26 August 2023.
+^ a b c "Chandrayaan-3 to cost Rs 615 crore, launch could stretch to 2021". The Times of India. 2 January 2020. Archived from the original on 19 November 2021. Retrieved 3 January 2020.
+^ a b c "NASA – NSSDCA – Spacecraft – Details". Archived from the original on 8 June 2022. Retrieved 10 June 2022.
+^ a b Sharmila Kuthunur (23 August 2023). "India on the moon! Chandrayaan-3 becomes 1st probe to land near lunar south pole". Space.com. Archived from the original on 23 August 2023. Retrieved 23 August 2023.
+^ Kumar, Sanjay (23 August 2023). "India makes history by landing spacecraft near Moon's south pole". Science.org. Archived from the original on 24 August 2023. Retrieved 24 August 2023.
+^ "Chandrayaan-3 launch on 14 July, lunar landing on 23 or 24 August". The Hindu. 6 July 2023. ISSN 0971-751X. Archived from the original on 11 July 2023. Retrieved 14 July 2023.
+^ "India lands spacecraft near south pole of moon in historic first". The Guardian. Archived from the original on 23 August 2023. Retrieved 23 August 2023.
+^ "Chandrayaan-2: India launches second Moon mission". BBC News. 21 July 2019. Archived from the original on 22 August 2019. Retrieved 25 August 2023.
+^ "India has found its Vikram lander after it crashed into the moon's surface". MIT Technology Review. Archived from the original on 11 April 2023. Retrieved 25 August 2023.
+^ Chang, Kenneth (10 September 2019). "Did India's Chandrayaan-2 Moon Lander Survive? The Chances Are Slim". The New York Times. ISSN 0362-4331. Archived from the original on 11 September 2019. Retrieved 25 August 2023.
+^ Mahoney, Erin (17 August 2022). "Moon's South Pole is Full of Mystery, Science, Intrigue". NASA. Archived from the original on 23 August 2023. Retrieved 24 August 2023.
+^ "Explainer: Why are countries racing to the moon's heavily cratered south pole?". Reuters. 23 August 2023. Archived from the original on 24 August 2023. Retrieved 24 August 2023.
+^ "Chandrayaan-3 How NASA, ESA will support ISRO during the Moon landing on August 23". Archived from the original on 25 August 2023. Retrieved 30 August 2023..
+^ "ESA and Indian space agency ISRO agree on future cooperation". www.esa.int. Archived from the original on 21 March 2022. Retrieved 16 April 2022.
+^ "Chandrayaan-3 Details". Indian Space Research Organisation. Archived from the original on 23 August 2023. Retrieved 24 August 2023.
+^ a b Mehta, Jatan. "Chandrayaan-3 Makes Historic Touchdown on the Moon". Scientific American. Archived from the original on 24 August 2023. Retrieved 23 August 2023.
+^ "Chandrayaan-3 in its last leg of journey to moon". India Today. Archived from the original on 21 August 2023. Retrieved 23 August 2023.
+^ Kumar, Chethan (19 November 2019). "Chandrayaan-3 plans indicate failures in Chandrayaan-2". The Times of India. Archived from the original on 21 November 2019. Retrieved 15 September 2020.
+^ a b After 4 Years, ISRO Reveals Why Chandrayaan 2 FAILED, archived from the original on 10 August 2023, retrieved 10 August 2023
+^ Sharma, Shaurya (21 October 2022). "Chandrayaan-3 To Be More Robust, Have Contingency Systems Onboard, Says ISRO Chief". News18. Archived from the original on 22 October 2022. Retrieved 22 October 2022.
+^ "NASA – NSSDCA – Spacecraft – Details". nssdc.gsfc.nasa.gov. Archived from the original on 8 June 2022. Retrieved 23 August 2023.
+^ Livemint (16 August 2023). "Chandrayaan-3 highlights: Lander Vikram will be 30 km away from Moon today". mint. Archived from the original on 19 August 2023. Retrieved 23 August 2023.
+^ a b "ISRO Chandrayaan 3 brochure" (PDF). Archived from the original (PDF) on 10 July 2023. Retrieved 14 July 2023.
+^ "India's Chandrayaan-3 moon mission takes off with a successful launch as rocket hoists lunar lander and rover – CBS News". www.cbsnews.com. 14 July 2023. Archived from the original on 22 August 2023. Retrieved 23 August 2023.
+^ "India launches its Chandrayaan-3 Moon landing mission". SpaceFlight Insider. 14 July 2023. Archived from the original on 17 August 2023. Retrieved 23 August 2023.
+^ "Chandrayaan-3 update: Isro to fire up engines, put spacecraft on road to moon". India Today. Archived from the original on 1 August 2023. Retrieved 23 August 2023.
+^ THE HINDU BUREAU (5 August 2023). "Chandrayaan-3 spacecraft enters lunar orbit". The Hindu. Archived from the original on 6 August 2023. Retrieved 6 August 2023.
+^ Grey, Charles (6 August 2023). "India's Chandrayaan-3 Successfully Inserted Into Lunar Orbit". AIR SPACE News. Archived from the original on 6 August 2023. Retrieved 6 August 2023.
+^ "Chandrayaan-3: Indian lunar lander Vikram inches closer to Moon". BBC News. 17 August 2023. Archived from the original on 23 August 2023. Retrieved 23 August 2023.
+^ "India Is on the Moon: Lander's Success Moves Nation to Next Space Chapter". The New York Times. 23 August 2023. Archived from the original on 23 August 2023. Retrieved 23 August 2023.
+^ a b c "Chandrayaan-3". ISRO. Archived from the original on 10 July 2023. Retrieved 14 July 2023.
+^ @isro (15 July 2023). "The first orbit raising operation" (Tweet). Retrieved 15 July 2023 – via Twitter.
+^ @isro (17 July 2023). "The second orbit raising operation" (Tweet). Retrieved 17 July 2023 – via Twitter.
+^ @isro (18 July 2023). "The third orbit raising operation" (Tweet). Retrieved 18 July 2023 – via Twitter.
+^ @isro (20 July 2023). "The fourth orbit raising operation" (Tweet). Retrieved 20 July 2023 – via Twitter.
+^ @isro (25 July 2023). "The fifth orbit raising operation" (Tweet). Retrieved 25 July 2023 – via Twitter.
+^ @isro (1 August 2023). "Chandrayaan-3 update" (Tweet). Retrieved 5 August 2023 – via Twitter.
+^ @isro (4 August 2023). "Lunar Orbit Injection (LOI)" (Tweet). Retrieved 5 August 2023 – via Twitter.
+^ @isro (6 August 2023). "Chandrayaan-3 Mission" (Tweet). Retrieved 6 August 2023 – via Twitter.
+^ @isro (9 August 2023). "Chandrayaan-3 Mission" (Tweet). Retrieved 9 August 2023 – via Twitter.
+^ @isro (14 August 2023). "Chandrayaan-3 Mission" (Tweet). Retrieved 14 August 2023 – via Twitter.
+^ @isro (16 August 2023). "Chandrayaan-3 Mission" (Tweet). Retrieved 16 August 2023 – via Twitter.
+^ @isro (18 August 2023). "Chandrayaan-3 Mission" (Tweet). Retrieved 18 August 2023 – via Twitter.
+^ @isro (19 August 2023). "Chandrayaan 3 mission: second and final deorbiting operation" (Tweet) – via Twitter.
+^ a b c "Chandrayaan-3 Brochure" (PDF). Indian Space Research Organisation. Archived (PDF) from the original on 10 July 2023.
+^ "Chandrayaan-3 just 1k-km from lunar surface". The Times of India. 11 August 2023. ISSN 0971-8257. Archived from the original on 12 August 2023. Retrieved 12 August 2023.
+^ "With Chandrayaan-3 set to land today, meet key scientists behind ISRO moon mission". The Indian Express. 23 August 2023. Archived from the original on 24 August 2023. Retrieved 23 August 2023.
+^ Nirvaan (4 August 2023). "Chandrayaan 3 Price, Budget, Cost, (Orbiter, Lander, and Rover)". PM Sarkari Yojana Hindi. Archived from the original on 24 August 2023. Retrieved 23 August 2023.
+^ "Chandrayaan-3 | Not just sons of Tamil Nadu but State's soil itself contributed to Moon mission". The Hindu. 23 August 2023. ISSN 0971-751X. Retrieved 23 August 2023.
+^ Online |, E. T. (23 August 2023). "Most memorable moment for team Chandrayaan-3: Kalpana K, Deputy Project Director, Moon Mission". The Economic Times. Archived from the original on 24 August 2023. Retrieved 23 August 2023.
+^ "Chandrayaan 3 Launch Live: India's Chandrayaan-3 moon mission lifts off from Sriharikota". The Times of India. 14 July 2023. Archived from the original on 17 July 2023. Retrieved 14 July 2023.
+^ Kumar, Chethan (8 December 2019). "ISRO seeks 75 crore more from Centre for Chandrayaan-3". The Times of India. Archived from the original on 20 January 2021. Retrieved 8 December 2019.
+^ Bhattacharjee, Nivedita (24 August 2023). "Chandrayaan-3 punches home India's lead in budget space flights". Reuters. Archived from the original on 26 August 2023. Retrieved 26 August 2023.
+^ "Chandrayaan-3 to cost Rs 615 crore, launch could stretch to 2021". The Times of India. 2 January 2020. Archived from the original on 30 December 2020. Retrieved 3 January 2020.
+^ "How much did India's Chandrayaan-3 lunar mission cost?". CNBC. 15 July 2023. Archived from the original on 17 July 2023. Retrieved 15 July 2023.
+^ Mike Wall (18 August 2023). "India's Chandrayaan-3 snaps close-up photos of moon ahead of landing try (video)". Space.com. Archived from the original on 23 August 2023. Retrieved 22 August 2023.
+^ published, Monisha Ravisetti (28 August 2023). "India's Chandrayaan-3 takes the moon's temperature near lunar south pole for 1st time". Space.com. Archived from the original on 29 August 2023. Retrieved 29 August 2023.
+^ "ISRO - Chandrayaan-3 Mission - Rover rollout". X (formerly Twitter). Archived from the original on 30 August 2023. Retrieved 29 August 2023.
+^ "ISRO - Chandrayaan-3 Mission - Rover at Shiv Shakti Point". X (formerly Twitter). Archived from the original on 30 August 2023. Retrieved 29 August 2023.
+^ "Chandrayaan-3 mission: On Moon, very hot to very cold — separated by just a few mm". The Indian Express. 29 August 2023. Archived from the original on 29 August 2023. Retrieved 29 August 2023.
+^ "70-degree Celsius moon surface temperature was not expected: Scientists". Hindustan Times. 27 August 2023. Archived from the original on 29 August 2023. Retrieved 29 August 2023.
+^ "India's moon rover confirms sulfur and detects several other elements near the lunar south pole". AP News. 29 August 2023. Archived from the original on 29 August 2023. Retrieved 29 August 2023.
+^ "Chandrayaan-3 rover confirms presence of sulphur in lunar surface, search for Hydrogen underway: ISRO". www.telegraphindia.com. Archived from the original on 29 August 2023. Retrieved 29 August 2023.
+^ "Uses of lunar sulfur". SAO/NASA Astrophysics Data System (ADS). 1992. Archived from the original on 30 August 2023. Retrieved 30 August 2023.
+^ "Chandrayaan-3 rover finds sulphur on moon's south pole - The New Indian Express". www.newindianexpress.com. Retrieved 30 August 2023.
+^ "What has India's rover been up to on the Moon?". BBC News. 30 August 2023. Archived from the original on 30 August 2023. Retrieved 30 August 2023.
+^ "Chandrayaan-3's Pragyan rover confirms presence of sulfur on surface of Moon". Hindustan Times. 30 August 2023. Archived from the original on 29 August 2023. Retrieved 29 August 2023.
+^ "Chandrayaan-3: Pragyaan rover detects presence of sulphur on Moon, search for hydrogen underway". Business Today. 29 August 2023. Archived from the original on 29 August 2023. Retrieved 29 August 2023.
+^ "RAMBHA-LP on-board Chandrayaan-3 measures near-surface plasma content". www.isro.gov.in. Retrieved 31 August 2023.
+^ "ILSA listens to the movements around the landing site". www.isro.gov.in. Retrieved 31 August 2023.
+^ "Professor John Bridges". le.ac.uk. Archived from the original on 29 August 2023. Retrieved 29 August 2023.
+^ Matthew Sparkes. "India's Chandrayaan-3 moon rover swerves to avoid crater". New Scientist. Archived from the original on 29 August 2023. Retrieved 29 August 2023.
+^ "Modi in Bengaluru Live Updates: Touchdown point of Vikram lander will be known as "Shivshakti Point", says PM". The Indian Express. 25 August 2023. Archived from the original on 26 August 2023. Retrieved 26 August 2023.
+^ "Modi in Bangalore Live: August 23 to be celebrated as National Space Day, announces PM Modi after ISRO Chandrayaan 3 Moon landing success". The Times of India. 26 August 2023. Archived from the original on 26 August 2023. Retrieved 26 August 2023.
+^ "PM Modi announces August 23 as 'National Space Day', lauds Isro scientists". Hindustan Times. 26 August 2023. Archived from the original on 26 August 2023. Retrieved 26 August 2023.
+External links
+Chandrayaan - 3 ISRO official site
+vte Indian space programme
+Department of Space (DoS)
+Organisations
+Indian Space Research Organisation (ISRO)
+Antrix Corporation
+Indian Institute of Space Science and Technology (IIST)
+Indian Institute of Remote Sensing (IIRS)
+National Atmospheric Research Laboratory (NARL)
+NewSpace India Limited (NSIL)
+Physical Research Laboratory (PRL)
+Development and Educational Communication Unit (DECU)
+Integrated Space Cell
+Defence Space Agency
+Indian National Space Promotion and Authorisation Centre (IN–SPACe)
+Programmes
+Bhaskara
+GAGAN
+GSAT
+INSAT
+IRNSS
+IRS
+Cartosat
+RISAT
+Rohini
+SROSS
+Chandrayaan
+Human Spaceflight Programme
+Satellites
+APPLE
+Aryabhata
+HAMSAT
+IMS-1
+Megha-Tropiques
+NISAR
+SARAL
+South Asia Satellite
+SRE
+SRE II
+Kalpana-1
+CARE
+Space observatories
+Astrosat
+Aditya-L1 (planned)
+XPoSat (planned)
+AstroSat-2 (proposed)
+Lunar andplanetary spacecraft
+Chandrayaan-1
+Chandrayaan-2
+Chandrayaan-3
+Lunar Polar Exploration Mission (proposed)
+Mars Orbiter Mission
+Mars Orbiter Mission 2 (proposed)
+Venus Orbiter Mission (proposed)
+Lunar rover
+Pragyan
+Crewed spacecraft
+Gaganyaan (Under development)
+Launch vehiclesActive
+Orbital
+PSLV
+Launches
+GSLV
+Launches
+LVM3
+SSLV
+Suborbital
+Rohini
+ATV
+In development
+RLV Technology Demonstration Programme
+NGLV
+Retired
+SLV
+ASLV
+EnginesActive
+CE-7.5
+CE-20
+Vikas
+In development
+SCE-200
+Spaceports
+Satish Dhawan Space Centre
+Thumba Equatorial Rocket Launching Station
+under development
+Kulasekharapatnam Spaceport
+Research facilities
+Vikram Sarabhai Space Centre
+U R Rao Satellite Centre
+Liquid Propulsion Systems Centre
+ISRO Propulsion Complex
+Space Applications Centre
+ISRO Inertial Systems Unit
+Laboratory for Electro-Optics Systems
+Human Space Flight Centre
+Development and Educational Communication Unit
+Communications
+Indian Deep Space Network
+Indian Space Science Data Centre
+ISRO Telemetry, Tracking and Command Network
+Master Control Facility
+National Remote Sensing Centre
+Legislation and policy
+Space Activities Bill
+Space policy of India
+Draft Spacecom Policy 2020
+SpaceRP Policy 2020
+Technology Transfer Policy and Guidelines
+Private companies
+Pixxel
+Skyroot Aerospace
+Satellize
+AgniKul Cosmos
+Dhruva Space
+Bellatrix Aerospace
+TeamIndus
+Related
+SAGA-220 (supercomputer)
+RESPOND
+List of Indian satellites
+List of Satish Dhawan Space Centre launches
+List of ISRO missions
+List of ISRO chairpersons
+vteLunar roversActive
+Yutu-2 (2019–present, on Chang'e 4)
+Pragyan (2023–present, on Chandrayaan-3)
+PastLunokhod
+Lunokhod 0 (1A)† (1969)
+Lunokhod 1 (1970–1971, on Luna 17)
+Lunokhod 2 (1973, on Luna 21)
+Apollo
+Lunar Roving Vehicle (1971, Apollo 15)
+LRV-2 (1972, Apollo 16)
+LRV-3 (1972, Apollo 17)
+CLEP
+Yutu (2013–2016, on Chang'e 3)
+Chandrayaan
+Pragyan† (2019, on Chandrayaan-2)
+Rashid
+Rashid† (2022–2023, on Hakuto-R)
+Planned
+Astrobotic M1 (carries: ASAGUMO (Spacebit) / CubeRover (Astrobotic) / Uni (Team AngelicvM) / Yaoki) (2023)
+MoonRanger (2023)
+SLIM (2023)
+VIPER (2024)
+Chang'e 7 (Rashid 2) (2026)
+Lunar Terrain Vehicle
+Proposed
+ATHLETE
+Audi Lunar Quattro ×2 (PTScientists)
+Deep Space Systems
+ECA
+HERACLES
+Lunar Cruiser
+Luna-Grunt rover
+LUPEX rover
+Moon Diver
+Moon Express
+OrbitBeyond rover
+Polaris
+Scarab
+Space Exploration Vehicle
+Team Puli
+Cancelled
+Lunokhod 3 (1977)
+Resource Prospector
+Related
+Tank on the Moon (2007 documentary)
+List of missions to the Moon
+Mars rover
+Rover (space exploration)
+List of extraterrestrial rovers
+Missions are ordered by launch date. Sign † indicates failure en route or before intended mission data returned.
+vteSpacecraft missions to the MoonExplorationprograms
+American
+Apollo
+Artemis
+CLPS
+Lunar Orbiter
+Lunar Precursor
+Pioneer
+Ranger
+Surveyor
+Chinese
+Chang'e
+Indian
+Chandrayaan
+Japanese
+Japanese Lunar Exploration Program
+Korean
+Danuri
+Russian
+Luna-Glob
+Soviet
+Crewed
+Luna
+Lunokhod
+Zond
+ActivemissionsOrbiters
+ARTEMIS
+CAPSTONE
+Chandrayaan-2 Orbiter
+Chandrayaan-3 (propulsion module)
+Chang'e 5-T1 (service module)
+Danuri
+Lunar Reconnaissance Orbiter
+Queqiao relay satellite (relay satellite at L2)
+Landers
+Chang'e 3
+Chang'e 4
+Vikram (Chandrayaan-3)
+Rovers
+Pragyan
+Yutu-2
+Flybys
+ArgoMoon
+EQUULEUS
+PastmissionsCrewed landings
+Apollo 11
+12
+14
+15
+16
+17
+(List of Apollo astronauts)
+Orbiters
+Apollo 8
+10
+Apollo Lunar Module
+Artemis 1
+Chang'e 1
+2
+5
+Chandrayaan-1
+Clementine
+Explorer 35
+49
+GRAIL
+Hiten
+LADEE
+Longjiang-2
+Luna 10
+11
+12
+14
+19
+22
+Lunar Orbiter 1
+2
+3
+4
+5
+Lunar Prospector
+PFS-1
+PFS-2
+SMART-1
+SELENE (Kaguya, Okina, Ouna)
+Impactors
+LCROSS
+Luna 2
+Moon Impact Probe
+Ranger 4
+6
+7
+8
+9
+Landers
+Apollo Lunar Module ×6
+Chang'e 5
+Luna 9
+13
+16
+17
+20
+21
+23
+24
+Surveyor 1
+3
+5
+6
+7
+Rovers
+Lunar Roving Vehicle
+Apollo 15
+16
+17
+Lunokhod 1
+2
+Yutu
+Sample return
+Apollo 11
+12
+14
+15
+16
+17
+Luna 16
+20
+24
+Chang'e 5
+Failed landings
+Beresheet
+Emirates Lunar Mission
+Hakuto-R M1
+Luna 5
+7
+8
+15
+18
+25
+OMOTENASHI
+Surveyor 2
+4
+Vikram (Chandrayaan-2)
+Flybys
+4M
+Apollo 13
+Chang'e 5-T1
+Geotail
+Galileo
+ICE
+Longjiang-1
+Luna 1
+3
+4
+6
+LunaH-Map
+Lunar Flashlight
+Lunar IceCube
+LunIR
+Mariner 10
+NEA Scout
+Nozomi
+Pioneer 4
+Ranger 5
+STEREO
+TESS
+WMAP
+Wind
+Zond 3
+5
+6
+7
+8
+PAS-22
+PlannedmissionsArtemis
+Artemis 2 (2024)
+Lunar Gateway
+Artemis 3 (2025)
+Artemis 4 (2028)
+Artemis 5 (2029)
+Artemis 6 (2030)
+Artemis 7 (2031)
+Artemis 8 (2032)
+CLPS
+IM-1 (Nov 2023)
+Peregrine M1 (Q4 2023)
+Asagumo
+CubeRover
+Uni
+Yaoki
+IM-2 (2024)
+Lunar Trailblazer
+VIPER (Nov 2024)
+Blue Ghost (2024)
+Luna-Glob
+Luna 26 (2027)
+Luna 27 (2028)
+Luna 28 (2030)
+Luna 29 (2030s)
+Luna 30 (2030s)
+Luna 31 (2030s)
+CLEP
+Queqiao2 (2024)
+Chang'e 6 (2025)
+Chang'e 7 (2026)
+Chang'e 8 (2028)
+Others
+Cislunar Explorers (2023)
+CU-E3 (2023)
+SLIM (2023)
+DESTINY+ (2024)
+Hakuto-R M2 (2024)
+#dearMoon project (2024)
+Hakuto-R M3 (2025)
+Beresheet 2 (2025)
+Lunar Pathfinder (2025)
+International Lunar Research Station (mid-late 2020s)
+MoonRanger (2020s)
+ProposedmissionsRobotic
+Lunar Polar Exploration Mission
+ALINA
+Artemis-7
+Blue Moon
+BOLAS
+Garatéa-L
+ISOCHRON
+LunaNet
+Lunar Crater Radio Telescope
+McCandless
+Moon Diver
+Crewed
+DSE-Alpha
+Boeing Lunar Lander
+Lockheed Martin Lunar Lander
+Lunar Orbital Station
+Cancelled /concepts
+Altair
+Baden-Württemberg 1
+European Lunar Explorer
+First Lunar Outpost
+International Lunar Network
+LEO
+LK
+Lunar-A
+Lunar Lander
+Lunar Mission One
+Lunar Observer
+Lunokhod 3
+MoonLITE
+MoonRise
+OrbitBeyond
+Project Harvest Moon
+Prospector
+Resource Prospector
+SELENE-2
+Ukrselena
+XL-1
+See also
+Colonization of the Moon
+Google Lunar X Prize
+List of lunar probes
+List of missions to the Moon
+List of artificial objects on the Moon
+Lunar resources
+Apollo 17 Moon mice
+Moon landing conspiracy theories
+Apollo 11 anniversaries
+List of crewed lunar landers
+Missions are ordered by launch date. Crewed missions are in italics.
+vteIndian spacecraft
+List of Indian satellites
+List of Satish Dhawan Space Centre launches
+List of ISRO missions
+SatellitesCommunication
+CMS
+01
+02
+GSAT
+1
+2
+3 (EDUSAT)
+4
+5P
+6
+6A
+7
+7A
+8
+9 (South Asia Satellite)
+10
+11
+12
+14
+15
+16
+17
+18
+19
+29
+30
+31
+HAMSAT
+INSAT
+1A
+1B
+1C
+1D
+2A
+2B
+2C
+2D
+2DT
+2E
+3A
+3B
+3C
+3D
+3DR
+3DS
+3E
+4A
+4B
+4C
+4CR
+4E
+4F
+4G
+Planned: GSAT
+20
+22
+23
+24
+Earth observation
+Bhaskara
+I
+II
+Cartosat
+1
+2
+2A
+2B
+2C
+2D
+2E
+2F
+3
+EMISAT
+EOS
+EOS-01
+HySIS
+IMS-1
+IRS
+1A
+1B
+1C
+1D
+1E
+P1
+P2
+P3
+Megha-Tropiques
+Microsat
+Microsat-R
+Oceansat
+1
+2
+Resourcesat
+1
+2
+RISAT
+1
+2
+2B
+2BR1
+Rohini
+RS-D1
+RS-D2
+SARAL
+SCATSAT-1
+Technology Experiment Satellite (TESS)
+Planned: NISAR
+GISAT
+Oceansat-3
+Resourcesat-3
+RISAT-1A
+Experimental
+APPLE
+Aryabhata
+Rohini
+RS-1
+Rohini Technology Payload (RTP)
+Navigation
+IRNSS
+1A
+1B
+1C
+1D
+1E
+1F
+1G
+1I
+NVS-01
+Student satellites
+ANUSAT
+Jugnu
+SRMSAT
+StudSat
+StudSat-2
+YouthSat
+Pratham
+Space probesScientific
+SROSS
+A
+B
+C
+C2
+Astronomical
+Astrosat
+Aditya-L1 (planned)
+XPoSat (planned)
+AstroSat-2 (planned)
+Lunar programme
+Chandrayaan-1
+Moon Impact Probe
+Chandrayaan-2
+Vikram
+Pragyan
+Chandrayaan-3
+Vikram
+Pragyan
+Lunar Polar Exploration Mission
+Chandrayaan-5
+Chandrayaan-6
+Interplanetary
+Mars Orbiter Mission
+Mars Orbiter Mission 2 (planned)
+Venus Orbiter Mission (planned)
+Humanspaceflight
+Indian human spaceflight programme
+SRE-1
+SRE-II
+SRE-III
+Gaganyaan
+CARE
+ISRO Space Station
+Future spacecraft in italics.
+vte21st-century space probesActive space probes(deep space missions)Sun
+Parker Solar Probe
+Solar Orbiter
+Moon
+ARTEMIS
+CAPSTONE
+Chandrayaan-2
+Chandrayaan-3 (Pragyan rover)
+Chang'e 3
+Chang'e 4 (Yutu-2 rover)
+Chang'e 5
+Danuri
+Lunar Reconnaissance Orbiter
+Queqiao
+Mars
+Emirates Mars Mission
+ExoMars TGO
+Mars Express
+2001 Mars Odyssey
+MAVEN
+MRO
+MSL Curiosity rover
+Tianwen-1
+Zhurong rover
+Mars 2020
+Perseverance rover
+Ingenuity helicopter
+Other planets
+BepiColombo
+Mercury
+Akatsuki
+Venus
+Juno
+Jupiter
+Minor planets
+Chang'e 2
+Hayabusa2 / MINERVA-II
+New Horizons
+OSIRIS-REx
+Interstellar space
+Voyager 1
+Voyager 2
+Completed after 2000(by termination date)2000s
+2001
+NEAR Shoemaker
+Deep Space 1
+2003
+Pioneer 10
+Galileo
+Nozomi
+2004
+Genesis
+2005
+Huygens
+2006
+Mars Global Surveyor
+2008
+Phoenix
+2009
+Chang'e 1
+Ulysses
+Chandrayaan-1
+SELENE
+LCROSS
+2010s
+2010
+Hayabusa
+MER Spirit rover
+2011
+Stardust
+2012
+GRAIL
+2013
+Deep Impact
+2014
+LADEE
+Venus Express
+Chang'e 5-T1
+2015
+MESSENGER
+PROCYON
+IKAROS
+2016
+Rosetta / Philae
+Yutu rover
+ExoMars Schiaparelli
+2017
+LISA Pathfinder
+Cassini
+2018
+MASCOT
+Dawn
+Longjiang-1
+2019
+MarCO
+MER Opportunity rover
+Beresheet
+Longjiang-2
+Vikram / Pragyan rover
+2020s
+2020
+Chang'e 5
+2022
+Double Asteroid Redirection Test
+Mangalyaan
+InSight
+2023
+Hakuto-R Mission 1
+Luna 25
+List of Solar System probes
+List of lunar probes
+List of extraterrestrial orbiters
+List of space telescopes
+vte← 2022  ·  Orbital launches in 2023  ·  2024 →January
+ION SCV-007 & 008 (Astrocast × 4), Orbiter SN1† (Unicorn-2G†, Unicorn-2H†), Vigoride-5, ICEYE × 3, Lynk Tower 03, Lynk Tower 04, ÑuSat × 4, Flock 4y × 36, KSF3 × 4, Gama Alpha, Lemur-2 × 6, Milspace-2 1, MilSpace-2 2, Platform 2, SpaceBEE × 12,
+Shijian 23
+ForgeStar-0†, STORK-6†
+OneWeb L16 (40 satellites)
+Apstar 6E
+Yaogan 37, Shiyan 22A, Shiyan 22B
+Jilin-1 Gaofen-03D 34, Jilin-1 Hongwai-01A × 2, Jilin-1 Mofang-02A × 3
+LDPE-3A, USA-342 / CBAS-2
+USA-343 / GPS III-06
+Starlink G2-4 (51 satellites)
+Hawk × 3
+IGS-Radar 7
+Starlink G5-2 (56 satellites)
+Starlink G2-6 (49 satellites), ION SCV-009
+February
+Starlink G5-3 (53 satellites)
+Elektro-L №4
+Amazonas Nexus
+Progress MS-22
+Starlink G5-4 (55 satellites)
+Starlink G2-5 (51 satellites)
+Inmarsat-6 F2
+ChinaSat 26
+Soyuz MS-23
+Starlink G6-1 (21 satellites)
+March
+SpaceX Crew-6
+Starlink G2-7 (51 satellites)
+ALOS-3†
+OneWeb L17 (40 satellites)
+Olymp-K №2 / Luch-5X №2
+SpaceX CRS-27
+Shiyan 19
+Capella 9, Capella 10
+Gaofen 13-02
+Starlink G2-8 (52 satellites)
+SES-18, SES-19
+Kosmos 2567 / Bars-M 4L
+BlackSky 18, BlackSky 19
+Starlink G5-5 (56 satellites)
+OneWeb L18 (36 satellites)
+Ofeq-13
+Kosmos 2568 / EO MKA №4
+Starlink G5-10 (56 satellites)
+PIESAT-1A 01, PIESAT-1B × 3
+Yaogan 34-04
+April
+Intelsat 40e / TEMPO
+JUICE
+ION SCV-010 (Kepler-20, Kepler-21), Vigoride-6, Hawk × 3, İMECE, ÑuSat × 4, DEWA SAT-2, LacunaSat-2F, Lemur-2 × 3, Sateliot_0 / Platform 3, TAIFA-1
+Fengyun 3G
+Starlink G6-2 (21 satellites)
+Starlink G3-5 (46 satellites)
+O3b mPOWER 3, O3b mPOWER 4
+May
+ViaSat-3.1
+Starlink G5-6 (56 satellites)
+TROPICS 05, TROPICS 06
+Tianzhou 6
+Starlink G2-9 (51 satellites)
+BeiDou-3 G4
+Starlink G6-3 (22 satellites)
+Iridium 9 (5 satellites), OneWeb L19 (15 satellites), JoeySat
+Axiom Mission 2
+Progress MS-23
+TROPICS 03, TROPICS 07
+Kondor-FKA №1
+Arabsat 7B (BADR-8)
+NVS-01
+Shenzhou 16
+Malligyong-1†
+Starlink G2-10 (52 satellites)
+June
+Starlink G6-4 (22 satellites)
+SpaceX CRS-28 (Maya-5, Maya-6)
+Shiyan 24A, Shiyan 24B
+Starlink G5-11 (52 satellites)
+ION SCV-011 (Unicorn-2I), Orbiter SN3, Blackjack Aces × 4, ICEYE × 4, ÑuSat × 4, Lemur-2 × 3, SpaceBEE × 14
+Jilin-1 Gaofen-03D × 8, Jilin-1 Gaofen-06A × 30, Jilin-1 Pingtai-02A × 2
+SATRIA
+Shiyan 25
+Starlink G5-7 (47 satellites)
+USA-345 / Orion 11
+Starlink G5-12 (56 satellites)
+Meteor-M №2-3
+July
+Euclid
+Syracuse 4B
+Starlink G5-13 (48 satellites)
+Starlink G6-5 (22 satellites)
+Chandrayaan-3 (Vikram, Pragyan)
+Starlink G5-15 (54 satellites)
+Lemur-2 × 2
+Starlink G6-15 (15 satellites)
+Starlink G6-6 (22 satellites)
+Yaogan 36-05 (3 satellites)
+Starlink G6-7 (22 satellites)
+Jupiter-3 / EchoStar-24
+August
+Cygnus NG-19
+Fengyun 3F
+Galaxy-37
+Starlink G6-8 (22 satellites)
+Kosmos 2569 / GLONASS-K2 13L
+Starlink G6-20 (15 satellites)
+S-SAR 02 / Huanjing-2F
+Luna 25
+Starlink G6-9 (22 satellites)
+Starlink G6-10 (22 satellites)
+Gaofen 12-04
+Starlink G7-1 (21 satellites)
+Progress MS-24
+Malligyong-1 F2†
+Acadia 1
+Jilin-1 Kuanfu-02A
+SpaceX Crew-7
+Starlink G6-11 (22 satellites)
+Yaogan 39-01 (3 satellites)
+Launches are separated by dots ( • ), payloads by commas ( , ), multiple names for the same satellite by slashes ( / ). Cubesats are smaller.Crewed flights are underlined. Launch failures are marked with the † sign. Payloads deployed from other spacecraft are (enclosed in parentheses).
+Portals: Space Science India
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Chandrayaan-3&oldid=1173225044"
+Categories: 2023 in spaceflightMissions to the MoonLunar roversIndian lunar exploration programme2023 in IndiaISRO space probes2023 on the MoonSoft landings on the MoonHidden categories: Articles with short descriptionShort description is different from WikidataWikipedia semi-protected pagesCurrent events from August 2023Use Indian English from August 2023All Wikipedia articles written in Indian EnglishUse dmy dates from August 2023Coordinates not on Wikidata
+ This page was last edited on 1 September 2023, at 02:10 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

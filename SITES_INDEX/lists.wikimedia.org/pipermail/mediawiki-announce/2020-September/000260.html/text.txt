@@ -1,0 +1,392 @@
+[MediaWiki-announce] Security and maintenance release: 1.31.9 / 1.34.3 - MediaWiki-announce - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+                            2023
+                        
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2022
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2021
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2020
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2019
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2018
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2017
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2016
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2015
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2014
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2013
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2012
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2011
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2010
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2009
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2008
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2007
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2006
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2005
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2004
+                        
+December
+            List overview
+ Download
+thread
+[MediaWiki-announce] Security and maintenance release: 1.31.9 / 1.34.3
+Sam Reed
+                24 Sep
+                
+                    2020
+                
+            
+                24 Sep
+                
+                '20
+                
+            
+6:05 p.m.
+ 
+I would like to announce the release of MediaWiki 1.34.3, and 1.31.9!
+These releases also serve as a maintenance release for these branches.
+While tarballs have already been uploaded, git tags will follow later on
+today.
+An "MediaWiki Extensions Security Release Supplement" email will follow
+this one.
+As mentioned in the pre-release announcement, this will potentially be the
+final release of the MediaWiki 1.34 branch, barring any unforeseen issues.
+For continued support in the future, you are advised to upgrade to
+MediaWiki 1.35 in the near future.
+The release announcement for MediaWiki 1.35 will follow this one before the
+end of day tomorrow. MediaWiki 1.35 will be supported until September 2023.
+== Security fixes ==
+* (T232568, CVE-2020-25813) SECURITY: SpecialUserrights: If a viewer lacks
+`hideuser`, ignore hidden users.
+* (T255918, CVE-2020-25812) SECURITY: Unescaped message used in HTML on
+Special:Contributions.
+* (T256171, CVE-2020-25815) SECURITY: Unescaped message used in HTML within
+LogEventsList.
+* (T258763, CVE-2020-17367, CVE-2020-17368) SECURITY: Prevent invoking
+firejail's --output functionality.
+* (T86738, CVE-2020-25814) SECURITY: mediawiki.jqueryMsg: Sanitize URLs and
+'style' attribute.
+* (T115888, CVE-2020-25828) SECURITY: mediawiki.js: Escape HTML in
+mw.message( ... ).parse().
+* (T260485, CVE-2020-25869) SECURITY: ActorMigration: Load user from the
+correct database.
+* (T260485, CVE-2020-25869) SECURITY: ensure actor ID from correct wiki is
+used.
+* (T251661, CVE-2020-25827) SECURITY: TOTP throttle not enforced cross-wiki.
+== Links to all mentioned tasks ==
+* https://phabricator.wikimedia.org/T232568
+* https://phabricator.wikimedia.org/T255918
+* https://phabricator.wikimedia.org/T256171
+* https://phabricator.wikimedia.org/T258763
+* https://phabricator.wikimedia.org/T86738
+* https://phabricator.wikimedia.org/T115888
+* https://phabricator.wikimedia.org/T260485
+* https://phabricator.wikimedia.org/T251661
+== Release notes ==
+Full release notes for 1.31.9:
+https://phabricator.wikimedia.org/diffusion/MW/browse/REL1_31/RELEASE-NOTES…
+https://www.mediawiki.org/wiki/Release_notes/1.31
+Full release notes for 1.34.3:
+https://phabricator.wikimedia.org/diffusion/MW/browse/REL1_34/RELEASE-NOTES…
+https://www.mediawiki.org/wiki/Release_notes/1.34
+For information about how to upgrade, see
+<https://www.mediawiki.org/wiki/Manual:Upgrading>
+**********************************************************************
+Download:
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-1.31.9.tar.gz
+Download without bundled extensions:
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-core-1.31.9.tar.gz
+Patch to previous version (1.31.8):
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-1.31.9.patch.gz
+GPG signatures:
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-core-1.31.9.tar.gz.…
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-1.31.9.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-1.31.9.patch.gz.sig
+Public keys:
+https://www.mediawiki.org/keys/keys.html
+**********************************************************************
+Download:
+https://releases.wikimedia.org/mediawiki/1.34/mediawiki-1.34.3.tar.gz
+Download without bundled extensions:
+https://releases.wikimedia.org/mediawiki/1.34/mediawiki-core-1.34.3.tar.gz
+Patch to previous version (1.34.2):
+https://releases.wikimedia.org/mediawiki/1.34/mediawiki-1.34.3.patch.gz
+GPG signatures:
+https://releases.wikimedia.org/mediawiki/1.34/mediawiki-core-1.34.3.tar.gz.…
+https://releases.wikimedia.org/mediawiki/1.34/mediawiki-1.34.3.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.34/mediawiki-1.34.3.patch.gz.sig
+Public keys:
+https://www.mediawiki.org/keys/keys.html
+ 0
+ 0
+            Reply
+        
+Back to the thread
+            Back to the list
+        
+ 
+            Powered by HyperKitty version 1.3.4.
+        

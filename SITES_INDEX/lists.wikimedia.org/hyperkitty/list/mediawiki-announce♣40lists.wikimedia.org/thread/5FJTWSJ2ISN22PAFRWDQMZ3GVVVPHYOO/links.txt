@@ -1,0 +1,15 @@
+https://gerrit.wikimedia.org/g/mediawiki/core/+/REL1_37/RELEASE-NOTES-1.37
+https://www.mediawiki.org/wiki/Release_notes/1.37
+https://www.mediawiki.org/keys/keys.html
+https://phabricator.wikimedia.org/project/board/4928/
+https://phabricator.wikimedia.org/maniphest/task/edit/form/1/?tags=MW-1.37-Release
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-1.37.0-rc.0.tar.gz
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-1.37.0-rc.0.zip
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-core-1.37.0-rc.0.tar.gz
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-core-1.37.0-rc.0.zip
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-core-1.37.0-rc.0.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-core-1.37.0-rc.0.zip.sig
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-1.37.0-rc.0.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-1.37.0-rc.0.zip.sig
+https://www.mediawiki.org/keys/keys.html
+http://hyperkitty.readthedocs.org

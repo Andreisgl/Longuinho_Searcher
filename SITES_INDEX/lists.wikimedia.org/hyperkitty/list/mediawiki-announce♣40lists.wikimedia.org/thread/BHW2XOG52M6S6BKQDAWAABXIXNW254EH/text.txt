@@ -1,0 +1,398 @@
+MediaWiki 1.37.0-rc.2 is ready for testing - MediaWiki-announce - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+            List overview
+       All Threads
+ Download
+newer
+MediaWiki 1.37.0-rc.2 is ready for testing
+older
+Announcing MediaWiki 1.37.0
+MediaWiki 1.37.0-rc.1 is ready for...
+ 
+First Post
+Replies
+Stats
+Threads by month 
+----- 2023 -----
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2022 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2021 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2020 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2019 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2018 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2017 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2016 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2015 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2014 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2013 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2012 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2011 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2010 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2009 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2008 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2007 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2006 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2005 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2004 -----
+December
+ 
+Sam Reed
+                10 Nov
+                
+                    2021
+                
+            
+                10 Nov
+                
+                '21
+                
+            
+7:46 p.m.
+ 
+I'm pleased to announce the immediate availability of MediaWiki
+1.37.0-rc.2, the second release candidate for 1.37.x. Download links are at
+the end of the e-mail. The tag has been signed and pushed to Git.
+
+This is not a final release, and should not be used for production
+websites. Known issues are tracked in Phabricator on the release workboard
+[1]. As with every release of MediaWiki, a large number of changes have
+landed in the last six months (over 1700 commits since 1.36.0 was cut), and
+you should read over the preliminary release notes as part of assuring
+yourself of areas that may have issues with your configuration, your skins,
+and/or your extensions.
+
+As always, please try out the release candidate in a test environment and
+do report any issues that you discover. Please use the #MW-1.37-Release [2]
+tag in Phabricator when reporting issues specific to this release, to make
+sure that we find them as quickly as possible.
+
+It is expected that this will be the final release candidate, and that
+MediaWiki 1.37 will become final in late November 2021, though the date may
+slip if blockers are identified.
+
+Preliminary release notes:
+https://gerrit.wikimedia.org/g/mediawiki/core/+/REL1_37/RELEASE-NOTES-1.37
+https://www.mediawiki.org/wiki/Release_notes/1.37
+
+Changes since 1.37.0-rc.1:
+* (T295173) Re-add wikimedia/normalized-exception to vendor.
+* Remove wikimedia/testing-access-wrapper, psr/simple-cache,
+psr/http-factory from vendor.
+* (T295191) ApiQuerySiteinfo: Fix "rightsinfo"/"url" when
+$wgRightsPage is
+set.
+* (T212428) Allow populateContentTables to continue when there are bad
+blobs.
+
+Open Bugs:
+[1] https://phabricator.wikimedia.org/project/board/4928/
+
+Bug report form:
+[2]
+https://phabricator.wikimedia.org/maniphest/task/edit/form/1/?tags=MW-1.37-…
+
+**********************************************************************
+Download:
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-1.37.0-rc.2.tar.gz
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-1.37.0-rc.2.zip
+
+Download without bundled extensions:
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-core-1.37.0-rc.2.ta…
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-core-1.37.0-rc.2.zip
+
+Patch to previous version (1.37.0-rc.1):
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-1.37.0-rc.2.patch.gz
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-1.37.0-rc.2.patch.z…
+
+GPG signatures:
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-core-1.37.0-rc.2.ta…
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-core-1.37.0-rc.2.zi…
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-1.37.0-rc.2.tar.gz.…
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-1.37.0-rc.2.zip.sig
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-1.37.0-rc.2.patch.g…
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-1.37.0-rc.2.patch.z…
+
+Public keys:
+https://www.mediawiki.org/keys/keys.html
+ 0
+ 0
+            Reply
+        
+Show replies by date
+662
+                days inactive
+            
+662
+                days old
+            
+ 
+            mediawiki-announce@lists.wikimedia.org
+        
+        Manage subscription
+        0 comments
+    
+        1 participants
+    
+Add to favorites
+Remove from favorites
+tags (3)
+        
+        
+adsense
+|
+googleadsense
+|
+mywebsite
+participants (1)
+        
+Sam Reed
+ 
+            Powered by HyperKitty version 1.3.4.
+        

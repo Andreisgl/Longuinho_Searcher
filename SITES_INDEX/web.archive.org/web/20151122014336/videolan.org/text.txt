@@ -1,0 +1,216 @@
+VideoLAN - VideoLAN - Press Release - GPLv2
+189 captures
+18 Dec 2008 - 12 Jun 2023
+Sep
+NOV
+Jan
+22
+2014
+2015
+2017
+success
+fail
+ About this capture
+COLLECTED BY
+Organization: Internet Archive
+  These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to.   That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.  
+Then the Internet Archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.
+The goal is to fix all broken links on the web. 
+Crawls of supported "No More 404" sites.
+Collection: Wikipedia Near Real Time (from IRC)
+  This is a collection of web page captures from links added to, or changed on, Wikipedia pages. The idea is to bring a reliability to Wikipedia outlinks so that if the pages referenced by Wikipedia articles are changed, or go away, a reader can permanently find what was originally referred to.
+This is part of the Internet Archive's attempt to rid the web of broken links.
+TIMESTAMPS
+The Wayback Machine - http://web.archive.org/web/20151122014336/http://www.videolan.org/press/2007-1.html
+ 
+       A project and a non-profit organization, composed of volunteers, developing and promoting free, open-source multimedia solutions.       
+donate  (why?)
+donate
+donate
+Home
+News
+VideoLAN
+Project and Organization
+Team
+Contact us
+Partners
+Mirrors
+Press center
+Events
+Security center
+VLC
+Download
+Features
+Screenshots
+Skins
+Extensions
+VLC for Windows
+VLC for Mac OS X
+VLC for Android
+VLC for iOS
+Projects
+VLC media player
+VideoLan Movie Creator
+DVBlast
+x264
+x262
+x265
+multicat
+VLMa
+VLC Skin Editor
+libdvdcss
+libbluray
+libdvbpsi
+libaacs
+libdvbcsa
+biTStream
+All Projects
+Contribute
+Donate time
+Donate money
+Get Goodies
+Support
+Support center
+FAQ
+Legal
+Wiki
+Forums
+Mailing-Lists
+Report a bug
+Dev' Zone
+ 
+VLC media player to remain under GNU GPL version 2
+VLC media player (VLC) is an open-source cross-platform media player
+and streaming solution.
+In 2001, VLC was released under the OSI-approved
+GNU General Public version 2,
+with the commonly-offered option to use "any later version"
+thereof (though there was not any such later version at the time).
+Following the release by the Free Software Foundation (FSF)
+of the new version 3 of its GNU General Public License (GPL)
+on the 29th of June 2007,
+contributors to the VLC media player,
+and other software projects hosted at videolan.org,
+debated the possibility of updating the licensing terms
+for future version of the VLC media player and other hosted projects,
+to version 3 of the GPL.
+The VideoLAN project is a strong supporter of open-source and free software,
+and strives to provide a state-of-the-art multimedia framework
+for the indiscriminate benefit of all of its users, its contributors,
+and the open-source community at large.
+It is our understanding that our software licensing terms
+are of the utmost importance to protecting the rights of our contributors
+at the same time as the freedoms and benefits of our users.
+We recognize that certain changes to the GPL constitute certain improvements
+and would help foster the long-term significance and quality
+of open-source softwares.
+In particular, we welcome:
+the extended compatibility with other open-source licenses,
+making the license terms less specific to the US legal system
+(this is especially important to our project which is historically
+ based in Europe),
+various clarifications
+    such as the more explicit interaction with patents.
+However, several of our key contributors and users have clearly stated
+their objection to the clause on Installation Information,
+a.k.a. the "Tivo clause":
+“Installation Information” for a User Product means any methods, procedures,
+authorization keys, or other information required to install and execute
+modified versions of a covered work in that User Product from a modified
+version of its Corresponding Source.
+The information must suffice to ensure that the continued functioning of the
+modified object code is in no case prevented or interfered with solely because
+modification has been made.
+If you convey an object code work under this section in, or with, or
+specifically for use in, a User Product, and the conveying occurs as part of a
+transaction in which the right of possession and use of the User Product is
+transferred to the recipient in perpetuity or for a fixed term (regardless of
+how the transaction is characterized), the Corresponding Source conveyed under
+this section must be accompanied by the Installation Information.
+(...)
+There is strong concern that these new additional requirements might not
+match the industrial and economic reality of our time,
+especially in the market of consumer electronics.
+It is our belief that changing our licensing terms to GPL version 3
+would currently not be in the best interest of our community as a whole.
+Consequently, we plan to keep distributing future versions of
+VLC media player under the terms of the GPL version 2.
+We would however like to remind our users that,
+because VLC media player depends on a wide range of open-source libraries,
+we may be forced into distributing certain, if not all,
+of our official binary releases under GPL version 3,
+should any single of those libraries switch to a license
+that is incompatible with GPL version 2
+(at the time of writing, the only identified case is libsmbclient
+ from the Samba project).
+We expect that third-party binary releases
+(such as those made by Linux and BSD distributions)
+will be similarly impacted.
+Nevertheless, we will continue to distribute
+the VLC media player source code
+under GPL "version 2 or any later version"
+until further notice.
+Rémi Denis-Courmont,
+on behalf of the VideoLAN project,
+videolanremovethis@videolan.org
+References:
+VLC media player
+http://www.videolan.org/vlc/
+GNU General Public License
+http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+Free Software Foundation
+http://www.fsf.org/
+Samba project
+http://www.samba.org/
+ 
+VLC media player
+VLC
+VLC for Windows
+VLC for Mac OS X
+VLC for Ubuntu
+VLC for Android
+VLC for iOS
+Skins
+Extensions
+Features
+Screenshots
+VLC Skin Editor
+All Projects
+VideoLan Movie Creator
+DVBlast
+x264
+x262
+x265
+multicat
+VLMa
+libdvdcss
+libbluray
+libdvbpsi
+libaacs
+libdvbcsa
+biTStream
+Community
+Wiki
+Forums
+Mailing-Lists
+FAQ
+Donate money
+Donate time
+Get Goodies
+VideoLAN
+Project and Organization
+Team
+Legal
+Contact us
+Partners
+Mirrors
+Press center
+Events
+Security center
+Get Involved
+News
+Legal | Report Trademark Abuse
+            VideoLAN, VLC, VLC media player and x264 are trademarks internationally registered by the VideoLAN non-profit organization.
+            VideoLAN software is licensed under various open-source licenses: use and distribution are defined by each software license.
+Design by Made By Argon. Some icons are licensed under the CC BY-SA 3.0+. 
+            The VLC cone icon was designed by Richard Øiestad. Icons for VLMC, DVBlast and x264 designed by Roman Khramov.

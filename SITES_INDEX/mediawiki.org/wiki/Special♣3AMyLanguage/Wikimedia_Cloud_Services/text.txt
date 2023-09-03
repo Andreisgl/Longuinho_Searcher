@@ -1,0 +1,174 @@
+Wikimedia Cloud Services team - MediaWiki
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageGet MediaWikiGet extensionsTech blogContribute
+Support
+User helpFAQTechnical manualSupport deskCommunication
+Development
+Developer portalCode statistics
+MediaWiki.org
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+In other languages
+Add links
+Search
+Search
+ EnglishCreate accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+Beginning
+1Team
+2Social Norms
+Toggle Social Norms subsection
+2.1Decision making
+2.1.1When do you have autonomy to decide?
+2.1.2How does the decision process go?
+2.1.2.1Decision meeting:
+2.1.3Documenting a decision:
+3Mission
+Toggle Mission subsection
+3.1Objectives
+4Responsibilities
+5Our audiences
+6Projects
+7Goals
+8Subpages
+Toggle the table of contents
+Toggle the table of contents
+Wikimedia Cloud Services team
+Issue tracker: #cloud-services-team
+PageDiscussion
+English
+ReadView sourceView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadView sourceView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+From mediawiki.org
+The Wikimedia Cloud Services team (WMCS) is a subteam of the Technical Engagement team responsible for maintaining and extending the existing Wikimedia Cloud Services computing infrastructure (virtual private server (VPS)), the Toolforge hosting environment (platform as a service (PaaS)), and many additional supporting technologies used in the Cloud Services environment. The team works in partnership with the larger Wikimedia volunteer community to manage the physical and virtual resources that power the environment and provide technical support to volunteer developers and other Wikimedia Cloud Services users.
+Team
+Andrew Bogott
+Arturo Borrero González
+David Caro
+Francesco Negri
+Vivian Rook
+Nicholas Skaggs
+Social Norms
+A collaboratively written set of guidelines that we want to follow as a team.
+Decision making
+Sometimes making decisions is hard, and sometimes you just need a decision made. This is a social agreement between the members of the team to follow and commit to the following decision process:
+When do you have autonomy to decide?
+If you are responsible for the decision* -> Communicate + you have autonomy to make the decision (err on the side of communication)
+If you think that the task is going to take >5 days (1 working week) -> engage
+Example: If the task is maintenance on existing work and has little to no user impact (e.g. upgrades, refreshes, cluster expansions, etc. etc.) and takes less than 5 days -> Just do it.
+If you think that the scope is going to affect any of the other teammates current tasks -> engage on the decision process
+If the task is reactive (addressing security concerns or outages) -> Communicate but do not delay for the decision process, once the urgency is dealt with, reevaluate.
+Otherwise -> Communicate + you have autonomy to make the decision.
+* The responsibility for the decision comes when you are made directly responsible for a project that is assigned when starting/planning a project.
+How does the decision process go?
+NOTE: If you have autonomy, then it's up to you to decide when/how/who to consult or get involved, following this process is still recommended for technical discussions and decision record keeping, specially for architectural/big decisions.
+Otherwise:
+Create a task in phabricator with the tag #wmcs-proposals, and share with the team/publicly for a week (via email to cloudservices@wikimedia.org and bullet point in weekly meeting), pre-filled task creation url here (also linked from the bottom of the cloud-services-proposal project description).
+If there were any questions/concerns, gather those and start an exploration for another week (experiment/docs reading…)
+Write down all the discoveries as an enhancement proposal on wikitech, at this point it should be written in a specific format (see below).
+If there's no obvious agreement, create a meeting and invite the team, share the status of the proposal and make a decision (Wikimedia_Cloud_Services_team#Documenting_a_decision: see below).
+Record the decision (see below for documenting it) – any phab task or email thread in process should be resolved with a link to a wikitech page documenting the decision under ‘enhancement proposals’
+Enhancement proposal docs can link to operational instructions but should NOT contain them! They go other places (runbooks, etc)
+Decision meeting:
+This will happen in a synchronous meeting, created by the proposer of the decision, with the format:
+Time boxed, 40 min
+A decision will be made by the end of the meeting
+5 min before the end, the present people will cast a vote
+The creator/proposer commits to driving the meeting towards a conclusion (and is permitted and encouraged to interrupt distractions or derailing conversations as needed)
+When no consensus happens (less than 60%)… the decider decides (decider is, in order of priority, Tech lead, team manager, idea proposer).
+Documenting a decision:
+Create a new page under enhancement proposals using this template:
+https://wikitech.wikimedia.org/wiki/Wikimedia_Cloud_Services_team/EnhancementProposals/Decision_record_template
+You will be able to copy most of the contents of the task into the wiki page and just fill up the missing bits.
+Mission
+The mission of the Wikimedia Foundation is to empower and engage people around the world to collect and develop educational content under a free license or in the public domain, and to disseminate it effectively and globally. Technology serves a key role in these activities by lowering barriers to large-scale collaboration and reducing publishing costs to negligible levels. A significant portion of the technology used by the Wikimedia movement is developed by the movement itself, and these products need support in the form of compute resources, technical guidance, and community support to flourish.
+Objectives
+The strategic activities of the Wikimedia Cloud Services team have two objectives to support our mission:
+Reduce the barriers to making technical contributions to the Wikimedia movement.
+Provide excellent hosting solutions to support technical projects.
+Responsibilities
+Provide a stable and effective hosting platform for technical projects relevant to the Wikimedia movement when such projects are incompatible with Wikimedia Foundation production hosting.
+Develop and maintain services and platforms that empower the creation, operation, and maintenance of custom technical solutions to problems of the Wikimedia movement.
+Provide public, simple access to content and data produced by the Wikimedia projects to empower new technological and social solutions to problems of the Wikimedia movement.
+Provide technical support, documentation, and community support to foster growth and productivity of the community of users of the WMCS products.
+Our audiences
+Wikimedia Cloud Services caters to various audiences, ranging from contributors with limited technical experience to professional software engineers.
+Projects
+Cloud VPS
+Toolforge
+toolsadmin.wikimedia.org
+Goals
+2023-24 Q1
+2022-23
+2021-22
+2020-21 Q2
+2020-21 Q1
+2019-20 Q4
+2019-20 Q3
+2019-20 Q2
+2019-20 Q1
+2018-19 Q4
+2018-19 Q3
+2018-19 Q2
+2018-19 Q1
+2017-18 Q4
+2017-18 Q3
+2017-18 Q2
+2017-18 Q1
+2016-17 Q4
+Also see the corresponding quarterly columns on the Phabricator team workboards.
+Subpages
+Conferences
+Onboarding Arturo
+Onboarding Arturo/Sessions
+Onboarding Brooke
+Onboarding Brooke/Sessions
+Onboarding Chico/Sessions
+Onboarding David
+Onboarding Francesco
+Onboarding Giovanni
+Onboarding Hieu
+Onboarding Hieu/Sessions
+Onboarding Jason
+Onboarding Michael
+Onboarding Slavina
+Onboarding template
+Our audiences
+Phabricator boards
+Team Social Norms
+Team work board practices
+goals/2023-24 Q1
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Wikimedia_Cloud_Services_team&oldid=6069835"
+Category: WMF Projects
+ This page was last edited on 15 August 2023, at 23:13.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About MediaWiki.org
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

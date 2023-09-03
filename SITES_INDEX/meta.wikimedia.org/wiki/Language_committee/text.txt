@@ -1,0 +1,388 @@
+Language committee - Meta
+Language committee
+From Meta, a Wikimedia project coordination wiki
+(Redirected from Language Committee)
+Jump to navigation
+Jump to search
+Translate this page; This page contains changes which are not marked for translation.Other languages:Acèh
+Afrikaans
+Bahasa Indonesia
+Bahasa Melayu
+Basa Bali
+British English
+Deutsch
+English
+Esperanto
+Frysk
+Lëtzebuergesch
+Nederlands
+Plattdüütsch
+Sassaresu
+Tagalog
+Tiếng Việt
+Türkçe
+Yorùbá
+Zazaki
+azərbaycanca
+català
+corsu
+dansk
+español
+euskara
+français
+føroyskt
+hrvatski
+italiano
+kurdî
+lietuvių
+magyar
+norsk bokmål
+occitan
+polski
+português
+português do Brasil
+română
+slovenčina
+slovenščina
+suomi
+svenska
+tolışi
+čeština
+Ελληνικά
+български
+кыргызча
+македонски
+русский
+українська
+ייִדיש
+اردو
+العربية
+بختیاری
+تۆرکجه
+جازايرية
+روچ کپتین بلوچی
+سنڌي
+فارسی
+لئری دوٙمینی
+لۊری شومالی
+پښتو
+کوردی
+کھوار
+अंगिका
+अवधी
+नेपाली
+भोजपुरी
+हिन्दी
+বাংলা
+ਪੰਜਾਬੀ
+ગુજરાતી
+தமிழ்
+తెలుగు
+ಕನ್ನಡ
+മലയാളം
+ไทย
+ပအိုဝ်ႏဘာႏသာႏ
+ဖၠုံလိက်
+ဘာသာ မန်
+မြန်မာဘာသာ
+ქართული
+ភាសាខ្មែរ
+Ἀρχαία ἑλληνικὴ
+中文
+日本語
+粵語
+ꠍꠤꠟꠐꠤ
+ꯃꯤꯇꯩ ꯂꯣꯟ
+한국어
+← Wikimedia committees
+Language committee
+Shortcut: Langcom
+This page provides information about the committee on languages.
+Language committee
+Language committee
+For requesting users
+Requests
+Proposal policy
+Handbook (requesters)
+Incubator manual
+For members
+Handbook (committee)
+Voting policy
+Information
+Common answers
+Discussion archives
+Closing projects (voluntarily)
+Closing projects policy
+Proposals
+ This box: view · talk · edit 
+Board of Trustees committees
+Governance Committee
+Audit Committee
+Talent & Culture Committee
+Product & Technology Committee
+Community Affairs Committee
+Wikimedia Foundation committees
+Communications committee
+Elections Committee
+Community-/movement-wide committees
+Affiliations Committee
+Language committee
+Ombuds commission
+Interim Case Review Committee
+Movement Charter Drafting Committee
+Resources allocation committees
+Conference Support Committee
+Regional Grants Committees
+Events committee
+Wikimania Committee
+All Wikimedia committees
+The Wikimedia Foundation language committee is in charge of developing a clear policy and documentation for new language projects and their proposal, processing those requests, and supporting and coordinating new projects to optimize their success.
+Historically, it was founded as a subcommittee of the Special Projects Committee. With that committee now defunct, it reports directly to the Wikimedia Board of Trustees.
+The Language Committee mainly acts in the Requests for new languages process by reviewing the requests, giving advice and eventually recommending the creation of new language versions to the Board. Individual Langcom members also take care of the proposals for closing projects. If you have any questions (for example about the possible requesting of a new language version), please direct these to the talk page or directly to any member.
+Contents
+1 Charter
+1.1 Scope
+1.2 Goals
+1.3 Transparency
+2 Discussions
+3 Members
+3.1 Current
+3.2 Board liaison
+3.3 Former
+3.4 Timeline
+4 Timeline
+5 See also
+Charter[edit]
+This is a proofread version of the original charter with a later amendment authorizing request approval.
+Scope[edit]
+The committee is tasked as follows.
+The development and maintenance of:
+a clear step-by-step policy (based on quantitative indicators) for evaluating the feasibility of new language wikis, with an automated procedure for project development;
+support and policy development for script and localization related problems;
+documentation to support new language communities towards a stable growth rate;
+support and coordination for cross-language projects, helping smaller communities share resources and maximize their results;
+support and coordination to maintain compatibility among the different MediaWiki installations, in order to reduce the amount of development needed to upgrade the program base as far as localization is concerned.
+The processing of requests for new language subdomains of existing Wikimedia projects, providing it gives the Wikimedia Foundation Board of Trustees four days advance notice before approving a request.
+Goals[edit]
+The goals of the committee are to:
+minimize the political aspects connected to the release of new projects, moving the focus towards purely quantitative decision criteria;
+minimize the need of localization-related funding and development by providing a common shared policy;
+maximize the reuse of proven marketing techniques among different editions;
+maximize the co-operation level among different language communities by providing common fields of activity;
+achieve the widest possible localization level for MediaWiki at the lowest cost, in order to maintain and improve its leading role as an open-source content management system.
+Transparency[edit]
+The whole set of activities of the language committee is public, and any advice from the community is welcome.
+The committee values the fact that projects are a property of the single editors who make it and considers users' necessities as the primary source for policy.
+The committee is especially interested in hearing those who proposed a new wiki in the past and got either refused or approved.
+Discussions[edit]
+If you want to make a proposal to the committee, for example to approve a certain project, please do so on the talk page.
+Anyone can follow the discussions of the language committee by subscribing to the public mailing list langcom at lists.wikimedia.org, on which the internal proceedings are made. Non-members should generally not participate in discussions. When it is necessary however, they can send a mail which a list administrator will need to accept manually.
+Prior to April 2013, the discussions happened on a private mailing list. From June 2011 to April 2013, members of the community could ask to become "langcom observers". They then received copies of the e-mails sent to the internal committee mailing list.
+The committee resumed the use of a private mailing list for the discussion of confidential or personal matters in 2017.
+Members[edit]
+If you are interested in becoming a member, please send an email to langcomlists.wikimedia.org or contact any member in private.
+Current[edit]
+edit
+Member
+Languages
+Region
+Special tasks
+Amir E. Aharoni (Amire80)
+he, ru, en-4, ca-3, eo-2, es-2, fr-2, it-2, ar-1
+Middle East, Israel, JerusalemEurope, Russia, Moscow (until 1991)
+Anass Sedrati
+ar, ary, sv, fr, en-5, es-4, pt-3, no-3, it-2, ru-1
+Europe, Sweden, StockholmAfrica, Morocco, Salé
+Antony D. Green
+en, de-4, fr-2, ga-1, cy-1
+Europe, Germany, BerlinNorth America, United States, Texas (formerly)
+Maor Malul (Maor X)
+es, en-5, lad-4, pt-4, de-3, he-3, ca-3, af-2, guc-2, ar-1
+Middle East, Israel, JerusalemSouth America, Venezuela, Caracas (until 2013)
+Jan Wohlgemuth (Janwo)
+de, en-5, id-3, nds-2, gsw-1, ru-1, el-1, fr-1, tpi-1lgs. of Indonesia, Australia, PNG, Pacific Islands
+Asia/Pacific, Indonesia, JakartaEurope, Germany, Westphalia (till 2019)
+Jon Harald Søby
+nb, en-4, nn-4, sv-3, da-2, de-2, sw-2, eo-1, es-1, ro-1, se-1
+Europe, Norway, Fredrikstad
+Kimberli Mäkäräinen (Yupik)
+en, fi-4, es-4, ca-3, se-3, sv-3, et-2, smn-2 (written only), sms-2, nb-2, fr-2, it-2
+Europe, Finland, Helsinki
+— (MF-Warburg)
+de, en-3, fr-2, la-2, tet-1, es-1
+Europe, Germany, North Rhine-WestphaliaEurope, France, Occitania (formerly)
+Closing projects
+Michael Everson (Evertype)
+en, da-3, de-3, es-3, ga-3, fr-2, et-1, it-1, nl-1, nn-1,no-1, pt-1, ro-1, ru-1, sv-1, tlh-1, yi-1
+Europe, Scotland, DundeeNorth America, United States, Pennsylvania (formerly)
+Satdeep Gill
+pa, en-4, pnb-4, hi-3, ur-3, fr-3, es-2, fa-1, io-1
+Asia, India, Punjab
+— (Sotiale)
+ko, en-2, ja-1, zh-1, eo-1, bi-1
+Asia, South Korea
+Tochi Precious
+ig, en-4, de-3, fr-2
+Africa, Nigeria, Abuja
+Vito Genovese
+tr, en-4, de-2
+Europe, Germany and Turkey
+Clerk (non-voting):Steven White (StevenJ81)
+en, fr-3, he-2, lad-1
+North America, USA, New Jersey
+Closing projects
+Board liaison[edit]
+James Heilman (August 2017–Jan 2022)
+NTymkiv (WMF) (Jan 2022–)
+Victoria (April 2023–)
+Former[edit]
+Member
+Period
+Akash Shah (Aksi great)
+2007–2008
+Maria Fanucchi (Arria Belli)
+2007–2017
+Ascánder
+2006–2008
+Huib Laurens (Abigor)
+2010–2013
+Bèrto 'd Sèra
+2006–2017
+Jesse Plamondon-Willard (Pathoschild)
+2006–2011
+Michal Zlatkovský (Timichal)
+2006–2008
+Sabine Cretella (SabineCretella)
+2006–2009
+Shanel Kalicharan (Shanel)
+2007–2017
+Tangotango
+2007–2008
+Zacharias Diakonikolaou (ZaDiak)
+2011–2017
+Oliver Stegen (Baba Tabita)
+2011–2018
+André Müller (N-true)
+2017–2019
+Santhosh Thottingal (santhosh.thottingal)
+2011–2019
+Milos Rancic (Millosh)
+2008–2013, 2014–2021
+Karen Broome (Klbroome)
+2006–2021
+Robin Pepermans (SPQRobin)
+2009–2021
+Gerard Meijssen (GerardM)
+2006–2023
+Timeline[edit]
+Timeline[edit]
+This is an unofficial log of the committee's progress. For a log of requests and closures, see requests for new languages.
+Timeline of the Language Committee
+Date
+Event
+Update
+2006-06-06
+policy
+SabineCretella draft proposed.
+2006-07-03
+langcom
+Subcommittee initially proposed, but the proposal is never received.
+2006-09-16
+langcom
+Subcommittee is proposed again, and accepted.
+2006-11-11
+policy
+Pathoschild draft unofficially proposed.
+2006-11-21
+policy
+Pathoschild draft implemented through the community without subcommittee approval.
+2007-01-02
+policy
+GerardM draft proposed.
+2007-01-14
+policy
+GerardM-Pathoschild policy draft proposed.
+2007-02-06
+policy
+GerardM-Pathoschild policy draft selected; discussion begins on adjustments needed before the final version.
+2007-02-20
+policy
+GerardM-Pathoschild policy draft finalized and forwarded to the Special projects committee for comment.
+2007-02-26
+policy
+GerardM-Pathoschild draft implemented.
+2007-04-28
+policy
+Subcommittee authorized to approve without board approval, given the board receives five days advance notice.
+2009-01-20
+langcom
+The Wikimedia Foundation Board of Trustees decided that the Subcommittee becomes a Committee.
+2011-05-13
+langcom
+The committee holds its first-ever real-life meeting in Berlin.
+2011-06
+langcom
+Introduction of observers
+2013-04-13
+langcom
+switch to a public mailing list, mail:langcom
+See also[edit]
+Wikimedia committees
+foundation:Resolution:Wikimedia Committees
+vteWikimedia Foundation Board of Trustees
+Portal
+Noticeboard
+Handbook
+Elections
+Board Committees
+Audit Committee
+Board Governance Committee
+Talent & Culture Committee
+Product Committee
+Community Affairs Committee
+Board Community Committees
+Affiliations Committee
+Elections Committee
+Funds Dissemination Committee
+Language Committee
+Wikimedia Foundation Wiki
+Board of Trustees
+Resolutions
+Meetings and Minutes
+Former members
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Language_committee&oldid=25545138"
+Category: Language committeeHidden categories: Pages using TimelineMaintained by a Wikimedia committee
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Content pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other languages
+Add links
+ This page was last edited on 31 August 2023, at 18:38.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

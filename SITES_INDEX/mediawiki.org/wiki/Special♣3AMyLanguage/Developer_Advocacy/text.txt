@@ -1,0 +1,87 @@
+Developer Portal/Contribute - MediaWiki
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageGet MediaWikiGet extensionsTech blogContribute
+Support
+User helpFAQTechnical manualSupport deskCommunication
+Development
+Developer portalCode statistics
+MediaWiki.org
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+In other languages
+Add links
+Search
+Search
+ EnglishCreate accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+Beginning
+1Propose content changes
+2Propose code changes
+3Translate content to your language
+Toggle the table of contents
+Toggle the table of contents
+Developer Portal/Contribute
+PageDiscussion
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+From mediawiki.org
+< Developer Portal
+Overview
+History
+Content strategy
+Implementation
+Contribute
+This page provides information about how to contribute to the Developer Portal.
+Repository: git:wikimedia/developer-portal
+Production site: developer.wikimedia.org
+Build info: developer.wikimedia.org/build-info.txt
+Propose content changes[edit]
+Please propose content additions or content changes in a Phabricator task. (Learn more about Phabricator.)
+We would like to keep content on the portal limited. Pages should not duplicate other pages. Pages must be high quality and helpful. Please be aware of the user journeys. Pages which are proposed to be linked must follow the documentation guide for accuracy and consistency.
+The proposed changes will be reviewed by the Tech Docs team.
+Textual content is licensed under CC-BY-SA 4.0.
+Propose code changes[edit]
+Before submitting a change to the Developer Portal codebase, please open a task in Phabricator to get feedback on your plans.
+To submit a code change:
+Set up your access to Wikimedia Gerrit.
+Set up your local development environment for the Developer Portal, and make the changes.
+Your patch should not change any files in data/locale other than the files in data/locale/en. Local files in languages other than English are updated through the Developer Portal's integration with translatewiki.net.
+Follow the commit message guidelines and the Gerrit tutorial to submit your change. The proposed changes will be reviewed by the Tech Docs team.
+If you see a test failure on your patch in Gerrit, make sure you have built the site to ensure that your changes are correctly reflected in the translation files.
+Code is licensed under GNU GPL version 3 or later.
+Translate content to your language[edit]
+Please translate content on translatewiki.net. Your translations will be regularly merged into the codebase automatically. After a while, the latest codebase will be deployed on developer.wikimedia.org and translations will be available to anyone visiting the website.
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Developer_Portal/Contribute&oldid=6086667"
+ This page was last edited on 29 August 2023, at 20:32.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About MediaWiki.org
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

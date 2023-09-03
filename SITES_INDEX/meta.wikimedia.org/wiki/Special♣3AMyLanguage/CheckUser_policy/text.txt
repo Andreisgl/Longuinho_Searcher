@@ -1,0 +1,591 @@
+CheckUser policy - Meta
+CheckUser policy
+From Meta, a Wikimedia project coordination wiki
+Jump to navigation
+Jump to search
+Translate this pageOther languages:Bahasa Indonesia
+Deutsch
+English
+Esperanto
+Tiếng Việt
+Türkçe
+azərbaycanca
+català
+dansk
+español
+français
+hrvatski
+italiano
+kurdî
+magyar
+occitan
+polski
+português
+português do Brasil
+română
+shqip
+sicilianu
+slovenčina
+suomi
+svenska
+čeština
+български
+русский
+українська
+עברית
+العربية
+تۆرکجه
+فارسی
+کٲشُر
+अंगिका
+मराठी
+हिन्दी
+বাংলা
+ગુજરાતી
+മലയാളം
+ไทย
+中文
+日本語
+한국어
+The following page documents an official global policy.This page has been developed and approved by the community and its compliance is mandatory for all projects. It must not be modified without prior community approval.
+←Policies and guidelines 
+CheckUser policy
+This page provides information about CheckUser access and outlines the policy on its use. It was discussed in September and October 2005, and went live in November 2005.
+Contents
+1 CheckUser status
+2 Use of the tool
+3 Privacy policy
+3.1 Information release
+4 Access to CheckUser
+4.1 Appointing local CheckUsers
+4.2 Mailing list
+4.3 IRC channel
+4.4 Removal of access
+5 Users with CheckUser access
+5.1 Everywhere
+5.2 Arabic Wikipedia
+5.3 Bengali Wikipedia
+5.4 Catalan Wikipedia
+5.5 Czech Wikipedia
+5.6 Danish Wikipedia
+5.7 Dutch Wikipedia
+5.8 English Wikibooks
+5.9 English Wikinews
+5.10 English Wikipedia
+5.11 English Wiktionary
+5.12 Finnish Wikipedia
+5.13 French Wikipedia
+5.14 German Wikipedia
+5.15 Hebrew Wikipedia
+5.16 Hungarian Wikipedia
+5.17 Indonesian Wikipedia
+5.18 Italian Wikipedia
+5.19 Japanese Wikipedia
+5.20 Korean Wikipedia
+5.21 Malayalam Wikipedia
+5.22 Persian Wikipedia
+5.23 Polish Wikipedia
+5.24 Portuguese Wikipedia
+5.25 Russian Wikipedia
+5.26 Serbian Wikipedia
+5.27 Simple English Wikipedia
+5.28 Slovene Wikipedia
+5.29 Spanish Wikipedia
+5.30 Swedish Wikipedia
+5.31 Thai Wikipedia
+5.32 Turkish Wikipedia
+5.33 Ukrainian Wikipedia
+5.34 Vietnamese Wikipedia
+5.35 Wikimedia Commons
+5.36 Wikispecies
+5.37 Meta
+5.38 Wikidata
+5.39 Wikitech
+6 See also
+CheckUser status
+CheckUser is an interface for users with the checkuser permission. A user with the checkuser permission on a wiki can, in particular, check if a user is a sockpuppet of another user on that wiki (not on all wikis). By using it, users are able to:
+Determine from which IP addresses an account has performed edits, logged actions, or password resets on the Wikimedia wiki;
+Determine all edits, logged actions, login attempts, and password resets that were performed on the Wikimedia wiki from a specific IP address (including users who were logged in with an account);
+Determine whether the account being checked has sent an email using the MediaWiki interface to any other user. The time of the event is logged; the destination email address and destination account is obscured.
+This information is only stored for a short period (currently 90 days), so edits made prior to that will not be shown via the CheckUser tool. A log is kept of who has made queries using the tool. This log is available to those with the checkuser-log permission:
+11:28, 30 August 2023  CheckUser got IP addresses for Example (talk | contribs | block) (a very good reason for looking at their IPs)
+11:28, 30 August 2023  CheckUser got users for 127.0.0.1 (another good reason)
+See Help:CheckUser for the user manual.
+Use of the tool
+The tool is to be used to fight vandalism, spamming, to check for sockpuppet abuse, and to limit disruption of the project. It must be used only to prevent damage to any of the Wikimedia projects.
+The tool should not be used for political control, to apply pressure on editors, or as a threat against another editor in a content dispute. There must be a valid reason to use the CheckUser tools to investigate a user. Note that alternative accounts are not forbidden, so long as they are not used in violation of the policies (examples of violations include double-voting, increasing the apparent support for any given position, or to evade blocks or bans).
+Notification to the account that is checked is permitted but is not mandatory. Similarly, notification of the check to the community is not mandatory, but may be done subject to the provisions of the privacy policy.
+Some wikis allow an editor's IPs to be checked upon their request if, for example, there is a need to provide evidence of innocence against a sockpuppet allegation; note, however, that requesting a CheckUser in these circumstances is sometimes part of the attempt to disrupt.
+Privacy policy
+Main articles: Privacy policy and Access to nonpublic personal data policy
+On Wikimedia projects, privacy policy considerations are of tremendous importance. Unless someone is violating policy with their actions (e.g. massive bot vandalism or spam) and revealing information about them is necessary to stop the disruption, it is a violation of the privacy policy to reveal their IP, whereabouts, or other information sufficient to identify them, unless they have already revealed this information themselves on the project.
+Information release
+Even if the user is committing abuse, it's best not to reveal personal information if possible.
+Generally, do not reveal IPs. Only give information such as same network/not same network or similar. If detailed information is provided, make sure the person you are giving it to is a trusted person and will not reveal it himself/herself.
+If the user has said they're from somewhere and the IP confirms it, it's not releasing private information to confirm it if needed.
+If you're in any doubt, give no detail.
+Access to CheckUser
+Approved candidates for CheckUser permissions must sign, before being granted such permissions, a confidentiality agreement for nonpublic information pursuant the access to nonpublic personal data policy.
+Only stewards, ombuds, some Wikimedia Foundation staff, and a very small number of other users are allowed to have CheckUser access. Users can only have CheckUser status locally (except for the ombuds and those staff members with access).
+If local CheckUsers exist in a project, checks should generally be handled by those. In emergencies, or for multi-project CheckUser checks (as in the case of cross-wiki vandalism), stewards may perform local checks. Stewards should remove their own CheckUser access on the projects upon completion of the checks and notify the local CheckUsers or the CheckUser e-mail list.
+If no local CheckUsers exist for a project, requests will need to be made to the stewards to perform checks (such as "is UserX a sockpuppet of UserY"). To do so, simply add the request to Steward requests/Checkuser listing these users and explain the need for the check (with links). Depending on the nature of the request, the steward may deny it, may ask for more information, or may answer about the likelihood of the users in question having the same IP, same proxy, same network, same country, or being completely unrelated (see discussion for what the steward should more precisely say to the editor).
+Appointing local CheckUsers
+On any wiki, there must be at least two users with CheckUser status, or none at all. This is so that they can mutually control and confirm their actions. In the case where only one CheckUser is left on a wiki (when the only other one retires, or is removed), the community must appoint a new CheckUser immediately (so that the number of CheckUsers is at least two).
+On wikis with an Arbitration Committee (ArbCom) whose members have been elected with the support of at least 25–30 members of the local community, CheckUsers may be directly appointed by the Arbitrators. After agreement, a member of the Committee should simply list the candidate on Steward requests/Permissions.
+On a wiki without an Arbitration Committee that meets the criterion above, or in a project where there is a preference for independent elections, the community may approve local CheckUsers (stewards not counting as local CheckUsers) per consensus. The candidate must request the CheckUser status within the local community and advertise this request properly (village pump, mailing list when available, special request page, etc.). The candidate must be familiar with the privacy policy. After gaining consensus (at least 70%–80% in pro/con voting or the highest number of votes in multiple choice elections) in the local community, and with at least 25–30 editors' approval, the successful candidate should request access at Steward requests/Permissions with a link to the page with the community's decision. If there are an insufficient number of votes for at least two CheckUsers on a wiki, there will be no CheckUsers on that wiki.
+Mailing list
+There is a closed mailing list (CheckUser-l) to which all stewards and CheckUsers should have access. Email the list moderators to gain access. Use this mailing list to ask for help, ideas and second opinions if you're not sure what the data means.
+IRC channel
+There is a private IRC channel (#wikimedia-checkuserconnect) to which all stewards and CheckUsers who use IRC should have access. This channel serves the same purpose as the mailing list, but in real-time. Contact any channel member to gain access; a channel manager will grant permanent access. Ask a steward if you need help gaining access.
+Removal of access
+Any user account with CheckUser status that is inactive for more than one year will have their CheckUser access removed.
+In case of abusive use of the tool, the steward or the editor with the CheckUser privilege will immediately have their access removed. This will in particular happen if checks are done routinely on editors without a serious motive to do so (links and proofs of bad behavior should be provided).
+Suspicion of abuses of CheckUser should be discussed by each local wiki. On wikis with an approved ArbCom, the ArbCom can decide on the removal of access. On wikis without an approved ArbCom, the community can vote removal of access.
+Complaints of infringement of CheckUser, Access to Nonpublic Information Policy or Privacy Policy breaches are handled by the Ombuds commission for all Wikimedia projects.
+Users with CheckUser access
+Edit (last updated: 2023-08-30)
+Everywhere
+Stewards - upon request or their own initiative, stewards use it by briefly granting the right to themselves; this is logged.
+Some members of the Staff of the Wikimedia Foundation (see global group)
+Members of the Ombuds commission (see automatically generated list):
+AGK
+Ameisenigel
+Bennylin
+Daniuu
+Emufarmers
+Faendalimas
+JJMC89
+MdsShakil
+Minorax
+Renvoy
+Arabic Wikipedia
+Automatically generated checkusers list
+Dr-Taher
+Meno25
+باسم
+علاء
+فيصل
+Bengali Wikipedia
+Automatically generated checkusers list
+Local policy mandates that only users who gain at least 25 votes in favor and 80% support can be appointed (applications will open for no fewer than 30 days).
+Al Riaz Uddin Ripon
+NahidSultan
+Catalan Wikipedia
+Automatically generated checkusers list
+Jmrebes
+Joutbis
+KRLS
+Czech Wikipedia
+Automatically generated checkusers list
+Jagro
+Martin Urbanec
+Mormegil
+Danish Wikipedia
+Automatically generated checkusers list
+Kaare
+KnudW
+Sir48
+Dutch Wikipedia
+Automatically generated checkusers list
+Appointed by Arbcom
+Akoopal
+Groucho NL
+Jcb
+English Wikibooks
+Automatically generated checkusers list
+Local policy mandates that Stewards are explicitly allowed to process non-emergency CheckUser requests.
+MarcGarver
+Xania
+English Wikinews
+Automatically generated checkusers list
+Acagastya
+Cromium
+English Wikipedia
+Automatically generated checkusers list
+Alison
+AmandaNP
+Barkeep49
+Beeblebrox
+Blablubbs
+Bradv
+Cabayi
+Callanecc
+CaptainEek
+Courcelles
+Doug Weller
+Dreamy Jazz
+Drmies
+EdJohnston
+Enterprisey
+Firefly
+GeneralNotability
+Girth Summit
+Guerillero
+Ivanvector
+Izno
+Jpgordon
+KrakatoaKatie
+Ks0stm
+L235
+Mailer diablo
+Materialscientist
+Mkdw
+Moneytrees
+Mz7
+NinjaRobotPirate
+Opabinia regalis
+Oshwah
+PhilKnight
+Ponyo
+Primefac
+Reaper Eternal
+Risker
+RoySmith
+SQL
+ST47
+Salvio giuliano
+SilkTork
+Stwalkerster
+TonyBallioni
+Versageek
+Worm That Turned
+Wugapodes
+Yamla
+Zzuuzz
+English Wiktionary
+Automatically generated checkusers list
+Chuck Entz
+TheDaveRoss
+Finnish Wikipedia
+Automatically generated checkusers list
+Ejs-80
+Harriv
+Stryn
+French Wikipedia
+Automatically generated checkusers list
+Under the local policy, CheckUsers are elected for six-month terms.
+3(MG)²
+Durifon
+Hexasoft
+Hyméros
+Linedwell
+Poudou!
+German Wikipedia
+Automatically generated checkusers list
+Under the local policy, CheckUsers are elected for one- or two-year terms.
+Karsten11
+MBq
+Perrak
+Squasher
+Hebrew Wikipedia
+Automatically generated checkusers list
+PurpleBuffalo
+TheStriker
+דגש
+יונה בנדלאק
+עלי
+Hungarian Wikipedia
+Automatically generated checkusers list
+(requests and policy)
+Bináris
+Csigabi
+FoBe
+Grin
+Tgr
+Indonesian Wikipedia
+Automatically generated checkusers list
+Bennylin
+Hidayatsrf
+Meursault2004
+Nohirara
+Wagino 20100516
+Italian Wikipedia
+Automatically generated checkusers list
+Ask21
+Elwood
+Gac
+Melos
+Mtarch11
+Ruthven
+Sakretsu
+Shivanarayana
+Superspritz
+Vituzzu
+Japanese Wikipedia
+Automatically generated checkusers list (policy)
+Infinite0694
+Penn Station
+W.CC
+さかおり
+Korean Wikipedia
+Automatically generated checkusers list (policy and requests)
+Dmthoth
+IRTC1015
+Sotiale
+이강철
+Malayalam Wikipedia
+Automatically generated checkusers list (policy and requests)
+Kiran Gopi
+Razimantv
+Persian Wikipedia
+Automatically generated checkusers list
+Huji
+Ladsgroup
+Polish Wikipedia
+Automatically generated checkusers list
+Due to a new local policy, users who gain 85% of votes in favor may become CheckUsers.
+Masti
+Nedops
+Saper
+Wojciech Pędzich
+Portuguese Wikipedia
+Automatically generated checkusers list
+Under the local policy, CheckUsers are elected for two-year terms.
+Albertoleoncio
+Conde Edmond Dantès
+Érico
+Teles
+Russian Wikipedia
+Automatically generated checkusers list
+Appointed by ArbCom
+DR
+Q-bit array
+Ле Лой
+Serbian Wikipedia
+Automatically generated checkusers list
+Djordjes
+Dungodung
+Обрадовић Горан
+Боки
+Simple English Wikipedia
+Automatically generated checkusers list
+Bsadowski1
+Djsasso
+Eptalon
+Operator873
+Peterdownunder
+Vermont
+Slovene Wikipedia
+Automatically generated checkusers list
+MZaplotnik
+Romanm
+Spanish Wikipedia
+Automatically generated checkusers list
+Local policy mandates that only users who gain at least 30 votes in favor and 80% support can be appointed.
+Alhen
+Bernard
+BlackBeast
+LuchoCR
+Montgomery
+Rastrojo
+Swedish Wikipedia
+Automatically generated checkusers list
+Julle
+Stigfinnare
+Tegel
+Thai Wikipedia
+Automatically generated checkusers list
+Geonuch
+Just Sayori
+Siam2019
+Timekeepertmk
+Turkish Wikipedia
+Automatically generated checkusers list
+Elmacenderesi
+Uncitoyen
+Vincent Vega
+Ukrainian Wikipedia
+Automatically generated checkusers list
+Appointed by ArbCom
+Andriy.v
+Goo3
+Mykola7
+Vietnamese Wikipedia
+Automatically generated checkusers list
+DHN
+Mxn
+Wikimedia Commons
+Automatically generated checkusers list
+Elcobbola
+Jameslwoodward
+Krd
+Trijnstel
+Wikispecies
+Automatically generated checkusers list
+Dan Koehl
+Faendalimas
+Koavf
+Meta
+Automatically generated checkusers list · (information page and requests page)
+Ajraddatz
+Hasley
+MarcoAurelio
+Minorax
+Sotiale
+Trijnstel
+Vermont
+Xaosflux
+Wikidata
+Automatically generated checkusers list · (information page and requests page)
+1997kB
+BRPever
+Jasper Deng
+Sotiale
+علاء
+Wikitech
+Automatically generated checkusers list
+Alexandros Kosiaris
+BryanDavis
+Jcrespo
+Ladsgroup
+Reedy
+Tim Starling
+WMFOffice
+See also
+Privacy policy
+Ombuds commission (processes complaints of privacy violations)
+Requests for CheckUser information and CheckUser status
+Local policies of the projects
+Help:CheckUser user manual
+[Foundation-l] CheckUser (thoughts), by Anthere on April 22, 2006, includes a historic background
+vteUser groups LocalgroupsIn MetaWithout global effects
+confirmed user
+IP block exemption
+autopatroller
+patroller
+uploader
+flooder
+translation admin
+transwiki importer
+bureaucrat
+oversighter
+checkuser
+account creator
+With global effects
+administrator
+centralnotice admin
+interface admin
+OAuth administrators
+push subscription managers
+massmessage sender
+global renamer
+WMF Trust and Safety
+WMF Office IT
+In some wikis
+uploader
+autopatroller
+patroller
+reviewer
+rollbacker
+autochecked user
+extended confirmed user
+file mover
+interface editor
+edit filter manager
+template editor
+eliminator
+translation admin
+massmessage sender
+ArbCom member
+page mover
+technician
+bot admin
+flooder
+curator
+ engineer
+In one wiki(except Meta)
+noratelimit user
+GWToolset user
+Upload Wizard campaign editor
+image reviewer
+test admin
+property creator
+Wikidata staff
+ researcher
+Cross-wiki
+blocked user
+unregistered user
+newly-registered user
+registered user
+confirmed user
+autoconfirmed user
+account creator
+bot
+administrator
+interface admin
+bureaucrat
+oversight
+checkuser
+IP block exempt
+importer
+transwiki importer
+users blocked from the IP information tool
+Flow bot
+Historical groups
+Extended uploaders
+course coordinator, instructor, online and campus volunteer
+mover
+zeroadmin
+Globalgroups
+locked account
+unified account
+CAPTCHA exemptions
+API high limit requestor
+bot
+rollbacker
+abuse filter helper
+abuse filter maintainer
+interface editor
+recursive export
+IP block exemption
+new wikis importer
+deleter
+sysop
+ombuds
+VRT member
+founder
+staff
+WMF researcher
+two-factor authentication testers
+WMF ops monitoring
+Flow creator
+system administrator
+steward
+Links in italic are separate account statuses that are not assigned through user groups.
+See also: Wikimedia user groups
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=CheckUser_policy&oldid=25438583"
+Categories: Global policiesUser groupsCheckUser
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Content pageDiscussion
+English
+Views
+ReadView sourceView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other languages
+Add links
+ This page was last edited on 10 August 2023, at 21:39.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

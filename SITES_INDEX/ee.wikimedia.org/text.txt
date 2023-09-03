@@ -1,0 +1,65 @@
+Eesti kirjanduse digiteerimise projekt – Wikimedia Eesti
+Eesti kirjanduse digiteerimise projekt
+Allikas: Wikimedia Eesti
+Mine navigeerimisribale
+Mine otsikasti
+PS Minu raudne veendumus on, et kogu eesti kirjandusklassika tuleks teha kohe ja ilma rahata netis kättesaadavaks. Kas või PDF-failide kujul. See oleks koht, kuhu kulka ja eesti kirjandusklassika programm peaks panema oma raha. Ja kohe.
+– Tiit Hennoste "Kindle-single" (Sirp, 16.03.2012)
+Oled huvitatud?
+Kontakteeru:
+Wikimedia Eesti juhatus
+Sisukord
+1 Milleks?
+2 Mis on tehtud, mida teeme
+3 Edasised võimalused
+4 Kuidas saad aidata?
+Milleks?[muuda]
+Eesti kirjandusklassika hakkab vähehaaval autoriõiguse kammitsaist valla pääsema. 2012. aasta 1. jaanuarist on kõigile vabalt kasutatavad tekstid, mille autorid surid hiljemalt 1941. aastal. 2012. aasta seisuga kuuluvad Eesti koolides kohustuslikest autoritest nende hulka Kristjan Jaak Peterson, Friedrich Robert Faehlmann, Friedrich Reinhold Kreutzwald, Lydia Koidula, Eduard Bornhöhe, August Kitzberg, Eduard Vilde, Juhan Liiv, Anton Hansen Tammsaare, Ernst Enno ja Julius Oro, 2013. aastal lisandub Villem Grünthal-Ridala. Lugemist jätkub tükiks ajaks.
+Ometi ei ole see kõik lugejaile sugugi kergesti kättesaadav. Kooliõpilased ootavad raamatukogudes kohustusliku kirjanduse järjekorras, veebist guugeldades enamikku tekste ei leia. Ehkki Eestis tegeleb juba mitugi mäluasutust kirjanduse digiteerimisega, on need projektid pigem suletud kui avatud. Igal asutusel on oma andmebaasid, tekstid on otsinguroboteile suletud, ligipääsetavad parooliga registreerujaile või lihtsalt halvasti struktureeritud ja lingitud. Lugejale on aga kasu vaid selliselt digiteeritud tekstist, mille ta suurema vaevata üles leiab.
+Seepärast on MTÜ Wikimedia Eesti alustanud digiteerimisprojektiga. Meie eesmärk on lisada raamatud just nimelt selleks ette nähtud Vikipeedia sõsarprojekti Vikitekstid (inglise keeles Wikisource) nii, et need oleksid kergesti leitavad, analüüsitavad ja eri formaatides vabalt kasutatavad. Vikitekstid saaks olla just see koht, kuhu on võimalik kokku koondada kogu varasem Eesti kirjandus.
+Mis on tehtud, mida teeme[muuda]
+Meie esialgne plaan on alustada autoriõigusest vabanenud koolikirjandusest, kuna seda on inimestel kõige rohkem tarvis. Kui sellega ühele poole saame, liigume tuntud autorite teiste tekstide ja ka vanema tarbekirjanduse juurde – vanades õpikutes, teatmikes ja atlastes leidub palju huvitavat.
+Praeguseks on ostetud arvuti ja skanner, millega üks vikipedist on juba tööle asunud. Vikitekstidesse on riputatud näiteks Eduard Bornhöhe "Villu võitlused", valmimas on mitmed järgnevad. Esialgse töö käigus selguvad tehnilised raskused ja vajadused. Üks vabatahtlik sai tööpaiga Kirjandusmuuseumis, esimese raamatuna läks töösse Matthias Johann Eiseni "Eesti usund". Kirjandusmuuseumis oleks aga ruumi veel paljudele vabatahtlikele.
+Oleme käinud projektist vestlemas Eesti mäluasutustega. Alanud on aktiivne koostöö Kirjandusmuuseumiga. Oleme rääkinud inimestega Tartu Ülikooli raamatukogust. Tartu Linnaraamatukoguga oleme leppinud kokku digiteeritud tekstide vastastikuses jagamises. Siiani on meie mõte kõikjal üsna entusiastlikult vastu võetud.
+Edasised võimalused[muuda]
+Kirjanduse võrgutamisel ei pea piirduma vähemalt 70 aasta eest surnud kirjanikega. Ka elusolevad autorid võivad olla nõus valitud tekste vaba litsentsi all avaldama, samuti surnud kirjanike järeltulijad. Kirjanduse kirjeldus ei anna kunagi edasi sama, mida teos ise. Enamik autoreid ei kanna suurt kahju, kui mõne oma tekstinäite autoriõiguslikest piirangutest vabastavad, pigem võib võimalus kellegi loominguga tutvuda tõsta ostjate ja tõlkijate huvi.
+Eesti kirjanduse rahvusvahelise tutvustamise huvides oleks levitada Vikitekstides ka selle tõlkeid. Kuna eesti kirjanduse tõlked võõrkeeltesse on enamjaolt uuemad ning endiselt autoriõiguse all, oleks üks võimalus taotleda kultuurifondidelt raha uute tõlgete tellimiseks, mis avaldataks Creative Commonsi litsentsi all. See avab ka kirjastustele võimaluse soovi korral paberväljaandeid trükkida.
+Loodame teha koostööd muuseumites ja raamatukogudes leiduva materjali digiteerimisel suuremates mastaapides. Näiteks peitub Kirjandusmuuseumis hulgaliselt väärtuslikku ja põnevat eesti rahvaluule kohta – võimalik, et tegu on maailma suurima folkloorikogumikuga. Osalt on need tekstid isegi digiteeritud, maailma ühe suurema rahvaluulekogu korrektuuri juures jääb aga muuseumi enda jõust vajaka. Meie saaksime siin aidata ja ühtlasi muuta selle vabalt kättesaadavaks kõigile huvilistel.
+Kuidas saad aidata?[muuda]
+Raamatute skaneerimine on suhteliselt lihtne, palju töömahukam on aga teksti korrektuur. Ehkki programmid lähevad aina paremaks, teeb masin tekstituvastuse käigus ju endiselt vigu, vanade ja koltunud raamatute puhul veel enam. Seepärast on tarvis vabatahtlikke, kes arvutisse tõmmatud pilte ja neilt tuvastatud tekste võrdleksid. Töö vajab hoolikust, kuna vanemas kirjanduses kasutatakse teistsugust keelt kui tänapäeval, mistõttu tekib oht pidada autori eripära või vanapärasust keeleveaks.
+Iga kirjanikku huvitab, et tema teoseid loetaks. Pealegi on inimesed tegelikult üsna lahked, neilt tuleb ainult viisakalt küsida. Seepärast on meil tarvis inimesi, kes võtaksid autorite ja pärijatega ühendust ning küsiksid, kas, millistel tingimustel ja millises ulatuses on nad nõus oma tekste vabaks andma.
+Loomulikult on oodatud vabatahtlikud, kes tahavad tõlkida eesti kirjandust teistesse keeltesse, et seda teiskeelsetes Vikitekstides levitada.
+Ja eks kena oleks seegi, kui me eesti kirjandusklassika kohta eestikeelsest Vikipeediast rohkem teada saaksime. Me kõik oleme neid raamatuid kunagi lugenud (või, noh, vähemalt oleksime pidanud lugema), järelikult ei tohiks ka neist kirjutamine kellelgi üle jõu käia. Kes on peategelased, mis raamatus toimub, kes on seda illustreerinud, kes lavale või filmiks seadnud, millised teised teosed sealt mõjutusi on saanud, millised lendsõnad või tsitaadid on käibele läinud... see kõik väärib kajastamist. Ole ainult hea ja hakka pihta.
+A short overview in English.
+Pärit leheküljelt "https://ee.wikimedia.org/w/index.php?title=Eesti_kirjanduse_digiteerimise_projekt&oldid=1114"
+Kategooria: WMEE projektid
+Navigeerimismenüü
+Isiklikud lehed
+eestiSisse logimataAruteluKaastööLoo kontoLogi sisse
+Nimeruumid
+ArtikkelArutelu
+eesti
+vaatamisi
+VaataMuudaNäita ajalugu
+Veel
+Otsing
+Navigeerimine
+EsilehtProjektidDokumendidAstu liikmeksAnnetaTule vabatahtlikuksKontaktBlogi
+Viki
+Viimased muudatused
+Tööriistad
+Lingid siiaSeotud muudatusedErileheküljedPüsilinkLehekülje teaveViita leheküljele
+Trüki või ekspordi
+Koosta raamatLaadi alla PDF-failinaPrinditav versioon
+ Selle lehekülje viimane muutmine: 19:49, 14. oktoober 2014.
+Tekst on kasutatav vastavalt Creative Commonsi litsentsile "Autorile viitamine + jagamine samadel tingimustel";
+sellele võivad lisanduda täiendavad tingimused.
+Täpsemalt vaata Wikimedia kasutamistingimustest.
+Andmekaitsepõhimõtted
+Wikimedia Eesti tiitelandmed
+Lahtiütlused
+Käitumisjuhis
+Mobiilivaade
+Arendajad
+Arvandmed
+Küpsiste avaldus

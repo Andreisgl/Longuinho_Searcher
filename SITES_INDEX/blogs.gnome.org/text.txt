@@ -1,0 +1,178 @@
+Wikimedia’s Bug Management | andré klapper's blog.
+andré klapper's blog.
+i'm not dead yet, but i'm working on it.
+Skip to content
+Home
+← Občan K.: Questioning identity.
+Wikimedia Bug Management and the Outreach Program for Women →
+Wikimedia’s Bug Management
+Posted on 2013-01-01 by aklapper 
+About three months ago I started as bugmaster / bugwrangler of the Wikimedia Foundation (the non-profit organization behind Wikipedia). It’s about time to finally blog before everybody expects WMF to be the same black hole that Google is seen as when it comes to free and open source people suddenly disappearing. ;)
+A Day in the Life of a Bugmaster
+As part of my daily work I take a look at the latest Wikimedia bug reports and go through some of the feedback sources (like Village Pumps or Greasepits) in the many projects under the Wikimedia umbrella. I also often take a look at reports with immediate and highest priority.
+Code
+Earlier in December we managed to upgrade Bugzilla from 4.0.9 to version 4.2.4. The upgrade itself did not go 102% perfectly, but still went extremely smooth and way better than I was afraid of.
+As I’ve used Greasemonkey scripts for years now to save some time when triaging bug reports, I’ve published the ones that I use in Wikimedia Bugzilla here. Patches are welcome, and the code could likely use some refactoring anyway (IANAC).
+And more!
+I’ve retriaged a bunch of tickets that were previously marked as “RESOLVED LATER” in Bugzilla and disabled that resolution for future use (also see the related mailing list discussion), plus the huge backlog of unprioritized tickets.
+I’ve improved and wrote lots of documentation related to bug triaging, for example a triage guide.
+We discussed the interpretation of “Highest priority” and ended up introducing an “Immediate priority” which leaves less room for interpretation.
+Plus I got in smaller fixes, e.g. fixing some regexes in Wikimedia’s Bugzilla extensions.
+You can find weekly status updates that I publish.
+The things around
+In the last three months MediaWiki/Wikimedia bug management have seen and survived the merge of ContentHandler, a new media player (TimedMediaHandler) for better HTML5 multimedia support, and first deployments of improved user experience tools such as ArticleFeedback 5, VisualEditor and Notifications. First Wikidata deployments and moving to a new data center are on the list of potential disruptions for early 2013.
+And I’ve had fun with server software upgrades, understanding our release cycles and continouos deployment, and watching and analyzing the usage (or non-usage) of the bugtracker by different development teams.
+Future
+I still need to prioritize my long backlog of potential future plans and ideas. Of course some smaller drive-by cleanups have taken place already.
+Among the plans for early 2013 are automatic notifications from Gerrit into Bugzilla about patch status changes (Wikimedia Germany seems to work on that), component watching via bugmail, and a new and more useful Bugzilla frontpage.
+Plus for the next three months I will have the pleasure to work with Valerie as part of the Outreach Program for Women. Part of the grand plan is to start having monthly bug days to triage bug reports together – are you in?
+And of course WMF is hiring – take a look if there’s a position that fits you!
+This entry was posted in computer, lang-en, wikimedia. Bookmark the permalink.
+← Občan K.: Questioning identity.
+Wikimedia Bug Management and the Outreach Program for Women →
+2 Responses to Wikimedia’s Bug Management 
+ Fitoschido says: 
+2013-01-02 at 15:11
+It’s nice to see those old bugs getting some love. :)
+ Sumana Harihareswara says: 
+2013-01-02 at 17:49
+It’s great working with you and I look forward to an interesting 2013.
+Comments are closed.
+¯\_(ツ)_/¯ 
+blog categories.
+bugzilla
+computer
+gitlab
+gnome
+lang-cz
+lang-de
+lang-en
+lang-fr
+maemo
+meego
+metrics
+misc
+mozilla
+music
+non-technical
+phabricator
+politics
+prague
+user-documentation
+wikimedia
+ 
+work. 
+old postings.
+July 2021 (1)
+December 2020 (1)
+November 2020 (1)
+March 2020 (1)
+July 2019 (1)
+March 2019 (2)
+January 2019 (1)
+September 2018 (1)
+July 2018 (1)
+March 2018 (1)
+January 2018 (1)
+January 2017 (3)
+December 2016 (1)
+November 2016 (1)
+September 2016 (2)
+August 2016 (1)
+June 2016 (1)
+February 2016 (1)
+January 2016 (2)
+December 2015 (2)
+August 2015 (1)
+May 2015 (2)
+February 2015 (5)
+January 2015 (1)
+December 2014 (4)
+November 2014 (1)
+July 2014 (1)
+June 2014 (2)
+May 2014 (3)
+March 2014 (1)
+January 2014 (5)
+October 2013 (2)
+September 2013 (1)
+August 2013 (5)
+July 2013 (6)
+June 2013 (5)
+May 2013 (1)
+March 2013 (1)
+January 2013 (1)
+November 2012 (1)
+October 2012 (3)
+August 2012 (1)
+July 2012 (3)
+June 2012 (3)
+March 2012 (2)
+February 2012 (2)
+January 2012 (2)
+December 2011 (1)
+November 2011 (2)
+October 2011 (2)
+September 2011 (3)
+August 2011 (4)
+July 2011 (1)
+June 2011 (1)
+May 2011 (2)
+April 2011 (6)
+March 2011 (2)
+January 2011 (2)
+December 2010 (5)
+November 2010 (3)
+October 2010 (3)
+September 2010 (3)
+August 2010 (5)
+July 2010 (1)
+June 2010 (5)
+May 2010 (2)
+April 2010 (2)
+March 2010 (3)
+February 2010 (5)
+January 2010 (3)
+December 2009 (5)
+November 2009 (3)
+October 2009 (2)
+September 2009 (4)
+August 2009 (5)
+July 2009 (7)
+June 2009 (3)
+April 2009 (1)
+March 2009 (1)
+February 2009 (2)
+January 2009 (5)
+December 2008 (5)
+November 2008 (2)
+October 2008 (8)
+September 2008 (3)
+August 2008 (2)
+July 2008 (4)
+June 2008 (5)
+May 2008 (6)
+April 2008 (2)
+March 2008 (3)
+February 2008 (5)
+January 2008 (4)
+December 2007 (3)
+November 2007 (2)
+October 2007 (4)
+September 2007 (1)
+August 2007 (1)
+July 2007 (3)
+June 2007 (3)
+May 2007 (6)
+April 2007 (8)
+March 2007 (9)
+February 2007 (8)
+January 2007 (1)
+December 2006 (2)
+November 2006 (6)
+October 2006 (2)
+disclaimer. The opinions reflected here are obviously my own. They are not the views of my employer or anyone else.
+license. This work by Andre Klapper is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported unless otherwise explicitly noted.
+ 
+andré klapper's blog.
+Proudly powered by WordPress.

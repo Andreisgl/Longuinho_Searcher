@@ -1,0 +1,260 @@
+Audit Guide
+50 captures
+04 Jan 2011 - 09 Jul 2023
+Dec
+JAN
+May
+04
+2010
+2011
+2012
+success
+fail
+ About this capture
+COLLECTED BY
+Organization: Internet Archive
+  The Internet Archive discovers and captures web pages through many different web crawls.
+
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+
+View the web archive through the Wayback Machine.
+Collection: Wide Crawl started October 2010
+  Web wide crawl with initial seedlist and crawler configuration from October 2010
+TIMESTAMPS
+The Wayback Machine - http://web.archive.org/web/20110104103321/http://www.vscpa.com/content/Visitors/Nonprofit_Resources/Audit_Guide.aspx
+ 
+VSCPA
+Your connection to success.
+cart
+Remember Me
+Create New Account
+Home > VSCPA > For the Public > Nonprofit Resources > Audit Guide
+E-MAIL
+|
+PRINT
+|
+SHARE
+Audit Guide for Small Nonprofit Organizations
+Introduction
+Selecting the audit team
+The task of the audit team
+The audit program
+Internal controls
+Some reasons for a good system of internal control
+The proper authorization of activities and expenditures
+Determination of the physical existence of assets
+Ascertaining that returns and reports are filed in a timely fashion
+Conclusion
+Appendix
+Introduction | Top
+There is almost no literature to guide the audit team of the small nonprofit organization (NPO) in the performance of its function. Articles and other publications on the audit of NPOs are written for the practicing accountant in terms the lay person would have difficulty understanding.
+This guide is intended to assist the audit teams of small NPOs to perform limited review of their organizations' financial statements. The audit team cannot replace the CPA in the audit of an NPO, and perhaps the material in this guide will convey the importance of securing professional assistance. 
+Nevertheless, for every museum, symphony foundation or family service organization that has adequate funds to retain the services of a CPA, there are scores of small churches, service clubs, literary groups and similar organizations that lack the funds for an outside audit. 
+This guide should help an NPO board of directors control financial activities until they reach the stage when a professional audit is possible. It will also emphasize the importance of internal controls in safeguarding the assets of the NPO.
+ 
+Selecting the Audit Team | Top
+ 
+The audit team can play a critical role in maintaining the integrity of the NPO's financial reporting. Volunteers should be selected from the board or general membership with the following qualities needed for serving on this team: 
+A familiarity with how organization activities are reflected in the financial statements; 
+Some understanding of the auditing process; or 
+Lacking the above, at least a natural curiosity and an inquiring mind. 
+Consideration should be given to individuals with experience in business such as bankers, internal auditors, retired CPAs, corporate officers, etc.
+ 
+The Task of the Audit Team | Top
+ 
+You have been appointed to the audit team of Goodworks, Inc. You accept the assignment with some trepidation, as your experience with business matters has been limited to balancing your own checkbook. 
+Goodworks receives contributions of approximately $50,000 per year, and it uses these funds to assist runaway teenagers. It employs one part-time social worker. The board of directors considered engaging a CPA to audit its records but decided that the cost of an audit would not be justified. 
+The above scenario is probably replicated hundreds of times each year by literary groups, churches, historical societies and other NPOs. The following material will not tell you how to eliminate the need for an audit by a CPA, and it may even make the need for such an audit more obvious. 
+The audit team should be concerned with the following things, at a minimum:
+The adequacy of internal control (a system in which the operating or recording function can be broken down into elements that are performed by different people, each checking the work of the others) 
+The accuracy of the records and the reports to the governing body (usually the board of directors) 
+The proper authorization of activities and expenditures 
+The determination of the physical existence of assets 
+A review of the tax-exempt status and identification of any activities that may endanger it 
+Ascertaining that payroll taxes, licenses, sales taxes, other taxes and corporate reports are properly filed in a timely manner 
+In developing the audit program, the adequacy of the internal accounting controls is an influencing factor. For example, if all disbursements in a small NPO are authorized separately by the board, recorded in the minutes by the secretary, supported with invoices approved by the president, and paid by checks signed by the treasurer and one other officer, the number of these transactions to be reviewed can be minimized. 
+However, the team would be required to satisfy itself that the internal control procedures outlined above actually were being followed. 
+When an NPO does not have a good system of internal control, it is extremely difficult to determine that all transactions have been properly recorded. Under these circumstances, substantive tests should be performed. These tests are designed to identify errors or irregularities directly affecting the accuracy of balances. Executives of NPOs have been known to inflate their income by failing to record all liabilities. Checking cash disbursements in the months following the end of the period might uncover this manipulation. 
+Confirmation of balances with creditors also would identify unrecorded liabilities. Tests of bank reconciliations, reviews of minutes, comparisons of current and previous financial reports and of the period's transactions with the budget are examples of substantive procedures that can prove evidence of the completeness of financial statement account balances.
+ 
+The Audit Program | Top
+ 
+The procedure followed by the audit team (the audit program) will vary with the type of NPO, its volume of income and the complexity of its operations. 
+The team should develop a written plan for each account balance or class of transaction selected for examination.The plan should indicate the relationship to the financial statement assertions and audit objectives. An example of this would be the examination by a team of a museum store that maintains an inventory of merchandise. The team desires to gather evidence as to the existence of the inventory listed as an asset on the balance sheet. 
+The following is an example of how audit objectives would be developed. 
+Account: Museum Shop Inventory
+Financial Statement Assertion
+Audit Objective 
+Existence or occurrence
+Inventories included in the balance sheet physically exist
+Completeness
+Inventory quantities include all products, materials and supplies on hand Inventory quantities include all products, materials and supplies owned by the client that are in transit or stored at outside locations Inventory listings are accurately compiled in the inventory accounts 
+Rights and obligations
+The entity has legal title or similar rights of ownership to the inventory
+Valuation or allocation
+Inventories are properly stated at cost (except when market is lower)
+Presentation & disclosure
+Inventories are properly classified in the balance sheet as current assets 
+Internal Controls | Top
+The adequacy of internal controls should be of primary concern to the audit team. Lack or inadequacy of internal controls can make the task of even the CPA auditor extremely difficult and, in some cases, almost impossible. Volunteers often are so dedicated to the mission of the NPO that they feel that running the organization in a businesslike fashion may not be compatible with this mission. 
+Regarding the hypothetical Goodworks, Inc., we were told that the organization employed one part-time social worker. Imagine this individual collecting the funds, disbursing the funds, recording the financial transactions, signing the checks, recording the minutes of the board meetings and preparing financial reports. 
+This would be an example of a complete lack of internal control. To correct this, each one of these functions really should be performed by a different volunteer. 
+Common sense must be applied in considering internal controls as well as the other areas being reviewed by the audit team. 
+If Goodworks, Inc., received all of its funds from one source, internal control of receipts would be a simple matter. A review of receipts would involve verification with the sole source of these funds. If the only expenses were rent and the social worker's salary, internal control and a review of these items would not present any difficulty. But if funds were received from hundreds of donors, then internal control of receipts becomes critical. Whatever the situation, internal control must be examined and improved if found lacking.
+ 
+Some Reasons For a Good System of Internal Control | Top
+ 
+To prevent loss through errors, misappropriation of funds or theft 
+To prevent an "honest" employee from making a mistake that can ruin his or her life 
+Responsibility of the board to safeguard the assets of the NPO 
+To assure that all transactions are properly authorized and recorded (See appendix for examples of internal control for cash receipts and cash disbursements.) 
+The Proper Authorization of Activities and Expenditures | Top
+ 
+The budget and the board of directors' minutes are the usual source of verification of NPOs' activities in a broad sense. Additionally, the corporate charter and bylaws should be reviewed to determine that all activities comply and that the designated individuals are performing their proper functions. A review or test of specific transactions should be included in the audit program.
+ 
+Determination of the Physical Existence of Assets | Top
+Verification of bank balances, an actual count of securities owned and a count of merchandise are some of these procedures. An examination of deeds and tax assessments is another procedure applicable when real property is owned by an NPO. Securing appraisals of art owned might be appropriate in the case of a museum or art organization.
+ 
+Ascertaining That Returns and Reports are Filed in a Timely Fashion | Top
+ 
+An NPO has the same obligation to file tax returns and corporate reports as a for-profit organization. Failure to comply with these requirements will expose the NPO to possible fines or penalties. At its planning meeting, the audit team should prepare a list of these taxes and reports. This might include the following: 
+Payroll taxes if wages are paid 
+Sales taxes and licenses 
+Form 990, Return of Organization Exempt From Income Tax, if gross receipts each year are normally more than $25,000 
+Annual corporate report to be filed with the state
+ 
+Conclusion | Top
+ 
+The preceding material is only a limited discussion of the complex requirements to perform an audit of an NPO. For example, insurance and bonding should be reviewed by a professional in the field. 
+But it is hoped that this guide will aid the audit team to perform its review of the organization's financial statements and operations in a relevant manner. The team should satisfy itself that income and expenditures are being classified in a consistent manner; otherwise comparisons of financial reports over the years will have limited significance.
+ 
+Appendix | Top
+ 
+Some suggested controls for cash disbursements: 
+Checks should be prenumbered, used in sequence with adequate controls over supplies of blank checks. 
+Checks should be prepared by persons other than those who approve invoices. 
+Checks should be prepared from original vendor invoices with attached copies of purchase orders, invoices and receiving reports and presented for signature with these attached. 
+Checks should be entered in the disbursement journal exactly as they have been prepared. 
+The governing board should authorize all check signers. 
+Signing of blank checks should not be permitted. 
+An officer or executive director should receive the unopened bank statement before turning it over to a person, other than one who handles the receipt and disbursement of cash, for reconciliation. This officer should review the bank reconciliation, then date and initial it. 
+Some suggested controls for cash receipts: 
+Incoming mail should be opened and listed by persons other than those with access to cash receipts journals and accounts receivable records. 
+A person with no access to cash should compare cash receipts records and authenticate deposit slips with mail listing. 
+Checks should be stamped "For Deposit Only" by the person opening the mail. 
+Prenumbered receipts should be given for contributions, gifts, etc. 
+Cash receipts should be entered in journals by persons other than those opening mail and listing receipts. 
+Receipts of checks and cash should be deposited each day intact. 
+Individuals handling cash should not make entries to the general ledger or subsidiary ledgers. 
+The NPO board should authorize bank accounts and the signers of checks annually. 
+Individuals handling cash should be bonded.
+This guide was last updated in September 2007. Permission to duplicate this guide may be obtained from the VSCPA, P.O. Box 4620, Glen Allen, VA 23058-4620, (804) 270-5344 or communications@vscpa.com.
+Information...
+For Members
+My Membership
+Membership Directory
+Networking
+Chapters
+VSCPA House Calls
+Volunteers & Committees
+Find a CPA Sign-Up
+Exam Tracker
+Discounts
+Insurance Options
+CPA Brandwear
+For the Public
+Find a CPA
+FinancialFitness.org
+Meeting Space Rental
+About CPA Services
+Find a Speaker
+Nonprofit Resources
+Legislator Resources
+Advertise or Sponsor
+For Students
+Join Now
+VSCPA Student Membership
+About the CPA Profession
+Find an Internship
+CPA Connection
+VSCPA Career Center
+CPA Exam Tracker
+Awards & Scholarships
+Virginia Colleges & Universities
+High School Students
+Leaders' Institute
+For the Press
+VSCPA Press Releases
+Media Kit
+About the VSCPA
+Financial Articles
+About CPA Services
+VSCPA Awards & Recognition
+CPA Logos
+Media Interview Request
+Free Publications
+About Us
+Contact Us
+Directions
+Who We Are
+Annual Report & Financials
+Leadership
+CPA Ethics
+VSCPA Centennial
+VSCPA Job Openings
+Peer Review
+Find a Peer Reviewer
+Peer Review Information
+Engagement Reviews
+System Reviews
+VSCPA Peer Review Committee
+FSBA
+For Peer Reviewers
+Educational Foundation
+About Us
+Donate Now
+Donors
+Contact
+Scholarships & Grants
+Career Center
+Events
+ January 11, 2011 –  XBRL - The Next Evolution in Financial Reporting
+More Events 
+CPE Quick Search
+Location
+AbingdonArlingtonChantillyCharlottesvilleDanvilleFairfaxGlen AllenHamptonHarrisonburgLynchburgMcLeanNewport NewsNorfolkNorthern VirginiaOnlineRestonRichmondRoanokeSpringfieldVirginia BeachVirtualWashington, D.C.WilliamsburgWinchesterWintergreen
+ Topic
+Accounting
+Accounting Governmental
+Administrative Practice
+Auditing
+Auditing Governmental
+Business Management & Organization
+Finance
+Financial Fitness
+Networking
+Personal Development
+Personnel/HIR
+Regulatory Ethics
+Advanced Search
+Contact Us!
+VSCPA 
+4309 Cox Road 
+Glen Allen 
+Virginia 
+23060 Member Services Hotline: (800) 733-8272 
+CPE Hotline: (800) 341-8189 Fax: (804) 273-1741 
+E-mail: vscpa@vscpa.com 
+RSS 
+Site Map 
+© 2005. Virginia Society of Certified Public Accountants. All rights reserved.
+VSCPA Privacy Policy 
+Terms and Conditions 
+Facebook
+Twitter
+LinkedIn
+soc1
+soc2
+soc3
+Youtube
+RSS

@@ -1,0 +1,387 @@
+Recent changes - Wikidata
+Help
+Recent changes
+Jump to navigation
+Jump to search
+Track the most recent changes to the wiki on this page.
+Other review toolsRequests: Requests for permissions • Requests for comment • Requests for deletions‎‎ (173 open requests • 0 in category • Properties • View as one page) • 8 protected edit requests • Bot requestsNoticeboards: Administrators' noticeboard‎ • Bureaucrats' noticeboard‎ • Translators' noticeboardUtilities: New pages • IP contribs • unpatrolled edits • Abuse filter log • Flood flag (6 users) • Database reports (no statements) • (Discuss this notice)
+Recent changes options
+Show last 50 | 100 | 250 | 500 changes in last 1 | 3 | 7 | 14 | 30 daysHide registered users | Hide anonymous users | Hide my edits | Show bots | Hide minor edits | Show page categorization | Hide probably good editsShow new changes starting from 01:19, 3 September 2023
+Namespace:
+all
+(Main)
+Talk
+User
+User talk
+Wikidata
+Wikidata talk
+File
+File talk
+MediaWiki
+MediaWiki talk
+Template
+Template talk
+Help
+Help talk
+Category
+Category talk
+Property
+Property talk
+Query
+Query talk
+Lexeme
+Lexeme talk
+EntitySchema
+EntitySchema talk
+TimedText
+TimedText talk
+Module
+Module talk
+Translations
+Translations talk
+Gadget
+Gadget talk
+Gadget definition
+Gadget definition talk
+Topic
+  Invert selection  Associated namespaceTag filter:2017 source edit
+[TEST, do not approve] QS3 [1.0]
+adding latin script language description in non-latin script
+adding non-latin script language description in latin script
+adding potentially mistaken label/description/alias
+adding Qid as label/description/alias
+addSenseImage
+Advanced mobile edit
+Android app edit
+Animanga DB Import [1.0]
+Animanga DB Import [1.1]
+author-disambiguator [0.9]
+author-disambiguator [1.0]
+author-disambiguator [2.0]
+Automatic Update from Connected Wiki
+Blanking
+blanking
+bodh - Wikidata lexeme editor [1.0]
+bodh [1.0]
+Centralized Model Organism Database [1.1]
+CHEΓ [1.01]
+CHEΓ [1.0]
+Chlambase.org [1.0]
+ChlamBase.org [6]
+ChlamBase[3] [3.0]
+Cocoda [1.0.1]
+coli-conc Login Server Test [1.0]
+condition limit reached
+Connecting-Senses
+connecting-senses [1.1]
+content model change
+cradle [1.0]
+CropTool [1.4]
+CropTool [1.5]
+Czech-Authorities-Sync
+dataDrainer
+deprecated property
+description ending with punctuation
+description-phone-number
+DiBabel [1.2]
+died
+Disambiguation links
+discussiontools (hidden tag)
+discussiontools-added-comment (hidden tag)
+discussiontools-source (hidden tag)
+discussiontools-source-enhanced (hidden tag)
+discussiontools-visual (hidden tag)
+distributed-game
+DraggableSitelinks
+DragNDrop
+Edgars tools [1.0]
+Edgars tools [2.1]
+EditGroups [0.1]
+EditGroups [0.2]
+EditGroups [0.5]
+EditGroups [0.6]
+Emoji
+EmosewaGM [1.0]
+fatameh [1.0]
+fatameh-dev [1.2]
+FIST [1.1]
+Hangor [1.0]
+Harvesting data refinery [1.0]
+Hauki [1.0]
+hylabels [1.0]
+hylabels-tests [1.0]
+IABotManagementConsole [1.1]
+IABotManagementConsole [1.2]
+IFX (development) [1.0]
+IFX [1.2]
+InfoboxExport
+inventaire [1.0]
+inventaire dev [1.0]
+iOS app edit
+itemFinder [3.0]
+Kaspar [1.0]
+Kaspar [1.1]
+Killdozer_edit_test [1.0]
+KSN Consumer with Write Access [1.0]
+Leksem Indonesia 2 [1.0]
+MachtSinn [1.0]
+MachtSinn [2.0]
+Manual revert
+MassMessage delivery
+merge.js
+merged item
+meta spam id
+Mix'n'match [1.0]
+Mobile app edit
+Mobile edit
+Mobile Termbox
+Mobile web edit
+monumental-glam [1.0]
+monumental-https [1.0]
+monumental-local [1.0]
+monumental-upload-https [1.5]
+monumental-wlm [1.5]
+Move
+moveClaim
+mpaatools [1.3]
+Multitrack Drafting (local) [1.0]
+Multitrack Drafting [1.1]
+Myxobase.org [1.0]
+Namkoron [1.0]
+new editor changing statement
+new editor removing a sitelink
+new editor removing statement
+New page patrol [1.0]
+New redirect
+New topic
+Ntsamr
+OAuth Uploader [1.0]
+OpenRefine [3.0]
+OpenRefine [3.1]
+OpenRefine [3.2]
+OpenRefine [3.3]
+OpenRefine [3.4]
+OpenRefine [3.5]
+OpenRefine [3.6]
+OpenRefine [3.7]
+OpenRefine [3.8]
+OpenRefine [4.0]
+OpenRefine Wikidata extension OAuth demo [1.0]
+Orthohin [1.0]
+outreachdashboard.wmflabs.org [2.0]
+PAWS [1.0]
+PAWS [1.2]
+PAWS [2.1]
+paws [2.2]
+pg2ws-dev [1.0]
+PLnode [2.0]
+possible non-constructive description
+possible spam
+possible test edit
+possible vandalism
+Povo Conta [1.0.1]
+Property constraint changed
+quest [1.0]
+QuickCategories [1.0]
+QuickStatements [1.1]
+QuickStatements [1.3]
+QuickStatements [1.5]
+quickstatements [2.0]
+Ranker [1.0]
+RearrangeValues
+reasonator [1.0]
+reCh [1.0]
+reCh [1.1]
+Redirect target changed
+reference-game
+removal of sex or gender (P21) property
+Removed redirect
+removing deprecated statement
+repeated xwiki CoI abuse
+Replaced
+Reply
+repurpos.us [1.0]
+requested for deletion
+Reverted
+Rollback
+self-referencing
+Sitelink Change from Connected Wiki
+SLING [1.0]
+SpeedPatrolling [1.1]
+SpeedPatrolling [1.2]
+Suggested Edits edit
+svwiki-DescriptionGadget
+SWViewer [1.2]
+SWViewer [1.3]
+SWViewer [1.4]
+tabernacle [1.0]
+TestOauthWikiMI [1.0]
+TestOauthWikiMI [5.0]
+TestOauthWikiMI [7.0]
+topicmatcher [1.0]
+tour-item
+Trajo [1.0]
+translate-translation-pages (hidden tag)
+translation with only definition
+Undo
+Unexpected value for gender
+Unexpected value for IMDb identifier
+Unexpected value for IUCN conservation status
+unexpected value for phone number
+unsourced ethnicity addition by IP
+URL in item
+View it! Tool
+Visual edit
+Visual edit: Switched
+WE-Framework gadget
+Weapon of Mass Description [1.0]
+widar [1.0]
+Widar [1.1]
+Widar [1.2]
+Widar [1.3]
+Widar [1.4]
+WIDAR Development Fork 2 [1.0]
+Wiki Art Depiction Explorer [1.0]
+Wiki Art Depiction Explorer [1.1]
+Wiki Loves Brasil [1.0]
+Wiki Museu do Ipiranga - Com que roupa eu vou? [1.0]
+Wiki Museu do Ipiranga - Com que roupa eu vou? [2.0]
+Wiki Museu do Ipiranga - O que há no brasão? [1.0]
+Wiki Museu do Ipiranga - O que há no brasão? [2.0]
+Wiki Museu do Ipiranga - O que retrata? [1.0]
+Wiki Museu do Ipiranga - Qual a marca? [1.0]
+Wiki Museu do Ipiranga - Qual a marca? [2.0]
+Wiki Museu do Ipiranga - Qual o ornamento? [2.0]
+Wiki Museu do Ipiranga - Quantos tem? [1.0]
+Wiki Museu do Ipiranga - Quantos tem? [2.0]
+wikibase-patcher
+WikibaseJS-cli
+WikibaseJS-edit
+wikicrowd [1.0]
+wikicrowd-localhost [1.0]
+Wikidata Bridge
+Wikidata for Firefox 🦊
+Wikidata for Web 🌐
+Wikidata Image Positions [1.0]
+Wikidata Image Positions [1.1]
+Wikidata Image Positions [1.2]
+Wikidata Lexeme Forms (local) [1.0]
+Wikidata Lexeme Forms [1.1]
+Wikidata Lexeme Forms [1.2]
+Wikidata Lexeme Forms [1.3]
+Wikidata Senses [0.1]
+Wikidata Senses [1.0]
+Wikidata Senses [1.1]
+Wikidata Senses [1.2]
+Wikidata Slicer [1.1]
+Wikidata User Interface
+Wikidata Web Annotation Tool [1.1]
+wikidata-game [1.0]
+wikidata-terminator [1.0]
+Wikidata-Toolkit oauth demo [1.0]
+WikidataComplete [1.0.2]
+WikidataComplete-QACompany [1.0]
+Wikidataintegrator [1.0]
+wikidatatodo [1.0]
+wikieditor (hidden tag)
+WikiGenomes Centralized Model Organism Database [1.2]
+wikigenomes.org [3.0]
+WikiLoop DoubleCheck WMF Cloud VPS (2020-07-13 version) [4.1.0]
+Wikimedia Commons App
+WikiProject Brazilian Laws Legislation Importer [1.0]
+WikiProject Brazilian Laws Legislation Importer [2.0]
+wikishootme [1.1]
+wikishootme [1.9]
+wikisyntax
+WLM italian authorization tool [1.0]
+WLM italian authorization tool [1.1]
+WLMUK [1.3]
+wwwyzzerdd  Invert selection 
+List of abbreviations:
+r
+This edit may have problems and should be reviewed (more info)
+N
+This edit created a new page (also see list of new pages)
+m
+This is a minor edit
+b
+This edit was performed by a bot
+(±123)
+The page size changed by this number of bytes
+Temporarily watched page
+3 September 2023
+diffhist  1911 Encyclopædia Britannica/Misrule, Lord of (Q84649287)‎ 01:19  +432‎   ‎Quesotiotyo talk contribs‎ (‎Created claim:  published in (P1433): Encyclopædia Britannica 11th edition (Q867541), batch #212083) Tag: quickstatements [2.0]
+diffhist  Song Chengyou (Q115110867)‎ 01:19  +361‎   ‎Ewa Lipton talk contribs‎ (‎Created claim:  National Library of Israel J9U ID (P8189): 987007459981205171, batch #212059) Tag: quickstatements [2.0]
+diffhist  Abdelelah S Jazar (Q61150051)‎ 01:19  +355‎   ‎Ewa Lipton talk contribs‎ (‎Created claim:  Dimensions author ID (P6178): 0670376106.55, batch #212057) Tag: quickstatements [2.0]
+diffhist  Cirsium castellanum (Q109735711)‎ 01:19  +453‎   ‎Research Bot talk contribs‎ (‎Added reference to claim:  short name (P1813): C. castellanum, batch #212089) Tag: quickstatements [2.0]
+diffhist  Woodsia kangdingensis (Q15605593)‎ 01:19  +410‎   ‎Research Bot talk contribs‎ (‎Created claim:  short name (P1813): W. kangdingensis, batch #212102) Tag: quickstatements [2.0]
+diffhist  1911 Encyclopædia Britannica/Grant, George Monro (Q84680982)‎ 01:19  +432‎   ‎Quesotiotyo talk contribs‎ (‎Created claim:  published in (P1433): Encyclopædia Britannica 11th edition (Q867541), batch #212083) Tag: quickstatements [2.0]
+diffhist  Vladimir B Golovko (Q61149956)‎ 01:19  +356‎   ‎Ewa Lipton talk contribs‎ (‎Created claim:  Dimensions author ID (P6178): 01060727405.10, batch #212057) Tag: quickstatements [2.0]
+diffhist  Lobelia stuhlmannii (Q15602689)‎ 01:19  +453‎   ‎Research Bot talk contribs‎ (‎Added reference to claim:  short name (P1813): L. stuhlmannii, batch #212102) Tag: quickstatements [2.0]
+diffhist  Jacob Gersen (Q115109095)‎ 01:19  +361‎   ‎Ewa Lipton talk contribs‎ (‎Created claim:  National Library of Israel J9U ID (P8189): 987007406246105171, batch #212059) Tag: quickstatements [2.0]
+diffhist  Cirsium castellanum (Q109735711)‎ 01:19  +410‎   ‎Research Bot talk contribs‎ (‎Created claim:  short name (P1813): C. castellanum, batch #212089) Tag: quickstatements [2.0]
+diffhist  1911 Encyclopædia Britannica/Lotze, Rudolf Hermann (Q84640661)‎ 01:19  +432‎   ‎Quesotiotyo talk contribs‎ (‎Created claim:  published in (P1433): Encyclopædia Britannica 11th edition (Q867541), batch #212083) Tag: quickstatements [2.0]
+diffhist  Abhishek Kumar (Q61149911)‎ 01:19  +356‎   ‎Ewa Lipton talk contribs‎ (‎Created claim:  Dimensions author ID (P6178): 01230451142.56, batch #212057) Tag: quickstatements [2.0]
+diffhist  Rui Esteves (Q115109072)‎ 01:19  +361‎   ‎Ewa Lipton talk contribs‎ (‎Created claim:  National Library of Israel J9U ID (P8189): 987010473127505171, batch #212059) Tag: quickstatements [2.0]
+diffhist  Baccharis pedalis (Q109733863)‎ 01:19  +453‎   ‎Research Bot talk contribs‎ (‎Added reference to claim:  short name (P1813): B. pedalis, batch #212089) Tag: quickstatements [2.0]
+diffhist  Lobelia stuhlmannii (Q15602689)‎ 01:19  +408‎   ‎Research Bot talk contribs‎ (‎Created claim:  short name (P1813): L. stuhlmannii, batch #212102) Tag: quickstatements [2.0]
+diffhist  1911 Encyclopædia Britannica/Monzonite (Q84683503)‎ 01:19  +432‎   ‎Quesotiotyo talk contribs‎ (‎Created claim:  published in (P1433): Encyclopædia Britannica 11th edition (Q867541), batch #212083) Tag: quickstatements [2.0]
+diffhist  Yong Ku Cho (Q61149871)‎ 01:19  +356‎   ‎Ewa Lipton talk contribs‎ (‎Created claim:  Dimensions author ID (P6178): 01261463274.57, batch #212057) Tag: quickstatements [2.0]
+diffhist  Baccharis pedalis (Q109733863)‎ 01:19  +405‎   ‎Research Bot talk contribs‎ (‎Created claim:  short name (P1813): B. pedalis, batch #212089) Tag: quickstatements [2.0]
+diffhist  Bao Weimin (Q115104243)‎ 01:19  +361‎   ‎Ewa Lipton talk contribs‎ (‎Created claim:  National Library of Israel J9U ID (P8189): 987007328361005171, batch #212059) Tag: quickstatements [2.0]
+diffhist  Sphaeranthus greenwayi (Q15601734)‎ 01:19  +453‎   ‎Research Bot talk contribs‎ (‎Added reference to claim:  short name (P1813): S. greenwayi, batch #212102) Tag: quickstatements [2.0]
+diffhist  Search for a heavy right-handed W boson and a heavy neutrino in events with two same-flavor leptons and two jets at s = 13 $$ \sqrt{s}=13 $$ TeV (Q56894992)‎ 01:19  +319‎   ‎Simon Villeneuve talk contribs‎ (‎Updated Item:  Author Disambiguator set author Soren Erdweg (Q122196977) (details)) Tag: author-disambiguator [2.0]
+diffhist   (Q111698114)‎ 01:19  −351‎   ‎Quesotiotyo talk contribs‎ (‎Removed claim:  Commons category (P373): 2022-04-11, Moving claim to  (Q111511931)) Tag: moveClaim
+diffhist  عرضداشت/арздошт (L1152352)‎ 01:19  −434‎   ‎عُثمان talk contribs‎ (‎Removed claim:  item for this sense (P5137): petition (Q697279)) Tag: Wikidata User Interface
+diffhist  1911 Encyclopædia Britannica/Sāriputta (Q84694338)‎ 01:19  +432‎   ‎Quesotiotyo talk contribs‎ (‎Created claim:  published in (P1433): Encyclopædia Britannica 11th edition (Q867541), batch #212083) Tag: quickstatements [2.0]
+diffhist   (Q111511931)‎ 01:19  +351‎   ‎Quesotiotyo talk contribs‎ (‎Updated Item:  Moving Commons category (P373) from  (Q111698114)) Tag: moveClaim
+diffhist  Florence M. Teagarden (Q115057544)‎ 01:19  +361‎   ‎Ewa Lipton talk contribs‎ (‎Created claim:  National Library of Israel J9U ID (P8189): 987007290373805171, batch #212059) Tag: quickstatements [2.0]
+diffhist  Lena Mäler (Q61149829)‎ 01:19  +356‎   ‎Ewa Lipton talk contribs‎ (‎Created claim:  Dimensions author ID (P6178): 01045302713.76, batch #212057) Tag: quickstatements [2.0]
+diffhist  Hieracium subrecurvum (Q109733069)‎ 01:19  +453‎   ‎Research Bot talk contribs‎ (‎Added reference to claim:  short name (P1813): H. subrecurvum, batch #212089) Tag: quickstatements [2.0]
+diffhist  Sphaeranthus greenwayi (Q15601734)‎ 01:19  +406‎   ‎Research Bot talk contribs‎ (‎Created claim:  short name (P1813): S. greenwayi, batch #212102) Tag: quickstatements [2.0]
+diffhist  1911 Encyclopædia Britannica/Innerleithen (Q84696916)‎ 01:19  +432‎   ‎Quesotiotyo talk contribs‎ (‎Created claim:  published in (P1433): Encyclopædia Britannica 11th edition (Q867541), batch #212083) Tag: quickstatements [2.0]
+diffhist  L. Pereira (Q61149723)‎ 01:19  +357‎   ‎Ewa Lipton talk contribs‎ (‎Created claim:  Dimensions author ID (P6178): 015701035217.61, batch #212057) Tag: quickstatements [2.0]
+diffhist  Hieracium subrecurvum (Q109733069)‎ 01:19  +409‎   ‎Research Bot talk contribs‎ (‎Created claim:  short name (P1813): H. subrecurvum, batch #212089) Tag: quickstatements [2.0]
+diffhist  Rose Taylor (Q115056942)‎ 01:19  +361‎   ‎Ewa Lipton talk contribs‎ (‎Created claim:  National Library of Israel J9U ID (P8189): 987007342475505171, batch #212059) Tag: quickstatements [2.0]
+diffhist  Lobelia viridiflora (Q15601414)‎ 01:19  +453‎   ‎Research Bot talk contribs‎ (‎Added reference to claim:  short name (P1813): L. viridiflora, batch #212102) Tag: quickstatements [2.0]
+diffhist  1911 Encyclopædia Britannica/Potgieter, Everhardes Johannes (Q84686501)‎ 01:19  +432‎   ‎Quesotiotyo talk contribs‎ (‎Created claim:  published in (P1433): Encyclopædia Britannica 11th edition (Q867541), batch #212083) Tag: quickstatements [2.0]
+diffhist  Qingchao Wang (Q61149640)‎ 01:19  +357‎   ‎Ewa Lipton talk contribs‎ (‎Created claim:  Dimensions author ID (P6178): 013652635445.24, batch #212057) Tag: quickstatements [2.0]
+diffhist  Megan Goldin (Q115054298)‎ 01:19  +361‎   ‎Ewa Lipton talk contribs‎ (‎Created claim:  National Library of Israel J9U ID (P8189): 987009841562005171, batch #212059) Tag: quickstatements [2.0]
+diffhist  Senecio telonensis (Q109732499)‎ 01:19  +453‎   ‎Research Bot talk contribs‎ (‎Added reference to claim:  short name (P1813): S. telonensis, batch #212089) Tag: quickstatements [2.0]
+diffhist  Lobelia viridiflora (Q15601414)‎ 01:19  +408‎   ‎Research Bot talk contribs‎ (‎Created claim:  short name (P1813): L. viridiflora, batch #212102) Tag: quickstatements [2.0]
+diffhist  1911 Encyclopædia Britannica/Morier, Sir Robert Burnett David (Q84685774)‎ 01:19  +432‎   ‎Quesotiotyo talk contribs‎ (‎Created claim:  published in (P1433): Encyclopædia Britannica 11th edition (Q867541), batch #212083) Tag: quickstatements [2.0]
+diffhist  Category:1898 elections in Central America (Q25046603)‎ 01:19  0‎   ‎Mr.Ibrahembot talk contribs‎ (‎Page moved from [arwiki:تصنيف:انتخابات 1898 في أمريكا الوسطى] to [arwiki:تصنيف:انتخابات أمريكا الوسطى في 1898]) Tag: Automatic Update from Connected Wiki
+diffhist  Laure Van Bol (Q61149638)‎ 01:19  +355‎   ‎Ewa Lipton talk contribs‎ (‎Created claim:  Dimensions author ID (P6178): 0705717276.50, batch #212057) Tag: quickstatements [2.0]
+diffhist  Senecio telonensis (Q109732499)‎ 01:19  +408‎   ‎Research Bot talk contribs‎ (‎Created claim:  short name (P1813): S. telonensis, batch #212089) Tag: quickstatements [2.0]
+diffhist  Birendranath Ganguli (Q115048649)‎ 01:19  +361‎   ‎Ewa Lipton talk contribs‎ (‎Created claim:  National Library of Israel J9U ID (P8189): 987007274124305171, batch #212059) Tag: quickstatements [2.0]
+diffhist  Podistera eastwoodiae (Q15588603)‎ 01:19  +453‎   ‎Research Bot talk contribs‎ (‎Added reference to claim:  short name (P1813): P. eastwoodiae, batch #212102) Tag: quickstatements [2.0]
+diffhist  Non-contact sensor for security systems (Q122197014)‎ 01:19  +357‎   ‎LucaDrBiondi talk contribs‎ (‎Created claim:  author name string (P2093): Michael Ramoutar  (Westford, MA), Adding title claim to Q122197014)
+diffhist  1911 Encyclopædia Britannica/Gratianus, Franciscus (Q84681004)‎ 01:19  +432‎   ‎Quesotiotyo talk contribs‎ (‎Created claim:  published in (P1433): Encyclopædia Britannica 11th edition (Q867541), batch #212083) Tag: quickstatements [2.0]
+diffhist  Katya Blong (Q81901957)‎ 01:19  +17‎   ‎OBender12 talk contribs‎ (‎Changed English description:  New Zealand ice hockey player) Tag: Wikidata User Interface
+diffhist  Feng Jiang (Q61149300)‎ 01:19  +357‎   ‎Ewa Lipton talk contribs‎ (‎Created claim:  Dimensions author ID (P6178): 013576627013.01, batch #212057) Tag: quickstatements [2.0]
+diffhist  Felicia adfinis (Q109732192)‎ 01:19  +453‎   ‎Research Bot talk contribs‎ (‎Added reference to claim:  short name (P1813): F. adfinis, batch #212089) Tag: quickstatements [2.0]
+Retrieved from "https://www.wikidata.org/wiki/Special:RecentChanges"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Special page
+English
+Views
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+AtomSpecial pagesPrintable version
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

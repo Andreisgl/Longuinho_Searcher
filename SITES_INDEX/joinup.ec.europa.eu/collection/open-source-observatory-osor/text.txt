@@ -1,0 +1,90 @@
+EC's code.europa.eu launches | Joinup
+      Skip to main content
+    
+Interoperable EuropeInteroperability SolutionsSign in
+                      Get started
+                    
+                        Create an account
+                        As a signed-in user you can create content, become a member of a community, receive notifications on your favourite solutions and topics, and access all other features available on the platform.Toggle menu
+                          Home
+                        
+                          Interoperable Europe
+                        
+                          Interoperability Solutions
+                        
+                          Sign in
+                        
+                          About us
+                        Toggle search boxOpen Source Observatory (OSOR)Search
+          Open Source Observatory (OSOR)
+        
+You must have JavaScript enabled to use this form.
+Join this collection
+OSOR missionAboutKnowledge CentreOSOR Awards 2023OSPOs & OSS Governance
+See more
+Open Source in Cities and RegionsNews & EventsOSOR NewslettersOSOR and Community EventsInteractive Resource MapMembersOSOR Awards 2023 - FAQ
+    Like (0)
+  
+      Open Source code repository for the EU institutions launched by DIGIT Director-General Gaffey
+          
+EC's code.europa.eu launches
+ 
+Ciarán O'Riordan
+Published on: 19/09/2022
+Last update: 03/11/2022
+        News
+      
+Source: http://code.europa.euOn Friday 16 September, Director-General for Informatics Veronica Gaffey announced the launch of the Commission's open source repository for the EU institutions: code.europa.eu. (Speech transcript below) She reported that there are already over 100 projects and 150 developers on the platform, and that the Commission's Open Source Programme Office is "busily onboarding others".
+Gaffey discussed the Commission's desire to grow from “an organisation that consumes open source to one that builds its own solutions on open source, to ultimately a Commission that is closely involved in open source”.  In addition to this technical project, she confirmed that legal and bureaucratic hurdles which prevented Commission projects from sharing their software as open source have been removed.
+Looking to the future, she noted that the upcoming Interoperable Europe Act proposal, which aims to support the digital transformation of the public sector, "acknowledges the importance of open source". She added that the preparation for this proposal "draws on two decades of knowledge, aggregated by the Open Source Observatory [OSOR], a hub of information on the development and use of open source in EU public services".
+For background, Gaffey highlighted the increasing amount of open source software being used by the Commission, including 70% of the Commission's servers, the use of Drupal for all Commission websites, and the wide use of open source in their internal development toolchain. She also pointed out how open source is now often preferred, or even required, by large Commission projects such as the Next Generation Internet initiative and the Simpl middleware cloud project.
+She closed by confirming her commitment "to further open source and its contributions to a technologically open, and therefore sovereign and interoperable Europe."
+Regarding licence choice, we see that new code uses the EUPL 1.2, and code added to existing projects uses the same licence as those projects.  For example, Dynamic Discovery Client is under the GNU LGPL, and PHP projects such as cas-bundel use the 3-clause BSD licence.  This is in line with the Commission’s licence policy as laid out in Article 5 of the Commission Decision on the open source licensing and reuse of Commission software.
+Source: https://www.youtube.com/watch?v=2-vBd9Nrot8 (41:52)Director-General Veronica Gaffey’s address
+(Video available on OFE's YouTube channel: Open Source: Driving the European Digital Decade - Online Stream )
+The global, growing importance of open source software and hardware is reflected in my own organisation, DIGIT, or its former name, the Directorate General for Informatics. Open source is dominant in our data centre. 70% of our servers run Linux. We use Drupal for all Commission websites. And our internal software development toolchain increasingly relies on open source.
+Over the past two decades, the use of open source has expanded from the data centre to our desktops, to the web and our smartphone apps. And really when you see the journey that we have all made in our working lives over the last twenty years, it's quite extraordinary. And, in fact, much of that also facilitated our being able to continue to work and function effectively over the Covid crisis, when we had to change the way we work.
+It's not just DIGIT. The software shared by the Digital Europe programme is open source, and hotspots of open source activity in the European Commission include Directorates-General such as the Joint Research Centre and Eurostat. And open source is becoming the norm in Commission projects. I point to the Next Generation Internet funding framework, funding hundreds of grassroots open source projects, and to the cloud middleware project Simpl, where open source is a requirement.
+The progression reflects our growing maturity, from an organisation that consumes open source to one that builds its own solutions on open source, to ultimately a Commission that is closely involved in open source. That's why, in 2021, we elevated our own internal Open Source Strategy and made it a Commission-wide strategy. And we created a dedicated team, the Commission Open Source Programme Office, or "OSPO", to make it easier to use and share open source and to assist colleagues to build open source into their projects and ensure a focus on IT security which, let's face it, for the last six months has never been far from our hearts.
+I've a few minutes left and it gives me a little time to mention our work with member states. There is an upcoming Interoperable Europe Act, a proposal which has been co-designed with member states, and this cooperation framework supports the digital transformation of our public sector and acknowledges the importance of open source. The Act draws on two decades of knowledge, aggregated by the Open Source Observatory, a hub of information on the development and use of open source in EU public services, encouraging collaboration. And the idea in our interoperability actions is that we will pull together the member states—and the member states are asking for this—in order that we can identify what works, what's successful, and have that freely and openly available to all.
+In the Digital Europe programme we are funding more and more open source initiatives including flagship projects like LEOS, which is the editor for drafting legal documents which will be inter-institutional and will involve also the Council and the European Parliament.
+To our colleagues in the member states who are taking steps to increase their use of free and open source, to all of the enthusiasts, advocates and community members, it will take dedication and time to become a mature part of the community but we are taking incremental steps all the time to build and strengthen the support for free and open source. I'm pleased to announce today one such step. In December last year we got rid of an outdated, complicated, bureaucratic legal process that stopped us sharing open source. Now Commission projects that wish to share their software with others are free to do so.
+We created a central code repository, one which I can now announce publicly. You will find our software development platform at code.europa.eu. So, code.europa.eu facilitates the open development of software projects from the Commission as well as the other European Union institutions. We start today with just over 100 projects and 150 developers, but the OSPO is busily onboarding others.
+All these projects are open to software developers interested in re-using, adapting and helping to extend and improve the software. Running on an open source solution, in a data centre in the EU, code.europa.eu facilitates co-development and sharing and re-use of European public service solutions. It reinforces similar efforts of public services in Bulgaria, the Czech Republic, Estonia, France, Germany, Italy, the Netherlands and elsewhere in the EU and we think more and more countries will become active in the near future. And ultimately it is a practical, incremental step to achieving digital sovereignty.
+I'm really impressed by the achievements of open source in the Czech Republic, and likewise encouraged by the progress made in the European Commission. It underscores the strategic, economic and global strategic value of this work. But I'm also aware of how much work there is ahead. We've come a long way in 20 years, but I think we need to be quite ambitious in the years ahead. But I close by confirming my commitment, and that of DIGIT, to further open source and its contributions to a technologically open, and therefore sovereign and interoperable Europe.
+So thank you all very much, and I wish you a really interesting day.
+References
+https://openforumeurope.org/event/open-source-driving-the-european-digital-deca…
+https://www.youtube.com/watch?v=2-vBd9Nrot8
+Report abusive content
+  Share
+  
+Login or create an account to comment.
+Joinup
+v1.96.0
+Useful links
+About us
+What is Joinup
+Joinup Licensing Assistant
+EIF Online Assistant
+EIF Toolbox
+Interoperable Europe
+Help and support
+Frequently Asked Questions (FAQ)
+Contact Joinup Support
+How-to & video tutorials
+Satisfaction survey
+Federation of solutions
+Legal notice
+Privacy statement
+European Commission
+About the Commission's new web presence
+Resources for partners
+Cookies
+Contact European Commission
+Europa Analytics
+Follow us
+Newsletter subscription
+Newsletter archive
+Twitter
+LinkedIn

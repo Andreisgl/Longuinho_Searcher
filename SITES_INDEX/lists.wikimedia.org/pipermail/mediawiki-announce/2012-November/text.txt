@@ -1,0 +1,380 @@
+[MediaWiki-announce] MediaWiki 1.20.0 released - MediaWiki-announce - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+                            2023
+                        
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2022
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2021
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2020
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2019
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2018
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2017
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2016
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2015
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2014
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2013
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2012
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2011
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2010
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2009
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2008
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2007
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2006
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2005
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2004
+                        
+December
+            List overview
+ Download
+thread
+[MediaWiki-announce] MediaWiki 1.20.0 released
+Mark A. Hershberger
+                7 Nov
+                
+                    2012
+                
+            
+                7 Nov
+                
+                '12
+                
+            
+4:22 a.m.
+ 
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+I'm happy to announce the availability of the first stable release
+of the new MediaWiki 1.20 release series.
+MediaWiki 1.20 is a large release that contains many new features and
+bug fixes. This is a summary of the major changes of interest to users.
+You can consult the RELEASE-NOTES-1.20 file for the full list of changes
+in this version.
+Our thanks go to everyone who helped to improve MediaWiki by testing
+the beta release and submitting bug reports.
+== What's new? ==
+MediaWiki 1.20 brings the usual host of various bugfixes and new features.
+* Minimum PHP version is now 5.3.2.
+* New diff view, greatly improved in clarity especially for
+whitespace and other small changes and color-blind users.
+* New special page Special:MostInterwikis.
+* New magic word {{PAGEID}} which gives the current page ID.
+* The info action has been reimplemented.
+Internationalization:
+* New languages supported: Emilian (egl), Tornedalen Finnish (fit),
+Mizo (lus), Santali (sat), Turoyo (tru)
+* New Cyrillic-Latin language converter for Uzbek (uz)
+== What's next? ==
+=== Next Release ===
+Since the Wikimedia Foundation has successfully switched to a biweekly
+release cycle for their sites, making releases of MediaWiki available
+on a more regular basis makes sense.  As of this release, we plan to
+release a new version of MediaWiki every six months.  This means that
+version 1.21 of MediaWiki will be released in April or May 2013.
+=== Long Term Support ===
+We're working closely with Linux distributors to make sure that the
+MediaWiki bundled in Linux is something that we feel more comfortable
+supporting.  In this vein, MediaWiki 1.19 is being targeted for "long
+term support".  Since Debian (the Linux distribution with the longest
+release cycle) has a two year cycle between each freeze and we've
+gotten MediaWiki 1.19 into Wheezy, we'll support MW 1.19 for the next
+two years.  (Thank you especially to MediaWiki developer Platonides
+for his help in working with the Debian developers.)
+Full release notes:
+https://gerrit.wikimedia.org/r/gitweb?p=mediawiki/core.git;a=blob;f=RELEASE…
+https://www.mediawiki.org/wiki/Release_notes/1.20
+Frequently asked questions about upgrading:
+http://www.mediawiki.org/wiki/Manual:FAQ#Upgrading
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.20/mediawiki-1.20.0.tar.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.20/mediawiki-1.20.0.tar.gz.sig
+Public keys:
+https://secure.wikimedia.org/keys.html
+- -- 
+http://hexmode.com/
+Any time you have "one overriding idea", and push your idea as a
+    superior ideology, you're going to be wrong. ... The fact is,
+    reality is complicated -- Linus Torvalds <http://hexm.de/mc>
+...PGP SIGNATURE...-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://www.enigmail.net/
+iD8DBQFQmbfgc17xCi38v/URAmLmAJ9n8ayLP+g1bo2Gv7zcvcI0Nw8W0QCdEaAR
+s615i/Ft76+xuMWgJ+73P+4=
+=DLfb
+-----END PGP SIGNATURE----- 
+ 0
+ 0
+            Reply
+        
+Back to the thread
+            Back to the list
+        
+ 
+            Powered by HyperKitty version 1.3.4.
+        

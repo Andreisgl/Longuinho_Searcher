@@ -1,0 +1,1403 @@
+Estatísticas da Wikipédia - Tables - mirandese
+Estatísticas da Wikipédia mirandese
+Zoom
+  
+   
+mirandese
+aimará
+western mari
+hauçá
+shona
+divehi
+navajo
+reto-romanche
+maori
+zhuang
+picard
+kalmyk
+zealandic
+groenlandês
+karakalpak
+aramaic
+papiamentu
+novial
+lojban
+kabyle
+pennsylvania german
+tetum
+tok pisin
+zulu
+chavacano
+kinyarwanda
+buginês
+kabardian
+cherokee
+goan konkani
+pali
+norfolk
+tsonga
+moksha
+nauruano
+old church slavonic
+tuvan
+hawai'ian
+uolofe
+bambara
+inuktitut
+fijiano
+pangasinan
+aromanian
+akan
+kongo
+bislama
+komi-permyak
+xhosa
+samoano
+latgalian
+oromo
+romani
+zoncá
+lak
+sangro
+cheyenne
+chamorro
+gilaki
+pontic
+gothic
+twi
+chichewa
+ewe
+kikuyu
+siswati
+sranan
+tahitian
+tumbuka
+inupiak
+tulu
+seshoto
+fulfulde
+ganda
+setswana
+kirundi
+venda
+tonga
+tigrinya
+caxemira
+atikamekw
+cree
+moldávio
+todas as línguas
+todas as línguas
+inglês
+alemão
+russo
+japonês
+francês
+espanhol
+italiano
+chinês
+polonês
+português
+holandês
+tcheco
+sueco
+árabe
+coreano
+persa
+húngaro
+finlandês
+ucraniano
+hebraico
+indonésio
+vietnamita
+tai
+norueguês
+romeno
+turco
+grego
+dinamarquês
+basco
+catalão
+búlgaro
+sérvio
+eslovaco
+inglês simplificado
+croata
+estoniano
+hindi
+lituano
+georgiano
+cazaque
+esloveno
+malaio
+leto
+serbo-croata
+azeri
+armênio
+tagalo
+esperanto
+bengali
+tâmil
+bósnio
+galego
+albanês
+urdu
+africâner
+macedônio
+usbeque
+norueguês (nynorsk)
+marathi
+malaiala
+bielorrusso
+cantonese
+latim
+télugo
+cebuano
+waray-waray
+asturiano
+islandês
+galês
+egyptian arabic
+scots
+occitânico
+mongol
+kannada
+quirguiz
+luxembourgish
+suaíle
+bretão
+tátaro
+aragonês
+alsaciano
+gaélico irlandês
+javanês
+cingalês
+frísio
+bachkir
+sorani
+birmanês
+bavarian
+min nan
+tadjique
+iídiche
+ido
+punjabi
+volapuque
+northern sami
+sicilian
+baixo-saxônico
+classical chinese
+nepalês
+western panjabi
+sundanês
+chechen
+feroês
+lombard
+malgaxe
+curdo
+guzerate
+chuvash
+venetian
+sakha
+oriya
+interlíngua
+cambodjano
+quíchua
+ilokano
+amárico
+bihari
+assamês
+abkhaz
+iorubá
+somali
+limburguês
+piedmontese
+sânscrito
+haitian
+upper sorbian
+gaélico escocês
+wu
+sindhi
+hakka
+ossetic
+min dong
+belarusian (taraÅ¡kievic)
+anglo-saxon
+pachto
+zazaki
+north frisian
+turcomeno
+nepal bhasa
+mazandarani
+neapolitan
+gan
+rusyn
+valão
+dutch low saxon
+bishnupriya manipuri
+samogitian
+west flemish
+fiji hindi
+emilian-romagnol
+gaélico manx
+eastern mari
+silesian
+central bicolano
+minangkabau
+náuatle
+maithili
+vepsian
+guarani
+lower sorbian
+ligurian
+sardinian
+kapampangan
+laociano
+tibetano
+voro
+ladino
+banyumasan
+cassubian
+igbo
+saterland frisian
+crimean tatar
+maltese
+corso
+erzya
+friulian
+acehnese
+extremaduran
+komi
+lezgian
+arpitan
+uigur
+ripuarian
+tarantino
+buryat
+cornish
+lingala
+norman
+interlingue
+udmurt
+banjar
+avar
+northern sotho
+ 
+ 
+ 
+Monthly counts & Quarterly rankings /  Editor activity levels / Distribution of article edits / Most prolific active and inactive registered contributors, anonymous contributors and bots / Articles per size range / Records per namespace / Most edited articles / Zeitgeist
+ Jan 31, 2019: This is the final release of Wikistats-1 dump-based reports. Part of these data are available in the first release of Wikistats 2. Read more here Most metrics have been collected from a partial dump (aka stub dump), which contains all revisions of every article, meta data, but no page content.Note that article and editor counts for all months are a few percent higher than when a full archive dump had been processed.This is because no page content was available to check for internal or category links.Some metrics have been collected from the full archive dump which runs on lower frequency than the usual monthly cycle.These metrics are columns F,I,J,K,M,N,O,P,Q,R from the first table.See also metrics definitions
+ Monthly counts & Quarterly rankings: dezembro 2018 
+DataWikipedistasArtigosBase de dadosLigações
+ totalnovosediçõescontagemnovospor diamédiamaiores queediçõestamanhopalavrasinternasinterwikiimagemexternasredirecio-namento
+> 5> 100oficial> 200 carediçõesbytes0,5 kb2 kb
+nov 20180%   0%      -50%      0%
+out 20180%   0%      -27%      +1%
+set 20180%   0%      +54%      0%
+ago 20180%   0%      -62%      +1%
+jul 20180%   +1%      -14%      0%
+ __A____B____C____D____E____F____G____H____I____J____K____L____M____N____O____P____Q____R____S__
+dez 201875   3,9 k  13,2   19      422
+nov 201875 1 3,9 k  13,1   23      422
+out 201875 1 3,9 k  13,1   46      422
+set 201875 3 3,9 k  13,2   63      419
+ago 201875 2 3,9 k  13,2   41      418
+jul 201875 2 3,9 k 113,2   107      415
+jun 20187523 3,9 k  13,3   125      413
+mai 201873 1 3,9 k  13,3   83      413
+abr 201873 3 3,9 k 113,3   118      413
+mar 201873 4 3,8 k 113,4   113      411
+fev 20187314 3,8 k 213,4   316      411
+jan 201872 2 3,7 k  13,6   152      403
+dez 2017722313,7 k 113,6   237      394
+nov 20177011 3,7 k  13,6   18      378
+out 2017691213,7 k  13,6   142      378
+set 201768 213,7 k  13,6   222      368
+ago 201768 213,7 k  13,5   240      341
+jul 201768 4 3,7 k  13,5   41      308
+jun 201768 423,7 k 813,5   574      306
+mai 2017684523,5 k 2114,2   876      305
+abr 201764 1 2,8 k  17,1   32      305
+mar 201764   2,8 k  17,1   12      302
+fev 201764 1 2,8 k  17,2   24      302
+jan 2017641212,8 k 117,2   169      302
+dez 201663   2,8 k  17,3   25      292
+nov 201663   2,8 k  17,3   8      292
+out 201663   2,8 k  17,3   16      292
+set 201663 1 2,8 k  17,3   70      292
+ago 20166322 2,8 k 117,3   147      292
+jul 20166111 2,7 k 117,4   39      284
+jun 201660   2,7 k  17,6   10      284
+mai 201660   2,7 k  17,6   16      284
+abr 201660   2,7 k  17,6   13      284
+mar 20166012 2,7 k  17,6   45      284
+fev 201659   2,7 k  17,6   16      284
+jan 201659   2,7 k  17,6   15      284
+dez 201559   2,7 k  17,6   15      284
+nov 201559   2,7 k  17,6   17      284
+out 20155911 2,7 k  17,6   30      284
+set 201558   2,7 k  17,6   21      282
+ago 20155811 2,7 k  17,6   40      282
+jul 201557   2,7 k  17,6   24      282
+jun 201557   2,7 k  17,6   23      282
+mai 20155711 2,7 k  17,6   224      282
+abr 201556   2,7 k  17,5   21      282
+mar 201556   2,7 k  17,5   19      282
+fev 201556   2,7 k  17,5   9      282
+jan 201556 1 2,7 k  17,5   35      282
+dez 201456   2,7 k  17,5   20      280
+nov 201456   2,7 k  17,5   39      280
+out 201456   2,7 k  17,5   18      278
+set 20145622 2,7 k  17,5   31      276
+ago 201454 1 2,7 k  17,5   30      276
+jul 201454   2,7 k  17,5   15      276
+jun 201454   2,7 k  17,5   30      276
+mai 201454   2,7 k  17,6   36      276
+abr 201454 1 2,7 k 117,6   35      276
+mar 20145411 2,6 k  17,7   35      276
+fev 201453   2,6 k2,6 k 17,7685487%52%4422 Mb3,1 M148 k4472099,8 k276
+jan 201453 1 2,6 k2,5 k 17,7687487%52%3322 Mb3,1 M148 k4462019,8 k271
+dez 20135312 2,6 k2,5 k 17,7687687%52%5122 Mb3,1 M148 k5001919,8 k271
+nov 20135212 2,6 k2,5 k 17,7688987%52%5022 Mb3,1 M148 k5001919,8 k271
+out 20135122 2,6 k2,5 k 17,8691687%52%3822 Mb3,1 M147 k5001919,8 k271
+set 2013492222,6 k2,5 k3017,8692587%52%90922 Mb3,1 M147 k4661899,8 k270
+ago 20134712 1,7 k1,6 k126,5811982%57%6317 Mb2,4 M115 k3941876,5 k264
+jul 201346 1 1,7 k1,6 k 27,1812084%59%3317 Mb2,4 M115 k6551856,4 k264
+jun 201346 1 1,7 k1,6 k127,1813384%59%9617 Mb2,4 M115 k6771826,4 k262
+mai 201346 311,6 k1,6 k427,6828084%59%31417 Mb2,4 M115 k7061826,4 k259
+abr 20134623 1,5 k1,4 k129,4822383%58%16915 Mb2,2 M109 k6981816,0 k239
+mar 201344 111,5 k1,4 k129,7828683%59%2,0 k15 Mb2,2 M109 k2,9 k1795,9 k239
+fev 201344 2 1,5 k1,4 k 29,1844084%60%73718 Mb2,2 M108 k90 k1495,8 k238
+jan 2013441411,5 k1,4 k128,6844584%60%1,2 k18 Mb2,2 M108 k90 k1495,8 k237
+dez 2012431311,5 k1,4 k428,2850685%61%1,0 k18 Mb2,2 M108 k88 k1495,8 k237
+nov 20124211 1,3 k1,3 k230,2860385%59%86716 Mb2,0 M99 k83 k1374,8 k224
+out 20124112 1,3 k1,2 k 30,7854884%57%80715 Mb1,9 M95 k79 k904,4 k213
+set 201240 1 1,3 k1,2 k 30,2856684%57%65315 Mb1,9 M95 k79 k934,4 k213
+ago 201240   1,3 k1,2 k 29,9861684%58%65715 Mb1,9 M95 k78 k944,3 k213
+jul 20124023 1,3 k1,2 k 29,4862184%58%83315 Mb1,9 M95 k78 k954,3 k213
+jun 201238 1 1,2 k1,2 k 29867884%58%80915 Mb1,9 M95 k77 k974,3 k213
+mai 201238   1,2 k1,2 k 28,4869684%58%77115 Mb1,9 M95 k76 k924,3 k212
+abr 201238 2 1,2 k1,2 k 27,9870684%58%86115 Mb1,9 M95 k76 k914,3 k212
+mar 201238 3 1,2 k1,2 k127,4899385%59%95016 Mb2,0 M95 k75 k924,3 k212
+fev 20123812 1,2 k1,1 k127,2916186%60%82815 Mb2,0 M95 k73 k954,3 k211
+jan 201237   1,2 k1,1 k 27,5943289%62%61215 Mb2,0 M95 k71 k934,2 k210
+dez 20113712 1,2 k1,1 k 27,1945989%62%85015 Mb2,0 M95 k71 k914,2 k210
+nov 20113614 1,1 k1,1 k126,6951289%62%92015 Mb2,0 M94 k70 k914,2 k210
+out 20113514 1,1 k1,1 k 26,1958990%63%80415 Mb1,9 M94 k69 k884,2 k206
+set 201134   1,1 k1,1 k 25,8967190%63%58615 Mb1,9 M94 k68 k854,1 k205
+ago 201134 4 1,1 k1,1 k 25,3968890%63%71515 Mb1,9 M93 k68 k874,1 k205
+jul 20113423 1,1 k1,1 k124,8972190%63%88815 Mb1,9 M93 k68 k874,1 k205
+jun 2011321  1,1 k1,1 k 24,7994491%64%89915 Mb1,9 M93 k66 k864,0 k205
+mai 201131 2 1,1 k1,0 k 24995391%65%76615 Mb1,9 M93 k65 k944,0 k204
+abr 20113117 1,1 k1,0 k123,4996192%65%82515 Mb1,9 M93 k65 k923,9 k204
+mar 201130 2 1,0 k1,0 k 23,1996992%65%96015 Mb1,9 M91 k63 k923,8 k203
+fev 201130 1 1,0 k1,0 k 22,31001192%65%69814 Mb1,9 M91 k62 k883,8 k203
+jan 2011301511,0 k1,0 k121,71008492%65%1,3 k14 Mb1,9 M91 k61 k913,8 k201
+dez 201029 1 1,0 k987 211033392%66%75314 Mb1,9 M91 k60 k903,8 k178
+nov 201029 1 999978 20,41039192%66%64514 Mb1,9 M90 k59 k913,8 k177
+out 20102916 996975119,81042492%67%70114 Mb1,9 M90 k59 k963,8 k175
+set 20102824 979959 19,41055792%67%71914 Mb1,9 M90 k57 k973,8 k174
+ago 201026 2 964951 191061593%68%97914 Mb1,9 M89 k56 k973,7 k171
+jul 20102613 954941 18,21068493%68%70914 Mb1,9 M89 k55 k1023,7 k170
+jun 20102511 939925 17,71083693%69%73014 Mb1,8 M89 k54 k1083,7 k168
+mai 20102413 934918 171079893%68%72514 Mb1,8 M88 k53 k1093,6 k168
+abr 201023 52923908116,41091193%69%1,1 k14 Mb1,8 M88 k52 k1083,6 k167
+mar 201023171896880315,61121693%69%1,3 k14 Mb1,8 M87 k51 k1463,6 k156
+fev 201022 9 806801115,81188394%70%83913 Mb1,7 M81 k46 k1573,4 k132
+jan 201022363781775115,31211194%70%2,3 k13 Mb1,7 M79 k45 k1663,3 k119
+dez 200919251744737 12,91275894%71%83812 Mb1,7 M77 k42 k2763,3 k74
+nov 200917141740733 11,91275894%70%1,2 k12 Mb1,6 M76 k41 k6173,3 k71
+out 200916142733723110,41329993%71%1,1 k12 Mb1,6 M76 k40 k1,3 k3,2 k63
+set 200915571707699 9,31383294%72%98712 Mb1,6 M75 k32 k1,6 k3,1 k53
+ago 200910141697686181446293%72%2,3 k12 Mb1,6 M75 k25 k2,8 k3,1 k40
+jul 20099 1 670662 4,91532594%74%4112 Mb1,6 M74 k13 k2,8 k3,1 k38
+jun 20099 2166766154,91533794%75%47712 Mb1,6 M74 k13 k2,8 k3,1 k38
+mai 20099 2151650615,41384892%71%1428,1 Mb1,1 M52 k12 k2,2 k2,0 k36
+abr 2009926247346475,61286892%71%5776,9 Mb945 k47 k12 k2,0 k1,6 k34
+mar 2009713126225217,81050285%60%2843,3 Mb428 k21 k11 k91284625
+fev 2009624222020938870983%56%7142,4 Mb295 k16 k10 k72462723
+jan 20094 2113813017,6528276%40%301972 kb118 k5,7 k5,0 k27316014
+dez 20084 511018817,5229964%22%420316 kb38 k1,7 k1,8 k1267411
+nov 20084 2 5540 6,169251%4%3753 kb6,3 k20120715294
+out 20084   5238 5,765450%4%449 kb5,8 k15919216264
+set 20084   5138 5,766351%4% 49 kb5,7 k15719216254
+ago 20084   5138 5,766351%4% 49 kb5,7 k15719216254
+jul 2008422 5138 5,766351%4%3149 kb5,7 k15719216254
+jun 20082   4937 5,363651%2%1141 kb5,5 k1246510244
+mai 20082 1 473515,362049%2%9239 kb5,1 k1156110174
+abr 20082   2420 6,659450% 6421 kb2,6 k73261093
+mar 20082   1713 5,556653% 2714 kb1,7 k6410912
+fev 2008221 139 5,258254% 6711 kb1,3 k563912
+ totalnovosediçõescontagemnovospor diamédiamaiores queediçõestamanhopalavrasinternasinterwikiimagemexternasprojects
+> 5> 100oficial> 200 carediçõesbytes0,5 kb2 kb
+The following table ranks this project in relation to projects in other languages with 1000+ articles
+out 2018177 206 189  184   200      278
+jul 2018177 183 188 150185   174      278
+abr 2018179 163 188 158184   179      278
+jan 2018178 191 189  181   173      278
+out 2017178145183145188  180   168      278
+jul 2017175 152 186  183   204      278
+abr 2017182 201 205  157   202      278
+jan 2017178148176140203 152158   157      278
+out 2016178   203  155   232      278
+jul 2016178139205 203 142154   192      278
+abr 2016179   201  154   231      278
+jan 2016177   198  155   235      278
+out 2015176139208 194  157   211      278
+jul 2015177   193  159   209      278
+abr 2015177   192  160   236      278
+jan 2015174 198 189  158   201      278
+out 2014172   188  159   221      278
+jul 2014172   187  158   233      278
+abr 2014170 208 185 153161   215      278
+jan 20141661741991481841591591611439209114105107190235116278
+out 20131671141761291811591501612449194115104107194234117278
+jul 2013171145195138200182160911513200121107110183234124278
+abr 2013169104159152204184156701543187124108111187235125277
+jan 2013173138137145202181153691472177133107111193241125277
+out 2012172143177140206182152601442196139108113196250132277
+jul 2012173100157146204183155671432195135108113196248131277
+abr 2012174143177150202180152711391195133105111194250124277
+jan 2012171162231145204180152701201201130105109194247122277
+out 2011174138140151204179164761141198127102107192247120277
+jul 2011172113154145202175161831111193122102106189245119277
+abr 20111751351061362011701509217118811897102188239117277
+jan 201117214112913220016415510116118211996101185242116277
+out 201016914611213519316314519319219118919011795101182234110277
+jul 201017314716314318916116018918818718518911692100180232110277
+abr 20101791561211021861611481861851841831651139198176232110277
+jan 201017881121851871641461831831821811181149199175217110277
+out 2009195137125981881621541811811801791601139098174122105277
+jul 2009232196193137185164152173173172171248109889721594105277
+abr 20092289911210619517282170170169168175128100105212105120277
+jan 2009257135165129227212141165165164163204201168170229189190276
+out 2008254143210137245234147159159158157263261243246263256232274
+jul 2008249104170134240228150152152151149249256239243262252224273
+abr 2008262153219132253237154147147145143235260248250263255240273
+ totalnovosediçõescontagemnovospor diamédiamaiores queediçõestamanhopalavrasinternasinterwikiimagemexternasprojects
+> 5> 100oficial> 200 carediçõesbytes0,5 kb2 kb
+ WikipedistasArtigosBase de dadosLigações
+x < 0%    0% < x < 25%    25% < x < 75%    75% < x
+See also Metrics definitionsWikipedistas (usuários registrados)
+A = Wikipedistas que editaram pelo menos dez vezes desde que chegaram
+B = Aumento no número de wikipedistas que editaram pelo menos dez vezes desde que chegaram
+C = Wikipedistas que contribuíram cinco vezes ou mais este mês
+D = Wikipedistas que contribuíram cem vezes ou mais este mês
+Artigos (excluindo páginas de redirecionamento)
+E = Artigos que contêm pelo menos uma ligação interna
+F = Artigos que contêm pelo menos uma ligação interna e 200 caracteres de texto legível, não contando códigos wiki e html,       ligações ocultas, etc.; títulos também não contam (outras colunas são baseadas no método oficial de contagem)
+G = Novos artigos por dia no mês passado
+H = Número médio de revisões por artigo
+I = Tamanho médio dos artigos em bytes
+J = Porcentagem de artigos com pelo menos 0,5 kb de texto legível (veja F)
+K = Porcentagem de artigos com pelo menos 2 kb de texto legível (veja F)
+Base de dados
+L = Edições no mês passado (incluindo páginas de redirecionamento e editores não registrados)
+M = Tamanho combinado de todos os artigos (incluindo páginas de redirecionamento)
+N = Total de palavras (excluindo páginas de redirecionamento, códigos html e wiki e ligações ocultas)
+Ligações
+O = Total de ligações internas (excluindo páginas de redirecionamento, esboços e listas de ligações
+P = Total de ligações para outras wikipédias
+Q = Total de imagens apresentadas
+R = Total de ligações para outros sítios
+S = Total de páginas de redirecionamento
+ Edit activity levels of registered users and bots per group of namespacesArticles = namespace 0 - Talk pages = namespaces 1 3 5 7 etc - Other pages = namespaces 2 4 6 8 etc.
+  Articles  Talk  Other 
+  Users   Bots   Users   Bots   Users   Bots  
+Edits ≥ 1  3  5  10  25  100  250  1000  5  10  100  1000  1  3  5  10  25  100  250  5  10  1  3  5  10  25  100  250  1000  5  10  100  1000 
+dez 20187     1            2           
+nov 2018831        21       221         
+out 201813411                41          
+set 2018143311  1   1        3221        
+ago 20187221       2        33221       
+jul 201822211  1   1        4432        
+jun 201893321      322      632211  1   
+mai 20188111       1        5322        
+abr 2018104322      511      731         
+mar 2018134431      2        6221        
+fev 2018104433  1   311      52211       
+jan 201873222      21       2211        
+dez 2017943331      211      632211      
+nov 2017521        21       41111   1   
+out 2017622211      21       621111      
+set 20171132111  1   2221     411111      
+ago 20171032111  2   5221     5222111 1   
+jul 20171154        3        411         
+jun 20177443321              11111       
+mai 201711655222 1   1        3111        
+abr 20171111    1   1        111         
+mar 201741                 2           
+fev 20176111       1        421         
+jan 20171022111      311      5322211     
+out 201813411                41          
+jul 201822211  1   1        4432        
+abr 2018104322      511      731         
+jan 201873222      21       2211        
+out 2017622211      21       621111      
+jul 20171154        3        411         
+abr 20171111    1   1        111         
+jan 20171022111      311      5322211     
+out 201652                 211         
+jul 201633111  1   2        2111        
+abr 20166         2        2           
+jan 20168     1   2        6           
+out 20154111                3       1   
+jul 201581        1        1           
+abr 20159     1   1      223           
+jan 2015711    11  52       31          
+out 20149                  3           
+jul 20145         1        2           
+abr 20147111       1        5           
+jan 2014921    11  1        61          
+out 20131832        1        51          
+jul 20131021        1        3           
+abr 201313332   43  1        11211    552 
+jan 20131254211  18123 62111    12532111 11113 
+out 2012832    1493 1        1121     1192 
+jul 201213431   1883 1        12111    12102 
+abr 201214321   16153 31       911     1291 
+jan 201292    15111 1        101      12111 
+out 20111764    23161          1032     15123 
+jul 2011123321  22132 3        74311   1191 
+abr 201114773   14124 1        12531    12102 
+jan 20111055321  20143 41       163221   16133 
+out 2010147631  17111 3        162211   1392 
+jul 201011531   18121 3        92111   1182 
+abr 201010654421 1581 1042      137433   1092 
+jan 20101276663111592 9332     159975211431 
+out 20091464422  16121 83211    11532    43  
+jul 200921111               1111        
+abr 20096666421     3111     33322       
+jan 2009422221      3111     54221       
+out 2008                               
+jul 20082222       1        421         
+abr 20081                  21          
+ Distribuição de edições de artigos por wikipedistassomente edições em artigos são contadas, não alterações em páginas de discussão, etc.1 : 3 : 10 : 32 : 100 : 316 : 1000 ... = 1 : √10 : 10 : 10√10 : 100 : 100√10 : 1000 ...  
+Edições >=WikipedistasEdições total
+1617100.0%16,305100.0%
+314723.8%15,62595.8%
+107412.0%15,22293.4%
+32426.8%14,64989.8%
+100254.1%13,78784.6%
+316142.3%11,51870.6%
+100030.5%5,73735.2%
+ 7 wikipedistas recentemente ativos, ordenados por número de contribuições:posição: somente edições em artigos são contadas, não alterações em páginas de discussão, etc.Δ = variação da posição nos últimos trinta dias 
+UsuárioEdições 
+ posiçãoArtigosOutrosPrimeira ediçãoArtigosOutros
+ agoraΔtotalúltimos30 diastotalúltimos30 diasdatadiasatrástotalúltimos30 diastotalúltimos30 dias
+Marco Chemello (BEIC)UC298+29021--fev 27, 2018306----
+Mr. FulanoUC305...22--dez 02, 201828----
+RoblespepeUC613...11--dez 03, 201827----
+XXBlackburnXxUC614...11--dez 10, 201820----
+LutzBrunoUC615...11--dez 11, 201819----
+Sg7438UC616...11--dez 24, 20186----
+Natuur12UC617...111-dez 30, 2018 ----
+ 20 wikipedistas recentemente ausentes, ordenados por número de contribuições:somente edições em artigos são contadas, não alterações em páginas de discussão, etc. 
+UsuárioEdições
+  Primeira ediçãoúltima edição
+ posiçãototaldatadiasatrásdatadiasatrás
+PisonesUC12,078dez 06, 20093311mai 03, 20132067
+CecílioUC22,015jul 29, 20083806fev 09, 20103246
+ChabiUC31,644fev 24, 20083962jul 05, 20122369
+Athena in WonderlandUC4978out 25, 20151162nov 24, 201836
+SPQRobinUC5723jun 25, 20093475jun 03, 20112767
+CatrapimbaUC6589mai 17, 2017592jun 08, 2017570
+Manuel de SousaUC7541jan 24, 20103262mar 08, 20132123
+ZeEstevesUC8530set 14, 20131933set 16, 20131931
+GarsdUC9520jan 15, 20132175mar 24, 20132107
+Bitus15UC10446mai 01, 2017608jul 07, 2017541
+NaviaTVUC11377jan 25, 20103261mai 14, 20103152
+AmaralUC12368set 18, 20131929set 18, 20131929
+HexadecimalUC13365abr 15, 20132085jun 03, 20132036
+BillinghurstUC14344jul 03, 20122371jun 23, 2017555
+El estremeñuUC15305set 20, 20093388jan 04, 20103282
+CarnelianSuthUC16305nov 18, 20122233dez 12, 20122209
+AlchimistaUC17290ago 13, 20093426mai 16, 2017593
+Alejandrocaro35UC18270dez 14, 2017381set 16, 2018105
+EspadeiroUC19234set 08, 20093400out 27, 2016794
+Gato PretoUC20166set 25, 20151192mar 22, 2017648
+ Anonymous usersNo detailed statistics for anonymous users are available for this wiki (performance reasons)No total 1.851 edições foram feitas por usuários anônimos, de um total de 51.705 edições ( 3e %)  50 bots, ordered by number of contributionssomente edições em artigos são contadas, não alterações em páginas de discussão, etc. 
+UsuárioEdições 
+ posiçãototalPrimeira ediçãoúltima ediçãototalúltimos30 dias
+ datadiasatrásdatadiasatrás
+XqbotUC14,546set 01, 20093407fev 20, 2018313--
+EmausBotUC23,876jun 26, 20103109mai 25, 2018219--
+Luckas-botUC33,421set 03, 20093405mai 20, 20122415--
+MerlIwBotUC41,845mai 07, 20112794ago 08, 20131970--
+WikitanvirBotUC51,545nov 07, 20102975abr 21, 20122444--
+SieBotUC61,522ago 14, 20093425jan 25, 20112896--
+ZéroBotUC71,409nov 03, 20102979mar 06, 20132125--
+MelancholieBotUC81,360ago 13, 20093426nov 28, 20093319--
+TXiKiBoTUC91,252set 21, 20093387jan 08, 20132182--
+LegobotUC10839mar 11, 20132120abr 02, 20132098--
+VolkovBotUC11833ago 16, 20093423fev 28, 20132131--
+AddbotUC12752mar 07, 20132124ago 16, 20131962--
+EscarbotUC13663mar 07, 20103220set 07, 2016844--
+FoxBotUC14660out 03, 20093375fev 05, 20122520--
+TjBotUC15544nov 17, 20102965mar 06, 20132125--
+ArthurBotUC16482ago 24, 20093415nov 17, 20112600--
+CommonsDelinkerUC17398dez 25, 20083657dez 28, 20182--
+RedBotUC18391set 08, 20103035ago 21, 20122322--
+Ripchip BotUC19380mar 06, 20112856fev 18, 20122507--
+HRoestBotUC20376jun 19, 20103116fev 14, 20132145--
+Idioma-botUC21366out 30, 20093348fev 10, 20132149--
+KamikazeBotUC22361jul 04, 20103101jan 24, 20132166--
+AvocatoBotUC23349out 20, 20112628fev 27, 20132132--
+JackieBotUC24289jan 15, 20112906mar 07, 20132124--
+JAnDbotUC25285ago 14, 20093425jul 03, 20132006--
+AlexbotUC26281ago 17, 20093422ago 14, 20112695--
+Thijs!botUC27272mai 04, 20103162jul 30, 20122344--
+LaaknorBotUC28269out 02, 20093376fev 16, 20132143--
+RobbotUC29252set 23, 20093385jan 02, 20132188--
+MjbmrbotUC30234out 15, 20102998mar 28, 20112834--
+Movses-botUC31226dez 22, 20102930mar 18, 20122478--
+RubinbotUC32203set 13, 20093395mar 02, 20132129--
+Dinamik-botUC33179fev 14, 20103241dez 18, 20122203--
+DexbotUC34179out 17, 20122265mai 25, 20151315--
+MastiBotUC35178dez 10, 20093307mar 01, 20132130--
+GerakibotUC36171jan 11, 20103275mar 04, 20132127--
+AvicBotUC37169jun 18, 20112752dez 09, 20122212--
+JotterbotUC38159out 05, 20093373jan 24, 20132166--
+VagobotUC39158out 18, 20112630set 19, 20122293--
+AmirobotUC40131mai 04, 20103162nov 19, 20112598--
+MystBotUC41122jan 23, 20103263fev 05, 20122520--
+Makecat-botUC42120out 28, 20122254mar 04, 20132127--
+YFdyh-botUC43109jun 18, 20122386fev 13, 20132146--
+JhsBotUC44103mai 18, 20103148mar 29, 20122467--
+CocuBotUC45100jun 09, 20112761dez 26, 20122195--
+HerculeBotUC4699ago 30, 20093409jul 13, 20122361--
+CarsracBotUC4795ago 16, 20093423fev 12, 20132147--
+HiW-BotUC4891set 18, 20112660out 19, 20122263--
+SilvonenBotUC4986set 08, 20093400dez 19, 20122202--
+DSisyphBotUC5085nov 22, 20093325ago 27, 20122316--
+ Artigos que contêm pelo menos uma ligação interna e .. caracteres de texto legível, não contando códigos wiki e html,  ligações ocultas, etc.; títulos também não contam  (excluindo páginas de redirecionamento)
+DataArtigos
+ < 32 ch< 64 ch< 128 ch< 256 ch< 512 ch< 1 k ch< 2 k ch< 4 k ch< 8 k ch< 16 k ch< 32 k ch< 64 k ch
+out 20107.5%11.1%12.9%15.4%19.6%28.7%41.8%56.0%69.1%81.6%91.0%97.4%
+set 20107.6%11.1%13.1%15.4%19.4%28.5%41.6%55.7%68.7%81.2%90.9%97.4%
+ago 20107.6%11.2%12.7%15.0%19.0%28.0%41.2%55.4%68.5%81.2%90.9%97.5%
+jul 20107.6%11.1%12.6%15.0%19.0%27.6%40.9%55.1%68.3%81.0%90.8%97.4%
+jun 20107.8%11.2%12.9%15.2%19.1%27.3%40.3%54.4%67.8%80.7%90.7%97.4%
+mai 20107.8%11.2%13.0%15.3%19.2%27.3%40.5%54.6%67.9%80.9%90.7%97.4%
+abr 20107.8%11.3%13.0%15.3%19.2%27.3%40.2%54.3%67.4%80.5%90.5%97.3%
+mar 20107.1%10.5%12.3%14.7%18.5%26.2%39.4%53.0%66.5%80.1%90.4%97.2%
+fev 20106.8%9.8%10.7%13.3%16.9%24.6%38.2%51.3%65.1%78.8%89.7%97.1%
+jan 20106.6%9.1%10.1%12.7%16.1%23.5%37.3%50.6%64.5%78.1%89.2%96.9%
+dez 20095.7%7.4%8.5%11.4%14.9%22.9%35.8%48.4%62.4%76.6%88.5%96.6%
+nov 20095.5%7.2%8.3%11.2%14.8%23.1%36.0%48.6%62.4%76.6%88.5%96.6%
+out 20093.9%4.9%5.4%8.2%11.7%19.9%33.3%46.5%61.0%75.9%88.2%96.5%
+set 20092.2%2.7%3.2%5.9%9.4%17.3%30.5%44.0%59.0%74.9%87.8%96.2%
+ago 20090.3%0.6%1.0%4.0%7.4%15.2%28.5%42.1%57.4%74.0%87.3%96.1%
+jul 20090.1%0.5%0.8%3.9%6.7%14.1%26.3%38.8%54.9%72.4%86.2%95.6%
+jun 20090.1%0.5%0.8%3.9%6.6%14.0%26.2%38.7%54.8%72.4%86.3%95.7%
+mai 20090.2%1.2%1.6%5.1%8.4%17.0%29.9%42.2%56.6%74.3%87.5%97.5%
+abr 20090.2%1.2%1.6%5.2%8.8%17.4%29.7%41.6%55.6%74.0%88.2%98.0%
+mar 20090.4%2.3%3.1%8.8%15.2%27.3%40.1%52.9%62.3%77.4%90.6%98.9%
+fev 20090.4%2.2%3.5%10.7%17.4%30.9%44.4%58.3%66.8%82.0%91.9%99.5%
+jan 20090.7%4.1%6.2%17.2%26.9%44.8%61.4%73.1%78.6%88.3%95.9%100.0%
+dez 20081.0%8.6%11.5%25.8%38.2%61.1%79.2%88.7%91.6%96.4%100.0%100.0%
+nov 20081.8%18.2%23.7%38.2%49.1%76.4%96.4%100.0%100.0%100.0%100.0%100.0%
+out 20083.8%18.9%24.6%39.7%51.0%79.3%96.3%100.0%100.0%100.0%100.0%100.0%
+set 20083.8%19.2%25.0%38.5%50.0%78.8%96.1%99.9%99.9%99.9%99.9%99.9%
+ago 20083.8%19.2%25.0%38.5%50.0%78.8%96.1%99.9%99.9%99.9%99.9%99.9%
+jul 20083.8%19.2%25.0%38.5%50.0%78.8%96.1%99.9%99.9%99.9%99.9%99.9%
+jun 20083.9%19.6%25.5%37.3%51.0%80.4%98.0%100.0%100.0%100.0%100.0%100.0%
+mai 20084.1%20.4%26.5%38.7%53.0%81.6%97.9%99.9%99.9%99.9%99.9%99.9%
+abr 20080.0%11.5%15.3%34.5%53.7%84.5%99.9%99.9%99.9%99.9%99.9%99.9%
+mar 20080.0%5.6%11.2%33.4%50.1%89.0%100.0%100.0%100.0%100.0%100.0%100.0%
+fev 20080.0%7.7%15.4%38.5%46.2%84.7%100.0%100.0%100.0%100.0%100.0%100.0%
+ Registros no banco de dados por domínio / Artigos categorizados / Binaries (=namespace 6: images, sound files, etc)1) Categorias inseridas por predefinição não são detectadas. 
+DataDomínioArtigoscategorizados 1Binaries
+ ArtigoUsuárioProjetoImagemMediaWikiPredefiniçãoAjudaCategoria100102104106108110
+dez 20184,4 k734160 611,1 k142,7 k8      
+nov 20184,4 k734160 611,1 k142,7 k8      
+out 20184,4 k734160 611,1 k142,7 k8      
+set 20184,3 k733160 611,1 k142,7 k8      
+ago 20184,3 k733160 611,1 k142,7 k8      
+jul 20184,3 k733160 611,1 k102,7 k8      
+jun 20184,3 k732160 611,1 k102,7 k8      
+mai 20184,3 k730160 611,1 k102,7 k8      
+abr 20184,3 k730157 611,1 k102,7 k8      
+mar 20184,2 k728157 611,1 k102,7 k8      
+fev 20184,2 k725157 611,1 k102,7 k6      
+jan 20184,1 k719156 571,0 k102,7 k6      
+dez 20174,1 k719156 571,0 k102,7 k6      
+nov 20174,1 k717156 571,0 k102,6 k6      
+out 20174,1 k716150 531,0 k102,6 k6      
+set 20174,1 k714148 4398892,6 k6      
+ago 20174,0 k703146 1895982,6 k6      
+jul 20174,0 k699141 1882382,6 k6      
+jun 20174,0 k697141 1882282,6 k6      
+mai 20173,8 k697141 1882282,6 k6      
+abr 20173,1 k696141 1881882,6 k6      
+mar 20173,1 k695141 1881482,6 k6      
+fev 20173,1 k695141 1881482,6 k6      
+jan 20173,1 k693141 1881482,6 k6      
+dez 20163,1 k69176 1881072,2 k6      
+nov 20163,1 k69176 1881072,2 k6      
+out 20163,1 k69176 1881072,2 k6      
+set 20163,1 k69176 1880972,2 k6      
+ago 20163,1 k69076 1880972,2 k6      
+jul 20163,0 k68976 1880972,2 k6      
+jun 20163,0 k68876 1880172,2 k6      
+mai 20163,0 k68876 1880172,2 k6      
+abr 20163,0 k68776 1880172,2 k6      
+mar 20163,0 k68576 1880172,2 k6      
+fev 20163,0 k68576 1880172,2 k6      
+jan 20163,0 k68576 1880172,2 k6      
+dez 20153,0 k68476 1880172,2 k6      
+nov 20153,0 k67976 1880172,2 k6      
+out 20153,0 k67874 1880172,2 k6      
+set 20153,0 k67874 1879472,2 k6      
+ago 20153,0 k67674 1879472,2 k6      
+jul 20153,0 k67573 1879272,2 k6      
+jun 20153,0 k67473 1879272,2 k6      
+mai 20153,0 k67473 1879272,2 k6      
+abr 20153,0 k67473 1879272,2 k6      
+mar 20153,0 k67273 1879272,2 k6      
+fev 20153,0 k67073 1877972,2 k6      
+jan 20153,0 k66673 1877972,2 k6      
+dez 20143,0 k66273 1877972,2 k6      
+nov 20143,0 k66273 1877972,2 k6      
+out 20143,0 k65973 1877972,2 k6      
+set 20143,0 k65773 1877972,2 k6      
+ago 20143,0 k65273 1877972,2 k6      
+jul 20142,9 k64773 1877972,2 k6      
+jun 20142,9 k64673 1875772,2 k6      
+mai 20142,9 k64673 1875562,2 k6      
+abr 20142,9 k64273 1875562,2 k6      
+mar 20142,9 k63973 1875562,2 k6      
+fev 20142,9 k63573 1875562,2 k6     8
+jan 20142,9 k63273 1875532,2 k6     17
+dez 20132,9 k62873 1875532,2 k6     44
+nov 20132,9 k62673 1875532,2 k6     30
+out 20132,9 k62172 1875532,1 k6     33
+set 20132,9 k61772 1875532,1 k6     904
+ago 20132,0 k60272 1875532,1 k6     46
+jul 20131,9 k59972 1875532,1 k6     20
+jun 20131,9 k59672 1875532,1 k6     87
+mai 20131,9 k59472 1869432,1 k6     300
+abr 20131,8 k58672 1845732,1 k6     46
+mar 20131,8 k57472 1844932,1 k6     310
+fev 20131,7 k46066 1844932,1 k6     51
+jan 20131,7 k44157 1844622,1 k6     231
+dez 20121,7 k42752 1644622,1 k6     251
+nov 20121,6 k41352 1642222,1 k6     110
+out 20121,5 k41252 1640722,1 k6     24
+set 20121,5 k40752 1540712,1 k6     17
+ago 20121,5 k40152 1540712,1 k6     6
+jul 20121,5 k39652 1540712,1 k6     45
+jun 20121,5 k39052 1540612,1 k6     26
+mai 20121,5 k37952 1540612,1 k6     24
+abr 20121,5 k37152 1540612,1 k6     37
+mar 20121,4 k35952 1540612,1 k6     106
+fev 20121,4 k35652 1540512,1 k6     94
+jan 20121,4 k34252 1540512,1 k6     18
+dez 20111,4 k33452 1540512,1 k6     68
+nov 20111,4 k32852 1440212,0 k6     64
+out 20111,3 k31152 1440212,0 k6     45
+set 20111,3 k30252 1340112,0 k6     10
+ago 20111,3 k29252 1340012,0 k6     45
+jul 20111,3 k28852 1340012,0 k6     60
+jun 20111,3 k28052 1139912,0 k6     15
+mai 20111,3 k27652 1139812,0 k6     34
+abr 20111,3 k27052 1139712,0 k6     77
+mar 20111,2 k26252 1139611,9 k6     55
+fev 20111,2 k25452 1037011,9 k6     30
+jan 20111,2 k24752 737011,9 k6     262
+dez 20101,2 k23950 336611,9 k6     17
+nov 20101,2 k23450 336611,9 k6     16
+out 20101,2 k22550 236611,9 k6     88
+set 20101,2 k21249 233411,9 k6     57
+ago 20101,1 k20149 233411,9 k6     22
+jul 20101,1 k18349 233311,9 k6     36
+jun 20101,1 k17949 233111,9 k6     42
+mai 20101,1 k16349 232911,9 k6     83
+abr 20101,1 k16049 232511,9 k6     485
+mar 20101,1 k14849 229311,9 k6     455
+fev 201093813445 223111,9 k6     262
+jan 201090012430 220511,9 k6     1758
+dez 200981810027 219417756     199
+nov 20098119027 219417596     574
+out 20097968225 218511656     344
+set 20097607524 218211576     454
+ago 20097374823 118111566     925
+jul 2009708116  14411406     37
+jun 2009705116  14411396     470
+mai 200955214  94 119      128
+abr 200950714  91 108      564
+mar 200928714  83 71      263
+fev 200924314  68 70      658
+jan 200914813  57 61      267
+dez 200810813  44 26      339
+nov 200855 1  21 6      36
+out 200851 1  18 4       
+set 200850 1  18 4       
+ago 200850 1  18 4       
+jul 200850 1  18 4      26
+jun 200848 1  18 3       
+mai 200846 1  18 3      22
+abr 200825 1  18 1      1
+mar 200817 1  15 1      3
+fev 200814 1  15         
+ Most edited articlesTable out of order. Data collection needs to be revised.For some projects up to date and much more extensive database reports are published from the toolserver, e.g. for English Wikipedia and Wikimedia Commons ZeitGeistFor each month articles with most contributors in that month are shown.x y z    ⇐    x = rank, y = contributors in that month, z = article titlefev 2008: 1 2 Picuote 
+, 2 1 Bumioso
+mar 2008: 1 1 Lhéngua Mirandesa
+abr 2008: 1 1 Abusejo
+mai 2008: 1 1 Sociadade
+jul 2008: 1 1 Cumputador
+nov 2008: 1 2 Pertual 
+, 2 2 Lhéngua Mirandesa 
+, 3 1 Spanha
+dez 2008: 1 4 Declaraçon Ounibersal de ls Dreitos Houmanos 
+, 2 3 Ágreda 
+, 3 3 Zenízio 
+, 4 2 Spanha 
+, 5 2 Quim Barreiros 
+, 6 2 Cumputador 
+, 7 2 Cebadeiros 
+, 8 2 Bumioso 
+, 9 2 Braga 
+, 10 2 Bernardo Fernandes Monteiro 
+, 11 2 Auga 
+, 12 2 António Lobo Antunes 
+, 13 2 Almazán 
+, 14 2 Agallas 
+, 15 2 Abusejo 
+, 16 2 Abejar 
+, 17 2 La Lhéngua Mirandesa 
+, 18 2 Nuossa Alma i Nuossa Tierra 
+, 19 2 Manuel Sardinha 
+, 20 2 Lhéngua Mirandesa 
+, 21 2 La Pertuesa 
+, 22 2 João Penha
+jan 2009: 1 2 Stória de Roma 
+, 2 2 Stados Ounidos de la América 
+, 3 2 Relegion 
+, 4 2 Ciéncia 
+, 5 2 Bíblia 
+, 6 2 Berlin 
+, 7 2 Bandeira de Pertual 
+, 8 2 Anternete 
+, 9 2 Angenharie 
+, 10 2 Andústria 
+, 11 2 Agricultura 
+, 12 2 Ouropa 
+, 13 2 Nuoba Iorque 
+, 14 2 Medio Ouriente
+fev 2009: 1 3 Sociadade 
+, 2 3 Die de ls namorados 
+, 3 3 Çporto 
+, 4 2 Stória de l Crestianismo 
+, 5 2 San Balantin 
+, 6 2 Salude 
+, 7 2 Rússia 
+, 8 2 Quemido 
+, 9 2 Cristandade 
+, 10 2 Crestianismo 
+, 11 2 Clima 
+, 12 2 Ciéncias sociales 
+, 13 2 Cidade 
+, 14 2 Charles Darwin 
+, 15 2 Catolicismo 
+, 16 2 Biologie 
+, 17 2 Astronomie 
+, 18 2 Artes bisuales 
+, 19 2 Arquitetura 
+, 20 2 Antártica 
+, 21 2 Anternete 
+, 22 2 Amílcar Cabral 
+, 23 2 América de l Norte 
+, 24 2 Portestantismo 
+, 25 2 Política
+mar 2009: 1 3 Sendin 
+, 2 2 Riu 
+, 3 2 Cuntinente 
+, 4 2 Assemblé de Dius 
+, 5 2 Arma 
+, 6 2 Almairo 
+, 7 2 Paíç 
+, 8 2 Miranda de l Douro 
+, 9 2 Ls Lusíadas 
+, 10 2 Lhéngua Mirandesa 
+, 11 1 Sun Tzu
+abr 2009: 1 3 Sismo 
+, 2 3 Ampério Romano 
+, 3 3 Ampério Bizantino 
+, 4 3 Ouclides 
+, 5 3 Max Ernst 
+, 6 3 Luna 
+, 7 3 Houlocausto 
+, 8 3 Eidade de la Piedra 
+, 9 2 Suméria 
+, 10 2 Stendhal 
+, 11 2 Sploraçon spacial 
+, 12 2 Sociologie 
+, 13 2 Siddhartha Gautama 
+, 14 2 Sexismo 
+, 15 2 Segunda Guerra Mundial 
+, 16 2 Saturno 
+, 17 2 Roald Amundsen 
+, 18 2 Renacimiento 
+, 19 2 Reboluçon Francesa 
+, 20 2 Cordilheira de ls Andes 
+, 21 2 Cleópatra 
+, 22 2 Claude Monet 
+, 23 2 Carl Friedrich Gauss 
+, 24 2 Capitalismo 
+, 25 2 Blaise Pascal
+mai 2009: 1 2 Batailha de Aljubarrota 
+, 2 2 Paç 
+, 3 2 Oucránia 
+, 4 1 Stória de la Rússia
+jun 2009: 1 3 Guerra de la Andependéncia de ls Stados Ounidos 
+, 2 3 Antoine Lavoisier 
+, 3 2 Stória de Pertual 
+, 4 2 Stados Cunfederados de la América 
+, 5 2 Caçareilhos 
+, 6 2 Campo de Bíboras 
+, 7 2 Bal de Frailes 
+, 8 2 Apartheid 
+, 9 2 Albert Einstein 
+, 10 2 Planeta 
+, 11 2 Pinelo 
+, 12 2 Matela (Bumioso) 
+, 13 2 Fiódor Dostoiévski 
+, 14 2 Eça de Queirós 
+, 15 1 Sílex
+jul 2009: 1 1 Sikhismo
+ago 2009: 1 4 Lhéngua mirandesa 
+, 2 3 Wikipedia 
+, 3 3 Brigham Young 
+, 4 3 Antigos macedónios 
+, 5 3 Pertual 
+, 6 3 Eisrael 
+, 7 2 Nefita 
+, 8 2 Templo de Curitiba 
+, 9 2 Stória de la Oustrália 
+, 10 2 Stória de Cabo Berde 
+, 11 2 Storiografie 
+, 12 2 Stados Ounidos de la América 
+, 13 2 Santos de ls Redadeiros Dies 
+, 14 2 Rússia 
+, 15 2 Roma Antiga 
+, 16 2 Riu Missouri 
+, 17 2 Custantino I 
+, 18 2 Crestianismo 
+, 19 2 Cordilheira de ls Andes 
+, 20 2 Che Guevara 
+, 21 2 Charles de Gaulle 
+, 22 2 Carlos I de Spanha 
+, 23 2 Blaise Pascal 
+, 24 2 Bernhard Riemann 
+, 25 2 Ateísmo
+set 2009: 1 9 Lhéngua lhionesa 
+, 2 3 Monarquie 
+, 3 3 Lhéngua mirandesa 
+, 4 2 Lhéngua almana 
+, 5 2 Mórmones fundamentalistas 
+, 6 2 Casa de Lhion 
+, 7 2 Anielho de l CTR 
+, 8 2 Lhista de reis de Pertual 
+, 9 2 Stória de Eisrael 
+, 10 2 Stados Ounidos de la América 
+, 11 2 Cunfucionismo 
+, 12 2 Cleópatra 
+, 13 2 Claude Monet 
+, 14 2 Che Guevara 
+, 15 2 Charles de Gaulle 
+, 16 2 Charles Darwin 
+, 17 2 Cao Dai 
+, 18 2 Bíblia 
+, 19 2 Budismo 
+, 20 2 Berlin 
+, 21 2 Bandeira de Pertual 
+, 22 2 Análeze matemática 
+, 23 2 Andependéncia de l Brasil 
+, 24 2 América de l Sul 
+, 25 2 Albrecht Dürer
+out 2009: 1 3 Frente Nacional para la Lhibertaçon de l Bietname 
+, 2 2 Terça 
+, 3 2 Cultura pertuesa 
+, 4 2 Quarta 
+, 5 2 Cannibal Corpse 
+, 6 2 Abc Fonético Anternacional 
+, 7 2 Lheite 
+, 8 2 Alman 
+, 9 2 Causo genitibo 
+, 10 2 Aníbal Barca 
+, 11 2 Biseu 
+, 12 2 Lhéngua stremenha 
+, 13 2 Lhéngua sturiana 
+, 14 2 Rede Manchete 
+, 15 2 Stória de la quelonizaçon de las Américas 
+, 16 2 Speranto
+nov 2009: 1 3 Lhéngua rapa nui 
+, 2 3 Machado de Assis 
+, 3 3 Lhéngua mirandesa 
+, 4 2 Piotr Tchaikovski 
+, 5 2 Templo de Nauvoo 
+, 6 2 Ludwig van Beethoven 
+, 7 2 Moai 
+, 8 2 Terça 
+, 9 2 Quarta 
+, 10 2 Cannibal Corpse 
+, 11 2 Leonel Brizola 
+, 12 2 Saturno 
+, 13 2 Roma 
+, 14 2 Racismo 
+, 15 2 Cristandade 
+, 16 2 Crestianismo 
+, 17 2 Chamamientos crestianos 
+, 18 2 Bikings 
+, 19 2 Auga 
+, 20 2 Animal 
+, 21 2 Planta 
+, 22 2 Paç 
+, 23 2 Ounion Africana 
+, 24 2 Ouniberso 
+, 25 2 Ouceano Pacífico
+dez 2009: 1 2 Cannibal Corpse 
+, 2 2 Pertual 
+, 3 2 Paris 
+, 4 1 Ls Santos de ls Redadeiros Dies
+jan 2010: 1 4 Brasil Quelónia 
+, 2 4 Bergança 
+, 3 3 Timor-Leste 
+, 4 3 San Tomé i Príncepe 
+, 5 3 Moçambique 
+, 6 3 Guiné-Bissau 
+, 7 3 Bila Nuoba de Gaia 
+, 8 3 Cristobo Colombo 
+, 9 3 Dreito público 
+, 10 3 Casa de Lhion 
+, 11 3 Cuntinente 
+, 12 3 Cuba 
+, 13 3 Capitalismo 
+, 14 3 Cachones de l Niágara 
+, 15 3 Bumioso 
+, 16 3 Bodun 
+, 17 3 Carril de Santiago 
+, 18 3 Bahamas 
+, 19 3 Baca 
+, 20 3 Abicena 
+, 21 3 Andependéncia de l Kosobo 
+, 22 3 América 
+, 23 3 Fé bahá'í 
+, 24 3 Fonso I de Pertual 
+, 25 3 Eiboluçon
+fev 2010: 1 3 Louis Pasteur 
+, 2 3 Francis Bacon (filósofo) 
+, 3 3 Vasco da Gama 
+, 4 3 Mobilha 
+, 5 2 Sistema Brasileiro de Televisão 
+, 6 2 Disney Club 
+, 7 2 Mar de Timor 
+, 8 2 Cacau 
+, 9 2 Cundado Portucalense 
+, 10 2 René Descartes 
+, 11 2 Francesco Redi 
+, 12 2 Nicolau Copérnico 
+, 13 2 Miguel Ángelo 
+, 14 1 San Paulo
+mar 2010: 1 3 Ampério Pertués 
+, 2 3 Lhista de reis de Lhion 
+, 3 3 Afonso de Albuquerque 
+, 4 3 Pedro Álvares Cabral 
+, 5 3 Bartolomeu Dias 
+, 6 3 Ramiro I de las Astúrias 
+, 7 3 Londres 
+, 8 3 Guerra Cebil Amaricana 
+, 9 2 Region de Turismo de l Nordeste Trasmuntano 
+, 10 2 Banco Ouropeu de Ambestimiento 
+, 11 2 Comité Eiquenómico i Social Ouropeu 
+, 12 2 Tribunal de Cuontas Ouropeu 
+, 13 2 Tribunal de Justícia de la Ounion Ouropeia 
+, 14 2 Comisson Ouropeia 
+, 15 2 Carlos Ferreira 
+, 16 2 Domingos Raposo 
+, 17 2 Tratado de Roma 
+, 18 2 Quemunidade Eiquenómica Ouropeia 
+, 19 2 Quemunidade Ouropeia de l Carbon i de l Aço 
+, 20 2 Asterix l Goulés 
+, 21 2 San Poulo (cidade) 
+, 22 2 Península Eibérica 
+, 23 2 Hip hop 
+, 24 2 Rap 
+, 25 2 José Rodrigues
+abr 2010: 1 3 Barbacena 
+, 2 3 Grande Barreira de Coral 
+, 3 3 Montes Urales 
+, 4 3 Jean Monnet 
+, 5 3 Rómulo Ougusto 
+, 6 3 Javier Solana 
+, 7 3 Política de Defesa i de Sigurança Quemun 
+, 8 3 Parlamiento Ouropeu 
+, 9 3 Reino de la Galízia 
+, 10 3 Reboluçon Russa de 1917 
+, 11 2 Defesa pessonal 
+, 12 2 Hans Christian Andersen 
+, 13 2 Reino de Kent 
+, 14 2 Mar Cáspio 
+, 15 2 São José (Paulínia) 
+, 16 2 Ilhas Británicas 
+, 17 2 Península 
+, 18 2 Riu Ural 
+, 19 2 Capital 
+, 20 2 Tierra Caliente 
+, 21 2 Tierra Frie 
+, 22 2 Gran-ducado de la Toscana 
+, 23 2 Tribunal de Justícia de la Ounion Ouropeia 
+, 24 2 Comisson Ouropeia 
+, 25 2 Ambason muçulmana de la península Eibérica
+mai 2010: 1 3 Stória de Sacaben 
+, 2 3 Lhéngua mirandesa 
+, 3 2 Whiteberry 
+, 4 2 Laura Pausini 
+, 5 2 Abade de Baçal 
+, 6 2 Mário Correia 
+, 7 2 Cungregaçon Crestiana an Pertual 
+, 8 1 Riu Teijo
+jun 2010: 1 2 Assemblé de Dius 
+, 2 1 Diogo Cão
+jul 2010: 1 2 Branco 
+, 2 2 Recén-nacido 
+, 3 1 Bietname
+ago 2010: 1 2 Sacaben 
+, 2 1 António Fragoso
+set 2010: 1 4 Japon 
+, 2 3 The Beatles 
+, 3 2 Alcoron 
+, 4 1 Tequixquiac
+out 2010: 1 3 Mérida (Benezuela) 
+, 2 2 Appert 
+, 3 1 Riu Sado
+nov 2010: 1 2 Spanha 
+, 2 1 Vepric
+dez 2010: 1 1 ETA
+jan 2011: 1 3 Concepción (Chile) 
+, 2 3 Amplantaçon de la República Pertuesa 
+, 3 2 Çtrito de Portalegre 
+, 4 2 Çtrito de Lhisboua 
+, 5 2 Çtrito de Lheirie 
+, 6 2 Çtrito de la Guarda 
+, 7 2 Çtrito de Faro 
+, 8 1 Distrito de Vila Real
+fev 2011: 1 3 Aritmética 
+, 2 1 Pertual Cuntinental
+mar 2011: 1 2 Stur-lhionés 
+, 2 1 Lech Wałęsa
+abr 2011: 1 2 Mimas 
+, 2 2 Homo sapiens 
+, 3 2 Almanha 
+, 4 2 Concepción (Chile) 
+, 5 2 Io 
+, 6 2 Monarquie 
+, 7 1 John Lennon
+mai 2011: 1 2 Rede Globo 
+, 2 1 Polónia
+jun 2011: 1 2 Ounibersidade de l Bío-Bío 
+, 2 1 Talcahuano
+jul 2011: 1 2 Galandum Galundaina 
+, 2 1 KrioRus
+ago 2011: 1 2 Polónia 
+, 2 2 Maomé 
+, 3 1 Sergei Brukhonenko
+set 2011: 1 1 Danila Medvedev
+out 2011: 1 2 Paltoga 
+, 2 2 Stória de l Brasil 
+, 3 2 Brasil República 
+, 4 2 Ancunfidéncia Mineira 
+, 5 1 Ludmilla Radchenko
+nov 2011: 1 2 Ouceano Atlántico 
+, 2 1 Marie-George Buffet
+dez 2011: 1 2 Riu Danúbio 
+, 2 2 Mobelizaçon studantil ne l Chile an 2011 
+, 3 1 Riu Reno
+jan 2012: 1 2 Frances Ruffelle 
+, 2 2 Miro Šmajda 
+, 3 1 Slobáquia
+fev 2012: 1 3 Anastacia 
+, 2 2 Sofia Vitória 
+, 3 2 Tejeira 
+, 4 2 Eva Gonzalès 
+, 5 2 Armando Gama 
+, 6 2 Eduardo Nascimento 
+, 7 2 Madalena Iglésias 
+, 8 2 Festibal Ourobison de la Cançon 
+, 9 1 Voyage, Voyage
+mar 2012: 1 3 Paranaguá 
+, 2 2 Bulgária 
+, 3 2 Eislándia 
+, 4 2 Grécia 
+, 5 2 Coca-Cola 
+, 6 2 Adelaide Ferreira 
+, 7 2 Flor-de-Lis (banda) 
+, 8 1 2B
+abr 2012: 1 2 Buranovskiye Babushki 
+, 2 2 Catona 
+, 3 2 Riu Volga 
+, 4 1 Bomba atómica
+mai 2012: 1 3 Rei Momo 
+, 2 2 François Hollande 
+, 3 1 Rafael Correa
+jun 2012: 1 3 Avril Lavigne 
+, 2 2 Wikipedia 
+, 3 1 Should've Known Better
+jul 2012: 1 2 Anielho de tucum
+ago 2012: 1 1 Pussy Riot
+set 2012: 1 2 Riu Biobío 
+, 2 1 Guilin
+out 2012: 1 2 Caselle Landi 
+, 2 2 Semitério de Pistoia 
+, 3 1 Lu Xun
+nov 2012: 1 1 Staçon Spacial Anternacional
+dez 2012: 1 2 Orlando Drummond 
+, 2 1 Frei Betto
+jan 2013: 1 2 Maccastorna 
+, 2 2 Meleti 
+, 3 1 Semitério Municipal de Condera
+fev 2013: 1 2 Lhéngua mirandesa 
+, 2 1 A:RL
+mar 2013: 1 2 Pardo de Cela 
+, 2 2 Eislándia 
+, 3 1 Xuxa
+abr 2013: 1 1 Atentado na maratora de Boston
+mai 2013: 1 1 Midlands Oucidentales
+jun 2013: 1 1 Ilha de Wight
+jul 2013: 1 1 Paramore
+ago 2013: 1 1 Souto de Aguiar da Beira i Valverde
+set 2013: 1 2 Mobeliário 
+, 2 1 Zinco
+out 2013: 1 1 Putin
+nov 2013: 1 1 Cungregaçon Crestiana ne l Brasil
+dez 2013: 1 2 Coreca
+jan 2014: 1 1 Monção
+fev 2014: 1 1 Praça Diogo de Vasconcelos
+mar 2014: 1 1 Yun Hyon-seok
+abr 2014: 1 2 Vladimir Putin 
+, 2 1 Club Social y Deportivo Colo-Colo
+mai 2014: 1 1 Iksu
+jun 2014: 1 2 Lila Tretikov 
+, 2 2 Ronald Reagan 
+, 3 1 Riu Andalién
+jul 2014: 1 1 Srinivasa Ramanujan
+ago 2014: 1 1 Andonésia
+set 2014: 1 1 Papa Fracisco
+out 2014: 1 1 Maurizio Malvestiti
+nov 2014: 1 1 Biobío (region)
+dez 2014: 1 1 Mimória
+jan 2015: 1 1 Thomas Edison
+fev 2015: 1 2 Família
+mar 2015: 1 1 Begetarianismo
+abr 2015: 1 2 Triton (satélite) 
+, 2 1 Murasaki Shikibu
+mai 2015: 1 1 Pan
+jun 2015: 1 2 Lhéngua spanhola 
+, 2 1 Valery Leontiev
+jul 2015: 1 2 Caronte (satélite) 
+, 2 1 Adam Smith
+ago 2015: 1 1 Arquidiocese de Saurimo
+set 2015: 1 2 Eigreija de San José Ouperário (Macau) 
+, 2 1 Maçana
+out 2015: 1 1 Anquanto la Lhéngua fur Cantada
+nov 2015: 1 1 Riu de Janeiro
+dez 2015: 1 2 Sol negro (símbolo) 
+, 2 1 Łobez
+jan 2016: 1 1 The Jerusalem Post
+fev 2016: 1 3 Mickey Mouse
+mar 2016: 1 2 Valery Leontiev 
+, 2 1 Apaxco
+abr 2016: 1 1 Lagos
+mai 2016: 1 1 Amor
+jun 2016: 1 1 Marco Polo
+jul 2016: 1 1 Áurea
+ago 2016: 1 2 Silybum 
+, 2 1 Finlándia
+set 2016: 1 1 Trindade (Goiás)
+out 2016: 1 1 Lhéngua japonesa
+nov 2016: 1 2 Campinas 
+, 2 1 Fidel Castro
+dez 2016: 1 1 Reino de la Mércia
+jan 2017: 1 2 Ferdinand Marcos 
+, 2 2 Spanha 
+, 3 1 Papua-Nuoba Guiné
+fev 2017: 1 1 FreeBSD
+mar 2017: 1 1 Tabela periódica
+abr 2017: 1 2 Cristiano Ronaldo 
+, 2 1 Kim Il-sung
+mai 2017: 1 3 Kamo no Chomei 
+, 2 3 Calímaco 
+, 3 3 Beroso 
+, 4 3 Ateneu 
+, 5 3 Artemidoro 
+, 6 3 Aristóbulo de Cassandreia 
+, 7 3 Apolónio Díscolo 
+, 8 2 Pampa Energía 
+, 9 2 Sunan 
+, 10 2 Sanshan 
+, 11 2 Yaohai 
+, 12 2 Luyang 
+, 13 2 Baohe 
+, 14 2 Yamamoto Tsunetomo 
+, 15 2 Hiroyuki Owaku 
+, 16 2 Lafcádio Hearn 
+, 17 2 Tomioka Makoto 
+, 18 2 Masahiro Ito 
+, 19 2 Mikiyo Tsuda 
+, 20 2 Yukio Mishima 
+, 21 2 Yoshida Kenkō 
+, 22 1 Moustapha Alassane
+jun 2017: 1 2 Brian Yuzna 
+, 2 2 Carlos Peña Rómulo 
+, 3 2 José Rizal 
+, 4 2 Anand Pillay 
+, 5 2 Marcelo Hilario del Pilar 
+, 6 2 Bertrand Russell 
+, 7 2 Olgierd Zienkiewicz 
+, 8 2 Cecil Edgar Tilley 
+, 9 2 Giovanni Arrighi
+jul 2017: 1 2 Bahá'u'lláh 
+, 2 1 Mediterráneo
+ago 2017: 1 2 Cidade redonda de Bagdade 
+, 2 1 Naan
+set 2017: 1 1 Páigina Percipal
+out 2017: 1 1 Noruega
+nov 2017: 1 1 Stónia
+dez 2017: 1 2 África de l Sul 
+, 2 2 Eiboluçon 
+, 3 1 Deniç de Pertual
+jan 2018: 1 1 Euskal Herria
+fev 2018: 1 3 Festa da Palabra Silenciada 
+, 2 2 Solhapa de Chaves 
+, 3 2 Cumbento de Santa Bárbela de la Corunha 
+, 4 2 Cadena de la Relaçon 
+, 5 2 Políptico de l Cumbento de San Fracisco de Ébora 
+, 6 2 Doutrina de la Eigreija Católica 
+, 7 1 Grupo Desportivo de Sendim
+mar 2018: 1 2 Panteon de Galhegos Eilustres 
+, 2 2 Caça de balenas na Galízia 
+, 3 2 Takekazu Asaka 
+, 4 2 Houmano
+abr 2018: 1 2 Doze Apóstelos de la Eirlanda 
+, 2 2 Mobhí Clárainech 
+, 3 1 Sesta
+mai 2018: 1 1 Carocho
+jun 2018: 1 2 Benito Mussolini 
+, 2 1 Éisodo
+jul 2018: 1 1 José Ferreira
+ago 2018: 1 2 Pelecanus rufescens 
+, 2 1 Nazım Hikmet
+set 2018: 1 2 Palo de cerilha 
+, 2 1 Museu Nacional (Brasil)
+out 2018: 1 2 San Poulo (cidade) 
+, 2 1 Lena d'Água
+nov 2018: 1 2 Pica pica 
+, 2 1 Frauga
+dez 2018: 1 2 Cristian Castro
+Wikipedias are initially ordered by number of speakers of the languageSpeakers: Number of speakers of a language is the estimated total of primary and secondary speakers, is in many cases a very rough estimation (based on the page on the English Wikipedia about that language)Regions are parts of the world where the language is spoken in substantial amounts (compared to total number of speakers). Regions where a language gained presence only by a recent diaspora are generally not included.Region codes: AF:Africa, AS:Asia, EU:Europe, NA:North America, OC:Oceania, SA:South America, W:World Wide, CL:Constructed LanguageEstatísticas geradas em Sexta-feira, 1 de fevereiro 2019 08:46 (final run) Dump file mwlwiki-20190101-stub-meta-history.xml.gz (edits only), size 6.6 Mb as gz -> 43 Mb
+Dump processed till Dec 31, 2018, on server stat1007, ready at Sat-05/01/2019-16:26 after 19 sec.
+Autor:Erik Zachte (2002-Jan 2019) (Sítio web)
+Endereço:erikzachte@### (no spam: ### = infodisiac.com)
+Documentation / Scripts / CSV files: About WikiStats
+You can download the English version of these reports here (also download common_files.zip)You can download aggregated data hereAll data and images on this page are in the public domain.

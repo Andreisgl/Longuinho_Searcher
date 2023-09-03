@@ -1,0 +1,211 @@
+Wikidata:ପ୍ରଧାନ ପୃଷ୍ଠା - Wikidata
+Wikidata:ପ୍ରଧାନ ପୃଷ୍ଠା
+From Wikidata
+Jump to navigation
+Jump to search
+ଉଇକିଡାଟାକୁ ସ୍ଵାଗତ,
+୧୦୬,୫୫୯,୨୪୯ଟି ଉପାଦାନରେ ସମୃଦ୍ଧ ଏକ ଖୋଲା ତଥ୍ୟ ଭଣ୍ଡାର, ଯାହାକୁ କେହି ମଧ୍ୟ ସମ୍ପାଦନା କରିପାରିବେ
+ଆରମ୍ଭ •
+ପ୍ରକଳ୍ପ ଆଲୋଚନା •
+କମ୍ୟୁନିଟି ପୋର୍ଟାଲ •
+ସାହାଯ୍ୟ
+Afrikaans
+العربية
+беларуская
+беларуская (тарашкевіца)
+български
+Banjar
+বাংলা
+brezhoneg
+bosanski
+català
+کوردی
+čeština
+словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ
+dansk
+Deutsch
+Zazaki
+dolnoserbski
+Ελληνικά
+English
+Esperanto
+español
+eesti
+فارسی
+suomi
+føroyskt
+français
+Nordfriisk
+galego
+Alemannisch
+ગુજરાતી
+עברית
+हिन्दी
+hrvatski
+hornjoserbsce
+magyar
+հայերեն
+Bahasa Indonesia
+interlingua
+Ilokano
+íslenska
+italiano
+日本語
+Jawa
+ქართული
+қазақша
+ಕನ್ನಡ
+한국어
+kurdî
+Latina
+lietuvių
+latviešu
+Malagasy
+Minangkabau
+македонски
+മലയാളം
+मराठी
+Bahasa Melayu
+Mirandés
+مازِرونی
+Nedersaksies
+नेपाली
+Nederlands
+norsk bokmål
+norsk nynorsk
+occitan
+ଓଡ଼ିଆ
+ਪੰਜਾਬੀ
+polski
+پنجابی
+português
+Runa Simi
+română
+русский
+Scots
+davvisámegiella
+srpskohrvatski / српскохрватски
+සිංහල
+Simple English
+slovenčina
+slovenščina
+shqip
+српски / srpski
+svenska
+ślůnski
+தமிழ்
+తెలుగు
+ไทย
+Tagalog
+Türkçe
+українська
+اردو
+oʻzbekcha / ўзбекча
+Tiếng Việt
+Yorùbá
+中文（简体）
+中文（繁體）
+粵語
+Edit
+ସ୍ୱାଗତ!
+<translate>
+Wikidata is a free and open knowledge base that can be read and edited by both humans and machines. 
+Wikidata acts as central storage for the structured data of its Wikimedia sister projects including Wikipedia, Wikivoyage, Wiktionary, Wikisource, and others. 
+Wikidata also provides support to many other sites and services beyond just Wikimedia projects! The content of Wikidata is [<tvar name="cc">https://creativecommons.org/publicdomain/zero/1.0/</tvar> available under a free license], [[<tvar name="1">Special:MyLanguage/Wikidata:Database download</tvar>|exported using standard formats]], and [[<tvar name="2">Special:MyLanguage/Wikidata:Data access#How can I get data out of Wikidata?</tvar>|can be interlinked to other open data sets]] on the linked data web.
+</translate>
+ସାମିଲ ହୁଅନ୍ତୁ
+For a complete starters’ guide, visit the community portal.
+Learn about Wikidata
+What is Wikidata? Read the Wikidata introduction.
+Explore Wikidata by looking at a featured showcase item for author Douglas Adams (Q42).
+Get started with Wikidata's SPARQL query service.
+Contribute to Wikidata
+Learn to edit Wikidata: follow the tutorials.
+Work with other volunteers on a subject that interests you: join a WikiProject.
+Individuals and organizations can also donate data.
+Meet the Wikidata community
+Visit the community portal or attend a Wikidata event.
+Create a user account.
+Talk and ask questions on the Project chat, Telegram groups, or the live IRC chatconnect.
+Use data from Wikidata
+Learn how you can retrieve and use data from Wikidata.
+More...
+ଖବର
+2023-07-21: Entity schema E400, about an archival resource in the Yale University Art Gallery, is created.
+2023-06-29: The Wikidata development team talk about what they've been working on in the office hours at 17:00 UTC on Telegram.
+2023-06-27: The one hundred and twenty millionth item, about a Turkish female given name Nazmiye, is created.
+2023-05-13: Wikidata tool QuickStatements (Q20084080) ran its batch 200000.
+More news... (edit [in English]) 
+ତଥ୍ୟ ବାବଦରେ ଶିଖନ୍ତୁ
+<translate>
+New to the wonderful world of data? Develop and improve your data literacy through content designed to get you up to speed and feeling comfortable with the fundamentals in no time.</translate>
+Item: Earth (Q2)
+Property: highest point (P610)
+custom value: Mount Everest (Q513)
+Discover
+Innovative applications and contributions from the Wikidata community
+Featured WikiProject:
+WikiProject Music
+Wikiproject Music is home to editors that help add data about artists, music releases, tracks, awards, and performances! Additionally, importing from and linking Wikidata with the many music databases and streaming services is another focus of the project. Read about our data model on our project page and come chat with us on Telegram.
+More:
+Check out Wikidata:Tools for some of our best tools and gadgets for using and exploring Wikidata.
+Know of an interesting project or research conducted using Wikidata? You can nominate content to be featured on the Main page here!
+ନୂତନ ଅଗ୍ରଗତି ସହିତ ଅବଗତ ହୁଅନ୍ତୁ
+Wikidata mailing list
+Wikidata technical mailing list
+Discussion requests for specific topics
+Facebook, Mastodon, Twitter
+Leave a message at project chat
+Chat on Telegram or on IRCconnect
+Report a technical problem
+Keep up-to-date: Weekly summaries
+<translate>
+Wikidata is part of the non-profit, multilingual, [[<tvar|1>Wikidata:Text of the Creative Commons Public Domain Dedication</>|free-content]] Wikimedia family.</translate>
+ Wikipedia – Encyclopedia   
+ Wiktionary – Dictionary and thesaurus   
+ Wikibooks – Textbooks, manuals, and cookbooks   
+ Wikinews – News   
+ Wikiquote – Collection of quotations   
+ Wikisource – Library   
+ Wikiversity – Learning resources   
+ Wikivoyage – Travel guides   
+ Wikispecies – Directory of species   
+ Wikimedia Commons – Media repository   
+ Wikimedia Incubator – New language versions   
+ Meta-Wiki – Wikimedia project coordination   
+ MediaWiki – Software documentation   
+Retrieved from "https://www.wikidata.org/w/index.php?title=Wikidata:ପ୍ରଧାନ_ପୃଷ୍ଠା&oldid=178539090"
+Category: Wikidata-or
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Project pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+Wikimedia CommonsWikispecies
+In Wikipedia
+Add links
+ This page was last edited on 1 December 2014, at 21:36.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

@@ -1,0 +1,74 @@
+Vrije software en opensourcesoftware - Wikipedia
+Vrije software en opensourcesoftware
+Uit Wikipedia, de vrije encyclopedie
+Naar navigatie springen
+Naar zoeken springen
+ Portaal Vrije software
+Vrije software en opensourcesoftware (Engels: free and open-source software, afgekort FOSS of F/OSS), de verzamelterm voor vrije software en opensourcesoftware, is software waarvan de licentie aan gebruikers het recht geeft om de software naar eigen inzicht te gebruiken, aan te passen, te verbeteren en de broncode inclusief aanpassingen te verspreiden doordat de broncode volledig vrij beschikbaar is. De Engelse term free and open-source software bevat het woord free (vrijheid). Om verwarring te voorkomen (het Engels heeft namelijk meerdere betekenissen voor free) wordt soms de term FLOSS gebruikt, waarbij de 'L' staat voor Libre (Frans voor "vrij"). Het benadrukt nog eens dat het bij vrije software draait om vrijheden en niet zozeer om kosten.
+FOSS kan worden gezien als de tegenhanger van propriëtaire software, zoals commercial off-the-shelf (COTS) en shareware.
+Inhoud
+1 Vrijheden
+2 Voorbeelden
+3 Licenties
+4 Verschillen tussen vrije software en opensourcesoftware
+5 Zie ook
+6 Externe links
+Vrijheden[bewerken | brontekst bewerken]
+De moderne definitie definieert vrije software door middel van de volgende vier vrijheden welke de ontvanger ontvangt als de software vrij is:[1]
+De vrijheid het programma uit te voeren zoals je wenst, voor elk mogelijk doel (freedom 0).
+De vrijheid de werking van het programma te bestuderen, en het te veranderen zoals je wenst (freedom 1). Toegang tot de broncode is hiervoor vereist.
+De vrijheid om kopieën opnieuw te distribueren, zodat je (bijvoorbeeld) je buren kan helpen (freedom 2).
+De vrijheid om kopieën te distribueren naar anderen van je gemodificeerde versies (freedom 3). Door dit te doen kan je de hele community een kans geven om voordeel te hebben van je veranderingen. Toegang tot de broncode is hiervoor vereist.
+Vrijheden 1 en 3 vereisen de broncode om openbaar te zijn. Programma's bestuderen en veranderen zonder de broncode daarvan is zeer onpraktisch.
+Voorbeelden[bewerken | brontekst bewerken]
+Voorbeelden van bekende vrije- en opensourcesoftware zijn de Linuxkernel, GNOME, FreeBSD en LibreOffice.
+Licenties[bewerken | brontekst bewerken]
+De bekendste en meest gebruikte vrije en opensourcelicenties zijn de GPL, LGPL, BSD-licentie, Apache License, MIT-licentie en de MPL.
+Bovengenoemde licenties voldoen aan de criteria van de Open Source Definition (OSD) (ontwikkeld door het OSI), de Free Software Definition (FSD) (ontwikkeld door de FSF) en de Debian Free Software Guidelines (DFSG) (ontwikkeld door het Debian-team).
+Verschillen tussen vrije software en opensourcesoftware[bewerken | brontekst bewerken]
+Vrije software refereert aan de voorwaarden waaronder bepaalde computerprogrammatuur verspreid mag worden, opensourcesoftware verwijst daarentegen naar de mogelijkheden die bepaalde computerprogramma's aan een programmeur bieden om ze te bestuderen en te wijzigen.
+In de praktijk worden vrijwel alle opensourceprogramma's verspreid onder voorwaarden die het tot vrije software maken. Tevens is alle vrije software per definitie opensourcesoftware: het vrijgeven van de broncode van een programma is een van de eisen die aan vrije software wordt gesteld in gangbare definities ervan, hetzij impliciet zoals in de Free Software Definition, hetzij expliciet zoals in de Debianrichtlijnen voor vrije software.
+Voorvechters van vrije software benadrukken de juridische kant, omdat ze er waarde aan hechten dat belangrijke software voor iedereen vrij te gebruiken, kopiëren en aan te passen is. Opensourceaanhangers daarentegen vinden dat de kwaliteit van de software voorop staat en dat de kwaliteit het best gediend is met peer review.
+Zie ook[bewerken | brontekst bewerken]
+Lijst van opensourcesoftware
+Vrije software
+Externe links[bewerken | brontekst bewerken]
+(nl) The Debian Project
+(en) The Open Source Initiative
+(en) The Free Software Foundation
+(en) Lijst van door het OSI goedgekeurde licenties
+Bronnen, noten en/of referenties
+↑ Stallman, Richard, The Free Software Definition. Free Software Foundation. Gearchiveerd op 14 oktober 2013. Geraadpleegd op 15 oktober 2013.
+Overgenomen van "https://nl.wikipedia.org/w/index.php?title=Vrije_software_en_opensourcesoftware&oldid=60263579"
+Categorieën: SoftwarelicentieOpensourcesoftware en vrije software
+Navigatiemenu
+Persoonlijke hulpmiddelen
+Niet aangemeldOverlegBijdragenAccount aanmakenInloggen
+Naamruimten
+ArtikelOverleg
+Nederlands
+Weergaven
+LezenBewerkenBrontekst bewerkenGeschiedenis
+Meer
+Zoeken
+Navigatie
+HoofdpaginaVind een artikelVandaagEtalageCategorieënRecente wijzigingenNieuwe artikelenWillekeurige pagina
+Informatie
+GebruikersportaalSnelcursusHulp en contactDoneren
+Hulpmiddelen
+Links naar deze paginaGerelateerde wijzigingenBestand uploadenSpeciale pagina'sPermanente koppelingPaginagegevensDeze pagina citerenWikidata-item
+Afdrukken/exporteren
+Boek aanmakenDownloaden als PDFAfdrukversie
+In andere talen
+العربيةAzərbaycancaবাংলাCatalàCebuanoکوردیČeštinaDanskDeutschΕλληνικάEnglishEspañolفارسیFrançaisעבריתहिन्दीBahasa IndonesiaIdoÍslenskaItaliano日本語ქართულიಕನ್ನಡ한국어КыргызчаМонголBahasa MelayuनेपालीNorsk bokmålPolskiPortuguêsRomânăРусскийසිංහලSimple EnglishSlovenčinaSlovenščinaShqipСрпски / srpskiSvenskaTürkçeУкраїнськаاردوOʻzbekcha / ўзбекчаTiếng Việt中文粵語
+Koppelingen bewerken
+ Deze pagina is voor het laatst bewerkt op 1 nov 2021 om 03:46.
+De tekst is beschikbaar onder de licentie Creative Commons Naamsvermelding/Gelijk delen, er kunnen aanvullende voorwaarden van toepassing zijn. Zie de gebruiksvoorwaarden voor meer informatie. Wikipedia® is een geregistreerd handelsmerk van de Wikimedia Foundation, Inc., een organisatie zonder winstoogmerk.
+Privacybeleid
+Over Wikipedia
+Disclaimers
+Gedragscode
+Mobiele weergave
+Ontwikkelaars
+Statistieken
+Cookieverklaring

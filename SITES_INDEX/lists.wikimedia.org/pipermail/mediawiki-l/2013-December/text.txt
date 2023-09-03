@@ -1,0 +1,459 @@
+[MediaWiki-l] MediaWiki 1.22.0 released - MediaWiki-l - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+                            2023
+                        
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2022
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2021
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2020
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2019
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2018
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2017
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2016
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2015
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2014
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2013
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2012
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2011
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2010
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2009
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2008
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2007
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2006
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2005
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2004
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2003
+                        
+December
+November
+October
+            List overview
+ Download
+thread
+[MediaWiki-l] MediaWiki 1.22.0 released
+Markus Glaser
+                6 Dec
+                
+                    2013
+                
+            
+                6 Dec
+                
+                '13
+                
+            
+11:08 p.m.
+ 
+Dear all,
+
+I am happy to announce the availability of the first stable release of the new MediaWiki
+1.22 release series.
+
+MediaWiki 1.22 is a large release that contains many new features and
+bug fixes. This is a summary of the major changes of interest to users.
+You can consult the RELEASE-NOTES-1.22 file for the full list of changes
+in this version.
+
+Our thanks to everyone who helped to improve MediaWiki by testing the release candidates
+and submitting bug reports.
+
+== What's new? ==
+MediaWiki 1.22 includes all changes released in the smaller 1.22wmfX software deployments
+to Wikimedia sites.
+
+=== Anti-spam and countervandalism improvements ===
+We're improving countervandalism and anti-spam features:
+* The patrolling system has been improved to make the "mark as patrolled" link
+available on any patrollable page or revision, without having to go to
+Special:RecentChanges or Special:NewPages. It is no longer necessary to look up the
+"rcid" URI parameter from these special pages. (Bug 15936)
+* Extension:SimpleAntiSpam, a small but harmless shield against the simplest forms of
+spambots, has been merged into core.
+
+===Editing improvements===
+* When comparing revisions in the history or when previewing changes while editing,
+"(No difference)" is now shown in place of a diff when the revisions are
+identical. (Bug 14431)
+* After a successful edit, the confirmation message "Your edit was saved." is
+now shown. Formerly a separate extension (Extension:PostEdit), this feature is now part of
+the core software. (Bug 48276)
+
+===Upgrades to Vector and other skins===
+The old Vector extension has been merged into core, and the extension has been
+discontinued. The new version includes several improvements to both the Vector skin and
+cross-skin features. (Bug 45051) If you were previously using the Vector extension, you
+must uninstall it (the extension, not the skin) before upgrading to 1.22.
+
+All skins:
+* Section edit links are now displayed next to their respective headings rather than along
+the opposite side of the page. (Bug 41729)
+* Lists of templates and categories used on the page, displayed below the edit form, are
+now collapsible. The area with license information, edit summary, and related
+functionality below the edit field has received a minor graphical lift. (Bug 43689)
+* An "edit warning" is now displayed when the user attempts to leave the edit
+page with unsaved changes, on browsers supporting dialogs.
+* Vector skin only:
+** Navigation menu subsections are now collapsible.
+** Page tabs can now dynamically fold into a dropdown menu when the browser window
+isn't wide enough to fit them.
+
+===Support for Composer===
+The Composer PHP dependency manager can now be used to install some extensions. It solves
+many common problems, including finding where to download an extension, resolving all of
+its dependencies and libraries, and selecting the right versions. Most MediaWiki
+extensions do not currently support Composer, but this is expected to change.
+
+==Upgrade notices for MediaWiki administrators==
+As with every release, there are some routine maintenance and upgrade tasks that go beyond
+the primary installation process.
+
+===PHP JSON extension now required===
+Though the minimum PHP version is still 5.3.2, MediaWiki now requires either the native
+JSON extension or the pecl-json-c fork. Most servers already have this PHP extension
+installed and enabled. However, if you administer your own server, and the MediaWiki
+installer says you don't have this extension:
+* If you compiled PHP yourself with the --disable-all  configure option, you may have to
+recompile with --enable-json.
+* On Red Hat or CentOS, check for the line extension=json.so in /etc/php.ini or
+/etc/php.d/json.ini.
+* Ubuntu 13.10, Fedora 19, and other recent Linux distributions package pecl-json-c
+separately, under names such as php5-json (Ubuntu universe) and php-pecl-jsonc (Fedora).
+They no longer include the original JSON extension because of licensing concerns.
+
+=== Several ancient skins removed ===
+On April 1, 2013, several ancient skins were removed from core (not an April Fools'
+joke): Chick, Classic, MySkin, Nostalgia and Simple.
+
+Nostalgia was the phase I/UseModWiki-like skin, and Classic was the main skin before the
+introduction of the default MonoBook in MediaWiki 1.3 on May 22, 2004. Dating back to
+February 2002 both skins existed over a year before MediaWiki got its name.
+
+=== Blank system messages must be deleted ===
+Blanking a system message (editing it on wiki to remove all content) will no longer
+restore the default value for the message, but instead make it show as an empty string in
+the interface (fixing Bug 14176, "Add ability to disable MediaWiki messages").
+If you have blank messages on your wiki (check Special:AllMessages), you must delete them
+unless you want them to display as empty.
+
+===Protection rights usage has changed===
+A new setting ($wgCascadingRestrictionLevels) was added for enabling cascading protection
+for protection levels other than "Allow only administrators" (Bug 47617).
+Shortly afterward, the way the "editprotected" and "autoconfirmed"
+rights work was changed. In particular, the "autoconfirmed" right is now only
+used for rate limiting, not page protection. If your wiki has custom user groups with the
+"autoconfirmed" right, you may need to grant those groups the new
+"editsemiprotected" right when you upgrade.
+
+===Special:Disambiguations has been removed===
+Special:Disambiguations, a page that listed "Pages linking to disambiguation
+pages", has been removed (Bug 35981). If your wiki used this feature, consider using
+Extension:Disambiguator. Switching to the new extension is easy and generally only
+requires a small change to a single template.
+
+=== Bundled extensions ===
+Newly bundled for 1.22:
+* SimpleAntiSpam
+
+
+Full release notes:
+https://git.wikimedia.org/blob/mediawiki%2Fcore.git/1.22.0/RELEASE-NOTES-1.…
+https://www.mediawiki.org/wiki/Release_notes/1.22
+
+
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.22/mediawiki-1.22.0.tar.gz
+
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.22/mediawiki-1.22.0.tar.gz.sig
+
+Public keys:
+https://www.mediawiki.org/keys/keys.html
+ 0
+ 0
+            Reply
+        
+Back to the thread
+            Back to the list
+        
+ 
+            Powered by HyperKitty version 1.3.4.
+        

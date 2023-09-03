@@ -1,0 +1,332 @@
+Jetpack Stats and Insights – WordPress.com Support
+WordPress.com
+Products 
+Features 
+Resources 
+Plans & Pricing
+Log In
+Get Started
+Menu
+WordPress Hosting
+Domain Names
+Website Builder
+Create a Blog
+Newsletter
+Professional Email
+Website Design Services
+Store
+Course Maker
+Enterprise Solutions
+Overview
+WordPress Themes
+WordPress Plugins
+Google Apps
+WordPress.com Support
+WordPress News
+Website Building Tips
+Business Name Generator
+Logo Maker
+Discover New Posts
+Popular Tags
+Blog Search
+Daily Webinars
+Learn WordPress
+Close the navigation menu
+Get Started
+Sign Up 
+Log In 
+About
+Plans & Pricing
+Products
+WordPress Hosting
+Domain Names
+Website Builder
+Create a Blog
+Newsletter
+Professional Email
+Website Design Services
+Store
+Course Maker
+Enterprise Solutions
+Features
+Overview
+WordPress Themes
+WordPress Plugins
+Google Apps
+Resources
+WordPress.com Support
+WordPress News
+Website Building Tips
+Business Name Generator
+Logo Maker
+Discover New Posts
+Popular Tags
+Blog Search
+Daily Webinars
+Learn WordPress
+Search questions, courses, topics
+Back to Support
+Grow Your Audience
+Stats & Analytics
+Jetpack Stats and Insights
+Jetpack Stats and Insights
+Other languagesالعربيةDeutschEspañolFrançaisעִבְרִיתBahasa IndonesiaItaliano日本語한국어NederlandsPortuguês do BrasilРусскийSvenskaTürkçe简体中文繁體中文
+Jetpack Stats and Insights includes data, nifty graphs, and charts to show you how many visits your site gets, which posts and pages are the most popular, and much more. This guide explains how to read and understand your site’s stats and insights.
+In this guideVideo OverviewAccess StatsTrafficHow Traffic is CountedViews and VisitorsLikes and CommentsPosts & PagesReferrersMarking Spam ReferrersCountriesAuthorsSearch termsClicksVideosEmailsEmail OpensFile DownloadsInsightsSubscribersAdsDownload StatsData Collected
+Video Overview
+Video Transcript
+Hi everyone; it’s Mike Bal from WordPress.com. Today we’re gonna dive in and look at site stats. I get really excited about this stuff. I have a kind of marketing slash optimization background for websites and doing a lot of this and kind of helping people that I work with achieve their different goals. So I get really excited when I could see how many people are coming to a site and what they’re doing. 
+And this can kind of inform you as well in terms of, like, are your strategies working? Are people enjoying the content that you’re writing? Which content is performing best? Can you create more of that content? 
+So right now, I went to WordPress.com, and I went ahead and selected the Han Solo project site. Since that one’s, it’s a live site for my band, which is not very popular. So the stats are gonna be a little embarrassing, but it’s at least a live site that exists in the wild and should have some numbers on it. 
+So on the left-hand sidebar, if I go down here, you’ll see that there’s a section dedicated for stats. And these stats are built into Jetpack, which is a tool or platform that we own and have integrated into our product. You might use other analytics tools as well, but these are kind of built-in to track on the product from day one. So when you launch your site, you have them ready to go, and you can always go back and kind of compare. All the different analytics tools do track differently. So sometimes your numbers might line up, and there’s articles out there about why that is, but this is a good reference that’s kind of built-in. 
+So if we go through here, we have, you can see that it’s set to traffic. There’s also an insights option. And then over here is the kind of timeframe you’re looking at. So right now, it’s looking day by day. I might want to look at weeks or months, and we’ll see what kind of info we have in there. 
+So you can see June is when I moved the site over to wordpress.com, and that’s when my stats kind of start. I go back to weeks, I can get kind of a full view. 
+So we’ll check that out. Right now, it has this week selected for April 25th, and it’s telling me one view, one visitor, which is kind of embarrassing, but we haven’t put any new music out for a while, so that’s on us. Now, if we go down a little bit, you’re gonna get that breakdown. 
+Now, WordPress.com has likes and comments built in, so that’ll be tracked as well. 
+And then you’re gonna get more insights on the types of content you have in here. So this has posts and pages. It’ll tell you which pages are getting any kind of activity. It’ll tell you if people are coming from search and what they search for to get there. It’ll tell you if any sites are sending traffic your way. And then it’ll also tell you where in the world people are coming from. 
+If you switch over to Insights, you’ll kind of get some different kind of information that you can use to inform, again, your strategy or your content. So this is kind of like a heat map for when I’m being viewed based on months. You can average per day. You kind of look at that breakdown over time. I haven’t published any new content. We haven’t put out any new music for a while. So that’s what this is telling me. I probably should have done that. 
+And then you get a nice breakdown of all your content across your site and kind of your historical views and visitors. So views are when somebody just comes to your site and sees a page. Visitors are, as far as we can tell, different people. So one person might come back to your site 100 times, so you could have 100 views but only one visitor. This is pretty distributed, so I know that there’s a good amount of people coming, and they’re not always coming back, but a few of them have come several times. 
+Don’t have a ton of followers on WordPress.com, but it has social follows integrated, which is cool. 
+And then you can see down here, I have this Publicize service, which is basically a marketing tool we have set up in the platform, set up with a Facebook account and the page for this project or whatever. 
+So like I said, you can come in here; you can get general ideas about your traffic, where they’re coming from, what your top content is, even what your top authors are if you have multiple authors. If you have videos uploaded and things like that, you can get some basic stats as well. 
+So that’s really cool stuff that you can kind of learn to just check every now and then and go back and see if there’s anything that stands out, right? Like I might go back to March 31st here and see why I got more views or visits that specific day. I think we had a launch for full site editing around that time, and maybe I use this site for some of the demo content, so it’s probably mostly people at Automattic, but hopefully, we’ll get some new music soon and we’ll see these stats go up. 
+If you have any questions about different stats or metrics that you look at or what you could look at, go ahead and drop them in the comments. We’ll get back to you. Like I said, I really nerd out about this stuff, and I’ve done some more complicated analytics tracking implementations to really get insights on what’s happening on your site. So happy to talk that through. 
+Access Stats
+To access your website or blog’s stats page:
+Visit your dashboard. 
+Click Stats on the left sidebar.
+The navigation options are at the top of the traffic and Insights page.
+By default, you’ll be in the “Traffic” view. You will also have options at the top to switch to Insights or Subscribers. 
+When you visit your Stats page, you’ll be on the “Traffic” view by default, where you can filter your traffic to daily, weekly, monthly, or annually. The “Followers” counter links to the list of people who have subscribed to your site’s posts.
+To complement our built-in Jetpack Stats and to give you even more information about your traffic, you can also use Google Analytics on the WordPress.com Premium plan or higher. 
+Traffic
+7-day highlights is a snapshot of recent traffic to your site. You can view a 30-day snapshot using the three-dot menu to the right of the section title.
+How Traffic is Counted
+The following traffic will not reflect in your stats:
+Visits you make to your own publicly-available site while logged into your WordPress.com account.
+Visits from browsers that do not execute javascript or load images.
+Googlebot and other search engine spiders.
+Visits to a publicly available site by users that are logged in, and listed as members of the site.
+If your site is set to private, views by you and other logged-in members of your site are counted. If your website is plugin-enabled, you can control which user views will be counted in your stats for private sites by going to Jetpack → Dashboard → Settings → Traffic → Site Stats. There, you can change the Count logged in page views from setting for each user role.
+Views of password-protected posts or pages (except by owners and members of the site) on public sites will be counted in your stats. If they do not successfully enter a password to view the page, they will be sent to a 404 error page and will not see the password-protected content.
+Views and Visitors
+The two main units of traffic measurement are views and visitors:
+A view is counted when a visitor loads or reloads a page.
+A visitor is counted when we see a user or browser for the first time in a selected time frame.
+A visitor is an individual looking at your site. A visitor can view your site’s many pages or the same page multiple times. Therefore, the views number is typically higher than the visitors number.
+Views and visitors bar graph
+The unique weekly visitors can sometimes be less than the sum of daily visitors for the same week. The same goes for unique weekly visitors being less than your total monthly visitors. This occurs when the same visitor appears multiple times during the week or month.
+You may also notice that your visitor count lags behind your views count. This is due to the way we process the numbers. Typically a view is reported within five minutes. However, it can take up to two hours for new visitors to show up in your stats.
+Yearly totals are a sum of your monthly totals.
+In the graph, the bar highlighted in a different color indicates the time period (day, week, month, or year) currently selected in the graph. The stats for this time period will display below the graph. Clicking on another bar in the graph will select that bar’s time period, and the information below the graph will update to display that time period’s statistics.
+Likes and Comments
+The Traffic chart also includes tabs for viewing stats for the number of likes and comments on your site. Click on the Likes or Comments tabs to display a bar chart for those stats.
+The number of likes may be greater than the number of views if your readers liked a post without visiting your site. For example, if they liked your post from the Reader or their email. 
+Posts & Pages
+This section of Stats will list the Posts and Pages that have received the most views in the time period you’ve specified at the top of the page.
+A view is only counted for a post or page when the direct link of the page/post is visited or the full post is viewed in the Reader.
+If a visitor reads a post while viewing your site’s home page, the view will not be counted towards the post, only towards total views.
+Post and page views are included in your site’s total views, but they may not add up to your Total Views. There are many views that aren’t tied to a post or page URL. The category, tag, date, author archive, and search result pages are all examples of other views that only count toward total views. In your stats, this shows in the Home page / Archives. Take into account that if you have a static front page on your site, this section can refer to:
+Your blog (posts) page, if you have one for your site.
+Any blog archives page, such as posts from a particular month, in a particular category, or by a particular author.
+Any views of your site’s static front page are listed under that page’s title.
+If you have a shop set up through WooCommerce on your site, your shop’s landing page stats will show under the Homepage/Archives numbers. The shop page is an archive of your products. 
+What is the colored bar next to a page or post title?
+You may notice a bar next to a particular post or page title. Depending on the color you’ve assigned your Dashboard, the bar may be blue, orange, or another color. The colored bar indicates the posts and pages published within the selected date range.
+In the example above, the three highlighted posts were published in July.
+Referrers
+The referrers section lists other blogs, websites, and search engines that link to your site. 
+A view is associated with a referrer if a visitor lands on a page on your site after clicking a link on the referrer’s site.
+If you see a down arrow next to a referrer, you can click on the arrow to see more specific details. For example, expanding Search Engines will show details for specific search engine referrers (Google, Bing, and more.)
+Click on the > icon to explore the list of referrers in more detail.
+Click the image to enlarge
+📌
+The number of referrers may not match the number of total views. Not all visitors will land on your site by clicking a link somewhere else. Visitors may type your URL directly into the web browser, click a link in an email, or click a link in another application which then loads the browser.
+Marking Spam Referrers
+Where do spam referrers come from?
+From time to time, internet bot traffic will crawl different websites. These referrers do not impact your site’s security, but you may not want to see them in your stats. Marking a referrer as spam removes traffic from that referrer from your stats.
+To mark a referrer as spam:
+Go to your Stats page.
+Hover over the referrer and click the warning symbol next to it. 
+Click Mark as Spam.
+The referrer link will go into your personal spam referrer block list and won’t show up in the future.
+Each entry in your Referrers (except for a few whitelisted referrers, such as WordPress.com) has a clickable warning icon next to the view count.
+Click image to enlarge
+If you change your mind immediately, you can click the warning icon again link to immediately undo the mark as spam option. 
+However, you cannot undo the action once you have navigated away from the Stats page. If you have accidentally marked a referrer as spam and cannot undo the change, please contact us. We can help with this. 
+📌
+Marking a site or referrer as spam will not affect your stats. It will only keep that referrer from appearing on your Stats page.
+Countries
+You can see how many views your site has received per country by the day, week, month, quarter, year, and all time.  Click the “View all” link at the bottom of the Countries section to see views by country on a larger map. 
+If WordPress.com cannot determine your visitors’ location, this chart will not reflect their views.
+Not all visitors who visit your site will have their location enabled in their browsers. Some visitors might access your site through an incognito browser or a Virtual Private Network (VPN). In such cases, the stats will get registered, but the location will not be known. This group will appear on your Stats page as views from an Unknown Region.
+Authors
+This stat will let you see how much traffic each author has generated, which can be helpful if your site has multiple users. Clicking on a name will reveal each author’s most popular posts, pages, and the number of views each has attracted.
+Can Authors see my stats?
+All your site’s users can see the stats: Administrators, Editors, Authors, and Contributors. If your site is plugin-enabled, you can go to  Tools → Marketing → Traffic → Site Stats and choose which user roles can see Stats reports.
+Search terms
+People used these terms, words, and phrases on search engines (like Google, Yahoo, or Bing) to find posts and pages on your WordPress.com blog or site.
+Clicks
+This stat counts the number of times your readers have clicked on external links that appear on your site. These may be (but are not limited to):
+Links you add to your post and page content
+Links placed in comments by your readers
+Links that appear in your blogroll
+Links attached to the names of users who comment on your site
+Links to media files
+Links to images in a gallery
+The search terms do not include the terms your readers use within your site’s Search Widget or any other search form.
+When we don’t know the search terms, we show them as Unknown search terms. Some search engines don’t reveal search terms for privacy reasons. Google, for example, has been encrypting the vast majority of search terms since 2013. 
+Videos
+All VideoPress videos come with stats tracking which can be viewed from the Stats screen in your dashboard.
+For a more detailed breakdown of your video stats, click on the title of any video. On the next screen, you’ll see the details below:
+Impressions: The number of times a video was loaded on a page.
+Hours Watched: The total number of hours that the video has been watched by all viewers.
+Views: These are counted when a visitor clicks the play button on the video player.
+Clicking on the name of a video from the Video section of the main Stats screen will display a chart showing daily activity for that video. It will also list the URLs where the video has been embedded.
+Emails
+This section displays how many emails were sent and opened. If your email included a link back to your site, you will see the number of times that link was clicked on under the clicks column. 
+Click the subject/title of an email to visit Email opens stats. 
+Email Opens
+View the number of recipients, total number of recipients that opened the email and the calculated open rate. 
+Visit your dashboard.
+Click Stats on the left sidebar.
+On the Traffic page, scroll to the Emails section, or click Subscribers and scroll to the Emails section. 
+Click the subject or title of the email you want to view the email open stats for.
+Scroll the Email opens page to see details about location, devices, and email clients. 
+While in the Email opens section, you can click Highlights or Email clicks tabs for more detailed information about your email campaign. 
+File Downloads
+This section lists the files your site’s visitors have downloaded and how many times they have been retrieved. Downloads are counted for all accepted video, audio, and document file types. 
+Take into account that every file request is recorded in your stats. The download count also increases when the file is opened directly in the browser or the download has not finished. Your own requests are also recorded.
+Be aware that many podcast apps download files automatically for podcast audio files. A download does not necessarily mean that the podcast has been played.
+⚠️
+File Download Stats are currently unavailable for sites using third-party plugins or themes.
+Insights
+The second tab, after Traffic, is Insights. Your Insights page includes an overview of your site’s stats so that you can view and learn from long-term trends.
+The Insights screen shows the following information:
+Year in review: The number of posts, words, likes, comments and subscribers your site has so far this year. 
+All-time highlights: All-time stats, most popular time, and the day your site got the best views ever.
+Latest post: How many views, likes, and comments your most recent post received.
+Most popular post in the past year: The post that was most popular in the past 365 days with the view count, likes, and comments. 
+Posting activity: A visualization of your posting trends, showing how many posts you published and when.
+All-time insights: A color-coded table showing the total views in a month and the average views per day in a month.
+Tags & Categories: The number of views your most popular tags and categories have received in the previous seven days.
+Comments: View a list of people with the most comments on your site a list of the most-commented posts and pages.
+Shares: A summary of the social networks your posts have been shared to. 
+Subscribers
+The third tab, after Traffic and Insights, is Subscribers. Your Subscribers page includes an overview of your subscribers from email, social and WordPress.com.
+The Subscribers screen shows the following information:
+All time stats: The total number of email subscribers, as well as a breakout of how many are free email subscribers vs paid email subscribers. The number of WordPress.com subscribers is the last card in this section. 
+Subscribers: A list of subscribers and how many days ago the person subscribed. Use the WordPress.com/Email toggle to switch between the two lists. 
+Number of Subscribers: The total number of subscribers from WordPress.com and Email. If you have set up the option to post automatically to social media, you will see your social subscribers count as well. 
+Emails: A list of the latest emails sent from your blog or newsletter with columns for opens and clicks. 
+For individual subscriber stats, visit our support guide on Subscribers.
+Ads
+If WordAds is enabled, selecting the Ads tab will bring up statistics about ads served on your site:
+Important information about Ads stats:
+Your site must be enrolled in WordAds for this option to appear.
+WordAds is available on WordPress.com Premium, Business and Commerce plans, or our legacy Pro plan. 
+Your site must be public for WordAds and the Ads stat section to be enabled.
+Stats for ads are fetched once a day from the ad server. They are not shown in real-time.
+Ad stats are an estimate and are subject to change. They are finalized the month following the one in which they were earned.
+Check the WordAds support guide and WordAds FAQs to learn more!
+Download Stats
+You can download reports of your stats as a CSV file by following these steps:
+Visit your dashboard.
+Click Stats on the left sidebar.
+Click the “View details” link at the bottom of each module on your Stats page, such as Posts & pages, Referrers, Countries, etc.
+Scroll to the bottom of the screen and click the Download data as CSV link.
+On some sections like Videos and File downloads the Download data as CSV button is at the top right. 
+Save the file to your computer.
+Data Collected
+Jetpack Stats tracks and retains the following information about your site’s visitors:
+Post and page views
+Video plays
+Outbound link clicks
+Referring URLs and search engine terms
+Country
+As part of collating the above information, Jetpack Stats uses data like IP address, WordPress.com user ID (if logged in), WordPress.com username (if logged in), user agent, visiting URL, referring URL, timestamp of event, browser language, and country code. However, none of this information is available to site owners. For example, a site owner can see that a specific post has 285 views, but he/she cannot see which specific users/accounts viewed that post. Furthermore, the Jetpack Stats logs, in which this information is stored, are only retained for 28 days.
+Was this guide helpful?
+Yes
+No
+Related Guides
+Couldn’t find what you were looking for?
+Connect to Google Analytics
+Read this guide
+Cloudflare Analytics
+Read this guide
+Your site, built for you
+Sit back as our Built by WordPress.com team of experts builds a site you'll fall in love with. From single page sites to full stores, they'll help you make it happen.
+Get Started
+Go further
+Upgrade and unlock features, tools, and expert help with a paid plan.
+View plans
+Join the forum
+Connect and learn with the WordPress.com community.
+Join the Community
+Check our guides
+Find and follow step-by-step guides for every WordPress.com question.
+Visit support guides
+Questions?
+Contact our Happiness Engineers.
+Self-hosted WordPress site?
+Find support here.
+New to WordPress.com? 
+Find your perfect-fit plan here.
+Sign up for educational resources updates:
+Subscribe
+Your information will be used in accordance with WordPress.com privacy policy.
+WordPress.com
+Products
+Products
+WordPress Hosting
+Domain Names
+Website Builder
+Create a Blog
+Professional Email
+Enterprise Solutions
+Website Design Services
+WordPress for Teams
+Features
+Features
+Overview
+WordPress Themes
+WordPress Plugins
+Google Apps
+Resources
+Resources
+WordPress.com Support
+WordPress Forums
+WordPress News
+Website Building Tips
+Business Name Generator
+Logo Maker
+Daily Webinars
+Learn WordPress
+Developer Resources
+Company
+Company
+About
+Partners
+Press
+Terms of Service
+Privacy Policy
+Privacy Notice for California Users
+Facebook
+Twitter
+Instagram
+YouTube
+Other languagesالعربيةDeutschEspañolFrançaisעִבְרִיתBahasa IndonesiaItaliano日本語한국어NederlandsPortuguês do BrasilРусскийSvenskaTürkçe简体中文繁體中文
+ 
+An  thingamajig
+Work With Us
+Copied to clipboard!
+ 
+ 
+ 
+Loading Comments...
+ 
+Write a Comment...
+Email
+Name
+Website
+ 

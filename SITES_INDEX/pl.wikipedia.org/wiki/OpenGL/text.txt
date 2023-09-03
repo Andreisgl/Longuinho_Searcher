@@ -1,0 +1,452 @@
+OpenGL – Wikipedia, wolna encyklopedia
+Przejdź do zawartości
+Menu główne
+Menu główne
+przypnij
+ukryj
+Nawigacja
+Strona głównaLosuj artykułKategorie artykułówNajlepsze artykułyCzęste pytania (FAQ)
+Dla czytelników
+O WikipediiZgłoś błądZgłoś błąd w plikuKontaktWspomóż Wikipedię
+Dla wikipedystów
+Pierwsze krokiPortal wikipedystówOgłoszeniaZasadyPomocOstatnie zmiany
+Języki
+Linki pomiędzy różnymi wersjami językowymi znajdują się na górze strony, naprzeciw jej tytułu.
+Szukaj
+Szukaj
+Utwórz kontoZaloguj się
+Narzędzia osobiste
+ Utwórz konto Zaloguj się
+Strony dla anonimowych edytorów dowiedz się więcej
+EdycjeDyskusja
+Spis treści
+przypnij
+ukryj
+Początek
+1Cel
+Przełącz podsekcję Cel
+1.1Główny
+1.2Dodatkowy
+2Opis działania
+3Geneza OpenGL
+4Wersje
+5Biblioteki pomocnicze
+6Rozszerzenia
+7Przykładowy kod
+8Zobacz też
+9Przypisy
+10Linki zewnętrzne
+Przełącz stan spisu treści
+Przełącz stan spisu treści
+OpenGL
+51 języków
+العربيةবাংলাБългарскиBosanskiCatalàČeštinaDanskDeutschEestiΕλληνικάEnglishEspañolEsperantoفارسیFrançaisGalego한국어हिन्दीBahasa IndonesiaÍslenskaItalianoעבריתქართულიҚазақшаLatviešuMagyarМакедонскиമലയാളംमराठीBahasa MelayuNederlands日本語Norsk bokmålPortuguêsRomânăРусскийසිංහලSimple EnglishSlovenčinaSlovenščinaСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaไทยTürkçeУкраїнськаTiếng Việt吴语粵語中文
+Edytuj linki
+ArtykułDyskusja
+polski
+CzytajEdytujEdytuj kod źródłowyWyświetl historię
+Narzędzia
+Narzędzia
+przypnij
+ukryj
+Działania
+CzytajEdytujEdytuj kod źródłowyWyświetl historię
+Ogólne
+LinkująceZmiany w linkowanychPrześlij plikStrony specjalneLink do tej wersjiInformacje o tej stronieCytowanie tego artykułuElement Wikidanych
+Drukuj lub eksportuj
+Utwórz książkęPobierz jako PDFWersja do druku
+W innych projektach
+Wikimedia Commons
+Z Wikipedii, wolnej encyklopedii
+OpenGL
+Logo programu
+Autor
+Khronos Group
+Aktualna wersja stabilna
+4.6 (31 lipca 2017; ponad 6 lat temu)
+Platforma sprzętowa
+Wieloplatformowość
+System operacyjny
+Wieloplatformowość
+Rodzaj
+Biblioteka programistyczna / API
+Multimedia w Wikimedia Commons
+Strona internetowa
+OpenGL (ang. Open Graphics Library) – specyfikacja otwartego i uniwersalnego API do tworzenia grafiki. Zestaw funkcji składa się z 250 podstawowych wywołań, umożliwiających budowanie złożonych trójwymiarowych scen z podstawowych figur geometrycznych.
+Cel[edytuj | edytuj kod]
+Główny[edytuj | edytuj kod]
+Głównym celem jest tworzenie grafiki. Dzięki  temu, że polecenia są realizowane przez sprzęt (procesor graficzny = GPU), tworzenie grafiki następuje szybciej niż innymi sposobami. Ten efekt nazywamy przyspieszeniem sprzętowym.
+OpenGL wykorzystywany jest często przez gry komputerowe i wygaszacze ekranu, spełnia rolę analogiczną, jak konkurencyjny Direct3D (część DirectX) w systemie Windows firmy Microsoft. Również programy do przedstawiania wyników badań naukowych, CAD, oraz wirtualnej rzeczywistości używają OpenGL.
+Dodatkowy[edytuj | edytuj kod]
+OpenGL jest wykorzystywane do szybkich obliczeń (GPGPU), mimo że nie był do tego zaprojektowany.
+Opis działania[edytuj | edytuj kod]
+OpenGL, podobnie jak np. X Window System, działa w architekturze klient-serwer. Klientem w tym przypadku jest aplikacja wykorzystująca OpenGL, która zleca operacje graficzne do wykonania, a serwerem – aktualnie używana implementacja OpenGL (np. w sterowniku karty graficznej). Zwykle klient i serwer znajdują się na tej samej maszynie, jednak nie jest to konieczne – biblioteka jest zaprojektowana tak, aby możliwe było np. wyświetlanie grafiki OpenGL na zdalnym terminalu. Jednocześnie dzięki zastosowaniu zunifikowanego protokołu komunikacji wyświetlanie może odbywać się na zupełnie innej platformie niż ta, na której działa aplikacja.
+Jedną z podstawowych cech OpenGL jest to, że jest on maszyną stanu (ang. state machine). Na stan OpenGL w danym momencie składa się szereg parametrów i trybów działania, które można ustawić lub zapamiętać na stosie i później odtworzyć. Ich konfiguracja będzie miała bezpośredni lub pośredni wpływ na otrzymany rezultat renderingu. Raz ustawiony parametr lub tryb działania pozostaje zachowany aż do następnej zmiany. Przykładami takich parametrów mogą być kolor rysowania, aktualnie używana tekstura, sposób działania bufora Z, macierz na której wykonywane są aktualnie operacje, oraz wiele innych.
+Część z parametrów może być włączana lub wyłączana w sposób bardzo oczywisty, tzn. poprzez wywołanie funkcji glEnable() lub glDisable() (w tłumaczeniu brzmiałoby to: glWłącz() oraz glWyłącz()), a inne ustawiane są poprzez wykonanie powiązanych z tymi parametrami funkcji (np. glBindTexture() – ustawienie aktywnej tekstury).
+Dzięki funkcji glPushAttrib() możliwe jest zapamiętanie na stosie części lub całości aktualnego stanu OpenGL w zależności od przekazanego jej argumentu. Funkcja odwrotna, czyli glPopAttrib() nie wymaga żadnych argumentów, gdyż pobiera ze szczytu stosu taki stan, jaki został wcześniej zapamiętany.
+Geneza OpenGL[edytuj | edytuj kod]
+Pierwotna wersja biblioteki wyewoluowała ze stworzonej przez firmę Silicon Graphics Inc. dla jej systemów graficznych biblioteki IRIS GL. W chwili obecnej implementacje OpenGL można znaleźć w praktycznie wszystkich nowoczesnych platformach. W większości przypadków implementacje te rozwijane są przez producentów sprzętu graficznego. Istnieje również otwarta implementacja – Mesa, zgodna z OpenGL na poziomie kodu, która jednak ze względu na brak licencji określana jest jako "bardzo podobna".
+Do połowy 2006 rozwój OpenGL był kontrolowany przez organizację ARB (Architectural Review Board), powołaną w 1992 i zrzeszającą 10 firm (3DLabs, Apple, ATI, Dell, Evans & Sutherland, Hewlett-Packard, IBM, Intel, Matrox, NVIDIA, SGI, Sun Microsystems), które spotykały się raz na 3 miesiące, aby głosować i podejmować decyzje. 31 lipca 2006 komitet standaryzacyjny ARB opowiedział się w głosowaniu za wcieleniem tej organizacji do grupy roboczej Khronos, która prowadzi prace nad wieloma pokrewnymi projektami w tym OpenGL ES, co w założeniach miało uprościć formalności, przyspieszyć prace i ujednolicić dalszy rozwój tych standardów. Prawa do logo i nazwy OpenGL nadal jednak należą do SGI.
+Prace nowej grupy roboczej pozytywnie wpłynęły na podejście do społeczności programistów OpenGL. Postawiono na intensywną współpracę, szeroki kontakt oraz częste informowanie o postępach w pracy nad nowymi rozwiązaniami. Na życzenie użytkowników zaczęto pracować nad jednolitym SDK, które ma ułatwić poznanie tej biblioteki nowym deweloperom oraz dostarczać narzędzia przydatne do analizy, budowania i optymalizacji aplikacji, które z niej korzystają.
+We wrześniu 2004 ARB opublikowała specyfikację OpenGL w wersji 2.0. Kolejna wersja 2.1 ujrzała światło dzienne w sierpniu 2006 i jest już oficjalnie firmowana przez Khronos. Na rok 2007 zapowiedziano premierę dwóch kolejnych wersji OpenGL o kodowych nazwach "Longs Peak" i "Mt. Evans". Pierwsza z nich miała być zgodna z dotychczasowymi akceleratorami wykorzystującymi standard Shader Model 3.0, kolejna miała obsługiwać już tylko karty następnej generacji.
+Wersje[edytuj | edytuj kod]
+Zależność między Opengl i GLSL:[1]
+Wersja OpenGL
+Wersja GLSL
+#version tag
+1.2
+–
+–
+2.0
+1.10.59
+110
+2.1
+1.20.8
+120
+3.0
+1.30.10
+130
+3.1
+1.40.08
+140
+3.2
+1.50.11
+150
+3.3
+3.30.6
+330
+4.0
+4.00.9
+400
+4.1
+4.10.6
+410
+4.2
+4.20.6
+420
+4.3
+4.30.6
+430
+Biblioteki pomocnicze[edytuj | edytuj kod]
+Mimo dużych możliwości, samo OpenGL jest interfejsem niskopoziomowym. Oznacza to, że zawiera ono np. funkcje rysujące pojedyncze wielokąty lub serie wielokątów, albo funkcje operujące na macierzy widoku, ale już na przykład funkcje pozwalające na ustawienie obserwatora w pewnym punkcie patrzącego w inny punkt (gluLookAt), narysowanie całej sfery (gluSphere), bądź automatyczne wygenerowanie mipmap dla danej tekstury (gluBuild2DMipmaps), realizowane są za pomocą biblioteki pomocniczej GLU (ang. GL Utility Library).
+Poza GL i GLU do wykorzystania OpenGL w aplikacji potrzebne są zwykle również inne biblioteki. Wynika to z faktu, że OpenGL zajmuje się tylko renderingiem grafiki i nie zawiera funkcji związanych z tworzeniem kontekstu graficznego, obsługą środowiska okienkowego, czy obsługą zdarzeń takich jak naciśnięcie klawisza na klawiaturze lub ruch kursora myszy. Funkcjonalność tę można dodać poprzez biblioteki, jak GLUT (ang. GL Utility Toolkit), GLUI, czy przeznaczone dla poszczególnych platform GLX (w przypadku środowiska X Window System) lub WGL (w przypadku Windows).
+Istnieje również biblioteka SDL (ang. Simple DirectMedia Layer), realizująca funkcje podobne jak DirectX i jednocześnie umożliwiająca łatwe użycie OpenGL z jej poziomu.
+Zarówno SDL jak i GLUT dostępne są dla wielu platform, a zatem pozwalają na efektywne tworzenie przenośnych aplikacji. W przeciwieństwie do SDL klasyczny GLUT (dzieło Marka Kilgarda) nie jest już jednak rozwijany i choć pojawiają się nieoficjalne wersje typu freeglut, to rozwiązują one bardziej kwestie licencyjne niż podtrzymują rozwój tego oprogramowania.
+Rozszerzenia[edytuj | edytuj kod]
+OpenGL został zaprojektowany w taki sposób, aby producenci sprzętu graficznego mogli rozszerzać jego funkcjonalność poprzez własne rozszerzenia. Rozszerzenia takie dystrybuowane są poprzez publikację zarówno sterowników obsługujących dane funkcje, jak również plików nagłówkowych z definicjami tychże, aby z funkcji tych mogli skorzystać programiści piszący oprogramowanie używające OpenGL.
+Funkcje lub stałe występujące w rozszerzeniach oznaczane są skrótami przyporządkowanymi poszczególnym producentom (np. funkcje firmy NVIDIA oznaczane są skrótem NV). Jeśli funkcja jest używana przez więcej niż jednego producenta, oznaczana jest skrótem EXT, a w przypadku, gdy zostanie oficjalnie zaakceptowana przez Architectural Review Board, staje się ona rozszerzeniem standardowym i otrzymuje oznaczenie ARB. Później, rozszerzenie może się stać oficjalnie częścią standardu OpenGL, w kolejnej jego wersji.
+Przykładowy kod[edytuj | edytuj kod]
+Potok programowalny OpenGL 3.3
+Najmniejszy, najprostszy program wykorzystujący możliwości OpenGL składa się z pięciu plików. Głównego pliku programu – main.cpp, klasy wykorzystującej możliwości OpenGL (mainwindow.cpp) oraz nagłówka do tej klasy (mainwindow.h), a także dwóch plików z kodem shaderów.
+Kolejność przekształceń punktów/wierzchołków
+Przykład został napisany w języku C++ z wykorzystaniem bibliotek Qt. Wykorzystuje on OpenGL w wersji 3.3.
+Niezbędne funkcje i klasy do napisania programu:
+main:
+QApplication,
+Nasza nowa klasa wykorzystująca OpenGL,
+QSurfaceFormat
+QSufraceFormat::defaultFormat();
+QSurfaceFormat::setProfile();
+QSurfaceFormat::setVersion();
+QSurfaceFormat::setDefaultFormat();
+mainwindow:
+1) Przygotowanie:
+initializeOpenGLFunctions();
+glCreateProgram();
+glCreateShader();
+glShaderSource();
+glCompileShader();
+glGetShaderiv();
+glAttachShader();
+glDeleteShader();
+glGetShaderInfoLog();
+glLinkProgram();
+glGetProgramiv();
+3) Obiekty – przygotowanie:
+glGenVertexArray();
+glBindVertexArray();
+glEnableVertexAtribArray();
+glGenBuffers();
+glBindBuffer();
+glBufferData();
+glVertexAttribPointer();
+glGenTextures();
+glActiveTexture();
+glBindTexture();
+glTexImage2D()
+glTexParameteri();
+4) Opcjonalne:
+glGenFramebuffers();
+glBindFramebuffer();
+glFramebufferTexture2D();
+glCheckFramebufferStatus();
+5) Rysowanie/Działanie:
+glGetIntegerv();
+glBindFramebuffer();
+glViewport();
+glClear();
+glUseProgram();
+glActiveTexture();
+glBindTexture()
+glGetUniformLocation();
+glUniform1i();
+glBindVertexArray();
+glDrawArrays();
+Niezbędne makra:
+GL_VERTEX_SHADER,
+GL_COMPILE_STATUS,
+GL_FRAGMENT_SHADER,
+GL_LINK_STATUS,
+GL_ARRAY_BUFFER,
+GL_STATIC_DRAW,
+GL_FALSE,
+GL_FLOAT,
+GL_TEXTURE0,
+GL_TEXTURE_2D,
+GL_RGBA,
+GL_BGRA,
+GL_UNSIGNED_BYTE,
+GL_TEXTURE_MIN_FILTER,
+GL_LINEAR,
+GL_COLOR_BUFFER_BIT,
+GL_TRIANGLES,
+Dodatkowe makra:
+GL_FRAMEBUFFER,,
+GL_COLOR_ATTACHMENT0,
+GL_DRAW_FRAMEBUFFER_BINDING,
+Szczegóły na temat poszczególnych funkcji oraz makr podane są na stronie dokumentacji OpenGL.
+Plik main.cpp# include "mainwindow.h"
+# include <QApplication>
+# include <QSurfaceFormat>
+int main(int argc, char *argv[])
+{
+    QApplication a(argc, argv);
+    QSurfaceFormat format = QSurfaceFormat::defaultFormat();
+    format.setProfile(QSurfaceFormat::CoreProfile);
+    format.setVersion(3,3);
+    QSurfaceFormat::setDefaultFormat(format);
+    MainWindow w;
+    w.show();
+    return a.exec();
+}
+Plik mainwindow.h# ifndef MAINWINDOW_H
+# define MAINWINDOW_H
+//#include <QMainWindow>
+# include <QOpenGLFunctions_3_3_Core>
+# include <QOpenGLWidget>
+class MainWindow : public QOpenGLWidget, protected QOpenGLFunctions_3_3_Core //public QMainWindow,
+{
+    //Q_OBJECT
+    GLuint uchwytProg1; //unsigned int
+    GLuint VertexArrayO;  // Vertex Array Object
+    int ilWierz;   //ilosc wierzcholkow
+    GLuint tex0;
+public:
+    MainWindow();
+    ~MainWindow();
+    void initializeGL();
+    void paintGL();
+    void resizeGL(int w, int h);
+};
+# endif // MAINWINDOW_H
+Plik mainwindow.cpp# include "mainwindow.h"
+# include <QOpenGLFunctions_3_3_Core>
+# include <QFile>
+# include <Qdebug>
+struct vec3 { float x,y,z; };
+MainWindow::MainWindow() //QMainWindow(parent)
+{ }
+MainWindow::~MainWindow()
+{ }
+void MainWindow::initializeGL()
+{
+    initializeOpenGLFunctions();
+    qDebug() << "initializeGL";
+    GLint status;
+    // program kopiujący teksture na ekran
+    uchwytProg1 = glCreateProgram();
+    QFile file("vshaderS.sh");
+    if(file.open(QFile::ReadOnly))
+    {
+        QTextStream stream(&file);
+        std::string vshader_zrodlo = stream.readAll().toStdString();
+        GLuint shader = glCreateShader(GL_VERTEX_SHADER);
+        GLchar* srcs[] = {(GLchar*)vshader_zrodlo.c_str()};
+        glShaderSource(shader, 1, srcs, NULL);
+        glCompileShader(shader);
+        glGetShaderiv(shader, GL_COMPILE_STATUS, &status); //skompilowany
+        if( status == true )
+        {
+            glAttachShader(uchwytProg1, shader);
+            glDeleteShader(shader);
+        } else { qDebug() << "Shadera nie skompilowano. V"; }
+         qDebug() << "BB" << vshader_zrodlo.c_str();
+    } else qDebug() << "Brak pliku";
+    file.close();
+    QFile file2("fshaderS.sh");
+    if(file2.open(QFile::ReadOnly))
+    {
+        QTextStream stream(&file2);
+        std::string vshader_zrodlo = stream.readAll().toStdString();
+        GLuint shader = glCreateShader(GL_FRAGMENT_SHADER);
+        GLchar* srcs[] = {(GLchar*)vshader_zrodlo.c_str()};
+        glShaderSource(shader, 1, srcs, NULL);
+        glCompileShader(shader);
+        glGetShaderiv(shader, GL_COMPILE_STATUS, &status); //skompilowany
+        if( status == true )
+        {
+            glAttachShader(uchwytProg1, shader);
+            glDeleteShader(shader);
+        } else {
+            qDebug() << "Błąd komp. szhadera. F";
+            GLchar infoLog[10240];
+            glGetShaderInfoLog(shader, 10240, NULL, infoLog);
+            qDebug() << infoLog << endl;
+        }
+        qDebug() << "AA" << srcs;
+    } else qDebug() << "Brak pliku";
+    file2.close();
+    glLinkProgram(uchwytProg1);
+    glGetProgramiv(uchwytProg1, GL_LINK_STATUS, &status);
+    if( status == true) { qDebug() << "Program przygotowany"; }
+    else qDebug() << "Problemy z programem.";
+    glUseProgram(uchwytProg1);
+    GLint polozenie = glGetUniformLocation(uchwytProg1, "textura");
+    qDebug() << "Polozenie, textura: " << polozenie;
+    // prostokat na cały ekran
+    vec3 wierzcholki[] = { {-1,-1,0}, {1,-1,0}, //Dwa trójkąty...
+                           {1,1,0},    {1,1,0},
+                           {-1,1,0},   {-1,-1,0} };
+    ilWierz = 6;
+    glGenVertexArrays(1, &VertexArrayO);
+        glBindVertexArray(VertexArrayO);
+        glEnableVertexAttribArray(0); //włączenie obsługi konkretnej tablicy atrybutów,
+        //wygenerowanie nazwy bufora dla atrybutu i dodanie do mapy pod konkretnym indexem
+            GLuint buforVertex;
+            glGenBuffers(1, &buforVertex);
+        // przypisanie bufora do tablicy vao
+            glBindBuffer(GL_ARRAY_BUFFER, buforVertex);
+        // stworzenie bufora i skopiowanie do niego danych
+            glBufferData(GL_ARRAY_BUFFER, ilWierz*sizeof(vec3), wierzcholki, GL_STATIC_DRAW);
+        // ustawienie odpowiednich typow i wielkosci bufora wierzcholkow vbo
+            glVertexAttribPointer(0, 3, GL_FLOAT, GL_FALSE, 0, 0);
+       glBindBuffer(GL_ARRAY_BUFFER, 0);
+   glBindVertexArray(0);
+    glGenTextures(1, & tex0);
+    glActiveTexture(GL_TEXTURE0);
+    // tekstura wczytana z pliku
+        QImage img("lena.png");
+        if(img.width() == 0) qt_assert("QImage not loaded!", __FILE__, __LINE__);
+        glBindTexture(GL_TEXTURE_2D, tex0);
+            glTexImage2D(GL_TEXTURE_2D, 0, GL_RGBA, img.width(), img.height(), 0, GL_BGRA, GL_UNSIGNED_BYTE, img.bits());
+            glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_LINEAR);
+        glBindTexture(GL_TEXTURE_2D, 0);
+}
+void MainWindow::resizeGL(int w, int h)
+{
+    qDebug() << "resizeGL";
+}
+void MainWindow::paintGL()
+{
+    qDebug() << "PaintGL – rysuje";
+    GLuint polozenie;
+    /* niektore implementacje nie przypisuja domyslnego FB ekranu == 0
+        wtedy trzeba zapamietac samemu jego numer: */
+        GLint screenFB;
+        glGetIntegerv(GL_DRAW_FRAMEBUFFER_BINDING, &screenFB);
+        qDebug() << "Numer dla ScreenFramebuffer:  " << screenFB;
+        int tryb = 1;
+    if( tryb == 1 )
+    {
+        // rysowanie tekstury na domyslnym FrameBufferze
+        // glBindFramebuffer(GL_FRAMEBUFFER, 0);
+        // lub
+        glBindFramebuffer(GL_FRAMEBUFFER, screenFB);
+        glViewport(0,0,width(), height());
+        glClear(GL_COLOR_BUFFER_BIT);
+        glUseProgram(uchwytProg1);
+            // Ustawienie tekstury
+            polozenie = glGetUniformLocation(uchwytProg1, "textura");
+            if(polozenie != -1) glUniform1i(polozenie, 0); else qDebug() << "Brak zmiennej Uniform textura";
+            glActiveTexture(GL_TEXTURE0);
+            glBindTexture(GL_TEXTURE_2D, tex0);
+            glBindVertexArray(VertexArrayO);
+                glDrawArrays(GL_TRIANGLES, 0, ilWierz);
+            glBindVertexArray(0);
+            glBindTexture(GL_TEXTURE_2D, tex0);
+            glViewport(width()/2.0, 0, width()/2.0, height());
+            glBindVertexArray(VertexArrayO);
+                glDrawArrays(GL_TRIANGLES, 0, ilWierz);
+            glBindVertexArray(0);
+        glUseProgram(0);
+    }
+}
+Plik vshader.glsl – Shader Vertexów – Shader wierzchołków:# version 330
+layout (location=0) in vec3 VertexPosition; //atrybut zerowy,
+                   out vec2 textureCoords;
+void main()
+{
+    //Macierz skalowania,
+    mat4 macierz = mat4(1, 0, 0, 0,
+                        0, 1, 0, 0,
+                        0, 0, 1, 0,
+                        0, 0, 0, 1);
+    vec4 a = vec4(VertexPosition.x, VertexPosition.y, VertexPosition.z, 1);
+    vec4 b = a * macierz;
+    // Macierz translacji – przesuwania
+    mat4 macierzTran = mat4(  1, 0, 0, 0,
+                              0, 1, 0, 0,
+                              0, 0, 1, 0,
+                              0, 0, 0, 1);
+    b = b * macierzTran;
+    gl_Position = b;
+    // lub:
+    //gl_Position = vec4(VertexPosition, 1); //-- wówczas będzie bez rotacji i bez translacji
+    textureCoords = VertexPosition.xy * 0.5f + 0.5f;
+}
+Plik fshader.glsl – Shader Fragmentów:# version 330 //Dyrektywa informująca o wersji OpenGL'a
+// Zmienne wbudowane shadera:
+// in vec4 gl_FragCoord
+// in bool gl_FrontFacing
+// in vec2 gl_PointCoord
+uniform sampler2D tekstura;
+          in vec2 teksturaCoords;
+         out vec4 FragColor; //Obowiązkowa zmienna wyjściowa
+//fragment shader kopiujacy texele z tekstury na wyjscie
+void main()
+{
+    //vec2 jest wbudowanym typem [wektor dwuelementowy]
+    vec2 tc = vec2(teksturaCoords.x, 1-teksturaCoords.y );
+    FragColor = texture(tekstura, tc);
+    // discard; – spowoduje nie nadanie wartości danemu tekslowi, na danych współrzędnych
+}
+Zobacz też[edytuj | edytuj kod]
+3ds
+Mesa
+Direct3D
+OpenGL Shading Language
+Shadery
+OpenGL Extension Wrangler Library (GLEW)
+Vulkan
+Przypisy[edytuj | edytuj kod]
+↑ OpenGL 4 Shaders Anton Gerdelan. 24 June 2014
+Linki zewnętrzne[edytuj | edytuj kod]
+"OpenGL Red Book" – Podręcznik programisty OpenGL (ang.)
+SDL – Simple DirectMedia Layer (ang.)
+Opengl na Game Programming Wiki (ang.)
+Kontrola autorytatywna (Application Programming Interface):NKC: ph117962Encyklopedia internetowa:
+Britannica: topic/OpenGL
+Źródło: „https://pl.wikipedia.org/w/index.php?title=OpenGL&oldid=71155449”
+Kategoria: OpenGL
+ Tę stronę ostatnio edytowano 30 sie 2023, 12:42.
+Tekst udostępniany na licencji Creative Commons: uznanie autorstwa, na tych samych warunkach, z możliwością obowiązywania dodatkowych ograniczeń.
+Zobacz szczegółowe informacje o warunkach korzystania.
+Polityka prywatności
+O Wikipedii
+Korzystasz z Wikipedii tylko na własną odpowiedzialność
+Powszechne Zasady Postępowania
+Wersja mobilna
+Dla deweloperów
+Statystyki
+Komunikat na temat ciasteczek
+Przełącz ograniczenie szerokości strony

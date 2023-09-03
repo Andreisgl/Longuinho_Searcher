@@ -1,0 +1,375 @@
+[Mediawiki-api-announce] API BREAKING CHANGE: Default continuation mode for action=query will change at the end of this month - Mediawiki-api-announce - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+                            2023
+                        
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2022
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2021
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2020
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2019
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2018
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2017
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2016
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2015
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2014
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2013
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2012
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2011
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2010
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2009
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2008
+                        
+December
+November
+October
+September
+August
+            List overview
+ Download
+thread
+[Mediawiki-api-announce] API BREAKING CHANGE: Default continuation mode for action=query will change at the end of this month
+Brad Jorsch (Anomie)
+                2 Jun
+                
+                    2015
+                
+            
+                2 Jun
+                
+                '15
+                
+            
+11:42 p.m.
+ 
+As has been announced several times (most recently at
+https://lists.wikimedia.org/pipermail/wikitech-l/2015-April/081559.html),
+the default continuation mode for action=query requests to api.php will be
+changing to be easier for new coders to use correctly.
+*The date is now set:* we intend to merge the change to ride the deployment
+train at the end of June. That should be 1.26wmf12, to be deployed to test
+wikis on June 30, non-Wikipedias on July 1, and Wikipedias on July 2.
+If your bot or script is receiving the warning about this upcoming change
+(as seen here
+<https://www.mediawiki.org/w/api.php?action=query&list=allpages>, for
+example), it's time to fix your code!
+   - The simple solution is to simply include the "rawcontinue" parameter
+   with your request to continue receiving the raw continuation data (
+   example
+  
+<https://www.mediawiki.org/w/api.php?action=query&list=allpages&rawcontinue=1>).
+   No other code changes should be necessary.
+   - Or you could update your code to use the simplified continuation
+   documented at https://www.mediawiki.org/wiki/API:Query#Continuing_queries
+   (example
+  
+<https://www.mediawiki.org/w/api.php?action=query&list=allpages&continue=>),
+   which is much easier for clients to implement correctly.
+Either of the above solutions may be tested immediately, you'll know it
+works because you stop seeing the warning.
+I've compiled a list of bots that have hit the deprecation warning more
+than 10000 times over the course of the week May 23–29. If you are
+responsible for any of these bots, please fix them. If you know who is,
+please make sure they've seen this notification. Thanks.
+AAlertBot
+AboHeidiBot
+AbshirBot
+Acebot
+Ameenbot
+ArnauBot
+Beau.bot
+Begemot-Bot
+BeneBot*
+BeriBot
+BOT-Superzerocool
+CalakBot
+CamelBot
+CandalBot
+CategorizationBot
+CatWatchBot
+ClueBot_III
+ClueBot_NG
+CobainBot
+CorenSearchBot
+Cyberbot_I
+Cyberbot_II
+DanmicholoBot
+DeltaQuadBot
+Dexbot
+Dibot
+EdinBot
+ElphiBot
+ErfgoedBot
+Faebot
+Fatemibot
+FawikiPatroller
+HAL
+HasteurBot
+HerculeBot
+Hexabot
+HRoestBot
+IluvatarBot
+Invadibot
+Irclogbot
+Irfan-bot
+Jimmy-abot
+JYBot
+Krdbot
+Legobot
+Lowercase_sigmabot_III
+MahdiBot
+MalarzBOT
+MastiBot
+Merge_bot
+NaggoBot
+NasirkhanBot
+NirvanaBot
+Obaid-bot
+PatruBOT
+PBot
+Phe-bot
+Rezabot
+RMCD_bot
+Shuaib-bot
+SineBot
+SteinsplitterBot
+SvickBOT
+TaxonBot
+Theo's_Little_Bot
+W2Bot
+WLE-SpainBot
+Xqbot
+YaCBot
+ZedlikBot
+ZkBot
+-- 
+Brad Jorsch (Anomie)
+Software Engineer
+Wikimedia Foundation
+    
+Attachments:
+attachment.htm
+                (text/html — 3.0 KB)
+            
+ 0
+ 0
+            Reply
+        
+Back to the thread
+            Back to the list
+        
+ 
+            Powered by HyperKitty version 1.3.4.
+        

@@ -1,0 +1,78 @@
+ 
+
+Malaisie
+paprika.idref.fr
+data.idref.fr
+Documentation
+
+Bonjour ,
+Bienvenue sur IdRef, Identifiants et référentiels pour l'Enseignement supérieur et la Recherche.
+Malaisie
+data.idref
+Export biblio
+Export XML
+Export RDF
+Améliorer la notice
+Signaler une erreur
+                  Identifiant pérenne de la notice : 027400212
+                     URI de l'entité :
+                     http://www.idref.fr/027400212/id
+Notice de type
+                  Géographique
+                  
+                  
+Point d'accès autorisé
+Malaisie
+Variante de point d'accès
+Malaysia[Nom de territoire ou nom géographique]
+Notes
+Note générale sur le champ d'application : Sous cette vedette on trouve les ouvrages qui traitent de la Fédération de Malaisie
+                     (ou Malaysia), comprenant depuis 1963 la Malaisie péninsulaire, Sabah et Sarawak (et
+                     Singapour de 1963 à 1965). Les ouvrages qui traitent de la Malaisie péninsulaire,
+                     avant ou depuis 1963, se trouvent sous la vedette Malaisie occidentale
+Notices d'autorité liées 
+                         
+                        Malaisie occidentale
+                         
+                        Malaisie orientale
+Source
+Malaisie ; IFLA, Names of states, 1981 ; Pays et capitales du monde / IGN, 1986 ;
+                     BN ACO. Malaysia ; GLU ; Laval RVM, 1995-02 ; Atlas Le Monde
+Identifiants externes
+ Identifiant VIAF : http://viaf.org/viaf/145332698
+ Identifiant ARK BNF : http://catalogue.bnf.fr/ark:/12148/cb11945050f
+Utilisation dans Rameau
+Le point d'accès ne peut être employé que dans un point d'accès sujet
+Le point d'accès peut s'employer en élément initial ou en subdivision
+Equivalent dans un autre référentiel
+Terme équivalent dans un autre système : Malaysia
+Informations sur la notice
+Identifiant de la notice : 027400212
+RCR créateur de la notice : 0004
+Date de création : 30-04-1984
+RCR dernier modificateur de la notice : 341720001
+Date de dernière modification : 21-09-2020 à 11 h 34
+... Références liées : ...
+IdRef - Identifiants et Référentiels pour l'ESR
+L'interface publique IdRef permet la consultation des notices d'autorités produites par les établissements membres des réseaux documentaires de l'ESR (Sudoc, Calames, Star). 
+
+IdRef est à la disposition des usagers professionnels habilités à créer/corriger/enrichir les notices d'autorité (authentification requise). 
+A partir d'IdRef, une gamme de services (triple store data.idref.fr, entrepôt OAI-PMH, APIs) est disponible en accès libre pour faciliter la réutilisation des données.
+Pour les développeurs
+Documentation IdRef
+APIs et web services
+data.idref.fr
+OAI-PMH IdRef
+GitHub Abes
+Utilisation des données
+Libre et gratuite sous licence Etalab
+
+GitHub Etalab
+Assistance
+Guichet AbesSTP
+A propos |
+Partenaires |
+Données Personnelles |
+CGU |
+Mentions Légales |
+Accessibilité numérique

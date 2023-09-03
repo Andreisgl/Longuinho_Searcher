@@ -1,0 +1,229 @@
+How to contribute - MediaWiki
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageGet MediaWikiGet extensionsTech blogContribute
+Support
+User helpFAQTechnical manualSupport deskCommunication
+Development
+Developer portalCode statistics
+MediaWiki.org
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+In other languages
+Add links
+Search
+Search
+ EnglishCreate accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+How to contribute
+PageDiscussion
+English
+ReadView sourceView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadView sourceView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+From mediawiki.org
+Translate this pageLanguages:Afrikaans
+Bahasa Indonesia
+Bahasa Melayu
+Basa Bali
+Basa Banyumasan
+Boarisch
+Bân-lâm-gú
+Cebuano
+Cymraeg
+Deutsch
+Deutsch (Sie-Form)
+Dusun Bundu-liwan
+English
+Esperanto
+Hausa
+Hawaiʻi
+Ido
+Igbo
+Kreyòl ayisyen
+Limburgs
+Lëtzebuergesch
+Malagasy
+Napulitano
+Nederlands
+Oromoo
+Ripoarisch
+Scots
+Setswana
+Sunda
+Tagalog
+Taqbaylit
+Tiếng Việt
+Türkçe
+Zazaki
+aragonés
+asturianu
+azərbaycanca
+bosanski
+brezhoneg
+català
+dansk
+davvisámegiella
+eesti
+español
+español (formal)
+español de América Latina
+euskara
+français
+furlan
+galego
+hrvatski
+interlingua
+isiXhosa
+italiano
+kurdî
+lietuvių
+magyar
+norsk bokmål
+norsk nynorsk
+occitan
+oʻzbekcha / ўзбекча
+polski
+português
+português do Brasil
+română
+sardu
+shqip
+sicilianu
+slovenčina
+suomi
+svenska
+vèneto
+walon
+čeština
+Ελληνικά
+авар
+башҡортса
+беларуская (тарашкевіца)
+български
+македонски
+русиньскый
+русский
+српски / srpski
+татарча
+татарча / tatarça
+тоҷикӣ
+українська
+ייִדיש
+עברית
+ئۇيغۇرچە / Uyghurche
+اردو
+العربية
+تۆرکجه
+سنڌي
+فارسی
+پښتو
+کوردی
+अंगिका
+अवधी
+नेपाली
+मराठी
+मैथिली
+हिन्दी
+অসমীয়া
+বাংলা
+ਪੰਜਾਬੀ
+ગુજરાતી
+ଓଡ଼ିଆ
+தமிழ்
+తెలుగు
+ಕನ್ನಡ
+മലയാളം
+සිංහල
+ไทย
+བོད་ཡིག
+ပအိုဝ်ႏဘာႏသာႏ
+ဖၠုံလိက်
+ဘာသာ မန်
+မြန်မာဘာသာ
+მარგალური
+ქართული
+ትግርኛ
+አማርኛ
+ភាសាខ្មែរ
+ᱥᱟᱱᱛᱟᱲᱤ
+中文
+文言
+日本語
+粵語
+ꯃꯤꯇꯩ ꯂꯣꯟ
+한국어
+Tech Forum
+Tech News
+Tech Ambassadors
+Wikimedia Technology
+Wikimedia Product
+MediaWiki
+Get involved
+Do you love software freedom and open source communities? Do you like the MediaWiki software, Wikipedia, or any other Wikimedia sites?
+Then, contribute your skills here and learn from other contributors. This page will help you get started by providing an overview of areas where you can get involved.
+Web APIs 
+The content of all Wikimedia projects is released under free licenses. Write code to access, remix and grow this immense pool of free knowledge. Follow the tutorial to get started with the API, available on all MediaWiki wikis, and other APIs for content and Wikidata. Other open data sources, including XML and SQL dumps, are also available.
+Software Development
+Our code is all free and open source. Choose a project, provide a patch, and fix a task!
+Wikimedia projects use a variety of languages such as PHP and JavaScript in MediaWiki and its extensions, Lua (in Templates), CSS/LESS (in skins etc.), Objective-C, Swing and Java (in Mobile Apps and Kiwix), Python (in Pywikibot), C++ (in Huggle), or C# (in AWB).
+Create bots to process content and host your tools on Toolforge. Hack on mobile apps or on desktop applications. Or help Site Reliability Engineering maintain the server configuration.
+Learn more at New Developers/Introduction to the Wikimedia Technical Ecosystem .
+Testing
+Help improve the quality of our projects through PHPUnit testing, automated browser testing via Selenium, and Continuous Integration. Report your first bug or help with existing bug reports.
+Ambassadors
+As a Tech ambassador, help other Wikimedians with technical issues, relay Tech News to inform users about what is going to impact them, and join the ambassadors' group and the mailing list to act as a bridge between developers and your local wiki.
+Documentation 
+English writers can improve the MediaWiki documentation, other essential support pages and, in fact, any page of this website.
+Translation 
+If you are fluent in a language other than English you can join the effort by translating this website and the MediaWiki software.
+Support
+Help users and developers looking for answers at the support desk or the MediaWiki communication and social media channels.
+Design 
+Help apply the Wikimedia design principles in projects looking for UX feedback.
+Meet up 
+Meet other community members online or in person.
+Tutorials 
+How-to guides and walkthroughs for MediaWiki and Wikimedia technologies
+Icon credits 
+More helpful information
+Communication
+There are several ways you can get into contact with the Wikimedia community.
+You can also follow and share Wikimedia news across your social network.
+You can also subscribe to Tech News to receive a weekly summary on your user talk page of recent software changes, without technical jargon.
+Editing and discussing in MediaWiki
+If you have not used MediaWiki before:
+Register your user account on mediawiki.org.
+Learn how to edit wiki pages with VisualEditor or editing the source.
+Feel free to edit your public user page. Introduce yourself. You may use the User Info Template. Learn more reading the Wikipedia instructions.
+Check Help:Navigation .
+You can discuss the content of each page in its related Discussion page. You can communicate with users by adding a public message in their discussion pages. Learn more at Help:Talk pages .
+Retrieved from "https://www.mediawiki.org/w/index.php?title=How_to_contribute&oldid=6065198"
+Categories: MediaWiki developmentMediaWiki.org websiteNew contributors
+ This page was last edited on 10 August 2023, at 21:22.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About MediaWiki.org
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

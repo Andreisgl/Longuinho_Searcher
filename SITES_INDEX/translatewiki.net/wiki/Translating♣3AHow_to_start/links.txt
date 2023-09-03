@@ -1,0 +1,10 @@
+https://translatewiki.net/w/i.php?title=Special:LanguageStats&suppresscomplete=1
+https://translatewiki.net/w/i.php?title=Special:Translate&action=proofread&group=!recent
+https://translatewiki.net/w/i.php?title=Special:RecentChanges&translations=only&trailer=/en
+https://translatewiki.net/w/i.php?title=Special:RecentChanges&limit=500&hidebots=0&translations=only&users=FuzzyBot&trailer=/en
+https://translatewiki.net/w/i.php?title=Special:RecentChanges&translations=filter
+https://translatewiki.net/w/i.php?title=Translating:How_to_start&oldid=10746519
+https://www.spi-inc.org/projects/translatewiki.net/
+https://www.mediawiki.org/
+https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki
+http://www.netcup.de/

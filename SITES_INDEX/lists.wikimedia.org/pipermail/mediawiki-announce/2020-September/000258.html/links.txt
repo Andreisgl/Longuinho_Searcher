@@ -1,0 +1,11 @@
+https://phabricator.wikimedia.org/source/mediawiki/browse/REL1_35/RELEASE-NOTES-1.35
+https://www.mediawiki.org/wiki/Release_notes/1.35
+https://phabricator.wikimedia.org/project/board/4035/
+https://phabricator.wikimedia.org/maniphest/task/edit/form/1/?tags=MW-1.35-Release
+https://releases.wikimedia.org/mediawiki/1.35/mediawiki-1.35.0-rc.3.tar.gz
+https://releases.wikimedia.org/mediawiki/1.35/mediawiki-core-1.35.0-rc.3.tar.gz
+https://releases.wikimedia.org/mediawiki/1.35/mediawiki-1.35.0-rc.3.patch.gz
+https://releases.wikimedia.org/mediawiki/1.35/mediawiki-core-1.35.0-rc.3.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.35/mediawiki-1.35.0-rc.3.tar.gz.sig
+https://www.mediawiki.org/keys/keys.html
+http://hyperkitty.readthedocs.org

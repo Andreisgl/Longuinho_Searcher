@@ -1,0 +1,62 @@
+ [MediaWiki-announce] MediaWiki 1.13.1 released
+   
+[MediaWiki-announce] MediaWiki 1.13.1 released
+Tim Starling
+tstarling at wikimedia.org
+       
+Sat Sep  6 16:54:45 UTC 2008
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+MediaWiki 1.13.1 is now available. This is a bugfix release.
+Changes since 1.13.0:
+* (bug 15460) Fixed intermittent deadlock errors and poor concurrent
+  performance for installations without memcached.
+* (bug 13770) Fixed DOM module detection for installations with both dom
+  and domxml.
+* (bug 15148) Fixed Special:BlockIP for PostgreSQL
+* Fixed SQLite support for installations without memcached.
+* Localisation updates, Achinese (ace) added.
+Full release notes:
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_13_1/phase3/RELEASE-NOTES
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.13/mediawiki-1.13.1.tar.gz
+Patch to previous version (1.13.0), without interface text:
+http://download.wikimedia.org/mediawiki/1.13/mediawiki-1.13.1.patch.gz
+Interface text changes:
+http://download.wikimedia.org/mediawiki/1.13/mediawiki-i18n-1.13.1.patch.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.13/mediawiki-1.13.1.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.13/mediawiki-1.13.1.patch.gz.sig
+http://download.wikimedia.org/mediawiki/1.13/mediawiki-i18n-1.13.1.patch.gz.sig
+Public keys:
+https://secure.wikimedia.org/keys.html
+SHA-1 checksums:
+41ef2be8939aa27778d93923ba7005165b15876a  mediawiki-1.13.1.tar.gz
+c07136dba374401da8a11c07f8221271b1354138  mediawiki-1.13.1.patch.gz
+b2876fb00c34e93915a480927798f26e211e679a  mediawiki-i18n-1.13.1.patch.gz
+MD5 checksums:
+8e640a5fdad027bd16cd305732f42e77  mediawiki-1.13.1.tar.gz
+6afe4884065a3bd404d5ca8938723a63  mediawiki-1.13.1.patch.gz
+265c5fa863ddc30524f436d1c67ae7bc  mediawiki-i18n-1.13.1.patch.gz
+- --
+Tim Starling
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.6 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+iD8DBQFIwrXVdWgrCOij/sQRAiYUAJ9+V/GfDQZLeLOYNtL/0ZbVY9RYYACdEcZh
+XvEmCUq2ttM8tytQ3gV11a8=
+=4KwM
+-----END PGP SIGNATURE-----
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+More information about the MediaWiki-announce
+mailing list

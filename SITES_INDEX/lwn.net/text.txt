@@ -1,0 +1,140 @@
+ 
+Re: Move GPLv2 vs v3 fun... [LWN.net]
+LWN.net
+News from the source
+ContentWeekly EditionArchivesSearchKernelSecurityEvents calendarUnread commentsLWN FAQWrite for us
+ 
+  
+User: 
+Password:    |
+           
+ |
+           
+Subscribe /
+               Log in /
+               New account
+Re: Move GPLv2 vs v3 fun...
+[Posted October 1, 2006 by corbet]
+               
+From:
+ Rob Landley <rob-AT-landley.net>
+To:
+ busybox-AT-busybox.net
+Subject:
+ Re: Move GPLv2 vs v3 fun...
+Date:
+ Sat, 9 Sep 2006 19:49:58 -0400
+Archive-link:
+ Article,
+        Thread
+On Friday 08 September 2006 7:04 pm, Aurelien Jacobs wrote:
+> > or should we just admit that the BusyBox license is GPLv2 only?
+> 
+> I don't understand very well your reflexion about GPL.
+>  - You dislike GPLv3 because it reduce some liberties
+>  - You propose to remove the "or latter", IOW to remove a liberty
+> Isn't there a contradiction ? Or did I misunderstood your position ?
+Don't invent a straw man argument please.  I consider licensing BusyBox under 
+GPLv3 to be useless, unnecessary, overcomplicated, and confusing, and in 
+addition to that it has actual downsides.
+1) Useless: We're never dropping GPLv2.  Therefore, nobody can enforce any of 
+the new clauses of the GPLv3 on busybox code because people can continue to 
+use it under the terms of GPLv2 which don't require them.  So the new license 
+is unenforceable on BusyBox code anyway, all it could possibly do to BusyBox 
+is relax the terms, not tighten them.
+2) Unnecessary: There's nothing wrong with GPLv2 that I'm aware of, and if 
+something did crop up the Linux kernel would be screwed and that's big enough 
+business for some large corporate entities to lobby to change the law to 
+unscrew it.  GPLv2 is 15 years old and it's been scrutinized by everybody 
+from Microsoft to SCO.  What reason is there for replacing it other than a 
+cry for attention on the part of Richard Stallman?  What exactly was wrong 
+with GPLv2?
+3) Overcomplicated: I'm not talking about the text of GPLv3, I'm talking about 
+why would BusyBox need two licenses?  We've been under GPLv2 all this time, 
+that's the ONLY license we've ever had, and I'd like it to _stay_ the only 
+license.  I dowanna add unnecessary complexity to the project's licensing any 
+more than I want to add unnecessary complexity to the project's code.
+4) Unmotivated:   Our current dual license was at first an afterthought, and 
+is now an inconvenience.  The GPLv3 did not _exist_ when BusyBox first 
+shipped (and technically still doesn't), we just used the standard GPLv2 
+boilerplate which had the "or later" in it.  This is not something we ever 
+put any effort into, or placed any value on.  It was a purely theoretical 
+issue up until the FSF decided it had to do something to regain relevance.  
+The "or later" clause is something I am now having to put effort into 
+preserving and policing, and I really don't see any benefit from doing so.
+5) Confusing: I hate having to point out the need for an "or later" clause to 
+people when it's absent.  Right now they can license code GPLv2 or "GPLv2 or 
+later", and it's a subtle enough distinction that I keep having to point it 
+out and ask "can we get an 'or later'" and it annoys me.  GPLv2 and GPLv3 are 
+clearly two different licenses, GPLv2 or later is a vague implicit dual 
+license that's way too easily overlooked, and probably has been in the past.  
+We didn't track this closely back when it was a purely theoretical issue, 
+it's quite possible we sucked code from GPLv2-only projects, since at the 
+time we just checked that it _was_ GPLv2.  (We know we took some code from 
+the Linux kernel, for example.  The question is how much and where.  You 
+wanna do the audit?)
+I really like having the same license as the Linux kernel, and being able to 
+take code from the Linux kernel without asking questions.  I hate having to 
+ask questions BEYOND "Is this code licensed under GPLv2?", and I really hate 
+having to explain to people why GPLv2 isn't good enough to merge a patch.
+6) Costly: To preserve the "or later" we can't use GPLv2 only code, which 
+exists today.  We had to pass on the diethotplug patch already.  We're 
+bending things a bit to continue to use the kernel's menuconfig.  (Is it, or 
+is it not part of the BusyBox source code?  It's GPLv2 only.)  Or how about 
+the section of the kernel header files we sucked into libbb/loop.c?  (That 
+might or might not be scenes a' faire.)  This is not going to improve with 
+time.
+7) Divisive: GPLv2 and GPLv3 aren't compatible, and BusyBox's current dual 
+license is quite compatible with either of them.  Although we can' donate 
+code to projects under either license, we can't TAKE code from projects under 
+any of those licenses.  This means that the only people who might possibly 
+benefit from our code being dual licensed those who want to suck BusyBox code 
+into other GPLv3-only projects.  (Not use us as a package, but use code 
+snippets, or bolt our applets onto other things.)
+Except that if they do that, we can't take patches back from them.  If they 
+glue a GPLv3-only applet onto BusyBox, they can only distribute that modified 
+version of BusyBox under GPLv3 only.  We can't take that applet back into the 
+the main BusyBox distro any more than we can currently take Greg's 
+diethotplug code.
+I.E. the dual license encourages people to fork the project, in such a way 
+that even if we get their code back, we can't integrate it.  The only 
+possible "benefit" of the dual license is making such a fork possible.
+Today there's 15 years worth of code under GPLv2, and not a line of code under 
+GPLv3.  I see absolutely no benefit from BusyBox being dual licensed under a 
+license that doesn't even exist yet, a number of real and potential 
+downsides, and I expect that the situation will only get worse as time goes 
+on, because their are two possible scenarios:
+A) GPLv3 is successful.  We get more GPLv3 only code submissions, greater 
+amount of code we can't use because it isn't dual licensed under GPLv2.
+B) GPLv3 fails.  We get more GPLv2 only submissions, which again we can't use.
+Everybody complained about the CDDL being pointless and divisive, but somehow 
+they think the "or later" clause was universally adopted and thus this 
+doesn't apply to GPLv3.
+Apparently they weren't paying attention when Linus Torvalds made it clear SIX 
+YEARS ago that the "or later" clause had never applied to the Linux kernel in 
+the first place:
+  http://www.uwsg.iu.edu/hypermail/linux/kernel/0009.1/0096....
+And this is a very clear explicit statement which predates the current GPLv3 
+effort by a number of years.  They were hoping to browbeat him into changing 
+his mind (despite the fact he's not the only copyright holder to the kernel, 
+as he himself made clear when the browbeating started: 
+http://lwn.net/Articles/169825/ ).
+The FSF has also been trying to browbeat other projects that haven't got 
+an "or later" clause into adding one:
+  http://lwn.net/Articles/176582/
+And so far, the response has been a resounding "meh", with wait and see being 
+as positive as it gets.
+GPLv2 is not going away.  There's no reason for it to.  So what exactly is the 
+purpose of GPLv3?
+Rob
+-- 
+Never bet against the cheap plastic solution.
+           (Log in to post comments)
+           
+ 
+ 
+ 
+            Copyright © 2006, Eklektix, Inc.
+            
+            Comments and public postings are copyrighted by their creators.
+            Linux  is a registered trademark of Linus Torvalds

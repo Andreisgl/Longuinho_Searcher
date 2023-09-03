@@ -1,0 +1,109 @@
+source of file - Wikidata
+source of file
+(P7482)
+From Wikidata
+Jump to navigation
+Jump to search
+broad nature of the origin of the filesource of imagefile sourceimage source
+Language
+Label
+Description
+Also known as
+English
+source of file
+broad nature of the origin of the file
+source of imagefile sourceimage source
+Data type
+Item
+Statements
+instance of
+Wikidata property
+1 reference
+Wikimedia import URL
+https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Source_of_file&oldid=1039625075
+Wikidata property to describe media items
+0 references
+described at URL
+https://commons.wikimedia.org/wiki/Commons:Structured_data/Modeling/Source
+language of work or name
+English
+0 references
+Wikidata property example for media
+Petra Al-Kaznah by Night.jpg6,000 × 4,000; 3.31 MB
+source of file
+original creation by uploader
+0 references
+Haarlem Spaarne Turfmarkt 01.jpg4,676 × 3,176; 6.74 MB
+source of file
+original creation by uploader
+0 references
+stability of property value
+sometimes changes / sometimes unstable identifier
+0 references
+related property
+Commons compatible image available at URL
+0 references
+property proposal discussion
+https://www.wikidata.org/wiki/Wikidata:Property_proposal/Source_of_file
+1 reference
+Wikimedia import URL
+https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Source_of_file&oldid=1039625075
+Constraints
+property constraint
+one-of constraint
+item of property constraint
+original creation by uploader
+file available on the internet
+own work by the original uploader
+constraint status
+suggestion constraint
+constraint clarification
+only agreed values should be used, other than on test images being considered in discussion environments (English)
+0 references
+allowed-entity-types constraint
+item of property constraint
+Wikibase MediaInfo
+0 references
+property scope constraint
+property scope
+as main value
+0 references
+allowed qualifiers constraint
+property
+described at URL
+operator
+retrieved
+archive URL
+constraint status
+suggestion constraint
+0 references
+Retrieved from "https://www.wikidata.org/w/index.php?title=Property:P7482&oldid=1921508757"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+PropertyDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Download as PDFPrintable version
+ This page was last edited on 22 June 2023, at 15:33.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

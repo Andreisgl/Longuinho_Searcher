@@ -1,0 +1,113 @@
+Wikipedia:Wikipedia Signpost/2012-03-26/Technology report - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Languages
+Language links are at the top of the page across from the title.
+Search
+Search
+Create accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Wikipedia:Wikipedia Signpost/2012-03-26/Technology report
+Add languages
+Add links
+Project pageTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+Print/export
+Download as PDFPrintable version
+From Wikipedia, the free encyclopedia
+< Wikipedia:Wikipedia Signpost‎ | 2012-03-26
+← Back to ContentsView Latest Issue26 March 2012
+Technology report
+A busy week: Git switchover, mobile site upgraded, and still time for three security releases
+Contribute  —  
+Share this
+ E-mail
+ Facebook
+ Twitter
+ LinkedIn
+ Reddit
+ Digg
+By Jarry1250 and Josh Parris
+MediaWiki core and WMF extensions now using Git; new code review system kicks in
+“
+I want to thank *everyone* for being so totally awesome with this process. I've put a lot of work into trying to do this right and the feedback (positive and negative) has been immensely helpful and at times nearly overwhelming :)
+”
+—Developer Chad Horohoe, who oversaw the migration
+As scheduled, on March 21 ("Git day"), MediaWiki was officially switched over from the older version control system Subversion to the newer competing system Git. As a result, developers ceased to be able to use Subversion to contribute to core MediaWiki code or over 100 of its WMF-deployed extensions. The switchover went remarkably close to plan, although the preceding code review backlog meant that some 100 revisions had to be initially reverted and then reintroduced afterwards as new-style patchsets. Developers are also now rapidly getting acquainted with the new code review system Gerrit, the Git-friendly replacement to the MediaWiki-based Subversion code review system that had been in use for years.
+Non-WMF-deployed extensions remain Subversion-based, though many will be moved over to Git in the coming weeks.
+The changes sparked numerous threads on the wikitech-l mailing list as developers started to come to grips with the issues arising from the switch. Such issues ranged from working out the changes a developer made when amending a patchset to creating naming conventions and figuring out how to download MediaWiki releases and other snapshots directly from the central Git repository. A separate thread addressed problems in assigning ChangeIds (a vital new identifier used for code review) during merges and part-merges, whilst the question of managing Gerrit user permissions (such as the ability to approve code) was described in significant detail in another thread by Volunteer Development Co-ordinator Sumana Harihareswara. Overall, there seemed to be a sense of cautious optimism among the developer community that all the glitches and performance bottlenecks could be resolved in time.
+Director of Platform Engineering Rob Lanphier described the way ahead: "In the short term, we're still deploying [to Wikimedia wikis] from Subversion... [so] all non-urgent deployments should hang on until we finish the work here ... We're currently planning security releases [see In brief] for 1.17, 1.18, and 1.19, which will be released from Git. In the medium term, we plan to have far more frequent deployments, starting as early as April 9. ... With the combination of Git and the workflow changes it enables, we're pretty excited by our new ability to deploy code more frequently, and we're pretty optimistic that we'll be able to actually get that benefit sooner rather than later".
+Beta-enabled visitors to mobile site to receive significant upgrade
+An example screen from the mobile site, showing the "in place" citation display system in operation
+The latest features developed for Wikipedias' mobile site variants will be going live to beta users immediately, it was announced this week. The updates being deployed include "changes to the footer, a cleaner design for revealing and hiding sections, and a revamped full-screen search experience", the announcement revealed.
+One new feature that has the potential to make it in some form into the desktop site is the inclusion of an "in place" citation display system. Under the new system being introduced, [1][2][3]-style links on the mobile site will prompt a simple dismissible overlay of the content of the citation (pictured right), rather than scrolling the browser down to the applicable references section. The WMF team behind the update are keen to receive as much feedback as possible on this and all other aspects of the update, according to Software Developer Jon Robson, who made the announcement. He asked users interested in testing out the new features to opt-in to using them and then to try browsing their Wikipedia's mobile site (e.g. http://en.m.wikipedia.org), reporting any problems to a dedicated page on MediaWiki.org.
+Improving performance of Wikimedia wikis on handheld devices was targeted as an area of "high strategic significance" in March 2011's product whitepaper, with the particular aim of expanding Wikimedia's audience in areas of the world with comparatively few desktop computers. The latest available statistics show that the mobile site – not to be confused with either the official Wikimedia Android app or its iOS counterpart (both of which attempt to take advantage of device-specific feature sets) – now accounts for over 10% of all Wikipedia page view requests.
+In brief
+Signpost poll3rd Party Auth
+Vote now on next week's poll: The move to Git and Gerrit. Which of these best sums up your overall view?
+Not all fixes may have gone live to WMF sites at the time of writing; some may not be scheduled to go live for many weeks.
+Security releases fix five loopholes: MediaWiki 1.19.0beta2, MediaWiki security and maintenance release 1.18.2 and MediaWiki security and maintenance release 1.17.3 were all released this week, each targeting the same collection of five security loopholes (the 1.19 release also included numerous other bugfixes as part of the standard beta-release programme). The loopholes included problems with cross-site scripting and the ability of the password reset function to stand up to a dedicated and well-resourced attack. No evidence has emerged to suggest that any of the five have been exploited on Wikimedia wikis; non-Wikimedia wikis are advised to upgrade immediately to avoid lingering security concerns.
+Replag problems hit Toolserver, resolved soon: The enactment on the English Wikipedia of a schema change brought in with MediaWiki 1.19 earlier this month (aimed at allowing identical wikitext to be identified far easier than before) caused numerous problems this week with the Toolserver, where replication lag graphs started to indicate that no replication was in fact happening. This prompted numerous bots and tools (not all relating directly to the English Wikipedia) to automatically shut down, a situation preserved by the need for the Toolserver copy of the English Wikipedia to receive the same schema change (and the unfortunate fact that one such part of that schema change was reset partway through by a full hard disk). Toolserver performance is expected to improve on Friday.
+Release candidates for Wikimedia apps released: Release candidates for the latest version of the Wikipedia App (v1.1 for Android and v3.1 for iOS) have now been released (mobile-l mailing list). The builds, which should have no major bugs and therefore be of a releasable quality, can both be downloaded from http://dumps.wikimedia.org; the Android version can be installed immediately, whilst those wishing to test the iOS release need to pre-register. Though early indications suggest that a second release candidate will be needed, the occurrence of the builds is an indication that the numerous improvements included will be finding their way onto hundreds of thousands of devices soon.
+SEO Watch questions Wikipedia rankings: A post on SEO Watch bemoaning the fact that "the presence of Wikipedia in such prominent positions means one less spot on both search engines" sparked angry responses from Wikimedia bloggers. For example, WMF Director of Community Advocacy Philippe Beaudette led the charge, arguing that Wikipedia achieves good rankings because of strong and voluminous content. SEO Watch also showed that Bing prioritises Wikipedia results more than Google.
+Four bots approved: Four BRfAs were recently approved:
+RscprinterBot's 4th BRfA, to remove article categories from user pages
+AnomieBOT's 61st BRfA, to replace or remove instances of templates that "expire" ({{show by date}} or {{citation needed by}} for example)
+BattyBot's 9th BRfA, to remove article categories from user pages
+YFdyh-bot's BRfA, another interwiki bot, this one concentrating on English<->Chinese
+At the time of this writing, 20 BRfAs are open. As always, community input is encouraged.
+← Previous "Technology report"Next "Technology report" →
+In this issue26 March 2012News and notes
+WikiProject report
+Featured content
+Arbitration report
+Recent research
+Education report
+Technology report
++ Add a commentDiscuss this story
+These comments are automatically transcluded from this article's talk page. To follow comments, add the page to your watchlist. If your comment has not appeared here, you can try purging the cache.
+§
+I tried out the mobile site. Now how do I get back to the normal one? (IE9, have already cleared cache)
+There should be a link at the bottom for "Use desktop version" - or click here to achieve the same effect. - Jarry1250 [Deliberation needed] 08:58, 28 March 2012 (UTC)Reply[reply]
+Is this the reason the Toolserver is still down?  Mathew Townsend (talk) 19:58, 28 March 2012 (UTC)Reply[reply]
+The Signpost is written by editors like you — join in!
+Home
+About
+Archives
+Newsroom
+Subscribe
+Suggestions
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipedia_Signpost/2012-03-26/Technology_report&oldid=1166790086"
+Category: Wikipedia Signpost archives 2012-03
+ This page was last edited on 23 July 2023, at 19:39 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

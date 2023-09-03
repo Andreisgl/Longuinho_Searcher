@@ -1,0 +1,96 @@
+Ora universală coordonată - Wikipedia
+Sari la conținut
+Meniul principal
+Meniul principal
+mută în bara laterală
+ascunde
+Navigare
+Pagina principalăSchimbări recenteCafeneaArticol aleatoriuFacebook
+Participare
+Cum încep pe WikipediaAjutorPortaluri tematiceArticole ceruteDonații
+Limbi
+Pe acest wiki Wikipedia, legăturile limbii sunt situate în partea de sus a paginii în rând cu titlul articolului. Mergi sus.
+Căutare
+Căutare
+Creare contAutentificare
+Unelte personale
+ Creare cont Autentificare
+Pagini pentru editorii neautentificați aflați mai mult
+ContribuțiiDiscuții
+Cuprins
+mută în bara laterală
+ascunde
+Început
+1Definiție
+2Utilizare
+Toggle Utilizare subsection
+2.1Vezi și
+3Legături externe
+Comută cuprinsul
+Comută cuprinsul
+Ora universală coordonată
+141 limbi
+AfrikaansAlemannischAragonésالعربيةAsturianuАварAzərbaycancaتۆرکجهBasa BaliBoarischBikol CentralБеларускаяБеларуская (тарашкевіца)БългарскиभोजपुरीBanjarပအိုဝ်ႏဘာႏသာႏবাংলাBrezhonegBosanskiCatalàکوردیQırımtatarcaČeštinaCymraegDanskDeutschZazakiDolnoserbskiދިވެހިބަސްΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiVõroFøroysktFrançaisNordfriiskFurlanFryskGaeilge贛語GàidhligGalegoAvañe'ẽעבריתहिन्दीHrvatskiHornjoserbsceMagyarՀայերենInterlinguaBahasa IndonesiaIgboIlokanoГӀалгӀайIdoÍslenskaItaliano日本語JawaქართულიTaqbaylitҚазақшаភាសាខ្មែរ한국어कॉशुर / کٲشُرKurdîLatinaLëtzebuergeschLimburgsLietuviųLatviešuमैथिलीМакедонскиമലയാളംМонголमराठीBahasa Melayuမြန်မာဘာသာNedersaksiesनेपालीNederlandsNorsk nynorskNorsk bokmålNouormandSesotho sa LeboaOccitanਪੰਜਾਬੀPapiamentuPolskiپنجابیپښتوPortuguêsРусскийसंस्कृतम्Саха тылаSicilianuScotsسنڌيDavvisámegiellaSrpskohrvatski / српскохрватскиၽႃႇသႃႇတႆး සිංහලSimple EnglishSlovenčinaSlovenščinaGagana SamoaSoomaaligaShqipСрпски / srpskiSeelterskSundaSvenskaKiswahiliதமிழ்తెలుగుТоҷикӣไทยTagalogTürkçeТатарча / tatarçaТыва дылئۇيغۇرچە / UyghurcheУкраїнськаاردوOʻzbekcha / ўзбекчаVènetoVepsän kel’Tiếng Việt吴语მარგალურიYorùbá中文Bân-lâm-gú粵語IsiZulu
+Modifică legăturile
+ArticolDiscuție
+română
+LecturăModificareModificare sursăIstoric
+Unelte
+Unelte
+mută în bara laterală
+ascunde
+Acțiuni
+LecturăModificareModificare sursăIstoric
+General
+Ce trimite aiciSchimbări corelateTrimite fișierPagini specialeLegătură permanentăInformații despre paginăCitează acest articolElement Wikidata
+Tipărire/exportare
+Creare carteDescărcare ca PDFVersiune de tipărit
+În alte proiecte
+Wikimedia Commons
+De la Wikipedia, enciclopedia liberă
+(Redirecționat de la Coordinated Universal Time)
+Pagina „UTC” trimite aici. Pentru alte sensuri vedeți UTC (dezambiguizare).
+La momentul încărcării acestei pagini era 2023-09-1 T 03:09 în UTC
+(vezi Formate internaționale pentru zi și oră - în engleză)
+Harta lumii, cu fusurile orare
+Harta Europei cu fusurile orare „Timpul universal coordonat”:     UTC      UTC+1      UTC+2      UTC+3      UTC+4      UTC+5
+Ora universală coordonată sau timpul universal coordonat, abreviat internațional ca UTC (compromis între engleză Coordinated Universal Time - CUT și franceză Temps Universel Coordonné - TUC), este un hibrid între timpul civil al meridianului 0 (timpul calculat după mișcarea aparentă a Soarelui, numit timp universal) și timpul fizic determinat cu cea mai mare precizie posibilă (timpul atomic internațional - TAI).
+Definiție[modificare | modificare sursă]
+Timpul universal este definit ca timpul civil al meridianului 0. El este determinat prin observații astronomice și este o măsură a poziției Pământului în mișcarea sa de rotație (adică este în esență un unghi).
+Timpul fizic este timpul măsurat pe baza unui fenomen fizic reproductibil. Cel mai precis mod de-a măsura timpul fizic este pe baza oscilațiilor produse la tranzițiile electronilor de pe un nivel energetic pe altul. Pe această bază este definită secunda în Sistemul internațional de unități (SI).
+Datorită neuniformității mișcării de rotație a Pământului, ziua solară medie (media anuală a zilei solare adevărate) nu are niciodată exact 86400 secunde (SI). Dacă ziua solară medie este mai lungă de 86400 secunde SI (cum este cazul în prezent), un ceas precis avansează treptat față de rotația Pământului, astfel încât amiaza dată de ceas este din ce în ce mai devreme față de amiaza determinată astronomic.
+Timpul universal coordonat este definit pe baza secundei SI. Pentru a evita creșterea necontrolată a decalajului dintre UTC și timpul universal, ziua UTC nu grupează întotdeauna 86400 secunde, ci uneori 86399 secunde sau 86401 secunde. Secunda în plus sau în minus este adăugată sau eliminată la sfârșitul ultimei zile dintr-o lună. Dacă se adaugă o secundă, aceasta este marcată ca ora 23:59:60. Dacă se elimină o secundă, atunci ora 23:59:59 nu mai există (devine 00:00:00 a zilei următoare).
+Adăugarea sau eliminarea acestor secunde pentru compensare este determinată de Serviciul internațional de rotație a Pământului. Decizia se bazează pe măsurătorile acestuia asupra rotației Pământului și se anunță cu un avans de câteva luni. De la introducerea UTC în forma actuală, în anul 1970, și până în prezent (2007), au fost adăugate 23 de secunde de compensare și nu a fost eliminată nici una. Din cauza frânării rotației Pământului, determinată de maree, durata zilei solare medii crește cu aproximativ 1,7 milisecunde pe secol. Ca urmare, introducerea secundelor de compensare va deveni din ce în ce mai frecventă.
+Utilizare[modificare | modificare sursă]
+UTC este baza pentru ora legală. Fusurile orare sunt exprimate ca diferențe pozitive sau negative față de ora universală coordonată. 
+UTC este unul din succesorii orei Greenwich (engleză Greenwich Mean Time), abreviată în mod normal GMT. UTC este uneori numit, în mod eronat, GMT. Noul nume a fost impus pentru a evita posibile confuzii (GMT este definit în mod diferit) și pentru a elimina numele unei localități anume din denumirea referinței internaționale a orei.
+UTC diferă cu un număr întreg de secunde de timpul atomic internațional.
+Vezi și[modificare | modificare sursă]
+Fus orar
+UTC+0
+UTC+1
+UTC+2
+UTC+3
+Amiază
+Legături externe[modificare | modificare sursă]
+Hartă, pentru a afișa o ora locală
+ro GMT/UTC/ZULU TIME/JD Arhivat în 30 septembrie 2009, la Wayback Machine.
+en Systems of Time
+en COORDINATED UNIVERSAL TIME UTC
+en The World Clock - Time Zones „Zone de timp”
+CommonsWikimedia Commons conține materiale multimedia legate de Ora universală coordonată
+Adus de la https://ro.wikipedia.org/w/index.php?title=Ora_universală_coordonată&oldid=15463204
+Categorii: TimpFuse orareAstronomie fundamentalăCategorie ascunsă: Webarchive template wayback links
+ Ultima editare a paginii a fost efectuată la 22 februarie 2023, ora 02:39.
+Acest text este disponibil sub licența Creative Commons cu atribuire și distribuire în condiții identice;
+pot exista și clauze suplimentare.
+Vedeți detalii la Termenii de utilizare.
+Politica de confidențialitate
+Despre Wikipedia
+Termeni
+Cod de conduită
+Versiune mobilă
+Dezvoltatori
+Statistici
+Declarație cookie
+Comută lățimea limitată a conținutului

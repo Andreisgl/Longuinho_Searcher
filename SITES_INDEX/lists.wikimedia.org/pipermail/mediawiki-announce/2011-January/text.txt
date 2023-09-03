@@ -1,0 +1,73 @@
+ [MediaWiki-announce] MediaWiki security release 1.16.1
+   
+[MediaWiki-announce] MediaWiki security release 1.16.1
+Tim Starling
+tstarling at wikimedia.org
+       
+Tue Jan  4 06:55:48 UTC 2011
+Next message: [MediaWiki-announce] MediaWiki and PHP 5.3.5/5.2.17
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+I would like to announce the release of MediaWiki 1.16.1, which is a
+security and maintenance release.
+Wikipedia user PleaseStand pointed out that MediaWiki has no
+protection against "clickjacking". With user or site JavaScript or CSS
+enabled, clickjacking can lead to cross-site scripting (XSS), and thus
+full compromise of the wiki account of any user who visits a malicious
+external site. Clickjacking affects all previous versions of MediaWiki.
+Our fix involves denying framing on all pages except normal page views
+and a few selected special pages. To be protected, all users need to
+use a browser which supports X-Frame-Options. For information about
+supported browsers, see:
+<https://developer.mozilla.org/en/the_x-frame-options_response_header>
+For more information about this vulnerability and the related patch, see:
+<https://bugzilla.wikimedia.org/show_bug.cgi?id=26561>
+Other changes in MediaWiki 1.16.1:
+* (bug 24981) Allow extensions to access SpecialUpload variables again
+* (bug 24724) list=allusers was out by 1 (shows total users - 1)
+* (bug 24166) Fixed API error when using rvprop=tags
+* For wikis using French as a content language, Special:Téléchargement
+works again as an alias for Special:Upload.
+* (bug 25167) Correctly load JS fixes for IE6 (fixing a regression in
+1.16.0)
+* (bug 25248) Fixed paraminfo errors in certain API modules.
+* The installer now has improved handling for situations where
+safe_mode is active or exec() and similar functions are disabled.
+* (bug 19593) Specifying --server in now works for all maintenance
+scripts.
+* Fixed $wgLicenseTerms register globals.
+Full release notes:
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_16_1/phase3/RELEASE-NOTES
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.1.tar.gz
+Patch to previous version (1.16.0), without interface text:
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.1.patch.gz
+Interface text changes:
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-i18n-1.16.1.patch.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.1.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.1.patch.gz.sig
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-i18n-1.16.1.patch.gz.sig
+Public keys:
+https://secure.wikimedia.org/keys.html
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.10 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org/
+iEYEARECAAYFAk0ixHAACgkQgkA+Wfn4zXmOcgCePqvDrlaw1FZLbtOfx/3tEIID
+GQkAn3eSSdTbBCOqXLvXNiG4Vm0kXl7r
+=haR1
+-----END PGP SIGNATURE-----
+Next message: [MediaWiki-announce] MediaWiki and PHP 5.3.5/5.2.17
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+More information about the MediaWiki-announce
+mailing list

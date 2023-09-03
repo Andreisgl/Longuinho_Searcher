@@ -1,0 +1,382 @@
+[Wikitech-l] 1.22.0rc3 ready for download - Wikitech-l - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+                            2023
+                        
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2022
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2021
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2020
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2019
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2018
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2017
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2016
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2015
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2014
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2013
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2012
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2011
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2010
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2009
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2008
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2007
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2006
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2005
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2004
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2003
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2002
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+            List overview
+ Download
+thread
+[Wikitech-l] 1.22.0rc3 ready for download
+Mark A. Hershberger
+                4 Dec
+                
+                    2013
+                
+            
+                4 Dec
+                
+                '13
+                
+            
+5:26 a.m.
+ 
+We've put together RC3 for 1.22.0. Please test the tarball and report
+any bugs you find on Bugzilla: http://bugzilla.wikimedia.org/
+Assuming there are no show-stopping bugs reported with this RC, we'll
+be making a release this Friday, December 6, with only the version
+number included here changed.
+Here are a list of changes made since the last RC. (Links for download
+follow this list.)
+https://gerrit.wikimedia.org/r/95952
+Add ar_id and el_id sequences for PostgreSQL -- saper
+https://gerrit.wikimedia.org/r/96994
+Fix login with temporary password with $wgSecureLogin = true --
+Alexandre Emsenhuber
+https://gerrit.wikimedia.org/r/96994
+Restore Signupstart and Signupend messages for account creation
+-- Mark A. Hershberger
+Full release notes:
+https://git.wikimedia.org/blob/mediawiki%2Fcore.git/1.22.0rc3/RELEASE-NOTES…
+https://www.mediawiki.org/wiki/Release_notes/1.22
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.22/mediawiki-1.22.0rc3.tar.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.22/mediawiki-core-1.22.0rc3.tar.g…
+http://download.wikimedia.org/mediawiki/1.22/mediawiki-1.22.0rc3.tar.gz.sig
+Public keys:
+https://www.mediawiki.org/keys/keys.html
+ 0
+ 0
+            Reply
+        
+Back to the thread
+            Back to the list
+        
+ 
+            Powered by HyperKitty version 1.3.4.
+        

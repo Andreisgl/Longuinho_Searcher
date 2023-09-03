@@ -1,0 +1,199 @@
+IRC - Meta
+IRC
+From Meta, a Wikimedia project coordination wiki
+Jump to navigation
+Jump to search
+Translate this pageOther languages:Bahasa Indonesia
+Deutsch
+English
+Esperanto
+Hausa
+Lëtzebuergesch
+Nederlands
+Ripoarisch
+Tiếng Việt
+Türkçe
+Yorùbá
+Zazaki
+asturianu
+català
+dansk
+español
+français
+galego
+hrvatski
+italiano
+latviešu
+lietuvių
+magyar
+occitan
+polski
+português
+português do Brasil
+română
+suomi
+svenska
+čeština
+Ελληνικά
+български
+кыргызча
+македонски
+русский
+українська
+العربية
+سرائیکی
+سنڌي
+فارسی
+مصرى
+پښتو
+नेपाली
+मराठी
+मैथिली
+हिन्दी
+বাংলা
+ਪੰਜਾਬੀ
+ગુજરાતી
+தமிழ்
+తెలుగు
+ಕನ್ನಡ
+മലയാളം
+සිංහල
+ไทย
+ဖၠုံလိက်
+ဘာသာ မန်
+မြန်မာဘာသာ
+中文
+日本語
+ꯃꯤꯇꯩ ꯂꯣꯟ
+한국어
+Communication
+Wikimedia Social Suite
+Meetup
+Babel
+Distribution list
+ComCom
+Mailing lists
+Overview
+Administration
+Standardization
+List info template
+Unsubscribing
+Wikimedia IRC
+Channels listing
+#wikidata-admin
+#wikimedia-admin
+#wikipedia-en-admins
+Channel operators
+#wikimedia-admin
+#wikipedia-en-admins
+#wikipedia and #wikipedia-en
+Instructions
+Guidelines
+#wikipedia
+Group Contacts
+Noticeboard & Log
+Cloaks
+Bots
+FAQ
+Stalkwords
+Quotes (en)
+archives
+Quotes (fr)
+Other chat networks
+Telegram
+Discord
+Matrix.org
+Steam
+[Edit]
+Wikimedia IRC has been migrated from freenode to Libera.Chat. For more information, please see IRC/Migrating to Libera Chat. References to freenode on this page and others may be out of date.
+This external system is not subject to the WMF Privacy Policy.
+For real-time chat with other Wikimedians, there are several Internet Relay Chat (IRC) channels, located on the Libera Chat network. #wikipedia-en is the main forum (see here for other channels); these are the responsibility of, and controlled by, the Group Contacts.
+Channels located on the Freenode network will not be maintained by the IRC Group Contacts.
+The recent changes channels are now located on the Wikimedia IRC network (irc.wikimedia.org:6667). A channel exists for each public Wikimedia wiki which has been changed since the last time the server was restarted. In general, the name is just the domain name with the .org left off. For example, the changes on the English Wikipedia are available at #en.wikipedia. However, some wikis which are not Wikipedias have the .wikipedia suffix (e.g. #mediawiki.wikipedia for MediaWiki.org). See IRC/Channels#Raw feeds for details.
+irc.wikimedia.org is deprecated in favor of EventStreams
+If you're new to IRC see the IRC instructions for help.
+This page in Wikipedia: ar af bg ca cs da de en es fa fr hi hr hu it ja ko nl pl pt ro ru simple sv zh
+This page in Wikibooks: en hr it
+This page in Wikinews: en es fa
+This page in Wiktionary: en it
+This page in Wikiversity: cs de en fr it pt
+This page in Wikivoyage: en es sv
+Contents
+1 Nicknames
+2 Hostmask cloaks
+3 See also
+4 External links
+Nicknames
+On IRC/Nicks you'll find a list of people whose nickname on IRC is different from their Wikimedia username.
+Many IRC clients allow automated login upon connection. Usually, this is done by entering the username and password (or just password) as the "server password" in the client's settings. Some clients must be closed and restarted to recognize a server password or change of one; just disconnect/reconnect alone won't do it.
+Hostmask cloaks
+IRC hostmask cloaks allow a user to replace their IRC hostname with a string such as wikimedia/JamesF. User cloaks allow you to show off your pride as a Wikipedia editor, casually hide your IP address from view from logged clients, and prove that you are the user on Wikipedia with that user name. For more information, including instructions on how to obtain a cloak, see IRC cloaks.
+See also
+IRC channel scripts
+IRC channels
+IRC Meeting Recommendations – advice for how to have a happy, productive meeting via IRC
+IRC public channel logs
+IRC office hours
+Simple IRC RC Bot
+Wikimedia Chat
+WM-Bot – utility which allows you to set up RC feed in any Wikimedia channel and other useful stuff
+Wikibot
+A helpful list of IRC tricks
+External links
+Libera chat Logs
+Public IRC logs
+Public channel logs viewer
+(Old) Freenode chat logs
+Public IRC logs
+Public channel logs viewer
+IRC statistics: most active users, random quotes and fun tibits:
+#mediawiki stats by Fennec
+#wikimedia stats by Fennec
+General IRC information:
+Wikipedia articles on IRC: en bg cs da de es eo fi fr ia is it lt ms nl ja ko no pl pt ru simple sr sv zh
+IRC channel search
+A different search
+IRC Help Archive
+Libera.Chat information:
+Libera Chat home page
+knowledge base
+channel guidelines
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=IRC&oldid=25515159"
+Category: IRC
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Content pageDiscussion
+English
+Views
+ReadView sourceView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+Wikimedia CommonsWikidataWikinewsWikipediaWikiversityWikivoyageWiktionary
+In other languages
+AfrikaansAlemannischالعربيةঅসমীয়াAzərbaycancaБеларуская (тарашкевіца)БългарскиবাংলাBosanskiCatalàНохчийнČeštinaDanskDeutschΕλληνικάEnglishEsperantoEspañolEuskaraفارسیSuomiFrançaisGalegoעבריתहिन्दीHrvatskiMagyarItaliano日本語한국어RipoarischമലയാളംमराठीBahasa MelayuNapulitanoPlattdüütschNedersaksiesNederlandsNorsk nynorskNorskOccitanଓଡ଼ିଆPolskiPortuguêsRomânăTarandíneРусскийSrpskohrvatski / српскохрватскиSimple EnglishSlovenčinaSlovenščinaShqipСрпски / srpskiSundaSvenskaไทยTürkçeУкраїнськаاردوVènetoTiếng Việt吴语ייִדיש中文文言粵語
+Edit links
+ This page was last edited on 25 August 2023, at 13:44.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

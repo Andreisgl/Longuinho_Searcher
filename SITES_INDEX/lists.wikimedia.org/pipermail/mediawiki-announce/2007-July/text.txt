@@ -1,0 +1,75 @@
+ [MediaWiki-announce] MediaWiki 1.10.1 released
+   
+[MediaWiki-announce] MediaWiki 1.10.1 released
+Brion Vibber
+brion at wikimedia.org
+       
+Fri Jul 13 20:06:54 UTC 2007
+Next message: [MediaWiki-announce] MediaWiki 1.11.0 release pushed back
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+This is a bugfix update to the Spring 2007 quarterly release snapshot.
+A number of fixes to improve compatibility with PostgreSQL, some
+versions of MySQL, and some PHP configurations are included.
+Note that the quarterly 1.11.0 release with bigger changes should follow
+within the next week or two.
+Changes since 1.10.0:
+* (bug 9417) Uploading new versions of images when using Postgres no
+longer throws warnings.
+* (bug 9908) Using tsearch2 with Postgres 8.1 no longer gives an error.
+* (bug 9973) Changed size was shown in advanced recentchanges
+collapsible items with $wgRCShowChangedSized = false.
+* Fixed installation on MyISAM or old InnoDB with charset=utf8, was
+giving  overlong key errors.
+* Fixed zero-padding issues with MySQL 5 binary schema
+* (bug 9820) session.save_path check no longer halts installation, but
+warns of possible bad values
+* (bug 9978) Fixed session.save_path validation when using extended
+configuration format, e.g. "5;/tmp"
+Full release notes:
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_10_1/phase3/RELEASE-NOTES
+Download:
+http://download.wikimedia.org/mediawiki/1.10/mediawiki-1.10.1.tar.gz
+http://download.wikimedia.org/mediawiki/1.10/mediawiki-1.10.1.patch
+(Patch is against 1.10.0)
+PGP signature:
+http://download.wikimedia.org/mediawiki/1.10/mediawiki-1.10.1.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.10/mediawiki-1.10.1.patch.sig
+MD5 checksum:
+7c8c938cf3ca57cecf6192ca54c33859  mediawiki-1.10.1.tar.gz
+f3ca7e3d0ad46117285a11d959b80722  mediawiki-1.10.1.patch
+SHA-1 checksum:
+16429c3a611dec82c0cfd998180190544982a5ee mediawiki-1.10.1.tar.gz
+f50260426645d62bc1c781ebf2a3267c68cac9a9 mediawiki-1.10.1.patch
+Before asking for help, try the FAQ:
+http://www.mediawiki.org/wiki/Manual:FAQ
+Low-traffic release announcements mailing list:
+(Please subscribe to receive announcements of security updates.)
+http://lists.wikimedia.org/mailman/listinfo/mediawiki-announce
+Wiki admin help mailing list:
+http://lists.wikimedia.org/mailman/listinfo/mediawiki-l
+Bug report system:
+http://bugzilla.wikimedia.org/
+Play "stump the developers" live on IRC:
+#mediawiki on irc.freenode.net
+- -- brion vibber (brion @ wikimedia.org)
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.2.2 (Darwin)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+iD8DBQFGl9tdwRnhpk1wk44RAjbbAJ4/zvfkriUtJYrM9QDHFpjyEYvTLACePpno
+BEt2F1NZhLH7knPYT6cA3mE=
+=avkV
+-----END PGP SIGNATURE-----
+Next message: [MediaWiki-announce] MediaWiki 1.11.0 release pushed back
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+More information about the MediaWiki-announce
+mailing list

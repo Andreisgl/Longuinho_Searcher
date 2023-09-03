@@ -1,0 +1,122 @@
+A more efficient translation interface – Diff
+ 
+Skip to content
+ 
+Diff
+Categories
+Equity & Inclusion
+Education & Open Access
+Technology
+Partnerships & Events
+Policy & Advocacy
+Movement Strategy
+About
+Submit
+Calendar
+Wikimania 2023
+ 
+Choose a language
+English
+Search 
+A more efficient translation interface 
+11 January 2013 by Amir E. Aharoni 
+Translate This Post
+De mica en mica s’omple la pica i de gota en gota s’omple la bota. —a Catalan proverb
+During its most recent development sprint, the Wikimedia Foundation’s Language Engineering team continued to improve the user experience of the Translate extension to make it as smooth and efficient as possible. Highlights include:
+Pressing the “Save” button immediately shows the next string to translate, while the saving is performed in the background.
+When progressing to the next translation, the page smoothly scrolls up.
+Explanations about translatable strings are shown beside the corresponding message in a convenient box, which becomes expandable if the documentation is too long.
+Machine Translation was made available for suggested translations.
+The differences between older versions of translatable strings are also shown in a new expandable box.
+The Language Selector API was updated to allow displaying all the documentation strings.
+The Solr search engine schema was tweaked to make searching translatable strings more efficient and feature-rich by offering faceted search.
+Below is a brief demo of the latest features of the translation editor in action. You can see translating the Etherpad Lite project into Russian there.
+The Language team also continues to work on squashing bugs and adding prioritized features. You can check out the latest bleeding edge version of the translation editor on translatewiki.net, or go back to the stable translation editor. Please report Translate bugs in Bugzilla.
+Amir E. Aharoni, Software Engineer (Internationalization)
+Archive notice: This is an archived post from blog.wikimedia.org, which operated under different editorial and content guidelines than Diff.
+ 
+Can you help us translate this article?
+In order for this article to reach as many people as possible we would like your help. Can you translate this article to get the message out?
+Start translation
+Related
+ 
+2 Comments                    
+ Inline Feedbacks
+View all comments
+ 
+
+    Arnaugir
+
+    10 years ago
+#19190
+I love the Catalan proverb 😉
+0
+
+    Waldir
+
+    10 years ago
+#19191
+Very nice, great job guys! Just a suggestion I think the translation box shouldn’t suddenly jump to the next line and then slide up with it. That movement is very unintuitive and makes the interface seem a little jerky. I think an easy solution would be to just not slide the list automatically. Mouse wheels, scrollbars and direction keys make that job quite effortless for the user. Or maybe keep the box in place and slide only the list.
+0
+ 
+Meta
+Posted in Internationalization and localization, MediaWiki, TechnologyTagged translatewiki.net, Wikimedia Blog (EN Archive) 
+Related
+ 
+Welcome to Diff
+Welcome to Diff, a community blog by – and for – the Wikimedia movement. Join Diff today to share stories from your community and comment on articles. We want to hear your voice!
+Learn more
+Subscribe to Diff via Email
+Enter your email address to subscribe to Diff and receive notifications of new posts by email.
+Email Address
+Subscribe
+ 
+Upcoming Events
+Sep
+15
+15 September @ 10:00 - 17 September @ 17:00  UTC  
+Wikimedia CEE Meeting 2023
+Organizer: 
+Wikimedia Georgia
+Oct
+6
+15:00 - 16:00  UTC  
+Event Series
+Let’s Connect Connectathon
+Organizer: 
+Let's Connect working group
+Oct
+20
+20 October @ 03:30 - 22 October @ 10:30  UTC  
+WikiWomenCamp 2023
+Organizer: 
+Chinmayee Mishra & Manavpreet Kaur
+View Calendar
+Wikimedia News
+Wikimedia Foundation News
+Wikimania 2023 in Singapore centers on diversity, collaboration, and the future of free knowledge10 August 2023 by Wikimedia Foundation
+Wikimedia Technology Blog
+Flame graphs arrive in WikimediaDebug8 June 2023 by Timo Tijhof
+Down the Rabbit Hole
+Wikipedia’s value in the age of generative AI12 July 2023 by Selena Deckelmann
+ 
+Diff This is Diff, a Wikimedia community blog.
+All participants are responsible for building a place that is welcoming and friendly to everyone. Learn more about Diff.
+A Wikimedia Foundation Project
+Links 
+Join
+Subscribe
+Guidelines
+Editorial guidelines
+Privacy Policy
+Terms of Use
+Log in
+Content licensed under Creative Commons Attribution-ShareAlike 4.0 (CC-BY-SA) unless otherwise noted.
+Powered by WordPress.com VIP, Automattic Privacy Notice. 
+wpDiscuzInsert 
+  Report this comment
+This comment is spam 
+This comment is a violation of the Code of Conduct 
+Other 
+Send
+You are going to send email to SendMove CommentMove

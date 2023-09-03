@@ -1,0 +1,9 @@
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.3.tar.gz
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.3.patch.gz
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-i18n-1.16.3.patch.gz
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.3.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.3.patch.gz.sig
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-i18n-1.16.3.patch.gz.sig
+https://secure.wikimedia.org/keys.html
+http://enigmail.mozdev.org/
+https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce

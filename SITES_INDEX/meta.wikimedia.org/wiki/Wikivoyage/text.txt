@@ -1,0 +1,915 @@
+Wikivoyage - Meta
+Wikivoyage
+From Meta, a Wikimedia project coordination wiki
+Jump to navigation
+Jump to search
+Translate this page; This page contains changes which are not marked for translation.Other languages:Avañe'ẽ
+Bahasa Indonesia
+Bân-lâm-gú
+Deutsch
+English
+Esperanto
+Lëtzebuergesch
+Nederlands
+Tiếng Việt
+Türkçe
+Zazaki
+asturianu
+bosanski
+català
+dansk
+español
+français
+føroyskt
+galego
+italiano
+lietuvių
+magyar
+occitan
+polski
+português do Brasil
+română
+slovenčina
+suomi
+svenska
+Ænglisc
+čeština
+беларуская
+български
+кыргызча
+русский
+українська
+עברית
+العربية
+تۆرکجه
+سنڌي
+فارسی
+لۊری شومالی
+नेपाली
+मराठी
+हिन्दी
+বাংলা
+தமிழ்
+తెలుగు
+ပအိုဝ်ႏဘာႏသာႏ
+မြန်မာဘာသာ
+ქართული
+ᱥᱟᱱᱛᱟᱲᱤ
+うちなーぐち
+中文
+日本語
+ꯃꯤꯇꯩ ꯂꯣꯟ
+한국어
+Wikimedia projects
+MediaWiki
+Meta-Wiki
+Wikibooks
+Wikidata
+Wikifunctions
+Wikimedia Commons
+Wikinews
+Wikiquote
+Wikipedia
+Wikisource
+Wikispecies
+Wiktionary
+Wikiversity
+Wikivoyage
+Complete list of Wikimedia projects — List of Wikimedia projects by size
+Wikivoyage is the multilingual travel guide that anyone can edit.
+Wikivoyage brought together the former Wikitravel community and content (in several languages), the German language Wikivoyage community, who had forked from Wikitravel in 2006, and the Italian Wikivoyage community, who had forked from Wikitravel in 2007, with the larger free content worldwide Wikimedia movement community. After a period of beta starting 10 November 2012, we formally launched on Wikimedia Foundation servers on 15 January 2013. We continue our always amazing travel guide writing experience with everyone! Thanks for supporting Wikivoyage!
+Wikivoyage/Why ? (Go ahead, click on that link and write there why we are here and not at Wikitravel. This story needs telling. And this is a wiki.)
+Contents
+1 Forums
+2 Mailing list
+3 Currently going on
+4 Languages
+4.1 Creation
+4.2 Statistics
+5 Listings Wikidata integration
+6 Wikivoyage Association
+7 How do I learn more?
+7.1 Category
+7.2 Subpages
+8 Proposal
+9 Challenges
+10 Gallery
+Forums[edit]
+The Lounge is for general discussion of the Wikivoyage project and matters affecting more than one language version.
+The Summit page had monthly reports from the various language versions, but has been in abeyance since 2018.
+Mailing list[edit]
+Join the Wikivoyage-l mailing list discussing technical and community matters by email.
+Currently going on[edit]
+Languages[edit]
+There are 25 language versions of Wikivoyage.
+Creation[edit]
+Languages created before 2013 forked from Wikitravel. Languages created during or after 2013 were approved from the Wikimedia Incubator.
+№
+Date
+Language
+Code
+1
+2006-12-10
+German
+de
+2
+2007-12-10
+Italian
+it
+3
+2012-09-23
+English
+en
+4
+2012-09-29
+Dutch
+nl
+5
+2012-10-03
+French
+fr
+6
+2012-10-06
+Swedish
+sv
+7
+2012-10-18
+Russian
+ru
+8
+2013-01-07
+Spanish
+es
+9
+Portuguese
+pt
+10
+2013-02-06
+Polish
+pl
+11
+Romanian
+ro
+12
+2013-03-21
+Hebrew
+he
+13
+Ukrainian
+uk
+14
+2013-05-17
+Greek
+el
+15
+2013-08-11
+Vietnamese
+vi
+16
+2014-01-15
+Chinese
+zh
+17
+2014-10-02
+Persian
+fa
+18
+2016-11-30
+Finnish
+fi
+19
+2017-09-25
+Hindi
+hi
+20
+2018-06-07
+Bangla
+bn
+21
+Pashto
+ps
+22
+2020-08-27
+Japanese
+ja
+23
+2020-12-15
+Esperanto
+eo
+24
+2021-01-19
+Turkish
+tr
+25
+2022-03-24
+Shan
+shn
+New language versions can be started on Wikimedia Incubator. If they grow large enough and develop a strong community there, they will be moved to their own subdomain. See the list of Wikivoyage projects on Incubator.
+Note that Alemannic Wikivoyage is created using a custom namespace within Alemannic Wikipedia, see w:als:Buech:Raisefierer.
+Statistics[edit]
+These statistics are updated four times a day. See commons:Data:Wikipedia statistics/data.tab for the date/time of last update.
+№
+Language
+Wiki
+Articles
+All pages
+Edits
+Admins
+Users
+Active users
+Files
+1
+English
+en
+32,035
+168,519
+4,714,331
+37
+2,293,113
+475
+1,801
+2
+German
+de
+20,102
+103,393
+1,551,434
+14
+50,144
+124
+721
+3
+Polish
+pl
+13,030
+15,512
+138,498
+3
+15,066
+20
+0
+4
+Italian
+it
+11,475
+40,992
+799,961
+6
+34,503
+64
+0
+5
+Persian
+fa
+8,732
+29,494
+120,241
+3
+14,699
+20
+24
+6
+French
+fr
+8,571
+25,319
+533,269
+5
+49,926
+42
+89
+7
+Russian
+ru
+6,616
+32,586
+607,669
+5
+36,197
+67
+14,940
+8
+Chinese
+zh
+5,492
+23,986
+190,460
+6
+16,579
+30
+203
+9
+Dutch
+nl
+4,254
+12,510
+145,601
+4
+16,013
+19
+0
+10
+Portuguese
+pt
+3,996
+10,510
+137,685
+1
+16,842
+15
+0
+11
+Spanish
+es
+3,181
+11,671
+203,364
+2
+27,576
+62
+0
+12
+Hebrew
+he
+2,442
+16,101
+255,620
+2
+10,226
+18
+123
+13
+Vietnamese
+vi
+1,928
+61,148
+109,504
+1
+10,656
+10
+0
+14
+Finnish
+fi
+1,792
+3,925
+56,691
+1
+2,916
+4
+0
+15
+Swedish
+sv
+1,536
+10,611
+91,596
+3
+11,604
+9
+0
+16
+Greek
+el
+1,441
+2,769
+26,627
+1
+4,874
+5
+1
+17
+Esperanto
+eo
+1,121
+3,205
+51,457
+2
+881
+17
+0
+18
+Japanese
+ja
+1,061
+4,516
+40,246
+2
+3,330
+39
+0
+19
+Ukrainian
+uk
+1,016
+3,068
+34,387
+1
+6,620
+9
+5
+20
+Bangla
+bn
+978
+3,048
+28,887
+2
+3,245
+13
+0
+21
+Romanian
+ro
+914
+2,694
+21,507
+2
+3,185
+2
+0
+22
+Turkish
+tr
+444
+2,487
+12,740
+3
+1,527
+13
+0
+23
+Pashto
+ps
+319
+907
+6,800
+1
+766
+0
+0
+24
+Shan
+shn
+167
+1,884
+7,015
+1
+399
+4
+0
+25
+Hindi
+hi
+128
+644
+7,768
+1
+1,936
+4
+0
+Totals
+Articles
+All pages
+Edits
+Admins
+Users
+Active users
+Files
+All active Wikivoyages
+132,771
+591,499
+9,893,358
+109
+2,632,823
+1,085
+17,907
+Listings Wikidata integration[edit]
+English Wikivoyage: 26,128 listings with a Wikidata identifier property
+French Wikivoyage: 15,334 listings with a Wikidata identifier property, 18571 listings with a Wikipedia identifier property
+Russian Wikivoyage: 4,396 listings with a Wikidata identifier property
+German Wikivoyage: 3,506 listings with a Wikidata identifier property
+Spanish Wikivoyage: 205 listings with a Wikidata identifier property
+Chinese Wikivoyage: 135 listings with a Wikidata identifier property
+Ukrainian: Wikipedia identifier property present in listing template, not counted
+Greek, Hebrew, Polish, Italian, Portuguese, Swedish, Vietnamese: No Wikidata property
+... as of 2018, counted with the Wikivoyage Listings tool.
+Wikidata could be used to:
+Cross-validate listing details,
+Factorize listing details,
+Fill missing listing details,
+Easily add new listings to articles that have too few (what transvoyage does right now),
+Generate static information pages for languages that have no Wikivoyage yet, such as Hindi or Korean,
+And many other things, new mashups appear everyday with Wikidata.
+While every Wikivoyage has their own preferences on how far to go with Wikidata, having Wikidata identifier properties in listings helps in all cases.
+Wikivoyage Association[edit]
+The Wikivoyage Association used to host the Wikivoyage project. It applied to become a Wikimedia thematic organization and was approved on 3 May 2017.
+How do I learn more?[edit]
+Start with these to find out more about our project:
+Goals and non-goals: "Wikivoyage is a project to create a free, complete, up-to-date and reliable world-wide travel guide."
+Lounge – Wikivoyage Lounge on Meta
+Manual of style: Our Manual of style contains a collection of guidelines for giving our articles a good look and feel.
+Welcome, Wikipedians: This article was written specially for people who are familiar with the free encyclopedia Wikipedia.
+Wishlist: A roadmap for Wikivoyage's future.
+Writing style.
+Category[edit]
+  Wikivoyage  Wikivoyage/Translations  Administrators on Wikivoyage  Wikivoyage Association  Wikivoyage Summit Wikivoyage Administrators of Wikimedia projects/Wikivoyage Wikivoyage/Archive/2012-11-16 Wikivoyage/Form of address in articles Wikivoyage/Geographical hierarchy Wikivoyage/Goals and non-goals Wikivoyage/Hierarchical structures project List of articles every Wikivoyage should have Wikivoyage/List of Wikivoyagers by location Wikivoyage/Logo Wikivoyage/Logo 2013 Wikivoyage/Logo 2013/Submissions Wikivoyage/Logo announcement Logo selection procedure Wikivoyage/Logo/Round 1 Wikivoyage/Logo/Round 2 Wikivoyage/Lounge Wikivoyage/Manual of style Wikivoyage/Mapmaking project Research:Measuring the effect of cross-linking missing articles in English Wikivoyage Wikivoyage/Migration Wikivoyage/Migration/FAQ Wikivoyage/Naming Process Wikivoyage/Naming Process/ProposedNames Wikivoyage/Over ons Talk:Www.wikivoyage.org template Requests for new languages/Wikivoyage Kurdish Wikivoyage/Sex tourism policy Wikivoyage/Sobre nosotros Wikivoyage/Welcome, Wikipedians Wikivoyage/Why Wikidata/Notes/Future Wikimedia Small Projects in Spanish/NewsVoyage Wikivoyage Association Wikivoyage/Wikivoyager Wikivoyage/Wishlist Wikivoyage/Writing style
+Subpages[edit]
+Because Meta is a vast and wild wiki, we maintain our Meta Wikivoyage specific pages as subpages (e.g., Wikivoyage/Somepage). This makes it obvious they are part of our project and makes it easy to find and update them. All our pages are in English with the exception that translations, when desired, may be created as language code subpages of the respective English page (e.g., in German: Wikivoyage/Somepage/de).
+Expand the collapsable box below to see all Wikivoyage subpages. Alternatively, see the equivalent special page.
+Subpages of Wikivoyage on Meta
+Wikivoyage/Archive
+Wikivoyage/Archive/2012-11-16
+Wikivoyage/Archive/2012-11-16/fr
+Wikivoyage/Archive/2012-11-16/ru
+Wikivoyage/Beta notice
+Wikivoyage/For naming Russian Wikivoyage "Викивояж"
+Wikivoyage/For naming Russian Wikivoyage "Викигид"
+Wikivoyage/Form of address in articles
+Wikivoyage/Gallery
+Wikivoyage/Gallery/en
+Wikivoyage/Gallery/zh
+Wikivoyage/Geographical hierarchy
+Wikivoyage/Goals and non-goals
+Wikivoyage/Hierarchical structures project
+Wikivoyage/Launch
+Wikivoyage/Launch press release
+Wikivoyage/Launch press release/sv
+Wikivoyage/List of Wikivoyagers by location
+Wikivoyage/Logo
+Wikivoyage/Logo/2013
+Wikivoyage/Logo/2013/R1/Gallery
+Wikivoyage/Logo/2013/R1/Results
+Wikivoyage/Logo/2013/R1/Results/Candidates
+Wikivoyage/Logo/2013/R1/Results/JSON
+Wikivoyage/Logo/2013/R1/Results/Runoff
+Wikivoyage/Logo/2013/R1/Results/Voter
+Wikivoyage/Logo/2013/R1/c/Community boat logo.svg
+Wikivoyage/Logo/2013/R1/c/HugoWikiVoyage1Mountain.png
+Wikivoyage/Logo/2013/R1/c/HugoWikiVoyage2Mountain.png
+Wikivoyage/Logo/2013/R1/c/HugoWikiVoyageTop1.png
+Wikivoyage/Logo/2013/R1/c/Logo Wikivoyage 13.png
+Wikivoyage/Logo/2013/R1/c/Logo entry shyamal2.svg
+Wikivoyage/Logo/2013/R1/c/Logo entry shyamal3.svg
+Wikivoyage/Logo/2013/R1/c/Logo entry shyamal4.svg
+Wikivoyage/Logo/2013/R1/c/Logo wikiVoyage dhow - 2013 contest (4th version).png
+Wikivoyage/Logo/2013/R1/c/Logo wikiVoyage dhow - 2013 contest (5th version).png
+Wikivoyage/Logo/2013/R1/c/Plane2.png
+Wikivoyage/Logo/2013/R1/c/Proa logo v1b.svg
+Wikivoyage/Logo/2013/R1/c/Proposed logo wikivoyages 1.svg
+Wikivoyage/Logo/2013/R1/c/Proposed logo wikivoyages 2.svg
+Wikivoyage/Logo/2013/R1/c/Sextant Logo2 dark.jpg
+Wikivoyage/Logo/2013/R1/c/Submission A.png
+Wikivoyage/Logo/2013/R1/c/Suitcase icon blue green red jpg to svg v1.svg
+Wikivoyage/Logo/2013/R1/c/Suitcase with means of travel.svg
+Wikivoyage/Logo/2013/R1/c/Suitcase with means of travel .2.svg
+Wikivoyage/Logo/2013/R1/c/Suitcase with means of travel .3.svg
+Wikivoyage/Logo/2013/R1/c/Suitcase with means of travel .4.svg
+Wikivoyage/Logo/2013/R1/c/Suitcase with means of travel .i.svg
+Wikivoyage/Logo/2013/R1/c/Suitcase with means of travel .i2.svg
+Wikivoyage/Logo/2013/R1/c/Travel boat blue logo.svg
+Wikivoyage/Logo/2013/R1/c/Travel boat rgb logo.svg
+Wikivoyage/Logo/2013/R1/c/WV-Logo Proposal AleXXw.svg
+Wikivoyage/Logo/2013/R1/c/WV-Logo Proposal Peterfitzgerald with text.svg
+Wikivoyage/Logo/2013/R1/c/WV Get Escape.svg
+Wikivoyage/Logo/2013/R1/c/WV Get Escape 4.svg
+Wikivoyage/Logo/2013/R1/c/WV Get Escape 6.svg
+Wikivoyage/Logo/2013/R1/c/WV arrow.jpg
+Wikivoyage/Logo/2013/R1/c/WV logo 1.svg
+Wikivoyage/Logo/2013/R1/c/WV logo 2.svg
+Wikivoyage/Logo/2013/R1/c/WV logo v25 v2.png
+Wikivoyage/Logo/2013/R1/c/WV logo v28.png
+Wikivoyage/Logo/2013/R1/c/WikiVoyage-logo.svg
+Wikivoyage/Logo/2013/R1/c/Wikivoyage-1en-Mmxx.png
+Wikivoyage/Logo/2013/R1/c/Wikivoyage-3en-Mmxx.png
+Wikivoyage/Logo/2013/R1/c/Wikivoyage-giweddah-V-for-voyage2.svg
+Wikivoyage/Logo/2013/R1/c/Wikivoyage-giweddah-takeoff4.svg
+Wikivoyage/Logo/2013/R1/c/Wikivoyage-giweddah-wroute6.png
+Wikivoyage/Logo/2013/R1/c/Wikivoyage-logo-proposal-feet.png
+Wikivoyage/Logo/2013/R1/c/Wikivoyage-logo.svg
+Wikivoyage/Logo/2013/R1/c/Wikivoyage0.1 Proposed By Dyolf77-edit.svg
+Wikivoyage/Logo/2013/R1/c/Wikivoyage0.1 Proposed By Dyolf77.svg
+Wikivoyage/Logo/2013/R1/c/Wikivoyage0.3 Proposed By Dyolf77-edit.svg
+Wikivoyage/Logo/2013/R1/c/Wikivoyage0.4 Proposed by Dyolf77.svg
+Wikivoyage/Logo/2013/R1/c/WikivoyageLogo-Alexander95015-Version2.png
+Wikivoyage/Logo/2013/R1/c/WikivoyageLogo-Alexander95015-Version3.1-NoLines.png
+Wikivoyage/Logo/2013/R1/c/WikivoyageNewLogo1.png
+Wikivoyage/Logo/2013/R1/c/Wikivoyage - Explore The World - Logo-2.PNG
+Wikivoyage/Logo/2013/R1/c/Wikivoyage - Flying Witch - Logo-1.PNG
+Wikivoyage/Logo/2013/R1/c/Wikivoyage - Par Avion.PNG
+Wikivoyage/Logo/2013/R1/c/Wikivoyage - Travel Bag Logo-1.PNG
+Wikivoyage/Logo/2013/R1/c/Wikivoyage 2013 logo proposal - Compass 1.svg
+Wikivoyage/Logo/2013/R1/c/Wikivoyage 2013 logo proposal - Compass 2.svg
+Wikivoyage/Logo/2013/R1/c/Wikivoyage Logo Idea.png
+Wikivoyage/Logo/2013/R1/c/Wikivoyage Logo TMg Sailboat 2 2.svg
+Wikivoyage/Logo/2013/R1/c/Wikivoyage Ross Hill 1.png
+Wikivoyage/Logo/2013/R1/c/Wikivoyage Ross Hill 2.png
+Wikivoyage/Logo/2013/R1/c/Wikivoyage balloon cropped.png
+Wikivoyage/Logo/2013/R1/c/Wikivoyage fantasy balloon logo3.svg
+Wikivoyage/Logo/2013/R1/c/Wikivoyage logo - arrow prototype 2 no text.png
+Wikivoyage/Logo/2013/R1/c/Wikivoyage logo - arrow prototype no text.png
+Wikivoyage/Logo/2013/R1/c/Wikivoyage logo - arrow prototype variant 1.png
+Wikivoyage/Logo/2013/R1/c/Wikivoyage logo - highway prototype no text.png
+Wikivoyage/Logo/2013/R1/c/Wikivoyage logo Design 01.jpg
+Wikivoyage/Logo/2013/R1/c/Wikivoyage logo Design 02.jpg
+Wikivoyage/Logo/2013/R1/c/Wikivoyage logo Design 03.jpg
+Wikivoyage/Logo/2013/R1/c/Wikivoyage logo idea - Geographical zones with arrow 2.svg
+Wikivoyage/Logo/2013/R1/c/Wikivoyage logo idea - Geographical zones with two arrows and axial tilt 2.svg
+Wikivoyage/Logo/2013/R1/c/Wikivoyage logo kite.png
+Wikivoyage/Logo/2013/R1/c/Wikivoyage logo shoe.png
+Wikivoyage/Logo/2013/R1/c/Wikivoyage magic carpet.svg
+Wikivoyage/Logo/2013/R1/c/Wikivoyage snake.jpg
+Wikivoyage/Logo/2013/R1/c/Wikivoyage snake on beach.jpg
+Wikivoyage/Logo/2013/R1/c/Wv logo2.png
+Wikivoyage/Logo/2013/R1/c/Wv logo kite3.jpg
+Wikivoyage/Logo/2013/R1/c/Wv logo proposal flying plane.png
+Wikivoyage/Logo/2013/R1/c/Wv logo second version R.png
+Wikivoyage/Logo/2013/R1/c/wv logo2.png
+Wikivoyage/Logo/2013/R1/g/Community boat logo.svg
+Wikivoyage/Logo/2013/R1/g/HugoWikiVoyage1Mountain.png
+Wikivoyage/Logo/2013/R1/g/HugoWikiVoyage2Mountain.png
+Wikivoyage/Logo/2013/R1/g/HugoWikiVoyageTop1.png
+Wikivoyage/Logo/2013/R1/g/Logo entry shyamal2.svg
+Wikivoyage/Logo/2013/R1/g/Logo entry shyamal3.svg
+Wikivoyage/Logo/2013/R1/g/Logo entry shyamal4.svg
+Wikivoyage/Logo/2013/R1/g/Logo wikiVoyage dhow - 2013 contest (4th version).png
+Wikivoyage/Logo/2013/R1/g/Logo wikiVoyage dhow - 2013 contest (5th version).png
+Wikivoyage/Logo/2013/R1/g/Proa logo v1b.svg
+Wikivoyage/Logo/2013/R1/g/Proposed logo wikivoyages 1.svg
+Wikivoyage/Logo/2013/R1/g/Proposed logo wikivoyages 2.svg
+Wikivoyage/Logo/2013/R1/g/Suitcase with means of travel.svg
+Wikivoyage/Logo/2013/R1/g/Suitcase with means of travel .2.svg
+Wikivoyage/Logo/2013/R1/g/Suitcase with means of travel .3.svg
+Wikivoyage/Logo/2013/R1/g/Suitcase with means of travel .4.svg
+Wikivoyage/Logo/2013/R1/g/Suitcase with means of travel .i.svg
+Wikivoyage/Logo/2013/R1/g/Suitcase with means of travel .i2.svg
+Wikivoyage/Logo/2013/R1/g/Travel boat blue logo.svg
+Wikivoyage/Logo/2013/R1/g/Travel boat rgb logo.svg
+Wikivoyage/Logo/2013/R1/g/WV-Logo Proposal AleXXw.svg
+Wikivoyage/Logo/2013/R1/g/WV-Logo Proposal Peterfitzgerald with text.svg
+Wikivoyage/Logo/2013/R1/g/WV Get Escape.svg
+Wikivoyage/Logo/2013/R1/g/WV Get Escape 4.svg
+Wikivoyage/Logo/2013/R1/g/WV Get Escape 6.svg
+Wikivoyage/Logo/2013/R1/g/WV logo 1.svg
+Wikivoyage/Logo/2013/R1/g/WV logo 2.svg
+Wikivoyage/Logo/2013/R1/g/Wikivoyage-1en-Mmxx.png
+Wikivoyage/Logo/2013/R1/g/Wikivoyage-3en-Mmxx.png
+Wikivoyage/Logo/2013/R1/g/Wikivoyage-giweddah-V-for-voyage2.svg
+Wikivoyage/Logo/2013/R1/g/Wikivoyage-giweddah-takeoff4.svg
+Wikivoyage/Logo/2013/R1/g/Wikivoyage-giweddah-wroute6.png
+Wikivoyage/Logo/2013/R1/g/Wikivoyage-logo-proposal-feet.png
+Wikivoyage/Logo/2013/R1/g/Wikivoyage0.3 Proposed By Dyolf77-edit.svg
+Wikivoyage/Logo/2013/R1/g/Wikivoyage0.4 Proposed by Dyolf77.svg
+Wikivoyage/Logo/2013/R1/g/WikivoyageLogo-Alexander95015-Version3.1-NoLines.png
+Wikivoyage/Logo/2013/R1/g/Wikivoyage 2013 logo proposal - Compass 1.svg
+Wikivoyage/Logo/2013/R1/g/Wikivoyage 2013 logo proposal - Compass 2.svg
+Wikivoyage/Logo/2013/R1/g/Wikivoyage Logo Idea.png
+Wikivoyage/Logo/2013/R1/g/Wikivoyage Logo TMg Sailboat 2 2.svg
+Wikivoyage/Logo/2013/R1/g/Wikivoyage Ross Hill 1.png
+Wikivoyage/Logo/2013/R1/g/Wikivoyage Ross Hill 2.png
+Wikivoyage/Logo/2013/R1/g/Wikivoyage balloon cropped.png
+Wikivoyage/Logo/2013/R1/g/Wikivoyage fantasy balloon logo3.svg
+Wikivoyage/Logo/2013/R1/g/Wikivoyage logo - arrow prototype 2 no text.png
+Wikivoyage/Logo/2013/R1/g/Wikivoyage logo - arrow prototype no text.png
+Wikivoyage/Logo/2013/R1/g/Wikivoyage logo - arrow prototype variant 1.png
+Wikivoyage/Logo/2013/R1/g/Wikivoyage logo - highway prototype no text.png
+Wikivoyage/Logo/2013/R1/g/Wikivoyage logo Design 01.jpg
+Wikivoyage/Logo/2013/R1/g/Wikivoyage logo Design 02.jpg
+Wikivoyage/Logo/2013/R1/g/Wikivoyage logo Design 03.jpg
+Wikivoyage/Logo/2013/R1/g/Wikivoyage logo idea - Geographical zones with arrow 2.svg
+Wikivoyage/Logo/2013/R1/g/Wikivoyage logo idea - Geographical zones with two arrows and axial tilt 2.svg
+Wikivoyage/Logo/2013/R1/g/Wikivoyage logo kite.png
+Wikivoyage/Logo/2013/R1/g/Wikivoyage snake.jpg
+Wikivoyage/Logo/2013/R1/g/Wv logo2.png
+Wikivoyage/Logo/2013/R1/g/Wv logo kite3.jpg
+Wikivoyage/Logo/2013/R1/g/Wv logo proposal flying plane.png
+Wikivoyage/Logo/2013/R1/g/Wv logo second version R.png
+Wikivoyage/Logo/2013/R1/g/wv logo2.png
+Wikivoyage/Logo/2013/R1/i/Community boat logo.svg
+Wikivoyage/Logo/2013/R1/i/HugoWikiVoyage1Mountain.png
+Wikivoyage/Logo/2013/R1/i/HugoWikiVoyage2Mountain.png
+Wikivoyage/Logo/2013/R1/i/HugoWikiVoyageTop1.png
+Wikivoyage/Logo/2013/R1/i/Logo Wikivoyage 13.png
+Wikivoyage/Logo/2013/R1/i/Logo entry shyamal2.svg
+Wikivoyage/Logo/2013/R1/i/Logo entry shyamal3.svg
+Wikivoyage/Logo/2013/R1/i/Logo entry shyamal4.svg
+Wikivoyage/Logo/2013/R1/i/Logo wikiVoyage dhow - 2013 contest (4th version).png
+Wikivoyage/Logo/2013/R1/i/Logo wikiVoyage dhow - 2013 contest (5th version).png
+Wikivoyage/Logo/2013/R1/i/Plane2.png
+Wikivoyage/Logo/2013/R1/i/Proa logo v1b.svg
+Wikivoyage/Logo/2013/R1/i/Proposed logo wikivoyages 1.svg
+Wikivoyage/Logo/2013/R1/i/Proposed logo wikivoyages 2.svg
+Wikivoyage/Logo/2013/R1/i/Sextant Logo2 dark.jpg
+Wikivoyage/Logo/2013/R1/i/Submission A.png
+Wikivoyage/Logo/2013/R1/i/Suitcase icon blue green red jpg to svg v1.svg
+Wikivoyage/Logo/2013/R1/i/Suitcase with means of travel.svg
+Wikivoyage/Logo/2013/R1/i/Suitcase with means of travel .2.svg
+Wikivoyage/Logo/2013/R1/i/Suitcase with means of travel .3.svg
+Wikivoyage/Logo/2013/R1/i/Suitcase with means of travel .4.svg
+Wikivoyage/Logo/2013/R1/i/Suitcase with means of travel .i.svg
+Wikivoyage/Logo/2013/R1/i/Suitcase with means of travel .i2.svg
+Wikivoyage/Logo/2013/R1/i/Travel boat blue logo.svg
+Wikivoyage/Logo/2013/R1/i/Travel boat rgb logo.svg
+Wikivoyage/Logo/2013/R1/i/WV-Logo Proposal AleXXw.svg
+Wikivoyage/Logo/2013/R1/i/WV-Logo Proposal Peterfitzgerald with text.svg
+Wikivoyage/Logo/2013/R1/i/WV Get Escape.svg
+Wikivoyage/Logo/2013/R1/i/WV Get Escape 4.svg
+Wikivoyage/Logo/2013/R1/i/WV Get Escape 6.svg
+Wikivoyage/Logo/2013/R1/i/WV arrow.jpg
+Wikivoyage/Logo/2013/R1/i/WV logo 1.svg
+Wikivoyage/Logo/2013/R1/i/WV logo 2.svg
+Wikivoyage/Logo/2013/R1/i/WV logo v25 v2.png
+Wikivoyage/Logo/2013/R1/i/WV logo v28.png
+Wikivoyage/Logo/2013/R1/i/WikiVoyage-logo.svg
+Wikivoyage/Logo/2013/R1/i/Wikivoyage-1en-Mmxx.png
+Wikivoyage/Logo/2013/R1/i/Wikivoyage-3en-Mmxx.png
+Wikivoyage/Logo/2013/R1/i/Wikivoyage-giweddah-V-for-voyage2.svg
+Wikivoyage/Logo/2013/R1/i/Wikivoyage-giweddah-takeoff4.svg
+Wikivoyage/Logo/2013/R1/i/Wikivoyage-giweddah-wroute6.png
+Wikivoyage/Logo/2013/R1/i/Wikivoyage-logo-proposal-feet.png
+Wikivoyage/Logo/2013/R1/i/Wikivoyage-logo.svg
+Wikivoyage/Logo/2013/R1/i/Wikivoyage0.1 Proposed By Dyolf77-edit.svg
+Wikivoyage/Logo/2013/R1/i/Wikivoyage0.1 Proposed By Dyolf77.svg
+Wikivoyage/Logo/2013/R1/i/Wikivoyage0.3 Proposed By Dyolf77-edit.svg
+Wikivoyage/Logo/2013/R1/i/Wikivoyage0.4 Proposed by Dyolf77.svg
+Wikivoyage/Logo/2013/R1/i/WikivoyageLogo-Alexander95015-Version2.png
+Wikivoyage/Logo/2013/R1/i/WikivoyageLogo-Alexander95015-Version3.1-NoLines.png
+Wikivoyage/Logo/2013/R1/i/WikivoyageNewLogo1.png
+Wikivoyage/Logo/2013/R1/i/Wikivoyage - Explore The World - Logo-2.PNG
+Wikivoyage/Logo/2013/R1/i/Wikivoyage - Flying Witch - Logo-1.PNG
+Wikivoyage/Logo/2013/R1/i/Wikivoyage - Par Avion.PNG
+Wikivoyage/Logo/2013/R1/i/Wikivoyage - Travel Bag Logo-1.PNG
+Wikivoyage/Logo/2013/R1/i/Wikivoyage 2013 logo proposal - Compass 1.svg
+Wikivoyage/Logo/2013/R1/i/Wikivoyage 2013 logo proposal - Compass 2.svg
+Wikivoyage/Logo/2013/R1/i/Wikivoyage Logo Idea.png
+Wikivoyage/Logo/2013/R1/i/Wikivoyage Logo TMg Sailboat 2 2.svg
+Wikivoyage/Logo/2013/R1/i/Wikivoyage Ross Hill 1.png
+Wikivoyage/Logo/2013/R1/i/Wikivoyage Ross Hill 2.png
+Wikivoyage/Logo/2013/R1/i/Wikivoyage balloon cropped.png
+Wikivoyage/Logo/2013/R1/i/Wikivoyage fantasy balloon logo3.svg
+Wikivoyage/Logo/2013/R1/i/Wikivoyage logo - arrow prototype 2 no text.png
+Wikivoyage/Logo/2013/R1/i/Wikivoyage logo - arrow prototype no text.png
+Wikivoyage/Logo/2013/R1/i/Wikivoyage logo - arrow prototype variant 1.png
+Wikivoyage/Logo/2013/R1/i/Wikivoyage logo - highway prototype no text.png
+Wikivoyage/Logo/2013/R1/i/Wikivoyage logo Design 01.jpg
+Wikivoyage/Logo/2013/R1/i/Wikivoyage logo Design 02.jpg
+Wikivoyage/Logo/2013/R1/i/Wikivoyage logo Design 03.jpg
+Wikivoyage/Logo/2013/R1/i/Wikivoyage logo idea - Geographical zones with arrow 2.svg
+Wikivoyage/Logo/2013/R1/i/Wikivoyage logo idea - Geographical zones with two arrows and axial tilt 2.svg
+Wikivoyage/Logo/2013/R1/i/Wikivoyage logo kite.png
+Wikivoyage/Logo/2013/R1/i/Wikivoyage logo shoe.png
+Wikivoyage/Logo/2013/R1/i/Wikivoyage magic carpet.svg
+Wikivoyage/Logo/2013/R1/i/Wikivoyage snake.jpg
+Wikivoyage/Logo/2013/R1/i/Wikivoyage snake on beach.jpg
+Wikivoyage/Logo/2013/R1/i/Wv logo2.png
+Wikivoyage/Logo/2013/R1/i/Wv logo kite3.jpg
+Wikivoyage/Logo/2013/R1/i/Wv logo proposal flying plane.png
+Wikivoyage/Logo/2013/R1/i/Wv logo second version R.png
+Wikivoyage/Logo/2013/R1/i/wv logo2.png
+Wikivoyage/Logo/2013/R1/v/Community boat logo.svg
+Wikivoyage/Logo/2013/R1/v/HugoWikiVoyage1Mountain.png
+Wikivoyage/Logo/2013/R1/v/HugoWikiVoyage2Mountain.png
+Wikivoyage/Logo/2013/R1/v/HugoWikiVoyageTop1.png
+Wikivoyage/Logo/2013/R1/v/Logo Wikivoyage 13.png
+Wikivoyage/Logo/2013/R1/v/Logo entry shyamal2.svg
+Wikivoyage/Logo/2013/R1/v/Logo entry shyamal3.svg
+Wikivoyage/Logo/2013/R1/v/Logo entry shyamal4.svg
+Wikivoyage/Logo/2013/R1/v/Logo wikiVoyage dhow - 2013 contest (4th version).png
+Wikivoyage/Logo/2013/R1/v/Logo wikiVoyage dhow - 2013 contest (5th version).png
+Wikivoyage/Logo/2013/R1/v/Plane2.png
+Wikivoyage/Logo/2013/R1/v/Proa logo v1b.svg
+Wikivoyage/Logo/2013/R1/v/Proposed logo wikivoyages 1.svg
+Wikivoyage/Logo/2013/R1/v/Proposed logo wikivoyages 2.svg
+Wikivoyage/Logo/2013/R1/v/Sextant Logo2 dark.jpg
+Wikivoyage/Logo/2013/R1/v/Submission A.png
+Wikivoyage/Logo/2013/R1/v/Suitcase icon blue green red jpg to svg v1.svg
+Wikivoyage/Logo/2013/R1/v/Suitcase with means of travel.svg
+Wikivoyage/Logo/2013/R1/v/Suitcase with means of travel .2.svg
+Wikivoyage/Logo/2013/R1/v/Suitcase with means of travel .3.svg
+Wikivoyage/Logo/2013/R1/v/Suitcase with means of travel .4.svg
+Wikivoyage/Logo/2013/R1/v/Suitcase with means of travel .i.svg
+Wikivoyage/Logo/2013/R1/v/Suitcase with means of travel .i2.svg
+Wikivoyage/Logo/2013/R1/v/Travel boat blue logo.svg
+Wikivoyage/Logo/2013/R1/v/Travel boat rgb logo.svg
+Wikivoyage/Logo/2013/R1/v/WV-Logo Proposal AleXXw.svg
+Wikivoyage/Logo/2013/R1/v/WV-Logo Proposal Peterfitzgerald with text.svg
+Wikivoyage/Logo/2013/R1/v/WV Get Escape.svg
+Wikivoyage/Logo/2013/R1/v/WV Get Escape 4.svg
+Wikivoyage/Logo/2013/R1/v/WV Get Escape 6.svg
+Wikivoyage/Logo/2013/R1/v/WV arrow.jpg
+Wikivoyage/Logo/2013/R1/v/WV logo 1.svg
+Wikivoyage/Logo/2013/R1/v/WV logo 2.svg
+Wikivoyage/Logo/2013/R1/v/WV logo v25 v2.png
+Wikivoyage/Logo/2013/R1/v/WV logo v28.png
+Wikivoyage/Logo/2013/R1/v/WikiVoyage-logo.svg
+Wikivoyage/Logo/2013/R1/v/Wikivoyage-1en-Mmxx.png
+Wikivoyage/Logo/2013/R1/v/Wikivoyage-3en-Mmxx.png
+Wikivoyage/Logo/2013/R1/v/Wikivoyage-giweddah-V-for-voyage2.svg
+Wikivoyage/Logo/2013/R1/v/Wikivoyage-giweddah-takeoff4.svg
+Wikivoyage/Logo/2013/R1/v/Wikivoyage-giweddah-wroute6.png
+Wikivoyage/Logo/2013/R1/v/Wikivoyage-logo-proposal-feet.png
+Wikivoyage/Logo/2013/R1/v/Wikivoyage-logo.svg
+Wikivoyage/Logo/2013/R1/v/Wikivoyage-logo.svg/info
+Wikivoyage/Logo/2013/R1/v/Wikivoyage0.1 Proposed By Dyolf77-edit.svg
+Wikivoyage/Logo/2013/R1/v/Wikivoyage0.1 Proposed By Dyolf77.svg
+Wikivoyage/Logo/2013/R1/v/Wikivoyage0.3 Proposed By Dyolf77-edit.svg
+Wikivoyage/Logo/2013/R1/v/Wikivoyage0.4 Proposed by Dyolf77.svg
+Wikivoyage/Logo/2013/R1/v/WikivoyageLogo-Alexander95015-Version2.png
+Wikivoyage/Logo/2013/R1/v/WikivoyageLogo-Alexander95015-Version3.1-NoLines.png
+Wikivoyage/Logo/2013/R1/v/WikivoyageNewLogo1.png
+Wikivoyage/Logo/2013/R1/v/Wikivoyage - Explore The World - Logo-2.PNG
+Wikivoyage/Logo/2013/R1/v/Wikivoyage - Flying Witch - Logo-1.PNG
+Wikivoyage/Logo/2013/R1/v/Wikivoyage - Par Avion.PNG
+Wikivoyage/Logo/2013/R1/v/Wikivoyage - Travel Bag Logo-1.PNG
+Wikivoyage/Logo/2013/R1/v/Wikivoyage 2013 logo proposal - Compass 1.svg
+Wikivoyage/Logo/2013/R1/v/Wikivoyage 2013 logo proposal - Compass 2.svg
+Wikivoyage/Logo/2013/R1/v/Wikivoyage Logo Idea.png
+Wikivoyage/Logo/2013/R1/v/Wikivoyage Logo TMg Sailboat 2 2.svg
+Wikivoyage/Logo/2013/R1/v/Wikivoyage Ross Hill 1.png
+Wikivoyage/Logo/2013/R1/v/Wikivoyage Ross Hill 2.png
+Wikivoyage/Logo/2013/R1/v/Wikivoyage balloon cropped.png
+Wikivoyage/Logo/2013/R1/v/Wikivoyage fantasy balloon logo3.svg
+Wikivoyage/Logo/2013/R1/v/Wikivoyage logo - arrow prototype 2 no text.png
+Wikivoyage/Logo/2013/R1/v/Wikivoyage logo - arrow prototype no text.png
+Wikivoyage/Logo/2013/R1/v/Wikivoyage logo - arrow prototype variant 1.png
+Wikivoyage/Logo/2013/R1/v/Wikivoyage logo - highway prototype no text.png
+Wikivoyage/Logo/2013/R1/v/Wikivoyage logo Design 01.jpg
+Wikivoyage/Logo/2013/R1/v/Wikivoyage logo Design 02.jpg
+Wikivoyage/Logo/2013/R1/v/Wikivoyage logo Design 03.jpg
+Wikivoyage/Logo/2013/R1/v/Wikivoyage logo idea - Geographical zones with arrow 2.svg
+Wikivoyage/Logo/2013/R1/v/Wikivoyage logo idea - Geographical zones with two arrows and axial tilt 2.svg
+Wikivoyage/Logo/2013/R1/v/Wikivoyage logo kite.png
+Wikivoyage/Logo/2013/R1/v/Wikivoyage logo shoe.png
+Wikivoyage/Logo/2013/R1/v/Wikivoyage magic carpet.svg
+Wikivoyage/Logo/2013/R1/v/Wikivoyage snake.jpg
+Wikivoyage/Logo/2013/R1/v/Wikivoyage snake on beach.jpg
+Wikivoyage/Logo/2013/R1/v/Wv logo2.png
+Wikivoyage/Logo/2013/R1/v/Wv logo kite3.jpg
+Wikivoyage/Logo/2013/R1/v/Wv logo proposal flying plane.png
+Wikivoyage/Logo/2013/R1/v/Wv logo second version R.png
+Wikivoyage/Logo/2013/R1/v/wv logo2.png
+Wikivoyage/Logo/2013/R2/Gallery
+Wikivoyage/Logo/2013/R2/Results
+Wikivoyage/Logo/2013/R2/Results/Candidates
+Wikivoyage/Logo/2013/R2/Results/JSON
+Wikivoyage/Logo/2013/R2/Results/Runoff
+Wikivoyage/Logo/2013/R2/Results/Voter
+Wikivoyage/Logo/2013/R2/c/WV-Logo Proposal AleXXw (Elements) Danapit blue.svg
+Wikivoyage/Logo/2013/R2/c/WV-Logo Proposal AleXXw 3.0 var4 (Icon).svg
+Wikivoyage/Logo/2013/R2/c/WV-Logo Proposal AleXXw 3.0 var4 (Icon) tgb.svg
+Wikivoyage/Logo/2013/R2/c/Wikivoyage balloon cropped.png
+Wikivoyage/Logo/2013/R2/c/Wikivoyage fantasy balloon logo3 lenka wo text favicon n.svg
+Wikivoyage/Logo/2013/R2/c/Wikivoyage fantasy balloon logo 5 lenka stabilo favicon.svg
+Wikivoyage/Logo/2013/R2/c/Wv logo proposal flying plane.png
+Wikivoyage/Logo/2013/R2/c/Wv logo proposal flying plane contorted.png
+Wikivoyage/Logo/2013/R2/c/Wv logo proposal flying plane wo text favicon.png
+Proposal[edit]
+The travel guide project proposal, formerly on this page, is archived in Wikivoyage/Archive/2012-11-16 and its talk page.
+Challenges[edit]
+Copy editing is relatively poor across the project, due to a high number of contributors writing in a language other than their native one.
+As of 2020, Wikitravel remains a strong competitor to Wikivoyage (at least in English). Although its article quality is nearly uniformly inferior as a result of having almost no community of experienced editors, Wikitravel articles tend to outrank Wikivoyage articles in search results, reducing readership and garnering contributions from casual editors unaware of Wikivoyage.
+Gallery[edit]
+Gallery Voyager[Enter]
+Matterhorn. sv en fr ru uk
+Diving the Cape Peninsula and False Bay. en
+Jura (Kanton). de pl nl
+Berlin. es de en fr nl pt ru uk zh
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Wikivoyage&oldid=25297386"
+Categories: WikivoyageWikimedia projectsLists of Wikimedia projects
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Content pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+Wikimedia CommonsWikipedia
+In other languages
+AfrikaansAlemannischAragonésالعربيةAsturianuAzərbaycancaБългарскиবাংলাCatalà閩東語 / Mìng-dĕ̤ng-ngṳ̄ČeštinaDanskDeutschΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFrançaisGalego客家語/Hak-kâ-ngîעבריתहिन्दीHrvatskiMagyarՀայերենBahasa IndonesiaÍslenskaItaliano日本語ქართულიភាសាខ្មែរಕನ್ನಡ한국어KurdîLietuviųLatviešuМакедонскиമലയാളംBahasa MelayuनेपालीNederlandsNorskਪੰਜਾਬੀPolskiپښتوPortuguêsRomânăРусскийSrpskohrvatski / српскохрватскиၽႃႇသႃႇတႆး Simple EnglishSlovenčinaSlovenščinaSoomaaligaСрпски / srpskiSvenskaதமிழ்ТоҷикӣไทยTagalogTürkçeТатарча / tatarçaУкраїнськаاردوOʻzbekcha / ўзбекчаTiếng ViệtWinaray吴语Vahcuengh中文Bân-lâm-gú粵語
+Edit links
+ This page was last edited on 13 July 2023, at 09:44.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

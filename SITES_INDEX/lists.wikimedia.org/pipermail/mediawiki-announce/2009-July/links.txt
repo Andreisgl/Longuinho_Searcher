@@ -1,0 +1,15 @@
+http://www.mediawiki.org/wiki/Manual:FAQ#Upgrading
+http://download.wikimedia.org/mediawiki/1.14/mediawiki-1.14.1.tar.gz
+http://download.wikimedia.org/mediawiki/1.14/mediawiki-1.14.1.patch.gz
+http://download.wikimedia.org/mediawiki/1.14/mediawiki-i18n-1.14.1.patch.gz
+http://download.wikimedia.org/mediawiki/1.14/mediawiki-1.14.1.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.14/mediawiki-1.14.1.patch.gz.sig
+http://download.wikimedia.org/mediawiki/1.14/mediawiki-i18n-1.14.1.patch.gz.sig
+https://secure.wikimedia.org/keys.html
+http://download.wikimedia.org/mediawiki/1.15/mediawiki-1.15.1.tar.gz
+http://download.wikimedia.org/mediawiki/1.15/mediawiki-1.15.1.patch.gz
+http://download.wikimedia.org/mediawiki/1.15/mediawiki-1.15.1.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.15/mediawiki-1.15.1.patch.gz.sig
+https://secure.wikimedia.org/keys.html
+http://enigmail.mozdev.org
+https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce

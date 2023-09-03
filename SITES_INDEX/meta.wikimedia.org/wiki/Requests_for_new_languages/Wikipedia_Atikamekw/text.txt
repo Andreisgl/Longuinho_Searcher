@@ -1,0 +1,214 @@
+Requests for new languages/Wikipedia Atikamekw - Meta
+Requests for new languages/Wikipedia Atikamekw
+From Meta, a Wikimedia project coordination wiki
+< Requests for new languages
+Jump to navigation
+Jump to search
+←main page
+Request for a new language edition: Wikipedia Atikamekw
+​
+submitted
+verification
+final decision
+This proposal has been approved.The Board of Trustees and language committee have deemed that there is sufficient grounds and community to create the new language project.A committee member provided the following comment: phabricator:T167714
+The community needs to develop an active test project; it must remain active until approval (automated statistics, recent changes). It is generally considered active if the analysis lists at least three active, not-grayed-out editors listed in the sections for the previous few months.
+The community needs to complete required MediaWiki interface translations in that language (about localization, translatewiki, check completion).
+The community needs to discuss and complete the settings table below:
+What
+Value
+Example / Explanation
+Proposal
+Language code
+atj (SIL, Glottolog)
+A valid ISO 639-1 or 639-3 language code, like "fr", "de", "nso", ...
+Language name
+Atikamekw
+Language name in English
+Language name
+Atikamekw Nehiromowin
+Language name in your language. This will appear in the language list on Special:Preferences, in the interwiki sidebar on other wikis, ...
+Language Wikidata item
+Q56590 - item has currently the following values:
+English label: Atikamekw
+native label (P1705): Atikamekw Nehiromowin, Atikamekw
+instance of (P31)/subclass of (P279): language, modern language / Cree-Montagnais-Naskapi
+Wikimedia language code (P424): atj
+writing system (P282): Latin script
+number of speakers, writers, or signers (P1098): 6,160
+Item about the language at Wikidata. It would normally include the Wikimedia language code, name of the language, etc. Please complete at Wikidata if needed.
+Directionality
+no indication
+Is the language written from left to right (LTR) or from right to left (RTL)?
+Links
+Links to previous requests, or references to external websites or documents.
+Site URL
+atj.wikipedia.org
+langcode.wikiproject.org
+Settings
+Project name
+Wikipetcia
+"Wikipedia" in your language
+Project namespace
+Wikipetcia
+usually the same as the project name
+Project talk namespace
+Ke ici aimihitonaniwok Wikipetcia
+"Wikipedia talk" (the discussion namespace of the project namespace)
+Enable uploads
+yes
+Default is "no". Preferably, files should be uploaded to Commons.If you want, you can enable local file uploading, either by any user ("yes") or by administrators only ("admin").Notes: (1) This setting can be changed afterwards. The setting can only be "yes" or "admin" at approval if the test creates an Exemption Doctrine Policy (EDP) first. (2) Files on Commons can be used on all Wikis. (3) Uploading fair-use images is not allowed on Commons (more info). (4) Localisation to your language may be insufficient on Commons.
+Optional settings
+Project logo
+File:Wikipedia-logo-v2-atj.svg
+This needs to be an SVG image (instructions for logo creation).
+Default project timezone
+America/Montreal
+"Continent/City", e.g. "Europe/Brussels" or "America/Mexico City" (see list of valid timezones)
+Additional namespaces
+For example, a Wikisource would need "Page", "Page talk", "Index", "Index talk", "Author", "Author talk".
+Additional settings
+Anything else that should be set
+submit Phabricator task. It will include everything automatically, except additional namespaces/settings. After creating the task, add a link to the comment.
+The following discussion is closed. Please do not modify it. Subsequent comments should be made in a new section.
+Contents
+1 Proposal
+2 Discussion
+3 Press review
+4 Archives of previous request
+4.1 Proposal
+4.2 Discussion
+4.3 References
+5 Result
+Proposal[edit]
+Wikipedia Atikamekw localized logo
+Initially, no project existed in Atikamekw and at the previous request back in 2013 I had suggested to include it on the Wikipedia in Cree (cr). Which was done and some contributions were done (around 160 articles created there). However, the contributors to the project have mentioned that their language is distinct from Cree and should have its own Wikipedia. This is supported by many sources; Atikamekw is a distinct language within the linguistic continuum of Cree-Innu-Naskapi, and not a dialect of Cree. As such, we have transferred the Atikamekw content from the Cree Wikipedia to the test-project for a Wikipedia in Atikamekw in the Wikimedia Incubator in 2015. Now the test-project is active, it has around 190 articles and several contributors. The translation of Mediawiki is started on Translatewiki and is still on-going; not all "Most important messages" are translated at this time, but this is on-going, around 25% is already done. At this time, the activity and the translation requirements are not met yet for the creation of the project, but I feel it is time to confirm that the language is eligible to have its own subdomain. It has its own ISO 639 1-3 code (atj).
+For background information, Atikamekw is a language spoken in Quebec, Canada by the First Nation of the same name. It is one of the Aboriginal languages with the highest level of fluency in Canada. In fact, it remains the main language used in the three Atikamekw communities for day-to-day business as well as the language used for education in two elementary schools. According to Ethnologue, there is 5,920 speakers (in 2011) with L1 literacy between 10 to 30% and L2 literacy between 50 and 75%. The language has three sub-groups which correspond to the three Atikamekw communities: Manawan, Wemotaci and Opitciwan. The Atikamekw Wikipedia community has already made decisions on how to incorporate all three dialects within the Atikamekw Wikipedia. The main second language of Atikamekw is French. The Atikamekw orthography is standardized by the Institut linguistique Atikamekw (ILA) and a dictionary is being produced by this institute. Being the main language used for day-to-day live as well as a language still in used in formal education, there is a sufficient number of living speakers to form a viable community and audience. The Wikipedia will be used in class. The community is growing on the test-Wikipedia in the Wikimedia Incubator and it is supported by experienced administrators from the French Wikipedia that support and implement the decisions of the local community in the meantime that the community gets its own administrators. Outreach projects are on-going and leaded by the community itself, mainly with the Manawan community, but will be expanded to all communities in the near future.
+Also see the previous request below written by Nastasia Herold (User:Kiackw), a linguist, for more detailed information.
+See also Grants:PEG/Atikamekw knowledge, culture and language in Wikimedia projects which contains a lot of background information and relevant bibliography and links. See Wikimedia Foundation blog post about Atikamekw project.
+Thanks, Amqui (talk) 17:02, 19 December 2016 (UTC)Reply[reply]
+Discussion[edit]
+Wikipedia workshop at Otapi school in Manawan (Oct 2016)
+Wikipetcia workshop (May 2017)
+Wikipetcia committee discussing Wikimania panel, article labels, summer internship, Lingua Libre project, etc.
+Photo contest. Director Sakay Ottawa congratulating the participants. See pictures: Commons:Category:Nitaskinan en photos
+Winners of the photo contest. Sakay Ottawa director of Otapi School, Jonah Newashish, Wikwasa Newashish Petiquay, Benoit Rochon president of Wikimedia Canada.
+Visit of Matakan camp meeting Grand Chief Constant Awashish
+C'est un moyen pour nous de transmettre les connaissances ancestrales avec les supports informatiques et cela permet de préserver les pratiques traditionnelles. C'est un outil éducatif pour tous.
+(English) It is a way to pass on ancestral knowledge using computers and it allows to practice the traditional practices. Unsigned message left by Nehirowisiw, translated in English by Amqui.
+I strongly support this request. Having a fully functioning interface in the atikamekw langage is crucial to maintain and enhance the contributor's activity currently fostered by the project  Grants:PEG/Atikamekw knowledge, culture and language in Wikimedia projects. The key messages are currently being translated by members of the atikamekw community, who are very excited about the educational and language preservation benefits of this project. Seeris (talk) 21:04, 22 December 2016 (UTC)Reply[reply]
+Thanks to Nastasia Herold, a german linguist, that started this project back in 2013 with Amqui and computer professor in Manawan, Mister Luc Patin (topo from Radio-Canada) (aka Bilbo40). Now in 2016-2017, with Amqui, Seeris and Karine, we train people on Wikipedia Atikamekw, with help of professors like Luc Patin and Antony Dubé, students, the language guardian Mister Jean-Paul Echaquan and people interrested by having a Wikipedia in Atikamekw language. Together, we are writing articles in Atikamekw language and translating the "important messages" of MediaWiki. We are also adding the Atikamekw toponymy  in Wikipedia articles in French and in English (see examples like Rivière Saint-Maurice or Saint-Maurice River). In the Wiktionary, we are adding translations (for instance months like January/janvier or days of the week Monday/lundi). The Atikamekw language is strongly enters in Wikimedia projects. We are all very excited about this! Regards, Benoit Rochon (talk) 02:44, 29 December 2016 (UTC)Reply[reply]
+C'est avec plaisir que je viens soutenir ce projet, démarré en 2013 mais qui a pris son véritable envol en 2016, professeur en informatique à l'école secondaire Otapi, j'ai développé avec l'aide de quelques personnes ce projet avec des élèves du secondaire afin de conserver et dynamiser la langue atikamekw dans l'univers de Wikipedia. J'espère que ce projet sortira au plus vite de l'incubateur afin que les élèves du primaire et du secondaire puissent bénéficier de cet outil. Bilbo40.
+(English) It is with pleasure that I come to support this project, started in 2013 but that really took off in 2016, computer teacher at the Otapi Highschool, I developed with the help a few people this project with highschool students in order to preserve and dynamize the Atikamekw language in the Wikipedia's universe. I hope that this project will be created outside the Incubator the soonest so the elementary and highschool students can use this tool. -- Translation of Bilbo40's message by Amqui.
+I strongly support this request. According to the Canadian Census of 2011, 96% of the Atikamekw First Nation still has Atikamekw as their first language, which means that it is actively spoken in all generations. For Canadian First Nations, this is the highest percentage. Though, even though it is very vital as oral language and taught in two of the three Atikamekw primary schools, this Native language is almost not represented in the Internet, so the nation is forced to read all information from the Internet in French. The Wikipetia Atikamekw Nehiromowin is the first huge step to a written representation of this highly spoken language and contributes therewith actively and strongly to the preservation of this language in a technologically growing world where written language gets continually a higher value. --Kiackw (talk) 23:26, 22 May 2017 (UTC)Reply[reply]
+Je soutiens cette démarche. Comme l'ont présenté d'autres supporters, la langue est bien vivante, et Wikipedia est une des manières de s'assurer de la transmission des éléments culturels et du regard que posent les atikamekw-nehirowisiw. Longue vie au projet Wikipedia Atikamekw.
+(English) I support this request. As other supporters showed, language is alive and well, and Wikipedia is one way to ensure the transmission of the cultural elements and of the nehirowisiw point of view on the world. --Webfil (talk) 16:27, 23 May 2017 (UTC)Reply[reply]
+En tant que contributrice et utilisatrice de wikipetia atikamekw nehiromowin, je suis pleinement en accord avec ce projet. Nous sommes dans l'ère de la technologie et les jeunes des écoles primaire et secondaire bénéficieront de ce bel outil.
+(Atikamekw) Nin, ohwe ka witcihiweian, ni micta kicteriten anowe otamirowin, atikamekw nehiromowin itekera, awacak otci, erikam kitci miro kanaweritakik ot arimowewiniwaw ka kaskinohamakaniwitcik kiskinohamatawkamikokw.
+(English) As a contributor and user of wikipetia atikamekw nehiromowin, I am fully in agreement with this project. We are in the age of technology and young people in primary and secondary schools will benefit from this beautiful tool. Missatikamekw.
+Je suis un enseignant à l'école secondaire Otapi et je contribue à Wikipetia Atikamekw Nehiromowin comme adminstrateur, utilisateur et contributeur.  Je participe activement au projet parce que je crois c'est un bon outil pour la sauvegarde et à la conservation de notre langue maternelle et de notre culture.
+(Atikamekw) Ni kiskinomakeriniwin ota Otapi kiskinomatokamikok Manawanik ka actek kaie ni witciwan ota e ocitakiniwok acitc e mitakiniwok. Nin Nehirowisiw
+(English) I am a teacher at Otapi High School and I contribute to Wikipetia Atikamekw Nehiromowin as Administrator, User and Contributor. I actively participate in the project because I believe it is a good tool for safeguarding and preserving our mother language and our culture. Nin Nehirowisiw
+Bonjour, en tant que gardien de la langue Atikamekw, je propose de supporter wikipedia Atikamekw nehiromowin car c'est un outil essentiel pour la génération future de ma nation.
+(Atikamekw) Kwei nin ka nakatweritak Atikamekw arimwewiniw,ni pasoweriten kitci mitik anihe wikipedia Atikamekw nehiromowin aniki otci ka ocki pimatisitcik. Nin Jean-Paul Echaquan
+(English) Hello, as a guardian of Atikamekw language, I propose to support Wikipedia Atikamekw Nehiromowin as it is an essential tool for the future generation of my nation. Nin Jean-Paul Echaquan
+J'appuie ce projet en tant qu'étudiante Atikamekw de l'école secondaire Otapi pour la conservation de notre langue et du développer des outils pédagogiques pour ma nation. Apetcikwee
+(Atikamekw) Nin Atikamekw nehirowisiw ote Otapi kiskinomahamatokamkok. Ni pasoweriten kitci mitik nehe otamiriwin kaie kitci nakatweritcikatek mocak atikamekw arimwewin acitc kitci natowi ocitakaniok kiskinohomato masinhikan aniki ke iti ocki pimatisicik Atikamekw awacak. Apetcikwee
+(English) I support this project as an Atikamekw student at Otapi Secondary School for the preservation of our language and to develop educational tools for my nation. Apetcikwee
+Je soutiens vivement ce projet car c'est un projet éducatif qui aidera les jeunes dans le futur. J'ai vraiment adoré participer à ce projet car ça m'a permis d'apprendre de nouveaux mots en atikamekw. Les jeunes pourront enfin faire des recherches en atikamekw car la plupart d'eux ne comprennent seulement que cette langue. Marieflamands
+(Atikamekw) Ni pasoweriten anihe Wikipetia Atikamekw Nehiromowin kitci witciwemakak otci awacak kecko. Niki kice sakitan e witcihean anita. Kice witcihemakan anihe kitci ki nistcikatek nehiromowin. Awacak kata matci aci nantopitamok ka wi kiskeritamatcik. Kice mitcetiwok awacak tepirak ka nehiromotcik. Marieflamands
+(English) I strongly support this project because it is an educational project that will help young people in the future. I really enjoyed participating in this project because it allowed me to learn new words in atikamekw. The young people will finally be able to do research in Atikamekw because most of them only understand this language. Marieflamands
+Bonjour, en tant que jeune étudiante Atikamekw de l'école secondaire Otapi, je soutiens ce projet car il m'a permis d'en savoir plus sur le vocabulaire et de réaliser que ma langue est très importante. Donc, j'espère que ce projet continuera et s'élargirera. MakueVllt
+(Atikamekw) Kwei, nin ota ka kaskinomasowan école secondaire Otapi, ni pasoweriten kitci kiapatc mitik Wikipedia Atikamekw nehiromowin ekota meka ka otci kiskeritaman tipirowe ntarimowewin e micta kicteritakok. Ekoni wetci pasoweritaman mocak kitci motemakak. MakueVllt
+(English) Hello, as a young Atikamekw student from Otapi Secondary School, I support this project because it allowed me to learn more about vocabulary and realize that my language is very important. So I hope this project will continue and expand. MakueVllt
+Bonjour, je suis étudiant à l'école secondaire Otapi et je suis fier d'avoir participé à ce projet. Je pense que rajouter cette langue sur wikipedia permettra de conserver cette belle langue à long terme. Je soutiens vivement ce projet. Coucouleroucoucou
+(English) Hello, I am a student at Otapi High School and I am proud to have participated in this project. I think that add this language on wikipedia Possibility to keep this beautiful language in the long term. I strongly support this project. Coucouleroucoucou
+Bonjour, étant membre de la communauté atikamekw de Manawan, je supporte très fortement ce projet Wikipedia Atikamekw nehiromowin. En y contribuant, j'ai enrichi mon vocabulaire et je trouve que c'est vraiment important pour moi et tous les autres jeunes Atikamekw. Je souhaite que ce projet continue le plus longtemps possible. ScreamingMoose
+(Atikamekw) Kwei, e nehirowisiwan ote Manawan otenak, Ni micta pasowerten kitci kakike mipirik anihe Wikipedia Atikamekw nehiromowin. Eki otamirtaan kaie eki micta witcihikowan nitarmowenik. Ni tapwerten kaie ni kicterten kitci kewirowaw apatcitatcik aniki ka ockimatisitcik kirka kinec kitci kanawertakik atikamekw armoweniw. Ni micta pokosowerten anihe kinec ninan ka kiskinohamatisotcik kitci otamirtatcik neheriw. ScreamingMoose
+(English) Hello, being a member of the atikamekw community of Manawan, I strongly support this project Wikipedia Atikamekw nehiromowin. By contributing to it, I have enriched my vocabulary and I find it really important for me and all the other Atikamekw youth. I hope that this project will continue as long as possible. ScreamingMoose
+Bonjour, moi en tant qu'étudiant de l'école secondaire Otapi, j'encourage solidement ce projet Wikipédia atikamekw nehiromowin pour la sauvegarde de nôtre langue atikamekw et pour laisser les traces de nos empruntes sur ce site. Jean-Flantier
+(Atikamekw) Kwei, nin kiskinohomakan ota école secondaire Otapi ni pasoweriten kitci mitik anihe wikimedia atikamekw nehirowin otcitakotc aka kitci onitik atikamekw arimowewin kaie kitci kinoctek anihe ke micta kictapitak aniki otci ke nikani pimatesitcik. Jean-Flantier
+(English) Hello, I as a student of Otapi Secondary School, I strongly encourage this project Wikipedia atikamekw nehiromowin for the safeguard of our language atikamekw and to leave the traces of our borrowings on this site. Jean-Flantier
+Moi, en tant qu'étudiant de l'école secondaire Otapi et d'avoir eu l'occasion de collaborer avec ce projet. J'appuie grandement le wikipedia Atikamekw nehiromoin afin de permettre à la génération future de ma nation de conserver leur langue qui est l'Atikamekw. Andr06
+(Atikamekw) Nin ota ka kaskinomasoan kaskinotamikomikok Otapi kaie kaki witcihehian e ocitakaniok masinihikinicic. Nitoweriten kitci kecawatcikatek anohe wikipedia Atikamekw nehiromoin kitci wapitakik aniki ke pe ocki matisitcik kaie kitci kanoweritcikatek atikamekw arimowewin.   Andr06
+(English) I, as a student at Otapi Secondary School and having had the opportunity to collaborate with this project. I strongly support the wikipedia Atikamekw nehiromoin to allow the future generation of my nation to retain their language which is the Atikamekw. Andr06
+Bonjour, en tant qu'étudiant de l'école secondaire Otapi , je soutiens beaucoup ce projet Wikipedia Atikamekw nehiromowin afin de perpétuer la langue de ma nation qui est l'Atikamekw pour la génération futur et permettre de créer un outil pédagogique essentiel pour la sauvegarde d'une langue immensément riche. Wasikon
+(Atikamekw) Kwei, nin kiskinomakan école secondaire Otapi, ni micta witctan nehe kitahakan Wikipedia Atikamekw nehiromowin  kinec kitci motemakak atikamekw arimwewin otci nitirisowinak kirika aniki otci ka ocki pimatcisiwitcik kewiriwaw kitci miskakik misinahikaniw ke otamirowaketcik kirika ke micta witchikotcik. Wasikon
+(English) Hello, as a student of Otapi secondary school, I strongly support this project Wikipedia Atikamekw nehiromowin in order to perpetuate the language of my nation which is the Atikamekw for the future generation and allow to create an essential pedagogical tool for the backup Of an immensely rich language. Wasikon
+Bonjour, je soutiens ce projet car il aidera les jeunes dans le futur. J'ai adoré participer a ce projet et J'espère que le projet continuera. Izaac Flamand
+(Atikamekw) Kwei, ni pasowerten kitci kakike mipirik anihe Wikipedia Atikamekw nehiromowin kata miro apitcitawok ka ockimatisitik. Ni micta sakitan e otamirkotatowan Wikipedia Atikamekw nehiromowin. Ni micta pokosowerten kinec kitci tacikatek. Izaac Flamand
+(English) Hello, I support this project because it will help young people in the future. I loved participating in this project and I hope the project will continue. Izaac Flamand
+Kwei kaskina, mictahi ni mireriten kiapatc e nokotaiikw kinehirowimowinino ota Wikipedia Atikamekw kimocominook ka ki micta miro kanaweritamakoiikw ekoci tca manatcitata.
+(French) Bonjour tout le monde, en tant que technolinguiste de la Nation Atikamekw, je suis très contente de voir que nous conservons encore notre langue, notre héritage, que nos ancêtres ont si bien conserver pour nous. A nous de le préserver entre autre dans Wikipedia Atikamekw et d'y faire attention.  Ninmeka
+(English) Hello everyone, as the technolinguist of the Atikamekw Nation, I am very glad to see that we still keep our language, our heritage, that our ancestors have so well preserve for us. It is up to us to preserve it among others in Wikipedia Atikamekw and to pay attention. Ninmeka
+Kwei, kwei, kaskina, tekaci ni tapweriten ohwe otamirowin. Tapwe kata witcihiwemakan aka kitci onitik kinehirowimowinino kirika kitotirosowinino. Matci kirika awocamec kata wi nanto kiskeritamok ka ocki pimatisitcik otarimwewiniwaw kirika otirosowiniwaw.
+(French) Kwei, kwei, en tant que coordonnateur des Services culturels au Conseil de la Nation Atikamekw, j’appuie entièrement notre projet de Wikipetia Atikamekw Nehiromowin. C’est un outil très intéressant et surtout attrayant pour nos jeunes afin de les sensibiliser à leur langue et à leur culture.  Kinew1975
+(English) Kwei, kwei, as Coordinator of Cultural Services on the Council of the Atikamekw Nation, I fully support our Wikipetia Atikamekw Nehiromowin project. It is a very interesting and especially attractive tool for our young people to make them aware of their language and culture. Kinew1975
+I think this project is finally ready to move out of the Incubator. The localization requirements are met (all most important messages translated, 13% and more of the core), the activity is limit but is good enough, there is a lot of different contributors instead of 3 very active, this should be considered. That being said, in the last months the activity level meets the requirements. The perennity of the project is assured by the support of the officials from the community including the school as well as the support of experienced Wikipedians and the local Wikimedia chapter. This will not fade after it is out of the Incubator, it will only increase. This is shown by the activity level right now despite the school project being over for this year, the activity continues. Thank you, Amqui (talk) 13:06, 30 May 2017 (UTC)Reply[reply]
+Press review[edit]
+English
+ Angelica Montgomery, Web-savvy Atikamekw communities bring mother tongue to life online, CBC/Radio-Canada, May 29 2017.
+ CBC radio, New Wikipedia in Atikameks language : German linguist Nastasia Herold started the project in 2013, May 23, 2017.
+ Global Voices, A Wikipedia Made for—and by—the Atikamekw First Nation in Canada, May 23, 2017.
+ Wikimedia Foundation, What do you call a homepage? Incorporating indigenous knowledge into Wikipedia, May 15, 2017.
+Français
+ Radio-Canada, La nation atikamekw de la Mauricie développe sa propre encyclopédie Wikipédia, May 17, 2017.
+ Radio-Canada, Une encyclopédie en ligne rédigée en atikamekw, May 17, 2017.
+ Radio-Canada, Ces Québécois qui enrichissent l'encyclopédie en ligne Wikipédia, May 1st, 2017.
+ Alain Gravel, Radio-Canada, Le défi de faire exister l'atikamekw à l'ère du web, May 30, 2016.
+ Wikimedia Canada,  Atikamekw and Wikipedia: a partnership for the transmission of the language, April 1st, 2017.
+Archives of previous request[edit]
+Proposal[edit]
+Dir Sir or Madam,
+in Quebec, Canada, live around 7,000 Atikamekw[1]. It's a Native American Nation with three reservations: Manawan, Opitciwan and Wemotaci. There are other Atikamekw living in cities such as Trois-Rivières, La Tuque and Joliette. The native language of almost all of the Atikamekw First Nation's members is Atikamekw; French is their second language[2].
+In 1986, the "Atikamekw Language Department" (a department that is part of the Atikamekw Council) finally published an orthography norm[3] that is taught in schools on the reservations.
+In order to conserve and develop their native language, the Atikamekw wish to create a Wikipedia in Atikamekw. The project will be started at the Otapi High School in Manawan and parallel to that be promoted in that community, as same as in Opitciwan, Wemotaci, La Tuque (domicile of the Atikamekw Council) and other towns and cities with Atikamekw inhabitants. The students in Manawan will be supported by the project managers Mélanie Petiquay (supervisor for projects at Otapi High School) and Nastasia Herold (German linguist), Jean-Paul Echaquan (Sustainer of the Atikamekw language in the Language Department of Manawan) and Luc Patin (teacher of computer science on Otapi High School). Besides, the project will be supported by the councils of all three communities as well as by the Atikamekw Language Department in La Tuque. For the promotion of the project, we will be supported by the teachers and councils in all three communities, CTAM radio in Manawan, the Quebec Native American's radio SOCAM and the First Nation's Friendship Centres in Joliette, Montreal, Trois-Rivières and La Tuque. In promoting this project, we hope to find more and more authors for the Wikipetia project (the letter "d" doesn't exist in the Atikamekw language). A wikipedia in Atikamekw would be an important step for the promotion of this vital minority language, in order to use the given orthography, to extend the usage, conserve the vitality and maintain the native language. And most of all, it would raise the status of this language in being used for written, scientific texts.
+We (Luc Patin and Nastasia Herold) will instruct our students on the correct way of creating articles on Wikipedia (formatting and provability). In writing and publishing the first articles in the test wiki, the students' articles will give examples to other Nation members who wish to write articles on Wikipetia.
+Hoping to receive a favorable answer,
+Nastasia Herold in colloboration with all the members of the "Wikipetia project"
+Discussion[edit]
+The Atikamekw language is already included in the Cree Wikipedia, see cr.wikipedia.org. We recently updated the main page to reflect the different languages that are part of the Cree language family (cr is in fact an ISO code for a macro-language which includes atj). There is currently no article in Atikamekw on this Wikipedia, most being in Eastern Cree right now. Please come discuss with me, or leave a message right on the Cree Wikipedia to know how to contribute in Atikamekw. I don't think this is a good idea to divide those in many different Wikipedias. That being said, I agree that we need to make it more simple to indicate the language/dialect of each article on the Cree Wikipedia, and updating the main page was the first step in that direction. We are currently cleaning the existing articles to sort them out. Right now is the good time to join and build the Atikamekw section of this Wikipedia. Thanks and don't hesitate to send me a message if you have any question. I also speak French if you prefer. Amqui (talk) 06:35, 5 May 2013 (UTC)Reply[reply]
+References[edit]
+↑ Aménagement linguistique - Québec: Les droits linguistiques des autochtones
+↑ Aménagement linguistique - Québec: Les droits linguistiques des autochtones
+↑ Dinnison, Bonnie / Coocoo, Marthe / Ottawa, Lucien / Mattawa, Cécile / Sarrasin, Robert (1997): Guide orthographique de la langue atikamekw. La Tuque: Conseil de la nation atikamekw 6.
+Result[edit]
+https://phabricator.wikimedia.org/T167714
+https://atj.wikipedia.org/wiki/Otitikowin
+https://www.wikidata.org/wiki/Q30286865
+The above discussion is preserved as an archive. Please do not modify it. Subsequent comments should be made in a new section.
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Requests_for_new_languages/Wikipedia_Atikamekw&oldid=25166111"
+Categories: Approved requests for new languagesAtikamekw
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Content pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+In other languages
+Add links
+ This page was last edited on 17 June 2023, at 21:41.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

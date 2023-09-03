@@ -1,0 +1,132 @@
+Help:How to start a new Wikipedia - Meta
+Help:How to start a new Wikipedia
+From Meta, a Wikimedia project coordination wiki
+(Redirected from How to start a new wikipedia)
+Jump to navigation
+Jump to search
+How to start a new Wikipedia
+This page is an unofficial guide for creating a Wikipedia in a new language. The official policies and processes are described on these pages: Requests for new languages, Language proposal policy, and incubator:Help:Manual.
+Do you want to start a Wikipedia in your language?
+Having a Wikipedia in all languages is great. However, please realize that while the world-wide Wikimedia community will be happy to give you the technical support in creating a space for your language, you will actually have to do the writing, and it could require a lot of work. It will take some time to become ready to "go live". You need to be able to write your language well, and it is strongly recommended to team up with other speakers of that language.
+While this is not a requirement, it is also good to be experienced in editing a Wikipedia in another language.
+Contents
+1 Check whether your language already has one
+2 Getting help
+3 Creating the initial content
+3.1 Create the Incubator
+3.2 Create a Main Page
+3.3 How to edit a page
+3.4 Translate the interface
+3.5 Special characters
+4 Going further
+4.1 Translate other things
+4.2 Prepare the Community pages
+4.3 Set up basic guidelines
+4.4 Add a style guide and resources for writers
+4.5 Write a few good content articles as an example for others
+4.6 Have cooperation between the Wikipedia in your language and other Wikipedias
+4.7 Permissions
+5 Promote your Wikipedia
+6 See also
+Check whether your language already has one
+There are editions of Wikipedia in more than 300 languages, so maybe there already is a Wikipedia in your language! Here are a few places where you can check for it:
+Look at the page List of Wikipedias.
+Look at https://www.wikipedia.org, the portal page.
+Go to the article about your language in a Wikipedia in a large language, such as English. These articles usually have a link to the Wikipedia in the language at the bottom.
+If you cannot find an existing Wikipedia in your language, check the page Requests for new languages—there may be a request for it already.
+Please be patient. It can take up to four months or longer.
+Getting help
+If you do not already use another Wikipedia, you might have many questions when you begin. For answers regarding your questions, you may contact other Wikipedians. For example, you can contact people with the mailing lists or on the channel #wikimedia on IRC.
+Here are some people on meta willing to help:
+User:Amire80 (Amir E. Aharoni)
+Jon Harald Søby
+Creating the initial content
+Create the Incubator
+Follow the instructions on the page incubator:Help:Manual, and create the initial pages there.
+Create a Main Page
+Create your own Main Page for the Incubator. You may also go to the main page of another Wikipedia and translate it into your language.
+Note that main pages tend to have advanced code, and in the first stages of creating the Incubator, the articles are much more important than the main page. The initial main page should be simple and functional. You can create a cool-looking main page later, after you gain experience editing usual articles.
+How to edit a page
+You should translate the page How to edit a page into your language.
+Another helpful link: Help:Starting a new page.
+Translate the interface
+To start a Wikipedia in a new language, you also need to translate the user interface of the software that runs it, called "MediaWiki". This is done on the site https://translatewiki.net. Note that it uses a separate user account. Translating the "Most important" messages is a condition for creating a new Wikipedia, but much more should be translated so that readers and editors would be able to use Wikipedia fully in your language. 
+Even before translating the user interface, it is recommended to settle on the basic terminology about wiki editing—words such as "page", "user", "log in", "account", "editor", "block", etc. The most convenient way to do it is to read the Basic glossary on translatewiki, discuss it with other people who know your language well, and translate that glossary. (It's recommended to translate at least the terms, but translating the explanations and the definitions is recommended, too.) 
+Special characters
+If your language has characters that are difficult to enter on keyboards used by speakers of the language, you should add support for it to the Universal Language Selector. Ask for it at Help talk:Extension:UniversalLanguageSelector/Input methods.
+You can also add a box of special characters to insert using the Edittools message.
+Going further
+Translate other things
+The name Wikipedia and the tagline "The Free Encyclopedia", which appear in the logo, must be translated, too. 
+Some notes: 
+The name Wikipedia can be spelled differently if the rules of your language require it, but it should generally be based on the English name. For example, the name in the Catalan is "Viquipèdia", because the standard Catalan alphabet doesn't include the letters W and K. If your language is not written in the Latin alphabet, the name should be written in that alphabet.
+In the translation of the free encyclopedia, the word free means "not restricted." This sometimes confuses people because English does not have different words for free (as in price or cost - like the French word "gratuit") and free (as in freedom or liberty - like the French word "libre"). If your language has different words for the two kinds of "free", please use the one that refers to freedom or liberty. For more information on this, see this essay on the English Wikipedia: Wikipedia:The Free Encyclopedia.
+The word "Encyclopedia" can be translated in any way that is correct in your language. It can be a transliteration of the English word, or a completely new word that has the same. Make sure that you understand the different between an encyclopedia and dictionary; if you are not sure, please read the relevant articles: Encyclopedia, Dictionary.
+Prepare the Community pages
+Each Wikimedia project has a place where users go to talk about things. In the English Wikipedia, for example, this is the Village pump. The French Wikipedia has Le Bistro. Please choose a name for a page and then create the page.
+You will need a page where writers and editors can write their name and location. One idea is to use the page of en:Wikipedia:Wikipedians as a base and translate it in your language.
+Set up basic guidelines
+There are a few rules that all Wikimedia projects must follow:
+You cannot violate the terms of a copyright. Please make a page to warn users not to copy things from other places without asking the author.
+As of 2022, Wikipedia articles are distributed under the terms of the Creative Commons Attribution-ShareAlike 3.0 Unported License. (The GNU Free Documentation License was used in the past and still applies for backwards compatibility in some cases.) Very briefly, it means that everyone is free to read, copy, change, and redistribute the content, but please read the full license to understand it. You should also make a page in your language to explain it and publish it in the Wikipedia.
+Authors must write from a neutral point of view (NPOV). Please make a page to explain this.
+Please make a page to explain what Wikipedia is not.
+Other than these all-projects rules, each Wikipedia has created its own rules.
+Some rules you might want to have right away include:
+Orthographic practices - if there is more than one way to spell or write your language, you will need rules about it.
+Stylistic conventions - if your language does not have a standardized universal form (the way everybody writes it to understand each other), you will need to have one or have a rule to tell people which forms or dialects of your language to use. Also, you will need more complex stylistic conventions. For examples in many languages, see the page Language guides.
+naming conventions
+Add a style guide and resources for writers
+You want to have a high-quality encyclopedia. Please write a few suggestions for writers. Are there any websites in your language about how to write? Maybe you want to add a dictionary or a grammar guide here. Put in everything that could be useful for writers.
+Write a few good content articles as an example for others
+You might want to write a few articles for your Wikipedia to get it started, and to give an example to other possible writers. You can translate an article from a different Wikipedia, or you can write an original article.
+Have cooperation between the Wikipedia in your language and other Wikipedias
+We think that you should join some of the mailing lists so that you will know what happens. The mailing lists are also good resources you can use to grow from the things that happen to other Wikipedias.
+Please make a local Wikimedia Embassy for multilingual cooperation. (make yourself a page so that we can talk to you more easily, and write a name for a contact)
+If you want to have a central place where you can find out what is going on in the whole Wikipedia community, go to goings-on.
+Permissions
+You might need someone with administrator (sysop) status very soon. Add your request on Requests for permissions.
+Promote your Wikipedia
+Find appropriate newsgroups, forums, discussion lists, and so on, where people are interested that the Wikipedia has started in their language. Offer to write an article for a local newspaper about your work on the project, and its cultural value to society. Lecture at conferences where the topic would be appropriate. Create a small brochure or poster about Wikipedia in your language. Add a link to Wikipedia in your email signature.
+Now your language is ready for the public! Try to convince your friends to join the project, and explain how the Wikipedia works. Thank you for working hard!
+See also
+Requests for new languages
+Proposals for new projects
+incubator:Help:Manual
+Meta:Language proposal policy
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Help:How_to_start_a_new_Wikipedia&oldid=24826803"
+Categories: WikipediaMultilingualism
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Help pageDiscussion
+English
+Views
+ReadView sourceView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other languages
+Add links
+ This page was last edited on 4 April 2023, at 09:22.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

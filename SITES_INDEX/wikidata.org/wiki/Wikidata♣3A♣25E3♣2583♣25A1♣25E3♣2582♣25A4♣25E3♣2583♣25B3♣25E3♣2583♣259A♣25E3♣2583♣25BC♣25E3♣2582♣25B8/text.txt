@@ -1,0 +1,114 @@
+Wikidata:メインページ - Wikidata
+Wikidata:メインページ
+From Wikidata
+Jump to navigation
+Jump to search
+ウィキデータへようこそ
+106,531,205 件の項目を持つ、誰でも編集可能なフリーの知識ベースです。
+はじめに • 井戸端 • コミュニティ・ポータル • ヘルプ
+Want to help translate? Translate the missing messages.
+ようこそ!
+ウィキデータは、人間とコンピューターの双方が平等に参照・編集できるフリーかつオープンな知識データベースサイトです。 
+ウィキデータは、ウィキペディア、ウィキボヤージュ、ウィクショナリー、ウィキソースなどを含むウィキメディアの姉妹プロジェクトの「構造化データ」の中央ストレージとして機能します。 
+ウィキデータは、ウィキメディアの各プロジェクトへのサービス提供に留まりません。ウィキデータのコンテンツはフリーライセンスのもとで利用可能で、標準化された形式で出力したり、ウェブ上にある他のオープンデータセットと相互にリンクできるようにしています。
+参加しましょう
+ウィキデータを知る
+ウィキデータとは何か分からない？ウィキデータ:はじめにをお読みください。
+項目の見本として、ショーケース項目Douglas Adams (Q42)をご覧ください。
+ウィキデータの検索にはSPARQLクエリサービスをご利用ください。
+ウィキデータに貢献する
+チュートリアルでウィキデータの編集方法を学んでみましょう。
+ウィキプロジェクトに参加して、好みのトピックについて共同で充実出来ます。
+個人、団体問わずデータの提供をお待ちしております。
+ウィキデータのコミュニティ
+コミュニティ・ポータルやイベントの予定をご覧ください。
+ユーザーアカウントを作成してください。
+井戸端やTelegramグループやIRCチャット接続で質問してください。
+ウィキデータのデータを使う
+ウィキデータの検索方法とデータの使い方をご紹介しています。
+もっと読む...
+ニュース
+2023年07月21日：エンティティスキーマE400が、イェール大学美術館のアーカイブリソースに関して、作成されました。
+2023年06月29日：ウィキデータの開発チームから最近の取り組みについて17:00 UTCからTelegramで行うオフィスアワーで話します。
+2023年06月27日：1億2千万番目の項目、トルコ語の女性の名前 Nazmiye、が作成されました。
+2023年05月13日：ウィキデータツール QuickStatements (Q20084080) が バッチ 200000を実行しました。
+その他のニュース ([英語で]編集) 
+データについて
+素晴らしいウィキデータの世界は初めてですか？ すぐに基本を身につけられるコンテンツを通してデータ・リテラシーを高めましょう。
+Item: Earth (Q2)
+Property: highest point (P610)
+custom value: Mount Everest (Q513)
+最近のハイライト
+Bernhard Plesansky (Q24285937)
+Michael Anthony Perez (Q121891331)
+Tropical Storm Kirogi (Q122132991)
+Estonia in the Junior Eurovision Song Contest (Q121995504)
+Ali Boushaki (Q28936494) (pictured)
+Pax Ahimsa Gethen (Q121763432)
+2023 Johannesburg building fire (Q122146423)
+発見
+ウィキデータ・コミュニティから生まれた画期的なアプリケーションや貢献
+注目のウィキプロジェクト:
+ウィキプロジェクト・音楽
+ウィキプロジェクトミュージックは、アーティスト、音楽リリース、トラック、賞、パフォーマンスに関するデータを追加するのに役立つ編集者の本拠地です!さらに、ウィキデータをインポートして、多くの音楽データベースやストリーミングサービスにリンクすることは、プロジェクトのもう1つの焦点です。project pageでデータモデルについて読み、Telegramでchat with usに来てください。
+もっと詳しく:
+Wikidata:Toolsから、ウィキデータの閲覧・編集や検索に有用なツールやガジェットを見つけられます。
+刺激的なプロジェクトや研究がウィキデータを使って行われているのを知ってますか？ メインページ掲載用に、特色あるコンテンツの推薦を皆さんからこちらで受け付けています。
+連絡
+ウィキデータ メーリングリスト
+ウィキデータ技術メーリングリスト
+コメント依頼
+Facebook、マストドン、Twitter
+井戸端にメッセージをお寄せください。
+Telegramのチャットや IRC でもお待ちしております。接続
+技術的な問題を報告
+最新情報：週単位のまとめ
+ウィキデータは非営利で多言語、フリーなコンテンツをそろえたウィキメディアファミリーに含まれています。
+ ウィキペディア – 百科事典   
+ ウィクショナリー – 辞書とシソーラス   
+ ウィキブックス – 教科書、手引き、そして料理本   
+ ウィキニュース – ニュース   
+ ウィキクォート – 引用句の収集   
+ ウィキソース – 図書館   
+ ウィキバーシティ – 学習教材   
+ ウィキボヤージュ – 旅行ガイド   
+ Wikispecies(ウィキスピーシーズ) – 生物種ディレクトリ   
+ ウィキメディア・コモンズ – 共有メディア貯蔵庫   
+ インキュベーター – 新規言語版   
+ メタ・ウィキ – ウィキメディア・プロジェクト群の調整   
+ MediaWiki(メディアウィキ) – ソフトウェアを説明する文書   
+Retrieved from "https://www.wikidata.org/w/index.php?title=Wikidata:メインページ&oldid=1635400115"
+Category: Wikidata
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Project pageDiscussion
+English
+Views
+ReadView sourceView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+Wikimedia CommonsMediaWikiMeta-WikiWikispecies
+In Wikipedia
+Add links
+ This page was last edited on 9 May 2022, at 16:52.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

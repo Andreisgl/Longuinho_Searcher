@@ -1,0 +1,408 @@
+[MediaWiki-announce] MediaWiki Security and Maintenance Releases: 1.22.3, 1.21.6 and 1.19.12 - MediaWiki-announce - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+                            2023
+                        
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2022
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2021
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2020
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2019
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2018
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2017
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2016
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2015
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2014
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2013
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2012
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2011
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2010
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2009
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2008
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2007
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2006
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2005
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2004
+                        
+December
+            List overview
+ Download
+thread
+[MediaWiki-announce] MediaWiki Security and Maintenance Releases: 1.22.3, 1.21.6 and 1.19.12
+Markus Glaser
+                28 Feb
+                
+                    2014
+                
+            
+                28 Feb
+                
+                '14
+                
+            
+10:15 a.m.
+ 
+Hello everyone,
+I would like to announce the release of MediaWiki 1.22.3, 1.21.6 and 1.19.12.
+These releases fix a number of security related bugs that could affect users 
+of MediaWiki. In addition, MediaWiki 1.22.3 is a maintenance release. It fixes 
+several bugs. You can consult the RELEASE-NOTES-1.22 file for the full list of 
+changes in this version. Download links are given at the end of this email.
+== Security fixes ==
+* (bug 60771) SECURITY: Disallow uploading SVG files using non-whitelisted
+  namespaces. Also disallow iframe elements. User will get an error
+  including the namespace name if they use a non- whitelisted namespace.
+* (bug 61346) SECURITY: Make token comparison use constant time. It seems like
+  our token comparison would be vulnerable to timing attacks. This will take
+  constant time.
+* (bug 61362) SECURITY: API: Don't find links in the middle of api.php links.
+== Bug fixes in 1.22.3 ==
+* (bug 53710) Add sequence support for upsert in DatabaseOracle in the same 
+way
+  as in selectInsert
+* (bug 60231, 58719) Various fixes to job running code in Wiki.php: Make it
+  async on Windows. Fixed possible "invalid filename" errors on Windows.
+  Redirect output to dev/null to avoid hanging PHP.
+* (bug 60083) Correct sequence name for fresh Postgres installation. Spotted
+  by gebhkla
+* (bug 60531) Avoid variable naming conflicts in
+  DatabasePostgres::selectSQLText. Spotted by gebhkla
+* (bug 60094) Fix rebuildall.php fatal error with PostgreSQL. The fix for
+  47055 introduced a fatal error when running rebuildall.php. This is a
+  workaround suggested by gebhkla on Bugzilla. It just checks to make sure
+  $options is actually an array before calling array_search on it.
+* (bug 43817c12) Add error handling if descriptionmsg isn't defined for
+  extension.
+* (bug 60543) Special:PrefixIndex omits stripprefix=1 for "Next page" link.
+Full release notes for 1.22.3:
+<https://www.mediawiki.org/wiki/Release_notes/1.22>
+Full release notes for 1.21.6:
+<https://www.mediawiki.org/wiki/Release_notes/1.21>
+Full release notes for 1.19.12:
+<https://www.mediawiki.org/wiki/Release_notes/1.19>
+For information about how to upgrade, see 
+<https://www.mediawiki.org/wiki/Manual:Upgrading>
+**********************************************************************
+   1.22.3
+**********************************************************************
+Download:
+http://releases.wikimedia.org/mediawiki/1.22/mediawiki-1.22.3.tar.gz
+Patch to previous version (1.22.2), without interface text:
+http://releases.wikimedia.org/mediawiki/1.22/mediawiki-1.22.3.patch.gz
+Interface text changes:
+http://releases.wikimedia.org/mediawiki/1.22/mediawiki-i18n-1.22.3.patch.gz
+GPG signatures:
+http://releases.wikimedia.org/mediawiki/1.22/mediawiki-core-1.22.3.tar.gz.s…
+http://releases.wikimedia.org/mediawiki/1.22/mediawiki-1.22.3.tar.gz.sig
+http://releases.wikimedia.org/mediawiki/1.22/mediawiki-1.22.3.patch.gz.sig
+http://releases.wikimedia.org/mediawiki/1.22/mediawiki-i18n-1.22.3.patch.gz…
+Public keys:
+https://www.mediawiki.org/keys/keys.html
+**********************************************************************
+   1.21.6
+**********************************************************************
+Download:
+http://releases.wikimedia.org/mediawiki/1.21/mediawiki-1.21.6.tar.gz
+Patch to previous version (1.21.3), without interface text:
+http://releases.wikimedia.org/mediawiki/1.21/mediawiki-1.21.6.patch.gz
+Interface text changes:
+http://releases.wikimedia.org/mediawiki/1.21/mediawiki-i18n-1.21.6.patch.gz
+GPG signatures:
+http://releases.wikimedia.org/mediawiki/1.21/mediawiki-core-1.21.6.tar.gz.s…
+http://releases.wikimedia.org/mediawiki/1.21/mediawiki-1.21.6.tar.gz.sig
+http://releases.wikimedia.org/mediawiki/1.21/mediawiki-1.21.6.patch.gz.sig
+http://releases.wikimedia.org/mediawiki/1.21/mediawiki-i18n-1.21.6.patch.gz…
+Public keys:
+https://www.mediawiki.org/keys/keys.html
+**********************************************************************
+   1.19.12
+**********************************************************************
+Download:
+http://releases.wikimedia.org/mediawiki/1.19/mediawiki-1.19.12.tar.gz
+Patch to previous version (1.19.11), without interface text:
+http://releases.wikimedia.org/mediawiki/1.19/mediawiki-1.19.12.patch.gz
+Interface text changes:
+http://releases.wikimedia.org/mediawiki/1.19/mediawiki-i18n-1.19.12.patch.gz
+GPG signatures:
+http://releases.wikimedia.org/mediawiki/1.19/mediawiki-core-1.19.12.tar.gz.…
+http://releases.wikimedia.org/mediawiki/1.19/mediawiki-1.19.12.tar.gz.sig
+http://releases.wikimedia.org/mediawiki/1.19/mediawiki-1.19.12.patch.gz.sig
+http://releases.wikimedia.org/mediawiki/1.19/mediawiki-i18n-1.19.12.patch.g…
+Public keys:
+https://www.mediawiki.org/keys/keys.html
+--mglaser
+    
+ 0
+ 0
+            Reply
+        
+Back to the thread
+            Back to the list
+        
+ 
+            Powered by HyperKitty version 1.3.4.
+        

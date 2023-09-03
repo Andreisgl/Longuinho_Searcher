@@ -1,0 +1,353 @@
+Bisharat! A12N gateway / Portail A12N
+"A12N gateway" / "Portail A12N" *
+African language encoding, fonts, keyboards: discussion fora and reference pages.
+Encodage, polices, et claviers pour langues africaines: groupes de discussion et pages de référence.
+  Discussion/ 
+ Characters & encoding / caractères et encodage  
+ Fonts & keyboards / Polices et claviers  
+  Other / Autre  
+Bisharat! sponsored discussion fora / 
+Groupes de discussion maintenus par Bisharat!
+African languages & ICT, technical issues / 
+Langues africaines et les NTIC, sujets techniques:
+A12N-Collaboration - 
+  http://lists.kabissa.org/mailman/listinfo/a12n-collaboration
+  Working group on African languages and ICT - focus on collating and 
+  presenting information on Unicode references for special characters 
+  used in African languages, and on character input.
+Unicode-Afrique - 
+  http://fr.groups.yahoo.com/group/Unicode-Afrique/
+  Discussion de l'Unicode / ISO 10646, qui représente probablement 
+  la meilleure chance pour favoriser l'informatique et le contenu d'Internet 
+  en langues africaines.
+African languages & ICT, discussion & learning / 
+Langues africaines et les NTIC, discussion et apprentissage:
+A12n-forum - 
+  http://lists.kabissa.org/mailman/listinfo/a12n-forum
+  Network on African languages and ICT - focus on sharing information and
+  esperience in applications using African languages.
+A12n-entraide - 
+  http://lists.kabissa.org/mailman/listinfo/a12n-entraide
+  Réseau sur les langues africaines et les NTIC - le but est de favoriser 
+  l'échange d'informations sur et de l'experiences avec applications 
+  utilisant langues africaines.
+Specific languages & ICT / Langues spécifiques 
+et les NTIC - http://www.quicktopic.com/share?s=QSpo
+10 discussion boards on topics related to use of specific languages on computers & 
+the internet / 10 forums sur des sujets portant sur l'utilisation des langues spécifiques en informatique et sur l'internet:
+Ghanaian languages & ICT -
+  http://www.quicktopic.com/16/H/9xffAXi7whnv
+Hausa charsets & keyboards -
+  http://www.quicktopic.com/8/H/JxKHyg9ccPUVB
+Ibibio, Efik, Anaang & ICT (fonts, keyboards & applications) -
+  http://www.quicktopic.com/37/H/q8r5VVqGF5Q
+Igbo language & ICT (fonts, keyboards & applications) -
+  http://www.quicktopic.com/17/H/tCcDxVXHgQxN
+Langues Béninoises et les 
+  NTIC - http://www.quicktopic.com/27/H/UbEFBKa7X46Ra
+Langues Burkinabè et les 
+  NTIC - http://www.quicktopic.com/31/H/rhTwJR2T8ar
+Langues Sénégalaises et les 
+  NTIC - http://www.quicktopic.com/25/H/6KmBx6F8jES
+Swahili Advanced Computer Applications 
+  (SACA) - http://www.quicktopic.com/37/H/mCpXBt3d7qQN
+Langues Togolaises et les 
+  NTIC - http://www.quicktopic.com/25/H/k2zuDzmgxGkc
+Yoruba language & ICT (fonts, keyboards & applications) -
+  http://www.quicktopic.com/15/H/KKgbRqJUAR8
+  Discussion/ 
+ Characters & encoding / caractères et encodage  
+ Fonts & keyboards / Polices et claviers  
+  Other / Autre  
+Resources on characters & encoding / Ressources sur caractères et encodage
+General reference pages on extended Latin characters 
+("special characters") for African languages / Pages de référence générale 
+sur les caractères latins étendus ("caractères spéciaux") pour langues africaines:
+African Language Resource Council (ALRC)'s "Unicode 
+  compatible character set for African Languages" (download/télécharger) - 
+  http://www.ling.upenn.edu/~seidlf/uni.ps
+ALRC's Unicode character set in .pdf format (download/télécharger) - 
+  ftp://ftp.eki.ee/pub/truetype/uni.pdf
+  [it is suggested to print this out to best view it / on suggère de l'imprimer 
+  pour mieux le voir]
+African Reference Alphabet / 
+  Alphabet africain de référence
+1978 - http://www.bisharat.net/Documents/Niamey78annex.htm
+Questions About 5 Characters 
+  & Variants in the African Reference Alphabet - http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=AfrGlyphVars
+Variants for Hooktop Y (U+01B3 & U+01B4) - http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=HooktopYVariants
+1982 (rev. by / rév. par Mann & Dalby) - http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=IntlNiameyKybd 
+  [includes/comprend "international niamey keyboard"]
+International Phonetic Alphabet - 
+  http://eric.dane.free.fr/public/lingua/ipa/ [includes 
+  audio files with character pronunciation / comprend des fichiers audio 
+  avec la prononciation des caractères]
+ISO 6438 [1983 coding 
+  for African extended Latin characters / Encodage de 1983 pour caractères 
+  latins étendus d'Afrique]
+"Extended African Latin alphabet 
+  coded character set for bibliographic information interchange" - 
+  http://anubis.dkuug.dk/jtc1/sc2/open/02n3129.pdf 
+  [based on / basé sur IS0 6438]
+"Coded Character Set for African 
+  Languages" - http://www.itscj.ipsj.or.jp/ISO-IR/039.pdf
+  [evidently a predecessor to ISO 6438 / evidemment un predecesseur de 
+  l'ISO 6438]
+Letter database
+          (Institute of the Estonian Language) - http://www.eki.ee/letter/
+Notation en Unicode des langues 
+  africaines...
+I. Introduction & voyelles - 
+  http://sivanataraja.free.fr/phone/non-ie/afrique/afrique.htm
+II. Consonnes - 
+  http://sivanataraja.free.fr/phone/non-ie/afrique/afrique2.htm
+Tables from Practical Orthography 
+  of African Languages, 1930 - http://www.bisharat.net/Documents/poal30-tables.html
+Typesetting African Languages 
+  - http://www.ideography.co.uk/library/afrolingua.html 
+  [some character charts are out of date / certains des tableaux de 
+  caractères sont dépassés]
+Codepages for specific languages / Pages sur l'encodage pour des langues particulières:
+Bambara special characters in Unicode 
+/ Caractères spéciaux du bambara en Unicode - 
+    http://www.bisharat.net/A12N/BamUnicode.htm
+Fula special characters in Unicode 
+/ Caractères spéciaux du peul en Unicode - 
+    http://www.bisharat.net/A12N/FulUnicode.htm
+Unicode Symbols for Wolof Special Characters
+/ Symbols Unicode pour les caractères spéciaux wolof - 
+http://www.bisharat.net/A12N/WolofUnicode.html
+Web browser support for Dinka - 
+http://www.openroad.net.au/languages/african/dinka.html
+Base extended-Latin characters 
+by country for 21 countries (you will need Unicode fonts to display properly) / 
+Caractères latins étendus de base par pays pour 21 pays (vous aurez besoin des 
+olices Unicode pour afficher correctement):
+Benin / Bénin - http://www.bisharat.net/A12N/BENIN-table.htm
+Burkina Faso - http://www.bisharat.net/A12N/BF-table.htm
+Cameroon / Cameroun 
+    - http://www.bisharat.net/A12N/CAM-table.htm
+Central Africa (Rep.) / Centrafrique 
+    - http://www.bisharat.net/A12N/CAR-table.htm
+Chad / Tchad - http://www.bisharat.net/A12N/CHAD-table.htm
+Congo (Brazzaville) - http://www.bisharat.net/A12N/CONGO-B-table.htm
+Congo (Kinshasa) - http://www.bisharat.net/A12N/CONGO-K-table.htm
+Côte d'Ivoire - http://www.bisharat.net/A12N/COTE-table.htm
+Ghana - http://www.bisharat.net/A12N/GHANA-table.htm
+Guinea / Guinée - http://www.bisharat.net/A12N/GUINEE-table.htm
+Kenya - http://www.bisharat.net/A12N/KENYA-table.htm
+Liberia - http://www.bisharat.net/A12N/LIBERIA-table.htm
+Mali - http://www.bisharat.net/A12N/MALI-table.htm
+Mozambique - http://www.bisharat.net/A12N/MOCAMBIQUE-table.html
+Niger - http://www.bisharat.net/A12N/NIGER-table.htm
+Nigeria / Nigéria - 
+    http://www.bisharat.net/A12N/NIGERIA-table.htm
+Senegal / Sénégal - 
+    http://www.bisharat.net/A12N/SENEGAL-table.htm
+Sierra Leone / Sierra Léone 
+    - http://www.bisharat.net/A12N/SL-table.htm
+Sudan / Soudan - http://www.bisharat.net/A12N/SUDAN-table.htm
+Togo - http://www.bisharat.net/A12N/TOGO-table.htm
+Uganda / Ouganda - http://www.bisharat.net/A12N/UGANDA-table.htm
+Character summary lists / Listes 
+    récapitulatives de caractères 
+    - http://www.bisharat.net/A12N/charsum.html
+Inventory table of characters / Inventaire des 
+   caractères en format tableau (Word .doc format) - http://www.bisharat.net/A12N/AfricanSymbolsInventory2.doc
+Tone marks & combining diacritics for Latin-based 
+transcriptions / Marques de ton et diacritics de combinaison pour transcriptions
+latins:
+Summary tables of tone mark data / Résumé 
+  en tableaux des données sur marques de ton  
+   - http://www.bisharat.net/A12N/tones.htm
+Extended Arabic characters, Ajami / Caractères 
+  arabes étendus, l'Adjami:
+Kamal Mansour's list of extended Arabic 
+    characters for comment / Liste des caractères arabes étendus pour commentaire 
+    - http://www.bisharat.net/A12N/Afro-Arabic_Symbols.pdf
+    You may comment here / Vous pouvez commenter ici: http://www.quicktopic.com/18/D/y4dBcRx9hQWK.html
+  Discussion/ 
+ Characters & encoding / caractères et encodage  
+ Fonts & keyboards / Polices et claviers  
+  Other / Autre  
+Resources on fonts & keyboards / Ressources sur des polices et claviers
+Font resource pages ... with links to sites 
+with fonts useful or specifically created for African languages.
+Pages de ressources en polices ... avec liens aux sites avec
+des polices utiles pour des langues africaines ou crées spécifiquement pour certaines
+langues.
+Zsigri Gyula's Links to Fonts and Keyboards 
+    (Liens aux polices et claviers)  - http://www.geocities.com/fontboard/links.html (or/ou
+http://zsigri.tripod.com/fontboard/links.html)
+Luc Devroye's African Fonts  
+    - http://cgm.cs.mcgill.ca/~luc/africa.html
+SIL's Fonts in Cyberspace 
+    - http://www.sil.org/computing/fonts/
+Alan Wood's Unicode Fonts - 
+    http://www.alanwood.net/unicode/fonts.html
+Écritures du Monde (scripts 
+    of the world) - http://www.culture.gouv.fr/edm/fr/ (click on / cliquer 
+    sur "polices de caractères")
+Other selected fonts ... of possible use for 
+African languages written with modified Latin alphabets. Bisharat does not endorse 
+any of these and takes no responsibility for any problems that users may encounter 
+with them. Fonts previously listed here that are on Zsigri Gyula's page (above) 
+under "multilingual" have been omitted.
+Quelques autres polices sélectionnées ... d'une utilité possible pour 
+des langues africaines écrites avec des alphabets latins modifiés. Bisharat n'approuve 
+aucune de ces derniers et ne prend aucune responsabilité d'aucun problème que les 
+utilisateurs peuvent rencontrer avec eux. Des polices indiqués ici avant la dernière 
+révision qui aussi figure dans la page de Zsigri Gyula (ci-dessus), sous les rubrique 
+"multilingual" ou "IPA" sont omises. :
+AfroRoman - http://www.linguistsoftware.com/afro.htm Commercial non-Unicode 
+    font from Linguist's Software 
+specifically designed for African languges. / Une police commerciale non-Unicode de 
+Linguist's Software qui est conçue tout particulièrement pour des 
+langues africaines.
+ClearlyU BDF Font - http://clr.nmsu.edu/~mleisher/cu.html
+Jaghbub Font Package - www.hf-fak.uib.no/Institutter/smi/ksv/Jaghbub.html Set 
+    of fonts for use with Middle Eastern languages transliterated into the Latin 
+    script. Apparently it can also be used for Yoruba. (Macintosh only.) / Ensemble 
+    de polices pour l'usage avec des langues du Moyen-Orient translitérées en 
+    caractères latins. Apparemment il peut également être employé pour Yorouba. 
+    (Macintosh seulement.)
+Lucida Sans Unicode - Supplied in many Microsoft 
+  products; also available for download at these sites / Fourni dans plusieurs produits 
+de Microsoft; aussi disponible pour le téléchargement à ces sites : 
+http://www.phon.ucl.ac.uk/home/wells/ipa-unicode.htm 
+    & http://www.osil.ch/gtf-rifal/textes-indrap.html 
+  & http://eric.dane.free.fr/lingua/ipa/ipa.php
+SIL Encore Fonts, Ver. 3.0 : http://www.sil.org/computing/fonts/encore.html Non-Unicode font 
+package for sale. / Ensemble de polices non-Unicode en vente.
+SImPL : http://www.vector.org.uk/resource/ (look for / chercher 
+    "Phil Chastneys SImPL.TTF")
+    Mainly for European languages and does not include some African characters/glyphes. 
+    / Principalement pour des langues européennes et ne comprend pas certains 
+    caractères/glyphes africains.
+Windows Fonts for Bahá'í 
+    Texts - http://ianvink.com/bahai/fonts/ Like the Jaghbub package 
+    above, these two Unicode fonts may be useful for transcriptions using certain 
+    diacritics. / Comme l'ensemble Jaghbub ci-dessus, ces deux polices unicodes 
+    pourraient être utile pour des transcriptions utilisant certains diacritiques.
+Unitype 
+    - http://www.unitype.com Commercial multilingual 
+    wordprocessing software package for many languages including: Amharic, Arabic, 
+    Hausa, Swahili, Tigrinya. / Logiciel de traitement de texte multilingue 
+    commercial pour beaucoup de langues comprenant: l'Amharique, l'Arabe, le Hausa, 
+    le Swahili, et le Tigrinya. 
+Language specific fonts (Latin-based transcription) / 
+Polices pour des langues spécifiques (transcription en caractères latins):
+SomiTek - Somali Information Technology 
+    - http://www.somitek.com/ 
+    Somali language word processor with spell-check & English-Somali translator. 
+    / Logiciel de traitement de texte pour la langue somalie avec spell-check 
+    et traducteur Anglais-Somali.
+Yorùbá Fonts - http://african.lss.wisc.edu/yoruba/font/index.html Shareware 
+    for PCs & Macs / Shareware pour des PCs et Macintoshes.
+YorubaOK - http://www.learnyoruba.com/ Yoruba .ttf font & keyboard 
+    layout. / Police .ttf et disposition de clavier pour le Yorouba.
+Fonts for Arabic-based transcription, Ajami / Polices 
+  pour des transcriptions en caractères arabes, adjami:
+Alan Wood's Unicode Fonts for Arabic - 
+http://www.alanwood.net/unicode/fonts.html#arabic
+Font & keyboard resources for Ethiopic/Ge'ez 
+  / Ressources en polices et claviers pour Éthiopique/Ge'ez:
+Ethiopic Unicode Resource Page 
+    - www.abyssiniacybergateway.net/fidel/unicode
+Ge'ez Frontier Foundation - 
+    http://www.ethiopic.org/ 
+    Links to a ftp site with numerous resources / Se lie à un site ftp avec 
+    nombreux ressources]
+GeèzEdit Amharic P - http://www.ethiopic.com/download.htm [GEZED1.ttf]
+GF Zemin Unicode & UniGeez 1.06 
+    - http://www.punchdown.org/rvb/email/UniGeez.html GF Zemin 
+    is the font and UniGeez is the keyboard layout (link to more recent versions 
+    of the latter is below). / GF Zemin est la police et UniGeez est la disposition 
+    de clavier (lien aux versions plus récentes de cette dernière se trouve ci-dessous).
+Sadiss 1.0, Unicode text editor for 
+    Ethiopic - http://www.senamirmir.com/projects/sadiss/sadiss_proj.html 
+    Includes font & keyboard layout / Comprennant police et disposition de 
+    clavier.
+UniGeez 2.001, 3.002 - ftp://ftp.ethiopic.org/pub/UniGeez/ or/ou http://www.eristart.com/portal/inhoud.html (& then 
+    search/et puis chercher UniGeez)
+Language specific fonts (other non-Latin) / 
+Polices pour des langues spécifiques (autre non-Latin):
+Aligourane - www.quiresiste.com/a_carte.html 
+    (EN)  www.quiresiste.com/carte.html 
+    (FR) Tifinagh non-Unicode font by Quiresiste.com for Tamashek. Click on "Type" 
+    & then on the icon to the left for the menu on Tifinagh. / Police Tifinagh 
+    non-Unicode par Quiresiste.com pour le Tamacheq. Cliquer sur "Typo" et puis 
+    sur l'icon à gauche pour le menu sur le Tifinagh.
+Amazigh fonts - http://www.amazigh.nl/fonts/ Both Tifinagh & Latin-based . 
+/ Il y en a pour le Tifinagh et la transcription latine.
+KOLINM_.ttf 
+    - http://www.fakoli.net/ 
+    Font for N'ko (see link at bottom of page to "font"). / Police 
+    pour N'ko (voir lien au fond du page, "font").
+Keyboard resources & layouts (Latin-based) for PCs / 
+Ressources et dispositions de clavier (caractères latins) pour ordinateurs 
+PC:
+International Accent Marks & Diacriticals: 
+Theory, Charts, & Tips for the QWERTY keyboard (mostly Windows) - 
+http://www.starr.net/is/type/kbh.html
+The Open Road: Language support - 
+Keyboard layouts - http://www.openroad.net.au/languages/files/
+SIL - Keyboard Installation and Use [Microsoft & Keyman] - 
+http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=KeyboardInstallationAndUse
+Keyboard layouts (Latin-based) for Macintosh / 
+  Dispositions de clavier (caractères latins) pour Macintosh:
+Eric Rasmussen's Latin Extended Keyboards for Mac 
+- http://homepage.mac.com/chinesemac/LatinExtended/index.html
+Tom Gewecke's Hausa Keyboard for Mac 
+        OS 10.2 (download for Mac only / téléchargement pour Mac seulement) 
+        - http://homepage.mac.com/thgewecke/fs/
+Tablet keyboards / Clavier-tablette:
+Aim8 Pan African Language Tablet 
+- http://www.largeformatcomputing.com/LTAB/PanAfricanLTAB.htm
+Ethiopic Keyboard 
+        - http://www.ethiotrans.com/ethiopickeyboard/
+African keyboard development projects / Projets 
+de développement de claviers africains:
+A12n keyboard projects / Projets 
+de clavier a12n - http://www.bisharat.net/A12N/Projects
+  Discussion/ 
+ Characters & encoding / caractères et encodage  
+ Fonts & keyboards / Polices et claviers  
+  Other / Autre  
+Other / Autre
+General reference / Référence générale:
+Bisharat! links/liens: 
+  Research & reference concerning languages & ICT / Recherche et référence 
+concernant langues et les TIC - http://www.bisharat.net/links.htm#2
+The Open Road: Language support - African 
+        languages - http://www.openroad.net.au/languages/african/
+Technical Information: Introduction to 
+local language support in computer software - http://www.geocities.com/martinwolters/technical/
+SIL's Computing Resources - 
+http://www.sil.org/computing
+MT - Machine (computer) translation / TA - Traduction automatique (par ordinateur):
+MT & African languages / 
+TA et langues africaines - http://www.bisharat.net/Trans/
+Locale data / Données sur locales:
+Yeha Locale Data (for East 
+African languages) - http://yeha.sourceforge.net/
+Software localization projects / Projets de localisation 
+des logiciels:
+Kilinux (
+Swahili) - http://www.kilinux.org
+translate.org.za (for South 
+African languages) - http://www.translate.org.za
+  Discussion/ 
+ Characters & encoding / caractères et encodage  
+ Fonts & keyboards / Polices et claviers  
+  Other / Autre  
+* A12N = "Africanization" (A +12 letters + N) in the same sense as I18N means "internationalization" and L10N "localization."
+a12n = "Africanisation" (a + 12 lettres + n) dans le même sens que i18n veut dire "internationalisation" et l10n veut dire "localisation."
+Latest revision / dernière révision 2006-10-27
+Bisharat! navigation
+English
+Français
+Português
+Hausa (Unicode)
+Hausa (ba-Unicode)
+ 

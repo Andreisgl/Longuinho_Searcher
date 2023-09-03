@@ -1,0 +1,130 @@
+Requests for new languages/Wiktionary Igbo - Meta
+Requests for new languages/Wiktionary Igbo
+From Meta, a Wikimedia project coordination wiki
+< Requests for new languages
+Jump to navigation
+Jump to search
+←main page
+Request for a new language edition: Wiktionary Igbo
+​
+submitted
+verification
+final decision
+This proposal has been approved.The Board of Trustees and language committee have deemed that there is sufficient grounds and community to create the new language project.A committee member provided the following comment: phab:T314635. Jon Harald Søby (talk) 11:16, 5 August 2022 (UTC)Reply[reply]
+The community needs to develop an active test project; it must remain active until approval (automated statistics, recent changes). It is generally considered active if the analysis lists at least three active, not-grayed-out editors listed in the sections for the previous few months.
+The community needs to complete required MediaWiki interface translations in that language (about localization, translatewiki, check completion).
+The community needs to discuss and complete the settings table below:
+What
+Value
+Example / Explanation
+Proposal
+Language code
+ig (SIL, Glottolog)
+A valid ISO 639-1 or 639-3 language code, like "fr", "de", "nso", ...
+Language name
+Igbo
+Language name in English
+Language name
+Igbo
+Language name in your language. This will appear in the language list on Special:Preferences, in the interwiki sidebar on other wikis, ...
+Language Wikidata item
+Q33578 - item has currently the following values:
+English label: Igbo
+native label (P1705): Asụsụ Igbo, Igbo
+instance of (P31)/subclass of (P279): language, modern language / Igboid, Kwa, Benue–Congo
+Wikimedia language code (P424): ig
+writing system (P282): Igbo alphabet
+number of speakers, writers, or signers (P1098): 27,000,000
+Item about the language at Wikidata. It would normally include the Wikimedia language code, name of the language, etc. Please complete at Wikidata if needed.
+Directionality
+LTR
+Is the language written from left to right (LTR) or from right to left (RTL)?
+Links
+Links to previous requests, or references to external websites or documents.
+Site URL
+ig.wiktionary.org
+langcode.wikiproject.org
+Settings
+Project name
+Wikshọnarị
+"Wiktionary" in your language
+Project namespace
+Wikshọnarị
+usually the same as the project name
+Project talk namespace
+Kwuookwu_Wikshọnarị
+"Wiktionary talk" (the discussion namespace of the project namespace)
+Enable uploads
+no
+Default is "no". Preferably, files should be uploaded to Commons.If you want, you can enable local file uploading, either by any user ("yes") or by administrators only ("admin").Notes: (1) This setting can be changed afterwards. The setting can only be "yes" or "admin" at approval if the test creates an Exemption Doctrine Policy (EDP) first. (2) Files on Commons can be used on all Wikis. (3) Uploading fair-use images is not allowed on Commons (more info). (4) Localisation to your language may be insufficient on Commons.
+Optional settings
+Project logo
+File:Wiktionary logo Ig.svg
+This needs to be an SVG image (instructions for logo creation).
+Default project timezone
+Africa/Lagos
+"Continent/City", e.g. "Europe/Brussels" or "America/Mexico City" (see list of valid timezones)
+Additional namespaces
+For example, a Wikisource would need "Page", "Page talk", "Index", "Index talk", "Author", "Author talk".
+Additional settings
+Anything else that should be set
+submit Phabricator task. It will include everything automatically, except additional namespaces/settings. After creating the task, add a link to the comment.
+Proposal[edit]
+Hello Everyone!
+Igbo language is spoken by more than 44 million people all over the world and it has rich vocabulary with different dialects. In the past one year there has been much activity on the Igbo Wiktionary test project and the content is increasing rapidly.
+In summary, I would say that this test project (Igbo Wiktionary) has a so much potentials so I would request that it be approved. 
+--Uzoma  19:20, 16 January 2019 (UTC)Reply[reply]
+Discussion[edit]
+I remember the time when the Igbo Wikipedia had exactly one article. Things look so much better now, as they look for projects in African languages in general. Just one thing: as far as I could find out, you, Uzoma, seem to be the only regular contributor to the Igbo Wiktionary. Is that correct? Steinbach (formerly Caesarion) 16:46, 20 January 2019 (UTC)Reply[reply]
+Steinbach (formerly Caesarion) I would say yes for now to your question, but soon we will have more regular contributors and even an administrator. Just like the Igbo Wikipedia, we will make it happen.
+--Uzoma  22:16, 20 January 2019 (UTC)Reply[reply]
+Support --Rubbish computer (Talk: Contribs) 16:04, 25 October 2019 (UTC)Reply[reply]
+Support in my official capacity as the Program Officer for the Rapid Grants program. The Igbo Wikimedians User Group has been able to support good community engagement on this Wiktionary project over a significant part of the past year, both supported by grants as well their own voluntary initiatives. There are also additional, regular contributors now, including Oby Ezeilo and Obihoja. I JethroBT (WMF) (talk) 07:58, 25 June 2020 (UTC)Reply[reply]
+ Strong support As a test Wiki administrator i equally want to appreciate Igboanude a retiree and the oldest Igbo Wiki editor who has been adding content and editing the igbo Wiktionary.--Oby Ezeilo (talk) 14:19, 1 July 2020 (UTC)Reply[reply]
+Settings[edit]
+Hello. We still need to know the settings for the project namespace, its talk pages, and the logo preferably in an SVG version. --MF-W 12:04, 6 July 2022 (UTC)Reply[reply]
+@Igboanude, Oby Ezeilo, Timzy D'Great, Queenbella001, Lebron jay, Martins202, Nwonwu Uchechukwu P, Austine E Raph, Chrysella, and Juliegwen:@Akwugo, Chikeme Chizurum, Love4sure, Olugold, Iwuala Lucy, Chidimmanwaeze22, Accuratecy051, Palow s coba11, Samstringz, Sayvhior, Senator Choko, and Viva33:@Daberechi16, Dera xoxo, Zilzy, Austine E Raph, Kingsley Nkem, and Efoby: As asked here, how to translate the "Wiktionary:" and "Wiktionary_talk:" namespaces in Igbo? (boldly replaced the logo field to svg one) --Liuxinyu970226 (talk) 01:58, 10 July 2022 (UTC)Reply[reply]
+Hello, In Igbo Language Dictionary is called akwụkwọ nkọwaokwu, but I prefer spelling wiktionary in Igbo (Wikshọnarị) to make it stand out from other dictionaries. Furthermore will like the logo to carry a touch of the Igbo alphabets.  For the talk page, we can translate it as ebe nkwupụta okwu or ekwumekwu.Oby Ezeilo (talk) 13:54, 11 July 2022 (UTC)Reply[reply]
+So what should be the project_talk? ebe nkwupụta okwu Wikshọnarị? ekwumekwu Wikshọnarị? Wikshọnarị ebe nkwupụta okwu? ekwumekwu Wikshọnarị? --Liuxinyu970226 (talk) 23:32, 14 July 2022 (UTC)Reply[reply]
+The logo says "Wikshọnarị". Please confirm that that is the translation of "Wiktionary" you want to use for the ig.wiktionary domain and if "Okwu Wikshọnarị" is the appropriate translation of "Wiktionary talk:" namespace then. Ping User:Oby Ezeilo, User:Igboanude --MF-W 13:00, 16 July 2022 (UTC)Reply[reply]
+Note: If Olugold said well in the Wikiquote request, it looks like "Ńkàtá_Wikshọnarị" would be better than "Okwu". Liuxinyu970226 (talk) 14:01, 17 July 2022 (UTC)Reply[reply]
+Please Note: In Igbo Language, Nkata or Mkparịtaụka means Discussion and not Talk. We can leave it at kwuookwu Wikshọnarị (Its a short sentence that represents ekwumekwu or nkwupụta okwu while ebe nkwupụta okwu means where you can speak/talk) --Oby Ezeilo (talk) 11:36, 19 July 2022 (UTC)Reply[reply]
+Talk-kwuookwu/kwupụta okwu Akwugo (talk) 20:38, 24 July 2022 (UTC)Reply[reply]
+Wiktionary-wikishọnarị Akwugo (talk) 20:39, 24 July 2022 (UTC)Reply[reply]
+And then, which timezone to use? Is "Africa/Abuja" from Wikiquote ok or not? --Liuxinyu970226 (talk) 01:28, 25 July 2022 (UTC)Reply[reply]
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Requests_for_new_languages/Wiktionary_Igbo&oldid=23923245"
+Category: Approved requests for new languages
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Content pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+In other languages
+Add links
+ This page was last edited on 12 October 2022, at 20:09.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

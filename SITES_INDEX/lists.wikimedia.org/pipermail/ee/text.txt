@@ -1,0 +1,902 @@
+Re: [EE] E2 Planning Meeting Notes - EE - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+                            2023
+                        
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2022
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2021
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2020
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2019
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2018
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2017
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2016
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2015
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2014
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2013
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+            List overview
+ Download
+thread
+Re: [EE] E2 Planning Meeting Notes
+Fabrice Florin
+                18 Jan
+                
+                    2013
+                
+            
+                18 Jan
+                
+                '13
+                
+            
+3 a.m.
+ 
+Thanks, Terry.
+First off, I would like to welcome all of the folks who have joined our now-public Editor
+Engagement list in recent days!
+We're really happy that you are interested in participating in our discussions of
+editor engagement goals and how we implement them.
+To give a bit more context to folks who did not participate in our discussion earlier, I
+wanted to clarify that this particular thread is about a planning meeting which we had on
+Tuesday with the E2 Editor Engagement team, which focuses on developing large-scale editor
+engagement features such as notifications (code-name Echo) and user-to-user messaging
+(code-name Flow). 
+The purpose of that meeting was to plan our roadmap for the E2 team this quarter
+(Jan.-March 2013 - Q3 of the WMF fiscal year). Since this mailing list is now public, I
+have included our meeting notes below, along with responses for Howie Fung (product
+development director at WMF), Terry Chay (features engineering director at WMF), as well
+as community liaison Oliver Keyes (who most experienced Wikipedians already know).
+To learn more, see our meeting slides, which will soon be published on Commons:
+https://docs.google.com/a/wikimedia.org/presentation/d/1ps7-i_fISUldycH1LFr…
+And we will also update this preliminary E2 strategy planning page with the final
+objectives in coming days: 
+http://www.mediawiki.org/wiki/Editor_Engagement/2013_strategy_planning_(Fea…
+We welcome your comments on this proposed E2 quarterly plan for Q3, so we can finalize it
+with your help in coming days. You can learn more about our overall plans for editor
+engagement this fiscal year on this WMF editor engagement goals page.
+And if you are not already familiar with our editor engagement team, you can meet some of
+our team members on this editor engagement hub:
+https://en.wikipedia.org/wiki/Wikipedia:Editor_Engagement
+Welcome aboard everybody! We welcome a healthy discussion with you all on this mailing
+list.
+Fabrice
+_______________________________
+Fabrice Florin
+Product Manager
+Editor Engagement Features (E2)
+Wikimedia Foundation
+http://en.wikipedia.org/wiki/User:Fabrice_Florin_(WMF)
+__________________________________
+From: Fabrice Florin &lt;fflorin(a)wikimedia.org&gt;
+Subject: E2 Planning Meeting Notes
+Date: January 16, 2013 6:04:34 PM PST
+To: Howie Fung &lt;hfung(a)wikimedia.org&gt;rg>, Terry Chay &lt;tchay(a)wikimedia.org&gt;rg>, Ryan
+Kaldari &lt;rkaldari(a)wikimedia.org&gt;rg>, Benny Situ &lt;bsitu(a)wikimedia.org&gt;rg>, Luke
+Welling &lt;lwelling(a)wikimedia.org&gt;rg>, Matthias Mullie &lt;mmullie(a)wikimedia.org&gt;rg>,
+Brandon Harris &lt;bharris(a)wikimedia.org&gt;rg>, Vibha Bamba &lt;vbamba(a)wikimedia.org&gt;rg>,
+Oliver Keyes &lt;okeyes(a)wikimedia.org&gt;
+Cc: Erik Moeller &lt;erik(a)wikimedia.org&gt;rg>, Steven Walling
+&lt;swalling(a)wikimedia.org&gt;rg>, Maryana Pinchuk &lt;mpinchuk(a)wikimedia.org&gt;rg>, Dario
+Taraborelli &lt;dtaraborelli(a)wikimedia.org&gt;rg>, James Forrester
+&lt;jforrester(a)wikimedia.org&gt;
+Hey everyone,
+Thanks for a great planning session yesterday!
+I think we made some good progress together, defined a viable roadmap for Echo, outlined
+our goals for Flow, and raised key questions which we will want to answer together in
+coming weeks.
+Here are my meeting notes, to summarize the key points we discussed together. Please let
+me know right away if I made any errors or missed anything. These updated slides provide
+more insights.
+1. Overall E2 Plan
+We reviewed our overall goals for the E2 team in fiscal 2012-2013, which are to help
+recruit new editors and retain existing editors, in order to reverse Wikipedia's
+editor decline. 
+Specific milestones for this quarter include:
+* Launch Echo first release on English Wikipedia by March 2013
+* Deploy Article Feedback to 100% on English Wikipedia by March 2013
+* Release first beta for Flow on MediaWiki by June 2013
+To learn more, see our E2 timeline for 2013, along with these research slides on user
+activity through our engagement funnel. More background is provided on our E2 strategy
+page, which will be updated in coming days. Note that we had a separate planning session
+for Article Feedback, which I will report on later this week.
+2. Echo Roadmap
+We discussed and refined this Echo roadmap together, along with these timelines for
+features and notifications. We agreed to ship a minimum viable product (MVP) by the end of
+this quarter, which would include the core features and a small set of notifications
+described below. This would be a limited release aimed at new editors on the English
+Encyclopedia, but also available to other users on an opt-in basis. 
+Along with that release, we would provide in-house developer guidelines and support for
+other WMF teams (e.g.: E3) that might want to add notifications to Echo for their
+purposes. After the first Echo deployment on en-wiki, our team's development resources
+would shift to support a first release of Flow on MediaWiki by the end of June.
+3. Features
+We agreed to complete these core Echo features this quarter: flyout, archive, emails, HTML
+email, preferences, dismiss, bundling, job queue and metrics. For more details, visit our
+feature requirements page. 
+We also discussed other possible feature clusters that we might take on if we can get more
+resources for Echo in the coming year: API, cross-wiki and possible interactions with
+watchlist or talk page. If feasible, we will aim to architect Echo so that an API or
+cross-wiki connectivity could be added more easily at a later date. We agreed to wait
+until Flow is more fully defined before considering watchlist or talk page upgrades.
+4. Notifications
+We identified a limited set of notifications for the first release, starting with those we
+have developed so far (talkpage post, edit reversion, page review, page link, welcome and
+user mention). 
+We also discussed developing a few more notifications, if time allows, once core features
+are done. This small set of new notifications would be selected in consultation with the
+E3 team, Oliver and community members and be spread out between these user groups: new
+members, new editors and active editors. 
+We would also invite other in-house WMF teams like E3 to develop more notifications
+independently. For more details on notifications now under consideration, visit our
+feature requirements page or check our prioritized list.
+5. Maintenance & Localization
+The team discussed the need for maintenance and localization resources to keep updating
+Echo and support its deployment on a few other wikis, after we switch our development
+focus to Flow. It's likely that new features or revisions will be needed on en-wiki
+based on community feedback, and that Echo will need to be customized for different wikis.
+The current plan does not have resources allocated for these tasks after we switch to
+Flow. 
+To address this gap, we will estimate the scope of additional resources needed, so they
+can be included in next year's plan.
+6. Flow
+Brandon presented his vision for Flow, describing it as a personal feed of events related
+to your interest graph, based on your subscriptions to people, articles or conversation
+threads on MediaWiki sites. 
+We discussed narrowing down that scope for a first minimum viable product (MVP) focused on
+user-to-user messaging for Q4  of this fiscal year. To that end, we will start periodic
+design reviews in coming weeks, and involve the E2 team in more focused planning meetings
+by March, once Echo and Article Feedback are ready for deployment.
+Please let me know right away if you have any questions or comments about this overall
+plan for Echo and Flow in Q3, so I can update our strategy pages and slides accordingly. 
+I will also start writing a blog post about Echo this week, to be published later this
+month, focusing on the current version on MediaWiki, and summarizing these goals for this
+quarter. This will also be a good opportunity to promote our job opening for a Software
+Engineer for E2 (if you haven't already, please help us spread the word by sharing
+this job description with your community). 
+Thanks again, and look forward to our next steps together!
+Fabrice
+On Jan 15, 2013, at 10:25 AM, Fabrice Florin wrote:
+...  Hi guys,
+ 
+ I look forward to our E2 quarterly planning meeting today at 10:30am PT in Yongle (and
+via Skype for Matthias and Oliver).
+ 
+ The goal of this planning session is to get together as a team to review this
+quarter's roadmap and make sure that we're focused on the most important areas, as
+well as surface dependencies between teams. The main deliverable for this session will be
+a rough map of key features our teams will work on over the next quarter. 
+ 
+ Here's our proposed agenda for this 2-hour meeting:
+ • Overview ~ 15 mins.
+ • Echo ~ 60 mins.
+ • Flow ~ 30 mins.
+ • Wrapup ~ 15 mins.
+ • Group Photo
+ 
+ Here are the slides we prepared to guide our discussion:
+https://docs.google.com/a/wikimedia.org/presentation/d/1ps7-i_fISUldycH1LFr…
+ 
+ Other related documents include:
+ 
+ E2 Planning page (you are welcome to add your notes to this team page):
+ http://www.mediawiki.org/wiki/Editor_Engagement/2013_strategy_planning_(Fea…
+ 
+ Echo Timeline:
+https://docs.google.com/a/wikimedia.org/spreadsheet/ccc?key=0Aq_75_5y5sKWdF…
+ 
+ Feature Requirements:
+ http://www.mediawiki.org/wiki/Echo/Feature_requirements
+ 
+ I look forward to a productive discussion with you all.
+ 
+ Speak to you soon,
+ 
+ 
+ Fabrice
+ 
+ 
+ _______________________________
+ 
+ Fabrice Florin
+ Product Manager
+ Editor Engagement Features (E2)
+ Wikimedia Foundation
+ 
+ http://en.wikipedia.org/wiki/User:Fabrice_Florin_(WMF)
+ 
+ Donate to keep Wikipedia free:
+ https://donate.wikimedia.org/ 
+_______________________________
+...  
+ 
+ On Jan 16, 2013, at 10:25 PM, Howie Fung wrote:
+ 
+> 
+> On Wed, Jan 16, 2013 at 6:04 PM, Fabrice Florin &lt;fflorin(a)wikimedia.org&gt; wrote:
+> 4. Notifications
+> We identified a limited set of notifications for the first release, starting with
+those we have developed so far (talkpage post, edit reversion, page review, page link,
+welcome and user mention). 
+> 
+> We also discussed developing a few more notifications, if time allows, once core
+features are done. This small set of new notifications would be selected in consultation
+with the E3 team, Oliver and community members and be spread out between these user
+groups: new members, new editors and active editors. 
+> 
+> We would also invite other in-house WMF teams like E3 to develop more notifications
+independently. For more details on notifications now under consideration, visit our
+feature requirements page or check our prioritized list.
+> 
+> Specifically, we discussed focusing the discussion around further notifications to
+the following 3 areas.  This is not to say that the team will commit to all or any of
+these notifications, but rather that the discussion around further notifications will be
+limited to the following areas (in addition to the notifications that are currently in
+development):
+> Positive notification for the user who has completed an unreverted edit/happy path. 
+> Rationale: Oftentimes, this user receives no response from the community and it would
+be good to introduce some positive feedback.  The assumption here is that under some
+definition of unreverted, these users are well-intentioned and could become constructive
+editors.
+> One notification that would be valuable to the experienced editor.  
+> Rationale: the existing feature set is targeted mainly at the new user.  This is
+intentional since experienced users know where to get information.  But it would be nice
+if we had at least one feature that filled a need for the experienced editor.  Caveat: the
+team needs to feel like it will be able to manage the subsequent feature requests that
+will inevitably come with an experienced-editor feature.
+> Discuss with the E3 team how to make watchlist (and the "notifications"
+inherent in watchlist) more visible.  
+> Rationale: Watchlists and Echo were designed to work as a system for surfacing things
+that happen on WP.  The team deliberately identified certain items as out of scope of Echo
+since they would be covered by watchlist.  However, if we start Flow work in Q4 (April
+2013), the earliest the team could start working on the watchlist/flow integration would
+be Q1 of next fiscal year.  This means that realistically, we're probably looking at 9
+months until we start making major improvements to the watchlist experience [1].  We need
+to at a minimum let users know that the watchlist exists and potentially make some
+preference changes to make watchlists more consumable.
+> Howie
+> 
+> [1] 
+> 
+> Apr - June: user to user messaging
+> 
+> July - Sep: watchlist/flow integration (which will need to be prioritized along other
+flow items)
+> 
+> 
+>  
+On Jan 16, 2013, at 11:46 PM, Fabrice Florin wrote:
+...  Thanks, Howie.
+ 
+ I appreciate this added level of detail and rationales for each area of investigation. 
+ 
+ I had left out these details to keep the report short and sweet, but already spend an
+hour honing in on these three areas with Oliver today, and plan to do the same with Steven
+tomorrow, then synthesize both meetings and review them with Vibha and Kaldari next week.
+ 
+ The first and third areas (positive and watchlist notifications) fill in nicely the
+missing gaps which we had previously identified in our research on a new user's first
+steps, as shown in these slides.
+ 
+ And Oliver will prepare a short list of candidates for the second area (experienced
+editor), culled from this updated notifications list, which we reviewed together today
+(yellow section).
+ 
+ Rest assured that these three specific areas will be well covered in our proposal for
+final new features for this release.
+ 
+ Cheers,
+ 
+ Fabrice 
+On Jan 17, 2013, at 9:48 AM, Fabrice Florin wrote:
+...  Thanks, Terry.
+ 
+ I appreciate your clarifications and have responded to some of your comments below.
+ 
+ Overall, it appears that we are on the same page on key objectives, which was the primary
+purpose of this planning sessions.
+ 
+ I look forward to addressing unresolved action items in coming days. Our goal is to do
+this in small teams, rather than in a large group discussion. When the small groups have
+prepared specific recommendations, they can present them to the whole team for discussion,
+to make the most effective use of everyone's limited time.
+ 
+ I would also like to remind everyone that if we could recruit a new engineer on the E2
+team right away, a lot of the hard decisions we are trying to make about which new
+notifications can be squeezed in this quarter would be reduced, because that person could
+work on getting a few of these done, working off the templates already built by Kaldari
+and Benny. To that end, I encourage you all to post about this job description in your
+community if you haven't already.
+ 
+ To be continued,
+ 
+ 
+ Fabrice
+ 
+ 
+ On Jan 16, 2013, at 11:56 PM, Terry Chay wrote:
+ 
+  Fabrice,
+ 
+ Thanks for this summary.
+ 
+ I believe the purpose was to prepare for the E2 quarterly review (with respect to the
+Echo project, in particular, so this is excepting Flow (which hasn't been started) and
+AFTv5 (which is on another thread and will be heading toward completion)).  
+ Actually, the purpose of this planning session, as initially proposed by Howie, was
+unrelated to the quarterly review, which may not happen for a while. Our intent was to get
+everyone on the same page, ask for ideas from the team and address unresolved issues
+together. I think we have accomplished that initial goal.
+ 
+  Given that I think there were three outcomes we
+need to focus on with the realization that we'll have to present this to Erik and
+Sue:
+ 
+ 1. To note some unresolved action items
+ 2. To discuss what has been done for last quarter (for Echo and AFTv5, we should probably
+note that this is the first quarter of E2 team development for Echo because PageTriage ran
+over, and we note that AFTv5 lost Matthias for 1 month to WIkiVoyage)
+ 3. To give the plan for the next quarter
+   
+ These are good action items for when we are invited to prepare for a quarterly review.
+ 
+  We also discussed developing a few more
+notifications, if time allows, once core features are done. This small set of new
+notifications would be selected in consultation with the E3 team, Oliver and community
+members and be spread out between these user groups: new members, new editors and active
+editors.   
+ 
+ With respect to (1) unresolved actions , there were three action items we need to resolve
+before the quarterly review. I think Fabrice is confusing these three in the sentence
+above (no worries, sometimes I can't read my notes either).
+ 
+ In my notes they are:
+ 
+ 1. Watchlists for E3
+ 2. Placeholder for power users
+ 3. Happy Path
+   
+ 
+ Thanks for clarifying these points. Howie had already done this last night, as outlined
+below. I had also included them in my slides, though the wording may not have been as
+clear as it could have. We are all in agreement on these objectives, even if we are using
+slightly different words to express them. ;o)
+ 
+ 
+  Now I may have been too drunk to rattle that off
+the top of my head last night but I believe this means:
+ 
+ 1. Watchlists are a notification in plan but what this means was not specificed. Some of
+this sounds overlapping with E3's onboarding experiment ("did you know you have a
+watchlist?"), and some of it may be done in notifications (for instance, the first n
+times a click on watchlist (default off for experienced editors) could pop a notification
+saying there are new events in the watchlist until the user builds a habit. It makes sense
+to actually resolve with E3 team what that is since "n" at least and other
+things are probably best determined as an experiment and implemented by E3 (using the
+hooks already provided in Echo). We should sync up with them on what "watchlist
+notifications" mean.  
+ Yes, we have already discussed different ways to make sure that new users are aware that
+1) they have a watchlist and 2) there are new items in that watchlist. A first approach is
+to send a one-time notification 10 days after registration ('did you know you have a
+watchlist?'), which is really easy to do, because it is triggered by a date, but may
+not be enough by itself. Another solution is to send a bundled notification if they have
+not visited their watchlist in a while, informing them there is new activity on that page
+("You have x new events on your watchlist'), which is a bit more complex, but
+appears doable in our time-frame. A third way is to put a little counter next to the
+watchlist link in the user menu, so they can see there are new items. We have also
+discussed the idea of automatically adding pages that you start or edit to your watchlist,
+if you are a new user, which everyone agrees is a good idea, but which we have not scoped
+out yet from a development standpoint. I had not yet head the idea you propose above,
+which I look forward to discussing further.
+ 
+ I have a meeting with Steven this afternoon to go over all this in detail, so we can
+determine how these ideas can integrate with E3's plans for onboarding new users. We
+also plan to discuss a possible collaboration to make some of these ideas happen this
+quarter, as well as explore the possibility of E3 taking on development of some new
+notifications next quarter, if it fits their overall goals.
+ 
+  
+ 2. I'd like to find one or two low-risk power-editor notifications to be done for
+March as long as they can added under the following criteria
+ - will not delay the release
+ - are feasible, low effort in engineering (Kaldari and Benny approved)
+ - will be seen positively by the editor community (a feature they would actually want)
+ My thinking is  If we don't do this, I'm worried that Echo will end up becoming a
+ghetto like MoodBar, or be seen by the editor community as being a thing that no real
+editor could use..  
+ I completely agree with your concerns, which we share with Oliver and others on our team.
+I also agree with your proposed criteria for selection. I would add one more criteria,
+which I proposed to Oliver yesterday: make sure that the selected features give us the
+most bang for the buck, so they can be used by as many power users as possible over a
+period of time. So this would give a slightly lower priority to notifications that are
+used infrequently (e.g. one-time notices) or that can only used by a small group of users
+(e.g. admins only). 
+ 
+ Oliver and I had a long conversation about all this yesterday, and I defer to him to
+recommend notifications that would generally address these criteria and help him sell this
+new product to as many experienced users as possible. For example, in yesterday's
+conversation, we identified a couple useful notifications which would benefit many active
+editors ('your page was rated or featured', or 'x readers posted useful
+feedback on your page'). You can see some of the notification ideas we discussed at
+the end of this Google spreadsheet (in the yellow section). The next step is to boil down
+all these ideas to a short list, and run them by more editors, so we can identify the best
+prospects for development later this quarter. Oliver and I will work closely together to
+make this happen in coming weeks. 
+ 
+  However, Echo is not LiquidThreads—our
+notifications system is widely perceived as ad hoc and broken. There should be some
+notifications that would give Echo a modest amount of utility to the power user, and they
+will welcome. I could be wrong so if Oliver can't find anything that Kaldari
+doesn't think is too much work, I'm not married here. (Suggestions for Oliver: 1)
+userrights notifications; 2) someone blocked has left a note on talk page (currently
+handled by editor habit of watchlist the talk pages of people they've blocked)).
+ 
+ 3. Howie has pointed out the current way MediaWiki interacts with the user are negative
+in nature (you've been reverted, etc.). A lot of studies have shown that it takes 5
+positive reinforcements to make up for one negative one. Howie would like us to have that
+ratio or better in the notifications we send which he calls the "Happy Path."
+Notifications that provide a positive reinforcement should be added to the spec. Some
+thought on what those are needs to be discussed and spec'd.
+   
+ Yes, focusing on positive notifications is a goal which I have advocated repeatedly for
+several months now, and our entire team is onboard with it. We have been discussing
+options that could help us serve that goal since November and have already identified a
+number of positive notification ideas in this 'Positive' section of our feature
+requirements page. However, a challenge we face is how to give positive reinforcement to a
+new editor after their first few edits. One possible solution we have discussed is giving
+new users a bundled notification that '20 people have contributed to this page since
+your last edit'. While this type of activity is currently handled by the watchlist,
+this type of 'contributions' notification could have a positive impact in getting
+the new user to go back to a page they edited earlier (particularly if they don't yet
+feel motivated to use the watchlist). This is almost certainly better than only sending
+them negative notifications when their edits are reverted (which is like a slap in the
+face) -- or sending them no notifications whatsoever after their first edits (which is
+what we are doing now). This problem can be illustrated by this new editors slide in our
+planning deck.
+ 
+ 
+  When 1-3 is resolved, I think we need to change
+the slide:
+https://docs.google.com/a/wikimedia.org/presentation/d/1ps7-i_fISUldycH1LFr…
+ 
+ (BTW I think this shouldn't be a GANTT chart (neither should the echo features slide
+before it). It makes engineering look like a factory. It should simply be a list of
+notifications for Q3 release (with a short description/example/mockup of what they
+mean/might look like), followed by a list (with no description) of features that might be
+considered later. Same goes for the echo features slide.
+   
+ I think there is value in having a rough timeline showing when we think the bulk of the
+development effort will take place.
+ 
+ However, if you prefer simple bullet lists, here is one for next features, and here is
+one for future features. We also have a preliminary table for new user notifications,
+which we can adapt to include the other proposed notifications discussed above. 
+ 
+  Specific milestones for this quarter include:
+ * Launch Echo first release on English Wikipedia by March 2013
+ * Deploy Article Feedback to 100% on English Wikipedia by March 2013
+ * Release first beta for Flow on MediaWiki by June 2013  
+ As for (3) give guidance for Q3. The point is a list of stuff we want to do for the March
+release on enwiki in end of Q3.
+ The idea here is to free up the team for continued development on Echo or transition to
+starting Flow in Q4 (with the target of end of Q4 release of Flow on mediawiki.org). (So
+milestones for this quarter are the first two, not the third.)
+   
+ Good point about my error for the third bullet point for Flow. It should have been
+focused on Q3, not Q4. My apologies.
+ 
+ I am happy to provide more guidance for Q3 on Flow as I get more familiar with this
+product. The only guidance I can offer for Flow at this early stage is to jointly develop
+a product plan and design spec for a minimum viable product focused on user-to-user
+messaging. Both the plan and the design spec should be complete by the end of Q3 at least
+, so we can start development with a larger team in Q4. So the only milestone I can
+recommend now would be:
+ 
+ * complete Flow product plan and design spec by March 2013
+ 
+ Sound good?
+ 
+ 
+  With respect to the first specifically, I
+modified/cleaned up the slide
+<https://docs.google.com/a/wikimedia.org/presentation/d/1ps7-i_fISUldycH1LFrJ45dkIF9fwjdJP6dYbV6HaBY/edit#slide=id.g77ef3ac0_1_256>:
+   
+ Thanks for the improvements!
+ 
+ To reduce visual clutter, I tightened this slide just a bit, for readability, but I
+totally agree with every item you proposed.
+ 
+ Note that we already have a working definition of defaults by user rights on our feature
+requirements page.
+ 
+  •  focus on new users (but make it usable by
+active editors)
+ •  complete core features (flyout, "archive", prefs/userrights, job queue,
+bundling, metrics, HTML email)
+ •  add a few more notifications (for new members/editors. active editors, "happy
+path")
+ •  deploy limited release on en-wiki (default preferences depending on new/exisitng
+editor (new editor focused notifications (ex. pagelinks) default off))
+ •   fix bugs + critical feature tweaks (as needed, prioritized by urgency)
+ •  provide in-house developer support (through hooks, i18n and dev guidelines for teams
+like E3)
+   estimate maintenance + i18n support (2013-2014 plan)
+ 
+ [My changes:
+ -  "archive" is in quotes because it is not persistent
+ - added "userrrights" to preferences (Kaldari)
+ - moved HTML e-mail to end of core features because it's a non essential deliverable
+(though it's almost done anyway)
+ - moved Howie's Happy Path into "few more notifications"
+ - merged new members/editors from new members and new editors
+ - changed the default preferences to note that some defaults actually dependent on who
+(for instance, if userrights gets it, that should be default on for existing users, not
+off, but things like e-mail notifications on pagelinks better be default off)
+ - explained what "in-house developer support" actually means (mediawiki hooks)
+ - changed localization (which is a translation task) to internationalization (which is a
+programming one)]
+ 
+ I question whether Flow should be mentioned in guidance since this is supposed to be a
+review meeting. So while it's a summary of prep, we shouldn't be presenting it
+until next quarter.
+ 
+ 
+ If anyone cares, here are my notes from the meeting:
+ 
+ <2013-01-15 E2 Q3 review.html>
+   
+On Jan 17, 2013, at 10:24 AM, Terry Chay wrote:
+...  Wanted to send this to we because people like Aaron
+may have ideas especially re happy path.
+ 
+ Tl;dr Howie would like to shift focus of default Echo notifications to ones that generate
+positive messages.
+ 
+ Sent from my <free corporate advertising removed at the request of the owner>
+ 
+ Begin forwarded message:
+ 
+  From: Oliver Keyes &lt;okeyes(a)wikimedia.org&gt;
+ Date: January 17, 2013, 8:01:25 AM PST
+ To: Terry Chay &lt;tchay(a)wikimedia.org&gt;
+ Cc: Fabrice Florin &lt;fflorin(a)wikimedia.org&gt;rg>, Howie Fung &lt;hfung(a)wikimedia.org&gt;rg>,
+Ryan Kaldari &lt;rkaldari(a)wikimedia.org&gt;rg>, Benny Situ &lt;bsitu(a)wikimedia.org&gt;rg>, Luke
+Welling &lt;lwelling(a)wikimedia.org&gt;rg>, Matthias Mullie &lt;mmullie(a)wikimedia.org&gt;rg>,
+Brandon Harris &lt;bharris(a)wikimedia.org&gt;rg>, Vibha Bamba &lt;vbamba(a)wikimedia.org&gt;rg>,
+Erik Moeller &lt;erik(a)wikimedia.org&gt;rg>, Steven Walling &lt;swalling(a)wikimedia.org&gt;rg>,
+Maryana Pinchuk &lt;mpinchuk(a)wikimedia.org&gt;rg>, Dario Taraborelli
+&lt;dtaraborelli(a)wikimedia.org&gt;rg>, James Forrester &lt;jforrester(a)wikimedia.org&gt;
+ Subject: Re: E2 Planning Meeting Notes
+ 
+ 
+ 
+ On 17 January 2013 07:56, Terry Chay &lt;tchay(a)wikimedia.org&gt; wrote:
+ Fabrice,
+ 
+ Thanks for this summary.
+ 
+ I believe the purpose was to prepare for the E2 quarterly review (with respect to the
+Echo project, in particular, so this is excepting Flow (which hasn't been started) and
+AFTv5 (which is on another thread and will be heading toward completion)). Given that I
+think there were three outcomes we need to focus on with the realization that we'll
+have to present this to Erik and Sue:
+ 
+ 1. To note some unresolved action items
+ 2. To discuss what has been done for last quarter (for Echo and AFTv5, we should probably
+note that this is the first quarter of E2 team development for Echo because PageTriage ran
+over, and we note that AFTv5 lost Matthias for 1 month to WIkiVoyage)
+ 3. To give the plan for the next quarter
+ 
+ 
+  We also discussed developing a few more
+notifications, if time allows, once core features are done. This small set of new
+notifications would be selected in consultation with the E3 team, Oliver and community
+members and be spread out between these user groups: new members, new editors and active
+editors.   
+ 
+ With respect to (1) unresolved actions , there were three action items we need to resolve
+before the quarterly review. I think Fabrice is confusing these three in the sentence
+above (no worries, sometimes I can't read my notes either).
+ 
+ In my notes they are:
+ 
+ 1. Watchlists for E3
+ 2. Placeholder for power users
+ 3. Happy Path
+ 
+ Now I may have been too drunk to rattle that off the top of my head last night but I
+believe this means:
+ 
+ 1. Watchlists are a notification in plan but what this means was not specificed. Some of
+this sounds overlapping with E3's onboarding experiment ("did you know you have a
+watchlist?"), and some of it may be done in notifications (for instance, the first n
+times a click on watchlist (default off for experienced editors) could pop a notification
+saying there are new events in the watchlist until the user builds a habit. It makes sense
+to actually resolve with E3 team what that is since "n" at least and other
+things are probably best determined as an experiment and implemented by E3 (using the
+hooks already provided in Echo). We should sync up with them on what "watchlist
+notifications" mean.
+ 
+ 2. I'd like to find one or two low-risk power-editor notifications to be done for
+March as long as they can added under the following criteria
+ - will not delay the release
+ - are feasible, low effort in engineering (Kaldari and Benny approved)
+ - will be seen positively by the editor community (a feature they would actually want)
+ My thinking is  If we don't do this, I'm worried that Echo will end up becoming a
+ghetto like MoodBar, or be seen by the editor community as being a thing that no real
+editor could use.. However, Echo is not LiquidThreads—our notifications system is widely
+perceived as ad hoc and broken. There should be some notifications that would give Echo a
+modest amount of utility to the power user, and they will welcome. I could be wrong so if
+Oliver can't find anything that Kaldari doesn't think is too much work, I'm
+not married here. (Suggestions for Oliver: 1) userrights notifications; 2) someone blocked
+has left a note on talk page (currently handled by editor habit of watchlist the talk
+pages of people they've blocked)).
+ 
+ If Kaldari can verify they're not too much of a pain we can go with these - I'd
+like it if we could throw a core group of suggestions at editors and see what sticks.
+ 
+ 
+ 3. Howie has pointed out the current way MediaWiki interacts with the user are negative
+in nature (you've been reverted, etc.). A lot of studies have shown that it takes 5
+positive reinforcements to make up for one negative one. Howie would like us to have that
+ratio or better in the notifications we send which he calls the "Happy Path."
+Notifications that provide a positive reinforcement should be added to the spec. Some
+thought on what those are needs to be discussed and spec'd.
+ 
+ One idea I had for this yesterday; so, the main thing kicking us in the arse is that
+MediaWiki doesn't really have a way of registering that an edit is good. However:
+MediaWiki doesn't really register that edits are bad, either: a lot of that is done
+through third-party plugins like Huggle or bots like ClueBot - things patrolling for
+vandalism. When they see a good edit, they've got no way of saying anything and are
+silent. When they've got a bad edit, they warn/revert/whatever.
+ 
+ What we might want to do is build a "your edit was fine! $thing reviewed it! Great
+job!" notification that can be kicked through the API. We can then hook into a lot of
+the third-party development that's been done on anti-vandalism tools. So, in this
+world, instead of "approve of edit (silently), disapprove (revert and warn)",
+Huggle/ClueBot/so on send a notification to the user who made the 'good' edit
+saying "this was good! Keep it up". We'd need to make puppy eyes at the
+third-party people to implement, but it's actually a lot less work than building the
+notification and also finding some trigger in MediaWiki for it to take its cues off, and
+has a better signal:noise ratio than any trigger I've yet heard discussed.
+  
+ When 1-3 is resolved, I think we need to change the slide:
+https://docs.google.com/a/wikimedia.org/presentation/d/1ps7-i_fISUldycH1LFr…
+ 
+ (BTW I think this shouldn't be a GANTT chart (neither should the echo features slide
+before it). It makes engineering look like a factory. It should simply be a list of
+notifications for Q3 release (with a short description/example/mockup of what they
+mean/might look like), followed by a list (with no description) of features that might be
+considered later. Same goes for the echo features slide.
+ 
+ 
+  Specific milestones for this quarter include:
+ * Launch Echo first release on English Wikipedia by March 2013
+ * Deploy Article Feedback to 100% on English Wikipedia by March 2013
+ * Release first beta for Flow on MediaWiki by June 2013  
+ As for (3) give guidance for Q3. The point is a list of stuff we want to do for the March
+release on enwiki in end of Q3. The idea here is to free up the team for continued
+development on Echo or transition to starting Flow in Q4 (with the target of end of Q4
+release of Flow on mediawiki.org). (So milestones for this quarter are the first two, not
+the third.)
+ 
+ With respect to the first specifically, I modified/cleaned up the slide
+<https://docs.google.com/a/wikimedia.org/presentation/d/1ps7-i_fISUldycH1LFrJ45dkIF9fwjdJP6dYbV6HaBY/edit#slide=id.g77ef3ac0_1_256>:
+ 
+ •  focus on new users (but make it usable by active editors)
+ •  complete core features (flyout, "archive", prefs/userrights, job queue,
+bundling, metrics, HTML email)
+ •  add a few more notifications (for new members/editors. active editors, "happy
+path")
+ •  deploy limited release on en-wiki (default preferences depending on new/exisitng
+editor (new editor focused notifications (ex. pagelinks) default off))
+ •   fix bugs + critical feature tweaks (as needed, prioritized by urgency)
+ •  provide in-house developer support (through hooks, i18n and dev guidelines for teams
+like E3)
+   estimate maintenance + i18n support (2013-2014 plan)
+ 
+ [My changes:
+ -  "archive" is in quotes because it is not persistent
+ - added "userrrights" to preferences (Kaldari)
+ - moved HTML e-mail to end of core features because it's a non essential deliverable
+(though it's almost done anyway)
+ - moved Howie's Happy Path into "few more notifications"
+ - merged new members/editors from new members and new editors
+ - changed the default preferences to note that some defaults actually dependent on who
+(for instance, if userrights gets it, that should be default on for existing users, not
+off, but things like e-mail notifications on pagelinks better be default off)
+ - explained what "in-house developer support" actually means (mediawiki hooks)
+ - changed localization (which is a translation task) to internationalization (which is a
+programming one)]
+ 
+ I question whether Flow should be mentioned in guidance since this is supposed to be a
+review meeting. So while it's a summary of prep, we shouldn't be presenting it
+until next quarter.
+ 
+ 
+ If anyone cares, here are my notes from the meeting:
+ 
+ The notes align with my recollection of what was discussed. 
+ 
+ 
+ 
+ -- 
+ Oliver Keyes
+ Community Liaison, Product Development
+ Wikimedia Foundation  _______________________________________________
+ EE mailing list
+ EE(a)lists.wikimedia.org
+ https://lists.wikimedia.org/mailman/listinfo/ee 
+Attachments:
+attachment.htm
+                (text/html — 52.9 KB)
+            
+ 0
+ 0
+            Reply
+        
+Back to the thread
+            Back to the list
+        
+ 
+            Powered by HyperKitty version 1.3.4.
+        

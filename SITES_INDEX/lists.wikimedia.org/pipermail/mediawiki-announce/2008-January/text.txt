@@ -1,0 +1,93 @@
+ [MediaWiki-announce] MediaWiki 1.11.1, 1.10.3, 1.9.5 released
+   
+[MediaWiki-announce] MediaWiki 1.11.1, 1.10.3, 1.9.5 released
+Brion Vibber
+brion at wikimedia.org
+       
+Thu Jan 24 00:59:14 UTC 2008
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+This is a security and bugfix release of the Fall, Spring, and Winter
+2007 snapshot releases of MediaWiki. A potential XSS injection vector
+affecting api.php only for Microsoft Internet Explorer users has been
+closed.
+To work around the vulnerability without upgrading, you may disable the
+API if you don't need it:
+~  $wgEnableAPI = false;
+Not vulnerable versions:
+* 1.12 or later
+* 1.11 >= 1.11.1
+* 1.10 >= 1.10.3
+* 1.9 >= 1.9.5
+* 1.8 any version (if $wgEnableAPI has been left off)
+Vulnerable versions:
+* 1.11 <= 1.11.0rc1
+* 1.10 <= 1.10.2
+* 1.9 <= 1.9.4
+* 1.8 any version (if $wgEnableAPI has been switched on)
+MediaWiki 1.7 and below are not affected as they do not include
+the API functionality, however the BotQuery extension is similarly
+vulnerable unless updated to the latest SVN version.
+Full release notes:
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_11_1/phase3/RELEASE-NOTES
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_10_3/phase3/RELEASE-NOTES
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_9_5/phase3/RELEASE-NOTES
+Download:
+http://download.wikimedia.org/mediawiki/1.11/mediawiki-1.11.1.tar.gz
+http://download.wikimedia.org/mediawiki/1.11/mediawiki-1.11.1.patch
+http://download.wikimedia.org/mediawiki/1.10/mediawiki-1.10.3.tar.gz
+http://download.wikimedia.org/mediawiki/1.10/mediawiki-1.10.3.patch
+http://download.wikimedia.org/mediawiki/1.9/mediawiki-1.9.5.tar.gz
+http://download.wikimedia.org/mediawiki/1.9/mediawiki-1.9.5.patch
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.11/mediawiki-1.11.1.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.11/mediawiki-1.11.1.patch.sig
+http://download.wikimedia.org/mediawiki/1.10/mediawiki-1.10.3.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.10/mediawiki-1.10.3.patch.sig
+http://download.wikimedia.org/mediawiki/1.9/mediawiki-1.9.5.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.9/mediawiki-1.9.5.patch.sig
+SHA-1 checksums:
+d452e0013969b064a2166eeae8d03227a8ff1fa3 mediawiki-1.11.1.tar.gz
+1de49e3f8e4cf3965f8725d8389f69259bc7345c mediawiki-1.11.1.patch
+2545518fde24b9b5fe8754bbe57cf4c8413d7cd5 mediawiki-1.10.3.tar.gz
+815930de473097aa1f2047cf8fce37cab0e39940 mediawiki-1.10.3.patch
+cd38fbd4dc255d13bdf5b04057469f87c9f85ae2 mediawiki-1.9.5.tar.gz
+3a37c7146e96d471aead18bd65c951905c3a590f mediawiki-1.9.5.patch
+MD5 checksums:
+a7c9c31c3e6ab1d1137930b7dc86b2a7  mediawiki-1.11.1.tar.gz
+206888cefca030ace4e96008d0ea4f3b  mediawiki-1.11.1.patch
+e5e798b400c955a519c65efab8d25192  mediawiki-1.9.5.tar.gz
+f71b5debbaa78a48740e74fe6965d3b1  mediawiki-1.9.5.patch
+8a4be92512b428d6c6301febf96ea2bf  mediawiki-1.10.3.tar.gz
+eaec534dcd957d59022148f9d075d028  mediawiki-1.10.3.patch
+Before asking for help, try the FAQ:
+http://www.mediawiki.org/wiki/Manual:FAQ
+Low-traffic release announcements mailing list:
+(Please subscribe to receive announcements of security updates.)
+http://lists.wikimedia.org/mailman/listinfo/mediawiki-announce
+Wiki admin help mailing list:
+http://lists.wikimedia.org/mailman/listinfo/mediawiki-l
+Bug report system:
+http://bugzilla.wikimedia.org/
+Play "stump the developers" live on IRC:
+#mediawiki on irc.freenode.net
+- -- brion vibber (brion @ wikimedia.org)
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.2.2 (Darwin)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+iD8DBQFHl+LiwRnhpk1wk44RAp2kAKDAdCn0ZJynAItqo2NRosNbWdLkfgCeOjGj
+9zZ6KS9kj3ia+g7VLKmW15Q=
+=nrpu
+-----END PGP SIGNATURE-----
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+More information about the MediaWiki-announce
+mailing list

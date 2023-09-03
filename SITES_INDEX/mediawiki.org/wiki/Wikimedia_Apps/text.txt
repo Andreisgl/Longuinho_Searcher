@@ -1,0 +1,408 @@
+Wikimedia Apps/iOS FAQ - MediaWiki
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageGet MediaWikiGet extensionsTech blogContribute
+Support
+User helpFAQTechnical manualSupport deskCommunication
+Development
+Developer portalCode statistics
+MediaWiki.org
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+In other languages
+Add links
+Search
+Search
+ EnglishCreate accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+Beginning
+1General
+Toggle General subsection
+1.1Where can I download the app?
+1.2How do I report a typo, inaccuracy, or error in an article?
+1.3How do I donate to Wikipedia?
+1.4I already donated; why am I getting asked to donate again?
+1.5Do I need to be connected to the Internet to use the app?
+2Explore
+Toggle Explore subsection
+2.1Why there's a difference between the iOS app en.Wiki Main screen and www en.Wiki Main page?
+2.2How do I hide an article recommendation?
+2.3How does the app make these recommendations?
+2.4When does new content appear on the Explore page?
+2.5Can I turn off or change Explore or recommendations?
+3Places
+Toggle Places subsection
+3.1How do I find articles near my current location?
+3.2Do I have to share my location to use Places?
+3.3How do I see my saved articles on the map?
+3.4Can I get directions to a location on the Places map?
+3.5Why isn’t a specific place shown on the map?
+4Saved Pages and Reading lists
+Toggle Saved Pages and Reading lists subsection
+4.1Can I save articles for offline reading?
+4.2How do I organize my saved pages into folders or lists?
+4.3How do I search ONLY the pages I’ve saved and can read offline?
+4.4How are my saved pages ordered? Can I sort them?
+4.5I have the Wikipedia app for Android or on another iOS device, how do I share or sync these lists?
+4.6Can I access my reading lists on the web?
+4.7Do Reading lists and Watchlists work together?
+4.8Is it possible to mark reading lists of saved articles either as private or as public? Is it also possible to share or recommend (via unique url/link) such reading lists as kind of dossiers to others?
+5Language support
+Toggle Language support subsection
+5.1Can I read articles in more than one language?
+5.2How do I remove languages?
+5.3How do I set my primary language?
+5.4How do I re-order the languages on my list?
+5.5How do I customize which languages are in my Explore feed?
+6Readability and accessibility
+Toggle Readability and accessibility subsection
+6.1Can I change the font size?
+6.2Can I change the background or text color? Do you have night mode?
+6.3Do you support the Smart Invert feature?
+6.4Can I use assistive technologies like VoiceOver?
+6.5How do I get the app to read Wikipedia articles out loud?
+7Media support
+Toggle Media support subsection
+7.1Can I play audio or video in the app?
+8Sharing
+Toggle Sharing subsection
+8.1How do I share an article, image, or link?
+8.2How do I Share-a-Fact (an image with a quote or fact included)?
+8.3Can I select which image is shared?
+9Links
+Toggle Links subsection
+9.1How can I open Wikipedia links from Safari/Mail/etc. in the app?
+9.2How do I STOP iOS from opening Wikipedia links automatically in the app?
+9.3How do I open an article from the app in Safari (or any other browser)?
+10Widgets and icon shortcuts
+Toggle Widgets and icon shortcuts subsection
+10.1What widgets does Wikipedia provide?
+10.2How do I use Wikipedia widgets?
+10.3How do I remove Wikipedia widgets?
+11Privacy and data usage
+Toggle Privacy and data usage subsection
+11.1Does your app track me? Do you use my data?
+11.2Do you track my location?
+11.3What information does the usage report contain?
+12Editing
+Toggle Editing subsection
+12.1How do I create an account?
+12.2Do I have to be logged in to edit?
+12.3Can I upload pictures?
+12.4Can I view a page's history and talk pages?
+12.5I’m getting blocked from logging in or editing, what should I do?
+12.6Can I create an article from the app?
+13Talk pages
+Toggle Talk pages subsection
+13.1What are article talk and user talk pages?
+13.2When do I start a new topic and a new thread?
+13.3Can I edit the talk page using the source editor via the app?
+13.4How do I delete a comment?
+13.5What happens when I subscribe to a topic?
+13.6Can I filter through the comments?
+14Notifications
+Toggle Notifications subsection
+14.1Can I get push notifications for my editing alerts?
+14.2Why aren’t some of my old 'read' messages not showing in the app Notification center?
+14.3Where are the alert and notifications tabs?
+14.4Can I pick which projects I get notifications from?
+14.5I’m not getting all my messages as push notifications on my lock screen, even though I granted permissions. Why?
+14.6How do I get notifications from other Wikimedia projects?
+14.7How do I get notification destinations like User:Talk  to open in the web interface?
+14.8Why am I getting notifications for a project I never edited?
+14.9How do I select which languages and projects I see in my notifications?
+14.10Can I prioritize important notifications for push and not get all of them?
+14.11The read/seen count on the web and the app notification center or badge are inconsistent
+15Improving Performance: Quick Workaround Solution
+16Developing the app and Contacting the app team
+Toggle Developing the app and Contacting the app team subsection
+16.1I am an iOS developer, can I contribute to the app?
+16.2Can I test a new version or be part of your beta testers?
+16.3Where do I report bugs?
+16.4If I have a question or a suggestion, how do I get in touch?
+Toggle the table of contents
+Toggle the table of contents
+Wikimedia Apps/iOS FAQ
+PageDiscussion
+English
+ReadView sourceView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadView sourceView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+From mediawiki.org
+< Wikimedia Apps
+Translate this pageLanguages:Bahasa Indonesia
+Deutsch
+English
+dansk
+español
+français
+italiano
+polski
+svenska
+العربية
+سنڌي
+中文
+日本語
+General
+Where can I download the app?
+The app is available in Apple's App Store worldwide.
+How do I report a typo, inaccuracy, or error in an article?
+Wikipedia is the world's largest encyclopedia anyone can edit! If you see a typo or other error in an article, simply click the “pencil” icon or select any text and tap Edit from the popover. This will show the Wikitext of the article which you can then edit and save. 
+If you make lots of edits, we recommend you log in via the Settings screen, so that you can keep track of your work, talk to other editors and join the worldwide Wikimedia community.
+How do I donate to Wikipedia?
+You can donate at any time by going to Settings and selecting Support Wikipedia. 
+I already donated; why am I getting asked to donate again?
+Due to our strict privacy guidelines, we don’t actually connect your app usage or user account to your donation history. This means you may see a donation request in the app even if you have previously donated on the web.
+Do I need to be connected to the Internet to use the app?
+You do need a connection to download articles, and to use the Explore and Places features. But you can save articles and read them later without an active connection.
+Explore
+Why there's a difference between the iOS app en.Wiki Main screen and www en.Wiki Main page?
+Both apps present information from various languages in a card-based feed we call Explore.
+This is because mobile apps do not present content on small phones in the "web page template" style that websites do.
+So we take the content from those main pages that volunteers own and create, and we present that as cards in an easily scrollable and customizable feed.
+This also allows us to easily combine multiple languages into one place, which is not possible with the "web main page" system (each language is its own experience/page). It's also beneficial for multilingual users.
+The traditional main page is still available in the app, but the Explore page presents a more "mobile app" experience for easy browsing.
+Users can also turn off the Explore feed and save their main page if they prefer to go to the classic view quickly and easily and not see the Explore version of the content.
+How do I hide an article recommendation?
+You can remove article recommendations from Explore by tapping the “…” icon and tapping Hide this card. To remove all recommendations based on your reading history, tap the “...” icon and select the Hide all Because you read Recommendations. You can also customize the Explore feed content from the Settings menu’s Explore feed screen.
+How does the app make these recommendations?
+When you read or save an article, we ask the Wikipedia search engine to provide 3 articles similar to the one you just read. We do this using a standard search interface and do not build user profiles or track specific users actions on our servers. Deleting your local Recents list (tap Recents, then Clear in the upper left), will delete your device's local reading history.
+When does new content appear on the Explore page?
+New recommendations are added after you read or save a page in the app. A block of daily content (Featured Article, Top Read, Picture of the Day, etc.) is inserted the first time the feed is used each calendar day. 
+Can I turn off or change Explore or recommendations?
+Yes, go to the Settings screen and tap the Explore feed option, and you can select the type of content or languages included, and also disable the Explore screen entirely. Turning off the Explore feed makes the Search screen the “home page” of the app.
+Places
+How do I find articles near my current location?
+On the Places tab! The first time you visit Places, you’ll be asked for access to your location by iOS. If you grant this access (which will be used only for Places search) the Places map should center on your current location and load the most popular places near you. 
+Do I have to share my location to use Places?
+No. When you first use the Places tab you will be asked to grant location access. This is used only to find articles near your location. You can search for places by name, or drag and zoom on the map to use Places without sharing this location. If you later wish to grant access you can go to the Settings app and look for Wikipedia under Location Services. 
+How do I see my saved articles on the map?
+You can use reading lists to create custom maps with pins for each article. This is a great way to plan a day touring a new area or even to look at historical events together on a modern map. On the top of the Places tab, select the filter option drop down. By default this is set to Top Read; selecting Saved Pages will filter the pins on the map to only places from your saved articles.
+Can I get directions to a location on the Places map?
+Yes, by opening a pinned location in Maps. To do this, tap a location or select it from the list of locations. Under the Share action, you will find an option to Get Directions in Maps.
+Why isn’t a specific place shown on the map?
+Wikipedia is huge and ever growing. But it is not exhaustive. Not all articles have been tagged with their geographic locations, not all notable locations have articles yet, and some articles may not be viewed frequently enough to be Top Read in a specific area. Try searching for your location by name on the Places tab, or zoom closer into the area to narrow your search on the map.
+Saved Pages and Reading lists
+Can I save articles for offline reading?
+To save an article for reading later, tap the “bookmark" icon in the bottom bar while viewing the article. You can also save articles from search results and other lists by swiping and selecting the bookmark in the actions menu. 
+To view your saved articles, tap the Saved tab. Saved articles, including their images, are available offline.
+How do I organize my saved pages into folders or lists?
+When saving an article, a shortcut appears at the bottom of the screen. Tap the shortcut to create and organize saved pages into reading lists. 
+You can also organize saved pages and reading lists from the Saved tab by tapping Edit. 
+How do I search ONLY the pages I’ve saved and can read offline?
+Tap the Saved tab of the app’s main tabs. At the top of this tab is a search box which will search through all your pages on device. You can also search within a single Reading list, by selecting the list from the Reading lists tab, and using the search box at the top of the list’s screen.
+How are my saved pages ordered? Can I sort them?
+By default, Saved pages are displayed in the order in which they were saved. To sort them alphabetically, tap the Sort button in the upper right (next to the search box) and select your preferred sorting.
+I have the Wikipedia app for Android or on another iOS device, how do I share or sync these lists?
+While using the same account on both devices, you should be asked if you want to sync your lists across devices. Opting in will keep your lists in sync across both iOS and Android. 
+Can I access my reading lists on the web?
+Currently you need to use a browser extension which is free and available on the Firefox, Safari and Chrome web stores.
+Do Reading lists and Watchlists work together?
+Currently Reading lists in the apps and Watchlists used for editing on the web are separate and do not sync or get shared. We hope to bring Watchlists to the apps and Reading lists to the web in future updates.
+Is it possible to mark reading lists of saved articles either as private or as public? Is it also possible to share or recommend (via unique url/link) such reading lists as kind of dossiers to others?
+When you create reading lists and sync them to your Wikipedia account, those lists are private, and not accessible by anyone else. They cannot be made public.
+When you share a reading list, the list is literally inside the URL that is shared (the URL contains the list; it's not stored on a server), and it's no longer associated with your account. So, the list becomes "public" at that point, but your username is no longer part of it.
+Language support
+Can I read articles in more than one language?
+You can see content from multiple Wikipedias at the same time by setting up multiple languages in the My Languages setting. To do this tap Add Language and then search for the language you want to include.
+Adding additional languages makes it easy to switch between languages while reading or searching, and combines content from across your languages in the Explore feed.
+How do I remove languages?
+Tap the More button on the search screen, or go to Settings and select My Languages. Tap Edit on the My Languages screen to delete, add or reorder languages. 
+Using only one preferred language will hide the language search bar completely, or under Settings, set the Show languages on search switch to off.
+How do I set my primary language?
+Your primary language is the first language on your My Languages list. To make a language primary go to My Languages, tap Edit, and drag to reorder languages. You will be asked to confirm your new primary language.
+How do I re-order the languages on my list?
+You can change the order the languages in your My Languages list. Go to My Languages, tap Edit, and drag to reorder languages. If you make a new language first on your list, you will be asked to confirm your new primary language.
+How do I customize which languages are in my Explore feed?
+You can customize which languages and which content from those languages are included in your Explore any time by going to your Settings. In Settings select Wikipedia languages. Here you can add and remove languages, and by selecting the Customize Explore feed option you can even select what content from which languages will be included. 
+Readability and accessibility
+Can I change the font size?
+You can adjust the article text size using the Text Size tool from any article's toolbar. This setting affects the size of the text in articles, previews and summaries. To adjust the size of the user interface elements (like buttons) you can use iOS’s Dynamic Text setting, which will adjust the size of interface text across your device, including on Wikipedia.
+Can I change the background or text color? Do you have night mode?
+You can select the color palette for text and background, and also apply dimming to images in the Reading preferences screen of Settings. We don’t currently support automatic night mode directly in the app’s settings, but we do have both a Dark and Black palette which make great low-light reading options. We also support the dimming of images to reduce brightness of images throughout the app.
+Do you support the Smart Invert feature?
+Yes. Turning on Smart Invert in the iOS Accessibility options will invert the colors in the app, except for images.
+Can I use assistive technologies like VoiceOver?
+Yes. Our app supports VoiceOver for all navigation, and article content can be read by VoiceOver. We do not currently support Switch Control or other dexterity technologies.
+How do I get the app to read Wikipedia articles out loud?
+The app supports screen reading via the voice features built into the OS and device. To have an article read to you simply ask Siri to "read the screen" with the article open. Or go to the Settings on your device, tap Accessibility then Spoken Content, and turn on Screen Reading. You do not need to enable VoiceOver fully to have articles read. You can make this a "Per App" setting if you want this to be available only in the Wikipedia.
+Media support
+Can I play audio or video in the app?
+Unfortunately, due to the limited number of media formats available on iOS, we can only support some audio in the app. Video is not supported at this time.
+Sharing
+How do I share an article, image, or link?
+On the article or image, tap the Share button. Then choose the social network or app you want to share to. You can also save images to your Photo Roll or copy URLs from here.
+How do I Share-a-Fact (an image with a quote or fact included)?
+To use the Share-a-Fact option, select the quote or fact text you want to share. Then long press the selected text and choose Share from the popover menu. The Share-a-Fact preview will show you how your image will look.
+Can I select which image is shared?
+If you are sharing an image, yes. For Share-a-Fact sharing, the first usable image of the article is selected. You cannot currently select a different image.
+Links
+How can I open Wikipedia links from Safari/Mail/etc. in the app?
+To open a link in the app, long press a link to Wikipedia. You'll then be offered the option to Open in Wikipedia. (Note that links to Commons, Wiktionary or other Wikimedia projects are not supported at this time.)
+How do I STOP iOS from opening Wikipedia links automatically in the app?
+iOS uses your past link opening choices to determine how to handle links. To stop this:
+Long press a link to Wikipedia.
+Select "Safari" instead of the app.
+You may need to do this a few times, but iOS will learn that you do not want these links opened in the app.
+How do I open an article from the app in Safari (or any other browser)?
+When reading the article, press the Share button on the toolbar. You should see options to open the link in Safari (or other installed browser) as well as the option to copy the URL to paste into other apps.
+Widgets and icon shortcuts
+What widgets does Wikipedia provide?
+We provide Today screen widgets for the daily Featured Article, Top 5 most read articles in your primary language, Random articles, and Continue Reading your last article. You can enable (or disable) these from the Today screen Edit menu.
+How do I use Wikipedia widgets?
+To add Wikipedia's widgets, go to your device's Today screen and scroll down to find the Edit button. On the edit screen, look for the Wikipedia icon, and add the widgets using the “plus” icon. You can also move widgets up and down the list to set Wikipedia's place on the screen.
+How do I remove Wikipedia widgets?
+Scroll to the bottom of the Today screen and tap Edit. Tap the Delete button next to the widgets you want to remove, then press Done.
+Privacy and data usage
+Does your app track me? Do you use my data?
+Only if you opt in during app setup or via Enable data collection in the Settings menu.
+For opted-in users, the app will track some of your actions, and send reports of crashes.
+In no case will we share that information with 3rd parties.
+Specific details on what information is collected can be found on the usage reports details page.
+These reports are only sent when you activate the option.
+It can be easily deactivated from the Settings menu.
+We also have crash reporting to help us fix bugs.
+If a crash is detected, you will be prompted with the option to send us the crash report if you like.
+(Please say yes! It helps us a lot.) All collected data is anonymous.
+Do you track my location?
+When you tap Places, the app requests access to use the location of your device so we can determine your location using Apple's standard access methods.
+If users allow location access, we query Wikipedia for a list of articles that are nearby the current location.
+This is in no way associated with your account.
+The iOS application itself also does not store your location.
+When enabling Location Services on your device, keep in mind that Apple can use your location information.
+See section 4, Consent to Use of Data, in their Terms of Use for more information.
+What information does the usage report contain?
+You can refer to the page on event logging to see the various interactions and data we record. Keep in mind that not all events are logged on all platforms. If there's a specific scenario that concerns you, please reach out to the team so we can give you a definitive answer by referencing the code. 
+We use  Apple’s built in reporting to send information about crashes when you choose to allow that. When you send us a crash report (which we appreciate!), it tells us where in the code the crash originated from (the stack trace across all active threads), and other diagnostic information such as the iOS version and device type. This information doesn’t include, and is not tied to your Wikimedia user account or on-wiki activity, such as reading or editing history. 
+Editing
+How do I create an account?
+On the app’s Settings screen, the first menu item is Log In. Tap that option and then select the blue Join Wikipedia link on the log-in screen to create an account.
+Do I have to be logged in to edit?
+No. You can edit without creating a username or logging in, but note that your IP address will be associated with your edits, and will be visible to anyone who reads the page's history. If you make edits regularly, we really encourage you to create an account. 
+Can I upload pictures?
+No. At this time we do not support direct upload of images or media to Wikipedia or Commons. We hope to add this capability in the near future. Until then, you can contribute media from your device by going to the Wikipedia website via your browser, and using the normal upload option.
+Can I view a page's history and talk pages?
+Currently, the app doesn't support viewing full history and talk pages. We do support basic presentation of these tools. You can find the links in the footer of any article. 
+I’m getting blocked from logging in or editing, what should I do?
+The Wikimedia Foundation does not create or curate the contents on Wikipedia or the other sites; instead, this work is done by a vast community of volunteers.
+For information about blocks and appealing a block on English Wikipedia, please see the information page at https://en.wikipedia.org/wiki/Help:I_have_been_blocked
+There is no central authority over Wikipedia. The Wikimedia movement is based in part on the premise that good articles are achievable through the checks and balances editors provide for each other. When editors disagree on how to achieve these goals, they must resolve disputes through consensus, drawing on the wider community where necessary. You can read more about the dispute resolution processes on English Wikipedia at https://en.wikipedia.org/wiki/Wikipedia:Dispute_resolution
+Can I create an article from the app?
+No, you will need to use the Wikipedia website via your browser to create a new article.
+Talk pages
+What are article talk and user talk pages?
+Article talk pages - Each article on Wikipedia has an article talk page, which are also known as a discussion page.
+Talk pages are where people discuss how to make content on Wikipedia the best that it can be.
+Editors can discuss improvements to articles or other Wikipedia pages.
+User talk pages - Each editor on Wikipedia who has created an account has a user page as well as a  user talk page.
+Other editors can use talk pages to contact you and you can contact other editors via their user talk pages.
+More information about talk pages can be found at Help:Talk pages
+When do I start a new topic and a new thread?
+Start a new topic to discuss a topic that is not already covered on the article or user talk page.
+Choose the ‘+’ icon on the bottom right of the tab bar to create a new topic.  
+Can I edit the talk page using the source editor via the app?
+In this first version of talk pages on the iOS app we won’t support the source editor on talk pages.
+It is not possible to edit the whole page or add comments/topics through the source editor.
+If you wish to edit the page through source editor you can:
+Choose ‘Read on web’ from the apps overflow menu.
+Access the page on your computer/desktop.
+How do I delete a comment?
+Delete a comment or topic by: 
+Chose ‘Read on web’ from the apps overflow menu and choose ‘Edit Source’ to edit the page and delete your comment/topic.
+Access the page on your computer/desktop and delete your comment/topic by editing the source code of the page.
+What happens when I subscribe to a topic?
+Topic subscription was implemented to allow editors to get timely notifications when new comments are added to topics that they are interested in or have contributed to.  
+Subscribing to a topic is only possible when logged into a Wikipedia account.
+Can I filter through the comments?
+This first version of talk pages will not support filtering or sorting options, but the page supports ‘Find in page’, which allows you to search for specific words or phrases within the talk page.
+Notifications
+Can I get push notifications for my editing alerts?
+In addition to push notifications for all Echo notifications, including alerts and notifications, version 6.9 or later support an inbox for messages from all your Wikipedias, as well as Commons and Wikidata.
+Why aren’t some of my old 'read' messages not showing in the app Notification center?
+Messages from languages you have not added to the app languages will only be available from the day you install the app on. To see all old messages for a specific language Wikipedia add that language to your app Languages.
+Messages in a language you have not added to the app are only available once you add that language. To review all of your unread messages for a particular Wikipedia, go to Settings and add that Wikipedia’s language.
+Where are the alert and notifications tabs?
+The app shows all Echo notifications in a single notification center.
+The different types of messages, such as alerts and notifications, appear in a single notification center and are indicated by icon and color.
+Filters are available so that you can mute or remove notification types you don’t want to see.
+Can I pick which projects I get notifications from?
+After you log in and the notifications sync, the unread messages from any Wikipedias with which you have an account will appear in your inbox, as well as those from Commons and Wikidata.
+Other projects’ messages are not yet supported.To review all read and unread notifications from a specific Wikipedia,  go to Settings and add that Wikipedia’s language.
+I’m not getting all my messages as push notifications on my lock screen, even though I granted permissions. Why?
+iOS and iPadOS use several preferences to decide which messages to show on the lock screen.
+In addition to the basic permission to send push notifications, you may also need to allow Wikipedia to send notifications in any Focus modes you’re using.
+Finally, Low Power mode may add additional limits on how promptly or prominently notifications are displayed.
+How do I get notifications from other Wikimedia projects?
+In this first version we only support the Wikipedias, Commons and Wikidata.  
+How do I get notification destinations like User:Talk  to open in the web interface?
+Tapping a notification in the notification center will open a detail view, which includes information about all the relevant click through destinations, and whether they will open in the web UI or the app UI.
+Not all destinations are supported in the app, so some are only available on the web.
+Where both are available, when opening the the app version, tap the Share button and select “Open in Safari” to switch to the browser page.
+Why am I getting notifications for a project I never edited?
+As a logged in user on the website, when you visit a new language edition a welcome message is generated.
+Usually no additional messages will be generated if you don’t go on to edit in that language.
+How do I select which languages and projects I see in my notifications?
+To ensure all messages for a language are received add the language to your app Language list.
+Commons and Wikidata messages are included by default if you have an account on those projects. 
+To limit which languages/projects you see in your inbox, tap the Filters icon and toggle the projects you would like to remove from your inbox.
+Can I prioritize important notifications for push and not get all of them?
+Not yet…
+The read/seen count on the web and the app notification center or badge are inconsistent
+The app badge and message counts are based on the messages received on the device.
+Read status and message availability can be effected by a number of factors, and small discrepancies should resolve.
+Improving Performance: Quick Workaround Solution
+Our iOS app team is currently addressing loading problems that occurred in May 2023. In the meantime, we have a temporary solution to help you avoid these issues until we release the next update.
+1. Go to a Wikipedia page in Safari, not the app. 
+An example is the main page - https://en.m.wikipedia.org/wiki/Main_Page
+2. You should see a banner at the top inviting you to open it in the app. Tap the "Open" button.
+Tap the "Open" button.
+3. It should quickly take you to a web view in the app, where you can tap "Back" to get to the usual home screen of the app.
+tap "Back" to get to the usual home screen of the app.
+4. From here, open app Settings > Search > toggle ON the "Open app on Search tab" option.
+Now, the app should always open you on the search tab, which will bypass this state restoration bug. You should be able to reach the last article you were reading from the History tab. 
+Developing the app and Contacting the app team
+I am an iOS developer, can I contribute to the app?
+Please do. Our repository is available on GitHub.
+Please see the README for information on how to contribute.
+Can I test a new version or be part of your beta testers?
+Yes! We can always use more help with testing and feedback about upcoming versions.
+go here to get access to early versions.
+Betas expire after 90 days and we don't always have active betas.
+If your beta expires, you can use the App Store version.
+Where do I report bugs?
+Please report a bug via the app. Go to Settings, select "Help and feedback" and tap "Report a bug." In your report, include as much information about your device, the app version you're using, and screenshots if possible.  
+If I have a question or a suggestion, how do I get in touch?
+You can email us at:
+ios-support@wikimedia.org
+You can read more about the team and what we are doing, see Wikimedia Apps/Team/iOS.
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Wikimedia_Apps/iOS_FAQ&oldid=6062798"
+ This page was last edited on 9 August 2023, at 04:05.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About MediaWiki.org
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

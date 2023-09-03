@@ -1,0 +1,87 @@
+Wikiquote:Village pump - Wikiquote
+Wikiquote:Village pump
+From Wikiquote
+Jump to navigation
+Jump to search
+Community portalWelcomeReference deskRequest an articleVillage pumpArchivesAdministrators' noticeboardReport vandalism • Votes for deletion
+Wikiquote discussion pages (edit) see also: requests
+Village pump comment | history | archiveGeneral policy discussions and proposals, requests for permissions and major announcements.
+Reference desk comment | history | archiveQuestions and discussions about specific quotes.
+Archives
+Welcome, newcomers and baffled oldtimers! This is the place if you (a) have a question about Wikiquote and how it works or (b) a suggestion for improving Wikiquote. Just click the link above "create a new topic", and then you can place your submission at the bottom of the list, and someone will attempt to answer it for you. (If you have a question about who said what, go to the reference desk instead.)
+Before asking a question, check if it's answered by the Wikiquote:FAQ or other pages linked from Wikiquote:Help. Latest news on the project would be available at Wikiquote:Community portal and Wikiquote:Announcements.
+Before answering a newcomer's question abruptly, consider rereading Please do not bite the newcomers.
+Questions and answers will not remain on this page indefinitely (otherwise it would very soon become too long to be editable). After a period of time with no further activity, information will be moved to other relevant sections of Wikiquote, (such as the FAQ pages) or placed in one of the village pump archives if it is of general interest, or deleted. Please consider dating and titling your discussions so as to facilitate this.
+ShortcutWQ:VP
+Contents
+1 Deploying the Phonos in-line audio player to your Wiki
+2 Wikiquote:Quote of the day/August 6, 2023
+3 Why Doesn’t Wikiquote Recognize Established Wikipedia Account?
+4 Review the Charter for the Universal Code of Conduct Coordinating Committee
+Deploying the Phonos in-line audio player to your Wiki[edit]
+Hello!
+Apologies if this message is not in your language, ⧼Please help translate⧽ to your language.
+This wiki will soon be able to use the inline audio player implemented by the Phonos extension. This is part of fulfilling a wishlist proposal of providing audio links that play on click.
+With the inline audio player, you can add text-to-speech audio snippets to wiki pages by simply using a tag:
+<phonos file="audio file" label="Listen"/>
+The above tag will show the text next to a speaker icon, and clicking on it will play the audio instantly without taking you to another page. A common example where you can use this feature is in adding pronunciation to words as illustrated on the English Wiktionary below.
+{{audio|en|En-uk-English.oga|Audio (UK)}}
+Could become:
+<phonos file="En-uk-English.oga" label="Audio (UK)"/>
+The inline audio player will be available in your wiki in 2 weeks time; in the meantime, we would like you to read about the features and give us feedback or ask questions about it in this talk page.
+Thank you!
+UOzurumba (WMF), on behalf of the Foundation's Language team
+02:26, 27 July 2023 (UTC)
+Wikiquote:Quote of the day/August 6, 2023[edit]
+Red link on the main page again. ~ DanielTom (talk) 14:57, 6 August 2023 (UTC)Reply[reply]
+Y Done by someone else. Thanks. —Justin (koavf)❤T☮C☺M☯ 19:32, 6 August 2023 (UTC)Reply[reply]
+I've made redirects for the next month's worth of QotD and have made a calendar reminder to do the same each first Saturday of the month. I'm hopeful we won't have this problem again. —Justin (koavf)❤T☮C☺M☯ 19:45, 6 August 2023 (UTC)Reply[reply]
+Thanks Justin. ~ DanielTom (talk) 16:20, 9 August 2023 (UTC)Reply[reply]
+Why Doesn’t Wikiquote Recognize Established Wikipedia Account?[edit]
+I logged in with my Wikipedia account, but Wikiquote treats it as a new account (red typeface) and does not link to my Wikipedia name / account. If they are sister endeavors, why is this? Quaerens-veritatem (talk) 08:43, 9 August 2023 (UTC)Reply[reply]
+@Quaerens-veritatem: The red link just means you don't have a user page here. It's the same for every local project. If you were an established editor on the German Wikipedia, but started contributing to the French Wikipedia, your signature on the French project would be red linked unless you made a local French userpage. GMGtalk 10:34, 9 August 2023 (UTC)Reply[reply]
+Thanks GreenMeansGo ! 🙂 Quaerens-veritatem (talk) 14:20, 9 August 2023 (UTC)Reply[reply]
+If you make a profile at m:User:Quaerens-veritatem, then it will show up on 900+ WMF wikis. —Justin (koavf)❤T☮C☺M☯ 23:41, 26 August 2023 (UTC)Reply[reply]
+Review the Charter for the Universal Code of Conduct Coordinating Committee[edit]
+More languages • Please help translate to your language
+Hello all,
+I am pleased to share the next step in the Universal Code of Conduct work. The Universal Code of Conduct Coordinating Committee (U4C) draft charter is now ready for your review. 
+The Enforcement Guidelines require a Building Committee form to draft a charter that outlines procedures and details for a global committee to be called the Universal Code of Conduct Coordinating Committee (U4C). Over the past few months, the U4C Building Committee worked together as a group to discuss and draft the U4C charter. The U4C Building Committee welcomes feedback about the draft charter now through 22 September 2023. After that date, the U4C Building Committee will revise the charter as needed and a community vote will open shortly afterward.
+Join the conversation during the conversation hours or on Meta-wiki.
+Best,
+RamzyM (WMF), on behalf of the U4C Building Committee, 15:35, 28 August 2023 (UTC)Reply[reply]
+Retrieved from "https://en.wikiquote.org/w/index.php?title=Wikiquote:Village_pump&oldid=3353385"
+Categories: Wikiquote discussionWikiquote
+Navigation menu
+Personal tools
+Not logged inTalkContributionsCreate accountLog in
+Namespaces
+Project pageDiscussion
+English
+Views
+ReadEditAdd topicView history
+More
+Search
+Navigation
+Main pageCommunity portalVillage pumpRecent changesRandom pageHelpDonateContact Wikiquote
+Wikiquote links
+PeopleLiterary worksProverbsFilmsTV showsThemesCategories
+Tools
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+Wikimedia CommonsMediaWikiMeta-WikiWikimedia OutreachMultilingual WikisourceWikispeciesWikibooksWikidataWikinewsWikipediaWikisourceWikiversityWikivoyageWiktionary
+In other languages
+العربيةঅসমীয়াБеларускаяБългарскиবাংলাBrezhonegBosanskiCatalàČeštinaDanskDeutschΕλληνικάEsperantoEspañolEestiEuskaraفارسیSuomiFrançaisGalegoગુજરાતીעבריתहिन्दीHrvatskiMagyarՀայերենBahasa IndonesiaItaliano日本語ქართული한국어KurdîLatinaLimburgsമലയാളംमराठीNederlandsNorsk nynorskNorskPolskiPortuguêsRomânăРусскийСаха тылаSlovenčinaSlovenščinaShqipСрпски / srpskiSundaSvenskaதமிழ்తెలుగుไทยTürkçeУкраїнськаاردوOʻzbekcha / ўзбекчаTiếng ViệtWolof中文
+Edit links
+ This page was last edited on 31 August 2023, at 08:30.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikiquote
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

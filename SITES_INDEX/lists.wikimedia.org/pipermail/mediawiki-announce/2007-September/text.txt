@@ -1,0 +1,97 @@
+ [MediaWiki-announce] MediaWiki 1.11.0, 1.10.2, 1.9.4, 1.8.5 released
+   
+[MediaWiki-announce] MediaWiki 1.11.0, 1.10.2, 1.9.4, 1.8.5 released
+Brion Vibber
+brion at wikimedia.org
+       
+Mon Sep 10 22:11:37 UTC 2007
+Previous message: [MediaWiki-announce] MediaWiki 1.11.0 release candidate 1
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+MediaWiki 1.11.0, the Fall 2007 snapshot release of MediaWiki, is now
+available for download. An included security fix has also been included
+in maintenance updates of the last three snapshots.
+A possible HTML/XSS injection vector in the API pretty-printing mode has
+been found and fixed.
+The vulnerability may be worked around in an unfixed version by simply
+disabling the API interface if it is not in use, by adding this to
+LocalSettings.php:
+  $wgEnableAPI = false;
+(This is the default setting in 1.8.x.)
+Not vulnerable versions:
+* 1.11 >= 1.11.0
+* 1.10 >= 1.10.2
+* 1.9 >= 1.9.4
+* 1.8 >= 1.8.5
+Vulnerable versions:
+* 1.11 <= 1.11.0rc1
+* 1.10 <= 1.10.1
+* 1.9 <= 1.9.3
+* 1.8 <= 1.8.4 (if $wgEnableAPI has been switched on)
+MediaWiki 1.7 and below are not affected as they do not include
+the faulty function, however the BotQuery extension is similarly
+vulnerable unless updated to the latest SVN version.
+Full release notes:
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_11_0/phase3/RELEASE-NOTES
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_10_2/phase3/RELEASE-NOTES
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_9_4/phase3/RELEASE-NOTES
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_8_5/phase3/RELEASE-NOTES
+Download:
+http://download.wikimedia.org/mediawiki/1.11/mediawiki-1.11.0.tar.gz
+http://download.wikimedia.org/mediawiki/1.11/mediawiki-1.11.0.patch
+http://download.wikimedia.org/mediawiki/1.10/mediawiki-1.10.2.tar.gz
+http://download.wikimedia.org/mediawiki/1.10/mediawiki-1.10.2.patch
+http://download.wikimedia.org/mediawiki/1.9/mediawiki-1.9.4.tar.gz
+http://download.wikimedia.org/mediawiki/1.9/mediawiki-1.9.4.patch
+http://download.wikimedia.org/mediawiki/1.8/mediawiki-1.8.5.tar.gz
+http://download.wikimedia.org/mediawiki/1.8/mediawiki-1.8.5.patch
+GPG/PGP signatures:
+http://download.wikimedia.org/mediawiki/1.11/mediawiki-1.11.0.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.11/mediawiki-1.11.0.patch.sig
+http://download.wikimedia.org/mediawiki/1.10/mediawiki-1.10.2.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.10/mediawiki-1.10.2.patch.sig
+http://download.wikimedia.org/mediawiki/1.9/mediawiki-1.9.4.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.9/mediawiki-1.9.4.patch.sig
+http://download.wikimedia.org/mediawiki/1.8/mediawiki-1.8.5.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.8/mediawiki-1.8.5.patch.sig
+MD5 checksums:
+cea9d039d904f7f27b2280557a0bfe92  mediawiki-1.11.0.tar.gz
+d12d43c35990a699fbf91847b70dd965  mediawiki-1.11.0.patch
+f1a5659624444c7101f258c7d43b03a0  mediawiki-1.10.2.tar.gz
+7db95ee24a5dc9874fa35672c1ba0a4c  mediawiki-1.10.2.patch
+e97a74e17fe2f067b7c3fc040e1eddee  mediawiki-1.9.4.tar.gz
+9bc730d4c4a662d88153c6a127fa29f9  mediawiki-1.9.4.patch
+8521cad53aa4dbda59bfd7ef1cba2553  mediawiki-1.8.5.tar.gz
+d60beccc06e1eff270d99f735a1b3f5f  mediawiki-1.8.5.patch
+SHA-1 checksums:
+754ddbbff80b1f76ca5022a0e70253cc1c45a2b1 mediawiki-1.11.0.tar.gz
+e35c7d9589148ce53d4ceb80bb14dabfc090a1c2 mediawiki-1.11.0.patch
+4d936849a23a5f4db58a06fef4d33e2d64e4de76 mediawiki-1.10.2.tar.gz
+7c47e35e4becb62a4d39e4ae9368f20ee1b85c48 mediawiki-1.10.2.patch
+9162571c56e95f2b9e941921d4d9f1826f7ae37f mediawiki-1.9.4.tar.gz
+9b10200c2e60f004504bd3d3b6faba9ea54f4815 mediawiki-1.9.4.patch
+b7b50ebf711988c6f35d0d9e436cfef5d5628da0 mediawiki-1.8.5.tar.gz
+238a9c85c3e407b45a89f6f9899016d220d72619 mediawiki-1.8.5.patch
+Before asking for help, try the FAQ:
+http://www.mediawiki.org/wiki/Manual:FAQ
+Low-traffic release announcements mailing list:
+(Please subscribe to receive announcements of security updates.)
+http://lists.wikimedia.org/mailman/listinfo/mediawiki-announce
+Wiki admin help mailing list:
+http://lists.wikimedia.org/mailman/listinfo/mediawiki-l
+Bug report system:
+http://bugzilla.wikimedia.org/
+Play "stump the developers" live on IRC:
+#mediawiki on irc.freenode.net
+-- brion vibber (brion @ wikimedia.org)
+Previous message: [MediaWiki-announce] MediaWiki 1.11.0 release candidate 1
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+More information about the MediaWiki-announce
+mailing list

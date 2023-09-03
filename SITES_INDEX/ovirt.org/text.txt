@@ -1,0 +1,29 @@
+oVirt | oVirt is a free open-source virtualization solution for your entire enterprise
+    Toggle navigation Menu              Download Documentation Developers Community Forum Blog     
+POWERFUL OPEN SOURCE VIRTUALIZATION
+oVirt is a free open-source virtualization solution for your entire enterprise
+Download 4.5.4
+Release Notes
+COMMUNITY POWERED
+oVirt is an open-source distributed virtualization solution, designed to manage your entire enterprise infrastructure.
+oVirt uses the trusted KVM hypervisor and is built upon several other community projects, including libvirt, Gluster, PatternFly, and Ansible.
+What's included?
+Rich web-based user interfaces for both admin and non-admin users
+Integrated management of hosts, storage, and network configuration
+Live migration of virtual machines and disks between hosts and storage
+High availability of virtual machines in the event of host failure
+Case Studies
+Florida State University RCC
+Florida State University’s Research Computing Center (RCC) provides the university’s academic community with access to a virtual machine cluster. It is used for basic data services, collaborative applications, firewall installation, and other self-managed services.
+In 2016, RCC successfully migrated their virtual machine cluster to oVirt. The oVirt-powered cluster is currently serving 60 users across 20 academic departments.
+Read the full RCC case study
+Alter Way
+Meet Alter Way, a French hosting company who deploys oVirt in production for their clients, because "it allowed us to scale up as well as scale out our client workloads".
+The main points which swayed their decision? "A very active community, an ambitious technical roadmap with regular releases, and the involvement of companies including Red Hat, Intel, NetApp, Cisco and IBM reassured us that the project would be around for the duration."
+Read the full Alter Way case study
+Brussels Airport Company
+Find out how the Brussels Airport Company keeps a vital transportation and cargo center moving by managing their virtual machines with oVirt.
+Faced with an opportunity to take the approximately 150 virtual machines housed on 30 Solaris machines and manage them with another virtual datacenter management tool, the Brussels Airport IT team went with oVirt running atop CentOS.
+Read the full Brussels Airport case study
+See more…
+Privacy policyAboutDisclaimers© 2013–2023 oVirtReport an issue with this pageEdit this page

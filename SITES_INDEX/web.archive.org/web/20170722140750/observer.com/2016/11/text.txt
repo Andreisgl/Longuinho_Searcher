@@ -1,0 +1,126 @@
+Too Big to Fail Open-Source Software Needs Hacker Help |  | Observer
+42 captures
+05 Nov 2016 - 01 Jun 2023
+Jun
+JUL
+Sep
+22
+2016
+2017
+2018
+success
+fail
+ About this capture
+COLLECTED BY
+Organization: Internet Archive
+  The Internet Archive discovers and captures web pages through many different web crawls.
+
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+
+View the web archive through the Wayback Machine.
+Collection: Live Web Proxy Crawls
+  Content crawled via the Wayback Machine Live Proxy mostly by the Save Page Now feature on web.archive.org.
+
+Liveweb proxy is a component of Internet Archive’s wayback machine project. The liveweb proxy captures the content of a web page in real time, archives it into a ARC or WARC file and returns the ARC/WARC record back to the wayback machine to process. The recorded ARC/WARC file becomes part of the wayback machine in due course of time.
+TIMESTAMPS
+The Wayback Machine - http://web.archive.org/web/20170722140750/http://observer.com/2016/11/open-source-too-big-to-fail/
+Technology|
+Economy|
+Startups|
+Personal Finance|
+ 
+Subscribe
+Search for:
+Submit
+Observer
+Politics
+National
+International
+New York
+New Jersey
+Editorials
+National Security
+Lifestyle
+Fashion
+Celebrity
+Food & Drink
+Home Design
+Real Estate
+Travel
+Business
+Technology
+Personal Finance
+Startups
+Internet Culture
+Media
+Entertainment
+TV
+Movies
+Music
+Books
+Movie Reviews
+Arts
+Theater
+Visual Art
+Dance
+Opera
+Health
+Psychology
+Relationships
+Fitness
+Nutrition
+Videos
+ Subscribe to Newsletters
+Ashes! Ashes! We All Fall Down
+Too Big to Fail Open-Source Software Needs Hacker Help
+'If no one is looking at the code, all bugs are impossible to find' 
+By Brady Dale • 11/04/16 7:19am
+Also needed in many internet outages: digital engineers. Scott Griggs / Creative Commons
+The internet runs on free and open-source code. LAMP is shorthand for the basic stack of applications that makes the internet work. It stands for: Linux, Apache, MySQL and PHP. Together, those four pieces of software provide the foundation that lets us share both important data and elaborately filtered selfies all over the world. They are also all free and open-source projects, maintained by core teams of developers. These workers are the saints of the information age. 
+Open-source has a tendency to be more stable than proprietary code, thanks in no small part to what’s called Linus’s Law: “given enough eyeballs, all bugs are shallow.” Because open-source projects invite anyone to contribute, the idea is that lots of developers and testers will find and fix all the problems. It’s worked well so far, but it’s a theory that gets a bit creakier with age, as we’ve begun to see.
+For example, another crucial application, the Network Time Protocol (NTP), has been in operation since at least 1985. It synchronizes actions taken by users across the web. So, for example, for banking systems, it can be very important to know exactly what order payments were made in, which NTP makes easy. The problem is, the codebase has been maintained by a shrinking core of developers, and facets of the codebase were as much as 16 years out of date when Susan Sons, a systems analyst from Indiana University’s Center for Applied Cybersecurity Research, began organizing a rescue for the software.  
+‘My doomsday scenario is not that the internet falls down, but that internet starts to fall down enough that the public gets concerned enough that the Feds take over.’
+Susan Sons at O’Reilly Security in Manhattan, giving her presentation “Saving Time.” Brady Dale for Observer
+Sons offered a corollary to Linus’s Law Wednesday at the O’Reilly Security conference in Manhattan. “If no one is looking at the code, all bugs are impossible to find,” she said. Sons gave a talk about how she and a team of developers came together to rescue NTP, ultimately resulting in a fork of code called NTPSec.   
+She came to the conference to offer lessons learned from the team’s rescue of the code, because there is a lot of critical software out there that either needs a rescue or may soon. “Open source infrastructure easily becomes a tragedy of the commons,” she said. This point has been previously made by two key members of the Apache community, David Nalley and Daniel Gruno, who pointed out that the number of core contributors to the codebases of major pieces of software has gotten dangerously small.    
+“My doomsday scenario is not that the internet falls down,” she explained, “but that internet starts to fall down enough that the public gets concerned enough that the Feds take over.” In order to continue enjoying a free and open internet, the hacker community needs to make sure that the code that runs everything continues to work. 
+“Sometimes you just have to say: There is an emergency, and no one is fixing it; and I am in charge,” Sons said. She hoped her talk would inspire others to make the same determination about some other key pieces of code.  
+“It takes a certain amount of arrogance,” she added. 
+After co-leading the build of a new version of NTP that’s quickly getting adopted around the web and leaving a team in place to  continue updating, adding features and fixing bugs, here are some of the key recommendations she has for others who would undertake a code rescue:
+Set a clear scope. Decide what you are going to fix and stick with it. Be sure to fix the right thing (in the case of NTP, Sons said that the process was as much of a problem as the code). “Long-term impact comes from making bugs easier to fix,” she said. Don’t dive right in. Figure out the problem and make a plan.
+The code will be the easy part. “The truth is that the code’s needs are always going to be the clearest part of the scope,” Sons said. As much work as that will be, a once vital open source project usually ends up with a tiny team due more to social dynamics than technical ones. In fact, Sons ended up spending all of her time managing relationships during the code triage, while other contributors dealt with fixing software. 
+There will be drama, so get ready to forgive. Remember that a part of the reason that people get involved with open-source projects is for the ego payoff of contributing to something important, which also means that their ego will become involved in any changes. Plan for delays caused by social difficulties along the way.  
+Fix the social aspect or it won’t stay fixed. Open source projects have to have an open system, welcome newcomers and use a clear, modern process. If they don’t, all the technical triage in a rescue will soon be wasted as new bugs accumulate and no one fixes them. 
+Less code, less vulnerability. NTPSec reduced the codebase from 227,000 lines of code to 74,000. As Sons put it, that reduction eliminated bugs before they were discovered. Nevertheless, “there will be bugs,” she cautioned.
+Technical takeaways. Going forward, make sure people can get to the code, document changes and test it. NTP also involved a major refactoring (writing the code to do the same things in a more efficient way).
+In addition to her work at Indiana University, Sons now also runs the Internet Civil Engineering Institute, which is devoted to recruiting experts to address major issues in the software that runs the web.
+SEE ALSO: Toy Robots With Cloud Brain Could Turn Real Life Into a Video Game
+Business & Technology
+Observer Delivered to Your Inbox
+Sign Up
+Submit
+Must Reads
+Observer
+Politics
+Entertainment
+Lifestyle
+Arts
+Health
+Contact
+About
+Newsletters
+Privacy
+Terms
+Powered by WordPress.com VIP 
+We noticed you're using an ad blocker.
+We get it: you like to have control of your own internet experience. But advertising revenue helps support our journalism. To read our full stories, please turn off your ad blocker. We'd really appreciate it.
+How Do I Whitelist Observer?
+How Do I Whitelist Observer?
+Below are steps you can take in order to whitelist Observer.com on your browser:
+For Adblock:
+Click the AdBlock button on your browser and select Don't run on pages on this domain.
+For Adblock Plus on Google Chrome:
+Click the AdBlock Plus button on your browser and select Enabled on this site.
+For Adblock Plus on Firefox:
+Click the AdBlock Plus button on your browser and select Disable on Observer.com.
+Then Reload the Page

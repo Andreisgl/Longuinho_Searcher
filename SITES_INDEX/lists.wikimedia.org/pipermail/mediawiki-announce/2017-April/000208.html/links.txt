@@ -1,0 +1,8 @@
+https://releases.wikimedia.org/mediawiki/1.23/mediawiki-1.23.17.tar.gz
+https://releases.wikimedia.org/mediawiki/1.23/mediawiki-core-1.23.17.tar.gz
+https://releases.wikimedia.org/mediawiki/1.23/mediawiki-1.23.17.patch.gz
+https://releases.wikimedia.org/mediawiki/1.23/mediawiki-core-1.23.17.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.23/mediawiki-1.23.17.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.23/mediawiki-1.23.17.patch.gz.sig
+https://www.mediawiki.org/keys/keys.html
+http://hyperkitty.readthedocs.org

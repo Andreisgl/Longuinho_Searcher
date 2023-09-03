@@ -1,0 +1,15 @@
+            KAB202014144 
+            | lod.nl.go.kr
+    
+KAB202014144
+at lod.nl.go.kr
+http://lod.nl.go.kr/resource/KAB202014144
+nlon:create
+nlk:WMF000135906
+      This page shows information obtained from the SPARQL endpoint at http://lod.nl.go.kr/sparql.
+As Turtle |
+            As RDF/XML |
+            As JSON  |
+            As N3  |
+            As nTriple 
+ Powered by National Library of Korea Linked Open Data using OntoBase (Triple Store) 

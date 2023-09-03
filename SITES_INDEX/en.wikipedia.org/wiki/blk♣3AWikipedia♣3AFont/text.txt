@@ -1,0 +1,106 @@
+ဝီခီပီးဒီးယား:Font - ဝီခီပီးဒီးယား
+ဝီခီပီးဒီးယား:Font
+အဝ်ႏ ဝီခီပီးဒီးယား ကို
+အ​ညွှန်း​သို့ ခုန်ကူးရန်
+ရှာဖွေရန် ခုန်ကူးမည်
+လိတ်မဲ့ငါယိုနဝ်ꩻ စွော်စွော်တဲမ်းခါꩻဒျာႏတောမ်ႏ လိတ်အဲင်းကလေတ်တဲင် တောမ်ႏချာႏပြန်ႏပအိုဝ်ႏ မွုန်းတဝ်းသွော့ဩ။This article is written in English for a specific purpose. Please do not translate it.
+This page is about the encoding and fonts that are used on the Myanmar Wikipedia. To get started right away, just skip to the external links to download a Unicode 5.1 font, install it and join the community.
+For more help, consult here: Wikipedia:Myanmarsar Help.
+ဟော်ꩻထွားရီးတာႏ
+၁ Why Unicode?
+၁.၁ Why use Unicode?
+၁.၂ Why not Zawgyi?
+၂ External links
+၂.၁ Unicode Myanmar/Burmese fonts
+၂.၂ Other sites
+Why Unicode?[မွဉ်းဖျင်အရွီးခိုႏ]
+Unicode is a standard that defines how text should be saved into data and how it is read and written. Almost every script in the world, including Burmese, is defined in the Unicode Standard. Carefully designed by experts of the field around the world, this international standard is supported by virtually all the latest platforms--not only in major operating systems like Windows, Mac, and Linux but also in OSes of mobile phones and many electronic devices. The Unicode Standard is the most well-known encoding scheme to support the largest number of scripts/languages in a single page of code. More information is available at Unicode.org. See discussion on Unicode usage in Wikipedia. All Wikipedias, including the English language Wikipedia, use Unicode as it is Wikimedia Foundation policy.
+The following table shows the differences in language support between Zawgyi-One and Unicode fonts. Zawgyi-One and other pseudo-Unicode fonts require nearly twice as many characters as Unicode fonts to support just one language: Burmese. Unlike Zawgyi-One and other pseudo-Unicode fonts, Unicode fonts use intelligent rendering to stack consonants and combine diacritics.
+Unicode versus Zawgyi-One
+Unicode
+Zawgyi-One
+Bigger version here. Uncolored version here.
+  Myanmar
+  Shan
+  Mon
+  Sanskrit and Pali
+  S'gaw Karen
+  Western Pwo Karen
+  Eastern Pwo Karen
+  Geba Karen
+  Kayah
+  Rumai Palaung
+  No character
+Bigger version here. Uncolored version here.
+  Myanmar
+  No character for pseudo-Unicode
+  No character
+Why use Unicode?[မွဉ်းဖျင်အရွီးခိုႏ]
+It is the international accepted standard by the World Wide Web Consortium, the main international standards organization for the World Wide Web.
+The fonts necessary to view and edit are freely available.
+Search is seamless with Unicode.
+Unicode makes it extremely easy to translate the Wikipedia's interface.
+Unicode fonts support 11 languages that use the Myanmar script:
+Burmese
+2 liturgical languages: Pali and Sanskrit
+8 minority languages: Mon, Shan, Kayah, four Karen languages and Rumai Palaung
+Why not Zawgyi?[မွဉ်းဖျင်အရွီးခိုႏ]
+Although Zawgyi is currently the most widely used solution for input in Myanmar-language websites, it is not Unicode-compliant and does not meet the standards set by the Unicode Standard (nor does it meet the W3C standards, which define the standards for the World Wide Web). Also, there are multiple ways of storing text, which makes search challenging.
+However, for those who use Zawgyi and would like to contribute to the Myanmar Wikipedia, several converters (Zawgyi → Unicode 5.1) are available below:
+Burmese Encoding Converter Bot (online)
+Kanaung Converter Engine (program)
+DocChartConvert (program)
+An online typewriter that supports Zawgyi as well as Unicode fonts is available at Burglish System tester
+Those who have Zawgyi or pseudo-Unicode fonts in their computers find their computers may display incorrect text and might affect other Unicode-supported applications.
+There are serious problems with encoding and typing in Zawgyi.
+When users type in Zawgyi, typing in different ordering will create different words. These different words, even though they may render the same, are not stored the same (so search is impossible if words are typed in different ordering). On the other hand, in Unicode, there is only correct way to store text, and incorrect ordering in typing is visible as you type (this means that searching for text is more difficult with Zawgyi).Unicode stores text in only one order and render correctly: Zawgyi can store text in several ways but superficially appear correct:
+Many Zawgyi users type the number "zero" when they intend to input the consonant "wa." This creates a problem, because converters cannot intelligently find the instances where "zero" is intended and "wa" is intended. When using Unicode, "wa" and "zero" are separate (intelligent rendering shows you if you have typed "zero" instead of "wa").Unicode can intelligently tell apart wa and zero: Zawgyi cannot intelligently render zero and wa separately: 
+Zawgyi uses extra code points which are reserved for minority languages of Myanmar (Shan, Mon, Pwo Karen, S'gaw Karen, Geba Karen, Kayah and Rumai Palaung, as well as Sanskrit and Pali). This creates a conflict, because Unicode has reserved those points to support minority languages in Myanmar, not for Burmese characters that should be intelligently rendered by Unicode engines.
+Zawgyi uses reserved code points for stacking Burmese consonants and creating combinations of diacritics and medials, whereas Unicode smartly renders these, so fewer code points are required for one language.Unicode can intelligently render yayit according to letter width with just one symbol: Zawgyi needs to use two different symbols (total 8 different symbols for short head and short leg forms) for yayit: 
+External links[မွဉ်းဖျင်အရွီးခိုႏ]
+Unicode Myanmar/Burmese fonts[မွဉ်းဖျင်အရွီးခိုႏ]
+These are links for fonts that conform to the Burmese script encoded in Unicode 5.1 and above (all of them are available for free) - 
+Pyidaungsu Font - Myanmar unicode font
+Keyboard input software
+Padauk font ver 5.001 - from SIL International.
+Myanmar3 variants font - from the Myanmar Unicode and NLP Research Centre.
+Noto Sans Myanmar from Google
+Myanmar Unicode Keyboard for Mac User
+Other sites[မွဉ်းဖျင်အရွီးခိုႏ]
+Thanlwin Soft - useful Unicode site that provides alphabetization, keyboard input methods, legacy font conversion software and more resources
+Myanmar character notes - describes how the Myanmar script is used for the Burmese language in the context of the Unicode Myanmar block
+Myanmar character picker - online Myanmar Unicode input utility
+Unicode Text Editor  No install and compatible to Burmese Standard font - direct download
+Eng to Burmese Dictionary instant fetch - Firefox extension, Search Engines and others
+ထူႏ "https://blk.wikipedia.org/w/index.php?title=ဝီခီပီးဒီးယား:Font&oldid=17403" ကို
+ကဏ္ဍဖုံႏ: ဝီခီပီးဒီးယား မျန်မာယူနီကိုဒ်အကူႏညီႏ
+ယီးနယ်မီနူး
+နမ်းပဲင်ႏ ကိရိယာႏဖုံႏ
+နွို့ခါꩻတဝ်းအကောက်အိုင်ကိုမ်ဒေါ့ꩻရီခွုမ်မာꩻချက်ဖုံႏဖန်ဆင်ꩻအကောက်နွို့အကောက်
+ယီးနယ်မိဉ်ꩻဖုံႏ
+ပရောစဲစ်လိတ်မဲ့ငါအိုင်ကိုမ်ချက်
+ပအိုဝ်ႏဘာႏသာႏ
+ထာꩻထီႏပွုံႏစံႏဖုံႏ
+ဟော်ꩻမွဉ်းဖျင်အရွီးခိုႏထွားရာႏဇာႏဝင်ႏ
+ထဲင်းယင်း
+ထိုမ်ႏ
+ယီးနယ်
+အဓိကလိတ်မဲ့ငါခြွဉ်းဗူႏခင်ႏလမ်းထာꩻထွာယိုခါကျာꩻဖုံႏထွာပြောင်ꩻယိုခါကျာꩻရော့ꩻရာꩻလိတ်မဲ့ငါအကူႏညီႏလူႏတန်ꩻ
+ကိရိယာႏဖုံႏ
+လိဉ့်မုဲင်ꩻဖုံႏအွဉ်ႏယိုကိုဆွိုက်စပ်ဒါႏ အပြောင်ꩻအလုဲင်ꩻဖုံႏဒင်ႏဖုဲင်လိတ်မဲ့ငါအထူꩻဖုံႏလိဉ့်သေႏပုင်ႏသီလိတ်မဲ့ငါအချက်လျက်ဝီကီဒေတာ item
+ထေထန်ႏ/ပရိင့်
+ဖန်ဆင်ꩻလိတ်ဖွူꩻဒေါင်းထူႏနေး PDF အနေႏထေနွောင်ꩻပရင့်ဗားသိဉ်း
+တွမ်ႏဘာႏသာႏလင်ဖုံႏအကို
+ဘာသာ မန်မြန်မာဘာသာၽႃႇသႃႇတႆး 
+ခြပ်ချော်ꩻ လိဉ့်ဖုံႏ
+ လိတ်မဲ့ငါယိုနဝ်ꩻ အဆုဲင်ꩻသွတ်ꩻ ဖျင်ထဲမ်လွေꩻထွူလဲဥ်း ၂ သဲက်တဲဉ်ဗာ ၂၀၂၂၊ ၁၉:၃၆ ခိန်ႏသွူဩ။
+လိတ်ယာႏဖုံႏနဝ်ꩻ တွမ်ႏ Creative Commons Attribution-ShareAlike လုဲင်သိဉ်တဲင်ထူႏနွောင်ꩻဒျာႏသွူ၊ သတ်မတ်ချက်အထဲင်းဖုံႏလဲ့ အဝ်ႏနွောင်ꩻဒါႏသွူ။ 
+မိဉ်ႏမဲဉ်သေစဲင်း ထူႏသွုံꩻအီခရာႏနဝ်ꩻ နွို့ထွားသွော့ သတ်မတ်ချက်ကိုဖုံႏနဝ်ꩻသြ။
+နမ်းပဲင်ႏရေꩻရာႏမူဝါဒ
+ဝီခီပီးဒီးယား ခရာႏ
+သတိꩻခရာႏဖုံႏ
+Code of Conduct
+မိုဗုဲင်းဖိုန်း
+သော့ဝွဲးတဲမ်းထွင်ႏသားဖုံႏ
+စာႏရင်ꩻဖုံႏ
+ကွတ်ကီးထေပြန်ႏချက်

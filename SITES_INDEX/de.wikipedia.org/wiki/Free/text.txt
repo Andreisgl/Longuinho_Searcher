@@ -1,0 +1,72 @@
+Free/Libre Open Source Software – Wikipedia
+Free/Libre Open Source Software
+aus Wikipedia, der freien Enzyklopädie
+Zur Navigation springen
+Zur Suche springen
+FOSS und FLOSS sind Weiterleitungen auf diesen Artikel. Für weitere Bedeutungen siehe Foss und für das einfache Wasserfahrzeug Floß.
+Der Begriff Free/Libre Open Source Software (FLOSS) bezeichnet Software die möglichst frei und quelloffen ist, also der Benutzer die Software beliebig nutzen, manipulieren und weitergeben darf und die Quelltexte öffentlich einsehbar sind. FLOSS ist häufig kostenlos, jedoch nicht zwingend. Die spezifischen rechtlichen Details bestimmt der genaue Wortlaut der verwendeten FLOSS-Lizenz. Man unterscheidet Lizenzen mit und ohne Copyleft, also ob und wie die FLOSS zusammen mit proprietärer Software verwendet werden darf. Freizügige Lizenzen (z. B. MIT-Lizenz) legen Wert auf die unkomplizierte Weitergabe unter beliebiger Lizenz, während restriktive Lizenzen (z. B. GNU General Public License) die Freiheit der Software bis zum Endbenutzer garantieren möchten.
+Im Jahr 1969 wurde Software erstmals unabhängig von der Hardware verkauft, was zur Entstehung einer unabhängigen Softwarebranche führte.[1] Die Quelltexte der Unternehmen waren urheberrechtlich geschützt, doch für die kompilierten Quelltexte war das vorerst umstritten. Dies wurde von (freien) Entwicklern ausgenutzt um Programme zu kopieren und für ihre Zwecke zu verändern. Als 1983 in einem Präzedenzfall geklärt wurde, dass Maschinencode durch das Urheberrecht geschützt ist und es praktikabel wurde, Software nur noch kompiliert als Maschinencode auszuliefern, konnten die Unternehmen ihre proprietäre Software wirkungsvoll schützen.
+Daneben gab es den Wunsch vieler Entwickler nach freier Software und freiem geistigen Eigentum, die sich in verschiedenen Strömungen und Projekten manifestierte. 1983 gründete Richard Stallman das GNU-Projekt um ein freies unixähnliches Betriebssystem zu schaffen und 1985 die gemeinnützige Free Software Foundation um freie Software zu fördern. Es entstand eine große Community, die zusammen quelloffen Software entwickelte. Um den Unternehmen die Ideen besser vermitteln zu können, wurde der Begriff Open Source ausgewählt und 1998 dafür die Open Source Initiative gegründet. Da man sich nicht auf einen Begriff einigen konnte, existieren beide parallel. Die Free Software Foundation betont dabei die Nutzerrechte, die Zusammenarbeit und die soziale Ethik des Teilens von Software. Die Open Source Initiative betont die Zusammenarbeit, die technische Exzellenz und die Qualität des Quelltexts. 
+Die Bezeichnung Free and open-source software (FOSS) umfasst beide Strömungen. Weil "free" im Englischen auch kostenlos bedeuten kann und FOSS somit als "kostenlose open-source software" missverstanden werden kann, bevorzugen die Anhänger der freien Software die Bezeichnung Free/Libre Open Source Software (FLOSS). Die Verwendung dieser Begriff kann je nach Fachgebiet, Region und Gemeinschaft variieren. 
+Inhaltsverzeichnis
+1 Hintergrund des Namensstreits
+2 FOSS versus FLOSS
+3 Siehe auch
+4 Weblinks
+5 Quellen
+Hintergrund des Namensstreits[Bearbeiten | Quelltext bearbeiten]
+Hintergrund ist dabei, dass der historisch ältere Begriff „Freie Software“ ("free software") aus der Sicht einiger Fürsprecher von Software, die die vier Freiheiten gewährt, als ungeeignet erachtet wurde, um das Marketing für solche Software bei Firmen voranzutreiben. Aus diesem Grund wurde 1998 der neutrale Begriff „quelloffen“ (Open Source) gewählt, der seitdem von vielen Entwicklern, Nutzern und großen Teilen der Presse übernommen wurde. Auf der anderen Seite lehnen jedoch andere Personen wie etwa der Begründer der Freien-Software-Bewegung, Richard Stallman, die Formulierung strikt ab (siehe Freie Software#Open Source).
+Um beide Parteien bei der Benennung dieses Softwarebereichs zu berücksichtigen, spricht man oft von FOSS bzw. FLOSS.
+FOSS versus FLOSS[Bearbeiten | Quelltext bearbeiten]
+Da das Akronym FOSS nur dem englischen Titel, eventuell auch noch dem deutschen („F“ für frei) entspricht, wurde mit der Zeit der Begriff FLOSS eingeführt, der den meisten weiter verbreiteten Sprachen gerecht wird. Ebenso versucht man so, dem Begriff eine Gratismentalität zu nehmen, da das L wie bei libre (franz. und span.), livre (portugiesisch) oder libero (italienisch) unmissverständlich für Freiheit steht.
+Dieser Artikel oder Abschnitt bedarf einer grundsätzlichen Überarbeitung: Hier fehlt eine Aussage dazu, wer denn „die Schöpfer“ sind! Bitte hilf mit, ihn zu verbessern, und entferne anschließend diese Markierung.
+Die Schöpfer der Begriffe beabsichtigten, mit ihrem Akronym weder die Anhänger der Freien-Software-Philosophie noch die der Open-Source-Philosophie zu verprellen. Man hoffte, die Reibungen zwischen den beiden Bewegungen entspannen zu können und so deren Zusammenarbeit zu verbessern. In der Tat empfahl Richard Stallman, der Begründer des Begriffes der freien Software, öffentlich, den Begriff FLOSS zu verwenden, vor allem für Forschungsprojekte, die in dieser Sache neutral erscheinen wollen.[2] Er lehnt jedoch die Verwendung von FOSS ab, da er nicht klar genug die verschiedenen Standpunkte berücksichtige.[3]
+Ende 2004 fand FLOSS in der englischen Variante Einzug in einer Reihe von offiziellen Dokumenten einiger Länder, darunter Südafrika, Spanien[4] und Brasilien.[5]
+Siehe auch[Bearbeiten | Quelltext bearbeiten]
+Literatur über freie und Open-Source-Software
+Liste von FLOSS-Lizenzen
+Freie Lizenz
+Weblinks[Bearbeiten | Quelltext bearbeiten]
+International Free and Open Source Software Foundation
+SuReFOSS.org (Memento vom 19. Januar 2018 im Internet Archive) – Sustainable Research through Free and Open Source Software
+Quellen[Bearbeiten | Quelltext bearbeiten]
+↑ heise online: Vor 50 Jahren: Unbundling – Impuls für eine unabhängige Softwareindustrie. 23. Juni 2019, abgerufen am 16. Mai 2023. 
+↑ Free Software - Free Society! Interview mit Richard Stallman, 27. Mai 2004
+↑ "FLOSS and FOSS" von Richard Stallman auf gnu.org. Abgerufen am 7. April 2020 (englisch). 
+↑ FLOSS deployment in Extremadura, Spain der Interoperable Delivery of European eGovernment Services to public Administrations, Business and Citizens, Oktober 2003
+↑  Relatório da ONU aponta o Software Livre (FLOSS) como melhor (Memento vom 10. Februar 2009 im Internet Archive) auf softwarelivre.org, 2. Februar 2004
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Free/Libre_Open_Source_Software&oldid=235600202“
+Kategorien: FLOSS-KulturFreie SoftwareVersteckte Kategorie: Wikipedia:Überarbeiten
+Navigationsmenü
+Meine Werkzeuge
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden
+Namensräume
+ArtikelDiskussion
+Deutsch
+Ansichten
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte
+Weitere
+Suche
+Navigation
+HauptseiteThemenportaleZufälliger Artikel
+Mitmachen
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden
+Werkzeuge
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenArtikel zitierenWikidata-Datenobjekt
+Drucken/​exportieren
+Buch erstellenAls PDF herunterladenDruckversion
+In anderen Sprachen
+العربيةAzərbaycancaবাংলাCatalàCebuanoکوردیČeštinaDanskΕλληνικάEnglishEspañolفارسیFrançaisעבריתहिन्दीBahasa IndonesiaIdoÍslenskaItaliano日本語ქართულიಕನ್ನಡ한국어КыргызчаМонголBahasa MelayuनेपालीNederlandsNorsk bokmålPolskiPortuguêsRomânăРусскийසිංහලSimple EnglishSlovenčinaSlovenščinaShqipСрпски / srpskiSvenskaTürkçeУкраїнськаاردوOʻzbekcha / ўзбекчаTiếng Việt中文粵語
+Links bearbeiten
+ Diese Seite wurde zuletzt am 19. Juli 2023 um 09:51 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative-Commons Namensnennung – Weitergabe unter gleichen Bedingungen“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+Datenschutz
+Über Wikipedia
+Impressum
+Verhaltenskodex
+Mobile Ansicht
+Entwickler
+Statistiken
+Stellungnahme zu Cookies

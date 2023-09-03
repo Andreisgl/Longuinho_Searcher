@@ -1,0 +1,15 @@
+https://phabricator.wikimedia.org/tag/mw-1.38-release/
+https://phabricator.wikimedia.org/maniphest/task/edit/form/1/?tags=mw-1.38-release
+https://releases.wikimedia.org/mediawiki/1.38/mediawiki-1.38.0.tar.gz
+https://releases.wikimedia.org/mediawiki/1.38/mediawiki-1.38.0.zip
+https://releases.wikimedia.org/mediawiki/1.38/mediawiki-core-1.38.0.tar.gz
+https://releases.wikimedia.org/mediawiki/1.38/mediawiki-core-1.38.0.zip
+https://releases.wikimedia.org/mediawiki/1.38/mediawiki-1.38.0.patch.gz
+https://releases.wikimedia.org/mediawiki/1.38/mediawiki-1.38.0.patch.zip
+https://releases.wikimedia.org/mediawiki/1.38/mediawiki-core-1.38.0.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.38/mediawiki-core-1.38.0.zip.sig
+https://releases.wikimedia.org/mediawiki/1.38/mediawiki-1.38.0.zip.sig
+https://releases.wikimedia.org/mediawiki/1.38/mediawiki-1.38.0.patch.zip.sig
+https://www.mediawiki.org/keys/keys.html
+https://www.mediawiki.org/wiki/Release_notes/1.38
+http://hyperkitty.readthedocs.org

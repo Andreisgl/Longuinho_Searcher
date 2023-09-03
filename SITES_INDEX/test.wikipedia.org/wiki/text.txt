@@ -1,0 +1,112 @@
+Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageWhat we do hereWhat Test Wiki is notRandom pageSandboxCreate a new pageWikimedia blogLocal userlistIssue trackerDonate
+Interaction
+HelpAbout WikipediaVillage pumpRecent changes
+Search
+Search
+Create accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Main Page
+Main PageDiscussion
+English
+ReadView sourceView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadView sourceView history
+General
+What links hereRelated changesSpecial pagesPermanent linkPage informationGet shortened URLCite this pageWikidata item
+Feedback
+If you have a minute, please leave us a note.
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+Wikimedia CommonsMediaWikiMeta-WikiMultilingual WikisourceWikispeciesTest2 WikipediaTest CommonsWikidataWikibooksWikinewsWikipediaWikiquoteWikisourceWikiversityWikivoyageWiktionary
+From Wikipedia!
+(Redirected from Main page)
+See also: test2.wikipedia.org and test.wikidata.org
+This is a test wiki that runs on the MediaWiki software. Ordinarily it runs the same version of the code as mediawiki.org (plus other wikis in "group 0"), but may be configured differently with experimental features. The contents of this site may be volatile and buggy.
+The current version of MediaWiki running on this wiki is 1.41.0-wmf.24 (cc7c637). See Wikipedia:Configuration and wikitech:testwiki and InitialiseSettings.php for information about the configuration of this wiki.
+What we do on this wiki
+This is a website for the developers of Wikimedia wikis (that means a number of well-known wikis, including those below) to test their latest coding. This site is a "testing area" of sorts, which allows code to be tested in a controlled environment, without damaging other wikis. This wiki can also be used as a classroom to teach basic wiki editing without damaging other wikis.
+This is not Wikipedia or any other content wiki—for them see below—but rather a testing ground for developers. There's not much you can do here unless you're testing code; if you're looking to contribute content, you may wish to visit one of the Wikimedia Projects below.
+Please note: there is a beta test cluster created as a replacement for prototype.wikimedia available here. It is a clone of all production wikis, where developers and regular users can test new features before we deploy them to production wiki. In case you want to test gadgets or user scripts on any Wikimedia project, you can also use that site. test.wikipedia.org is not for testing of unreviewed software or MediaWiki, it is a last place where software is deployed before it goes to live production. New software, extensions and gadgets can be deployed immediately to the deployment cluster.
+Please read before contributing here
+The Wikipedia Test Wiki is not:
+A place to put content or anything meaningful;
+An area to play with administrator's tools. If you are looking for that, see Wikipedia:Requests/Tools;
+A place where you can test AutoWikiBrowser (AWB) before being given permission to use it;
+Where nonsense articles will stick;
+A web host, wiki host, or files (video, image etc.) host;
+A test for new projects or language versions of Wikipedia, see Incubator and Wikispore instead;
+Where you can get away with everything;
+Where libel will be tolerated;
+A community.
+...at least from what I've heard.
+The Wikipedia Test Wiki is for developers to test their code without breaking all of Wikimedia and blowing up the world.
+The Wikipedia Test Wiki may also be used in a classroom environment for teaching basic wiki editing to avoid the great confusion resulting from creating pages and breaking a regular project, although this may not always be desirable because of the occasional difference between the test interface and a typical Wikimedia project interface.
+Administrators
+Administrators are editors who have the extra ability to:
+Block and unblock other users
+Delete and undelete pages on the site
+Protect and unprotect pages
+Edit pages in the MediaWiki namespace (e.g., MediaWiki:Sidebar)
+View deleted edits of a page
+View any contributions by a user to pages which are deleted.
+There are currently 325 administrators on Test Wikipedia. For a list, see Special:ListUsers/sysop.
+Becoming an administrator
+Administrator rights can be requested at Wikipedia:Requests/Permissions. A bureaucrat will decide on the request then. Candidates should meet the following requirements:
+Be active and trusted on other projects and preferably be a sysop elsewhere, or
+Demonstrate a need for the access (e.g. developers).
+Losing admin rights
+Admins are subject to having their user rights removed after one year of inactivity on this wiki. If they want the rights back, they can make a request.
+Bureaucrats
+The Bureaucrats' logo
+Bureaucrats of Test Wiki are simply editors who are able to:
+Grant and revoke administrator rights,
+Grant bureaucrat rights (revocation of bureaucrat rights is done at Meta-Wiki), and
+Flag and unflag bot accounts
+To become a bureaucrat, one must first be an administrator (details). For a full list of bureaucrats on Test Wikipedia, see Special:ListUsers/bureaucrat. Please do not ask bureaucrats for rights directly on their talk page unless you've previously interacted with them.
+There are currently 62 bureaucrats on Test Wikipedia. For a list, see Special:ListUsers/bureaucrat.
+Wikimedia Projects
+WikipediaFree encyclopedia
+WiktionaryFree dictionary and thesaurus
+WikinewsFree-content news
+Wikiquote collection of quotations
+WikibooksFree textbooks and manuals
+WikispeciesFree directory of species
+WikisourceFree-content library
+MediaWikiMediaWiki software
+WikiversityFree learning materials and activities
+CommonsFree shared media repository
+Meta-WikiWikimedia project coordination
+WikidataFree knowledge base
+Retrieved from "https://test.wikipedia.org/w/index.php?title=Main_Page&oldid=573386"
+Category: WikipediaHidden category: Really big category
+34 languages
+AfrikaansÆngliscAzərbaycancaБеларускаяБългарскиবাংলাBrezhonegBosanskiDeutschEnglishEsperantoEspañolEuskaraFrançaisHrvatskiBahasa IndonesiaItaliano日本語JawaМакедонскиBahasa MelayuOccitanPolskiРусскийСрпски / srpskiSundaதமிழ்ТоҷикӣTagalogTürkçeУкраїнськаTiếng Việt中文Bân-lâm-gú
+Edit links
+ This page was last edited on 16 June 2023, at 21:01.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Wikipedia
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

@@ -1,0 +1,69 @@
+ [MediaWiki-announce] MediaWiki 1.16.0beta1 now available
+   
+[MediaWiki-announce] MediaWiki 1.16.0beta1 now available
+Tim Starling
+tstarling at wikimedia.org
+       
+Sat Mar 13 01:01:29 UTC 2010
+Previous message: [MediaWiki-announce] MediaWiki security update: 1.15.2
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+The first beta release of the 1.16 branch is now available for
+download. Please try it and tell us if it works for you. This beta
+release is not recommended for use in a production environment.
+Selected changes since MediaWiki 1.15 that may be of interest:
+* Watchlists now have RSS/Atom feeds. RSS feeds generally are now
+hidden, since Atom is a better protocol and is supported by virtually
+all clients.
+* It's now possible to block users from sending email via
+Special:Emailuser.
+* The maintenance script system was overhauled. Most maintenance
+scripts now have a useful help page when you run them with --help.
+* AdminSettings.php is no longer required in order to run maintenance
+scripts. You can just set $wgDBadminuser and $wgDBadminpassword in
+your LocalSettings.php instead.
+* The preferences system was overhauled. Preferences are stored in a
+more compact format. Changes to site default preferences will
+automatically affect all users who have not chosen a different preference.
+* Support for SQLite was improved. Some broken features were fixed,
+and it now has an efficient full-text search.
+* The user groups ACL system was improved by allowing rights to be
+revoked, instead of just granted.
+* A new localisation caching system was introduced, which will make
+MediaWiki faster for almost everyone, especially when lots of
+extensions are enabled.
+By default, this new system makes a lot of database queries. If your
+database is particularly slow, or if your system administrator limits
+your query count, or if you want to squeeze as much performance as
+possible out of Mediawiki, set $wgCacheDirectory to a writable path on
+the local filesystem. Make sure you have the DBA extension for PHP
+installed, this will improve performance further.
+Full release notes:
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_16_0beta1/phase3/RELEASE-NOTES
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.0beta1.tar.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.0beta1.tar.gz.sig
+Public keys:
+https://secure.wikimedia.org/keys.html
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+iEYEARECAAYFAkua4+gACgkQgkA+Wfn4zXmEegCfaZ153qv8zNiQk18JNwiTfi3w
+NZcAni7Yf8v/lQcctKGya4JH4ow4hAFb
+=JK00
+-----END PGP SIGNATURE-----
+Previous message: [MediaWiki-announce] MediaWiki security update: 1.15.2
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+More information about the MediaWiki-announce
+mailing list

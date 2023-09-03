@@ -1,0 +1,82 @@
+README.md · master · About Code Europa EU / About code.europa.eu · GitLab
+Code development platform for open source projects from the European Union institutions
+Skip to content
+GitLab
+Projects
+Groups
+Topics
+Snippets
+/
+Help
+Help
+Support
+Community forum
+Keyboard shortcuts
+?
+Submit feedback
+Sign in
+Toggle navigation
+Menu
+About code.europa.eu
+Project information
+Project information
+Activity
+Labels
+Members
+Repository
+Repository
+Files
+Commits
+Branches
+Tags
+Contributor statistics
+Graph
+Compare revisions
+Locked files
+Merge requests
+0
+Merge requests
+0
+CI/CD
+CI/CD
+Pipelines
+Jobs
+Artifacts
+Schedules
+Deployments
+Deployments
+Environments
+Releases
+Packages and registries
+Packages and registries
+Package Registry
+Container Registry
+Terraform modules
+Analytics
+Analytics
+CI/CD
+Code review
+Insights
+Repository
+Wiki
+Wiki
+Snippets
+Snippets
+Activity
+Graph
+Jobs
+Commits
+Collapse sidebar
+Close sidebar
+About Code Europa EU About code.europa.eu
+Repository
+about
+README.md
+Find file
+BlameHistoryPermalink
+That would be services, thanks AT
+·
+3e8277e1
+Gijs HILLENIUS authored Jul 13, 2023
+3e8277e1
+To learn more about this project, read the wiki.

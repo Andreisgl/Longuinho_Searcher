@@ -1,0 +1,178 @@
+ When Free Software Isn't (Practically) Superior - GNU Project - Free Software Foundation
+77 captures
+18 Apr 2015 - 16 Jul 2023
+Dec
+JUL
+Dec
+13
+2016
+2017
+2018
+success
+fail
+ About this capture
+COLLECTED BY
+Collection: OpenCitations
+  The main output of the OpenCitations Project is the creation of the Open Citations Corpus (OCC), an open repository of scholarly citation data made available under a Creative Commons public domain dedication, which provides in RDF accurate citation information (bibliographic references) harvested from the scholarly literature. These are described using the SPAR Ontologies according to the OCC metadata model, and are made freely available so that others may freely build upon, enhance and reuse them for any purpose, without restriction under copyright or database law.
+The OCC is being continuously populated from the scholarly literature.
+TIMESTAMPS
+The Wayback Machine - http://web.archive.org/web/20170713084233/http://www.gnu.org/philosophy/when-free-software-isnt-practically-superior.en.html
+Skip to main text
+ Set language
+ 
+ 
+English [en]  
+Deutsch [de]  
+français [fr]  
+italiano [it]  
+日本語 [ja]  
+Nederlands [nl]  
+русский [ru]  
+JOIN THE FSF
+Free Software Supporter
+GNU Operating System
+Sponsored by the Free Software Foundation
+ABOUT GNU
+=
+PHILOSOPHY
+=
+LICENSES
+EDUCATION
+SOFTWARE
+DOCUMENTATION
+HELP GNU
+ When Free Software Isn't (Practically) Superior
+by Benjamin Mako Hill
+The Open Source Initiative's mission statement reads, “Open source
+is a development method for software that harnesses the power of
+distributed peer review and transparency of process. The promise of
+open source is better quality, higher reliability, more flexibility,
+lower cost, and an end to predatory vendor lock-in.”
+For more than a decade now, the Free Software Foundation has argued
+against this “open source” characterization of the free software
+movement. Free software advocates have primarily argued against this
+framing because “open source” is an explicit effort to deemphasize
+our core message of freedom and obscure our movement's role in the
+success of the software we have built. We have argued that “open
+source” is bad, fundamentally, because it attempts to keep people from
+talking about software freedom. But there is another reason we should
+be wary of the open source framing. The fundamental open source
+argument, as quoted in the mission statement above, is often
+incorrect.
+Although the Open Source Initiative suggests “the promise of open
+source is better quality, higher reliability, more flexibility,” this
+promise is not always realized. Although we do not often advertise the
+fact, any user of an early-stage free software project can explain
+that free software is not always as convenient, in purely practical
+terms, as its proprietary competitors. Free software is sometimes low
+quality. It is sometimes unreliable. It is sometimes inflexible. If
+people take the arguments in favor of open source seriously, they must
+explain why open source has not lived up to its “promise” and conclude
+that proprietary tools would be a better choice. There is no reason we
+should have to do either.
+Richard Stallman speaks to this in his article on Why
+Open Source Misses the Point when he explains, “The idea of open
+source is that allowing users to change and redistribute the software
+will make it more powerful and reliable. But this is not
+guaranteed. Developers of proprietary software are not necessarily
+incompetent. Sometimes they produce a program that is powerful and
+reliable, even though it does not respect the users' freedom.”
+For open source, poor-quality software is a problem to be explained
+away or a reason to eschew the software altogether. For free software,
+it is a problem to be worked through. For free software advocates,
+glitches and missing features are never a source of shame.
+Any piece of free software that respects users' freedom has a strong
+inherent advantage over a proprietary competitor that does not. Even
+if it has other issues, free software always has freedom.
+Of course, every piece of free software must start somewhere. A brand-new
+piece of software, for example, is unlikely to be more featureful
+than an established proprietary tool. Projects
+begin with many bugs and improve over time. While open
+source advocates might argue that a project will grow into usefulness
+over time and with luck, free software projects represent important
+contributions on day one to a free software advocate. Every piece of
+software that gives users control over their technology is a step
+forward. Improved quality as a project matures is the icing on the
+cake.
+A second, perhaps even more damning, fact is that the collaborative,
+distributed, peer-review development process at the heart of the
+definition of open source bears little resemblance to the practice of
+software development in the vast majority of projects under free (or
+“open source”) licenses.
+Several academic studies of 
+free software hosting sites SourceForge and Savannah have shown what many free
+software developers who have put a codebase online already know
+first-hand. The vast majority of free software projects are not
+particularly collaborative. The median number of contributors to a
+free software project on SourceForge?  One. A lone
+developer. SourceForge projects at the ninety-fifth percentile by
+participant size have only five contributors. More than half of these
+free software projects—and even most projects that have made several
+successful releases and been downloaded frequently, are the work of a
+single developer with little outside help.
+By emphasizing the power of collaborative development and “distributed
+peer review,” open source approaches seem to have very little to say
+about why one should use, or contribute to, the vast majority of free
+software projects. Because the purported benefits of collaboration
+cannot be realized when there is no collaboration, the vast majority
+of free development projects are at no technical advantage with respect to a
+proprietary competitor.
+For free software advocates, these same projects are each seen as
+important successes. Because every piece of free software respects its
+users' freedom, advocates of software freedom argue that each piece of
+free software begins with an inherent ethical advantage over
+proprietary competitors—even a more featureful one. By emphasizing
+freedom over practical advantages, free software's advocacy is rooted
+in a technical reality in a way that open source is often not. When
+free software is better, we can celebrate this fact. When it is not,
+we need not treat it as a damning critique of free software advocacy
+or even as a compelling argument against the use of the software in
+question.
+Open source advocates must defend their thesis that freely developed
+software should, or will with time, be better than proprietary
+software. Free software supporters can instead ask, “How can we make
+free software better?” In a free software framing, high quality software
+exists as a means to an end rather than an end itself. Free software
+developers should strive to create functional, flexible software that
+serves its users well. But doing so is not the only way to make steps
+toward solving what is both an easier and a much more profoundly
+important goal: respecting and protecting their freedom.
+Of course, we do not need to reject arguments that collaboration can
+play an important role in creating high-quality software. In many of
+the most successful free software projects, it clearly has done
+exactly that. The benefits of collaboration become something to
+understand, support, and work towards, rather than something to take
+for granted in the face of evidence that refuses to conform to
+ideology.
+BACK TO TOP
+FSF
+FREE SOFTWARE DIRECTORY
+HARDWARE
+GNU ART
+GNU'S WHO?
+SITE MAP
+“Our
+mission is to preserve, protect and promote the freedom to use, study,
+copy, modify, and redistribute computer software, and to defend the
+rights of Free Software users.”
+The Free Software Foundation is
+the principal organizational sponsor of the GNU Operating System.
+Support GNU and the FSF by buying manuals and gear, 
+joining the FSF as an associate member, or making
+a donation, either directly to the FSF or via
+Flattr.
+Please send general FSF & GNU inquiries to
+<gnu@gnu.org>.
+There are also other ways to contact
+the FSF.  Broken links and other corrections or suggestions can be sent
+to <webmasters@gnu.org>.
+Please see the Translations
+README for information on coordinating and submitting translations
+of this article.
+Copyright © 1999-2011 Benjamin Mako Hill
+This page is licensed under a Creative
+Commons Attribution-Share Alike 3.0 United States License.
+JavaScript Licenses
+Copyright Infringement Notification
+Updated:
+$Date: 2016/11/18 06:31:40 $

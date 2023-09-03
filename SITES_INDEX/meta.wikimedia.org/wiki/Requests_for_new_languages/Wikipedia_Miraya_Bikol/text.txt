@@ -1,0 +1,120 @@
+Requests for new languages/Wikipedia Miraya Bikol - Meta
+Requests for new languages/Wikipedia Miraya Bikol
+From Meta, a Wikimedia project coordination wiki
+< Requests for new languages
+Jump to navigation
+Jump to search
+←main page
+Request for a new language edition: Wikipedia Miraya Bikol
+​
+submitted
+verification
+final decision
+This language has been verified as eligible.The language is eligible for a project, which means that the subdomain can be created once there is an active community and a localized interface, as described in the language proposal policy. You can discuss the creation of this language project on this page.
+Once the criteria are met, the language committee can proceed with the approval and will verify the test project content with a reliable neutral source, such as a professor or expert.
+If you think the criteria are met, but the project is still waiting for approval, feel free to notify the committee and ask them to consider its approval.A committee member provided the following comment: Please contribute to the test project. StevenJ81 (talk) 14:25, 11 June 2019 (UTC)Reply[reply]
+The community needs to develop an active test project; it must remain active until approval (automated statistics, recent changes). It is generally considered active if the analysis lists at least three active, not-grayed-out editors listed in the sections for the previous few months.
+The community needs to complete required MediaWiki interface translations in that language (about localization, translatewiki, check completion).
+The community needs to discuss and complete the settings table below:
+What
+Value
+Example / Explanation
+Proposal
+Language code
+rbl (SIL, Glottolog)
+A valid ISO 639-1 or 639-3 language code, like "fr", "de", "nso", ...
+Language name
+Miraya Bikol
+Language name in English
+Language name
+Bikol Miraya
+Language name in your language. This will appear in the language list on Special:Preferences, in the interwiki sidebar on other wikis, ...
+Language Wikidata item
+Q18664557 - item has currently the following values:
+English label: Miraya Bikol
+native label (P1705):
+instance of (P31)/subclass of (P279): language, modern language / Bikol
+Wikimedia language code (P424):
+writing system (P282):
+number of speakers, writers, or signers (P1098):
+Item about the language at Wikidata. It would normally include the Wikimedia language code, name of the language, etc. Please complete at Wikidata if needed.
+Directionality
+LTR
+Is the language written from left to right (LTR) or from right to left (RTL)?
+Links
+Links to previous requests, or references to external websites or documents.
+Site URL
+rbl.wikipedia.org
+langcode.wikiproject.org
+Settings
+Project name
+Wikipedia
+"Wikipedia" in your language
+Project namespace
+Wikipedia
+usually the same as the project name
+Project talk namespace
+Wikipedia
+"Wikipedia talk" (the discussion namespace of the project namespace)
+Enable uploads
+yes
+Default is "no". Preferably, files should be uploaded to Commons.If you want, you can enable local file uploading, either by any user ("yes") or by administrators only ("admin").Notes: (1) This setting can be changed afterwards. The setting can only be "yes" or "admin" at approval if the test creates an Exemption Doctrine Policy (EDP) first. (2) Files on Commons can be used on all Wikis. (3) Uploading fair-use images is not allowed on Commons (more info). (4) Localisation to your language may be insufficient on Commons.
+Optional settings
+Project logo
+This needs to be an SVG image (instructions for logo creation).
+Default project timezone
+PST (+8)
+"Continent/City", e.g. "Europe/Brussels" or "America/Mexico City" (see list of valid timezones)
+Additional namespaces
+For example, a Wikisource would need "Page", "Page talk", "Index", "Index talk", "Author", "Author talk".
+Additional settings
+Anything else that should be set
+submit Phabricator task. It will include everything automatically, except additional namespaces/settings. After creating the task, add a link to the comment.
+Proposal[edit]
+Miraya Bikol is the second most spoken native language in Bicol region, Philippines with estimated 317,000 first language speakers according to Ethnologue and Joshua Project. We are in the process of developing an active community on the incubator at this point. --Filipinayzd (talk) 07:12, 19 June 2013 (UTC)Reply[reply]
+Resources[edit]
+Sarong rambong na Burak (ed. G.B. Calleja) Rawis, Legazpi City (Balai Ibalon, 2003)
+Paburukadon sanggatos na Burak (ed. G.B. Calleja) Rawis, Legazpi City (Balai Ibalon, 2004)
+Bulawan baga, Burak palan (ed. G.B. Calleja) Rawis, Legazpi City (Balai Ibalon, 2005)
+Burak nguna bago bunga (ed. G.B. Calleja) Rawis, Legazpi City (Balai Ibalon, 2007)
+Mga Burak sa kadlagan (ed. G.B. Calleja) Rawis, Legazpi City (Balai Ibalon, 2008)
+Sampulong taon kan Burak (ed. G.B. Calleja) Rawis, Legazpi City (Balai Ibalon, 2009)
+Burak kan satuyang kamuyahan (ed. G.B. Calleja) Rawis, Legazpi City (Balai Ibalon, 2010)
+Sa mga Burak, naglalayaw-layaw (ed. G.B. Calleja) Rawis, Legazpi City (Balai Ibalon, 2010)
+Discussion[edit]
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Requests_for_new_languages/Wikipedia_Miraya_Bikol&oldid=23968063"
+Category: Requests for new languages verified as eligibleHidden categories: Requests for new languages (item without WMF code)Requests for new languages (item without native label)Requests for new languages (item without writing system)
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Content pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+In other languages
+Add links
+ This page was last edited on 22 October 2022, at 04:49.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

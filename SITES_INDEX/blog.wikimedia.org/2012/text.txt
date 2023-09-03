@@ -1,0 +1,165 @@
+Wikimedia engineering moving from Subversion to Git – Diff
+ 
+Skip to content
+ 
+Diff
+Categories
+Equity & Inclusion
+Education & Open Access
+Technology
+Partnerships & Events
+Policy & Advocacy
+Movement Strategy
+About
+Submit
+Calendar
+Wikimania 2023
+ 
+Choose a language
+English
+Search 
+Wikimedia engineering moving from Subversion to Git 
+15 February 2012 by Sumana Harihareswara 
+Translate This Post
+Hello, MediaWiki developers and users! You may already be aware of this: our community is embarking on a journey to leave Subversion behind and migrate to Git for our source code repositories, starting on March 3rd (update as of February 29th: moved to March 21st). This is not an easy task. Here I’ll outline our rationale for this move, as well as our planned process.
+What is Git?
+Git is a distributed version control system originally developed by Linus Torvalds and others to manage the Linux kernel. In the past couple of years, it has taken off as a very robust and well-supported code repository. “Distributed” means that there is no central copy of the repository. With Subversion, Wikimedia’s servers host the repository and users commit their changes to it. In contrast, with Git, once you’ve cloned the repository, you have a fully functioning copy of the source code, with all the branches and tagged releases at your disposal.
+Why switch?
+Three major reasons:
+To encourage participation: Since Git is distributed, it allows people to contribute with a much lower barrier to entry. Anyone will be able to clone the repository and make their own changes to keep track of them. And if you’ve got an account in our code review tool (Gerrit), you’ll be able to push changes for the wider community to review.
+To fix our technical process: Subversion has technical flaws that make life difficult for developers. Notably, the implementation of branching is not very easy to use, and makes it hard to use “feature branches”. Our community is very distributed, with many parallel efforts and needs to integrate many different feature efforts, so we’d like to use feature branches more. Git branches are very easy to work with and merge between, which should make things easier for our development community.  (Several other large projects, such as Drupal and PostgreSQL, have made the same switch for similar reasons, and we’ve done our best to learn from their experiences.)
+Some quotes from our community:
+“I love git just because it allows me to commit locally (and offline).” – Guillaume Paumier
+“[Y]ou can create commits locally and push them to the server later (great for working without wifi), you can tell it ‘save my work so I can go do something else now’ in one command, and it’ll allow us to review changes before they go into “trunk” (master)…. without human intervention in merging things into trunk. Gerrit automates this process.” – Roan Kattouw
+And finally, to get improvements to users faster: with better branching and a more granular code review workflow that suits our needs better, plus our ongoing improvements to our automated testing infrastructure, we won’t have to wait months before deploying already-written features and bugfixes to Wikimedia sites.
+We had years of discussion before we finally decided to switch, but now we can look forward to more flexibility and power in our engineering processes.
+What are we doing?
+We’ve now done almost all the back-end work of preparing our repository for the move and are in the final steps of preparation (details). We’ve also written explanations of the new workflow, the migration schedule, issues yet to be addressed, and other related topics. Right now, we’re asking people to stop creating any new extensions in Subversion right now, and to watch the wikitech-l mailing list for more updates.
+What are the next steps?
+Over the next two and a half weeks, the Git repository that contains MediaWiki core and extensions will be brought in step with Subversion, and at first it will be read-only (no one will be able to push changes). This will allow developers to start cloning it to their local machines and getting used to things.
+For MediaWiki core and for extensions that the Wikimedia Foundation deploys on its wikis, the switchover is pencilled in for the weekend of March 3rd (Update as of February 29th: the new migration date is Wednesday, March 21st). We’ll do core first, and then extensions after, but hopefully all in the same weekend. After the successful migration, the Subversion repository (for the directories that have moved to Git, such as /trunk/phase3/) will be made read-only.
+See the full schedule.
+I develop for a Wikimedia project. Do I have to switch to Git?
+Only two projects are affected immediately: the core of MediaWiki and the extensions that get deployed on Wikimedia Foundation projects.
+So, if you work on an extension that the Wikimedia Foundation does not use, or on a non-MediaWiki project hosted at svn.wikimedia.org, you have more time to decide. Talk it over with your community and decide whether you would like to move to Git immediately, move to Git sometime over the next several months, or move to another hosting provider sometime before mid-2013. We would like to gradually migrate all projects currently on Wikimedia’s Subversion repository so that we can make all of svn.wikimedia.org read-only by the middle of 2013, and thus only have to support one source control infrastructure.
+More details.
+Will training and documentation be available? When?
+Yes, we will provide training and documentation to help you use the new workflow. Check our Git page and its links now, and watch that space! There will be more documentation as well as some interactive training sessions before the big switchover in early March.
+If you have any questions, please ask in #mediawiki on Freenode or on wikitech-l.  Thank you!
+Chad Horohoe
+Git migration lead
+Platform Engineering department
+Wikimedia Foundation
+Sumana Harihareswara
+Volunteer Development Coordinator
+Platform Engineering department
+Wikimedia Foundation
+Archive notice: This is an archived post from blog.wikimedia.org, which operated under different editorial and content guidelines than Diff.
+ 
+Can you help us translate this article?
+In order for this article to reach as many people as possible we would like your help. Can you translate this article to get the message out?
+Start translation
+Related
+ 
+5 Comments                    
+ Inline Feedbacks
+View all comments
+ 
+
+    Junaid P V
+
+    11 years ago
+#17442
+I really like this move.
+Git is great for distributed and collaborative work with lot of features.
+0
+
+    CSRedRat
+
+    11 years ago
+#17443
+Good luck!
+0
+
+    Wang
+
+    11 years ago
+#17444
+I really like this move.
+0
+
+    Joe Lewis
+
+    11 years ago
+#17445
+Was awaiting!
+0
+
+    lovetide
+
+    11 years ago
+#17446
+hmm, I used VSS, then CVS, then SVN, now I need to learn GIT now
+0
+ 
+Meta
+Posted in MediaWiki, TechnologyTagged developers, MediaWiki, open-source, Wikimedia Blog (EN Archive) 
+Related
+ 
+Welcome to Diff
+Welcome to Diff, a community blog by – and for – the Wikimedia movement. Join Diff today to share stories from your community and comment on articles. We want to hear your voice!
+Learn more
+Subscribe to Diff via Email
+Enter your email address to subscribe to Diff and receive notifications of new posts by email.
+Email Address
+Subscribe
+ 
+Upcoming Events
+Sep
+15
+15 September @ 10:00 - 17 September @ 17:00  UTC  
+Wikimedia CEE Meeting 2023
+Organizer: 
+Wikimedia Georgia
+Oct
+6
+15:00 - 16:00  UTC  
+Event Series
+Let’s Connect Connectathon
+Organizer: 
+Let's Connect working group
+Oct
+20
+20 October @ 03:30 - 22 October @ 10:30  UTC  
+WikiWomenCamp 2023
+Organizer: 
+Chinmayee Mishra & Manavpreet Kaur
+View Calendar
+Wikimedia News
+Wikimedia Foundation News
+Wikimania 2023 in Singapore centers on diversity, collaboration, and the future of free knowledge10 August 2023 by Wikimedia Foundation
+Wikimedia Technology Blog
+Flame graphs arrive in WikimediaDebug8 June 2023 by Timo Tijhof
+Down the Rabbit Hole
+Wikipedia’s value in the age of generative AI12 July 2023 by Selena Deckelmann
+ 
+Diff This is Diff, a Wikimedia community blog.
+All participants are responsible for building a place that is welcoming and friendly to everyone. Learn more about Diff.
+A Wikimedia Foundation Project
+Links 
+Join
+Subscribe
+Guidelines
+Editorial guidelines
+Privacy Policy
+Terms of Use
+Log in
+Content licensed under Creative Commons Attribution-ShareAlike 4.0 (CC-BY-SA) unless otherwise noted.
+Powered by WordPress.com VIP, Automattic Privacy Notice. 
+wpDiscuzInsert 
+  Report this comment
+This comment is spam 
+This comment is a violation of the Code of Conduct 
+Other 
+Send
+You are going to send email to SendMove CommentMove

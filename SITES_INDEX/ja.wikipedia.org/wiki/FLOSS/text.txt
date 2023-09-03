@@ -1,0 +1,305 @@
+FLOSS - Wikipedia
+コンテンツにスキップ
+メインメニュー
+メインメニュー
+サイドバーに移動
+非表示
+案内
+メインページコミュニティ・ポータル最近の出来事新しいページ最近の更新おまかせ表示練習用ページアップロード (ウィキメディア・コモンズ)
+ヘルプ
+ヘルプ井戸端お知らせバグの報告寄付ウィキペディアに関するお問い合わせ
+言語
+このWikipediaでは言語間リンクがページの先頭にある記事タイトルの向かい側に設置されています。ページの先頭をご覧ください。
+検索
+検索
+アカウント作成ログイン
+個人用ツール
+ アカウント作成 ログイン
+ログアウトした編集者のページ もっと詳しく
+投稿記録トーク
+目次
+サイドバーに移動
+非表示
+ページ先頭
+1FLOSSという名称の背景
+2FOSSとFLOSS
+3脚注
+脚注サブセクションを切り替えます
+3.1注釈
+3.2出典
+4関連項目
+目次の表示・非表示を切り替え
+目次の表示・非表示を切り替え
+FLOSS
+47の言語版
+العربيةAzərbaycancaবাংলাCatalàCebuanoکوردیČeštinaDanskDeutschΕλληνικάEnglishEspañolفارسیFrançaisעבריתहिन्दीBahasa IndonesiaIdoÍslenskaItalianoქართულიಕನ್ನಡ한국어КыргызчаМонголBahasa MelayuनेपालीNederlandsNorsk bokmålPolskiPortuguêsRomânăРусскийසිංහලSimple EnglishSlovenčinaSlovenščinaShqipСрпски / srpskiSvenskaTürkçeУкраїнськаاردوOʻzbekcha / ўзбекчаTiếng Việt中文粵語
+リンクを編集
+ページノート
+日本語
+閲覧編集履歴表示
+ツール
+ツール
+サイドバーに移動
+非表示
+操作
+閲覧編集履歴表示
+全般
+リンク元関連ページの更新状況ファイルをアップロード特別ページこの版への固定リンクページ情報短縮URLを取得するこのページを引用ウィキデータ項目
+印刷/書き出し
+ブックの新規作成PDF 形式でダウンロード印刷用バージョン
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+FLOSSだけで構成されたデスクトップ画面 (Linux Mint+Xfce+Firefox+GIMP+VLCメディアプレーヤー)
+FLOSS（フロス）は、Free/Libre and Open Source Softwareの頭字語であり[注釈 1]、自由ソフトウェアとオープンソースをまとめて表現する語である[1]。Free/Open Source Software の頭字語を取ってFOSSとも呼ばれる。
+FLOSSという名称の背景[編集]
+自由ソフトウェアという語は1980年代に、自由ソフトウェア運動の創始者であるリチャード・ストールマンにより創られていた。
+他方で、開発者を一般に募ったり、ソフトウェア間でのソースコードの利用を推進したりするという目的において、ソフトウェアのソースコードを開示することに関心をもつ企業などが現れた。しかし、フリーソフトウェア運動は特許権や著作権などの知的財産権による独占を否定する社会変革運動である。そのため、知的財産権による保護に基づいて事業を展開する多くのソフトウェア関連企業や、デバイスドライバの内容を知的財産権によって秘匿しているハードウェア関連企業などにとっては、自由ソフトウェアの概念は容認され得ざるものである。そこで、ソフトウェア開発手法としての概念であるオープンソースという語が1998年に創られた。すなわちオープンソースという概念は、自由ソフトウェアがもつ社会変革思想を措いたものである。したがって、オープンソースの語は、多くの企業に広まり、マスメディアにもしばしば積極的にとりあげられるようになった。
+リチャード・ストールマンをはじめとするフリーソフトウェア運動の推進者は、「オープンソースという語は自由ソフトウェアの意図を表していない」として論難し、「自由ソフトウェアと呼ぶべきである」と主張している[2]。
+その結果[要出典]、フリーソフトウェアとオープンソースの双方を包括する表現としてFOSS (Free/Open Source Software) やFLOSSが使われるようになっていった[いつから?]。
+FOSSとFLOSS[編集]
+Free/Open Source Softwareという英語の頭字語であるFOSSは、時が経つにつれ、より多くの言語で概念を伝えるためにFLOSSとなっていった[注釈 2]。Lは「自由な」を意味するフランス語やスペイン語のlibre、イタリア語のliberoを表す。
+また、freeという語が多義であり、Free softwareについては「自由」の意であるのにもかかわらず、「無料」の意と混同されがちである。そのため、自由ソフトウェア支持者はしばしば、「自由」の意を明確にするために、英語ではないもののあえてラテン語（ないしフランス語、スペイン語）のlibreという語を好むことがある（例えばLibreOffice）。
+自由ソフトウェアやオープンソースの概念を生み出した陣営はそれぞれの用語を生み出した経緯もあり、FLOSSなどの頭字語を支持する立場ではない[要出典]。しかし、両陣営間での摩擦を望んでいる訳ではないため、両者の関係を良好にするこの用語を歓迎している。事実、自由ソフトウェアの創始者であるリチャード・ストールマンは、公共の場でもこの頭字語を用いている。とりわけ、研究プロジェクトなどではこの頭字語を使って中立性を保っている[3]。
+2004年末には、FLOSSという頭字語は、南アフリカ共和国[4]やスペイン[5]、ブラジル[6]を含むいくつかの国の英語での公式文書内で使われている。
+脚注[編集]
+[脚注の使い方]
+注釈[編集]
+^ libreはフランス語で「自由な」の意。
+^ ドイツ語の「自由な」はfreiであるためFOSSにすでに入っている。
+出典[編集]
+^ Richard Stallman (2016年11月18日). “FLOSS and FOSS”. 2018年2月9日閲覧。
+^ リチャード・ストールマン. “なぜ、オープンソースは自由ソフトウェアの的を外すのか”. 2021年3月3日閲覧。
+^ Free Software - Free Society!：リチャード・ストールマンとのインタビュー、2004年。
+^ Free/Libre and Open Source Software and Open Standards in South Africa: A Critical Issue for Addressing the Digital Divide、National Advisory Council on Innovation（NACI）による。2004年7月。
+^ FLOSS deployment in Extremadura, Spain、Interoperable Delivery of European eGovernment Services to public Administrations, Business and Citizensによる。2003年10月。
+^ Relatório da ONU aponta o Software Livre（FLOSS） como melhor、softwarelivre.orgにて。2004年2月2日。
+関連項目[編集]
+ポータルFLOSS
+自由ソフトウェア
+自由ソフトウェア運動
+オープンソース
+表話編歴ソフトウェアディストリビューション（ソフトウェア配布）ライセンス
+パブリックドメイン
+フリー
+オープンソース
+ソースアベイラブル
+シェアードソース
+プロプライエタリ
+FLOSS
+ビールウェア（英語版）
+Freely redistributable（自由に再配布可能）（英語版）
+収入形態（英語版）
+アドウェア（広告付）
+ドネーションウェア（寄付）
+フリーミアム
+フリーウェア
+商用
+Nagware（購入を求めるメッセージを出す）（英語版）
+ポストカードウェア（葉書）
+シェアウェア
+望むだけ支払う方式
+販売方法
+市販（パッケージ）
+デジタル配信
+オンプレミス
+プリインストール
+バンドル
+SaaS
+害意・不正
+マルウェア
+ワーム
+トロイの木馬
+スパイウェア
+スケアウェア
+ベーパーウェア
+終了
+アバンダンウェア
+関連項目
+アクティベーション
+ショベルウェア
+ソフトウェアの肥大化
+ カテゴリ
+表話編歴自由ソフトウェアとオープンソースソフトウェア全般
+オープンソースソフトウェア
+自由ソフトウェア
+定義
+オープンソース
+定義
+解説
+歴史
+ビジネスモデル
+セキュリティ
+開発（英語版）
+OS（英語版）
+BSD
+Darwin
+FreeDOS
+GNU Hurd
+Linux
+ディストリビューション
+OpenSolaris
+Symbian
+ReactOS
+ソフトウェア
+FreeBASIC
+Tcl/Tk
+Perl
+Python
+PHP
+Ruby
+Lua
+OpenJDK
+Go
+Swift
+Rust
+GCC
+clang
+LLVM
+Apache HTTP Server
+Firefox
+Chromium
+WebKit
+Android
+VS Code
+Mattermost
+NetBeans
+Eclipse
+IntelliJ
+Gambas
+ホスティング
+SourceForge
+OSDN
+GitHub
+GitLab.com
+Bitbucket
+Google Developers
+GNU Savannah
+団体
+標準化団体
+フリーソフトウェア財団
+ヨーロッパ
+インド
+ラテンアメリカ
+オープンソース・イニシアティブ
+freedesktop.org
+Linux Foundation
+Open Handset Alliance
+開発支援団体
+GNUプロジェクト
+Apacheソフトウェア財団
+Android Open Source Project
+Blender Foundation
+Eclipse Foundation
+GNOME Foundation
+KDE e.V.（英語版）
+The Document Foundation
+VideoLAN
+X.Org Foundation
+Xiph.Org Foundation
+XMPP Standards Foundation（英語版）
+Software Freedom Conservancy
+Software in the Public Interest
+Google Developers
+Mozilla Foundation
+Symbian Foundation
+Microsoft Open Source
+ライセンス
+指針
+自由ソフトウェアライセンス
+オープンソースライセンス
+Debianフリーソフトウェアガイドライン
+Microsoft Open Specification Promise
+主要例
+Apache
+BSD
+GPL
+LGPL
+MIT
+MPL
+CDDL
+EPL
+その他
+パブリックドメイン
+CC0
+WTFPL
+コピーレフト
+課題
+特性上の課題
+ライセンスの氾濫
+ウイルス性ライセンス
+対立と論争
+GNU/Linux名称論争
+Mozilla関連ソフトウェアのブランド変更
+TiVo化
+SCO・Linux論争
+その他
+FLOSS
+代替用語（英語版）
+フォーキング
+フリーソフトウェア運動
+The Cathedral and the Bazaar
+Revolution OS
+オープンソースソフトウェアとクローズドソースソフトウェアの比較（英語版）
+一覧
+オープンソースソフトウェアのカテゴリ
+OSSホスティングサービスのカテゴリ
+オープンソースライセンスのカテゴリ
+ コモンズ
+ ポータル
+ プロジェクト
+表話編歴オープン運動
+フリーカルチャー運動
+オープンソースソフトウェア運動（英語版）概念
+オープンアクセス
+オープンコンテント
+オープンコミュニケーション（英語版）
+オープンデータ
+オープンデザイン（英語版）
+オープンエデュケーション（英語版）
+オープンガバメント（英語版）
+オープンハードウェア
+オープンイノベーション
+オープンナレッジ（英語版）
+オープンパテント（英語版）
+オープンリサーチ（英語版）
+オープンサイエンス
+オープンソースソフトウェア
+オープンソースガバナンス（英語版）
+オープンソースジャーナリズム（英語版）
+オープン標準
+ツール
+FLOSS
+オープン教育リソース
+オープン音楽モデル（英語版）
+オープンノートブックサイエンス（英語版）
+オープンピアビュー（英語版）
+関連団体
+クリエイティブ・コモンズ
+フリーソフトウェア財団
+オープンナレッジ財団（英語版）
+Open Rights Group
+Public Library of Science
+SPARC
+関連人物
+ジョン・ウィルバンクス（英語版）
+ローレンス・レッシグ
+ピーター・マレー・ラスト（英語版）
+ピーター・サバー（英語版）
+リチャード・ストールマン
+ティム・バーナーズ＝リー
+プロジェクト
+クリエイティブ・コモンズ・ライセンス
+自由文化作品の定義
+フリーソフトウェア運動
+「https://ja.wikipedia.org/w/index.php?title=FLOSS&oldid=96165194」から取得
+カテゴリ: フリーソフトウェア文化・運動オープンソース文化・運動隠しカテゴリ: 出典を必要とする記述のある記事/2014年7月言葉を濁した記述のある記事 (いつから)出典を必要とする記述のある記事/2021年5月
+ 最終更新 2023年7月26日 (水) 20:26 （日時は個人設定で未設定ならばUTC）。
+テキストはクリエイティブ・コモンズ 表示-継承ライセンスのもとで利用できます。追加の条件が適用される場合があります。詳細については利用規約を参照してください。
+プライバシー・ポリシー
+ウィキペディアについて
+免責事項
+行動規範
+モバイルビュー
+開発者
+統計
+Cookieに関する声明
+本文の横幅制限を有効化／無効化

@@ -1,0 +1,79 @@
+History of the OSI | Open Source Initiative
+1,149 captures
+08 Aug 2007 - 01 Sep 2023
+Jun
+JUL
+Sep
+26
+2011
+2012
+2013
+success
+fail
+ About this capture
+COLLECTED BY
+Organization: Alexa Crawls
+  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+Collection: Alexa Crawls
+  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+TIMESTAMPS
+The Wayback Machine - http://web.archive.org/web/20120726073944/http://opensource.org:80/history
+Skip to main content
+Open Source Initiative 
+ 
+Search this site:
+Search 
+ 
+Navigation
+About the OSIBoard
+OSI Board Blog
+History
+Press Releases
+The Open Source Definition
+Open Source Licenses
+Trademark and Logo Usage
+FAQ
+Open Standards
+Open Source Education
+Mailing lists
+Getting Help
+Donate to the OSI
+Terms of Service
+OSI Affiliate Membership
+Contact OSI
+OSI Individual Membership
+ 
+OSI Board email
+Site Admin email
+ 
+You are hereHome › About the OSI 
+ History of the OSI
+ 
+The prehistory of the Open Source Initiative includes the entire history of Unix, Internet free software, and the hacker culture. OSI was formed as an educational, advocacy, and stewardship organization at a cusp moment in the history of that culture.
+The immediate chain of events that was to lead to the formation of OSI began with the publication of Eric Raymond's paper The Cathedral and the Bazaar in 1997. In this paper, Raymond pioneered a new way of understanding and describing the folk practices of the hacker community. His analysis, which centered on the idea of distributed peer review, had an immediate and strong appeal both within and (rather unexpectedly) outside the hacker culture.
+Raymond's presentation of the paper at the O'Reilly Perl Conference in September 1997 helped trigger Netscape's announcement, on January 22nd 1998, that it planned to release the source code of its popular Web browser as free software. Now, so many years and similar source-code releases later, it takes some effort to remember what an unprecedented move this was. At the time, it sent shock waves through both the hacker community and the business world. There was a widespread sense that long-held rules were about to change, and that anything might be possible.
+The 'open source' label
+The 'open source' label was invented at a strategy session held on February 3rd, 1998 in Palo Alto, California. The people present included Todd Anderson, Chris Peterson (of the Foresight Institute), John "maddog" Hall and Larry Augustin (both of Linux International), Sam Ockman (of the Silicon Valley Linux User's Group), Michael Tiemann, and Eric Raymond.
+Raymond had been invited out by Netscape to help them plan their browser source-code release. The strategy session grew from a realization that the Netscape announcement had created a precious window of time within which we might finally be able to get the corporate world to listen to what the hacker community had to teach about the superiority of an open development process.
+The conferees decided it was time to dump the moralizing and confrontational attitude that had been associated with "free software" in the past and sell the idea strictly on the same pragmatic, business-case grounds that had motivated Netscape. They brainstormed about tactics and a new label. "Open source", contributed by Chris Peterson, was the best thing they came up with.
+Over the next week Raymond and others worked on spreading the word. Linus Torvalds gave an all-important imprimatur the following day. Phil Hughes offered a pulpit in Linux Journal. Richard Stallman flirted with adopting the term, then changed his mind.
+Five days later, on February 8th 1998, Raymond issued the first public call to the community to begin using the new term. The formation of OSI followed shortly thereafter. Two of those present at the Palo Alto meeting would later serve as presidents of OSI, and other attendees became key early supporters of the organization.
+A month later, on April 8th, most of the tribal chieftains of the hacker culture met at Tim O'Reilly's Free Software Summit, a gathering pulled together specifically in response to the possibilities opened up by the Netscape release and the buzz developing around the new label "open source". The meeting included the founding figures of Linux, sendmail, Perl, Python, Apache, and several other key projects, and representatives from allies including the IETF and Internet Software Consortium.
+At that meeting, the participants voted to promote the use of the term 'open source', and agreed to adopt with it the new rhetoric of pragmatism and market-friendliness that Raymond had been developing.
+Founding of OSI and the Open Source Definition
+OSI was jointly founded by Eric Raymond and Bruce Perens in late February 1998, with Raymond as its first president and an initial Board of Directors including Brian Behlendorf, Ian Murdock, Russ Nelson, and Chip Salzenberg. Raymond served as president until 2005 and afterwards remained a nonvoting observer active in the Board's work; Perens, originally Vice-President, resigned in 1999 over policy differences with the Board and distanced himself from the organization.
+OSI was conceived as a general educational and advocacy organization to execute the same mission agreed on at the Free Software Summit. At the launch meeting, the original Board accepted this general mission and decided to focus more specifically on explaining and protecting the "open source" label. The main instrument they adopted for this purpose was the Open Source Definition.
+The Open Source Definition was derived from the Debian Free Software Guidelines. Bruce Perens had composed the original draft; it was refined using suggestions of the Debian GNU/Linux Distribution developers in e-mail conference during most of June, 1997. They then voted to approve it as Debian's publicly stated policy. It was revised somewhat and Debian-specific references were removed during the launch of the Open Source Initiative in February 1998.
+In 2004 the OSI added clause 10 to deal with some issues surrounding click-wrap licensing. Otherwise the OSD has been stable since its inception, with only minor wording clarifications in other clauses.
+Institution-building
+The goal of the original Board was to build a sustainable institution to represent the open-source community and exercise stewardship of the Open Source Definition. To this end it adopted bylaws and applied for recognition as 501(c)3 nonprofit; this was achieved in 2003.
+That original Board's most notable success was to successfully position the OSD as the gold standard of open-source licensing, and the OSI as a standards body trusted both by the hacker community and the worlds of business and government. That design was largely achieved by the end of 1998, and OSI has since become a fixture in the open-source firmament.
+Though OSI has become one of the open-source community's two principal advocacy organizations, it deliberately maintains a relatively low profile. Much of what we do is achieved through quiet, behind-the-scenes persuasion rather than public activism. We offer background to reporters, policy suggestions to politicians, and business cases to executives. We've worked hard at maintaining s reputation for sanity and pragmatism; this has often enabled us to cope with threats to the community's interests before they reached the point of becoming visible crises.
+Having worked steadily to broaden its base, OSI became a truly international organization in 2005 with the accession of directors from Europe, South America, Japan, and India.
+Our first President, having studied the history of reform movements, was much concerned that the open-source community needed leading institutions not dependent on the charisma or talents of their founding members. The single most important fact about the history of OSI as an institution may therefore be that as of 2007, the offices of President and Vice-President have rotated three times each and the Board Of Directors is about to inaugurate its fourth slate of new members. 
+Opensource.org site content is licensed under a Creative Commons Attribution 2.5  License.
+| Terms of Service
+ 
+ 
+ 
+ 

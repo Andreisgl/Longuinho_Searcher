@@ -1,0 +1,575 @@
+About: Coursera
+ Browse using
+OpenLink Faceted Browser
+OpenLink Structured Data Editor
+LodLive Browser
+ Formats
+RDF:
+N-Triples
+N3
+Turtle
+JSON
+XML
+OData:
+Atom
+JSON
+Microdata:
+JSON
+HTML
+Embedded:
+JSON
+Turtle
+Other:
+CSV
+JSON-LD
+ Faceted Browser 
+ Sparql Endpoint 
+About:
+Coursera
+An Entity of Type: Online education, 
+from Named Graph:  http://dbpedia.org, 
+within Data Space: dbpedia.org
+Coursera Inc. (/kərˈsɛrə/) is a U.S.-based massive open online course provider founded in 2012 by Stanford University computer science professors Andrew Ng and Daphne Koller. Coursera works with universities and other organizations to offer online courses, certifications, and degrees in a variety of subjects. In 2021 it was estimated that about 150 universities offered more than 4,000 courses through Coursera.
+Property
+Value
+dbo:abstract
+Coursera és una plataforma d'educació virtual gratuïta creada el 2011, fndada pels professors de Stanford, Andrew Ng i Daphne Koller, i desenvolupada per la Universitat de Stanford per oferir cursos oberts de formació a distància (MOOC, acrònim de Massive Open Online Courses). Ofereix cursos gratuïts de temàtiques diverses, més aviat de nivell universitari, i oberts a qualsevol persona del món. Coursera treballa amb universitats i altres organitzacions per oferir cursos, especialitzacions i titulacions en línia sobre temes com enginyeria, humanitats, medicina, biologia, ciències socials, matemàtiques, negocis, informàtica, màrqueting digital, ciències de la informació i moltrs altres. A l'abril de 2014, Coursera comptava ja amb la participació de més de 100 universitats d'arreu del món, entre les quals la Universitat de Michigan, la Universitat de Princeton, la Universitat de Londres, la Universitat de Chicago, la Universitat Yale, la Universitat de Munic, la Universitat de Melbourne, la Universitat de Tòquio, etc. La Universitat Autònoma de Barcelona va ser la primera universitat de l'estat espanyol, el febrer de 2013, a oferir cursos MOOC a través de Coursera. La UAB compta amb un espai propi a Coursera per a la seva oferta de cursos. A partir del mes d'octubre del 2017, Coursera comptava amb més de 28 milions d'usuaris registrats i més de 2.000 cursos. (ca)
+كورسيرا هي شركة تعليمية عبر الإنترنت ربحية توفر مساقات هائلة مفتوحة أنشأها مدرسون من جامعة ستانفورد. تعمل كورسيرا مع جامعات عالمية على طرح مساقاتها التعليمية عبر واجهة كورسيرا لإدارة النظم التعليمية. وصل عدد المسجلين في مساقاتها في أكتوبر 2013 إلى 5 ملايين طالب من جميع أنحاء العالم. (ar)
+Coursera ist ein US-amerikanisches Unternehmen, das sich auf die Bereitstellung von Online-Weiterbildungskursen (Massive Open Online Courses) spezialisiert hat. (de)
+Coursera Inc. (/kərˈsɛrə/) is a U.S.-based massive open online course provider founded in 2012 by Stanford University computer science professors Andrew Ng and Daphne Koller. Coursera works with universities and other organizations to offer online courses, certifications, and degrees in a variety of subjects. In 2021 it was estimated that about 150 universities offered more than 4,000 courses through Coursera. (en)
+Coursera es una plataforma de educación virtual nacida en octubre de 2011 y desarrollada por académicos de la Universidad de Stanford con el fin de brindar oferta de educación masiva a la población (Massive Online Open Course), con cursos en inglés y otros idiomas como el español, francés, italiano y chino. Coursera ofrece cursos, tanto gratuitos como de pago, sobre temas variados a niveles universitarios, pero abiertos a todos los sectores de la población.​ Fue fundada por los profesores en ciencias de la computación Andrew Ng y Daphne Koller en octubre de 2011 con el lanzamiento de dos cursos gratuitos, Aprendizaje automático e Introducción a las bases de datos.​ (es)
+Coursera est une entreprise numérique proposant des formations en ligne ouvertes à tous, fondée par les professeurs d'informatique Andrew Ng et Daphne Koller de l'université Stanford (Californie). Le 16 août 2012, 1 080 000 étudiants de 196 pays s'étaient inscrits à au moins un cours. Coursera a été lancée peu après Udacity, entreprise par l'ancien professeur de Stanford Sebastian Thrun, et peu avant edX, une initiative à but non lucratif de formation en ligne par le MIT et Harvard. (fr)
+코세라(영어: Coursera)는 미국의 교육 및 기술 회사이다. 2012년 2월, 시험 운영을 하였고 당해 4월 공식적으로 운영하였다.2018년 6월 기준으로, 3,300만여 명의 회원이 등록했으며 2,400여개의 코스를 제공하고 있다. (ko)
+Coursera /kɔrsˈɛrə/ è un'azienda statunitense che opera nel campo delle tecnologie didattiche fondata da docenti d'informatica dell'Università di Stanford. La piattaforma offre corsi universitari gratuiti in formato Massive Open Online Courses (Mooc) e dal 2014 coinvolge un centinaio di università ed enti operanti nel campo dell'istruzione superiore in tutto il mondo. Sebbene il completamento e le lezioni siano gratuiti e forniscano un attestato di frequenza, per ottenere certificati ufficiali è generalmente richiesto un pagamento per l'iscrizione a una piattaforma di verifica individuale e coprire i costi amministrativi. (it)
+コーセラ（英名：Coursera）は、スタンフォード大学コンピュータサイエンス教授Andrew NgとDaphne Kollerによって創立された教育技術の営利団体である。世界中の多くの大学と協力し、それらの大学のコースのいくつかを無償でオンライン上に提供している。2012年11月の時点で196カ国から1,900,241人もの生徒が一つ以上の授業に登録をした。（もっとも、Daphne Kollerとのインタビューによると、授業を最後まで受講したのは、数十万人のみで、修了率は7～9パーセントに留まった。） (ja)
+Coursera is een Amerikaans bedrijf dat meer dan 1.954 opleidingen aanbiedt volgens het principe van Massive open online course, oftewel MOOC. Het bedrijf werkt samen met meer dan 140 universiteiten en onderwijsorganisaties in verschillende landen. Nederlandse partners van Coursera zijn de Universiteit Utrecht, Erasmus Universiteit Rotterdam, Technische Universiteit Eindhoven, Universiteit Leiden en Universiteit van Amsterdam. Het bedrijf werd in 2012 opgericht door en Daphne Koller, twee professoren van Stanford-universiteit. Sinds 2014 wordt het bedrijf geleid door . (nl)
+Coursera — проект в сфере массового онлайн-образования, основанный профессорами информатики Стэнфордского университета Эндрю Ыном и Дафной Коллер. В его рамках существует проект по публикации образовательных материалов в интернете в виде набора онлайн-курсов. Проект сотрудничает с университетами, которые публикуют и ведут в системе курсы по различным отраслям знаний. Слушатели проходят курсы, общаются с сокурсниками, сдают тесты и экзамены непосредственно на сайте Coursera, также распространяется официальное мобильное приложение для iPhone и Android. На февраль 2017 года в Coursera зарегистрировано 87 млн пользователей и более 4300 курсов и 430 специализаций от 149 образовательных учреждений. В марте 2021 года Coursera провела первичное размещение акций на Нью-йоркской фондовой бирже, продав 15,7 млн акций по цене $33 за акцию. Компания привлекла $517 млн и оценка ее рыночной стоимости в рамках размещения составила около $4,3 млрд. (ru)
+Coursera é uma empresa de tecnologia educacional norte-americana, com sede em Mountain View, e fundada pelos professores de ciência da computação Andrew Ng e Daphne Koller, da Universidade Stanford. Em 19 de setembro de 2012, a Coursera anunciou parceria com mais 17 universidades, das quais duas integram o grupo Ivy League. Em 20 de fevereiro de 2013, a Coursera anunciou parceria com mais 29 universidades, das quais 16 não são dos Estados Unidos. O Coursera oferece cinco programas de estudo, eles são: Course; Specialization; Professional Certificate; Mastertrack Certificate; Degree. Os cursos são disponibilizados no formato ou em períodos específicos (a critério da instituição provedora). Todos os cursos são gratuitos mas o aluno pode optar por pagar uma taxa para obter um certificado autenticado. Contudo, a plataforma possui um programa especial de “Auxílio Financeiro” para os que desejam o certificado mas não possuem condições financeiras para isso. Solicitar o auxílio é muito fácil, basta acessar o link de inscrição do auxílio financeiro, constante em todos os cursos, e responder algumas perguntas. O Coursera oferece aulas em vídeos e uma vasta gama de opções de leitura obrigatória e extra, para melhor entendimento dos conteúdos repassados nas vídeo-aulas. É necessário completar todos os exercícios e rever o trabalho de pelo menos 3 colegas para que sua nota seja computada. Ao final de cada semana também é disponibilizada uma prova, na qual é necessária uma nota maior que 80% para passar. O Coursera também conta com um aplicativo para IOS e Android, e possibilita gravar os conteúdos para acesso offline. Existem fóruns de discussão, e sua identidade é checada toda vez que é necessário entregar um projeto. Também existe a oferta de especializações, conjunto de cursos independentes sobre o mesmo tema feitos em sequência. A grande maioria dos cursos estão disponíveis em inglês com legendas em diversas línguas, mas há cursos em português disponibilizados pela USP, Unicamp e Fundação Lemann, por exemplo. Universidades e faculdades de diversos países já se associaram ao Coursera: Alemanha, Austrália, Brasil, Canadá, Chile, China (continente), Singapura, Coreia do Sul, Dinamarca, Espanha, Estados Unidos, França, Holanda, Hong Kong, Índia, Israel, Itália, Japão, México, Reino Unido, Rússia, Suécia, Suíça, Taiwan e Turquia. (pt)
+Coursera – amerykańska spółka edukacyjna udostępniająca masowe otwarte kursy online prowadzone przez uniwersytety i instytuty naukowe z całego świata, utworzona przez oraz Daphne Koller z Uniwersytetu Stanforda. W kwietniu 2014 Coursera miała 7,1 mln użytkowników korzystających z 641 kursów prowadzonych przez 108 instytucji. Uczestnictwo w kursach oferowanych przez Coursera jest bezpłatne, płatne jest natomiast uzyskanie zweryfikowanych certyfikatów informujących o ukończeniu kursu i niektóre inne usługi. Na stronie znajdują się kursy prowadzone między innymi przez Uniwersytet Duke’a, Uniwersytet Kalifornijski, Uniwersytet Columbia, Kalifornijski Instytut Techniczny, Uniwersytet w Princeton, Uniwersytet Stanforda, Uniwersytet Yale’a i wiele innych. Większość kursów jest prowadzona w języku angielskim, ale oferowane są również kursy w języku chińskim, francuskim, hiszpańskim, rosyjskim, portugalskim oraz kilku innych. (pl)
+Coursera Inc. är en amerikansk leverantör av storskaliga, öppna och nätbaserade kurser som grundades 2012 av datavetenskapsprofessorerna Andrew Ng och Daphne Koller från Stanford University. Coursera samarbetar med universitet och andra organisationer för att erbjuda onlinekurser, certifieringar och examina inom en mängd olika ämnen. År 2021 uppskattades det att cirka 150 universitet erbjöd över 4 000 kurser via Coursera. (sv)
+Coursera（/kɔːrsˈɛrə/, NYSE：COUR）是由斯坦福大学的计算机科学教授吴恩达和达芙妮·科勒联合创建的一个的教育科技公司。 Coursera与多家大学合作，给大众带来一些在线免费课堂。在Knowledge@Wharton座谈会上，Daphne Koller在采访中说道，截至到2012年11月，Coursera上有来自196国家的超过190万人。他们至少注册过一门课堂，尽管有数百万人注册过课堂，但完成率仅是7-9%。 Coursera成立于加州山景城，它的启动稍晚于由斯坦福大学教授Sebastian Thrun投资的盈利性在线教育网站Udacity、但稍早于一个由麻省理工学院、哈佛大学和加州大學柏克萊分校所初创的非盈利性在线教育网站edX。 (zh)
+Courséra — технологічна компанія, що працює в галузі освіти; заснована професорами інформатики Ендрю Ин та Дафною Коллер зі Стенфордського університету у квітні 2012 року. «Найкращий стартап 2012 року» за версією сайту TechCrunch. Переможець Премії Веббі 2014 року в галузі освіти (приз журі та приз глядацьких симпатій). Coursera пропонує своїм користувачам сотні безкоштовних онлайн-курсів з різних дисциплін, у разі успішного закінчення яких користувач отримує сертифікат про закінчення курсу. Coursera співпрацює з університетами з різних країн світу для викладання курсів цих навчальних закладів онлайн. Наразі пропонуються курси в наступних галузях: інженерія, гуманітарні науки, медицина, біологія, суспільні науки, математика, бізнес, інформатика та інші. Кількість студентів на сайті перевищила 10 мільйонів осіб. (uk)
+dbo:language
+dbr:Multilingual
+dbo:numberOfEmployees
+1138 (xsd:nonNegativeInteger)
+dbo:revenue
+4.1529E8
+dbo:thumbnail
+wiki-commons:Special:FilePath/Coursera-Logo_600x600.svg?width=300
+dbo:type
+dbr:Online_education
+dbo:wikiPageExternalLink
+https://www.coursera.org/
+dbo:wikiPageID
+35356507 (xsd:integer)
+dbo:wikiPageLength
+36686 (xsd:nonNegativeInteger)
+dbo:wikiPageRevisionID
+1123708199 (xsd:integer)
+dbo:wikiPageWikiLink
+dbr:Princeton_University
+dbr:Professional_certification
+dbr:Python_(programming_language)
+dbr:Boston_Consulting_Group
+dbr:United_Kingdom
+dbr:University_of_London
+dbr:University_of_Michigan
+dbr:University_of_Pennsylvania
+dbr:Public_company
+dbc:2012_establishments_in_California
+dbc:American_companies_established_in_2012
+dbc:American_educational_websites
+dbc:Software_companies_of_the_United_States
+dbr:Massive_open_online_course
+dbr:Online_education
+dbr:Google
+dbr:Mountain_View,_California
+dbr:Multilingual
+dbr:Contact_tracing
+dbr:Andrew_Ng
+dbr:Stanford_University
+dbr:Computer_science
+dbr:Axis_Bank
+dbc:Companies_based_in_Mountain_View,_California
+dbr:COVID-19_pandemic
+dbr:US$
+dbr:Data_science
+dbc:Companies_listed_on_the_New_York_Stock_Exchange
+dbc:Educational_technology_companies_of_the_United_States
+dbc:Software_companies_based_in_the_San_Francisco_Bay_Area
+dbr:Daphne_Koller
+dbr:Digital_marketing
+dbc:2021_initial_public_offerings
+dbc:Software_companies_established_in_2012
+dbr:HEC_Paris
+dbr:Helen_Ward_(scientist)
+dbr:Jameel_Institute
+dbr:TechCrunch
+dbc:Education_companies_established_in_2012
+dbr:E-learning
+dbr:Jeff_Maggioncalda
+dbc:Open_educational_resources
+dbr:South_Korea
+dbr:Data_analytics
+dbr:IBM
+dbr:IPO
+dbr:Imperial_College_London
+dbr:Indian_School_of_Business
+dbr:Meta_Platforms
+dbr:New_Enterprise_Associates
+dbr:Yale_University
+dbr:Yonsei_University
+dbr:Project_management
+dbr:Social_psychology_(sociology)
+dbr:University_of_Illinois
+dbr:Kleiner_Perkins_Caufield_&_Byers
+dbr:Universidade_de_São_Paulo
+dbr:Series_B_funding
+dbr:Professional_certificate
+dbr:IT_support
+dbr:L’Oréal
+dbr:UX_design
+dbr:Webby_awards
+dbr:GSV_Asset_Management
+dbp:areaServed
+Worldwide (en)
+dbp:assets
+ (en)
+9.5891E8
+dbp:bloomberg
+COUR:US (en)
+dbp:caption
+Coursera's homepage in March 2020 (en)
+dbp:collapsible
+yes (en)
+dbp:commercial
+Yes (en)
+dbp:companyType
+dbr:Public_company
+dbp:currentStatus
+Active (en)
+dbp:equity
+ (en)
+7.4151E8
+dbp:founder
+dbr:Andrew_Ng
+dbr:Daphne_Koller
+dbp:industry
+dbr:E-learning
+dbp:keyPeople
+dbr:Jeff_Maggioncalda
+ (en)
+dbp:language
+dbr:Multilingual
+dbp:location
+Mountain View, California, U.S. (en)
+dbp:logo
+Coursera-Logo_600x600.svg (en)
+dbp:name
+Coursera Inc. (en)
+dbp:netIncome
+ (en)
+-1.4521E8
+dbp:numEmployees
+1138 (xsd:integer)
+dbp:numUsers
+92000000 (xsd:integer)
+dbp:operatingIncome
+ (en)
+-1.4306E8
+dbp:registration
+Required (en)
+dbp:reuters
+COUR.N (en)
+dbp:revenue
+ (en)
+4.1529E8
+dbp:screenshot
+Coursera homepage.png (en)
+dbp:secCik
+COUR (en)
+dbp:symbol
+COUR (en)
+dbp:tradedAs
+NYSE:COUR (en)
+dbp:type
+dbr:Online_education
+dbp:url
+https://www.coursera.org/
+dbp:wikiPageUsesTemplate
+dbt:As_of
+dbt:Authority_control
+dbt:Decrease
+dbt:IPAc-en
+dbt:Increase
+dbt:Infobox_website
+dbt:Official_website
+dbt:Reflist
+dbt:Short_description
+dbt:Start_date_and_age
+dbt:Finance_links
+dbp:yahoo
+COUR (en)
+dcterms:subject
+dbc:2012_establishments_in_California
+dbc:American_companies_established_in_2012
+dbc:American_educational_websites
+dbc:Software_companies_of_the_United_States
+dbc:Companies_based_in_Mountain_View,_California
+dbc:Companies_listed_on_the_New_York_Stock_Exchange
+dbc:Educational_technology_companies_of_the_United_States
+dbc:Software_companies_based_in_the_San_Francisco_Bay_Area
+dbc:2021_initial_public_offerings
+dbc:Software_companies_established_in_2012
+dbc:Education_companies_established_in_2012
+dbc:Open_educational_resources
+gold:hypernym
+dbr:Company
+rdf:type
+owl:Thing
+dbo:Company
+schema:CreativeWork
+schema:WebSite
+dbo:Work
+wikidata:Q386724
+yago:WikicatCompaniesBasedInMountainView,California
+yago:WikicatCompaniesListedOnTheNewYorkStockExchange
+yago:WikicatSoftwareCompaniesBasedInTheSanFranciscoBayArea
+yago:Abstraction100002137
+yago:Company108058098
+yago:Group100031264
+yago:Institution108053576
+yago:Organization108008335
+yago:YagoLegalActor
+yago:YagoLegalActorGeo
+yago:YagoPermanentlyLocatedEntity
+dbo:Website
+yago:SocialGroup107950920
+rdfs:comment
+كورسيرا هي شركة تعليمية عبر الإنترنت ربحية توفر مساقات هائلة مفتوحة أنشأها مدرسون من جامعة ستانفورد. تعمل كورسيرا مع جامعات عالمية على طرح مساقاتها التعليمية عبر واجهة كورسيرا لإدارة النظم التعليمية. وصل عدد المسجلين في مساقاتها في أكتوبر 2013 إلى 5 ملايين طالب من جميع أنحاء العالم. (ar)
+Coursera ist ein US-amerikanisches Unternehmen, das sich auf die Bereitstellung von Online-Weiterbildungskursen (Massive Open Online Courses) spezialisiert hat. (de)
+Coursera Inc. (/kərˈsɛrə/) is a U.S.-based massive open online course provider founded in 2012 by Stanford University computer science professors Andrew Ng and Daphne Koller. Coursera works with universities and other organizations to offer online courses, certifications, and degrees in a variety of subjects. In 2021 it was estimated that about 150 universities offered more than 4,000 courses through Coursera. (en)
+Coursera est une entreprise numérique proposant des formations en ligne ouvertes à tous, fondée par les professeurs d'informatique Andrew Ng et Daphne Koller de l'université Stanford (Californie). Le 16 août 2012, 1 080 000 étudiants de 196 pays s'étaient inscrits à au moins un cours. Coursera a été lancée peu après Udacity, entreprise par l'ancien professeur de Stanford Sebastian Thrun, et peu avant edX, une initiative à but non lucratif de formation en ligne par le MIT et Harvard. (fr)
+코세라(영어: Coursera)는 미국의 교육 및 기술 회사이다. 2012년 2월, 시험 운영을 하였고 당해 4월 공식적으로 운영하였다.2018년 6월 기준으로, 3,300만여 명의 회원이 등록했으며 2,400여개의 코스를 제공하고 있다. (ko)
+Coursera /kɔrsˈɛrə/ è un'azienda statunitense che opera nel campo delle tecnologie didattiche fondata da docenti d'informatica dell'Università di Stanford. La piattaforma offre corsi universitari gratuiti in formato Massive Open Online Courses (Mooc) e dal 2014 coinvolge un centinaio di università ed enti operanti nel campo dell'istruzione superiore in tutto il mondo. Sebbene il completamento e le lezioni siano gratuiti e forniscano un attestato di frequenza, per ottenere certificati ufficiali è generalmente richiesto un pagamento per l'iscrizione a una piattaforma di verifica individuale e coprire i costi amministrativi. (it)
+コーセラ（英名：Coursera）は、スタンフォード大学コンピュータサイエンス教授Andrew NgとDaphne Kollerによって創立された教育技術の営利団体である。世界中の多くの大学と協力し、それらの大学のコースのいくつかを無償でオンライン上に提供している。2012年11月の時点で196カ国から1,900,241人もの生徒が一つ以上の授業に登録をした。（もっとも、Daphne Kollerとのインタビューによると、授業を最後まで受講したのは、数十万人のみで、修了率は7～9パーセントに留まった。） (ja)
+Coursera is een Amerikaans bedrijf dat meer dan 1.954 opleidingen aanbiedt volgens het principe van Massive open online course, oftewel MOOC. Het bedrijf werkt samen met meer dan 140 universiteiten en onderwijsorganisaties in verschillende landen. Nederlandse partners van Coursera zijn de Universiteit Utrecht, Erasmus Universiteit Rotterdam, Technische Universiteit Eindhoven, Universiteit Leiden en Universiteit van Amsterdam. Het bedrijf werd in 2012 opgericht door en Daphne Koller, twee professoren van Stanford-universiteit. Sinds 2014 wordt het bedrijf geleid door . (nl)
+Coursera Inc. är en amerikansk leverantör av storskaliga, öppna och nätbaserade kurser som grundades 2012 av datavetenskapsprofessorerna Andrew Ng och Daphne Koller från Stanford University. Coursera samarbetar med universitet och andra organisationer för att erbjuda onlinekurser, certifieringar och examina inom en mängd olika ämnen. År 2021 uppskattades det att cirka 150 universitet erbjöd över 4 000 kurser via Coursera. (sv)
+Coursera（/kɔːrsˈɛrə/, NYSE：COUR）是由斯坦福大学的计算机科学教授吴恩达和达芙妮·科勒联合创建的一个的教育科技公司。 Coursera与多家大学合作，给大众带来一些在线免费课堂。在Knowledge@Wharton座谈会上，Daphne Koller在采访中说道，截至到2012年11月，Coursera上有来自196国家的超过190万人。他们至少注册过一门课堂，尽管有数百万人注册过课堂，但完成率仅是7-9%。 Coursera成立于加州山景城，它的启动稍晚于由斯坦福大学教授Sebastian Thrun投资的盈利性在线教育网站Udacity、但稍早于一个由麻省理工学院、哈佛大学和加州大學柏克萊分校所初创的非盈利性在线教育网站edX。 (zh)
+Coursera és una plataforma d'educació virtual gratuïta creada el 2011, fndada pels professors de Stanford, Andrew Ng i Daphne Koller, i desenvolupada per la Universitat de Stanford per oferir cursos oberts de formació a distància (MOOC, acrònim de Massive Open Online Courses). Ofereix cursos gratuïts de temàtiques diverses, més aviat de nivell universitari, i oberts a qualsevol persona del món. Coursera treballa amb universitats i altres organitzacions per oferir cursos, especialitzacions i titulacions en línia sobre temes com enginyeria, humanitats, medicina, biologia, ciències socials, matemàtiques, negocis, informàtica, màrqueting digital, ciències de la informació i moltrs altres. (ca)
+Coursera es una plataforma de educación virtual nacida en octubre de 2011 y desarrollada por académicos de la Universidad de Stanford con el fin de brindar oferta de educación masiva a la población (Massive Online Open Course), con cursos en inglés y otros idiomas como el español, francés, italiano y chino. Coursera ofrece cursos, tanto gratuitos como de pago, sobre temas variados a niveles universitarios, pero abiertos a todos los sectores de la población.​ (es)
+Coursera – amerykańska spółka edukacyjna udostępniająca masowe otwarte kursy online prowadzone przez uniwersytety i instytuty naukowe z całego świata, utworzona przez oraz Daphne Koller z Uniwersytetu Stanforda. W kwietniu 2014 Coursera miała 7,1 mln użytkowników korzystających z 641 kursów prowadzonych przez 108 instytucji. Uczestnictwo w kursach oferowanych przez Coursera jest bezpłatne, płatne jest natomiast uzyskanie zweryfikowanych certyfikatów informujących o ukończeniu kursu i niektóre inne usługi. (pl)
+Coursera é uma empresa de tecnologia educacional norte-americana, com sede em Mountain View, e fundada pelos professores de ciência da computação Andrew Ng e Daphne Koller, da Universidade Stanford. Em 19 de setembro de 2012, a Coursera anunciou parceria com mais 17 universidades, das quais duas integram o grupo Ivy League. Em 20 de fevereiro de 2013, a Coursera anunciou parceria com mais 29 universidades, das quais 16 não são dos Estados Unidos. O Coursera oferece cinco programas de estudo, eles são: Course; Specialization; Professional Certificate; Mastertrack Certificate; Degree. (pt)
+Coursera — проект в сфере массового онлайн-образования, основанный профессорами информатики Стэнфордского университета Эндрю Ыном и Дафной Коллер. В его рамках существует проект по публикации образовательных материалов в интернете в виде набора онлайн-курсов. В марте 2021 года Coursera провела первичное размещение акций на Нью-йоркской фондовой бирже, продав 15,7 млн акций по цене $33 за акцию. Компания привлекла $517 млн и оценка ее рыночной стоимости в рамках размещения составила около $4,3 млрд. (ru)
+Courséra — технологічна компанія, що працює в галузі освіти; заснована професорами інформатики Ендрю Ин та Дафною Коллер зі Стенфордського університету у квітні 2012 року. «Найкращий стартап 2012 року» за версією сайту TechCrunch. Переможець Премії Веббі 2014 року в галузі освіти (приз журі та приз глядацьких симпатій). Coursera пропонує своїм користувачам сотні безкоштовних онлайн-курсів з різних дисциплін, у разі успішного закінчення яких користувач отримує сертифікат про закінчення курсу. Кількість студентів на сайті перевищила 10 мільйонів осіб. (uk)
+rdfs:label
+Coursera (en)
+كورسيرا (ar)
+Coursera (ca)
+Coursera (de)
+Coursera (eo)
+Coursera (es)
+Coursera (in)
+Coursera (fr)
+Coursera (it)
+コーセラ (ja)
+코세라 (ko)
+Coursera (nl)
+Coursera (pl)
+Coursera (pt)
+Coursera (ru)
+Coursera (sv)
+Coursera (zh)
+Coursera (uk)
+owl:sameAs
+freebase:Coursera
+yago-res:Coursera
+wikidata:Coursera
+wikidata:Coursera
+dbpedia-ar:Coursera
+dbpedia-az:Coursera
+http://azb.dbpedia.org/resource/کورسرا
+dbpedia-bg:Coursera
+http://bn.dbpedia.org/resource/কোর্সেরা
+dbpedia-ca:Coursera
+dbpedia-da:Coursera
+dbpedia-de:Coursera
+dbpedia-eo:Coursera
+dbpedia-es:Coursera
+dbpedia-et:Coursera
+dbpedia-fa:Coursera
+dbpedia-fi:Coursera
+dbpedia-fr:Coursera
+dbpedia-gl:Coursera
+dbpedia-he:Coursera
+http://hi.dbpedia.org/resource/कोर्सेरा
+dbpedia-hu:Coursera
+dbpedia-id:Coursera
+dbpedia-it:Coursera
+dbpedia-ja:Coursera
+dbpedia-kk:Coursera
+dbpedia-ko:Coursera
+http://ky.dbpedia.org/resource/Coursera
+http://lt.dbpedia.org/resource/Coursera
+http://my.dbpedia.org/resource/ကောဆဲရား
+dbpedia-nl:Coursera
+dbpedia-no:Coursera
+http://pa.dbpedia.org/resource/ਕੌਰਸੇਰਾ
+dbpedia-pl:Coursera
+dbpedia-pt:Coursera
+dbpedia-ru:Coursera
+dbpedia-sh:Coursera
+dbpedia-sq:Coursera
+dbpedia-sr:Coursera
+dbpedia-sv:Coursera
+http://te.dbpedia.org/resource/కోర్స్ఎరా
+dbpedia-tr:Coursera
+dbpedia-uk:Coursera
+http://uz.dbpedia.org/resource/Coursera
+dbpedia-vi:Coursera
+dbpedia-zh:Coursera
+https://global.dbpedia.org/id/4dQSm
+prov:wasDerivedFrom
+wikipedia-en:Coursera?oldid=1123708199&ns=0
+foaf:depiction
+wiki-commons:Special:FilePath/Coursera-Logo_600x600.svg
+wiki-commons:Special:FilePath/Coursera_homepage.png
+foaf:homepage
+https://www.coursera.org/
+foaf:isPrimaryTopicOf
+wikipedia-en:Coursera
+foaf:name
+Coursera Inc. (en)
+is dbo:affiliation
+ of
+dbr:National_Taiwan_University__National_Taiwan_University__1
+is dbo:institution
+ of
+dbr:Barbara_Oakley
+is dbo:knownFor
+ of
+dbr:Mohamed_Noor
+dbr:Daphne_Koller
+is dbo:wikiPageDisambiguates
+ of
+dbr:Cour
+is dbo:wikiPageRedirects
+ of
+dbr:Coursera.org
+dbr:Coursera,_Inc.
+dbr:Courserian
+is dbo:wikiPageWikiLink
+ of
+dbr:California_Institute_of_Technology
+dbr:Carlos_Gershenson
+dbr:Carnegie_Mellon_University
+dbr:Bedford/St._Martin's
+dbr:PricewaterhouseCoopers
+dbr:Process_mining
+dbr:Robert_Wright_(journalist)
+dbr:Scala_(programming_language)
+dbr:List_of_companies_based_in_the_San_Francisco_Bay_Area
+dbr:List_of_companies_founded_by_Massachusetts_Institute_of_Technology_alumni
+dbr:List_of_companies_founded_by_Stanford_University_alumni
+dbr:List_of_companies_founded_by_UC_Berkeley_alumni
+dbr:List_of_companies_that_applied_sanctions_during_the_Russo-Ukrainian_War
+dbr:List_of_educational_video_websites
+dbr:Partnership_for_Refugees
+dbr:Barry_Nalebuff
+dbr:Berklee_College_of_Music
+dbr:BiblioTech_(Bexar_County)
+dbr:Bloc_(code_school)
+dbr:David_Dye_(metallurgist)
+dbr:David_Hill_(author)
+dbr:David_P._Silverman
+dbr:Ann_Masten
+dbr:Jonathan_Biss
+dbr:Bethany_Koby
+dbr:Perry_Mehrling
+dbr:Peter_Pronovost
+dbr:Rick_Levin
+dbr:Rob_A._Rutenbar
+dbr:Udacity
+dbr:University_of_California,_Berkeley
+dbr:University_of_Edinburgh
+dbr:University_of_Illinois_Urbana-Champaign
+dbr:University_of_London_Worldwide
+dbr:University_of_Michigan_School_of_Information
+dbr:Urban_planning_in_Africa
+dbr:Day_of_Compassion
+dbr:Deborah_H._Quazzo
+dbr:Decree_on_Development_of_Digital_Economy
+dbr:E-learning_in_Pakistan
+dbr:International_Society_for_Extracellular_Vesicles
+dbr:International_rankings_of_Malaysia
+dbr:J._Nathan_Kutz
+dbr:Lila_Ibrahim
+dbr:Peer_learning
+dbr:Corporate_responses_to_the_2022_Russian_invasion_of_Ukraine
+dbr:Coursera.org
+dbr:Massive_open_online_course
+dbr:MathJax
+dbr:Sal_Khan
+dbr:Online_program_manager
+dbr:OpenCourseWare
+dbr:Open_Universities_Australia
+dbr:Pavel_A._Pevzner
+dbr:Scott_Klemmer
+dbr:Scott_Plous
+dbr:Timeline_of_the_COVID-19_pandemic_in_Ghana_(August–December_2020)
+dbr:Christopher_L._Eisgruber
+dbr:Claudia_Romo_Edelman
+dbr:Code.org
+dbr:Codecademy
+dbr:Geoffrey_Hinton
+dbr:Gies_College_of_Business
+dbr:Ministry_of_Education_(Singapore)
+dbr:Mohamed_Noor
+dbr:Moscow_State_Institute_of_International_Relations
+dbr:ConnectEd_Initiative
+dbr:Thomas_Siebel
+dbr:Erik_Meijer_(computer_scientist)
+dbr:Marnie_Blewitt
+dbr:Rob_Knight_(biologist)
+dbr:Open_educational_practices_in_Australia
+dbr:2013_Bilderberg_Conference
+dbr:Andrew_Lawrence_(astronomer)
+dbr:Andrew_Metrick
+dbr:Andrew_Ng
+dbr:Berklee_Online
+dbr:Lighthouse_Labs
+dbr:Shlomo_Maital
+dbr:SkilledUp
+dbr:Stanford_University
+dbr:State_University_of_Campinas
+dbr:State_communications_in_the_Neo-Assyrian_Empire
+dbr:Steve_Joordens
+dbr:Kevin_Werbach
+dbr:Media_pluralism
+dbr:Matt_McGue
+dbr:MicroMasters
+dbr:Barbara_Oakley
+dbr:Brown_University
+dbr:Catherine_Heymans
+dbr:Tim_Roughgarden
+dbr:Topica_Edtech_Group
+dbr:Transifex
+dbr:UC_Berkeley_College_of_Engineering
+dbr:Wharton_School_of_the_University_of_Pennsylvania
+dbr:Cour
+dbr:Irfan_Essa
+dbr:Lana_Yarosh
+dbr:Learning_analytics
+dbr:Learning_engineering
+dbr:List_of_Bilderberg_participants
+dbr:List_of_British_Chinese_people
+dbr:List_of_Carnegie_Mellon_University_people
+dbr:Mine_Çetinkaya-Rundel
+dbr:Alexander_Dobrokhotov
+dbr:Damir_Filipović
+dbr:Dan_Boneh
+dbr:Daniel_Chamovitz
+dbr:Daniel_J._Barrett
+dbr:Daphne_Koller
+dbr:Amara_(organization)
+dbr:Exploratorium
+dbr:Fast.ai
+dbr:Fei-Fei_Li
+dbr:Barry_Scott_Wimpfheimer
+dbr:Brian_Caffo
+dbr:Niels_Høiby
+dbr:North_Miami_Public_Library
+dbr:Educational_data_mining
+dbr:For-profit_higher_education_in_the_United_States
+dbr:Global_Mobile_Internet_Conference
+dbr:List_of_MOOC_providers
+dbr:HEC_Paris
+dbr:Helen_Ward_(scientist)
+dbr:Higher_School_of_Economics
+dbr:Iversity
+dbr:Jacob_O._Wobbrock
+dbr:Jameel_Institute
+dbr:Jay_Clayton_(critic)
+dbr:Jeanne_Liedtka
+dbr:B_Corporation_(certification)
+dbr:Techfest
+dbr:Terry_Sejnowski
+dbr:Jeff_Maggioncalda
+dbr:Jeffrey_T._Leek
+dbr:Testing_effect
+dbr:Smart_city
+dbr:Aric_Rindfleisch
+dbr:Assam_Down_Town_University
+dbr:Adrienne_Fairhall
+dbr:John_D._Hawks
+dbr:Katherine_Joy
+dbr:Lada_Adamic
+dbr:Laureate_Education
+dbr:Laurie_R._Santos
+dbr:Biennial_of_the_Americas
+dbr:Big_History
+dbr:Bioinformatics
+dbr:CodeCombat
+dbr:CodeSkulptor
+dbr:Edwin_Bakker
+dbr:Jacob_L._Wright
+dbr:Mitchell_Green
+dbr:Underwater_basket_weaving
+dbr:Arturo_Molina_Gutiérrez
+dbr:BIONIC_University
+dbr:BLEU
+dbr:Margaret_Sheil
+dbr:Maria_Gill
+dbr:Martin_Odersky
+dbr:Martin_Vetterli
+dbr:Play_Framework
+dbr:Free_education
+dbr:Guillermo_Sapiro
+dbr:Ian_Shapiro
+dbr:Ilkay_Altintas
+dbr:Impact_of_the_COVID-19_pandemic_on_education
+dbr:Kleiner_Perkins
+dbr:Mia_Chung
+dbr:National_Research_Nuclear_University_M...Moscow_Engineering_Physics_Institute)
+dbr:National_Taiwan_University
+dbr:NetEase
+dbr:New_Enterprise_Associates
+dbr:Oded_Lipschits
+dbr:Open_University_of_West_Africa
+dbr:Raffles_Institution
+dbr:Raffles_Junior_College
+dbr:Raymond_St._Leger
+dbr:Raymond_W._Yeung
+dbr:Wondrium
+dbr:IMC_AG
+dbr:Ian_Gordon_(historian)
+dbr:List_of_unicorn_startup_companies
+dbr:List_of_websites_with_country_access_restrictions
+dbr:Stanislav_George_Djorgovski
+dbr:Open_education
+dbr:Vicki_Colvin
+dbr:Orgology
+dbr:Simone_Buitendijk
+dbr:Stanford_University_Computer_Science
+dbr:The_Center_of_Applied_Data_Science
+dbr:Resettlement_policy_of_the_Neo-Assyrian_Empire
+dbr:Teach-in
+dbr:Taghreedat
+dbr:Ryan_S._Baker
+dbr:Ximera
+dbr:Yale_Jackson_School_of_Global_Affairs
+dbr:Coursera,_Inc.
+dbr:Courserian
+is dbp:knownFor
+ of
+dbr:Daphne_Koller
+is foaf:primaryTopic
+ of
+wikipedia-en:Coursera
+   
+        
+         
+       
+    
+This content was extracted from Wikipedia and is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License

@@ -1,0 +1,365 @@
+[MediaWiki-announce] Maintenance release: MediaWiki 1.37.4 - MediaWiki-announce - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+                            2023
+                        
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2022
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2021
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2020
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2019
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2018
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2017
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2016
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2015
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2014
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2013
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2012
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2011
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2010
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2009
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2008
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2007
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2006
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2005
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2004
+                        
+December
+            List overview
+ Download
+thread
+[MediaWiki-announce] Maintenance release: MediaWiki 1.37.4
+Sam Reed
+                8 Jul
+                
+                    2022
+                
+            
+                8 Jul
+                
+                '22
+                
+            
+8:33 p.m.
+ 
+I would like to announce the availability of MediaWiki 1.37.4.
+
+This primarily fixes an issue identified in the MediaWiki 1.37.3 release.
+The incorrect version of guzzlehttp/guzzle was included in the tarball (and
+git repo) vendor, meaning that update.php would not run successfully.
+
+It also includes some minor backported fixes for PHP 8.1 support, which
+would reduce log spam when logging was enabled. These fixes will be
+included in later point releases for 1.35 and 1.38.
+
+=== Changes since MediaWiki 1.37.3 ===
+* Localisation updates.
+* (T311568) UploadBase::setTempFile() handle $tempPath being passed as null.
+* (T311559) SpecialListFiles: user parameter isn't always present.
+* (T311561) ImageListPager: Don't call htmlspecialchars() on null.
+* (T311920) SpecialBlockList: Prevent passing null to trim().
+* (T311921) SpecialUserrights: Don't pass null to str_replace.
+* (T311570) SpecialWithoutInterwiki: Don't pass null through to
+  Title::capitalize().
+* (T311574, T311576) SpecialLinkSearch: Don't pass null through to the
+parser.
+* (T312059) Update guzzlehttp/guzzle to 7.4.5 in vendor.
+* (T296435, T297669) cache: Add four fields to LinkCache::getSelectFields.
+
+**********************************************************************
+Download:
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-1.37.4.tar.gz
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-1.37.4.zip
+
+Download without bundled extensions:
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-core-1.37.4.tar.gz
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-core-1.37.4.zip
+
+Patch to previous version (1.37.3):
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-1.37.4.patch.gz
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-1.37.4.patch.zip
+
+GPG signatures:
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-core-1.37.4.tar.gz.…
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-core-1.37.4.zip.sig
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-1.37.4.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-1.37.4.zip.sig
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-1.37.4.patch.gz.sig
+https://releases.wikimedia.org/mediawiki/1.37/mediawiki-1.37.4.patch.zip.sig
+
+Public keys:
+https://www.mediawiki.org/keys/keys.html
+ 0
+ 0
+            Reply
+        
+Back to the thread
+            Back to the list
+        
+ 
+            Powered by HyperKitty version 1.3.4.
+        

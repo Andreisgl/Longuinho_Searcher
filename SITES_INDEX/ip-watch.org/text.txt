@@ -1,0 +1,174 @@
+Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in /home/clients/5bc716f64eaa5eb2ef6cc74a6b9b690a/web/weblog/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/utils.php on line 445
+New US Government Source Code Policy Could Provide Model For Europe - Intellectual Property Watch
+Home
+About Us
+About Us
+Subscribe
+Privacy Policy
+Advertise
+Advertise On IP Watch
+Editorial Calendar
+Videos
+Links
+Help
+Intellectual Property WatchOriginal news and analysis on international IP policy
+Copyright
+Patents
+Trademarks
+Opinions
+People News
+Venues
+Bilateral/Regional Negotiations
+ITU/ICANN
+United Nations – other
+WHO
+WIPO
+WTO/TRIPS
+Africa
+Asia/Pacific
+Europe
+Latin America/Caribbean
+North America
+Themes
+Access to Knowledge/ Open Innovation & Science
+Food Security/ Agriculture/ Genetic Resources
+Finance
+Health & IP
+Human Rights
+Internet Governance/ Digital Economy/ Cyberspace
+Lobbying
+Technical Cooperation/ Technology Transfer
+Health Policy Watch
+New US Government Source Code Policy Could Provide Model For Europe
+22/08/2016 by William New, Intellectual Property Watch 1 Comment Share this:Click to share on Twitter (Opens in new window)Click to share on LinkedIn (Opens in new window)Click to share on Facebook (Opens in new window)Click to email this to a friend (Opens in new window)Click to print (Opens in new window)The United States government this month published its new federal source code policy to allow government-wide access to custom source code developed by or for any agency of the federal government. The policy, which aims to reduce duplication, avoid technology “lock-in,” and tap the best minds in or outside government, has caught the attention of free software developers in Europe who are hoping to use it as a basis for change there too. 
+“We plan to use that in the next months as an example for European countries,” Matthias Kirschner, president of the Free Software Foundation Europe (FSFE), said in a recent email discussion on the new US policy.
+The new policy was issued in an 8 August memorandum [pdf] from US Chief Information Officer Tony Scott and US Chief Acquisitions Officer Anne Rung.
+“This is, after all, the People’s code,” Scott said in a blogpost announcing the new policy. “Explore it. Learn from it. Improve it. Use it to propel America’s next breakthrough in innovation.”
+A new website, code.gov, will be launched in the coming months, he said (within 90 days of the 8 August publication according to the memorandum). Code.gov will be “an online collection of tools, best practices, and schemas to help agencies implement this policy,” the memo said. It also will provide the “primary discoverability portal for custom-developed software intended both for Government-wide reuse and for release as OSS.” OSS licences will be appended to the source code. More information on licensing is to come on code.gov, the memo said.
+The new policy also creates a pilot program requiring agencies commissioning new custom software to release 20 percent or more of new custom-developed code as open source software (OSS) for three years.
+Within 90 days of the 8 August release, each agency’s CIO must develop an agency policy addressing the requirements of this memorandum.
+There are some exceptions to the policy, such as for national security, confidentiality or individual privacy.
+The US government spends more than US$6 billion per year on software through more than 42,000 transactions, the two officials said in the memorandum.
+“When Federal agencies are unable to identify an existing Federal or commercial software solution that satisfies their specific needs, they may choose to develop a custom software solution on their own or pay for its development,” they said. “When agencies procure custom-developed source code, however, they do not necessarily make their new code (source code or code) broadly available for Federal Government-wide reuse. Even when agencies are in a position to make their source code available on a Government-wide basis, they do not make such code available to other agencies in a consistent manner.
+“In some cases, agencies may even have difficulty establishing that the software was produced in the performance of a Federal Government contract,” they added. “These challenges may result in duplicative acquisitions for substantially similar code and an inefficient use of taxpayer dollars.”
+This policy seeks to address these challenges by ensuring that new custom-developed Federal source code be made broadly available for reuse across the Federal Government. This is consistent with the Digital Government Strategy’s “Shared Platform” approach, which enables Federal employees to work together-both within and across agencies-to reduce costs, streamline development, apply uniform standards, and ensure consistency in creating and delivering information.
+Enhanced reuse of custom-developed code across the Federal Government can have significant benefits for American taxpayers, including decreasing duplicative costs for the same code and reducing Federal vendor lock-in. This policy also establishes a pilot program that requires agencies, when commissioning new custom software, to release at least 20 percent of new custom-developed code as Open Source Software (OSS) for three years, and collect additional data concerning new custom software to inform metrics to gauge the performance of this pilot.
+“This isn’t a novel concept for government,” Scott said in his blog post. “Today, you can view the source code for our petition platform, We the People. You can see how the VA built Vets.gov, where Veterans can now apply for healthcare online. You can contribute to the open source code that powers the General Service Administration’s Data.gov, where you can find open data from across government – and much more.”
+“Now,” he said, “we’re taking these established best practices government-wide.”
+FSFE’s Kirschner said in a March blogpost on the draft US policy at the time: “The policy requires every public agency to publish their custom-build software as Free Software for other public agencies as well as the general public to use, study, share and improve the software. At the Free Software Foundation Europe (FSFE) we believe that the European Union, and European member states should implement similar policies.”
+ 
+Image Credits: White House
+Share this:Click to share on Twitter (Opens in new window)Click to share on LinkedIn (Opens in new window)Click to share on Facebook (Opens in new window)Click to email this to a friend (Opens in new window)Click to print (Opens in new window)
+Related
+William New may be reached at wnew@ip-watch.ch."New US Government Source Code Policy Could Provide Model For Europe" by Intellectual Property Watch is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+International License.Filed Under: IP Policies, Language, Themes, Venues, Access to Knowledge/ Education, Copyright Policy, English, Europe, Innovation/ R&D, North America, Regional Policy Trackbacks 
+Links 23/8/2016: GNOME 3.22 Beta, Android 7.0 Nougat | Techrights says: 
+23/08/2016 at 9:07 pm
+[…] New US Government Source Code Policy Could Provide Model For Europe […]
+Reply 
+ 
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name * 
+Email * 
+Website 
+ Notify me of follow-up comments by email. Notify me of new posts by email. 
+ 
+This site uses Akismet to reduce spam. Learn how your comment data is processed.EmailFacebookLinkedInRSSTwitterVimeo
+My Tweets
+IPW News Briefs
+Saudis Seek Alternative Energy Partners Through WIPO Green ProgramChinese IP Officials Complete Study Of UK, European IP Law
+Perspectives on the US
+In US, No Remedies For Growing IP InfringementsUS IP Law – Big Developments On The Horizon In 2019More perspectives on the US...
+Supported Series: Civil Society And TRIPS Flexibilities
+Civil Society And TRIPS Flexibilities Series – Translations Now AvailableThe Myth Of IP Incentives For All Nations – Q&A With Carlos CorreaRead the TRIPS flexibilities series...
+Paid Content
+Interview With Peter Vanderheyden, CEO Of Article One PartnersMore paid content...
+IP Delegates in Geneva
+IP Delegates in Geneva
+Guide to Geneva-based Public Health and IP Organisations
+All Story Categories
+All Story Categories
+Select Category
+Editorials
+Features
+   Inside Views
+   People News
+   Paid Content
+   Perspectives on the US
+Forum
+IP-Watch Briefs
+IP Policies
+   Copyright Policy
+   Patents/Designs/Trade Secrets
+   Trademarks/Geographical Indications/Domains
+Language
+   Arabic
+   Chinese
+   English
+   Español
+   Français
+   Other
+   Portuguese
+News
+Subscribers
+   Exclusive
+Themes
+   Access to Knowledge/ Education
+   Biodiversity/Genetic Resources/Biotech
+   Development
+   Enforcement
+   Environment
+   Finance
+   Health & IP
+   Human Rights
+   IP Law
+   Information and Communications Technology/ Broadcasting
+   Innovation/ R&D
+   Lobbying
+   New Technologies
+   Technical Cooperation/ Technology Transfer
+   Traditional and Indigenous Knowledge
+Venues
+   Bilateral/Regional Negotiations
+   ITU/ICANN
+   Other International Orgs
+   Regional Policy
+      Africa
+      Asia/Pacific
+      Europe
+      Latin America/Caribbean
+      North America
+   UPOV / CBD
+   United Nations – other
+   WHO
+      WHA 2016
+      WHA 2017
+      WHA 2018
+   WIPO
+   WTO/TRIPS
+Contributors
+Health Policy Watch
+   Featured
+Outside Sources
+Supported By
+   TRIPS Flexibilities
+Other Languages
+Français
+Español
+中文
+اللغة العربية
+Archives
+Archives
+Monthly Reporter
+Staff Access
+Writers
+Sign up for free news alerts
+This site uses cookies to help give you the best experience on our website. Cookies enable us to collect information that helps us personalise your experience and improve the functionality and performance of our site. By continuing to read our website, we assume you agree to this, otherwise you can adjust your browser settings. Please read our cookie and Privacy Policy.
+Our Cookies and Privacy Policy
+Copyright © 2022 · Global Policy Reporting
+Send to Email Address
+Your Name
+Your Email Address
+Cancel
+Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.

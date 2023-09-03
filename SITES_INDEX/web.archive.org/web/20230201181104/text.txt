@@ -1,0 +1,345 @@
+ 
+British Council | The UK’s international culture and education organisation
+10,634 captures
+25 Jan 1999 - 02 Sep 2023
+Jan
+FEB
+Mar
+01
+2022
+2023
+2024
+success
+fail
+ About this capture
+COLLECTED BY
+Organization: Archive Team
+ Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+The main site for Archive Team is at archiveteam.org and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the Wayback Machine, providing a path back to lost websites and work. 
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+The Archive Team Panic Downloads are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+Collection: ArchiveBot: The Archive Team Crowdsourced Crawler
+  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+There is a dashboard running for the archivebot process at http://www.archivebot.com.
+ArchiveBot's source code can be found at https://github.com/ArchiveTeam/ArchiveBot.
+TIMESTAMPS
+The Wayback Machine - http://web.archive.org/web/20230201181104/https://www.britishcouncil.org/
+Skip to main content
+British Council
+          Menu          
+Home
+Learn English
+Take an exam
+Study and work abroad
+School and teacher resources
+English, education and arts
+ 
+Voices Magazine
+Contact us
+ 
+                  Show search                
+        Search      
+Search
+ 
+                    Close search                  
+ 
+  Welcome to the British Council
+We support peace and prosperity by building connections, understanding and trust between people in the UK and countries worldwide.
+Visit the British Council worldwide
+Choose a country/territory
+      Afghanistan
+      Albania
+      Algeria
+      Argentina
+      Armenia
+      Australia
+      Austria
+      Azerbaijan
+      Bahrain
+      Bangladesh
+      Belgium
+      Bosnia and Herzegovina
+      Botswana
+      Brazil
+      Brunei
+      Bulgaria
+      Cambodia
+      Cameroon
+      Canada
+      Caribbean
+      Chile
+      China
+      Colombia
+      Croatia
+      Cyprus
+      Czech Republic
+      Denmark
+      Egypt
+      England
+      Estonia
+      Ethiopia
+      Finland
+      France
+      Georgia
+      Germany
+      Ghana
+      Greece
+      Hong Kong, SAR of China
+      Hungary
+      India
+      Indonesia
+      Iraq
+      Ireland
+      Israel
+      Italy
+      Japan
+      Jordan
+      Kazakhstan
+      Kenya
+      Korea, Republic of
+      Kosovo
+      Kuwait
+      Laos
+      Latvia
+      Lebanon
+      Libya
+      Lithuania
+      Malawi
+      Malaysia
+      Malta
+      Mauritius
+      Mexico
+      Montenegro
+      Morocco
+      Mozambique
+      Myanmar (Burma)
+      Namibia
+      Nepal
+      Netherlands
+      New Zealand
+      Nigeria
+      North Macedonia
+      Northern Ireland
+      Norway
+      Occupied Palestinian Territories
+      Oman
+      Pakistan
+      Peru
+      Philippines
+      Poland
+      Portugal
+      Qatar
+      Romania
+      Russia
+      Rwanda
+      Saudi Arabia
+      Scotland
+      Senegal
+      Serbia
+      Sierra Leone
+      Singapore
+      Slovakia
+      Slovenia
+      South Africa
+      South Sudan
+      Spain
+      Sri Lanka
+      Sudan
+      Sweden
+      Switzerland
+      Syria
+      Taiwan
+      Tanzania
+      Thailand
+      Tunisia
+      Turkey
+      Uganda
+      Ukraine
+      United Arab Emirates
+      United States of America
+      Uruguay
+      Uzbekistan
+      Venezuela
+      Vietnam
+      Wales
+      Yemen
+      Zambia
+      Zimbabwe
+Go
+  Learn English          
+  Take IELTS near you          
+  Study towards a UK university qualification          
+  Alumni UK is the new global network for international UK graduates - sign up now              
+The network for people who studied in the UK as an overseas student.
+  Teach abroad as an English Language Assistant              
+Applications are open now
+  Read our latest statement on Afghanistan              
+  UK agent and counsellor training and engagement hub              
+Flagship training programme for agents & counsellors working with the UK education sector
+ 
+  The British and their secret language regrets
+  Voices                  - 
+January 2023 
+  How to help your students speak with clarity
+  Voices                  - 
+January 2023 
+  How to support girls in the classroom 
+  Voices                  - 
+December 2022 
+ British Council Worldwide
+ 
+Afghanistan
+Albania
+Algeria
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahrain
+Bangladesh
+Belgium
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei
+Bulgaria
+Cambodia
+Cameroon
+Canada
+Caribbean
+Chile
+China
+Colombia
+Croatia
+Cyprus
+Czech Republic
+Denmark
+Egypt
+England
+Estonia
+Ethiopia
+Finland
+France
+Georgia
+Germany
+Ghana
+Greece
+Hong Kong, SAR of China
+Hungary
+India
+Indonesia
+Iraq
+Ireland
+Israel
+Italy
+Japan
+Jordan
+Kazakhstan
+Kenya
+Korea, Republic of
+Kosovo
+Kuwait
+Laos
+Latvia
+Lebanon
+Libya
+Lithuania
+Malawi
+Malaysia
+Malta
+Mauritius
+Mexico
+Montenegro
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nepal
+Netherlands
+New Zealand
+Nigeria
+North Macedonia
+Northern Ireland
+Norway
+Occupied Palestinian Territories
+Oman
+Pakistan
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saudi Arabia
+Scotland
+Senegal
+Serbia
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+South Africa
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Sweden
+Switzerland
+Syria
+Taiwan
+Tanzania
+Thailand
+Tunisia
+Turkey
+Uganda
+Ukraine
+United Arab Emirates
+United States of America
+Uruguay
+Uzbekistan
+Venezuela
+Vietnam
+Wales
+Yemen
+Zambia
+Zimbabwe
+About usHow we work
+How we are run
+Our values
+Our history
+Our Patron
+Work with usCareers
+Partner with us
+Staff and alumni associations
+Research and policy insightInsight articles
+Research reports
+Research series
+Policy reports
+Essay collections
+Policy positions
+Current research consultancy opportunities
+Foreign policy forum
+Contact usPress office
+Contact your local British Council office
+Make a freedom of information request
+Make a complaint
+Connect with usTwitter
+Facebook
+LinkedIn
+YouTube
+Instagram
+ 
+Terms of use
+Terms and conditions of sale
+Accessibility
+Privacy and cookies
+Statement on modern slavery
+Site map
+ 
+© 2023 British CouncilThe United Kingdom's international organisation for cultural relations and educational opportunities.A registered charity: 209131 (England and Wales) SC037733 (Scotland). 

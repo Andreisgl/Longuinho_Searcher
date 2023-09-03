@@ -1,0 +1,96 @@
+MediaWiki/vi – MediaWiki
+Bước tới nội dung
+Trình đơn chính
+Trình đơn chính
+chuyển sang thanh bên
+ẩn
+Điều hướng
+Trang ChínhGet MediaWikiGet extensionsTech blogContribute
+Support
+Trợ giúpFAQTechnical manualSupport deskCommunication
+Development
+Developer portalCode statistics
+MediaWiki.org
+Cộng đồngThay đổi gần đâyTranslate contentTrang ngẫu nhiênVillage pumpChỗ thử
+Tìm kiếm
+Tìm kiếm
+ Tiếng ViệtTạo tài khoảnĐăng nhập
+Công cụ cá nhân
+ Tạo tài khoản Đăng nhập
+Trang dành cho người dùng chưa đăng nhập tìm hiểu thêm
+Đóng gópTin nhắn
+MediaWiki/vi
+TrangThảo luận
+English
+ĐọcSửa đổiXem lịch sử
+Công cụ
+Công cụ
+chuyển sang thanh bên
+ẩn
+Tác vụ
+ĐọcSửa đổiXem lịch sử
+Chung
+Các liên kết đến đâyThay đổi liên quanTải lên tập tinTrang đặc biệtLiên kết thường trựcThông tin trangTrích dẫn trang nàyKhoản mục Wikidata
+In/xuất ra
+Tạo một quyển sáchTải dưới dạng PDFTải về bản in
+Tại dự án khác
+Wikimedia CommonsMeta-WikiWikispeciesWikidata
+Từ MediaWiki
+< MediaWiki
+MediaWiki là nền tảng cộng tác và hướng dẫn sử dụng từ một cộng đồng đa dạng
+Ảnh chụp những người tham dự Wikimedia Hackathon 2023 
+Phần mềm MediaWiki được hàng chục nghìn trang web và hàng nghìn công ty và tổ chức sử dụng.
+Nó là nền tảng của Wikipedia và cũng là chính trang web này.
+MediaWiki giúp bạn tập hợp và sắp xếp kiến thức và giới thiệu đến mọi người.
+Nó mạnh mẽ, đa ngôn ngữ, tự do và mở, có thể mở rộng, tùy chỉnh, đáng tin cậy, và miễn phí.
+Tìm hiểu thêm xem MediaWiki có phù hợp với bạn hay không.
+Cài đặt và chạy MediaWiki
+Tải xuống, cài đặt và cấu hình MediaWiki
+Thêm tính năng bằng cách cài bộ mở rộng
+Gặp vấn đề? Xem Lỗi và dấu hiệu và Hỏi đáp
+Gặp vấn đề? Xem Lỗi và dấu hiệu và FAQ
+Bạn không sở hữu một máy chủ? Tìm dịch vụ máy chủ
+Nhận dịch vụ tư vấn và phát triển chuyên nghiệp 
+Tham gia nhóm Cổ đông MediaWiki
+Sửa đổi và sử dụng MediaWiki
+Cách để di chuyển trong trang 
+Cách để sửa trang 
+Tìm hiểu thêm về việc đọc, viết, và tùy chỉnh cá nhân 
+Viết và mở rộng mã nguồn
+Đọc MediaWiki tài liệu dành cho nhà phát triển
+Truy cập Cổng thông tin dành cho nhà phát triển Wikimedia
+Nhận sự giúp đỡ và đóng góp
+Không tìm được câu trả lời cho một vấn đề với MediaWiki? Đặt câu hỏi tại Bàn trợ giúp!
+Tham gia với tư cách là biên dịch viên, nhà thiết kế, người viết tài liệu, người thử nghiệm, đại sứ công nghệ hoặc nhà phát triển
+Báo lỗi phần mềm hoặc yêu cầu tính năng 
+Tin tức
+2023-06-30
+ MediaWiki 1.40.0 is now available.
+ MediaWiki 1.35.11, 1.38.7 and 1.39.4 security releases are now available.
+ MediaWiki 1.38.x versions are now end of life.
+2023-08-16 to 2023-08-19
+ Wikimania 2023 conference in Singapore.
+2023-08-15 to 2023-08-19
+ Chaos Communication Camp near Berlin, Germany (Europe).
+2023-05-19 to 2023-05-21
+ Wikimedia Hackathon in Athens, Greece (Europe).
+2023-03-11
+ MediaWiki is now on Mastodon! Follow us for updates at @mediawiki@wikis.world 
+ Thêm tin khác
+Ngôn ngữ khác: 
+English  • Afrikaans • العربية • asturianu • беларуская • беларуская (тарашкевіца) • български • বাংলা • bosanski • català • کوردی • čeština • dansk • Deutsch • español • فارسی • suomi • français • ગુજરાતી • עברית • हिन्दी • hrvatski • magyar • հայերեն • Bahasa Indonesia • italiano • 日本語 • Jawa • қазақша • 한국어 • Bahasa Melayu • Mirandés • Nederlands • polski • português • português do Brasil • română • русский • sardu • සිංහල • slovenčina • slovenščina • Soomaaliga • shqip • српски / srpski • svenska • ไทย • Türkçe • українська • Tiếng Việt • 粵語 • 中文
+Lấy từ “https://www.mediawiki.org/w/index.php?title=MediaWiki/vi&oldid=6075309”
+Thể loại ẩn: Languages pages
+ Trang này được sửa đổi lần cuối vào ngày 20 tháng 8 năm 2023, 07:50.
+Văn bản được phát hành theo giấy phép giấy phép Creative Commons Ghi công – Chia sẻ tương tự;
+có thể áp dụng điều khoản bổ sung.
+Xem Điều khoản sử dụng để biết thêm thông tin.
+Quy định quyền riêng tư
+Giới thiệu MediaWiki
+Lời phủ nhận
+Code of Conduct
+Phiên bản di động
+Lập trình viên
+Thống kê
+Tuyên bố về cookie
+Chuyển đổi chiều rộng nội dung giới hạn

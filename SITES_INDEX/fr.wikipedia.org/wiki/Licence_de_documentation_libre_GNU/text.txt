@@ -1,0 +1,153 @@
+Licence de documentation libre GNU — Wikipédia
+Aller au contenu
+Menu principal
+Menu principal
+déplacer vers la barre latérale
+masquer
+Navigation
+AccueilPortails thématiquesArticle au hasardContact
+Contribuer
+Débuter sur WikipédiaAideCommunautéModifications récentesFaire un don
+Langues
+Sur cette version linguistique de Wikipédia, les liens interlangues sont placés en haut à droite du titre de l’article.Aller en haut.
+Rechercher
+Rechercher
+Créer un compteSe connecter
+Outils personnels
+ Créer un compte Se connecter
+Pages pour les contributeurs déconnectés en savoir plus
+ContributionsDiscussion
+Sommaire
+déplacer vers la barre latérale
+masquer
+Début
+1Caractéristiques
+2Compatibilité
+Afficher / masquer la sous-section Compatibilité
+2.1Incompatibilité entre GPL et GFDL
+2.2Incompatibilité entre GFDL et CC-BY-SA
+3Critique
+4Notes et références
+5Voir aussi
+Afficher / masquer la sous-section Voir aussi
+5.1Bibliographie
+5.2Articles connexes
+5.3Liens externes
+Basculer la table des matières
+Basculer la table des matières
+Licence de documentation libre GNU
+102 langues
+AfrikaansAlemannischÆngliscالعربيةAsturianuAzərbaycancaБеларускаяБеларуская (тарашкевіца)БългарскиবাংলাBosanskiБуряадCatalà閩東語 / Mìng-dĕ̤ng-ngṳ̄ČeštinaKaszëbscziDanskDeutschΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFøroysktFryskGaeilgeGalegoગુજરાતીעבריתहिन्दीHrvatskiMagyarՀայերենInterlinguaBahasa IndonesiaIgboIlokanoÍslenskaItaliano日本語Jawaქართული한국어RipoarischLëtzebuergeschLimburgsLombardLietuviųLatviešuMadhurâMāoriМакедонскиമലയാളംМонголBahasa MelayuPlattdüütschNedersaksiesNederlandsNorsk nynorskNorsk bokmålOccitanPolskiPortuguêsRomânăTarandíneРусскийСаха тылаSarduSicilianuScotsسنڌيSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaСрпски / srpskiSundaSvenskaKiswahiliதமிழ்తెలుగుไทยTagalogTürkçeУкраїнськаاردوVènetoTiếng ViệtWest-VlamsWalon吴语მარგალურიייִדישYorùbá中文文言Bân-lâm-gú粵語
+Modifier les liens
+ArticleDiscussion
+français
+LireModifierModifier le codeVoir l’historique
+Outils
+Outils
+déplacer vers la barre latérale
+masquer
+Actions
+LireModifierModifier le codeVoir l’historique
+Général
+Pages liéesSuivi des pages liéesTéléverser un fichierPages spécialesLien permanentInformations sur la pageCiter cette pageÉlément Wikidata
+Imprimer / exporter
+Créer un livreTélécharger comme PDFVersion imprimable
+Dans d’autres projets
+Wikimedia Commons
+Un article de Wikipédia, l'encyclopédie libre.
+GFDL
+Pour les articles homonymes, voir FDL.
+Licence de documentation libre GNU
+Données clés
+Identifiant(s) SPDX
+GFDL-1.1-invariants-onlyGFDL-1.1-invariants-or-laterGFDL-1.1-no-invariants-onlyGFDL-1.1-no-invariants-or-laterGFDL-1.1-onlyGFDL-1.1-or-laterGFDL-1.2-invariants-onlyGFDL-1.2-invariants-or-laterGFDL-1.2-no-invariants-onlyGFDL-1.2-no-invariants-or-laterGFDL-1.2-onlyGFDL-1.2-or-laterGFDL-1.3-invariants-onlyGFDL-1.3-invariants-or-laterGFDL-1.3-no-invariants-onlyGFDL-1.3-no-invariants-or-laterGFDL-1.3-onlyGFDL-1.3-or-later
+modifier 
+Logo (stylisé) de la GFDL.
+La licence de documentation libre GNU (en anglais : GNU Free Documentation License, abrégé en GFDL) est une licence relevant du droit d'auteur produite par la Free Software Foundation. Elle a pour but de protéger la diffusion de contenu libre et peut être utilisée par chacun afin de déterminer le mode de diffusion de son œuvre[1].
+Caractéristiques[modifier | modifier le code]
+L'objet de cette licence est de rendre tout support (manuel, livre ou autre document écrit) « libre » au sens de la liberté d'utilisation[2], à savoir : assurer à chacun la liberté effective de le copier ou de le redistribuer, avec ou sans modifications, commercialement ou non[3].
+Cette licence est fondée sur le même principe que copyleft et la licence publique générale GNU (GNU General Public License, abrégé en GNU GPL ou simplement GPL) utilisés par un grand nombre de logiciels libres. La GFDL a été notamment conçue pour couvrir la documentation accompagnant les logiciels libres.
+La GFDL, comme la GPL, autorise chacun à redistribuer une œuvre qu'elle protège à condition que cela soit fait sous des termes identiques. La GFDL prévoit des possibilités de restrictions de la liberté de modification de l'œuvre couverte[3]. Pour cette raison, les œuvres sous GFDL ne sont pas toutes considérées comme libres, notamment par les membres du projet Debian (importante distribution GNU/Linux).
+Compatibilité[modifier | modifier le code]
+Incompatibilité entre GPL et GFDL[modifier | modifier le code]
+La GFDL est incompatible dans les deux sens avec la GPL, ce qui signifie que des documents distribués sous une GFDL ne peuvent pas être insérés dans un programme informatique placé sous une licence GPL, et que des programmes distribués sous une licence GPL ne peuvent pas être insérés dans des documents distribués sous GFDL. Pour surmonter cette incompatibilité, certains extraits de programmes informatiques sont distribués sous une double licence (GPL et GFDL, ou CeCILL et GFDL, ou LGPL et GFDL, car CeCILL et LGPL sont totalement compatibles avec la GPL), de telle sorte qu'ils puissent apparaître dans la documentation.
+Incompatibilité entre GFDL et CC-BY-SA[modifier | modifier le code]
+Bien que les deux licences soient très proches, la GFDL n’est pas compatible avec CC-BY-SA (Creative Commons - paternité - partage à l'identique). Cependant, le paragraphe 11 de la version 1.3 de la GFDL a permis la migration depuis la GFDL 1.3 vers CC-BY-SA 3.0 sous certaines conditions :
+Elle ne concerne que les sites collaboratifs massivement multi-auteur (Massive Multiauthor Collaboration Site, MMC), dont les wikis sont le meilleur exemple.
+De plus, la possibilité d’effectuer la transition est temporaire et limitée dans le temps, elle ne concerne que les éléments sous GFDL avant le 1er novembre 2008 et la possibilité de changement a expiré le 1er août 2009[4].
+Critique[modifier | modifier le code]
+La GFDL a essuyé plusieurs critiques, notamment de la part du projet Debian. Elles portent, entre autres, sur l’invariant section, le fait de devoir imprimer le texte de la licence[5], etc.
+Notes et références[modifier | modifier le code]
+(en) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en anglais intitulé « GNU Free Documentation License » (voir la liste des auteurs).
+↑ « Licences - Projet GNU - Free Software Foundation », sur www.gnu.org (consulté le 26 juillet 2022)
+↑ « Pourquoi les maisons d'édition doivent utiliser la GNU FDL - Projet GNU - Free Software Foundation », sur www.gnu.org (consulté le 26 juillet 2022)
+↑ a et b « Licence GNU de documentation libre, v1.3 - Projet GNU - Free Software Foundation », sur www.gnu.org (consulté le 26 juillet 2022)
+↑ FAQ sur la GNU FDL v1.3
+↑ L'avis de Debian sur la GFDL, en français.
+Voir aussi[modifier | modifier le code]
+Bibliographie[modifier | modifier le code]
+Thérèse Godefroy (pour la traduction), « FAQ sur la GNU FDL v1.3 », Free Software Foundation, Inc., 28 février 2013 (consulté le 30 mars 2013)
+Articles connexes[modifier | modifier le code]
+Licence de logiciel et Licence libre
+Liens externes[modifier | modifier le code]
+(en) Licence GNU FDL 1.3 officielle
+Licences GNU en français
+Traduction française non officielle de la GFDL v. 1.1
+v · mProjet GNU
+ 
+Histoire
+Manifeste GNU
+Free Software Foundation (FSF)
+Histoire du logiciel libre
+ 
+Licences
+GNU General Public License (GPL)
+GNU Lesser General Public License (LGPL)
+GNU Affero General Public License (AGPL)
+GNU Free Documentation License (GFDL)
+ 
+Logiciels
+Système d'exploitation GNU
+Bash
+GCC
+GDB
+Emacs
+Glibc
+Guile
+Guix
+Coreutils
+Savannah
+GNUnet
+Autotools
+Liste des paquets GNU
+ 
+Personnalités
+Ludovic Courtès (auteur de GNU Guix)
+Werner Koch
+Christian Grothoff (auteur de GNUnet)
+Simon Josefsson
+Matt Lee
+Stefan Monnier
+Alexandre Oliva
+Thomas Schwinge
+Richard Stallman
+John Gilmore
+Mark H. Weaver
+Andy Wingo
+ 
+ Portail des logiciels libres   Portail du droit  
+Ce document provient de « https://fr.wikipedia.org/w/index.php?title=Licence_de_documentation_libre_GNU&oldid=204696346 ».
+Catégories : Licence de la Free Software FoundationLicence pour la documentationCatégories cachées : Article utilisant une InfoboxPortail:Logiciels libres/Articles liésPortail:Logiciel/Articles liésPortail:Informatique/Articles liésPortail:Droit/Articles liés
+ La dernière modification de cette page a été faite le 28 mai 2023 à 23:08.
+Droit d'auteur : les textes sont disponibles sous licence Creative Commons attribution, partage dans les mêmes conditions ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
+Politique de confidentialité
+À propos de Wikipédia
+Avertissements
+Contact
+Code de conduite
+Version mobile
+Développeurs
+Statistiques
+Déclaration sur les témoins (cookies)
+Activer ou désactiver la limitation de largeur du contenu

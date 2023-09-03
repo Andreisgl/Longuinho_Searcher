@@ -1,0 +1,467 @@
+[MediaWiki-l] MediaWiki 1.21.0 released - MediaWiki-l - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+                            2023
+                        
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2022
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2021
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2020
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2019
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2018
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2017
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2016
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2015
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2014
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2013
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2012
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2011
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2010
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2009
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2008
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2007
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2006
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2005
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2004
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2003
+                        
+December
+November
+October
+            List overview
+ Download
+thread
+[MediaWiki-l] MediaWiki 1.21.0 released
+Mark A. Hershberger
+                25 May
+                
+                    2013
+                
+            
+                25 May
+                
+                '13
+                
+            
+3:20 p.m.
+ 
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+I'm happy to announce the availability of the first stable release
+of the new MediaWiki 1.21 release series.
+MediaWiki 1.21 is a large release that contains many new features and
+bug fixes. This is a summary of the major changes of interest to users.
+You can consult the RELEASE-NOTES-1.21 file for the full list of changes
+in this version.
+Our thanks go to everyone who helped to improve MediaWiki by testing
+the beta release and submitting bug reports.
+== What's new? ==
+MediaWiki 1.21 includes all changes released in the smaller, bi-weekly
+"1.21wmfX" software deployments to Wikimedia sites.
+=== Clearer email notifications ===
+Bug 14901 ? Email notification mistakes log action for new page
+creation, the third most reported open MediaWiki bug, has been
+fixed. Consequently, notifications now state clearly what action was
+performed on the watched pages in case they are created, deleted,
+restored, moved or changed.
+There are still some known issues. If you customised MediaWiki:Enotif
+body on your wiki, you have to delete or update it; see also full
+documentation.
+=== Skin ===
+The CologneBlue skin has been refactored to make it relevant again,
+more compatible with existing scripts, and more similar in structure
+to Vector and Monobook, reusing a lot of existing code.
+The only major difference for end-users should be a slight reordering
+of the sidebar menu (the "Context" submenu was removed and its
+contents merged into other ones). If you were, however, depending on
+the exact HTML it used to produce, you'll need to review your tools.
+=== ContentHandler ===
+As part of the Wikidata initiative, 1.21 adopts an extensible
+framework ("ContentHandler") so that pages can contain something other
+than wikitext.
+Right now, built-in content types are limited to
+    wikitext - wikitext, as usual
+    javascript - user-provided JavaScript code
+    css - user-provided CSS code
+    text - plain text
+Extension developers can create additional content
+types. Extension:EventLogging uses ContentHandler to implement a
+namespace for JSON schemas, and may be used as a reference. Other
+extensions, such as Scribunto, also make use of the new functionality.
+ContentHandler affects diff rendering, handing of CSS and JavaScript
+pages, import/export, and the API.
+=== Support for high DPI displays ===
+MediaWiki now tries to deliver higher-res images to high pixel density
+screens such as Apple Retina Displays (see gerrit change 24115 for
+details). This is a work-in-progress, so normal-resolution images may
+still appear in some places and in some browser
+versions. Administrators may need to watch out for higher load on
+their image scaling software.
+=== Ajax patrolling ===
+(bug 7851) The features users have waited for longest: one-click Ajax
+patrolling. With this new feature, users can mark revisions or pages
+as having been "patrolled" with a single click while staying on the
+current page.
+=== Internationalization ===
+(bug 24156) The general logging framework was made completely
+localisable at last. The logging for each action (whether in core or
+extensions) might still need to be updated to use the new system,
+though.
+(bug 40367) MediaWiki:Contributions now reflects the gender of the
+user.
+=== New accounts ===
+(bug 22457) It's now easier to create accounts for other users by
+sending a temporary password via e-mail: Special:CreateAccount now
+shows a checkbox for logged-in users to use this feature, rather than
+a button.
+Account API: bots and other scripts can now use the API to create user
+accounts, rather than attempting to pseudo-submit the HTML form.
+=== Account creation welcome ===
+The MediaWiki:welcomecreation message was split up into
+MediaWiki:welcomeuser and MediaWiki:welcomecreation-msg so users no
+longer see "Login successful" when creating their accounts (bug
+42215). If you customized the former message and want to preserve your
+customization, you'll have to modify the new messages accordingly.
+=== More wikitext now supported in JavaScript messages ===
+The jqueryMsg parser now supports wikilinks and int: transclusion. For
+more details, see Manual:Messages API.
+=== Using semantic headings for the navigation menu ===
+The previous scheme of using (varying per skin) <h4>, <h5> and/or <h6>
+tags (with nothing apart from the main <h1> above them in the
+hierarchy) was change to consistently using a <h2> above the entire
+navigation and <h3>s as portlet headings in all skins.
+The <h2> is hidden for normal browsers, but accessible for
+screen-readers or text browsers.
+While this change is minor, it might require similarly minor updates
+in any customized CSS or JS (or in screen scrapers).
+=== Extended collation support ===
+UCA-based category collations for 68 languages based in Latin, Greek
+and Cyrillic alphabets are now supported. You can use them by setting
+$wgCategoryCollation = 'uca-<langcode>', where <langcode> is the
+appropriate language code.
+=== Bundled extensions ===
+Newly bundled for 1.21 (bug 43815):
+    Cite
+    ImageMap
+    Interwiki
+    Title Blacklist
+    SpamBlacklist
+    Poem
+    InputBox
+    LocalisationUpdate
+    SyntaxHighlight GeSHi
+Full release notes:
+https://www.mediawiki.org/wiki/Release_notes/1.21
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.21/mediawiki-1.21.0.tar.gz
+Patch to previous version (1.20.0), without interface text:
+http://download.wikimedia.org/mediawiki/1.21/mediawiki-1.21.0.patch.gz
+Interface text changes:
+http://download.wikimedia.org/mediawiki/1.21/mediawiki-i18n-1.21.0.patch.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.21/mediawiki-core-1.21.0.tar.gz.s…
+http://download.wikimedia.org/mediawiki/1.21/mediawiki-1.21.0.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.21/mediawiki-1.21.0.patch.gz.sig
+http://download.wikimedia.org/mediawiki/1.21/mediawiki-i18n-1.21.0.patch.gz…
+Public keys:
+https://secure.wikimedia.org/keys.html
+- -- 
+http://hexmode.com/
+Imagination does not breed insanity. Exactly what does breed insanity
+    is reason. Poets do not go mad; but chess-players do.
+        -- G.K. Chesterson
+...PGP SIGNATURE...-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+Comment: Using GnuPG with Icedove - http://www.enigmail.net/
+iD8DBQFRoNaqc17xCi38v/URAgClAJ9YnIT5CLqfbFolRyoG8W7UOF+l6QCfSu5H
+p79h+WXqEqs9MgYl1t+ES94=
+=shHJ
+-----END PGP SIGNATURE----- 
+ 0
+ 0
+            Reply
+        
+Back to the thread
+            Back to the list
+        
+ 
+            Powered by HyperKitty version 1.3.4.
+        

@@ -1,0 +1,26 @@
+Wayback Machine
+96 captures
+21 Mar 2011 - 19 May 2023
+Jan
+MAR
+Jul
+03
+2014
+2016
+2017
+success
+fail
+ About this capture
+COLLECTED BY
+Collection: Wikipedia Outlinks March 2016
+  Crawl of outlinks from wikipedia.org started March, 2016. These files are currently not publicly accessible.
+Properties of this collection.
+It has been several years since the last time we did this.
+For this collection, several things were done:
+1. Turned off duplicate detection.   This collection will be complete, as there is a
+good chance we will share the data, and sharing data with pointers to random
+other collections, is a complex problem.
+2. For the first time, did all the different wikis.   The original runs were just against the 
+enwiki.   This one, the seed list was built from all 865 collections.
+TIMESTAMPS
+The Wayback Machine - http://web.archive.org/web/20160303213434/http://www.treasury.gov.my/pdf/lain-lain/msia_regime.pdf

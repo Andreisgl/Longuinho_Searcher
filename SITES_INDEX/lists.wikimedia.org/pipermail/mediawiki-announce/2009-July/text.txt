@@ -1,0 +1,80 @@
+ [MediaWiki-announce] MediaWiki security update: 1.15.1 and 1.14.1
+   
+[MediaWiki-announce] MediaWiki security update: 1.15.1 and 1.14.1
+Tim Starling
+tstarling at wikimedia.org
+       
+Mon Jul 13 18:51:55 UTC 2009
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+This is a security and bugfix release of MediaWiki 1.15.1 and 1.14.1.
+A cross-site scripting (XSS) vulnerability was discovered in
+[[Special:Block]]. Only versions 1.14.0, 1.15.0 and release candidates
+for those releases are affected.
+Cross-site scripting vulnerabilities allow an unprivileged attacker to
+gain administrator access to the wiki by tricking an administrator
+into viewing a page which emits a malicious script. The malicious
+script may also be able to gain privileged access to other
+applications on the same domain.
+Other changes in these releases:
+1.15.1:
+* Fixed fatal errors for unusual file repository configurations, such
+as ForeignAPIRepo.
+* Fixed the "change password" link on Special:Preferences to have the
+correct returnto parameter.
+1.14.1:
+* (bug 17737) Fixed russian URLs for Special:BookSources
+* (bug 17713) Using links with only an anchor no longer add an dummy
+entry in the pagelinks table
+* (bug 17897) Fixed string offset error in <pre> tags
+* (bug 17832) Fixed action=delete returning 'unknownerror' instead of
+'permissiondenied' when the user is blocked
+* Fixed performance regression when accessing deleted (archived) files
+Upgrade FAQ:
+http://www.mediawiki.org/wiki/Manual:FAQ#Upgrading
+**********************************************************************
+  1.14.1
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.14/mediawiki-1.14.1.tar.gz
+Patch to previous version (1.14.0), without interface text:
+http://download.wikimedia.org/mediawiki/1.14/mediawiki-1.14.1.patch.gz
+Interface text changes:
+http://download.wikimedia.org/mediawiki/1.14/mediawiki-i18n-1.14.1.patch.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.14/mediawiki-1.14.1.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.14/mediawiki-1.14.1.patch.gz.sig
+http://download.wikimedia.org/mediawiki/1.14/mediawiki-i18n-1.14.1.patch.gz.sig
+Public keys:
+https://secure.wikimedia.org/keys.html
+**********************************************************************
+  1.15.1
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.15/mediawiki-1.15.1.tar.gz
+Patch to previous version (1.15.0):
+http://download.wikimedia.org/mediawiki/1.15/mediawiki-1.15.1.patch.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.15/mediawiki-1.15.1.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.15/mediawiki-1.15.1.patch.gz.sig
+Public keys:
+https://secure.wikimedia.org/keys.html
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+iEYEARECAAYFAkpbgkoACgkQdWgrCOij/sRAOgCgwk2XTXrxMkRrxsxNsAZj2EGK
+CC0AoJ78EAOW0rGxs+K1NjFO59XfS1RS
+=ZcRE
+-----END PGP SIGNATURE-----
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+More information about the MediaWiki-announce
+mailing list

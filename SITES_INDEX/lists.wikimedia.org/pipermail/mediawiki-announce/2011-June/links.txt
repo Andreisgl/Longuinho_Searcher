@@ -1,0 +1,10 @@
+http://www.mediawiki.org/wiki/MediaWiki_1.17
+http://www.mediawiki.org/wiki/Manual:FAQ#Upgrading
+http://www.mediawiki.org/wiki/Release_notes/1.17
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-1.17.0.tar.gz
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-1.17.0.patch.gz
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-1.17.0.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-1.17.0.patch.gz.sig
+https://secure.wikimedia.org/keys.html
+http://enigmail.mozdev.org/
+https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce

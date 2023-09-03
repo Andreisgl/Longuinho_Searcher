@@ -1,0 +1,8 @@
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_12_0RC1/phase3/RELEASE-NOTES
+http://download.wikimedia.org/mediawiki/1.12/mediawiki-1.12.0rc1.tar.gz
+http://download.wikimedia.org/mediawiki/1.12/mediawiki-1.12.0rc1.tar.gz.sig
+http://www.mediawiki.org/wiki/Manual:FAQ
+http://lists.wikimedia.org/mailman/listinfo/mediawiki-announce
+http://lists.wikimedia.org/mailman/listinfo/mediawiki-l
+http://bugzilla.wikimedia.org/
+https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce

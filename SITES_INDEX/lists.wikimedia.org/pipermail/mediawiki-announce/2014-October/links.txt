@@ -1,0 +1,16 @@
+https://releases.wikimedia.org/mediawiki/1.23/mediawiki-1.23.5.tar.gz
+https://releases.wikimedia.org/mediawiki/1.23/mediawiki-1.23.5.patch.gz
+https://releases.wikimedia.org/mediawiki/1.23/mediawiki-core-1.23.5.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.23/mediawiki-1.23.5.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.23/mediawiki-1.23.5.patch.gz.sig
+https://releases.wikimedia.org/mediawiki/1.22/mediawiki-1.22.12.tar.gz
+https://releases.wikimedia.org/mediawiki/1.22/mediawiki-1.22.12.patch.gz
+https://releases.wikimedia.org/mediawiki/1.22/mediawiki-core-1.22.12.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.22/mediawiki-1.22.12.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.22/mediawiki-1.22.12.patch.gz.sig
+https://releases.wikimedia.org/mediawiki/1.19/mediawiki-1.19.20.tar.gz
+https://releases.wikimedia.org/mediawiki/1.19/mediawiki-1.19.20.patch.gz
+https://releases.wikimedia.org/mediawiki/1.19/mediawiki-core-1.19.20.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.19/mediawiki-1.19.20.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.19/mediawiki-1.19.20.patch.gz.sig
+http://hyperkitty.readthedocs.org

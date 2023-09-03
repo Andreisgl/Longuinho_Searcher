@@ -1,0 +1,113 @@
+Wikidata:Головна сторінка - Wikidata
+Wikidata:Головна сторінка
+From Wikidata
+Jump to navigation
+Jump to search
+Ласкаво просимо до Вікіданих
+вільної бази знань, що має 106 531 214 елементів даних, які кожен може редагувати.
+Вступ • Чат проекту • Портал спільноти • Допомога
+Want to help translate? Translate the missing messages.
+Ласкаво просимо!
+Вікідані — це вільна і відкрита база знань, яку можуть читати та редагувати як люди, так і машини. 
+Вікідані виступають як центральне сховище структурованих даних для інших сестринських проєктів від Вікімедіа, зокрема для Вікіпедії, Вікімандрів, Вікісловника, Вікіджерел та інших. 
+Окрім проєктів Вікімедіа, Вікідані також надають підтримку багатьом іншим сайтам та сервісам! Інформація з Вікіданих доступна під вільною ліцензією, експортується у стандартних форматах і може бути використана разом з іншими наборами відкритих даних на пов'язаних ресурсах.
+Долучайтеся
+Щоб переглянути посібник для абсолютних початківців, відкрийте портал спільноти.
+Пізнайте Вікідані
+Що таке Вікідані? Відповідь дає сторінка «Вступ до Вікіданих».
+Досліджуйте Вікідані переглядаючи Елементи даних. На зразок: Дуглас Адамс.
+Ефективно працювати з Вікіданими дозволяє служба запитів SPARQL Вікіданих (Wikidata SPARQL query service).
+Робіть власний внесок у Вікідані
+Пізнайте як редагувати Вікідані за посиланням «онлайн-курси».
+Співпрацюйте з іншими волонтерами на теми, які цікаві саме вам: приєднатись до ВікіПроектів.
+Організації і приватні особи також мають можливість поділитися даними.
+Знайомтеся зі спільнотою Вікіданих
+Завітайте до порталу спільноти або візьміть участь у подіях Вікіданих.
+Створіть обліковий запис.
+Ставте питання чи відповідайте на них у кнайпі проекту або за допомогою IRC-чатувеб-версія.
+Використовуйте дані з Вікіданих
+Дізнайтесь як можна отримувати та використовувати дані з Вікіданних.
+Докладніше...
+Новини
+2023-07-21: Entity schema E400, about an archival resource in the Yale University Art Gallery, is created.
+2023-06-29: The Wikidata development team talk about what they've been working on in the office hours at 17:00 UTC on Telegram.
+2023-06-27: The one hundred and twenty millionth item, about a Turkish female given name Nazmiye, is created.
+2023-05-13: Wikidata tool QuickStatements (Q20084080) ran its batch 200000.
+Більше новин... (редагувати [англійською]) 
+Дізнайтеся про дані
+Ви новачок у чудовому світі даних? Розвиньте та вдоскональте свою грамотність у даних через контент, створений для того, щоб швидко ознайомити Вас з основами та призвичаїти до них.
+Item: Earth (Q2)
+Property: highest point (P610)
+custom value: Mount Everest (Q513)
+Поточні події
+Bernhard Plesansky (Q24285937)
+Michael Anthony Perez (Q121891331)
+Tropical Storm Kirogi (Q122132991)
+Estonia in the Junior Eurovision Song Contest (Q121995504)
+Ali Boushaki (Q28936494) (pictured)
+Pax Ahimsa Gethen (Q121763432)
+2023 Johannesburg building fire (Q122146423)
+Досліджуйте
+Інноваційні застосування та внески від спільноти Вікданих
+Рекомендовані вікіпроекти:
+Вікіпроект Музика
+Вікіпроєкт Музика — це дім для редакторів, які допомагають додавати дані про виконавців, музичні релізи, треки, нагороди та виступи! Крім того, ще одним фокусом проєкту є імпортування та зв’язування Вікіданих із багатьма музичними базами даних і потоковими службами. Прочитайте про нашу модель даних на project page та приходьте поспілкуватися з нами у Telegram.
+Більше:
+Перегляньте Вікідані:Інструменти, аби ознайомитись із деякими з наших найкращих інструментів та гаджетів для користування та дослідження Вікіданих.
+Перегляньте наші вибірки згадок у пресі та колекцію опублікованих досліджень про Вікідані
+Вам відомо про якийсь цікавий проект чи дослідження, що використовують Вікідані? Ви можете рекомендувати інформацію про це тут для представлення на Головній сторінці!
+Зв'язатися
+Список розсилки Вікіданих
+Технічний список розсилки Вікіданих
+Запити на коментарі на специфічні теми
+Facebook, Mastodon, Twitter
+Залишити повідомлення у чаті проєкту
+Чат в Телеграм або IRC-чатпідключитись
+Повідомити про технічну проблему
+Дізнайтеся про нове: Щотижневі підсумки
+Вікідані — частина неприбуткової, багатомовної, вільної родини Вікімедіа.
+ Вікіпедія – Енциклопедія   
+ Вікісловник – cловник та тезаурус   
+ Вікіпідручник – підручники, посібники та рецепти   
+ Вікіновини – новини   
+ Вікіцитати – колекція цитат   
+ Вікіджерела – бібліотека   
+ Віківерситет – Навчальні ресурси   
+ Вікімандри – путівники   
+ Віківиди – каталог видів   
+ Вікісховище – медіа-репозитарій   
+ Інкубатор – нові мовні версії   
+ Мета-вікі – координація проєктів Вікімедіа   
+ MediaWiki – документація програмного забезпечення   
+Retrieved from "https://www.wikidata.org/w/index.php?title=Wikidata:Головна_сторінка&oldid=1817604880"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Project pageDiscussion
+українська
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage information
+Print/export
+Create a bookDownload as PDFPrintable version
+In Wikipedia
+Add links
+ This page was last edited on 23 January 2023, at 12:10.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

@@ -1,0 +1,77 @@
+ [MediaWiki-announce] MediaWiki 1.13.0 released
+   
+[MediaWiki-announce] MediaWiki 1.13.0 released
+Tim Starling
+tstarling at wikimedia.org
+       
+Thu Aug 14 15:26:58 UTC 2008
+Previous message: [MediaWiki-announce] Release candidate MediaWiki 1.13.0rc2
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+MediaWiki 1.13.0 is now available.
+MediaWiki is now using a "continuous integration" development model
+with quarterly snapshot releases. The latest development code is
+always kept "ready to run", and in fact runs our own sites on
+Wikipedia. MediaWiki 1.13.0 is our latest snapshot release, based on
+the development code from three weeks ago, with several bugfixes applied.
+Selected changes since MediaWiki 1.12.0:
+* 59,000 new localised text messages have been added, taking the total
+to 266,000, spread across 281 languages
+* New special pages: FileDuplicateSearch, ListGroupRights
+* Special:UserRights and Special:SpecialPages have been redesigned
+* More options on Special:Recentchangeslinked and Special:WhatLinksHere
+* New parser functions: PAGESINCATEGORY, PAGESIZE
+* Can hide categories with __HIDDENCAT__
+* Friendlier behaviour for users who click a red link but can't edit
+* Image redirects are now enabled by default
+* Drop-down AJAX search suggestions ($wgEnableMWSuggest)
+* Search results show image thumbnails
+* The search box in the MonoBook sidebar can be moved up by editing
+[[MediaWiki:Sidebar]]
+* Double redirects created by a page move can be fixed automatically
+Changes since release candidate MediaWiki 1.13.0rc2:
+* (bug 13770) Fixed incorrect detection of PHP's DOM module
+* Fix regression from r37834: accesskey tooltip hint should be given
+for the
+  minor edit and watch labels on the edit page.
+* Updated Chinese simplified/traditional conversion tables
+Full release notes:
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_13_0/phase3/RELEASE-NOTES
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.13/mediawiki-1.13.0.tar.gz
+Patch to previous version (1.13.0rc2)
+http://download.wikimedia.org/mediawiki/1.13/mediawiki-1.13.0.patch.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.13/mediawiki-1.13.0.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.13/mediawiki-1.13.0.patch.gz.sig
+Public keys:
+https://secure.wikimedia.org/keys.html
+SHA-1 checksums:
+f53f7548510a39fd9f365d3097e8a581fdb14353  mediawiki-1.13.0.tar.gz
+7243a2b50edb78b6f1882ff09c0882e771502539  mediawiki-1.13.0.patch.gz
+MD5 checksums:
+6e51cb81fd57d90b870e984688734db6  mediawiki-1.13.0.tar.gz
+a4880023b196238cb0a77af717b4fd8b  mediawiki-1.13.0.patch.gz
+- --
+Tim Starling
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.6 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+iD8DBQFIpE7CdWgrCOij/sQRAthwAKC9agD3P0CMjXeWTaaHGsmfXvWEfgCfYxSo
+nKl2tvJq+BT8u16CjPrG3tI=
+=Jk7Q
+-----END PGP SIGNATURE-----
+Previous message: [MediaWiki-announce] Release candidate MediaWiki 1.13.0rc2
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+More information about the MediaWiki-announce
+mailing list

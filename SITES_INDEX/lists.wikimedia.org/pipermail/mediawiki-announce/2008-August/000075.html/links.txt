@@ -1,0 +1,6 @@
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_13_0RC2/phase3/RELEASE-NOTES
+http://download.wikimedia.org/mediawiki/1.13/mediawiki-1.13.0rc2.tar.gz
+http://download.wikimedia.org/mediawiki/1.13/mediawiki-1.13.0rc2.tar.gz.sig
+https://secure.wikimedia.org/keys.html
+http://enigmail.mozdev.org
+https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce

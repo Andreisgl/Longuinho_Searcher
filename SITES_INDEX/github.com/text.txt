@@ -1,0 +1,287 @@
+Bulgarian WMF projects · GitHub
+Skip to content
+Toggle navigation
+            Sign up
+          
+ 
+wikimedia-bg
+        Product
+        
+Actions
+        Automate any workflow
+      
+Packages
+        Host and manage packages
+      
+Security
+        Find and fix vulnerabilities
+      
+Codespaces
+        Instant dev environments
+      
+Copilot
+        Write better code with AI
+      
+Code review
+        Manage code changes
+      
+Issues
+        Plan and track work
+      
+Discussions
+        Collaborate outside of code
+      
+Explore
+      All features
+    
+      Documentation
+    
+      GitHub Skills
+    
+      Blog
+    
+        Solutions
+        
+For
+      Enterprise
+    
+      Teams
+    
+      Startups
+    
+      Education
+    
+By Solution
+      CI/CD & Automation
+    
+      DevOps
+    
+      DevSecOps
+    
+Resources
+      Customer Stories
+    
+      White papers, Ebooks, Webinars
+    
+      Partners
+    
+        Open Source
+        
+GitHub Sponsors
+        Fund open source developers
+      
+The ReadME Project
+        GitHub community articles
+      
+Repositories
+      Topics
+    
+      Trending
+    
+      Collections
+    
+Pricing
+Search or jump to...
+Search code, repositories, users, issues, pull requests...
+ 
+        Search
+      
+Clear
+ 
+ 
+              Search syntax tips
+ 
+        Provide feedback
+      
+ 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+     Cancel
+    Submit feedback
+        Saved searches
+      
+Use saved searches to filter your results more quickly
+ 
+Name
+Query
+            To see all available qualifiers, see our documentation.
+          
+ 
+     Cancel
+    Create saved search
+              Sign in
+            
+              Sign up
+            
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.
+You switched accounts on another tab or window. Reload to refresh your session.
+ 
+ Dismiss alert
+          Bulgarian WMF projects
+        
+Community development in the Bulgarian WMF projects
+10
+                    followers
+ 
+Bulgaria
+https://blog.wikimedia.bg/
+    Overview
+  
+    Repositories
+      
+    Projects
+      
+    Packages
+  
+    People
+      
+ 
+More
+Overview
+Repositories
+Projects
+Packages
+People
+ 
+ 
+        Popular repositories
+    
+wikipedia-ui
+Public
+            JS, CSS, and gadgets in the Bulgarian Wikipedia
+          
+JavaScript
+                2
+              
+                1
+              
+wikipedia-lua
+Public
+            Module namespace in the Bulgarian Wikipedia
+          
+Lua
+                2
+              
+wikipedia-spam
+Public
+            Spam black- and whitelists in the Bulgarian Wikipedia
+          
+                1
+              
+                1
+              
+wikipedia-tbl
+Public
+            Title blacklist in the Bulgarian Wikipedia
+          
+                1
+              
+git-sync
+Public
+            Wikipedia system pages in Git (formerly repo-sync and phab-sync)
+          
+Python
+        Repositories
+      
+ Type
+ 
+Select type
+All
+Public
+Sources
+Forks
+Archived
+Mirrors
+Templates
+ Language
+ 
+Select language
+All
+JavaScript
+Lua
+Python
+ Sort
+ 
+Select order
+Last updated
+Name
+Stars
+ 
+          wikipedia-ui
+          Public
+            JS, CSS, and gadgets in the Bulgarian Wikipedia
+JavaScript
+          2
+          1
+        0
+        0
+          Updated Apr 21, 2023
+ 
+          wikipedia-lua
+          Public
+            Module namespace in the Bulgarian Wikipedia
+Lua
+          2
+0
+        0
+        0
+          Updated Mar 24, 2023
+ 
+          wikipedia-spam
+          Public
+            Spam black- and whitelists in the Bulgarian Wikipedia
+          1
+          1
+        0
+        0
+          Updated Sep 2, 2022
+ 
+          git-sync
+          Public
+            Wikipedia system pages in Git (formerly repo-sync and phab-sync)
+Python
+0
+MIT
+0
+        3
+          (1 issue needs help)
+        0
+          Updated Dec 5, 2021
+ 
+          wikipedia-tbl
+          Public
+            Title blacklist in the Bulgarian Wikipedia
+          1
+0
+        0
+        0
+          Updated May 25, 2020
+ 
+People
+ 
+ 
+Top languages
+JavaScript
+Python
+Lua
+Most used topics
+Loading…
+Footer
+ 
+        © 2023 GitHub, Inc.
+        
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+    You can’t perform that action at this time.
+  

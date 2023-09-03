@@ -1,0 +1,396 @@
+[MediaWiki-announce] MediaWiki Security and Maintenance Releases: 1.23.7, 1.22.14 and 1.19.22 - MediaWiki-announce - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+                            2023
+                        
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2022
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2021
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2020
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2019
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2018
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2017
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2016
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2015
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2014
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2013
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2012
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2011
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2010
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2009
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2008
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2007
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2006
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2005
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2004
+                        
+December
+            List overview
+ Download
+thread
+[MediaWiki-announce] MediaWiki Security and Maintenance Releases: 1.23.7, 1.22.14 and 1.19.22
+Markus Glaser
+                27 Nov
+                
+                    2014
+                
+            
+                27 Nov
+                
+                '14
+                
+            
+6:40 a.m.
+ 
+Hello everyone,
+I would like to announce the release of MediaWiki 1.23.7, 1.22.14 and 1.19.22. This is a
+regular security and maintenance release. Download links are given at the end of this
+email. 
+== Security fixes ==
+* (bugs 66776, 71478) SECURITY:  User PleaseStand reported a way to inject code into API
+clients that used format=php to process pages that underwent flash policy mangling. This
+was fixed along with improving how the mangling was done for format=json, and allowing
+sites to disable the mangling using $wgMangleFlashPolicy.
+<https://phabricator.wikimedia.org/T68776>
+<https://phabricator.wikimedia.org/T73478>
+* (bug 70901) SECURITY: User Jackmcbarn reported that the ability to update the content
+model for a page could allow an unprivileged attacker to edit another user's common.js
+under certain circumstances. The user right "editcontentmodel" was added, and is
+needed to change a revision's content model.
+<https://phabricator.wikimedia.org/T72901>
+* (bug 71111) SECURITY: User PleaseStand reported that on wikis that allow raw HTML, it is
+not safe to preview wikitext coming from an untrusted source such as a cross-site request.
+Thus add an edit token to the form, and when raw HTML is allowed, ensure the token is
+provided before showing the preview.  This check is not performed on wikis that both allow
+raw HTML and anonymous editing, since there are easier ways to exploit that scenario.
+<https://phabricator.wikimedia.org/T73111>
+* (bug 72222) SECURITY: Do not show log action when the entry is revdeleted with
+DELETED_ACTION. NOTICE: this may be reverted in a future release pending a public RFC
+about the desired functionality. This issue was reported by user Bawolff.
+<https://phabricator.wikimedia.org/T74222>
+== Bugfixes ==
+* (bug 71621) Make allowing site-wide styles on restricted special pages a config option.
+<https://phabricator.wikimedia.org/T73621>
+* (bug 42723) Added updated version history from 1.19.2 to 1.22.13
+<https://phabricator.wikimedia.org/T44723>
+* $wgMangleFlashPolicy was added to make MediaWiki's mangling of anything that might
+be a flash policy directive configurable.
+Full release notes for 1.23.7:
+<https://www.mediawiki.org/wiki/Release_notes/1.23>
+Full release notes for 1.22.14:
+<https://www.mediawiki.org/wiki/Release_notes/1.22>
+Full release notes for 1.19.22:
+<https://www.mediawiki.org/wiki/Release_notes/1.19>
+Public keys:
+<https://www.mediawiki.org/keys/keys.html>
+**********************************************************************
+    1.23.7
+**********************************************************************
+Download:
+https://releases.wikimedia.org/mediawiki/1.23/mediawiki-1.23.7.tar.gz
+https://releases.wikimedia.org/mediawiki/1.23/mediawiki-core-1.23.7.tar.gz
+Patch to previous version (1.23.6):
+https://releases.wikimedia.org/mediawiki/1.23/mediawiki-1.23.7.patch.gz
+GPG signatures:
+https://releases.wikimedia.org/mediawiki/1.23/mediawiki-core-1.23.7.tar.gz.…
+https://releases.wikimedia.org/mediawiki/1.23/mediawiki-1.23.7.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.23/mediawiki-1.23.7.patch.gz.sig
+**********************************************************************
+    1.22.14
+**********************************************************************
+Download:
+https://releases.wikimedia.org/mediawiki/1.22/mediawiki-1.22.14.tar.gz
+Patch to previous version (1.22.13):
+https://releases.wikimedia.org/mediawiki/1.22/mediawiki-1.22.14.patch.gz
+GPG signatures:
+https://releases.wikimedia.org/mediawiki/1.22/mediawiki-core-1.22.14.tar.gz…
+https://releases.wikimedia.org/mediawiki/1.22/mediawiki-1.22.14.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.22/mediawiki-1.22.14.patch.gz.sig
+**********************************************************************
+    1.19.22
+**********************************************************************
+Download:
+https://releases.wikimedia.org/mediawiki/1.19/mediawiki-1.19.22.tar.gz
+Patch to previous version (1.19.21):
+https://releases.wikimedia.org/mediawiki/1.19/mediawiki-1.19.22.patch.gz
+GPG signatures:
+https://releases.wikimedia.org/mediawiki/1.19/mediawiki-core-1.19.22.tar.gz…
+https://releases.wikimedia.org/mediawiki/1.19/mediawiki-1.19.22.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.19/mediawiki-1.19.22.patch.gz.sig
+Mark Hershberger and Markus Glaser
+(Wiki Release Team)
+    
+ 0
+ 0
+            Reply
+        
+Back to the thread
+            Back to the list
+        
+ 
+            Powered by HyperKitty version 1.3.4.
+        

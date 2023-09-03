@@ -1,0 +1,171 @@
+Trinidad and Tobago - LC Linked Data Service: Authorities and Vocabularies | Library of Congress
+skip navigation
+Library of CongressSearch
+Everything
+Audio Recordings
+Books/Printed Material
+Films, Videos
+Legislation
+Manuscripts/Mixed Material
+Maps
+Notated Music
+Newspapers
+Periodicals
+Personal Narratives
+Photos, Prints, Drawings
+Software, E-Resources
+Archived Web Sites
+Web Pages
+3D Objects
+Suggestions enabled.
+Search
+Search togglemenu 
+Discover
+Services
+Visit
+Education
+Connect
+About
+Ask a Librarian
+Help
+Contact
+Search Online Catalog
+Copyright.gov
+Congress.gov
+The Library of Congress > Linked Data Service > LC Name Authority File (LCNAF)Trinidad and Tobago
+URI(s)
+http://id.loc.gov/authorities/names/n81008555
+Codes
+nwtr---
+Variants
+Republic of Trinidad and Tobago
+República de Trinidad y Tobago
+Torinidaddo Tobago
+Torinidādo Tobago
+Trinidad & Tobago
+Trinidad ja Tobago
+Trinidad och Tobago
+Trinidad-Tobago
+Ṭrinidad ṿe-Ṭobago
+Trinidad y Tobago
+Trinité-et-Tobago
+טרינידד וטובגו
+トリニダッド・トバゴ
+トリニダード・トバゴ
+Additional Information
+http://id.loc.gov/rwo/agents/n81008555
+DescriptorCountry
+DescriptorCountries (sovereign states)
+DescriptorRepublics
+DescriptorNations
+DescriptorIsland nations
+DescriptorNation
+DescriptorNational state
+DescriptorState
+DescriptorState
+Associated LocaleWest Indies
+Associated LocaleCaribbean Area
+Associated LocaleSouth America
+Identified By
+http://www.wikidata.org/entity/Q754
+Identified By
+http://www.bbc.co.uk/things/f03f9497-7b87-4149-9782-1e9c24258849#id
+Identified By
+http://isni.org/isni/0000000121047631
+Identified By
+http://viaf.org/viaf/122737458
+Identified By
+http://dbpedia.org/resource/Trinidad_and_Tobago
+Identified By
+https://sws.geonames.org/3573591/
+Identified By
+http://vocab.getty.edu/tgn/7004787-place
+Identified By
+http://musicbrainz.org/area/6c290168-f3b9-3adb-9889-b856feb2c26c#_
+Has Demonym
+Tobagonians
+Trinidadians
+Related Terms
+West Indies (Federation)
+Exact Matching Concepts from Other Schemes
+http://viaf.org/viaf/sourceID/LC%7Cn++81008555#skos:Concept 
+http://vocabularies.unesco.org/thesaurus/concept802 
+http://id.agrisemantics.org/gacs/C718 
+http://id.cabi.org/cabt/119978 
+http://id.nlm.nih.gov/mesh/D014300 
+http://aims.fao.org/aos/agrovoc/c_7933 
+http://vocab.getty.edu/tgn/7004787 
+http://lod.nal.usda.gov/nalt/13640 
+http://zbw.eu/stw/descriptor/17804-3 
+http://eurovoc.europa.eu/4570 
+Closely Matching Concepts from Other Schemes
+Trinidad and Tobago 
+Trinidad and Tobago Label from public data source Wikidata
+Trinidad y Tobago 
+Trinité-et-Tobago 
+Earlier Established Forms
+Tobago (Colony)
+Trinidad
+Sources
+found: Gt. Brit. British Information Service. Trinidad and Tobago, 1962.
+found: Index to Caribbean medical literature, 1976:t.p. (Trinidad & Tobago) t.p. verso (Trinidad and Tobago)
+found: The statesman's year-book, 1995-1996:p. 1273 (Trinidad and Tobago; Republic of Trinidad and Tobago)
+found: GEOnet, Sept. 23, 2003(Trinidad and Tobago [short form], Republic of--PCLI, 11°00ʹN 61°00ʹW; variants: Trinidad and Tobago Colony; Trinidad and Tobago, United Colony of; Trinidad and Tobago, Colony of; Trinidad)
+found: Wikipedia, July 31, 2018(Trinidad and Tobago, officially the Republic of Trinidad and Tobago, is a twin island sovereign state that is the southernmost nation of the West Indies in the Caribbean; Trinidad and Tobago lie on the continental shelf of South America, and are thus geologically considered to lie entirely in South America; 10°36ʹN 61°6ʹW)
+found: Web NDL authorities, July 31, 2018(トリニダード・トバゴ = Torinidādo Tobago; variant: トリニダッド・トバゴ = Torinidaddo Tobago) - https://id.ndl.go.jp/auth/ndlna/00573317
+found: BnF Catalogue général, via WWW, July 31, 2018(Trinité-et-Tobago) - https://catalogue.bnf.fr/ark:/12148/cb118787798
+found: YSO places, via WWW, July 31, 2018(Trinidad and Tobago; Trinidad ja Tobago (Finnish); Trinidad och Tobago (Swedish)) - http://finto.fi/yso-paikat/en/page/p109214
+found: National Library of Spain, in VIAF, July 31, 2018(Trinidad y Tobago; variant: República de Trinidad y Tobago)
+found: National Library of Israel, in VIAF, July 31, 2018(טרינידד וטובגו = Ṭrinidad ṿe-Ṭobago)
+Editorial Notes
+[The colony of Trinidad and the colony of Tobago were amalgamated in 1888 to form the colony of Trinidad and Tobago, which became independent on Aug. 31, 1962, under the same name. Use "Trinidad and Tobago" for publs. after 1888.  Headings for the government of Tobago since 1980 are found under: Tobago (Trinidad and Tobago).]
+[Old catalog headings: Trinidad [used for publs. through Aug. 31, 1962]; Tobago [used for publs. through Aug. 31, 1962]; Trinidad and Tobago [used Sept. 1, 1962- ]]
+[URIs added to this record for the PCC URI MARC Pilot. Please do not remove or edit the URIs]
+[Non-Latin script references not evaluated.]
+Instance Of
+MADS/RDF Geographic
+MADS/RDF Authority
+SKOS Concept 
+Scheme Membership(s)
+Library of Congress Name Authority File
+Collection Membership(s)
+Names Collection - Authorized Headings
+LC Names Collection - General Collection
+Change Notes
+1981-01-30: new
+2020-09-02: revised
+Alternate Formats
+RDF/XML (MADS and SKOS)
+N-Triples (MADS and SKOS)
+JSON (MADS/RDF and SKOS/RDF)
+MADS - RDF/XML
+MADS - N-Triples
+MADS/RDF - JSON
+SKOS - RDF/XML
+SKOS - N-Triples
+SKOS - JSON
+MADS/XML
+MARC/XML
+Subject Of WorksLooking for related works...Contributor To WorksLooking for related works...
+Follow Us
+ Email
+ Facebook
+ Twitter
+ Youtube
+ Pinterest
+ Flickr
+ Instagram
+ iTunes
+Take our survey External
+Accessibility
+Legal
+Inspector General
+External Link Disclaimer
+USA.gov
+Careers
+Contact
+Media
+Donate
+Shop
+Congress.gov
+United States Copyright Office

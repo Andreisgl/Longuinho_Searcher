@@ -1,0 +1,49 @@
+ [MediaWiki-announce] MediaWiki security release 1.17.1
+   
+[MediaWiki-announce] MediaWiki security release 1.17.1
+Sam Reed
+reedy at wikimedia.org
+       
+Mon Nov 28 23:13:26 UTC 2011
+Previous message: [MediaWiki-announce] MediaWiki Release Candidate 1.18.0rc 1
+Next message: [MediaWiki-announce] MediaWiki 1.18.0 released
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+I would like to announce the release of MediaWiki 1.17.1. Two security
+issues were discovered.
+Alexandre Emsenhuber discovered an issue where page titles on private
+wikis could be exposed bypassing different page ids to index.php. In the
+case of the user not having correct permissions, they will now be redirected
+to Special:BadTitle.
+For more details, see https://bugzilla.wikimedia.org/show_bug.cgi?id=32276
+The second issue was found by Tim Starling, who discovered that action=ajax
+requests were dispatched to the relevant function without any read
+permission checks being done. This could have led to data leakage on
+private wikis.
+For more details, see https://bugzilla.wikimedia.org/show_bug.cgi?id=32616
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-1.17.1.tar.gz
+Patch to previous version (1.17.0), without interface text:
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-1.17.15.patch.gz
+Interface text changes:
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-i18n-1.17.1.patch.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-1.17.1.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-1.17.1.patch.gz.sig
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-i18n-1.17.1.patch.gz.
+sig
+Public keys:
+https://secure.wikimedia.org/keys.html
+Previous message: [MediaWiki-announce] MediaWiki Release Candidate 1.18.0rc 1
+Next message: [MediaWiki-announce] MediaWiki 1.18.0 released
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+More information about the MediaWiki-announce
+mailing list

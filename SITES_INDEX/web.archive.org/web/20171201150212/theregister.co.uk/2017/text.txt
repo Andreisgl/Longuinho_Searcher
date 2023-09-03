@@ -1,0 +1,258 @@
+Munich council: To hell with Linux, we're going full Windows in 2020 • The Register    
+74 captures
+13 Nov 2017 - 02 Aug 2023
+Nov
+DEC
+Jan
+01
+2016
+2017
+2018
+success
+fail
+ About this capture
+COLLECTED BY
+Organization: Alexa Crawls
+  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+Collection: Alexa Crawls
+  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+TIMESTAMPS
+The Wayback Machine - http://web.archive.org/web/20171201150212/http://www.theregister.co.uk:80/2017/11/13/munich_committee_says_all_windows_2020/
+M³
+CLL
+Events
+Whitepapers
+The Next Platform
+                Data Center
+            
+                Software
+            
+                Security
+            
+                Transformation
+            
+                DevOps
+            
+                Business
+            
+                Personal Tech
+            
+                Science
+            
+                Emergent Tech
+            
+                Bootnotes
+            
+                            Servers
+                        
+                            HPC
+                        
+                            Cloud
+                        
+                            Storage
+                        
+                            Networks
+                        
+                            Virtualization
+                        
+                            BOFH
+                        
+Delphix sends database virtualization sailing up the Amazon
+Ofcom proposes ways to stop BT undercutting broadband rivals
+Toshiba soups up XG5-P NVMe SSD with 2TB and chunky read/write boost
+Datrium tries to tempt Amazon cloud backup folk: Psst, buddy... you want HCI?
+That 70s Show: Windows sprouts Sets and Timeline features
+Ad-filtering fiend Eyeo: Morning has broken, like the first morning
+Night before Xmas and all through American Airlines, not a pilot was flying, thanks to this bug
+The End of Abandondroid? Treble might rescue Google from OTA Hell
+Linux laptop-flinger says bye-bye to buggy Intel Management Engine
+Stop us if you've heard this one: Russian hacker thrown in US slammer for $59m bank fraud
+Protecting your data from ransomware
+Google Chrome vows to carpet bomb meddling Windows antivirus tools
+HMRC scoops up Microsoft veep for CIO role
+So you're already in the cloud but need to come back down to Earth
+A big ask for any nerd, but going outside (your usual data sets) can be good for you
+So much data, so little time: How to not flip your wig processing it
+From DevOps to No-Ops: El Reg chats serverless computing with NYT's CTO
+We survived today's Amazon news avalanche to bring you this: Yes, a managed Kubernetes service will be a thing
+Continuous Lifecycle: Blind-bird tickets set to fly off for good
+Microsoft reprieves CodePlex users – you're doomed next week
+                            Policy
+                        
+                            The Channel
+                        
+Royal Bank of Scotland culls 1 in 4 branches, blames the interwebz
+Ex-Autonomy exec agrees to be a witness for HP fraud case
+BT lab domain grab – 17 years after cheeky chap swiped 'em
+Aviva dumps DXC, shoves data centre support at Atos
+Mirror, mirror on the wall, who's the failest mobe of all?
+The plucky local Mom 'n’ Pop phone maker faces death
+Win 10 creators update offers new reality opportunity
+Want a new HDMI cable? No? Bad luck. You'll need one for HDMI 2.1
+                            Geek's Guide
+                        
+Today in non-depressing news: Boffins build biggest quantum sims
+Scotland, now is your time… to launch Brexit Britain into SPAAAACE!
+Russian rocket snafu may have just violently dismantled 19 satellites
+You live in the right galaxy: Milky Way to eat Small Magellanic Cloud even sooner
+                            Artificial Intelligence
+                        
+                            Internet of Things
+                        
+Badass alert: 1 in 5 Brits don't give a damn about webpage crypto-miners
+Democratic AI in the Hybrid Cloud
+Total recog: British AI makes universal speech breakthrough
+AI taught to beat Sudoku puzzles. Now how about a time machine to 2005?
+                            Verity Stob
+                        
+Foil snack food bags make a decent Faraday cage, judge finds
+Lock them up and throw away the (don)key
+2001: A Stob Odyssey
+Tom Baker returns to finish shelved Doctor Who episodes penned by Douglas Adams
+                Data Center
+            
+                Software
+            
+                Security
+            
+                Transformation
+            
+                DevOps
+            
+                Business
+            
+                Personal Tech
+            
+                Science
+            
+                Emergent Tech
+            
+                Bootnotes
+            
+BOFH
+Software
+Munich council: To hell with Linux, we're going full Windows in 2020
+Never go full Windows
+                        
+                            By Andrew Silver
+                            13 Nov 2017 at 09:09
+                        
+ 477
+  SHARE ▼
+Munich city council's administrative and personnel committee has decided to move any remaining Linux systems to Windows 10 in 2020.
+A coalition of Social Democrats and Conservatives on the committee voted (PDF, auf Deutsch, natürlich) for the Windows migration on Wednesday, Social Democrat councillor Anne Hübner told The Register.
+Munich rose to fame in the open-source world for deciding to use Linux and LibreOffice to make the city independent from the claws of Microsoft. But the plan was never fully realised – mail servers, for instance, eventually wound up migrating to Microsoft Exchange – and in February the city council formally voted to end Linux migration and go back to Microsoft.
+Munich's mayor claims €4m savings from Linux switch
+READ MORE
+Hübner said the city has struggled with LiMux adoption. "Users were unhappy and software essential for the public sector is mostly only available for Windows," she said.
+She estimated about half of the 800 or so total programs needed don't run on Linux and "many others need a lot of effort and workarounds".
+Hübner added, "in the past 15 years, much of our efforts were put into becoming independent from Microsoft," including spending "a lot of money looking for workarounds" but "those efforts eventually failed."
+A full council vote on Windows 10 2020 migration is set for November 23, Hübner said. However, the Social Democrats and Conservatives have a majority in the council, and the outcome is expected to be the same as in committee.
+She said the cost of the migration will not be made public until November 23, but today about 40 per cent of 30,000 users already have Windows machines.
+CSU party council member Kristina Frank told The Reg: "Munich had huge difficulties in communicating with other authorities, communities and other externals.
+"As everything needed to be developed by ourselves, the city's IT was 10 to 15 years behind market standard. The City of Munich is not an IT developer, but has other major concerns to deal with."
+Hübner said "no final decision has yet been made" on whether LibreOffice will be swapped out for Microsoft Office. "That will be decided at the end of next year when the full cost of such a move will be known."
+Peter Ganten, CEO of Univention in Bremen and a member of the Open Source Business Alliance, told El Reg: "The council of the city of Munich has just executed a decision which they have made long before."
+Not all agree that it is a good decision.
+Ganten said "of course nobody in the open-source community is happy that this decision has been made" and the city will spend "decades of man power" and "millions of euros" on migration (as it did with the LiMux project), while client OSes "becomes more and more unimportant and other organisations are wisely spending their money for platform neutral applications."
+Matthias Kirschner, president of Free Software Foundation Europe in Berlin, said "there were never any studies published" pinpointing what people were "unhappy" about. It might have been the LiMux client itself, or perhaps the migration process or lack of support.
+He said he was also not aware of a comparison of the unhappiness of staffers in cities using Windows.
+A report (PDF) by Microsoft partner Accenture commissioned by Munich found the most important issues were organisational.
+Munich considers dumping Linux for ... GULP ... Windows!
+READ MORE
+Kirschner also described splitting the LibreOffice move as "strange" if the parties are concerned about interoperability. He said Microsoft Office will be "very, very expensive" so it's possible the coalition wanted to split up the costs, although he did not know for sure.
+Next year, he said civil servants would require more training and could delay citizens receiving help – the move "is a cause for failure".
+Kirschner said the Windows in Munich project will "paralyse the city administration for years" and civil servants and citizens will "suffer."
+Florian Roth, of the Green Party, told The Reg: "Our Green Party are against this decision in favour of a mix of Linux and Windows. This is more secure and less expensive."
+We contacted the city's press division, the mayor's office and the current head of Munich's IT department for comment on the migration vote.
+An Italy-based spokesman for the Document Foundation, which is in charge of LibreOffice, attributed the decision to politics. "IT issues are normal regardless of operating system," he said. "When it's political, technology cannot do anything." ®
+                        Tips and corrections
+                    
+477
+                        Comments
+                    
+MORE
+Microsoft
+Linux
+Windows
+Most read
+As Apple fixes macOS root password hole, here's what went wrong
+                
+Hey girl, what's that behind your Windows task bar? Looks like a hidden crypto-miner...
+                
+Used iPhone Safari in 2011-12? You might qualify for Google bucks
+                
+Wondering why your internal .dev web app has stopped working?
+                
+Unfit to plead before a US court? You may face 'indefinite detention'
+                
+More from The Register
+Microsoft recommends you ignore Microsoft-recommended update
+                                Left hand quits trying to meet right hand, waves at customers saying 'don't break Skype'
+                            
+Microsoft postpones VMware-on-Azure details release by two weeks
+                                What's Redmond got to hide? Or clear with lawyers?
+                            
+Microsoft to rebuild Redmond campus, including cricket pitch
+Poll
+                                Elvis had Graceland. Will Microsoft have Gatesland?
+                            
+Microsoft drops Office 365 for biz. Now it's just Microsoft 365. Word
+                                All Redmond's major business offerings have become The One
+                            
+Microsoft scoops Search UI out from the gaping black maw of Cortana
+                                Hmmm. Looks familiar…
+                            
+Microsoft Office 365 Exchange issues for users across Europe
+Updated
+                                Expect problems and delays
+                            
+Wizarding World of Harry Potter awaits Microsoft Office exam winners
+                                Excel Exumai!
+                            
+Microsoft pals up with partners for threat-hunting
+                                Bitdefender integration with Windows Defender ATP in preview; Lookout, Ziften soon
+                            
+Whitepapers
+Optimize Human Resources and Retain Top Talent
+                    How to build stronger relationships and boost sales by extending Enterprise Content Management and Salesforce.
+                
+Modern Storage Strategies for SQL Server
+                    The volume of data retained and accessed by today’s organizations is exploding at an unprecedented rate.
+                
+Preparing for the General Data Protection Regulation
+                    For most organizations, the implications of GDPR are both significant and far-reaching.
+                
+IBM Optimizes Multicloud Strategies for Enterprise Digital Transformation
+                    IDC analyzes how the use of a supply chain management (SCM) approach to optimizing multi-cloud architectures, can simplify and streamline operations.
+                
+Sponsored links
+Need compute capacity quickly? Learn how to burst applications to the cloud without big data moves. Download ebook.
+Protect your business from Ransomware with Mimecast
+Talk to a Mimecast Email Archiving Specialist today
+The GDPR deadline is coming. Get your Mimecast GDPR Preparedness Kit
+Download Mimecast's report of ESRA tests
+Get The Register's Headlines in your inbox daily - quick signup!
+About us
+Who we are
+Under the hood
+Contact us
+Advertise with us
+More content
+Week’s headlines
+Top 20 stories
+Alerts
+Whitepapers
+Situation Publishing
+The Next Platform
+Continuous Lifecycle London
+M-cubed
+Webinars
+The Register - Independent news and views for the tech community. Part of Situation Publishing
+Sign up to our Newsletters
+Join our daily or weekly newsletters, subscribe to a specific section or set News alerts
+Subscribe
+Biting the hand that feeds IT © 1998–2017
+Cookies
+Privacy
+Ts&Cs

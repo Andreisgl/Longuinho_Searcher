@@ -1,0 +1,65 @@
+ [MediaWiki-announce] Release candidate MediaWiki 1.13.0rc2
+   
+[MediaWiki-announce] Release candidate MediaWiki 1.13.0rc2
+Tim Starling
+tstarling at wikimedia.org
+       
+Mon Aug 11 04:56:35 UTC 2008
+Next message: [MediaWiki-announce] MediaWiki 1.13.0 released
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+A second release candidate for MediaWiki 1.13 is now available. Please
+try it
+out and tell us if it works for you. This is a beta release and should
+be used with care.
+Selected changes since MediaWiki 1.13.0rc1:
+* Removed $wgForwardSearchUrl
+* Added magic word __STATICREDIRECT__ to suppress the redirect fixer
+* Fixed bugs 14907, 14966, 14987, 13376, 14904, 15035 and 14944.
+Selected changes since MediaWiki 1.12.0:
+* New special pages: FileDuplicateSearch, ListGroupRights
+* Special:UserRights and Special:SpecialPages have been redesigned
+* More options on Special:Recentchangeslinked and Special:WhatLinksHere
+* New parser functions: PAGESINCATEGORY, PAGESIZE
+* Can hide categories with __HIDDENCAT__
+* Friendlier behaviour for users who click a red link but can't edit
+* Image redirects are now enabled by default
+* Drop-down AJAX search suggestions ($wgEnableMWSuggest)
+* Search results show image thumbnails
+* The search box in the MonoBook sidebar can be moved up by editing
+[[MediaWiki:Sidebar]]
+* Double redirects created by a page move can be fixed automatically
+Full release notes:
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_13_0RC2/phase3/RELEASE-NOTES
+Download:
+http://download.wikimedia.org/mediawiki/1.13/mediawiki-1.13.0rc2.tar.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.13/mediawiki-1.13.0rc2.tar.gz.sig
+Public keys:
+https://secure.wikimedia.org/keys.html
+SHA-1 checksums:
+20fa379f70f85b3f2bd72cb1d7eb06dd4cbd2846  mediawiki-1.13.0rc2.tar.gz
+MD-5 checksums:
+82c24570ace0a90c4192b9225b3b019f  mediawiki-1.13.0rc2.tar.gz
+- --
+Tim Starling
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.6 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+iD8DBQFIn8aDdWgrCOij/sQRAueAAJsEO+UrhY7W7+wjM/TN125R3pUp0QCfUon2
+jUoK8hqfZ0sIXtf/4G9cA2Q=
+=roc2
+-----END PGP SIGNATURE-----
+Next message: [MediaWiki-announce] MediaWiki 1.13.0 released
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+More information about the MediaWiki-announce
+mailing list

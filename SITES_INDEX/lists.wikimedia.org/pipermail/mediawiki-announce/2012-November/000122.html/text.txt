@@ -1,0 +1,396 @@
+[MediaWiki-announce] MediaWiki security release: 1.20.1,1.19.3 and 1.18.6 - MediaWiki-announce - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+                            2023
+                        
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2022
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2021
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2020
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2019
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2018
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2017
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2016
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2015
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2014
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2013
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2012
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2011
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2010
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2009
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2008
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2007
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2006
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2005
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2004
+                        
+December
+            List overview
+ Download
+thread
+[MediaWiki-announce] MediaWiki security release: 1.20.1,1.19.3 and 1.18.6
+Chris Steipp
+                30 Nov
+                
+                    2012
+                
+            
+                30 Nov
+                
+                '12
+                
+            
+9:30 a.m.
+ 
+I would like to announce the release of MediaWiki 1.20.1, 1.19.3 and
+1.18.6. These releases fix 3 security related bugs that could affect
+users of MediaWiki. Download links are given at the end of this email
+. Please note that support for the MediaWiki 1.18  branch ends this
+month.
+* During an internal review, it was discovered that MediaWiki core is
+vulnerable to session fixation attacks. Successful exploitation could
+allow an attacker to compromise another user's account. This issues
+has been assigned CVE-2012-5391.  A similar vulnerability was also
+identified in the CentralAuth Extension, and assigned CVE-2012-5395.
+<https://bugzilla.wikimedia.org/show_bug.cgi?id=40995>
+<https://bugzilla.wikimedia.org/show_bug.cgi?id=40962>
+* Wikipedia user PleaseStand discovered that a new API feature in
+MediaWiki 1.20 allowed for HTML code to be injected into the
+"editfont" option. Since this option only affects the current user,
+exploitation for XSS is difficult. However, users of MediaWiki 1.20
+are encouraged to upgrade.
+<https://bugzilla.wikimedia.org/show_bug.cgi?id=42202>
+* Wikipedia user PleaseStand discovered that a PCRE backtrack limit
+could easily be exceeded, causing recent changes and history pages to
+fail to display. Since these pages are often used for fighting spam
+and vandalism, public wikis are encouraged to update.
+<https://bugzilla.wikimedia.org/show_bug.cgi?id=41400>
+Full release notes for 1.20.1:
+<https://www.mediawiki.org/wiki/Release_notes/1.20>
+Full release notes for 1.19.3:
+<https://www.mediawiki.org/wiki/Release_notes/1.19>
+Full release notes for 1.18.6:
+<https://www.mediawiki.org/wiki/Release_notes/1.18>
+For information about how to upgrade, see
+<https://www.mediawiki.org/wiki/Manual:Upgrading>
+**********************************************************************
+   1.20.1
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.20/mediawiki-1.20.1.tar.gz
+Patch to previous version (1.20.0), without interface text:
+http://download.wikimedia.org/mediawiki/1.20/mediawiki-1.20.1.patch.gz
+Interface text changes:
+http://download.wikimedia.org/mediawiki/1.20/mediawiki-i18n-1.20.1.patch.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.20/mediawiki-1.20.1.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.20/mediawiki-1.20.1.patch.gz.sig
+http://download.wikimedia.org/mediawiki/1.20/mediawiki-i18n-1.20.1.patch.gz…
+Public keys:
+https://secure.wikimedia.org/keys.html
+**********************************************************************
+   1.19.3
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.19/mediawiki-1.19.3.tar.gz
+Patch to previous version (1.19.2), without interface text:
+http://download.wikimedia.org/mediawiki/1.19/mediawiki-1.19.3.patch.gz
+Interface text changes:
+http://download.wikimedia.org/mediawiki/1.19/mediawiki-i18n-1.19.3.patch.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.19/mediawiki-1.19.3.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.19/mediawiki-1.19.3.patch.gz.sig
+http://download.wikimedia.org/mediawiki/1.19/mediawiki-i18n-1.19.3.patch.gz…
+Public keys:
+https://secure.wikimedia.org/keys.html
+**********************************************************************
+   1.18.6
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.18/mediawiki-1.18.6.tar.gz
+Patch to previous version (1.18.5):
+http://download.wikimedia.org/mediawiki/1.18/mediawiki-1.18.6.patch.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.18/mediawiki-1.18.6.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.18/mediawiki-1.18.6.patch.gz.sig
+Public keys:
+https://secure.wikimedia.org/keys.html
+**********************************************************************
+   Extension:CentralAuth
+**********************************************************************
+Information and Download:
+http://www.mediawiki.org/wiki/Extension:CentralAuth
+ 0
+ 0
+            Reply
+        
+Back to the thread
+            Back to the list
+        
+ 
+            Powered by HyperKitty version 1.3.4.
+        

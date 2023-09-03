@@ -1,0 +1,8 @@
+https://gerrit.wikimedia.org/r/gitweb?p=mediawiki%2Fcore.git&a=blob&f=RELEASE-
+https://www.mediawiki.org/wiki/Release_notes/1.17
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-1.17.4.tar.gz
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-1.17.4.patch.gz
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-1.17.4.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-1.17.4.patch.gz.sig
+https://secure.wikimedia.org/keys.html
+http://hyperkitty.readthedocs.org

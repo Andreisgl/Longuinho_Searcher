@@ -1,0 +1,412 @@
+#mediawiki IRC support channel available on libera.chat - MediaWiki-l - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+            List overview
+       All Threads
+ Download
+newer
+#mediawiki IRC support channel available on libera.chat
+older
+Abstract Schema: An Update
+Fwd: Call for proposals - Looking...
+ 
+First Post
+Replies
+Stats
+Threads by month 
+----- 2023 -----
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2022 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2021 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2020 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2019 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2018 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2017 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2016 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2015 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2014 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2013 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2012 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2011 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2010 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2009 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2008 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2007 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2006 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2005 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2004 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2003 -----
+December
+November
+October
+ 
+Kunal Mehta
+                21 May
+                
+                    2021
+                
+            
+                21 May
+                
+                '21
+                
+            
+1:20 a.m.
+ 
+TL;DR:
+* The #mediawiki IRC support channel is moving from Freenode to Libera.Chat.
+* Register an account on Libera.Chat and join us there!
+There has been a lot of activity over the last 2-3 days related to
+staffing changes on the Freenode IRC network [0]. The Wikimedia IRC
+Group Contacts (GCs) [1] evaluated the situation and decided that
+moving the Wikimedia IRC channels from Freenode to the brand new
+Libera.Chat IRC network [2] would be the best course of action [3].
+So, we are moving!
+A new #mediawiki channel has been created on irc.libera.chat for
+handling MediaWiki support requests and general discussion. The old 
+channel on Freenode still exists and will be maintained at least until 
+we can get all the bots moved, our documentation updated on 
+mediawiki.org, and we see more folks on the Libera channel than the 
+Freenode one. We have a bot bridging both channels so messages to the 
+channel in either IRC network will be seen on the other network.
+There is a new subpage on Meta-Wiki [4] for information on how to create 
+a new account for yourself on Libera.Chat and other related information.
+There is also a tracking task [5] that you can look at to see various
+activities that the community hopes to take action on to complete the
+migration.
+One last thing: The #wmhack Freenode channel is bridged to
+#wikimedia-hackathon on Libera.Chat. The new channel name will make it
+easier for the GCs to help manage spam and other issues that come up
+occasionally on IRC. Don't miss the fun of our 2021 virtual hackathon
+from Friday, May 21st to Sunday, May 23rd! [6]
+[0]: https://www.kline.sh/
+[1]: https://meta.wikimedia.org/wiki/IRC/Group_Contacts
+[2]: https://libera.chat/
+[3]: https://meta.wikimedia.org/w/index.php?diff=21476411
+[4]: https://meta.wikimedia.org/wiki/IRC/Migrating_to_Libera_Chat
+[5]: https://phabricator.wikimedia.org/T283247
+[6]: https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2021
+-- Legoktm
+    
+ 0
+ 0
+            Reply
+        
+Show replies by date
+Kunal Mehta
+                26 May
+                
+            
+                26 May
+                
+            
+5:41 a.m.
+ 
+Hi,
+On 5/20/21 3:20 PM, Kunal Mehta wrote:
+...  A new #mediawiki channel has been created on
+irc.libera.chat for
+ handling MediaWiki support requests and general discussion. The old 
+ channel on Freenode still exists and will be maintained at least until 
+ we can get all the bots moved, our documentation updated on 
+ mediawiki.org, and we see more folks on the Libera channel than the 
+ Freenode one. We have a bot bridging both channels so messages to the 
+ channel in either IRC network will be seen on the other network. 
+Supposed "draft" changes to Freenode's policies and recent actions by 
+their staff have pushed us to close our channels their and leave their 
+network entirely.
+We still need help with updating all references to point to the Libera 
+Chat channels instead - this work is being tracked as 
+<https://phabricator.wikimedia.org/T283247>.
+And if you need help migrating, please see 
+<https://meta.wikimedia.org/wiki/IRC/Migrating_to_Libera_Chat> or ask on 
+this list.
+-- Legoktm
+    
+ 0
+ 0
+            Reply
+        
+830
+                days inactive
+            
+836
+                days old
+            
+ 
+            mediawiki-l@lists.wikimedia.org
+        
+        Manage subscription
+        1 comments
+    
+        1 participants
+    
+Add to favorites
+Remove from favorites
+tags (0)
+        
+    
+participants (1)
+        
+Kunal Mehta
+ 
+            Powered by HyperKitty version 1.3.4.
+        

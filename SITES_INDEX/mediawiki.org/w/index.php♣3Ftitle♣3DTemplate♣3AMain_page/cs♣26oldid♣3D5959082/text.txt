@@ -1,0 +1,183 @@
+Template:Main page/cs - MediaWiki
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageGet MediaWikiGet extensionsTech blogContribute
+Support
+User helpFAQTechnical manualSupport deskCommunication
+Development
+Developer portalCode statistics
+MediaWiki.org
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+In other languages
+Add links
+Search
+Search
+ EnglishCreate accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Template:Main page/cs
+TemplateDiscussion
+čeština
+ReadTranslateView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadTranslateView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+Print/export
+Download as PDFPrintable version
+From mediawiki.org
+Revision as of 13:32, 2 June 2023 by ENeRZet (talk | contribs)(diff) ← Older revision | Latest revision (diff) | Newer revision → (diff)
+MediaWiki je základem pro dokumentaci a spolupráci, kterou vám přináší živá komunita.
+Fotografie účastníků Wikimedia Hackathon 2023 
+Software MediaWiki používají desetitisíce webů a tisíce společností a organizací.
+Běží na něm Wikipedie i tento web.
+MediaWiki vám pomáhá sbírat a organizovat vědomosti a zpřístupnit je dalším lidem.
+Je to silný, mnohojazyčný nástroj, svobodný a otevřený, rozšiřitelný, přizpůsobitelný, spolehlivý a bezplatný.
+Získejte více informací a zjistěte, zda je MediaWiki i pro vás to pravé.
+Nastavení a spuštění MediaWiki
+Stažení, instalace a nastavení MediaWiki
+Přidání možností instalací rozšíření
+Máte problém? Podívejte se na stránku Chyby a jejich průvodní znaky a na FAQ – časté dotazy
+Nemáte vlastní server? Podívejte se na stránku Hostingové služby
+Získejte pomoc či radu od profesionálních vývojářů 
+Zapojte se mezi uživatele MediaWiki
+Upravujte a používejte stránky MediaWiki
+Naučte se zde orientovat 
+Naučte se, jak upravit stránku 
+Více informací o čtení, úpravách a osobním přizpůsobení 
+Vývoj a rozšíření kódu
+Čtěte dokumentaci pro vývojáře MediaWiki
+Navštivte Wikimedia Developer Portal
+Kde hledat pomoc a jak přispět
+Nedaří se vám nalézt odpověď na váš problém s MediaWiki? Zeptejte se na stránce podpory!
+Zapojte se jako překladatel, vývojář, autor stránek dokumentace, tester, technický vyslanec nebo vývojář
+Pište, pokud se váš software nechová tak, jak by měl nebo když chcete navrhnout nějakou funkcionalitu 
+Novinky
+2023-06-30
+ Je dostupná MediaWiki 1.40.0.
+ Jsou k dispozici bezpečnostní vydání MediaWiki 1.35.11, 1.38.7 a 1.39.4.
+ Končí podpora verzím MediaWiki 1.38.x.
+2023-08-16 až 2023-08-19
+ Wikimania 2023 konference v Singapuru.
+2023-08-15 to 2023-08-19
+ Chaos Communication Camp near Berlin, Germany (Europe).
+2023-05-19 až 2023-05-21
+ Wikimedia Hackathon v Aténách, Řecko (Evropa).
+2023-03-11
+ MediaWiki je nyní v Mastodonu! Pro aktualizace nás sledujte na @mediawiki@wikis.world 
+ Další novinky
+Languages:Afrikaans
+Bahasa Indonesia
+Bahasa Melayu
+Basa Bali
+Boarisch
+Bân-lâm-gú
+Deutsch
+Deutsch (Sie-Form)
+English
+Gaeilge
+Jawa
+Lingua Franca Nova
+Mirandés
+Nederlands
+Oromoo
+Soomaaliga
+Sunda
+Tagalog
+Taqbaylit
+Tiếng Việt
+Türkçe
+asturianu
+bosanski
+català
+dansk
+español
+español (formal)
+eʋegbe
+français
+hrvatski
+italiano
+lietuvių
+magyar
+norsk bokmål
+oʻzbekcha / ўзбекча
+polski
+português
+português do Brasil
+română
+sardu
+shqip
+slovenčina
+slovenščina
+suomi
+svenska
+vèneto
+čeština
+беларуская
+беларуская (тарашкевіца)
+български
+кыргызча
+русский
+српски / srpski
+українська
+қазақша
+հայերեն
+עברית
+اردو
+العربية
+تۆرکجه
+روچ کپتین بلوچی
+سنڌي
+فارسی
+مصرى
+پښتو
+کوردی
+کٲشُر
+अंगिका
+अवधी
+कॉशुर / کٲشُر
+नेपाली
+भोजपुरी
+मगही
+हिन्दी
+অসমীয়া
+বাংলা
+ગુજરાતી
+ಕನ್ನಡ
+සිංහල
+ไทย
+ລາວ
+ပအိုဝ်ႏဘာႏသာႏ
+ဘာသာ မန်
+မြန်မာဘာသာ
+中文
+文言
+日本語
+粵語
+ꠍꠤꠟꠐꠤ
+한국어
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Template:Main_page/cs&oldid=5959082"
+Category: Main page templates/cs
+ This page was last edited on 2 June 2023, at 13:32.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About MediaWiki.org
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

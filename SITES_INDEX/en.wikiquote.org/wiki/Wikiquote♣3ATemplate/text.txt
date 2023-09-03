@@ -1,0 +1,312 @@
+Wikiquote:Templates - Wikiquote
+Wikiquote:Templates
+From Wikiquote
+(Redirected from Wikiquote:Template)
+Jump to navigation
+Jump to search
+ShortcutWQ:TEMP
+There have been various changes in the Wikimedia layouts and the software used. The suggestions and recommendations on this page are attempts to present important options for creating, formatting, and adding to Wikiquote pages. Some other options that previously worked no longer do, or are not as efficient as these methods.
+Contents
+1 Links
+1.1 Linking to Wikipedia
+1.2 Linking to Wikiquote from other Wikimedia sites
+1.3 Old link styles
+1.4 New categories option
+2 Formatting guidelines
+2.1 Quotes by people
+2.2 Films
+2.3 TV shows
+2.4 Quotes from literary works
+2.5 Proverbs
+2.6 Themes
+2.7 Compact alphabetical table of contents
+2.8 Redirect pages
+3 Additional formatting options
+4 Notes
+5 Wikiquote maintenance
+Links
+There are two standard forms for linking from one Wikimedia project to another. The basic form uses standard wiki internal link syntax, and can be used anywhere. The second is a simplified templated format that is used specifically to connect articles in one project to their corresponding articles in other projects.
+Linking to Wikipedia
+The basic format for making links to Wikipedia from Wikiquote or another Wikimedia project in the same language is:
+[[w:Name or subject|Name or subject]]
+or, if the link name is identical to the link target, simply:
+[[w:Name or subject|]]
+(Note the vertical bar in these links.) This should always be used to make a link from a reference in the text of a Wikiquote article, a policy page, or a talk page to the appropriate Wikipedia article. (For instance, the first occurrence of the subject of a Wikiquote article, which is rendered bold, should include one of these links to the corresponding subject on Wikipedia.)
+The preferred format for making these links to the English Wikipedia from Wikimedia projects in languages other than English is:
+[[w:en:Name or subject|Name or subject]]
+A list of the prefixes used to link to other projects and between languages can be found at List of Wikimedia wikis under "Special pages" in the left-margin "toolbox".
+The second format, typically used only in the "External links" section of Wikiquote articles, is a template or "box" link with the simple syntax:
+{{wikipedia}}
+Wikipedia
+Wikipedia has an article about:
+William Shakespeare
+This generates a small box on the right-side of the article with a link to the corresponding article of the same name. For example, the Wikiquote article on William Shakespeare uses {{wikipedia}} to link to its Wikipedia article, as shown on the right.
+If the Wikipedia article has a different name, you can use the same template with the Wikipedia article's title as an option:
+{{wikipedia|WP article title}}
+Wikipedia
+Wikipedia has an article about:
+Firefly (TV series)
+For example, the Wikiquote article on the TV series Firefly uses {{wikipedia|Firefly (TV series)}} to link to Wikipedia's Firefly (TV series) article, as shown on the right.
+Linking to Wikiquote from other Wikimedia sites
+The same two formats can be used to create a link to Wikiquote from a Wikipedia project in the same language. The first format uses a "q:" prefix to identify Wikiquote:
+[[q:Name of target|displayed name of link]]
+These links can be used anywhere, but should include some indication in the displayed name that they link to Wikiquote, e.g., "Wikiquote's article on Kate Bush". Note that Wikipedia and other projects do not have the same practice of linking to Wikiquote in the introductory paragraphs that Wikiquote does for Wikipedia.
+The preferred format for making these links to the English Wikiquote from Wikimedia projects in languages other than English is:
+[[q:en:Name or subject|Name or subject]]
+A list of the prefixes used to link to other projects and between languages can be found at List of Wikimedia wikis under "Special pages" in the left-margin "toolbox".
+The second "box link" format for linking to Wikiquote from Wikipedia or other Wikimedia projects is:
+{{wikiquote}}
+As with the Wikipedia box link above, if the Wikipedia article's title is different from the Wikiquote title, add the Wikiquote title to the template link:
+{{wikiquote|WQ article title}}
+Old link styles
+Links in Wikiquote that use the old style [[en:Name or Subject]] now merely redirect to places within the English Wikiquote, or have become non-active if the page being referred to has the same title as the link.
+Links formatted as [[wikipedia:en:Name or Subject|Name or Subject]] still work, but they are not the preferred format.
+In the course of doing other edits, or in dedicated transformation sessions, these links should be changed to the new format so they will function properly.
+New categories option
+The new Special:Categories option is an alternative to a manually created list to group articles by their subject matter.
+In the past, "categories" have not been used extensively here; we are still in the process of deciding upon the names that should be used. On Wikipedia they are used on all pages, and they clearly provide many advantages, which may make some of the pages for manually created lists obsolete.  
+Many pages still exist within Wikiquote with obsolete and now erroneous links to Wikipedia in the "en:SUBJECT" format. This now only makes a link to a Wikipedia page to generate a new article there. These obsolete links should be changed, wherever they are encountered, into the "w:SUBJECT" format.
+Please note that {{lynx}} for placing a palette of links at the bottom of pages is now deprecated.
+Formatting guidelines
+These are suggestions for the formatting of pages of different types. In general, on most pages sourced quotes should be placed in sections before quotes which are merely attributed. Within sections quotations should be arranged in either chronological or sequential order, if possible, or alphabetical order if not. 
+Quotes by people
+NOTE: This template is now available for Inputbox use at Wikiquote:Templates/People.
+ 
+'''[[w:Name|Full Name]]''' (Date of Birth - Date of Death) followed by 
+a simple brief note on a person's occupations and social roles. In this 
+and other commentary locations one can optionally provide pertinent links
+to other locations within Wikiquote, the Wikipedia, or other Wikimedia projects.
+{{people-stub}} (<--- use if only providing a few quotes to start)
+== Quotes ==  
+<!-- sorted chronologically -->
+* English Quotation
+** Source of the quote. (with a date of source, when known)
+** Optional clarifications, notes on context, etc.
+* ''Non-English quote.''
+** Translation: English Translation
+** Source: Chapter xx, sentence xx or Act xx, Scene xx.
+** Optional clarifications, notes on context, etc.
+=== Quotes from specific Novels/Plays/Works (date published or created)===
+''[[Book/Play1]]'' ([http://- Book/Play1])
+''[[Book/Play2]]'' ([http://- Book/Play2])
+== Quotes about person/work ==
+<!-- sorted alphabetically by author -->
+== External links== 
+{{Wikipedia}} (optional)
+[http://(address) Site description]
+[http://(address) Site description 2]
+{{DEFAULTSORT:(Last name, First name)}}
+[[Category:(Occupation)]]
+[[Category:(Nationality)]]
+[[Category:Living people]] (optional, only if the person is living)
+Films
+NOTE: This template is now available for Inputbox use at Wikiquote:Templates/Films.
+{{italic title}}
+'''''[[w:Title|Title]]''''' is a [[w:YEAR in film|YEAR film]] about (...quick description...).
+:''Directed by [[w:Film director|director]]. Written by [[w:Screenwriter|writer]].'' <!-- if present at wikiquote use [[name]] instead of [[w:name|]] -->
+<center>'''Tag line of the movie'''  <small>([[#Taglines|taglines]])</small></center>
+{{film-stub}} <!-- use only if providing a few quotes to start -->
+== Character1 == 
+* (...quote...)
+* (...quote...)
+== Character2 ==
+* (...quote...)
+* (...quote...)
+== Other ==
+* '''Character4''': (...quote...)
+* '''Character5''': (...quote...)
+== Dialogue ==
+:'''Character2''': (...quote...)
+:'''Character4''': (...quote...)
+:'''Character2''': (...quote...)
+<hr width="50%"/>
+:'''Character1''': (...quote...)
+:'''Character2''': (...quote...)
+:'''Character1''': (...quote...)
+:'''Character3''': (...quote...)
+== Taglines ==
+* (Tag line of the movie)
+* (Tag line of the movie2)
+== About ==
+* (...quote...)
+** [[w:Author1|Author1]], source.
+* (...quote...)
+** [[w:Author2|Author2]], source.
+== Cast ==
+* [[w:Actor1|Actor1]] — Character1
+* [[w:Actor2|Actor2]] — Character2
+* [[w:Actor3|Actor3]] — Character3
+* …
+== External links ==
+{{wikipedia}} <!-- add "|WIKIPEDIA ARTICLE NAME" after "wikipedia" if this article's name doesn't match Wikipedia's -->
+* {{imdb title|id=IMDB_ID|title=MOVIE TITLE}} <!-- see [[Template:Imdb title]] on how to get IMDB ID -->
+* {{rotten-tomatoes|id=RT_ID|title=MOVIE TITLE}} <!-- see [[Template talk:Rotten-tomatoes]] on how to get RT ID -->
+* {{amg movie|id=AMG_ID|title=MOVIE TITLE}} <!-- see [[Template talk:Amg movie]] on how to get RT ID -->
+* {{metacritic film|id=MC_ID|title=MOVIE TITLE}} <!-- see [[Template talk:Metacritic film]] on how to get MC ID -->
+* {{Mojo title|id=MOJO_ID|title=MOVIE TITLE}} <!-- see [[Template talk:Mojo title]] on how to get MOJO ID -->
+* {{official|http://site.com}}
+[[Category:(DECADEs films)]] <!-- Or for films released after 1959, use [[Category:(YEAR films)]] -->
+[[Category:(DIRECTOR films)]]
+[[Category:(COUNTRY films)]]
+[[Category:(GENRE films)]]
+  
+TV shows
+See Wikiquote:Templates/TV shows.
+NOTE: This template can be used with Inputbox.
+{{italic title}}
+'''''[[w:Show Title|Show Title]]''''' (startyear–endyear) followed by a brief explanation of the show's premise and notable facts about it. Don't go overboard, though; those wanting more information can always follow the Wikipedia link provided in the first sentence. In this and other commentary locations one can optionally provide pertinent links to other locations within Wikiquote, Wikipedia, or other Wikimedia projects.
+__TOC__
+<!-- Replace the above line by __NOTOC__ if you want to create a custom table of contents and the following conditions hold:
+1. The show is no longer active.
+2. There is a large number of episodes (over 50). -->
+== Season n ==
+=== ''Episode Name'' [n.m] ===
+:''[This is an explanatory note; it gives some context, using a full English sentence.]''
+:'''[[w:Character|Character]]''': This is the first time I show up in this episode.
+:'''Minor Character Without a Wikipedia Page''': I'm here, too.
+:'''Character''': Second time I show up, I don't need a link to Wikipedia.
+:'''Unnamed Character''': My attribution uses a brief description with title-casing.
+<hr width="50%"/> <!-- Use this to separate quotes within the same episode. -->
+:'''Character''': This works well for a long monologue, about life, the universe and everything, too.
+=== ''Another Episode'' [n.m+1] ===
+:'''[[w:Character|Character]]''': In this episode, my first appearance again calls for a Wikipedia link.
+== Unidentified episode ==
+:'''Minor Character''': ''[meekly]'' Nobody remembers where this quote is from.
+== Cast ==
+<!-- Only enter the main cast, not recurring or guest stars -->
+* [[w:actor1|actor1]] - character1
+* [[w:actor2|actor2]] - character2
+* [[w:actor3|actor3]] - character3
+* ...
+== External links ==
+{{wikipedia}} <!-- optional -->
+* {{imdb title|IMDB_ID_number|Show Title}}
+* {{Tv.com show|TV.COM_ID_number|Show Title}}
+* [http://url-to-resource Site description] <!-- The official show website would be a good choice here. -->
+* [http://url-to-resource Site description 2]
+[[Category:Television shows|*]]
+ 
+Quotes from literary works
+NOTE: This template is now available for Inputbox use at Wikiquote:Templates/Literary works.
+ 
+'''''[[w:Name of Book or Play|]]''''' (year published or created) ''by [[Author]]'' with short discription.
+ 
+* "Quote1."
+** Source: Chapter xx, sentence xx or Act xx, Scene xx.
+** Notes on context, paraphrasing, etc
+* "Quote2."
+** Source: Chapter xx, sentence xx or Act xx, Scene xx.<
+** Paraphrased: paraphrasing (where it is not clear)
+** Notes: context, etc
+* ''"Non-English quote."''
+** English Translation
+** Source (optionally with information on Chapter xx, sentence xx or Act xx, Scene xx.)
+** Notes on context, paraphrasing, etc
+== External links ==
+{{wikipedia}}
+{{wikisource}}
+* [http://sources.wikipedia.org/wiki/title Wikisource - Name of Book or Play]
+* [http://internetaddress.org/wiki/internet_address Site description]
+[[Category:Literary works|TITLE, The]]
+   
+Proverbs
+NOTE: This template is now available for Inputbox use at Wikiquote:Templates/Proverbs.
+* Proverb.
+** Transliteration: (if in non-roman script)
+** English equivalent: ''or'' English translation:
+** Source citation
+** Alternatives: ''or'' Variants:
+*** Alternative1
+*** Alternative2
+** Notes (context, clarifications where needed, etc.)
+[[Category:Proverbs]]
+  
+Themes
+NOTE: This template is now available for InputBox use at Wikiquote:Templates/Themes.
+ 
+'''[[w:Theme|Theme]]''' is (''a short description of the theme''). 
+<!-- NOTE: Copying an abbreviated version of the Wikipedia article's intro is recommended. 
+Be sure to remove redlinks or point them to Wikipedia articles, though. -->
+== Quotes ==
+<!-- alphabetical list by author -->
+* Quote 1.
+** [[Author A]], source
+* Quote 2.
+** [[Author B]], ''[[Name of Book or Play]]'' (year), place within source
+* ''Foreign language quote.''
+** Translation: English translation
+** Author and source
+== Attributed ==
+<!-- alphabetical list by author -->
+* Second-hand quote.
+** [[Author]], quoted by Attributor and source 
+[[Category:Themes]]
+  
+Compact alphabetical table of contents
+Include this for pages with a large number of quotes such as English proverbs.
+ 
+__NOTOC__
+[[#A|A]] [[#B|B]] [[#C|C]] [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] 
+[[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] 
+[[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] 
+[[#Y|Y]] [[#Z|Z]]
+  
+Redirect pages
+NOTE: This template should be used by InputBox use at Wikiquote:Templates/Redirect
+Additional formatting options
+In addition to the formatting used in the above templates there are optional additions that some people sometimes use:
+After the essential information in the Header, further very short comments can be provided, and links to related articles on individuals or subjects (see George Washington).
+Within the notes about a quotations or article:
+Link to Wikipedia or external sources with pertinent information relating to a quote or article.
+Create links to Wikipedia for any YEARS or DATES, to provide a reference to other events or subjects related to such designations of time.
+See also Template examples.
+Notes
+The following format for people articles is obsolete and not recommended:
+ == [[w:Name Surname|]] (born 19XX) or (XXXX-XXXX) ==
+ ''Occupational information''
+ === Verified ===
+ * blah blah blah
+Category == Verified == is obsolete. Please use == Sourced == instead.
+Do not include the == Sourced == heading if there are no sourced quotes (i.e., quotes where the source is identified). Similarly there is no need for the == Attributed == heading if there are no attributed quotes.
+Only include transliterations and translations if the quote is not in English.
+Put non-English quotations in italics (but not the translations).
+Only include Notes where applicable.
+Order dated quotes and dated sections chronologically.
+Order undated quotes alphabetically, especially if there are a large number of them, as this helps to prevent duplication.
+Put quotes from autobiographies on the person's page, not on a separate one for the book.
+Wikiquote maintenance
+See Category:Wikiquote maintenance.
+(e.g., Category:Film stubs)
+Retrieved from "https://en.wikiquote.org/w/index.php?title=Wikiquote:Templates&oldid=2873145"
+Categories: WikiquotePolicies needing revision
+Navigation menu
+Personal tools
+Not logged inTalkContributionsCreate accountLog in
+Namespaces
+Project pageDiscussion
+English
+Views
+ReadView sourceView history
+More
+Search
+Navigation
+Main pageCommunity portalVillage pumpRecent changesRandom pageHelpDonateContact Wikiquote
+Wikiquote links
+PeopleLiterary worksProverbsFilmsTV showsThemesCategories
+Tools
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other languages
+العربيةঅসমীয়াবাংলাEsperantoEspañolעבריתHrvatskiItaliano한국어NorskPolskiPortuguêsРусский中文
+Edit links
+ This page was last edited on 11 October 2020, at 12:34.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikiquote
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

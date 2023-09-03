@@ -1,0 +1,265 @@
+Steward requests/Username changes - Meta
+Steward requests/Username changes
+From Meta, a Wikimedia project coordination wiki
+< Steward requestsThis is an archived version of this page, as edited by RotciW (talk | contribs) at 19:53, 28 August 2023. It may differ significantly from the current version.(diff) ← Older revision | Latest revision (diff) | Newer revision → (diff)
+Jump to navigation
+Jump to search
+← Requests and proposals
+Steward requests  (Username changes)
+latest archive→
+Shortcut: SRUC
+This page hosts requests to stewards and global renamers for a username change across the entire Wikimedia network. Please read the instructions before posting a request.
+This is also the page where the usurpation of inactive accounts can be requested.
+Cross-wiki requests
+CheckUser information
+Global blocks/locks
+Permissions (global)
+Permissions (bot)
+Permissions (other)
+Username changes/usurpation requests
+Miscellaneous requests
+URL blacklisting
+Title/username blacklisting
+Email blacklisting
+Meta-Wiki requests
+CheckUser information
+Deletion
+Permissions
+Requests for help
+Contents
+1 Instructions
+1.1 SUL finalization
+1.2 How to add an entry here
+1.3 Making a request for your own account
+1.4 Private requests
+2 Simple rename requests
+3 Requests involving merges, usurps or other complications
+3.1 Abecesel
+3.2 Saroj Uprety
+3.3 Qwv
+3.4 NMW03
+3.5 Dawnbails
+3.6 KMBDENNISTRIDENT
+3.7 Charmquark314
+3.8 Matr1x-101
+3.9 RotciW
+4 See also
+Instructions
+SUL finalization
+If you are requesting a merge of a global account with one or more unconnected local accounts as part of finalizing your single unified login (SUL) username, please specify which wikis and accounts you want to merge into your global account. These accounts were typically be named "account name~wikiname". Please note that we can only merge a local account into a global account when the global account has no edits on the same wiki as the local account.
+How to add an entry here
+To add an entry, please copy and paste the text below into the appropriate section.
+=== Oldname ===
+{{SRUC
+|status     = <!--don't change this line-->
+|domain     = global
+|Oldname    = 
+|Newname    = 
+|reason     = (your remarks here)
+--~~~~
+}}
+Example
+For global rename requests:
+=== Example ===
+{{SRUC
+|status     = <!--don't change this line-->
+|domain     = global
+|Oldname    = Example
+|Newname    = Foo
+|reason     = your remarks here
+--~~~~
+}}
+Making a request for your own account
+For changing your username on one wiki:
+Please include the following information in your request:
+the old username,
+the new username,
+please sign ~~~~  request with your account  for a simple move (first section), or sign this request with  both the originating and the target accounts  if you are requesting a merge (second section).
+If anything is missing from your request, a steward will request more information. This helps ensure that you are requesting a rename for your own account. Please check before posting your request that the username you want is available.  You can test that by going to the (new) user page and looking into the sidebar. If there is a link to user contributions, the account already exists, or check via Special:CentralAuth.
+Private requests
+Requests that need to be made in private should be sent using this direct wiki-email interface while logged-in.
+Simple rename requests
+If your rename request is simple and does not involve usurpation of an existing account or other SUL issues, you have two options:
+Use the request form at Special:GlobalRenameRequest; or
+Submit the request below in this section.
+Please use this tool to check if the username is taken before filing a request.
+Requests involving merges, usurps or other complications
+Shortcut: USURP
+Please add new requests at the end of the section. Sections should be titled your username and requests should be signed by the requesting user.
+Please note: Per standard procedure, accounts with valid edits are not usurped, and the target account must be notified by renamer at least one month before usurpation. 
+We are sorry to announce that Global User Account Merges are not possible as the UserMerge extension is incompatible with CentralAuth. As such, we will not accept any request to merge user accounts as it is technically impossible at this moment to do so.
+Abecesel
+Status:    On hold
+Wiki: meta.wikimedia.org (stewardry • list 'crats)
+Old Username: Abecesel (talk • edits • logs • cross-wiki-contribs • userpages • CentralAuth • GlobalRenameUser)
+New Username: VanishedUserXXX (talk • edits • logs • cross-wiki-contribs • userpages • similar names • UV • CentralAuth)
+Previous renames: current user, target user. Queue: open req, closed req
+Stewards/Global renamers: usurp user, rename user
+Reason: As soon as I access my account months later, my final decision is to vanish the following accounts as a result of wrong approaches I've seen in the past:
+Abecesel
+AbeceselBot
+Botsal (Special:Diff/23274671)
+Staralfa (Alternative)
+You shouldn't have made wrong allusions to a user who made ~33 thousand very good contributions and never made any devastating changes. --User:Abecesel 14:12, 28 April 2023 (UTC)Reply[reply]
+What illusions have we made? We simply said that the identity of the person making the request could not be guaranteed, that's all, we work according to the policies, for the protection of users and the project and we cannot do favors or exceptions for anyone. We told you to contact T&S to recover the account and you didn't want! If we cannot confirm who is making the requests, we cannot process them, it would have been easier to follow the suggestions rather of making useless arguments. Having said that, I will be looking at the various requests for vanish shortly, thanks for your contributions. --Superpes15 (talk) 16:34, 1 May 2023 (UTC)Reply[reply]
+@Plumbum208, Ternarius, and Yger: First of all, since the user is currently blocked (with also a log of blocks) on svwiki, I'll ping the blocking admin to know if there are some oppositions to the vanish, or if this could be a problem for them. I also want to remind that the vanish is a "courtesy vanish", and not a mandatory procedure or a right.  --Superpes15 (talk) 16:41, 1 May 2023 (UTC)Reply[reply]
+@Plumbum208, Ternarius, and Yger: Hello, I'm sorry to ping you again, but we are waiting for your reply to proceed. Please let us know if you have some concerns about this request for vanish. Thanks :) Superpes15 (talk) 22:52, 11 May 2023 (UTC)Reply[reply]
+I  am not familiar with this type of request, so do not know how to look at this request Yger (talk) 02:12, 12 May 2023 (UTC)Reply[reply]
+@Superpes15 The application has been pending for over a month. Can you treat? Thank you! Neriah - 💬 -  06:30, 22 June 2023 (UTC)Reply[reply]
+I'm so sorry, Superpes15 for this late answer, I must have missed your pings entiredly. We have had a lot of problems with Abecesel in the past, complicated by the fact that the user compleatly refuses to discuss their behaviour. Instead Abecesel has written and mailed complaints to many of Swedish Wikipedia's admins, including me, both on Swedish Wikipedia and here on Meta. It has stopped now, but I have a concern that Abecesel will start again, if they are given a new, not immediately recognizable name. So no, I'm not overly happy about Abcesels request. / Ternarius (talk) 00:39, 11 August 2023 (UTC)Reply[reply]
+I contributed ~33 thousand to the project. Only ~100 of them are on the Swedish Wikipedia and most of these contributions were in answer to discussions about me. The first blocking was because I was using the move tool to create redirects from long names to articles. I used a translation tool because the messages from the discussions on this topic are in Swedish. You could see that I made the same redirect-move contributions to other language Wikipedias. Your second and final block was because I didn't want to archive my message page. At that time, I was contributing to undo vandalism globally using a rollback tool. I wanted to edit my message page on every other language Wikipedia. I explained to you that what I want to do is not to archive, I just want to make a navigation bar, and I gave examples from other Wikipedias. For example, when I want to archive there should be such a link: sv:användardiskussion:Abecesel/diskussionarkiv/2022/a. You can see the example on the Turkish Wikipedia: tr:Kullanıcı_mesaj:Abecesel/mesajarşivi → tr:Kullanıcı_mesaj:Abecesel/mesajarşivi/2022/a. The administrator User:EstrellaSuecia understood what I was saying and we kindly closed the issue. However, another user continued editing my message page. User:Ternarius has been wanting me blocked since the first block. Therefore, despite all my explanations, he accepted a complaint created by the user who edited my message page and he blocked me. I understand and respect the rules of the Swedish Wikipedia. However, these blocks were unnecessary. It should be noted that these blocks were given at a time when Turkey did not want Sweden in NATO. The concern mentioned above is unreasonable because I could always edit Swedish Wikipedia with a different user or IP address, I would never do such a thing. I created this title because I don't want to use my name rights on Wikipedia. --User:Abecesel 11:38, 15 August 2023 (UTC)Reply[reply]
+Saroj Uprety
+Status:    On hold
+Wiki: meta.wikimedia.org (stewardry • list 'crats)
+Old Username: Saroj Uprety (talk • edits • logs • cross-wiki-contribs • userpages • CentralAuth • GlobalRenameUser)
+New Username: Saroj (talk • edits • logs • cross-wiki-contribs • userpages • similar names • UV • CentralAuth)
+Previous renames: current user, target user. Queue: open req, closed req
+Stewards/Global renamers: usurp user, rename user
+Reason: I would like to keep my username short. --Saroj Uprety (talk) 18:46, 28 July 2023 (UTC)Reply[reply]
+ On hold until August 28, 2023. User notified via talk page. --Turkmen talk  20:51, 28 July 2023 (UTC)Reply[reply]
+Qwv
+Status:    On hold
+Wiki: meta.wikimedia.org (stewardry • list 'crats)
+Old Username: Qwv (talk • edits • logs • cross-wiki-contribs • userpages • CentralAuth • GlobalRenameUser)
+New Username: Isla (talk • edits • logs • cross-wiki-contribs • userpages • similar names • UV • CentralAuth)
+Previous renames: current user, target user. Queue: open req, closed req
+Stewards/Global renamers: usurp user, rename user
+Reason: I want a new name the Isla account has no edits
+--Qwv (talk) 10:27, 1 August 2023 (UTC)Reply[reply]
+ On hold until September 1, 2023 —MdsShakil (talk) 13:38, 1 August 2023 (UTC)Reply[reply]
+(EN:User talk:Isla#Request for usurpation) · מקף Hyphen ෴ ·  23:10, 1 August 2023 (UTC)Reply[reply]
+NMW03
+Status:    In progress
+Wiki: meta.wikimedia.org (stewardry • list 'crats)
+Old Username: NMW03 (talk • edits • logs • cross-wiki-contribs • userpages • CentralAuth • GlobalRenameUser)
+New Username: Nemoralis (talk • edits • logs • cross-wiki-contribs • userpages • similar names • UV • CentralAuth)
+Previous renames: current user, target user. Queue: open req, closed req
+Stewards/Global renamers: usurp user, rename user
+Reason: I would like to request usurpation of this username. User has a total of 5 edits (3 on commons, 2 on dewiki) in the same day (12 years ago).NMW03 (talk) 10:02, 7 August 2023 (UTC)Reply[reply]
+General note: Previous request for another name, Steward requests/Username changes/2023-08#NMW03.Renamer note: A note was left on the user's talk pages: 1, 2. On hold until September 8, 2023. · מקף Hyphen ෴ ·  11:54, 7 August 2023 (UTC)Reply[reply]
+מקף, השם המבוקש העלה 2 תמונות, ששתיהם משמשות בלא מעט ויקים, ויש לו עריכות חיות ב- dewiki. אמנם רק אחת במרחב הערכים, אבל לדעתי לא ניתן לדרוס את שם המשתמש בגלל התמונות בויקישיתוף. לשיקולך. Neriah - 💬 -  12:03, 7 August 2023 (UTC)Reply[reply]
+Well, it's actually just one picture in two versions. 1, 2.I also considered the very old CrossActivity. · מקף Hyphen ෴ ·  12:08, 7 August 2023 (UTC)Reply[reply]
+I recommend waiting for another friend's opinion. Neriah - 💬 -  12:48, 7 August 2023 (UTC)Reply[reply]
+Dawnbails
+Status:    On hold
+Wiki: meta.wikimedia.org (stewardry • list 'crats)
+Old Username: Dawnbails (talk • edits • logs • cross-wiki-contribs • userpages • CentralAuth • GlobalRenameUser)
+New Username: Darling (talk • edits • logs • cross-wiki-contribs • userpages • similar names • UV • CentralAuth)
+Previous renames: current user, target user. Queue: open req, closed req
+Stewards/Global renamers: usurp user, rename user
+Reason: Both "Dawnbails" and "Darling" are references to the same album that I quite particularly enjoy, but I feel as if Darling is a better name for me than the former. Dawnbails to me now also has some negative memories I'd probably prefer to brush aside. Account in question has only made 7 edits, all were on the same day on the same Wikipedia and all were on their own userpage. Dawnbails (talk) 01:04, 12 August 2023 (UTC)Reply[reply]
+ On hold until September 21, 2023. User notified via talk page. Neriah - 💬 -  12:36, 21 August 2023 (UTC)Reply[reply]
+KMBDENNISTRIDENT
+Status:    In progress
+Wiki: meta.wikimedia.org (stewardry • list 'crats)
+Old Username: KMBDENNISTRIDENT (talk • edits • logs • cross-wiki-contribs • userpages • CentralAuth • GlobalRenameUser)
+New Username: 6D (talk • edits • logs • cross-wiki-contribs • userpages • similar names • UV • CentralAuth)
+Previous renames: current user, target user. Queue: open req, closed req
+Stewards/Global renamers: usurp user, rename user
+Reason: Because I like the KMB (Hong Kong) 6D Bus Route and make usernames more shorter, so I want to change usernames. 6D is completely inactive since 2009 and has only 15 minor edits on de.wikipedia and it blocked indefinitely for Vandalenaccount.
+--KMBDENNISTRIDENT (talk) 09:57, 15 August 2023 (UTC)Reply[reply]
+Charmquark314
+Status:    On hold
+Wiki: meta.wikimedia.org (stewardry • list 'crats)
+Old Username: Charmquark314 (talk • edits • logs • cross-wiki-contribs • userpages • CentralAuth • GlobalRenameUser)
+New Username: Charmquark (talk • edits • logs • cross-wiki-contribs • userpages • similar names • UV • CentralAuth)
+Previous renames: current user, target user. Queue: open req, closed req
+Stewards/Global renamers: usurp user, rename user
+Reason: I don't want the numbers at the end of my name anymore. Charmquark has no live edits. —charmquark314 she/they talk contribs
+ On hold until September 21, 2023. User notified via talk page. Neriah - 💬 -  12:40, 21 August 2023 (UTC)Reply[reply]
+Matr1x-101
+Status:    In progress
+Wiki: meta.wikimedia.org (stewardry • list 'crats)
+Old Username: Matr1x-101 (talk • edits • logs • cross-wiki-contribs • userpages • CentralAuth • GlobalRenameUser)
+New Username: Matrix (talk • edits • logs • cross-wiki-contribs • userpages • similar names • UV • CentralAuth)
+Previous renames: current user, target user. Queue: open req, closed req
+Stewards/Global renamers: usurp user, rename user
+Reason: I don't really want the numbers+hyphen in my username anymore and the username I want to take has only made 49 edits on the Finnish Wikipedia in 2015, and is indefinitely blocked there for vandalism.
+—Matr1x-101 (Ping me when replying) {user page (@ commons) - talk} 14:32, 24 August 2023 (UTC)Reply[reply]
+RotciW
+Status:    In progress
+Wiki: meta.wikimedia.org (stewardry • list 'crats)
+Old Username: RotciW (talk • edits • logs • cross-wiki-contribs • userpages • CentralAuth • GlobalRenameUser)
+New Username: Stewpot (talk • edits • logs • cross-wiki-contribs • userpages • similar names • UV • CentralAuth)
+Previous renames: current user, target user. Queue: open req, closed req
+Stewards/Global renamers: usurp user, rename user
+Reason: I want to change my username.
+--RotciW (talk) 19:53, 28 August 2023 (UTC)Reply[reply]
+See also
+Archives:
+for this page: Category:Steward requests archive/Username changes
+for the former "Steward requests/SUL requests" page:
+2008: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12.
+2009: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12.
+2010: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12.
+2011: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12.
+2012: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12.
+2013: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12.
+2014: 01, 02, 03, 04, 05, 06, 07.
+for username changes
+2014: 07, 08, 09, 10, 11, 12.
+2015: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+2016: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+2017: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+2018: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+2019: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+2020: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+2021: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+2022: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+2023: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+General requests for:
+help from a Meta sysop or bureaucrat ·
+deletion (speedy deletions: local · multilingual) ·
+URL blacklisting ·
+new languages ·
+interwiki map
+Personal requests for:
+username changes ·
+permissions (global) ·
+bot status ·
+adminship on Meta ·
+CheckUser information (local) ·
+local administrator help
+Cooperation requests for:
+comments (local) (global) ·
+translation
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Steward_requests/Username_changes&oldid=25531993"
+Categories: Steward requestsMeta-Wiki requestsRenaming users
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Content pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+Print/export
+In other projects
+Wikimedia CommonsWikispeciesWikibooksWikinewsWikipediaWikiquoteWikiversityWikivoyageWiktionary
+In other languages
+العربيةAzərbaycancaবাংলাBosanskiCatalàČeštinaDanskDeutschΕλληνικάEnglishEsperantoEspañolEuskaraSuomiFrançaisGaeilgeעבריתहिन्दीHrvatskiMagyarBahasa IndonesiaItaliano日本語ქართულიҚазақшаភាសាខ្មែរ한국어कॉशुर / کٲشُرKurdîमैथिलीമലയാളംमराठीBahasa MelayuनेपालीNederlandsNorskOccitanଓଡ଼ିଆPolskiپښتوPortuguêsRomânăРусскийСаха тылаSicilianuDavvisámegiellaSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaShqipСрпски / srpskiSundaSvenskaไทยTagalogTürkçeУкраїнськаاردوOʻzbekcha / ўзбекчаVènetoTiếng Việt吴语中文粵語
+Edit links
+ This page was last edited on 28 August 2023, at 19:53.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

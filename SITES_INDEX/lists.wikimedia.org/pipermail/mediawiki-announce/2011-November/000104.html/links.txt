@@ -1,0 +1,10 @@
+https://bugzilla.wikimedia.org/show_bug.cgi?id=32276
+https://bugzilla.wikimedia.org/show_bug.cgi?id=32616
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-1.17.1.tar.gz
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-1.17.15.patch.gz
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-i18n-1.17.1.patch.gz
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-1.17.1.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-1.17.1.patch.gz.sig
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-i18n-1.17.1.patch.gz.
+https://secure.wikimedia.org/keys.html
+https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce

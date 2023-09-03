@@ -1,0 +1,351 @@
+[MediaWiki-announce] MediaWiki 1.31.0 now available! - MediaWiki-announce - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+                            2023
+                        
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2022
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2021
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2020
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2019
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2018
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2017
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2016
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2015
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2014
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2013
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2012
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2011
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2010
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2009
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2008
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2007
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2006
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2005
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2004
+                        
+December
+            List overview
+ Download
+thread
+[MediaWiki-announce] MediaWiki 1.31.0 now available!
+Chad Horohoe
+                13 Jun
+                
+                    2018
+                
+            
+                13 Jun
+                
+                '18
+                
+            
+8:56 p.m.
+ 
+Hello everyone,
+I am happy to announce the availability of the general release of MediaWiki
+1.31!
+MediaWiki 1.31 includes all changes released in the smaller 1.31.0-wmf.*
+software deployments to Wikimedia sites over six months, totaling over 2100
+commits by roughly 130 unique authors. This is a very large release that
+contains many new features and bug fixes. It is also an LTS release.
+This is a summary of the major changes of interest to users and
+administrators:
+* https://www.mediawiki.org/wiki/MediaWiki_1.31
+You can always consult the RELEASE-NOTES-1.31 file for the full list of
+changes in this version.
+Full release notes:
+*
+https://phabricator.wikimedia.org/diffusion/MW/browse/REL1_31/RELEASE-NOTES…
+* https://www.mediawiki.org/wiki/Release_notes/1.31
+**********************************************************************
+Download:
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-1.31.0.tar.gz
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-core-1.31.0.tar.gz
+GPG signatures:
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-1.31.0.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-core-1.31.0.tar.gz.…
+Public keys:
+https://www.mediawiki.org/keys/keys.html
+**********************************************************************
+On a personal note, this will be the last release that I shall be handling.
+As many probably know I left Wikimedia this month for a new career and as
+such I won't have the time to dedicate to releasing MediaWiki anymore.
+Whomever picks up the torch will do fantastic. See you all around the
+Internet :)
+-Chad
+    
+ 0
+ 0
+            Reply
+        
+Back to the thread
+            Back to the list
+        
+ 
+            Powered by HyperKitty version 1.3.4.
+        

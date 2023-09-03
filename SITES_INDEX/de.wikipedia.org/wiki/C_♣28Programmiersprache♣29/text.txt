@@ -1,0 +1,424 @@
+C (Programmiersprache) – Wikipedia
+C (Programmiersprache)
+aus Wikipedia, der freien Enzyklopädie
+Zur Navigation springen
+Zur Suche springen
+C
+Basisdaten
+Paradigmen:
+imperativ, strukturiert
+Erscheinungsjahr:
+1972
+Designer:
+Dennis Ritchie
+Entwickler:
+Dennis Ritchie & Bell Labs
+Wichtige Implementierungen:
+GCC, MSVC, Borland C, Portland Group, Intel, Clang
+Beeinflusst von:
+B, BCPL, Algol 68[1]
+Beeinflusste:
+awk, C++, C−−, C#, Objective-C, D, Go, Java, JavaScript, PHP, Perl, Python, Vala, Seed7
+Betriebssystem:
+Windows, Unix-ähnliches System
+C ist eine imperative und prozedurale Programmiersprache, die der Informatiker Dennis Ritchie in den frühen 1970er Jahren an den Bell Laboratories entwickelte. Seitdem ist sie eine der am weitesten verbreiteten Programmiersprachen.
+Die Anwendungsbereiche von C sind sehr verschieden. Sie wird zur System- und Anwendungsprogrammierung eingesetzt. Die grundlegenden Programme aller Unix-Systeme und die Systemkernel vieler Betriebssysteme sind in C programmiert. Zahlreiche Sprachen, wie C++, Objective-C, C#, D, Java, JavaScript, LSL, PHP, Vala oder Perl, orientieren sich an der Syntax und anderen Eigenschaften von C.
+Inhaltsverzeichnis
+1 Geschichte
+1.1 Entstehung
+1.2 Weitere Entwicklung
+2 Standards
+2.1 K&R C
+2.2 ANSI C
+2.3 C99
+2.4 C11
+2.5 C18
+3 Verwendung
+3.1 System- und Anwendungsprogrammierung
+3.2 Implementierung anderer Sprachen
+4 Syntax
+4.1 Hallo-Welt-Programm
+4.2 Datentypen
+4.2.1 char
+4.2.2 int
+4.2.3 float und double
+4.2.4 void
+4.2.5 Zeiger
+4.2.6 Felder
+4.2.7 struct
+4.2.8 enum
+4.2.9 typedef
+4.2.10 _Bool
+4.2.11 _Complex und _Imaginary
+4.3 Funktionen
+4.3.1 main
+4.3.2 Selbstdefinierte Funktionen
+4.3.3 Funktionen der C-Standard-Bibliothek
+4.4 Anweisungen
+4.5 Namensgebung
+5 Standardbibliothek
+6 Module
+7 Undefiniertes Verhalten
+8 Compiler
+9 Beziehung zu Assembler, Portierbarkeit
+10 Sicherheit
+11 Literatur
+12 Weblinks
+13 Einzelnachweise
+Geschichte[Bearbeiten | Quelltext bearbeiten]
+Ken Thompson (links) und Dennis Ritchie (rechts)
+Entstehung[Bearbeiten | Quelltext bearbeiten]
+C wurde 1969–1973 von Dennis Ritchie[2] in den Bell Laboratories für die Programmierung des damals neuen Unix-Betriebssystems entwickelt. Er stützte sich dabei auf die Programmiersprache B, die Ken Thompson und Dennis Ritchie in den Jahren 1969/70 geschrieben hatten – der Name C entstand als Weiterentwicklung von B. B wiederum geht auf die von Martin Richards Mitte der 1960er-Jahre entwickelte Programmiersprache BCPL zurück.[3] Ursprünglich war der Name NB („New B“) vorgesehen, daraus wurde schließlich C.[4] Ritchie schrieb auch den ersten Compiler für C. 1973 war die Sprache so weit ausgereift, dass man nun den Unix-Kernel für die PDP-11 neu in C schreiben konnte.
+Weitere Entwicklung[Bearbeiten | Quelltext bearbeiten]
+K&R C erweiterte die Sprache um neue Schlüsselwörter wie long oder unsigned und führte die von Mike Lesk entwickelte I/O-Standardbibliothek und auf Empfehlung von Alan Snyder den Präprozessor ein.
+Standards[Bearbeiten | Quelltext bearbeiten]
+→ Hauptartikel: Varianten der Programmiersprache C
+C ist eine Programmiersprache, die auf fast allen Computersystemen zur Verfügung steht. Um den Wildwuchs zahlreicher Dialekte einzudämmen, wurde C mehrfach standardisiert (C89/C90, C99, C11). Abgesehen vom Mikrocontrollerbereich, wo eigene Dialekte existieren, sind die meisten aktuellen PC-/Server-Implementierungen eng an den Standard angelehnt; eine vollständige Implementierung aktueller Standards ist aber selten. In den meisten C-Systemen mit Laufzeitumgebung steht auch die genormte C-Standard-Bibliothek zur Verfügung. Dadurch können C-Programme, die keine sehr hardwarenahe Programmierung enthalten, in der Regel gut auf andere Zielsysteme portiert werden.
+Das Normungsgremium von C ist die ISO/IEC – Arbeitsgruppe JTC1/SC22/WG14 – C, kurz als WG14 bekannt.
+Die nationalen Standardisierungsorganisationen übernehmen die Veröffentlichungen des internationalen Standards in an ihre Bedürfnisse angepasster Form.
+Die 1978 erschienene erste Auflage von The C Programming Language beinhaltet den ehemaligen inoffiziellen Standard K&R C
+K&R C[Bearbeiten | Quelltext bearbeiten]
+Bis ins Jahr 1989 gab es keinen offiziellen Standard der Sprache. Seit 1978 galt hingegen das Buch The C Programming Language als informeller De-facto-Standard, welches Brian W. Kernighan und Dennis Ritchie im selben Jahr veröffentlicht hatten.[5] Bezeichnet wird diese Spezifikation als K&R C.
+Da in den folgenden Jahren die Zahl an Erweiterungen der Sprache ständig wuchs, man sich nicht auf eine gemeinsame Standard-Bibliothek einigen konnte und nicht einmal die UNIX-Compiler K&R C vollständig implementierten, wurde beschlossen, einen offiziellen Standard festzulegen. Nachdem dieser schließlich im Jahr 1989 erschienen war, blieb K&R C zwar noch für einige Jahre De-facto-Standard vieler Programmierer, verlor dann aber rasch an Bedeutung.
+ANSI C[Bearbeiten | Quelltext bearbeiten]
+Im Jahr 1983 setzte das American National Standards Institute (ANSI) ein Komitee namens X3J11 ein, das 1989 seine Arbeit abschloss und die Norm ANSI X3.159-1989 Programming Language C verabschiedete. Diese Version der Sprache C wird auch kurz als ANSI C, Standard C oder C89 bezeichnet.
+Ein Jahr später übernahm die International Organization for Standardization (ISO) den bis dahin rein amerikanischen Standard auch als internationale Norm, die ISO/IEC 9899:1990, kurz auch als C90 bezeichnet. Die Namen C89 und C90 beziehen sich also auf dieselbe Version von C.
+Nach der ersten Entwicklung durch ANSI und ISO wurde der Sprachstandard für einige Jahre kaum geändert. Erst 1995 erschien das Normative Amendment 1 zu C90. Es hieß ISO/IEC 9899/AMD1:1995 und wird auch kurz als C95 bezeichnet. Neben der Korrektur einiger Details wurden mit C95 internationale Schriftsätze besser unterstützt.
+C99[Bearbeiten | Quelltext bearbeiten]
+Nach einigen kleineren Revisionen erschien im Jahr 1999 der neue Standard ISO/IEC 9899:1999, kurz C99. Er war größtenteils mit C90 kompatibel und führte einige neue, teilweise von C++ übernommene Features ein, von denen einige bereits zuvor von verschiedenen Compilern implementiert worden waren. C99 wurde im Lauf der Jahre durch drei Technical Corrigendas ergänzt.
+C11[Bearbeiten | Quelltext bearbeiten]
+Im Jahr 2007 begann die Entwicklung eines neuen Standards mit dem inoffiziellen Arbeitstitel C1X. Er wurde im Dezember 2011 veröffentlicht und ist in der Kurzform als C11 bekannt. Neben einer besseren Kompatibilität mit C++ wurden der Sprache wiederum neue Features hinzugefügt.[6][7]
+C18[Bearbeiten | Quelltext bearbeiten]
+Diese Norm entspricht der von C11 mit der Ausnahme von Fehlerkorrekturen und einem neuen Wert von __STDC_VERSION__ und wird daher im selben Umfang wie C11 unterstützt.[8]
+Der Standard wurde im Juni 2018 unter der Norm ISO/IEC 9899:2018 freigegeben.[9]
+Verwendung[Bearbeiten | Quelltext bearbeiten]
+The C Programming Language
+Trotz des eher hohen Alters ist die Sprache C auch heute weit verbreitet und wird sowohl im Hochschulbereich als auch in der Industrie und im Open-Source-Bereich verwendet.[10]
+System- und Anwendungsprogrammierung[Bearbeiten | Quelltext bearbeiten]
+Das Haupteinsatzgebiet von C liegt in der Systemprogrammierung, insbesondere von eingebetteten Systemen, Treibern und Betriebssystemkernen. Der Grund liegt in der Kombination von erwünschten Charakteristiken wie Portabilität und Effizienz mit der Möglichkeit, Hardware direkt anzusprechen und dabei niedrige Anforderungen an eine Laufzeitumgebung zu haben.
+Auch Anwendungssoftware wird oft in C erstellt, wobei die Relevanz der Sprache hier hinter andere zurückfiel, das ist besonders deutlich auf mobilen Plattformen. Viele Programmierschnittstellen für Anwendungsprogramme und Betriebssystem-APIs werden in Form von C-Schnittstellen implementiert, zum Beispiel Win32.[11]
+Implementierung anderer Sprachen[Bearbeiten | Quelltext bearbeiten]
+Wegen der hohen Ausführungsgeschwindigkeit und geringen Codegröße werden Compiler, Programmbibliotheken und Interpreter anderer höherer Programmiersprachen (wie z. B. die Java Virtual Machine) oft in C implementiert.
+C wird als Zwischencode einiger Implementierungen höherer Programmiersprachen verwendet. Dabei wird diese zuerst in C-Code übersetzt, der dann kompiliert wird. Dieser Ansatz wird verwendet, um ohne maschinenspezifische Entwicklung für den Codegenerator die Portabilität zu erhöhen (C-Compiler existieren für nahezu jede Plattform).
+Einige Compiler, die C auf diese Art benutzen, sind Chicken, EiffelStudio, Esterel, PyPy, Sather, Squeak und Vala.
+C wurde allerdings als Programmiersprache und nicht als Zielsprache für Compiler entworfen. Als Zwischensprache ist es daher eher schlecht geeignet. Das führte zu C-basierten Zwischensprachen wie C−−.
+C wird oft für die Erstellung von Anbindungen (englisch bindings) genutzt (zum Beispiel Java Native Interface). Diese Anbindungen erlauben es Programmen, die in einer anderen Hochsprache geschrieben sind, Funktionen aufzurufen, die in C implementiert wurden. Der umgekehrte Weg ist oft ebenfalls möglich und kann verwendet werden, um in C geschriebene Programme mit einer anderen Sprache zu erweitern (z. B. mod perl).
+Syntax[Bearbeiten | Quelltext bearbeiten]
+C ist case-sensitiv.
+Außerdem besitzt C eine sehr kleine Menge an Schlüsselwörtern. Die Anzahl der Schlüsselwörter ist so gering, weil fast alle Aufgaben, welche in anderen Sprachen über eigene Schlüsselwörter realisiert werden, über Funktionen der C-Standard-Bibliothek realisiert werden (zum Beispiel die Ein- und Ausgabe über Konsole oder Dateien, dynamische Speicherverwaltung usw.).
+In C89 gibt es 32 Schlüsselwörter:
+auto
+break
+case
+char
+const
+continue
+default
+do
+double
+else
+enum
+extern
+float
+for
+goto
+if
+int
+long
+register
+return
+short
+signed
+sizeof
+static
+struct
+switch
+typedef
+union
+unsigned
+void
+volatile
+while
+Mit C99 kamen fünf weitere dazu:
+_Bool
+_Complex
+_Imaginary
+inline
+restrict
+Mit C11 kamen sieben weitere hinzu:
+_Alignas
+_Alignof
+_Atomic
+_Generic
+_Noreturn
+_Static_assert
+_Thread_local
+Hallo-Welt-Programm[Bearbeiten | Quelltext bearbeiten]
+Eine einfache Version des Hallo-Welt-Programms in C ist diejenige, die Ritchie und Kernighan selbst in der zweiten Auflage ihres Buches The C Programming Language verwendet haben.[12] Zu beachten ist, dass im älteren ANSI C Standard kein Rückgabetyp angegeben werden muss, da der Compiler von einem impliziten int als Rückgabetyp ausgeht.
+#include <stdio.h>
+main()
+{
+  printf("hello, world\n");
+}
+Datentypen[Bearbeiten | Quelltext bearbeiten]
+→ Hauptartikel: Datentypen in C
+char[Bearbeiten | Quelltext bearbeiten]
+Zum Speichern eines Zeichens (sowie von kleinen Zahlen) verwendet man in C üblicherweise den Datentyp Character, geschrieben als char.
+Vom Computer tatsächlich gespeichert wird nicht das Zeichen (wie zum Beispiel „A“), sondern eine gleichbedeutende mindestens acht Bit lange Binärzahl (z. B. 01000001). Diese Binärzahl steht im Speicher und kann anhand einer Tabelle jederzeit automatisch in den entsprechenden Buchstaben umgewandelt werden, wobei der aktuelle Zeichensatz bzw. die Codepage der Systemumgebung entscheidend ist. Zum Beispiel steht 01000001 gemäß der ASCII-Tabelle für das Zeichen „A“.
+Um auch Zeichen aus Zeichensätzen aufnehmen zu können, die mehr Zeichen umfassen als der relativ kleine ASCII-Zeichensatz, wurde mit wchar_t bald ein zweiter für Zeichen konzipierter Datentyp eingeführt.
+// gespeichert wird nicht das Zeichen „A“, sondern meist ein Byte ("01000001")
+char zeichen = 'A';
+// gibt das Zeichen mit der Ordnungszahl 65 aus (in ASCII ein „A“)
+printf("%c", 65);
+int[Bearbeiten | Quelltext bearbeiten]
+Zum Speichern einer Ganzzahl (wie zum Beispiel 3) verwendet man eine Variable vom Datentyp Integer, geschrieben als int. Die Größe eines Integers beträgt heutzutage (je nach Prozessorarchitektur und Betriebssystem) meist 32 Bit, oft aber auch schon 64 und manchmal noch 16 Bit. In 16 Bit lassen sich 65536 verschiedene Werte speichern. Um die Verwendung von negativen Zahlen zu ermöglichen, reicht der Wertebereich bei 16 Bit gewöhnlich von -32768 bis 32767. Werden keine negativen Zahlen benötigt, kann der Programmierer mit unsigned int aber einen vorzeichenlosen Integer verwenden. Bei 16 Bit großen Integern ergibt das einen Wertebereich von 0 bis 65535.
+Um den Wertebereich eines Integers zu verkleinern oder zu vergrößern, stellt man ihm einen der Qualifizierer short, long oder long long voran. Das Schlüsselwort int kann dann auch weggelassen werden, so ist long gleichbedeutend mit long int. Um zwischen vorzeichenbehafteten und vorzeichenlosen Ganzzahlen zu wechseln, gibt es die beiden Qualifizierer signed und unsigned. Für einen vorzeichenbehafteten Integer kann der Qualifizierer aber auch weggelassen werden, so ist signed int gleichbedeutend mit int. Die C-Standard-Bibliothek ergänzt diese Datentypen über die plattformunabhängige Header-Datei <stdint.h> in der ein Set von Ganzzahltypen mit fester Länge definiert ist. Obwohl der Datentyp char für Textzeichen vorgesehen ist, können dessen Werte auch als ganze Zahlen mit einem Wertebereich von 0 bis 255 (unsigned) oder von -128 bis +127 (signed) verwendet werden. 
+char ganzzahl = 1;      // mindestens 8 Bit, also 256 mögliche Werte
+short ganzzahl = 2;     // mindestens 16 Bit, also 65536 mögliche Werte
+int ganzzahl = 3;       // mindestens 16 Bit, also 65536 mögliche Werte
+long ganzzahl = 4;      // mindestens 32 Bit, also 4294967296 mögliche Werte
+long long ganzzahl = 5; // mindestens 64 Bit, also 18446744073709551616 mögliche Werte
+float und double[Bearbeiten | Quelltext bearbeiten]
+Zahlen mit Nachkommastellen werden in einem der drei Datentypen float, double und long double gespeichert. In den meisten C-Implementierungen entsprechen die Datentypen float und double dem international gültigen Standard für binäre Gleitpunktarithmetiken (IEC 559, im Jahr 1989 aus dem älteren amerikanischen Standard IEEE 754 hervorgegangen). Ein float implementiert das „einfach lange Format“, ein double das „doppelt lange Format“. Dabei umfasst ein float 32 Bit, ein double 64 Bit. doubles sind also genauer. Floats werden aufgrund dieses Umstands nur noch in speziellen Fällen verwendet. Die Größe von long doubles ist je nach Implementierung unterschiedlich, ein long double darf aber auf keinen Fall kleiner sein als ein double. Die genauen Eigenschaften und Wertebereiche auf der benutzten Architektur können über die Headerdatei <float.h> ermittelt werden.
+// Genauigkeit ist jeweils implementierungsabhängig
+float kommazahl = 0.000001f;
+double kommazahl = 0.000000000000002;
+long double kommazahl = 0.3l;
+void[Bearbeiten | Quelltext bearbeiten]
+→ Hauptartikel: void (Schlüsselwort)
+Der Datentyp void wird im C-Standard als „unvollständiger Typ“ bezeichnet. Man kann keine Variablen von diesem Typ erzeugen. Verwendet wird void erstens, wenn eine Funktion keinen Wert zurückgeben soll, zweitens wenn explizit eine leere Parameterliste für eine Funktion verlangt wird und drittens, wenn ein Zeiger auf „Objekte beliebigen Typs“ zeigen soll.
+// Deklaration einer Funktion, die keinen Wert zurückgibt
+void funktionsname();
+// Deklaration einer Funktion, die int zurückgibt und keine Parameter akzeptiert
+int funktionsname(void);
+// Zeiger auf ein Objekt von beliebigem Typ
+void* zeigername;
+Zeiger[Bearbeiten | Quelltext bearbeiten]
+→ Hauptartikel: Zeiger (C)
+Wie in anderen Programmiersprachen sind Zeiger in C Variablen, die statt eines direkt verwendbaren Wertes (wie das Zeichen „A“ oder die Zahl 5) eine Speicheradresse (wie etwa die Adresse 170234) speichern. Die Adressen im Speicher sind durchnummeriert. An der Speicheradresse 170234 könnte zum Beispiel der Wert 00000001 gespeichert sein (Binärwert der Dezimalzahl 1). Zeiger ermöglichen es, auf den Wert zuzugreifen, der an einer Speicheradresse liegt. Dieser Wert kann wiederum eine Adresse sein, die auf eine weitere Speicheradresse zeigt. Bei der Deklaration eines Zeigers wird zuerst der Datentyp des Objekts angegeben, auf das gezeigt wird, danach ein Asterisk, danach der gewünschte Name des Zeigers.
+char* zeiger;   // kann die Adresse eines Characters speichern
+double* zeiger; // kann die Adresse eines Doubles speichern
+Felder[Bearbeiten | Quelltext bearbeiten]
+→ Hauptartikel: Felder in C
+Wie in anderen Programmiersprachen verwendet man Arrays in C um mehrere Werte desselben Datentyps zu speichern. Die Werte eines Arrays haben aufeinanderfolgende Speicheradressen. Die Anzahl der verschiedenen Werte eines Arrays ist als Index des Feldes festgelegt. Da es in C keinen eigenen Datentyp für Strings gibt, werden Arrays auch verwendet, um Zeichenfolgen zu speichern.
+// Definition eines Arrays mit 3 ganzzahligen Werten
+int zahlen[] = { 17, 0, 3 };
+// Array, das zur Speicherung eines Strings verwendet wird
+char string[] = "Hallo, Welt!\n";
+struct[Bearbeiten | Quelltext bearbeiten]
+→ Hauptartikel: Verbund (Datentyp)
+Um verschiedenartige Daten in einer Variable zu speichern, verwendet man Structures, geschrieben als struct. Auf diese Weise können Variablen verschiedenen Datentyps zusammengefasst werden.
+struct person {
+    char* vorname;
+    char nachname[20];
+    int alter;
+    double groesse;
+};
+enum[Bearbeiten | Quelltext bearbeiten]
+Wie in anderen Programmiersprachen dient ein Enum in C dazu, mehrere konstante Werte zu einem Typ zu kombinieren.
+enum Temperatur { WARM, KALT, MITTEL };
+enum Temperatur heutige_temperatur = WARM;
+if (heutige_temperatur == KALT)
+    printf("Warm anziehen!"); // wird nicht ausgegeben, da es heute „WARM“ ist
+typedef[Bearbeiten | Quelltext bearbeiten]
+Das Schlüsselwort typedef wird zur Erstellung eines Alias für einen Datentyp verwendet.
+// legt den Alias "Ganzzahl" für den Datentyp "int" an
+typedef int Ganzzahl;
+// ist jetzt gleichbedeutend zu: int a, b;
+Ganzzahl a, b;
+_Bool[Bearbeiten | Quelltext bearbeiten]
+Bis zum C99-Standard gab es keinen Datentyp zum Speichern eines Wahrheitswerts. Erst seit 1999 können Variablen als _Bool deklariert werden und einen der beiden Werte 0 (falsch) oder 1 (wahr) aufnehmen.
+_Bool a = 1; // seit C99
+Durch explizite Verwendung des Headers stdbool.h ist die verbreitete Verwendung des logischen Datentyps bool mit den zwei möglichen Ausprägungen true bzw. false möglich:
+#include <stdbool.h>
+bool a = true; // seit C99
+_Complex und _Imaginary[Bearbeiten | Quelltext bearbeiten]
+Seit C99 gibt es drei Gleitkomma-Datentypen für komplexe Zahlen, welche aus den drei Gleitkommatypen abgeleitet sind: float _Complex, double _Complex und long double _Complex. Ebenfalls in C99 eingeführt wurden Gleitkomma-Datentypen für rein imaginäre Zahlen: float _Imaginary, double _Imaginary und long double _Imaginary.
+Funktionen[Bearbeiten | Quelltext bearbeiten]
+Ein C-Programm besteht aus der main-Funktion und optional aus weiteren Funktionen. Weitere Funktionen können entweder selbst definiert werden oder vorgefertigt aus der C-Standard-Bibliothek übernommen werden.
+main[Bearbeiten | Quelltext bearbeiten]
+Jedes C-Programm muss eine Funktion mit dem Namen main haben, anderenfalls wird das Programm nicht kompiliert. Die main-Funktion ist der Einsprungpunkt eines C-Programms, das heißt die Programmausführung beginnt immer mit dieser Funktion.
+// das kürzeste mögliche standardkonforme C89-Programm
+main(){return 0;}
+// das kürzeste mögliche standardkonforme C99-Programm
+int main(){}
+Außer der main-Funktion müssen in einem C-Programm keine weiteren Funktionen enthalten sein. Sollen andere Funktionen ausgeführt werden, müssen sie in der main-Funktion aufgerufen werden. Die main-Funktion wird deshalb auch als Hauptprogramm bezeichnet, alle weiteren Funktionen als Unterprogramme.
+Selbstdefinierte Funktionen[Bearbeiten | Quelltext bearbeiten]
+In C lassen sich beliebig viele Funktionen selbst definieren. Eine Funktionsdefinition besteht erstens aus dem Datentyp des Rückgabewerts, zweitens dem Namen der Funktion, drittens einer eingeklammerten Liste von Parametern und viertens einem eingeklammerten Funktionsrumpf, in welchem ausprogrammiert wird, was die Funktion tun soll.
+// Datentyp des Rückgabewerts, Funktionsname und zwei Parameter
+int summe(int x, int y) {
+    // Funktionsrumpf, hier wird die Summe berechnet und zurückgegeben
+    return x + y;
+}
+int main() {
+    // die Funktion wird mit den Werten 2 und 3 aufgerufen, der Rückgabewert
+    // wird in der Variable „ergebnis“ gespeichert
+    int ergebnis = summe(2, 3);
+    // main gibt den Wert von „ergebnis“ zurück
+    return ergebnis;
+}
+Für die Definition einer Funktion, die nichts zurückgeben soll, verwendet man das Schlüsselwort void. Ebenso falls der Funktion keine Parameter übergeben werden sollen.
+#include <stdio.h>
+void begruessung() {
+    puts("Hi!");
+    return;
+}
+Funktionen der C-Standard-Bibliothek[Bearbeiten | Quelltext bearbeiten]
+Die Funktionen der Standard-Bibliothek sind nicht Teil der Programmiersprache C. Sie werden bei jedem standardkonformen Compiler im hosted environment mitgeliefert und können verwendet werden, sobald man die jeweils entsprechende Header-Datei eingebunden hat. Beispielsweise dient die Funktion printf zur Ausgabe von Text. Sie kann verwendet werden, nachdem man die Header-Datei stdio.h eingebunden hat.
+#include <stdio.h>
+int main() {
+    printf("hello world!\n");
+    return 0;
+}
+Anweisungen[Bearbeiten | Quelltext bearbeiten]
+Eine Funktion besteht aus Anweisungen. Wie in den meisten Programmiersprachen sind die wichtigsten Anweisungen: Deklarationen und Definitionen, Zuweisungen, bedingte Anweisungen, Anweisungen die Schleifen umsetzen sowie Funktionsaufrufe. Im folgenden, eher sinnlosen Programm finden sich Beispiele.
+// Unterprogramme
+void funktion_die_nichts_tut() { // Definition
+    return;                      // Return-Anweisung
+}
+int plus_eins_funktion(int argument) { // Definition
+    return argument + 1;               // Return-Anweisung
+}
+// Hauptprogramm
+int main() {                         // Definition
+    int zahl;                        // Definition
+    funktion_die_nichts_tut();       // Funktionsaufruf
+    zahl = 5;                        // Zuweisung
+    zahl = plus_eins_funktion(zahl); // Funktionsaufruf und Zuweisung
+    if (zahl > 5)  // bedingte Anweisung
+        zahl -= 1; // Zuweisung: der Wert von „zahl“ ist wieder „5“
+    return 0; // Return-Anweisung
+}
+Namensgebung[Bearbeiten | Quelltext bearbeiten]
+Beim Benennen von eigenen Variablen, Konstanten, Funktionen und Datentypen muss man sich an einige Regeln zur Namensgebung halten. Erstens muss das erste Zeichen eines Bezeichners ein Buchstabe oder Unterstrich sein. Zweitens dürfen die folgenden Zeichen nur die Buchstaben A bis Z und a bis z, Ziffern und der Unterstrich sein. Und drittens darf der Name keines der Schlüsselwörter sein.
+Seit C95 sind auch Zeichen aus dem Universal Coded Character Set in Bezeichnern erlaubt, sofern die Implementierung es unterstützt. Die erlaubten Zeichen sind in Anhang D des ISO-C-Standards aufgelistet. Vereinfacht gesagt, sind es all jene Zeichen, die in irgendeiner Sprache als Buchstabe oder buchstabenähnliches Zeichen Verwendung finden.
+Ab C99 lassen sich diese Zeichen plattformunabhängig über eine Escape-Sequenz wie folgt ersetzen:
+\uXXXX (wobei X für eine Hexadezimalziffer steht) für Zeichen mit einem Code von 00A0hex bis FFFFhex.
+\UXXXXXXXX für alle Zeichen mit einem Code ≥00A0hex.
+Bestimmte Bezeichner sind außerdem für die Implementierung reserviert:
+Bezeichner, die mit zwei aufeinanderfolgenden Unterstrichen beginnen
+Bezeichner, die mit Unterstrich gefolgt von einem Großbuchstaben anfangen.
+Erweiterungen am Sprachkern, die neue Schlüsselwörter erfordern, verwenden dafür ebenfalls Namen aus diesem reservierten Bereich, um zu vermeiden, dass sie mit Bezeichnern in existierenden C-Programmen kollidieren, z. B. _Complex, _Generic, _Thread_local.
+Standardbibliothek[Bearbeiten | Quelltext bearbeiten]
+→ Hauptartikel: C-Standard-Bibliothek
+Die C-Standard-Bibliothek ist integraler Bestandteil einer gehosteten (engl. hosted) C-Implementierung. Sie enthält unter anderem Makros und Funktionen, die mittels der Standard-Header-Datei verfügbar gemacht werden. Auf freistehenden (englisch freestanding) Implementationen dagegen kann der Umfang der Standardbibliothek eingeschränkt sein.
+Die Standardbibliothek ist aufgeteilt in mehrere Standard-Header-Dateien, die hinzugelinkte Bibliothek ist jedoch oft eine einzige große Datei.
+„Gehostet“: C-Compiler und Programm befinden sich in einer Betriebssystem-Umgebung, welche übliche Dienste bietet (z. B. ein Dateisystem, textuelle Ein- und Ausgabekanäle, Speichermanagement).
+„Freistehend“: Das C-Programm läuft nicht unter einem Betriebssystem, sondern muss alle Gerätefunktionen selbst implementieren. Häufig stehen dennoch zumindest einige Bibliotheken vorab zur Verfügung. Hier finden häufig Cross-Compiler (auch „Target-Compiler“) Verwendung.
+Module[Bearbeiten | Quelltext bearbeiten]
+Eine Modularisierung in C erfolgt auf Dateiebene. Eine Datei bildet eine Übersetzungseinheit; intern benötigte Funktionen und Variablen können so vor anderen Dateien verborgen werden. Die Bekanntgabe der öffentlichen Funktionsschnittstellen erfolgt mit sogenannten Header-Dateien. Damit verfügt C über ein schwach ausgeprägtes Modulkonzept.[13][14]
+Das globale Sprachdesign sieht vor, dass ein Programm aus mehreren Modulen bestehen kann.
+Für jedes Modul existiert eine Quellcode-Datei (mit der Endung .c) und eine Header-Datei (mit der Endung .h). Die Quellcode-Datei enthält im Wesentlichen die Implementierung, die Header-Datei das Interface nach außen. Beide Dateien konsistent zu halten, ist bei C (wie auch bei C++, aber nicht mehr in C#) Aufgabe des Programmierers.
+Module, die Funktionen aus anderen Modulen benutzen, inkludieren deren Header-Dateien und geben dem Compiler damit die notwendigen Informationen über die vorhandenen Funktionen, Aufrufkonventionen, Typen und Konstanten.
+Jedes Modul kann für sich übersetzt werden und erzeugt eine Object-Datei.
+Mehrere Object-Dateien können zu einer Bibliothek zusammengefasst oder einzeln verwendet werden.
+Mehrere Object-Dateien sowie Bibliotheken (die auch nur eine Sammlung von Objekt-Dateien sind) können mittels Linker (deutsch: Binder) zu einem ausführbaren Programm gebunden werden.
+Undefiniertes Verhalten[Bearbeiten | Quelltext bearbeiten]
+→ Hauptartikel: Undefiniertes Verhalten
+Undefiniertes Verhalten (undefined behavior) ist nach der Definition des C-Standards „Verhalten bei Verwendung eines nicht portablen oder fehlerhaften Programmkonstrukts oder von fehlerhaften Daten, an die diese internationale Norm keine Anforderungen stellt“. Dies kann beispielsweise die Dereferenzierung eines Nullzeigers, die Division durch Null, der Zugriff auf Variablen durch Zeiger eines falschen Typs oder ein Überlauf bei vorzeichenbehafteten Ganzzahlen sein.[15]
+Unter der Annahme, dass undefiniertes Verhalten in einem korrekten Programm nicht vorkommt, optimieren bestimmte Compiler solche Konstrukte[16] in einer Weise, die das beobachtbare Verhalten verändern kann, etwa durch Entfernen von Code, der als nicht erreichbar eingestuft wird.
+Allgemein kann diese Art der Optimierung dazu führen, dass getestete Programme mit anderen Optimierungsstufen oder neueren Compilerversionen fehlerhaftes Verhalten zeigen. Dieses Compilerverhalten wird teilweise kontrovers diskutiert. Auch kann in der hardwarenahen Programmierung mit C die Verwendung von z. B. Überläufen oder uninitialisierten Variablen zur Laufzeitoptimierung des Codes genutzt werden.[17]
+Geht der Compiler z. B. bei einer Schleife
+  for (int i=n; i<n+10; i++)
+davon aus, dass kein Überlauf auftritt und sie daher höchstens zehnmal durchlaufen wird, kann dies ihn dazu veranlassen, eine vorherige Überprüfung auf Überlauf
+  if (n < n + 10)
+als unnötigen Code entfernen. Solche Optimierungen können ihrerseits zu unerwünschtem Verhalten einschließlich registrierter Sicherheitslücken führen (siehe z. B.: CVE) führen.[18]
+Compiler[Bearbeiten | Quelltext bearbeiten]
+Am weitesten verbreitet ist der seit 1987 bestehende freie C-Compiler der GNU Compiler Collection. Unter Windows ist auch der seit 1993 entwickelte Compiler Visual C++ weit verbreitet. Neben diesen beiden stehen zahlreiche weitere Compiler zur Verfügung.
+Da es in C vergleichsweise wenige Schlüsselwörter gibt, ergibt sich der Vorteil eines sehr einfachen, kleinen Compilers. Auf neuen Computersystemen ist C deshalb oft die erste verfügbare Programmiersprache (nach Maschinencode und Assembler).
+Beziehung zu Assembler, Portierbarkeit[Bearbeiten | Quelltext bearbeiten]
+Die Programmiersprache C wurde mit dem Ziel entwickelt, eine echte Sprachabstraktion zur Assemblersprache zu implementieren. Es sollte eine direkte Zuordnung zu wenigen Maschineninstruktionen geben, um die Abhängigkeit von einer Laufzeitumgebung zu minimieren. Als Resultat dieses Designs ist es möglich, C-Code auf einer sehr hardwarenahen Ebene zu schreiben, analog zu Assemblerbefehlen. Die Portierung eines C-Compilers auf eine neue Prozessorplattform ist, verglichen mit anderen Sprachen, wenig aufwändig. Bspw. ist der freie GNU-C-Compiler (gcc) für eine Vielzahl unterschiedlicher Prozessoren und Betriebssysteme verfügbar. Für den Entwickler bedeutet das, dass unabhängig von der Zielplattform fast immer auch ein C-Compiler existiert. C unterstützt damit wesentlich die Portierbarkeit von Programmen, sofern der Programmierer auf Assemblerteile im Quelltext und/oder hardwarespezifische C-Konstrukte verzichten kann. In der Mikrocontroller-Programmierung ist C die mit Abstand am häufigsten verwendete Hochsprache.
+Sicherheit[Bearbeiten | Quelltext bearbeiten]
+Konzeptionell ist C auf eine einfache Kompilierbarkeit der Quelltexte und für den schnellen Ablauf des Programmcodes ausgelegt. Die Compiler erzeugen in der Regel aber nur wenig Code zur Gewährleistung der Datensicherheit und Betriebssicherheit während der Laufzeit der Programme. Daher wird zunehmend versucht, diese Mängel durch formale Verifikation aufzudecken und zu korrigieren beziehungsweise durch zusätzliche vom Programmierer zu erstellende Quelltexte zu beheben.[19][20][21]
+C schränkt direkte Speicherzugriffe kaum ein. Dadurch kann der Compiler (anders als zum Beispiel in Pascal) nur sehr eingeschränkt bei der Fehlersuche helfen. Aus diesem Grund ist C für sicherheitskritische Anwendungen (Medizintechnik, Verkehrsleittechnik, Raumfahrt) weniger geeignet. Wenn in diesen Bereichen dennoch C eingesetzt wird, so wird in der Regel versucht, die Qualität der erstellten Programme durch zusätzliche Prüfungen wie Softwaretests mit hoher Testabdeckung zu erhöhen.
+C enthält einige sicherheitskritische Funktionen; so überschreibt zum Beispiel gets(), in alten Standards eine Funktion der Standardbibliothek, fremde Speicherbereiche (Pufferüberlauf), wenn es auf eine unpassende (zu lange) Eingabe stößt. Der Fehler ist innerhalb von C weder bemerk- noch abfangbar. Um den großen Vorteil von C – die Existenz zahlreicher älterer Quellcodes – nicht zu verlieren, unterstützen auch aktuelle Implementierungen weiterhin diese und ähnliche Funktionen, warnen jedoch in der Regel, wenn sie beim Übersetzen im Quelltext benutzt werden. gets() wurde mit C11 endgültig aus der Sprachspezifikation entfernt.[22]
+C ist nicht typsicher,[23] da verschiedene Datentypen zuweisungskompatibel gehandhabt werden können.[24]
+Literatur[Bearbeiten | Quelltext bearbeiten]
+Einführungen
+Helmut Erlenkötter: C. Programmieren von Anfang an. 22. Auflage. Rowohlt, Reinbek bei Hamburg 2015, ISBN 978-3-499-60074-6.
+Joachim Goll: C als erste Programmiersprache. Mit den Konzepten von C11. 8., überarbeitete und erweiterte Auflage. Springer Vieweg, Wiesbaden 2014, ISBN 978-3-8348-1858-4.
+Robert Klima, Siegfried Selberherr: Programmieren in C. 3. Auflage. Springer, Wien 2010, ISBN 978-3-7091-0392-0.
+Peter Prinz, Ulla Kirch: C. Lernen und professionell anwenden. 3. Auflage. mitp, Heidelberg 2013, ISBN 978-3-8266-9504-9.
+Thomas Theis: Einstieg in C. Für Programmiereinsteiger geeignet. 1. Auflage. Galileo, Bonn 2014, ISBN 978-3-8362-2793-3.
+Jürgen Wolf: Grundkurs C. 2., aktualisierte und überarbeitete Auflage. Rheinwerk, Bonn 2016, ISBN 978-3-8362-4114-4.
+Fortgeschritten
+Andrew Koenig: Der C-Experte: Programmieren ohne Pannen. Addison-Wesley, 1989, ISBN 3-89319-233-6 (deutsche Übersetzung von: C Traps and Pitfalls. Addison-Wesley, 1989.)
+Peter van der Linden: Expert-C-Programmierung. Verlag Heinz Heise, 1995, ISBN 3-88229-047-1 (deutsche Übersetzung von: Expert C Programming. Prentice Hall, 1994.)
+Handbücher
+Rolf Isernhagen, Hartmut Helmke: Softwaretechnik in C und C++. Das Kompendium. Modulare, objektorientierte und generische Programmierung. ISO-C90, ISO-C99, ISO-C++98, MS-C++.NET. 4., vollständig überarbeitete Auflage, Hanser, München/Wien 2004, ISBN 3-446-22715-6.
+Jürgen Wolf: C von A bis Z. Das umfassende Handbuch. 3. aktualisierte und erweiterte Auflage 2009, 4., korrigierter Nachdruck 2015, Rheinwerk, Bonn 2015, ISBN 978-3-8362-1411-7.
+K&R C
+Brian Kernighan, Dennis Ritchie: The C Programming Language. Prentice Hall, Englewood Cliffs NJ 1978, ISBN 0-13-110163-3. (Deutsche Übersetzung: Brian Kernighan, Dennis Ritchie: Programmieren in C. Mit dem reference manual in deutscher Sprache. Hanser, München/Wien 1983)
+K&R2
+Brian Kernighan, Dennis Ritchie: The C Programming Language. 2. Auflage, Prentice Hall, Englewood Cliffs NJ 1988, ISBN 0-13-110362-8. (Deutsche Übersetzung: Brian Kernighan, Dennis Ritchie: Programmieren in C. Mit dem C-Reference Manual in deutscher Sprache. 2. Auflage. Hanser, München/Wien 1990, ISBN 3-446-15497-3)
+Weblinks[Bearbeiten | Quelltext bearbeiten]
+Wikibooks: C-Programmierung – Lern- und Lehrmaterialien
+C-Sprachübersicht (sowie Vergleich mit BASIC).
+Coding Programmer Page / C Library Reference and Examples. (englisch).
+C Library Reference and Examples (more formal) (englisch).
+David Straker: C Style: Standards and Guidelines. 1991 erschienenes Buch (englisch).
+Mike Banahan, Declan Brady, Mark Doran: The C Book. 1991 (englisch).
+Einfaches C-Tutorial für Einsteiger (englisch).
+Einzelnachweise[Bearbeiten | Quelltext bearbeiten]
+↑ Dennis M. Ritchie: The Development of the C Language. Lucent Technologies, Januar 1993, abgerufen am 10. September 2015: „The scheme of type composition adopted by C owes considerable debt to Algol 68, although it did not, perhaps, emerge in a form that Algol’s adherents would approve of.“ 
+↑ Dennis M. Ritchie: The Development of the C Language. Lucent Technologies, Januar 1993, abgerufen am 10. September 2015. 
+↑ Ken Thompson: Users’ Reference to B. Abgerufen am 30. Mai 2015. 
+↑ Die Unix-Story. Geschichtliches Sachbuch über das Computerbetriebssystem Unix von Autor Brian W. Kernighan, 254 Seiten, Oktober 2020, dpunkt.verlag GmbH, Heidelberg, S. 97
+↑ Brian W. Kernighan, Dennis M. Ritchie: The C Programming Language, Prentice Hall, Englewood Cliffs (NJ) 1978, ISBN 0-13-110163-3.
+↑ Sprachdefinition von C11 als ISO-Standard ISO/IEC 9899:2011, veröffentlicht am 8. Dezember 2011.
+↑ ISO aktualisiert C-Standard, Artikel auf heise online, vom 22. Dezember 2011.
+↑ Options Controlling C Dialect. Abgerufen am 8. September 2018. 
+↑ ISO/IEC 9899:2018 Programming languages C. Abgerufen am 8. September 2018. 
+↑ Rolf Isernhagen, Hartmut Helmke: Softwaretechnik in C und C++. Das Kompendium. Modulare, objektorientierte und generische Programmierung. ISO-C90, ISO-C99, ISO-C++98, MS-C++.NET. 4., vollständig überarbeitete Auflage, Hanser, München/Wien 2004, ISBN 3-446-22715-6, Seite 4.
+↑ Walkthrough: Creating Windows Desktop Applications (C++) Microsoft Docs, abgerufen am 5. Dezember 2019.
+↑ Brian Kernighan, Dennis Ritchie: The C Programming Language. 2. Auflage, Prentice Hall, Englewood Cliffs (NJ) 1988, ISBN 0-13-110362-8, Seite 6.
+↑ Scheler, Stilkerich, Schröder-Preikschat: Komponenten/Module. (PDF; 1,1 MB) informatik.uni-erlangen.de
+↑ Bertrand Meyer: Objektorientierte Softwareentwicklung. Hanser, Wien / München; Prentice Hall Internat. 1990, ISBN 3-446-15773-5, S. 406.
+↑ C language: Undefined behavior. Archiviert vom Original am 23. Mai 2021; abgerufen am 25. August 2021 (englisch). 
+↑ The LLVM Project Blog: What Every C Programmer Should Know About Undefined Behavior. Archiviert vom Original am 15. Mai 2011; abgerufen am 25. Mai 2021 (englisch). 
+↑ Anton Ertl: What every compiler writer should know about programmers or “Optimization” based on undefined behaviour hurts performance. (PDF) TU Wien, archiviert vom Original am 4. März 2016; abgerufen im 1. Januar 1 (englisch). 
+↑ CWE-190: Integer Overflow or Wraparound. Archiviert vom Original am 21. Juli 2021; abgerufen am 26. August 2021 (englisch). 
+↑ Junan Qian, Baowen Xu: Formal Verification for C Program (PDF) In: Informatica, 2007, Volume 18, Number 2, S. 289–304; abgerufen am 5. Juli 2016.
+↑ Harvey Tuch: Formal verification of C systems code. Sydney Research Lab., National ICT Australia, 2009; abgerufen am 5. Juli 2016
+↑ Jay Abraham: Improving Software Quality with Static Code Analysis. MathWorks, 2012; abgerufen am 5. Juli 2016
+↑ gets – C++ Reference. Abgerufen am 12. März 2020. 
+↑ Markus Bautsch: Cycles of Software Crises – How to avoid insecure and uneconomic software. In: ENISA Quartely, Vol. 3, No. 4, Oct–Dec 2007, S. 3–5
+↑ Lambert Kenneth Louden: Programming Languages: Principles and Practices, Ch. 8.6.1 Type Compatibility / 8.7 Type Conversion. Cengage Learning, 2011, ISBN 978-1-133-38749-7.
+Normdaten (Sachbegriff): GND: 4113195-2 (lobid, OGND, AKS) 
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=C_(Programmiersprache)&oldid=234865063“
+Kategorien: C (Programmiersprache)Imperative ProgrammierspracheProgrammiersprache mit einem ISO-StandardUnix
+Navigationsmenü
+Meine Werkzeuge
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden
+Namensräume
+ArtikelDiskussion
+Deutsch
+Ansichten
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte
+Weitere
+Suche
+Navigation
+HauptseiteThemenportaleZufälliger Artikel
+Mitmachen
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden
+Werkzeuge
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenArtikel zitierenWikidata-Datenobjekt
+Drucken/​exportieren
+Buch erstellenAls PDF herunterladenDruckversion
+In anderen Projekten
+CommonsWikibooks
+In anderen Sprachen
+AfrikaansAlemannischአማርኛAragonésالعربيةالدارجةঅসমীয়াAsturianuAzərbaycancaتۆرکجهŽemaitėškaБеларускаяБеларуская (тарашкевіца)БългарскиभोजपुरीবাংলাBrezhonegBosanskiBasa UgiCatalà閩東語 / Mìng-dĕ̤ng-ngṳ̄CorsuČeštinaЧӑвашлаCymraegDanskΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFrançaisGaeilgeGalegoગુજરાતી客家語/Hak-kâ-ngîעבריתहिन्दीHrvatskiMagyarՀայերենInterlinguaBahasa IndonesiaIdoÍslenskaItaliano日本語JawaქართულიTaqbaylitҚазақшаភាសាខ្មែរಕನ್ನಡ한국어KurdîКыргызчаLatinaLombardລາວLietuviųLatviešuमैथिलीMalagasyМакедонскиമലയാളംМонголमराठीBahasa Melayuမြန်မာဘာသာनेपालीNederlandsNorsk nynorskNorsk bokmålOccitanଓଡ଼ିଆਪੰਜਾਬੀPolskiPiemontèisپنجابیPortuguêsRuna SimiRomânăРусскийСаха тылаᱥᱟᱱᱛᱟᱲᱤScotsSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaShqipСрпски / srpskiSvenskaKiswahiliதமிழ்తెలుగుТоҷикӣไทยTagalogTürkçeТатарча / tatarçaУкраїнськаاردوOʻzbekcha / ўзбекчаVènetoTiếng ViệtWinaray吴语IsiXhosaייִדיש中文文言Bân-lâm-gú粵語
+Links bearbeiten
+ Diese Seite wurde zuletzt am 23. Juni 2023 um 17:15 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative-Commons Namensnennung – Weitergabe unter gleichen Bedingungen“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+Datenschutz
+Über Wikipedia
+Impressum
+Verhaltenskodex
+Mobile Ansicht
+Entwickler
+Statistiken
+Stellungnahme zu Cookies

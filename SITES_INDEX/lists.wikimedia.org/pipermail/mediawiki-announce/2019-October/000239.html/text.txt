@@ -1,0 +1,357 @@
+[MediaWiki-announce] MediaWiki 1.34.0-rc.0 is ready for testing - MediaWiki-announce - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+                            2023
+                        
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2022
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2021
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2020
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2019
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2018
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2017
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2016
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2015
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2014
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2013
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2012
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2011
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2010
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2009
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2008
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2007
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2006
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2005
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2004
+                        
+December
+            List overview
+ Download
+thread
+[MediaWiki-announce] MediaWiki 1.34.0-rc.0 is ready for testing
+Sam Reed
+                15 Oct
+                
+                    2019
+                
+            
+                15 Oct
+                
+                '19
+                
+            
+9:54 p.m.
+ 
+I'm pleased to announce the immediate availability of MediaWiki 1.34.0-rc.0,
+the first release candidate for 1.34.x. Download links at the end of the
+e-mail. The tag has been signed and pushed to Git.
+Please note that MediaWiki 1.34 no longer supports HHVM, and also the PHP
+version requirement has been raised from 7.0.13 in MediaWiki 1.33, to 7.2.9.
+This is not a final release and should not be used for production websites.
+Known issues are tracked in Phabricator on the release workboard [1].
+As always please do try out the release candidate in a test environment and
+report any issues that you discover. Please use the #MW-1.34-Release [2] tag
+in Phabricator when reporting issues specific to this release.
+It is expected that MediaWiki 1.34 will become final in the second half of
+November 2019.
+Preliminary release notes:
+https://phabricator.wikimedia.org/source/mediawiki/browse/REL1_34/RELEASE-N…
+https://www.mediawiki.org/wiki/Release_notes/1.34
+MediaWiki core with bundled extensions:
+https://releases.wikimedia.org/mediawiki/1.34/mediawiki-1.34.0-rc.0.tar.gz
+Core only, no extensions:
+https://releases.wikimedia.org/mediawiki/1.34/mediawiki-core-1.34.0-rc.0.ta…
+GPG signatures:
+https://releases.wikimedia.org/mediawiki/1.34/mediawiki-core-1.34.0-rc.0.ta…
+https://releases.wikimedia.org/mediawiki/1.34/mediawiki-1.34.0-rc.0.tar.gz.…
+Public keys:
+https://www.mediawiki.org/keys/keys.html
+Open Bugs:
+[1] https://phabricator.wikimedia.org/project/board/3386/
+Bug report form:
+[2]
+https://phabricator.wikimedia.org/maniphest/task/edit/form/1/?tags=MW-1.34-…
+**********************************************************************
+Download:
+https://releases.wikimedia.org/mediawiki/1.34/mediawiki-1.34.0-rc.0.tar.gz
+Download without bundled extensions:
+https://releases.wikimedia.org/mediawiki/1.34/mediawiki-core-1.34.0-rc.0.ta…
+GPG signatures:
+https://releases.wikimedia.org/mediawiki/1.34/mediawiki-core-1.34.0-rc.0.ta…
+https://releases.wikimedia.org/mediawiki/1.34/mediawiki-1.34.0-rc.0.tar.gz.…
+Public keys:
+https://www.mediawiki.org/keys/keys.html
+ 0
+ 0
+            Reply
+        
+Back to the thread
+            Back to the list
+        
+ 
+            Powered by HyperKitty version 1.3.4.
+        

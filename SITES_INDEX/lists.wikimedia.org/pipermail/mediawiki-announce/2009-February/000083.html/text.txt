@@ -1,0 +1,113 @@
+ [MediaWiki-announce] MediaWiki releases: security update and newmajor branch
+   
+[MediaWiki-announce] MediaWiki releases: security update and newmajor branch
+Tim Starling
+tstarling at wikimedia.org
+       
+Sat Feb  7 04:34:58 UTC 2009
+Next message: [MediaWiki-announce] MediaWiki 1.14.0 and 1.13.5 released
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+This is a security release of 1.13.4, 1.12.4 and 1.6.12.
+A number of cross-site scripting (XSS) security vulnerabilities were
+discovered
+in the web-based installer (config/index.php). These vulnerabilities all
+require a live installer -- once the installer has been used to
+install a wiki,
+it is deactivated.
+Note that cross-site scripting vulnerabilities can be used to attack
+any website
+in the same cookie domain. So if you have an uninstalled copy of
+MediaWiki on
+the same site as an active web service, MediaWiki could be used to
+attack the
+active service.
+If you are hosting an old copy of MediaWiki that you have never
+installed, we advise you to remove it from the web.
+Additionally, we are releasing 1.14.0rc1, the first release candidate
+of the 2009 Q1 branch. Brave souls are encouraged to download it and
+try it out.
+Note that we have disabled SQLite installation in 1.14, due to the
+incompleteness of the implementation. We intend to restore it in 1.15.
+We're not sure how many people are using SQLite, so contact us if our
+treatment of it is causing you problems.
+Upgrade FAQ:
+http://www.mediawiki.org/wiki/Manual:FAQ#Upgrading
+Full release notes:
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_14_0RC1/phase3/RELEASE-NOTES
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_13_4/phase3/RELEASE-NOTES
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_12_4/phase3/RELEASE-NOTES
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_6_12/phase3/RELEASE-NOTES
+**********************************************************************
+MEDIAWIKI 1.14.0rc1
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.14/mediawiki-1.14.0rc1.tar.gz
+Patch generation failed due to changes in binary files.
+GPG signature:
+http://download.wikimedia.org/mediawiki/1.14/mediawiki-1.14.0rc1.tar.gz.sig
+Public keys:
+https://secure.wikimedia.org/keys.html
+**********************************************************************
+MEDIAWIKI 1.13.4
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.13/mediawiki-1.13.4.tar.gz
+Patch to previous version (1.13.3), without interface text:
+http://download.wikimedia.org/mediawiki/1.13/mediawiki-1.13.4.patch.gz
+Interface text changes:
+http://download.wikimedia.org/mediawiki/1.13/mediawiki-i18n-1.13.4.patch.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.13/mediawiki-1.13.4.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.13/mediawiki-1.13.4.patch.gz.sig
+http://download.wikimedia.org/mediawiki/1.13/mediawiki-i18n-1.13.4.patch.gz.sig
+Public keys:
+https://secure.wikimedia.org/keys.html
+**********************************************************************
+MEDIAWIKI 1.12.4
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.12/mediawiki-1.12.4.tar.gz
+Patch to previous version (1.12.3), without interface text:
+http://download.wikimedia.org/mediawiki/1.12/mediawiki-1.12.4.patch.gz
+Interface text changes:
+http://download.wikimedia.org/mediawiki/1.12/mediawiki-i18n-1.12.4.patch.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.12/mediawiki-1.12.4.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.12/mediawiki-1.12.4.patch.gz.sig
+http://download.wikimedia.org/mediawiki/1.12/mediawiki-i18n-1.12.4.patch.gz.sig
+Public keys:
+https://secure.wikimedia.org/keys.html
+**********************************************************************
+MEDIAWIKI 1.6.12
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.6/mediawiki-1.6.12.tar.gz
+Patch to previous version (1.6.11):
+http://download.wikimedia.org/mediawiki/1.6/mediawiki-1.6.12.patch.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.6/mediawiki-1.6.12.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.6/mediawiki-1.6.12.patch.gz.sig
+Public keys:
+https://secure.wikimedia.org/keys.html
+- -- Tim Starling
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+iEYEARECAAYFAkmND2sACgkQ8F4kYQ4+MpObjgCfX5osxcDT2MDfU+6PF73UXO1N
+l1sAnioY8dzMqDII8JuFZ6SWK3tMcHZu
+=SxDh
+-----END PGP SIGNATURE-----
+Next message: [MediaWiki-announce] MediaWiki 1.14.0 and 1.13.5 released
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+More information about the MediaWiki-announce
+mailing list

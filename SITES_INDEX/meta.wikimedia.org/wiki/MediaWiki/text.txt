@@ -1,0 +1,188 @@
+MediaWiki - Meta
+MediaWiki
+From Meta, a Wikimedia project coordination wiki
+Jump to navigation
+Jump to search
+Translate this pageOther languages:Bahasa Indonesia
+Bahasa Melayu
+Bân-lâm-gú
+Cymraeg
+Deutsch
+English
+Esperanto
+Runa Simi
+Tiếng Việt
+Türkçe
+azərbaycanca
+dansk
+español
+français
+italiano
+lietuvių
+magyar
+occitan
+polski
+português
+português do Brasil
+română
+svenska
+Ελληνικά
+български
+кыргызча
+македонски
+русский
+тоҷикӣ
+українська
+اردو
+العربية
+سنڌي
+فارسی
+مصرى
+پښتو
+کوردی
+अंगिका
+नेपाली
+भोजपुरी
+हिन्दी
+বাংলা
+ਪੰਜਾਬੀ
+ગુજરાતી
+മലയാളം
+မြန်မာဘာသာ
+ᱥᱟᱱᱛᱟᱲᱤ
+中文
+日本語
+ꯃꯤꯇꯩ ꯂꯣꯟ
+한국어
+Wikimedia projects
+MediaWiki
+Meta-Wiki
+Wikibooks
+Wikidata
+Wikifunctions
+Wikimedia Commons
+Wikinews
+Wikiquote
+Wikipedia
+Wikisource
+Wikispecies
+Wiktionary
+Wikiversity
+Wikivoyage
+Complete list of Wikimedia projects — List of Wikimedia projects by size
++/-
+MediaWiki Handbook: Contents, Readers, Editors, Moderators, System admins, Researchers
++/-
+MediaWiki:
+Features
+Handbook
+Sources
+Bug/Feature Submissions
+The team
+Versions:
+Ganso
+1.1
+1.2
+…
+1.31
+1.32
+1.33
+1.40.0(News)
+|( release )
+MediaWiki — MediaWiki.org
+Software[edit]
+Features
+Requirements
+Download
+Installation
+Handbook
+Extensions
+Development[edit]
+Developers
+Bug/Feature Submissions
+Hacking/Contributing
+Wikimedia's Set-Up[edit]
+Servers
+Status
+Toolserver
+Server log
+1.41.0-wmf.23 (dfd5027)
+edit links
+Note: the name "MediaWiki" is often confused with several other, similar, names; please see the glossary for an explanation of these.
+MediaWiki is wiki software, released under the GPL, that is used by Wikimedia projects as well as other websites. It is an implementation of a wiki, a content pool that anyone can freely edit. It is developed using Phabricator, our instance of Phacility's Phabricator.
+MediaWiki 1.40.0 is the latest stable version, and is recommended for third-party users.
+Those running their own servers should upgrade for security reasons. Special:Version shows what version a site is running. You can play around in the local Sandbox to see this version in action.
+MediaWiki 1.40.0 is available for download from MediaWiki.org, a site that is also responsible for the documentation of the software. MediaWiki 1.41.0-wmf.23 (dfd5027) is currently running on all Wikimedia sites. Third-party users should probably not run the alpha/beta versions of MediaWiki on publicly accessible servers at this time.
+About[edit]
+Introduction
+Handbook (learn how to use MediaWiki)
+Technical developers section
+Mailing lists, especially wikitech-l
+#mediawikiconnect
+Miscellaneous[edit]
+MediaWiki features
+Installation and configuration
+MediaWiki tutorial with screenshots: how to install and configure Mediawiki, how to change skins; how to add extensions
+Technical[edit]
+MediaWiki architecture
+MediaWiki history
+MediaWiki roadmap
+Versions[edit]
+See version lifecycle for the currently supported MediaWiki releases.
+Database dump[edit]
+For downloadable dumps of Wikipedia's article database, see Wikipedia:Database download. For a description of the database format and fields, see database layout.
+To create your own dump of a local MediaWiki site, you can use the dumpBackup.php script found in the maintenance directory of your MediaWiki installation tree.
+An example invocation to a full backup might look like:
+ php maintenance/dumpBackup.php --full > full.xml
+Command line options for dumpBackup.php are explained by running it with no parameters, i.e.
+ php maintenance/dumpBackup.php
+However, there are some extra undocumented options in its source code.
+See also[edit]
+MediaWiki.org wiki has a page about this at:
+MediaWiki
+Wikipedia has more about this subject:MediaWiki
+Manual:Security
+Chronological list of software changes
+MediaWiki FAQ
+Sites using MediaWiki
+Wikidata
+Manual:What is MediaWiki
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=MediaWiki&oldid=25322087"
+Category: MediaWiki
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Content pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+Wikimedia CommonsMediaWikiWikibooksWikipediaWikiquoteWikiversity
+In other languages
+AfrikaansAlemannischAragonésالعربيةمصرىঅসমীয়াAsturianuAzərbaycancaتۆرکجهBoarischБеларускаяБеларуская (тарашкевіца)БългарскиবাংলাBrezhonegBosanskiCatalà閩東語 / Mìng-dĕ̤ng-ngṳ̄НохчийнکوردیČeštinaKaszëbscziЧӑвашлаDanskDeutschZazakiΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFrançaisFryskGaeilgeGalegoBahasa Hulontalo客家語/Hak-kâ-ngîעבריתहिन्दीHrvatskiMagyarՀայերենInterlinguaBahasa IndonesiaIgboГӀалгӀайÍslenskaItaliano日本語ქართულიភាសាខ្មែរಕನ್ನಡ한국어कॉशुर / کٲشُرKurdîLatinaLëtzebuergeschLimburgsLietuviųLatviešuMalagasyМакедонскиമലയാളംमराठीBahasa MelayuMaltiनेपालीNederlandsNorsk nynorskNorskOccitanਪੰਜਾਬੀPolskiPortuguêsRomânăРусскийSicilianuScotsسنڌيSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaShqipСрпски / srpskiSvenskaதமிழ்తెలుగుТоҷикӣไทยTagalogTürkçeУкраїнськаاردوOʻzbekcha / ўзбекчаVènetoTiếng ViệtWinaray吴语ייִדישYorùbá中文文言Bân-lâm-gú粵語
+Edit links
+ This page was last edited on 20 July 2023, at 05:22.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

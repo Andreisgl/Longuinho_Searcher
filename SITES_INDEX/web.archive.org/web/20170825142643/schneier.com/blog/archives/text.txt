@@ -1,0 +1,167 @@
+Microsoft Accidentally Leaks Key to Windows Backdoor - Schneier on Security
+141 captures
+15 Aug 2016 - 24 May 2023
+Oct
+AUG
+Nov
+25
+2016
+2017
+2018
+success
+fail
+ About this capture
+COLLECTED BY
+Organization: Internet Archive
+  These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to.   That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.  
+Then the Internet Archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.
+The goal is to fix all broken links on the web. 
+Crawls of supported "No More 404" sites.
+Collection: Wikipedia Near Real Time (from IRC)
+  This is a collection of web page captures from links added to, or changed on, Wikipedia pages. The idea is to bring a reliability to Wikipedia outlinks so that if the pages referenced by Wikipedia articles are changed, or go away, a reader can permanently find what was originally referred to.
+This is part of the Internet Archive's attempt to rid the web of broken links.
+TIMESTAMPS
+The Wayback Machine - http://web.archive.org/web/20170825142643/https://www.schneier.com/blog/archives/2016/08/microsoft_accid.html
+Schneier on Security
+Blog
+Newsletter
+Books
+Essays
+News
+Talks
+Academic
+About Me
+Search
+Powered by DuckDuckGo
+blog
+essays
+whole site 
+Subscribe
+Blog >
+Microsoft Accidentally Leaks Key to Windows Backdoor
+In a cautionary tale to those who favor government-mandated backdoors to security systems, Microsoft accidentally leaked the key protecting its UEFI Secure boot feature.
+As we all know, the problems with backdoors are less the cryptography and more the systems surrounding the cryptography.
+Tags: backdoors, cryptography, keys, leaks, Microsoft
+Posted on August 15, 2016 at  6:27 AM
+ • 
+9 Comments
+Comments
+Steinar H. Gunderson • August 15, 2016  7:26 AM
+They didn't really leak a key, though. It's more subtle, and it's possible that it doesn't affect x86. See Matthew Garrett's explanation at https://mjg59.dreamwidth.org/44223.html for more information.
+ole man • August 15, 2016  9:24 AM
+I can still remember a time when the ability to install any software on your very own computer wasn't considered to be a "bug" or a "vulnerability".
+Aaah, those were the days...
+Couldn'tPossiblyComment • August 15, 2016  9:30 AM
+I nearly said that I see the spambots are getting smarter, but I think the above from Industrial computers is a legit reply & link ;) I'm so unused to the use of the URL form entry.
+As an aside, the apparent original source at https://rol.im/securegoldenkeyboot/ is possibly the most annoying web page I've opened since I last found myself on Geocities. Recommend text only.
+The link provided by Steinar does indeed highlight that this isn't quite a leak of a key, but it's not far off. More precisely, it's a leaked signed supplementary policy that pre-Anniversary ARM bootloaders will load as though it's a full policy, and said policy says 'ignore loader security'. So if I'm reading right, the security defect is that the older devices will load a policy without a match on the device ID, and then MS created dev policies that can be loaded without an ID that turn loader security off which got leaked.
+Had a key been leaked, they really would have been screwed. Had the Anniversary Edition's new supplementary policies been invalid to older bootloaders, this would have been avoided. As the article finishes off 'Adding new features can break old assumptions, and your design needs to take that into account'.
+I also recall there used to be devices that you had to to put into 'dev' mode in hardware before it would allow this sort of thing to be done. Shame that didn't persist.
+Doesn't change the pertinence of the failure of backdoors to remain perfectly secret.
+ianf • August 15, 2016  9:46 AM
+@ MODERATOR :: this  
+https://www.schneier.com/blog/archives/2006/03/mozilla_bug_cau.html#c6731401
+and this: 
+https://www.schneier.com/blog/archives/2016/08/microsoft_accid.html#c6731397
+look like SPAM, 
+smell like SPAM, 
+they're SPAM
+hawk • August 15, 2016 12:00 PM
+"As we all know, the problems with backdoors are less the cryptography and more the systems surrounding the cryptography."
+Cryptography does not exist apart from a system in which it is implemented. 
+uh, Mike • August 15, 2016 12:28 PM
+uSoft didn't put in a backdoor for the NSA, but it did put in a backdoor for developer convenience.
+"You're not from the government, are you?  Okay, you can come in."
+Chuck • August 15, 2016  6:49 PM
+The links have information about the leak, but where do we actually get the data?
+vas pup • August 16, 2016  8:48 AM
+China has successfully launched the world's first quantum-enabled satellite, state media said.
+http://www.bbc.com/news/world-asia-china-37091833
+“If it works, it will solve the central problem of encrypted communications - how to distribute keys without interception - promising hack-proof communications. The encrypted message itself can be transmitted normally after the key exchange”
+"Quantum computing is largely seen as the next big thing in communications," says Marc Einstein, Director of the Information Communications Technology (ICT) practice of Frost and Sullivan, Japan, citing secure transmission of credit card data as a likely early application.”
+MisterNo • August 20, 2016  2:54 PM
+I'm with the ole man on this one.
+Hated the idea from the get-go, but if you buy the right machine to install Linux, no big deal. It was a conspiracy to push away Linux from the OEM pre-built market. Don't tell me it was really some security thing.
+The article said Windows Phone: since when does Nokia have this option? It is important to not "jailbreak" your main phone for development. You suck it up and buy a second phone you can jack with. The SD card is encrypted, albeit with a law enforcement backdoor. Is there any proof of hacking into live Windows phones? Really, all it takes is a CALEA order to watch someone's traffic, if the govt is what you are scared of. 
+I think for people that don't use a Windows Phone, you should know that the Windows Phone server stuff is scary. If you BYOD, the admin can have total control over your device... and it's your phone! If Blackberry did one thing right, it was dual profiling. There's no BYOD in my life.
+Windows RT: care. I don't. And Microsoft has vaguely picked up the ball on kiosk/thin client imaging. Custom imaging is a really arduous task and Assigned Access is not all that.
+My opinion has always been analyze your physical security issue properly. Is it real? Paranoid about who? Law Enforcement? Did you pop up on the radar?
+About the mobile paranoid business man issue:
+I see the fragility in encrypted containers and TPM. You just stack problems. 
+**If someone has your mobile device, you have other problems... mostly behavioral.
+It's all sort of disingenuous given how easy it is to hack into a non-live system. Even Tim Cook has feds crawling in his cubicles now.
+Subscribe to comments on this entry
+Leave a comment
+Name (required):
+E-mail Address:
+URL:
+Fill in the blank: the name of this blog is Schneier on ___________ (required):
+Comments:
+Allowed HTML: <a href="URL"> • <em> <cite> <i> • <strong> <b> • <sub> <sup> • <ul> <ol> <li> • <blockquote> <pre>
+← Friday Squid Blogging: Squid Not Killing New Zealand Sea Lions
+Yet Another Government-Sponsored Malware →
+Photo of Bruce Schneier by Per Ervland.
+Schneier on Security is a personal website.  Opinions expressed are not necessarily those of IBM Resilient.
+About Bruce Schneier
+I've been writing about security issues on my blog since 2004, and in my monthly newsletter since 1998. I write books, articles, and academic papers. Currently, I'm the Chief Technology Officer of IBM Resilient, a fellow at Harvard's Berkman Center, and a board member of EFF.
+Related Entries
+Windows 10 Whole-Disk Encryption without Key Escrow
+Defending Against Crypto Backdoors
+Apple's Cloud Key Vault
+Collision Attacks Against 64-Bit Block Ciphers
+CIA Director John Brennan Pretends Foreign Cryptography Doesn't Exist
+Featured Essays
+The Value of Encryption
+Data Is a Toxic Asset, So Why Not Throw It Out?
+How the NSA Threatens National Security
+Terrorists May Use Google Earth, But Fear Is No Reason to Ban It
+In Praise of Security Theater
+Refuse to be Terrorized
+The Eternal Value of Privacy
+Terrorists Don't Do Movie Plots
+more essays
+Blog Archives
+Archives by Month
+100 Latest Comments
+Blog Tags
+privacy
+terrorism
+surveillance
+squid
+academic papers
+NSA
+air travel
+hacking
+national security policy
+cryptography
+law enforcement
+encryption
+DHS
+homeland security
+economics of security
+crime
+Schneier news
+malware
+essays
+TSA
+computer security
+laws
+fraud
+vulnerabilities
+psychology of security
+police
+courts
+cost-benefit analysis
+cell phones
+authentication
+more tags
+Latest Book
+more books
+Blog
+Newsletter
+Books
+Essays
+News
+Talks
+Academic
+About Me

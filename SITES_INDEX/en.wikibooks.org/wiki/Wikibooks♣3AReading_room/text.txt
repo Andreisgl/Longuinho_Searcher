@@ -1,0 +1,65 @@
+Wikibooks:Reading room/Bulletin Board - Wikibooks, open books for an open world
+Wikibooks:Reading room/Bulletin Board
+From Wikibooks, open books for an open world
+< Wikibooks:Reading room
+Jump to navigation
+Jump to search
+ArchivesWikibooks Discussion Rooms
+Discussions
+Assistance
+Requests
+Announcements
+General | Proposals | Projects | Featured books
+General | Technical | Administrative
+Deletion | Undeletion | Import | Permissions
+Bulletin Board
+ 
+Shortcut:  WB:BB
+Have a significant announcement?  Post it!  See an announcement that is wrong?  Edit it!
+Latest Bulletins
+Warning script
+I have adapted a user warning script from the Russian Wikipedia for Wikibooks. It adds a button to the editing toolbar in the source editor, so it is most convenient for redlinked user talk pages, but it can save a click or two otherwise as well, even though it may not be as quick as Twinkle. Unfortunately, it does not work when syntax highlighting is activated. The script can be found at user:1234qwer1234qwer4/warnings.js. 𝟙𝟤𝟯𝟺𝐪𝑤𝒆𝓇𝟷𝟮𝟥𝟜𝓺𝔴𝕖𝖗𝟰 (𝗍𝗮𝘭𝙠) 12:26, 26 May 2021 (UTC)Reply[reply]
+Start allowing game strategies
+Please see the discussion of books on video game strategy at Wikibooks:Reading_room/Proposals#Start allowing game strategies. --Jules (Mrjulesd) 11:51, 7 February 2021 (UTC)Reply[reply]
+BookCat
+Hello, I've created a simple script that adds the BookCat template to the end of a page in main namespace if it is not yet in any book category; see User:1234qwer1234qwer4/BookCat.js if you are interested. 𝟙𝟤𝟯𝟺𝐪𝑤𝒆𝓇𝟷𝟮𝟥𝟜𝓺𝔴𝕖𝖗𝟰 (𝗍𝗮𝘭𝙠) 20:07, 11 November 2020 (UTC)Reply[reply]
+Since JackBot started doing this task again, this is no longer that useful. 𝟙𝟤𝟯𝟺𝐪𝑤𝒆𝓇𝟷𝟮𝟥𝟜𝓺𝔴𝕖𝖗𝟰 (𝗍𝗮𝘭𝙠) 11:59, 15 March 2021 (UTC)Reply[reply]
+Reporting script
+I have created a script that can report users at the click of a button, which saves maybe 5 - 10 minutes each time you report somebody. Documentation can be found at User:L10nM4st3r/ReportUser. Feedback and suggestions welcome.  — L10nM4st3r / ROAR at me! 11:18, 26 January 2023 (UTC)Reply[reply]
+Retrieved from "https://en.wikibooks.org/w/index.php?title=Wikibooks:Reading_room/Bulletin_Board&oldid=4232554"
+Category: Reading roomHidden category: Move-protected project pages
+Navigation menu
+Personal tools
+Not logged inDiscussion for this IP addressContributionsCreate accountLog in
+Namespaces
+Project pageDiscussion
+English
+Views
+ReadView sourceView history
+More
+Search
+Navigation
+Main PageHelpBrowseCookbookWikijuniorFeatured booksRecent changesDonationsRandom bookUsing Wikibooks
+community
+Reading room forumCommunity portalBulletin BoardHelp out!Policies and guidelinesContact us
+Tools
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+sister projects
+WikipediaWikiversityWiktionaryWikiquoteWikisourceWikinewsWikivoyageCommonsWikidataMediaWikiMeta-Wiki
+Print/export
+Create a collectionDownload as PDFPrintable version
+In other projects
+Wikimedia CommonsMediaWikiMeta-WikiMultilingual WikisourceWikidataWikipediaWikiquoteWikisourceWikiversityWiktionary
+In other languages
+AzərbaycancaБеларускаяবাংলাBosanskiČeštinaDeutschFrançaisहिन्दीHrvatskiBahasa Indonesia日本語Bahasa MelayuNorskPolskiSlovenščinaTiếng Việt
+Edit links
+ This page was last edited on 26 January 2023, at 11:18.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikibooks
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

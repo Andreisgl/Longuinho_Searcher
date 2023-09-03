@@ -1,0 +1,940 @@
+Raspberry Pi – Wikipedia
+Raspberry Pi
+aus Wikipedia, der freien Enzyklopädie
+Zur Navigation springen
+Zur Suche springen
+Logo der Raspberry-Pi-Stiftung
+Raspberry Pi 4 Model B
+Raspberry Pi 2 Model B
+Raspberry Pi Model A+
+Raspberry Pi Zero
+Der Raspberry Pi (Aussprache in Britischem Englisch: ˈrɑːzb(ə)rɪ ˈpaɪ) ist ein Einplatinencomputer, der von der britischen Raspberry Pi Foundation entwickelt wurde. Der Rechner enthält ein Ein-Chip-System (SoC) von Broadcom mit einer Arm-CPU. Die Platine hat das Format einer Kreditkarte. Der Raspberry Pi kam Anfang 2012 auf den Markt; sein großer Markterfolg wird teils als Revival des bis dahin weitgehend bedeutungslos gewordenen Heimcomputers zum Programmieren und Experimentieren angesehen.[1] Der im Vergleich zu üblichen Personal Computern sehr einfach aufgebaute Rechner wurde von der Stiftung mit dem Ziel entwickelt, jungen Menschen den Erwerb von Programmier- und Hardware-Kenntnissen zu erleichtern. Entsprechend niedrig wurde der Verkaufspreis angesetzt, der je nach Modell etwa 5 bis 100 Euro beträgt.
+Es ist der meistverkaufte britische Computer: Bis Februar 2022 wurden über 45 Millionen Geräte verkauft.[2] Die Entwicklung des Raspberry Pi wurde mit mehreren Auszeichnungen und Ehrungen bedacht. Es existiert ein großes Zubehör- und Softwareangebot für zahlreiche Anwendungsbereiche. Verbreitet ist beispielsweise die Verwendung als Mediacenter, da der Rechner Videodaten im H.264-Codec mit voller HD-Auflösung (1080p) und HEVC-Videodaten mit 4K-Auflösung (4k60, seit Raspberry Pi 4) dekodieren und über die HDMI-Schnittstelle (1080p30 Raspberry Pi 3, 2× 4k60 ab Raspberry Pi 4) ausgeben kann. Als Betriebssystem kommen vor allem angepasste Linux-Distributionen mit grafischer Benutzeroberfläche zum Einsatz; für das neueste Modell existiert auch Windows 10 in einer speziellen Internet-of-Things-Version ohne grafische Benutzeroberfläche. Das Booten erfolgt gewöhnlich von einer wechselbaren SD-Karte. Bei der neueren Generation mit dem BCM2837 oder BCM2711 ist der Start auch von einem USB-Massenspeicher[3] oder Netzwerk[4] möglich. Eine native Schnittstelle für Festplattenlaufwerke ist nicht vorhanden.
+Inhaltsverzeichnis
+1 Hintergrund
+1.1 Idee
+1.2 Namensgebung und Logo
+1.3 Organisation
+2 Entwicklung
+3 Hardware
+3.1 Eigenschaften
+3.1.1 Raspberry Pi
+3.1.2 Compute Modules (CM)
+3.2 Prozessor
+3.3 Grafik
+3.4 Audio
+3.5 Echtzeituhr
+3.6 Allzweckeingabe/-ausgabe (GPIO)
+3.6.1 Erweiterungsplatinen (HAT)
+3.7 Kamera-Schnittstelle
+3.8 Bildschirm-Schnittstelle
+4 Betriebssysteme
+4.1 Linux-Systeme
+4.1.1 Raspberry Pi OS
+4.1.2 Weitere Linux-Distributionen
+4.2 Andere Systeme
+5 Software
+6 Emulation
+7 Astro-Pi
+8 Rezeption
+8.1 Erfolg
+8.2 Reaktionen
+8.3 Kritik
+8.3.1 Absturz durch Xenon-Blitz
+8.3.2 Empfindlichkeit gegen Kurzschlüsse
+8.3.3 Probleme mit USB-C-Kabeln
+8.3.4 Speicherschnittstellen
+9 Literatur
+10 Weblinks
+11 Einzelnachweise
+Hintergrund[Bearbeiten | Quelltext bearbeiten]
+Idee[Bearbeiten | Quelltext bearbeiten]
+Das Motiv hinter der Entwicklung eines preisgünstigen Rechners war die sinkende Anzahl an Informatikstudenten an der Universität Cambridge sowie die jedes Jahr geringeren Programmierkenntnisse der Studienanfänger. Für einen der Gründe hielt man, dass Computer heute in der Regel teuer und komplex sind und Eltern ihren Kindern deswegen häufig verbieten, mit dem Familien-PC zu experimentieren.[5] Man wollte daher Jugendlichen einen günstigen Computer zum Experimentieren und Erlernen des Programmierens an die Hand geben. Dabei hoffte man, dass sie wie in der Zeit der Heimcomputer (wie etwa des Apple II, Atari XL, TRS-80, Commodore 64, Sinclair ZX80, BBC Micro) die Computergrundlagen und -programmierung spielerisch erlernen würden.[6]
+Namensgebung und Logo[Bearbeiten | Quelltext bearbeiten]
+Der Name ist ein Wortspiel, raspberry pie (homophon mit der englischen Aussprache von Pi) bedeutet im Englischen „Himbeertörtchen“ oder „Himbeerkuchen“. „Himbeere“ knüpft einerseits an die Tradition an, Computer nach Früchten zu benennen, wie etwa Apple oder Acorn;[7] andererseits hat „Raspberry“ im Englischen einen geringschätzigen Beiklang, wie im Deutschen etwa „Gurke“ oder „Zitrone“ und bezieht sich auf den niedrigen Preis und die (verglichen mit PCs der Entstehungszeit) geringe Leistung des Rechners. Das „Pi“ steht für „Python interpreter“, ursprünglich sollte der Rechner mit fest eingebautem Interpreter für die Programmiersprache Python geliefert werden, ähnlich wie bei den Heimcomputern der 1980er Jahre fast durchweg ein BASIC-Interpreter eingebaut war.[8]
+Das Logo des Projekts wurde im Rahmen eines öffentlich ausgeschriebenen Wettbewerbs ausgewählt. Es zeigt eine stilisierte Himbeere.[9]
+Organisation[Bearbeiten | Quelltext bearbeiten]
+Eben Upton (2014)
+Hinter dem Raspberry Pi stehen zwei Organisationen: Die Raspberry Pi Foundation ist eine Stiftung und in Großbritannien als Wohltätigkeitsorganisation eingetragen.[10] Die Herstellung und der Vertrieb der Hardware geschieht durch die Raspberry Pi Trading, die der Raspberry Pi Foundation gehört und alle Gewinne an diese abführt.[11]
+Die Raspberry Pi Foundation hat sich zum Ziel gesetzt, das Studium der Informatik und verwandter Themen zu fördern, besonders an Schulen. Sie wurde am 25. November 2008 in Caldecote, South Cambridgeshire gegründet.[12] Die Treuhänder der Stiftung sind:[13]
+David Braben – Gründer des Computerspieleherstellers Frontier Developments und Mitautor des Computerspiels Elite
+Jack Lang – früherer Acorn-Mitarbeiter, Business Angel und Gründer einiger Start-Ups im Umfeld der Universität Cambridge
+Pete Lomas – Mitbegründer und Entwicklungsleiter der Norcott Technologies[14]
+Robert Mullins – University of Cambridge Computer Laboratory am St. John’s College in Cambridge
+Alan Mycroft – Professor im Bereich „Computing in University“ am Cambridge Computer Laboratory
+Eben Upton – Ingenieur bei Broadcom Europe, Gründer einiger Software-Start-Ups und früherer Direktor im Bereich Informatik am St. John’s College in Cambridge; CEO der Raspberry Pi trading company[15]
+Entwicklung[Bearbeiten | Quelltext bearbeiten]
+Ein Prototyp mit einem Atmel-ATmega644-Mikrocontroller wurde im Jahr 2006 produziert.[16] Das Layout der Platine ist als Open Source frei gegeben.[17][16]
+Revision 2 des Raspberry Pi Model B
+Die Leistungen des Gerätes überzeugten die Entwickler nicht. Wegen des damals beginnenden Booms von Smartphones kamen jedoch geeignete ARM-Prozessoren auf den Markt. Man fand mit dem BCM2835 einen günstigen Prozessor mit verhältnismäßig hoher Leistung und entwarf für dieses Ein-Chip-System eine neue Mehrlagenplatine. Für den Atmel war man noch mit einer Lochrasterplatine ausgekommen.
+50 Alpha-Boards wurden im August 2011 geliefert. Diese Geräte waren funktional gleich mit dem späteren Model B des Raspberry Pi,[18] aber die Platine war größer, weil sie mit Messpunkten zur Fehlersuche versehen war. Die Verkaufsversion hat die Größe einer Kreditkarte. Auf den Versuchsplatinen wurde bereits gezeigt, dass die Desktop-Umgebung LXDE unter Debian sowie Quake III Arena[19] und H.264-Videos[20] mit einer Auflösung von 1080p via HDMI funktionieren. Ab Herbst 2012 wurde eine leicht veränderte Revision 2 verkauft; zwei Befestigungslöcher wurden ergänzt, kleinere Fehler behoben und einige Pins anders belegt.[21][22][23]
+Etwa gleichzeitig konnte wegen der unerwartet großen Verkaufszahlen auch die Produktion von China nach Wales, in eine Fabrik des Unternehmens Sony,[24] verlegt und der Arbeitsspeicher (RAM) des Model B auf 512 MB verdoppelt werden.[25][26][27][28]
+Am 14. Mai 2013 kam ein Kameramodul für den Raspberry Pi in den Handel.[29] Eine besonders für Aufnahmen bei Nacht geeignete Variante ohne Infrarotfilter ist unter der Bezeichnung Pi NoIR erhältlich (November 2013).[30]
+Raspberry Pi Compute Module
+Am 7. April 2014 angekündigt[31] und seit dem 9. Juni 2014 lieferbar[32] ist das Raspberry Pi Compute Module, ein Raspberry Pi in der Größe und mit dem Aussehen eines DDR2-SODIMM-Speichermoduls. Das Modell entspricht etwa den technischen Spezifikationen des Model A,[33] hat jedoch zusätzlich 4 GB eMMC-Flashspeicher. Da dem Modul die üblichen I/O-Anschlüsse fehlen, lassen sich diese bei Bedarf über ein optionales I/O-Board nachrüsten.
+Am 14. Juli 2014 wurde das Model B+ vorgestellt. Bei diesem wurde die Anzahl der GPIO- und der USB-Ports erhöht, die Leistungsaufnahme verringert und die Audioausgabe verbessert. Der SD-Karten-Steckplatz wurde durch einen kompakteren für Micro-SD-Karten ersetzt.[34][35] Das Model B+ ersetzt das gleich viel kostende Model B. Model B wird auch weiterhin angeboten und ist für Kunden gedacht, deren Anwendungen auf die Form der Platine und Pinbelegung hin konstruiert sind. Erstmals mit dem Model B+ wurde eine offizielle Spezifikation für Erweiterungsplatinen vorgestellt.[36]
+Am 10. November 2014 wurde das Model A+ vorgestellt. Während das Model A als eine teilbestückte Version des Model B angesehen werden kann, ist das günstigere und kompaktere Model A+ neu entwickelt. Es hat wie das Modell B+ einen 40-poligen Anschluss für Erweiterungsplatinen und einen Micro-SD-Karten-Steckplatz, ist aber etwa ein Viertel kürzer als Model A, B und B+.[37][38]
+Raspberry Pi 2 Model B im transparenten Gehäuse
+Am 2. Februar 2015 wurde der Raspberry Pi 2 Model B vorgestellt,[39] obwohl Eben Upton noch im Juli 2014 bekanntgegeben hatte, dieses würde nicht vor 2017 erscheinen.[40] Dessen Ausstattung ist der des Model B+ sehr ähnlich, es hat aber 1 GB RAM und einen Vierkernprozessor vom Typ Broadcom BCM2836 auf Arm-Cortex-A7-Basis mit einer Taktfrequenz von bis zu 900 MHz. Das neue Modell soll bei Multithreading-Anwendungen bis zu sechsmal schneller als seine Vorgänger sein und sowohl Ubuntu Core Snappy als auch Windows 10 unterstützen.[41][42]
+Auf der Microsoft-Entwicklerkonferenz „Build 2015“ wurde Windows 10 IoT Core offiziell angekündigt.[43]
+Am 26. November 2015 wurde der Raspberry Pi Zero vorgestellt. Die Ausstattung ähnelt der des Model A+, jedoch taktet der Prozessor nicht mehr mit 700 MHz, sondern mit 1 GHz und die Platinenbreite wurde von 56 mm auf 35 mm verringert. Der HDMI-Steckverbinder wurde durch den kleineren Mini-HDMI ersetzt und die USB-A-Buchse durch die kleinere Micro-USB-Buchse (B). Die 40-polige Stiftleiste für die GPIO-Pins ist ebenso wie der FBAS-Videoausgang nicht bestückt.[44]
+Raspberry Pi 3 Model B
+Am 29. Februar 2016 wurde der Raspberry Pi 3 Model B vorgestellt. Der Hersteller erweiterte das Vorgängermodell um integriertes WLAN und Bluetooth Low Energy (BLE) und verwendete eine schnellere CPU mit 64-bit-Armv8-Architektur.[45]
+Ende 2016 wurde die Version 1.2 des Raspberry Pi 2 Model B mit der neuen CPU des Model 3 vorgestellt. Abgesehen davon ist die Ausstattung gleich mit der des ursprünglichen Model 2; auch die CPU ist weiterhin nur mit 900 MHz getaktet, statt der 1200 MHz des Model 3.[46]
+Am 16. Januar 2017 wurde das Compute Module 3 (CM3) vorgestellt. Es hat das SoC des Raspberry Pi 3 und 1 GB RAM (vorher 512 MB). Die CPU-Leistung soll sich im Vergleich zum CM1 etwa verzehnfacht haben. Das CM3 ist in zwei Varianten verfügbar: eine Standardvariante und eine Lite (CM3L), letztere ohne den aufgelöteten 4-GB-Flashspeicher. Das CM3 ist mit dem CM1 kompatibel, einziger sichtbarer Unterschied ist die um 1 mm gewachsene Breite.[47]
+Am 28. Februar 2017 wurde der Raspberry Pi Zero W vorgestellt. Die Ausstattung des Modells ist nahezu gleich zu der des Raspberry Pi Zero, wurde jedoch durch den schon beim Raspberry Pi 3 Model B eingesetzten zusätzlichen Chip um ein integriertes WLAN und BLE erweitert.[48] Seit dem 12. Januar 2018 ist der Raspberry Pi Zero WH erhältlich,[49] der technisch dem  Raspberry Pi Zero W entspricht, dessen 40-poliger Anschluss aber bereits werkseitig mit entsprechenden Pfostensteckern versehen ist.
+Am 14. März 2018 (Pi-Tag) wurde das Raspberry Pi 3 Model B+ vorgestellt. Der Prozessortakt wurde um 200 MHz auf 1400 MHz erhöht und es gibt ein neues Funkmodul. Dieses beherrscht nun auch 5-GHz-WLAN nach dem IEEE-802.11ac-Standard und Bluetooth 4.2. Außerdem hat es
+Gigabit-Ethernet, das jedoch weiterhin über den einzigen USB-Port angebunden ist, was die maximale Übertragungsrate auf ca. 300 MBit/s limitiert. Das neue Modell ist vorbereitet für Power over Ethernet.[50]
+Im Januar 2019 erschien das Compute Module 3+ (CM3+), das auf dem Raspberry Pi 3 Model B+ basiert. Es hat ebenfalls den Prozessor BCM2837B0, er ist aber nur mit 1200 MHz getaktet und im Unterschied zu den Vorgängerversionen des Compute Modules neben der Lite-Version ohne eMMC-Speicher auch mit 8 GB, 16 GB oder 32 GB Speicher verfügbar. Bis dahin gab es das Compute Module nur mit maximal 4 GB eMMC.[51]
+Raspberry Pi 4 Model B
+Im Juni 2019 wurde das Raspberry Pi 4 Model B vorgestellt, das umfangreiche Änderungen erfuhr. Es gibt LPDDR4- statt LPDDR2-Arbeitsspeicher und erstmals stehen unterschiedliche Größen zur Wahl (1, 2 oder 4 GB), wobei seit dem 27. Februar 2020 die 1-GB-Variante nur noch für Unternehmenskunden erhältlich ist, Endkunden wird sie nicht mehr angeboten. Durch den Fall der RAM-Preise wird die 2-GB-Variante nun zum Preis der 1-GB-Variante verkauft; der Preis der 4-GB-Variante blieb unverändert.[52] Die CPU hat die leistungsfähigeren Cortex-A72-Kerne, der Takt wurde um 100 MHz auf 1500 MHz erhöht. Das Funkmodul wurde aktualisiert und unterstützt jetzt Bluetooth 5 BLE. Die vier USB-Anschlüsse sind nun direkt über PCIe 2.0 an den SoC angebunden; zwei der USB-Anschlüsse unterstützen USB 3.0. Der Rechner wird über USB-C mit Strom versorgt, der Anschluss ist nun, wie schon bei den Raspberry-Pi-Zero-Modellen, USB-OTG-fähig. Der USB-C-Anschluss entsprach in der ersten Boardrevision jedoch nicht der Spezifikation und funktioniert nur mit „passiven“ Kabeln. (Siehe #Probleme mit USB-C-Kabeln) Der Netzwerkanschluss ist jetzt ebenfalls direkt an das SoC angebunden und liefert nun „echtes“ Gigabit-Ethernet; die Limitierung auf ca. 300 MBit/s, wie beim Model 3B+, entfällt. Der Grafikkern der vorherigen Modelle VideoCore IV wurde durch den VideoCore VI ersetzt und unterstützt unter anderem OpenGL-ES 3.0, Vulkan 1.0 und 4K-Auflösung, die über zwei micro-HDMI-Anschlüsse ausgegeben werden.[53][54][55][56]
+Am 28. Mai 2020 erschien der Raspberry Pi 4 auch in einer Version mit 8 GB RAM.[57]
+Compute Module 4
+Am 21. Oktober 2020 wurde das Compute Module 4 (CM4) vorgestellt. Es ist in 32 verschiedenen Versionen verfügbar: mit und ohne WLAN, mit 1, 2, 4 oder 8 GB RAM sowie ohne eMMC oder mit 8-, 16- oder 32-GB-eMMC. Es basiert auf dem Raspberry Pi Model 4. Im Unterschied zu den bisherigen Compute-Modulen wurde der Steckverbinder geändert und durch zwei 100-polige Steckverbinder (Hirose-DF40-Serie) im Rastermaß von 0,4 mm ersetzt.[58][59] Über die native PCIe-Schnittstelle unterstützt es auch das Booten von NVMe-SSDs.[60] Der Netzwerk-Transceiver BCM54210 unterstützt im Gegensatz zum BCM54213PE des Raspberry Pi 4 auch das Precision Time Protocol (IEEE 1588v2).[61]
+Raspberry Pi 400
+Am 2. November 2020 wurde der Raspberry Pi 400 vorgestellt. Es ist ein Raspberry Pi Model 4 in einem Pultgehäuse mit eingebauter Tastatur, im Aufbau ähnlich den Heimcomputern Sinclair ZX Spectrum, Atari 800, C64 oder Amiga 500. Die technischen Daten entsprechen weitestgehend denen des Model 4 mit 4 GB RAM: Die Audio-Klinkenbuchse, ein USB-2.0-Anschluss sowie die internen Anschlüsse für Kamera (CSI), Display (DSI) und Power-over-Ethernet (PoE) fehlen. Der Takt des BCM2711 wurde um 300 MHz auf 1,8 GHz angehoben. Wie das Compute Module 4 arbeitet er mit der neueren Revision C0 des BCM2711. Der Raspberry Pi 400 ist 286 mm × 122 mm groß und 23 mm dick und entspricht damit den Abmessungen der offiziellen Raspberry-Tastatur mit integriertem 3-Port-USB-Hub.[62]
+Raspberry Pi Pico
+Am 21. Januar 2021 wurde der Raspberry Pi Pico vorgestellt, ein Mikrocontroller­board im Arduino-Nano-Format. Das Board hat einen RP2040-Mikrocontroller mit zwei ARM-Cortex-M0+-Kernen, Sie werden mit bis zu 133 MHz getaktet. Der Pi Pico kann in MicroPython oder C programmiert werden.[63] Der RP2040-Mikrocontroller wird auch von anderen Herstellern genutzt (zum Beispiel Pimoroni, Arduino oder Adafruit), deren Boards oft kleiner sind oder mit mehr Speicher oder WLAN ausgestattet sind.[64]
+Raspberry Pi Zero 2 W
+Am 28. Oktober 2021 wurde das Raspberry Pi Zero 2 W vorgestellt. Größe und Anschlüsse entsprechenden der des Raspberry Pi Zero W. Er ist mit einer Variante des ARM-SoC Broadcom BCM2837 ausgestattet, die auch auf der ersten Version des Raspberry Pi 3 verwendet wurde. Für den Raspberry Pi Zero 2 W wurde ein System-in-Package mit der Bezeichnung RP3A0 entwickelt, bei der der „nackte“ Chip (das Die) BCM2710A1 des BCM2837A1 mit einem LPDDR2-SDRAM-Die kombiniert sind. Letzteres speichert wie schon beim Raspberry Pi Zero W 512 MByte. Eine Version mit mehr RAM ist nicht geplant. Beim viel schwächeren Chip BCM2835 des Raspberry Pi Zero W war das nicht nötig, weil es davon eine Variante für die Bauweise Package-on-Package (PoP) gibt: Diese hat oben Lötkontakte für einen separaten DRAM-Chip.[65]
+Am 30. Juni 2022 wurde eine neue Variante des Raspberry Pi Pico vorgestellt, der Pico W. Dieser verfügt über den WLAN-Chip Cypress CYW43439 für 2,4-GHz-WLAN nach IEEE 802.11n.[66] Die Funktionalität für Bluetooth 5.2 war zur Vorstellung des Raspberry Pi Pico W noch nicht freigeschaltet, diese wurde aber in einem späteren Firmware-Update nachgereicht.[67]
+Bis Ende 2022 gab es keine offiziellen Informationen über einen Raspberry Pi 5. Am 18. Dezember 2022 erklärte Eben Upton in einem Interview mit dem YouTube-Kanal ExplainingComputers, es sei geplant, im zweiten Halbjahr 2023 mit der Entwicklung zu beginnen. Mit der Vorstellung eines neuen Raspberry Pis könne demnach nicht vor 2024 gerechnet werden.[68]
+Hardware[Bearbeiten | Quelltext bearbeiten]
+Eigenschaften[Bearbeiten | Quelltext bearbeiten]
+Die unterschiedlichen Produkte unter dem Namen Raspberry Pi besitzen folgende Eigenschaften:[69][37][70][45][71]
+Raspberry Pi[Bearbeiten | Quelltext bearbeiten]
+Zero
+Zero W / WH
+Zero 2 W
+1 Mod. A
+1 Mod. A+
+1 Mod. B
+1 Mod. B+
+2 Mod. B
+2 Mod. B v1.2
+3 Mod. A+
+3 Mod. B
+3 Mod. B+
+4 Mod. B
+Veröffentlichung
+Nov. ’15
+Feb. ’17 /Jan. ’18
+Okt. ’21
+Feb. ’13
+Nov. ’14 /Aug. ’16
+Apr.–Jun. ’12
+Jul. ’14
+Feb. ’15
+Sep. ’16
+Nov. ’18
+Feb. ’16
+Mär. ’18
+Jun. ’19
+Mai. ’20
+Preis­empfehlung⁠a
+5 USD[44]
+10 USD[48]
+15 USD
+25 USD
+20 USD
+35 USD
+25 USD
+35 USD
+–
+35 USD
+55 USD
+75 USD
+Gewicht
+9 g[72]
+9 g[73]
+10 g[74]
+31 g
+23 g
+40 g
+45 g
+40 g
+k. A.
+40 g[75]
+49 g
+46 g[76]
+Platinen­maße
+Länge
+65,0 mm
+85,6 mm
+65,0 mm
+85,6 mm
+85,6 mm
+65,0 mm
+85,6 mm
+85,6 mm
+Breite
+30,0 mm
+56,0 mm
+56,0 mm
+56,0 mm
+56,0 mm
+56,0 mm
+56,0 mm
+56,0 mm
+Gesamt­größe
+Länge
+65,0 mm
+93,0 mm
+70,4 mm
+93,0 mm
+93,0 mm
+k. A.
+93,0 mm
+93,0 mm
+Breite
+31,2 mm
+63,5 mm
+57,2 mm
+63,5 mm
+63,5 mm
+k. A.
+63,5 mm
+63,5 mm
+Höhe
+5,0 mm
+17,0 mm
+2,0 mm
+20,0 mm
+20,0 mm
+k. A.
+20,0 mm
+20,0 mm
+SoC
+BCM2835
+BCM2710A1
+BCM2835
+BCM2836
+BCM2837
+BCM2837B0
+BCM2837
+(bis 2019)
+BCM2837B0
+(ab 2019)[77]
+BCM2837B0
+BCM2711B0[78] (BCM2711C0 bei der Version mit 8 GB RAM und bei den anderen Modellen, die ab April 2021 verkauft wurden)[79]
+CPU
+Familie
+ARM11
+ARM Cortex-A
+ARM11
+ARM Cortex-A
+Typ
+ARM1176JZF-S
+Cortex-A53
+ARM1176JZF-S
+Cortex-A7
+Cortex-A53
+Cortex-A72
+Kerne
+1
+4
+1
+4
+Takt
+1000 MHz
+700 MHz
+900 MHz
+1400 MHz
+1200 MHz
+1400 MHz
+1500 MHz (1800 MHz bei der Version mit 8 GB RAM und bei den anderen Modellen, die ab April 2021 verkauft wurden)[80]
+Architektur
+ARMv6 (32 Bit)
+ARMv8 (64 Bit)
+ARMv6 (32 Bit)
+ARMv7 (32 Bit)
+ARMv8 (64 Bit)
+GPU
+Typ
+Broadcom Dual Core VideoCore
+Takt
+400 MHz[81]
+?
+250 MHz
+300/400 MHz⁠i
+500 MHz
+Architektur(Merkmale)
+VideoCore IV (OpenGL-ES 1.1/2.0; Full HD 1080p30)
+VideoCore VI (OpenGL-ES 3.0; 4K)
+Arbeits-speicher
+Größe
+512 MB
+256 MB
+512 (256) MB⁠k
+512 (256) MB⁠g
+512 MB
+1024 MB
+512 MB
+1024 MB
+1024 MB
+2048 MB
+4096 MB
+8192 MB
+Art
+LPDDR2-SDRAM
+LPDDR4-SDRAM[82]
+Speicherkarten­steckplatz
+microSD⁠b
+SD⁠b
+microSD⁠b
+SD⁠b
+microSD
+Video­ausgabe
+digital
+Mini‑HDMI (Typ C)
+HDMI (Typ A)
+2× Micro-HDMI (Typ D)
+analog
+Composite
+Composite Video (FBAS)⁠c
+Audio­ausgabe
+digital
+HDMI (digital)
+analog⁠c
+n. v.
+3-polig
+4-polig
+3-polig
+4-polig
+Netzwerk
+Ethernet
+n. v.
+10/100MBit/s⁠e⁠f
+n. v.
+10/100MBit/s⁠f
+10/100/1000MBit/s⁠l[50]
+10/100/1000MBit/sBroadcom BCM54213PE[55]
+WLAN
+n. v.
+BroadcomBCM431432,4 GHz,b/g/n
+2,4 GHz, 802.11b/g/n
+n. v.
+BroadcomBCM434552,4 u. 5 GHz,ac
+BroadcomBCM431432,4 GHz,b/g/n
+BroadcomBCM434552,4 u. 5 GHz,ac
+Broadcom/Cypress[83]CYW43455[55]2,4 u. 5 GHz,b/g/n/ac
+Bluetooth
+n. v.
+4.1 LE
+4.2 BLE
+n. v.
+4.2 LS LE
+4.1 LE
+4.2 LS LE
+5.0 LE
+USB-Anschlüsse
+USB 2.0
+1 OTG
+1
+2 (über Hub)⁠e
+4 (über Hub)⁠f
+1
+4 (über Hub)⁠l
+2 + 1 OTG
+USB 3.0
+n. v.
+2
+Pins
+40⁠h
+26
+40
+26
+40
+GPIO-Pins⁠d
+26
+17
+26
+17
+26
+weitere Schnittstellen
+CSI⁠j, I²C
+CSI, DSI, I²C
+Stromaufnahme
+100–140 mA[72]
+?
+?
+500 mA
+100–230 mA[84]
+700 mA[85]
+500–600 mA
+800 mA[86]
+810 mA
+800 mA[86]
+1400 mA
+600–1500 mA
+Maximale Stromaufnahme⁠m
+1,2 A[87]
+1,2 A[87]
+2,0 A[87]
+0,7 A[87]
+0,7 A[87]
+1,2 A[87]
+1,8 A[87]
+1,8 A[87]
+2,5 A[87]
+2,5 A[87]
+3,0 A[87]
+Leistung
+0,5–0,7 W[72]
+?
+?
+2,5 W
+0,5–1,2 W[88]
+3,5 W[85]
+2,5–3,0 W
+max. 4 W[89]
+max. 4,24 W[90]
+max. 6,7 W[91]
+max. 7 W[92]
+2,2–7,0 W[93][94]
+Betriebsspannung[85]
+5,0 V (Micro-USB-Standard, Micro-USB-B)
+5,0 V (USB-C)
+Betriebssysteme
+GNU/Linux, BSD, Plan 9,[95] RISC OS[96]
+…, Windows 10 IoT Core[97]
+…, Android, webOS OSE[98]
+Zero
+Zero W / WH
+Zero 2 W
+1 Mod. A
+1 Mod. A+
+1 Mod. B
+1 Mod. B+
+2 Mod. B
+2 Mod. B v1.2
+3 Mod. A+
+3 Mod. B
+3 Mod. B+
+4 Mod. B
+a exkl. Mehrwertsteuer
+b unterstützt SDHC, SDXC, MMC und SDIO
+c bei den Modellen mit 4-poligen Klinkenstecker ist dort das analoge Videosignal integriert. Bei Model Zero ist dieses nur über Pads auf der Platine verfügbar; bei den anderen Modellen ist es über Cinch-Buchse verfügbar
+d nutzbar als SPI, I²C, UART
+e integriert im Controller-Chip LAN9512 des Herstellers Microchip[99]
+f integriert im Controller-Chip LAN9514 des Herstellers Microchip
+g eingeführt mit 256 MB, ab Oktober 2012 mit 512 MB bestückt
+h Stiftleiste nur beim Modell Zero WH bestückt
+i 300 MHz (3D core) / 400 MHz (VideoCore IV subsystem)[45]
+j ab Mai 2016[100]
+k eingeführt mit 256 MB; ab August 2016 mit 512 MB bestückt[101]
+l max. 310 MBit; integriert im Controller-Chip LAN7515 des Herstellers Microchip
+m kann nur mit einem entsprechenden Netzteil erreicht werden[87]
+ Compute Modules (CM)[Bearbeiten | Quelltext bearbeiten]
+CM1
+CM3
+CM3 Lite
+CM3+
+CM3+ Lite
+CM4
+Veröffentlichungsdatum
+April/Juni 2014
+Januar 2017
+Januar 2019
+Oktober 2020
+Preisempfehlung⁠a
+30 USD[102]
+30 USD
+25 USD
+30 / 35 / 40 USD
+25 USD
+25–90 USD
+Platinenmaße
+Länge
+67,6 mm
+55,0 mm
+Breite
+30,0 mm
+31,0 mm
+40,0 mm
+Gesamtgröße
+Länge
+67,6 mm
+55,0 mm
+Breite
+30,0 mm
+31,0 mm
+40,0 mm
+Höhe
+3,7 mm
+4,7 mm
+Gewicht
+7 g[103]
+k. A.
+k. A.
+9 g
+9 g
+k. A.
+SoC
+BCM2835
+BCM2837
+BCM2837B0
+BCM2711C0
+CPU
+Type
+ARM1176JZF-S
+Arm Cortex-A53
+Cortex-A72
+Kerne
+1
+4
+Takt
+700 MHz
+1200 MHz
+1500 MHz
+Architektur
+ARMv6 (32-bit)
+Armv8-A (64-bit)
+Familie
+ARM11
+Arm Cortex-A
+GPU
+Typ
+Broadcom Dual Core VideoCore IV OpenGL-ES 1.1/2.0, Full HD 1080p30
+VideoCore VIOpenGL-ES 3.0; 4Kp60
+Takt
+250 MHz
+400 MHz
+500 MHz
+Videoausgabe
+Composite Video (FBAS); HDMI 1.3a⁠b
+2× HDMI 2.0 ⁠c
+Audioausgabe
+HDMI (digital)
+Arbeitsspeicher
+512 MB(LPDDR2-SDRAM)
+1024 MB(LPDDR2-SDRAM)
+1 / 2 / 4 / 8 GB(LPDDR4-SDRAM)
+Nicht-flüchtiger Speicher(eMMC)
+4 GB
+n. v.
+8 / 16 / 32 GB
+n. v.
+8 / 16 / 32 GB
+USB-2.0-Anschlüsse
+1⁠b
+1⁠c
+Netzwerk
+–
+Gigabit-Ethernet⁠cBCM54210
+Bluetooth
+–
+5.0 LE
+Pins
+60
+–
+GPIO-Pins⁠d
+48
+28
+PCIe
+–
+PCIe 2.0 ×1⁠c
+weitere Schnittstellen
+I²C; 2× DSI; 2× CSI
+Leistungsaufnahme
+min. 3,505 W[104]
+min. 5,005 W[104]
+min. 2,0 W
+Betriebsspannung[85]
+2,3–5,0 V; 3,3 V; 1,8 V
+Betriebssysteme
+GNU/Linux, BSD, Plan 9,[95] RISC OS[96]
+…, Android, webOS OSE
+CM1
+CM3
+CM3 Lite
+CM3+
+CM3+ Lite
+CM4
+a exkl. Mehrwertsteuer
+b Signale liegen auf einer 200-poligen Kontaktleiste und sind nicht direkt über Steckverbinder erreichbar (zu SO-DIMM mechanisch kompatibel)
+c Signale liegen auf zwei 100-poligen Steckverbindern und sind nicht direkt über Buchsen erreichbar (HIROSE DF40 Serie)
+d nutzbar als SPI, I²C, UART
+SDHC-Karte anstatt einer Festplatte
+Prozessor[Bearbeiten | Quelltext bearbeiten]
+Der Prozessor der ersten Generation nutzt den ARMv6-Instruktionssatz mit den Erweiterungen Thumb und Java-Bytecode (Jazelle).[105][106] Das RAM ist über einen 64 Bit breiten Bus angebunden und wird direkt als Package-on-Package auf den Prozessor gelötet.
+Da die Raspberry Pi Foundation eine Verringerung der Lebensdauer bei Übertaktung befürchtete, wurde der Prozessor zunächst mit einem „Sticky Bit“ ausgestattet (engl. sticky ‚klebend‘, hier: ‚nicht rücksetzbar‘), das unwiderruflich gesetzt wird, sobald der Prozessor übertaktet wird, und somit ein Erlöschen der Garantie signalisiert.[107] Nachdem ausführliche Tests gezeigt hatten, dass sich ein Übertakten auf bis zu 1 GHz kaum auf die Lebensdauer auswirkt, wurde am 19. September 2012 mit einem neuen Treiber die Möglichkeit geschaffen, sowohl Prozessor als auch GPU und Speicher ohne Garantieverlust zu übertakten. Die Frequenz und Spannung werden dabei im Betrieb nur dann erhöht, wenn die Leistung benötigt wird und die Temperatur des Chips nicht über 85 °C liegt.[108]
+Das Sticky-Bit wird nur noch gesetzt, wenn stärker als empfohlen übertaktet wird.
+Ein deutliches Untertakten auf bis zu 50 MHz und Verringern der Spannung ist ebenfalls möglich, was vor allem beim Model A zu einer deutlich reduzierten Leistungsaufnahme führt.
+In der zweiten Generation kommt ein SoC mit der Bezeichnung BCM2836 zum Einsatz. Der dort in einer Quadcore-Konfiguration eingesetzte Arm Cortex-A7 mit 900 MHz Taktfrequenz nutzt den Armv7-Befehlssatz und erreicht eine Gesamtrechenleistung von 6.840 DMIPS.[109] Dazu ist der Prozessor um Faktor 3 energieeffizienter als sein Vorgänger.[109]
+In der dritten Generation wird ein BCM2837 eingesetzt. Der verwendete Arm Cortex-A53 mit 1,2 GHz Taktfrequenz hat eine über 50 Prozent höhere Leistung als die zweite und fast die zehnfache Leistung der ersten Generation.[45] Mit dem Raspberry Pi 3 Model B+ wurde der BCM2837B0, eine überarbeitete Version der dritten Generation, eingeführt und der Takt um 200 MHz erhöht. Diese Version hat Verbesserungen bei der Takt- und Spannungsregelung und einen Heatspreader aus Metall. Damit sollen höhere Taktraten und ein längerer Betrieb unter hoher Last ohne Drosselung der CPU-Leistung möglich sein.
+Bei der vierten Generation kommt ein Arm Cortex-A72 mit 1500 MHz zum Einsatz.
+Grafik[Bearbeiten | Quelltext bearbeiten]
+Der ARM11-Prozessor ist mit Broadcoms „VideoCore“-Grafikkoprozessor (VC IV) kombiniert. OpenGL ES 2.0 wird unterstützt, und Filme in Full-HD-Auflösung (1080p30 H.264 high-profile) können dekodiert und über die HDMI-Buchse und FBAS-Cinchbuchse ausgegeben werden.
+Am 24. August 2012 wurde bekanntgegeben, dass Lizenzen für das hardwarebeschleunigte Dekodieren von VC1- und MPEG-2-kodierten Videos zusätzlich erworben werden können. Die Lizenz beschränkt sich dabei auf den bei der Bestellung mit der Seriennummer spezifizierten Raspberry Pi, so dass für jeden dieser Mikrorechner eine eigene Lizenz erforderlich ist. Die vorhandene Lizenz zum Dekodieren von H.264-kodierten Videos erlaubt nach Angaben der Raspberry Pi Foundation auch das Kodieren solcher Videos.[110]
+Im März 2014 legte Broadcom Dokumentation und Treibercode für den SoC BCM21553 unter einer BSD-Lizenz offen, mit dem auch ein freier Grafiktreiber für den verwendeten BCM2835 erstellt werden kann.[111][112] Ein entsprechender Treiber wurde nach einem von der Raspberry Pi Foundation ausgerufenen und mit 10.000 USD dotierten Programmierwettbewerb im März 2014 von einem einzelnen Programmierer veröffentlicht.[112]
+Mit Model 4 wurde die Grafikeinheit durch den VideoCore VI ersetzt und unterstützt nun OpenGL-ES 3.0 sowie 4K. Die beiden Micro-HDMI-Buchsen des Model M4 liefern Signale für Displays mit Auflösungen bis zu 4K (UHD), also mit 3840 × 2160 Pixeln. Ein einzelner Bildschirm kann mit 60 Hz angesteuert werden, zwei gleichzeitig nur mit jeweils 30 Hz.
+ Audio[Bearbeiten | Quelltext bearbeiten]
+Das Audiosignal erzeugt das SoC BCM 2835 (in den späteren Version Typ '36 und '37)[113] durch eine einfache Pulsweitenmodulation (PWM) und gibt es über den Audioausgang der 3,5-mm-Klinkenbuchse aus. Auf einen echten Digital-Analog-Umsetzer (DAC) wurde aus Kostengründen verzichtet. Diese Lösung gilt jedoch als qualitativ minderwertig, weil DAC und Tiefpassfilter fehlen und so störende Nebengeräusche, die als Vielfaches der Modulationsfrequenz entstehen, nicht beseitigt werden. Elektrisch ist dieser Ausgang besser zum Anschluss von Aktivboxen oder am Verstärker einer herkömmlichen Stereoanlage geeignet als für verstärkerlose Kopfhörer.[114] Des Weiteren wird ein Audiosignal in digitaler Form über den HDMI-Ausgang ausgegeben.[115]
+Seit Raspbian Stretch wird ein neuer Audio-Treiber verwendet, dessen Signal-Rausch-Verhältnis CD-Qualität erreichen soll.[116]
+Dabei wird die Technik der Delta-Sigma-Wandlung verwendet.[117]
+Verschiedene Dritthersteller bieten außerdem dedizierte Audiolösungen an, in Form von USB-Audio-Karten oder als Aufsteckkarten, die eine simulierte I²S-Schnittstelle nutzen. Ferner existieren Lösungen, die das Audiosignal aus der HDMI-Schnittstelle extrahieren.
+Echtzeituhr[Bearbeiten | Quelltext bearbeiten]
+Der Raspberry Pi enthält keine Echtzeituhr (RTC). Das Gerät kennt daher nach dem Anschalten weder Datum noch Uhrzeit. Sofern es mit dem Netzwerk verbunden ist und es nicht selbst kritische Teile der Netzwerkinfrastruktur (etwa den Namensdienst) anbietet, kann die Zeit meist via NTP beschafft werden. Ansonsten muss eine separate Echtzeituhr angeschlossen werden, wenn eine verwendete Software die korrekte Uhrzeit benötigt.
+Allzweckeingabe/-ausgabe (GPIO)[Bearbeiten | Quelltext bearbeiten]
+Demonstration einer Steuerung mit dem Raspberry Pi. Auf dem angestreckten Breadboard wird mit LEDs und Taster die Funktion einer Fußgängerampel simuliert.
+Der Raspberry Pi stellt eine frei programmierbare Schnittstelle für Ein- und Ausgaben bereit (GPIO, „General Purpose Input/Output“). Über diese Schnittstelle können LEDs, Sensoren, Displays und andere Geräte angesteuert werden.[118]
+Es gibt fünf Gruppen (Ports) von GPIO-Pins, wobei im Allgemeinen nur Port P1 gebraucht wird. P1 hat beim Model A und Model B 26 Pins und beim Model A+ und Model B+ 40 Pins, jeweils als doppelreihige Stiftleiste herausgeführt, wovon
+2 Pins eine Spannung von 5 Volt bereitstellen, aber auch genutzt werden können, um den Raspberry Pi mit Strom zu versorgen,
+2 Pins eine Spannung von 3,3 Volt bereitstellen,
+2 Pins zur Identifikation des #HAT über I²C,
+8 Pins als Masse dienen,
+17 Pins (Model A und B) bzw. 26 Pins (Model A+ und B+, sowie Raspberry Pi 2 Model B), die frei programmierbar sind. Sie sind für eine Spannung von 3,3 Volt ausgelegt.[119][120] Einige von ihnen können Sonderfunktionen übernehmen:
+5 Pins können als SPI-Schnittstelle verwendet werden,
+2 Pins haben einen 1,8-kΩ-Pull-up-Widerstand (auf 3,3 V) und können als I²C-Schnittstelle verwendet werden,
+2 Pins können als UART-Schnittstelle verwendet werden
+mit dem Model 4B wurden zwei weitere I²C- und vier weitere UART-Schnittstellen ergänzt[55]
+Die in der Revision 2 hinzugekommene GPIO-Schnittstelle P6 erlaubt es, den Raspberry Pi zurückzusetzen bzw. zu starten, nachdem er heruntergefahren wurde.[121]
+Zur Steuerung der GPIOs existieren Bibliotheken für zahlreiche Programmiersprachen. Auch eine Steuerung durch ein Terminal oder Webinterfaces ist möglich.[122][123]
+ Erweiterungsplatinen (HAT)[Bearbeiten | Quelltext bearbeiten]
+Raspberry Pi Sense HAT, wie es bei der Astro-Pi-Mission eingesetzt wird
+Raspberry Pi DVB TV µHAT
+Mit dem Model B+ wurde eine offizielle Spezifikation für Erweiterungsplatinen vorgestellt, das sogenannte „Hardware attached on top“ (HAT). Jeder HAT muss über einen EEPROM-Chip verfügen; Darin finden sich Herstellerinformationen, die Zuordnung der GPIO-Pins sowie eine Beschreibung der angeschlossenen Hardware in Form eines „device tree“-Abschnitts. Dadurch können die nötigen Treiber für den HAT automatisch geladen werden. Auch die genaue Größe und Geometrie des HAT sowie die Position der Steckverbinder werden dadurch festgelegt. Model A+ und Raspberry Pi 2 Model B sind mit diesen ebenfalls kompatibel.
+Kamera-Schnittstelle[Bearbeiten | Quelltext bearbeiten]
+Zur direkten Anbindung einer Kamera ist ein Camera Serial Interface (CSI) vorhanden.
+Raspberry-Pi-Kamera V1
+Raspberry Pi HQ Camera
+Die seit Mai 2013 erhältliche Kamera mit fünf Megapixeln wird per CSI angesteuert.[124]
+Der Fokus ist nicht veränderbar und das Kameramodul verfügt über kein Mikrofon. Die Kamera nimmt Fotos mit einer maximalen Auflösung von 2592 × 1944 Pixeln auf, Videos können unter anderem mit 640 × 480, 1280 × 720 und 1920 × 1080 Pixeln aufgenommen werden. Die Bildfrequenz beträgt je nach Auflösung und Einstellung 1 bis 90 Bilder pro Sekunde, der Sensor stammt von Omnivision (OV5647).[125] Bei unzureichender Beleuchtung entsteht aufgrund der lichtschwachen Objektive schnell Bildrauschen.[126]
+Seit Oktober 2013 ist auch die Variante „PI NoIR“ ohne eingebauten Infrarotfilter verfügbar, die unter Zuhilfenahme eines Infrarotscheinwerfers Nachtsichtaufnahmen ermöglicht.[127]
+Ende April 2016 wurde ein neues Kameramodul vorgestellt. Es verfügt über einen acht Megapixel auflösenden Bildsensor vom Typ IMX219 von Sony und nimmt Fotos mit einer maximalen Auflösung von 3280 × 2464 Pixeln auf. Auch diese Kamera ist ohne eingebauten Infrarotfilter verfügbar.[128]
+2020 wurde die „Raspberry Pi HQ Camera“ mit 12,3 Megapixeln vorgestellt. Sie verfügt über einem Anschluss für Objektive nach dem C-/CS-Mount-Standard. Der CMOS-Sensor vom Typ IMX477 stammt von Sony und liefert Bilder mit 4056 × 3040 Bildpunkten (4K), 10 Bit Farbtiefe und 60 Bildern pro Sekunde. Bei 1080p schafft die Kamera 240 Bilder pro Sekunde. Die Kamera verfügt über ein integriertes 1/4″-Stativgewinde.[129]
+Bildschirm-Schnittstelle[Bearbeiten | Quelltext bearbeiten]
+Zur direkten Anbindung von Bildschirmen ist ein DSI (Display Serial Interface) vorhanden.
+Seit September 2015 ist ein Bildschirm erhältlich, der direkt über die DSI-Schnittstelle angeschlossen werden kann. Seine Bildschirmdiagonale misst 7 Zoll (178 mm) und er hat eine Auflösung von 800 × 480 Pixeln. Die Bildschirmfläche ist 155 × 86 mm² (screen size); wegen des breiten Bildschirmrands misst das gesamte Anzeigegerät jedoch 194 × 110 mm² (display size). Es ist 20 mm dick und wiegt 277 g. Es ist außerdem berührungsempfindlich (kapazitives Multi-Touchscreen; bis zu zehn Finger) mit integriertem Controller und Befestigungsbolzen für den Raspberry Pi (außer Model A und B). Er wird über I²C angeschlossen. Das Display nimmt eine Leistung von 2,25 W auf.[130]
+Betriebssysteme[Bearbeiten | Quelltext bearbeiten]
+Für den Raspberry Pi sind mehrere Open-Source-Betriebssysteme verfügbar. Installiert werden sie entweder durch das Schreiben eines Speicherabbilds auf die SD-Karte oder seit dem 3. Juni 2013 auch mit der einfacher zu verwendenden Eigenentwicklung NOOBS-Installer (engl. Abk. für new out of box software), deren Dateien nur auf die SD-Karte kopiert werden müssen.[131] Mit BerryBoot gibt es einen ebenso einfach zu installierenden Bootloader, der es ermöglicht, mehrere Betriebssysteme auf einer Karte parallel zu installieren und wahlweise zu verwenden.[132] Seit Version 1.3 ist das auch mit NOOBS möglich.[133] NOOBS wird (Stand 2021) nicht mehr angeboten und der Hersteller warnt vor der weiteren Verwendung[134].
+Linux-Systeme[Bearbeiten | Quelltext bearbeiten]
+Raspberry Pi OS[Bearbeiten | Quelltext bearbeiten]
+Raspbian-Desktop mit geöffneten Programmen
+Die empfohlene Linux-Distribution ist das auf Debian basierende Raspberry Pi OS, früher Raspbian genannt.[135] Dieses Betriebssystem basiert auf der stabilen Version des Debian-11-Systems[136] (Debian Bullseye) der Arm-hard-float-Architektur (armhf) mit Anpassungen für den Befehlssatz des Armv7-Prozessors. Als grafische Oberfläche wird auf Systemen mit weniger als 2 GB Arbeitsspeicher LXDE vorkonfiguriert. Bei mehr Arbeitsspeicher ist der Fenstermanager Mutter vorgesehen.[137] Das etwa 3 GB große Image kann auf SD-Karten mit mindestens 4 GB übertragen werden. Nach dem Bootvorgang kann die Partition des Raspberry Pi OS auf die gesamte SD-Karte erweitert werden. Die Raspberry Pi Foundation erstellt auf Basis ihrer Distribution ein eigenes Raspberry-Pi-OS-Image mit passender Firmware für die Raspberry-Pi-Modelle. Daher wird empfohlen, die Distribution immer von der Raspberry Pi Foundation zu beziehen.
+Im Dezember 2021 wurde Raspberry Pi OS Legacy vorgestellt. Hierbei handelt es sich um kein neues Betriebssystem, sondern viel eher ein neues Konzept für die Handhabung von Betriebssystem-Upgrades: Bisher wurde nur eine Hauptversion des Raspberry Pi OS unterstützt. Beim Wechsel von Version 9 auf Version 10 stellte die Raspberry Pi Organisation den Support für die alte Version 9 ein. Dies wurde teils als problematisch erkannt, da sich durch Änderungen wie z. B. neue Bibliotheken verschiedene Dinge ändern. Manches funktioniert daher anders. Teils müssen Entwickler von Software oder Hardware aber auch erst Änderungen vornehmen. Die Raspberry Pi Organisation hat daher entschieden, zusätzlich die Vorversion ebenfalls zu unterstützen. Da dies mit Bullseye (11) beginnt, wird nun auch der Vorgänger Buster (10) unterstützt. Neue Hauptversionen führen zu Rotierung. Erscheint z. B. die stabile Version 12, wird Version 11 als Legacy-System weiter unterstützt und Version 10 verliert die Unterstützung. Die Legacy-Version besitzt ein paar Nachteile: So wird die Hardwarebeschleunigung für Chromium aufgrund des Anpassungsaufwandes entfernt. Man erhält die Upstream-Version des Browsers. Dadurch soll sichergestellt werden, dass Sicherheitspatches schnell bereitgestellt werden können. Der Linux-Kernel und die Raspberry Pi Firmware fallen in eine Art Wartungsmodus und erhalten nur noch Sicherheitsupdates.
+Nach einer längeren Beta-Phase wurde die stabile 64-Bit Version des Raspberry Pi OS am 2. Februar 2022 veröffentlicht. Es kann auf allen Pis mit 64 Bit Prozessor genutzt werden, d. h. Raspberry Pi 3 sowie Zero 2 und aufwärts. Dadurch lassen sich die großen Raspberry Pi 4 Editionen mit bis zu 8 GB Arbeitsspeicher voll ausreizen, da die 32 Bit Architektur nur maximal 4 GB Arbeitsspeicher unterstützt. Bisher hat man Large Physical Address Extension (LPAE) eingesetzt, wodurch das Betriebssystem mehr Speicher verwalten kann – ein Limit von 3 GB pro Prozess blieb jedoch. Darüber hinaus erhöht ein 64 Bit Betriebssystem die Kompatibilität zur Anwendersoftware, vor allem proprietäre Produkte.[138] Sofern diese ARM-Build bereitstellen, fokussieren sich einige auf die 64 Bit Variante (ARM64). Mangels Quellcode ist eine Portierung auf z. B. 32 Bit meist nur durch den Hersteller möglich, aber nicht durch die Community. Ein Beispiel ist Oracle Java, welches seit einiger Zeit zwar offiziell für ARM angeboten wird – jedoch ausschließlich in 64 Bit.
+Weitere Linux-Distributionen[Bearbeiten | Quelltext bearbeiten]
+Neben Raspberry Pi OS wird auch eine für ARM-Prozessoren kompilierte Version von Debian[139] selbst (ab Raspberry Pi 3 als arm64 Architektur[140]), von Arch Linux[141], CentOS sowie einige Versionen (Remixe) von Fedora – u. a. unter den Namen Pidora[142] und FedBerry[143]  – angeboten. Das Fedora Projekt bietet seit Fedora 25 selbst eigene Images von Fedora Linux für Raspberry Pi Modelle 2 und 3 an[144], für den Raspberry Pi 3 sogar eine 64-bit-Version[145].
+Gentoo Linux und Manjaro Linux können auf dem Raspberry Pi installiert und betrieben werden. Ebenso gibt es Kali Linux, die Neuauflage der Security-Distribution BackTrack[146] und Bodhi Linux[147] für den Raspberry Pi. OpenSUSE bietet ebenfalls lauffähige Images[148] und mit dem openSUSE Build Service zudem die Möglichkeit, eigene Programmpakete zu erstellen und damit eigene openSUSE-basierte Distributionen zu erstellen.[149] Zudem gibt es den Slackware-Ableger Slackarm, der auf allen Modellen lauffähig ist.
+Ubuntu kann auf dem Raspberry Pi 2, 3 und 4 betrieben werden. Da die ARMv6-Architektur nicht unterstützt wird, gibt es jedoch keinen Support für den Raspberry Pi der ersten Generation.[150][151]
+SolydX bietet ebenfalls ein Image zum Herunterladen an. SolydX RPI basiert auf Debian und bringt Xfce als Desktop mit.[152]
+Von MX Linux existiert ein Image für Modelle ab Raspberry Pi 3.[153]
+Mit den entsprechenden Distributionen (OpenELEC, LibreELEC, OSMC oder XBian) lässt sich der Raspberry Pi als Mediacenter nutzen. Kodi lässt sich auch mit der Fernbedienung des Fernsehers nutzen, wenn dieser per HDMI angeschlossen wird und CEC unterstützt.[154] Kodi ist auch in Recalbox enthalten und kann bei RetroPie optional ausgewählt werden. Beide stellen aber eigentlich einen Emulator für alte Spielekonsolen dar.[155][156]
+Außerdem wurde das Android-System in der Version LineageOS von einem finnischen Entwickler erfolgreich auf Raspberry Pi 3 und 4 portiert.[157] Eine Variante eines Android-basierenden Betriebssystems ist emteria.OS, das für Raspberry Pi 3 B, 3 B+ und 4B erhältlich ist.
+Ab der Modellreihe Pi 3 B kann die webOS Open Source Edition[98] von LG eingesetzt werden.
+Mit DietPi steht eine GNU/Linux-Distribution zur Verfügung, die – wie das offizielle Raspberry Pi OS – auf Debian basiert. Sie ist auf Leichtgewichtigkeit und Effizienz optimiert.[158] Darüber hinaus bringt DietPi Werkzeuge (Dynamisches DNS, Let's Encrypt, …) und Softwarepakete (Nextcloud) mit. Die Installation und Einrichtung der einzelnen Komponenten (etwa ein Webserver mit PHP und Datenbank) erfolgt automatisch. Außerdem enthält DietPi Skripte, mit denen sich Programme nachinstallieren lassen, die nicht in den offiziellen Paketquellen von Debian enthalten sind. Die quelloffene Software steht auf GitHub zur Verfügung.
+Andere Systeme[Bearbeiten | Quelltext bearbeiten]
+Des Weiteren sind die BSD-Varianten FreeBSD und NetBSD,[159] aber auch Plan 9[160] und das damit verwandte Inferno[161] auf dem Raspberry Pi einsatzbereit.
+OpenBSD bietet mit der arm64-Plattform sogar 64-Bit-Unterstützung für den Raspberry Pi 3 an.
+Eine Entwicklerversion von RISC OS 5 steht ebenfalls zur Verfügung.[162]
+Obwohl Windows RT auf ARM-Prozessoren lauffähig ist, erschien es zunächst nicht möglich, dieses Betriebssystem auf den Raspberry Pi zu übertragen, da Windows 8 mindestens 1 GB Arbeitsspeicher benötigt, den der Raspberry Pi nicht hatte. Mit dem Erscheinen des Raspberry Pi 2 im Februar 2015 gab Microsoft jedoch bekannt, dass Windows 10 auf diesem lauffähig und für Teilnehmer des Windows-Entwicklerprogramms für das Internet der Dinge kostenlos sein werde. Dabei ist zu beachten, dass diese Version von Windows 10 als Small-Devices-Variante bezeichnet wird, nicht mit klassischen Desktop-Anwendungen kompatibel ist und für den Betrieb mindestens 256 MB RAM und 2 GB Speicher benötigt.[163] Allerdings wird diese spezielle IoT-Variante von Windows nicht mehr für neuere Modelle weiterentwickelt: Sie unterstützt neben dem Raspberry Pi 2 nur den 2016 erschienenen Nachfolger 3B. Der seit 2019 verfügbare Raspberry Pi 4 B kann (Stand Anfang 2023) nicht genutzt werden.
+Mit „Windows on Arm“ hat Microsoft die vollwertige Desktop-Edition von Windows 10 und Windows 11 auf die Arm-Architektur portiert. Sie ist für Tablets gedacht, da dort Arm-Prozessoren stark verbreitet sind. Auch einzelne Arm-Notebooks sind auf dem Markt. Man kann mit „Windows on Arm“ grafische Anwendungen ausführen und durch eine integrierte Emulation sogar X86-Programme starten. Offiziell wird sie weder zum Download angeboten, noch unterstützt Microsoft den Raspberry Pi. Der Konzern bietet sie nur für Gerätehersteller an. Verschiedene inoffizielle Projekte haben einen Weg gefunden, an die Installationsdateien zu gelangen und eine Portierung auf den Raspberry Pi durchgeführt. Dafür stellen sie Skripte bereit, die eine Vielzahl an Updates von den Microsoft-Servern herunterladen, entpacken, mit Gerätespezifischen Komponenten wie Treibern bündeln und daraus ein Abbild für den Pi erstellen. Dieser Weg ist im Vergleich zu GNU/Linux Distributionen aufwändig. Er wurde jedoch nicht aus technischer Notwendigkeit gewählt, sondern um Lizenzeinschränkungen gerecht zu werden, denen Windows als proprietäre Software unterworfen ist. Aus diesen Gründen lässt sich auch keine stabile Windows-Edition installieren, sondern lediglich eine Vorschauversion. Sie ist für Entwickler und Tester gedacht, nicht zum produktiven Einsatz. Dies geht nicht nur mit einer eingeschränkten Stabilität einher, es sind auch z. B. keine Updates vorgesehen. Eine dauerhafte Lizenz kann nicht erworben werden, da Microsoft keine Arm-Lizenzen verkauft. Die Performance ist deutlich langsamer als die schlanke und optimierte Desktopumgebung des offiziellen Raspberry Pi OS. Auch die vergleichsweise geringe Verfügbarkeit von Windows-Treibern schränkt die praktische Nutzung ein. So können beispielsweise Bluetooth und WLAN nicht genutzt werden, der Raspberry Pi kommt lediglich kabelgebunden ins Netzwerk bzw. Internet.[164]
+Software[Bearbeiten | Quelltext bearbeiten]
+Einige Programme wurden für den Raspberry Pi angepasst, um von der hardwarebeschleunigten Grafik durch die GPU zu profitieren. Dazu zählt insbesondere die Mediacenter-Software Kodi.[165] Im Rahmen der Anpassung von Kodi an den Raspberry Pi wurde auch ein eigenständiger Videoplayer mit GPU-Unterstützung unter dem Namen OMXPlayer entwickelt.[166]
+Auch das Spiel Minecraft gibt es in einer speziellen kostenfreien Version mit integrierter Programmierschnittstelle.[167] Die Bibliotheken Qt und NGL wurden auf den Raspberry Pi unter dem Namen „QtonPi“ portiert.[168][169]
+Seit November 2013 erhält jeder private Benutzer des Raspberry Pi ein kostenloses Exemplar der Software Mathematica.[170]
+Emulation[Bearbeiten | Quelltext bearbeiten]
+Mit QEMU lässt sich ein Raspberry Pi 2 mit Einschränkungen emulieren, also Originalsoftware für Raspberry Pi 2 auf einem normalen PC ausprobieren.[171]
+Astro-Pi[Bearbeiten | Quelltext bearbeiten]
+Seit Dezember 2015 befinden sich zwei 'Ed' und 'Izzy' genannte Raspberry Pi auf der Internationalen Raumstation (ISS). In Zusammenarbeit zwischen der Raspberry Pi Foundation und der UK Space Agency wurden diese für den Raumflug von Timothy Peake entwickelt. Mit sogenannten Sense HATs ausgestattet, haben diese verschiedene Messgeräte wie z. B. Magnetometer, Gyroskope, Barometer und Kameras.
+Programme für diese Computer können im Rahmen der sogenannten 'Astro-Pi-Challenge' durch Kinder und Jugendliche eingereicht werden. Zunächst wurde diese für Bewohner des Vereinigten Königreichs 2016 durchgeführt. Anschließend übernahm die Europäische Weltraumorganisation (ESA) die Federführung über das Projekt und führt dieses seit dem Schuljahr 2016/17 europaweit durch. Die mittlerweile 4. Ausgabe dieses Wettbewerbs teilt sich in zwei Gruppen. 'Mission Zero' wendet sich an unter 14-jährige. Diese sollen für den Einstieg in Programmierung begeistert werden. Die eingereichten Codes dürfen jeweils 30 Sekunden auf einem der Rechner laufen. 'Mission Space Lab' für unter 20-jährige zielt auf wissenschaftliche Untersuchungen mit Hilfe der Astro-Pies. Dafür werden in einem mehrstufigen, ca. ein Jahr dauernden Verfahren einzelne Experimente ausgewählt, die anschließend auf der ISS durch Astronauten ausgeführt werden.[172][173]
+Rezeption[Bearbeiten | Quelltext bearbeiten]
+Erfolg[Bearbeiten | Quelltext bearbeiten]
+Kumulierte Verkaufszahlen des Raspberry Pi
+Dass sich der Raspberry Pi millionenfach verkaufen würde, kam 2012 für Eben Upton, den Schöpfer des Einplatinencomputers, überraschend: „Wir haben ehrlich gedacht, dass wir rund 1000 davon verkaufen würden – in unseren kühnsten Träumen vielleicht 10.000 Stück“. Ein im Mai 2011 vorgestelltes BBC-Video zur Vorstellung des Pi wurde auf YouTube 600.000 Mal aufgerufen. Daraufhin wurde die anfängliche Stückzahl von 10.000 auf 100.000 erhöht und die Raspberry Foundation ging davon aus, damit die Nachfrage bedienen zu können. Kurz nach dem Verkaufsstart am 29. Februar 2012 in den Webshops von Premier Farnell und RS Components waren diese kaum noch zugänglich; die Webserver der beiden Unternehmen waren dem Ansturm nicht gewachsen. Die ersten Raspberry Pis bei Farnell waren nach wenigen Minuten ausverkauft; bei RS gingen allein am ersten Tag 100.000 Vorbestellungen ein.
+Als größtes Problem der Raspberry Pi Foundation sollte sich erweisen, die unerwartet hohe Nachfrage zu befriedigen. Die bescheidenen Mittel der gemeinnützigen Organisation kamen zunächst nur durch Darlehen von Upton und fünf anderen Kuratoren zusammen; damit sollten die Chips gekauft und die Fertigung bezahlt werden. „Das hätte gut gereicht bei 10.000 Platinen, aber wir hatten keine Chance, damit 100.000 zu bauen“, erklärte Eben Upton. „Wir hätten in zweifacher Hinsicht zu kämpfen gehabt. Zum einen hinsichtlich der Finanzierung – wir hätten nicht das Geld gehabt, um sie schnell genug zu produzieren. Und dann hätte uns noch die Logistik zu schaffen gemacht, das alles auf den Weg zu den Käufern zu bringen.“
+Daraufhin wurde ein Abkommen mit den beiden Elektronikdistributoren Premier Farnell und RS Components geschlossen, das ihnen die Lizenz zur Herstellung und für den Vertrieb der Platinen gab. Diese Partnerschaft löste die Nachfrageprobleme, konnte die Komponentenpreise niedrig halten und war mit einem weltweiten Vertriebsnetz verbunden. Wurden die ersten Raspberry Pi noch in China gefertigt, so wurde schon im September 2012 die Produktion zum größten Teil nach Pencoed (Wales) in eine Sony-Fabrik verlagert.[174][175]
+Die erste Million verkaufter Raspberry Pis war nach einem Jahr, die zweite nach weiteren acht Monaten erreicht.[176] Weitere anderthalb Jahre später – im Februar 2015 – waren bereits fünf Millionen Exemplare verkauft worden.[177] Die 10-Millionen-Marke wurde im September 2016 erreicht.[178] Bis Ende 2018 wurden mehr als 22 Millionen[179] und bis Februar 2022 – zehn Jahre nach Verkaufsstart – über 45 Millionen Geräte verkauft.[2]
+Reaktionen[Bearbeiten | Quelltext bearbeiten]
+Wegen des günstigen Preises und der geringen Leistungsaufnahme eignet sich der Raspberry Pi abseits der vorgesehenen Nutzung als Schulrechner insbesondere als Steuereinheit für Robotik- und Embedded-Projekte, Media Center, Thin Client oder Server.
+Seit dem Verkauf des Raspberry Pi berichten vor allem technisch ausgerichtete Medien regelmäßig über neue Projekte mit dem Raspberry Pi. Raspberry Pi wurde als Innovation des Jahres beim T3 Gadget Awards 2012 ausgezeichnet.[180] Eben Upton, einer der Entwickler des Raspberry Pi, wurde 2013 mit der Silbermedaille der Royal Academy of Engineering ausgezeichnet.[181]
+Der Raspberry Pi taucht in zahlreichen Filmen und TV-Serien auf, darunter in Point Break[182] CSI: Cyber[182] und Marvel’s Agents of S.H.I.E.L.D., in den Serien Revolution und Mr. Robot spielt der Raspberry Pi sogar eine zentrale Rolle in der Handlung.
+Im Mai 2012 wurde die erste Ausgabe der kostenlosen Community-Zeitschrift MagPi online veröffentlicht.[183] Das Magazin greift alle Themen rund um den Raspberry Pi auf. Seit dem Erscheinen der Ausgabe 36 im Juli 2015 erscheint MagPi auch gedruckt.[184]
+Seit Juni 2013 gibt es eine englische und seit August 2013 die deutschsprachige Zeitschrift „Raspberry Pi Geek“ vom Medialinx Verlag.[185]
+Nach dem großen Erfolg des Raspberry Pi kamen eine Reihe ähnlicher Einplatinencomputer auf den Markt. Zu nennen sind hier insbesondere das Cubieboard, das BeagleBone Black, das Banana Pi oder das HummingBoard. Einige davon ahmen das Raspberry Pi in Aussehen, Größe und Lage der Steckverbinder nach und versuchen dadurch eine weitgehende Kompatibilität zum Raspberry Pi zu erreichen. Für die alternativen Systeme gibt es derzeit keine vergleichbar großen Kern-Communitys wie im Fall des Raspberry Pi.
+„Der Raspi ist eine tolle Erfolgsgeschichte, aber sein Ziel, ein Lerncomputer für Kinder zu sein, hat er völlig verfehlt. Während bei fast jedem Computer- oder Elektronikbastler mittlerweile drei Raspis in der Schublade liegen, findet man ihn in Schulen fast gar nicht. Das ist schade, aber auch ein Hinweis darauf, dass der Raspi mehr ist als die Summe seiner Teile. Er war nie der leistungsfähigste der Mini-PCs, nie der mit den meisten Schnittstellen. Er war immer der vernünftigste, der verlässlichste, flexibelste und der mit der aktivsten Community.“
+– Merlin Schumacher: heise online[186]
+Kritik[Bearbeiten | Quelltext bearbeiten]
+Absturz durch Xenon-Blitz[Bearbeiten | Quelltext bearbeiten]
+Im Februar 2015 wurde bekannt, dass der Raspberry Pi 2 Model B abstürzt, wenn er mit einem Xenon-Blitz fotografiert wird.[187] Die Raspberry Pi Foundation bestätigte dieses Verhalten. Verursacht wird es durch ein Bauteil („U16“), das für die interne Spannungsversorgung zuständig ist. Dieses erzeugt aus den 5 V des Micro-USB-Anschlusses die intern benötigten Spannungen. Dazu wurde ein Chip ohne Gehäuse gewählt und direkt auf die Platine gelötet. Wird der Chip angeblitzt, bringt der im freiliegenden Silizium auftretende photoelektrische Effekt die Spannungsregelung aus dem Takt. Die Folge ist eine Spannungsschwankung, die zum Absturz des Raspberry führt. Problematisch ist dabei die durch einen Xenon-Blitz oder auch einen Laserpointer hervorgerufene schnelle Helligkeitsänderung. Andere helle Lichtquellen bereiten keine Probleme. Es werden verschiedene Lösungen diskutiert, wie künftige Revisionen unempfindlich gegenüber derartigen Lichtquellen gemacht werden können. Als einfache Lösung empfiehlt der Hersteller, das Bauteil mit einem Tropfen elektrisch nicht leitenden und lichtundurchlässigen Klebers abzudecken.[188] Das ist aus Sicht der Wärmeableitung aber bedenklich, da die Wahl eines Chips ohne Gehäuse meist aus thermischen Gründen erfolgte.
+Empfindlichkeit gegen Kurzschlüsse[Bearbeiten | Quelltext bearbeiten]
+Die Raspberry-Pi-Modelle 3B+ und 3A+ reagieren empfindlich auf einen Kurzschluss zwischen der 3,3-Volt- und der 5-Volt-Schiene. Dabei wird der Power-Management-IC (PMIC) von MaxLinear (MXL7704) zerstört. Da dieser mit einer kundenspezifischen Firmware versehen ist, lässt er sich nicht einfach tauschen. Die vorherigen Modelle ohne diesen erwiesen sich als robuster. An einer Lösung wird gearbeitet; es existieren Berichte, nach denen der Fehler auch ohne vorherigen Kurzschluss auftreten könne. Das sei bisher nicht reproduzierbar.[189] Der PMIC kommt auch beim Model 4B zum Einsatz.[190]
+Probleme mit USB-C-Kabeln[Bearbeiten | Quelltext bearbeiten]
+Im Juli 2019 wurde bekannt, dass die USB-C-Buchse auf dem Model 4 nicht der USB-Spezifikation entspricht; daher verweigern USB-C-Kabel mit einem sogenannten E-Marker-Chip den Dienst. Diese finden sich vorwiegend bei stärkeren Netzteilen, zum Beispiel von Notebooks; Apple legt seinen Macbooks seit 2016 entsprechende Kabel bei. Mit „passiven“ USB-C-Kabeln ohne den Chip, wie sie zum Beispiel Smartphones beiliegen, kommt das Model 4 problemlos zurecht. Mit der Revision 1.2 wurde das Problem mit der USB-C-Schnittstelle gelöst.[191]
+Speicherschnittstellen[Bearbeiten | Quelltext bearbeiten]
+Kritiker bemängelten das Fehlen von USB 3.0 und SATA zur Anbindung aktueller schneller Festplatten und SSDs.[192] Mit dem Raspberry Pi 4 wurden mittlerweile zwei USB-3.0 Anschlüsse eingeführt.[193]
+Literatur[Bearbeiten | Quelltext bearbeiten]
+Eben Upton, Gareth Halfacree: Raspberry Pi User Guide. Wiley, Chichester 2016, ISBN 978-1-119-26436-1
+Alfred H. Gitter: Linux ohne X mit dem Raspberry Pi (PDF; 2,6 MiB)
+Warren Gay: Mastering the Raspberry Pi. ISBN 978-1-4842-0181-7
+Klaus Dembowski: Raspberry Pi – Das technische Handbuch. Wiesbaden 2015, Springer Verlag, ISBN 978-3-658-08710-4
+Michael Kofler, Charly Kühnast, Christoph Scherbeck: Raspberry Pi – Das umfassende Handbuch. Rheinwerk 2021, ISBN 978-3-8362-8351-9
+René Krooß: Der Raspberry Pi Pico – Einführung mit Praxisbeispielen in Informatik Aktuell, 19. April 2022
+Weblinks[Bearbeiten | Quelltext bearbeiten]
+Commons: Raspberry Pi – Sammlung von Bildern, Videos und Audiodateien
+Wikiversity: Kurs: Wie funktioniert eigentlich ein Computer – anhand eines Raspberry Pi – Kursmaterialien
+Offizielle Website des Projekts (englisch)
+Raspberry Pi Wiki (englisch)
+Einzelnachweise[Bearbeiten | Quelltext bearbeiten]
+↑ Martin Belam: The Raspberry Pi: reviving the lost art of children's computer programming. In: the Guardian. Guardian News and Media Limited, 29. Februar 2012, abgerufen am 21. September 2014 (englisch). 
+↑ a b Eben Upton: Happy Birthday to us. Raspberry Pi, 28. Februar 2022, abgerufen am 2. März 2022 (englisch). 
+↑ How to boot from a USB mass storage device on a Raspberry Pi 3. In: raspberrypi.org. Abgerufen am 31. Januar 2018 (englisch). 
+↑ Pi 3 Booting Part 3: Ethernet. In: raspberrypi.org. Abgerufen am 31. Januar 2018 (englisch). 
+↑ Raspberrypi.org: About
+↑ Raspberry Pi Foundation. Raspberry Pi Foundation, abgerufen am 2. Juli 2011 (englisch). 
+↑ Jose Vilches: Interview with Raspberry's Founder Eben Upton. In: TechSpot. 22. Mai 2012, abgerufen am 6. März 2017 (englisch). 
+↑ 
+Karin Zühlke: Farnell zeigt den Raspberry-Pi-Nachwuchs. elektroniknet.de, 18. Februar 2013, abgerufen am 1. Oktober 2013. 
+↑ Matthew Humphries: Raspberry Pi selects a very clever logo. (Nicht mehr online verfügbar.) geek.com, archiviert vom Original am 1. Oktober 2013; abgerufen am 11. Oktober 2011: „[…] Raspberry Pi needed a logo, and decided to turn to the community to come up with ideas. […] 6 designs made the shortlist, and it took several days for the judges to finally decide on the winner. […] It was created by Paul Beech […] the raspberry is a 3D buckyball […]“ 
+↑ 
+RASPBERRY PI FOUNDATION. (Nicht mehr online verfügbar.) OpenCharities, archiviert vom Original am 5. Oktober 2013; abgerufen am 1. Oktober 2013 (englisch). 
+↑ Raspberrypi.org: Welcoming our new CEO, 17. Juli 2015
+↑ find-and-update.company-information.service.gov.uk. find and update company information service, abgerufen am 3. Januar 2022 (englisch): „Incorporated on
+25 November 2008"“ 
+↑ 
+Steve Bush: Electronics Weekly News – Embedded Systems – In depth: Raspberry Pi, the computer on a stick. electronicsweekly.com, 26. Mai 2011, abgerufen am 1. Oktober 2013 (englisch). 
+↑ Management Team. Norcott Technologies Ltd, abgerufen am 7. November 2014 (englisch). 
+↑ Alasdair Allan: RPi Founder Eben Upton Talks About the New Raspberry Pi 2. makezine.com, 2. Februar 2015, abgerufen am 5. Februar 2015 (englisch). 
+↑ a b George Wong: Build your own prototype Raspberry Pi minicomputer. ubergizmo, 24. Oktober 2011, abgerufen am 2. November 2011 (englisch): „From an Atmel ATmega644 microcontroller that ran at 22.1MHz with 512K of SRAM that’s now been replaced by a 700 MHz ARM11 processor and 128/256 MB of SDRAM […] they’ve also decided to share the schematics and PCB layout of the 2006 Raspberry Pi computer.“ 
+↑ Eben Upton: Model B schematics. (Nicht mehr online verfügbar.) raspberrypi.org, 19. April 2012, archiviert vom Original am 4. Oktober 2013; abgerufen am 1. Oktober 2013 (englisch). 
+↑ Matthew Humphries: Raspberry Pi $25 PC goes into alpha production. (Nicht mehr online verfügbar.) geek.com, 28. Juli 2011, archiviert vom Original am 2. November 2012; abgerufen am 1. Oktober 2013 (englisch). 
+↑ 
+Liz Upton: Raspberry Pi – Quake 3 demo. youtube.com, 27. August 2011, abgerufen am 1. Oktober 2013 (englisch). 
+↑ 
+Andy Piper: Raspberry Pi video capabilities. youtube.com, 7. September 2011, abgerufen am 1. Oktober 2013 (englisch). 
+↑ Made in the UK! (Nicht mehr online verfügbar.) The Raspberry Pi Foundation, 6. September 2012, archiviert vom Original am 21. Oktober 2012; abgerufen am 15. Oktober 2012 (englisch). 
+↑ Eben Upton: Upcoming board revision – Raspberry Pi. (Nicht mehr online verfügbar.) raspberrypi.org, 5. September 2012, archiviert vom Original am 31. März 2014; abgerufen am 1. Oktober 2013 (englisch). 
+↑ Jörg Thoma: Revision 2 behebt kleine Fehler. In: golem.de. 6. September 2012, abgerufen am 15. Oktober 2012. 
+↑ Philip Steffan: Raspberry Pi: Revision 2.0 kommt von Sony. In: Heise online. 7. September 2020. Abgerufen am 21. September 2014.
+↑ Eben Upton: Model B now ships with 512 MB of RAM – Raspberry Pi. (Nicht mehr online verfügbar.) raspberrypi.org, 15. Oktober 2012, archiviert vom Original am 13. Februar 2014; abgerufen am 1. Oktober 2013 (englisch). 
+↑ Liz Upton: Made in the UK! – Raspberry Pi. (Nicht mehr online verfügbar.) raspberrypi.org, 6. September 2012, archiviert vom Original am 21. Oktober 2012; abgerufen am 1. Oktober 2013 (englisch). 
+↑ Alexander Langer: Raspberry Pi Modell B ab sofort mit 512 MB RAM. (Nicht mehr online verfügbar.) 15. Oktober 2012, archiviert vom Original am 11. November 2014; abgerufen am 28. Februar 2017. 
+↑ Andreas Floemer: Raspberry Pi: Doppelter Arbeitsspeicher bei gleichem Preis. t3n.de, 15. Oktober 2012, archiviert vom Original am 17. Oktober 2012; abgerufen am 1. Oktober 2013. 
+↑ 
+Eben Upton: Camera board available for sale! raspberrypi.org, 14. Mai 2013, abgerufen am 1. Oktober 2013 (englisch). 
+↑ Vgl. Pi NoIR – the first photo; Eben at GigaOM sowie Infrared camera – you asked us, so we’re making them! (Memento vom 1. April 2014 im Internet Archive)
+↑ Alexander Merz: Kleinrechner weiter geschrumpft. In: golem.de. 7. April 2014, abgerufen am 23. August 2015. 
+↑ Alexander Merz: Compute Module ist lieferbar. In: golem.de. 9. Juni 2014, abgerufen am 23. August 2015. 
+↑ Flashing the Compute Module eMMC. In: raspberrypi.org. Abgerufen am 10. Juni 2014 (englisch). 
+↑ Eben Upton: Introducing Raspberry Pi Model B+. In: raspberrypi.org. 14. Juli 2014, abgerufen am 23. Juli 2014 (englisch). 
+↑ Modell B+ getestet und im Detail erklärt – was ist neu, was ist besser? (Nicht mehr online verfügbar.) pi3g, 23. Juli 2014, archiviert vom Original am 29. Juli 2014; abgerufen am 28. Juli 2014. 
+↑ Jörg Thoma: Der Raspberry Pi bekommt Hüte. In: golem.de. 2. August 2014, abgerufen am 10. November 2014. 
+↑ a b Russell Barnes: Raspberry Pi Model A+ out now. 20 % cheaper, 24 % shorter and 42 % thinner! (Nicht mehr online verfügbar.) In: raspi.today. 10. November 2014, archiviert vom Original am 27. Juli 2015; abgerufen am 16. August 2015 (englisch). 
+↑ Philip Steffan: Raspberry Pi standardisiert Zusatzplatinen. In: Heise online. 2. August 2014. Abgerufen am 5. August 2014.
+↑ Jörg Thoma: Das Raspberry Pi 2 hat viermal mehr Wumms. In: Golem.de. 2. Februar 2015, abgerufen am 2. Februar 2015. 
+↑ Russell Barnes: Raspberry Pi 2 expected in 2017, Foundation focussed on software for now. (Nicht mehr online verfügbar.) In: RasPi.Today. 14. Juli 2014, archiviert vom Original am 7. Februar 2015; abgerufen am 2. Februar 2015 (englisch). 
+↑ Lester Haines: Turbocharged Raspberry Pi 2 unleashed: Global geekgasm likely. In: theregister.co.uk. 2. Februar 2015, abgerufen am 2. Februar 2015 (englisch). 
+↑ Eben Upton: Raspberry Pi 2 on sale now at $35. Beitrag im offiziellen Blog. (Nicht mehr online verfügbar.) In: raspberrypi.org. 2. Februar 2015, archiviert vom Original am 11. April 2015; abgerufen am 2. Februar 2015 (englisch). 
+↑ Andreas Proschofsky: Windows 10 für Raspberry Pi 2: Erste Testversion kostenlos zum Download. In: derstandard.at. 30. April 2015, abgerufen am 23. August 2015. 
+↑ a b Eben Upton: Raspberry Pi Zero. Raspberry Pi Foundation, 26. November 2015, abgerufen am 26. November 2015 (englisch). 
+↑ a b c d Eben Upton: Raspberry Pi 3 on sale now at $35. In: Raspberrypi.org. 29. Februar 2016, abgerufen am 29. Februar 2016 (englisch). 
+↑ New Raspberry Pi 2B 1.2 with Pi3 BCM2837 Processor. In: RasPi.TV. 17. November 2016, abgerufen am 12. November 2017 (englisch). 
+↑ James Adams: Compute Module 3 Launch! In: Raspberry Pi. Raspberry Pi Foundation, 16. Januar 2017, abgerufen am 16. Januar 2017 (englisch). 
+↑ a b Eben Upton: New product! Raspberry Pi Zero W joins the family. 28. Februar 2017, abgerufen am 28. Februar 2017 (englisch). 
+↑ Alex Bate: Zero WH: pre-soldered headers and what to do with them. In: raspberrypi.org. 12. Januar 2018, abgerufen am 14. Februar 2018 (englisch). 
+↑ a b Ingo T. Storm: Der neue Raspberry Pi 3B+ – schneller zum gleichem Preis. In: Heise online. 14. März 2018. Abgerufen am 14. März 2018.
+↑ 
+Christof Windeck: Industrie-Raspberry-Pi in neuer Auflage als CM3+. In: Heise online. 29. Januar 2019. Abgerufen am 29. Januar 2019.
+↑ A birthday gift: 2 GB Raspberry Pi 4 now only $35. In: Raspberry Pi. 27. Februar 2020, abgerufen am 16. März 2020 (britisches Englisch). 
+↑ Raspberry Pi 4 Model B specifications – Raspberry Pi. Raspberry Pi Foundation, abgerufen am 24. Juni 2019 (englisch). 
+↑ Christof Windeck, Ingo T. Storm: Raspberry Pi 4: 4 GByte RAM, 4K, USB 3.0 und mehr Rechenpower. In: Heise online. 25. Juni 2019. Abgerufen am 25. Juni 2019.
+↑ a b c d INSIDE RASPBERRY PI 4. (PDF; 3,25 MB) pi3g.com, 24. Juni 2019, abgerufen am 27. Juni 2019 (englisch). 
+↑ Eben Upton: Vulkan update: we’re conformant! Raspberry Pi Foundation, 24. November 2020, abgerufen am 24. November 2020 (britisches Englisch). 
+↑ Mark Mantel: Einplatinencomputer: Raspberry Pi 4 mit 8 GByte RAM verfügbar. In: Heise online. 28. Mai 2020. Abgerufen am 28. Juni 2019.
+↑ Christof Windeck: Raspberry Pi 4 nun auch als Compute Module (CM4). In: Heise online. 21. Oktober 2020. Abgerufen am 21. Oktober 2020.
+↑ Raspberry Pi Compute Module 4. (PDF; 8,6 MB) Raspberry Pi (Trading) Ltd., 21. Oktober 2020, abgerufen am 21. Oktober 2020. 
+↑ Les Pounder: Raspberry Pi Compute Module 4 NVMe Boot Enters Beta. tomshardware, 24. März 2021, abgerufen am 18. Juni 2021 (britisches Englisch). 
+↑ Datenblatt des BCM54210
+↑ Christof Windeck: Raspberry Pi 400 im Tastaturgehäuse (nicht nur) für Schüler. In: Heise online. 2. November 2020.
+↑ Christof Windeck: Raspberry Pi Pico: Mikrocontroller-Board für 4 Euro. In: Heise online. 21. Januar 2021.
+↑ RP2040 Boards; auf: [1] (abgerufen am 14. Juni 2021)
+↑ Christof Windeck: Raspberry Pi Zero 2 W erhältlich. In: Heise online. 28. Oktober 2021. Abgerufen am 28. Oktober 2021.
+↑ Eben Upton: Raspberry Pi Pico W: your $6 IoT platform. Rapberry Pi Foundation, 30. Juni 2022, abgerufen am 7. Juli 2022 (britisches Englisch). 
+↑ Eben Upton: New functionality: Bluetooth for Pico W. Rapberry Pi Foundation, 14. Juni 2023, abgerufen am 13. Juli 2023 (britisches Englisch). 
+↑ Eben Upton Interview: Raspberry Pi Availability & More! Abgerufen am 26. Januar 2023 (deutsch). 
+↑ Raspberry Pi Model Specifications. (Nicht mehr online verfügbar.) raspberrypi.org, archiviert vom Original am 24. September 2014; abgerufen am 19. September 2014 (englisch). 
+↑ COMPUTE MODULE HARDWARE DESIGN GUIDE. raspberrypi.org, abgerufen am 13. November 2014 (englisch). 
+↑ Ingo T. Storm: Raspberry Pi 3 mit ARMv8 ist da. In: Heise online. 29. Februar 2016. Abgerufen am 29. Februar 2016.
+↑ a b c raspi.tv: Raspberry Pi Zero FREE on the cover of this month’s MagPi magazine., 26. November 2015. Abgerufen am 26. November 2015
+↑ Pi Zero W – WiFi on the Zero for $10 and a gorgeous new case. RasPi.TV, 28. Februar 2017, abgerufen am 28. Februar 2017 (englisch). 
+↑ Everything about Raspberry Pi Zero 2 W. picockpit.com, 28. Oktober 2021, abgerufen am 9. November 2021 (englisch). 
+↑ Raspberry Pi 3 Modell B in Einplatinencomputer: SoC-basierte Boards | heise online Preisvergleich. heise.de, abgerufen am 29. Februar 2016. 
+↑ Gareth Halfacree: Benchmarking the Raspberry Pi 4 – Gareth Halfacree. 24. Juni 2019, abgerufen am 8. Juli 2019 (englisch). 
+↑ Raspberry Foundation: Change Bulletin. (PDF) Abgerufen am 26. Dezember 2021. 
+↑ Raspberry Pi (Trading) Ltd: Raspberry Pi 4 Model B Datasheet. (PDF) In: raspberrypi.org. 21. Juni 2019, abgerufen am 7. Juli 2019. 
+↑ Ian Evenden published: Raspberry Pi 4 8 GB Gets Sneaky Update. 28. September 2021, abgerufen am 18. Dezember 2021 (englisch). 
+↑ Liam Tung: Your Raspberry Pi 4 may have just got an unexpected speed boost. Abgerufen am 18. Dezember 2021 (englisch). 
+↑ Overclocking options in config.txt – Raspberry Pi Documentation. raspberrypi.org, abgerufen am 3. Juni 2018 (britisches Englisch). 
+↑ Raspberry Pi Foundation: Raspberry Pi 4 Tech Specs. Raspberry Pi Foundation, abgerufen am 6. Juli 2019 (englisch). 
+↑ Cypress: Cypress CYW43455 Datenblatt. CYW43455 Single-Chip 5G WiFi IEEE 802.11n/ac MAC/Baseband/ Radio with Integrated Bluetooth 5.0. In: cypress.com. Cypress, 21. Juli 2019, abgerufen am 21. Juli 2019 (englisch). 
+↑ Raspberry Pi A+ How Much Power Does It Need? raspi.tv, 12. November 2014, abgerufen am 4. Februar 2015 (englisch). 
+↑ a b c d Eben Upton: Power supply confirmed as 5V micro USB. (Nicht mehr online verfügbar.) raspberrypi.org, 20. Oktober 2011, archiviert vom Original am 1. April 2014; abgerufen am 20. November 2011 (englisch). 
+↑ a b Eric Brown: Raspberry Pi 2 has quad-core SoC, keeps $35 price. linuxgizmos.com, 2. Februar 2015, abgerufen am 4. Februar 2015 (englisch). 
+↑ a b c d e f g h i j k l Raspberry Pi Documentation – Raspberry Pi hardware. Abgerufen am 16. April 2023 (englisch). 
+↑ Raspberry Pi A+ How Much Power Does It Need? raspi.tv, 12. November 2014, abgerufen am 4. Februar 2015 (englisch). 
+↑ Ben Martin: Performance Testing the New $35 Raspberry Pi 2. linux.com, 27. Februar 2015, abgerufen am 16. Februar 2021 (englisch). 
+↑ tunethepi.de: Der Raspberry Pi 3 Modell A+ – Technische Daten, Stromverbrauch, Details. In: tunethepi.de. 16. Juli 2019, abgerufen am 16. Juli 2019. 
+↑ FAQs – Raspberry Pi Documentation. Abgerufen am 16. Februar 2021 (englisch). 
+↑ Manuel: Raspberry Pi – Modellvergleich. Bedios GmbH, 16. März 2018, abgerufen am 19. März 2018. 
+↑ Maximilian Batz: Die vierte Generation. In: Raspberry Pi Geek. Band 09-10/2019. Computec Media GmbH, München September 2019, S. 54. 
+↑ Raspberry Pi 4 Firmware Updates Tested: A Deep Dive Into Thermal Performance and Optimization. Abgerufen am 7. Januar 2021 (englisch). 
+↑ a b Chris Wilson: Getting Plan 9 running on the Raspberry Pi. 30. November 2012, abgerufen am 1. Dezember 2012 (englisch): „Installing Plan 9 on the raspberry pi couldn't be much easier. Thanks to Richard Miller of 9fans, there's a ready-to-go image for the Raspberry Pi.“ 
+↑ a b RISC OS on Raspberry Pi forum. Raspberry Pi, abgerufen am 28. Februar 2017. 
+↑ Nicolas La Rocco: Schnellerer Raspberry Pi 2 mit kostenlosem Windows 10. computerbase.de, 2. Februar 2015, abgerufen am 2. Februar 2015. 
+↑ a b webOS enters next phase as global platform under LG’s stewardship. LG Electronics, 19. März 2018, abgerufen am 20. März 2018. 
+↑ RPi Hardware. Abgerufen am 3. Februar 2013 (englisch). 
+↑ Zero grows a camera connector. Raspberry Pi Foundation, 16. Mai 2016, abgerufen am 24. Juni 2016 (englisch). 
+↑ Raspberry Pi Model A+ 512 MB RAM ID: 2266 – $24.95 : Adafruit Industries, Unique & fun DIY electronics and kits. In: adafruit.com. Abgerufen am 21. Februar 2017. 
+↑ Compute Module IO Board Hardware Design Files Now Available! raspberrypi.org, abgerufen am 17. Oktober 2014 (englisch). 
+↑ Comment by James Adams on Compute Module announcement. (Nicht mehr online verfügbar.) raspberrypi.org, 4. Juli 2014, archiviert vom Original am 2. Mai 2014; abgerufen am 14. November 2014 (englisch). 
+↑ a b COMPUTE MODULE HARDWARE DESIGN GUIDE. Raspberry Pi Foundation, abgerufen am 5. Februar 2015 (englisch). 
+↑ 
+Jazelle. (Nicht mehr online verfügbar.) arm.com, archiviert vom Original am 29. März 2012; abgerufen am 1. Oktober 2013 (englisch). 
+↑ 
+Bill Courington, Gary Collins: Getting Started with Java SE Embedded on the Raspberry Pi. oracle.com, August 2012, abgerufen am 1. Oktober 2013 (englisch). 
+↑ Auswirkungen auf die Garantie durch Übertaktung
+↑ Eben Upton: Introducing turbo mode: up to 50 % more performance for free. (Nicht mehr online verfügbar.) raspberrypi.org, 19. September 2012, archiviert vom Original am 15. Mai 2013; abgerufen am 1. Oktober 2013 (englisch). 
+↑ a b Frank Riemenschneider: Wie schnell rechnet der Raspberry Pi in seiner zweiten Version? In: elektroniknet.de. 2. Februar 2015, abgerufen am 2. Februar 2015. 
+↑ Liz Upton: New video features! MPEG-2 and VC-1 decode, H.264 encode, CEC support. (Nicht mehr online verfügbar.) raspberrypi.org, 24. August 2012, archiviert vom Original am 4. Oktober 2013; abgerufen am 1. Oktober 2013 (englisch). 
+↑ Thorsten Leemhuis: Freier Grafiktreiber für den Raspberry Pi in Reichweite. In: Heise online. 3. März 2014. Abgerufen am 11. November 2014.
+↑ a b Open-Source-Grafiktreiber ist fertig. golem.de, 31. März 2014, abgerufen am 22. August 2016. 
+↑ BCM2837 – Raspberry Pi Documentation. Abgerufen am 21. Juli 2021. 
+↑ Eben Upton, Gareth Halfacree: Raspberry Pi. Einstieg und User Guide, 1. Auflage. mitp, Heidelberg/München/Landsberg/Frechen/Hamburg 2013, S. 32
+↑ Ingo T. Storm: HiFi-Sound statt Himbeergrütze. In: c't 7/2015, S. 72–74
+↑ Analogue audio redux – Raspberry Pi Forums. Abgerufen am 16. März 2018 (britisches Englisch). 
+↑ Uwe Beis: Eine Einführung in Delta-Sigma-Wandler. Abgerufen am 16. März 2018. 
+↑ 
+Raspberry Pi: 32 Zeichen Hitachi HD44780 Display. 10. Oktober 2012, abgerufen am 1. Oktober 2013. 
+↑ Eben Upton, Gareth Halfacree: Raspberry Pi. Einstieg und User Guide. 1. Auflage. mitp, Heidelberg/München/Landsberg/Frechen/Hamburg 2013, S. 225f.
+↑ Raspberry Pi GPIO Pinout: Interaktive Seite; enthält auch die GPIO-Nutzung etlicher Zusatzplatinen.
+↑ RPi Low-level peripherals – eLinux.org. Abgerufen am 16. März 2018 (englisch). 
+↑ Raspberry Pi-Wiki: Rpi Low-level peripherals
+↑ Raspberry Pi board GPIO pinout Including GPIO2-Connector P5
+↑ Camera module – ModMyPi! (Nicht mehr online verfügbar.) ModMyPi, 25. Mai 2013, archiviert vom Original am 20. Oktober 2013; abgerufen am 25. Mai 2013 (englisch). 
+↑ James Hughes: New camera mode released. Offizieller Blogeintrag mit Beispielvideos und Erläuterungen zu den unterstützten Videoauflösungen. raspberrypi.org, 18. März 2014, abgerufen am 19. März 2015 (englisch). 
+↑ Maik Schmidt, c’t Hardware Hacks, S. 24–29
+↑ Liz Upton: Pi NoIR, the infrared camera:now avalible! raspberrypi, 28. Oktober 2013, abgerufen am 6. Februar 2014 (englisch). 
+↑ Peter König: Neue Raspberry-Pi-Kamera: acht Megapixel, der Preis bleibt gleich. In: Heise online. 29. Februar 2016. Abgerufen am 29. Februar 2016.
+↑ Michael Plura: Raspberry-Pi-Kamera mit 12 Megapixeln und Objektivanschluss. In: Heise online. 1. Mai 202. Abgerufen am 7. Dezember 2020.
+↑ Denise Bergert: 7-Zoll-Touch-Display für Raspberry Pi ab sofort erhältlich. In: Heise online. 8. September 2015. Abgerufen am 10. September 2015.
+↑ 
+Oliver Diedrich: Raspberry Pi: NOOBS erleichtert die Installation. In: Heise online. 6. Juni 2013. Abgerufen am 27. Juni 2019.
+↑ 
+BerryBoot v2.0 – bootloader / universal operating system installer. berryterminal.com, abgerufen am 1. Oktober 2013 (englisch). 
+↑ Pro-Linux.de: NOOBS 1.3 mit neuen Funktionen erschienen.
+↑ Raspberry Pi Documentation – Getting Started. Abgerufen am 29. August 2021 (englisch). 
+↑ 
+Downloads – Raspberry Pi. raspberrypi.org, abgerufen am 1. Oktober 2013 (englisch). 
+↑ Eben Upton: Raspberry Pi 4 on sale now from $35. In: raspberrypi.org. 24. Juni 2019, abgerufen am 24. Juni 2019 (englisch). 
+↑ Bullseye – the new version of Raspberry Pi OS. In: Raspberry Pi. 8. November 2021, abgerufen am 25. November 2021 (britisches Englisch). 
+↑ Gordon Hollingworth: Raspberry Pi OS (64-bit). In: Raspberry Pi. 2. Februar 2022, abgerufen am 5. Oktober 2022 (britisches Englisch). 
+↑ Raspi.debian.net
+↑ Gunnar Wolf: Frequently Asked Questions (FAQs) and errata. In: Raspberry Pi Debian images. Abgerufen am 29. November 2021 (englisch). 
+↑ ArchLinuxARM; Infos zur Installation
+↑ Pidora – Raspberry Pi Fedora Remix. Abgerufen am 25. März 2015 (englisch). 
+↑ FedBerry – Fedora Remix for Raspberry Pi 2/3. Abgerufen am 23. März 2017 (englisch). 
+↑ https://docs.fedoraproject.org/en-US/quick-docs/raspberry-pi/
+↑ https://fedoraproject.org/wiki/Architectures/ARM/Raspberry_Pi?rd=Raspberry_Pi#aarch64_supported_images_for_Raspberry_Pi_3
+↑ 
+Ronald Eikenberg: ecurity-Linux Kali tritt Nachfolge von BackTrack an. In: Heise online. 13. März 2013. Abgerufen am 1. Oktober 2013.
+↑ 
+Bodhi Linux. bodhilinux.com, abgerufen am 1. Oktober 2013 (englisch). 
+↑ 
+Jos Poortvliet: openSUSE News. opensuse.org, 9. September 2013, abgerufen am 1. Oktober 2013 (englisch). 
+↑ 
+openSUSE Lizards. opensuse.org, 7. September 2013, abgerufen am 1. Oktober 2013 (englisch). 
+↑ 
+ARM – Ubuntu Wiki. Abgerufen am 1. Oktober 2013 (englisch). 
+↑ Install Ubuntu Server on a Raspberry Pi 2, 3 or 4. Abgerufen am 27. Juni 2020 (englisch). 
+↑ solydxk.com: SolydX RPI (Memento vom 15. April 2017 im Internet Archive)
+↑ MX-Fluxbox Raspberry Pi “Ragout” now Final. Abgerufen am 28. Juni 2021 (englisch). 
+↑ 
+Raspberry Pi – XBMC. Abgerufen am 1. Oktober 2013 (englisch). 
+↑ Kodi on recalbox. recalbox, 9. Dezember 2017, abgerufen am 10. Dezember 2017 (englisch). 
+↑ KODI. RetroPie, 5. Oktober 2017, abgerufen am 10. Dezember 2017 (englisch). 
+↑ 
+Seite des Entwicklers. Abgerufen am 24. September 2021 (englisch). 
+↑ Lightweight justice for your SBC! Abgerufen am 27. Januar 2023 (englisch). 
+↑ 
+BSD – Raspberry Pi. (Nicht mehr online verfügbar.) raspberrypi.org, archiviert vom Original am 4. Oktober 2013; abgerufen am 1. Oktober 2013 (englisch). 
+↑ 
+Chris Wilson: Getting Plan 9 running on the Raspberry Pi. 30. November 2012, abgerufen am 1. Oktober 2013 (englisch). 
+↑ Al Williams: Inferno OS on Raspberry Pi. In: Hackaday. 22. November 2015, abgerufen am 12. Januar 2015 (englisch): „Now LynxLine Labs has ported Inferno to the Raspberry Pi.“ 
+↑ Holwerda, Thom: Raspberry Pi To Embrace RISC OS. In: OSNews. 31. Oktober 2011, abgerufen am 1. November 2011 (englisch): „At the RISC OS London show, Theo Markettos, postdoctoral researcher in the University of Cambridge Computer Laboratory talked about RISC OS on the Pi.“ 
+↑ Windows 10 for Raspberry Pi 2. Offizielle Microsoft-Mitteilung. (Nicht mehr online verfügbar.) Archiviert vom Original am 2. Februar 2015; abgerufen am 4. Februar 2015 (englisch).  Info: Der Archivlink wurde automatisch eingesetzt und noch nicht geprüft. Bitte prüfe Original- und Archivlink gemäß Anleitung und entferne dann diesen Hinweis.@1@2Vorlage:Webachiv/IABot/dev.windows.com 
+↑ DMW007: Windows 10/11/IoT Core auf dem Raspberry Pi 4: Was geht 2022, was nicht? Eine Übersicht für die dauerhafte/produktive Nutzung von Windows auf dem Pi. Abgerufen am 26. Januar 2023 (deutsch). 
+↑ Liz Upton: XBMC running on Raspberry Pi. Raspberry Pi Foundation, 21. Januar 2012, abgerufen am 21. Januar 2012 (englisch). 
+↑ 
+huceke/omxplayer · GitHub. Abgerufen am 1. Oktober 2013 (englisch). 
+↑ 
+Minecraft: Pi Edition – Minecraft: Pi Edition updates and downloads. Abgerufen am 1. Oktober 2013 (englisch). 
+↑ 
+piNGL (NCCA Graphics Library) for Raspberry pi. Abgerufen am 1. Oktober 2013 (englisch). 
+↑ 
+Category:QtonPi – Qt Wiki – Qt Project. Abgerufen am 1. Oktober 2013 (englisch). 
+↑ Raspberry Pi now includes Mathematica and Wolfram Language for free
+↑ QEMU ChangeLog/2.6. System emulation ARM. 3. Mai 2016, abgerufen am 16. Juni 2016 (englisch). 
+↑ Astrp-Pi. Abgerufen am 16. Juni 2016 (englisch). 
+↑ Helga Hansen: Astro Pi Challenge: Raspi-Programme laufen im All. In: Heise online. 23. Oktober 2018. Abgerufen am 29. November 2020.
+↑ Andrijan Möcker: 5 Jahre Raspberry Pi: Wie ein Platinchen die Welt eroberte. In: Heise online. 28. Februar 2017. Abgerufen am 29. Oktober 2020.
+↑ Nick Heath: Die Geschichte des Respbarry Pi. ZDNet, 5. Februar 2013, abgerufen am 29. Oktober 2020. 
+↑ Oliver Diedrich: Zwei Millionen Raspberry Pi ausgeliefert. In: Heise online. 19. Januar 2013. Abgerufen am 31. Oktober 2020.
+↑ Marzin Reche: Raspberry Pi: Mehr als fünf Millionen verkaufte Kleinstcomputer. In: Heise online. 18. Februar 2015. Abgerufen am 31. Oktober 2020.
+↑ Moritz Förster: Erfolgsgeschichte: 10 Millionen Raspberry Pi verkauft. In: Heise online. 9. September 2016. Abgerufen am 31. Oktober 2020.
+↑ David Cleevely: Raspberry Pi Foundation, Annual Review 2018. (PDF) In: raspberrypi.org. Abgerufen am 11. August 2019 (britisches Englisch). 
+↑ Pete Dreyer: T3 Gadget Awards 2012: Winners in pictures. (Nicht mehr online verfügbar.) Archiviert vom Original am 19. April 2015; abgerufen am 28. Februar 2017 (englisch). 
+↑ Pro-linux.de: Royal Academy of Engineering zeichnet RPi-Entwickler Upton aus (2. Juli 2013)
+↑ a b Liz Upton: Hollywood, now with added Pi. raspberrypi.org, 29. Mai 2015, abgerufen am 6. Februar 2016 (englisch). 
+↑ 
+Liz Upton: The MagPi: a Raspberry Pi community magazine – Raspberry Pi. 5. Mai 2012, abgerufen am 1. Oktober 2013 (englisch). 
+↑ Raspberrypi.org: The MagPi issue 36 is here and we’re in print!, erschienen am 30. Juli 2015
+↑ 
+Mirko Lindner: Medialinx startet »Raspberry Pi Geek«-Magazin. pro-linux.de, 5. August 2013, abgerufen am 1. Oktober 2013. 
+↑ Tipps und Tricks zum Raspberry Pi. In: Heise online. 3. August 2020 (Note 1, Klassenziel verfehl). Abgerufen am 31. Oktober 2020.t
+↑ Jan-Keno Janssen: Kamera-Blitz schaltet Raspberry Pi 2 aus. In: Heise online. 9. Februar 2015. Abgerufen am 9. Mai 2015.
+↑ Liz Upton: Xenon Death Flash: A Free Physics Lesson. raspberrypi.org, 9. Februar 2014, abgerufen am 9. Mai 2015 (englisch). 
+↑ Peter Eisner: Aktuelle Raspi-Modelle sind empfindlicher bei Kurzschlüssen. In: Heise online. 14. Juni 2019. Abgerufen am 27. Juni 2019.
+↑ MaxLinear’s MxL7704 PMIC Powers the Raspberry Pi 4. wallstreet:online, 24. Juni 2019, abgerufen am 27. Juni 2019 (englisch). 
+↑ Mark Mantel: Raspberry Pi 4: Revision 1.2 mit ausgebessertem USB-C-Stecker im Handel. In: Heise online. 24. Februar 2020. Abgerufen am 25. Februar 2020.
+↑ Maik Merten: Überreife Himbeere. Wie es mit dem Raspberry Pi weitergeht. In: Heise Magazine. Heise, 1. August 2016 (heise.de [abgerufen am 21. Juli 2021]). 
+↑ The Raspberry Pi Foundation: Raspberry Pi 4 Model B specifications. Abgerufen am 19. September 2021 (britisches Englisch). 
+Normdaten (Sachbegriff): GND: 1027903738 (lobid, OGND, AKS)  | LCCN: sh2013000263 
+Abgerufen von „https://de.wikipedia.org/w/index.php?title=Raspberry_Pi&oldid=235449896“
+Kategorien: MikrocomputerLerncomputerEinplatinencomputerVersteckte Kategorien: Wikipedia:Defekte Weblinks/Ungeprüfte Archivlinks 2018-12Wikipedia:Artikel mit Video
+Navigationsmenü
+Meine Werkzeuge
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden
+Namensräume
+ArtikelDiskussion
+Deutsch
+Ansichten
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte
+Weitere
+Suche
+Navigation
+HauptseiteThemenportaleZufälliger Artikel
+Mitmachen
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden
+Werkzeuge
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenArtikel zitierenWikidata-Datenobjekt
+Drucken/​exportieren
+Buch erstellenAls PDF herunterladenDruckversion
+In anderen Projekten
+Commons
+In anderen Sprachen
+AlemannischAragonésالعربيةAzərbaycancaБеларускаяБългарскиবাংলাBosanskiCatalàکوردیČeštinaCymraegDanskEnglishEspañolEestiEuskaraفارسیSuomiFrançaisGàidhligGalegoગુજરાતીעבריתहिन्दीMagyarՀայերենBahasa IndonesiaÍslenskaItaliano日本語ಕನ್ನಡ한국어КыргызчаLatinaLombardLietuviųLatviešuമലയാളംBahasa MelayuNederlandsNorsk bokmålOccitanPolskiPortuguêsRuna SimiRomânăРусскийSrpskohrvatski / српскохрватскиSimple EnglishSlovenčinaSlovenščinaShqipСрпски / srpskiSvenskaతెలుగుTürkçeУкраїнськаVènetoTiếng Việt吴语中文粵語
+Links bearbeiten
+ Diese Seite wurde zuletzt am 13. Juli 2023 um 16:29 Uhr bearbeitet.
+Abrufstatistik · Autoren 
+Der Text ist unter der Lizenz „Creative-Commons Namensnennung – Weitergabe unter gleichen Bedingungen“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+Datenschutz
+Über Wikipedia
+Impressum
+Verhaltenskodex
+Mobile Ansicht
+Entwickler
+Statistiken
+Stellungnahme zu Cookies

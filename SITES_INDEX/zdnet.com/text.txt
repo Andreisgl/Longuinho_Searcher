@@ -1,0 +1,56 @@
+Microsoft tries to block Linux off Windows 8 PCs | ZDNET
+                                         />                                                                                                                                                                                                   X     Trending    
+I tried Apple Vision Pro and it's far ahead of where I expected What is ChatGPT and why does it matter? Is Temu legit? What to know about this shopping app before you place an order Special Feature: Unlock the Full Power of Your Phone  ZDNET Recommends These $400 XR glasses gave my MacBook a 120-inch screen to work with The best earbuds you can buy Google Pixel Fold review: Samsung's first big competitor comes out swinging Smart home starter pack: 5 devices that will make your life easier Mesh routers vs. Wi-Fi routers: What's best for your home office?  Best smartphones Best laptops Best VPNs Best TVs Best headphones Best robot vacuums  Tech    Gaming Headphones Laptops Mobile Accessories Networking PCs  Printers Smartphones Smart Watches Speakers Streaming Devices Streaming Services  Tablets TVs Wearables  Kitchen & Household Office Furniture Office Hardware & Appliances Smart Home Smart Lighting Yard & Outdoors  Innovation    Artificial Intelligence AR + VR Cloud Digital Transformation Energy  Robotics Sustainability Transportation Work Life  Accelerate your tech game Paid Content How the New Space Race Will Drive Innovation How the metaverse will change the future of work and society  Managing the Multicloud The Future of the Internet The New Rules of Work The Tech Trends to Watch in 2023  Business    See all Business Amazon Apple Developer E-Commerce  Edge Computing Enterprise Software Executive Google Microsoft  Professional Development Social Media SMB Windows  Digital transformation: Trends and insights for success Software development: Emerging trends and changing roles  Security      See all Security Cyber Threats Password Manager Ransomware VPN  Cybersecurity: Let's get tactical Securing the Cloud  Advice      Deals How-to Product Comparisons Product Spotlights Reviews  Buying Guides    See all Buying Guides Best all-in-one computers Best budget TVs Best gaming CPUs Best gaming laptops Best gaming PCs  Best headphones Best iPads Best iPhones Best laptops Best large tablets Best OLED TVs  Best robot vacuum mops Best rugged tablets Best Samsung phones Best smart rings Best smartphones Best smartwatches  Best speakers Best tablets Best travel VPNs Best TVs Best VPNs   tomorrow belongs to those who embrace it today       
+          Asia
+        
+          Australia
+        
+          Europe
+        
+          India
+        
+          United Kingdom
+        
+          United States
+         ZDNET France ZDNET Germany ZDNET Korea ZDNET Japan        Go  Most Popular          See all Topics Finance Education Health  Special Features ZDNET In Depth ZDNET Recommends  Newsletters Videos Editorial Guidelines        Trending  I tried Apple Vision Pro and it's far ahead of where I expected What is ChatGPT and why does it matter? Is Temu legit? What to know about this shopping app before you place an order Special Feature: Unlock the Full Power of Your Phone ZDNET Recommends These $400 XR glasses gave my MacBook a 120-inch screen to work with The best earbuds you can buy Google Pixel Fold review: Samsung's first big competitor comes out swinging Smart home starter pack: 5 devices that will make your life easier Mesh routers vs. Wi-Fi routers: What's best for your home office? Best smartphones Best laptops Best VPNs Best TVs Best headphones Best robot vacuums Tech  Gaming Headphones Laptops Mobile Accessories Networking PCs Printers Smartphones Smart Watches Speakers Streaming Devices Streaming Services Tablets TVs Wearables Kitchen & Household Office Furniture Office Hardware & Appliances Smart Home Smart Lighting Yard & Outdoors Innovation  Artificial Intelligence AR + VR Cloud Digital Transformation Energy Robotics Sustainability Transportation Work Life Accelerate your tech game Paid Content How the New Space Race Will Drive Innovation How the metaverse will change the future of work and society Managing the Multicloud The Future of the Internet The New Rules of Work The Tech Trends to Watch in 2023 Business  See all Business Amazon Apple Developer E-Commerce Edge Computing Enterprise Software Executive Google Microsoft Professional Development Social Media SMB Windows Digital transformation: Trends and insights for success Software development: Emerging trends and changing roles Security  See all Security Cyber Threats Password Manager Ransomware VPN Cybersecurity: Let's get tactical Securing the Cloud Advice  Deals How-to Product Comparisons Product Spotlights Reviews Buying Guides  See all Buying Guides Best all-in-one computers Best budget TVs Best gaming CPUs Best gaming laptops Best gaming PCs Best headphones Best iPads Best iPhones Best laptops Best large tablets Best OLED TVs Best robot vacuum mops Best rugged tablets Best Samsung phones Best smart rings Best smartphones Best smartwatches Best speakers Best tablets Best travel VPNs Best TVs Best VPNs More  See all Topics Finance Education Health Special Features ZDNET In Depth ZDNET Recommends Newsletters Videos Editorial Guidelines  Business     
+      Home
+    
+      Business
+    
+      Companies
+    
+      Microsoft
+      
+    Microsoft tries to block Linux off Windows 8 PCs
+   
+    Microsoft may say that Linux isn't enemy number one anymore, but they sure still act like it is. 
+      Written by 
+            Steven Vaughan-Nichols, Senior Contributing Editor   
+        on
+        Sept. 21, 2011                     If this wasn't so sad, it would be funny. After Microsoft recently declared victory over Linux, it turns out that Microsoft appears is still trying to arrange it so that Linux won't even boot on the next generation of PCs that come with Windows 8. Yeah, Linux isn't on your enemy list anymore right Microsoft? Sure.
+ Matthew Garrett, a Red Hat engineer, gets the credit for spotting Microsoft's latest anti-Linux move. In a blog posting, Garrett explains that Windows 8 logo guidelines require that systems have Unified Extensible Firmware Interface (UEFI) secure boot enabled. This, in turn, would block Linux, or any other operating system, from booting on it.
+ There's nothing in UEFI that's wrong. Indeed there's a lot of good in UEFI. It's a 21st century replacement for your PC's basic input/output system (BIOS). Its job is to initialize your hardware and then hand over control over to the operating system.
+ Where the Microsoft sneak attack comes in, Garret writes, is with the UEFI secure boot protocol:
+ UEFI secure boot protocol is part of recent UEFI specification releases. It permits one or more signing keys to be installed into a system firmware. Once enabled, secure boot prevents executables or drivers from being loaded unless they're signed by one of these keys. Another set of keys (Pkek) permits communication between an OS and the firmware. An OS with a Pkek matching that installed in the firmware may add additional keys to the whitelist. Alternatively, it may add keys to a blacklist. Binaries signed with a blacklisted key will not load.
+ There is no centralized signing authority for these UEFI keys. If a vendor key is installed on a machine, the only way to get code signed with that key is to get the vendor to perform the signing. A machine may have several keys installed, but if you are unable to get any of them to sign your binary then it won't be installable.
+ This impacts both software and hardware vendors. An OS vendor cannot boot their software on a system unless it's signed with a key that's included in the system firmware. A hardware vendor cannot run their hardware inside the EFI environment unless their drivers are signed with a key that's included in the system firmware. If you install a new graphics card that either has unsigned drivers, or drivers that are signed with a key that's not in your system firmware, you'll get no graphics support in the firmware.
+ Microsoft requires (PowerPoint Link) that machines conforming to the Windows 8 logo program and running a client version of Windows 8 ship with secure boot enabled. The two alternatives here are for Windows to be signed with a Microsoft key and for the public part of that key to be included with all systems, or alternatively for each OEM to include their own key and sign the pre-installed versions of Windows. The second approach would make it impossible to run boxed copies of Windows on Windows logo hardware, and also impossible to install new versions of Windows unless your OEM provided a new signed copy. The former seems more likely. 
+To sum up: "a system that ships with only OEM and Microsoft keys will not boot a generic copy of Linux."
+ What does Microsoft have to say about the subject? ZDNet's own Mary Jo Foley asked them and they've got nothing to say about UEFI, Linux and Windows 8. That's reassuring.
+ Personally, I don't think it's going to happen. I think Microsoft is going to have its hands full getting hardware vendors to buy into Windows 8 in the first place nevermind trying to shove a signed UEFI secure boot protocol down their throats as well. The OEMs know darn well that while not that many companies will switch out Windows for Linux, a lot of them will switch out Windows 8 for Windows 7 or even XP. Will Dell, Lenovo, et. al. Really want to tick off their corporate customers by locking them into Windows 8? I don't think so.
+ In short, this is 2011, not 1998. Microsoft doesn't get to call the shots to the OEMs anymore. If the OEMs and customers want freedom of operating system choice on their hardware-and they will-Microsoft can't force Windows 8 on them.
+ Related Stories: Will Windows 8 block users from dual-booting Linux? Microsoft won't say The Linux desktop is dead. Long live the Linux desktop. Linux snickers at Microsoft's victory declaration Windows' Endgame. Desktop Linux's Failure What's coming in Ubuntu's new Unity Linux desktop Editorial standards  Show Comments  
+          Log In to Comment
+         Community Guidelines     Related   
+      Here's another reason why Linux is way cooler than your operating system
+      
+      Windows: The millennium and beyond
+      
+      Microsoft may soon give Windows 11 an AI revamp, according to reports
+              ZDNET we equip you to harness the power of disruptive innovation, at work and at home. TopicsGalleriesVideosDo Not Sell or Share My Personal Information about ZDNETMeet The TeamSitemapReprint Policy Join |
+    Log InNewslettersSite AssistanceLicensing     
+  © 2023 ZDNET, A Red Ventures company. All rights reserved.
+ Privacy Policy |
+  Cookie Settings |
+  Advertise |
+  Terms of Use 

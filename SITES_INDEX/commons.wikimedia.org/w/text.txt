@@ -1,0 +1,178 @@
+View source for Template:Lang-mp - Wikimedia Commons
+View source for Template:Lang-mp
+← Template:Lang-mp
+Jump to navigation
+Jump to search
+You do not have permission to edit this page, for the following reasons:
+ This page is currently protected, and can be edited only by administrators.
+This page is currently protected from editing because it is transcluded in the following page, which is protected with the "cascading" option enabled:
+Main Page
+ 
+You can view and copy the source of this page.
+<div style="font-size:85%; margin:0; padding:.25em .5em; border:0 solid #CCC; background:#FFF;" id="main-page-langbar" class="autonym hlist">
+<!-- * mo {{Lang-mp-loader|mo|Паджина принчипалэ}} needless: Romanian page exist -->
+* <!--af-->{{Lang-mp-loader|af|Tuisblad}}
+* <!--als-->{{Lang-mp-loader|als|Houptsyte}}
+* <!--an-->{{Lang-mp-loader|an|Portalada}}
+* <!--ang-->{{Lang-mp-loader|ang|Hēafodtramet}}
+* <!--anp-->{{Lang-mp-loader|anp|मुख्य पृष्ठ (anp)}}
+* <!--ar-->{{Lang-mp-loader|ar|الصفحة الرئيسية}}
+* <!--ast-->{{Lang-mp-loader|ast|Entamu}}
+* <!--av-->{{Lang-mp-loader|av|БетӀераб гьумер}}
+* <!--ban-->{{Lang-mp-loader|ban|Kaca Utama}}
+* <!--bar-->{{Lang-mp-loader|bar|Hauptseiten}}
+* <!--be-->{{Lang-mp-loader|be|Першая старонка}}
+* <!--be-tarask-->{{Lang-mp-loader|be-tarask|Галоўная старонка}}
+* <!--bg-->{{Lang-mp-loader|bg|Начална страница}}
+* <!--bh-->{{Lang-mp-loader|bh|मुख्य पन्ना}}
+* <!--bjn-->{{Lang-mp-loader|bjn|Tungkaran Tatambaian}}
+* <!--bn-->{{Lang-mp-loader|bn|প্রধান পাতা}}
+* <!--br-->{{Lang-mp-loader|br|Degemer}}
+* <!--bs-->{{Lang-mp-loader|bs|Početna strana}}
+* <!--ca-->{{Lang-mp-loader|ca|Commons:Pàgina principal|Pàgina principal}}
+* <!--cdo-->{{Lang-mp-loader|cdo|Tàu-hiĕk}}
+* <!--ckb-->{{Lang-mp-loader|ckb|دەستپێک}}
+* <!--cs-->{{Lang-mp-loader|cs|Hlavní strana}}
+* <!--cy-->{{Lang-mp-loader|cy|Hafan}}
+* <!--da-->{{Lang-mp-loader|da|Forside}}
+* <!--de-->{{Lang-mp-loader|de|Hauptseite}}
+* <!--diq-->{{Lang-mp-loader|diq|Pela Seri}}
+* <!--el-->{{Lang-mp-loader|el|Αρχική σελίδα}}
+* <!--en-->{{Lang-mp-loader|en|Main Page}}
+* <!--eo-->{{Lang-mp-loader|eo|Ĉefpaĝo}}
+* <!--es-->{{Lang-mp-loader|es|Portada}}
+* <!--et-->{{Lang-mp-loader|et|Esileht}}
+* <!--eu-->{{Lang-mp-loader|eu|Azala}}
+* <!--ext-->{{Lang-mp-loader|ext|Páhina prencipal}}
+* <!--fa-->{{Lang-mp-loader|fa|صفحهٔ اصلی}}
+* <!--fi-->{{Lang-mp-loader|fi|Etusivu}}
+* <!--fo-->{{Lang-mp-loader|fo|Forsíða/fo}}
+* <!--fr-->{{Lang-mp-loader|fr|Accueil}}
+* <!--fy-->{{Lang-mp-loader|fy|Haadside}}
+* <!--ga-->{{Lang-mp-loader|ga|Príomhleathanach}}
+* <!--gl-->{{Lang-mp-loader|gl|Portada galega}}
+* <!--grc-->{{Lang-mp-loader|grc|Κυρία Δέλτος}}
+* <!--gu-->{{Lang-mp-loader|gu|મુખપૃષ્ઠ}}
+* <!--hak-->{{Lang-mp-loader|hak|Thèu-ya̍p}}
+* <!--he-->{{Lang-mp-loader|he|עמוד ראשי}}
+* <!--hi-->{{Lang-mp-loader|hi|मुखपृष्ठ (hi)}}
+* <!--hr-->{{Lang-mp-loader|hr|Glavna stranica}}
+* <!--hsb-->{{Lang-mp-loader|hsb|Hłowna strona}}
+* <!--hu-->{{Lang-mp-loader|hu|Kezdőlap}}
+* <!--hy-->{{Lang-mp-loader|hy|Գլխավոր Էջ}}
+* <!--ia-->{{Lang-mp-loader|ia|Pagina principal}}
+* <!--id-->{{Lang-mp-loader|id|Halaman Utama}}
+* <!--is-->{{Lang-mp-loader|is|Forsíða/is}}
+* <!--it-->{{Lang-mp-loader|it|Pagina principale}}
+* <!--ja-->{{Lang-mp-loader|ja|メインページ}}
+* <!--jv-->{{Lang-mp-loader|jv|Pendhapa}}
+* <!--ka-->{{Lang-mp-loader|ka|მთავარი გვერდი}}
+* <!--kk-->{{Lang-mp-loader|kk|Басты бет}}
+* <!--km-->{{Lang-mp-loader|km|ទំព័រដើម}}
+* <!--kn-->{{Lang-mp-loader|kn|ಮುಖ್ಯ ಪುಟ}}
+* <!--ko-->{{Lang-mp-loader|ko|대문}}
+* <!--ko-kp-->{{Lang-mp-loader|ko-kp|첫페지}}
+* <!--ku-->{{Lang-mp-loader|ku|Destpêk}}
+* <!--la-->{{Lang-mp-loader|la|Pagina prima}}
+* <!--lb-->{{Lang-mp-loader|lb|Haaptsäit}}
+* <!--lt-->{{Lang-mp-loader|lt|Pagrindinis puslapis}}
+* <!--lv-->{{Lang-mp-loader|lv|Sākumlapa}}
+* <!--mai-->{{Lang-mp-loader|mai|सम्मुख पन्ना}}
+* <!--mg-->{{Lang-mp-loader|mg|Fandraisana}}
+* <!--mk-->{{Lang-mp-loader|mk|Главна страница}}
+* <!--ml-->{{Lang-mp-loader|ml|പ്രധാന താൾ}}
+* <!--mni-->{{Lang-mp-loader|mni|ꯃꯔꯨꯑꯣꯏꯕ ꯂꯃꯥꯏ}}
+* <!--mr-->{{Lang-mp-loader|mr|मुखपृष्ठ (mr)}}
+* <!--ms-->{{Lang-mp-loader|ms|Laman Utama}}
+* <!--mt-->{{Lang-mp-loader|mt|Il-Paġna prinċipali}}
+* <!--mwl-->{{Lang-mp-loader|mwl|Páigina percipal}}
+* <!--my-->{{Lang-mp-loader|my|ဗဟိုစာမျက်နှာ}}
+* <!--mzn-->{{Lang-mp-loader|mzn|گت ولگ}}
+* <!--nah-->{{Lang-mp-loader|nah|Calīxatl}}
+* <!--nap-->{{Lang-mp-loader|nap|Paggena prencepale}}
+* <!--nds-->{{Lang-mp-loader|nds|Hööftsiet}}
+* <!--nds-nl-->{{Lang-mp-loader|nds-nl|Vöärblad}}
+* <!--ne-->{{Lang-mp-loader|ne|मुख्य पृष्ठ}}
+* <!--nl-->{{Lang-mp-loader|nl|Hoofdpagina}}
+* <!--nn-->{{Lang-mp-loader|nn|Hovudside}}
+* <!--no-->{{Lang-mp-loader|no|Hovedside}}
+* <!--oc-->{{Lang-mp-loader|oc|Acuèlh}}
+* <!--or-->{{Lang-mp-loader|or|ପ୍ରଧାନ ପୃଷ୍ଠା}}
+* <!--os-->{{Lang-mp-loader|os|Сæйраг фарс}}
+* <!--pa-->{{Lang-mp-loader|pa|ਮੁੱਖ ਸਫ਼ਾ}}
+* <!--pam-->{{Lang-mp-loader|pam|Pamuklat}}
+* <!--pcd-->{{Lang-mp-loader|pcd|Pache picarte}}
+* <!--pl-->{{Lang-mp-loader|pl|Strona główna}}
+* <!--ps-->{{Lang-mp-loader|ps|لومړی مخ}}
+* <!--pt-->{{Lang-mp-loader|pt|Página principal}}
+* <!--qu-->{{Lang-mp-loader|qu|Qhapaq p'anqa}}
+* <!--ro-->{{Lang-mp-loader|ro|Pagina principală}}
+* <!--ru-->{{Lang-mp-loader|ru|Заглавная страница}}
+* <!--sa-->{{Lang-mp-loader|sa|मुखपुटम्}}
+* <!--sat-->{{Lang-mp-loader|sat|ᱢᱩᱬᱩᱛ ᱥᱟᱦᱴᱟ}}
+* <!--sc-->{{Lang-mp-loader|sc|Pàgina printzipale}}
+* <!--scn-->{{Lang-mp-loader|scn|Pàggina principali}}
+* <!--sco-->{{Lang-mp-loader|sco|Scots Commons}}
+* <!--sh-->{{Lang-mp-loader|sh|Glavna stranica (sh)}}
+* <!--si-->{{Lang-mp-loader|si|මුල් පිටුව}}
+* <!--simple-->{{Lang-mp-loader|simple|Simple English}}
+* <!--sk-->{{Lang-mp-loader|sk|Hlavná stránka}}
+* <!--sl-->{{Lang-mp-loader|sl|Glavna stran}}
+* <!--so-->{{Lang-mp-loader|so|Bogga Hore}}
+* <!--sq-->{{Lang-mp-loader|sq|Faqja kryesore}}
+* <!--sr-->{{Lang-mp-loader|sr|Главна страна}}
+* <!--stq-->{{Lang-mp-loader|stq|Haudsiede Commons}}
+* <!--su-->{{Lang-mp-loader|su|Tepas}}
+* <!--sv-->{{Lang-mp-loader|sv|Huvudsida}}
+* <!--szl-->{{Lang-mp-loader|szl|Przodniŏ zajta}}
+* <!--ta-->{{Lang-mp-loader|ta|முதற் பக்கம்}}
+* <!--te-->{{Lang-mp-loader|te|మొదటి పేజీ}}
+* <!--tg-->{{Lang-mp-loader|tg|Саҳифаи аслӣ}}
+* <!--th-->{{Lang-mp-loader|th|หน้าหลัก}}
+* <!--tl-->{{Lang-mp-loader|tl|Unang Pahina}}
+* <!--tr-->{{Lang-mp-loader|tr|Anasayfa}}
+* <!--udm-->{{Lang-mp-loader|udm|Кутскон бам}}
+* <!--uk-->{{Lang-mp-loader|uk|Головна сторінка}}
+* <!--ur-->{{Lang-mp-loader|ur|صفحۂ_اول}}
+* <!--vec-->{{Lang-mp-loader|vec|Pajina prinsipałe}}
+* <!--vi-->{{Lang-mp-loader|vi|Trang Chính}}
+* <!--vo-->{{Lang-mp-loader|vo|Cifapad}}
+* <!--war-->{{Lang-mp-loader|war|Syahan nga Pakli}}
+* <!--yi-->{{Lang-mp-loader|yi|ערשטע זײַט}}
+* <!--yo-->{{Lang-mp-loader|yo|Ojúewé Àkọ́kọ́}}
+* <!--yue-->{{Lang-mp-loader|yue|頭版}}
+* <!--zh-classical-->{{Lang-mp-loader|zh-classical|卷首}}
+* <!--zh-->{{Lang-mp-loader|zh|首页}}
+* <!--zh-min-nan-->{{Lang-mp-loader|zh-min-nan|Thâu-ia̍h}}<span class="nuke" style="display:none">{{·}}<!-- edit link -->{{edit|Template:Lang-mp}}</span>
+</div>
+<noinclude>
+{{documentation}}
+[[Category:Internationalization templates]]
+</noinclude>
+Templates used on this page:
+MediaWiki:Grouppage-Image-reviewer (view source) MediaWiki:Grouppage-autoconfirmed (view source) MediaWiki:Grouppage-autopatrolled (view source) MediaWiki:Grouppage-bot (view source) MediaWiki:Grouppage-bureaucrat (view source) MediaWiki:Grouppage-checkuser (view source) MediaWiki:Grouppage-filemover (view source) MediaWiki:Grouppage-oversight (view source) MediaWiki:Grouppage-patroller (view source) MediaWiki:Grouppage-rollbacker (view source) MediaWiki:Grouppage-sysop (view source) MediaWiki:Grouppage-templateeditor (view source) MediaWiki:Grouppage-translationadmin (view source) MediaWiki:Grouppage-upwizcampeditors (view source) MediaWiki:Grouppage-vrt-permissions (view source) Template:Autotranslate (view source) (protected)Template:BCP47 (view source) (template editor protected)Template:Clickable button (view source) (protected)Template:Clickable button/iconclass (view source) (protected)Template:Dir (view source) (protected)Template:Documentation (view source) (template editor protected)Template:Documentation/i18n/en (view source) (template editor protected)Template:Documentation/layout (view source) (semi-protected)Template:Documentation/styles.css (view source) (template editor protected)Template:Documentation subpage (view source) (template editor protected)Template:Edit (view source) (protected)Template:Lang (view source) (protected)Template:Lang-mp-loader (view source) (protected)Template:Lang-mp/doc (edit) Template:Namespace (view source) (protected)Template:Notice (view source) (protected)Template:Protected (view source) (template editor protected)Template:Protected/text/en (edit) Template:Suppress categories (edit) Template:T/main (view source) (protected)Template:TSwitch (edit) Template:Tag (edit) Template:TemplateBox (view source) (template editor protected)Template:TemplateBox/i18n/en (view source) (protected)Template:TemplateBox/layout (view source) (template editor protected)Template:TemplateBox/styles.css (view source) (template editor protected)Template:TemplateDataInfo/i18n/en (edit) Template:TemplateDataInfo/layout (edit) Template:TemplateDataInfo/styles.css (edit) Template:TemplateDataInfo/toggler (view source) (template editor protected)Template:Tl (view source) (protected)Template:Tlf (view source) (template editor protected)Template:Tmpl (view source) (template editor protected)Template:Transclude (view source) (template editor protected)Template:W (view source) (protected)Template:· (view source) (protected)Module:Autotranslate (view source) (protected)Module:Caller title (view source) (template editor protected)Module:JSON (view source) (template editor protected)Module:Languages (view source) (semi-protected)Module:Suppress categories (edit) Module:TNT (view source) (template editor protected)Module:TNTFallback (view source) (template editor protected)Module:TableTools (view source) (template editor protected)Module:TemplateBox (view source) (template editor protected)Module:Tmpl (view source) (template editor protected)Module:Transclude (view source) (template editor protected)Return to Template:Lang-mp.
+Retrieved from "https://commons.wikimedia.org/wiki/Template:Lang-mp"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+TemplateDiscussion
+English
+Views
+ViewView sourceHistory
+More
+Search
+Navigate
+Main pageWelcomeCommunity portalVillage pumpHelp center
+Participate
+Upload fileRecent changesLatest filesRandom fileContact us
+Tools
+What links hereRelated changesSpecial pagesPage informationWikidata item
+Privacy policy
+About Wikimedia Commons
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

@@ -1,0 +1,122 @@
+ [MediaWiki-announce] MediaWiki 1.18 beta 1
+   
+[MediaWiki-announce] MediaWiki 1.18 beta 1
+Sam Reed
+reedy at wikimedia.org
+       
+Fri Nov  4 13:27:09 UTC 2011
+Next message: [MediaWiki-announce] MediaWiki Release Candidate 1.18.0rc 1
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+I'm happy to announce the availability of the first beta release of
+the new MediaWiki 1.18 release series.
+ 
+Please try it out and let us know what you think. Don't run it on
+any wikis that you really care about, unless you are both very
+brave and very confident in your MediaWiki administration skills.
+ 
+MediaWiki 1.18 is a large release that contains many new
+features and bug fixes. This is a summary of the major changes of
+interest to users. You can consult the RELEASE-NOTES file for the
+full list of changes in this version.
+ 
+*********************************************************************
+                             What's new?
+*********************************************************************
+ 
+MediaWiki 1.18 brings the usual host of various bugfixes and new
+features.
+ 
+jQuery 1.6.4 is now included as standard, along with numerous
+more jQuery plugins
+ 
+Breaking changes:
+    * action=watch / action=unwatch now requires a token
+ 
+As of 1.18 extensions are now being bundled with the releaset tarball.
+MediaWiki 1.18 bundles:
+    * ConfirmEdit
+    * Gadgets
+    * Nuke
+    * ParserFunctions
+    * Renameuser
+    * Vector
+    * WikiEditor
+ 
+$wgEnableDublinCoreRdf and $wgEnableCreativeCommonsRdf no longer
+work in core, and the functionality has been moved to the relevant
+extensions.
+See http://www.mediawiki.org/wiki/Extension:DublinCoreRdf and
+http://www.mediawiki.org/wiki/Extension:CreativeCoreRdf as appropriate
+ 
+Math
+-  ----
+$wgUseTeX has been superseded by the Math extension. To re-enable
+math conversion after upgrading, obtain the Math extension from SVN or from
+http://www.mediawiki.org/wiki/Extension:Math and add to LocalSettings.php:
+require_once "$IP/extensions/Math/Math.php";
+ 
+Language support
+- ----------------
+ 
+As with every release, MediaWiki 1.18 brings improved support for
+languages in MediaWiki, with improved translation and features for
+the many supported languages.
+ 
+New languages:
+ 
+* Angika (anp)
+* Brahui (brh)
+* Central Dusun (dtp)
+* Jamaican Creole English (jam)
+* Khowar (khw)
+* Liv (liv)
+* Kichwa (qug)
+ 
+API
+- ---
+ 
+API bug fixes and new features have been added to 1.18, providing
+more options for input and output.
+ 
+    * API modules were added to access QueryPage based special
+      pages, to Compare pages, Revert files, and to be able to access
+      other special pages such as Special:UnwatchedPages,
+      Special:MimeSearch and Special:ActiveUsers
+ 
+    * The output of the generated help page has been improved
+ 
+The API contains a breaking changes against previous releases:
+ 
+    * action=watch now requires POST and token.
+ 
+Release notes
+- -------------
+ 
+Complete release notes are at
+ 
+http://www.mediawiki.org/wiki/Release_notes/1.18
+ 
+ 
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.18/mediawiki-1.18.0beta1.tar.gz
+ 
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.18/mediawiki-1.18.0beta1.tar.gz.si
+g
+ 
+Public keys:
+https://secure.wikimedia.org/keys.html
+ 
+Next message: [MediaWiki-announce] MediaWiki Release Candidate 1.18.0rc 1
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+More information about the MediaWiki-announce
+mailing list

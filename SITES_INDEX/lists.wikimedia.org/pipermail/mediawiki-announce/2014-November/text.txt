@@ -1,0 +1,409 @@
+[MediaWiki-announce] MediaWiki 1.24.0 released - MediaWiki-announce - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+                            2023
+                        
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2022
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2021
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2020
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2019
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2018
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2017
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2016
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2015
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2014
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2013
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2012
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2011
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2010
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2009
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2008
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2007
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2006
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2005
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2004
+                        
+December
+            List overview
+ Download
+thread
+[MediaWiki-announce] MediaWiki 1.24.0 released
+Markus Glaser
+                27 Nov
+                
+                    2014
+                
+            
+                27 Nov
+                
+                '14
+                
+            
+11:38 a.m.
+ 
+Hello everyone,
+I am happy to announce the availability of the first stable release of the new MediaWiki
+1.24 release series.
+MediaWiki 1.24 is a large release that contains many new features and bug fixes. This is a
+summary of the major changes of interest to users. You can consult the RELEASE-NOTES-1.24
+file for the full list of changes in this version.
+Our thanks to everyone who helped to improve MediaWiki by testing the release candidates
+and submitting bug reports.
+== What's new? ==
+MediaWiki 1.24 includes all changes released in the smaller 1.24wmfX software deployments
+to Wikimedia sites.
+== Preferences made easier ==
+MediaWiki is known to be extremely flexible and customisable, but few users use its full
+potential. In 1.24, we aim to make dozens obscure preferences easily discoverable and
+obvious to use.
+== New features ==
+* Category pages can now be moved (bug 5451).
+* MergeHistory for all administrators by default (bug 66155).
+* Improvements have been made to the password storage system, allowing improved security
+against offline attacks should a wiki's database be compromised by attackers. Then,
+the default password storage algorithm was changed to PBKDF2. PBKDF2 and Bcrypt have
+built-in support in PHP. The new extensible password API makes it trivial to implement
+scrypt support if we wanted to.
+== Usability == 
+* The move feature and other actions are now discoverable in Vector, thanks to a label for
+the dropdown where they're hidden by default (bug 44591).
+* Specify default language on a per-page basis
+* Redirect to Special:UserLogin when logging is in required to proceed, instead of showing
+an error message
+== Performance ==
+In 2014, MediaWiki development has a new focus on frontend performance.
+* (bug 39035) Improved Vector skin performance by removing collapsibleNav, which used to
+collapse some sidebar elements by default. This removes -list id suffixes like
+p-lang-list: instead of using things like #p-lang-list, you can do #p-lang .body ul. If
+you would like CollapsibleNav back please use the CollapsibleVector extension.
+==Upgrade notices for MediaWiki administrators==
+=== Breaking changes ===
+* Upgrade jQuery to version 1.11.x: [[mailarchive:wikitech-l/2014-June/076842.html]]
+* Support for register_globals (deprecated 5 years ago) was dropped, MediaWiki will no
+longer run with it enabled.
+* {{!}} is now a magic word that results in |, mainly for use in templates and other
+complex templates. If your wiki has another template at Template:!, you will need to
+change the name and update any usage of it. If your Template:! is just |, it can be safely
+deleted.
+=== API changes === 
+Starting with MediaWiki 1.24, we're cleaning up the API, and working towards an API
+2.0. See the roadmap for more details.
+* Rarely used formats deprecated: dbg, dump, txt, wddx, yaml. These may be removed in a
+future release.
+* Token handling overhauled: the action=tokens module is now deprecated and replaced by
+action=query&meta=tokens. Most actions now just take a generic "csrf" token,
+and the token type is now properly documented in the auto-generated documentation.
+* And more! See the RELEASE-NOTES-1.24 file for a full list.
+=== Directory changes ===
+* The legacy '''skins/common/''' directory has been emptied and
+deleted as part of the skin system cleanup. Files that have been present in it have been
+moved elsewhere or deleted (if they were unused). If you loaded any of these files as part
+of your custom skin or on-wiki CSS/JS, you should make a copy of the old files in a
+non-MediaWiki directory. See the RELEASE-NOTES-1.24 file for the full list of
+moved/deleted files.
+=== Browser support deprecated or removed === 
+* Full support for Internet Explorer 6 and Internet Explorer 7  has been removed: it will
+browse MediaWiki without JavaScript. JavaScript fixes specific to it have also been
+removed. Additional IE6  and IE7 fixes that exist in MediaWiki:Common.js and similar can
+be safely removed.
+=== Skins no longer loaded after upgrade? ===
+MediaWiki 1.24 no longer uses the skin autodiscovery mechanism to load default skins,
+instead requiring that the skins be manually loaded in LocalSettings.php, much like
+extensions (see [[Manual:Skin configuration#Installing skins]]).
+This will require you to update LocalSettings.php after the upgrade - a prominently
+displayed warning message should guide you through the process, suggesting the exact
+configuration that you need to add. If you're upgrading via a tarball release, that is
+all you need to do. If you're upgrading via git or otherwise from source, note that
+the skins themselves have been each moved to a separate repository and will need to be
+installed separately (much like extensions, some basic ones are included in the tarball).
+=== Composer ===
+If you are using extensions managed by composer, make sure to backup your existing
+composer.json file as it will be overwritten on upgrade.
+Full release notes:
+https://git.wikimedia.org/blob/mediawiki%2Fcore.git/1.24.0/RELEASE-NOTES-1.…
+https://www.mediawiki.org/wiki/Release_notes/1.24
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.24/mediawiki-1.24.0.tar.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.24/mediawiki-1.24.0.tar.gz.sig
+Public keys:
+https://www.mediawiki.org/keys/keys.html
+Mark Hershberger and Markus Glaser
+(Wiki Release Team)
+    
+ 0
+ 0
+            Reply
+        
+Back to the thread
+            Back to the list
+        
+ 
+            Powered by HyperKitty version 1.3.4.
+        

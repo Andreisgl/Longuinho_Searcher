@@ -1,0 +1,292 @@
+[WikimediaMobile] Wikivoyage: Need for a 100% offline app - Mobile-l - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+                            2023
+                        
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2022
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2021
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2020
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2019
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2018
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2017
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2016
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2015
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2014
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2013
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2012
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2011
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2010
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2009
+                        
+December
+November
+October
+September
+August
+July
+June
+            List overview
+ Download
+thread
+[WikimediaMobile] Wikivoyage: Need for a 100% offline app
+Nicolas Raoul
+                25 Jan
+                
+                    2013
+                
+            
+                25 Jan
+                
+                '13
+                
+            
+7:09 p.m.
+ 
+Hello all,
+I am Nicolas Raoul, 10 years of wikipedia editing.
+I just released this non-official Android app for Wikivoyage offline:
+https://play.google.com/store/apps/details?id=org.github.OxygenGuide
+Free, open source, of course.
+It serves a different purpose than the existing official Wikivoyage app.
+It lets people read Wikivoyage even when offline.
+Like a paper guidebook, but stored in your phone.
+At first run, it downloads OxygenGuide (a ZIP of all Wikivoyage text, 80MB).
+Then you can enjoy the articles offline.
+Bonus: Offline is much faster, because data is loaded from the SD card, not
+from the Internet.
+Offline is vital for travellers, because roaming is expensive.
+Wikimedia's official app is great, but not offline, making it no-go for
+most travellers... there is a "Save page" feature, but it is difficult to
+know in advance every place and topic a travel you lead you to. Imagine
+selecting and cutting pages from a paper guidebook one-by-one... rather
+take the whole book if it is not heavy, right?
+Special:Book generates monolithic A4-sized EPUB files with images, too
+heavy for a phone if you select more than a few articles.
+The app is functional, but ugly and many features could be added.
+If anyone is interested, you're very welcome to join the team :-)
+If Wikimedia wants to overtake the app, I would be flattered! If not, I
+just continue as non-official, no worry.
+If I violate any trademark or license, please let me know.
+Also, any feedback is very welcome!
+By the way, non-Android users can also copy the HTML articles manually to
+their phone/reader/laptop: https://code.google.com/p/oxygenguide
+Cheers!
+Nicolas Raoul
+http://nrw.free.fr
+PS: Sorry for not writing as a reply in Chris' thread, I had not subscribed
+yet when he posted. And sorry for kind of cross-posting with wikivoyage-l.
+    
+Attachments:
+attachment.htm
+                (text/html — 3.9 KB)
+            
+ 0
+ 0
+            Reply
+        
+Back to the thread
+            Back to the list
+        
+ 
+            Powered by HyperKitty version 1.3.4.
+        

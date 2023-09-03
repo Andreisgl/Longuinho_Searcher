@@ -1,0 +1,204 @@
+How press censorship works « Teaching Online Journalism
+48 captures
+03 Dec 2007 - 08 Apr 2023
+Dec
+JUN
+Aug
+30
+2010
+2011
+2013
+success
+fail
+ About this capture
+COLLECTED BY
+Organization: Internet Archive
+  The Internet Archive discovers and captures web pages through many different web crawls.
+
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+
+View the web archive through the Wayback Machine.
+Collection: Wide Crawl started March 2011
+Web wide crawl with initial seedlist and crawler configuration from March 2011.  This uses the new HQ software for distributed crawling by Kenji Nagahashi.
+What’s in the data set:
+Crawl start date: 09 March, 2011
+Crawl end date: 23 December, 2011
+Number of captures: 2,713,676,341
+Number of unique URLs: 2,273,840,159
+Number of hosts: 29,032,069
+The seed list for this crawl was a list of Alexa’s top 1 million web sites, retrieved close to the crawl start date.  We used Heritrix (3.1.1-SNAPSHOT) crawler software and respected robots.txt directives.  The scope of the crawl was not limited except for a few manually excluded sites.
+However this was a somewhat experimental crawl for us, as we were using newly minted software to feed URLs to the crawlers, and we know there were some operational issues with it.  For example, in many cases we may not have crawled all of the embedded and linked objects in a page since the URLs for these resources were added into queues that quickly grew bigger than the intended size of the crawl (and therefore we never got to them).  We also included repeated crawls of some Argentinian government sites, so looking at results by country will be somewhat skewed.
+We have made many changes to how we do these wide crawls since this particular example, but we wanted to make the data available “warts and all” for people to experiment with.  We have also done some further analysis of the content.
+If you would like access to this set of crawl data, please contact us at info at archive dot org and let us know who you are and what you’re hoping to do with it.  We may not be able to say “yes” to all requests, since we’re just figuring out whether this is a good idea, but everyone will be considered.
+TIMESTAMPS
+The Wayback Machine - http://web.archive.org/web/20110630161559/http://mindymcadams.com/tojou/2007/how-press-censorship-works/
+Teaching Online Journalism
+How press censorship works
+March 23, 2007
+Although Malaysia is a small country (about 26.6 million people, or less than 10 percent the population of the U.S.), its press and broadcast policies are worthy of study. Take the recent government edict issued to a dozen mainstream newspapers and five television stations telling them to ignore any and all online information that might be considered anti-government. (More about the Malaysian issue at Malaysia Today: Bloggers controversy keeps journalists busy, March 23. More also at Jeff Ooi’s blog, March 21.)
+I have met some journalism students (and even some mature editors) who think this way: How can you decide which online sources are telling the truth? Well, it can be hard to be sure. So these cautious folks decide they just won’t consult any online-only sources. Ha, that solves the problem, doesn’t it?
+A journalist’s job is to find sources and verify them. That means checking and cross-checking. You can do that with online sources — if you’re not a lazy slug.
+Sometimes you will hear people calling for stronger oversight of the news media in the U.S. On this subject, we can learn from a country like Malaysia. What does “stronger oversight” amount to?
+The biggest muzzle on the press is a license to publish. They have these in Malaysia. You cannot print a newspaper of any kind unless the national government has given you a license to do so.
+The license is like a sword hanging over your newspaper’s neck — and that neck is permanently stretched out on the chopping block. Every editor in Malaysia knows this. How do I know? I lived there for eight months and interviewed several of them, both formally and informally. Not one of them agreed to speak on the record.
+Why journalists act like chickens
+The first threat is personal. Say a government official complains about a story in your newspaper. Maybe it’s a matter of so-called national security, or maybe it’s just about the incredibly expensive mansion the official built for his second wife. If you are the editor who permitted that story to be published, you probably won’t be hauled off and shot (Malaysia isn’t that kind of country). But you could lose your job. And even more subtly, you might just not get that plum promotion you had been guaranteed.
+The most interesting thing I was told: If you have children who are not yet of college age, what you’re afraid of is that they will not receive a place at one of the better pubic universities. The national government determines all placements in all public universities in Malaysia. Journalists actually believe the government will send their kids to an inferior school in the hinterlands if they, the journalists, make someone mad by publishing something undesirable.
+That one really amazed me.
+The second threat is worse: The government can take away your newspaper’s license, and there’s no way to appeal the decision. Your paper must shut down the presses, apply for a new license, and just wait, wait, wait until they think they have punished you enough. Everybody loses his or her job.
+What happens when a government is immune from criticism? I mean, your editor is too scared to let you follow up on a story about a legislator’s suspiciously huge income from unknown sources — let alone anything more pervasive or dangerous to the idea of fair government or equality under the law. Malaysia does call itself a democracy, and it holds free and fair elections, and the legislature meets and discusses policy and passes laws. On the surface, the country appears to function like a democratic republic — just like the U.S. or Britain or any other “modern democracy.”
+No democracy without a free press
+Living in Malaysia, I learned how much of a difference a free press can make. Sure, the U.S. news media have a long, long list of failings. But at least when they do decide to fulfill their watchdog role, the government won’t swoop in and shut down the whole newspaper.
+Malaysian officials will be very quick to tell you that you can, and will, read negative news about the government in Malaysian newspapers. That is true. But if you live there for a few months, you’ll start to get the big picture. Malaysians like to read two or three newspapers a day to try to figure out what’s really going on. Part of the way they figure it out — they call it “reading between the lines” — is to compare how the same story is handled in different papers, especially comparing the English-language papers with the vernacular (Malay or Chinese) papers. You’ll sometimes see a very different emphasis in each version, and that lets you know which political faction is pushing the story forward. So the negative news is spun by some power within the government, just as much as the positive news.
+Now, back to that edict about ignoring online sources.
+In a country such as Malaysia, the only freedom of speech to be found in any mass medium is online (there is also an underground network of SMS — because everyone sends text messages all day long, even grandmothers and small children).
+Because the government has pledged not to censor or control the Internet — in the interests of attracting Western business and not seeming to be too backward or paternalistic — what is the best way to combat the truths found only on blogs and other online sites?
+Try to convince everyone that the Internet is full of lies.
+Try to convince people that there is no way to separate truth from fiction online.
+Make all bloggers out to be crazy people, unreliable, and certainly never experts.
+Forbid all journalists to use information found online.
+Repeat the age-old assurances that the government itself will tell the people everything they need to know.
+Well. I think we can all learn from the Malaysian example.
+Is anyone you know convinced that we cannot find reliable sources online?
+Technorati tags: blogs | free speech | journalism | reporting | Malaysia | newspapers
+Share this:FacebookStumbleUponRedditDigg
+Tags: free speech, international, journalism, malaysia, press freedom
+Categories: ideas 
+3 Comments 
+ Poh Si Teng says: 
+March 24, 2007 at 5:07 pm 
+Dear Mindy,I’m so intrigued by this post and your blog. At which university do you teach? Where in Malaysia did you spend your eight months? Why Malaysia?
+I’m a Malaysian journalism student who will be graduating from San Francisco State this semester, and interning as a multimedia producer at The Virginian-Pilot in the summer and The Miami Herald in the fall.
+I’m also the director and co-founder of theCICAK, a peer-reviewed Malaysian political and pop culture publication. It’s also a social networking site for the youth who want a better, more democratic country. Most of our writers are high school and college students.
+My friends and I created theCICAK because we were pissed off at how our generation was being covered by mainstream media in Malaysia. Unfortunately, we only publish commentary as opposed to news pieces, as we do not have the resources to train everyone in news writing and reporting.
+Can we republish this post on our site? I think many of our readers would be very interested in this article. I will link it back to tojou.blogspot.com.
+My e-mail address is:pohsiteng at gmail dot com
+Hope to hear from you soon.
+Sincerely,Poh Sihttp://pohsi.comhttp://thecicak.com
+– Poh Si TengDirectortheCICAKhttp://thecicak.comhttp://pohsi.com
+ Mindy McAdams says: 
+March 24, 2007 at 9:09 pm 
+Hi, Poh Si. Thanks for posting a comment. You can republish this post for non-commercial use under the terms of the Creative Commons License as long as you link back to the original post.
+I chose Malaysia because I think it is one of the most interesting countries in the world. Its racial rojak gives it both vitality and tension. I lived in Shah Alam and taught at UiTM.
+I miss Malaysia so much — it is almost two years since I left.
+Your generation has to find a way to use the strengths of the three races in your country — you know we have a saying: “United, we stand. Divided, we fall.” I am afraid it is up to you to change the system, as it is always left to each new generation.
+ Kathy says: 
+March 31, 2007 at 7:32 pm 
+Hi Mindy, 
+I’m the co-founder and publisher of an online arts magazine, http://www.kakiseni.com. We’re entering out 6th year now, and our primary focus is on arts and culture withing a broader socio/political framework. We’ve covered a number of censorship in the arts (and media) related articles and I thought you might be interested in articles on the temporary closure of the Sunday Mail, as well as one on the ongoing bloggers case on the site.
+Kathy Rowland
+Leave a Reply Cancel reply
+Your email address will not be published. Required fields are marked * Name *
+Email *
+Website
+Comment You may use these HTML tags and attributes:  <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong>  
+ 
+ 
+Search for:
+Pages 
+About Me and This Blog
+Contact Mindy
+Revision History
+Categories
+Select Category
+audio  (69)
+blogging  (127)
+data  (61)
+design  (127)
+examples  (107)
+ideas  (93)
+jobs  (50)
+multimedia  (241)
+participation  (36)
+reporting  (107)
+slideshows  (49)
+storytelling  (85)
+teaching  (359)
+training  (163)
+video  (195)
+Advertising 
+Related Sites
+Flash Journalism
+Journalists' Toolkit
+Syllabuses
+Where I Am
+College of Journalism and Communications
+Journalism Department
+University of Florida
+Archives  Select Month  June 2011  (8)
+ May 2011  (4)
+ April 2011  (4)
+ March 2011  (2)
+ February 2011  (1)
+ January 2011  (6)
+ December 2010  (3)
+ November 2010  (3)
+ October 2010  (4)
+ September 2010  (3)
+ August 2010  (3)
+ June 2010  (3)
+ May 2010  (12)
+ April 2010  (8)
+ March 2010  (2)
+ February 2010  (2)
+ January 2010  (4)
+ December 2009  (1)
+ November 2009  (1)
+ October 2009  (4)
+ September 2009  (10)
+ August 2009  (5)
+ July 2009  (2)
+ June 2009  (12)
+ May 2009  (7)
+ April 2009  (8)
+ March 2009  (7)
+ February 2009  (14)
+ January 2009  (8)
+ December 2008  (8)
+ November 2008  (21)
+ October 2008  (26)
+ September 2008  (26)
+ August 2008  (30)
+ July 2008  (24)
+ June 2008  (12)
+ May 2008  (6)
+ April 2008  (33)
+ March 2008  (21)
+ February 2008  (28)
+ January 2008  (34)
+ December 2007  (23)
+ November 2007  (23)
+ October 2007  (36)
+ September 2007  (25)
+ August 2007  (26)
+ July 2007  (33)
+ June 2007  (33)
+ May 2007  (49)
+ April 2007  (53)
+ March 2007  (66)
+ February 2007  (44)
+ January 2007  (72)
+ December 2006  (36)
+ November 2006  (57)
+ October 2006  (38)
+ September 2006  (50)
+ August 2006  (52)
+ July 2006  (56)
+ June 2006  (44)
+ May 2006  (34)
+ April 2006  (51)
+ March 2006  (25)
+ February 2006  (18)
+ January 2006  (8)
+ December 2005  (3)
+ Site visits
+since July 1, 2007:
+ 
+ 
+Mindy McAdams on Twitter Counter.com
+ 
+ Mindy McAdamsPromote Your Page Too
+ 
+© 2011 Mindy McAdams | Powered by WordPress | Theme by Stinkyink
+Entries (RSS) | Comments (RSS)
+ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Please feel free to link to any post on this blog. Linking is welcome. Linking is free. If you copy any text from this blog, be sure to link back to the original post and include the full name of the author. Reproducing the text without a link back to the original post or without including the name of the author is a violation of the license.

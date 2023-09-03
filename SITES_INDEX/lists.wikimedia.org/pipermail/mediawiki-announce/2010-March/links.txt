@@ -1,0 +1,6 @@
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_16_0beta1/phase3/RELEASE-NOTES
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.0beta1.tar.gz
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.0beta1.tar.gz.sig
+https://secure.wikimedia.org/keys.html
+http://enigmail.mozdev.org
+https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce

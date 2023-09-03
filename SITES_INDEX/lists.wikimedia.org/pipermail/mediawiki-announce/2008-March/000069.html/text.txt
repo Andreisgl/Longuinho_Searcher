@@ -1,0 +1,57 @@
+ [MediaWiki-announce] MediaWiki 1.10.4, 1.9.6 released (bug fix)
+   
+[MediaWiki-announce] MediaWiki 1.10.4, 1.9.6 released (bug fix)
+Brion Vibber
+brion at wikimedia.org
+       
+Mon Mar  3 07:20:32 UTC 2008
+Next message: [MediaWiki-announce] MediaWiki 1.11.2 released (security)
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+Corrections for API path fix, broken in 1.10.3 and 1.9.5.
+Full release notes:
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_10_4/phase3/RELEASE-NOTES
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_9_6/phase3/RELEASE-NOTES
+Download:
+http://download.wikimedia.org/mediawiki/1.10/mediawiki-1.10.4.tar.gz
+http://download.wikimedia.org/mediawiki/1.10/mediawiki-1.10.4.patch
+http://download.wikimedia.org/mediawiki/1.9/mediawiki-1.9.6.tar.gz
+http://download.wikimedia.org/mediawiki/1.9/mediawiki-1.9.6.patch
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.10/mediawiki-1.10.4.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.10/mediawiki-1.10.4.patch.sig
+http://download.wikimedia.org/mediawiki/1.9/mediawiki-1.9.6.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.9/mediawiki-1.9.6.patch.sig
+SHA-1 checksums:
+df5b59aaf50ec674542cc928cfd58f2ddfb3b9f5 mediawiki-1.10.4.tar.gz
+14dc1c1a796452158c2c2668def61ab2c9cd4abd mediawiki-1.10.4.patch
+4a09172ec52fd3bb81861fcbebd63530fd5e8238 mediawiki-1.9.6.tar.gz
+3ca1ab772ab39ccb9e84e3e02219dcec02a4de66 mediawiki-1.9.6.patch
+MD-5 checksums:
+MD5 (mediawiki-1.10.4.tar.gz) = d81e5607a365b71f09496864e0aa93bb
+MD5 (mediawiki-1.10.4.patch) = d8f06822dcd4c110e10a6fb2e7273a0f
+MD5 (mediawiki-1.9.6.tar.gz) = d7e49bc59c072b339495ece7ee3dd053
+MD5 (mediawiki-1.9.6.patch) = 9be86077efe3d837a930c7e2d6379d31
+Before asking for help, try the FAQ:
+http://www.mediawiki.org/wiki/Manual:FAQ
+Low-traffic release announcements mailing list:
+(Please subscribe to receive announcements of security updates.)
+http://lists.wikimedia.org/mailman/listinfo/mediawiki-announce
+Wiki admin help mailing list:
+http://lists.wikimedia.org/mailman/listinfo/mediawiki-l
+Bug report system:
+http://bugzilla.wikimedia.org/
+Play "stump the developers" live on IRC:
+#mediawiki on irc.freenode.net
+-- brion vibber (brion @ wikimedia.org)
+Next message: [MediaWiki-announce] MediaWiki 1.11.2 released (security)
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+More information about the MediaWiki-announce
+mailing list

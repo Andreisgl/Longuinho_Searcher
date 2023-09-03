@@ -1,0 +1,252 @@
+Discussioni utente:.mau. - Wikisource
+Discussioni utente:.mau.
+Da Wikisource.
+Vai alla navigazione
+Vai alla ricerca
+se non lo vedi, clicca qui!Benvenuto su Wikisource!
+Ciao .mau., un saluto di benvenuto su Wikisource, la biblioteca libera!
+Per iniziare la tua collaborazione, leggi come prima cosa cos'è Wikisource, la pagina delle linee guida ed i manuali contenuti nella sezione aiuto.
+Se hai domande, dubbi o curiosità non esitare a chiedere al Bar, a un amministratore o a qualsiasi utente vedessi collegato seguendo le ultime modifiche.
+Buon lavoro e buon divertimento da tutti i wikisourciani.
+ 
+"Admin", "edit", "interwiki", "template" e "redirect"... Troppe parole strane di cui non capisci il significato? Come ogni comunità, anche Wikisource ha un suo gergo, spiegato nella guida "Aiuto:Glossario".
+Naturalmente benvenuto anche da parte mia e se avessi bisogno non esitare a contattarmi. IPork 17:04, 2 gen 2006 (UTC)
+Indice
+1 Djvu
+2 Transclusione
+3 Sono avvilito...
+4 Condivido con soddisfazione...
+5 css
+6 Benvenuto
+7 Spostamento Goldoni I
+8 Bottone per tl|Pt a fine pagina
+9 Goldoni in versi
+10 Due cosette
+11 Ocio a memoRegex
+12 Community Insights Survey
+13 Reminder: Community Insights Survey
+14 Reminder: Community Insights Survey
+15 Una cultura....
+16 N. Pag.
+17 La polizia di Londra
+18 Scelta 1: pdf o djvu?
+19 Tutto va ben...
+20 stile
+Djvu[modifica]
+Guardata la pagina Aiuto:Guida alla pubblicazione di un testo/Costruire il file djvu .... sono affranto, va riscritta; qui la bozza (informe) della nuova versione scritta al volo, per favore dagli un occhio visto che l'hai ispirata, ma tierni conto che è poco più di una "raccolta di idee" provvisoria: Aiuto:Guida alla pubblicazione di un testo/Costruire il file djvu/Bozza nuova versione. --Alex brollo (disc.) 22:54, 12 giu 2019 (CEST)Rispondi[rispondi]
+@Alex brollo Allora, ho usato IAtools per creare il djvu, ma direi che non c'è lo strato testo. Devo usare ABBYY, ora? --.mau. (disc.) 20:19, 13 giu 2019 (CEST)Rispondi[rispondi]
+Posso vedere il djvu? e... come sei con python (magari ne sai molto più di me)? --Alex brollo (disc.) 21:27, 13 giu 2019 (CEST)Rispondi[rispondi]
+@Alex brollo: trovi il djvu (e tutto quello che ho scaricato da archive.org) a http://ovh.to/8vnPyi . La mia conoscenza di python è nulla o quasi, nel senso che forse so leggere un sorgente ma nulla più. --.mau. (disc.) 21:37, 13 giu 2019 (CEST)Rispondi[rispondi]
+L'ho trovato anche su Commons. Sei incappato in uno dei casi in cui IA Upoload fallisce (e so anche perchè). Provo a ripararlo e se ci riesco lo ricarico. --Alex brollo (disc.) 22:02, 13 giu 2019 (CEST)Rispondi[rispondi]
+Niente da fare, è un bug nuovo, non compreso fra quelli che uno script che ha "digerito" l'intera collana Scrittori d'Italia riesce a correggere. Metto in moto FineReader. --Alex brollo (disc.) 23:29, 13 giu 2019 (CEST)Rispondi[rispondi]
+Mai visto niente del genere, Internet Archive ha fatto un clamoroso pasticcio; ved. per es. il suo pdf, ha 352 pagine quando dovrebbe averne 382. Le immagini della serie _jp2.zip sono 384, ma 2 (la prima e la penultima) vanno scartate. Las cosa mi interessa dal punto di vista della caccia al bug, ma ci vorrà tempo, devo controllare il "piccolo file" _abbyy.gz, una bestiola ostica. Intanto FineReader macina. --Alex brollo (disc.) 00:14, 14 giu 2019 (CEST)Rispondi[rispondi]
+@Alex brollo boh, dimmi quando posso lavorarci su :-) (Comunque recuperare djvuToy è stata una faticaccia, il sito originale non c'è più) --.mau. (disc.) 08:51, 14 giu 2019 (CEST)Rispondi[rispondi]
+┌────────────────────────────────────────────────────────────────────────────────────────────────────┘ Puoi lavorare. Djvu corretto ricaricato sopra il vecchio. A me resta di capire cosa "diamine" ha combinato IA. IA upload è innocente. Alex brollo (disc.) 10:43, 14 giu 2019 (CEST)Rispondi[rispondi]
+PS djvutoy serve a poco e niente, non gestisce lo strato OCR. Alex brollo (disc.) 10:44, 14 giu 2019 (CEST)Rispondi[rispondi]
+@Alex brolloHo provato a copincollare la dedica (da pag. 175 di Indice:Delle_Commedie_di_Carlo_Goldoni_-_ed._Pasquali_-_Tomo_V.djvu). Mi controlli cosa c'è da modificare? Per esempio, devo andare a capo esattamente come nel testo originale? --.mau. (disc.) 12:09, 14 giu 2019 (CEST)Rispondi[rispondi]
+Magnifico. Portata a SAL 100% con modifiche di formattazione. Usa tl|Ct per i titoli: è molto efficace per controllare font-size e spaziature (fra caratteri, fra parole, fra righe). Cerca di evitare sempre &nbsp e resisti alla tentazione di usare <br> se ti verrà. Ti sarai chiesto il perchè di quella spaziatura fra il capolettera e il resto della riga: la riga bianca sopra serve a eliminarla. Riproduci il corsivo. No, nelle prose non devono essere rispettati i fine riga, per molti motivi è bene che il testo sia continuo nell'intero paragrafo. --Alex brollo (disc.) 12:31, 14 giu 2019 (CEST)Rispondi[rispondi]
+@Alex brollo Ma quindi si possono anche usare "quasi" css! (Il quasi è perché bisogna mettere margine e non margin, uffi). Queste sono cose che devono essere spiegate nelle pagine di aiuto. Comunque stasera riporto il resto di dedica e prefazione e comincio con la scena I, dove sarò di nuovo fermo con la formattazione delle battute. Poi potrai cancellare le pagine di dedica e prefazione che avevo creato.  --.mau. (disc.) 13:40, 14 giu 2019 (CEST)Rispondi[rispondi]
+Sto riguardando la pagina Indice.... scorrendo il djvu vedo discreti disastri: pagine duplicate, spero non pagine mancanti. Tocca scorrerle una a una. Dopo il restauro ricarico il djvu. Che PDP! :-(
+(in questo caso penso sia meglio dedicare una pagina principale ns0 per ognuna delle commedie, e una pagina "globale" di raccolta. Ma prima.... pulizia del djvu. Alex brollo (disc.) 13:58, 14 giu 2019 (CEST)Rispondi[rispondi]
+┌────────────────────────────────────────────────────────────────────────────────────────────────────┘ @Alex brollo: pagine duplicate mi torna, perché i numeri di pagina non coincidono. Quindi aspetto per lavorarci su? --.mau. (disc.) 14:06, 14 giu 2019 (CEST)Rispondi[rispondi]
+Prova adesso, salvo E&O dovrebbe essere finalmente a posto. Un piccolo fastidio (piccolo) lavorando su un djvu che poi viene modificato è la necessità di spostare le pagine; fatto. Raramente ho visto un pasticcio del genere, spero che non ti abbia demoralizzato.... comunque, se non sei demoralizzato, adesso viene il bello.
+Come sei a regex? Hai attivato i gadget di default, o ne hai aggiunto qualcuno? suggerimento operativo: non perdere tempo a correggere/formattare, fai solo un po' di pagine con puro copia-incolla, come sono sono; poi comincio a sistemare il memoRegex, aiuterà moltissimo nella formattazione, vedrai! Ma ho bisogno di un po' di testo su cui lavorare. Ci sarebbe anche un altro sistema alternativo al copiaincollaggio manuale, usanto il testo naked di Il servitore di due padroni con il tool Match and Split; ma un po' di lavoro manuale è un buon modo per fare allenamento, ne parleremo.
+Spero che il mio tutoraggio non sia troppo invadente.... Alex brollo (disc.) 15:00, 14 giu 2019 (CEST)Rispondi[rispondi]
+@Alex brollo nell'ordine: - con le regex sopravvivo - non so dove attivare gadget - posso evitare di formattare, ma dici insomma di partire dal layer originale del djvu che è bruttino? -  il tutoraggio va bene! --.mau. (disc.) 15:20, 14 giu 2019 (CEST)Rispondi[rispondi]
+Rispondo nell'ordine :-)
+ottimo che tu sopravviva con le regex. Potrai memorizzare delle regex (anche sostituzioni non regex) specifiche per l'opera, accessibili in automatico a tutti gli altri utenti. Senza questo gadget io non vivrei più. NON tentare di usare il "Cerca e sostituisci" mediawiki (lentina che compare a destra dopo aver cliccato "Avanzate" in toolbox perchè non funziona in nsPagina, a meno che non si siano decisi ad aggiustarlo. Usa invece il trova & sostituisci che sta in Strumenti per la rilettura, troverai una casella di spunta "Ricorda" che alimenta memoRegex.
+i gadget si attivano entrando in preferenze (link in alto sulla pagina), poi entrando in accessori. Se non ci sei mai entrato hai comunque attivato quelli di default: in particolare dovresti vedere nella sidebar a sinistra, in fondo, "Strumenti per la rilettura". Entra e attiva almeno memoRegex e Precarica & autoNs0, se non sono già attivati.
+no, non caricare l'OCR se hai un buon testo di partenza. Copiaincolla il testo pagina per pagina e fine. Avendo un buon testo di partenza, il layer OCR serve al tool Match and Split per splittare il testo di riferimento e caricarlo nelle pagine giuste. E' un po' delicato da usare e qualche volta dà i numeri.
+Transclusione[modifica]
+Ci siamo, ha inizio la transclusione in variante "conversione proofread di testo naked".
+Prima pagina ns0 transclusa: Il servitore di due padroni/Dedica. Il codice pages dice di transcludere il testo dalla pagina from alla pagina to dell'indice index; tutto qui. Il codice è quasi automatico, il gadget "Precarica e autoNs0" lo ricava dai dati del Sommario della pagina Indice. 
+Quindi: non fare niente in ns0, se non prove di transclusione.... copiaincolla solo in nsPagina. 
+Nota: nelle commedie preferiamo riunire in un'unica pagina il testo di un intero atto; niente impedisce di creare una sottopagina per ciascuna scena, è solo un pochino più laborioso. Per attivare autoNs0 con il testo diviso in scene però occorre che ciascuna scena sia indicata nel campo Sommario della pagina Indice; altrimenti ci si può arrangiare a mano senza automatismi (potrebbe essere un utile esercizio). --Alex brollo (disc.) 15:25, 14 giu 2019 (CEST)Rispondi[rispondi]
+Sono avvilito...[modifica]
+Mi spiace molto che ci siano così tante complicazioni e tanti stop-and-go nel tuo lavoro su Il servitore di due padroni; spero che tu senta almeno la soddisfazione di aver attirato l'attenzione di noi veci su Goldoni e di aver suscitato un'ampia discussione e la nascita di un impegnativo progetto.
+In più ho commesso una svista: invece di spostare le pagine su cui avevi lavorato nella nuova collocazione ho creato nuove pagine, per cui se le prime fossero, in futuro, cancellate, si perderebbe la loro cronologia e la storia dei tuoi contributi. Rimedierò, abbi solo un po' di pazienza, queste modifiche mi confondono sempre le idee.
+Se la tua esasperazione non ha raggiunto il livello di guardia, potresti lavorare sull'Atto I, non escludo un ulteriore spostamento, ma stavolta certamente "conservativo" della cronologia. 
+Per le malefiche Indicazioni di scena, su cui ancora non c'è consenso, visto che per te css e template hanno pochi segreti, io farei così: creerei un template {{Ids}} e ce le ficcherei dentro, in modo da poter cambiare la formattazione in corsa se sarà necessario. Al momento il template applicherebbe solo il corsivo e null'altro. --Alex brollo (disc.) 12:32, 19 giu 2019 (CEST)Rispondi[rispondi]
+Alura:
+ho provato a cambiare il link alla lettera di dedica, che puntava all'edizione vecchia
+stasera provo a cominciare a lavorare sull'atto primo
+anche se si perdono le mie modifiche sulle pagine della Pasquali, chissenefrega, tanto non mi arriva la medaglietta
+ok per {{Ids}}; tieni conto che il css lo conosco solo in parte (seguivo W3C quando è uscita la versione 1. tanto per dire... ) e i template li conosco poco o nulla. Mi sono formattato i miei ebook (ce ne sono un paio nel mio sito...) ma sono sempre andato a manina... però questo significa che sono abituato a tutti i casini possibili e immaginabili!
+--.mau. (disc.) 12:48, 19 giu 2019 (CEST)Rispondi[rispondi]
+@Alex brollo Dimenticavo: quando modifico una pagina formattata mi arriva l'errore "La pagina Discussioni indice non esiste/non contiene memoRegex". Che devo fare? --.mau. (disc.) 13:26, 19 giu 2019 (CEST)Rispondi[rispondi]
+Non è un errore... è una notifica. Appena sarà registrata una regex in memoRegex sparirà e sarà sostituita da un'altra notifica che informa che il memoRegex è stato caricato. Non lo farà certo ad ogni pagina: lo fa solo quando si apre la pagina di un altro Indice rispetto a quello su cui si è lavorato, poi tace fintanto che si lavora nelle pagine dello stesso Indice. Un piccolo fastidio, ma i pro, secondo me, superano i contro.
+Tu stai usando postOCR? se sì. vedrai che postOCR lancia anche tutte le sostituzioni caricate in memoRegex.
+Una volta imparato il meccanismo ci si può sbizzarrire; per esempio per formattare titoli ricorrenti io spesso memorizzo una sostituzione che applica un complesso template semplicemente aggiungendo un t+spazio a inizio riga.... ma ci sono cose ancora più carine che si possono fare, tipo formattare il testo "nudo" di un intero sonetto aggiungendo il poem, le indentature, la suddivisione in strofe e pure i template R, con un carattere + spazio + Alt+7. In pratica io, in una pagina, clicco Alt+7 almeno quattro o cinque volte.... --Alex brollo (disc.) 15:19, 19 giu 2019 (CEST)Rispondi[rispondi]
+@Alex brollo e che faccio quando c'è il baco di postOCR e si pianta tutto? (e com'è che di solito, nonostante io dovrei importare i tuoi common.js, nel 95% dei casi non li vedo?) --.mau. (disc.) 16:29, 25 giu 2019 (CEST)Rispondi[rispondi]
+Al momento non c'è altra soluzione che ammazzare la scheda, riaprirla, cercare il carattere maledetto (un { o un < "anomalo", sbilanciato) e cancellarlo prima di procedere. Mi spiace.... non sono mai riuscito a risolvere il problema alla radice. Per il secondo problema: strano.... se funziona qualche volta, e spesso no, è certamente un problema connesso al caricamento asincrono degli script. Ci penso meglio e ti so dire. --Alex brollo (disc.) 21:53, 25 giu 2019 (CEST)Rispondi[rispondi]
+Trovato l'errore (mio). Il codice importScript("Utente:Alex brollo/PersonalButtons.js"); andava messo nella tua pagina Utente:.mau./PersonalButtons.js e non nella common.js (dove certamente viene lanciato in modo prematuro). Soluzione brutale (scusa!): ho spostato tua pagina Utente:.mau./common.js in Utente:.mau./PersonalButtons.js. Se funzia funzia; ma se funzia, copia il mio codice integrale nella tua pagina e divertiti a modificarlo come ti va. Alex brollo (disc.) 22:25, 25 giu 2019 (CEST)Rispondi[rispondi]
+@Alex brollo Provo domani :-) Per intanto, puoi dare un'occhiata a Pagina:Goldoni - Opere complete, Tomo I, Venezia 1907, I.djvu/617 che ho lasciato al 50% perché non riesco a mettere bene la firma del servitore di Beatrice? Per il resto, il primo atto è finalmente a posto :-) --.mau. (disc.) 22:37, 25 giu 2019 (CEST)Rispondi[rispondi]
+In questi casi il tutto va un tl|Blocco a destra. Piuttosto, in .block.padded2, tieni conto che c'è già attivo un margin-left:2em prodotto da tl|Indentatura, quindi un ulteriore margin-left si somma e diventa 4em. Alex brollo (disc.) 23:25, 25 giu 2019 (CEST)Rispondi[rispondi]
+Condivido con soddisfazione...[modifica]
+Dai un'occhiata a L’uomo di mondo/Atto I. E' il primo frutto delle nostre discussioni Il servitore di due padroni: praticamente tutta la formattazione è "preformattazione" mediante elaborazione globale di un testo derivato dall'OCR. Mi sono dimenticato di Ids, ma spero di rimediare :-) --Alex brollo (disc.) 20:26, 21 giu 2019 (CEST)Rispondi[rispondi]
+css[modifica]
+Vedo che ti piace il css, quindi ho fatto bene a segnalarti templatestyles. L'unica coisa che mi preoccupa un po'... è che non vorrei averti passato qualche mio difetto.... :-(
+Domanda: perchè la sinsassi tipo .block.padded2 (selettore di categorie contemporaneamente presenti nell'attributo class) produce un warning "Don't use adjoining classes"? --Alex brollo (disc.) 23:22, 25 giu 2019 (CEST)Rispondi[rispondi]
+@Alex brollo immagino perché chi ha scritto mediawiki non voglia averle :-) In effetti con una sola categoria non dà il warning. Ma finché si parla di warning non mi preoccuperei... --.mau. (disc.) 09:26, 26 giu 2019 (CEST)Rispondi[rispondi]
+Benvenuto[modifica]
+Benvenuto a bordo, anzi ben tornato! :) --Accurimbono (disc) 10:41, 28 giu 2019 (CEST)Rispondi[rispondi]
+Spostamento Goldoni I[modifica]
+Dovrei spostare tutto (un po' a mano un po' via bot) da Indice:Goldoni - Opere complete, Tomo I, Venezia 1907, I.djvu a Indice:Goldoni - Opere complete, Venezia 1907, I.djvu il che comporta lavori sia in nsFile e nsIndice che in nsPagina e ns0. Mi seccherebbe intralciarti. Quando posso operare? --Alex brollo (disc.) 16:55, 29 giu 2019 (CEST)Rispondi[rispondi]
+@Alex brollo in questi giorni vai tranquillo!  --.mau. (disc.) 16:57, 29 giu 2019 (CEST)Rispondi[rispondi]
+Grazie: allora lo faccio stasera. E' importante agire senza interruzioni.... e tenendo sempre i diti incrociati :-) --Alex brollo (disc.) 17:26, 29 giu 2019 (CEST)Rispondi[rispondi]
+@Alex brollo è tutto a posto? (tanto stavo lamentandomi di Lerner e Serra) --.mau. (disc.) 22:09, 30 giu 2019 (CEST)Rispondi[rispondi]
+Salvo E & O, a posto. Avvisami se qualcosa non funzia.
+AAAAGGGHHHH! Ho dimenticato le pagine di discussione! Ma quella di Indice dovrebbe essere a posto... controllo. --Alex brollo (disc.) 22:32, 30 giu 2019 (CEST)Rispondi[rispondi]
+Le pagine discussione ci sono, vai. --Alex brollo (disc.) 22:34, 30 giu 2019 (CEST)Rispondi[rispondi]
+PS: Hai visto il "cambio di passo" per le Opere complete? Voglio sistemare tutte le pagine Indice. Poi mi pauso per un po'.... --Alex brollo (disc.) 22:43, 30 giu 2019 (CEST)Rispondi[rispondi]
+@Alex brollo Tanto coi miei tempi ci vorrà una vita :-) (ah, non mi hai detto come si fa a inserire una stringa con un "giocattolo"... vorrei cliccare e avere il template Pt| alla fine della pagina, se non c'è) --.mau. (disc.) 22:45, 30 giu 2019 (CEST)Rispondi[rispondi]
+Bottone per tl|Pt a fine pagina[modifica]
+Guarda il codice di gap che fa quello che vuoi (seminare una stringa nella posizione del cursore):
+newButton("gap", "incapsula('{{gap|em}}','')", "es","Applica il template gap");
+Vedi? "incapsula" la selezione fra il testo che ti interessa e una stringa vuota; se la selezione è vuota, semina semplicemente il testo nella posizione del cursore. Vuoi provare a farlo tu per esercizio? 
+Tuttavia in casi come questi io NON creo un bottone. Semplicemente creo una memoRegex che sostituisca al volo uno o due caratteri inseriti da soli in una riga con quello che mi interessa. In questo caso userei la lettera p. La regex per "beccare" le p singole su una riga è semplice: ^p$ (multilinea). Puoi sostiuirla con il testo che vuoi, anche il più ostico dei template. --Alex brollo (disc.) 23:27, 30 giu 2019 (CEST)Rispondi[rispondi]
+Goldoni in versi[modifica]
+... e le commedie in versi? Ecco un esempio di preformattazione: Il Moliere, in lavoro. --Alex brollo (disc.) 09:17, 5 lug 2019 (CEST)Rispondi[rispondi]
+@Alex brollo a proposito della preformattazione, riusciresti a farla in automatico per le prime tre commedie del Volume 1? A farla a mano pagina per pagina ci metto una vita... --.mau. (disc.) 09:21, 5 lug 2019 (CEST)Rispondi[rispondi]
+Ho dimenticato qualche pagina...? L’uomo di mondo/Atto I Tutte le commedie dei volumi fino al VI sono caricate preformattate.... e andrò avanti così se nessuno mi ferma. Ocio che sono anche già caricate le illustrazioni, con il nome "CropTool standard", ossia quello che viene automaticamente assegnato dal "pulsante gioconda" (da modificare solo il parametro width, per motivi vari preferisco sempre l'espressione di larghezza percentuale che mantiene le proporzioni meglio).--Alex brollo (disc.) 09:28, 5 lug 2019 (CEST)Rispondi[rispondi]
+@Alex brollo allora avrò visto male io, scusa... --.mau. (disc.) 09:30, 5 lug 2019 (CEST)Rispondi[rispondi]
+Sei troppo rapido a rispondere... :-) ho aggiunto qualcosa alla mia risposta. Comunque, se dai una rapida scorsa alle commedie caricate e mi segnali qualsiasi problema, mi fai un grosso piacere! Alex brollo (disc.) 09:34, 5 lug 2019 (CEST)Rispondi[rispondi]
+@Alex brollo dipende se sono in mezzo a un'audiocall, quando ho tempo di fare lavori che richiedono pochi neuroni :-) --.mau. (disc.) 10:25, 5 lug 2019 (CEST)Rispondi[rispondi]
+Due cosette[modifica]
+1. Quando cominci la rilettura di commedie "preformattate" sono molto interessato al tuo parere
+2. mi trovo molto bene, per i codici molto ricorrenti, utilizzare combinazioni di tasti piuttosto che girovagare per la finestra con il mouse. E' possibile crearne quante si vuole (ma è difficile memorizzarne più di una decina....), naturalmente dopo controllato che la combinazione di tasti sia "libera", il "modello" dello script per una funzione di "incapsulamento" (ossia per aggiungere a un testo delezionato una stringa "pre" e una stringa "post" è il seguente:
+shortcut.add([combinazione di tasti], function () {
+     incapsula([prefisso],[postfisso]);
+});
+dove, per esempio, [combinazione di tasti] potrebbe essere "Ctrl+Shift+z", [prefisso] potrebbe essere "{{Ids|", [postfisso] potrebbe essere ")}}". Fai pure esperimenti in console; se sei in eis, lo shotrcut sarà attivo fino a cne non esci dalla sequenza di edit. --Alex brollo (disc.) 15:36, 8 lug 2019 (CEST)Rispondi[rispondi]
+@Alex brollo Per (1) ce ne vorrà, al momento sto trascrivendo le prefazioni e soprattutto sto rallentando il ritmo perché dovrei finalmente incominciare a scrivere qualcosa per il mio prossimo libro (sugli algoritmi :-) )
+per il secondo ci proverò! --.mau. (disc.) 19:16, 8 lug 2019 (CEST)Rispondi[rispondi]
+Un libro sugli algoritmi.... e io dilettante allo sbaraglio... che vergogna! o_O --Alex brollo (disc.) 21:44, 8 lug 2019 (CEST)Rispondi[rispondi]
+@Alex brollo io sono anzyano :-) --.mau. (disc.) 21:46, 8 lug 2019 (CEST)Rispondi[rispondi]
+Ocio a memoRegex[modifica]
+Sono felicissimo che tu usi intensamente memoRegex, ma.... attenzione! Mi sono scattate, lavorando in Goldoni I, strane sostituzioni; ho esaminato il memoRegex e ho visto varie sostituzioni pericolose. Io non salvo sostituzioni di errori che non si ripetono più volte, e sto bene attento che la sintassi sia prudente (ossia che le sostituzioni becchino solo i casi giusti). 
+Ho dato una ripulita ma ritengo più prudente lavorare su un altro Indice finchè fai delle prove.
+Se ti accorgi di un errore appena salvata una sostituzione con "Ricorda", puoi rimediare con Carica regex (che "rulla" le sostituzioni non ancora salvate); se ti penti dopo aver salvato le regex, entra in Discussioni indice e cancella con cura le righe fallate; salva, poi riapri/ritorna sulla pagina in modifica, e ricarica le regex (altrimenti nel successivo salvataggio rulli il memoRegex corretto e ricarichi gli errori...). --Alex brollo (disc.) 16:02, 14 lug 2019 (CEST)Rispondi[rispondi]
+Rivedendo la cronologia ho riportato le regex alla tua ultima modifica: sei innocente! Scusa. --Alex brollo (disc.) 17:08, 14 lug 2019 (CEST)Rispondi[rispondi]
+@Alex brollo sicuramente ho fatto casini con le regex, ma tipicamente facevo subito revert... L'unico falso positivo che mi sono trovato è con un'istanza che aveva "Dottore." a inizio riga e quindi mi ha preso il tl|Ids, ma ho deciso che potevo accettarlo come glitch... --.mau. (disc.) 17:11, 14 lug 2019 (CEST)Rispondi[rispondi]
+Cosparsomi il capino di cenere, ricomincio a lavorare su Goldoni 1.
+PS: il "controllo di parità" mi ha già evitato due blocchi di postOCR da caratteri <> sbilanciati :-) --Alex brollo (disc.) 18:49, 14 lug 2019 (CEST)Rispondi[rispondi]
+Community Insights Survey[modifica]
+Condividi la tua esperienza con questo sondaggio
+Gentile .mau.,
+La Wikimedia Foundation chiede il tuo parere in un sondaggio sulla tua esperienza con Wikisource e Wikimedia. Lo scopo di questo sondaggio è quello di capire come la Foundation sta supportando il tuo lavoro su wiki e come possiamo cambiare o migliorare le cose in futuro. Le tue opinioni condivise influenzeranno direttamente il lavoro attuale e futuro della Wikimedia Foundation.
+Per favore prenditi circa da 15 a 25 minuti per fornire il tuo parere tramite questo sondaggio.  È disponibile in varie lingue.
+Il sondaggio è ospitato da una terza parte e  gestita in base a questa informativa sulla privacy (in inglese).
+Per saperne di più su questo progetto. Inviaci una mail se hai delle domande, o se non vuoi ricevere futuri messaggi riguardo a questo sondaggio.
+Cordialmente,
+ RMaung (WMF) 16:32, 9 set 2019 (CEST)Rispondi[rispondi]
+Reminder: Community Insights Survey[modifica]
+Condividi la tua esperienza con questo sondaggio
+Gentile .mau.,
+Un paio di settimane fa ti abbiamo invitato a partecipare al Community Insights Survey. È il sondaggio annuale della Wikimedia Foundation sulle nostre comunità globali. Vogliamo capire quanto bene sosteniamo il tuo lavoro su wiki. Siamo al 10% del nostro obiettivo di partecipazione. Se non hai già partecipato al sondaggio, puoi aiutarci a raggiungere il nostro obiettivo! La tua opinione è importante per noi.
+Per favore prenditi circa da 15 a 25 minuti per fornire il tuo parere tramite questo sondaggio.  È disponibile in varie lingue.
+Il sondaggio è ospitato da una terza parte e  gestita in base a questa informativa sulla privacy (in inglese).
+Per saperne di più su questo progetto. Inviaci una mail se hai delle domande, o se non vuoi ricevere futuri messaggi riguardo a questo sondaggio.
+Cordialmente,
+ RMaung (WMF) 21:13, 20 set 2019 (CEST)Rispondi[rispondi]
+Reminder: Community Insights Survey[modifica]
+Condividi la tua esperienza con questo sondaggio
+Gentile .mau.,
+Mancano solo poche settimane per partecipare al Community Insights Survey! Siamo al 30% del nostro obiettivo di partecipazione. Se non hai già partecipato al sondaggio, puoi aiutarci a raggiungere il nostro obiettivo!
+Con questo sondaggio, la Wikimedia Foundation raccoglierà dei pareri su come sosteniamo il tuo lavoro su wiki. Ci vorranno solo 15-25 minuti per completarlo e avrà un impatto diretto sul sostegno che forniamo.
+Per favore prenditi circa da 15 a 25 minuti per fornire il tuo parere tramite questo sondaggio.  È disponibile in varie lingue.
+Il sondaggio è ospitato da una terza parte e  gestita in base a questa informativa sulla privacy (in inglese).
+Per saperne di più su questo progetto. Inviaci una mail se hai delle domande, o se non vuoi ricevere futuri messaggi riguardo a questo sondaggio.
+Cordialmente,
+ RMaung (WMF) 19:03, 4 ott 2019 (CEST)Rispondi[rispondi]
+Una cultura....[modifica]
+Tutto bene mi pare con Indice:Una cultura è meglio di due.pdf. Ho raccolto la sfida delle annotazioni, memoRegex individua sia i richiami che il testo delle annotazioni, e se non ho sbagliato qualcosa, dopo lanciato postOCR, non c'è che da cliccare su "spostamento note". Non ci giurerei che funzioni sempre.... ma parecchie volte sì. --Alex brollo (disc.) 14:11, 18 feb 2020 (CET)Rispondi[rispondi]
+Nella versione pdf va bene che non ci sono note-nelle-note come nell'epub corrispondente :-) Ora controllo. --.mau. (disc.) 14:24, 18 feb 2020 (CET)Rispondi[rispondi]
+come si può mettere la copertina? (che esiste, è caricata su commons, ma non c'è nel PDF) --.mau. (disc.) 14:31, 18 feb 2020 (CET)Rispondi[rispondi]
+La cosa più semplice è.... inserire la copertina nel libro (dopo conversione PDF). Lo faccio! Poi andrà ritoccata la pagina Indice e andranno spostate alcune pagine, ma niente di che. --Alex brollo (disc.) 15:12, 18 feb 2020 (CET)Rispondi[rispondi]
+Me ne sono accorto :-( Ora eis è sfasato... Vabbè, per il momento lascio perdere e provo a fare il mio vero lavoro, poi vedo come rimettere a posto il tutto. --.mau. (disc.) 15:25, 18 feb 2020 (CET)Rispondi[rispondi]
+ Fatto --Alex brollo (disc.) 15:32, 18 feb 2020 (CET)Rispondi[rispondi]
+Comunque no, ho cliccato su spostamento note e non è successo nulla. Faccio a manina. --.mau. (disc.) 19:10, 18 feb 2020 (CET)Rispondi[rispondi]
+Peccato. Riprovo per vedere se a me funzia. Vedo comunque dalle tue sottopagine utente che usi PersonalButtons.js: quindi posso passarti (aimè, non scriverti) degli script  che creano bottoni per "fare cose". Naturalmente fra i gadget hai attivato memoRegex, vero? --Alex brollo (disc.) 10:16, 19 feb 2020 (CET)Rispondi[rispondi]
+memoRegex ce l'ho, ma per un librino così piccolo non c'è problema. Invece io proverei a mettere su commons una nuova versione del librino, salvato a risoluzione stampa e non video. Cosa succede con 'source? --.mau. (disc.) 12:06, 19 feb 2020 (CET)Rispondi[rispondi]
+@Alex brollo succede un casino. Direi che tu avevi scaricato e ricaricato il libro con la copertina, e ora siamo di nuovo sfasati. Ma quello che non capisco è perché la versione su Commons sia sempre così brutta. Sul mio pc si vede perfettamente... --.mau. (disc.) 16:26, 19 feb 2020 (CET)Rispondi[rispondi]
+Sono desolato - anche se non capisco. Facciamo una cosa: vado avanti io col SAL 75%, poi magari tu gli dai il colpo di grazia. Mi spiace molto della delusione. Se trovo problemi, cercherò di risolverli. Una cosa: cosa intendi per "la versione su Commons"? Intendi le immagini come si vedono in nsPagina? Tieni conto che, pdf o djvu che sia, MediaWiki converte tutto in jpg width 800 px in view e 1024 in modifica; alla riduzione di risoluzione si aggiungono quindi un po' di artefatti jpg. --Alex brollo (disc.) 21:28, 19 feb 2020 (CET)Rispondi[rispondi]
+@Alex brollo che fregatura (la conversione in jpg, intendo). Comunque me lo finisco io, che almeno so di cosa si parla :-) --.mau. (disc.) 22:00, 19 feb 2020 (CET)Rispondi[rispondi]
+Allora: oltre che trasformare in jpg, la dimensione assoluta del jpg è.... quella della prima pagina. Quindi, se la prima pagina ha width minore di 1024px, tutte le altre pagine vengono trasformate in jpg della stessa width; poi dopo rimpicciolite vengono ingrandite (ma intanto la risoluzione è andata...). Ho risistemato il file pdf, aggiungendo la copertina allargandola a 1024px, e poi, vistro che pdfsam (per la "fusione" dei due pdf copertina + resto) mi chiedeva se ridimensionare anche tutte le altre pagine alla stessa larghezza della rima, ho risposto sì. Vedi miglioramenti? Alex brollo (disc.) 22:57, 19 feb 2020 (CET)Rispondi[rispondi]
+oh yeah, adesso è finalmente leggibile anche in pdf :-) --.mau. (disc.) 23:03, 19 feb 2020 (CET)Rispondi[rispondi]
+N. Pag.[modifica]
+Ciao :-) . In Una cultura... stavo spostando i numeri pagina al centro in fondopagina, ma poi mi è sorto il dubbio che fosse una tua precisa scelta quella di scriverli in rigaintestazione. Se ho sbagliato fammelo sapere e tornerà tutto come prima. Se posso dire la mia, mi piacciono di più alla fine. Mimì( dimmi, dai! ) 19:46, 20 feb 2020 (CET)Rispondi[rispondi]
+@Mimidellaboheme No, io non ho scelte precise :-) Era stato @Alex brollo a suggerirmi di metterli in cima, ma per me il punto corretto è in fondo alla pagina. L'unica cosa è che probabilmente bisogna lasciarli in un noinclude... --.mau. (disc.) 19:56, 20 feb 2020 (CET)Rispondi[rispondi]
+Bene, capito. Sentiamo cosa dice Alex, allora. Mimì( dimmi, dai! ) 20:05, 20 feb 2020 (CET)Rispondi[rispondi]
+Ok, ok, quando ho un po' di tempo muovo il bot e li ficco sotto. Sotto le note, ovviamente. --Alex brollo (disc.) 20:36, 20 feb 2020 (CET)Rispondi[rispondi]
+La polizia di Londra[modifica]
+Complimenti per la rilettura, ma sei incappato in una formattazione piuttosto complessa. Non puoi inserire un <section begin="1" /><section end="1" /> all'interno di un template altrimenti diventano "invisibili" e il risultato erano note senza alcun testo. Ho modificato in questo modo perché la sezione non cadesse all'interno di un template.  --Luigi62 (disc.) 19:00, 29 gen 2021 (CET)Rispondi[rispondi]
+@Luigi62 In effetti @Alex brollo mi aveva detto di fare attenzione, ma io mi ero limitato a guardare la pagina e non testare le note :-( Grazie! --.mau. (disc.) 20:58, 29 gen 2021 (CET)Rispondi[rispondi]
+@Luigi62  ma a questo punto mi sa che dovrò cambiare tutto l'apparato di note... (oltre che ricordarmi come si fa a non indentare la prima riga di testo, in un caso) --.mau. (disc.) 12:25, 30 gen 2021 (CET)Rispondi[rispondi]
+Scelta 1: pdf o djvu?[modifica]
+Dal punto di vista pratico, pdf e djvu sono perfettamente equivalenti. Quale usiamo per Matematica in relax? per sperimentare roba sulle immagini, ho bisogno che esista la pagina Indice. --Alex brollo (disc.). 13:30, 9 feb 2022 (CET)Rispondi[rispondi]
+Posso potare via le due prime pagine bianche? Mi serve saperlo subito per la corretta e comoda rinominazione dei files grafici (nomi che avranno lo schema standard, lo stesso che attribuirebbe CropTool e che comprende il numero pagina dove compare l'immagine). --Alex brollo (disc.). 13:36, 9 feb 2022 (CET)Rispondi[rispondi]
+@Alex.brollo ranza pure, servono solo perché è il file che va in stampa. Per la versione da usare, prendi quella che ti fa sperimentare meglio :-) --.mau. (disc.) 14:52, 9 feb 2022 (CET)Rispondi[rispondi]
+Non l'ho fatto, perchè così si semplifica pagelist, visto che contano nella numerazione pagine. --Alex brollo (disc.). 18:39, 9 feb 2022 (CET)Rispondi[rispondi]
+Tutto va ben...[modifica]
+Indice:Matematica in relax.pdf
+Indice:Matematica in relax.pdf/styles.css (una delle grosse novità recenti dei piani alti, eccellente, quindi usiamola)
+File:Matematica in relax (page 13 crop).svg (caricamento test; prima elaborazione di tl|Information da automatizzare)
+Pagina:Matematica in relax.pdf/13 (analisi dei particolari, come i markers di difficoltà in testa alle pagine, eccellente che siano caratteri unicode! Verifica della possibilità di usare il file svg come tale in FI: funzia, lo immaginavo ma volevo una conferma)
+adesso sistemo il sommario della pagina indice. --Alex brollo (disc.). 18:33, 9 feb 2022 (CET)Rispondi[rispondi]
+@Alex.brollo Beh, ovvio che ho usato caratteri unicode! La cosa interessante è che vengano riconosciuti. Bello invece che l'svg sia preso automaticamente. --.mau. (disc.) 18:43, 9 feb 2022 (CET)Rispondi[rispondi]
+Tieni conto che lo spazio intorno alla figura è variabile perché volevo che fosse centrata rispetto al testo più riga in fondo, ma in questa versione è irrilevante averlo. Quello che sarebbe simpatico è invece mettere i link alle pagine con aiutino e risposta, ma non so se è fattibile (anche a mano). --.mau. (disc.) 18:45, 9 feb 2022 (CET)Rispondi[rispondi]
+Certo che si può mettere i link, lo fa il tl|Pg. Funziona correttamente sia in  nsPagina che in ns0.  C'erano due Pg già in pagina 13, ma non producevano nulla, perchè non c'era ancora il modulo dati, che va creato sopo fatto il Sommario in nsIndice. Alex brollo (disc.). 19:40, 9 feb 2022 (CET)Rispondi[rispondi]
+stile[modifica]
+@Alex brollo Ho aggiunto uno stile .foot per la riga finale dei problemi, ma non so come inserirla nel testo... --.mau. (disc.) 19:21, 9 feb 2022 (CET)Rispondi[rispondi]
+basta inserire il testo in un elemento div class="foot", o usare il template Block, che fa esattamente la stessa cosa. --Alex brollo (disc.). Ocio, i ping non mi arrivano (ma ti tengo d'occhio....), nel mio user name c'è uno spazio, non un punto. 19:47, 9 feb 2022 (CET)Rispondi[rispondi]
+@Alex brollo è ufficiale, sono completamente rincoglionito - anche per il div. Certo che se scrivevo div style=foot non poteva funzionare :-( --.mau. (disc.) 21:10, 9 feb 2022 (CET)Rispondi[rispondi]
+tutto è pronto per il caricamento.... lo schema metadati:
+== {{int:filedesc}} ==
+{{Information
+|Description={{it|Illustrazioni da [[:File:Matematica in relax.pdf]]}}
+|Source={{derived from|File:Matematica in relax.pdf}}
+|Date= 2022
+|Author=[[User:.mau.|.mau.]]
+|Permission= 
+|other_versions=
+}}
+== {{int:license}} ==
+{{self|cc0}}
+[[Category:Illustrations from Matematica in relax (2022)]]
+speriamo che i cattivissimi kommonisti siano benevoli. Vado. Ripeto la convenzione per i nomi file. sono fatto in modo che funzioni il "pulsante gioconda", dovrebbe essere solo modificato il suffisso .jpg in .svg e la larghezza, meglio in percentuale. Alex brollo (disc.). 07:19, 10 feb 2022 (CET)Rispondi[rispondi]
+Più o meno, salvo E & O, ci siamo. le immagini caricate sono in c:category:Illustrations from Matematica in relax (2022). Alcune mancano, quelle che Commons ha riconosciuto come duplicati di immagini già esistenti e altre in cui si è lamentato della sintassi svg, dovrebbero essere 6 in tutto. Faccio un paio di prove di creazione pagine. Alex brollo (disc.). 08:34, 10 feb 2022 (CET)Rispondi[rispondi]
+@Alex brollo alcune arrivano da Commons, quindi devono essere duplicate. Per la sintassi, boh. Per le immagini CC0 che ho preso da siti, i commonari si lamentano se sostituisco a self|cc0 nome.sito|cc0? --.mau. (disc.) 08:58, 10 feb 2022 (CET)Rispondi[rispondi]
+purtroppo il mio portatile non da segni di vita, , sto adoperano un vecchio rottame.... temo che per qualche giorno sarò azzoppato.Riguardo ai template di linecza su commons, io, quando mi serve qualcosa,chiedo a Ruthven. Alex brollo (disc.). 13:36, 10 feb 2022 (CET)Rispondi[rispondi]
+@Alex brollo non parliamo di pc scassati. Insomma, comincio a creare man mano le pagine? --.mau. (disc.) 13:56, 10 feb 2022 (CET)Rispondi[rispondi]
+Certo, adesso è solo questione di pazienza. Mi spiace di non poterti dare una mano ma sono in crisi. Alex brollo (disc.). 14:04, 10 feb 2022 (CET)Rispondi[rispondi]
+Estratto da "https://it.wikisource.org/w/index.php?title=Discussioni_utente:.mau.&oldid=2899783"
+Menu di navigazione
+Strumenti personali
+Accesso non effettuatodiscussionicontributiregistratientra
+Namespace
+UtenteDiscussione
+italiano
+Visite
+LeggiModificaAggiungi argomentoCronologia
+Altro
+Ricerca
+Navigazione
+Pagina principalePortali tematiciUn testo a casoUn indice a casoUn autore a casoUna pagina a casoUltime modifiche
+Comunità
+AiutoPortale ComunitàBarProgetti tematiciFai una donazioneContatti
+Strumenti
+Puntano quiModifiche correlateContributi utenteRegistriVisualizza gruppi utenteCarica un filePagine specialiLink permanenteInformazioni pagina
+Stampa/esporta
+Crea un libroScarica come PDFVersione stampabile
+In altre lingue
+ Questa pagina è stata modificata per l'ultima volta il 10 feb 2022 alle 15:04.
+Il testo è disponibile secondo la licenza Creative Commons Attribuzione-Condividi allo stesso modo; possono applicarsi condizioni ulteriori. Vedi le condizioni d'uso per i dettagli.
+Informativa sulla privacy
+Informazioni su Wikisource
+Avvertenze
+Codice di condotta
+Versione mobile
+Sviluppatori
+Statistiche
+Dichiarazione sui cookie

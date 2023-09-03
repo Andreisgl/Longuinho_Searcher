@@ -1,0 +1,79 @@
+ 
+Entrez
+PubMed
+Nucleotide
+Protein
+Genome
+Structure
+PMC
+Taxonomy
+BioCollections
+Search for 
+ as 
+complete name
+              wild card
+              token set
+              phonetic name
+              taxonomy id
+ lock 
+                 
+ levels 
+using filter: 
+      
+none
+has genome sequences
+Taxonomy browser (Tachyphonus rufus)
+Tachyphonus rufus
+Taxonomy ID: 555354 (for references in articles please use NCBI:txid555354)current name
+Tachyphonus rufus
+NCBI BLAST name: birdsRank: speciesGenetic code: Translation table 1 (Standard)Mitochondrial genetic code: Translation table 2 (Vertebrate Mitochondrial)Lineage( full )
+cellular organisms; Eukaryota; Opisthokonta; Metazoa; Eumetazoa; Bilateria; Deuterostomia; Chordata; Craniata; Vertebrata; Gnathostomata; Teleostomi; Euteleostomi; Sarcopterygii; Dipnotetrapodomorpha; Tetrapoda; Amniota; Sauropsida; Sauria; Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda; Coelurosauria; Aves; Neognathae; Passeriformes; Thraupidae; Tachyphonus
+   Entrez records   
+Database name
+Direct links
+Nucleotide
+19
+Protein
+19
+Popset
+6
+PubMed Central
+11
+Identical Protein Groups
+16
+BioProject
+1
+Taxonomy
+1
+External Information Resources (NCBI LinkOut)
+LinkOut
+Subject
+LinkOut Provider
+Tachyphonus rufus taxonomy
+taxonomy/phylogenetic
+Arctos Specimen Database
+DNA barcoding : Tachyphonus rufus
+taxonomy/phylogenetic
+Barcodes of Life
+Show Biotic Interactions
+taxonomy/phylogenetic
+Global Biotic Interactions
+Wikipedia
+taxonomy/phylogenetic
+iPhylo
+Notes:
+Groups interested in participating in the LinkOut program should visit the LinkOut home page. A list of our current non-bibliographic LinkOut providers can be found here.
+Information from sequence entries
+Show organism modifiers
+Disclaimer: The NCBI taxonomy database is not an authoritative
+  source for nomenclature or classification - please consult the
+  relevant scientific literature for the most reliable information.
+Reference: How to cite this resource - Schoch CL, et al. NCBI Taxonomy: a comprehensive update on curation, resources and tools. Database (Oxford). 2020: baaa062. PubMed: 32761142 PMC: PMC7408187.
+  
+Comments and questions to
+  info@ncbi.nlm.nih.gov
+[Help]
+[Search]
+[NLM
+NIH]
+[Disclaimer]

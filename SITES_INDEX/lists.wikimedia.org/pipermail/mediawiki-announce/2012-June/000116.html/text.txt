@@ -1,0 +1,343 @@
+[MediaWiki-announce] MediaWiki security release 1.17.5 - MediaWiki-announce - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+                            2023
+                        
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2022
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2021
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2020
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2019
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2018
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2017
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2016
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2015
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2014
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2013
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2012
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2011
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2010
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2009
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2008
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2007
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2006
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2005
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2004
+                        
+December
+            List overview
+ Download
+thread
+[MediaWiki-announce] MediaWiki security release 1.17.5
+Sam Reed
+                14 Jun
+                
+                    2012
+                
+            
+                14 Jun
+                
+                '12
+                
+            
+5:19 a.m.
+ 
+I would like to announce the release of MediaWiki 1.17.5. One security issue
+was discovered.
+Both Chris Steipp and Formafix discovered that the uselang http parameter
+was vulnerable to XSS.
+For more details, see https://bugzilla.wikimedia.org/show_bug.cgi?id=36938
+Chris Steipp also improved the blacklisting of bad elements in SVG files.
+This includes catching known
+hostile files, and also disallowing the upload of svg files that include
+remote resources.
+This is work is part of an on-going effort to prevent exploits being hidden
+in uploaded SVG files.
+Full release notes:
+https://gerrit.wikimedia.org/r/gitweb?p=mediawiki/core.git;a=blob_plain;f=RE
+LEASE-NOTES;hb=1.17.5
+https://www.mediawiki.org/wiki/Release_notes/1.17
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-1.17.5.tar.gz
+Patch to previous version (1.17.4):
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-1.17.5.patch.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-1.17.5.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-1.17.5.patch.gz.sig
+Public keys:
+https://secure.wikimedia.org/keys.html
+ 0
+ 0
+            Reply
+        
+Back to the thread
+            Back to the list
+        
+ 
+            Powered by HyperKitty version 1.3.4.
+        

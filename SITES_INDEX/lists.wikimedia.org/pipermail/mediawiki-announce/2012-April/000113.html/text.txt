@@ -1,0 +1,352 @@
+[MediaWiki-announce] MediaWiki maintenance release 1.18.3 - MediaWiki-announce - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+                            2023
+                        
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2022
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2021
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2020
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2019
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2018
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2017
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2016
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2015
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2014
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2013
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2012
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2011
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2010
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2009
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2008
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2007
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2006
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2005
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2004
+                        
+December
+            List overview
+ Download
+thread
+[MediaWiki-announce] MediaWiki maintenance release 1.18.3
+Sam Reed
+                26 Apr
+                
+                    2012
+                
+            
+                26 Apr
+                
+                '12
+                
+            
+6:25 p.m.
+ 
+I would like to announce the release of MediaWiki 1.18.3. This release
+correct issues
+from the 1.18.2 security release, and also some other bugs.
+ 
+* (bug 35446) Using "{{nse:}}" with an invalid namespace name no longer
+throws
+  a PHP warning.
+* (bug 35567) The whole password reminder e-mail is now sent in the same
+language.
+* (bug 35961) Hash comparison should always be strict.
+* (bug 35671) PHP Notice: Undefined index: gettoken in
+includes/api/ApiMain.php
+  on line 598.
+* Fix broken email confirmation expiration caused by MWCryptRand changes.
+ 
+Full release notes:
+https://gerrit.wikimedia.org/r/gitweb?p=mediawiki/core.git;a=blob;f=RELEASE-
+NOTES-1.18;hb=REL1_18
+https://www.mediawiki.org/wiki/Release_notes/1.18
+ 
+ 
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.18/mediawiki-1.18.3.tar.gz
+ 
+Patch to previous version (1.18.2):
+http://download.wikimedia.org/mediawiki/1.18/mediawiki-1.18.3.patch.gz
+ 
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.18/mediawiki-1.18.3.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.18/mediawiki-1.18.3.patch.gz.sig
+ 
+Public keys:
+https://secure.wikimedia.org/keys.html
+ 0
+ 0
+            Reply
+        
+Back to the thread
+            Back to the list
+        
+ 
+            Powered by HyperKitty version 1.3.4.
+        

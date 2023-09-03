@@ -1,0 +1,86 @@
+ 
+
+Grande-Bretagne
+paprika.idref.fr
+data.idref.fr
+Documentation
+
+Bonjour ,
+Bienvenue sur IdRef, Identifiants et référentiels pour l'Enseignement supérieur et la Recherche.
+Grande-Bretagne
+data.idref
+Export biblio
+Export XML
+Export RDF
+Améliorer la notice
+Signaler une erreur
+                  Identifiant pérenne de la notice : 026488515
+                     URI de l'entité :
+                     http://www.idref.fr/026488515/id
+Notice de type 
+                  Collectivité
+                  
+                  
+Point d'accès autorisé
+Grande-Bretagne
+Variantes de point d'accès
+Royaume-Uni[Nom de collectivité]
+Royaume-Uni de Grande-Bretagne et d'Irlande du Nord[Nom de collectivité]
+Information
+Langue d'expression : anglais
+Pays associé : Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
+Date de naissance : 1707
+Notes 
+Note générale sur le champ d'application : Vedette non conforme à la liste IFLA des noms d'Etats. En localisation : GB
+Notices d'autorité liées 
+Forme antérieure du nom
+                         
+                        Angleterre (Avant 1707, voir)
+Forme parallele
+Great Britain
+HM Government
+Her Majesty Government
+United Kingdom of Great Britain and Northern Ireland
+UK Government
+United Kingdom
+United Kingdom Government
+Source
+S.Y. 1982/83. British national bibliography
+Identifiants externes
+ Identifiant VIAF : http://viaf.org/viaf/127412899
+ Identifiant ARK BNF : http://catalogue.bnf.fr/ark:/12148/cb11872746v
+ Identifiant ISNI : 0000000122483427
+Utilisation dans Rameau
+Le point d'accès peut être employé dans un point d'accès sujet
+Le point d'accès ne peut s'employer qu'en élément initial
+Equivalent dans un autre référentiel
+Informations sur la notice
+Identifiant de la notice : 026488515
+RCR créateur de la notice : 0004
+Date de création : 04-04-1984
+RCR dernier modificateur de la notice : 341720001
+Date de dernière modification : 08-03-2020 à 08 h 49
+... Références liées : ...
+IdRef - Identifiants et Référentiels pour l'ESR
+L'interface publique IdRef permet la consultation des notices d'autorités produites par les établissements membres des réseaux documentaires de l'ESR (Sudoc, Calames, Star). 
+
+IdRef est à la disposition des usagers professionnels habilités à créer/corriger/enrichir les notices d'autorité (authentification requise). 
+A partir d'IdRef, une gamme de services (triple store data.idref.fr, entrepôt OAI-PMH, APIs) est disponible en accès libre pour faciliter la réutilisation des données.
+Pour les développeurs
+Documentation IdRef
+APIs et web services
+data.idref.fr
+OAI-PMH IdRef
+GitHub Abes
+Utilisation des données
+Libre et gratuite sous licence Etalab
+
+GitHub Etalab
+Assistance
+Guichet AbesSTP
+A propos |
+Partenaires |
+Données Personnelles |
+CGU |
+Mentions Légales |
+Accessibilité numérique

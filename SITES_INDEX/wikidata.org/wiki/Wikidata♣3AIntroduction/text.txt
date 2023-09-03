@@ -1,0 +1,211 @@
+Wikidata:Introduction - Wikidata
+Shortcuts: WD:INTRO, WD:I
+Wikidata:Introduction
+From Wikidata
+Jump to navigation
+Jump to search
+Translate this pageOther languages:Afrikaans
+Bahasa Indonesia
+Bahasa Melayu
+British English
+Canadian English
+Cymraeg
+Deutsch
+English
+Esperanto
+Frysk
+Gaeilge
+Gagauz
+Hausa
+Igbo
+Kiswahili
+Lëtzebuergesch
+Malagasy
+Minangkabau
+Nederlands
+Ripoarisch
+Sesotho sa Leboa
+Setswana
+Simple English
+Tagalog
+Tiếng Việt
+Türkçe
+asturianu
+bosanski
+català
+dansk
+dolnoserbski
+eesti
+español
+euskara
+français
+føroyskt
+galego
+hornjoserbsce
+hrvatski
+interlingua
+italiano
+latviešu
+lietuvių
+magyar
+norsk bokmål
+occitan
+oʻzbekcha / ўзбекча
+polski
+português
+português do Brasil
+română
+shqip
+slovenčina
+slovenščina
+srpskohrvatski / српскохрватски
+suomi
+svenska
+íslenska
+čeština
+ślůnski
+Ελληνικά
+башҡортса
+беларуская
+беларуская (тарашкевіца)
+български
+кыргызча
+македонски
+русский
+саха тыла
+српски (ћирилица)
+српски / srpski
+татарча / tatarça
+тоҷикӣ
+українська
+қазақша
+հայերեն
+ייִדיש
+עברית
+اردو
+العربية
+بهاس ملايو
+سنڌي
+فارسی
+پنجابی
+پښتو
+کوردی
+کٲشُر
+अंगिका
+कॉशुर / کٲشُر
+नेपाली
+भोजपुरी
+मराठी
+हिन्दी
+বাংলা
+ਪੰਜਾਬੀ
+ગુજરાતી
+ଓଡ଼ିଆ
+தமிழ்
+తెలుగు
+ಕನ್ನಡ
+മലയാളം
+සිංහල
+ไทย
+ပအိုဝ်ႏဘာႏသာႏ
+ဘာသာ မန်
+မြန်မာဘာသာ
+მარგალური
+ქართული
+አማርኛ
+中文
+文言
+日本語
+粵語
+ꯃꯤꯇꯩ ꯂꯣꯟ
+한국어
+Wikidata is a free, collaborative, multilingual, secondary database, collecting structured data to provide support for Wikipedia, Wikimedia Commons, the other wikis of the Wikimedia movement, and to anyone in the world.
+What does this mean?
+Let's look at the opening statement in more detail:
+Contents
+1 What does this mean?
+2 How does Wikidata work?
+2.1 The Wikidata repository
+2.2 Working with Wikidata
+3 Where to get started
+4 How can I contribute?
+5 There is more to come
+6 See also
+Free. The data in Wikidata is published under the Creative Commons Public Domain Dedication 1.0, allowing the reuse of the data in many different scenarios. You can copy, modify, distribute and perform the data, even for commercial purposes, without asking for permission.
+Collaborative. Data is entered and maintained by Wikidata editors, who decide on the rules of content creation and management. Automated bots also enter data into Wikidata.
+Multilingual. Editing, consuming, browsing, and reusing the data is fully multilingual. Data entered in any language is immediately available in all other languages. Editing in any language is possible and encouraged.
+A secondary database. Wikidata records not just statements, but also their sources, and connections to other databases. This reflects the diversity of knowledge available and supports the notion of verifiability.
+Collecting structured data. Imposing a high degree of structured organization allows for easy reuse of data by Wikimedia projects and third parties, and enables computers to process and “understand” it.
+Support for Wikimedia wikis. Wikidata assists Wikipedia with more easily maintainable information boxes and links to other languages, thus reducing editing workload while improving quality. Updates in one language are made available to all other languages.
+Anyone in the world. Anyone can use Wikidata for any number of different ways by using its application programming interface.
+How does Wikidata work?
+This diagram of a Wikidata item shows you the most important terms in Wikidata.
+Wikidata is a central storage repository that can be accessed by others, such as the wikis maintained by the  Wikimedia Foundation. Content loaded dynamically from Wikidata does not need to be maintained in each individual wiki project. For example, statistics, dates, locations, and other common data can be centralized in Wikidata.
+The Wikidata repository
+Items and their data are interconnected.
+The Wikidata repository consists mainly of items, each one having a label, a description and any number of aliases. Items are uniquely identified by a Q followed by a number, such as Douglas Adams (Q42).
+Statements describe detailed characteristics of an Item and consist of a property and a value. Properties in Wikidata have a P followed by a number, such as with educated at (P69).
+For a person, you can add a property to specify where they were educated, by specifying a value for a school. For buildings, you can assign geographic coordinates properties by specifying longitude and latitude values. Properties can also link to external databases. A property that links an item to an external database, such as an authority control database used by libraries and archives, is called an identifier. Special Sitelinks connect an item to corresponding content on client wikis, such as Wikipedia, Wikibooks or Wikiquote.
+All this information can be displayed in any language, even if the data originated in a different language. When accessing these values, client wikis will show the most up-to-date data.
+Item
+Property
+Value
+Q42
+P69
+Q691283
+Douglas Adams
+educated at
+St John's College
+Working with Wikidata
+There are a number of ways to access Wikidata using built-in tools, external tools, or programming interfaces.
+Wikidata Query and Reasonator are some of the popular tools to search for and examine Wikidata items. The tools page has an extensive list of interesting projects to explore.
+Client wikis can access data for their pages using a Lua Scribunto interface. You can retrieve all data independently using the Wikidata API.
+Where to get started
+The Wikidata tours, designed for new users, are the best place to learn more about Wikidata.
+Some links to get started:
+Set your user options, especially the 'Babel' extension, to choose your language preferences
+Help with missing labels and descriptions
+Help with interwiki conflicts and constraint violations
+Improve a random item
+Help translating
+How can I contribute?
+Go ahead and start editing. Editing is the best way to learn about the structure and concepts of Wikidata. If you would like to gain understanding of Wikidata's concepts upfront, you may want to have a look at the help pages. If you have questions, please feel free to drop them in the project chat or contact the development team.
+There is more to come
+Wikidata is an ongoing project that is under active development. More data types as well as extensions will be available in the future. You can find more information about Wikidata and its ongoing development on the Wikidata page on Meta. Subscribe to the Wikidata mailing list to receive up-to-date information about the development and to participate in discussions about the future of the project.
+See also
+Help:Contents
+Help page at Meta
+Wikidata:Glossary
+Retrieved from "https://www.wikidata.org/w/index.php?title=Wikidata:Introduction/en&oldid=1954872734"
+Categories: Wikidata:IntroductionWikidata-en
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Project pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage information
+Print/export
+Create a bookDownload as PDFPrintable version
+In Wikipedia
+Add links
+ This page was last edited on 16 August 2023, at 14:37.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

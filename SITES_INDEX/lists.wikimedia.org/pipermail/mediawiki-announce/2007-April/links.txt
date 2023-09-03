@@ -1,0 +1,10 @@
+http://www.mediawiki.org/wiki/Download_from_SVN
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_10_0RC1/phase3/RELEASE-NOTES
+http://download.wikimedia.org/mediawiki/1.10/mediawiki-1.10.0rc1.tar.gz
+http://download.wikimedia.org/mediawiki/1.10/mediawiki-1.10.0rc1.tar.gz.sig
+http://www.mediawiki.org/wiki/Manual:FAQ
+http://lists.wikimedia.org/mailman/listinfo/mediawiki-announce
+http://lists.wikimedia.org/mailman/listinfo/mediawiki-l
+http://bugzilla.wikimedia.org/
+http://enigmail.mozdev.org
+http://lists.wikimedia.org/mailman/listinfo/mediawiki-announce

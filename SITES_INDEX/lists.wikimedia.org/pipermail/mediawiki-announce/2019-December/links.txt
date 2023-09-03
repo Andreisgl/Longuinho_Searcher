@@ -1,0 +1,11 @@
+https://phabricator.wikimedia.org/T192134
+https://phabricator.wikimedia.org/T239466
+https://releases.wikimedia.org/mediawiki/1.34/mediawiki-1.34.0.tar.gz
+https://releases.wikimedia.org/mediawiki/1.34/mediawiki-core-1.34.0.tar.gz
+https://releases.wikimedia.org/mediawiki/1.34/mediawiki-1.34.0.patch.gz
+https://releases.wikimedia.org/mediawiki/1.34/mediawiki-core-1.34.0.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.34/mediawiki-1.34.0.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.34/mediawiki-1.34.0.patch.gz.sig
+https://www.mediawiki.org/keys/keys.html
+https://www.mediawiki.org/wiki/Release_notes/1.34
+http://hyperkitty.readthedocs.org

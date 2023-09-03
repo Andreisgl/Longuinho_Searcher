@@ -1,0 +1,174 @@
+Landeshauptstadt München - Aktuelle Zahlen
+44 captures
+04 Feb 2012 - 27 Jan 2023
+Dec
+AUG
+Feb
+27
+2013
+2014
+2015
+success
+fail
+ About this capture
+COLLECTED BY
+Organization: Archive Team
+ Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+The main site for Archive Team is at archiveteam.org and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the Wayback Machine, providing a path back to lost websites and work. 
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+The Archive Team Panic Downloads are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+Collection: ArchiveBot: The Archive Team Crowdsourced Crawler
+  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+There is a dashboard running for the archivebot process at http://www.archivebot.com.
+ArchiveBot's source code can be found at https://github.com/ArchiveTeam/ArchiveBot.
+TIMESTAMPS
+The Wayback Machine - http://web.archive.org/web/20140827190729/http://www.muenchen.de/rathaus/Stadtverwaltung/Direktorium/LiMux/Zahlen_Fakten/Projektstatus.html
+Wetter München
+Stadtteile
+Umland
+Webcam
+MVG
+Newsletter
+München als App
+International
+English
+Français
+Italiano
+Русский
+العربي
+中文
+muenchen.de - Das offizielle Stadtportal
+Stadtplan
+Fahrplan
+Rathaus
+Branchenbuch
+Veranstaltungen
+Kino
+Freizeit
+Restaurants
+Shopping
+Hotels
+Sehenswertes
+Verkehr
+Wirtschaft
+Jobs
+Leben
+Stadtpolitik
+Stadtspitze
+Der Münchner Stadtrat
+Bezirksausschüsse
+Bürgerversammlungen
+Beiräte
+Bürgerbeteiligung
+Internationales
+Partnerstädte
+Wahlen
+Aktionstag "Da sein für München" am 5. Juli
+Stadtverwaltung
+Baureferat
+Direktorium
+Kommunalreferat
+Kreisverwaltungsreferat
+Kulturreferat
+Personal- und Organisationsreferat
+Referat für Arbeit und Wirtschaft
+Referat für Gesundheit und Umwelt
+Referat für Stadtplanung und Bauordnung
+Referat für Bildung und Sport
+Sozialreferat 
+Stadtkämmerei
+Städtische Unternehmen
+Stadtinfos
+Aktuelles
+Presse-Service
+Statistik
+Ausschreibungen
+Bußgeldstellen
+Stadt-Information im Rathaus
+Stadtrecht
+Versteigerungen
+Themen
+Arbeit und Soziales
+Bauen und Wohnen
+Freizeit, Kultur, Sport
+Gesundheit
+Erziehung und Bildung
+Europa und Internationales
+Migration und Integration
+Planung und Bauprojekte
+Wirtschaft und Tourismus
+Steuern/Gebühren und Finanzen
+Umwelt und Natur
+Versorgung und Verkehr
+Sicherheit
+Gleichstellung und Antidiskriminierung
+Lebenslagen
+Ausweise und Urkunden
+Bauen
+Familien
+Geburt
+Heirat
+Kinder und Jugendliche
+Kinderbetreuung
+Schule
+Senioren
+Sterbefall
+Umzug
+Dienstleistungsfinder
+Kontakt
+OB-Bürgerberatung
+Info-Stellen
+Presse-Kontakt
+Service-Telefone
+Elektron.  Kommunikation
+Impressum
+Home
+Stadtverwaltung
+Direktorium
+ Projekt LiMux
+Zahlen und Fakten
+ Aktuelle Zahlen
+Aktuelle Zahlen
+ 
+Stand zum Mai 2013 15.000 Arbeitsplätze nutzen freie Software wie Thunderbird und Firefox 15.000 Arbeitsplätze nutzen OpenOffice.org und den WollMux 14.000 Arbeitsplätze nutzen den LiMux Client   Das Projekt wird 2013 in den Betrieb übergeben. Damit sind  Deutlich über 80% aller PC-Arbeitsplätze sind auf den LiMux-Client migriert. Alle Anwender haben nur noch offene Anwendungsprogramme für die Bürokommunikation im Einsatz. Dokumentenvorlagen sind referat-spezifisch einheitlich im WollMux hinterlegt. LiMux ist in den Regelbetrieb überführt.    Über die Migration der PC-Arbeitsplätze sorgte das Projekt LiMux für die Standardisierung und Konsolidierung einer modernen Münchner IT.  
+Zurück zur Startseite:
+LiMux - Die IT-Evolution
+Weiter:
+Eingesetzte Lösungen
+Downloads
+Migrationsstatus, Stand Januar 2012 (0,7 MB, PDF)
+    
+Musterpräsentation (PDF)  
+download
+Migrationsstatus, Stand Juni 2012 (400,3 KB, PDF)
+    
+Musterpräsentation in englischer Sprache  
+download
+OB Dieter Reiter
+Der Münchner Stadtrat
+Stadtverwaltung
+Online Services
+Behördennummer 115
+Stellen und Karriere
+Erzieherinnen|Erzieher
+Initiative
+Ge(h)denken
+muenchen.de
+Engagiert Leben
+Erinnern und Gedenken
+Seite drucken Seitenanfang
+muenchen.de
+© 2014 Portal München Betriebs-GmbH & Co. KG Ein Service der Landeshauptstadt München und der Stadtwerke München GmbH.
+Weitere Metropol-Webseiten: Berlin, Hamburg, Köln
+Kontakt & mehr
+Kontakt, Presse, Werbung, Impressum, AGB, Datenschutz, Interessante Links zu München
+Mehr München auf:
+muenchen.de Blog
+Google+
+Facebook
+Youtube
+Twitter
+Pinterest

@@ -1,0 +1,90 @@
+Comment dit-on page d’accueil? Incorporer le savoir autochtone dans Wikipedia – Diff
+ 
+Skip to content
+ 
+Diff
+Categories
+Equity & Inclusion
+Education & Open Access
+Technology
+Partnerships & Events
+Policy & Advocacy
+Movement Strategy
+About
+Submit
+Calendar
+Wikimania 2023
+ 
+Choose a language
+English
+Español
+Français
+Search 
+Comment dit-on page d’accueil? Incorporer le savoir autochtone dans Wikipedia 
+15 May 2017 by Nathalie Casemajor, Jean-Philippe Béland et Benoit Rochon 
+Atelier à l’école secondaire Otapi, Manawan (Première Nation Atikamekw, Canada). Photo par Pierre Coulombe, CC BY-SA 4.0.
+Une Première Nation au Canada pourra bientôt avoir sa propre Wikipédia.
+La nation Atikamekw Nehirowisiw, située dans le centre du Québec, est l’un des peuples autochtones du Canada où la population entière parle toujours la langue, ce qui en fait l’une des plus dynamiques parmi les Premières Nations.
+Un projet en cours, le premier du genre au Canada, travaille avec la communauté Atikamekw pour développer le contenu de Wikipedia dans sa propre langue. Le but de l’initiative est de développer la  Wikipédia Atikamekw, actuellement dans l’incubateur Wikimedia, pour qu’elle rejoigne la centaine de Wikipédias existantes.
+« C’est un moyen pour nous de transmettre les connaissances ancestrales avec les supports informatiques et cela permet de préserver les pratiques traditionnelles », selon Nehirowisiw, un membre du projet. « C’est un outil éducatif pour tous. »
+Financé par la Fondation Wikimédia, le projet La connaissance, la culture et la langue atikamekw dans les projets Wikimédia a plusieurs autres objectifs complémentaires. Il vise à enrichir l’information au sujet de la nation Atikamekw sur la Wikipédia en français ; à téléverser des photos, des documents d’archives et des cartes dans Wikimedia Commons ; et à sensibiliser la communauté wikimédienne en ce qui concerne la spécificité des savoirs et des langues autochtones. Le rapport final proposera des recommandations sur la façon de mieux inclure le contenu autochtone et les membres des Premières Nations dans les projets Wikimédia.
+———
+Ce projet pilote d’une année (de l’automne 2016 à l’été 2017) fait suite à une initiative menée en 2013-14 à Manawan (Québec, Canada) par une linguiste de l’Université de Leipzig, un professeur d’informatique du secondaire et un gardien de langue Atikamekw.
+En travaillant ensemble, ils ont créé « Projet Wikipetia », un projet éducatif impliquant des étudiants de l’école secondaire Otapi à Manawan pour créer des articles sur Wikipedia, écrits en Atikamekw. Au cours de ce projet, les étudiants ont créé plus de 160 articles.
+Les partenaires du projet actuel, La connaissance, la culture et la langue atikamekw dans les projets Wikimédia, incluent l’école secondaire Otapi de Manawan, le Conseil Atikamekw de Manawan, Conseil de la Nation Atikamekw (CNA), l’Institut linguistique atikamekw (ILA) Wikimédia Canada, l’Université du Québec en Outaouais (UQO), et l’Institut national de recherche scientifique (INRS, Centre Urbanisation, Culture, Société) avec la collaboration de plusieurs membres de la communauté Atikamekw.
+Le gardien de la langue de Manawan et un professeur d’informatique lors d’un atelier de formation à l’école Otapi. Photo par Seeris, CC BY-SA 4.0.
+Le projet se divise en trois volets : formation, projet pédagogique et projet de recherche. Le premier comprend des sessions de formation avec la communauté Atikamekw, offertes par des bénévoles de Wikimédia Canada, dans le but de rendre la communauté autonome dans son travail sur les projets de Wikimédia. Une formation initiale a eu lieu à l’école secondaire Otapi (Manawan) le 24 octobre 2016 et une autre a été donnée au CNA à La Tuque le 28 novembre 2016. Au cours du mois de mai 2017 se déroule un processus de documentation photographique au sein de la communauté atikamekw. Le projet pédagogique se tient quant à lui à l’école Otapi de novembre 2016 à mai 2017. Dans leur cours d’informatique, les étudiants contribuent à écrire des articles dans la Wikipetia Atikamekw Nehiromowin.
+Le volet de recherche à pour objectif de documenter le projet pilote dans le but de créer une boîte à outils ainsi qu’un ensemble de recommandations qui pourront être utilisées dans d’autres initiatives similaires. Il s’appuie sur les discussions avec les représentants de la communauté au sujet des meilleures façons de partager les connaissances traditionnelles sur les plates-formes Wikimédia. La question de la compatibilité entre les licences libres et les principes de recherche éthique PCAPMD (propriété, contrôle, accès et possession), développés par les Premières Nations canadiennes, a également été abordée lors d’un séminaire de recherche à l’INRS. Des représentants du Centre de gouvernance de l’information des Premières Nations et de Bibliothèque et Archives nationales du Québec se sont joints à la discussion.
+Le projet se terminera par un panel à la conférence Wikimania Montréal en août 2017. Un objectif à plus long terme est de reproduire des projets similaires avec d’autres communautés autochtones canadiennes, ou ailleurs dans le monde, et de partager cette expérience avec le mouvement international Wikimédia.
+———
+Sur le plan technique, les membres de la communauté travaillent avec l’Institut linguistique Atikamekw (ILA) et les techno-linguistes de la nation pour créer de nouveaux mots qui permettront de développer une version atikamekw de l’interface MediaWiki.
+Dans le but de créer une version atikamekw de l’interface MediaWiki, les membres de la communauté travaillent à inventer des termes pour traduire “page d’accueil”, “licence libre” ou “téléverser”. Au lieu de traduire littéralement, ils préfèrent mobiliser des références traditionnelles, souvent liées au territoire ancestral, car cela permet de s’approprier la modernité technique tout en transmettant l’imaginaire culturel atikamekw. Il revient aussi à la communauté de définir ses propres règles d’usage de l’encyclopédie : acceptation des sources orales, critères de notoriété des sujets qui soient ouverts aux réalités autochtones, protection d’informations sensibles. Il s’agit de réfléchir aux meilleures façons de profiter de cet outil tout en l’adaptant à l’épistémologie atikamekw.
+Parmi les questions soulevées par la traduction, il y a celle des classes de noms : la langue atikamekw ne fait la distinction entre le genre masculin et féminin, mais par contre, elle différencie les choses animées et inanimées. Wikipédia est-elle animée ? Les participants ont décidé que oui.
+Wikimédia Canada, parmi ses missions, vise à sensibiliser les communautés canadiennes au développement d’un savoir libre et gratuit dans toutes les langues du Canada, y compris les langues autochtones. L’objectif de cette stratégie est de collaborer avec les communautés autochtones du Canada et d’initier les locuteurs de langues autochtones à Wikipédia afin qu’ils deviennent des contributeurs autonomes dans le développement de contenu dans leurs langues. Il s’aligne avec l’article 13 de la Déclaration des droits des peuples autochtones de l’Organisation des Nations unies qui établit le droit de préserver, de revitaliser et de développer les langues autochtones—une partie intégrante de la culture canadienne.
+Rivière Manawan Sipi. Photo par Kinew1975, CC BY-SA 4.0.
+La prochaine phase du projet est d’organiser une chasse photographique sur le Nitaskinan, le territoire ancestral atikamekw. Elle aura lieu dans les communautés atikamekw de Manawan, Opitciwan et Wemotaci, ainsi que les villes de La Tuque et Joliette.
+Avant le début de ce projet, il n’y avait qu’une douzaine de photos en licence libre représentant la communauté atikamekw dans Wikimedia Commons. Elles dataient toutes des années 1970. L’objectif de cette expédition photographique est de mieux refléter la vitalité actuelle de la communauté en photographiant non seulement les bâtiments, mais aussi les personnes, les activités traditionnelles, les lacs et les rivières, les animaux et le territoire en général.
+La chasse photographique aura lieu du 26 avril au 31 mai 2017. Un atelier de téléversement sera organisé le dernier jour de la chasse photographique afin d’aider les participants à remplir la catégorie Atikamekw dans Commons.
+Benoit Rochon, président, Wikimédia Canada
+ Jean-Philippe Béland, vice-président, Wikimédia Canada
+ Nathalie Casemajor, professeure à l’INRS-UCS
+Les membres du projet incluent : Jean-Philippe Béland (vice-président, Wikimédia Canada), Nathalie Casemajor (professeure, Centre Urbanisation Culture Société, INRS), Christian Coocoo (responsable des services culturels, CNA), Jeanette Coocoo (enseignante à la retraite, Wemotaci), Antony Dubé (enseignant en informatique, École Otapi, Manawan), Annette Dubé-Vollant (responsable des programmes éducatifs, Conseil des Atikamekw de Manawan), Jean-Paul Échaquan (gardien de la langue, Manawan), Karine Gentelet (professeure en études autochtones, UQO), Nastasia Herold (doctorante en linguistique, Université de Leipzig), Thérèse Ottawa (agente administrative, Conseil des Atikamekw de Manawan), Sakay Ottawa (directeur de l’École Otapi), Luc Patin (enseignant en informatique, École Otapi), Nicole Petiquay (Institut de la Langue Atikamekw), André Quitich (ancien Chef de la nation), Céline Quitish (conseillère élue, Conseil des Atikamekw de Manawan), Benoit Rochon (président, Wikimédia Canada), ainsi que plusieurs autres précieux collaborateurs de la communauté atikamekw.
+Archive notice: This is an archived post from blog.wikimedia.org, which operated under different editorial and content guidelines than Diff.
+Related
+No comments
+Comments are closed automatically after 21 days.
+Meta
+Posted in UncategorizedTagged Wikimedia Blog (EN Archive) 
+Related
+ 
+Welcome to Diff
+Welcome to Diff, a community blog by – and for – the Wikimedia movement. Join Diff today to share stories from your community and comment on articles. We want to hear your voice!
+Learn more
+Subscribe to Diff via Email
+Enter your email address to subscribe to Diff and receive notifications of new posts by email.
+Email Address
+Subscribe
+ 
+Wikimedia News
+Wikimedia Foundation News
+Wikimania 2023 in Singapore centers on diversity, collaboration, and the future of free knowledge10 August 2023 by Wikimedia Foundation
+Wikimedia Technology Blog
+Flame graphs arrive in WikimediaDebug8 June 2023 by Timo Tijhof
+Down the Rabbit Hole
+Wikipedia’s value in the age of generative AI12 July 2023 by Selena Deckelmann
+ 
+Diff Voici Diff, un blog de la communauté Wikimedia.
+Tous les participants ont la responsabilité de construire un lieu accueillant et convivial pour tous. En savoir plus sur Diff.
+Un projet de la Wikimedia Foundation
+Liens 
+Join
+Subscribe
+Guidelines
+Editorial guidelines
+Privacy Policy
+Terms of Use
+Log in
+Content licensed under Creative Commons Attribution-ShareAlike 4.0 (CC-BY-SA) unless otherwise noted.
+Powered by WordPress.com VIP, Automattic Privacy Notice. 
+ 
+ 

@@ -1,0 +1,713 @@
+Erzya language - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Languages
+Language links are at the top of the page across from the title.
+Search
+Search
+Create accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1Phonology
+Toggle Phonology subsection
+1.1Consonants
+1.2Vowels
+1.3Vowel harmony
+2Morphology
+Toggle Morphology subsection
+2.1Nouns
+2.2Verbs
+3Writing
+Toggle Writing subsection
+3.1Cyrillic alphabet
+3.2Latin alphabet
+4See also
+5Bibliography
+6References
+7External links
+Toggle the table of contents
+Toggle the table of contents
+Erzya language
+86 languages
+AfrikaansAnarâškielâالعربيةAsturianuAzərbaycancaتۆرکجهБашҡортсаБеларускаяБеларуская (тарашкевіца)БългарскиBosanskiBrezhonegБуряадCatalàЧӑвашлаČeštinaDavvisámegiellaDeutschEestiΕλληνικάЭрзяньEspañolEsperantoEuskaraفارسیFiji HindiFrançaisGàidhligGalego한국어HornjoserbsceHrvatskiBahasa IndonesiaИронItalianoქართულიKiswahiliКомиКырык марыLatinaLatviešuLietuviųLivvinkarjalaMagyarМакедонскиമലയാളംMaltiمصرىBahasa MelayuМокшеньNederlands日本語НохчийнNorsk bokmålNorsk nynorskОлык марийپنجابیПерем комиPiemontèisPolskiPortuguêsRomânăРусскийᱥᱟᱱᱛᱟᱲᱤSeelterskSlovenčinaSlovenščinaСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟСрпски / srpskiSuomiSvenskaTagalogதமிழ்Татарча / tatarçaไทยTürkçeУдмуртУкраїнськаاردوVepsän kel’Tiếng ViệtVõro吴语粵語Žemaitėška中文
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Download as PDFPrintable version
+In other projects
+Wikimedia Commons
+From Wikipedia, the free encyclopedia
+Uralic language spoken in Russia
+Erzyaeŕźań keĺэрзянь кельNative toRussiaRegionMordovia, Nizhny Novgorod, Chuvashia, Ulyanovsk, Samara, Penza, Saratov, Orenburg, Tatarstan, BashkortostanEthnicity610,000 (553,000 in Russia, 2010 census)Native speakers300,000 claimed to speak "Mordovin" while 50,000 claimed to speak "Erzya-Mordvin" (2020 census)[1]Language familyUralic
+MordvinicErzyaWriting systemCyrillicOfficial statusOfficial language inMordovia (Russia)Language codesISO 639-2myvISO 639-3myvGlottologerzy1239ELPErzyaErzya is classified as Definitely Endangered by the UNESCO Atlas of the World's Languages in Danger (2010)This article contains IPA phonetic symbols. Without proper rendering support, you may see question marks, boxes, or other symbols instead of Unicode characters. For an introductory guide on IPA symbols, see Help:IPA.
+Erzya flag
+The Erzya language (эрзянь кель, eŕźań keĺ, pronounced [ˈerʲzʲanʲ ˈkelʲ]), also Erzian or historically Arisa, is spoken by approximately 300,000 people in the northern, eastern and north-western parts of the Republic of Mordovia and adjacent regions of Nizhny Novgorod, Chuvashia, Penza, Samara, Saratov, Orenburg, Ulyanovsk, Tatarstan and Bashkortostan in Russia. A diaspora can also be found in Armenia and Estonia, as well as in Kazakhstan and other states of Central Asia. Erzya is currently written using Cyrillic with no modifications to the variant used by the Russian language. In Mordovia, Erzya is co-official with Moksha and Russian.
+The language belongs to the Mordvinic branch of the Uralic languages. Erzya is a language that is closely related to Moksha but has distinct phonetics, morphology and vocabulary.
+Phonology[edit]
+Consonants[edit]
+The following table lists the consonant phonemes of Erzya together with their Cyrillic equivalents.[2]
+Labial
+Alveolar
+(Palato-)alveolar
+Velar
+plain
+pal.
+Nasal
+/m/ м
+/n/ н
+/nʲ/ нь
+/ŋ/ н
+Plosive
+voiceless
+/p/ п
+/t/ т
+/tʲ/ ть
+/k/ к
+voiced
+/b/ б
+/d/ д
+/dʲ/ дь
+/ɡ/ г
+Affricate
+/t͡s/ ц
+/t͡sʲ/ ць
+/t͡ʃ/ ч
+Fricative
+voiceless
+(/f/ ф)
+/s/ с
+/sʲ/ сь
+/ʃ/ ш
+(/x/ х)
+voiced
+/v/ в
+/z/ з
+/zʲ/ зь
+/ʒ/ ж
+Trill
+/r/ р
+/rʲ/ рь
+Approximant
+/l/ л
+/lʲ/ ль
+/j/ й
+Note on romanized transcription: in Uralic studies, the members of the palatalized series are usually spelled as ⟨ń⟩, ⟨ť⟩, ⟨ď⟩, ⟨ć⟩, ⟨ś⟩, ⟨ź⟩, ⟨ŕ⟩, ⟨ľ⟩, while the postalveolar sounds are spelled ⟨č⟩, ⟨š⟩, ⟨ž⟩ (see Uralic Phonetic Alphabet).
+/f/ and /x/ are loan phonemes from Russian.[2] There is a phonemic contrast between /n/ and /ŋ/, despite that they share the standard spelling ⟨н⟩. Minimal pairs include:
+/janɡa/ "along the path", in which the alveolar /n/ of the stem is retained before the prolative case ending /ɡa/, vs. /jaŋɡa/, the connegative form of the verb /jaŋɡams/ "to break"
+/jonks/ "good", subject or object complement in /ks/ translative, vs. /joŋks/ "direction; area". See Rueter 2010: 58.
+Mordovians in European Russia
+Vowels[edit]
+Erzya has a simple five-vowel system.[3]
+Front
+Back
+High
+i
+u
+Mid
+e
+o
+Low
+a
+The front vowels /i/ and /e/ have centralized variants [ï] and [ë] immediately following a plain alveolar consonant, e.g. siń [sïnʲ] "they", seń [sënʲ] "blue".
+Vowel harmony[edit]
+As in many other Uralic languages, Erzya has vowel harmony. Most roots contain either front vowels (/i/, /e/) or back vowels (/u/, /o/). In addition, all suffixes with mid vowels have two forms: the form to be used is determined by the final syllable of the stem. The low vowel (/a/), found in the comparative case -шка (ška) "the size of" and the prolative -ка/-га/-ва (ka/ga/va) "spatial multipoint used with verbs of motion as well as position" is a back vowel and not subject to vowel harmony.
+The rules of vowel harmony are as follows:
+If the final syllable of the word stem contains a front vowel, the front form of the suffix is used: веле (veĺe) "village", велесэ (veĺese) "in a village"
+If the final syllable of the word stem contains a back vowel, and it is followed by plain (non-palatalized) consonants, the back form of the suffix is used: кудо (kudo) "house", кудосо (kudoso) "in a house"
+However, if the back vowel is followed by a palatalized consonant or palatal glide, vowel harmony is violated and the "front" form of the suffix is used: кальсэ (kaĺse) "with willow", ойсэ (ojse) "with butter". Likewise, if a front-vowel stem is followed by a low back vowel suffix, subsequent syllables will contain back harmony: велеванзо (veĺevanzo) "throughout its villages"
+Thus the seeming violations of vowel harmony attested in stems, e.g. узере (uźere) "axe", суре (suŕe) "thread (string)", are actually due to the palatalized consonants /zʲ/ and /rʲ/.
+One exception to front-vowel harmony is observed in palatalized non-final /lʲ/, e.g. асфальтсо (asfaĺtso) "with asphalt".
+Morphology[edit]
+Like all other Uralic languages, Erzya is an agglutinative language which expresses grammatical relations by means of suffixes.
+Nouns[edit]
+Nouns are inflected for case, number, definiteness and possessor. Erzya distinguishes twelve cases (here illustrated with the noun мода moda "ground, earth"). Number is systematically distinguished only with definite nouns; for indefinite nouns and nouns with a possessive suffix, only the nominative case has a distinct plural.[3][2]
+Case
+Indefinite
+Definite
+1st person sg. possessive
+2nd person sg. possessive
+3rd person sg. possessive
+singular
+plural
+singular
+plural
+singular
+plural
+singular/plural
+singular
+plural
+nominative
+мода  moda
+мода-т  moda-t
+мода-сь  moda-ś
+мода-тне  moda-tńe
+мода-м  moda-m
+мода-н  moda-n
+мода-т  moda-t
+мода-зo  moda-zo
+мода-нзo  moda-nzo
+genitive
+мода-нь  moda-ń
+мода-нть  moda-ńt́
+мода-тне-нь  moda-tńe-ń
+dative/allative
+мода-нень  moda-ńeń
+мода-нтень  moda-ńt́eń
+мода-тне-нень  moda-tńe-ńeń
+inessive
+мода-со  moda-so
+мода-сонть  moda-sońt́
+мода-тне-сэ  moda-tńe-se
+мода-со-н  moda-so-n
+мода-со-т  moda-so-t
+мода-со-нзo  moda-so-nzo
+elative
+мода-сто  moda-sto
+мода-стонть  moda-stońt́
+мода-тне-стэ  moda-tńe-ste
+мода-сто-н  moda-sto-n
+мода-сто-т  moda-sto-t
+мода-сто-нзo  moda-sto-nzo
+illative
+мода-с  moda-s
+мода-нтень  moda-ńt́eń
+мода-тне-с  moda-tńe-s
+мода-з-oн  moda-z-on
+мода-з-oт  moda-z-ot
+мода-з-oнзo  moda-z-onzo
+prolative
+мода-ва  moda-va
+мода-ванть  moda-vańt́
+мода-тне-ва  moda-tńe-va
+мода-ва-н  moda-va-n
+мода-ва-т  moda-va-t
+мода-ва-нзo  moda-va-nzo
+ablative
+мода-до  moda-do
+мода-донть  moda-dońt́
+мода-тне-дe  moda-tńe-d́e
+мода-до-н  moda-do-n
+мода-до-т  moda-do-t
+мода-до-нзo  moda-do-nzo
+lative
+мода-в  moda-v
+-
+-
+-
+-
+-
+translative
+мода-кс  moda-ks
+мода-ксонть  moda-ksońt́
+мода-тне-кс  moda-tńe-ks
+мода-кс-oн  moda-ks-on
+мода-кс-oт  moda-ks-ot
+мода-кс-oнзo  moda-ks-onzo
+abessive
+мода-втомо  moda-vtomo
+мода-втомонть  moda-vtomońt́
+мода-тне-втеме  moda-tńe-vt́eme
+мода-втомо-н  moda-vtomo-n
+мода-втомо-т  moda-vtomo-t
+мода-втомо-нзo  moda-vtomo-nzo
+comparative
+мода-шка  moda-ška
+мода-шканть  moda-škańt́
+мода-тне-шка  moda-tńe-ška
+мода-шка-н  moda-ška-n
+мода-шка-т  moda-ška-t
+мода-шка-нзo  moda-ška-nzo
+Plural possessors follow the pattern of second person singular possessors.
+Case
+1st pers. pl. poss.
+2nd pers. pl. poss.
+3rd pers. pl. poss.
+singular/plural
+singular/plural
+singular/plural
+nominative
+мода-нoк  moda-nok
+мода-нк  moda-nk
+мода-ст  moda-st
+inessive (...)
+мода-со-нoк  moda-so-nok  (...)
+мода-со-нк  moda-so-nk  (...)
+мода-со-ст  moda-so-st (...)
+Verbs[edit]
+Erzya verbs are inflected for tense and mood, and are further conjugated for person of subject and object.[2][3] Traditionally, three stem types are distinguished: a-stems, o-stems and e-stems. A-stems always retain the stem vowel a in the non-third-person present-tense forms, and in the third-person first past-tense forms (e.g. pala-ś "kissed"). With many o-stems and e-stems, the stem vowel is dropped in these forms (e.g. o-stem van-ś "watched", e-stem ńiĺ-ś "swallowed"), but there also o- and e-stem verbs which retain the vowel (udo-ś "slept", pid́e-ś "cooked"). Rueter (2010) therefore divides verb stems into vowel-retaining stems and vowel-dropping stems.[4]
+In indicative mood, three tenses are distinguished: present/future, first past, second (=habitual) past.
+indicative mood
+present/future tense
+first past tense
+second past tense
+a-stem
+o-stem
+e-stem
+a-stem
+e-stem
+a-stem
+1sg
+мора-нmora-n
+ван-анvan-an
+пил-янpiĺ-an
+сод-ы-ньsod-i-ń
+мер-и-ньmeŕ-i-ń
+неи-линьńeji-ĺiń
+2sg
+мора-тmora-t
+ван-атvan-at
+пил-ятpiĺ-at
+сод-ы-тьsod-i-t́
+мер-и-тьmeŕ-i-t́
+неи-литьńeji-ĺit́
+3sg
+мор-ыmor-i
+ван-ыvan-i
+пил-иpiĺ-i
+содa-сьsoda-ś
+мер-сьmeŕ-ś
+неи-льńeji-ĺ
+1pl
+мора-таноmora-tano
+ван-таноvan-tano
+пиль-тяноpiĺ-t́ano
+сод-ы-некsod-i-ńek
+мер-и-некmeŕ-i-ńek
+неи-линекńeji-ĺińek
+2pl
+мора-тадоmora-tado
+ван-тадоvan-tado
+пиль-тядоpiĺ-t́ado
+сод-ы-деsod-i-d́e
+мер-и-деmeŕ-i-d́e
+неи-лидеńeji-ĺid́e
+3pl
+мор-ытьmor-it́
+ван-ытьvan-it́
+пил-итьpiĺ-it́
+содa-стьsoda-śt́
+мер-стьmeŕ-śt́
+неи-льтьńeji-ĺt́
+first infinitive
+мора-мсmora-ms
+вано-мсvano-ms
+пиле-мсpiĺe-ms
+сода-мсsoda-ms
+мере-мсmeŕe-ms
+нее-мсńeje-ms
+second infinitive
+мора-моmora-mo
+вано-моvano-mo
+пиле-меpiĺe-me
+сода-моsoda-mo
+мере-меmeŕe-me
+нее-меńeje-me
+'sing'
+'watch'
+'swallow'
+'know'
+'say'
+'see'
+The third-person singular form in the present tense is also used as present participle. The second past tense is formed by adding the past-tense copula -ľ to the present participle.
+The other mood categories are:
+conditional (-ińd́eŕa + present suffixes)
+conjunctive (-v(V)ĺ + past suffixes)
+conditional-conjunctive (-ińd́eŕa-v(V)ĺ + past suffixes)
+desiderative (-ikseĺ + past suffixes)
+optative (zo + present suffixes)
+imperative (-k/-do)
+other mood categories
+conditional
+conjunctive
+conditional-conjunctive
+desiderative
+1sg
+ярс-ындеря-нjars-ińd́eŕa-n
+изня-влиньiźńa-vĺiń
+ул-индеря-влиньuĺ-ińd́eŕa-vĺiń
+вид-иксэлиньvid́-ikseĺiń
+2sg
+ярс-ындеря-тjars-ińd́eŕa-t
+изня-влитьiźńa-vĺit́
+ул-индеря-влитьuĺ-ińd́eŕa-vĺit́
+вид-иксэлитьvid́-ikseĺit́
+3sg
+ярс-ындеря-йjars-ińd́eŕa-j
+изня-вольiźńa-voĺ
+ул-индеря-вольuĺ-ińd́eŕa-voĺ
+вид-иксэльvid́-ikseĺ
+1pl
+ярс-ындеря-таноjars-ińd́eŕa-tano
+изня-влинекiźńa-vĺińek
+ул-индеря-влинекuĺ-ińd́eŕa-vĺińek
+вид-иксэлинекvid́-ikseĺińek
+2pl
+ярс-ындеря-тадоjars-ińd́eŕa-tado
+изня-влидеiźńa-vĺid́e
+ул-индеря-влидеuĺ-ińd́eŕa-vĺid́e
+вид-иксэлидеvid́-ikseĺid́e
+3pl
+ярс-ындеря-йтьjars-ińd́eŕa-jt́
+изня-вольтьiźńa-voĺt́
+ул-индеря-вольтьuĺ-ińd́eŕa-voĺt́
+вид-иксэльтьvid́-ikseĺt́
+first infinitive
+ярса-мсjarsa-ms
+изня-мсiźńa-ms
+уле-мсuĺe-ms
+виде-мсvid́e-ms
+second infinitive
+ярса-моjarsa-mo
+изня-моiźńa-mo
+уле-меuĺe-me
+виде-меvid́e-me
+'eat'
+'win'
+'be'
+'sow'
+Writing[edit]
+Main article: Mordvinic alphabets
+Cyrillic alphabet[edit]
+The modern Erzya alphabet is the same as for Russian:[2]
+А/a/
+Б/b/
+В/v/
+Г/ɡ/
+Д/d/
+Е/je/
+Ё/jo/
+Ж/ʒ/
+З/z/
+И/i/
+Й/j/
+К/k/
+Л/l/
+М/m/
+Н/n/
+О/o/
+П/p/
+Р/r/
+С/s/
+Т/t/
+У/u/
+Ф/f/
+Х/x/
+Ц/t͡s/
+Ч/t͡ʃ/
+Ш/ʃ/
+Щ /ʃt͡ʃ/
+Ъ/-/
+Ы /ɨ/
+Ь/◌ʲ/
+Э/e/
+Ю/ju/
+Я/ja/
+The letters ф, х, щ and ъ are only used in loanwords from Russian. The pre-1929 version of the Erzya alphabet included the additional letter Cyrillic ligature En Ge (Ҥ ҥ) in some publications, (cf. Evsevyev 1928).
+In combination with the alveolar consonants т, д, ц, с, з, н, л, and р, vowel letters are employed to distinguish between plain and palatalized articulations in a similar way as in Russian: а, э, ы, о, у follow plain alveolars, while я, е, и, ё, ю follow palatalized alveolars, e.g. та /ta/, тэ /te/, ты /ti/, то /to/, ту /tu/ vs. тя /tʲa/, те /tʲe/, ти /tʲi/, тё /tʲo/, тю /tʲu/. If no vowel follows, palatalization is indicated by ь, e.g. ть /tʲ/. Following non-alveolar consonants, only а, е, и, о, у occur, e.g. па /pa/, пе /pe/, пи /pi/, по /po/, пу /pu/.
+Latin alphabet[edit]
+This section may lend undue weight to romanization proposals that are neither official nor widely used/recognized. Please help to create a more balanced presentation. Discuss and resolve this issue before removing this message.  (February 2023)
+A Latin alphabet was officially approved by the government of Nizhne-Volzhskiy Kray in 1932, but it was never used:[5]
+a в c ç d ә e f g y i j k l m n o p r s ş t u v x z ƶ ь
+One of the modern Latin alphabet proposals:[6][7][8][9][non-primary source needed]
+a b c č ć d d́/ď e f g h i j k l ĺ/ľ m n ń o p r ŕ s š ś t t́/ť u v z ž ź
+Cyrillic
+Latin
+a
+a
+б
+b
+в
+v
+г
+g
+д
+before e,ë,и,ь,ю,я — d́/ď
+not before e,ë,и,ь,ю,я — d
+e
+at the beginning of a word — je
+after a vowel — je
+after a consonant — e
+ë
+at the beginning of a word — jo
+after a vowel — jo
+after a consonant — o
+ж
+ž
+з
+before e,ë,и,ь,ю,я — ź
+not before e,ë,и,ь,ю,я — z
+и
+at the beginning of a word — i
+after a consonant — i
+after a vowel — ji
+й
+j
+к
+k
+л
+before e,ë,и,ь,ю,я — ĺ/ľ
+not before e,ë,и,ь,ю,я — l
+м
+m
+н
+before e,ë,и,ь,ю,я — ń
+not before e,ë,и,ь,ю,я — n
+o
+o
+п
+p
+p
+before e,ë,и,ь,ю,я — ŕ
+not before e,ë,и,ь,ю,я — r
+c
+before e,ë,и,ь,ю,я — ś
+not before e,ë,и,ь,ю,я — s
+т
+before e,ë,и,ь,ю,я — t́/ť
+not before e,ë,и,ь,ю,я — t
+у
+u
+ф
+f (only in loanwords)
+x
+h (only in loanwords)
+ц
+before e,ë,и,ь,ю,я — ć
+not before e,ë,и,ь,ю,я — c
+ч
+č
+ш
+š
+щ
+šč/šť (only in loanwords)
+ъ
+–
+ы
+i
+ь
+–
+э
+e
+ю
+at the beginning of a word — ju
+after a vowel — ju
+after a consonant — u
+я
+at the beginning of a word — ja
+after a vowel — ja
+after a consonant — a
+See also[edit]
+Erzya people
+Erzya literature
+Erzyan Mastor
+Bibliography[edit]
+A.I. Bryzhinskiy, O.V. Pashutina, Ye.I. Chernov. Писатели Мордовии Биобиблиографический справочник. Saransk: Mordovskoye Knizhnoye Izdatelystvo, 2001. ISBN 5-7595-1386-9.
+Vasilij D'omin. Сюконян тенк... Эрзянь писательде ёвтнемат. Saransk, 2005. ISBN 5-7595-1665-5.
+Ksenija Djordjevic & Jean-Leo Leonard. Parlons Mordve. Paris: L'Harmattan, 2006, ISBN 2-296-00147-5.
+Makar E. Evsev'ev. Основы мордовской грамматика, Эрзянь грамматика. С приложением образцов мокшанских склонений и спряжений. Москва: Центральное издательство народов СССР, 1928.
+Jack Rueter. Adnominal Person in the Morphological System of Erzya. Suomalais-Ugrilaisen Seuran Toimituksia 261. Helsinki: Suomalais-Ugrilainen Seura, 2010, ISBN 978-952-5667-23-3 [print], ISBN 978-952-5667-24-0 [online].
+D.V. Tsygankin. Память запечатленная в слове: Словарь географических названий республики Мордовия. Saransk, 2005. ISBN 5-7493-0780-8.
+References[edit]
+^ "Итоги Всероссийской переписи населения 2020 года. Таблица 6. Население по родному языку" [Results of the All-Russian population census 2020. Table 6. population according to native language.]. rosstat.gov.ru. Retrieved 2023-01-03.
+^ a b c d e Saarinen, Sirkka. "Erzya e-learning course" (PDF). Ludwig-Maximilians-Universität München. Retrieved 2019-03-05.
+^ a b c Zaicz, Gábor (1998). "Mordva". In Abondolo, Daniel (ed.). The Uralic Languages. London: Routledge. pp. 184–218.
+^ Rueter, Jack (2010). Adnominal Person in the Morphological System of Erzya. Suomalais-Ugrilaisen Seuran Toimituksia 261. Helsinki: Suomalais-Ugrilainen Seura.
+^ Г. Аитов (1932). Новый алфавит. Великая революция на востоке (in Russian). Саратов: Нижневолжское краевое изд-во. pp. 61–64.
+^ Aasmäe, Niina (2014). An introductory course of the Erzya language (PDF). Tartu: Tartu Ülikooli. ISBN 978-9985-4-0800-1.
+^ Mészáros, Edit (2008). Magyar-erza-mordvin szótár [Hungarian-Erzya dictionary] (PDF). Szeged: SzTE Finnugor Nyelvtudományi Tanszék.
+^ Mészáros, Edit (1999). Erza-mordvin-magyar szótár [Erzya-Hungarian dictionary]. Szeged: JATE Finnugor Tanszék.
+^ Mészáros, Edit (2000). Az erza-mordvin nyelv alapjai (PDF). Budapest: ELTE Finnugor Tanszék.
+External links[edit]
+ Media related to Erzya language at Wikimedia Commons
+ Erzya  edition of Wikipedia, the free encyclopedia
+Finno-Ugric Electronic Library by the Finno-Ugric Information Center in Syktyvkar, Komi Republic (interface in Russian and English, texts in Mari, Komi, Udmurt, Erzya and Moksha languages): [1]
+Erzjanj Mastor – The society for preserving the Erzya language (in Erzya and Russian)
+https://web.archive.org/web/20061029185215/http://www.info-rm.com/er/index.php News in the Erzya and Moksha Mordvinian languages
+[2] Эрзянский язык
+Erzya – Finnish/English/German/Russian dictionary (robust finite-state, open-source)
+[3] Erzya studies reference bibliography under construction.
+Russian-Moksha-Erzya Dictionary
+Russian-Erzya Dictionary
+vteUralic languagesList of Uralic languagesFinnic
+Bjarmian languages
+Estonian
+Laiuse Romani
+Northeastern coastal
+South Estonian
+Seto
+Võro
+Ludza dialect
+Kraasna dialect
+Leivu dialect
+Finnish
+Kven
+Meänkieli
+Siberian Ingrian Finnish
+Fingelska
+Ingrian
+Siberian Ingrian Finnish
+Karelian
+Karelian proper
+Livvi
+Ludic
+Livonian
+Veps
+Votic
+SámiEastern Sámi
+Akkala
+Inari
+Kainuu
+Kemi
+Kildin
+Skolt
+Ter
+Western Sámi
+Lule
+Northern
+Pite
+Southern
+Ume
+Mordvinic
+Erzya
+Moksha
+Mari
+Hill Mari
+Meadow Mari
+Northwestern Mari
+Permic
+Komi
+Komi-Yazva
+Permyak
+Udmurt
+Ugric
+Hungarian
+Khanty
+Mansi
+Samoyedic
+Enets
+Kamassian
+Mator
+Nenets
+Forest Nenets
+Tundra Nenets
+Nganasan
+Selkup
+Yurats
+Others
+Merya
+Meshcherian
+Muromian
+Reconstructed
+Proto-Uralic
+homeland
+Proto-Finnic
+Proto-Samic
+Proto-Samoyedic
+Italics indicate extinct languagesLanguages between parentheses are varieties of the language on their left.
+vteLanguages of RussiaFederal language
+Russian
+State languagesof federal subjects
+Abaza
+Adyghe
+Aghul
+Altai
+Northern Altai
+Southern Altai
+Avar
+Azerbaijani
+Bashkir
+Buryat
+Chechen
+Chuvash
+Crimean Tatar
+Dargwa
+Ingush
+Kabardian
+Kalmyk
+Karachay-Balkar
+Khakas
+Komi
+Kumyk
+Lak
+Lezgian
+Mari
+Hill
+Meadow
+Mordvin
+Erzya
+Moksha
+Nogai
+Ossetian
+Rutul
+Yakut/Sakha
+Tabasaran
+Tat
+Tatar
+Tsakhur
+Tuvan
+Udmurt
+Ukrainian
+Languages with official status
+Chukchi
+Dolgan
+Even
+Evenki
+Finnish
+Karelian
+Kazakh
+Khanty
+Komi-Permyak
+Mansi
+Nenets
+Selkup
+Veps
+Yukaghir
+Northern Yukaghir
+Southern Yukaghir
+Scripts
+Cyrillic1
+Cyrillic Braille
+Latin script2
+Mongolian script (Buryat script, Kalmyk script)2
+1 In Russia, the Cyrillic alphabet is officially supported. 2 For other, non-Cyrillic alphabets, separate federal laws are required.
+Languages of Russia
+Wikipedia in languages of Russia
+Mass media by language of Russia
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Erzya_language&oldid=1172860406"
+Categories: Erzya languageLanguages of RussiaHidden categories: CS1 Russian-language sources (ru)Articles with short descriptionShort description matches WikidataArticles containing Erzya-language textLanguages with ISO 639-2 codeISO language articles citing sources other than EthnologueWikipedia neutral point of view disputes from February 2023All Wikipedia neutral point of view disputesCommons category link from Wikidata
+ This page was last edited on 29 August 2023, at 19:54 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

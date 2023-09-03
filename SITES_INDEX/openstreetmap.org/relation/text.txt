@@ -1,0 +1,1648 @@
+Relation: ‪United Kingdom‬ (‪62149‬) | OpenStreetMap
+      OpenStreetMap
+    
+Where is this?
+Reverse Directions
+Loading...
+Edit
+Edit with iD (in-browser editor)
+Edit with Remote Control (JOSM, Potlatch, Merkaartor)
+History
+Export
+GPS Traces
+User Diaries
+Communities
+Copyright
+Help
+About
+More
+GPS Traces
+User Diaries
+Communities
+Copyright
+Help
+About
+Log In
+Sign Up
+Where is this?
+Reverse Directions
+Loading...
+Loading...
+Relation: United Kingdom (62149)
+  Version
+  #818
+    UNESCO Global Geopark
+    Edited 2 months ago by ramthelinefeed
+    Changeset
+    #137726815
+Tags
+ISO3166-1
+GB
+ISO3166-1:alpha2
+GB
+ISO3166-1:alpha3
+GBR
+ISO3166-1:numeric
+826
+admin_level
+2
+alt_name:be
+Вялікая Брытанія;Брытанія;Злучанае Каралеўства
+alt_name:eo
+Britio;Britujo
+boundary
+administrative
+currency
+GBP
+driving_side
+left
+flag
+https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg
+int_name
+United Kingdom
+name
+United Kingdom
+name:ab
+Британиа Ду
+name:ace
+Keurajeuën Inggréh
+name:ady
+Британиешхо Пачъыхьыгъо
+name:af
+Verenigde Koninkryk
+name:ak
+United Kingdom
+name:als
+Vereinigtes Königreich
+name:am
+ዩናይትድ ኪንግደም
+name:an
+Reino Unito
+name:ang
+Geāned Cynerīce
+name:ar
+المملكة المتحدة
+name:arc
+ܡܠܟܘܬܐ ܡܚܝܕܬܐ
+name:ary
+لمملكة لمتحدة
+name:arz
+المملكه المتحده
+name:as
+যুক্তৰাজ্য
+name:ast
+Reinu Xuníu
+name:av
+Кӏудабиритан
+name:avk
+Tanaragazaxo
+name:awa
+यूनाइटेड किंगडम
+name:az
+Böyük Britaniya
+name:azb
+بیرلشمیش شاهلیق
+name:ba
+Бөйөк Британия
+name:ban
+Britania Agung
+name:bar
+Vaeinigts Kinireich
+name:bat-smg
+Jongtėnė Karalīstė
+name:bcl
+Reyno Unido
+name:be
+Вялікабрытанія
+name:be-tarask
+Вялікабрытанія
+name:bg
+Обединено кралство Великобритания и Северна Ирландия
+name:bh
+यूनाइटेड किंगडम
+name:bi
+Unaeted Kingdom
+name:bjn
+Britania Raya
+name:bn
+যুক্তরাজ্য
+name:bo
+དབྱིན་ཇི་མཉམ་འབྲེལ།
+name:bpy
+তিলপারাজ্য
+name:br
+Rouantelezh-Unanet
+name:bs
+Ujedinjeno Kraljevstvo Velike Britanije i Sjeverne Irske
+name:bug
+United Kingdom
+name:bxr
+Нэгдсэн Вант Улс
+name:ca
+Regne Unit
+name:cbk-zam
+Reinos Unidos de Gran Britania y Norte Irelandia
+name:cdo
+Ĭng-guók
+name:ce
+Йоккха Британи
+name:ceb
+Hiniusang Gingharian
+name:ch
+Reinu Unidu
+name:chr
+ᎡᎵᏏᎯ
+name:chy
+United Kingdom
+name:ckb
+شانشینی یەکگرتوو
+name:co
+Regnu Unitu
+name:crh
+Büyük Britaniya
+name:cs
+Spojené království
+name:csb
+Wiôlgô Britanijô
+name:cu
+Вєлика Британїꙗ
+name:cv
+Аслă Британи
+name:cy
+Deyrnas Unedig
+name:da
+Storbritannien
+name:de
+Vereinigtes Königreich
+name:din
+Amatnhom Mäcŋaknhom
+name:diq
+Qraliya Yewbiyayiye
+name:dsb
+Wjelika Britaniska
+name:dty
+संयुक्त अधिराज्य
+name:dv
+ޔުނައިޓެޑް ކިންގްޑަމް
+name:dz
+ཡུ་ནའི་ཊེཊ་ཀིང་ཌམ
+name:ee
+United Kingdom
+name:el
+Ηνωμένο Βασίλειο
+name:eml
+Régn Unî
+name:en
+United Kingdom
+name:eo
+Unuiĝinta Reĝlando
+name:es
+Reino Unido
+name:et
+Suurbritannia
+name:eu
+Erresuma Batua
+name:ext
+Réinu Uniu
+name:fa
+بریتانیا
+name:ff
+Biritaani-Mawndi
+name:fi
+Yhdistynyt kuningaskunta
+name:fj
+Matanitu Cokovata
+name:fo
+Stóra Bretland
+name:fr
+Royaume-Uni
+name:frp
+Royômo-Uni
+name:frr
+Feriind Kiningrik
+name:fur
+Ream Unît
+name:fy
+Feriene Keninkryk
+name:ga
+An Ríocht Aontaithe
+name:gag
+Büük Britaniya
+name:gan
+英國
+name:gcr
+Rwéyonm-Ini
+name:gd
+An Rìoghachd Aonaichte
+name:gl
+Reino Unido
+name:gn
+Tavetã Joaju
+name:gom
+युनायटेड किंगडम
+name:gu
+યુનાઇટેડ કિંગડમ
+name:gv
+Reeriaght Unnaneysit
+name:ha
+Birtaniya
+name:hak
+Yîn-koet
+name:haw
+Aupuni Mōʻī Hui Pū ʻia
+name:he
+הממלכה המאוחדת
+name:hi
+यूनाइटेड किंगडम
+name:hif
+United Kingdom
+name:hr
+Ujedinjeno Kraljevstvo
+name:hsb
+Zjednoćene kralestwo
+name:ht
+Wayòm Ini
+name:hu
+Egyesült Királyság
+name:hy
+Միացյալ Թագավորություն
+name:ia
+Regno Unite
+name:id
+Britania Raya
+name:ie
+Reyatu Unit
+name:ig
+Obodoézè Nà Ofú
+name:ik
+Tannapta Umialgutia
+name:ilo
+Nagkaykaysa a Pagarian
+name:inh
+Великобритани
+name:io
+Unionita Rejio
+name:is
+Bretland
+name:it
+Regno Unito
+name:iu
+ᑐᓗᐃᑦ ᓄᓈᑦ
+name:ja
+イギリス
+name:jam
+Yunaitid Kindom
+name:jbo
+ritygu'e
+name:jv
+Britania Raya
+name:ka
+გაერთიანებული სამეფო
+name:kaa
+Ullı Britaniya
+name:kab
+Legliz
+name:kbd
+Британиэшхуэ
+name:kg
+Royaume-Uni
+name:ki
+United Kingdom
+name:kk
+Ұлыбритания
+name:kl
+Tuluit Nunaat
+name:km
+រាជាណាចក្ររួម
+name:kn
+ಯುನೈಟೆಡ್ ಕಿಂಗ್‌ಡಂ
+name:ko
+영국
+name:koi
+Ыджыт Бритму
+name:krc
+Уллу Британия
+name:ksh
+Jrußbritannie
+name:ku
+Keyaniya Yekbûyî
+name:kv
+Ыджыд Британия
+name:kw
+Ruvaneth Unys
+name:ky
+Улуу Британия жана Түндүк Ирландия
+name:la
+Britanniarum Regnum
+name:lad
+Reyno Unido
+name:lb
+Groussbritannien an Nordirland
+name:lez
+ЧIехибритания
+name:li
+Vereineg Keuninkriek
+name:lij
+Regno Unïo
+name:lmo
+Regn Ünì
+name:ln
+Ingɛlɛ́tɛlɛ
+name:lo
+ສະຫະຣາຊອານາຈັກ
+name:lt
+Jungtinė Karalystė
+name:ltg
+Lelbrytaneja
+name:lv
+Apvienotā Karaliste
+name:lzh
+英國
+name:mad
+Britania Raya
+name:mai
+संयुक्त अधिराज्य
+name:mdf
+Оцю Британия
+name:mg
+Fanjakana Mitambatra
+name:mhr
+Ушымо Королевстве
+name:mi
+Kīngitanga Kotahi
+name:min
+Baritania Rayo
+name:mk
+Обединето Кралство
+name:ml
+യുണൈറ്റഡ് കിങ്ഡം
+name:mn
+Их Британи
+name:mni
+ꯌꯨꯅꯥꯢꯇꯦꯗ ꯀꯤꯡꯗꯝ
+name:mr
+युनायटेड किंग्डम
+name:mrj
+Кого Британи
+name:ms
+United Kingdom
+name:mt
+Renju Unit
+name:mwl
+Reino Ounido
+name:my
+ယူနိုက်တက်ကင်းဒမ်းနိုင်ငံ
+name:myv
+Инебритания Мастор
+name:mzn
+بریتانیا
+name:na
+Ingerand
+name:nah
+Tlacetilīlli Huēyitlahtohcāyōtl
+name:nan
+Liân-ha̍p Ông-kok
+name:nap
+Gran Vretagna
+name:nds
+Vereenigt Königriek vun Grootbritannien un Noordirland
+name:nds-nl
+Verienigd Keuninkriek
+name:ne
+संयुक्त अधिराज्य
+name:new
+संयुक्त अधिराज्य
+name:nl
+Verenigd Koninkrijk
+name:nn
+Storbritannia
+name:no
+Storbritannia
+name:nov
+Unionati Regia
+name:nqo
+ߡߊ߲߬ߛߊ߬ߟߊ߫ ߘߍ߬ߣߍ߲
+name:nrm
+Rouoyaume Unni
+name:nso
+United Kingdom
+name:nv
+Tótaʼ Dineʼé Bikéyah
+name:ny
+United Kingdom
+name:oc
+Reialme Unit
+name:om
+Yunaayitid Kingidem
+name:or
+ଯୁକ୍ତରାଜ୍ୟ
+name:os
+Стыр Британи
+name:pa
+ਸੰਯੁਕਤ ਬਾਦਸ਼ਾਹੀ
+name:pag
+Reino Unido
+name:pam
+Pisanmetung a Ka-arian
+name:pap
+Reino Uni
+name:pcd
+Roéyôme-Uni
+name:pih
+Yunitid Kingdum
+name:pl
+Wielka Brytania
+name:pms
+Regn Unì
+name:pnb
+برطانیہ
+name:pnt
+Ηνωμένο Βασίλειο
+name:ps
+بريتانيا
+name:pt
+Reino Unido
+name:qu
+Hukllachasqa Qhapaq Suyu
+name:rm
+Reginavel Unì
+name:rmy
+Phandlo Thagaripen la Bare Britaniyako thai le Nordutne Irlandesko
+name:ro
+Regatul Unit al Marii Britanii și al Irlandei de Nord
+name:roa-rup
+Britania Mari
+name:roa-tara
+Regne Aunìte
+name:ru
+Великобритания
+name:rue
+Велика Брітанія
+name:rw
+Ubwongereza
+name:sa
+संयुक्त अधिराज्य
+name:sah
+Холбоhуктаах Хоруоллук
+name:sat
+ᱥᱮᱞᱮᱫ ᱫᱤᱥᱚᱢ
+name:sc
+Rennu Auniadu
+name:scn
+Regnu Unitu
+name:sco
+Unitit Kinrick
+name:sd
+گڏيل بادشاھت
+name:se
+Ovttastuvvan gonagasriika
+name:sh
+Ujedinjeno Kraljevstvo
+name:shi
+Briṭanya
+name:shn
+မိူင်းႁူမ်ႈတုမ်ႁေႃၶမ်း ပရိတ်ႈတဵၼ်ႇ
+name:si
+එක්සත් රාජධානිය
+name:sk
+Spojené kráľovstvo
+name:skr
+برطانیہ
+name:sl
+Združeno kraljestvo
+name:sm
+Peretānia
+name:smn
+Ovtâstum kunâgâskodde
+name:sms
+Õhttõõvvâm koonǥõskåʹdd
+name:sn
+United Kingdom
+name:so
+Midowga boqortooyada Britan
+name:sq
+Mbretëria e Bashkuar e Britanisë dhe Irlandës së Veriut
+name:sr
+Уједињено Краљевство
+name:srn
+Ingriskondre
+name:ss
+United Kingdom
+name:stq
+Fereeniged Köönichriek fon Groot-Britannien un Noudirlound
+name:su
+Britania
+name:sv
+Storbritannien
+name:sw
+Ufalme wa Muungano
+name:szl
+Wielgŏ Brytanijŏ
+name:ta
+ஐக்கிய இராச்சியம்
+name:tcy
+ಯುನೈಟೆಡ್ ಕಿಂಗ್ಡಮ್
+name:te
+యునైటెడ్ కింగ్‌డమ్
+name:tet
+Reinu Naklibur
+name:tg
+Подшоҳии Муттаҳида
+name:th
+สหราชอาณาจักร
+name:tk
+Birleşen Patyşalyk
+name:tl
+Nagkakaisang Kaharian
+name:to
+Pilitānia
+name:tok
+ma Juke
+name:tpi
+Yunaitet Kingdom
+name:tr
+Birleşik Krallık
+name:trv
+United Kingdom
+name:ts
+United Kingdom
+name:tt
+Бөекбритания
+name:tw
+United Kingdom
+name:ty
+Paratāne
+name:tzl
+Regipäts Viensiçat
+name:udm
+Великобритания
+name:ug
+بۈيۈك بېرىتانىيە
+name:uk
+Велика Британія
+name:ur
+برطانیہ
+name:uz
+Birlashgan Qirollik
+name:vec
+Regno Unìo
+name:vep
+Sur' Britanii
+name:vi
+Vương quốc Anh
+name:vls
+Verênigd Keunienkryk
+name:vo
+Regän Pebalöl
+name:vro
+Ütiskuningriik
+name:wa
+Rweyåme-Uni
+name:war
+Reino Unido
+name:wo
+Nguur-Yu-Bennoo
+name:wuu
+英国
+name:xal
+Ик Бритишин болн Ар Гәәлгүдин Ниицәтә Нутг
+name:xmf
+გოართოიანაფილი ომაფე
+name:yi
+פאראייניגטע קעניגרייך
+name:yo
+Ilẹ̀ọba Aṣọ̀kan
+name:yue
+英國
+name:za
+Yinghgoz
+name:zea
+Vereênigd Konienkriek
+name:zh
+英国 / 英國
+name:zh-Hans
+英国
+name:zh-Hant
+英國
+name:zu
+Umbuso Ohlangeneyo
+native_name
+United Kingdom of Great Britain and Northern Ireland
+native_name:da
+Det Forenede Kongerige Storbritannien og Nordirland
+native_name:es
+Reino Unido de Gran Bretaña e Irlanda del Norte
+native_name:vi
+Vương quốc Liên hiệp Anh và Bắc Ireland
+official_name
+United Kingdom of Great Britain and Northern Ireland
+official_name:be
+Злучанае Каралеўства Вялікабрытаніі і Паўночнай Ірландыі
+official_name:ca
+Regne Unit de Gran Bretanya i Irlanda del Nord
+official_name:cs
+Spojené království Velké Británie a Severního Irska
+official_name:de
+Vereinigtes Königreich Großbritannien und Nordirland
+official_name:din
+Amatnhom Mäcŋaknhom në Britain Dït ku Parut Ireland
+official_name:el
+Ηνωμένο Βασίλειο της Μεγάλης Βρετανίας και της Βόρειας Ιρλανδίας
+official_name:en
+United Kingdom of Great Britain and Northern Ireland
+official_name:eo
+Unuiĝinta Reĝlando de Granda Britio kaj Nord-Irlando
+official_name:fr
+Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
+official_name:hr
+Ujedinjeno Kraljevstvo Velike Britanije i Sjeverne Irske
+official_name:is
+Sameinaða konungsveldi Stóra-Bretlands og Norður-Írlands
+official_name:it
+Regno Unito di Gran Bretagna e Irlanda del Nord
+official_name:la
+Coniunctum Britanniae Maioris et Hiberniae Septentrionalis Regnum
+official_name:nl
+Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland
+official_name:pcd
+Rweyåme-Uni di Grande Burtaegne et d' Irlande do Nôr
+official_name:pl
+Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej
+official_name:ru
+Соединённое королевство Великобритании и Северной Ирландии
+official_name:sk
+Spojené kráľovstvo Veľkej Británie a Severného Írska
+official_name:sl
+Združeno kraljestvo Velike Britanije in Severne Irske
+official_name:vls
+Verênigd Keunienkryk van Grôot-Brittannië en Nôord-Ierland
+official_name:wa
+Roéyôme-uni éd Grande-Bretagne pi d'Irlinde-du-Nord
+official_name:zh
+大不列顛暨北愛爾蘭聯合王國/大不列颠及北爱尔兰联合王国
+official_name:zh-Hans
+大不列颠及北爱尔兰联合王国
+official_name:zh-Hant
+大不列顛暨北愛爾蘭聯合王國
+ref:gss
+K02000001
+short_name
+UK
+short_name:el
+ΗΒ
+short_name:fr
+RU
+short_name:nl
+VK
+short_name:pcd
+RU
+short_name:vls
+VK
+short_name:vo
+Britän
+short_name:wa
+RU
+source:ref:gss
+ONS_OpenData
+timezone
+Europe/London
+type
+boundary
+wikidata
+Q145
+wikipedia
+en:United Kingdom
+Part of
+1 relation
+Relation North Atlantic Treaty Organization / Organisation du traité de l'Atlantique nord (12733310) (as member_state)
+Members
+915 members
+  Node United Kingdom (838090640) as label
+  Node London (107775) as admin_centre
+  Way 144390859 as outer
+  Way 42050190 as outer
+  Way 1184657106 as outer
+  Way Louth / Down (30070546) as outer
+  Way Louth / Down (1169104745) as outer
+  Way Louth / Down (1176994433) as outer
+  Way 72864662 as outer
+  Way 164769306 as outer
+  Way 338143284 as outer
+  Way 349150256 as outer
+  Way 346629221 as outer
+  Way 338143286 as outer
+  Way 845666019 as outer
+  Way 346629219 as outer
+  Way Louth / Armagh (227720553) as outer
+  Way Louth / Armagh (227720554) as outer
+  Way Louth / Armagh (227720556) as outer
+  Way Louth / Armagh (349890647) as outer
+  Way River Flurry (227717380) as outer
+  Way River Flurry (349890646) as outer
+  Way 227715734 as outer
+  Way 346635171 as outer
+  Way 349137962 as outer
+  Way 349487279 as outer
+  Way 346980060 as outer
+  Way 346982778 as outer
+  Way 349528004 as outer
+  Way 1171531042 as outer
+  Way 349826590 as outer
+  Way 346982773 as outer
+  Way 346982775 as outer
+  Way 349840896 as outer
+  Way 347238922 as outer
+  Way 347238923 as outer
+  Way Kilcurry River (349820387) as outer
+  Way Kilcurry River (347240814) as outer
+  Way 347240813 as outer
+  Way 347257065 as outer
+  Way Falmore River (348383523) as outer
+  Way Falmore River (347258680) as outer
+  Way 349820379 as outer
+  Way 347258679 as outer
+  Way 362365167 as outer
+  Way 347258678 as outer
+  Way 362365577 as outer
+  Way 348384851 as outer
+  Way 362366398 as outer
+  Way 362367821 as outer
+  Way 348384853 as outer
+  Way 348415399 as outer
+  Way 127532908 as outer
+  Way 348415406 as outer
+  Way 348972055 as outer
+  Way 348959667 as outer
+  Way 348757747 as outer
+  Way 804399802 as outer
+  Way 804399803 as outer
+  Way 348759618 as outer
+  Way 348959668 as outer
+  Way 348760990 as outer
+  Way 127533539 as outer
+  Way 131493941 as outer
+  Way 127532510 as outer
+  Way 98748238 as outer
+  Way 348763317 as outer
+  Way River Fane (379227980) as outer
+  Way River Fane (348762552) as outer
+  Way River Fane (379227979) as outer
+  Way River Fane (346635199) as outer
+  Way River Fane (380593567) as outer
+  Way River Fane (346635207) as outer
+  Way River Fane (346635205) as outer
+  Way River Fane (348744258) as outer
+  Way River Fane (348744259) as outer
+  Way River Fane (380593566) as outer
+  Way River Fane (380592679) as outer
+  Way River Fane (348746159) as outer
+  Way River Fane (380606041) as outer
+  Way River Fane (380592672) as outer
+  Way River Fane (23613481) as outer
+  Way River Fane (380606039) as outer
+  Way 348748523 as outer
+  Way 98748642 as outer
+  Way 348748843 as outer
+  Way 98748637 as outer
+  Way 380472602 as outer
+  Way 348749289 as outer
+  Way 348749886 as outer
+  Way 227916194 as outer
+  Way 348884797 as outer
+  Way 348886152 as outer
+  Way 378944524 as outer
+  Way 378944526 as outer
+  Way 379071464 as outer
+  Way 348888023 as outer
+  Way 379074338 as outer
+  Way 348889648 as outer
+  Way 379074343 as outer
+  Way 379159417 as outer
+  Way 379203829 as outer
+  Way 379203826 as outer
+  Way 379203823 as outer
+  Way 379203808 as outer
+  Way 379203816 as outer
+  Way 379203811 as outer
+  Way 379203813 as outer
+  Way 379200732 as outer
+  Way 348896718 as outer
+  Way 379158601 as outer
+  Way 348987591 as outer
+  Way 348987586 as outer
+  Way 379157157 as outer
+  Way 379155428 as outer
+  Way 379155422 as outer
+  Way 348739829 as outer
+  Way 379160597 as outer
+  Way 348713517 as outer
+  Way 379130051 as outer
+  Way 379130045 as outer
+  Way 348709098 as outer
+  Way 348412025 as outer
+  Way 348709106 as outer
+  Way 348746688 as outer
+  Way 379131231 as outer
+  Way 348748525 as outer
+  Way 844781954 as outer
+  Way 348409300 as outer
+  Way 379147426 as outer
+  Way 379020980 as outer
+  Way 348407644 as outer
+  Way 348405723 as outer
+  Way 379020981 as outer
+  Way 379810921 as outer
+  Way 348405142 as outer
+  Way 229231390 as outer
+  Way Armagh / Monaghan (229231358) as outer
+  Way Armagh / Monaghan (229231359) as outer
+  Way Armagh / Monaghan (379780184) as outer
+  Way 348404490 as outer
+  Way 379766538 as outer
+  Way 348381285 as outer
+  Way 232283343 as outer
+  Way 379766539 as outer
+  Way 379806024 as outer
+  Way 348380739 as outer
+  Way 379806229 as outer
+  Way 379807424 as outer
+  Way 348379439 as outer
+  Way 379805441 as outer
+  Way 379804797 as outer
+  Way 347126672 as outer
+  Way 379804596 as outer
+  Way 347126684 as outer
+  Way 846370420 as outer
+  Way 379463255 as outer
+  Way 359162441 as outer
+  Way 582527554 as outer
+  Way 347104405 as outer
+  Way 98751468 as outer
+  Way Cor (98751462) as outer
+  Way Cor (242825143) as outer
+  Way Cor (674030658) as outer
+  Way Cor (242825155) as outer
+  Way 347104403 as outer
+  Way Cor (347104413) as outer
+  Way Cor (359163130) as outer
+  Way 347104404 as outer
+  Way Cor (347104411) as outer
+  Way Cor (359165052) as outer
+  Way Cor (359363395) as outer
+  Way Cor (347104415) as outer
+  Way Cor (347102691) as outer
+  Way Cor (359363025) as outer
+  Way Cor (347100486) as outer
+  Way Cor (71615038) as outer
+  Way Cor (359363024) as outer
+  Way Cor (347098559) as outer
+  Way Cor (359425481) as outer
+  Way Cor (359425290) as outer
+  Way 359425287 as outer
+  Way 359644830 as outer
+  Way 71615040 as outer
+  Way Blackwater (359643878) as outer
+  Way Blackwater (364248612) as outer
+  Way Blackwater (364248613) as outer
+  Way Blackwater (359642792) as outer
+  Way Blackwater (359622490) as outer
+  Way Blackwater (364249116) as outer
+  Way Blackwater (359622491) as outer
+  Way Blackwater (565534255) as outer
+  Way 565534256 as outer
+  Way Blackwater (364257068) as outer
+  Way Blackwater (359642452) as outer
+  Way Blackwater (575997284) as outer
+  Way Blackwater (359642451) as outer
+  Way Blackwater (364257463) as outer
+  Way Blackwater (359641516) as outer
+  Way Blackwater (359640285) as outer
+  Way Blackwater (364229637) as outer
+  Way Blackwater (359640099) as outer
+  Way Blackwater (359621661) as outer
+  Way Blackwater (364229641) as outer
+  Way Blackwater (359621660) as outer
+  Way Blackwater (359620930) as outer
+  Way Blackwater (367282085) as outer
+  Way Blackwater (359607265) as outer
+  Way Blackwater (302147090) as outer
+  Way Blackwater (302147085) as outer
+  Way Blackwater (302147077) as outer
+  Way Blackwater (367282618) as outer
+  Way Blackwater (302147089) as outer
+  Way Blackwater (302147093) as outer
+  Way Blackwater (367283921) as outer
+  Way Blackwater (302147094) as outer
+  Way Blackwater (302147081) as outer
+  Way Blackwater (302138976) as outer
+  Way Blackwater (302138975) as outer
+  Way Blackwater (367284310) as outer
+  Way Blackwater (362641377) as outer
+  Way Blackwater (302138974) as outer
+  Way Blackwater (362641376) as outer
+  Way Blackwater (29060278) as outer
+  Way 302138964 as outer
+  Way 302138972 as outer
+  Way 365784044 as outer
+  Way 365999810 as outer
+  Way 366054344 as outer
+  Way 365999808 as outer
+  Way 365999814 as outer
+  Way 365999813 as outer
+  Way 365999812 as outer
+  Way 302138955 as outer
+  Way 365784039 as outer
+  Way 366000259 as outer
+  Way 366000258 as outer
+  Way 359739561 as outer
+  Way 359740411 as outer
+  Way 365784040 as outer
+  Way 359740741 as outer
+  Way 718420695 as outer
+  Way 366053490 as outer
+  Way 359742516 as outer
+  Way 490601979 as outer
+  Way 369356901 as outer
+  Way 490601978 as outer
+  Way 359747735 as outer
+  Way 301824086 as outer
+  Way 369356174 as outer
+  Way 369353613 as outer
+  Way 369096710 as outer
+  Way 576820501 as outer
+  Way 576820499 as outer
+  Way 71656804 as outer
+  Way 196500116 as outer
+  Way 301824111 as outer
+  Way 490542615 as outer
+  Way 301824114 as outer
+  Way 361146986 as outer
+  Way 576925337 as outer
+  Way 576925331 as outer
+  Way 576925338 as outer
+  Way 576925333 as outer
+  Way 576925336 as outer
+  Way 576925335 as outer
+  Way 577268822 as outer
+  Way 577268817 as outer
+  Way 261564261 as outer
+  Way 196500103 as outer
+  Way 360938453 as outer
+  Way 156680606 as outer
+  Way 360938455 as outer
+  Way 578684620 as outer
+  Way 361144859 as outer
+  Way 156677959 as outer
+  Way 156619155 as outer
+  Way Finn (156619154) as outer
+  Way Finn (361144946) as outer
+  Way Finn (582986011) as outer
+  Way 582986013 as outer
+  Way Finn (361145092) as outer
+  Way Finn (582945004) as outer
+  Way 582945001 as outer
+  Way Finn (361050985) as outer
+  Way Finn (177925778) as outer
+  Way 582945014 as outer
+  Way Finn (582945008) as outer
+  Way 306720683 as outer
+  Way 156618693 as outer
+  Way 177925777 as outer
+  Way Finn (177925576) as outer
+  Way 177925577 as outer
+  Way Finn (156549891) as outer
+  Way 361008464 as outer
+  Way 236885340 as outer
+  Way 361008461 as outer
+  Way 156549870 as outer
+  Way 156549849 as outer
+  Way 156386440 as outer
+  Way 404158718 as outer
+  Way 156384711 as outer
+  Way 404158722 as outer
+  Way 404158729 as outer
+  Way 361147235 as outer
+  Way 361166062 as outer
+  Way 404102966 as outer
+  Way 404102965 as outer
+  Way 156384702 as outer
+  Way 404102971 as outer
+  Way 338145332 as outer
+  Way 156384691 as outer
+  Way 338213812 as outer
+  Way 156384687 as outer
+  Way 338207736 as outer
+  Way 289089334 as outer
+  Way 156384666 as outer
+  Way 338207526 as outer
+  Way 177923681 as outer
+  Way 587888656 as outer
+  Way Finn (177922871) as outer
+  Way 156382414 as outer
+  Way 837164886 as outer
+  Way 156379461 as outer
+  Way 602726959 as outer
+  Way 602726961 as outer
+  Way 179132917 as outer
+  Way 338203465 as outer
+  Way 179132916 as outer
+  Way 301820884 as outer
+  Way 156379457 as outer
+  Way 179129315 as outer
+  Way 179129314 as outer
+  Way 156370595 as outer
+  Way Killylacky River (156367170) as outer
+  Way Killylacky River (301820881) as outer
+  Way Killylacky River (156366332) as outer
+  Way Killylacky River (155857458) as outer
+  Way Killylacky River (301820879) as outer
+  Way Killylacky River (301820880) as outer
+  Way Killylacky River (155859049) as outer
+  Way Killylacky River (623513136) as outer
+  Way Killylacky River (623513133) as outer
+  Way Killylacky River (155852201) as outer
+  Way 155852168 as outer
+  Way 301820877 as outer
+  Way 301820878 as outer
+  Way 301820869 as outer
+  Way 338202916 as outer
+  Way 626263101 as outer
+  Way 626267490 as outer
+  Way 626263100 as outer
+  Way 338200354 as outer
+  Way 155852176 as outer
+  Way 155852181 as outer
+  Way Killylacky River (157391188) as outer
+  Way Killylacky River (338200356) as outer
+  Way Killylacky River (157323909) as outer
+  Way Killylacky River (338218871) as outer
+  Way Killylacky River (157323874) as outer
+  Way 338218869 as outer
+  Way 157322046 as outer
+  Way Killylacky River (157322072) as outer
+  Way Killylacky River (338219060) as outer
+  Way Killylacky River (338220124) as outer
+  Way Killylacky River (845841989) as outer
+  Way Killylacky River (845841994) as outer
+  Way Killylacky River (338148122) as outer
+  Way Killylacky River (338147219) as outer
+  Way 157405674 as outer
+  Way 338146670 as outer
+  Way 338146494 as outer
+  Way 177919822 as outer
+  Way Finn (177919821) as outer
+  Way Finn (178705475) as outer
+  Way Finn (178702274) as outer
+  Way Finn (379090134) as outer
+  Way Finn (373841653) as outer
+  Way 373841647 as outer
+  Way 373841648 as outer
+  Way 178700808 as outer
+  Way 178697922 as outer
+  Way 373839323 as outer
+  Way 373838326 as outer
+  Way 178697926 as outer
+  Way 178697927 as outer
+  Way 178571505 as outer
+  Way Finn (178571501) as outer
+  Way 301819706 as outer
+  Way 301819724 as outer
+  Way 178696751 as outer
+  Way Finn (178696752) as outer
+  Way 157409743 as outer
+  Way 301819738 as outer
+  Way 301819745 as outer
+  Way 301819750 as outer
+  Way 157406683 as outer
+  Way 157406689 as outer
+  Way 301819733 as outer
+  Way 157405936 as outer
+  Way 301819744 as outer
+  Way 157325446 as outer
+  Way 301819735 as outer
+  Way 157325433 as outer
+  Way 157401180 as outer
+  Way 157402156 as outer
+  Way 301819759 as outer
+  Way 157415146 as outer
+  Way 157257272 as outer
+  Way 301819760 as outer
+  Way 263987824 as outer
+  Way 157586514 as outer
+  Way 178230164 as outer
+  Way 178231164 as outer
+  Way 263987825 as outer
+  Way 178235073 as outer
+  Way 301819746 as outer
+  Way 178693459 as outer
+  Way 301819731 as outer
+  Way 178693458 as outer
+  Way 178693456 as outer
+  Way 301819708 as outer
+  Way 178694876 as outer
+  Way 178694879 as outer
+  Way 178571502 as outer
+  Way Finn (178571494) as outer
+  Way Finn (373838328) as outer
+  Way Finn (373837666) as outer
+  Way Finn (178695199) as outer
+  Way Finn (373836667) as outer
+  Way Finn (380011538) as outer
+  Way Finn (177918438) as outer
+  Way Finn (178694877) as outer
+  Way 221994117 as outer
+  Way 221994118 as outer
+  Way 178691730 as outer
+  Way 178692209 as outer
+  Way 178691726 as outer
+  Way 178691747 as outer
+  Way 380011537 as outer
+  Way 222042253 as outer
+  Way 407977863 as outer
+  Way 380011065 as outer
+  Way 495053606 as outer
+  Way 222042254 as outer
+  Way 222042251 as outer
+  Way 178692211 as outer
+  Way 570570601 as outer
+  Way 495053607 as outer
+  Way 178691778 as outer
+  Way 178212107 as outer
+  Way Finn (178212103) as outer
+  Way 570570615 as outer
+  Way 178212707 as outer
+  Way 178218108 as outer
+  Way 380010531 as outer
+  Way 178218105 as outer
+  Way 570570588 as outer
+  Way 495053609 as outer
+  Way 380010390 as outer
+  Way 380010277 as outer
+  Way 380007477 as outer
+  Way 380007079 as outer
+  Way 178218112 as outer
+  Way 178218116 as outer
+  Way 300802082 as outer
+  Way 221398081 as outer
+  Way 380006913 as outer
+  Way 221398079 as outer
+  Way 221398073 as outer
+  Way 221398082 as outer
+  Way 221398083 as outer
+  Way 157601021 as outer
+  Way 300802077 as outer
+  Way 112482857 as outer
+  Way Woodford River (220644380) as outer
+  Way Woodford River (220629709) as outer
+  Way Woodford River (307028552) as outer
+  Way Woodford River (494860301) as outer
+  Way 494860303 as outer
+  Way Woodford River (494860302) as outer
+  Way Woodford River (220627237) as outer
+  Way Woodford River (307028551) as outer
+  Way Woodford River (307028553) as outer
+  Way Woodford River (123044435) as outer
+  Way Woodford River (220627219) as outer
+  Way Woodford River (380060596) as outer
+  Way Woodford River (380060598) as outer
+  Way Woodford River (220632071) as outer
+  Way Woodford River (359594015) as outer
+  Way Woodford River (220632422) as outer
+  Way Woodford River (220632432) as outer
+  Way Woodford River (705455258) as outer
+  Way Woodford River (359594016) as outer
+  Way Woodford River (6957915) as outer
+  Way Woodford River (6957918) as outer
+  Way 221133404 as outer
+  Way 220632429 as outer
+  Way Shannon-Erne Waterway (220632428) as outer
+  Way Shannon-Erne Waterway (220679100) as outer
+  Way Shannon-Erne Waterway (220680407) as outer
+  Way Shannon-Erne Waterway (112482858) as outer
+  Way 381802810 as outer
+  Way 112482856 as outer
+  Way 380058540 as outer
+  Way Shannon-Erne Waterway (112482861) as outer
+  Way Woodford River (220680415) as outer
+  Way Woodford River (380058860) as outer
+  Way 112482859 as outer
+  Way Shannon-Erne Waterway (112482860) as outer
+  Way 220730453 as outer
+  Way 380052800 as outer
+  Way 220731130 as outer
+  Way 220733068 as outer
+  Way 380052401 as outer
+  Way 220733072 as outer
+  Way 380052028 as outer
+  Way 220733397 as outer
+  Way 372739107 as outer
+  Way 220741687 as outer
+  Way 220747172 as outer
+  Way 220742357 as outer
+  Way 1102540636 as outer
+  Way 1102540635 as outer
+  Way 372738130 as outer
+  Way 1102336784 as outer
+  Way 1102336783 as outer
+  Way 1102336787 as outer
+  Way 220951043 as outer
+  Way 221242067 as outer
+  Way 372768185 as outer
+  Way 1102540651 as outer
+  Way 372771842 as outer
+  Way 574651808 as outer
+  Way 1102540641 as outer
+  Way 221242073 as outer
+  Way 372776594 as outer
+  Way 372887052 as outer
+  Way 423708952 as outer
+  Way Cladagh River (372887056) as outer
+  Way 372912425 as outer
+  Way 1101740751 as outer
+  Way 1101740757 as outer
+  Way 372915682 as outer
+  Way 221231818 as outer
+  Way 221231823 as outer
+  Way 373138629 as outer
+  Way 220812917 as outer
+  Way 480455061 as outer
+  Way 1103107461 as outer
+  Way 1103107460 as outer
+  Way 480455062 as outer
+  Way 272691117 as outer
+  Way 272691050 as outer
+  Way Owenbrean River (272691026) as outer
+  Way 220812905 as outer
+  Way 272691073 as outer
+  Way 272691072 as outer
+  Way 372533357 as outer
+  Way 272691110 as outer
+  Way 289457595 as outer
+  Way 289457596 as outer
+  Way 272691109 as outer
+  Way 272691094 as outer
+  Way 372533247 as outer
+  Way 371435722 as outer
+  Way 272691122 as outer
+  Way 368836528 as outer
+  Way 380502491 as outer
+  Way 368791314 as outer
+  Way 272691113 as outer
+  Way 272691102 as outer
+  Way 309453510 as outer
+  Way 309451423 as outer
+  Way 272691097 as outer
+  Way 272691130 as outer
+  Way 370195775 as outer
+  Way 272613403 as outer
+  Way 300805339 as outer
+  Way 370196103 as outer
+  Way 370196105 as outer
+  Way 370220009 as outer
+  Way Belcoo River (289467308) as outer
+  Way Belcoo River (23364905) as outer
+  Way 374192973 as outer
+  Way 112481346 as outer
+  Way 216545967 as outer
+  Way 378291635 as outer
+  Way Black River (266051910) as outer
+  Way 216545964 as outer
+  Way 266051911 as outer
+  Way 375286342 as outer
+  Way 265921428 as outer
+  Way 266051921 as outer
+  Way 266051919 as outer
+  Way 265921424 as outer
+  Way 265960173 as outer
+  Way 375281672 as outer
+  Way 968590265 as outer
+  Way 968590266 as outer
+  Way 265960139 as outer
+  Way 265921413 as outer
+  Way 216543831 as outer
+  Way 216543825 as outer
+  Way 375222000 as outer
+  Way 177044481 as outer
+  Way 375079635 as outer
+  Way 265960134 as outer
+  Way 216543818 as outer
+  Way 375079636 as outer
+  Way 375055985 as outer
+  Way 265960133 as outer
+  Way 375055986 as outer
+  Way 375055984 as outer
+  Way 378291649 as outer
+  Way 265955856 as outer
+  Way 808718337 as outer
+  Way 265955876 as outer
+  Way 265955870 as outer
+  Way 808718338 as outer
+  Way 808920977 as outer
+  Way 266253206 as outer
+  Way 42157100 as outer
+  Way 808920972 as outer
+  Way 808718332 as outer
+  Way 808718333 as outer
+  Way Braddagh River (808718335) as outer
+  Way Braddagh River (808920987) as outer
+  Way Braddagh River (808920986) as outer
+  Way Braddagh River (395542216) as outer
+  Way 306374624 as outer
+  Way 306382339 as outer
+  Way 265955866 as outer
+  Way 306382348 as outer
+  Way 306382345 as outer
+  Way 792516103 as outer
+  Way 792516104 as outer
+  Way 265955855 as outer
+  Way 306382354 as outer
+  Way 306382355 as outer
+  Way 265955900 as outer
+  Way 792516099 as outer
+  Way 265955914 as outer
+  Way 792516098 as outer
+  Way 792516095 as outer
+  Way 792516094 as outer
+  Way 306382350 as outer
+  Way 792516101 as outer
+  Way 112481361 as outer
+  Way Erne (112481343) as outer
+  Way Erne (260996221) as outer
+  Way 123460207 as outer
+  Way 260996237 as outer
+  Way 310061869 as outer
+  Way 260996234 as outer
+  Way 123044434 as outer
+  Way 260781623 as outer
+  Way 310061914 as outer
+  Way 261000355 as outer
+  Way 261000353 as outer
+  Way 310061909 as outer
+  Way 260781618 as outer
+  Way 260976350 as outer
+  Way 260781622 as outer
+  Way 260781617 as outer
+  Way 260781624 as outer
+  Way 310118885 as outer
+  Way 260979377 as outer
+  Way 260976345 as outer
+  Way 306407752 as outer
+  Way 306407756 as outer
+  Way 260770997 as outer
+  Way 260770995 as outer
+  Way 260661952 as outer
+  Way 260658080 as outer
+  Way 260656762 as outer
+  Way 260661945 as outer
+  Way 260658076 as outer
+  Way 260661947 as outer
+  Way 260656760 as outer
+  Way 305530028 as outer
+  Way 305530025 as outer
+  Way 260661946 as outer
+  Way 305530018 as outer
+  Way 300713287 as outer
+  Way 235896011 as outer
+  Way Termon (305529991) as outer
+  Way Termon (260122662) as outer
+  Way Termon (305529999) as outer
+  Way Termon (260125653) as outer
+  Way Termon (305529987) as outer
+  Way Termon (305529989) as outer
+  Way Termon (260211493) as outer
+  Way Termon (305529997) as outer
+  Way Termon (260125654) as outer
+  Way Termon (305529993) as outer
+  Way 260211494 as outer
+  Way 377034853 as outer
+  Way 306298143 as outer
+  Way 260211496 as outer
+  Way 306298145 as outer
+  Way 235899272 as outer
+  Way 235899270 as outer
+  Way 260211530 as outer
+  Way 260211526 as outer
+  Way 260211522 as outer
+  Way 260307276 as outer
+  Way 260307275 as outer
+  Way 260307282 as outer
+  Way 260307278 as outer
+  Way 235899276 as outer
+  Way 260307273 as outer
+  Way 305788299 as outer
+  Way 305788303 as outer
+  Way 260309532 as outer
+  Way 260500756 as outer
+  Way 260500757 as outer
+  Way 235899273 as outer
+  Way 260462135 as outer
+  Way 71656807 as outer
+  Way 235899274 as outer
+  Way 388165867 as outer
+  Way 388165863 as outer
+  Way 1020520764 as outer
+  Way 235899269 as outer
+  Way 305788243 as outer
+  Way 388165868 as outer
+  Way 328813553 as outer
+  Way 311348101 as outer
+  Way 305788288 as outer
+  Way 305788296 as outer
+  Way 305788244 as outer
+  Way 311347998 as outer
+  Way 305788252 as outer
+  Way 305788251 as outer
+  Way 311348112 as outer
+  Way 305788293 as outer
+  Way 311348014 as outer
+  Way 305788253 as outer
+  Way 306287200 as outer
+  Way 311348127 as outer
+  Way 311348116 as outer
+  Way 112499335 as outer
+  Way 310498625 as outer
+  Way River Derg (310498610) as outer
+  Way River Derg (112499336) as outer
+  Way 388165866 as outer
+  Way 310498632 as outer
+  Way 310449038 as outer
+  Way 377323694 as outer
+  Way 377316145 as outer
+  Way 377316147 as outer
+  Way 306289306 as outer
+  Way 377314622 as outer
+  Way 311303699 as outer
+  Way 311303709 as outer
+  Way 377314616 as outer
+  Way 375977892 as outer
+  Way 310446517 as outer
+  Way 311301726 as outer
+  Way 310878293 as outer
+  Way Sruhangarve (260353629) as outer
+  Way 260353626 as outer
+  Way 311307831 as outer
+  Way Mourne Beg River (260353624) as outer
+  Way Mourne Beg River (376728109) as outer
+  Way 311313853 as outer
+  Way 311313880 as outer
+  Way 311305529 as outer
+  Way 311305526 as outer
+  Way 376246088 as outer
+  Way 387636042 as outer
+  Way 387636040 as outer
+  Way 311313883 as outer
+  Way 311313884 as outer
+  Way 376246084 as outer
+  Way 467596554 as outer
+  Way 387636041 as outer
+  Way 311313879 as outer
+  Way Meenloskybane River (260353627) as outer
+  Way Meenloskybane River (328766762) as outer
+  Way Meenloskybane River (376344298) as outer
+  Way 328766753 as outer
+  Way 328766757 as outer
+  Way 376346366 as outer
+  Way 328766750 as outer
+  Way 328766766 as outer
+  Way 376306282 as outer
+  Way 328766747 as outer
+  Way 376652788 as outer
+  Way 376653763 as outer
+  Way 329043294 as outer
+  Way 329043268 as outer
+  Way 329043292 as outer
+  Way 376653761 as outer
+  Way Border NI/ROI (376584271) as outer
+  Way 147221479 as outer
+  Way 147221473 as outer
+  Way 329043259 as outer
+  Way 328884488 as outer
+  Way 328884492 as outer
+  Way 376591945 as outer
+  Way 376591648 as outer
+  Way 363800413 as outer
+  Way 363800402 as outer
+  Way 328884487 as outer
+  Way 363801897 as outer
+  Way 363801903 as outer
+  Way 376589590 as outer
+  Way 376588480 as outer
+  Way 368990783 as outer
+  Way 376586351 as outer
+  Way 368990145 as outer
+  Way 368990018 as outer
+  Way 112500716 as outer
+  Way Finn (24251764) as outer
+  Way Finn (368989670) as outer
+  Way Finn (368988983) as outer
+  Way Finn (376648252) as outer
+  Way Finn (368803063) as outer
+  Way Finn (376648637) as outer
+  Way Finn (368807449) as outer
+  Way Finn (368544592) as outer
+  Way Finn (864624668) as outer
+  Way Finn (368806239) as outer
+  Way Finn (467661057) as outer
+  Way Finn (864624669) as outer
+  Way Finn (864624670) as outer
+  Way Finn (864624671) as outer
+  Way Finn (368544593) as outer
+  Way Finn (864624672) as outer
+  Way Finn (865359065) as outer
+  Way Foyle (113413079) as outer
+  Way Foyle (475690162) as outer
+  Way Foyle (364257486) as outer
+  Way Foyle (467615684) as outer
+  Way Foyle (475693789) as outer
+  Way Foyle (113413076) as outer
+  Way Foyle (68144151) as outer
+  Way Foyle (475671730) as outer
+  Way Foyle (69078053) as outer
+  Way Foyle (475860590) as outer
+  Way Foyle (475546241) as outer
+  Way 344162484 as outer
+  Way 373820826 as outer
+  Way 68143905 as outer
+  Way 68143908 as outer
+  Way 68144208 as outer
+  Way 373981955 as outer
+  Way 123810026 as outer
+  Way 201208375 as outer
+  Way 344162485 as outer
+  Way 374249859 as outer
+  Way 201208374 as outer
+  Way 201208707 as outer
+  Way 201208706 as outer
+  Way 201208704 as outer
+  Way 201208705 as outer
+  Way 374254571 as outer
+  Way 374307840 as outer
+  Way 344370559 as outer
+  Way 344375418 as outer
+  Way 437619570 as outer
+  Way 437619571 as outer
+  Way 344375423 as outer
+  Way 346063220 as outer
+  Way 344515114 as outer
+  Way 344703041 as outer
+  Way 370711655 as outer
+  Way 123809841 as outer
+  Way 344512221 as outer
+  Way 344097388 as outer
+  Way 676827930 as outer
+  Way 676827931 as outer
+  Way 201212158 as outer
+  Way 127582887 as outer
+  Way 370711656 as outer
+  Way 72865985 as outer
+  Way 131493799 as outer
+  Way 144778656 as outer
+  Way 160695678 as outer
+  Way 160695675 as outer
+  Way 28421930 as outer
+  Way 28421701 as outer
+  Way 28421682 as outer
+  Way 160844043 as outer
+  Way 1061190745 as outer
+  Way 28421645 as outer
+  Way 160784068 as outer
+  Way 132078258 as outer
+  Way France - United Kingdom (629101031) as outer
+  Way France - United Kingdom (766541501) as outer
+  Way France - United Kingdom (775446493) as outer
+  Way France - United Kingdom (766126507) as outer
+  Way France - United Kingdom (766126548) as outer
+  Way France - United Kingdom (766126508) as outer
+  Way France - United Kingdom (766126509) as outer
+  Way 28421874 as outer
+  Way 28421868 as outer
+  Way 160696656 as outer
+  Way 160696655 as outer
+  Way 1091096361 as outer
+  Way 28421837 as outer
+  Way 160784074 as outer
+  Way 160844040 as outer
+  Way 160844042 as outer
+  Way 28421793 as outer
+  Way 28421934 as outer
+  Way 28421899 as outer
+  Way 28421901 as outer
+  Way 144804249 as outer
+  Relation England (58447) as subarea
+  Relation Alba / Scotland (58446) as subarea
+  Relation Northern Ireland / Tuaisceart Éireann (156393) as subarea
+  Relation Cymru / Wales (58437) as subarea
+Download XML
+    ·
+  View History
+Welcome to OpenStreetMap!
+OpenStreetMap is a map of the world, created by people like you and free to use under an open license.
+Hosting is supported by UCL, Fastly, Bytemark Hosting, and other partners.
+          
+Learn More
+Start Mapping
+You are either using a browser that does not support JavaScript, or you have disabled JavaScript.
+OpenStreetMap uses JavaScript for its slippy map.
+https://openstreetmap.org/copyright
+https://openstreetmap.org
+Copyright OpenStreetMap and contributors, under an open license

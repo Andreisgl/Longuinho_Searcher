@@ -1,0 +1,82 @@
+ [MediaWiki-announce] MediaWiki security release 1.16.3
+   
+[MediaWiki-announce] MediaWiki security release 1.16.3
+Tim Starling
+tstarling at wikimedia.org
+       
+Tue Apr 12 03:23:28 UTC 2011
+Next message: [MediaWiki-announce] MediaWiki security release 1.16.4
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+I would like to announce the release of MediaWiki 1.16.3, which is a
+security release. Three security issues were discovered.
+Masato Kinugawa discovered a cross-site scripting (XSS) issue, which
+affects Internet Explorer clients only, and only version 6 and
+earlier. Web server configuration changes are required to fix this
+issue. Upgrading MediaWiki will only be sufficient for people who use
+Apache with AllowOverride enabled.
+Due to the diversity of uploaded files that we allow, MediaWiki does
+not guarantee that uploaded files will be safe if they are interpreted
+by the client as some arbitrary file type, such as HTML. We rely on
+the web server to send the correct Content-Type header, and we rely on
+the web browser to respect it. This XSS issue arises due to IE 6
+looking for a file extension in the query string of the URL (i.e.
+after the "?"), if no extension is found in path part of the URL.
+Masato Kinugawa discovered that the file extension in the path part
+can be hidden from IE 6 by substituting the "." with "%2E".
+To fix this issue, configure your web server to deny requests with
+URLs that have a path part ending in a dot followed by a dangerous
+file extension. For example, in Apache with mod_rewrite:
+    RewriteEngine On
+    RewriteCond %{QUERY_STRING} \.[a-z]{1,4}$ [nocase]
+    RewriteRule . - [forbidden]
+Upgrading MediaWiki is necessary to fix this issue in
+dynamically-generated content. This issue is easier to exploit using
+dynamically generated content, since it requires no special
+privileges. Accounts on both public and private wikis can be
+compromised by clicking a malicious link in an email or website. For
+more details, see bug 28235.
+Wikipedia user Suffusion of Yellow discovered a CSS validation error
+in the wikitext parser. This is an XSS issue for Internet Explorer
+clients, and a privacy loss issue for other clients since it allows
+the embedding of arbitrary remote images. For more details, see bug 28450.
+MediaWiki developer Happy-Melon discovered that the transwiki import
+feature neglected to perform access control checks on form submission.
+The transwiki import feature is disabled by default. If it is enabled,
+it allows wiki pages to be copied from a remote wiki listed in
+$wgImportSources. The issue means that any user can trigger such an
+import to occur. For more details, see bug 28449.
+The localisations were updated using content from translatewiki.net.
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.3.tar.gz
+Patch to previous version (1.16.2), without interface text:
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.3.patch.gz
+Interface text changes:
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-i18n-1.16.3.patch.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.3.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.3.patch.gz.sig
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-i18n-1.16.3.patch.gz.sig
+Public keys:
+https://secure.wikimedia.org/keys.html
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.10 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org/
+iEUEARECAAYFAk2jxbAACgkQgkA+Wfn4zXn38gCWISDEZuC+Ap3Z4aBfibnuNSU1
+EgCfeL2lo/4XtCuoKOwah0YbuaHyf5I=
+=S2JZ
+-----END PGP SIGNATURE-----
+Next message: [MediaWiki-announce] MediaWiki security release 1.16.4
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+More information about the MediaWiki-announce
+mailing list

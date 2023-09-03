@@ -1,0 +1,116 @@
+FLOSS and FOSS - GNU Project - Free Software Foundation
+Skip to main text
+Free Software Supporter:
+  
+JOIN THE FSF
+GNU Operating System
+Supported by the
+ Free Software Foundation
+Site navigation
+Skip
+ABOUT GNU
+=
+PHILOSOPHY
+=
+LICENSES
+EDUCATION
+SOFTWARE
+DISTROS
+DOCS
+MALWARE
+HELP GNU
+AUDIO & VIDEO
+GNU ART
+FUN
+GNU'S WHO?
+SOFTWARE DIRECTORY
+HARDWARE
+SITEMAP
+ /
+Philosophy /
+Essays & articles /
+About free software /
+Free software & open source /
+FLOSS and FOSS
+by Richard Stallman
+The two political camps in the free software community are the free
+software movement and open source.  The free software movement is a
+campaign
+for 
+computer users' freedom; we say that a nonfree program is an
+injustice to its users.  The open source camp declines to see the
+issue as a matter of justice to the users, and bases its arguments on
+ practical
+benefits only.
+To emphasize that “free software” refers to freedom and
+not to price, we sometimes write or say “free (libre)
+software,” adding the French or Spanish word that means free in
+the sense of freedom.  In some contexts, it works to use just
+“libre software.”
+A researcher studying practices and methods used by developers in
+the free software community decided that these questions were
+independent of the developers' political views, so he used the term
+“FLOSS,” meaning “Free/Libre and Open Source
+Software,” to explicitly avoid a preference between the two
+political camps.  If you wish to be neutral, this is a good way to do
+it, since this makes the names of the two camps equally prominent.
+Others use the term “FOSS,” which stands for
+“Free and Open Source Software.” This is meant to mean the
+same thing as “FLOSS,” but it is less clear, since it
+fails to explain that “free” refers to freedom.
+It also makes “free software” less visible than
+“open source,” since it presents “open source”
+prominently but splits “free software” apart.
+“Free and Open Source Software” is misleading in
+another way: it suggests that “free and open source” names
+a single point of view, rather than mentioning two different ones.
+This conceptualization of the field is an obstacle to understanding
+the fact that free software and open source are different political
+positions that disagree fundamentally.
+Thus, if you want to be neutral between free software and open
+source, and clear about them, the way to achieve that is to say
+“FLOSS,” not “FOSS.”
+We in the free software movement don't use either of these terms,
+because we don't want to be neutral on the political question.  We
+stand for freedom, and we show it every time—by saying
+“free” and “libre”—or “free
+(libre).”
+▲
+BACK TO TOP
+   Set language
+   
+Available for this page:
+[en] English  
+[de] Deutsch  
+[es] español  
+[fr] français  
+[it] italiano  
+[ml] മലയാളം  
+[nl] Nederlands  
+[pl] polski  
+[pt-br] português  
+[ru] русский  
+[tr] Türkçe  
+[uk] українська  
+[zh-cn] 简体中文  
+BACK TO TOP ▲
+“The Free Software Foundation (FSF) is a nonprofit with a worldwide
+mission to promote computer user freedom. We defend the rights of all
+software users.”
+JOIN
+DONATE
+SHOP
+Please send general FSF & GNU inquiries to
+<gnu@gnu.org>.
+There are also other ways to contact
+the FSF.  Broken links and other corrections or suggestions can be sent
+to <webmasters@gnu.org>.
+Please see the Translations
+README for information on coordinating and contributing translations
+of this article.
+Copyright © 2013, 2015, 2016, 2021 Richard Stallman
+This page is licensed under a Creative
+Commons Attribution-NoDerivatives 4.0 International License.
+Copyright Infringement Notification
+Updated:
+$Date: 2021/09/11 09:37:22 $

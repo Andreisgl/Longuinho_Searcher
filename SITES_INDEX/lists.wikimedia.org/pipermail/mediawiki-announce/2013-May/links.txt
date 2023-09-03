@@ -1,0 +1,11 @@
+http://download.wikimedia.org/mediawiki/1.20/mediawiki-1.20.6.tar.gz
+http://download.wikimedia.org/mediawiki/1.20/mediawiki-1.20.6.patch.gz
+http://download.wikimedia.org/mediawiki/1.20/mediawiki-1.20.6.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.20/mediawiki-1.20.6.patch.gz.sig
+https://secure.wikimedia.org/keys.html
+http://download.wikimedia.org/mediawiki/1.19/mediawiki-1.19.7.tar.gz
+http://download.wikimedia.org/mediawiki/1.19/mediawiki-1.19.7.patch.gz
+http://download.wikimedia.org/mediawiki/1.19/mediawiki-1.19.7.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.19/mediawiki-1.19.7.patch.gz.sig
+https://secure.wikimedia.org/keys.html
+http://hyperkitty.readthedocs.org

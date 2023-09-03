@@ -1,0 +1,11 @@
+https://auth2.glosbe.com/login?returnUrl=https%3A%2F%2Fglosbe.com%2Fcs%2Fie
+https://app.glosbe.com/add-translation?l1=cs&l2=ie&phrase=
+https://app.glosbe.com/recent?l1=cs&l2=ie&user=
+https://app.glosbe.com/stats?l1=cs&l2=ie
+https://app.glosbe.com/dictionary-builder
+https://app.glosbe.com/recorder
+https://app.glosbe.com/add-multiple
+https://app.glosbe.com/add-examples
+https://app.glosbe.com/transliteration
+https://www.facebook.com/Glosbe/
+https://twitter.com/glosbe

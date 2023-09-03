@@ -1,0 +1,478 @@
+    Kommentar: Linux scheitert an Ego­zen­t­rik | heise online
+heise online Logo
+        Gratis testen
+      
+        Jetzt 1 Monat gratis testen
+      
+Anmelden
+Menü
+c't Magazin Logo
+            c't – Magazin für Computertechnik
+          
+iX Magazin Logo
+            iX – Magazin für professionelle Informationstechnik
+          
+MIT Technology Review Logo
+            MIT Technology Review – Das Magazin für Innovation von Heise
+          
+c't Fotografie Logo
+            c't Fotografie - Das Magazin rund ums digitale Bild
+          
+Mac an i Logo
+            Mac & i – Nachrichten, Tests, Tipps und Meinungen rund um Apple
+          
+Make Logo
+            Make – Kreativ mit Technik
+          
+            Alle Magazine im Browser lesen
+          
+      IT News
+    
+              Newsticker
+            
+              heise Developer
+            
+              heise Netze
+            
+              heise Open Source
+            
+              heise Security
+            
+      Online-Magazine
+    
+              heise+
+              Telepolis
+            
+              heise Autos
+            
+              TechStage
+            
+              tipps+tricks
+            
+      Services
+    
+              Stellenmarkt heise Jobs
+            
+              heise Academy
+            
+              heise Download
+            
+              Preisvergleich
+            
+              Whitepaper/Webcasts
+            
+              Tarifrechner
+            
+              Netzwerk-Tools
+            
+              Spielen bei Heise
+            
+              Loseblattwerke
+            
+              iMonitor
+            
+      Heise Medien
+    
+              heise Shop
+            
+              Abo bestellen
+            
+              Mein Abo
+            
+              Veranstaltungen
+            
+              Arbeiten bei Heise
+            
+              Mediadaten
+            
+              Presse
+            
+  Anzeige
+        Nachhaltig in die Zukunft
+      
+        Die Zukunft der Arbeit
+      
+        Newsletter
+      
+heise-Bot
+        heise-Bot
+      
+Push Nachrichten
+        Push
+      
+        Push-Nachrichten
+      
+heise online Logo
+        Gratis testen
+      
+        Jetzt 1 Monat gratis testen
+      
+c't Magazin Logo
+            c't – Magazin für Computertechnik
+          
+iX Magazin Logo
+            iX – Magazin für professionelle Informationstechnik
+          
+MIT Technology Review Logo
+            MIT Technology Review – Das Magazin für Innovation von Heise
+          
+c't Fotografie Logo
+            c't Fotografie - Das Magazin rund ums digitale Bild
+          
+Mac an i Logo
+            Mac & i – Nachrichten, Tests, Tipps und Meinungen rund um Apple
+          
+Make Logo
+            Make – Kreativ mit Technik
+          
+            Alle Magazine im Browser lesen
+          
+IT
+Wissen
+Mobiles
+Security
+Developer
+Entertainment
+Netzpolitik
+Wirtschaft
+Journal
+        Newsticker
+      
+        Foren
+      
+        Topthemen:
+      
+        IFA 📺
+      
+        Künstliche Intelligenz 🤖
+      
+        Energie 🔥
+      
+        e-Health ⚕️
+      
+        Windows 🪟
+      
+        Linux & Open Source 🐧
+      
+        Podcasts 🎙
+      
+  Anzeige:
+        Nachhaltig in die Zukunft
+      
+        Die Zukunft der Arbeit
+      
+        Newsletter
+      
+heise-Bot
+        heise-Bot
+      
+Push Nachrichten
+        Push
+      
+        Push-Nachrichten
+      
+      IT News
+    
+              Newsticker
+            
+              heise Developer
+            
+              heise Netze
+            
+              heise Open Source
+            
+              heise Security
+            
+      Online-Magazine
+    
+              heise+
+              Telepolis
+            
+              heise Autos
+            
+              TechStage
+            
+              tipps+tricks
+            
+      Services
+    
+              Stellenmarkt heise Jobs
+            
+              heise Academy
+            
+              heise Download
+            
+              Preisvergleich
+            
+              Whitepaper/Webcasts
+            
+              Tarifrechner
+            
+              Netzwerk-Tools
+            
+              Spielen bei Heise
+            
+              Loseblattwerke
+            
+              iMonitor
+            
+      Heise Medien
+    
+              heise Shop
+            
+              Abo bestellen
+            
+              Mein Abo
+            
+              Veranstaltungen
+            
+              Arbeiten bei Heise
+            
+              Mediadaten
+            
+              Presse
+            
+              heise online
+            
+              IT
+            
+              Kommentar: Linux scheitert an Ego­zen­t­rik
+            
+Anzeige
+Kommentar: Linux scheitert an Ego­zen­t­rik
+  
+        Warum schafft es das Open-Source-System eigentlich nicht, mehr Desktop-PCs zu erobern? Das Potenzial ist vorhanden, meint Thorsten Leemhuis – wenn nicht alle nur ihr eigenes Ding machen würden.
+      
+        Lesezeit:
+      
+        5 Min.
+      
+In Pocket speichern
+      
+vorlesen
+        Druckansicht
+      
+Kommentare lesen
+3140
+Beiträge
+ 
+      (Bild: Rafiq Sarlie/CC BY-ND 2.0)
+    
+      07.07.2017
+    
+    08:00
+  
+    Uhr
+  
+Von
+Thorsten Leemhuis
+Anzeige
+    Inhaltsverzeichnis
+    
+              Kommentar: Linux scheitert an Ego­zen­t­rik
+            
+                    Notebook-Hersteller auf Ego-Trip
+                  
+                    Linux und 4K
+                  
+                    Chance für andere
+                  
+Ich bin mir sicher: Ein vornehmlich aus Open-Source-Software bestehendes Betriebssystem wird irgendwann auch Desktop-PCs erobern und Windows verdrängen. Linux-Distributionen wie Fedora, OpenSuse oder Ubuntu werden das aber nicht schaffen, wenn sich die beteiligten Entwickler nicht endlich zusammenreißen. Statt zu kooperieren machen Freizeit-Programmierer, Linux-Distributoren und auf Linux setzende Hardware-Hersteller nämlich viel zu oft ihr eigenes Ding. Kein Wunder, denn so heben sie sich ab und stehen im Rampenlicht. Viel wichtige, aber nicht so publikumswirksame Basisarbeit bleibt da auf der Strecke. Genau deswegen geht es mit Linux auf Desktop-PCs so träge vorwärts, wie zwei aktuelle Beispiele zeigen.
+Anzeige
+    Ein Kommentar von Thorsten Leemhuis
+    
+          Thorsten Leemhuis beschäftigt sich privat wie beruflich gerne mit Linux. Speziell der Kernel und die Hardware-Unterstützung haben es ihm angetan. Ein "Frickler" ist er aber nicht: Er schätzt es, wenn Dinge funktionieren, ohne dass man sich einen Kopf um sie machen muss.
+        
+Notebook-Hersteller auf Ego-Trip
+Vollkommen unabhängig voneinander haben Tuxedo und System 76 kürzlich angekündigt, ihre Linux-Notebooks in Zukunft mit eigenen Distributionen zu bestücken. Damit wollen sie sich von der Konkurrenz absetzen, Kunden binden und ein besseres Produkt schaffen. An sich keine schlechte Sache. Nur haben beide Hersteller bereits in den vergangenen Jahren bewiesen: Sie optimieren ihre Produkte weitgehend im stillen Kämmerlein, statt die vielen Probleme von Linux auf Notebooks innerhalb der Open-Source-Community grundlegend anzugehen und ein für allemal aus der Welt zu schaffen.
+So haben beide Hersteller tausende von Notebooks verkauft, die aufgrund einer Eigenart vieler Intel-Chips mit Ubuntu & Co. unnötig Strom verbrauchen. Das beim SATA-Treiber liegende Problem ist seit Jahren bekannt. Es kursierten sogar Kernel-Anpassungen, die es beheben und Notebooks deutlich sparsamer machen. Einige Hersteller von Linux-Notebooks nutzten diese Patches oder umschiffen das Problem mit Konfigurationstricks. Keine der Firmen hat aber darauf hineingearbeitet, die eigentliche Ursache im Linux-Kernel zu beseitigen. Von da würde die Besserung nämlich in alle Linux-Distributionen sickern, sodass die bald von vornherein alles richtig machen würden. 
+Diese und ein ganzer Haufen ähnlich gelagerter Probleme bestehen nach wie vor. Das ist der Grund, warum der Notebook-Akku mit Linux oft viel schneller leer ist als mit Windows. Aber die Beseitigung der Ursachen überlassen die Hersteller von Linux-Notebooks oft anderen. Bei neueren Notebooks mit NVMe-Datenträgern gab es beispielsweise eine dem SATA-Problem ähnelnde Eigenart. Die ist ein Kernel-Entwickler angegangen, der eigentlich an ganz anderen Ecken von Linux schraubt, aber selbst von dem Problem geplagt war. An dieser Stelle daher: Vielen Dank dafür, Luto, denn solche Arbeiten für das Gemeinwohl haben Linux zu dem gemacht, was es ist.
+Linux und 4K
+Das zweite Anlass ist ein Test in der c't 15/17, der feststellte: Bedienoberflächen gängiger Linux-Distributionen zeigen nach wie vor viele Probleme mit hochauflösenden Displays. Das war 2014 zwar noch schlimmer, aber es erschreckt doch, dass einige Probleme noch exakt dieselben sind. Wenn ich Programmierer bekannter Linux-Anwendungen und -Desktops frage, wie sowas passiert, bekomme ich oft zu hören: Die Probleme sind bekannt, aber es fehlt schlicht an Entwicklern, um sie zügiger aus der Welt zu schaffen. 
+Anzeige
+Dabei gibt es durchaus fähige Entwickler, die helfen könnten. Statt das zu tun, kreieren sie aber neue Desktop-Umgebungen, unter denen teilweise die gleichen Probleme auftauchen – etwa Budgie, Pantheon oder Canonicals grandios gescheitertes Unity8, das einige Unverbesserliche sogar noch am Leben zu erhalten versuchen. Warum tun sie das? Weil sie damit direkt Ruhm und Ehre einheimsen. Genau diese Motivation fehlt halt, wenn man zu etablierten Bedienoberflächen wie Enlightenment, Gnome, KDE Plasma, Mate oder Xfce beiträgt, die für jeden Geschmack etwas bieten. Aber wer bei solchen Projekten mithilft, steht eben nicht im Rampenlicht, sondern ist lediglich ein Licht unter vielen. 
+Chance für andere
+Wegen solcher Grabenkämpfe geht es mit dem Linux-Desktop nur träge vorwärts. Dabei zeigt der Linux-Kernel an einigen Stellen, dass konkurrierende Firmen trotz allen Wettbewerbs konstruktiv zusammenarbeiten können. Bei den Machern der Enterprise-Linuxe klappt das etwa super; ebenso bei den Herstellern von Prozessor, Netzwerkhardware oder Storage-Produkten. Bei den Techniken, die für Linux auf Desktop-PCs wichtig wären, funktioniert die Kooperation jedoch schlecht.
+Darum hab ich die Hoffnung schon lange aufgegeben, klassische Linux-Distributionen könnten den Desktop erobern. Ich denke eher, es wird jemand wie Google sein, der den Desktop-PC mit etwas wie Android, Chrome OS oder dem nicht einmal Linux-basierten Fuchsia erobert – ähnlich, wie PCs mal die Workstations und Mainframes verdrängt haben. Klar, bei diesen Betriebssystemen wird viel freie Software zum Einsatz kommen. Die allermeiste könnte Google aber von heute auf morgen auch proprietär machen, da achtet der Gigant drauf. Er hat außerdem viel zu starke Kontrolle über die Weiterentwicklung der Betriebssysteme und nutzt sie, um an unsere Daten zu kommen. Trotz freier Software würde so ein Desktop-Betriebssystem damit nur den Teufel mit dem Beelzebub austreiben.
+(thl)
+comments_outline_white
+    
+      Kommentare lesen
+      (3140)
+    
+  
+          Zur Startseite
+        
+    Inhaltsverzeichnis
+    
+              Kommentar: Linux scheitert an Ego­zen­t­rik
+            
+                    Notebook-Hersteller auf Ego-Trip
+                  
+                    Linux und 4K
+                  
+                    Chance für andere
+                  
+  heise online
+      Newsletter
+      
+    Keine News verpassen! Jeden Morgen der frische Nachrichtenüberblick von heise online
+  
+    E-Mail-Adresse
+  
+        Jetzt anmelden
+      
+    Ausführliche Informationen zum Versandverfahren und zu Ihren
+    Widerrufsmöglichkeiten erhalten Sie in unserer
+    Datenschutzerklärung.
+  
+  Anzeige
+  Anzeige
+        Themenspecial: Secure IT für Unternehmen
+      
+        Special: Next Level Hosting & Infrastruktur für Pros
+      
+        Welches ist das richtige Tool für die Webanalyse?
+      
+        Themenspecial: Moderne IT-Infrastruktur
+      
+        Lizenzmanagement: So umgehen Sie Fehler!
+      
+        Die Zukunft der digitalen Identität
+      
+        So einfach geht verschlüsselter Datenaustausch
+      
+        Themenspecial: Die Zukunft der Arbeit
+      
+        So einfach geht verschlüsselter Datenaustausch
+      
+        Wie Mensch und Technik am Fraunhofer IML zum Team werden
+      
+      Mehr zum Thema
+    
+        #saukontrovers
+      
+        Betriebssystem
+      
+        Gnome
+      
+        Heise Serien
+      
+        Linux
+      
+        Linux und Open Source
+      
+        Linux-Desktop
+      
+        Ubuntu
+      
+      Forum zum Thema:
+      Linux/Unix
+      
+      Teile diesen Beitrag
+    
+      Kurzlink:
+      
+        https://heise.de/-3766433
+      
+Anzeige
+Anzeige
+nach oben
+      Alle Angebote
+    
+      IT News
+    
+              Newsticker
+            
+              heise Developer
+            
+              heise Netze
+            
+              heise Open Source
+            
+              heise Security
+            
+      Online-Magazine
+    
+              heise+
+              Telepolis
+            
+              heise Autos
+            
+              TechStage
+            
+              tipps+tricks
+            
+      Services
+    
+              Stellenmarkt heise Jobs
+            
+              heise Academy
+            
+              heise Download
+            
+              Preisvergleich
+            
+              Whitepaper/Webcasts
+            
+              Tarifrechner
+            
+              Netzwerk-Tools
+            
+              Spielen bei Heise
+            
+              Loseblattwerke
+            
+              iMonitor
+            
+      Heise Medien
+    
+              heise Shop
+            
+              Abo bestellen
+            
+              Mein Abo
+            
+              Veranstaltungen
+            
+              Arbeiten bei Heise
+            
+              Mediadaten
+            
+              Presse
+            
+        Newsletter
+      
+heise-Bot
+        heise-Bot
+      
+Push Nachrichten
+        Push
+      
+        Push-Nachrichten
+      
+          Datenschutz
+        
+          Cookies & Tracking
+        
+          Impressum
+        
+          Kontakt
+        
+          Barriere melden
+        
+          Mediadaten
+        
+          Verträge kündigen
+        
+            2235932
+          
+        Content Management by
+        
+  InterRed
+          Hosted by Plus.line
+        
+          Copyright © 2023 Heise Medien
+        
+kopieren
+ 1 Monat gratis lesen.Jetzt 1 Monat gratis lesen.Jetzt testenDas digitale Abo für IT und TechnikExklusive Tests, Ratgeber & Hintergründe. Unbegrenzter Zugriff auf alle heise+ Beiträge inkl. allen Digital-Magazinen.Jetzt testen

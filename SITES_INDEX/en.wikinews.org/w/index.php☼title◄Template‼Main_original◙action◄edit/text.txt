@@ -1,0 +1,62 @@
+View source for Template:Main original - Wikinews, the free news source
+View source for Template:Main original
+← Template:Main original
+Jump to navigation
+Jump to search
+You do not have permission to edit this page, for the following reason:
+This page is currently protected so that only authorized accounts can change it.
+ This page is currently protected so that only authorized accounts can change it. 
+Why is this page protected?
+What can I do?
+Archived Wikinews articles are fully protected, as they are considered snapshots in time, permanent records of history.
+Published Wikinews articles are usually semi-protected from editing, and fully protected from moving, as they are exported content of the project.
+While most general-purpose pages can be edited by anyone, sometimes page access needs to be restricted due to vandalism.
+The reason for protection can be found in the protection log. If there are no relevant entries in the protection log, the page may have been moved after being protected.
+If you have a user account, log in first. If you do not yet have an account, you may create one; after you've edited a bit and a few days have passed, you will be able to edit semi-protected pages.
+If you feel an edit is needed to this page, first check the talk page to see if the matter has been raised already.  You may then wish to start a new thread on that page and use {{editprotected}} to request the edit.
+You can view and copy the source of this page.
+[[File:Nuvola apps knewsticker.png|right|75px]]
+<span class="minihead">Original reporting</span><span class="editor">[{{fullurl:Template:Main original| action=edit}} &plusmn;]</span>
+[[Wikinews:Original reporting|First-hand journalism]] by our reporters&nbsp;[[File:Feed-icon.svg|15px|link=http://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=rss&categories=Published%7COriginal%20reporting&notcategories=No%20publish%7CDisputed%7CInterview&namespace=0&count=12&hourcount=336&ordermethod=categoryadd&stablepages=only|Wikinews original reporting]]
+<DynamicPageList>
+addfirstcategorydate=false
+category=Published
+category=Original reporting
+notcategory=Disputed
+notcategory=Interview
+stablepages=only
+namespace=0
+suppresserrors=true
+count=4
+</DynamicPageList>
+<div class="more">[[:Category:Original reporting|» More]]</div>
+<noinclude>[[Category:Main page templates|Original stories]]</noinclude>
+Return to Template:Main original.
+Retrieved from "https://en.wikinews.org/wiki/Template:Main_original"
+Navigation menu
+Personal tools
+Not logged inTalkContributionsCreate accountLog in
+Namespaces
+TemplateCollaboration
+English
+Views
+ReadView sourceView history
+More
+Search
+Navigation
+Main pageNewsroomRecent changesRandom articleArchivesFree use media upload
+Wikinews
+HelpPillars of writingWrite an articleWater coolerStyle guideLive chatDonateContact us
+Regions
+AfricaAntarcticaAsiaCentral AmericaEuropeMiddle EastNorth AmericaOceaniaSouth America
+Tools
+What links hereRelated changesSpecial pagesPage information
+In other languages
+Privacy policy
+About Wikinews
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

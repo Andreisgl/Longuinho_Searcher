@@ -1,0 +1,116 @@
+Wiki - Wikipedia
+Beluister  (info)
+Wiki
+Uit Wikipedia, de vrije encyclopedie
+Naar navigatie springen
+Naar zoeken springen
+Ward Cunningham, uitvinder van de wiki
+Wiki Wiki Shuttle op Honolulu International Airport
+Een wiki (aanvankelijk ook WikiWiki) is een verzameling interactieve hypertekstdocumenten die in een browserprogramma aangemaakt en bewerkt kunnen worden door middel van een bepaald type software. Kenmerkend aan de software is, dat op het internet of een intranet gepubliceerde webdocumenten door meerdere personen zonder programmeerkennis, kunnen worden bewerkt en gepubliceerd. Zowel het resultaat, als de software worden wiki genoemd, afgeleid van de Hawaïaanse uitdrukking wiki wiki, dat 'snel, vlug, beweeglijk' betekent.[1] De gebruiksmogelijkheid, de software en de naam zijn afkomstig van Ward Cunningham. De eerste wiki was de Portland Repository Pattern website, bekende voorbeelden van wiki's zijn Wikipedia, Catawiki[2] en Wikia.[3]
+Inhoud
+1 Geschiedenis
+2 WikiWikiWeb en zijn dochtersites
+3 Toepassing
+4 Op wiki gelijkende systemen
+5 Zie ook
+6 Externe links en bronnen
+Geschiedenis
+In 1995 ontwikkelde Ward Cunningham het eerste computerprogramma waarmee het mogelijk was om informatie die bereikbaar was via het World Wide Web (internet) of een intranet, inhoudelijk door meerdere gebruikers te laten bewerken. Het was gebaseerd op een zogenaamd content management of database systeem, dat documenten ordent en vindbaar maakt en het werd gebruikt voor opbouw van de Portland Pattern Repository. Hij noemde de technologie 'wiki wiki' omdat dat snel betekent in het Hawaïaans en omdat het een alliteratie vormt met het WWW (World Wide Web). Dit programma stond bekend als Ward's Wiki.
+Cunningham haalde zijn inspiratie voor de wiki uit het HyperCard-programma van Apple, waarmee gebruikers virtuele card stacks konden maken van informatie. Dit concept was op zijn beurt geïnspireerd op een idee van Vannevar Bush, dat hij in 1945 beschreef in zijn artikel 'As we may think' dat verscheen in het blad Atlantic Monthly. Volgens Bush zou er een machine moeten zijn die koppelingen legde tussen artikelen en boeken in een microfilm, wat in uitgewerkte vorm overeenkomt met de hyperlinks op het World Wide Web en in Wikisoftware.[4] Wiki-ontwikkelaar Cunningham bouwde de HyperCard-stacks zelf op in de late jaren tachtig.[bron?] Hij was de eerste die het wiki-programma Ward's Wiki aan een server koppelde. In navolging daarvan zijn er vele andere wiki's geprogrammeerd om allerlei pagina's te beheren.
+Cunningham installeerde op 25 maart 1995 het WikiWikiWeb op zijn bedrijfswebsite Cunningham & Cunningham.[5] Hij noemde het WikiWikiWeb[6] omdat hij dacht aan een baliemedewerker van Honolulu International Airport die hem verteld had over de Wiki Wiki Shuttle, een pendelbus die bezoekers snel tussen de terminals van de luchthaven transporteert. Cunninghams idee was de pagina's eenvoudig bewerkbaar te maken door de gebruikers zelf, zodat er snel resultaten kwamen, hij dacht er eerst over om het "QuickWeb" te noemen, maar doopte het "WikiWikiWeb".
+De welkomstpagina van WikiWikiWeb beschreef de site als volgt:
+Our site's primary focus is PeopleProjectsAndPatterns in SoftwareDevelopment. Nevertheless, it is much more than just an InformalHistoryOfProgrammingIdeas. It has a culture and DramaticIdentity of its own. In particular, all Wiki content is WorkInProgress and this will always be a forum where people share new ideas. WardsWiki changes as people come and go. Much of the information that remains is subjective or dated. If you are looking for a dedicated reference site, try WikiPedia.
+(Onze site is hoofdzakelijk gericht op mensen, projecten en patronen in software-ontwikkeling. Maar hij biedt veel meer dan een informele geschiedenis van programmeerideeën. Hij heeft een eigen cultuur en leefomgeving. Met name wordt voortdurend aan de inhoud gewerkt en dit zal altijd een forum zijn voor de uitwisseling van nieuwe ideeën. WardsWiki verandert naar gelang mensen komen en gaan. Veel van de informatie die niet verandert, is subjectief of verouderd. Als u op zoek bent naar een gespecialiseerde naslagwebsite, probeer WikiPedia dan eens.)
+Sommige woorden waren weergegeven in CamelCase, de opmaak voor interpaginalinks van de WikiWikiWeb-software.
+WikiWikiWeb en zijn dochtersites
+Site
+Pagina's
+Oprichter
+Opmerking
+WikiWikiWeb
+36.852
+Ward Cunningham
+WhyClublet
+–
+Richard Drake
+opgeheven (in 2008)
+MeatBallWiki
+5252
+Clifford Adams, Sunir Shah
+GreenCheese
+–
+Peter Merel
+opgeheven (circa 2016)
+TheReformSociety
+–
+Peter Merel
+opgeheven (circa 2016)
+The Adjunct
+–
+Earle Martin
+opgeheven (circa 2011)
+WikiBase
+359
+Ward Cunningham
+FitWiki
+225
+Ward Cunningham
+Toepassing
+In principe kan een wiki zich plooien naar alle mogelijke wensen van gebruikers. Het systeem is opgezet voor samenwerking met anderen. In toenemende mate wordt dit concept op het intranet van een organisatie toegepast om de kennisdeling te bevorderen. Het kan gebruikt worden binnen een bedrijf, bijvoorbeeld voor de documentatie van de infrastructuur zoals gebruikte hardware, software en netwerkverbindingen. Met een wiki kan deze gemakkelijk bijgehouden worden.
+Op wiki gelijkende systemen
+Everything2
+h2g2
+Halfbakery
+Zie ook
+Wikisoftware
+Databasedump, veel wiki's maken dergelijke dumps
+Externe links en bronnen
+(en) PARC
+(en) Wiki's in plain English
+(en)  Ward Cunninham: "What is a Wiki?"
+(en)  WikiWikiWeb - Welkomstpagina
+Bronnen
+Wiki, de kracht van eenvoudige hypertekst - een artikel in het webmagazine Naar Voren
+Wat is een wiki? - een artikel op leren.nl
+Noten en referenties
+↑ wehewehe.org Hawaiian dictionary wiki vs. To hurry, hasten; quick, fast, swift. See alawiki. Hele wiki, quick time, quick step. E wiki ʻoe, mai lohi (FS 111), hurry, don't delay. (Probably PEP witi, although Easter Island viti may be a Tahitian loan.) hoʻo.wiki To hurry, hasten.. Dus wiki als werkwoord betekent opschieten, zich haasten. Geraadpleegd op 14 februari 2020.
+↑ De wiki "Catawiki catalogus" is in 2020 als "LastDodo" afgesplitst.
+↑ Van "Wikia", dat oorspronkelijk de naam "Wikicities" droeg, werd in 2016 "FANDOM" afgesplitst.
+↑ Encyclopaedia Britannica, Wiki
+↑ Cunningham & Cunningham, Inc.
+↑ WikiWikiWeb
+Overgenomen van "https://nl.wikipedia.org/w/index.php?title=Wiki&oldid=64847185"
+Categorieën: Encyclopedie WikipediaWikiVerborgen categorieën: Wikipedia:Artikel mist referentie sinds september 2022Wikipedia:Alle artikelen die een referentie missenWikipedia:Gesproken Wikipedia
+Navigatiemenu
+Persoonlijke hulpmiddelen
+Niet aangemeldOverlegBijdragenAccount aanmakenInloggen
+Naamruimten
+ArtikelOverleg
+Nederlands
+Weergaven
+LezenBrontekst bekijkenGeschiedenis
+Meer
+Zoeken
+Navigatie
+HoofdpaginaVind een artikelVandaagEtalageCategorieënRecente wijzigingenNieuwe artikelenWillekeurige pagina
+Informatie
+GebruikersportaalSnelcursusHulp en contactDoneren
+Hulpmiddelen
+Links naar deze paginaGerelateerde wijzigingenBestand uploadenSpeciale pagina'sPermanente koppelingPaginagegevensDeze pagina citerenWikidata-item
+Afdrukken/exporteren
+Boek aanmakenDownloaden als PDFAfdrukversie
+In andere projecten
+Wikimedia CommonsMeta-Wiki
+In andere talen
+АԥсшәаAfrikaansAlemannischAragonésالعربيةمصرىঅসমীয়াAsturianuAzərbaycancaБашҡортсаBoarischŽemaitėškaБеларускаяБеларуская (тарашкевіца)БългарскиBanjarBamanankanবাংলাBrezhonegBosanskiБуряадCatalàCebuanoکوردیCorsuČeštinaЧӑвашлаCymraegDanskDeutschZazakiΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiVõroNa Vosa VakavitiFøroysktFrançaisArpetanFurlanGaeilgeKriyòl gwiyannenGalegoHausaעבריתहिन्दीHrvatskiKreyòl ayisyenMagyarՀայերենInterlinguaBahasa IndonesiaIgboIlokanoГӀалгӀайÍslenskaItalianoᐃᓄᒃᑎᑐᑦ / inuktitut日本語La .lojban.JawaქართულიTaqbaylitҚазақшаಕನ್ನಡ한국어KurdîКыргызчаLatinaLëtzebuergeschLingua Franca NovaLimburgsLombardLietuviųLatviešuMalagasyMinangkabauМакедонскиമലയാളംМонголमराठीBahasa MelayuMaltiမြန်မာဘာသာNāhuatlPlattdüütschNedersaksiesनेपालीNorsk nynorskNorsk bokmålNouormandOccitanਪੰਜਾਬੀPangasinanPolskiΠοντιακάPortuguêsRuna SimiRomânăРусскийРусиньскыйसंस्कृतम्SarduSicilianuScotsSrpskohrvatski / српскохрватскиၽႃႇသႃႇတႆး සිංහලSimple EnglishSlovenčinaSlovenščinaSoomaaligaShqipСрпски / srpskiSundaSvenskaKiswahiliதமிழ்తెలుగుТоҷикӣไทยTagalogTürkçeТатарча / tatarçaУкраїнськаاردوOʻzbekcha / ўзбекчаTiếng ViệtWinaray吴语ХальмгმარგალურიייִדישYorùbá中文文言Bân-lâm-gú粵語
+Koppelingen bewerken
+ Deze pagina is voor het laatst bewerkt op 31 jul 2023 om 13:33.
+De tekst is beschikbaar onder de licentie Creative Commons Naamsvermelding/Gelijk delen, er kunnen aanvullende voorwaarden van toepassing zijn. Zie de gebruiksvoorwaarden voor meer informatie. Wikipedia® is een geregistreerd handelsmerk van de Wikimedia Foundation, Inc., een organisatie zonder winstoogmerk.
+Privacybeleid
+Over Wikipedia
+Disclaimers
+Gedragscode
+Mobiele weergave
+Ontwikkelaars
+Statistieken
+Cookieverklaring

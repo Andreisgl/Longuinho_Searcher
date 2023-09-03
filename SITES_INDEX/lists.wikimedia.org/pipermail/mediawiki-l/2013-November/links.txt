@@ -1,0 +1,13 @@
+http://bugzilla.wikimedia.org/
+https://gerrit.wikimedia.org/r/95474
+https://gerrit.wikimedia.org/r/95190
+https://gerrit.wikimedia.org/r/94951
+https://gerrit.wikimedia.org/r/94945
+https://gerrit.wikimedia.org/r/94942
+https://git.wikimedia.org/blob/mediawiki/core.git/1.22.0rc2/RELEASE-NOTES-1.22
+https://www.mediawiki.org/wiki/Release_notes/1.22
+http://download.wikimedia.org/mediawiki/1.22/mediawiki-1.22.0rc2.tar.gz
+http://download.wikimedia.org/mediawiki/1.22/mediawiki-core-1.22.0rc2.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.22/mediawiki-1.22.0rc2.tar.gz.sig
+https://www.mediawiki.org/keys/keys.html
+http://hyperkitty.readthedocs.org

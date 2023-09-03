@@ -1,0 +1,135 @@
+Help:Talk page - Meta
+Help:Talk page
+From Meta, a Wikimedia project coordination wiki
+Jump to navigation
+Jump to search
+Translate this pageOther languages:Bahasa Indonesia
+Deutsch
+English
+Esperanto
+Lëtzebuergesch
+Nederlands
+Plattdüütsch
+Türkçe
+dansk
+español
+français
+italiano
+kurdî
+polski
+português
+português do Brasil
+suomi
+čeština
+русский
+العربية
+فارسی
+മലയാളം
+ไทย
+中文
+日本語
+한국어
++/-
+MediaWiki Handbook: Contents, Readers, Editors, Moderators, System admins, Researchers
+There are two types of talk pages – standard talk pages are used to discuss an article, while user talk pages are used to communicate with other users or leave them messages. Every page has an associated talk page, except pages in the Special: namespace. If there is no discussion of a page, the link to its talk page will be red. You can still discuss the page - you will just be the first person to do so.
+Contents
+1 Accessing a talk page
+2 Using talk pages
+2.1 Formatting
+3 See also
+4 Links to other help pages
+Accessing a talk page
+To access a talk page look for a link labeled Talk, Discussion or Discuss this page. These links will be found either at the top of the page or on the left hand side (near Edit this page).
+A talk page adds Talk: to the beginning of the main page's title. If the main page has a prefix then talk is added after this prefix. For example, a talk page associated with the main article namespace simply has the prefix Talk:, while a talk page associated with the user namespace has the prefix User talk:. This article is in the Help: namespace, so the talk page for this article is Help talk:Talk page. The Main Page is in the main namespace (because it has no prefix), so its talk page is simply Talk:Main Page.
+After someone else edits your user talk page, the alert "You have new messages" is automatically displayed on all pages you view, until you view your user page.
+Using talk pages
+You should sign your contributions by typing three or four tildes:
+(~~~ = Username)
+(~~~~ = Username 06:32, 23 August 2023 (UTC)).
+See Help:Automatic conversion of wikitext .
+On a talk page, "this page" usually refers to the main page (i.e. the page the talk page is associated with). If the talk page itself is referred to, write "this talk page".
+When debating the name of the page or discussing merging it with another page, always mention the current page name. Otherwise after renaming (moving) a page, references to "this page name" become ambiguous.
+The "Post a comment" feature allows you to start a new section without needing to edit the whole page. The section header becomes the edit summary when you save the page, so it only needs to be typed once.
+The practice of "spamming" – posting similar messages to more than a few users' talk pages, often for the purpose of soliciting a certain action - is discouraged.
+Formatting
+Because the wiki software platform provides for a wide range of formatting styles, proper or at least consistent formatting is essential to maintaining readable talk pages.
+The reference of a comment is determined by the number of colons (':') in front of it. If a reply is made to a statement, one adds a colon to the number of colons used in the statement being replied to. This style of conversation is easy to read.
+Example:
+How's the soup? --[[User:Bob|]]
+:It's great!! --[[User:Lisa|]]
+::Not too bad... --[[User:George|]]
+:::I made it myself! --[[User:Bob|]]
+I think the soup-discussion should be moved to [[Talk:Soup]]... --[[User:Lisa|]]
+:I tend to disagree. --[[User:George|]]
+The above will produce this:
+How's the soup?--Bob
+It's great!! --Lisa
+Not too bad... --George
+I made it myself! --Bob
+I think the soup-discussion should be moved to Talk:Soup... --Lisa
+I tend to disagree. --George
+See also
+Template talk page
+MessageBox on Meatball Wiki
+Links to other help pages
+Help contents
+Meta · Wikinews · Wikipedia · Wikiquote · Wiktionary · Commons: · Wikidata · MediaWiki · Wikibooks · Wikisource · MediaWiki: Manual · Google
+Versions of this help page (for other languages see further)
+What links here on Meta  or from Meta · Wikipedia · MediaWiki
+Reading
+Go · Search · Namespace · Page name · Section · Backlinks · Redirect · Category · Image page · Special pages · Printable version
+Tracking changes
+Recent changes (enhanced) | Related changes · Watching pages · Diff · Page history · Edit summary · User contributions · Minor edit · Patrolled edit
+Logging in and preferences
+Logging in · Preferences · User style
+Editing
+Starting a new page · Advanced editing · Editing FAQ · Export · Import · Shortcuts · Edit conflict · Page size
+Referencing
+Links · URL · Piped links · Interwiki linking · Footnotes
+Style and formatting
+Wikitext examples · CSS · Reference card · HTML in wikitext · Formula · Lists · Table · Sorting · Colors · Images and file uploads
+Fixing mistakes
+Show preview · Reverting edits
+Advanced functioning
+Expansion · Template · Advanced templates · Parser function · Parameter default · Magic words · System message · Substitution · Array · Calculation · Transclusion
+Others
+Special characters · Renaming (moving) a page · Preparing a page for translation · Talk page · Signatures · Sandbox · Legal issues for editors
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Help:Talk_page&oldid=23724364"
+Categories: Editor handbookTalk pages
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Help pageDiscussion
+English
+Views
+ReadView sourceView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+MediaWikiWikipediaWikiquoteWikiversityWikivoyageWiktionary
+In other languages
+AlemannischÆngliscالعربيةঅসমীয়াAzərbaycancaБеларускаяБеларуская (тарашкевіца)БългарскиभोजपुरीBanjarBrezhonegCatalàНохчийнکوردیČeštinaCymraegDanskDeutschΕλληνικάEnglishEsperantoEspañolEuskaraفارسیSuomiFrançaisGalegoBahasa HulontaloHausaעבריתHrvatskiMagyarՀայերենInterlinguaBahasa IndonesiaIlokanoÍslenskaItaliano日本語Jawa한국어कॉशुर / کٲشُرLietuviųMinangkabauМакедонскиമലയാളംဘာသာ မန်Bahasa MelayuNapulitanoNederlandsNorsk nynorskNorskଓଡ଼ିଆPolskiPortuguêsRomânăРусскийРусиньскыйСаха тылаScotsسنڌيSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaShqipСрпски / srpskiSvenskaไทยTagalogTürkçeТатарча / tatarçaУкраїнськаاردوOʻzbekcha / ўзбекчаVènetoייִדיש中文Bân-lâm-gú粵語
+Edit links
+ This page was last edited on 27 August 2022, at 14:31.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

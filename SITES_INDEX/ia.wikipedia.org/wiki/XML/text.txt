@@ -1,0 +1,118 @@
+XML - Wikipedia, le encyclopedia libere
+Saltar al contento
+Menu principal
+Menu principal
+displaciar verso le barra lateral`
+celar
+Navigation
+Pagina principalPortal del communitateActualitatesModificationes recentePagina aleatoriAdjutaDonationes
+Linguas
+Le ligamines a linguas se trova in le parte superior del pagina in facie del titulo del articulo.
+Recerca
+Cercar
+Crear contoAperir session
+Instrumentos personal
+ Crear conto Aperir session
+Paginas pro redactores sin session aperte leger plus
+ContributionesDiscussion
+Contento
+displaciar verso le barra lateral`
+celar
+Initio
+1Regulas syntactic de un file XML
+2Document Type Definition
+3Exhibir files XML super le web
+4XPath
+5XML Query
+6Spatios de nomine
+7Tractamento de files XML
+8Versiones de XML
+9Vide etiam
+10Ligamines externe
+Alternar le tabula de contento
+Alternar le tabula de contento
+XML
+78 linguas
+AfrikaansAragonésالعربيةAzərbaycancaБашҡортсаŽemaitėškaБеларускаяБеларуская (тарашкевіца)БългарскиবাংলাBosanskiCatalàکوردیČeštinaDanskDeutschΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFrançaisNordfriiskGaeilgeGalegoעבריתहिन्दीHrvatskiMagyarՀայերենBahasa IndonesiaÍslenskaItaliano日本語JawaҚазақша한국어КыргызчаLombardລາວLietuviųLatviešuМакедонскиമലയാളംМонголBahasa MelayuNederlandsNorsk nynorskNorsk bokmålPolskiPortuguêsRomânăРусскийSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaSoomaaligaShqipСрпски / srpskiSvenskaKiswahiliதமிழ்ТоҷикӣไทยTürkmençeTürkçeУкраїнськаاردوVènetoTiếng Việt吴语中文粵語
+Modificar ligamines
+ArticuloDiscussion
+interlingua
+LegerModificarModificar fonteVider historia
+Instrumentos
+Instrumentos
+displaciar verso le barra lateral`
+celar
+Actiones
+LegerModificarModificar fonteVider historia
+General
+Paginas ligate a isteModificationes ligateIncargar filePaginas specialLigamine permanenteInformation sur le paginaCitar iste paginaElemento Wikidata
+Imprimer/exportar
+Crear un libroDiscargar como PDFVersion pro imprimer
+In altere projectos
+Wikimedia Commons
+De Wikipedia, le encyclopedia libere
+Non revidite
+XML
+Instantia de: Linguage de marcation, file format[*], data serialization format[*], research tool[*]
+Commons: XML
+eXtensible Markup Language (XML) es un standard mantenite per le World Wide Web Consortium pro crear linguages de marcation pro propositos special. Illo es bastante general, de sorta que linguages basate super XML pote esser usate pro describer varie typos differente de datos e texto etiam. Su proposito principal es de facilitar le uso in commun de texto e information structurate a transverso del Internet. Ben que XML es derivate de SGML, illo es largemente simplificate, malgrado de includer incrementos pro portabilitate. Linguages basate super XML (per exemplo, RDF, SMIL, MathML e SVG) es mesme describite de un maniera formal, permittente que programmas modifica e valida documentos in iste linguages sin cognoscentia previe.
+Regulas syntactic de un file XML[modificar | modificar fonte]
+On debe notar que le files XML es simple files de texto. Le codification es specificate in le prime declaration. Le codification predefinite es UTF-8 qui non differe del ASCII si solmente le characteres ASCII es usate.
+Al differentia de, per exemplo, HTML, le efficacia de XML es altemente dependente de structura, contento e integritate. A fin que un documento sia considerate "ben formate", isto es, totalmente conforme al specification XML, le file XML debe conformar se (al minus) al sequente requisitos:
+Un documento XML valide debe haber un (e solo un) elemento radice.
+Elementos qui contine {entries} debe posseder un etiquetta de apertura <exemplo> e de clausura </exemplo>. (Un elemento vacue <exemplo></exemplo> pote assumer le forma optional <exemplo/>.)
+Tote le valores de attributo debe esser delimitate per virgulettas.
+Etiquettas pote esser annidate sed non pote imbricar.
+Il se debe notar que elementos in contexto de XML es sensibile al differentia inter majusculas e minusculas. Per exemplo, <Exemplo> e </Exemplo> es un par correspondente ben formate, durante que <Exemplo> e </exemplo> non lo es.
+Additionalmente, ancora al differentia de HTML, le etiquettas de XML explica isto que significa le datos, in loco de explicar como exhibir illos.
+Document Type Definition[modificar | modificar fonte]
+Ante le advento de linguages de description de datos generalisate como SGML e XML, le projectator de software debeva definir formatos de file special o micre linguages pro usar datos in commun inter programmas. Isto demandava de scriber specificationes detaliate e analysatores syntactic e scriptores. Pro un linguage basate super XML, totevia, le projectator de software pote specificar le syntaxe basic in scribente un DTD, o un description plus detaliate usante un Schema XML. Il ha utensiles facilemente disponibile (e, in alcun casos, gratuite) qui comprende iste descriptiones – analysatores e scriptores de XML. Isto pote reducer significantemente le costo de disveloppamento in le cyclo de vita del software.
+Quando un file XML es conforme al regulas de bon formato e illo es in concordantia con le DTD o Schema XML al qual illo se refere, alora le file XML es considerate un "documento valide".
+Exhibir files XML super le web[modificar | modificar fonte]
+Le linguage de folios de stilo XSL es un adjuncto ulterior al XML, qui permitte que le usatores describe proprietates visual e transformationes de datos XML sin incastrar iste instructiones in le datos mesme. Le file resultante es alora un file HTML qui usa CSS pro presentation o un altere file XML.
+Un file XML pote etiam esser formatate directemente in alcun navigatores web como per exemplo Internet Explorer o Mozilla con le linguage de folios de stilo CSS. Iste processo ancora non esseva stabile in januario de 2003. Le files XML debe alora includer un referentia al folio de stilo:
+<?xml-stylesheet type="text/css" href="miFolioDeStilo.css"?>
+Durante que le formatage de XML in navigatores web se disveloppa, le alternativa es de converter illo in HTML, PDF o altere formatos in le servitor. Programmas como Cocoon processa un file XML contra un folio de stilo (e pote effectuar altere processamentos etiam) e invia le resultato al navigator web del usator sin que le usator sia consciente del processo subjacente.
+XPath[modificar | modificar fonte]
+Il es possibile de referer se a componentes individual de un documento XML per medio de XPath. Isto permitte que folios de stilo in XSL o XSLT selige partes specific de un documento in qualcunque sequentia necessari a fin de componer le exito requirite (le documentos non necessita esser tractate sequentialmente).
+XML Query[modificar | modificar fonte]
+XML Query es pro XML isto que SQL es pro bases de datos relational.
+Spatios de nomine[modificar | modificar fonte]
+Spatios de nomine (etiquettas de contextualisation) permitte que le mesme documento contine elementos e attributos proveniente de vocabularios differente, sin le occurrentia del conflictos de nomenclatura.
+Illo non es compatibile con DTDs (Schemas XML debe esser usate).
+Tractamento de files XML[modificar | modificar fonte]
+Le APIs largemente usate in le tractamento de datos XML per linguages de programmation es SAX e DOM. SAX se usa pro tractamento sequential durante que DOM se usa pro tractamento de accesso aleatori.
+Un processator de XSL pote esser usate pro formatar un file XML pro exhibition o impression. Le function intendite de XSL mesme es de crear files PDF. XSLT es pro transformar illo in altere formatos, includente HTML, altere vocabularios de XML, e qualcunque altere formato de texto pur.
+Le formato de file native de OpenOffice.org es XML. Alcun partes de Microsoft Office 11 etiam essera capace de editar files XML con un Schema (sed non un DTD) providite per le usator. Il existe dozenas de altere editores XML disponibile.
+Versiones de XML[modificar | modificar fonte]
+Le prime version de XML esseva XML 1.0.
+Le ultime version official de XML es 1.1. XML 1.1 (etiam cognite como Blueberry) extende XML 1.0 con le addition de supporto a nove characteres in Unicode 3.0, e le reparation de un omission qui faceva que XML non supporta le conventiones de fin de linea de EBCDIC.
+Il existe etiam discussiones super un XML 2.0, ben que il non es clar si un tal entitate jammais apparera. XML-SW (SW pro "skunk works"), publicate per un del disveloppatores original de XML, contine alcun propositiones de lo que XML 2.0 poterea presentar: elimination de DTDs del syntaxe, integration de spatios de nomines, XML Base e XML Information Set intra le standard basic.
+Vide etiam[modificar | modificar fonte]
+XSL, XUL, XML Query, HTML, XHTML, UIML, S-expression, RSS, ebXML, Schema XML
+Ligamines externe[modificar | modificar fonte]
+XML in 10 punctos - explication del W3C in interlingua (sito archivate)
+XeML.net
+Sito web del World Wide Web Consortium (W3C)
+Pagina initial de XML al sito del W3C
+Le FAQ de XML
+Liquid XML Editor
+XMLBlueprint XML Editor
+Le lista de discussion XML-L
+Open XML Editor
+Utensiles pro le creation de documentos XML
+Lista de correspondentia XML-DEV
+Obtenite de “https://ia.wikipedia.org/w/index.php?title=XML&oldid=653448”
+Categorias: XMLLinguages de marcationInternetAbbreviationes
+ Iste pagina esseva modificate le plus recentemente le 22 decembre 2022 a 08:12.
+Le texto es disponibile sub le licentia Creative Commons Attribution-CompartiSimile; additional conditiones pote esser in vigor.
+Vide Conditiones de uso pro detalios.
+Politica de confidentialitate
+A proposito de Wikipedia
+Declaration de non-responsabilitate
+Codice de conducta
+Version mobile
+Programmatores
+Statisticas
+Declaration sur cookies
+Alternar limitation de latitude de contento

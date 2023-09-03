@@ -1,0 +1,275 @@
+Tangara rufa Boddaert, 1783
+We’re sorry, but GBIF doesn’t work properly without JavaScript enabled.
+Our website has detected that you are using an outdated insecure browser that will prevent you from using the site. We suggest you upgrade to a modern browser.
+{{nav.loginGreeting}}
+Get data
+Occurrences
+                                                            
+                                                        
+GBIF API
+                                                            
+                                                        
+Species
+                                                            
+                                                        
+Datasets
+                                                            
+                                                        
+Occurrence snapshots
+                                                            
+                                                        
+Hosted portals
+                                                            
+                                                        
+Trends
+                                                            
+                                                        
+How-to
+Share data
+Quick-start guide
+                                                                
+                                                            
+Dataset classes
+                                                                
+                                                            
+Data hosting
+                                                                
+                                                            
+Standards
+                                                                
+                                                            
+Become a publisher
+                                                                
+                                                            
+Data quality
+                                                                
+                                                            
+Data papers
+                                                                
+                                                            
+Use data
+Featured data use
+                                                                
+                                                            
+Citation guidelines
+                                                                
+                                                            
+GBIF citations
+                                                                
+                                                            
+Citation widget
+                                                                
+                                                            
+Tools
+Publishing
+IPT
+                                                                
+                                                            
+Data validator
+                                                                
+                                                            
+Scientific Collections
+                                                                
+                                                            
+Suggest a dataset
+                                                                
+                                                            
+New data model ⭐️
+                                                                
+                                                            
+Data access and use
+Hosted portals
+                                                                
+                                                            
+Data processing
+                                                                
+                                                            
+Derived datasets
+                                                                
+                                                            
+rgbif
+                                                                
+                                                            
+pygbif
+                                                                
+                                                            
+MAXENT
+                                                                
+                                                            
+Tools catalogue
+                                                                
+                                                            
+GBIF labs
+Species matching
+                                                                
+                                                            
+Name parser
+                                                                
+                                                            
+Sequence ID
+                                                                
+                                                            
+Relative observation trends
+                                                                
+                                                            
+GBIF data blog
+                                                                
+                                                                    
+Community
+Network
+Participant network
+                                                                
+                                                            
+Nodes
+                                                                
+                                                            
+Publishers
+                                                                
+                                                            
+Network contacts
+                                                                
+                                                            
+Community forum
+                                                                
+                                                                    
+alliance for biodiversity knowledge
+                                                                
+                                                                    
+Volunteers
+Mentors
+                                                                
+                                                            
+Ambassadors
+                                                                
+                                                            
+Translators
+                                                                
+                                                            
+Citizen scientists
+                                                                
+                                                            
+Activities
+Capacity enhancement
+                                                                
+                                                            
+Programmes & projects
+                                                                
+                                                            
+Training and learning resources
+                                                                
+                                                            
+Data Use Club
+                                                                
+                                                            
+Living Atlases
+                                                                
+                                                                    
+About
+Inside GBIF
+What is GBIF?
+                                                                
+                                                            
+Become a member
+                                                                
+                                                            
+Governance
+                                                                
+                                                            
+Implementation plan
+                                                                
+                                                            
+Work Programme
+                                                                
+                                                                    
+Funders
+                                                                
+                                                            
+Partnerships
+                                                                
+                                                            
+Release notes
+                                                                
+                                                            
+Contacts
+                                                                
+                                                            
+News & outreach
+News
+                                                                
+                                                            
+Newsletters and lists
+                                                                
+                                                            
+Events
+                                                                
+                                                            
+Awards
+                                                                
+                                                            
+Science Review
+                                                                
+                                                            
+Data use
+                                                                
+                                                            
+User profile 
+                    Tangara rufa Boddaert, 1783
+                
+                                Dataset
+                            
+                                GBIF Backbone Taxonomy
+                            
+                                    Rank
+                                
+                                    SPECIES
+                                
+Classification
+                                        kingdom
+                                    
+                                        Animalia
+                                    
+                                        phylum
+                                    
+                                        Chordata
+                                    
+                                        class
+                                    
+                                        Aves
+                                    
+                                        order
+                                    
+                                        Passeriformes
+                                    
+                                        family
+                                    
+                                        Thraupidae
+                                    
+                                        genus
+                                    
+                                        Tachyphonus
+                                    
+                                        species
+                                    
+                                        Tachyphonus rufus
+                                    
+Name
+Homonyms
+Tangara rufa Boddaert, 1783
+Bibliographic References
+                                        Paynter, Raymond A. Jr., and Robert W. Storer, 1970: null. Check-list of Birds of the World, vol. 13. xiv + 443.
+                                        
+                                    
+What is GBIF?
+API
+FAQ
+Newsletter
+Privacy
+Terms and agreements
+Citation
+Code of Conduct
+Acknowledgements
+Contact
+GBIF Secretariat Universitetsparken 15
+DK-2100 Copenhagen Ø
+Denmark
+GBIF  is a Global Core Biodata Resource

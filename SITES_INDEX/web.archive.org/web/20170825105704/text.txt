@@ -1,0 +1,146 @@
+Linux Today - KERNEL-DEV: UDI and Free Software by Richard Stallman
+60 captures
+22 Aug 2004 - 16 Jul 2023
+Mar
+AUG
+Sep
+25
+2016
+2017
+2018
+success
+fail
+ About this capture
+COLLECTED BY
+Organization: Internet Archive
+  These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to.   That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.  
+Then the Internet Archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.
+The goal is to fix all broken links on the web. 
+Crawls of supported "No More 404" sites.
+Collection: Wikipedia Near Real Time (from IRC)
+  This is a collection of web page captures from links added to, or changed on, Wikipedia pages. The idea is to bring a reliability to Wikipedia outlinks so that if the pages referenced by Wikipedia articles are changed, or go away, a reader can permanently find what was originally referred to.
+This is part of the Internet Archive's attempt to rid the web of broken links.
+TIMESTAMPS
+The Wayback Machine - http://web.archive.org/web/20170825105704/http://www.linuxtoday.com/developer/1998100500205OP
+ 
+ 
+ 
+ 
+ 
+Subscribe to Our Daily Newsletter
+Current Newswire:
+5 apps to install on your Fedora Workstation
+Multi-Server Samba Installation to Protect Your Network Against Outages and Network Attacks
+Managing Docker Instances with Puppet
+Chef expands its cloud and container menu
+NetworkManager changes and improvements
+Kubernetes: The smart person's guide
+Serverless computing picks up new Docker option
+The Linux Foundation: Not a Friend of Desktop Linux, the GPL, or Openness
+Radeon Linux 4.11 + Mesa 17.1-dev vs. NVIDIA 378.13 Graphics Performance
+Top Ubuntu Mistakes: How to Avoid Ubuntu Problems
+More on LinuxToday
+Sitemap
+Feedback
+ 
+KERNEL-DEV: UDI and Free Software by Richard Stallman
+ Oct 05, 1998, 03:05(7 Talkback[s])  
+Tweet
+Editor's note: the following are Richard Stallman's views on
+Intel's proposal for free software developers to develop kernel
+drivers for UDI--posted on the kernel-dev list October 4.
+Further comments are on slashdot.org
+UDI and Free Software
+Intel has a project called UDI: Uniform Driver Interface. The
+idea is to define a single interface between operating system
+kernels and device drivers. What should the free software movement
+make of this idea?
+If we imagine a number of operating systems and hardware
+developers, all cooperating on an equal footing, UDI (if
+technically feasible) would be a very good idea. It would permit us
+to develop just one driver for any given hardware device, and then
+all share it. It would enable a higher level of cooperation.
+When we apply the idea to the actual world, which contains both
+free software developers seeking cooperation, and proprietary
+software developers seeking domination, the consequences are very
+different. No way of using UDI can benefit the free software
+movement. If it does anything, it will divide and weaken us.
+If Linux supported UDI, and if we started designing new drivers
+to communicate with Linux through UDI, what would the consequences
+be?
+* People could run free GPL-covered Linux drivers with Windows
+systems.
+This would help only Windows users; it would do nothing for us
+users of free operating systems. It would not directly hurt us,
+either; but the developers of GPL-covered free drivers could be
+discouraged to see them used in this way, and that would be very
+bad. It can also be a violation of the GNU GPL to link the drivers
+into a proprietary kernel. To increase the temptation to do so is
+asking for trouble.
+* People could run non-free Windows drivers on GNU/Linux
+systems.
+This would not directly affect the range of hardware supported
+by free software. But indirectly it would tend to decrease the
+range, by offering a temptation to the millions of GNU/Linux users
+who have not learned to insist on freedom for its own sake. To the
+extent that the community began to accept the temptation, we would
+move to using non-free drivers instead of writing free ones.
+UDI would not in itself obstruct development of free drivers. So
+if enough of us rejected the temptation, we could still develop
+free drivers despite UDI, just as we do without UDI.
+But why encourage the community to be weaker than it needs to
+be? Why make unnecessary difficulties for the future of free
+software? Since UDI does no good for us, it is better to reject
+UDI.
+Given these consequences, it is no surprise that Intel has
+started to "look to the Linux community for help with UDI." How
+does a rich and self-seeking company approach a cooperating
+community? By asking for a handout, of course. They have nothing to
+lose by asking, and we might be caught off guard and say yes.
+Cooperation with Intel is not out of the question. We should not
+label Intel, or anyone, as a Great Satan. But before we participate
+in any proposed deal, we must judge it carefully, to make sure it
+is advantageous for the free software community, not just for
+proprietary system developers. On this particular issue, that means
+requiring that cooperation take us a step further along a path that
+leads to the ultimate goal for free kernels and drivers: supporting
+*all* important hardware with free drivers.
+One way to make a deal a good one could be by modifying the UDI
+project itself. Eric Raymond has proposed that UDI compliance could
+require that the driver be free software. That would be ideal, but
+other alternatives could also work. Just requiring source for the
+driver to be published, and not a trade secret, could do the
+job--because if that driver is not free, it would at least tell us
+what we need to know to write a free driver.
+Intel could also do something else, outside of UDI, to help the
+free software community solve this problem. For example, there may
+be some sort of certification that hardware developers seek, that
+Intel plays a role in granting. If so, Intel could agree to make
+certification more difficult if the hardware specs are secret. That
+might not be a complete solution to the problem, but it could help
+quite a bit.
+One difficulty with any deal involving UDI is that we would do
+our part for Intel at the beginning, but Intel's payback would
+extend over a long time. In effect, we would be extending credit to
+Intel. But would Intel continue to repay its loan? Probably yes, if
+we get it in writing and there are no loopholes; otherwise, we
+can't count on it. Corporations are notoriously untrustworthy; the
+people we are dealing with may have integrity, but they could be
+overruled from above, or even replaced at any time with different
+people. When making a deal with a corporation, always get a binding
+commitment in writing.
+Given Intel's involvement in I2O, a broad plan to keep hardware
+specifications secret, it is not likely that they will accept a
+deal that gives us what we need. In fact, UDI seems like a plan to
+make it easier to keep specifications secret.
+Still, there is no harm in keeping the door unlocked, as long as
+we are careful whether we let Intel in.
+Copyright 1998 Richard Stallman
+Verbatim copying and distribution is permitted in any medium
+provided this notice is preserved.
+Please enable Javascript in your browser, before you post the comment! Now Javascript is disabled.
+0 Talkback[s] 
+(click to add your comment)
+ 
+ 
+ 

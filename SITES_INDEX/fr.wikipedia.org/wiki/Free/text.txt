@@ -1,0 +1,181 @@
+Free/Libre Open Source Software — Wikipédia
+Aller au contenu
+Menu principal
+Menu principal
+déplacer vers la barre latérale
+masquer
+Navigation
+AccueilPortails thématiquesArticle au hasardContact
+Contribuer
+Débuter sur WikipédiaAideCommunautéModifications récentesFaire un don
+Langues
+Sur cette version linguistique de Wikipédia, les liens interlangues sont placés en haut à droite du titre de l’article.Aller en haut.
+Rechercher
+Rechercher
+Créer un compteSe connecter
+Outils personnels
+ Créer un compte Se connecter
+Pages pour les contributeurs déconnectés en savoir plus
+ContributionsDiscussion
+Sommaire
+déplacer vers la barre latérale
+masquer
+Début
+1Références
+2Voir aussi
+Afficher / masquer la sous-section Voir aussi
+2.1Articles connexes
+2.2Liens externes
+Basculer la table des matières
+Basculer la table des matières
+Free/Libre Open Source Software
+47 langues
+العربيةAzərbaycancaবাংলাCatalàCebuanoکوردیČeštinaDanskDeutschΕλληνικάEnglishEspañolفارسیעבריתहिन्दीBahasa IndonesiaIdoÍslenskaItaliano日本語ქართულიಕನ್ನಡ한국어КыргызчаМонголBahasa MelayuनेपालीNederlandsNorsk bokmålPolskiPortuguêsRomânăРусскийසිංහලSimple EnglishSlovenčinaSlovenščinaShqipСрпски / srpskiSvenskaTürkçeУкраїнськаاردوOʻzbekcha / ўзбекчаTiếng Việt中文粵語
+Modifier les liens
+ArticleDiscussion
+français
+LireModifierModifier le codeVoir l’historique
+Outils
+Outils
+déplacer vers la barre latérale
+masquer
+Actions
+LireModifierModifier le codeVoir l’historique
+Général
+Pages liéesSuivi des pages liéesTéléverser un fichierPages spécialesLien permanentInformations sur la pageCiter cette pageÉlément Wikidata
+Imprimer / exporter
+Créer un livreTélécharger comme PDFVersion imprimable
+Un article de Wikipédia, l'encyclopédie libre.
+ 
+Cet article est une ébauche concernant l’informatique et l’économie.
+Vous pouvez partager vos connaissances en l’améliorant (comment ?) selon les recommandations des projets correspondants.
+Capture d'écran d'un bureau avec de multiples logiciels open-source en cours d'exécution: VLC, Firefox, LibreOffice Writer, GIMP, etc.
+Free and open-source software (F/OSS, FOSS) ou free/libre/open-source software (FLOSS) sont des expressions inclusives, rassemblant à la fois les logiciels libres et les logiciels à code source ouvert, qui malgré des cultures et des philosophies divergentes ont des modèles de développement logiciel similaires. Ces expressions permettent de désigner globalement le type particulier de logiciels produits par ce modèle de développement logiciel spécifique (par opposition aux modèles des logiciels propriétaires), en mettant de côté les divergences philosophiques qui existent au sein de ce courant (le mouvement original du logiciel libre insistant davantage sur le concept de liberté, au sens philosophique et socio-politique, tandis que le mouvement des logiciels à code source ouvert s'est différencié de son parent en insistant plus sur l'aspect technique et pratique du développement ouvert et collectif)[1].
+L'emploi de ces expressions permet de ne pas prendre parti entre les deux courants, en insistant sur ce qui les unit : le fait que les logiciels sont publiés sous licence libre afin de permettre aux utilisateurs d'utiliser à toute fin, de copier, d'étudier, de modifier et de redistribuer à titre gratuit ou onéreux ces derniers grâce à la disponibilité du code source. D'après Richard Stallman, l'initiateur du mouvement du logiciel libre via le projet GNU, l'usage du terme « FLOSS » est légitime dans le cas précis où l'on ne souhaite pas prendre parti pour l'une ou l'autre approche[2].
+Cependant, comme avec tout terme amalgamant, on peut s'interroger sur la prédominance de l'une ou l'autre acception ainsi rassemblées : Stallman fait ainsi remarquer que ce sont souvent des personnes qui « ont d'abord entendu parler du mouvement open source et pensent que nous le soutenons tous » qui réclament d'utiliser le terme de F/LOSS[2]. Ce serait donc la vision du mouvement « open source » qui prévaudrait en utilisant cette expression, gommant ainsi l'insistance du logiciel libre sur l'éthique. Cette pratique est à rapprocher de ce que l'historien Georges Corm appelle des méga-identités, soit « un groupe extrêmement large [...] et qui sous beaucoup d'aspects est une construction de l'esprit »[3].
+Ainsi, les mouvements du logiciel libre et du logiciel à code source ouvert ne sont pas la même chose, chacun mettant en avant des valeurs différentes : la liberté pour le logiciel libre et la technique pour l'open source. Richard Stallman indique même que « le mouvement de l'open source a été conçu spécifiquement pour écarter le fondement éthique du mouvement du logiciel libre », l'utilisation du terme de « F/LOSS » permettant alors d'éviter de reconnaître ce désaccord particulier[2] (§12). Cependant, la réduction via ces expressions induit de fait un flou quant aux concepts discutés, en mettant de côté les caractéristiques idéologiques et conduit à une perversion de l'histoire en séparant une technique de son contexte de développement. L'utilisation de ce terme est donc à réserver pour parler globalement des « logiciels à code source ouvert et licences libres », et l'on pourra plus justement employer le terme de logiciel libre pour parler du mouvement historique datant des années 1980[4].
+Références[modifier | modifier le code]
+↑ Richard Stallman, Mathieu Stumpf (trad.), « Pourquoi l'« open source » passe à côté du problème que soulève le logiciel libre », Philosophie, sur Projet GNU, Free Software Foundation (consulté le 19 octobre 2013)
+↑ a b et c (en) ab, Richard Stallman, « Free Software - Free Society! Interview with Richard Stallman (+ transcript) », sur Indiymedia UK, 31 mai 2004 (consulté le 19 octobre 2013) (§14)
+↑ Georges Corm, A. Hobballah, « A Propos de l’Orient et de l’Occident, fracture imaginaire », sur goergescorm.com, article de la revue de psychanalyse « La Célibataire », printemps 2004 (consulté le 19 octobre 2013), p. 1
+↑ (en) Richard Stallman, Benjamin Drieu (trad.), « Pourquoi l'expression « logiciel libre » est meilleure qu'« open source » », Philosophie, sur Projet GNU, Free Software Foundation (consulté le 19 octobre 2013)
+Voir aussi[modifier | modifier le code]
+Articles connexes[modifier | modifier le code]
+Culture libre
+Copyleft
+Framasoft
+Free Software Foundation
+Histoire du logiciel libre
+Intelligence collective
+Intelligence collective sur Internet 
+Licence libre
+Projet GNU
+Open Source Initiative
+Richard Stallman et la révolution du logiciel libre
+Travail collaboratif
+Liens externes[modifier | modifier le code]
+(en) « Free Open Source Software for Developing Countries: Building local capacity through knowledge sharing and networking » (Paul Zambrano - UNDP ICTD 2003)
+(en) Use of Free and Open Source Software in the US DoD (ITRE Corp)
+(en) FLOSS+Art, recueil d'articles sur l'influence du Logiciel Libre et Open Source sur l'art
+(en) Why OSS/FS? Look at the numbers (David Wheeler)
+Modèle:Palette:FOSS (en)
+v · mCartographie en ligne
+ 
+Service en ligne
+Commercial
+Baidu Maps
+Bing Cartes
+Bhuvan
+Google Maps
+HERE WeGo
+Map World
+Mappy
+MapQuest
+Qwant Maps
+ViaMichelin
+Waze
+Wikimapia
+ 
+Non commercial
+OpenStreetMap
+OpenSeaMap
+ 
+Administratif
+Géoportail
+Géofoncier
+ 
+Application sans version navigateur
+Marble
+World Wind
+ 
+Fournisseur de données
+HERE
+TomTom
+IGN
+OpenStreetMap
+ 
+Fournisseur de service
+BRGM
+IGN
+NASA
+Mapbox
+ 
+Fournisseur de PDN
+Garmin
+Navman
+TomTom
+ 
+Administrations
+CNIG
+CNT
+DGFiP
+SHOM
+CGI
+Insee
+la Poste
+DGLFLF
+Archives nationales
+BnF
+EHESS
+CNRS
+ 
+ConceptsInternet et géomatiqueassociés
+Internet
+World Wide Web
+Web 2.0
+Open source
+Open Source Initiative
+Licence libre
+FLOSS
+Néogéographie
+SIG
+INSPIRE
+Géocodage
+Géocodage inversé
+Géotag
+KML
+GML
+Géofencing
+Géolocalisation
+Système de positionnement
+Application composite
+Service Web
+Web scraping
+Échange de données informatisé
+ 
+ Portail du logiciel   Portail des logiciels libres  
+Ce document provient de « https://fr.wikipedia.org/w/index.php?title=Free/Libre_Open_Source_Software&oldid=201259755 ».
+Catégorie : Communauté du logiciel libreCatégories cachées : Wikipédia:ébauche informatiqueWikipédia:ébauche économieArticle contenant un appel à traduction en anglaisPortail:Logiciel/Articles liésPortail:Informatique/Articles liésPortail:Logiciels libres/Articles liés
+ La dernière modification de cette page a été faite le 10 février 2023 à 13:34.
+Droit d'auteur : les textes sont disponibles sous licence Creative Commons attribution, partage dans les mêmes conditions ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
+Politique de confidentialité
+À propos de Wikipédia
+Avertissements
+Contact
+Code de conduite
+Version mobile
+Développeurs
+Statistiques
+Déclaration sur les témoins (cookies)
+Activer ou désactiver la limitation de largeur du contenu

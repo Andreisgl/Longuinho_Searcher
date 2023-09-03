@@ -1,0 +1,177 @@
+Tech/News - Meta
+Tech/News
+From Meta, a Wikimedia project coordination wiki
+< Tech
+Jump to navigation
+Jump to search
+Translate this pageOther languages:Bahasa Indonesia
+Deutsch
+Dusun Bundu-liwan
+English
+Esperanto
+Hausa
+Interlingue
+Lëtzebuergesch
+Nederlands
+Ripoarisch
+Tagalog
+Tiếng Việt
+Türkçe
+asturianu
+bosanski
+dansk
+español
+français
+føroyskt
+italiano
+lietuvių
+magyar
+norsk bokmål
+occitan
+polski
+português
+português do Brasil
+română
+shqip
+slovenčina
+suomi
+svenska
+čeština
+Ελληνικά
+български
+македонски
+русский
+српски / srpski
+українська
+ייִדיש
+עברית
+اردو
+العربية
+سنڌي
+فارسی
+پښتو
+کوردی
+नेपाली
+मराठी
+हिन्दी
+বাংলা
+ગુજરાતી
+ಕನ್ನಡ
+മലയാളം
+සිංහල
+ไทย
+中文
+日本語
+粵語
+ꠍꠤꠟꠐꠤ
+ꯃꯤꯇꯩ ꯂꯣꯟ
+한국어
+Tech Forum
+Tech News
+Tech Ambassadors
+Wikimedia Technology
+Wikimedia Product
+MediaWiki
+Monitoring and understanding all the technical activity happening across the Wikimedia movement is a difficult and time-consuming task.
+By subscribing to Tech News, you can help monitor recent software changes likely to impact Wikimedians, and receive a weekly summary on your talk page, without technical jargon.
+Read the latest issue
+Get Tech News on your talk page
+Get it elsewhere
+Edit the next issue
+Brief info: Help write Tech News
+More details: Add an item
+Translate the next issue
+Get tech news
+Subscribe on wiki
+Subscribe to talk-page delivery to receive the weekly Tech News on your talk page on your local wiki.
+Subscribe to a web feed
+Subscribe to an Atom or RSS feed to receive Tech News in your favourite news aggregator as soon as it arrives.
+Subscribe to the list
+You're also encouraged to subscribe to our mailing list.
+The list is low-traffic and allows you to comment on changes and ask for further information. It's also a good place to publish comments and questions from your fellow editors on your wiki.
+Read the latest issue
+A new issue is published every week.
+Read old issues
+The archives contain all the previous weekly issues.
+Advertise Tech News
+Do you know people who would be interested in the Tech News summary? Invite them to sign up for talk-page delivery and the mailing list.
+If you get consensus, you can also add a community page (like your local village pump, technical noticeboard or community newspaper) to the talk page delivery list, so that everyone reading the page can see the updates.
+You can also display these user boxes on your user page, and copy them to your home wiki:
+{{User tech news}}
+TNThis user reads Tech News to be notified of upcoming technical changes.
+{{User tech news translator}}
+This user translates the weekly tech newsletter.
+Help write Tech News
+Write and simplify
+Do add material to Tech News! Any additions are always very welcome.
+Add information, even if you are not sure it's vital or important. It is better to remove something later than to miss information that should have been included.
+Keep in mind while editing:
+Use simple, non-technical language;
+Use short, common words and the active voice for verbs;
+Use <abbr> for abbreviations and acronyms;
+Keep entries short (ideally no longer than two short sentences);
+Link to details, ideally translatable content on a wiki, with the most important link first
+Use  ([[File:Octicons-sync.svg|12px|link=]]) for items that are in most issues of the newsletter (new MediaWiki version, some meetings) and  ([[File:Octicons-tools.svg|15px|link=]]) for advanced items aimed at technical editors.
+Monitor changes
+Check the following sources of information. Choose those you understand and are comfortable with: if you understand code, you can look at the commits, for example, while summarizing mailing list discussions may be more appropriate for someone who doesn't code:
+The #user-notice tag in Phabricator;
+Recent wikitech-ambassadors messages;
+Recent wikitech-l threads;
+Upcoming deployments;
+Wikimedia Foundation Tech Blog.
+Select information
+From those sources, select what you think is relevant:
+for Wikimedians without specialized technical knowledge, who may otherwise not learn about technical changes that may affect them;
+for people who relay these news to their fellow editors, like village pumps or noticeboards.
+Add material to the next summary.
+Any contribution is useful, even just adding a link. Other contributors can help write or simplify a longer description later.
+There are more ways to add information to Tech News.
+Get started
+The next issue is scheduled for publication on 2023-09-04.
+Inclusion criteria and deadlines for contributors
+Publication manual for new issues
+You have a question about how to contribute to Tech News? Please contact us
+Issues when sending out the newsletter are documented at Tech/News/Problems.
+Translate and localize
+All weekly summaries are translatable. If you can write in more than one language, please consider translating summaries, for the benefit of your fellow editors. Translate the next issue.
+Find contributors
+Invite other people willing to contribute to Tech News, so that everyone works a bit less.
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Tech/News&oldid=25494461"
+Category: Tech News
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Content pageDiscussion
+English
+Views
+ReadView sourceView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+MediaWikiWikispeciesWikipediaWikiversity
+In other languages
+العربيةBosanskiCatalàDeutschEnglishItalianoLa .lojban.ҚазақшаLietuviųമലയാളംSimple EnglishSvenskaTiếng Việt粵語
+Edit links
+ This page was last edited on 21 August 2023, at 00:53.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

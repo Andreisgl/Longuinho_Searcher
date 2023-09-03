@@ -1,0 +1,644 @@
+Help:Multilingual support (Indic) - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Languages
+Language links are at the top of the page across from the title.
+Search
+Search
+Create accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1Check for existing support
+2Devanagari bilingual Keyboard InScript layout
+3Windows XP and Server 2003
+Toggle Windows XP and Server 2003 subsection
+3.1Viewing Indic text (Manual method)
+3.2Inputting Indic text
+4Windows Vista and Windows 7
+Toggle Windows Vista and Windows 7 subsection
+4.1Viewing Indic text
+4.1.1Burmese
+4.1.2Khmer
+4.1.3Tibetan
+4.2Inputting Indic text
+5macOS
+Toggle macOS subsection
+5.1Viewing Indic text
+5.2Inputting Indic text
+6Linux
+Toggle Linux subsection
+6.1GNOME
+6.1.1Viewing Indic text
+6.1.2Inputting Indic text
+6.2KDE
+6.2.1Viewing Indic text
+6.2.2Inputting Indic text
+6.3Distribution-specific advice
+6.3.1Debian (and derivatives like Ubuntu)
+6.3.1.1Viewing Indic text
+6.3.1.2Restarting X Server in Debian
+6.3.1.3For viewing Tibetan script
+6.3.1.4Inputting Indic text
+6.3.2Fedora
+6.3.2.1Installing Indic fonts
+6.3.2.2Keyboard support
+6.3.3Arch Linux
+6.3.4Gentoo
+6.3.4.1Installing Indic fonts
+6.3.4.2Installing Tibetan fonts
+6.3.4.3Inputting Indic text
+6.3.5Slacko Puppy Linux
+6.3.6Slackware
+7FreeBSD
+Toggle FreeBSD subsection
+7.1Installing Indic fonts
+7.2Inputting Indic text
+8NetBSD, DragonFlyBSD, pkgsrc
+9Unicode OpenType fonts
+10References
+11External links
+Toggle External links subsection
+11.1Other information
+11.2Fonts
+11.3Other input methods
+11.3.1Online transliteration/input
+11.3.2Browser plugins
+11.3.3Installable software
+11.3.3.1Cross-platform
+11.3.3.2Windows-only
+Toggle the table of contents
+Toggle the table of contents
+Help:Multilingual support (Indic)
+8 languages
+भोजपुरीFrançaisहिन्दीമലയാളം日本語ଓଡ଼ିଆភាសាខ្មែរతెలుగు
+Edit links
+Help pageTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+Print/export
+Download as PDFPrintable version
+From Wikipedia, the free encyclopedia
+(Redirected from Wikipedia:Enabling complex text support for Indic scripts)
+"WP:COMPLEX" redirects here. For the essay about the increasing complexity of Wikipedia's rules, see WP:Avoid instruction creep. For the essay on complex discussions, see WP:Contributing to complicated discussions."WP:INDIC" redirects here. For the guideline on Indic scripts in leads and infoboxes, see WP:INDICSCRIPT.Wikipedia information pageThis is an information page.It is not one of Wikipedia's policies or guidelines, but rather intends to describe some aspect(s) of Wikipedia's norms, customs, technicalities, or practices. It may reflect varying levels of consensus and vetting.ShortcutsWP:COMPLEXWP:INDICWP:ECTS
+Several pages on Wikipedia use Indic scripts to illustrate the native representation of names, places, quotes and literature.  Unicode is the encoding used on Wikipedia and it contains support for a number of Indic scripts.  However, before Indic scripts can be viewed or edited, support for complex text layout must be enabled on your operating system, otherwise mojibake will appear.  Some older operating systems do not support complex text rendering and you should not use such systems to edit Indic scripts.
+This page lists the methods for enabling complex text rendering based on the operating environment or browser you are using.  Many of the methods highlighted can also be used for non-Indic complex scripts such as Arabic.
+Check for existing support[edit]
+The following table compares how a correctly enabled computer would render the following scripts with how your computer renders them:
+Script
+Example ofrendering
+macOSinbuilt support
+Linux or BSDinbuilt support
+Windowsinbuilt support
+Correct rendering
+Your computer
+10.7
+10.13
+KDEwithQt
+GNOMEwithPango
+XP
+Vista
+7
+8/8.1
+10
+11
+Devanagari
+क + ि → कि
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Tamil
+க + ே → கே
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Gujarati
+ક + િ → કિ
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Gurmukhi
+ਕ + ਿ → ਕਿ
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Kannada
+ಕ + ಿ → ಕಿ
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Telugu
+య + ీ → యీ
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Bengali–Assamese
+ক + ি → কি
+Yes
+Yes
+Yes
+Yes
+Yes (SP2)
+Yes
+Yes
+Yes
+Yes
+Yes
+Malayalam
+ക + െ → കെ
+Yes
+Yes
+Yes
+Yes
+Yes (SP2)
+Yes
+Yes
+Yes
+Yes
+Yes
+Tibetan
+ར + ྐ + ྱ → རྐྱ
+Yes
+Yes
+needs font
+needs font
+needs patch (SP2)
+Yes
+Yes
+Yes
+Yes
+Yes
+Sinhala
+ඵ + ේ → ඵේ
+Yes
+Yes
+Yes
+Yes
+needs font (SP2)
+Yes
+Yes
+Yes
+Yes
+Yes
+Odia
+କ + େ → କେ
+Yes
+Yes
+Yes
+Yes
+needs font (SP2)
+Yes
+Yes
+Yes
+Yes
+Yes
+Thai
+ฐ + ู → ฐู
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Lao
+ກ + ົ + ້ → ກົ້
+Yes
+Yes
+Yes
+Yes
+needs font (SP2)
+Yes
+Yes
+Yes
+Yes
+Yes
+Khmer
+ម + ្ + ស + ៅ → ម្សៅ
+Yes
+Yes
+Yes
+Yes
+needs font (SP2)
+Yes
+Yes
+Yes
+Yes
+Yes
+Burmese
+ဃ + ြ → ဃြ
+Yes
+Yes
+No
+needs font
+needs font (SP2)
+needs font
+needs font
+Yes
+Yes
+Yes
+Javanese
+ꦧ + ꦾ + ꦺ + ꦴ + ꦂ → ꦧꦾꦺꦴꦂ
+Un­known
+Yes
+Un­known
+Un­known
+No
+No
+No
+Yes (8.1)
+Yes
+Yes
+Balinese
+ᬩ + ᭄ + ᬬ + ᬾ + ᬵ + ᬃ → ᬩ᭄ᬬᭀᬃ
+Un­known
+Yes
+Un­known
+Un­known
+Un­known
+Un­known
+needs font
+needs font
+needs font
+needs font
+Sundanese
+ᮘ + ᮡ + ᮦ + ᮁ → ᮘᮡᮦᮁ
+Un­known
+Yes
+Un­known
+Un­known
+needs font (SP2)
+needs font
+needs font
+needs font
+needs font
+needs font
+If the rendering on your computer matches the rendering in the images for the scripts, then you have already enabled complex text support.  You should be able to view text correctly in that script. However, this does not mean you will be able to edit text in that script.  To edit such text you need to have the appropriate text entry software on your operating system.
+Devanagari bilingual Keyboard InScript layout[edit]
+To type in Devanagari script, use of InScript इन्स्क्रिप्ट keyboard is a permanent and easy solution. Inscript is standard developed by CDAC and approved by Government of India.
+A bilingual InScript keyboard
+This keyboard can be configured to work with Windows 2000, Windows XP, Ubuntu Linux and fedora Linux etc. See below sections for detailed instructions.
+Windows XP and Server 2003[edit]
+Supports: Bengali (XP SP2), Devanagari, Gujarati, Gurmukhi, Kannada, Malayalam (XP SP2), Tamil, Telugu. The default Bengali font, Vrinda, appears too small, so it might be desirable to install another font. Oriya works with SP2 and later if you install unicode fonts.
+Viewing Indic text (Manual method)[edit]
+Install at least one Unicode font in your system, associated with the language that you want to view correctly, or install a Unicode font which contains large character set for many different languages.
+Go to Start → Control Panel.
+If you are in "Category View" select the icon that says "Date, Time, Language and Regional Options" and then select "Regional and Language Options".
+If you are in Classic View select the icon that says "Regional and Language Options".
+Select the "Languages" tab and make sure you select the option saying "Install files for complex script and right-to-left languages (including Thai)". A confirmation message should now appear - press "OK" on this confirmation message.
+Allow the OS to install necessary files from the Windows XP CD and then reboot if prompted.
+Install or Enable your Language(Script) support on your web-browser software:
+On Internet Explorer 6: Go to Tools → Internet Options → General → Languages, and add your particular language(s) that you want to view correctly.
+On Firefox 3.0: Go to Tools → Options → Content → Languages → Choose ..., and add your particular languages(s) that you want to view correctly. Doesn't work for Firefox 3.6.13 though!
+Go to your web-browser's "view" menu and set the "character encoding" or "encoding" feature to: Unicode (UTF-8).
+In Firefox, if Indic Scripts are still appearing incorrectly, you may then use the latest version of usp10.dll on your system and it may also be necessary to install a Unicode OpenType font.
+This is an optional step, only when you want to use a specific Unicode font for your chosen particular language(s) for viewing webpages. 
+To use a specific font for webpages:
+For Internet Explorer 6: Go to Tools → Internet options → Fonts, choose your particular language from the Language Script pulldown menu and select a font from one of the available fonts for that particular language in your system.
+For Firefox 1.5: Go to Tools → Options → Content tab → Advanced ... in the Fonts and colors section. In the pop up window titled "Fonts", select your particular language from the "Fonts for:" pulldown Menu and set a font that is associated with your particular language of your choice, for various kinds of fields like Serif, Sans Serif, Monospace, etc. to be used for showing webpages.
+For Opera 9: Go to Tools → Preferences → Advanced tab → Fonts → International fonts → choose your particular language from the drop down list. Select a font for your language of your choice. In most of the cases, Opera automatically detects if you have enabled Unicode support and installed fonts, so you may not require this step.
+Tibetan is properly supported since Firefox 4.
+Inputting Indic text[edit]
+Windows XP has inbuilt InScript Keyboards for nearly all Indian languages. You can add them via Control Panel. You must follow the steps above before you perform the remaining steps.
+In the "Regional and Language Options", click the "Languages" tab.
+Click on the "Details" button.
+Click the "Add" button to add a keyboard for your particular language.
+In the drop-down box, select your required Indian language.
+Make sure the check box labelled "Keyboard layout/IME" is selected and ensure you select an appropriate keyboard.
+Now select "OK" to save changes.
+You can use the combination Alt+⇧ Shift to switch between different keyboard layouts (e.g. from a UK Keyboard to Gurmukhi and vice versa). If you want a language bar, you can select it by pressing the "Language Bar ..." button on the "Text Services and Input Languages" dialog and then selecting "Show the language bar on my desktop". The language bar enables you to visually select the keyboard layout you are using.
+For the people who are not able to use the above InScript Keyboard, there are some other Keyboard Drivers available. For Phonetic typing Baraha IME or Google IME is suggested and for Remington typing IndicIME is suggested.
+Baraha and PramukhIME are Phonetic based software and includes nearly all of Indic languages. Baraha Direct included in Baraha Package supports both ANSI & Unicode while Baraha IME supports only Unicode.
+Indic IME 1 (v5.0) is available from Microsoft Bhasha India. This supports Hindi Scripts, Gujarati, Kannada and Tamil.  Indic IME 1 gives the user a choice between a number of keyboards including Phonetic, InScript and Remington.
+For people who cannot download the above software, or for people on the move, Google Transliteration is an online Indian language typing tool which provides an online virtual keyboard, you can use the following application, copy the text on the clipboard and then copy it back to the Wikipedia editing box.
+MyMyanmar Projects provide MyMyanmar Unicode System to input Myanmar(Burmese) text.[1]
+Another alternative is User:Keymanweb/Keymanweb which provides a web-based keyboard that is integrated into Wikipedia with support for 300 languages, including most of the complex scripts listed on this page.
+Windows Vista and Windows 7[edit]
+Supports: Bengali, Devanagari, Gujarati, Gurmukhi, Kannada, Malayalam, Oriya, Sinhala, Tamil, Telugu, Tibetan. The default Bengali font, Vrinda, appears too small, so it might be desirable to install another font. The same applies to the default Tibetan font.
+Complex text support is automatically enabled.
+Viewing Indic text[edit]
+Burmese[edit]
+This page contains Burmese script. Without proper rendering support, you may see question marks, boxes, or other symbols instead of Burmese script.
+You do not need to do anything to enable viewing of Indic text, except Burmese script (examples: ဃ + ြ → ဃြ and မြန်မာအက္ခရာ) which needs a font not pre-installed on Vista. Follow the help provided in the template to the right.
+Khmer[edit]
+The pre-installed Khmer fonts in Windows Vista and Windows 7 are generally considered illegible because of their tiny default point. If desired these fonts may be replaced with other Khmer Unicode fonts available online. See Google Fonts - Khmer or http://www.selapa.net/khmerfonts/ for a list of Khmer Unicode fonts.
+Tibetan[edit]
+This page contains Tibetan script. Without proper rendering support, you may see very small fonts, misplaced vowels or missing conjuncts instead of Tibetan characters.
+The pre-installed Tibetan fonts in Windows Vista and Windows 7 known as "Microsoft Himalaya" is generally considered illegible because of their tiny default point. If desired the font may be replaced with a fix to the size - "Big Microsoft Himalaya". See Google Fonts - Tibetan or [1] to replace "Microsoft Himalaya" with "Big Microsoft Himalaya".
+Inputting Indic text[edit]
+Windows Vista, like Windows XP, has inbuilt InScript keyboards for nearly all Indian languages. You can add them via the Control Panel. 
+Go to Start → Control Panel
+If you are in normal view, select ⟨Change keyboards or other input methods⟩ from under ⟨Clock, Language and Region⟩.
+If you are in Classic view, select ⟨Regional and Language Options⟩.
+Select the ⟨Keyboards and Languages⟩ tab if it is not already selected.
+Select the ⟨Change keyboards ...⟩ button.
+Choose you desired language(s) from the list and expand them using the '+' sign. Then, expand the item which says ⟨Keyboard⟩ and tick your preferred keyboard layout(s).
+Select ⟨OK⟩, and ⟨OK⟩ again to save the changes.
+The default hot key combination for switching between languages is Alt+⇧ Shift.
+This video may help you in activating the ULS feature for typing in certain Indic languages. CC instructions are available for British English.
+The following software allows typing in Indian scripts:
+Microsoft Bhasha India IME – both phonetic and several traditional (InScript, Remington, etc.) input methods
+Google IME – phonetic text input
+Baraha IME – phonetic text input
+PramukhIME – phonetic text input
+Pada IME - phonetic, transliteration and other input methods
+gambhana fontfreedom - gamabhana, fontfreedom, English phonetic for multiple languages
+Another alternative is User:Keymanweb/Keymanweb which provides a web-based keyboard that is integrated into Wikipedia and supports 300 languages, including most of the complex scripts listed on this page. The ISIS keyboards are available through Keymanweb.
+macOS[edit]
+Inbuilt support:
+Mac OS X 10.3 and earlier support Devanagari, Gujarati, Gurmukhi
+Mac OS X 10.4 adds support for Tamil
+Mac OS X 10.5 adds support for Tibetan
+Mac OS X 10.7 adds support for Kannada, Telugu, Bengali–Assamese, Malayalam, Sinhala, Oriya, Lao, Khmer and Burmese.
+Additional fonts:
+Free Bangla fonts and keyboard available from ekushey.org
+Free Malayalam fonts and keyboards available here
+Free Khmer font available from Danh Hong's blog or by downloading any Khmer font from Google Fonts
+Free Burmese font: Martin Hosken's Padauk
+Note: Additional fonts for these scripts have to be in /Library/Fonts in order for text to be displayed. 
+Viewing Indic text[edit]
+You do not need to do anything to enable viewing of Indic text as long as you have installed a suitable font. The Indic text will be displayed by Safari or most other Cocoa applications, which fully support rearrangement and substitution for AAT-based fonts, and it will be displayed by Firefox after 4.0 which fully supports rearrangement and substitution for OpenType-based fonts by using HarfBuzz. Opera also provides some support, although considerable bugs remain as of version 11.01 (though Opera at least renders the glyphs).
+Carbon applications such as Microsoft Word and Adobe Photoshop do not generally support Indic script.
+Inputting Indic text[edit]
+Specific keyboard layouts can be enabled in System Preferences, in the International pane. Switching among enabled keyboard layouts is done through the input menu in the upper right corner of the screen. The input menu appears as an icon indicating the current input method or keyboard layout — often a flag identified with the country, language, or script. Specific instructions are available from the "Help" menu (search for "Writing text in other languages").
+Mac OS 10.4 system software comes with two installable Keyboard input options for Tamil: Murasu Anjal and Tamilnet 99. One needs to do the following steps to activate them:
+i) Open "international" located within System Preferences and select "language". Select the "edit list", select "Tamil" from the list of languages shown and click OK.
+ii) Select "input menu" to see a list of keyboard options available. Select "Anjal" and "Tamilnet99" keyboards under Murasu Anjal Tamil and Click OK.
+iii) Anjal and Tamilnet99 keyboard icons appear immediately in the list of keyboards to select under the country flag in the top menu bar.
+An alternative way to activate the keyboard(s) for Devanagari (Hindi etc.):
+i) Open "International" located within System Preferences and select the "Input Menu" tab.
+(ii) Check the option for "Devanagari" and/or "Devanagari - QWERTY".
+(iii) Check the "Show input menu in menu bar" option at the bottom of the "International" panel. Close the panel, and the new keyboard(s) should be available for selection when you click on the menu bar icon (upper right corner).
+SIL distributes a freeware Ukelele that allows anyone to design their own input keyboard for macOS.
+For Telugu input method using ukelele two types of keyboard layouts PraSankar has been developed by navataramgam team to encourage their readers to post comments in Telugu. 
+Another alternative is User:Keymanweb/Keymanweb which provides a web-based keyboard that is integrated into Wikipedia with support for 300 languages, including most of the complex scripts listed on this page.
+For Phonetic transliteration on macOS using an Input Method Engine or IME, you can use LipikaIME. It has built-in support for typing in ISO 15919, Bengali, Devanagari, Gujarati, Gurmukhi, Hindi, Kannada, Malayalam, Oriya, Tamil and Telugu using ITRANS, Baraha, Harvard-Kyoto, Barahavat and Ksharanam. It can also be extended to other languages and transliteration schemes by adding new schemes in Google Input Tools' Canonical Scheme Format.
+Linux[edit]
+GNOME[edit]
+Supports: Bengali, Devanagari, Gujarati, Gurmukhi, Kannada, Malayalam, Oriya, Tamil, Telugu, Tibetan
+Viewing Indic text[edit]
+You do not need to do anything to enable viewing of Indic text in GNOME 2.8 or later.  Older versions may have support for some, but not all Indic scripts.  Ensure you have appropriate Unicode fonts for each script you wish to view or edit.
+Some web browsers may require you to enable Pango rendering to view Indic text properly.
+For Epiphany, Pango rendering can be enabled in GConf. Press Alt+F2 to bring up the Run Application dialog, then enter gconf-editor and click Run. The Configuration Editor window will appear. In the left pane, unfold apps → epiphany and click the web section. In the right pane, check the box next to the enable_pango option, then restart Epiphany.
+Firefox 3 can render Indic text out-of-the-box. When using older versions of Mozilla or Firefox, you can enable Pango rendering by opening xterm and typing MOZ_ENABLE_PANGO=1 mozilla or MOZ_ENABLE_PANGO=1 firefox. After this, all future sessions of Mozilla or Firefox will have Indic language support.
+This will work only on Firefox compiled with --enable-pango.
+The easiest way to check whether --enable-pango was used in your copy of Firefox is to type about:buildconfig in the address bar and to look for the string (--enable-pango).
+For Ubuntu, this support can be enabled just by installing the relevant language support packs.
+For instance, to support Kannada display, the following is sufficient:
+sudo apt-get install language-pack-kn language-support-kn language-pack-gnome-kn ttf-kannada-fonts
+Similarly, to support Tamil display, the following is sufficient:
+sudo apt-get install language-pack-ta language-support-ta language-pack-gnome-ta ttf-tamil-fonts
+And to support Telugu display, the following is sufficient:
+sudo apt-get install language-pack-te language-support-te language-pack-gnome-te ttf-telugu-fonts
+For SUSE 10.1 you have to add the MOZ_ENABLE_PANGO=1 to your .profile to make the effect permanent.
+Go to your home directory, then edit the .profile file -it is a hidden file.
+Scroll down to the last line of the file and add: export MOZ_ENABLE_PANGO=1
+Save the .profile file. Restart for the effect to take place
+Inputting Indic text[edit]
+Go to System → Preferences → Keyboard.
+Select the "Layouts" tab.
+Press "Add", then select the keyboard for the language or script you wish to use from the "Available Layouts" frame and then press "Add".
+Press "Close" to discard the dialogue box.
+Right click on the main menu on your desktop and select "Add to Panel ...".
+Select "Keyboard Indicator" and click "Add".
+Position the keyboard indicator on your menu bar and click it to switch between keyboard layouts.
+Using SCIM
+Another option is to use SCIM. To enable it,
+Install Hindi font support, groupinstall hindi-support
+Then enable SCIM, using System → Personal → Input Method from the menu, and use Hindi phonetic support.
+For more check (on Fedora) http://www.ruturaj.net/fedora-6-hindi-support-scim on Fedora, or (on Debian/Ubuntu) http://dev.sampada.net/Baraha_like_Input_on_Linux
+Another alternative is User:Keymanweb/Keymanweb which provides a web-based keyboard that is integrated into Wikipedia with support for 300 languages, including most of the complex scripts listed on this page.
+KDE[edit]
+Supports: Bengali, Devanagari, Gujarati, Gurmukhi, Kannada, Malayalam, Oriya, Tamil, Telugu.
+Viewing Indic text[edit]
+You do not need to do anything to enable viewing of Indic text.  Ensure you have appropriate Unicode fonts for each script you wish to view or edit.
+Inputting Indic text[edit]
+In the System Settings, go to Input Devices, Keyboard
+In the tab Layout, enable Configure layouts
+Click on Add Layout
+Choose 'India' in Layout and the language you want in Variant
+Click on OK
+Now, you will have an icon for the Keyboard Layout in your system tray, in which you can choose the layout you want
+Another alternative is User:Keymanweb/Keymanweb which provides a web-based keyboard that is integrated into Wikipedia with support for 300 languages, including most of the complex scripts listed on this page.
+Distribution-specific advice[edit]
+Debian (and derivatives like Ubuntu)[edit]
+Supports: Bengali, Devanagari, Gujarati, Gurmukhi (including the variants for Punjabi), Kannada, Malayalam, Oriya, Tamil, Telugu, Tibetan.
+Viewing Indic text[edit]
+Enter
+sudo apt-get install fonts-indic
+Restarting X Server in Debian[edit]
+1. Go to a Virtual Terminal, say Ctrl+Alt+F1 (anything from F1 to F6).
+You will see a console. Login with your user credentials. 
+2. Then enter the following commands as root or sudo
+service kdm|gdm3|xdm|lightdm force-reload
+The package name for the TrueType font of Thai is fonts-thai-tlwg
+For viewing Tibetan script[edit]
+Enter as root:
+apt-get install fonts-dzongkha
+For Mozilla and Firefox, see the comments above under "gnome". Rendering should work correctly "out of the box" as of Debian-4.0 (etch).
+Inputting Indic text[edit]
+Smart_Common_Input_Method supports text input in Indic languages including  phonetic layout. SCIM should be working by default in  recent distributions. More instructions on using and configuring SCIM can be found on help.ubuntu.com [2]
+Another alternative is User:Keymanweb/Keymanweb which provides a web-based keyboard that is integrated into Wikipedia with support for 300 languages, including most of the complex scripts listed on this page.
+Fedora[edit]
+Supports: Bengali, Devanagari, Gujarati, Gurmukhi (including the variants for Punjabi), Kannada, Malayalam, Oriya, Tamil, Telugu among others.
+Installing Indic fonts[edit]
+For example, to install Kannada fonts,
+Simply enter as root on the console and type in the command:
+yum install fonts-Kannada
+This will download the Kannada fonts from the repositories and install it.
+Similarly, for Hindi, say,
+enter as root on the console and type in the command:
+yum install fonts-Hindi
+Keyboard support[edit]
+Start the Add/Remove software applet. For example, in KDE, say, navigate to System and then Add/Remove software.
+In the applet window, select Languages on the list box to your left hand side. In the right hand side list box, select the Indian languages of interest to you.
+For example, to have Kannada key board support, check the box for Kannada Support. 
+Similarly, for Hindi support, say, check the box for Hindi Support. 
+It has been observed that for Kannada, Fedora not only puts in Kannada keyboard support, but also provides transliteration support and also the keyboard support for KGP (Kannada Ganaka Parishad) keyboards. With this feature, users can directly type in Kannada words in Roman script to be transliterated to Kannada text in the application of your choice. For example, into your browser, text editor, document editor, email client etc. Users can also use native Kannada keyboards, KGP based or otherwise to type in Kannada texts directly.
+An alternative is User:Keymanweb/Keymanweb which provides a web-based keyboard that is integrated into Wikipedia with support for 300 languages, including most of the complex scripts listed on this page.
+Arch Linux[edit]
+Supports: Bengali (including the variants for Assamese), Gujarati, Gurmukhi (including variants for Punjabi), Devanagari (for Hindi and Sanskrit), Kannada, Malayalam, Marathi, Odia, Tamil, Telugu.
+To install Indic fonts:
+pacman -S ttf-indic-otf
+To enter Indic text in GNOME/KDE, follow the instructions in the respective sections above.
+Gentoo[edit]
+Supports: Assamese, Bengali, Gujarati, Hindi, Kannada, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu,
+Installing Indic fonts[edit]
+emerge lohit-fonts
+Note: The lohit-fonts package was earlier named media-fonts/fonts-indic.
+Installing Tibetan fonts[edit]
+The fonts above do not include Tibetan scripts used in Wikipedia, additional package needs to be emerged for those: 
+emerge Tibetan-machine-font
+Inputting Indic text[edit]
+emerge -av scim-tables scim-m17n
+Study the USE flags and the LINGUAS flags and set them accordingly depending on your desktop environment and language support needed.
+The following needs to be set whenever you login (append it to your .xinitrc or .xsession).
+export XMODIFIERS=@im=SCIM    #case matters for this variable!
+export GTK_IM_MODULE=scim
+export QT_IM_MODULE=scim
+Mozilla apps and precompiled software such as acroread might not play well with scim (C++). In such cases, make use of scim-bridge (C - avoiding C++ ABI issues) [3].
+emerge scim-bridge
+and startup Firefox as:
+% GTK_IM_MODULE=scim-bridge Firefox
+You might have to start the scim daemon manually. (Add it your session's startup)
+scim -d
+SCIM is a unified frontend for currently available input method libraries.
+A simple alternative is User:Keymanweb/Keymanweb which provides a web-based keyboard that is integrated into Wikipedia with support for 300 languages, including most of the complex scripts listed on this page.
+Slacko Puppy Linux[edit]
+Slacko PPM (Puppy Package Manager) will install packages from the Slackware Repository, including the indic fonts package . If the package lists are up to date, and PPM is set to show the  Slackware repository, searching for the word "indic" in PPM will show the package to click on if PPM is set to show the Slackware repository (There is no package for indic fonts in the Puppy Slacko repository .).
+Slackware[edit]
+Slackware  uses slapt-get instead of apt-get , and it is used the same way apt-get is used in Debian based systems . By following the Debian instructions above for using apt-get, one should be able to figure out how to install indic fonts with slapt-get . (i.e. Just do the same thing except add the letters "sl" at the beginning .)
+FreeBSD[edit]
+Supports: Assamese, Bengali, Gujarati, Hindi, Kannada, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu.
+Installing Indic fonts[edit]
+cd /usr/ports/x11-fonts/fonts-indic && make install clean
+The binary package of Firefox (when you do pkg_add -r Firefox) might give the same problems as in Gentoo's bin package (needs confirmation)
+cd /usr/ports/x11-fonts/fonts-te && make install clean
+The above port is for Telugu Pothana2000 Fonts.
+Inputting Indic text[edit]
+See Gentoo's section above.
+NetBSD, DragonFlyBSD, pkgsrc[edit]
+Similar to FreeBSD
+cd /usr/pkgsrc/fonts/lohit-fonts && make install clean
+Unicode OpenType fonts[edit]
+This section lists OpenType fonts, supported by Microsoft Windows and most Linux distributions. For AAT fonts (required for the Apple Macintosh), see the macOS section above.
+If you have followed the instructions for your computer system as mentioned above and you still cannot view Indic text properly, you may need to install a Unicode font:
+Burmese : Padauk
+Devanagari : Annapurna SIL, BBC Hindi, Sanskrit 2003
+Gurmukhi : AnmolUni, Saab, Noto Sans Gurmukhi
+Kannada : Mallige, Kedage
+Khmer : KhmerOS, Mondulkiri, Khmer web font
+Malayalam : Rahul's Font
+Oriya : Aprant Odia
+Sinhala : LKLUG
+Telugu : Indian Language typing tools
+Thai : Noto Sans Thai
+Tibetan : DDC Uchen, Jomolhari, Qomolangma fonts, Tibetan Machine Uni
+The governmental Department of Information Technology (India) has provided Unicode Indic fonts for four of the Indic scripts used in India (several versions for Devanagari, one version for each of Kannada, Malayalam and Tamil).
+WAZU JAPAN's  Gallery of Unicode Fonts is an excellent resource for all Indic scripts.
+References[edit]
+^ My Myanmar Unicode System. The Second Generation
+External links[edit]
+Other information[edit]
+Indic Script Drupal Module: Indic Script Drupal Module
+Unicode Indic Editor A Tcl/Tk-based portable WYSIWYG transliteration editor.
+Enabling Kannada at the Kannada Wikipedia
+Punjabi Computing Resource Centre - Resources
+Homepage of Indlinux
+Information provided on Marathi Wikipedia about Enabling Devanagari Fonts
+Fonts[edit]
+Bangla Unicode fonts and typing system project
+Information at THDL about Tibetan Fonts & Unicode
+National Library of Bhutan - Information about Dzongkha Fonts, Unicode & Keyboard
+Other input methods[edit]
+Online transliteration/input[edit]
+Tamilsg Editor Supports Tamil typing using Romanised, Phonetic2, Typewriter2 and Tamil99 keyboards.
+QuillPad, a tool for transliterating into native scripts
+Uninagari: Multi-script Indic typewriter
+Online Indic Keyboard Input: Uses indic_web_input package from entrans
+Varamozhi: Standalone editor, online keyboard and IME for Malayalam using Mozhi scheme. Free and copylefted under GPL.
+w3Tamil Web keyboard helps to type Tamil Unicode  characters on computers which do not have a keyboard for typing the Tamil alphabet. It based on Tamil99 Keyboard Layout.
+Tamil Typing: Tamil Typing
+Hindi transliteration tools
+Hindi me typing/: Now Type In Your Android Smartphone Using This Method, Also Check Multi language Typing.
+English to Hindi typing/: Here Is Two Methods Check How To Type English to Hindi Any Device.
+Hindi typing/: Here Is Two Methods Check How To Type In Hindi Any Device.
+Hindi typing: Here Is Methods Check How To Type In Hindi Any Device.
+voice to text/: now the latest trick converts any sound into text for your documentary.
+Hindi typing software/: do you know how to work Hindi typing, if you know check this Hindi typing software list in Hindi.
+Browser plugins[edit]
+Ekya: Indic Transliteration Bookmarklets let you type anywhere on the web.
+IndicIME Firefox extension Firefox extension to type in Indian Languages on the web.
+Advanced Font Settings Chrome extension to customize the fonts used for render Indic scripts.
+Google Input Tools Chrome extension to type anywhere on the web, including Indic scripts.
+Installable software[edit]
+Cross-platform[edit]
+[4] Devawriter Pro: software supports Devanagari and Grantha - Linux, Windows and Macintosh versions. Contains a vast lexicon of conjunct consonants. Open Source (i.e. Free).
+Pada Multilingual software supports Indian languages - Both Windows and Linux versions.
+Avro Keyboard Unicode-compliant Bangla typing software for Windows, Linux and Ubuntu. Supports a variety of typing methods, including phonetic.
+Windows-only[edit]
+Azhagi transliteration tool tool which helps the user to create and edit contents in several Indian languages including  Tamil, Hindi, Sanskrit,  Telugu, Kannada, Malayalam,  Marathi, Konkani,  Gujarati,  Bengali,  Punjabi,  Oriya and  Assamese without having to know typing in these languages.
+Lipikaar: SMS-style input method for typing 16 Indian languages
+Tamil keyboard Type in Tamil in any Windows application
+e-Kalappai 3.0 Open-source GPL Tamil Keyboard Manager
+Google Indic Language Input Tool Desktop IME to type in বাংলা (Bengali), ગુજરાતી (Gujarati), हिन्दी (Hindi), ಕನ್ನಡ (Kannada), മലയാളം (Malayalam), मराठी (Marathi),नेपाली (Nepali),  ଓଡ଼ିଆ (Oriya), ਪੰਜਾਬੀ (Punjabi), संस्कृतम् (Sanskrit), தமிழ் (Tamil) and తెలుగు (Telugu). Favoured method is learning predictive transliteration from English, but a visual keyboard is also supported. It also supports user defined macros and user defined schemes.
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Help:Multilingual_support_(Indic)&oldid=1171084185"
+Categories: Wikipedia information pagesWikipedia multilingual support
+ This page was last edited on 18 August 2023, at 23:31 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

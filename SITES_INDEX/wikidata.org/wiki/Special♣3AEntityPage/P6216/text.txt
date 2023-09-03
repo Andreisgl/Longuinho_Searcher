@@ -1,0 +1,216 @@
+copyright status - Wikidata
+copyright status
+(P6216)
+From Wikidata
+Jump to navigation
+Jump to search
+copyright status for intellectual creations like works of art, publications, software, etc.copyright restriction
+Language
+Label
+Description
+Also known as
+English
+copyright status
+copyright status for intellectual creations like works of art, publications, software, etc.
+copyright restriction
+Data type
+Item
+Statements
+instance of
+Wikidata property related to law and justice
+0 references
+Wikidata property related to creative works
+0 references
+Wikidata property related to copyright
+0 references
+Wikidata item of this property
+copyright status
+0 references
+Wikidata property example
+Atomic Cloud Rises Over Nagasaki
+copyright status
+public domain
+determination method
+work of the federal government of the United States
+0 references
+One Thousand and One Nights
+copyright status
+public domain
+0 references
+Guernica
+copyright status
+copyrighted
+0 references
+Mona Lisa
+copyright status
+public domain
+0 references
+Gutenberg Bible
+copyright status
+public domain
+0 references
+Harry Potter and the Philosopher's Stone
+copyright status
+copyrighted
+0 references
+Wikidata property example for media
+Crotalus atrox diamantklapperschlange kopf.jpg3,000 × 2,000; 4.18 MB
+copyright status
+copyrighted
+0 references
+Oslo komm.jpg564 × 423; 45 KB
+copyright status
+copyrighted
+0 references
+external subproperty
+https://schema.org/copyrightYear
+0 references
+property usage tracking category
+Category:Pages using Wikidata property P6216
+0 references
+stability of property value
+sometimes changes  / sometimes unstable identifier
+0 references
+related property
+copyright license
+0 references
+public domain date
+0 references
+copyright holder
+0 references
+copyright representative
+0 references
+copyright status as a creator
+1 reference
+Wikimedia import URL
+https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Copyright_status_of_author&oldid=1082714603
+property proposal discussion
+https://www.wikidata.org/wiki/Wikidata:Property_proposal/copyright_status
+0 references
+Constraints
+property constraint
+one-of constraint
+item of property constraint
+public domain
+copyrighted
+not yet determined
+unknown value
+public domain
+copyrighted, dedicated to the public domain by copyright holder
+orphan work
+no known copyright restrictions
+copyrighted free use
+0 references
+subject type constraint
+class
+work
+data
+collection
+item of collection or exhibition
+chord
+series of creative works
+group of musical works
+relation
+instance of
+exception to constraint
+statute
+0 references
+allowed qualifiers constraint
+property
+applies to jurisdiction
+start time
+end time
+copyright license
+applies to part
+author
+creator
+determination method
+statement disputed by
+statement supported by
+sourcing circumstances
+publication date
+laws applied
+object named as
+published in
+editor
+reason for deprecated rank
+reason for preferred rank
+Wikimedia VRTS ticket number
+earliest date
+earliest end date
+latest start date
+latest date
+based on
+subject has role
+relevant date for copyright
+nature of statement
+0 references
+single-value constraint
+separator
+determination method
+applies to jurisdiction
+start time
+end time
+sourcing circumstances
+applies to part
+0 references
+allowed-entity-types constraint
+item of property constraint
+Wikibase item
+Wikibase MediaInfo
+0 references
+property scope constraint
+property scope
+as main value
+as qualifier
+exception to constraint
+Category:Free content from Federal Research Division, Library of Congress
+0 references
+none-of constraint
+item of property constraint
+unknown
+replacement value
+unknown value
+constraint status
+mandatory constraint
+0 references
+none-of constraint
+item of property constraint
+copylefted
+constraint clarification
+These are just copyrighted and have a free license (English)
+replacement value
+copyrighted
+constraint status
+mandatory constraint
+0 references
+Retrieved from "https://www.wikidata.org/w/index.php?title=Property:P6216&oldid=1958336313"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+PropertyDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Download as PDFPrintable version
+ This page was last edited on 21 August 2023, at 20:01.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

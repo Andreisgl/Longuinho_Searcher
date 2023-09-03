@@ -1,0 +1,114 @@
+ [MediaWiki-announce] MediaWiki security release: 1.16.0 and 1.15.5
+   
+[MediaWiki-announce] MediaWiki security release: 1.16.0 and 1.15.5
+Tim Starling
+tstarling at wikimedia.org
+       
+Wed Jul 28 07:53:24 UTC 2010
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+This is a security and bugfix release of MediaWiki 1.16.0 and
+MediaWiki 1.15.5. Download links are given at the end of this email.
+A data leakage vulnerability was discovered, affecting MediaWiki 1.8
+and later. Public caching headers were incorrectly set on API
+responses containing private data. By means of a CSRF-style attack,
+this can lead to the disclosure of various types of private data
+stored on a wiki. All users are advised to upgrade. Full details can
+be found at:
+https://bugzilla.wikimedia.org/show_bug.cgi?id=24565
+A cross-site scripting (XSS) vulnerability was discovered in
+profileinfo.php. The vulnerability is only exposed when the script is
+explicitly enabled in LocalSettings.php, with $wgEnableProfileInfo = true.
+A register_globals arbitrary inclusion vulnerability was discovered in
+the 1.16 beta release series, in MediaWikiParserTest.php. This
+vulnerability does not affect any stable MediaWiki release. It only
+affects wikis which have PHP's register_globals feature enabled,
+despite our strong advice to the contrary. Apache installations with
+AllowOverride enabled may be protected against this vulnerability,
+since there is a .htaccess file with "Deny from all" in the relevant path.
+In both releases, the interface text was updated with new translations
+from translatewiki.net.
+Full release notes for 1.15.5:
+<http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_15_5/phase3/RELEASE-NOTES>
+Full release notes for 1.16.0:
+<http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_16_0/phase3/RELEASE-NOTES>
+Upgrade FAQ:
+http://www.mediawiki.org/wiki/Manual:FAQ#Upgrading
+**********************************************************************
+We are proud to announce the first stable release of the 1.16 series.
+Selected changes that may be of interest since MediaWiki 1.15 are:
+* Watchlists now have RSS/Atom feeds. RSS feeds generally are now
+hidden, since Atom is a better protocol and is supported by virtually
+all clients.
+* It's now possible to block users from sending email via
+Special:Emailuser.
+* The maintenance script system was overhauled. Most maintenance
+scripts now have a useful help page when you run them with --help.
+* AdminSettings.php is no longer required in order to run maintenance
+scripts. You can just set $wgDBadminuser and $wgDBadminpassword in
+your LocalSettings.php instead.
+* The preferences system was overhauled. Preferences are stored in a
+more compact format. Changes to site default preferences will
+automatically affect all users who have not chosen a different preference.
+* Support for SQLite was improved. Some broken features were fixed,
+and it now has an efficient full-text search.
+* The user groups ACL system was improved by allowing rights to be
+revoked, instead of just granted.
+* A new localisation caching system was introduced, which will make
+MediaWiki faster for almost everyone, especially when lots of
+extensions are enabled.
+By default, this new system makes a lot of database queries. If your
+database is particularly slow, or if your system administrator limits
+your query count, or if you want to squeeze as much performance as
+possible out of Mediawiki, set $wgCacheDirectory to a writable path on
+the local filesystem. Make sure you have the DBA extension for PHP
+installed, this will improve performance further.
+**********************************************************************
+   1.15.5
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.15/mediawiki-1.15.5.tar.gz
+Patch to previous version (1.15.4), without interface text:
+http://download.wikimedia.org/mediawiki/1.15/mediawiki-1.15.5.patch.gz
+Interface text changes:
+http://download.wikimedia.org/mediawiki/1.15/mediawiki-i18n-1.15.5.patch.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.15/mediawiki-1.15.5.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.15/mediawiki-1.15.5.patch.gz.sig
+http://download.wikimedia.org/mediawiki/1.15/mediawiki-i18n-1.15.5.patch.gz.sig
+Public keys:
+https://secure.wikimedia.org/keys.html
+**********************************************************************
+   1.16.0
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.0.tar.gz
+Patch to previous version (1.16.0beta3), without interface text:
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.0.patch.gz
+Interface text changes:
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-i18n-1.16.0.patch.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.0.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.0.patch.gz.sig
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-i18n-1.16.0.patch.gz.sig
+Public keys:
+https://secure.wikimedia.org/keys.html
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.10 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org/
+iEYEARECAAYFAkxP4e8ACgkQgkA+Wfn4zXkWIgCgmr9dHmPtQqk+2bdQaHkLGss3
+7W8AoJqgkJsurVVzWFBkr3TgrswsWzcd
+=L7ad
+-----END PGP SIGNATURE-----
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+More information about the MediaWiki-announce
+mailing list

@@ -1,0 +1,135 @@
+Kiwix - Meta
+Kiwix
+From Meta, a Wikimedia project coordination wiki
+Jump to navigation
+Jump to search
+Kiwix on iPhone (iOS)
+Kiwix Flyer - Your Wikipedia Offline
+Kiwix brings internet contents to people without internet access. It is free as in beer and as in speech.
+As an offline reader, it is especially thought to make Wikipedia available offline, but technically any kind of web content can be stored into a ZIM file (a highly compressed open format) and then read by the app: there are currently several hundred different contents available in more than 100 languages, from Wikipedia, Wikiquote, the Wiktionary to TED conferences, Gutenberg library, Stackexchange and many others.
+Contents
+1 Why offline matters
+2 Projects that involve Wikipedia Offline
+2.1 Wikimed
+2.2 Wikipedia offline in jails
+2.3 Wikipedia for Schools
+2.4 Mesh Sayada
+3 User Feedback
+4 Features & Tech specifications
+5 Get involved
+5.1 Become an ambassador
+5.2 Official country and language ambassadors
+6 Get in touch
+7 References
+Why offline matters[edit]
+We're featuring a quote here from the UN Broadband Commission from their September 2013 report, because it's the easiest, most pragmatic and straight-forward way to show you the importance of disseminating knowledge - and information - offline, complementary to all activities that we do online:
+"While more and more people are coming online, over 90% of people in the world’s 49 Least Developed Countries remain totally unconnected.”[1]
+Projects that involve Wikipedia Offline[edit]
+Kiwix is mostly installed in schools that cannot afford broadband internet access. In these cases, it's so much faster to use Wikipedia offline.
+Wikimed[edit]
+Wikimed is a free android app that collates all medicine-related articles from Wikipedia and makes them available offline. It is currently available in English, French, Arabic, Farsi, German, Spanish, Chinese, Odia, and Portuguese. You can download it here.
+Wikipedia offline in jails[edit]
+Main article: Wikipedia in jails
+Since March 2013, prisoners in the prison Bellevue in Gorgier (western Switzerland) who request it can have access to Wikipedia offline, because Swiss prisoners have very restricted access to the Internet. The idea is to stimulate or to support the interest for education of prisoners who were, for a large majority, condemned to long-time sentences. After a three month pilot phase, the project was proven very successful.  Among the 36 prisoners of the Bellevue’s prison in Gorgier, 18 possess or rent a computer. All of them requested the upload of Wikipedia offline on their PC.
+The feedback is unanimously positive: it reveals that access to Wikipedia is seen as an improvement of education and/or information activities in jail.
+The followup of the project aims to use Wikipedia in the training program of the prisoners. The use of Wikipedia in the classes, the organization of general culture contests, and even the training of new Wikipedia editors. The partnership between Wikimedia CH and the direction of the prison aims to be durable. Wikimedia CH installed the Kiwix files and trained the IT team of the prison, who can now upload the software for every new prisoner who requests. Detention Centers for minors are excluded from this program in Switzerland as they get access to the Internet and don't have the need to access Wikipedia offline.
+In 2014, WMCH started to collaborate with the Swiss Insitute for Education in Detention Centers to expand the coverage of Wikipedia offline in prisons all over Switzerland.
+As of May 2014, all prisons in the German-speaking part of Switzerland have access to Wikipedia offline, thanks to the Swiss Institute for Education in Detention Centers.
+Canada, Germany, the US, France, Belgium and Italy (jail in Pavia, where a Kiwix server runs in a dedicated computer room, led by http://www.informaticisenzafrontiere.org) also have similar projects in prisons that involve Wikipedia offline.
+Wikipedia for Schools[edit]
+"At SOS Children, we wanted to bring this fantastic resource to children without internet access around the globe. So we began work on an ambitious project to get the very best content from Wikipedia into a self-contained selection which could be distributed on a CD. We checked every article for child friendliness and structured the content around the national curriculum. Today, Wikipedia for Schools is in its fourth incarnation, and the new version is ready to go - this time on USB. At EduWiki 2013, we will show you how the project has benefited students and teachers here in the UK, and in countries across the developing world. With the help of others, we have distributed copies globally, and we have had an amazing response from the people who count. In the UK, Wikipedia for Schools has been a great classroom companion for students and teachers alike.” [2]
+Mesh Sayada[edit]
+Mesh Sayada[3] is a collaboratively designed and built wireless network. The town of Sayada is located in Tunisia. The network serves as a platform for locally-hosted content, such as Wikipedia Offline in Arabic and French thanks to Kiwix software, free ebooks and Open Street Maps. The Mesh is serviced and maintained by a local NGO, CLibre[4] with the help of local volunteers.
+User Feedback[edit]
+"Very important and helpful source of information" (User from Bahrain)
+"Thank you for your help! Now my school can use Wikipedia offline."' (User from Mexico)
+"I like to browse my favourite encyclopedia even when there is no network" (User from Yemen)
+"I have no internet in my house. Kiwix is such a help, because I need Wikipedia for my study."' (User from Cuba)
+Features & Tech specifications[edit]
+Open-source: all code is stored on GitHub;
+Available on Windows, GNU/Linux, macOS, iOS and Android;
+Works like your regular browser;
+Allows searching of articles and within articles;
+Web Server: you can share content on your LAN.
+Get involved[edit]
+There are many ways to participate and to work with us in order to develop the Kiwix - Wikipedia offline project. The following list features many topics where help would really be appreciated:
+Translate: the Kiwix user interface is translated into more than 100 languages. We still have some more work to do here: see translatewiki:Translating:Kiwix to help.
+Share: Kiwix has a broad user community - we need to care for it and share news. See below to become an ambassador;
+Deploy: if you want to deploy Kiwix anywhere, let us know! You can also file for a grant request with the Wikimedia Foundation.
+Develop: if you are a coder, feel free to join us on GitHub - openZim for scrapers, and Kiwix for the app itself. Look for tickets labelled "Good First Issue" (to get started) or "Help wanted" (for real challenges). See https://www.kiwix.org/en/support-us/code/
+Become an ambassador[edit]
+As an ambassador, you are going to spread the word about Kiwix in different ways:
+Mention Kiwix when talking about Wikimedia: e.g., add a slide about Kiwix when making a public presentation about Wikipedia. If you are interested in giving a talk at a meet-up or conference or organizing a Kiwix event, the other Kiwix guy can provide you with slides, flyers and other material you might find useful. Don't forget to add the Category:Kiwix presentations at your uploaded file on Commons.
+Represent Kiwix in conferences and workshops.
+Answer questions about the project within your community.
+Use social media to get in touch with users.
+Help implementing mirror websites for Kiwix in different countries to decrease downloading time. This can be done by contacting servers owners (e.g. Universities, Telecom operators, ..). (See existing mirror websites list). Don't forget to include technical instructions.
+Ask your language community to add a link in the sidebar of the wiki inviting readers to download the content throw Kiwix. (See example).
+Official country and language ambassadors[edit]
+This user is a Kiwix ambassador.
+The Ambassador program lists people who are familiar with both Kiwix and a language-related project: they will try to assist with questions and requests for presentations. An ambassador is a trusted volunteer that has been vetted by existing ambassadors and/or their local chapter. Contact them if you need help!
+Countries and languages
+Algeria : Dezedien (ar; fr; en)
+Belgium : Lionel Scheepmans (fr, pt, en)
+Canada : Helmoony (ar; fr; en)
+Cameroon : Yanstv (fr; en)
+Dem Rep of the Congo: BamLifa (en; fr)
+Ghana : Flixtey (en)
+Jordan/Levant: مصعب (ar; en)
+Mali : rgaudin (fr; en; es; bm)
+Nigeria : Blossom Ozurumba (en; ig)
+Southern Africa : Michaelgraaf (en; af; zu)
+Switzerland: The other Kiwix guy (fr; en; es; de) ; Kelson (fr; en; de)
+Tunisia : Dyolf77 (ar; fr)
+Russia : Reda Kerbouche (ar; fr; ru; en)
+Are you a Kiwix user? Do you want to help? Contact us!
+Get in touch[edit]
+Official web site
+Twitter
+Facebook
+Email
+References[edit]
+↑ http://www.broadbandcommission.org/Documents/bb-annualreport2013.pdf Annual UN Broadband Commission Report 2013
+↑ https://wiki.wikimedia.org.uk/wiki/EduWiki_Conference_2013/Abstracts#Workshops by Jamie Goodland, who works with the International children’s charity SOS Children 
+↑ Case Study: Mesh Sayada by 
+Ryan Gerety, Andy Gunn and Will Hawkins Open Technology Institute 
+↑  Association pour la culture numérique Libre
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Kiwix&oldid=25448391"
+Categories: Kiwix AmbassadorsOffline releasesKiwix
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Content pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+Wikimedia CommonsWikipediaWikivoyage
+In other languages
+AfrikaansAragonésالعربيةAzərbaycancaБългарскиবাংলাBrezhonegCatalàČeštinaDeutschΕλληνικάEnglishEsperantoEspañolفارسیFrançaisGalegoעבריתहिन्दीMagyarBahasa IndonesiaItaliano日本語Қазақша한국어MalagasyBahasa MelayuNederlandsNorskPolskiپنجابیپښتوPortuguêsРусскийسنڌيSimple EnglishKiswahiliไทยTürkçeУкраїнськаاردوTiếng Việt吴语中文
+Edit links
+ This page was last edited on 12 August 2023, at 11:39.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

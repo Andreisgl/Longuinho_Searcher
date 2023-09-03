@@ -1,0 +1,394 @@
+Steward requests/Permissions - Meta
+Steward requests/Permissions
+From Meta, a Wikimedia project coordination wiki
+< Steward requests(Redirected from Requests for permissions)
+Jump to navigation
+Jump to search
+← Requests and proposals
+Steward requests  (Permissions)
+latest archive→
+Shortcut: SRP
+This page is for requests to have stewards grant or revoke administrator, bureaucrat, checkuser, and oversight rights on Wikimedia projects which do not have a local permissions procedure.
+Old sections are archived. The list of archives is below.
+Requests for bot flags are handled at SRB, and requests for global permissions are handled at SRGP.
+If you are requesting adminship or bureaucratship, and your wiki has a local bureaucrat, submit your request to that user or to the relevant local request page (index).
+For urgent requests, such as to combat large-scale vandalism on a small wiki, contact a steward in the #wikimedia-stewardsconnect IRC channel. In emergencies, type !steward in the channel to get the attention of stewards. Otherwise, you can type @steward for non-urgent help.
+Other than requests to remove your own access or emergencies, please only make requests here after gaining the on-wiki approval of your local community.
+Quick navigation:  Administrator | Interface administrator | Bureaucrat | CheckUser | Oversight | Removal of access | Miscellaneous | Global permissions
+(translate | edit)
+Cross-wiki requests
+CheckUser information
+Global blocks/locks
+Permissions (global)
+Permissions (bot)
+Permissions (other)
+Username changes/usurpation requests
+Miscellaneous requests
+URL blacklisting
+Title/username blacklisting
+Email blacklisting
+Meta-Wiki requests
+CheckUser information
+Deletion
+Permissions
+Requests for help
+Contents
+1 Using this page
+1.1 Confirmation of signing confidentiality agreement
+2 Requests
+2.1 Administrator access
+2.1.1 Aram@ckbwiktionary
+2.1.2 虹色分子@zh.wikiquote
+2.1.3 Radioamatoro@eowikiquote
+2.1.4 Styyx@tk.wikipedia
+2.1.5 PeaceSeekers@ms.wiktionary
+2.1.6 Romaine@nlwikisource
+2.1.7 Slaia@niawiktionary
+2.1.8 Minorax@wikifunctionswiki
+2.1.9 Imranqazi90@kswiktionary
+2.1.10 Janezdrilc@sl.wikiquote
+2.1.11 Ebrahim@Wikifunctions
+2.1.12 Rachmat04@acewiki
+2.1.13 Kunokuno@bcl.wiktionary
+2.1.14 LR0725@ko.wikisource
+2.1.15 Yasanto Lase@niawiktionary
+2.1.16 Wd-Ryan@wikifunctionswiki
+2.1.17 Patriot Kor@tly.wikipedia
+2.2 Interface administrator access
+2.2.1 Romaine@nlwikisource
+2.2.2 Eldarado@tlywikipedia
+2.3 Bureaucrat access
+2.4 CheckUser access
+2.4.1 Wagino 20100516@id.wikipedia
+2.5 Oversight access
+2.6 Miscellaneous requests
+2.7 Removal of access
+2.7.1 Jpatokal@en.wikivoyage
+2.7.2 DerFussi@en.wikivoyage
+2.7.3 Geonuch@th.wikiquote
+3 See also
+Using this page[edit]
+1. Place the following code at the bottom of the appropriate section below:
+==== Username@xxproject ====
+{{sr-request
+ |status    = <!-- don't change this line -->
+ |domain    = <!-- such as en.wikibooks -->
+ |user name =
+ |discussion= 
+}}
+(your remarks) ~~~~
+2. Fill in the values:
+domain: the wiki's URL domain (like "ex.wikipedia" or "meta.wikimedia").
+user name: the name of the user whose rights are to be changed (like "Exampleuser"). In case you're requesting access for multiple bots, leave this field blank and give a list of these bots in your remarks
+discussion: a link to the local vote or discussion about the rights change (for example, "[[ex:Wikipedia:Requests_for_adminship#ExampleUser]]").
+3. If anything is missing from your request, a steward will request more information.
+Confirmation of signing confidentiality agreement[edit]
+Certain permissions (notably CheckUser and Oversight) additionally require users to sign a confidentiality agreement. Users requesting these permissions must make a request below, and must also sign the confidentiality agreement with the Wikimedia Foundation. The request is placed on hold temporarily, until the receipt has been formally confirmed by the Office.
+Requests[edit]
+COPY THE FOLLOWING CODE to the bottom of the appropriate section below:
+==== User name@xxproject ====
+{{sr-request
+  |status    = <!--don't change this line-->
+  |domain    =
+  |user name =
+  |discussion= 
+}}
+Administrator access[edit]
+See Administrator  for information about this user group.
+If you are requesting adminship to handle one time vandalism incidents or clearing a deletion backlog, please see Steward requests/Miscellaneous.
+MediaWiki interface translations are done at translatewiki.net. Please do not request administrator access solely for that purpose; your request will be declined.
+Admins doing cross-wiki work may wish to see IRC/wikimedia-admin  for information about joining #wikimedia-adminconnect.
+Stewards: Please use {{Systmp}} for approved temporary requests.
+Requests for removal of access should be posted at the section below.
+Please start a new discussion about requesting the permission on the local village pump, administrators' noticeboard or a designated page for requesting permissions each time you request or renew adminship.
+Discussions should be open for seven days. Please request adminship here seven days after discussions started. This page is not the place for any discussions or votes. (For wikis with few active users, it is OK to have no comments.)
+If you only want adminship for specific tasks, please state for how long and for which tasks you need it. Otherwise stewards will decide whether to assign permanent adminship and the duration of adminship. See Steward requests/Permissions/Minimum voting requirements.
+Aram@ckbwiktionary[edit]
+Status:    On hold
+Wiki: ckb.wiktionary.org (list 'crats • no standard bot policy • summary • 'crats rights)
+User: Aram (talk • edits • logs • UserRights • activity • CentralAuth • email • verify 2FA)
+Discussion: wiktionary:ckb:ویکیفەرھەنگ:بەڕێوەبەرایەتیی_ویکیفەرھەنگ#بەکارھێنەر:Aram_2
+I also need IA flag. Please note that I have already been granted both rights for three months, but it may be better to give them without expiration as I may not be able to do everything quickly. Click here to see my previous requests. Thanks! Aram (talk) 21:03, 15 August 2023 (UTC)Reply[reply]
+Hi @Aram, thanks for the request. I'm sorry, but I can't locate any recent discussion about your interface adminship on that page; I only see requests from April. Am I missing something please? Martin Urbanec (talk) 21:10, 15 August 2023 (UTC)Reply[reply]
+@Martin Urbanec Thank you for your quick reply! No, you’re not wrong, but is it mandatory for me to run again? The community has full confidence in me. Furthermore, if one or two users had asked for these rights, I would not have assumed this responsibility and participating as a regular user would have been enough for me. However, If it is obligatory for me to run again, then it is okay and I will. Thank you! Aram (talk) 21:39, 15 August 2023 (UTC)Reply[reply]
+Thanks for the re @Aram. Indeed it is mandatory; the goal is to ensure the community trusts you / has confidence in you (which is hard to verify without a voting). The length of appoingment is generally growing, up to indefinite grant (once the community meets MVR criteria). I'm making this  On hold -- please link the discussion here and we'll proceed from there. Best, Martin Urbanec (talk) 19:06, 16 August 2023 (UTC)Reply[reply]
+‌Hi again @Martin Urbanec, since you last comment, I have run again for administrator and interface administrator rights. Today is the seventh day. I want to say that I have asked for these rights permanently because we really may not be able to do everything in a short period of time. Please check these out:
+Administration discussion. 4 Supports, no oppose.
+Interface administrator discussion. 4 Supports, no oppose.
+Thank you for your efforts! Aram (talk) 19:02, 22 August 2023 (UTC)Reply[reply]
+虹色分子@zh.wikiquote[edit]
+Status:    In progress
+Wiki: zh.wikiquote.org (list 'crats • bot policy • summary • 'crats rights)
+User: 虹色分子 (talk • edits • logs • UserRights • activity • CentralAuth • email • verify 2FA)
+Discussion: here
+Hello. This request is for Administrator only.——虹色分子 (talk) 06:14, 19 August 2023 (UTC)Reply[reply]
+@虹色分子: Your request appears to be at the wrong place. It is noted at the top of the page you put it on that it is in a different place. Please see zh:wq:Wikiquote:申请成为管理员 -- Amanda (she/her) 16:15, 19 August 2023 (UTC)Reply[reply]
+q:zh:Wikiquote:申请成为管理员/存档#虹色分子 is marked as not done. Stang 16:02, 20 August 2023 (UTC)Reply[reply]
+A 🆕 apply is already submitted on correct webpage. 虹色分子 (talk) 00:28, 29 August 2023 (UTC)Reply[reply]
+Radioamatoro@eowikiquote[edit]
+Status:    Done
+Wiki: eo.wikiquote.org (list 'crats • bot policy • summary • 'crats rights)
+User: Radioamatoro (talk • edits • logs • UserRights • activity • CentralAuth • email • verify 2FA)
+Discussion: here
+Hello, I am here to request extension in my Adminship. I have been Admin of eo Wikiquote for a long time (this is the vote #4), now is a litle slow community. --Radioamatoro (talk) 05:07, 20 August 2023 (UTC)Reply[reply]
+ Granted for 2 years to expire on 2025-08-25.  To prolong your (interface) adminship, please start another election a few days before your temporary access expires, and after a week post your request again to this page. Thanks. --Superpes15 (talk) 21:18, 25 August 2023 (UTC)Reply[reply]
+Styyx@tk.wikipedia[edit]
+Status:    Done
+Wiki: tk.wikipedia.org (list 'crats • bot policy • summary • 'crats rights)
+User: Styyx (talk • edits • logs • UserRights • activity • CentralAuth • email • verify 2FA)
+Discussion: tk:Wikipediýa:Ýolbaşçylyk saýlawy#Local Request for Administratorship extension/Styyx 3
+Please extend my adminship on tkwiki. Thanks. Styyx (talk) 12:58, 20 August 2023 (UTC)Reply[reply]
+ Granted for 2 years to expire on 2025-08-25.  To prolong your (interface) adminship, please start another election a few days before your temporary access expires, and after a week post your request again to this page. Thanks. --Superpes15 (talk) 21:19, 25 August 2023 (UTC)Reply[reply]
+PeaceSeekers@ms.wiktionary[edit]
+Status:    Done
+Wiki: ms.wiktionary.org (list 'crats • bot policy • summary • 'crats rights)
+User: PeaceSeekers (talk • edits • logs • UserRights • activity • CentralAuth • email • verify 2FA)
+Discussion: wikt:ms:Wiktionary:Kedai Kopi#Pencalonan diri sebagai penyelia (kali kedua)
+Request for adminship. Ideally, I want a permanent request, but I wouldn't mind a temporary one under your discretion. PeaceSeekers (talk) 03:14, 21 August 2023 (UTC)Reply[reply]
+ Granted for 2 years to expire on 2025-08-25.  To prolong your (interface) adminship, please start another election a few days before your temporary access expires, and after a week post your request again to this page. Thanks. --Superpes15 (talk) 21:21, 25 August 2023 (UTC)Reply[reply]
+Romaine@nlwikisource[edit]
+Status:    Not done
+Wiki: nl.wikisource.org (list 'crats • bot policy • summary • 'crats rights)
+User: Romaine (talk • edits • logs • UserRights • activity • CentralAuth • email • verify 2FA)
+Discussion: s:nl:Wikisource:De_kroeg#Aanvraag_moderatorschap_(2)
+Hello @Romaine:, the request you linked was made in January (so is too old to be processed here), could you please post a new request for adminship on nlwikisource and write here after 7/14 days? Thanks for your understanding :) --Superpes15 (talk) 21:26, 25 August 2023 (UTC)Reply[reply]
+Slaia@niawiktionary[edit]
+Status:    Done
+Wiki: nia.wiktionary.org (list 'crats • bot policy • summary • 'crats rights)
+User: Slaia (talk • edits • logs • UserRights • activity • CentralAuth • email • verify 2FA)
+Discussion: here
+Hi, my administrator access on Nias Wiktionary will end in a few days. I would like to apply for the adminship on niawiktionary. Thank you in advance. Slaia (talk) 08:16, 25 August 2023 (UTC)Reply[reply]
+ Granted for 2 years to expire on 2025-08-30.  To prolong your (interface) adminship, please start another election a few days before your temporary access expires, and after a week post your request again to this page. Thanks. --Superpes15 (talk) 21:21, 25 August 2023 (UTC)Reply[reply]
+Minorax@wikifunctionswiki[edit]
+Status:    Done
+Wiki: wikifunctionswiki.org (list 'crats • no standard bot policy • summary • 'crats rights)
+User: Minorax (talk • edits • logs • UserRights • activity • CentralAuth • email • verify 2FA)
+Discussion: f:Wikifunctions:Requests for user groups#Minorax
+Please grant administrator rights per succesful local election. Ameisenigel (talk) 07:39, 27 August 2023 (UTC)Reply[reply]
+ Granted for 1 year to expire on 2024-08-27.  To prolong your (interface) adminship, please start another election a few days before your temporary access expires, and after a week post your request again to this page. Thanks. --Mykola 16:11, 27 August 2023 (UTC)Reply[reply]
+Imranqazi90@kswiktionary[edit]
+Status:    In progress
+Wiki: ks.wiktionary.org (list 'crats • bot policy • summary • 'crats rights)
+User: Imranqazi90 (talk • edits • logs • UserRights • activity • CentralAuth • email • verify 2FA)
+Discussion: [[1]]
+Hello, I am here to renew extension in my Adminship which is going to expire on 3rd September. I have been Admin of Ks Wiktionary for a long time (two and half years). I wish you all a beautiful day. Thank you. Imranqazi90 (talk) 09:18, 27 August 2023 (UTC)Reply[reply]
+Janezdrilc@sl.wikiquote[edit]
+Status:    In progress
+Wiki: sl.wikiquote.org (list 'crats • bot policy • summary • 'crats rights)
+User: Janezdrilc (talk • edits • logs • UserRights • activity • CentralAuth • email • verify 2FA)
+Discussion: sl:q:Wikinavedek:Prošnje za administratorstvo#Janezdrilc (obnovitev)
+I was admin on Slovene Wikiquote from 2014 to 2020 (from 2018 on permanently). From 2020 until recent time I was unable to do administrator work. Now I would like to continue with work so I request for renewal of admin status. --Janezdrilc (talk) 15:48, 27 August 2023 (UTC)Reply[reply]
+Ebrahim@Wikifunctions[edit]
+Status:    Done
+Wiki: Wikifunctions.org (list 'crats • no standard bot policy • summary • 'crats rights)
+User: Ebrahim (talk • edits • logs • UserRights • activity • CentralAuth • email • verify 2FA)
+Discussion: f:Wikifunctions:Requests for user groups#Ebrahim
+A request for administrator by Ebrahim was started on 20 August 2023, and has been succesful Terasail[✉️] 18:27, 27 August 2023 (UTC)Reply[reply]
+This should also include Interface Administrator (As noted in the request) Does this need to be requested separately in the below section? Terasail[✉️] 18:32, 27 August 2023 (UTC)Reply[reply]
+Terasail, nope, only one request is needed, per what is said below If you are requesting adminship and the interface admin at the same time, you can file one request in administrator section and state you want interface adminship as well. --Ferien (talk) 18:42, 27 August 2023 (UTC)Reply[reply]
+ Granted for 1 year to expire on 2024-08-27.  To prolong your (interface) adminship, please start another election a few days before your temporary access expires, and after a week post your request again to this page. Thanks. — xaosflux Talk 23:53, 27 August 2023 (UTC)Reply[reply]
+Rachmat04@acewiki[edit]
+Status:    In progress
+Wiki: ace.wikipedia.org (list 'crats • bot policy • summary • 'crats rights)
+User: Rachmat04 (talk • edits • logs • UserRights • activity • CentralAuth • email • verify 2FA)
+Discussion: Rachmat04 keu ureueng urôh Buleuen Lapan 2023
+Dear stewards, I'd like to request admin and interface-admin permissions on acewiki. Announcement is here. Thank you. ··· 🌸 Rachmat04 · ☕ 22:44, 27 August 2023 (UTC)Reply[reply]
+I forgot to mention that if permanent adminship is possible to grant, I kindly ask for both access. Thank you. ··· 🌸 Rachmat04 · ☕ 07:31, 28 August 2023 (UTC)Reply[reply]
+Kunokuno@bcl.wiktionary[edit]
+Status:    In progress
+Wiki: bcl.wiktionary.org (list 'crats • bot policy • summary • 'crats rights)
+User: Kunokuno (talk • edits • logs • UserRights • activity • CentralAuth • email • verify 2FA)
+Discussion: https://bcl.wiktionary.org/wiki/Olay_sa_Wiksyunaryo:Portal_kan_komunidad#Admin_Request
+I have posted my application on the bcl.wiktionary community portal talk page. Thank you. Kunokuno (talk) 04:59, 28 August 2023 (UTC)Reply[reply]
+LR0725@ko.wikisource[edit]
+Status:    In progress
+Wiki: ko.wikisource.org (list 'crats • bot policy • summary • 'crats rights)
+User: LR0725 (talk • edits • logs • UserRights • activity • CentralAuth • email • verify 2FA)
+Discussion: s:ko:위키문헌:관리자 선거/LR0725/2
+Request for prolongation of my kowikisource temporary adminship. Previously I got 3 months temporary adminship, and it ends on September 3rd. Admin election started on August 19th, so election is held for 9 days. Thanks. --LR0725 [ Talk | Contribs ] 06:48, 28 August 2023 (UTC)Reply[reply]
+Yasanto Lase@niawiktionary[edit]
+Status:    Done
+Wiki: nia.wiktionary.org (list 'crats • bot policy • summary • 'crats rights)
+User: Yasanto Lase (talk • edits • logs • UserRights • activity • CentralAuth • email • verify 2FA)
+Discussion: here
+Hi, my administrator access on Nias Wiktionary will end in a few days. I would like to apply for the adminship on niawiktionary. Thank you in advance. Yasanto Lase (Yasanto Lase) 10:49, 30 August 2023 (UTC)Reply[reply]
+Wd-Ryan@wikifunctionswiki[edit]
+Status:    Done
+Wiki: wikifunctionswiki.org (list 'crats • no standard bot policy • summary • 'crats rights)
+User: Wd-Ryan (talk • edits • logs • UserRights • activity • CentralAuth • email • verify 2FA)
+Discussion: f:Wikifunctions:Requests for user groups#Wd-Ryan
+A request for administrator by Wd-Ryan was started on 25 August 2023, and has been succesful. Terasail[✉️] 02:06, 1 September 2023 (UTC)Reply[reply]
+ Granted for 1 year to expire on 2024-09-01.  To prolong your (interface) adminship, please start another election a few days before your temporary access expires, and after a week post your request again to this page. Thanks. --Mykola 02:15, 1 September 2023 (UTC)Reply[reply]
+Patriot Kor@tly.wikipedia[edit]
+Status:    In progress
+Wiki: tly.wikipedia.org (list 'crats • no standard bot policy • summary • 'crats rights)
+User: Patriot Kor (talk • edits • logs • UserRights • activity • CentralAuth • email • verify 2FA)
+Discussion: Wikipedia:İnzibátavonon
+Hello, please confirm my local admin status.--Patriot Kor (talk) 07:54, 1 September 2023 (UTC)Reply[reply]
+Interface administrator access[edit]
+See Interface admin  for information about this user group.
+If you need to accomplish one-time, non-recurring task, please request your task at Steward requests/Miscellaneous.
+If you are requesting adminship and the interface admin at the same time, you can file one request in administrator section and state you want interface adminship as well.
+MediaWiki interface translations are done at translatewiki.net. Please do not request interface administrator access solely for that purpose; your request will be declined.
+Since the end of 2018, all interface administrators are required to have two-factor authentication (2FA) enabled. Please, enable it before posting your request here.
+Stewards: Please use {{Systmp}} for approved temporary requests.
+Requests for removal of access should be posted at the section below.
+Please start a new discussion about requesting the permission on the local village pump, administrators' noticeboard or a designated page for requesting permissions each time you request or renew interface adminship.
+Discussions should be open for seven days. Please request interface adminship here seven days after discussions started. This page is not the place for any discussions or votes. (For wikis with few active users, it is OK to have no comments.)
+If you only want interface adminship for specific tasks, please state for how long and for which tasks you need it. Otherwise stewards will decide whether to assign permanent interface adminship and the duration of interface adminship. See Steward requests/Permissions/Minimum voting requirements.
+Romaine@nlwikisource[edit]
+Status:    Not done
+Wiki: nl.wikisource.org (list 'crats • bot policy • summary • 'crats rights)
+User: Romaine (talk • edits • logs • UserRights • activity • CentralAuth • email • verify 2FA)
+Discussion: s:nl:Wikisource:De_kroeg#Aanvraag_moderatorschap_(2)
+Romaine is very experienced on nl:wikimedia. On nl:wikisource he can help the only surviving moderator. We want to bring more activity to the site.--Havang(nl) (talk) 10:08, 23 August 2023 (UTC)Reply[reply]
+As above, please make a new RfA, since this one was made in January :) --Superpes15 (talk) 21:28, 25 August 2023 (UTC)Reply[reply]
+Eldarado@tlywikipedia[edit]
+Status:    On hold
+Wiki: tly.wikipedia.org (list 'crats • no standard bot policy • summary • 'crats rights)
+User: Eldarado (talk • edits • logs • UserRights • activity • CentralAuth • email • verify 2FA)
+Discussion: It just opened today.
+The Wikipedia language section of my mother tongue has been opened. I need to perform some technical tasks there, so I require Interface Administrator privileges. Additionally, I hold roles as a sysop and a bureaucrat on the azwiki. eldarado (talk | contributions | meta page) 20:15, 31 August 2023 (UTC)Reply[reply]
+@Eldarado: you will need to provide a link to the local discussion, which should be open for at least a week. — xaosflux Talk 20:55, 31 August 2023 (UTC)Reply[reply]
+@Xaosflux: I know, but wiki opened today. And needs some technical edits, what's your advise? --eldarado (talk | contributions | meta page) 21:00, 31 August 2023 (UTC)Reply[reply]
+@Eldarado for anything urgently immediate, mock up the change locally and ask over at SRM where a global sysop can action it; for this request, start whatever that project's version of wikidata:Q16503 will be and at least post your intention there. You will likely need to be an admin and an intadmin for certain tasks unless you know you won't need both. Temp grants will likely start at 3 months in duration. — xaosflux Talk 21:33, 31 August 2023 (UTC)Reply[reply]
+Bureaucrat access[edit]
+See Bureaucrat  for information about this user group.
+In principle, requests for temporary bureaucrat access are not granted.
+A small project does not need bureaucrats. Currently whether a promotion is valid or not is decided by stewards. See here for a guideline.
+Requests for removal of access should be posted at the section below.
+CheckUser access[edit]
+See CheckUser policy  for information about this user group and the policy governing the use of this tool.
+To request CheckUser information, see Steward requests/Checkuser. This is the place to request CheckUser access.
+Temporary CheckUser access is not permitted and temporary access is only used by Stewards .
+Stewards: Before granting this permission to a user, please check the current policy and make sure that the user has signed the confidentiality agreement with the Wikimedia Foundation. An email template is available for requesting new users to identify.
+When a new user is assigned to this group, please add them to this list, ask them to subscribe to checkuser-l, notify listowners checkuser-l-ownerlists.wikimedia.org, and make sure they contact an op for access to #wikimedia-privacyconnect and #wikimedia-checkuserconnect.
+Wagino 20100516@id.wikipedia[edit]
+Status:    Done
+Wiki: id.wikipedia.org (list 'crats • no standard bot policy • summary • 'crats rights)
+User: Wagino 20100516 (talk • edits • logs • UserRights • activity • CentralAuth • email • verify 2FA)
+Discussion: Wagino 20100516 untuk pemeriksa 15 Agustus 2023
+Signature:  diff
+I hereby request Checkuser rights on the id.wikipedia project, after a completed voting with 28 support, 2 abstain, and 0 oppose. I has confirmed on the Noticeboard. -- Wagino 20100516 (talk) 05:15, 30 August 2023 (UTC)Reply[reply]
+ Done. --Mykola 11:27, 30 August 2023 (UTC)Reply[reply]
+Thank you so much. -- Wagino 20100516 (talk) 12:07, 30 August 2023 (UTC)Reply[reply]
+Oversight access[edit]
+See Oversight policy  for information about this user group and the policy governing the use of this tool.
+To request to have content oversighted, ask for a steward in #wikimedia-stewardsconnect and contact a steward privately. This section is for requesting access to the Oversight tool.
+For contact details about oversighters across the wikis, refer to this page.
+Note that temporary Oversight access is not permitted and temporary status is only used by Stewards .
+Stewards: Before granting this permission to a user, please check the current policy and make sure that the user has signed the confidentiality agreement with the Wikimedia Foundation.
+When a new user is assigned to this group, please add them to this list.
+Miscellaneous requests[edit]
+Requests for permissions that don't fit in other sections belong here. Importer  rights can be granted on most wikis by stewards only. Please gain local community consensus before posting a new section here.
+Note that the following types of permissions requests belong on separate pages:
+SRB — Local or global bot status
+SRGP — Global permissions
+Removal of access[edit]
+If you're requesting the removal of your own permissions, make sure you're logged in to your account. If you have multiple flags, specify which you want removed. Stewards may delay your request a short time to ensure you have time to rethink your request (see previous discussion on 24 hour delays); the rights will not be restored by stewards once they are removed.
+To request the removal of another user's permissions, you must gain consensus on the local wiki first. When there is community consensus that the user's access should be removed, provide a link to the discussion, with a brief explanation of the reason for the request, and summarize the results of discussion. However, as bureaucrats of some wikis may remove users from the administrator or bureaucrat group, please see also a separate list of these specific wikis.
+To request the removal of another user's permissions for inactivity, link to your local inactivity policy. If your site does not have inactivity policy, the global policy Admin activity review applies.
+See the instructions above for adding new requests. Please post new requests at the bottom of the section.
+Jpatokal@en.wikivoyage[edit]
+Status:    Done
+Wiki: en.wikivoyage.org (list 'crats • bot policy • summary • 'crats rights)
+User: Jpatokal (talk • edits • logs • UserRights • activity • CentralAuth • email • verify 2FA)
+Discussion: voy:en:Wikivoyage talk:Bureaucrats#Inactive bureaucrats_2023/09
+Hi, please remove Jpatokal's bureaucrat rights as per their comment. --SHB2000 (talk | contribs) 03:50, 24 August 2023 (UTC)Reply[reply]
+Done. —MarcoAurelio (talk) 12:13, 24 August 2023 (UTC)Reply[reply]
+DerFussi@en.wikivoyage[edit]
+Status:    Done
+Wiki: en.wikivoyage.org (list 'crats • bot policy • summary • 'crats rights)
+User: DerFussi (talk • edits • logs • UserRights • activity • CentralAuth • email • verify 2FA)
+Discussion: voy:en:Wikivoyage talk:Bureaucrats#Inactive bureaucrats_2023/09
+Hi, a similar request as above. Only remove their bureaucrat rights; keep the admin bit. --SHB2000 (talk | contribs) 07:42, 25 August 2023 (UTC)Reply[reply]
+ Done by Jon Kolbert --Superpes15 (talk) 21:29, 25 August 2023 (UTC)Reply[reply]
+Geonuch@th.wikiquote[edit]
+Status:    Done
+Wiki: th.wikiquote.org (list 'crats • bot policy • summary • 'crats rights)
+User: Geonuch (talk • edits • logs • UserRights • activity • CentralAuth • email • verify 2FA)
+Hello, Please remove my sysop and interface-admin rights from thwq. Best regards. Geonuch (talk) 06:00, 26 August 2023 (UTC)Reply[reply]
+ On hold for 1 day, standard for resignation of advanced permissions --Alaa  :)..! 14:51, 26 August 2023 (UTC)Reply[reply]
+ Done. --Mykola 16:14, 27 August 2023 (UTC)Reply[reply]
+See also[edit]
+Steward requests 
+Log of changes to user rights
+Log of global rights-related changes
+Steward handbook 
+Users that have signed confidentiality agreement for nonpublic personal data
+Archives
+2004, 2005
+2006: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+2007: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+2008: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+2009: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+2010: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+2011: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+2012: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+2013: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+2014: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+2015: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+2016: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+2017: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+2018: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+2019: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+2020: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+2021: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+2022: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+2023: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+ 
+General requests for:
+help from a Meta sysop or bureaucrat ·
+deletion (speedy deletions: local · multilingual) ·
+URL blacklisting ·
+new languages ·
+interwiki map
+Personal requests for:
+username changes ·
+permissions (global) ·
+bot status ·
+adminship on Meta ·
+CheckUser information (local) ·
+local administrator help
+Cooperation requests for:
+comments (local) (global) ·
+translation
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Steward_requests/Permissions&oldid=25547374"
+Categories: Steward requestsMeta-Wiki requests
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Content pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+Wikimedia CommonsMediaWikiWikimedia OutreachWikibooksWikidataWikimaniaWikipedia
+In other languages
+AcèhАлтай тилअंगिकाالعربيةঅসমীয়াAsturianuAzərbaycancaБашҡортсаБеларускаяभोजपुरीবাংলাکوردیEnglishEspañolفارسیहिन्दीHrvatskiBahasa IndonesiaItaliano日本語한국어ЛезгиLigureमैथिलीമലയാളംमराठीBahasa Melayuनेपालीଓଡ଼ିଆРусскийScotsSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSoomaaligaShqipไทยTürkçeТатарча / tatarçaУкраїнськаاردوTiếng Việt吴语Yorùbá中文Bân-lâm-gú粵語
+Edit links
+ This page was last edited on 1 September 2023, at 07:54.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

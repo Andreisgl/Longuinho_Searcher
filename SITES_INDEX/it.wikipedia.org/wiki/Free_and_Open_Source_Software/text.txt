@@ -1,0 +1,144 @@
+Free and Open Source Software - Wikipedia
+Free and Open Source Software
+Da Wikipedia, l'enciclopedia libera.
+Vai alla navigazione
+Vai alla ricerca
+ Disambiguazione – "Floss" rimanda qui. Se stai cercando la mossa di danza, vedi Floss (danza).
+Questa voce o sezione  sull'argomento software libero non cita le fonti necessarie o quelle presenti sono insufficienti.
+Commento: le fonti diventano insufficienti dalla sezione Storia in avanti
+Puoi migliorare questa voce aggiungendo citazioni da fonti attendibili secondo le linee guida sull'uso delle fonti. Segui i suggerimenti del progetto di riferimento.
+Questa voce o sezione  sull'argomento software libero non è ancora formattata secondo gli standard.
+Contribuisci a migliorarla secondo le convenzioni di Wikipedia. Segui i suggerimenti del progetto di riferimento.
+Questa pagina  sull'argomento software libero sembra trattare argomenti unificabili alla pagina software libero.
+Commento: Questa voce dovrebbe trattare della storia del termine "Free and Open Source" e non dovrebbe duplicare la voce software libero. Aiuta a separare questa tematica dalla voce principale, ad esempio eliminando le ridondanze e sostituendole con riferimenti alla pagina software libero ad esempio utilizzando il Template:Vedi anche.
+Puoi contribuire unendo i contenuti in una pagina unica.  Segui i suggerimenti del progetto di riferimento.
+Free and open source software o free/libre open source software (in acronimo rispettivamente FOSS e FLOSS) sono due termini generici usati per riferirsi sia al free software che al software open source. Non sono esattamente sinonimi ma esiste una differenza tra software libero e open source.
+Indice
+1 Definizione
+2 Storia
+3 FOSS per i paesi in via di sviluppo e le PMI[8]
+4 Software e le proprietà intellettuali
+5 Software e brevetti nella UE
+6 FOSS e brevetti
+7 Protezione del FOSS
+8 A chi giova il FOSS
+9 Le licenze
+10 Note
+11 Bibliografia
+12 Voci correlate
+13 Altri progetti
+Definizione[modifica | modifica wikitesto]
+L'espressione «free and open source software» è prevalentemente utile per la lingua inglese, onde evitare la confusione tra «software libero» con «software gratuito», quando invece «free» deriva qui da «freedom» (lett. «libertà»). Invece nella lingua Italiana non esistono problemi di incomprensione fra «libero» e «gratuito» e quindi «software libero e open source» è persino ridondante in quanto l'accesso al codice sorgente è già uno dei prerequisiti di un qualsiasi software libero.[1]
+In ogni caso soltanto «open source» o «FOSS» sono termini sconsigliati dalla Free Software Foundation per indicare un software libero, consigliando invece l'adozione dell'espressione «software libero» o «FLOSS» poiché aiutano maggiormente a capire al volo che si sta parlando delle quattro libertà fondamentali.[2] Infatti, sebbene un software libero sia sempre open source, non è sempre vero il contrario: basta immaginare un qualsiasi programma open source di cui l'utente abbia l'accesso al codice sorgente ma di cui non sia legalmente possibile apportare modifiche.[3]
+Storia[modifica | modifica wikitesto]
+La frase è stata adottata a partire dal 2003, anno in cui l'acronimo venne usato per la prima volta[4] e utilizzato un tempo, nel gergo militare, dal Dipartimento della Difesa degli Stati Uniti.
+Nel corso dei primi decenni elaborare, condividere e modificare il programma sorgente era una pratica comune. Per esempio, il gruppo di utenti SHARE fu fondato nel 1955 per scambiare informazioni tecniche e modifiche al programma sorgente per le unità di elaborazione IBM. Il programma fu analogamente scambiato dagli utenti della IBM 7090/7094 e continua ad essere condiviso dagli appassionati di retro-computing. Tuttavia questa pratica cominciò a cambiare negli anni 1970 quando i computer divennero prodotti commerciali.
+L'origine dell'attuale FOSS viene solitamente fatta risalire all'inizio degli anni 1980, quando Richard Stallman incontrò casualmente pratiche di proprietà riservate nel suo lavoro. L'indignazione morale di Stallman sul cambiamento e il suo effetto sul lavoro professionale lo indussero a creare il progetto GNU nel 1983, con l'intenzione di realizzare un sistema operativo libero. Nel 1985, Stallman fondò la Free Software Foundation per promuovere il suo obiettivo.
+Il progetto GNU e la Free Software Foundation continuarono il loro lavoro durante gli anni 1980, diffondendo programmi di utilità per un sistema operativo libero come lo GNU Emacs, un editor di testo che Stallman ha personalmente sviluppato e promosso, così come la GNU General Public License, la più comune licenza usata nel FOSS.
+Dall'inizio degli anni 1990, l'unico pezzo importante necessario per raggiungere l'obiettivo del sistema operativo libero era il kernel. Questo pezzo venne fornito quando Linus Torvalds, uno studente finlandese di informatica, pubblicò il suo Linux kernel sotto la GNU General Public License. Oggi il sistema operativo risultante è spesso chiamato Linux, sebbene i sostenitori del software libero preferiscono chiamarlo GNU/Linux per riconoscere che il risultato è stato uno sforzo congiunto. Un progetto chiamato GNU Hurd continua ancora oggi a sviluppare un kernel GNU separato, anche se non è più una priorità per la maggior parte coinvolta nel FOSS.
+Gli anni 1990 videro anche la comparsa di decine di altri progetti FOSS, tra cui Apache HTTP Server, Samba, Mozilla, il programma di grafica bitmap GIMP e altri standard della moderna informatica FOSS. Molti dei progetti che comparvero in questo periodo hanno dato contributi fondamentali per la realizzazione e divulgazione di Internet, dando origine alla spesso ripetuta affermazione che FOSS ha costruito e gestisce Internet.
+Nel 1998, un gruppo che comprendeva John «maddog» Hall, Larry Augustin, Michael Tiemann ed Eric Raymond si sono incontrati a Palo Alto, California. Secondo Tiemann «I conferenzieri hanno deciso che era ora di liberarsi dell'atteggiamento moralista e conflittuale che era stato associato al 'software libero' in passato e vendere l'idea esattamente sulle stesse pragmatiche ragioni commerciali che avevano motivato Netscape» da diffondere recentemente il suo programma sorgente. Il termine che il gruppo cominciò a pubblicizzare fu open source.
+Il cambiamento di termini può aver funzionato come previsto, aiutando le imprese a considerare il FOSS seriamente. O forse il FOSS aveva semplicemente raggiunto un livello di complessità che non poteva più essere liquidato come un'idea frangia e stava cominciando a rivaleggiare le sue controparti proprietarie. In ogni caso, durante la Dot-com mania del 1998-2000, il FOSS divenne la base di innumerevoli start-up. Lo stesso periodo ha visto anche le prime imprese FOSS andare in pubblico, come Red Hat e VA Linux. Molte aziende consolidate, come IBM, Oracle e Sun Microsystems, iniziarono anche a partecipare al FOSS.
+Il FOSS fu per un breve periodo screditato dal collasso delle Dot-com, ma continuò a guadagnare sia in popolarità che in imprese e computer personali durante il primo decennio del nuovo millennio. Una volta largamente sviluppato da volontari che lavorano nel tempo libero, oggi il FOSS è così ampiamente visto come una risorsa che il 75% dei contributi al Linux kernel sono fatti da operatori pagati dalle multinazionali. Oggi, anche Microsoft, i cui dirigenti pare affermassero che FOSS era anti-americano e un cancro, vede vantaggi nel pagare almeno il servizio labiale al FOSS.
+Ormai il FOSS è diventata una seria e importante realtà economica.
+Ecco alcuni dati:
+Oltre il 66% dei web server installa FOSS[5];
+Anche in ambiente Windows sta riscuotendo grande successo la suite per ufficio FOSS;[6][7]
+IBM, Sun e altri grandi produttori di hardware installano FOSS all'interno dei loro PC, promuovendone lo sviluppo e il supporto da parte dei loro prodotti.
+FOSS per i paesi in via di sviluppo e le PMI[8][modifica | modifica wikitesto]
+La diffusione e lo sviluppo del FOSS può portare vantaggi e giovamenti sia ai paesi in via di sviluppo che alle PMI. Questa affermazione, non è solo demagogia, ma è supportata da motivazioni e ragionamenti logici.
+Con l'utilizzo di FOSS, i paesi in via di sviluppo acquisiscono competenze tecnologiche. Infatti l'uso del FOSS necessita di persone capaci di installarlo, utilizzarlo, adattarlo e migliorarlo. Inoltre, invece di investire fondi importando licenze di acquisto software, i paesi in via di sviluppo possono utilizzare gli stessi fondi per finanziare i costi di assistenza, installazione e personalizzazione del FOSS, investendo sulla comunità di informatici nazionale, riducendo anche i costi di informatizzazione.
+Per quanto riguarda le PMI, il FOSS conviene sia in fase di utilizzo che di sviluppo.
+In fase di utilizzo il risparmio è facilmente identificabile nel costo inferiore del FOSS rispetto ai software con licenza proprietaria. Inoltre, solitamente, il FOSS può essere utilizzato su macchine con potenza di calcolo inferiore.
+In fase di sviluppo, le PMI possono immettere nel mercato internazionale i software da loro sviluppati, investendo scarse risorse finanziarie. In caso questi software siano effettivamente efficaci, le stesse aziende che le realizzano ottengono subito ricadute economiche positive.
+Software e le proprietà intellettuali[modifica | modifica wikitesto]
+La storia della tutela del Software è attuale e recentemente ha posto il problema della tutela giuridica. Tendenzialmente è stato risolto con un modello di tutela copyright che vieta la copia ed ogni altro uso non autorizzato dall'autore.
+La tutela del diritto d'autore non è sufficiente a proteggersi contro l'azione mirata a copiare l'”idea” incorporata nel software stesso.
+Da cui sorge il problema della tutela dell'idea, risolto con la tutela brevettuale ammessa per la prima volta nel campo del software negli Stati Uniti (decisione della Corte Suprema Diamond contro Diehr and Lutton).
+L'articolo 27 dei TRIPS Agreement indica come oggetto di brevetto tutte le invenzioni, di prodotti o di processi , in tutti i campi della tecnologia che presentino carattere di novità che implichino un'attività inventiva e siano atte ad una applicazione industriale senza esplicita esclusione per il mercato dei software.
+L'ordinamento italiano nega la brevettabilità del software mentre gli altri sistemi giuridici europei in parte l'ammettono e in parte la negano. Nella Convenzione di Monaco del 1973 si è costituito un sistema centralizzato di registrazione dei brevetti (brevetto europeo). Con l'applicazione della Convenzione di Monaco si è ammessa la brevettabilità «ogni volta che il software, operando su un computer, è idoneo a produrre un effetto tecnico che va al di là della normale interazione tra computer e software» (caso IBM Corp.).
+Software e brevetti nella UE[modifica | modifica wikitesto]
+La UE ripone nei FOSS precisi interessi strategici per la loro ottimale espressione in un sistema economico ad alto contenuto di conoscenza.
+UE si impegna ad esortare le pubbliche amministrazioni ad adottare FOSS costituendo il Working Group on Software Libre per studiare e esporre, ai membri della UE, i vantaggi del FOSS.
+Quindi attendersi dalla UE un quadro normativo a tutela dei FOSS sembra essere un ragionevole e auspicabile sviluppo.
+FOSS e brevetti[modifica | modifica wikitesto]
+I brevetti di software costituiscono un serio intralcio allo sviluppo dei FOSS.
+Negli ultimi anni è enormemente aumentato il numero dei brevetti di software. Questa espansione brevettuale ha aumentato la possibilità di contatto fra brevetti e FOSS.
+Tuttavia i FOSS mantengono una posizione di debolezza nei confronti dei software brevettati perché la libera disponibilità del codice sorgente, che è un prerequisito del FOSS, rende facile per il titolare di un brevetto valutare attraverso un confronto un'eventuale violazione di diritti.
+Protezione del FOSS[modifica | modifica wikitesto]
+Diversi argomenti affermano che il FOSS è un valore collettivo da tutelare :
+Favorisce il contenimento della tendenza monopolistica del mercato del software;
+Costituisce il contesto ideale per la crescita e l'innovazione del software;
+Garantisce la produzione di software di migliore qualità.
+A chi giova il FOSS[modifica | modifica wikitesto]
+I paesi in via di sviluppo possono, attraverso l'utilizzo del FOSS acquisire conoscenze tecnologiche e può essere favorito lo sviluppo di comunità locali di persone in grado di installarlo, utilizzarlo e eventualmente migliorarlo. Avvantaggia la bilancia commerciale di questi paesi permettendo di sviluppare in loco nuovi software in alternativa all'acquisto di licenze costose. L'uso del FOSS nei paesi in via di sviluppo produce tecnici informatici a minor costo con conseguente vantaggio economico.
+Il FOSS giova alle piccole e medie imprese sia quando viene utilizzato che quando viene sviluppato perché i costi dell'acquisto e di gestione sono inferiori a quelli di software protetti da brevetto e perché possono essere utilizzate su macchine tendenzialmente più datate .
+Le piccole e medie imprese anche con scarse risorse finanziarie possono realizzare FOSS e proporli sul mercato globale.
+Le licenze[modifica | modifica wikitesto]
+Le licenze FOSS più popolari e maggiormente conosciute sono: la Licenza Apache, le Licenze BSD, la GNU General Public License (GPL), la GNU Lesser General Public License (LGPL), MIT Licence e la Mozilla Public License (MPL).
+Ci sono una serie di definizioni approvate del FOSS, e le relative liste di licenze. Le licenze di cui sopra sono state approvate da tutte quante le definizioni.
+Definizioni FOSS e linee guida:
+The Free Software Definition, della Free Software Foundation (FSF)
+Open Source Definition, della Open Source Initiative (OSI)
+Debian Free Software Guidelines
+Lista di licenze:
+Licenze OSI
+ La lista di licenze libere e non-libere della Free Software Foundation, su gnu.org.
+Comparazione di licenze libere
+Note[modifica | modifica wikitesto]
+^ 
+ Cos'è il software libero, su gnu.org. URL consultato il 21 luglio 2014.
+^ 
+(EN) FLOSS and FOSS, su gnu.org. URL consultato il 21 luglio 2014.«Others use the term “FOSS,” which stands for “Free and Open Source Software.” This is meant to mean the same thing as “FLOSS,” but it is less clear, since it fails to explain that “free” refers to freedom. It also makes “free software” less visible than “open source,” since it presents “open source” prominently but splits “free software” apart.»
+^ 
+ Perché l'"Open Source" manca l'obbiettivo del Software Libero, su gnu.org. URL consultato il 21 luglio 2014.
+^ Open Source Software resources
+^ La maggior parte consiste nel web server Apache, anche se ultimamente altri web server stanno prendendo piede acquisendo fette di mercato non indifferenti.
+^ 
+(EN) Open office, su openoffice.org. URL consultato il 21 luglio 2014.
+^ 
+ Comunità italiana di LibreOffice, su it.libreoffice.org. URL consultato il 21 luglio 2014.
+^ Piccole e Medie Imprese.
+Bibliografia[modifica | modifica wikitesto]
+Free and Open-Source Software e brevettabilità dei software ver.1.1 di Marco Ciurcina
+Voci correlate[modifica | modifica wikitesto]
+FOSS.IN
+Altri progetti[modifica | modifica wikitesto]
+Altri progetti
+Wikisource
+ Wikisource contiene una pagina dedicata a Free and Open Source Software
+V · D · MSoftware libero e open sourceGeneraleCopyleft · Eventi · Software libero · Definizione · Gratis versus libre · Open sourceFamiglie di sistemi operativiAros Research Operating System · BSD · Darwin · eCos · FreeDOS · GNU · Haiku · Inferno · Linux · Mach · Minix · OpenSolaris · Plan 9 · ReactOS · Redox · Symbian OSSviluppo software open sourceEclipse · Free Pascal · GCC · Gambas · Java · LLVM · Lua · NetBeans · Octave · Open64 · Perl · PHP · Python · ROSE · Ruby · TclStoria del software liberoGNU · Haiku · Linux · Mozilla (Application Suite · Firefox · Thunderbird)OrganizzazioniApache Software Foundation · Blender Foundation · Eclipse Foundation · freedesktop.org · Free Software Foundation (Europe · India · Latin America) · FSMI · GNOME Foundation · Google Code · KDE · Linux Foundation · Mozilla Foundation · Open Source Geospatial Foundation · Open Source Initiative · Software Freedom Conservancy · SourceForge · Symbian Foundation · The Document Foundation · Ubuntu Foundation · Xiph.Org Foundation · XMPP Standards Foundation · X.Org Foundation · Software Freedom Law CenterLicenze libereApache · Artistica · BSD · GNU GPL · GNU LGPL · ISC · MIT · MPL · Ms-PL/RL · zlib · Licenze approvate da FSFStandard di licenzeOpen Source Definition · The Free Software Definition · Debian Free Software GuidelinesSfideBlob binario · Canonical's contributor agreement · Digital rights management · Rebranding dei programmi Mozilla · Software proprietario · Causa SCO-IBM · Restrizioni hardware · Trusted computing · Licenza virale · Guerra dei browser · Halloween DocumentsAltri argomentiTermini alternativi · Comunità software libero · Distribuzione Linux · Forking · Movimento software libero · Microsoft Open Specification Promise · Revolution OS
+ Portale Software libero: accedi alle voci di Wikipedia che trattano di Software libero
+Estratto da "https://it.wikipedia.org/w/index.php?title=Free_and_Open_Source_Software&oldid=131397387"
+Categorie: Documentazione del software liberoLicenze softwareCategorie nascoste: Senza fonti - software liberoSenza fonti - luglio 2014Wikificare - software liberoWikificare - luglio 2014Unire - software liberoUnire - dicembre 2016Collegamento interprogetto a Wikisource presente ma assente su Wikidata
+Menu di navigazione
+Strumenti personali
+Accesso non effettuatodiscussionicontributiregistratientra
+Namespace
+VoceDiscussione
+italiano
+Visite
+LeggiModificaModifica wikitestoCronologia
+Altro
+Ricerca
+Navigazione
+Pagina principaleUltime modificheUna voce a casoNelle vicinanzeVetrinaAiutoSportello informazioni
+Comunità
+Portale ComunitàBarIl WikipedianoFai una donazioneContatti
+Strumenti
+Puntano quiModifiche correlatePagine specialiLink permanenteInformazioni paginaCita questa voceElemento Wikidata
+Stampa/esporta
+Crea un libroScarica come PDFVersione stampabile
+In altre lingue
+العربيةAzərbaycancaবাংলাCatalàCebuanoکوردیČeštinaDanskDeutschΕλληνικάEnglishEspañolفارسیFrançaisעבריתहिन्दीBahasa IndonesiaIdoÍslenska日本語ქართულიಕನ್ನಡ한국어КыргызчаМонголBahasa MelayuनेपालीNederlandsNorsk bokmålPolskiPortuguêsRomânăРусскийසිංහලSimple EnglishSlovenčinaSlovenščinaShqipСрпски / srpskiSvenskaTürkçeУкраїнськаاردوOʻzbekcha / ўзбекчаTiếng Việt中文粵語
+Modifica collegamenti
+ Questa pagina è stata modificata per l'ultima volta l'8 gen 2023 alle 13:05.
+Il testo è disponibile secondo la licenza Creative Commons Attribuzione-Condividi allo stesso modo; possono applicarsi condizioni ulteriori. Vedi le condizioni d'uso per i dettagli.
+Informativa sulla privacy
+Informazioni su Wikipedia
+Avvertenze
+Codice di condotta
+Versione mobile
+Sviluppatori
+Statistiche
+Dichiarazione sui cookie

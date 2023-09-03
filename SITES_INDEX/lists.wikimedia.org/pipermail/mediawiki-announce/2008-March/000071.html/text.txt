@@ -1,0 +1,58 @@
+ [MediaWiki-announce] MediaWiki 1.12.0rc1 released
+   
+[MediaWiki-announce] MediaWiki 1.12.0rc1 released
+Brion Vibber
+brion at wikimedia.org
+       
+Tue Mar 11 22:38:32 UTC 2008
+Previous message: [MediaWiki-announce] MediaWiki 1.11.2 released (security)
+Next message: [MediaWiki-announce] MediaWiki 1.12.0 released
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+Ok, the release schedule got disrupted with all the busy Wikimedia 
+Foundation stuff over the last few months, but we're getting back on 
+track with this release candidate for the Winter 2008 quarterly release, 
+MediaWiki 1.12.
+There's a *lot* of updates, small and large... Perhaps most significant 
+is a rewrite of much of the parser, changing how templates and 
+extensions are expanded. Among other things, this should ensure that 
+complex mixes of templates and HTML tables should render more similarly 
+between Wikipedia and default installations of MediaWiki.
+For this release candidate, we're very interested to hear back about 
+regressions or problems with the installer / updaters. Note that, as 
+with most previous releases, you will have to run the updaters to apply 
+some database schema updates when you upgrade.
+Full release notes:
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_12_0RC1/phase3/RELEASE-NOTES
+Download:
+http://download.wikimedia.org/mediawiki/1.12/mediawiki-1.12.0rc1.tar.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.12/mediawiki-1.12.0rc1.tar.gz.sig
+SHA-1 checksums:
+ee5c298a667b6fa476a5c6de9ddb4c23f2cfd03d mediawiki-1.12.0rc1.tar.gz
+MD-5 checksums:
+MD5 (mediawiki-1.12.0rc1.tar.gz) = a77fbae59e70f4623564c5d45bb1eb9f
+Before asking for help, try the FAQ:
+http://www.mediawiki.org/wiki/Manual:FAQ
+Low-traffic release announcements mailing list:
+(Please subscribe to receive announcements of security updates.)
+http://lists.wikimedia.org/mailman/listinfo/mediawiki-announce
+Wiki admin help mailing list:
+http://lists.wikimedia.org/mailman/listinfo/mediawiki-l
+Bug report system:
+http://bugzilla.wikimedia.org/
+Play "stump the developers" live on IRC:
+#mediawiki on irc.freenode.net
+-- brion vibber (brion @ wikimedia.org)
+Previous message: [MediaWiki-announce] MediaWiki 1.11.2 released (security)
+Next message: [MediaWiki-announce] MediaWiki 1.12.0 released
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+More information about the MediaWiki-announce
+mailing list

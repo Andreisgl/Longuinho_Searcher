@@ -1,0 +1,101 @@
+Wikipedia:Wikipedia Signpost/2013-02-18/Technology report - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Languages
+Language links are at the top of the page across from the title.
+Search
+Search
+Create accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Wikipedia:Wikipedia Signpost/2013-02-18/Technology report
+Add languages
+Add links
+Project pageTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+Print/export
+Download as PDFPrintable version
+From Wikipedia, the free encyclopedia
+< Wikipedia:Wikipedia Signpost‎ | 2013-02-18
+← Back to ContentsView Latest Issue18 February 2013
+Technology report
+Better templates and 3D buildings
+Contribute  —  
+Share this
+ E-mail
+ Facebook
+ Twitter
+ LinkedIn
+ Reddit
+ Digg
+By Jarry1250 and Dschwen
+Twenty wikis get Lua, more deployments
+As of time of writing, twenty wikis (including the English, French and Hungarian Wikipedias) are in the process of getting access to the Lua scripting language, an optional substitute for the clunky template code that exists at present.
+The deployments were announced on 15 February for 18 February (wikitech-l mailing list); consequently, most wikis are yet to decide upon policies towards template refactoring. Arguments in favour of a swift implementation cite the proven ability of Lua to reduce like-for-like rendering times (particularly on longer pages) when applied to heavily used templates. The language also allows more complex templates to be created and improves code readability. Arguments in favour of a more cautious approach centre on the propensity for templates to become ever more complex, obscuring their methods to the average user.
+The CodeEditor extension is also being deployed, providing Lua developers with a range of proper debugging tools; both it and the Scribunto extension (which provides the basic Lua functionality) have been in testing for several months following initial demos at the 2012 Berlin Hackathon and Wikimania 2012. Lua scripts will be written in a new Module: namespace, being invoked (probably from the Template: namespace, though potentially directly) via a new #invoke: parser function.
+WikiMiniAtlas  gets 3D buildings and more
+3D buildings on the interactive map gadget WikiMiniAtlas
+The WikiMiniAtlas is a built-in mapping gadget hidden behind the  icon, that shows up on all articles with geographic coordinates attached. Overlaid on a basemap derived from OpenStreetMap data the WikiMiniAtlas (WMA) displays links to geocoded Wikipedia articles and Commons image thumbnails. It features a user interface that is translated into dozens of languages and can display coordinates from over 70 Wikimedia projects. 
+The latest feature in WikiMiniAtlas is solid 3D buildings at high zoom levels; examples include the Petronas Towers, Burj Khalifa, the Empire State Building and many more. This feature requires a browser with WebGL support (all modern browsers except Internet Explorer). For modern Internet Explorer a wireframe view acts as a fallback. For browsers that do not support the canvas element (older Internet Explorer versions and obsolete browsers) no buildings are shown (it should degrade gracefully). Building geometries are extracted from open source data released by the OpenStreetMap project.
+In list articles such as the List of volcanoes in the United States all coordinates from the page are highlighted with blue dots on the map, with the dots being clickable to navigate the list (example). The WikiMiniAtlas also displays OSM object outlines through the WIWOSM project and embedded KML data. Thus the Navajo Nation article (video) is an example of the former and Mojave Desert is an example of the latter. Arbitrary outlines can be dragged across the map to allow for size comparisons; an example of such a comparison is that between Texas and the Democratic Republic of the Congo  (video). And of course WikiMiniAtlas goes beyond earth, showing globes of the Moon, Mercury, Mars, Titan, Io, and Venus (example).
+In brief
+Not all fixes may have gone live to WMF sites at the time of writing; some may not be scheduled to go live for several weeks.
+Third time lucky for English Wikipedia Wikidata deployment: On the third attempt, the Wikidata client was successfully rolled out to the English Wikipedia, with a date in early March now set for all remaining Wikipedias. Although most language links can now be safely removed from any project with the Wikidata client installed, not all can be; users unsure of which links fall into which category are advised to avoid removing any links. Please see Wikipedia:Wikidata for more information.
+← Previous "Technology report"Next "Technology report" →
+In this issue18 February 2013News and notes
+In the media
+WikiProject report
+Featured content
+Technology report
++ Add a commentDiscuss this story
+These comments are automatically transcluded from this article's talk page. To follow comments, add the page to your watchlist. If your comment has not appeared here, you can try purging the cache.
+"Arguments in favour of a more cautious approach centre on the propensity for templates to become ever more complex, obscuring their methods to the average user." I'm very concerned about that. If code gets too complex, only a bunch of people will be abled to edit Wikipedia. --NaBUru38 (talk) 18:07, 20 February 2013 (UTC)Reply[reply]
+Template code is already at that stage; there's very few people willing to touch the things. Apart from being better for the servers, Lua can't be worse in programmability - David Gerard (talk) 19:11, 20 February 2013 (UTC)Reply[reply]
+I think the opposite will happen. Lua code (or code in any other half-decent programming language, for that matter) should be much more maintainable than the hacked together template "programming" language we use now. Lua code has more readable syntax, can more easily include documentation and comments and abstractions such as functions and modules should also help a lot to improve readability, re-usability and maintainability. —Ruud 19:51, 20 February 2013 (UTC)Reply[reply]
+Templates are already an unreadable mess of almost-code. If we had this rollout 2 years ago I would've said the same thing. Remember that if you give software developers anything that looks like a programming language we'll try to develop in it. Much better to have an actual language than a mess of nested (and confusing) templates driven by curly braces and key-value relationships. Protonk (talk) 23:09, 20 February 2013 (UTC)Reply[reply]
+I propose that there be a category (perhaps Category:Articles with geographic coordinates) for all articles having geographic coordinates.
+—Wavelength (talk) 19:43, 20 February 2013 (UTC)Reply[reply]
+The place to discuss that would be at Template talk:Coord however the template is used on nearly a million pages so I'm not sure how useful it would be. If you really wanted to see what pages use it then you can use what links here [1].--Salix (talk): 20:00, 20 February 2013 (UTC)Reply[reply]
+I can't find the WikiMiniAtlas icon in the planet articles. Nicolas1981 (talk) 04:14, 21 February 2013 (UTC)Reply[reply]
+Check Olympus Mons for example. There has to be a coordinate in order for the WMA to appear. --Dschwen 05:28, 21 February 2013 (UTC)Reply[reply]
+OPPOSE LUA. All of my programming expertise will be obsolete if we don't do it with horrible template hacks any more.--ragesoss (talk) 15:56, 21 February 2013 (UTC)Reply[reply]
+Explore Wikipedia history by browsing The Signpost archives.
+Home
+About
+Archives
+Newsroom
+Subscribe
+Suggestions
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipedia_Signpost/2013-02-18/Technology_report&oldid=1132309804"
+Category: Wikipedia Signpost archives 2013-02
+ This page was last edited on 8 January 2023, at 07:23 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

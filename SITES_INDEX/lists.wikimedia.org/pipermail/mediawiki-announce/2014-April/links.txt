@@ -1,0 +1,11 @@
+http://releases.wikimedia.org/mediawiki/1.22/mediawiki-1.22.6.tar.gz
+http://releases.wikimedia.org/mediawiki/1.22/mediawiki-1.22.6.patch.gz
+http://releases.wikimedia.org/mediawiki/1.22/mediawiki-core-1.22.6.tar.gz.sig
+http://releases.wikimedia.org/mediawiki/1.22/mediawiki-1.22.6.tar.gz.sig
+http://releases.wikimedia.org/mediawiki/1.22/mediawiki-1.22.6.patch.gz.sig
+http://releases.wikimedia.org/mediawiki/1.21/mediawiki-1.21.9.tar.gz
+http://releases.wikimedia.org/mediawiki/1.21/mediawiki-1.21.9.patch.gz
+http://releases.wikimedia.org/mediawiki/1.21/mediawiki-core-1.21.9.tar.gz.sig
+http://releases.wikimedia.org/mediawiki/1.21/mediawiki-1.21.9.tar.gz.sig
+http://releases.wikimedia.org/mediawiki/1.21/mediawiki-1.21.9.patch.gz.sig
+http://hyperkitty.readthedocs.org

@@ -1,0 +1,246 @@
+Relation: ‪Trinidad and Tobago‬ (‪555717‬) | OpenStreetMap
+      OpenStreetMap
+    
+Where is this?
+Reverse Directions
+Loading...
+Edit
+Edit with iD (in-browser editor)
+Edit with Remote Control (JOSM, Potlatch, Merkaartor)
+History
+Export
+GPS Traces
+User Diaries
+Communities
+Copyright
+Help
+About
+More
+GPS Traces
+User Diaries
+Communities
+Copyright
+Help
+About
+Log In
+Sign Up
+Where is this?
+Reverse Directions
+Loading...
+Loading...
+Relation: Trinidad and Tobago (555717)
+  Version
+  #61
+    added official_name:pt/name:gn/official_name:gn to Trinidad and Tobago
+    Edited 29 days ago by mfolle
+    Changeset
+    #139462716
+Tags
+ISO3166-1
+TT
+ISO3166-1:alpha2
+TT
+ISO3166-1:alpha3
+TTO
+ISO3166-1:numeric
+780
+admin_level
+2
+boundary
+administrative
+default_language
+en
+driving_side
+left
+flag
+https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg
+name
+Trinidad and Tobago
+name:ar
+ترينيداد وتوباغو
+name:ary
+طرينيضاض ؤ طوباݣو
+name:azb
+ترینیداد و توباقو
+name:be
+Трынідад і Табага
+name:be-tarask
+Трынідад і Табага
+name:br
+Trinidad-ha-Tobago
+name:cs
+Trinidad a Tobago
+name:de
+Trinidad und Tobago
+name:en
+Trinidad and Tobago
+name:eo
+Trinidado kaj Tobago
+name:es
+Trinidad y Tobago
+name:fr
+Trinité-et-Tobago
+name:fy
+Trinidad en Tobago
+name:gn
+Trinidad ha Továgo
+name:grc
+Τριὰς καὶ Ταβάκον
+name:hr
+Trinidad i Tobago
+name:it
+Trinidad e Tobago
+name:ja
+トリニダード・トバゴ
+name:ko
+트리니다드 토바고
+name:lt
+Trinidadas ir Tobagas
+name:nl
+Trinidad en Tobago
+name:no
+Trinidad og Tobago
+name:pa
+ਤ੍ਰਿਨੀਦਾਦ ਅਤੇ ਤੋਬਾਗੋ
+name:pl
+Trynidad i Tobago
+name:pt
+Trindade e Tobago
+name:ru
+Тринидад и Тобаго
+name:se
+Trinidad ja Tobago
+name:sk
+Trinidad a Tobago
+name:sl
+Trinidad in Tobago
+name:smn
+Trinidad já Tobago
+name:sms
+Trinidad da Tobago
+name:sr
+Тринидад и Тобаго
+name:sv
+Trinidad och Tobago
+name:ta
+டிரினிடாட் மற்றும் டொபாகோ
+name:tr
+Trinidad ve Tobago
+name:tzl
+Þriadia-es-Tobago
+name:ug
+ترىنىداد ۋە توباگو
+name:uk
+Тринідад і Тобаго
+name:ur
+ٹرینیڈاڈ و ٹوباگو
+name:vo
+Trinidadeän e Tobageäns
+name:zh
+特立尼达和多巴哥 / 千里達及托巴哥
+name:zh-Hans
+特立尼达和多巴哥
+name:zh-Hant
+千里達及托巴哥
+official_name:ar
+جمهورية ترينيداد وتوباغو
+official_name:be
+Рэспубліка Трынідад і Табага
+official_name:cs
+Republika Trinidad a Tobago
+official_name:de
+Republik Trinidad und Tobago
+official_name:en
+Republic of Trinidad and Tobago
+official_name:es
+República de Trinidad y Tobago
+official_name:fr
+République de Trinité-et-Tobago
+official_name:gn
+Tavakuairetã Trinidad ha Továgo
+official_name:grc
+Πολιτεία τῆς Τριάδος καὶ Ταβάκου
+official_name:lt
+Trinidado ir Tobago Respublika
+official_name:pt
+República de Trindade e Tobago
+official_name:ru
+Республика Тринидад и Тобаго
+source:name:br
+ofis publik ar brezhoneg
+timezone
+America/Port_of_Spain
+type
+boundary
+wikidata
+Q754
+wikipedia
+en:Trinidad and Tobago
+wikipedia:es
+Trinidad y Tobago
+Members
+50 members
+  Node Port of Spain (2718091147) as admin_centre
+  Node Trinidad and Tobago (249399444) as label
+  Way 246294027 as outer
+  Way 305520124 as outer
+  Way 246292275 as outer
+  Way 253428077 as outer
+  Way 723315448 as outer
+  Way 723315449 as outer
+  Way 253599855 as outer
+  Way 253599854 as outer
+  Way 804477105 as outer
+  Way 804473378 as outer
+  Way 253609784 as outer
+  Way 804477107 as outer
+  Way 253428072 as outer
+  Way 804477109 as outer
+  Way 804477111 as outer
+  Way 253609793 as outer
+  Way 804477112 as outer
+  Way 804477113 as outer
+  Way 253609790 as outer
+  Way 804477115 as outer
+  Way 253609786 as outer
+  Way 804477116 as outer
+  Way 253431860 as outer
+  Way 246294028 as outer
+  Way 246294026 as outer
+  Way 1093668220 as outer
+  Way 253428070 as outer
+  Way 253616163 as outer
+  Way 253616164 as outer
+  Way 253428071 as outer
+  Way 253428075 as outer
+  Way 253428073 as outer
+  Way 305520120 as outer
+  Relation Diego Martin (7363636) as subarea
+  Relation Port of Spain (7363637) as subarea
+  Relation San Juan-Laventille (7363638) as subarea
+  Relation Tunapuna-Piarco (7363639) as subarea
+  Relation Sangre Grande (7363640) as subarea
+  Relation Arima (11146288) as subarea
+  Relation Chaguanas (7363641) as subarea
+  Relation Couva-Tabaquite-Talparo (7363415) as subarea
+  Relation Mayaro-Rio Claro (7361804) as subarea
+  Relation Princes Town (7361803) as subarea
+  Relation San Fernando (7363416) as subarea
+  Relation Penal-Debe (7363419) as subarea
+  Relation Siparia (7363417) as subarea
+  Relation Point Fortin (7363418) as subarea
+  Relation Tobago (5176041) as subarea
+Download XML
+    ·
+  View History
+Welcome to OpenStreetMap!
+OpenStreetMap is a map of the world, created by people like you and free to use under an open license.
+Hosting is supported by UCL, Fastly, Bytemark Hosting, and other partners.
+          
+Learn More
+Start Mapping
+You are either using a browser that does not support JavaScript, or you have disabled JavaScript.
+OpenStreetMap uses JavaScript for its slippy map.
+https://openstreetmap.org/copyright
+https://openstreetmap.org
+Copyright OpenStreetMap and contributors, under an open license

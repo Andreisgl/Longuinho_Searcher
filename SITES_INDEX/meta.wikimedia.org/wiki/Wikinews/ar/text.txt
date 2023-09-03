@@ -1,0 +1,392 @@
+Wikinews/ar - Meta
+Wikinews/ar
+From Meta, a Wikimedia project coordination wiki
+< Wikinews
+Jump to navigation
+Jump to search
+Other languages:
+English · Ænglisc · brezhoneg · čeština · Deutsch · English · español · français · italiano · polski · português · română · Türkçe · Ελληνικά · български · молдовеняскэ · հայերեն · हिन्दी · বাংলা · ਪੰਜਾਬੀ · ไทย · 日本語 · 中文 · 中文（臺灣） · 中文（中国大陆） · 粵語 · 粵語 · العربية · فارسی
+مشاريع ويكيميديا
+ميدياويكي
+ميتاويكي
+ويكي الكتب
+ويكي بيانات
+Wikifunctions
+ويكيميديا كومنز
+ويكي الأخبار
+ويكي الاقتباس
+ويكيبيديا
+ويكي مصدر
+ويكي الأنواع
+ويكاموس
+ويكي الجامعة
+ويكي الرحلات
+القائمة الكاملة لمشاريع ويكيميديا — قائمة مشاريع ويكيميديا وفق حجمها
+ويكي اﻷخبار مشروع يهدف إلى التعاون في اﻹبلاغ عن اﻷخبار وتلخيصها من وجهة النظر المحايدة. تصف هذه الصفحة أهداف المشروع وتلخص المتطلبات الخمسة اﻷساسية له. هناك مجتمعات ويكي اﻷخبار بلغات كثيرة (انظر إحصاءات ويكي اﻷخبار)، ويعود القرار حول تفاصيل تنفيذ هذه المتطلبات لكل واحد من هذه المجتمعات على حدة. يمكنك أن تطلب إعداد ويكي اﻷخبار بلغة جديدة في صفحة طلبات اللغات الجديدة (باﻹنكليزية).
+نسعى إلى تقديم مجموعة من أفكار عن السياسات التي يمكن أن يستخدمها كل مجتمع من مجتمعات ويكي اﻷخبار باللغات المختلفة كأساس لتطوير السياسات المحلية. هذه اﻷفكار مجموعة حالياً في صفحة Wikinews/Thinktank (باﻹنكليزية).
+تجدون معلومات عن تغطية ويكي اﻷخبار نفسها في وسائل الإعلام في صفحة Wikinews/Press coverage (باﻹنكليزية).
+إحصاءات ويكي اﻷخبار[edit]
+مصدر خارجي : جدول يمكن ترتيبه وفق أي واحد من أعمدته، يجري تحديثه آلياً كل ست ساعات.
+مصدر خارجي: يحوي الجدول السابق بتنسيق الويكي، يمكن نسخه يدوياً ولصقه في هذه الصفحة
+These statistics are updated four times a day. See commons:Data:Wikipedia statistics/data.tab for the date/time of last update.
+№
+Language
+Wiki
+Articles
+All pages
+Edits
+Admins
+Users
+Active users
+Files
+1
+Russian
+ru
+1,495,598
+13,967,649
+16,614,442
+7
+53,124
+70
+17
+2
+Serbian
+sr
+53,011
+80,922
+3,164,807
+6
+6,476
+6
+0
+3
+Portuguese
+pt
+29,775
+70,233
+550,356
+6
+27,890
+28
+57
+4
+French
+fr
+23,622
+80,175
+880,684
+11
+52,528
+39
+1
+5
+English
+en
+21,913
+2,880,322
+4,735,222
+16
+2,861,946
+115
+4,693
+6
+Polish
+pl
+17,295
+49,458
+272,614
+5
+19,796
+21
+1,255
+7
+Chinese
+zh
+16,865
+42,224
+234,224
+7
+35,078
+33
+1
+8
+German
+de
+13,832
+61,189
+837,977
+5
+33,997
+19
+63
+9
+Spanish
+es
+12,051
+48,479
+705,592
+12
+44,942
+20
+0
+10
+Italian
+it
+11,723
+42,206
+982,377
+4
+27,488
+21
+115
+11
+Arabic
+ar
+9,226
+58,100
+245,679
+4
+20,753
+16
+63
+12
+Czech
+cs
+8,193
+16,710
+82,348
+2
+6,498
+7
+1
+13
+Catalan
+ca
+4,782
+14,598
+176,662
+4
+9,598
+9
+0
+14
+Dutch
+nl
+4,664
+14,482
+156,156
+3
+10,623
+15
+0
+15
+Greek
+el
+3,065
+12,816
+66,036
+1
+3,505
+4
+0
+16
+Tamil
+ta
+3,048
+17,625
+55,121
+1
+7,164
+10
+0
+17
+Limburgish
+li
+2,432
+3,890
+24,644
+2
+731
+3
+0
+18
+Swedish
+sv
+2,077
+8,634
+42,272
+3
+6,560
+3
+1
+19
+Ukrainian
+uk
+1,946
+7,413
+47,004
+4
+6,501
+7
+0
+20
+Persian
+fa
+1,627
+19,348
+253,657
+3
+7,311
+7
+30
+21
+Finnish
+fi
+1,509
+5,696
+57,964
+1
+4,497
+3
+1
+22
+Romanian
+ro
+1,472
+7,491
+37,704
+3
+11,723
+3
+0
+23
+Japanese
+ja
+1,394
+32,489
+175,584
+4
+24,791
+23
+1
+24
+Esperanto
+eo
+952
+8,047
+162,992
+1
+3,778
+4
+0
+25
+Gun
+guw
+932
+1,552
+18,666
+2
+162
+5
+0
+26
+Albanian
+sq
+739
+2,355
+8,904
+1
+2,274
+2
+0
+27
+Norwegian
+no
+624
+4,144
+21,337
+1
+3,821
+1
+2
+28
+Korean
+ko
+615
+4,000
+29,581
+2
+4,846
+10
+1
+29
+Bosnian
+bs
+363
+4,974
+23,996
+1
+2,730
+1
+0
+30
+Hebrew
+he
+279
+5,207
+45,279
+4
+4,797
+3
+51
+Totals
+Articles
+All pages
+Edits
+Admins
+Users
+Active users
+Files
+All active Wikinews wikis
+1,745,624
+17,572,428
+30,709,881
+126
+3,305,928
+508
+6,353
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Wikinews/ar&oldid=4160100"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Content pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+In other languages
+Add links
+ This page was last edited on 23 September 2012, at 18:48.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

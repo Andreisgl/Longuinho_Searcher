@@ -1,0 +1,469 @@
+Help:Searching - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Languages
+Language links are at the top of the page across from the title.
+Search
+Search
+Create accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1Search box
+2Search string
+3Search string syntax
+Toggle Search string syntax subsection
+3.1Namespace
+3.2Spaces
+3.3Special characters
+3.3.1Double quotes for exact phrase search
+3.3.2Suffixed tilde character for fuzzy search
+3.3.3Prefixed tilde character for forced search
+3.3.4Prefixed hyphen or exclamation point for exclusion
+3.3.5Wildcard characters
+3.3.6Non-alphabetic characters
+3.3.7Logical operators
+3.4Parameters
+3.4.1namespace name:
+3.4.2All:
+3.4.3all:
+3.4.4intitle:
+3.4.5insource:
+3.4.6incategory:
+3.4.7deepcategory:
+3.4.8prefix:
+3.4.9linksto:
+3.4.10subpageof:
+3.4.11hastemplate:
+3.4.12articletopic:
+4Search page
+5Search results page
+Toggle Search results page subsection
+5.1Understanding search results
+5.1.1Preliminary reports
+5.2Refining results
+5.2.1Namespaces
+5.2.2Sorting
+6Search settings
+7Tips and tricks
+Toggle Tips and tricks subsection
+7.1Searching within a page
+7.2Searching for a specific person's contributions
+7.3Search Wikipedia from any web page
+7.4SQL searches / Quarry
+8Other search tools
+9If you cannot find what you are looking for
+Toggle If you cannot find what you are looking for subsection
+9.1Delay in updating the search index
+10Under the hood
+Toggle Under the hood subsection
+10.1Stem matching
+11Custom search box
+12See also
+13Notes
+Toggle the table of contents
+Toggle the table of contents
+Help:Searching
+103 languages
+AfrikaansAlemannischአማርኛالعربيةتۆرکجهবাংলাBân-lâm-gúBasa BanyumasanБашҡортсаभोजपुरीБългарскиBosanskiBrezhonegCatalàЧӑвашлаČeštinaCymraegDanskDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisFryskGalego한국어Հայերենहिन्दीHornjoserbsceHrvatskiBahasa IndonesiaInterlinguaИронÍslenskaItalianoעבריתJawaಕನ್ನಡKapampanganКъарачай-малкъарქართულიҚазақшаລາວLatinaLatviešuLëtzebuergeschLietuviųMagyarМакедонскиമലയാളംMaltiMāoriमराठीمصرىBahasa MelayuNederlandsनेपाल भाषा日本語НохчийнNorsk bokmålNorsk nynorskOccitanOʻzbekcha / ўзбекчаپښتوPolskiPortuguêsRomânăРусиньскыйРусскийСаха тылаScotsSicilianuසිංහලSimple EnglishسنڌيSlovenčinaSlovenščinaکوردیSrpskohrvatski / српскохрватскиSundaSuomiSvenskaTagalogதமிழ்Татарча / tatarçaతెలుగుไทยТоҷикӣᏣᎳᎩTürkçeУдмуртУкраїнськаاردوVènetoTiếng ViệtVolapükWest-Vlamsייִדיש粵語中文
+Edit links
+Help pageTalk
+English
+ReadView sourceView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadView sourceView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+Print/export
+Download as PDFPrintable version
+In other projects
+Wikimedia CommonsMediaWikiMeta-WikiWikidataWikinewsWikiquoteWikisourceWikiversityWikivoyageWiktionary
+From Wikipedia, the free encyclopedia
+This page is about searching Wikipedia. For navigating, see Help:Navigation § Using the search box to navigate. For adding a search input box, see mw:Extension:InputBox.
+"WP:LOOK" redirects here. For customising the look of Wikipedia, see Wikipedia:Skin. For other uses, see WP:LOOKING and WP:LOOKSGOOD.
+Further information: mw:Help:CirrusSearch
+This help page is a how-to guide.It details processes or procedures of some aspect(s) of Wikipedia's norms and practices. It is not one of Wikipedia's policies or guidelines, and may reflect varying levels of consensus and vetting.ShortcutH:S
+Wikipedia uses a powerful search engine, with a search box on every page. The search box will navigate directly to a given page name upon an exact match. But, you can force it to show you other pages that include your search string by including a tilde character ~ anywhere in the query. The maximum search string is 300 characters long.[1] However, search can instantly search all 58,898,002 pages on the wiki when the search is kept to a simple word or two. 
+Wikipedia's searches can be made domain-specific (i.e., search in desired namespaces). The search engine also supports special characters and parameters to extend the power of searches and allow users to make their search strings more specific.
+Advanced features of the Wikipedia search engine include multi-word proximity-searches (in which the user indicates how close the words in a phrase might be), wildcard searches, "fuzzy~" searches (handles typo-correction and questionable spelling), and several wiki-oriented operators and parameters for weighting and filtering. Search can also handle regular expressions, a sophisticated exact-string and string-pattern search tool that is not offered by most public search engines.
+Search can also filter results by template names used, category membership, or pages linking to a specific page.  
+Special:Preferences offers several search options, and Wikipedia:Tools § Searching offers the setups of other users.
+Search box
+Monobook places this search-box in the left toolbar.
+Vector (2010) legacy skin, search box.
+The search box is an input box with the term "Search Wikipedia" in it. In the Vector skin, it is located in the top right corner of the screen. In Monobook, it is in the middle of the sidebar on the left of the screen.
+To use the search box, click in it, or jump to it, and type in your search string. To jump to the search box, "focus" your cursor to there by pressing ⇧ Shift+Alt+F.
+In Vector, instead of a search button, there is an icon of a magnifying glass on the right-hand end of the search box. Pressing ↵ Enter or clicking on the magnifying glass when the box is empty takes you directly to Wikipedia's search page.
+If your search matches a page name the search box may navigate instead of search. To get search results instead, prepend the tilde ~ character to the first word of the title. (Or choose "Search for pages containing" from the suggestions that drop down as you type.)
+JavaScript and skins have an effect on the search/navigate default behavior. Monobook's default is to navigate, and Vector's default is search; however, when JavaScript is on, the Vector skin will navigate. Monobook's Go will navigate, and is the default, but Monobook has a Search button.
+Search string
+Whatever you type into the search box is called the "search string". It may also be referred to as the "search query".
+A basic search string is simply the topic you are interested in reading about. A direct match of a basic search string will navigate you directly to Wikipedia's article that has that title. A non-match, or any other type of search string will take you to Wikipedia's search results page, where the results of your search are displayed.
+Terms in the search string are subject to stem matching, except for anything included between double quotation marks.
+You can include in your search string special characters and parameters that activate specific search capabilities. Using any of these will take you to Wikipedia's search results page with the results of your search displayed. 
+The maximum search string is 300 characters long.[1]
+The format of the text that is entered is called search string syntax.
+Search string syntax
+Search is case insensitive, that is, upper and lowercase is ignored.
+Search "folds" character families, matching similar-looking letters across alphabets, to match foreign terms. So, you don't have to type in diacritical letters, and your terms will still match. For example, Citroen will match Citroën, and Aeroskobing matches Ærøskøbing.
+Characters that are not numbers or letters (punctuation marks, brackets and slashes, math and other symbols) are generally ignored. For example, Credit (finance) will return articles with the words credit and finance, ignoring the parentheses, unless an article with exact title Credit (finance) exists. Similarly, a search for the string |LT| (letters LT between two pipe symbols) will only return articles with lt. In order to search for terms that contain non-alphanumeric characters, a regex search must be used instead (using the \ escape character if required), for example insource:/\|LT\|/ will successfully return all instances of |LT|.
+The source text is what is searched, which is not always what is displayed on the screen. This distinction is relevant for piped links, for interlanguage links (to find links to Chinese articles, search for zh, not for Zhongwen), special characters (if ê is coded as &ecirc; it is found searching for ecirc), etc. 
+For regex searches, see the insource: parameter below.
+Namespace
+The default search domain is the article space, but any namespace may be specified in a query. 
+At the search results page, any number of namespaces can be specified, and users can keep those namespaces as their own default search domain. Partial namespace searches can be made by specifying the initial letters of a page name.
+Spaces
+The use of spaces is, in general, intuitive. Unnecessary spaces, and all non-alphanumeric characters except " are ignored, which makes for flexibility; it is simplest and best to avoid typing unnecessary spaces, although the tolerance for grey space simplifies copying and pasting search terms without the need for cleanup. For example, credit card is obviously reasonable; copying and pasting [[Credit(?!)card]] is equivalent and convenient; "credit card""payment card" is actually correct and minimal, but "credit card" "payment card" is a sensible equivalent.
+Any of the following characters will be treated as a space character: !@#$%^&()_+-=~`{}[]|\:;'<>,.?/. The double quotation mark " is not one of these characters, because it has the special purpose of specifying an exact phrase search, and - and ! can be used to exclude results if either occurs at the beginning of a word or phrase (see more below). We use the term grey-space instead of whitespace here to include the space character itself and all these characters. Multiple [grey-]spaces are equivalent to a single space.
+Grey-space is ignored between the words of exact-phrase searches, between adjacent items in the query, and in starting characters of the search box query. All filters can have grey-space between them without affecting search results. Most operators, such as intitle: and incategory:, ignore unnecessary spaces, or grey-space, after the colon.
+Where spaces are significant: single search terms cannot have embedded spaces; work space, "work space", and workspace are all different. The particular keywords prefix and insource must be followed immediately by a colon:and their arguments, without intervening [grey-]spaces.
+Special characters
+ShortcutH:SPCHAR
+For regex searches, see the insource: parameter below.
+Double quotes for exact phrase search
+A phrase can be matched by enclosing it in double quotes, "like this". Double quotes can define a single search term that contains spaces. For example, "holly dolly" where the space is quoted as a character, differs much from holly dolly where the space is interpreted as a logical AND.
+Suffixed tilde character for fuzzy search
+ShortcutH:FUZZY
+Spelling relaxation is requested by suffixing a tilde (~) like this~, with results like "thus" and "thins". It covers any two character-changes for any character except the first: it returns addition, exchange, or subtraction. This search technique is sometimes called a "sounds-like" search. For example, searching for charlie~ parker~ returns Charlie Parker, Charles Palmer, Charley Parks.
+Prefixed tilde character for forced search
+ShortcutH:FORCE
+To force a search rather than navigate directly to a matching page, include a tilde character ~ anywhere in the query. It always takes you to the search results page, never jumping to a single title. For example, the misspelling similiar is redirected to the Similarity article, but prefixing a tilde, ~similiar, lists pages containing that misspelling.
+Prefixed hyphen or exclamation point for exclusion
+ShortcutH:EXCLUDE
+Pages matching a search term can be excluded by prefixing an exclamation point (!) or a hyphen or dash (-) to the term. This is the logical NOT. For example, credit card -"credit card" finds all articles with "credit" and "card" except those with the phrase "credit card".
+Wildcard characters
+ShortcutH:WLD
+The two wildcard characters are * and \?, and both can come in the middle or end of a word. The escaped question mark stands for one character and the star stands for any number of characters. Because many users ask questions when searching, question marks are ignored by default, and the escaped question mark (\?) must be used for a wildcard.
+Non-alphabetic characters
+For non-alphabetic characters, regex expressions are needed. See #insource: below.
+Logical operators
+ShortcutsH:BOOLEANH:LOPS
+The search engine supports limited boolean logic in searches. Logical NOT (negation) can be indicated by a "-" (minus sign) or a "!" (exclamation point) character prefixed to a search term, or by the NOT keyword.
+Parentheses (…) are ignored by the search engine and have no effect.
+Search terms are implicitly joined by AND. For example "credit card" housecat searches for pages containing both "credit card" and "housecat". An OR operator is supported, but will only give intuitive results (corresponding to logical disjunction) if all search terms are separated by OR (e.g. red OR green OR blue has the expected behaviour, but red OR green blue does not). OR also does not behave predictably with special keywords (like intitle:) or namespaces. See mw:Help:CirrusSearch/Logical operators for a more detailed explanation.
+Parameters
+This section is about search parameters. For template parameters, see Help:Template § Parameters.
+ShortcutH:PARAM
+Parameters function as name filters, each followed by the search term it operates on. Their search term may be a word or a phrase. The main parameters are namespace:, intitle:, insource:, incategory:, and prefix:. ("namespace" as used here isn't literal – use the name of the actual namespace desired).
+"prefix:" differs from the other parameters in that it can only be used at the end of a search string.
+A single "namespace:" filter can go first, and a single "prefix" filter can go last.
+namespace name:
+Only articles are searched by default because most users are only readers. Given only at the beginning of the query, a namespace name followed by a colon limits search results to that namespace. It is a filter without a query string. The namespace can also be selected at Special:Search.
+Namespace aliases like WP: or wp: instead of Wikipedia: are accepted.
+User: will normally go directly to a user page even if it doesn't exist. To search userspace, use Special:Search or click "Search for pages containing" below the search box.
+all: will search all namespaces.
+To search multiple namespaces but not all, use "Search in:" at Special:Search.
+All:
+ShortcutH:ALL
+Prefixing "All:" to a search string, searches all namespaces, and prioritizes mainspace matches to the top.
+all:
+Using the lower-case "all:" version also searches all namespaces but does not prioritize the results by namespace.   
+intitle:
+ShortcutsH:INTITH:INTITLE
+Page titles and redirects can be searched with "intitle:query". The search results highlight occurrences in both the title and page content. Multiple "intitle" filters may be used to search for words in titles regardless of order, or possible in different titles (i.e., redirects) for the same article. Regular expressions can be used with "intitle:/regexp/" or the case insensitive "intitle:/regexp/i". See more in the insource section.
+Query
+Description
+intitle:airport
+All articles with airport in their title
+parking intitle:airport
+Articles with "parking" in their text and "airport" in their title
+intitle:international intitle:airport
+Articles containing "international" and "airport" in their title (including Airports Council International)
+intitle:"international airport"
+Articles with the phrase "international airport" in their title
+airport -intitle:airport
+Articles with  "airport" in their text but not in their title
+insource:
+ShortcutH:INSOURCE
+This can find template arguments, URLs, links, html, etc. It has two forms, one is an indexed search, and the other is regex-based.
+Query
+Description
+insource:wordinsource:"word1 word2"
+Like word searches and exact-phrase searches, non-alphanumeric characters are ignored, and proximity and fuzziness are options.
+insource:/regexp/insource:/regexp/i
+These are regular expressions. They use a lot of processing power, so we can only allow a few at a time on the search cluster, but they are very powerful. The version with the extra i runs the expression case-insensitive, and is even less efficient. Regex searches are likely to time out unless you further limit the search in some way, such as by including another parameter or a search term outside of the insource component of the search string. (For example, X* intitle:/X/ to restrict the search to initial position.) For more details, see mw:Help:CirrusSearch#Regular expression searches.
+incategory:
+ShortcutsH:INCATH:INCATEGORY
+Given as "incategory:category", where category is the page name of a category page, it lists pages assigned to the given category by methods including the addition of [[Category:page name]] to their wikitext. (Note: editors searching in namespaces other than mainspace will need to know the limitations these search results may contain.) If the category page name includes space characters; replace the spaces with underscores (e.g. incategory:Pages_of_interest), surround the page name with double quotes (e.g. incategory:"Pages of interest") or both (but not on Commons). "Incategory:" will also return pages in the adjacent subcategory; see for example, "category: incategory:History". Multiple "incategory" filters may be applied. A more graphical alternative to a single filter is at Special:CategoryTree. Because categories are important structures for searching for related articles, any use of this prefix is particularly effective for searching. For more on using the categories themselves to find articles, see Wikipedia:FAQ/Categories.
+Query
+Description
+ammonia incategory:German_chemists
+Starting with the articles listed at Category: German chemists, only the ones that have the word "ammonia" in their text
+incategory:"Suspension bridges in the United States" incategory:"Bridges in New York City"
+Articles that are common to both categories—the suspension bridges in New York City. This will return nothing since all NYC bridges are categorized in subcategories, and "incategory:" doesn't search in subcategories.
+incategory:"Suspension bridges in New York City" incategory:"Bridges in Brooklyn"
+Suspension bridges of Brooklyn.
+"feral cat" -incategory:"Category:Cats in the United Kingdom"
+Articles that contain the phrase "feral cat", but not listed in Category:Cats in the United Kingdom
+deepcategory:
+ShortcutH:DEEPCAT
+Also deepcat:, this allows you to search in a category and all its subcategories. The depth of the tree is currently limited to 5 levels, and the overall number of categories is limited to 256.
+Examples:
+Examples
+Query
+Description
+deepcat:"Musicals by topic"
+All musicals of any topic. (Finds articles that are in Category:Musicals by topic or any of its subcategories.)
+ammonia deepcat:German_chemists
+Starting with the articles listed at Category: German chemists, only the ones that have the word "ammonia" in their text.
+deepcat:"Suspension bridges in the United States" deepcat:"Bridges in New York City"
+Articles that are common to both categories—the suspension bridges in New York City. This will work since all NYC bridges are categorized in subcategories, and "incategory:" doesn't search in subcategories but "deepcat:" does.
+deepcat:"Suspension bridges in New York City" deepcat:"Bridges in Brooklyn"
+Suspension bridges of Brooklyn.
+"feral cat" -deepcat:"Category:Cats in the United Kingdom"
+Articles that contain the phrase "feral cat", but not listed in Category:Cats in the United Kingdom or its subcategories.
+prefix:
+ShortcutH:PREFIX
+"prefix:page name" patterns only the beginning characters of a page name. Because the "beginning" characters can, if you need, go on to include the characters all the way to the end of the page name, prefix must include spaces, since page names often include spaces. For this reason prefix: must only ever be given at the last part of a search box query, and next character after the colon cannot be a space. Prefix does not search for partial namespace names, but requires at least a full namespace name to start to find pages, but prefix: also recognizes an alias of a namespace, and it recognizes redirects (or shortcut). Prefix is the most widely used and powerful filter as it can mimic the namespace filter, and because intitle: cannot easily target a single page, even together with other filters. Special:PrefixIndex is a MediaWiki, graphical, version, using only prefix: to find pages.
+Query
+Description
+Salvage wreck prefix:USS
+Articles containing the words salvage and wreck whose title starts with the characters "USS"
+wave particle prefix:Talk:Speed of light
+Speed of light talk pages with the terms "particle" and "wave", including the current and the archived talk pages
+wave particle prefix:Talk:Speed of light/
+Same search, but only in the archived subpages
+"portal namespace"  readers prefix:Wikipedia talk:
+Is equivalent to 'Wikipedia talk:"portal namespace" readers'
+language prefix:Portal:Chi
+Portal namespace page names that begin with "Portal:Chi" and have the word language in the page
+linksto:
+ShortcutH:LINKSTO
+"linksto:page name" searches in pages that link to the given page. Can be used negatively by prefixing a hyphen, which will return pages that do not link to the given page. Unlike with some other keywords, the page name is case-sensitive.
+Query
+Description
+linksto:Airport
+All articles containing internal link to Airport.
+parking linksto:Airport
+Articles with "parking" in their text linking to Airport
+-linksto:"Albert Einstein" "Albert Einstein"
+Articles containing "Albert Einstein" NOT linking to Albert Einstein
+subpageof:
+ShortcutH:SUBOF
+This limits searches to subpages of the specified page. You can also negate the subpages from a search by preceding subpageof: with a hyphen. Note that articles on Wikipedia don't have subpages, but the pages of the other namespaces do. Therefore, use the namespace parameter also, or select the namespace at Special:Search. Here are some examples:
+For User: searches, click "Search for pages containing" or use Special:Search. This is not needed for other namespaces. To look at all the subpages of a user, try this:
+User: subpageof:AzaToth
+That will display all the subpages of User:AzaToth. They can also be seen at Special:PrefixIndex/User:AzaToth/ but Special:PrefixIndex cannot be combined with a search.
+To make sure Articles for deletion pages do not show up in the results of a Wikipedia namespace search, try this:
+Wikipedia:"Hi there" -subpageof:"Articles for deletion"
+That'll show pages from the Wikipedia namespace with "Hi there" in them, and the list of results will not be cluttered with any Articles for deletion debates (there are hundreds of thousands). Notice the use of the hyphen (that makes it mean "not subpages of").
+hastemplate:
+ShortcutH:HASTEMP
+This finds pages that use the specified template. Input the canonical page name to find all usage of the template, but use any of its redirect page names finds just that naming. Namespace aliases are accepted, capitalization is entirely ignored, and redirects are found, all in one name-search.
+This is more thorough than insource:, in that it will find meta-templates (templates called by another template). Meta-templates don't show up in the local page's wikitext.
+Examples of hastemplate: usage:
+hastemplate:"Article for deletion/dated"
+This lets you find all the articles being considered for deletion.
+intitle:"Outline of " -hastemplate:"Outline footer"
+This lets you find Wikipedia outlines that are lacking the outline footer template. (Notice the use of the hyphen to indicate "NOT").
+articletopic:
+This keyword allows filtering search results by topic. For possible topics see mw:Help:CirrusSearch/articletopic. E.g. articletopic:books will filter the search results to articles about books. articletopic:books|films will filter to articles about books or films. articletopic:books articletopic:films will filter to articles which are about both books and films.
+Only mainspace articles belong to topics. Unlike other filters, articletopic also does page weighting: articles which are a stronger match for a topic will be higher in the search results (while articles which aren't about that subject at all will be removed from the result set completely).
+Topic models are derived via machine learning from ORES. Any given article receives a score on dozens of different topics, and therefore may appear under different keywords. For instance, the article on Albert Einstein may appear as a "physics" article and a "biography" article. Topic-related search data is updated weekly, so recently created articles might not show up in topic-based search queries.
+Search page
+The search page.
+The search page features a search box, with some links to search domains beneath it. For information on what can by typed into the search box, see Search string syntax above.
+The main difference between this search box and the one that appears on article pages is that exact matches on this one will not navigate you directly to an article page. This search box will produce the search results page showing what all matches your search on Wikipedia.
+To get to the search page, do an empty search (press ↵ Enter while in the search box before typing anything else in), or click on the magnifying glass in the search box. The link Special:Search, which can be inserted onto user pages or project pages, for example, also leads to the search page.
+For an explanation of the controls available on the search page, see Refining results below.
+While the entire contents of the search page is included in the search results page, it is a distinct page. User scripts might be designed to work on the search results page but not the search page, for example.
+Search results page
+ShortcutH:RESULTS
+The search results page looks just like the search page, with the results for your search query presented below it. For information on what can by typed into the search box, see Search string syntax above.
+The search results page is displayed when a search is done from the search page, when a search from the regular search box does not exactly match a page title, or when any parameters or special characters are included in a search string.
+Understanding search results
+The search string entered will be displayed in the search box on the page, in case you wish to modify it.
+Spelling corrections and query corrections are offered at the top of the results (see Preliminary reports, below).
+Note that search results include content from templates displayed on the pages searched.
+The order that search results are presented in is based on the page ranking software.
+Results match word stems, along with their various tenses (past tense, plural tense, etc.), except for anything included between double quotation marks. See Stem matching, below.
+Throughout the results, matching terms are highlighted in bold. All matches in the title show for sure, while matches within the details may show, but not if they are far apart on the page.
+Matches are included for section headings, members of matching categories, and destination pages of redirects. These will show off to the side of the page name, parenthetically.
+A single result (one each) from selected sister projects appears on the right side of the page (the most likely relevant match for each). This feature may be permanently turned off in Preferences.
+Files from Wikimedia Commons are included within the results when the "File:" namespace has been selected. You can prepend search terms with "local:" to limit results to locally uploaded files.
+Preliminary reports
+Search results will often be accompanied by a preliminary report.
+There is a page named "Page name" (a wikilink to an existing page)
+Did you mean: spelling correction (either a wikilink or a search-link)
+You may create the page "New title" (a redlink to a new page name)
+The Did you mean report corrects dictionary word spellings and gives a link that is either a wikilink that will navigate to an article or a search link that will perform a query. The distinction can be made by observing the presence of a You may create the page report.
+Another report corrects "spellings" to coincide with any "word" found in a search index (any word on the wiki).
+Showing results for query correction. Search instead for your query (two search links).
+Refining results
+ShortcutH:REFINE
+The Search page is designed for presenting and refining results in a re-search loop controlled by modifying the query or the search parameters, such as namespace.
+Namespaces
+By default only the Article namespace is searched, but these checkboxes can be used to add other types of Wikipedia pages such as talk pages or user pages.
+Articles are in the main namespace, or "article space", but Special:Statistics will show that there are many times more pages on Wikipedia than there are articles on Wikipedia. Other types of pages are in other namespaces, and these can be selected using the checkboxes that appear when expanding the section labelled Search in: under the search box.
+"Default": Only search encyclopedia articles (also called mainspace).
+"Discussion": Search talk pages. Some discussions are in the Wikipedia namespace. It can be included by also selecting "General help" (which also adds help pages) or by selecting "Wikipedia" under "Add namespaces…".
+"General Help": Search the help namespace and Wikipedia namespace (also called project namespace). The latter contains various types of pages including many help pages.
+"All": Search every page on the entire wiki, for example also drafts and user pages.
+Click "Add namespaces…" to select namespaces individually. 
+In order to fully interpret the search results page, check which search domains are checked off, but also remember to check for a namespace name at the beginning or a prefix: parameter at the end of the search box query. A namespace entered in a query always takes priority for determination of the search domain of a query, and will at any time override your default search domain, or any displayed profile. A prefix: parameter at the end of a query in the search box, furthermore, will override any namespace there, or any profile underneath that. Equivalently, you could check the URL in your browser's address bar for profile and namespace parameter settings, because the search query was sent to the search engine by way of that URL.
+Sorting
+By default, results are ordered by relevance. The "Sorting order" control in the "Advanced search" section allows you to select two other sort orders: most recently edited, and most recently created.
+An advanced technique is to manually modify the URL to achieve other sort orders. For example, adding &sort=incoming_links_desc to the end of the URL will sort pages with the most incoming links to the top, and &sort=random will randomly order results. For a full list of available sort orders, see mw:Help:CirrusSearch#Explicit sort orders.
+Search settings
+Main page: Help:User preferences
+There is a Preferences → Search tab. (You must be logged in.)
+The default search domain is article space, but any user can change this default, and have their own default search domain for all the queries they run. In any case a query always can specify a namespace to make the search domain explicit and override any default. At the search results page, Special:Search, Advanced dialog, a search can specify any number of namespaces, and logged-in users can set their default search domain there by clicking "Remember selection for future searches".[2]
+Visit your Preferences → Gadgets page (requires JavaScript) to set up:
+several external search engines' views of Wikipedia. The search results page will then have a pull down list to the left of its search box, offering your choice as, say, a modification of a word or phrase search, or a page ranking refinement. Go to Preferences → Gadgets Appearance, and see "Add a selector to the Wikipedia search page allowing the use of external search engines."
+a wider search box. Go to Appearance and find "Widen the search box in the Vector skin."
+Preferences → Search → Completion. Spell-correct titles dropped-down from the search box as you type, or not. Or go to Preferences → Appearance and see "Disable the suggestions dropdown-lists of the search fields".
+The search results page can open in a new tab. See Preferences → Gadgets Browsing
+There are also custom user-scripts to make all search results always open in a new tab. (See the scripts available in See also.)
+To hide/opt-out the search results snippets from sister projects, go to Preferences → Gadgets → Appearance and see "Do not show search results for sister projects on the search results page".
+Tips and tricks
+Searching within a page
+The internal search engine cannot locate occurrences of a string within the page you are viewing but browsers can usually do this with Ctrl+F, or ⌘ Command+F on a Mac.
+Searching for a specific person's contributions
+Due to the way the wikimedia database is indexed, there's no direct way to search for something like insource:foo author:person.   But, you can come close in some situations.  If you're looking for something on a talk (or, sometimes, project) page, people tend to leave a signature after each edit, and such pages are usually set up so old edits roll off onto archive pages.  In this case, the proximity search operator can find instances of your search term near the user's name.  Something like foo person ~50 might find what you're looking for.
+Search Wikipedia from any web page
+To get Wikipedia search results while on any web page, you can temporarily set your web browser's search box to become a Wikipedia search search box, even though you're on another web site; see Help:Searching from a web browser. This trick removes the need to first navigate to Wikipedia from a web page, and then do the search or navigation. It is a temporary change, and then you put it back to your preferred web-search engine.
+You can just drag items on the page the name up to the web browser search box while on any web site, even in the lower sections of a Wikipedia page, where no search box is immediately available.
+You can reach all twelve sister projects the same way by using interwiki prefixes in the web browser's search box. For example, you can go straight to a Wiktionary entry by using the prefix wikt: from your web-search box.
+SQL searches / Quarry
+The entire wikipedia database (with some redactions for privacy) is exposed for SQL queries at the experimental Quarry service.  Using this requires a high degree of technical skill; you must not only know SQL, but also be able to navigate the complex (and not always well documented) database schema.  For those who are so equipped, it may provide another option for searches which would be impossible to do via the standard search interface.
+Other search tools
+Other search tools include
+your own browser, to search the current page only. Try Ctrl+F, F3, or ⌘ Command+F.
+www.wikipedia.org, to search other language editions of Wikipedia.
+search-related templates.  See the navigation box below.
+Internal search tools:
+ISBN
+Prefix
+and many other SpecialPages
+External tools dedicated to Wikipedia Database searches include:
+Article title grep: searches page titles using regular expressions. This search is much slower than standard search. In particular this tool can search for exact strings of characters, including punctuation and with case sensitivity. For example the pattern \(& Co\. Ltd\. will find only titles containing (& Co. Ltd. exactly as shown. Regular expressions are precisely defined, and not intuitively obvious.
+PetScan: about 20 search parameters, three for categories
+WikiBlame: search for text in the revision history of a page
+User Contribution Search: reports anyone's contributions to a page
+Edit summary search: search for text in anyone's edit summaries
+whichsub: finds transcluded templates of a given page which contain a given string.
+If you cannot find what you are looking for
+If you're looking for a place where wine comes from pronounced "Bordo", you can try searching for a more general article such as "Wine", "Wine regions" (returning "List of wine-producing regions") or other wine types such as "Burgundy" and see if it's mentioned there or follow links (in this case, to "Burgundy wine", which has several mentions of "Bordeaux", and links to "French wine" and "Bordeaux wine"). If you know it's in France, look at "France" or the Category:Cities in France, from where you can easily find Bordeaux. You can try various things depending upon the particular case; for "Bordo" wine, it's quite likely that the first letters are "bord", so search an article you've landed on for these letters. If you use Google to search Wikipedia, and click on "cache" at the bottom of any result in the search engine results page, you'll see the word(s) that you searched for highlighted in context.
+For an overview of how to find and navigate Wikipedia content, see Wikipedia:Contents. If you're looking for a straight definition of a word, try our sister project Wiktionary.
+If there is no appropriate page on Wikipedia, consider creating a page, since you can edit Wikipedia right now. Or consider adding what you were looking for to the Requested articles page.
+If you have a question, then see Where to ask questions, which is a list of departments where our volunteers answer questions, any question you can possibly imagine.
+A common mistake is to type a question into the search bar and expect an answer. While some Web search tools support this, the Wikipedia search is a text search only; questions, as such, can be asked at the reference desk and similar places. A search for how do clocks work? will return articles with the words how, do, clocks, and work, ignoring the question mark (in practice this can lead to articles answering simple questions).
+Delay in updating the search index
+Because people like to see their work in search results, the search engine attempts to update in near real-time. Edits made to pages via templates can take a little longer to propagate. If you see the index lagging more than a day or so, report it. For other technical issues with the search engine, please leave a message on the talk page.
+Under the hood
+To power its search feature, Wikipedia uses CirrusSearch, a MediaWiki extension that uses Elasticsearch to provide enhanced search features.
+Stem matching
+ShortcutH:STEM
+Search results will include the roots of words included in the search string, and their various tenses (plural, past-tense, etc.). If stem matching is not wanted, use double quotes around the word or phrase you want to match verbatim. Here are some examples:
+Query
+Description
+stem
+Matches "stem", "stemming" or "stems", etc.
+cloud
+Matches "cloud", "clouds", "clouding", or "clouded", etc., but not "cloudy".
+"stemming"
+Matches "stemming" but not "stemmed" or "stems", etc.
+"clouds"
+Matches "clouds" and "cloudsource", but not "clouding", or "cloud", etc.
+Custom search box
+ Main Portal Category Help 
+See also
+ Help desk
+Help:Navigation § Using the search box to navigate
+Help:Searching from a web browser
+Help:Searching/Features
+Help:Searching/feedback
+MediaWikiWiki:Search
+Meta:Help:Searching
+mw:Help:CirrusSearch
+Wikipedia:Search engine test
+Wikipedia:WikiProject User scripts/Scripts § Search
+SearchSuite
+Wikipedia:Overreliance upon Google
+Wikipedia:Article name search
+Wikipedia:External search engines
+Wikipedia:Manual of Style/List of talk page search boxes
+Wikipedia:United States government document search tools
+Wikipedia:WikiProject Geographical coordinates/coordinates search tool
+Wikipedia:WikiProject User scripts/Scripts/Google search
+Wikipedia:WikiProject User scripts/Scripts/Multi-NS search
+Wikipedia:Reference desk: Ask a question here and Wikipedia volunteers will try to answer it
+phab:T204089 – why you can't specifically include or exclude redirects from your search results
+The alternative to searching = browsing
+a.k.a.: looking it up
+Wikipedia:Editor's index to Wikipedia – an enormous list of the Wikipedia community, intended to help find anything not in the encyclopedia itself.
+Advanced search methods
+Help:Searching/Regex
+Help:Searching/Regex/Sandboxing
+Wikipedia:Tools § Searching
+Wikipedia:User scripts/List § Search
+Wikipedia:Advanced source searching
+Wikipedia:External search engines
+Help:Linksearch – to search external links (url's)
+Wikipedia:PetScan
+Wikipedia:AutoWikiBrowser/Database Scanner
+Notes
+^ a b See Phabricator task T107947 for an explanation.
+^ Because the default search domain is a settable preference, any query you intend to share, publish, or save in a search link might need the search domain explicitly given in the search link in order to ensure consistent search results among all users, at any time. {{Search link}} defaults to article space but can specify multiple namespaces in its query.
+vteSearch templatesGeneral
+{{Search link|SEARCH}}
+{{template usage|TEMPLATE}}
+{{regexp|REGEXP}}
+{{regex/string|SEARCH}}
+{{regex/quote|SEARCH}}
+Links
+{{links to|SECTION}}
+Titles
+{{in title}}
+{{look from}}
+Other
+{{linksearch}}
+{{search deletion discussions}}
+{{dabsearch}}
+{{help desk searches}}
+{{spamsearch}}
+External engines
+{{ShortSearch|QUERY TERMS}}
+{{wpsearch|QUERY TERMS}}
+Search boxes
+{{search box}}
+{{search prefixes}}
+{{search archives}}
+{{archive banner}}
+Self reference
+{{srlink|FULLPAGENAME}}
+{{nomirror|(Search)}}
+{{wikibullet}}
+Search templates documentation
+ Category:Search templates
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Help:Searching&oldid=1167947740"
+Categories: Wikipedia how-toSearching in WikipediaReader helpWikipedia featuresWikipedia interface helpHidden category: Wikipedia semi-protected project pages
+ This page was last edited on 30 July 2023, at 20:53 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

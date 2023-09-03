@@ -1,0 +1,14 @@
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-1.31.14.tar.gz
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-1.31.14.zip
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-core-1.31.14.tar.gz
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-core-1.31.14.zip
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-1.31.14.patch.gz
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-1.31.14.patch.zip
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-core-1.31.14.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-core-1.31.14.zip.sig
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-1.31.14.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-1.31.14.zip.sig
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-1.31.14.patch.gz.sig
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-1.31.14.patch.zip.sig
+https://www.mediawiki.org/keys/keys.html
+http://hyperkitty.readthedocs.org

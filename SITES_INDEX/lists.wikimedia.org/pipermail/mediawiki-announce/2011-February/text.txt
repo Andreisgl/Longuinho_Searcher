@@ -1,0 +1,63 @@
+ [MediaWiki-announce] MediaWiki security release 1.16.2
+   
+[MediaWiki-announce] MediaWiki security release 1.16.2
+Tim Starling
+tstarling at wikimedia.org
+       
+Tue Feb  1 23:16:41 UTC 2011
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+I would like to announce the release of MediaWiki 1.16.2, which is a
+security release. Two security issues were discovered.
+An arbitrary script inclusion vulnerability was discovered. The
+vulnerability only allows execution of files with names ending in
+".php" which are already present in the local filesystem. Only servers
+running Microsoft Windows and possibly Novell Netware are affected.
+Despite these mitigating factors, all users are advised to upgrade,
+since there is a risk of complete server compromise. MediaWiki 1.8.0
+and later is affected. For more details, see bug 27094:
+https://bugzilla.wikimedia.org/show_bug.cgi?id=27094
+Security researcher mghack discovered a CSS injection vulnerability.
+For Internet Explorer and similar browsers, this is equivalent to an
+XSS vulnerability, that is to say, it allows the compromise of wiki
+user accounts. For other browsers, it allows private data such as IP
+addresses and browsing patterns to be sent to a malicious external web
+server. It affects all versions of MediaWiki. All users are advised to
+upgrade. For more information, see bug 27093:
+https://bugzilla.wikimedia.org/show_bug.cgi?id=27093
+This vulnerability was originally reported to the Mozilla Security
+Group and has been assigned CVE-2011-0047.
+Full release notes:
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_16_2/phase3/RELEASE-NOTES
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.2.tar.gz
+Patch to previous version (1.16.1), without interface text:
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.2.patch.gz
+Interface text changes:
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-i18n-1.16.2.patch.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.2.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.2.patch.gz.sig
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-i18n-1.16.2.patch.gz.sig
+Public keys:
+https://secure.wikimedia.org/keys.html
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.10 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org/
+iEYEARECAAYFAk1IlFkACgkQgkA+Wfn4zXlEYwCgsHhVstfDbKF7nUL2lshIAulT
+EN8An3oTYgyTz9LxngFtCvecdSry4ol7
+=bZrB
+-----END PGP SIGNATURE-----
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+More information about the MediaWiki-announce
+mailing list

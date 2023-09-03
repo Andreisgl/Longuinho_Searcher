@@ -1,0 +1,189 @@
+Trinidad and Tobago | People, Culture, Map, & Flag | Britannica.com
+86 captures
+26 Jun 2015 - 03 Aug 2023
+Apr
+SEP
+Apr
+30
+2018
+2019
+2020
+success
+fail
+ About this capture
+COLLECTED BY
+Organization: Archive Team
+ Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+The main site for Archive Team is at archiveteam.org and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the Wayback Machine, providing a path back to lost websites and work. 
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+The Archive Team Panic Downloads are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+Collection: ArchiveBot: The Archive Team Crowdsourced Crawler
+  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+There is a dashboard running for the archivebot process at http://www.archivebot.com.
+ArchiveBot's source code can be found at https://github.com/ArchiveTeam/ArchiveBot.
+TIMESTAMPS
+The Wayback Machine - http://web.archive.org/web/20190930100054/https://www.britannica.com/place/Trinidad-and-Tobago
+ENCYCLOPÆDIA BRITANNICA
+   START YOUR FREE TRIAL
+   
+Log In · Join
+Demystified
+Quizzes
+#WTFact
+Lists
+On This Day
+Biographies
+Explore
+   START YOUR FREE TRIAL
+   
+Search Britannica
+What are you looking for?
+Search
+Click here to search 
+Browse popular topics:
+Sri Lanka
+Easter Island
+Chinese Civil War
+Barabbas
+Five-Year Plans
+Fact-checked results at the top of your browser search.
+Learn More.
+       Britannica Insights
+    
+                {
+                    "605453": {
+                        "url": "/place/Trinidad-and-Tobago",
+                        "shareUrl": "https://www.britannica.com/place/Trinidad-and-Tobago",
+                        "title": "Trinidad and Tobago",
+                        "documentGroup": "TOPIC PAGINATED COUNTRY"
+                        
+                            ,"gaExtraDimensions": {"3":"false"}
+                    }
+                }
+            
+Contents
+Trinidad and Tobago
+Article
+Media
+Info
+Print
+Print
+   Please select which sections you would like to print:
+   
+Table Of Contents
+Cite
+Feedback
+Feedback
+Corrections? Updates? Omissions? Let us know if you have suggestions to improve this article
+     (requires login).
+ 
+Select feedback type:
+Select a type (Required)
+Factual Correction
+Spelling/Grammar Correction
+Link Correction
+Additional Information
+Other
+Submit Feedback
+Thank you for your feedback
+Our editors will review what you’ve submitted and determine whether to revise the article.
+                 Join Britannica's Publishing Partner Program and our community of experts to gain a global audience for your work!
+             
+Share
+SHARE
+Facebook
+Twitter
+Introduction & Quick FactsLandRelief and drainageClimatePlant and animal lifePeopleEthnic groupsReligionSettlement patternsDemographic trendsEconomyAgricultureResourcesManufacturingServices and taxationTransportationGovernment and societyConstitutional frameworkHealth and welfareEducationCultural lifeHistoryColonial periodIndependent Trinidad and Tobago
+Trinidad and Tobago
+Written By: 
+David Watts
+Arthur Napoleon Raymond Robinson
+Bridget M. Brereton
+Last Updated: 
+Sep 29, 2019
+See Article History
+Alternative Title:
+Republic of Trinidad and Tobago
+Trinidad and Tobago,  island country of the southeastern West Indies. It consists of two main islands—Trinidad and Tobago—and several smaller islands. Forming the two southernmost links in the Caribbean chain, Trinidad and Tobago lie close to the continent of South America, northeast of Venezuela and northwest of Guyana. Trinidad, by far the larger of the two main islands, has an area of about 1,850 square miles (4,800 square km). It is 7 miles (11 km) from the Venezuelan coast at its nearest point and is separated from it by the Gulf of Paria and two narrow channels, where there are several small islands and rocks. Tobago, much smaller, with an area of about 115 square miles (300 square km), lies 20 miles (30 km) to the northeast of Trinidad. Extending diagonally from southwest to northeast, Tobago is about 30 miles (50 km) long and more than 10 miles (16 km) across at its widest point. Little Tobago lies about a mile off Tobago’s northeastern coast. Also called Bird of Paradise Island, Little Tobago was once noted as the only wild habitat of the greater bird of paradise outside of New Guinea; however, the bird is no longer found there.Encyclopædia Britannica, Inc.Beach on the island of Tobago, Trinidad and Tobago.© CorbisTrinidad and Tobago achieved independence from the United Kingdom in 1962 and obtained membership in the Commonwealth and the United Nations that same year. It became a republic in 1976. The capital of Trinidad and Tobago is Port of Spain, located on the northwestern coast of Trinidad.Trinidad and TobagoEncyclopædia Britannica, Inc.
+Land
+Relief and drainage
+Physiographically, the islands represent an extension of the South American mainland. The outstanding physical feature of the island of Trinidad is its Northern Range, a continuation of the coastal ranges of the Andes Mountains in Venezuela. The range runs east-west at an average elevation of about 1,500 feet (460 metres), rising to 3,084 feet (940 metres) at Mount Aripo (El Cerro del Aripo), the country’s highest peak. The Northern Range is the site of a large number of waterfalls, the most spectacular of which are the Blue Basin Falls and the Maracas Falls, both 298 feet (91 metres) high. On the southern side of the range, foothills with an elevation of approximately 500 feet (150 metres) descend to the Northern Plain.Encyclopædia Britannica, Inc.
+Running across the centre of the island, from southwest to northeast, is the Central Range, the highest point of which is Mount Tamana (1,009 feet [308 metres]). A third row of mainly low hills, the Southern Range, adds further variety to the mostly flat or undulating surface of Trinidad.
+Get unlimited access to all of Britannica’s trusted content.
+Start Your Free Trial Today
+The three mountain ranges determine the island’s drainage pattern. Rivers are numerous but short, the longest being the Ortoire in the south and the Caroni in the north. In low-lying areas swamps can be found; among them are the Caroni Swamp in the northwest and clusters along the eastern (notably the Nariva Swamp) and southern coasts.
+An oil-bearing belt occupies the southern one-fourth of the island, extending west into the Gulf of Paria and east into the Atlantic Ocean. Gas and water seepages give rise to mud volcanoes of various types, the best-known of which is called the Devil’s Woodyard. In the southwest of the island is the deep asphalt deposit known as Pitch Lake.
+The island of Tobago is physiographically an extension of the Venezuelan coastal range and the Northern Range of Trinidad. Its dominant feature is the Main Ridge, which runs from northeast to southwest, rising to heights of about 1,800 feet (550 metres). The ridge slopes more gently to the southwest onto a coral plain. The coral formation has given rise to a number of reefs, one of which, Buccoo Coral Reef, is known for its marine life and is popular for scuba diving and snorkeling. Over the years, the reef and its marine life have suffered serious damage from pollution and tourist activity. Tobago has only a few short streams.
+Climate
+The climate of Trinidad and Tobago is tropical, with high relative humidity. The coolest months are January and February, when the average minimum temperature is about 68 °F (20 °C). The warmest months are April, May, and October, which have an average maximum temperature of about 89 °F (32 °C). In general, mean temperatures range between 77 °F (25 °C) in February and 85 °F (29 °C) in April. Temperatures vary significantly between day and night, and the climate along the coast is tempered by sea breezes.Rain shaft (foreground) and sunset on Man of War Bay, island of Tobago, Trinidad and Tobago.NOAA
+There is a main dry season from January to May and a lesser dry season (Petite Carême, or Indian Summer) in September and October. The prevailing winds are the northeast trades. The islands are outside the main hurricane zone, but Tobago occasionally is struck by disastrous hurricanes (e.g., in 1847 and 1963).
+Plant and animal life
+Vegetation zones are well defined on both islands. In general, the highest areas coincide with the most luxuriant tropical rainforest vegetation. Cultivated estates or small settlements are established in clearings on the hills. In the dry season the hills are dotted with the orange flowers of the mountain immortelle, a large flowering tree that grows to a height of about 80 feet (25 metres), and the flowers of the pink poui and yellow poui trees. Sugarcane, the main agricultural crop, is grown on Trinidad’s Central Plain.Conservation workers monitoring the leatherback sea turtle population at Matura Beach, Trinidad, Trinidad and Tobago.Alexander Nesbitt—www.nesbittphoto.com/naturepl.com/PRNewsFoto/Earthwatch Institute/AP Images
+The Caroni Swamp, a bird sanctuary, is frequented by flocks of white flamingos and egrets as well as populations of scarlet ibis—a national bird. Despite its protected status, the sanctuary’s bird population, including that of the scarlet ibis, has declined markedly since the 1970s, the result of illegal hunting and of pollution. The Nariva Swamp, which has a varied bird and mammal population including the manatee, has similarly come under threat despite its protected status, especially from illegal rice farms. The greater bird of paradise was introduced to the island of Little Tobago, a bird sanctuary, but had disappeared by the early 21st century. There are many endangered leatherback sea turtle nesting sites on the islands, the most notable of which is perhaps Matura Beach, on Trinidad.scarlet ibisScarlet ibis (Eudocimus ruber).© Grigory Kubatyan/Fotolia
+The forests on both  Trinidad and Tobago are hunting grounds for small game, the most-sought-after being the paca, or lappe. Other animals include the agouti (a short-haired, short-eared, rabbitlike rodent), quenck (collared peccary; a wild hog), tattoo (an armadillo), prehensile-tailed porcupine, and iguana. Four main groups of reptiles are present on the islands: snakes, lizards, turtles, and crocodiles (one kind, the caiman, related to the alligators). Trinidad’s other indigenous animals include howler monkeys and ocelots, but the latter have disappeared from the wild and the former are rare. In general, the island’s fauna has come under severe stress from rapid urbanization and industrial development.
+Trinidad and Tobago
+flag of Trinidad and TobagoNational anthem of Trinidad and TobagoOfficial nameRepublic of Trinidad and TobagoForm of governmentmultiparty republic with two legislative houses (Senate [311]; House of Representatives [42])Head of statePresident: Paula-Mae WeekesHead of governmentPrime Minister: Keith RowleyCapitalPort of SpainOfficial languageEnglishOfficial religionnoneMonetary unitTrinidad and Tobago dollar (TT$)Currency Exchange Rate1 USD equals 6.771 Trinidadian dollarPopulation(2018 est.) 1,359,000Population rank(2018) 155Population projection 20301,361,000Total area (sq mi)1,980Total area (sq km)5,127Density: persons per sq mi(2018) 686.4Density: persons per sq km(2018) 265.1Urban-rural populationUrban: (2018) 53.2%Rural: (2018) 46.8%Life expectancy at birthMale: (2017) 67.4 yearsFemale: (2017) 74.4 yearsLiteracy: percentage of population age 15 and over literateMale: %Female: 0%GNI (U.S.$ ’000,000)(2017) 21,023GNI per capita (U.S.$)(2017) 15,3501All seats are nonelected.
+                                        Load Next Page
+                                        
+Trinidad and Tobago
+Additional Information
+More About
+Additional Reading
+External Websites
+Jewish Virtual Library - Trinidad and Tobago
+CIA - The World Factbook - Trinidad and Tobago
+Official Tourism Site of Trinidad and Tobago
+Maps of World - Trinidad And Tobago Map
+Britannica Websites
+Articles from Britannica Encyclopedias for elementary and high school students.
+Trinidad and Tobago - Children's Encyclopedia (Ages 8-11)
+Trinidad and Tobago - Student Encyclopedia (Ages 11 and up)
+Article History
+Article Contributors
+Load Next Article
+Inspire your inbox –
+      Sign up for daily fun facts about this day in history, updates, and special offers.
+   
+Subscribe
+            By signing up for this email, you are agreeing to news, offers, and information from Encyclopaedia Britannica.
+            Click here to view our Privacy Notice. Easy unsubscribe links are provided in every email.
+        
+Thank you for subscribing!
+Be on the lookout for your Britannica newsletter to get trusted stories delivered right to your inbox.
+Stay Connected
+Facebook
+Twitter
+YouTube
+Instagram
+Pinterest
+Newsletters
+About Us
+About Our Ads
+Partner Program
+Contact Us
+Privacy Notice
+Terms of Use
+        ©2019 Encyclopædia Britannica, Inc.
+    
+Menu
+Home
+Demystified
+Quizzes
+#WTFact
+Lists
+On This Day
+Biographies
+Explore
+Login
+Join
+SHARE
+Facebook
+Twitter
+Search
+×
+close
+   Do you have what it takes to go to space?
+   

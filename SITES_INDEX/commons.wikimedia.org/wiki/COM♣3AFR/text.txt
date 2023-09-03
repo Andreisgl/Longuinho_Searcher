@@ -1,0 +1,317 @@
+Commons:File renaming - Wikimedia Commons
+Commons:File renaming
+From Wikimedia Commons, the free media repository
+(Redirected from Commons:FR)
+Jump to navigation
+Jump to search
+Translate this pageOther languages:Bahasa Indonesia
+British English
+Deutsch
+English
+Nederlands
+Tiếng Việt
+Türkçe
+azərbaycanca
+català
+corsu
+dansk
+español
+français
+italiano
+magyar
+polski
+português
+português do Brasil
+sicilianu
+slovenščina
+svenska
+čeština
+ślůnski
+Ελληνικά
+беларуская (тарашкевіца)
+български
+македонски
+русский
+українська
+اردو
+العربية
+فارسی
+मराठी
+हिन्दी
+অসমীয়া
+বাংলা
+ગુજરાતી
+中文
+日本語
+粵語
+한국어
+Shortcuts: COM:FR • COM:MOVE • COM:RENAME
+Not to be confused with Commons:Copyright rules by territory/France. 
+This page is considered an official guideline on Wikimedia Commons.
+It illustrates standards or behaviors which most editors agree with in principle and generally follow. Feel free to update the page as needed, but please use the discussion page to propose major changes.
+This page in a nutshell: The file rename function allows authorized users to rename files based on specific criteria, such as improving file names, correcting errors, harmonizing names, and avoiding policy violations. Users can request a rename by filling out a form or using a user script. File redirects are preferred, but in some cases, redirects can be suppressed.
+Commons file move icon
+COM:MOVE directs here. For information about moving files from other projects, see Commons:Moving files to Commons.
+The file rename function allows renaming (or "moving") of files, which works basically the same way as "normal" page moves. Any user can request a file rename, but only authorised users can actually rename files for now.
+Contents
+1 Which files should be renamed?
+2 Which files should not be renamed?
+3 How to rename a file
+3.1 Mass rename
+4 File name swaps
+5 Leaving redirects
+5.1 How to suppress a redirect
+6 Is there a log of file renames?
+7 Current file movers
+8 See also
+9 References
+Which files should be renamed?
+Shortcut
+COM:FNC
+Whether a filename is perceived to be suitable often depends on the familiarity of the individual with the subject, which is often the place depicted. It also occurs that items are known under different terms to different contributors or they believe entities are primarily well-known under the term they are used with to describe this entity, neglecting cultural differences, even within countries.
+Not of less importance is the purpose the filename is believed to have; contributors frequently categorizing files have different demands from those who create, process, manage and upload them. Uploaders often have schemas naming their files; moving files might break them. If possible, language and schema should be preserved, as well as the camera or catalogue number.
+Commons:File naming describes how files should be named. In general, Commons aims to provide stable filenames as there might be external file clients and file moving involves significant human and computing resources. Thus renaming should be used with caution. Currently there are six widely undisputed uses for rename requests:
+#
+Aim
+Examples (old name)
+Examples (new name)
+1.
+At the original uploader’s request.[1]
+2.
+To change from a meaningless or ambiguous name to a name that describes what the image particularly displays.[2]
+File:DSC 1342.jpg (no information at all)
+File:Pretoria Venningpark DSC 1342.jpg
+File:20110428 OH K1023900 0014.JPG - Flickr - NZ Defence Force.jpg (only photographer or rights holder)
+File:Helicopter A109LUH(NZ) by NZ Defence Force.jpg
+File:20120519 3349.CR2.png (only date)
+File:Sebkha-Chott 3349.png
+File:Paris 319.jpg (only broad location)
+File:Paris 75018 Rue Norvins no 018 Le Consulat z.jpg
+File:Smartphone.jpg (generic category)
+File:Samsung Galaxy Note series (Original, II, and 3).jpg
+File:RAS.jpg (acronym or initials)
+File:Rodrigo Arias Sánchez.jpg
+File:Flickr - law keven - Anybody know a Good Dentist^......Happy Furry Friday Everybody...-O))).jpg (no relation to file content)
+File:Lion-tailed Macaque, Colchester Zoo, England.jpg
+File:Louvre 12.jpg (inappropriate for specific content)
+File:Mona Lisa by Leonardo da Vinci.jpg
+3.
+To correct obvious errors in filenames, including misspelled proper nouns, incorrect dates, and misidentified objects or organisms.[3]
+File:Ayres Rock 3.pngFile:Van Gogh portrait 1787.jpgFile:Unknown insect 02.jpg
+File:Ayers Rock 3.pngFile:Van Gogh portrait 1887.jpgFile:Hogna radiata 02.jpg
+4.
+To harmonize the names of a set of images so that only one part of all names differs.[4]
+File:Bhf-BS-Icon.svgFile:Icon HST bs 1.svgFile:Dst symbol.svg
+File:BSicon BHF.svgFile:BSicon HST.svgFile:BSicon DST.svg
+5.
+To change a filename that would be a violation of Commons’ policies and guidelines if it appeared elsewhere on the project as text. This includes gratuitous vulgarity, personal attacks/harassment, blatant advertising, and cases where revision deletion would be authorized.[5]
+File:Stupid fat idiot.jpgFile:Buy now NEW PAINT! 555-6200.png
+File:<Name of the person>.jpgFile:2007 pink Honda Accord.png
+6.
+Non-controversial maintenance and bug fixes, including fixing double extensions, invalid or incorrect extensions, character handling problems, and other similar technical issues.[6]
+File:Map of Asia.svg.pngFile:Computer mouse.jpe
+File:Map of Asia.pngFile:Computer mouse.jpg
+Additional information
+Please consider creating file redirects instead, where applicable and possible. They are cheap, usually do not break anything and are easily edited or deleted, if required.
+↑ Unless there is a compelling reason not to, uploader requests should be honored. This is a courtesy, not an absolute right, however. If a file mover feels that a proposed new name is disruptive or inappropriate, they can suggest a different name or decline the request.
+↑ Including:
+Absolutely no information at allComposed entirely of random letters, numbers, and words like “Flickr”, “original”, and “crop”, which do not describe the subject of the image, but may indicate its upload history.
+Only information is the photographer or rights holderThe only piece of meaningful information is the name of the photographer or the holder of the copyright.
+Only information is the dateOnly piece of meaningful information is the date that the photograph was taken on.
+Only information is the location (broad)The only piece of meaningful information is a broad location, such as a city, province, or country. In this case, the location is so large that an average person would not be able to figure out where the image was taken or what the image depicted, without assistance from someone that knows the area.
+Generic category rather than specific itemThe only piece of meaningful information is a word, such as “smartphone” or “screenshot”, which broadly describes the subject of the file, but does not impart any information that would help someone identify the specific object depicted. This is not just restricted to inanimate objects, it also applies to broad titles or groupings, such as “queen” or “bird”.
+Acronyms and initialsThe only piece of meaningful information is an acronym or a person’s initials. This differs from “Absolutely no information at all” in that the acronym or initials are related to the subject of the file, even if it takes a second to figure out how.
+Names that are not meaningless, but do not describe the fileContains a coherent description or message that do not describe the subject of the file. Does not apply in cases where the name of the file is the title given to a work of art by the artist that created it, even if the name has nothing to do with what is depicted (for example, many works of Dadaism).
+Images where the information in the filename, while normally acceptable, is inappropriate for the specific content.
+Not including: Specific locations, such as a park, an individual building, or an event.
+↑ If an object or organism was incorrectly identified in the filename (such as calling a Sylvilagus floridanus by the name “File:Sylvilagus audubonii.jpg”), this criterion covers renaming the image. If the filename includes words like “unidentified” or “unknown” when describing an object or organism, and that object or organism has been identified, this criterion also covers the change. This criterion does not, however, cover moving a file from its common usage name to its scientific or technical name.
+↑ Just because images share a category does not mean that they are part of a set. There are two scenarios that this criterion is designed for. First, certain complex templates (such as those that use BSicons or that display football kits) assume that the images used in them will follow a specific naming convention. Wikisource also uses a specific naming convention for the source files they transcribe. Second, files that form parts of a whole (such as scans from the same book or large images that are divided into smaller portions due to Commons’ upload size restriction) should follow the same naming convention so that they appear together, in order, in categories and lists.
+↑ Note that Commons’ neutral point of view differs significantly from that of English Wikipedia. A file like “File:Taiwanese Tiaoyutai islands map.png” would be acceptable on Commons, even though it is not neutrally titled (see here). This does not mean that all non-neutrally worded titles are acceptable, however. An image of a person with the name “File:1BIGGest_nOSE_everS33n.JPG” would not enjoy the same protection.
+↑ This is not a catch-all for anything that doesn't fit one of the above. This is for specific technical problems, generally which have a Phabricator task and have been the subject of community discussion.
+View →the discussion that led to the selection of these criteria.
+Which files should not be renamed?
+Shortcut
+COM:FRNOT
+As a matter of principle it's best to leave all files with generally valid names at their locations, even if slightly better names may exist. So for example:
+#
+Criteria to decline
+Examples (old name)
+Examples (new name)
+1.
+Files should NOT be renamed only because the new name looks a bit better.
+File:TowerBridge'09.jpg
+File:Tower_Bridge_2009.jpg
+File:Logo_correct.jpg
+File:Logo.jpg
+2.
+Files should NOT be renamed only to translate the filename to another language and/or because the filename is not correctly capitalized. Remember, Commons is a multilingual project, so there's no reason to favor English over other languages.
+File:Rathaus_bremen.jpg
+File:Bremen_town_hall.jpg
+3.
+If a filename in a local project conflicts with a filename at Commons, the file in the local project should be renamed. Renaming it at Commons would mean changing it in a lot of projects instead of just one.
+4.
+Files with copyright issues should NOT be renamed until copyright issues are resolved. There is no reason to rename a file if it is going to be deleted on copyright grounds.
+Additional naming conventions and exceptions from the above list might be discussed for specific projects. For example, moving PDF and DjVu files transcluded at the Wikisources is problematic for those wikis and should be avoided unless the file mover understands the consequences.
+A user repeatedly renaming files under invalid reasons can be stripped of the filemover privilege. Warning: certain cases of wheel-warring—such as reversal of a preceding renaming which had a valid reason—may result in removal of the filemover privilege even for one infraction.
+How to rename a file
+Movefile gadget
+Any user can request a file rename, but only authorised users can actually rename files for now.
+To request a file rename while logged in, select "More → Move" near the top right of the file page, then fill in the provided form (this functionality is provided by the default gadget RenameLink). Users who do not have an account or are unwilling to run JavaScript can request a file rename by adding the template
+{{Rename|required newname.ext|required rationale number|reason=required text reason}}
+to the file description. Either way, the file will be added to Category:Media requiring renaming and an authorised user will perform the move if it conforms to the guidelines described above. There could be a delay of a few hours to several days depending on the type and language of the request.
+Responding editors should follow the instructions on the template. In most cases, a file redirect should be left on the original page, except if it is a misleading or promotional name.
+Authorised users are administrators, file movers and Wikimedia stewards. (Requests to become a filemover are listed at Commons:Requests for rights#Filemover.) If you belong to any of those groups, and therefore have the movefile right, just use the "Move & Replace" tab as you would normally do to a regular page.
+Mass rename
+A user script that can rename many files: User:Legoktm/massrename.js.
+File name swaps
+To perform file name swaps, you need the suppressredirect right. For example, somebody uploaded two files: "Obverse Of Token.jpg" and "Reverse Of Token.jpg", but the "obverse" image shows in fact the reverse side, and the reverse shows the obverse side. In this case, you'd have to:
+Move "Obverse Of Token.jpg" to "Temporary name Of Token.jpg"
+Move "Reverse Of Token.jpg" to "Obverse Of Token.jpg" without leaving a redirect.
+Move "Temporary name Of Token.jpg" to "Reverse Of Token.jpg" without leaving a redirect.
+Leaving redirects
+When you move (rename) a file by using the move tab, by default the old title will automatically become a redirect page to the new title. Additionally urls to thumbnails of the old file name will also redirect (however, direct links to the full size version of the file will not redirect). Redirects to the moved file are automatically updated when using Move & Replace to avoid double redirects.[1] If you do not use Move & Replace, you'll have to update all redirects to the file manually.
+All file movers have the suppressredirect user right.[2] This allows file movers to not leave behind a redirect when moving files and instead automatically have the original file name deleted. Policy never requires you to suppress the redirect, suppression of redirects is entirely optional.
+Suppression of redirects is only allowed in the following cases:
+To move recently uploaded files with an obvious error in the file name where that error would not be a reasonable redirect. For example: moving "Sheep in a tree.jpg" to "Squirrel in a tree.jpg" when the image does in fact depict a squirrel.
+To perform file name swaps.
+When the original file name contains vandalism. (Renaming criterion #5)
+Please note, this ability should be used only in certain circumstances and only if you are absolutely sure that it is not going to break the display of the file on any project. Redirects should never be suppressed if the file is in use on any project. When in doubt, leave a redirect.
+If you forget to suppress the redirect in case of file name vandalism or you are not fully certain if the original file name is actually vandalism, leave a redirect and tag the redirect for speedy deletion per G2.
+The malicious or reckless breaking of file links via the suppressredirect user right is considered an abuse of the file mover right and is grounds for immediate revocation of that right.
+How to suppress a redirect
+If you are using the move and replace script there will be a checkbox that says "Leave a redirect behind". This is automatically checked and cannot be turned off if the file is in use. If the file is not in use, unchecking the box will suppress the redirect and one will not be created upon moving the file. The "Leave a redirect behind" checkbox is also available on the general special page, Special:MovePage, which can be found by searching for Special:MovePage/PAGENAME in the search bar.
+To easily bypass the move and replace script on file pages and use the special page instead, a new tab must be opened through the move and replace button. Depending on your mouse settings you may be able to do this by "middle clicking" (clicking the mouse wheel) on the move and replace button. For others you can right click on the move and replace button and open in a new tab. Please note, the special page will not attempt to replace any usage of the file on any pages it is on.
+Is there a log of file renames?
+All file renamings are recorded in the Move log which is a log for all moves in all namespaces. There's no namespace filter for "files only" available yet.
+Current file movers
+List of all file movers (currently 1,610).
+Administrators have access to the movefile tool as well (currently 186).
+Stewards can rename files on all Wikimedia projects. For an overview see list of Stewards on Meta.
+See also
+Category:Media requiring renaming (by rationale) — category for files to be renamed.
+Rights of the filemover group
+Commons:Filemover statistics
+Commons:Rename a category
+Commons:Rename a template
+Help:File redirect
+Massrename tool
+MediaWiki:Filename-prefix-blacklist — filenames that the MediaWiki software itself prevents from being uploaded.
+Commons:File renaming/Global replace
+Recently declined rename requests
+References
+↑ MediaWiki:Gadget-AjaxQuickDelete.js
+↑ phab:T236348
+vteWikimedia Commons policies and guidelinesPoliciesProject
+General disclaimer
+Project scope
+Allowable file types
+Evidence
+Neutral point of view
+Precautionary principle
+Pages, galleries and categories
+Use of gender neutral language
+Content
+Licensing policy
+De minimis
+Fair use
+When to use the PD-Art tag
+Deletion policy
+Criteria for speedy deletion
+Revision deletion
+Language policy
+Category policy
+Behaviour
+Blocking policy
+Page protection
+De-adminship
+Paid contribution disclosure
+Translation administrators
+Signatures
+Username policy
+GuidelinesContent
+What Commons is not
+Non-copyright restrictions
+Fan art
+Nudity
+Photographs of identifiable people
+Derivative works
+When to use the PD-scan tag
+Galleries
+Using ImageAnnotator
+File renaming
+Overwriting existing files
+Grandfathered old files
+Behaviour
+Assume good faith
+Ownership of pages and files
+Talk page guidelines
+User-specific galleries, templates and categories
+Administrators
+Vandalism
+Rollback
+Patrol
+Licensing help(Village pump)Choosing a license
+Copyright rules
+Copyright rules by subject matter
+Copyright rules by territory
+Copyright tags
+PD files
+Copyright principles
+Threshold of originality
+Derivative works
+2D copying
+Screenshots
+Freedom of panorama
+Using files
+Reusing content outside Wikimedia
+Credit line
+Reuse of PD-Art photographs
+How to detectcopyright violations
+License laundering
+Problematic sources
+Flickr
+Picasa Web
+Bad sources
+License review
+WMF policies
+Privacy policy
+Office actions
+Community portal
+Help contents
+Retrieved from "https://commons.wikimedia.org/w/index.php?title=Commons:File_renaming&oldid=780186703"
+Categories: Commons guidelinesCommons helpCommons filesHidden category: Rename
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Project pageDiscussion
+English
+Views
+ViewView sourceHistory
+More
+Search
+Navigate
+Main pageWelcomeCommunity portalVillage pumpHelp center
+Participate
+Upload fileRecent changesLatest filesRandom fileContact us
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+Wikipedia
+In Wikipedia
+AzərbaycancaবাংলাEnglishفارسیहिन्दीItalianoLigureनेपालीРусскийSrpskohrvatski / српскохрватскиУкраїнськаاردو中文
+Edit links
+ This page was last edited on 4 July 2023, at 09:48.
+Files are available under licenses specified on their description page. All structured data from the file namespace is available under the Creative Commons CC0 License; all unstructured text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+By using this site, you agree to the Terms of Use and the Privacy Policy.
+Privacy policy
+About Wikimedia Commons
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

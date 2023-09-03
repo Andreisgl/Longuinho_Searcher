@@ -1,0 +1,248 @@
+Snowden leak: Microsoft added Outlook.com backdoor for Feds • The Register    
+65 captures
+14 Jul 2013 - 06 Mar 2023
+Apr
+AUG
+Nov
+25
+2016
+2017
+2019
+success
+fail
+ About this capture
+COLLECTED BY
+Organization: Internet Archive
+  These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to.   That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.  
+Then the Internet Archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.
+The goal is to fix all broken links on the web. 
+Crawls of supported "No More 404" sites.
+Collection: Wikipedia Near Real Time (from IRC)
+  This is a collection of web page captures from links added to, or changed on, Wikipedia pages. The idea is to bring a reliability to Wikipedia outlinks so that if the pages referenced by Wikipedia articles are changed, or go away, a reader can permanently find what was originally referred to.
+This is part of the Internet Archive's attempt to rid the web of broken links.
+TIMESTAMPS
+The Wayback Machine - http://web.archive.org/web/20170825104553/https://www.theregister.co.uk/2013/07/11/snowden_leak_shows_microsoft_added_outlookencryption_backdoor_for_feds/
+M³
+CLL
+Events
+Whitepapers
+The Next Platform
+                Data Center
+            
+                Software
+            
+                Security
+            
+                Transformation
+            
+                DevOps
+            
+                Business
+            
+                Personal Tech
+            
+                Science
+            
+                Emergent Tech
+            
+                Bootnotes
+            
+                            Servers
+                        
+                            HPC
+                        
+                            Cloud
+                        
+                            Storage
+                        
+                            Networks
+                        
+                            Virtualization
+                        
+                            BOFH
+                        
+Pats on the back all round as Pure Storage announces new CEO and growing revenues
+Gather round, kids, and let's try to understand the science of 3D NAND
+SUSE pledges endless love for btrfs, says Red Hat's dumping irrelevant
+The less-hidden benefits of modern Flash
+Node.js forks again – this time it's a war of words over anti-sex-pest codes of conduct
+If at first you don't succeed, you're Microsoft trying to fix broken Excel 2016
+So what's in the new Windows Insider build? Bug fixes, an AR goof-around, and a font
+Fancy talking to SAP about your indirect licensing concerns? Straw poll says no
+GTFO of there! Security researchers turn against HTTP public key pinning
+Chinese chap collared, charged over massive US Office of Personnel Management hack
+Uncle Sam outlines evidence against British security whiz Hutchins
+Logitech's security cams allegedly suck so bad, this US bloke is suing it
+So you're planning on outsourcing some enterprise security
+Berners-Lee and the open-data bunch: £60k for your best collab dataset register ideas
+Kill something, then hire cleaners to mop up the blood if you want to build a digital business
+HPE PointNext globo boss grilled by El Reg
+If you wagered Bet365 would buy up Basho's remains, you'd be a big winner right now
+Continuous integration platforms are broken – here's what needs fixing
+How are you improving software development and deployment?
+Malware? In my Docker container? It's more common than you think
+                            Policy
+                        
+                            The Channel
+                        
+Samsung heir does not pass Go, does not collect $200
+Bombastic boss gave insane instructions to sensible sysadmin, with client on speakerphone
+UK.gov wants quick Brexit deal with EU over private data protections
+VMware has cracking Q2, explains how it will beat Azure Stack
+PC sales to fall and fall and fall and fall and fall for the next five years
+Nasty firmware update butchers Samsung smart TVs so bad, they have to be repaired
+Despite being totally Megless, HP Inc stands on its own two feet
+Hate it when your apartment block is locked to Comcast etc? Small ISPs fight back
+                            Geek's Guide
+                        
+Forget trigonometry, cos Babylonians did it better 3700 years ago - by counting in base 60!
+Calm down, internet. Elon's Musk-see SpaceX spacesuit is a bit generic
+Don't throw away those eclipse glasses! Send 'em to South America
+Can North Korean nukes hit US mainland? Maybe. But EMP blast threat is 'highly credible'
+                            Artificial Intelligence
+                        
+                            Internet of Things
+                        
+'Driverless' lorry platoons will soon be on a motorway near you
+Seriously, friends. You suck at driving. Get a computer behind the wheel to save your life
+Kill animals and destroy property before hurting humans, Germany tells future self-driving cars
+Speaking in Tech: I am Wink, Wink.i.am, do you dig my smart home jam?
+                            Verity Stob
+                        
+IT worker used access privs to steal £1m from Scottish city council
+Airbus issues patch to prevent A350 airliner fuel tanks exploding
+Oldest flying 747 finally grounded, 47 years after first flight
+Headless body found near topless beach: Missing private sub journalist identified
+128 
+Security
+Snowden leak: Microsoft added Outlook.com backdoor for Feds
+NSA praises Redmond for 'collaborative teamwork'
+                        
+                            By Iain Thomson in San Francisco
+                            11 Jul 2013 at 20:51
+                        
+SHARE ▼
+There are red faces in Redmond after Edward Snowden released a new batch of documents from the NSA's Special Source Operations (SSO) division covering Microsoft's involvement in allowing backdoor access to its software to the NSA and others.
+Documents seen by The Guardian detail how the NSA became concerned when Microsoft started testing Outlook.com, and asked for access. In five months Microsoft and the FBI created a workaround that gives the NSA access to encrypted chats on Outlook.com. The system went live in December last year – two months before Outlook.com's commercial launch.
+Those Outlook users not enabling encryption get their data slurped as a matter of course, the documents show. "For Prism collection against Hotmail, Live, and Outlook.com emails will be unaffected because Prism collects this data prior to encryption," an NSA newsletter states.
+Microsoft's cloud storage service SkyDrive is also easy to access, thanks to Redmond's work with the NSA. The agency reported on April 8, 2013 that Microsoft has built PRISM access into Skydrive in such a way as to remove the need for NSA analysts to get special authorization for searches in Microsoft's cloud.
+"Analysts will no longer have to make a special request to SSO for this – a process step that many analysts may not have known about," the leaked NSA document states. "This new capability will result in a much more complete and timely collection response. This success is the result of the FBI working for many months with Microsoft to get this tasking and collection solution established."
+The documents also detail how Microsoft and Skype have also been working with the intelligence agencies to install monitoring taps. Work began on integrating Prism into Skype in November 2010, they state, three months before the company was issued with an official order to comply by the US Attorney General.
+Data collection began on February 6, 2011, and the NSA document says the planned systems worked well, with full metadata collection enabled. It praised Microsoft for its help, saying "collaborative teamwork was the key to the successful addition of another provider to the Prism system."
+Work to integrate Skype into Prism into Skype didn't stop there, however. In July 2012 an NSA newsletter states Microsoft installed an upgrade that tripled the amount of Skype videos that can be monitored by NSA analysts.
+"The audio portions of these sessions have been processed correctly all along, but without the accompanying video. Now, analysts will have the complete 'picture'," it says.
+In a statement, Microsoft said that it only complies with legal demands for customer information for law enforcement and national security purposes, and that the company isn't involved in giving "the kind of blanket orders discussed in the press over the past few weeks."
+"When we upgrade or update products legal obligations may in some circumstances require that we maintain the ability to provide information in response to a law enforcement or national security request. There are aspects of this debate that we wish we were able to discuss more freely," it said.
+Not that Microsoft hasn't been making a big thing about the privacy of its communications systems in the past. Its Gmail Man ad campaign lambasted Google for snooping in people's mail to match them with advertisers, and the tagline "Your email is your business" seems somewhat ironic these days. The advert is no longer on Microsoft's YouTube channel.
+The leaked documents come from the NSA's Special Source Operations (SSO) division, which handles commercial company liaison for data collection by the agency. The documents show that, once collected by Prism, the NSA shares its data directly with the CIA and FBI via a custom application.
+"The FBI and CIA then can request a copy of Prism collection of any selector..." the document says. "These two activities underscore the point that Prism is a team sport!"
+In a joint statement, Shawn Turner, spokesman for the director of National Intelligence, and Judith Emmel, spokeswoman for the NSA, told The Guardian that the wiretapping referred to in the document was court-ordered and was subject to judicial oversight.
+"Not all countries have equivalent oversight requirements to protect civil liberties and privacy," they said. "In practice, US companies put energy, focus and commitment into consistently protecting the privacy of their customers around the world, while meeting their obligations under the laws of the US and other countries in which they operate." ®
+Sponsored: 
+The Joy and Pain of Buying IT - Have Your Say
+                        Tips and corrections
+                    
+128
+                        Comments
+                    
+MORE
+Skype
+Microsoft
+NSA
+Prism
+Most read
+Oldest flying 747 finally grounded, 47 years after first flight
+                
+Paris nightclub red-faced after booze-for-boobs offer exposed
+                
+Nasty firmware update butchers Samsung smart TVs so bad, they have to be repaired
+                
+Germans force Microsoft to scrap future pushy Windows 10 upgrades
+                
+ASUS smoking hashes with 19-GPU, 24,000-core motherboard
+                
+More from The Register
+Microsoft says Skype outages are over – a few hours too early
+                            Global Skype outages spill over onto a second day
+                        
+                                6 Comments
+                            
+Shadow Brokers leak systems hacked by NSA – mostly mail and uni servers in India, China
+                            With gibberish encouraging disruption of the US election
+                        
+                                12 Comments
+                            
+Skype for Business is not Skype – realising that is half the battle
+                            Wait, come back. There are some... good bits, promise
+                        
+                                77 Comments
+                            
+Make sure your Skype is up to date because FYI there's a nasty hole in it
+                            Nothing to see here, says Microsoft, just more crappy code
+                        
+                                15 Comments
+                            
+Microsoft beefs up Skype for Business as Amazon Chimes in
+                            Corporate comms face-off
+                        
+                                7 Comments
+                            
+Skype-on-Linux graduates from Alpha to Beta status
+                            Decent effort, but it is hard to see why Redmond is bothering
+                        
+                                30 Comments
+                            
+Samsung gains ground on smartphones
+                            Emerging markets are where it's at
+                        
+                                10 Comments
+                            
+Samsung ploughing billions into boosting memory production
+                            IoT, AI and car tech driving demand for chips
+                        
+                                11 Comments
+                            
+Whitepapers
+Software for Storing the Information Age
+                    The RING is designed to support a broad variety of application workloads in a capacity-optimised fashion.
+                
+A new approach to unstructured data
+                    The tremendous growth of unstructured data is creating huge opportunities for organizations. But it is also creating significant challenges for the storage infrastructure.
+                
+The World's Most Advanced Data Center GPU
+                    This white paper presents the Tesla V100 accelerator and the Volta GV100 GPU architecture.
+                
+Gartner Vendor Rating - Red Hat
+                    Red Hat continues to achieve consistent ratings across its product portfolio and corporate measures.
+                
+Sponsored links
+Protect your business from Ransomware with Mimecast
+Talk to a Mimecast Email Archiving Specialist today
+The GDPR deadline is coming. Get your Mimecast GDPR Preparedness Kit
+Download Mimecast's report of ESRA tests
+Need compute capacity quickly? Learn how to burst applications to the cloud without big data moves. Download ebook.
+Get The Register's Headlines in your inbox daily - quick signup!
+About us
+Who we are
+Under the hood
+Contact us
+Advertise with us
+More content
+Week’s headlines
+Top 20 stories
+Alerts
+Whitepapers
+Situation Publishing
+The Next Platform
+Continuous Lifecycle London
+M-cubed
+Webinars
+The Register - Independent news and views for the tech sector. Part of Situation Publishing
+Sign up to our Newsletters
+Join our daily or weekly newsletters, subscribe to a specific section or set News alerts
+Subscribe
+Biting the hand that feeds IT © 1998–2017
+Cookies
+Privacy
+Ts&Cs
+ 

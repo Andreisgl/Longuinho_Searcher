@@ -1,0 +1,1129 @@
+Proposals for new projects - Meta
+Proposals for new projects
+From Meta, a Wikimedia project coordination wiki
+Jump to navigation
+Jump to search
+←Requests and proposals
+'
+[→
+As of 2023, the new project proposals process is under review by the Wikimedia Foundation Board. You can still submit proposals, however please note that no new projects will be accepted until this review is complete.
+←Requests and proposals
+Proposals for new projects
+Archives→
+This page hosts proposals for new Wikimedia projects, in line with the new project process. 
+To propose a new language for an existing project, see Requests for new languages.
+To propose closing an existing project, see Proposals for closing projects.
+To suggest an enhancement which requires a change to MediaWiki, file a feature request in Phabricator.
+To propose enhancements to an existing project, visit that project and gather interest there.
++/-
+Contents
+1 Notes to consider
+2 Existing projects
+3 Instructions
+4 Open proposals
+5 Stale proposals
+6 Closed proposals
+Notes to consider[edit]
+Hosting:  Wikimedia Foundation is not a free hosting company. If your project does not fit the Foundation's ideals, download MediaWiki for free and install it on a server you control. Fandom (formerly Wikia) or another wiki farm are also options, but come at the cost of losing control of your project.
+Need a dedicated project? Think well. Maybe your proposal fits better into one of the existing projects, for example, Wikipedia, Wikibooks, or Commons?
+History: Individuals attempting to create a new project should read the Wikipedia timeline.
+Be persistent. Don't take criticism personally. Some users are afraid of repeating mistakes from past projects. Going from an idea to a working wiki takes time and editing and sometimes software development.  Be prepared for criticism; if it is a good idea, others will help you out!
+Demo: It may be useful to start a demo of the wiki along with the proposal. Demo wikis can be created at Wikispore: which is a proposed wiki for seeding new WMF projects. You can also use wikia:, ourproject.org or any other wiki farm.
+The last project to be created was Wikifunctions in 2023. See the history of the project proposal page for Wikidata before it went live. The last one before that was Wikiversity in 2006. Some proposals below are suggesting adopting existing projects. The only time this has happened was when Wikitravel was forked as Wikivoyage and integrated into the Travel guide proposal in 2013. Creating new projects is extremely rare but not impossible. Please consider if what you are proposing is really a new type of information or educational project that cannot fit within the scope of existing projects.
+Existing projects
+see also the Complete list of Wikimedia projects
+Some common proposals could be merged into one of these as a subproject:
+Wikipedia has many WikiProjects. Your proposal could be one, or part of one.
+Wikisource has WikiProjects for primary sources and historical documents.
+Wikibooks hosts some collections: Wikijunior (children's books), and the Cookbook.
+Other content projects may be a good fit for what you have in mind:
+Wikinews (collaborative journalism)
+Wikimedia Commons (images & media)
+Wikispecies (taxonomic database)
+Wikiquote (quotations)
+Wiktionary (dictionary and thesaurus)
+Wikiversity (educational materials)
+Wikivoyage (travel guide)
+Wikidata (data repository)
+Incubator wiki (new language editions of most Wikimedia projects; see Beta Wikiversity and Multilingual Wikisource for those projects)
+Instructions[edit]
+Create an account and a user page on this wiki, so people can address questions to you.
+Create a page describing your plan: enter the project name in the box below and click the button.
+Link to your proposal from this page, below.
+Advertise your project! Good places to do so are on the Wikimedia Forum and the wikimedia-l mailing-list.
+ 
+There was a proposed reform of new project process and a proposed community committee to develop a clear policy and documentation for sister project proposals, both of which are currently inactive. The de facto process is described below:
+Any proposal may only be approved by the Board of Trustees after a prominent discussion process and a broad and clear consensus (dozens and probably hundreds of supports are needed, and the proposal may be open for years)
+Any users in good standing may close or merge any proposal if:
+it is clearly redundant to another project or project proposal, or is not a serious or intelligible proposal— i.e. jokes, trolling, proposals with extremely vague scope, and patent nonsense (tag "Procedurally closed");
+it is stale and has few support after a considerable amount of time (tag "Stale");
+it clearly has no consensus after a considerable amount of time (tag "Rejected").
+Unless your proposal involves new features that the MediaWiki software currently doesn't have, you may incubate your proposal in Wikispore, an unofficial project to develop test wikis.
+Open proposals[edit]
+Open proposals for new projects
+Project
+Request date
+Status
+Wikimolecule (comments)
+10-Jan-2023
+Under discussion
+Wikianswers (comments)
+15-Dec-2021
+Under discussion
+Wikispore (comments)
+12-Aug-2019
+Under discussion
+WikiLaw (3) (comments)
+11-May-2019
+Under discussion
+VideoWiki (comments)
+22-Jul-2018
+Under discussion
+WikiJournal (comments)
+21-Aug-2016
+Submitted
+Wikimedia genealogy project (comments)
+26-Feb-2014
+Under discussion
+Stale proposals[edit]
+Proposals that have lost momentum, but are still open for discussion
+Project
+Request date
+Status
+WikiAsk (recreated) (comments)
+10-Sep-2019
+Stale (could be re-opened)
+NonFreeWiki (2) (comments)
+03-Jan-2018
+Stale (could be re-opened)
+Wikimuseum (comments)
+08-Dec-2017
+Stale (could be re-opened)
+Wikitemplates (comments)
+12-Nov-2017
+Stale (could be re-opened)
+WikiObject (comments)
+27-Jul-2016
+Stale (could be re-opened)
+Wikidirectory (comments)
+24-Jan-2016
+Stale (could be re-opened)
+Closed proposals[edit]
+Closed proposals for new projects and adoption of other projects
+Project
+Request date
+Status
+Wikispace (comments)
+15-Jul-2023
+Procedurally closed
+Adminwiki (comments)
+28-Jun-2023
+Rejected
+Wikikultura (comments)
+05-Jun-2023
+Rejected
+NetWiki (comments)
+17-Mar-2023
+Procedurally closed
+Wikitranslations (comments)
+03-Nov-2022
+Rejected
+Wikilawsuits (comments)
+22-Sep-2022
+Procedurally closed
+Mineralwiki (comments)
+10-Aug-2022
+Procedurally closed
+Wikivideos (comments)
+05-Aug-2022
+Rejected
+WikiFlix (comments)
+09-Jun-2022
+Rejected
+WikiEarth (comments)
+22-May-2022
+Rejected
+Wiki E-Books (comments)
+18-May-2022
+Procedurally closed
+Fanonpedia (comments)
+27-Apr-2022
+Rejected
+Wikischools (comments)
+03-Mar-2022
+Rejected
+WikiStories (comments)
+28-Feb-2022
+Rejected
+Multilingual Wiktionary (comments)
+21-Jan-2022
+Rejected
+ConWiki (comments)
+10-Dec-2021
+Rejected
+VRCommons (comments)
+03-Dec-2021
+Procedurally closed
+1980s Wikipedia (comments)
+12-Nov-2021
+Rejected
+GlobalWiki (comments)
+12-Nov-2021
+Rejected
+Wikihavior (comments)
+09-Nov-2021
+Rejected
+Sitewiki (comments)
+08-Nov-2021
+Rejected
+Forum-Wiki (comments)
+08-Nov-2021
+Rejected
+Wikisleep (comments)
+08-Nov-2021
+Rejected
+Wikimedia Cloud (comments)
+07-Nov-2021
+Rejected
+Wiki Bíblia (comments)
+19-Oct-2021
+Rejected
+Wikitones (comments)
+08-Oct-2021
+Rejected
+Structured text (comments)
+18-Aug-2021
+Rejected
+Wikirank (comments)
+03-Jul-2021
+Rejected
+Wikiguides (comments)
+12-Jun-2021
+Rejected
+Wiktionary Multimedia (comments)
+06-Jun-2021
+Rejected
+WikiWorks (comments)
+01-Jun-2021
+Rejected
+WikiFacts (comments)
+01-Jun-2021
+Withdrawn
+Wikifood (comments)
+17-May-2021
+Procedurally closed
+Etiki (comments)
+19-Mar-2021
+Rejected
+Wikidiscussions (comments)
+25-Feb-2021
+Rejected
+Wikifact (comments)
+05-Feb-2021
+Rejected
+Wikipragmatica (comments)
+07-Jan-2021
+Rejected
+WikiMentor (comments)
+05-Jan-2021
+Rejected
+WikiEssays (comments)
+25-Dec-2020
+Rejected
+WikiPoetry (comments)
+22-Dec-2020
+Rejected
+Wikimanual (comments)
+22-Dec-2020
+Rejected
+WikiSearch (comments)
+13-Nov-2020
+Rejected
+Wikipedia Kids (comments)
+05-Sep-2020
+Rejected
+Wiktionary Kids (comments)
+26-Aug-2020
+Rejected
+PROVA Probabilistic Reasoner (comments)
+19-Jul-2020
+Rejected
+Wikirecords (comments)
+19-Jun-2020
+Rejected
+Wikiwhy (comments)
+19-Jun-2020
+Procedurally closed
+Abstract Wikipedia (comments)
+05-May-2020
+Approved
+WikiCoins (comments)
+08-Apr-2020
+Rejected
+Wikiweather (comments)
+07-Apr-2020
+Rejected
+WikiCrisis (comments)
+06-Apr-2020
+Rejected
+Wikidebat (comments)
+05-Apr-2020
+Rejected
+WikiIdea (comments)
+13-Jan-2020
+Rejected
+WikiFactory (comments)
+03-Oct-2019
+Rejected
+HighRiskCommons (comments)
+27-Sep-2019
+Rejected
+A historical handbook (comments)
+29-Aug-2019
+Rejected
+CommonsNF (comments)
+20-Aug-2019
+Rejected
+IntellWiki (comments)
+17-Aug-2019
+Rejected
+Wikiwisdom (comments)
+15-Aug-2019
+Rejected
+WikiPhrasebooks (comments)
+14-Jul-2019
+Rejected
+Encyclopedia for Children (comments)
+09-Jul-2019
+Rejected
+Transparent Economy (comments)
+03-Jun-2019
+Rejected
+WikiAI (comments)
+11-May-2019
+Rejected
+WikiHome (a headquarter) (comments)
+06-May-2019
+Withdrawn
+WikiArchive (comments)
+15-Feb-2019
+Rejected
+TechWiki (comments)
+15-Feb-2019
+Rejected
+WikiDerivations (comments)
+10-Dec-2018
+Rejected
+Wiki_Papers (comments)
+01-Dec-2018
+Rejected
+WikiMaps (comments)
+13-Oct-2018
+Rejected
+Simple_languages_Wikipedia (comments)
+27-Nov-2018
+Procedurally closed
+WikiVerify (comments)
+18-Sep-2018
+Rejected
+Wikiproduct (comments)
+09-Aug-2018
+Rejected
+Wikronyms (comments)
+03-Aug-2018
+Rejected
+Wikideas (comments)
+26-Jul-2018
+Procedurally closed
+CWikipedia (comments)
+21-Jun-2018
+Rejected
+Wikisongs II (comments)
+25-Mar-2018
+Rejected
+Wikirights (comments)
+17-Mar-2018
+Rejected
+Wikihost (comments)
+28-Feb-2018
+Rejected
+Wikieducation (comments)
+31-Jan-2018
+Rejected
+Wikilanguage (comments)
+28-Jan-2018
+Rejected
+Wikigift (comments)
+13-Jan-2018
+Rejected
+Domestic encyclopedia (comments)
+29-Nov-2017
+Rejected
+Kidswiki (comments)
+23-Nov-2017
+Rejected
+Wikiville (comments)
+10-Nov-2017
+Rejected
+Third test wiki (comments)
+24-Sep-2017
+Rejected
+WikiChips (comments)
+20-Sep-2017
+Rejected
+Wikientertain (comments)
+19-Sep-2017
+Rejected
+Wikilife (comments)
+14-Sep-2017
+Rejected
+Wikimedia Olympics (comments)
+15-Sep-2017
+Rejected
+Wikiacademy (comments)
+13-Sep-2017
+Rejected
+Wikinexus (comments)
+08-Sep-2017
+Rejected
+Wikipublic (comments)
+23-Aug-2017
+Rejected
+Wikipedia in Simple Portuguese (comments)
+14-Aug-2017
+Procedurally closed
+CrystalBallWiki (comments)
+16-Jul-2017
+Rejected
+Girgit (comments)
+25-Jun-2017
+Rejected
+wikifont (comments)
+14-Jun-2017
+Rejected
+Myriad Font (comments)
+11-Jun-2017
+Procedurally closed
+Wikirecords (comments)
+03-Jun-2017
+Rejected
+Wikioffice (comments)
+02-Jun-2017
+Rejected
+Wikiengine (comments)
+02-Jun-2017
+Rejected
+Docwiki (comments)
+02-Jun-2017
+Rejected
+WikiBarCodes (comments)
+14-May-2017
+Rejected
+WikiWisdom (comments)
+14-May-2017
+Rejected
+WikiSandy (comments)
+11-May-2017
+Rejected
+Wikikids go! (comments)
+05-May-2017
+Rejected
+WikiMed encyclopedia (comments)
+31-Mar-2017
+Rejected
+Goodgovpedia Africa (comments)
+25-Mar-2017
+Rejected
+WikiPAPER (comments)
+07-Feb-2017
+Rejected
+Wikimath (comments)
+01-Feb-2017
+Rejected
+WikiSocial (comments)
+30-Jan-2017
+Rejected
+WikiMoon (comments)
+22-Jan-2017
+Rejected
+WikiWrite (comments)
+19-Dec-2016
+Withdrawn
+DRMF (comments)
+19-Dec-2016
+Rejected
+BotPedia (comments)
+06-Dec-2016
+Rejected
+WikiFastFacts (comments)
+25-Oct-2016
+Rejected
+Wikimedia Pi Abacus (comments)
+07-Oct-2016
+Procedurally closed
+CredKudo (comments)
+03-Oct-2016
+Rejected
+WikiSymbols (comments)
+13-Sep-2016
+Rejected
+Wikidistros (comments)
+15-Jul-2016
+Rejected
+Wikinema (comments)
+17-Jun-2016
+Rejected
+WikiProves (comments)
+01-Jun-2016
+Rejected
+WikiCache (comments)
+14-May-2016
+Rejected
+Wikigames (2) (comments)
+28-Mar-2016
+Rejected
+Wikiphrases (comments)
+04-Feb-2016
+Rejected
+Reporter's Notebook (comments)
+01-Feb-2016
+Rejected
+Wikipetitions (comments)
+15-Jan-2016
+Rejected
+RoseWiki (comments)
+07-Jan-2016
+Rejected
+Wikilore (comments)
+29-Dec-2015
+Rejected
+Wkiwise (comments)
+16-Nov-2015
+Rejected
+Wikilearn (comments)
+13-Oct-2015
+Rejected
+Wikicreate (comments)
+11-Oct-2015
+Rejected
+Wikiversitate (comments)
+11-Oct-2015
+Procedurally closed
+WikiTeched (comments)
+23-Sep-2015
+Rejected
+Wikifoodia (comments)
+20-Aug-2015
+Rejected
+HelpWiki (comments)
+03-Aug-2015
+Rejected
+Wikimedia YellowPages (comments)
+10-Apr-2015
+Rejected
+Wikipolitiki (comments)
+11-Mar-2015
+Rejected
+WikiConsumer (comments)
+31-Jan-2015
+Rejected
+Horami Language in Wikipedia (comments)
+03-Jan-2015
+Procedurally closed
+Wikixpressions (comments)
+30-Dec-2014
+Rejected
+WikiTribute (comments)
+30-Dec-2014
+Rejected
+Wikifinition (comments)
+24-Dec-2014
+Rejected
+Wikiread (comments)
+27-Nov-2014
+Rejected
+PlaceBook_Wiki (comments)
+24-Nov-2014
+Rejected
+Knowledge_assembly_Platfrom (comments)
+11-Nov-2014
+Rejected
+Wikinotes (comments)
+23-Oct-2014
+Rejected
+WikiPrivacy (comments)
+09-Sep-2014
+Rejected
+WIKIGUARD (comments)
+25-Aug-2014
+Rejected
+Wikiguard (comments)
+25-Aug-2014
+Rejected
+WikiLegalCases (comments)
+20-Aug-2014
+Procedurally closed
+WikiSpeeches (comments)
+20-Aug-2014
+Procedurally closed
+WikiCompanies (comments)
+20-Aug-2014
+Procedurally closed
+WikiGovernment (comments)
+20-Aug-2014
+Procedurally closed
+Wikiology (comments)
+28-Jul-2014
+Rejected
+WikiTrends (comments)
+13-Apr-2014
+Rejected
+WikiSigns (comments)
+31-Mar-2014
+Rejected
+WikiResearch WikiPapers (comments)
+16-Mar-2014
+Rejected
+Wikichem (comments)
+13-Mar-2014
+Rejected
+NonFreeWiki (comments)
+15-Feb-2014
+Procedurally closed
+Wikidebate (comments)
+27-Jan-2014
+Rejected
+WikiGames (comments)
+23-Jan-2014
+Rejected
+WikiCookBook (comments)
+23-Jan-2014
+Procedurally closed
+Techwiki (comments)
+22-Jan-2014
+Rejected
+UserWiki (comments)
+07-Jan-2014
+Procedurally closed
+WikiRefdesk (comments)
+04-Jan-2014
+Rejected
+Structured Wikiquote (comments)
+01-Jan-2014
+Rejected
+WikiSWOT (comments)
+14-Dec-2013
+Rejected
+WikiAnalytics (comments)
+10-Dec-2013
+Rejected
+Penig-Wiki (comments)
+11-Nov-2013
+Rejected
+Wikiecnomics (comments)
+02-Nov-2013
+Rejected
+Wikhypothesis (comments)
+01-Nov-2013
+Rejected
+Wikipoeia (comments)
+25-Oct-2013
+Rejected
+Scientific extension to Wikipedia (comments)
+21-Oct-2013
+Rejected
+Wikireference (comments)
+30-Sep-2013
+Rejected
+Wikisummary (comments)
+14-Sep-2013
+Rejected
+Meta World's Data (comments)
+11-Sep-2013
+Rejected
+Wikifiction (In-universe encyclopedia) (comments)
+31-Aug-2013
+Rejected
+Concisia (comments)
+30-Aug-2013
+Rejected
+Global-Wiki (comments)
+26-Aug-2013
+Procedurally closed
+Reviewiki (comments)
+24-Aug-2013
+Rejected
+Massively-Multiplayer Online Bibliography (comments)
+18-Aug-2013
+Rejected
+Wikidentify (comments)
+18-Jul-2013
+Rejected
+Wikiabstracts (comments)
+17-Jul-2013
+Rejected
+WikiNames (comments)
+16-Jul-2013
+Rejected
+Wikijobs (comments)
+11-Jul-2013
+Rejected
+WeRelate (comments)
+10-Jul-2013
+Rejected
+WikiAtlas (comments)
+27-Jun-2013
+Rejected
+Wikiads (comments)
+25-Jun-2013
+Rejected
+Wikikulture (comments)
+24-Jun-2013
+Rejected
+WikiReUse (comments)
+05-Jun-2013
+Rejected
+WikiBunk (comments)
+18-May-2013
+Rejected
+Wiki Good Deeds Site (comments)
+07-May-2013
+Rejected
+Wiki Encyclopedia of Religion (comments)
+07-May-2013
+Rejected
+Global Economic Map (comments)
+05-Apr-2013
+Procedurally closed
+Wikiotica (comments)
+01-Apr-2013
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+WikiApps (comments)
+27-Mar-2013
+Rejected
+WikiArtsandCrafts (comments)
+25-Feb-2013
+Rejected
+OmegaWiki (comments)
+21-Feb-2013
+Procedurally closed
+WikiLang (comments)
+17-Feb-2013
+Rejected
+Wikimedia Scripts (comments)
+11-Feb-2013
+Rejected
+WebCite (comments)
+09-Feb-2013
+Rejected
+Wikichild (comments)
+31-Jan-2013
+Rejected
+Wikikids (comments)
+31-Jan-2013
+Rejected
+WikiRecipe (comments)
+31-Jan-2013
+Rejected
+Wikissentials (comments)
+15-Jan-2013
+Rejected
+LuminousWebs (comments)
+03-Jan-2013
+Rejected
+Wikirate (comments)
+23-Dec-2012
+Rejected
+Wikiservice (comments)
+16-Dec-2012
+Rejected
+Rodovid (comments)
+10-Dec-2012
+Rejected
+Wiki-torrents (comments)
+08-Dec-2012
+Rejected
+WikiFocus (comments)
+05-Dec-2012
+Rejected
+Wikiprocess (comments)
+28-Nov-2012
+Rejected
+Concise Wikipedia (comments)
+27-Nov-2012
+Rejected
+Wiki-Law (comments)
+27-Nov-2012
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+WikiSports (comments)
+10-Nov-2012
+Procedurally closed
+VideoGamesWiki (comments)
+10-Nov-2012
+Rejected
+AnyQuotesWiki (comments)
+10-Nov-2012
+Rejected
+Wikikultur (comments)
+27-Sep-2012
+Rejected
+SpringWiki (comments)
+20-Sep-2012
+Rejected
+Wiki social network (comments)
+10-Aug-2012
+Rejected
+Wikiproblems (comments)
+09-Aug-2012
+Rejected
+Ratiopol (comments)
+27-Jul-2012
+Rejected
+Wikinvent (comments)
+04-Jul-2012
+Rejected
+WikiEvolution (comments)
+30-Jun-2012
+Rejected
+OpenMeetings.org (comments)
+24-Jun-2012
+Rejected
+WikiSoftware (comments)
+21-Jun-2012
+Rejected
+Wikiversity Project of Biophysics (comments)
+02-Jun-2012
+Procedurally closed
+WikiExperts (comments)
+25-Mar-2012
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+SourceIt (comments)
+11-Mar-2012
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+WikiCast (comments)
+20-Mar-2012
+Rejected
+Travel Guide (comments)
+11-Mar-2012
+Approved
+Live.wikipedia (comments)
+28-Feb-2012
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Wikiessay (comments)
+24-Feb-2012
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+GreenWiki (comments)
+25-Jan-2012
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+WikiDonors (comments)
+07-Dec-2011
+Rejected
+WikiArguments (comments)
+21-Oct-2011
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+WikiQuiz (comments)
+25-Sep-2011
+Rejected
+encycloPDia (comments)
+11-Sep-2011
+Rejected
+Dispute (comments)
+08-Aug-2011
+Rejected
+Wikimath (comments)
+06-Aug-2011
+Rejected
+Civipedia (comments)
+16-Jul-2011
+Rejected
+WikiCalculator (comments)
+29-Mar-2011
+Rejected
+Wikimurder (comments)
+09-Feb-2011
+Rejected
+Allrightsreserved (comments)
+01-Feb-2011
+Rejected
+Wikiplot (comments)
+25-Jan-2011
+Rejected
+OKSource (comments)
+07-Jan-2011
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+GMD Wiki (comments)
+20-Oct-2010
+Rejected
+WikiFix (comments)
+20-Oct-2010
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Wikihelps (comments)
+12-Oct-2010
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+WikiODP (comments)
+09-Oct-2010
+Rejected
+WikiDegree (comments)
+07-Oct-2010
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Wiki Product Information Disclosure (comments)
+28-Sep-2010
+Rejected
+WikiSchool (comments)
+27-Sep-2010
+Rejected
+WikiVocab (comments)
+16-Sep-2010
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Tournamentpedia (comments)
+11-Jul-2010
+Rejected
+Oil Spill Open Innovation Wiki (comments)
+12-May-2010
+Rejected
+WikiCook (comments)
+06-May-2010
+Rejected
+VotersWiki (comments)
+28-Apr-2010
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+WikiTree (comments)
+07-Apr-2010
+Procedurally closed
+WikiGuide (comments)
+30-Mar-2010
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Wikinomen (comments)
+15-Mar-2010
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Wikidate (comments)
+10-Mar-2010
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+WikiCatalog (comments)
+11-Feb-2010
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+WikiDatabank (comments)
+11-Feb-2010
+Rejected
+Digital newspaper archive (comments)
+10-Feb-2010
+Rejected
+Wikimobile (comments)
+29-Jan-2010
+Rejected
+Konsciajxo (comments)
+04-Jan-2010
+Rejected
+Wikimedia spare parts (comments)
+06-Dec-2009
+Rejected
+Reliable Wiki and Structured Information (comments)
+26-Nov-2009
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+CommonsForce (comments)
+06-Sep-2009
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Wikistatistics (comments)
+15-Jul-2009
+Rejected
+Savta (comments)
+20-Apr-2009
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+WikiLanguageSaver (comments)
+07-Apr-2009
+Rejected
+Wikipol (comments)
+21-Feb-2009
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Restoration.wikimedia.org (comments)
+25-Jan-2009
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Move Wikipedia (comments)
+12-Jan-2009
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Wikiblogs (comments)
+02-Jan-2009
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Victims of Soviet Repressions Memorial (comments)
+24-Dec-2008
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Wikisongs (comments)
+03-Dec-2008
+Rejected
+Essentialpedia (comments)
+22-Oct-2008
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Wikiwine (comments)
+02-Sep-2008
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Global infocalypse (comments)
+14-Jul-2008
+Rejected
+Wikiversity for real universities (comments)
+07-Jan-2008
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Wikidata/Archive/Wikidata (2) (comments)
+06-Nov-2007
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+WikiProgramming (comments)
+02-Nov-2007
+Rejected
+Wikilinguistica (comments)
+24-Oct-2007
+Rejected
+WikiTrivia (comments)
+07-Sep-2007
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Wikicracy (comments)
+08-Aug-2007
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Wikilingo (comments)
+24-May-2007
+Rejected
+Wikidioma (comments)
+13-Apr-2007
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+WikiRadio (comments)
+19-Mar-2007
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Wikinvironment (comments)
+14-Mar-2007
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+WikiCode (comments)
+30-Dec-2006
+Rejected
+WikiAbridge (comments)
+13-Dec-2006
+Rejected
+Lookup directory wiki (comments)
+05-Nov-2006
+Rejected
+WikiEnergy (comments)
+22-Oct-2006
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Wikshelf (comments)
+18-Oct-2006
+Rejected
+Wikibot (comments)
+24-Aug-2006
+Rejected
+Wikisearch (comments)
+18-Aug-2006
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+WikiScholar (comments)
+05-Aug-2006
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Medical dictionary wiki (comments)
+17-Jun-2006
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Wikicorpus (comments)
+29-May-2006
+Rejected
+WikiBrain (comments)
+26-May-2006
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+WikiFieldGuides (comments)
+25-May-2006
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Wikihistory (comments)
+12-May-2006
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+WikiLogic (comments)
+20-Apr-2006
+Rejected
+Wikiepic (comments)
+10-Feb-2006
+Rejected
+Wikimusic II (comments)
+12-Dec-2005
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Wikipedia Comparison Challenges (comments)
+05-Dec-2005
+Procedurally closed
+Wikicite (metadata proposal) (comments)
+06-Nov-2005
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Wikiventory (comments)
+16-Oct-2005
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+WikiRef (comments)
+12-Oct-2005
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Wikilocal (comments)
+24-Jul-2005
+Procedurally closed
+1911wikipedia (comments)
+22-May-2005
+Approved
+Wikicite (2006 proposal) (comments)
+29-Jan-2005
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Wikinac (comments)
+24-Jan-2005
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Wikireason (comments)
+29-Dec-2004
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Wikilaw (comments)
+18-Dec-2004
+Rejected
+WikiScores (comments)
+22-Sep-2004
+Rejected
+Share your ideas (comments)
+06-Sep-2004
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Academics (comments)
+22-Jul-2004
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+WikiResearch (comments)
+20-Apr-2004
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Gnutella (comments)
+08-Mar-2004
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Slotipedia - A Proposal (comments)
+26-Jul-2002
+Rejected
+Wikipedia cloning project (comments)
+25-Jan-2002
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Wikipedia Virtual Mind (comments)
+11-Nov-2001
+Closed as part of a reform of the request process. (Could be re-opened under new policy)
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Proposals_for_new_projects&oldid=25516580"
+Categories: ProposalsProposed projects
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Content pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+In other languages
+Add links
+ This page was last edited on 25 August 2023, at 21:47.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

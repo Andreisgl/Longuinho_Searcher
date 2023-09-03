@@ -1,0 +1,126 @@
+FLOSS and FOSS - GNU Project - Free Software Foundation
+225 captures
+23 Dec 2013 - 04 Aug 2023
+Aug
+SEP
+Nov
+16
+2017
+2018
+2019
+success
+fail
+ About this capture
+COLLECTED BY
+Organization: Archive Team
+ Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+The main site for Archive Team is at archiveteam.org and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the Wayback Machine, providing a path back to lost websites and work. 
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+The Archive Team Panic Downloads are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+Collection: ArchiveBot: The Archive Team Crowdsourced Crawler
+  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+There is a dashboard running for the archivebot process at http://www.archivebot.com.
+ArchiveBot's source code can be found at https://github.com/ArchiveTeam/ArchiveBot.
+TIMESTAMPS
+The Wayback Machine - http://web.archive.org/web/20180916040800/https://www.gnu.org/philosophy/floss-and-foss.en.html
+Skip to main text
+ Set language
+ 
+ 
+English [en]  
+Deutsch [de]  
+français [fr]  
+italiano [it]  
+മലയാളം [ml]  
+Nederlands [nl]  
+polski [pl]  
+русский [ru]  
+українська [uk]  
+JOIN THE FSF
+Free Software Supporter
+GNU Operating System
+Sponsored by the Free Software Foundation
+ABOUT GNU
+=
+PHILOSOPHY
+=
+LICENSES
+EDUCATION
+SOFTWARE
+DOCUMENTATION
+HELP GNU
+FLOSS and FOSS
+by Richard Stallman
+The two political camps in the free software community are the free
+software movement and open source.  The free software movement is a
+campaign
+for 
+computer users' freedom; we say that a nonfree program is an
+injustice to its users.  The open source camp declines to see the
+issue as a matter of justice to the users, and bases its arguments on
+ practical
+benefits only.
+To emphasize that “free software” refers to freedom and
+not to price, we sometimes write or say “free (libre)
+software,” adding the French or Spanish word that means free in
+the sense of freedom.  In some contexts, it works to use just
+“libre software.”
+A researcher studying practices and methods used by developers in
+the free software community decided that these questions were
+independent of the developers' political views, so he used the term
+“FLOSS,” meaning “Free/Libre and Open Source
+Software,” to explicitly avoid a preference between the two
+political camps.  If you wish to be neutral, this is a good way to do
+it, since this makes the names of the two camps equally prominent.
+Others use the term “FOSS,” which stands for
+“Free and Open Source Software.” This is meant to mean the
+same thing as “FLOSS,” but it is less clear, since it
+fails to explain that “free” refers to freedom.
+It also makes “free software” less visible than
+“open source,” since it presents “open source”
+prominently but splits “free software” apart.
+“Free and Open Source Software” is misleading in
+another way: it suggests that “free and open source” names
+a single point of view, rather than mentioning two different ones.
+This conceptualization of the field is an obstacle to understanding
+the fact that free software and open source are different political
+positions that disagree fundamentally.
+Thus, if you want to be neutral between free software and open
+source, and clear about them, the way to achieve that is to say
+“FLOSS,” not “FOSS.”
+We in the free software movement don't use either of these terms,
+because we don't want to be neutral on the political question.  We
+stand for freedom, and we show it every time—by saying
+“free” and “libre”— or “free
+(libre)”.
+BACK TO TOP
+FSF
+FREE SOFTWARE DIRECTORY
+HARDWARE
+GNU ART
+GNU'S WHO?
+SITE MAP
+“The Free Software Foundation (FSF) is a nonprofit with a worldwide
+mission to promote computer user freedom. We defend the rights of all
+software users.”
+The Free Software Foundation is
+the principal organizational sponsor of the GNU Operating System.
+Support GNU and the FSF by buying manuals and gear, 
+joining the FSF as an associate member, or making a donation.
+Please send general FSF & GNU inquiries to
+<gnu@gnu.org>.
+There are also other ways to contact
+the FSF.  Broken links and other corrections or suggestions can be sent
+to <webmasters@gnu.org>.
+Please see the Translations
+README for information on coordinating and submitting translations
+of this article.
+Copyright © 2013, 2015, 2016 Richard Stallman
+This page is licensed under a Creative
+Commons Attribution-NoDerivatives 4.0 International License.
+Copyright Infringement Notification
+Updated:
+$Date: 2016/11/18 06:31:40 $

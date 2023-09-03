@@ -1,0 +1,129 @@
+Mobile Beta: a sandbox for new experimental features – Diff
+ 
+Skip to content
+ 
+Diff
+Categories
+Equity & Inclusion
+Education & Open Access
+Technology
+Partnerships & Events
+Policy & Advocacy
+Movement Strategy
+About
+Submit
+Calendar
+Wikimania 2023
+ 
+Choose a language
+English
+Search 
+Mobile Beta: a sandbox for new experimental features 
+11 January 2013 by Maryana Pinchuk, Principal Product Manager, Wikimedia Foundation 
+Translate This Post
+The Ellora Caves in India – uploaded via mobile!
+In the fall of 2012, the Wikimedia Foundation’s mobile team released a new interface to Wikimedia mobile sites, adding a navigation layer that allows for easy opting-in to our experimental Beta site.
+We created the Beta site as a prototyping area to house early work on features that could help us meet our goals for 2012–2013, which are to get 1,000 mobile users to upload a file to a Wikimedia project every month, and to explore mobile editing and other contributions to the encyclopedia. The Beta site is giving us room to unleash the full creativity of our engineers and designers without disrupting the user experience for millions of readers.
+Since the release of the new interface, the number of users opting into Beta has increased dramatically—we now have over 100,000 Beta users and climbing! If you’re one of our Beta users and you’ve signed up for a free account on Wikipedia or a sister project, you’ll see the following prototypes live and ready for testing:
+Photo uploads. With the help of volunteer developers at the Bangalore hackathon and inspired by the Wiki Loves Monuments initiative, we’ve made it fast and easy to add an image to a Wikipedia article directly from your image library or the camera on your mobile device. Just look for the call to action at the top of articles that lack images in the lead section. Not only will you be illustrating the encyclopedia, you’ll also be donating your image to Wikimedia Commons under a free license, where it can be shared and reused by anyone in the world for free.
+Editing. Our goal for editing on mobile this year was to begin experimenting with a mobile editing interface for small, on-the-go contributions, like correcting typos or removing vandalism, and we’ve released a section-level editor on Beta that allows for that. In the future, we’ll be working to make editing more fine-grained, as well as optimizing the interface, so that it’s easier to input text on a smaller screen.
+Watchlists. The watchlist—a feed of recent changes to articles that a user chooses to “watch”—is vital to the health of Wikipedia content. It’s how experienced editors track changes to the pages and discussions they care about, and it helps keep vandalism and spam at bay. We’re trying out ways to serve this need for our current editors on mobile. We’re also experimenting with a watchlist view for new editors who may not be familiar with the feature, which presents the user with an engaging entry point into articles and highlights their continually evolving nature.
+If you don’t have a Wikipedia account, create one on desktop or mobile and give these features a try! Just be aware that, as with all things Beta, features are prone to rapid change as we work to fix bugs and optimize the user experience.
+In the coming months, we’ll be running user tests and collecting data on feature usage to help us figure out what’s working and what’s not. Ultimately, we aim to identify and promote the most promising experiments to the main mobile gateway and/or create apps that focus on specific contribution funnels. Our goal for the long term is to give potential and new editors the opportunity not just to read Wikipedia, but to take an active part in its continued growth.
+Maryana Pinchuk, Associate Product Manager
+Archive notice: This is an archived post from blog.wikimedia.org, which operated under different editorial and content guidelines than Diff.
+ 
+Can you help us translate this article?
+In order for this article to reach as many people as possible we would like your help. Can you translate this article to get the message out?
+Start translation
+Related
+ 
+3 Comments                    
+ Inline Feedbacks
+View all comments
+ 
+
+    minhtuanvn
+
+    10 years ago
+#19183
+Our goal for the long term is to give potential and new editors the opportunity not just to read Wikipedia, but to take an active part in its continued growth.
+0
+
+    Leigh Blackall
+
+    10 years ago
+#19184
+“In the fall of 2012”
+I love what you’re doing, and the blog is keeping me informed beautifully, but for an international, multicultural organisation, these minor slip ups really grate.
+Calendar dates, UTC, actively working outside San Francisco more than in it, and remembering that there is a Southern Hemisphere, or climates and bio spheres that have no idea what “Fall” or Autumn actually is, would help keep everyone reassured that you’re not really just a parochial American imperial, do good, globalist campaign, with “manifest destiny” written inside their shirt pockets, and laptop lids.
+0
+
+    Hoianuong
+
+    10 years ago
+#19185
+If you don’t have a Wikipedia account, create one on desktop or mobile and give these features a try! Just be aware that, as with all things Beta, features are prone to rapid change as we work to fix bugs and optimize the user experience.
+0
+ 
+Meta
+Posted in Editor Retention, MobileTagged Wikimedia Blog (EN Archive) 
+Related
+ 
+Welcome to Diff
+Welcome to Diff, a community blog by – and for – the Wikimedia movement. Join Diff today to share stories from your community and comment on articles. We want to hear your voice!
+Learn more
+Subscribe to Diff via Email
+Enter your email address to subscribe to Diff and receive notifications of new posts by email.
+Email Address
+Subscribe
+ 
+Upcoming Events
+Sep
+15
+15 September @ 10:00 - 17 September @ 17:00  UTC  
+Wikimedia CEE Meeting 2023
+Organizer: 
+Wikimedia Georgia
+Oct
+6
+15:00 - 16:00  UTC  
+Event Series
+Let’s Connect Connectathon
+Organizer: 
+Let's Connect working group
+Oct
+20
+20 October @ 03:30 - 22 October @ 10:30  UTC  
+WikiWomenCamp 2023
+Organizer: 
+Chinmayee Mishra & Manavpreet Kaur
+View Calendar
+Wikimedia News
+Wikimedia Foundation News
+Wikimania 2023 in Singapore centers on diversity, collaboration, and the future of free knowledge10 August 2023 by Wikimedia Foundation
+Wikimedia Technology Blog
+Flame graphs arrive in WikimediaDebug8 June 2023 by Timo Tijhof
+Down the Rabbit Hole
+Wikipedia’s value in the age of generative AI12 July 2023 by Selena Deckelmann
+ 
+Diff This is Diff, a Wikimedia community blog.
+All participants are responsible for building a place that is welcoming and friendly to everyone. Learn more about Diff.
+A Wikimedia Foundation Project
+Links 
+Join
+Subscribe
+Guidelines
+Editorial guidelines
+Privacy Policy
+Terms of Use
+Log in
+Content licensed under Creative Commons Attribution-ShareAlike 4.0 (CC-BY-SA) unless otherwise noted.
+Powered by WordPress.com VIP, Automattic Privacy Notice. 
+wpDiscuzInsert 
+  Report this comment
+This comment is spam 
+This comment is a violation of the Code of Conduct 
+Other 
+Send
+You are going to send email to SendMove CommentMove

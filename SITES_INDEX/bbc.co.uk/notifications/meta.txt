@@ -1,0 +1,3 @@
+URL\https://account.bbc.com/signin?realm=%2F&clientId=Account&action=sign-in&context=international&lang=ar-SA&ptrt=https%3A%2F%2Fwww.bbc.co.uk%2Fnotifications&isCasso=false&redirectUri=https%3A%2F%2Fsession.bbc.co.uk%2Fsession%2Fcallback%3Frealm%3D%2F&service=IdSignInService&nonce=2hu4Zd3M-HaCnRlMFSAF9Hs9_ajMsNr7jVgA
+DATEINDEXEDLOCAL\2023-09-01 00:09 Hora oficial do Brasil
+DATEINDEXEDGMT\2023-09-01 03:09

@@ -1,0 +1,12 @@
+https://bugzilla.wikimedia.org/show_bug.cgi?id=27094
+https://bugzilla.wikimedia.org/show_bug.cgi?id=27093
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_16_2/phase3/RELEASE-NOTES
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.2.tar.gz
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.2.patch.gz
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-i18n-1.16.2.patch.gz
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.2.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.2.patch.gz.sig
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-i18n-1.16.2.patch.gz.sig
+https://secure.wikimedia.org/keys.html
+http://enigmail.mozdev.org/
+https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce

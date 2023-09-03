@@ -1,0 +1,350 @@
+DAX — Wikipédia
+Aller au contenu
+Menu principal
+Menu principal
+déplacer vers la barre latérale
+masquer
+Navigation
+AccueilPortails thématiquesArticle au hasardContact
+Contribuer
+Débuter sur WikipédiaAideCommunautéModifications récentesFaire un don
+Langues
+Sur cette version linguistique de Wikipédia, les liens interlangues sont placés en haut à droite du titre de l’article.Aller en haut.
+Rechercher
+Rechercher
+Créer un compteSe connecter
+Outils personnels
+ Créer un compte Se connecter
+Pages pour les contributeurs déconnectés en savoir plus
+ContributionsDiscussion
+Sommaire
+déplacer vers la barre latérale
+masquer
+Début
+1Histoire
+2Modes de calcul
+3Composition
+4Voir aussi
+Afficher / masquer la sous-section Voir aussi
+4.1Articles connexes
+4.2Liens externes
+5Références
+Basculer la table des matières
+Basculer la table des matières
+DAX
+51 langues
+AfrikaansالعربيةAsturianuAzərbaycancaБеларускаяБългарскиCatalàČeštinaCymraegDanskDeutschΕλληνικάEnglishEspañolEestiفارسیSuomiעבריתहिन्दीHrvatskiMagyarՀայերենBahasa IndonesiaÍslenskaItaliano日本語한국어КыргызчаLatinaLietuviųLatviešuBahasa MelayuNederlandsNorsk nynorskNorsk bokmålPolskiPortuguêsRomânăРусскийSimple EnglishSlovenčinaSlovenščinaСрпски / srpskiSvenskaTürkçeУкраїнськаOʻzbekcha / ўзбекчаTiếng Việt吴语中文粵語
+Modifier les liens
+ArticleDiscussion
+français
+LireModifierModifier le codeVoir l’historique
+Outils
+Outils
+déplacer vers la barre latérale
+masquer
+Actions
+LireModifierModifier le codeVoir l’historique
+Général
+Pages liéesSuivi des pages liéesTéléverser un fichierPages spécialesLien permanentInformations sur la pageCiter cette pageÉlément Wikidata
+Imprimer / exporter
+Créer un livreTélécharger comme PDFVersion imprimable
+Dans d’autres projets
+Wikimedia Commons
+Un article de Wikipédia, l'encyclopédie libre.
+Pour les articles homonymes, voir Dax (homonymie).
+(La composition de l'indice n'est pas à jour)Logo
+Cours du DAX de 1960 à 2010
+Les sièges des entreprises du DAX
+Le DAX ou Deutscher AktienindeX est le principal indice boursier allemand.
+Sa valeur représente le cours des actions des 40 plus grandes entreprises cotées à la Bourse de Francfort (Francfort-sur-le-Main). C'est un indice avec dividendes réinvestis.
+Le cours des actions est tiré du système de trading électronique Xetra. Selon Deutsche Börse, opérateur de Xetra, le DAX mesure la performance des sociétés allemandes les plus importantes en matière de volume de transactions et de capitalisation boursière.
+L'indice est équivalent au FT 30, au Dow Jones ou au CAC 40 et, en raison du nombre limité de titres qu'il contient, ne représente pas nécessairement la vitalité de l'économie allemande dans son ensemble.
+Histoire[modifier | modifier le code]
+Sa valeur de base est de 1000 points et il est publié de façon officielle depuis 1988.
+Le 20 septembre 2021, le DAX a été élargi de 30 à 40 actions [1] (comme dans le CAC français). Des valeurs phares de l'industrie allemande font leur entrée dans l'indice, comme Airbus, Zalando, Porsche.
+Modes de calcul[modifier | modifier le code]
+L'indice DAX classique est calculé avec dividendes ré-investis. 
+En fait, la Bourse de Francfort publie deux indices DAX (sans compter les indices DAX sectoriels[2]) :
+Le DAX TR[3] est le plus utilisé. TR correspond à Total Return en Anglais (Performance en Allemand). Son calcul prend en compte les dividendes versés par les entreprises composant l'indice. Son code ISIN est le DE0008469008.
+Le DAX PR [4] est très peu connu. PR correspond à Price en Anglais (Preis en Allemand). Son calcul est similaire à celui du CAC 40, c'est-à-dire que les dividendes ne sont pas inclus. Son code ISIN est le DE0008467440.
+La comparaison avec le CAC 40 doit donc se faire avec le DAX Price car ils ont le même mode de calcul. On peut aussi comparer le DAX TR avec son homologue français, le CAC 40 GR, qui inclut les dividendes réinvestis. L'intégration des dividendes dans un indice a une conséquence significative, notamment sur le long terme[5]. Cette différence sur le mode de calcul est régulièrement omise lors d'une comparaison historique des deux indices[6].
+Composition[modifier | modifier le code]
+Société
+Secteur d'activité
+Poids dans l'indice (%)
+Adidas
+Industrie textile
+1.22
+Allianz
+Assurance
+7.34
+BASF
+Industrie chimique
+5.62
+Bayer AG
+Industrie pharmaceutique
+7.06
+Beiersdorf
+Cosmétique
+0.75
+BMW
+Constructeur automobile
+1.63
+Commerzbank
+Banque
+0.96
+Daimler
+Constructeur automobile
+5.37
+Deutsche Bank
+Banque
+3.53
+Deutsche Börse
+Service boursier
+2.44
+Deutsche Lufthansa
+Compagnie aérienne
+1.13
+Deutsche Post
+Service postier
+2.22
+Deutsche Postbank
+Banque
+0.23
+Deutsche Telekom
+Télécommunication
+7.39
+E.ON
+Électricité et Eau
+1.37
+Fresenius Medical Care
+Industrie pharmaceutique
+1.43
+Henkel
+Produits de grande consommation
+0.93
+Infineon
+Semi-conducteur
+0.11
+K+S
+Industrie chimique
+1.14
+Linde
+Ingénierie
+2.26
+MAN
+Constructeur de poids lourds
+0.82
+Merck
+Industrie pharmaceutique
+0.90
+Metro
+Distribution
+0.72
+Munich Re
+Ré-assurance
+5.08
+RWE
+Électricité et eau
+5.73
+Salzgitter
+Métallurgie
+0.42
+SAP
+Informatique
+5.08
+Siemens
+Conglomérat d'ingénierie
+9.83
+ThyssenKrupp
+Industries diversifiées
+1.38
+Volkswagen Group
+Constructeur automobile
+7.28
+Voir aussi[modifier | modifier le code]
+Articles connexes[modifier | modifier le code]
+MDAX
+HDAX
+SDAX
+TecDAX
+ÖkoDAX
+Liens externes[modifier | modifier le code]
+Composition officielle de l'indice
+(fr) Cours du DAX sur ADVFN
+DAX MOBILE
+Références[modifier | modifier le code]
+↑ Nathalie Steiwer, « Bourse : Le Dax allemand intègre dix nouvelles valeurs », sur Les Echos, 4 septembre 2021
+↑ http://www.dax-indices.com/EN/index.aspx?pageID=15
+↑ DAX TR
+↑ DAX PR
+↑ Comparaison des indices DAX Total Return (Performance) en bleu et DAX Price en rouge sur les dix dernières années
+↑ « L’indice CAC 40 GR dépasse l’indice allemand DAX », sur apache-www-1558346029.prod.cloud.bforbank.com (consulté le 12 août 2019)
+v · m Entreprises du Deutscher AktienindeX (31 août 2022)
+ 
+Adidas
+Airbus
+Allianz
+BASF
+Bayer
+Beiersdorf
+Brenntag (de)
+BMW
+Continental
+Covestro
+Daimler Truck
+Deutsche Bank
+Deutsche Börse
+Deutsche Post
+Deutsche Telekom
+E.ON
+Fresenius
+Fresenius Medical Care
+Hannover Re
+Heidelberg Materials
+HelloFresh (de)
+Henkel
+Infineon
+Linde
+Mercedes-Benz Group
+Merck
+MTU Aero Engines
+Munich Re
+Porsche SE
+Puma
+Qiagen
+RWE
+SAP
+Sartorius
+Siemens
+Siemens Healthineers
+Symrise
+Volkswagen
+Vonovia
+Zalando
+ 
+MDAX, SDAX et TecDAX
+v · mPrincipaux indices boursiers dans le monde
+ 
+Afrique
+FTSE/JSE Afrique Top 40 (Afrique du Sud)
+Dzair Index (Algérie)
+Botswana Gaborone Index (Botswana)
+BRVM Composite (Côte d'Ivoire)
+EGX 30 (Égypte)
+GSE Composite Index (Ghana)
+NSE All Share (Kenya)
+Moroccan All Shares Index (Maroc)
+SEMDEX (Maurice)
+FTSE Namibia Overall (Namibie)
+Nigeria Stock Exchange All Share (Nigeria)
+Tanzania All Share (Tanzanie)
+Tunindex (Tunisie)
+Indice Zimbabwe Industrial (Zimbabwe)
+ 
+Amérique
+Merval (Argentine)
+Bermuda Stock Exchange Index (Bermudes)
+Indice Bovespa (Brésil)
+S&P/TSX (Canada)
+IPSA (Chili)
+COLCAP (Colombie)
+BCT (Costa Rica)
+S&P 500, Dow Jones Industrial Average, NASDAQ (États-Unis)
+Jamaica Stock Exchange Market Index (Jamaïque)
+IPC (Mexique)
+Bolsa de Panama General (Panama)
+IGBVL (Pérou)
+Trinidad and Tobago Composite (Trinité-et-Tobago)
+IBVC (Venezuela)
+ 
+Asie
+Tadawul (Arabie saoudite)
+BB All Share Index (Bahreïn)
+DGEN (Bangladesh)
+SSE Composite Index, CSI 300 (Chine)
+Kospi (Corée du Sud)
+ADX General Index (Émirats arabes unis)
+Hang Seng Index (Hong Kong)
+Nifty (Inde)
+IHSG (Indonésie)
+Tepix (Iran)
+TA-25 (Israël)
+Nikkei 225 (Japon)
+ASE Weighted Index (Jordanie)
+KASE (Kazakhstan)
+Kuwait SE Weighted Index (Koweït)
+Laos Composite (Laos)
+KLCI (Malaisie)
+MSE Top 20 (Mongolie)
+MSM-30 (Oman)
+KSE 100 (Pakistan)
+Indice Al Quds (État de Palestine)
+DSM-20 (Qatar)
+Straits Times Index (Singapour)
+Sri Lanka Colombo All Share (Sri Lanka)
+Taiwan Capitalization Weighted Stock Index (Taïwan)
+SET50 Index (Thaïlande)
+HNX (Viêt Nam)
+ 
+Europe
+DAX (Allemagne)
+Austrian Traded Index (Autriche)
+BEL20 (Belgique)
+BIRS (Bosnie-Herzégovine)
+SOFIX (Bulgarie)
+CySE General (Chypre)
+CROBEX (Croatie)
+OMX Copenhagen 25 (Danemark)
+Ibex 35 (Espagne)
+OMX Tallinn (Estonie)
+CAC 40 (France)
+OMX Helsinki (Finlande)
+FTSE/Athex Large Cap (Grèce)
+BUX (Hongrie)
+ISEQ 20 (Irlande)
+OMX Islande All Share (Islande)
+FTSE MIB (Italie)
+OMX Riga (Lettonie)
+NASDAQ OMX Vilnius (Lituanie)
+LuxX (Luxembourg)
+MBI 10 (Macédoine)
+Indice de la Bourse de Malte (Malte)
+EVM Composite index (Moldavie)
+MOSTE (Monténégro)
+OBX (Norvège)
+AEX (Pays-Bas)
+WIG 20 (Pologne)
+PSI 20 (Portugal)
+PX (République tchèque)
+BET-10 (Roumanie)
+FTSE 100 (Royaume-Uni)
+MICEX (Russie)
+BELEX15 (Serbie)
+SAX (Slovaquie)
+SBI TOP (Slovénie)
+OMX Stockholm 30 (Suède)
+Swiss Market Index (Suisse)
+ISE-100 (Turquie)
+PFTS (Ukraine)
+ 
+Océanie
+S&P/ASX 50 (Australie)
+NZSX50 (Nouvelle-Zélande)
+ 
+ Portail de l’économie   Portail de la finance   Portail de l’Allemagne  
+Ce document provient de « https://fr.wikipedia.org/w/index.php?title=DAX&oldid=206440649 ».
+Catégories : Indice boursierÉconomie en AllemagneIndice avec dividendes réinvestisCatégories cachées : Article contenant un appel à traduction en allemandPortail:Économie/Articles liésPortail:Société/Articles liésPortail:Finance/Articles liésPortail:Allemagne/Articles liésPortail:Europe/Articles liés
+ La dernière modification de cette page a été faite le 28 juillet 2023 à 17:56.
+Droit d'auteur : les textes sont disponibles sous licence Creative Commons attribution, partage dans les mêmes conditions ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
+Politique de confidentialité
+À propos de Wikipédia
+Avertissements
+Contact
+Code de conduite
+Version mobile
+Développeurs
+Statistiques
+Déclaration sur les témoins (cookies)
+Activer ou désactiver la limitation de largeur du contenu

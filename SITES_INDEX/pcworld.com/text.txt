@@ -1,0 +1,275 @@
+10 Reasons Open Source Is Good for Business | PCWorld
+ 
+ 
+News
+Accessories
+Business
+Entertainment
+Gaming
+Laptops
+Mobile
+PCs & Components
+Security
+Smart Tech
+Software
+Wi-Fi & Networks
+Windows
+Best Picks
+Accessories
+Business
+Entertainment
+Gaming
+Laptops
+Mobile
+PCs & Components
+Security
+Smart Tech
+Software
+Wi-Fi & Networks
+Windows
+Reviews
+Accessories
+Business
+Entertainment
+Gaming
+Laptops
+Mobile
+PCs & Components
+Security
+Smart Tech
+Software
+Wi-Fi & Networks
+Windows
+How-To
+Accessories
+Business
+Entertainment
+Gaming
+Laptops
+Mobile
+PCs & Components
+Security
+Smart Tech
+Software
+Wi-Fi & Networks
+Windows
+Deals
+All Deals
+Coupon Codes
+All Coupon Codes
+eBay Coupon
+HP Coupon Code
+OnePlus Coupon
+Samsung Promo Code
+Microsoft Coupon
+Dell Coupon Code
+Motley Fool Discount
+GoPro Promo Code
+Starz Promo Code
+AT&T Wireless Promo Code
+Black Friday 2021 Coupons
+Cyber Monday 2021 Coupons
+Laptops
+Windows
+Security
+More
+Accessories
+Business
+Entertainment
+Gaming
+Mobile
+PCs & Components
+Smart Tech
+Software
+Wi-Fi & Networks
+Newsletters
+Digital Magazine – Subscribe
+Digital Magazine – Log in
+ 
+Skip to content
+Menu
+ 
+ 
+News
+Accessories
+Business
+Entertainment
+Gaming
+Laptops
+Mobile
+PCs & Components
+Security
+Smart Tech
+Software
+Wi-Fi & Networks
+Windows
+Best Picks
+Accessories
+Business
+Entertainment
+Gaming
+Laptops
+Mobile
+PCs & Components
+Security
+Smart Tech
+Software
+Wi-Fi & Networks
+Windows
+Reviews
+Accessories
+Business
+Entertainment
+Gaming
+Laptops
+Mobile
+PCs & Components
+Security
+Smart Tech
+Software
+Wi-Fi & Networks
+Windows
+How-To
+Accessories
+Business
+Entertainment
+Gaming
+Laptops
+Mobile
+PCs & Components
+Security
+Smart Tech
+Software
+Wi-Fi & Networks
+Windows
+Deals
+All Deals
+Coupon Codes
+All Coupon Codes
+eBay Coupon
+HP Coupon Code
+OnePlus Coupon
+Samsung Promo Code
+Microsoft Coupon
+Dell Coupon Code
+Motley Fool Discount
+GoPro Promo Code
+Starz Promo Code
+AT&T Wireless Promo Code
+Black Friday 2021 Coupons
+Cyber Monday 2021 Coupons
+Laptops
+Windows
+Security
+More
+Accessories
+Business
+Entertainment
+Gaming
+Mobile
+PCs & Components
+Smart Tech
+Software
+Wi-Fi & Networks
+Newsletters
+Digital Magazine – Subscribe
+Digital Magazine – Log in
+ 
+ 
+ 
+Type your search and hit enter
+Hot Topics
+Best laptops
+Best laptops for college
+Laptop deals
+Desktop PC deals
+Best SSDs
+Best monitors
+ 
+ 
+ 
+ 
+ 
+When you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence.
+Home / Software / News 
+Linux Line
+10 Reasons Open Source Is Good for Business 
+Linux Line
+ By Katherine Noyes,    PCWorld Nov 5, 2010 1:00 pm PDT 
+With the many business and government organizations that now use open source software such as Linux, it’s becoming increasingly clear that price is not the only advantage such software holds. If it were, companies that adopted it during the Great Recession would surely have switched back to the expensive proprietary stuff as soon as conditions began to ease, and that’s clearly not the case.
+Rather, free and open source software (FOSS) holds numerous other compelling advantages for businesses, some of them even more valuable than the software’s low price. Need a few examples? Let’s start counting.
+1. Security
+It’s hard to think of a better testament to the superior security of open source software than the recent discovery by Coverity of a number of defects in the Android kernel. What’s so encouraging about this discovery, as I noted the other day, is that the only reason it was possible is that the kernel code is open to public view.
+Android may not be fully open source, but the example is still a perfect illustration of what’s known as “Linus’ Law,” named for Linus Torvalds, the creator of Linux. According to that maxim, “Given enough eyeballs, all bugs are shallow.” What that means is that the more people who can see and test a set of code, the more likely any flaws will be caught and fixed quickly. It’s essentially the polar opposite of the “security through obscurity” argument used so often to justify the use of expensive proprietary products, in other words.
+Does the absence of such flaw reports about the code of the iPhone or Windows mean that such products are more secure? Far from it–quite the opposite, you might even say.
+All it means is that those products are closed from public view, so no one outside the companies that own them has the faintest clue how many bugs they contain. And there’s no way the limited set of developers and testers within those companies can test their products as well as the worldwide community constantly scrutinizing FOSS can.
+Bugs in open source software also tend to get fixed immediately, as in the case of the Linux kernel exploit uncovered not long ago.
+In the proprietary world? Not so much. Microsoft, for example, typically takes weeks if not months to patch vulnerabilities such as the recently discovered Internet Explorer zero-day flaw. Good luck to all the businesses using it in the meantime.
+2. Quality
+Which is more likely to be better: a software package created by a handful of developers, or a software package created by thousands of developers? Just as there are countless developers and users working to improve the security of open source software, so are there just as many innovating new features and enhancements to those products.
+In general, open source software gets closest to what users want because those users can have a hand in making it so. It’s not a matter of the vendor giving users what it thinks they want–users and developers make what they want, and they make it well. At least one recent study has shown, in fact, that technical superiority is typically the primary reason enterprises choose open source software.
+3. Customizability
+Along similar lines, business users can take a piece of open source software and tweak it to suit their needs. Since the code is open, it’s simply a matter of modifying it to add the functionality they want. Don’t try that with proprietary software!
+4. Freedom
+When businesses turn to open source software, they free themselves from the severe vendor lock-in that can afflict users of proprietary packages. Customers of such vendors are at the mercy of the vendor’s vision, requirements, dictates, prices, priorities and timetable, and that limits what they can do with the products they’re paying for.
+With FOSS, on the other hand, users are in control to make their own decisions and to do what they want with the software. They also have a worldwide community of developers and users at their disposal for help with that.
+5. Flexibility
+When your business uses proprietary software such as Microsoft Windows and Office, you are on a treadmill that requires you to keep upgrading both software and hardware ad infinitum. Open source software, on the other hand, is typically much less resource-intensive, meaning that you can run it well even on older hardware. It’s up to you–not some vendor–to decide when it’s time to upgrade.
+6. Interoperability
+Open source software is much better at adhering to open standards than proprietary software is. If you value interoperability with other businesses, computers and users, and don’t want to be limited by proprietary data formats, open source software is definitely the way to go.
+7. Auditability
+With closed source software, you have nothing but the vendor’s claims telling you that they’re keeping the software secure and adhering to standards, for example. It’s basically a leap of faith. The visibility of the code behind open source software, however, means you can see for yourself and be confident.
+8. Support Options
+Open source software is generally free, and so is a world of support through the vibrant communities surrounding each piece of software. Most every Linux distribution, for instance, has an online community with excellent documentation, forums, mailing lists, forges, wikis, newsgroups and even live support chat.
+For businesses that want extra assurance, there are now paid support options on most open source packages at prices that still fall far below what most proprietary vendors will charge. Providers of commercial support for open source software tend to be more responsive, too, since support is where their revenue is focused.
+9. Cost
+Between the purchase price of the software itself, the exorbitant cost of mandatory virus protection, support charges, ongoing upgrade expenses and the costs associated with being locked in, proprietary software takes more out of your business than you probably even realize. And for what? You can get better quality at a fraction of the price.
+10. Try Before You Buy
+If you’re considering using open source software, it will typically cost you nothing to try it out first. This is partly due to the software’s free price, and partly due to the existence of LiveCDs and Live USBs for many Linux distributions, for example. No commitment required until you’re sure.
+None of this is to say, of course, that your business should necessarily use open source software for everything. But with all the many benefits it holds, you’d be remiss not to consider it seriously.
+Follow Katherine Noyes on Twitter: @Noyesk.
+ 
+ 
+Coupon Codes Dell Outlet CouponsUp to 50% Off Dell Outlet Coupon Codes 2023Western Digital CouponStudents’ Coupon Code- Save 15%Microsoft Store couponMicrosoft Store Coupon - Extra 10% Off Sitewide (Education Discount)Cheapoair Promo CodeScore up to $21 off CheapOair promo codeOneTravel promo codeSave $30 on Canada flights - OneTravel discount codeCCleaner CouponCCleaner Professional Plus Coupon Code for 39% off 
+ 
+PCWorld helps you navigate the PC ecosystem to find the products you want and the advice you need to get the job done.
+ 
+ 
+ 
+ 
+Policies
+Privacy Policy
+Cookie Policy
+European Privacy Settings
+Member Preferences
+Editorial independence
+Licensing & Eprints
+California: Do not Sell my Personal Info
+About
+About Us
+Advertise
+Ad Choice
+Contact Us
+Foundry Careers
+GamePro
+Smart Answers
+ 
+PCWorld Categories 
+Business
+Laptop
+Mobile
+PC Hardware
+Deals 
+Subscribe 
+Digital Magazine - Subscribe
+Manage Subscription
+Gift Subscription
+Newsletters 
+ 
+Copyright © 2023 IDG Communications, Inc. 
+Explore the Foundry Network +
+Tech AdvisorTech HiveMacworld 
+Top Of Page
+Do Not Sell My Info
+Privacy Settings
+ 

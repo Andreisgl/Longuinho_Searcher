@@ -1,0 +1,214 @@
+Wiktionary:News for editors - Wiktionary, the free dictionary
+Wiktionary:News for editors
+From Wiktionary, the free dictionary
+Jump to navigation
+Jump to search
+Archive
+2007–2017
+Shortcuts:WT:N4EWT:NFE
+Contents
+1 2023
+1.1 March 2023
+1.2 February 2023
+1.3 January 2023
+1.3.1 Unicode Proposals
+2 2022
+2.1 December 2022
+2.2 November 2022
+2.3 October 2022
+2.4 September 2022
+2.5 August 2022
+2.6 July 2022
+2.7 June 2022
+2.8 April 2022
+2.9 January 2022
+3 2021
+3.1 September 2021
+3.2 August 2021
+3.3 June 2021
+4 2020
+4.1 August 2020
+4.2 April 2020
+4.3 March 2020
+4.4 January 2020
+5 2019
+5.1 December 2019
+5.2 November 2019
+5.3 October 2019
+5.4 June 2019
+5.5 May 2019
+5.6 April 2019
+5.7 March 2019
+5.8 February 2019
+6 2018
+6.1 December 2018
+6.2 September 2018
+6.3 July 2018
+6.4 March 2018
+6.5 February 2018
+6.6 January 2018
+This page notifies editors of recent clarifications of or changes to policy or best current practice, major changes to templates, and the like. All editors are encouraged to watch this page.
+Please note that older news listed here may no longer be current, and may in fact have been supplanted by newer standards of practice among editors.
+Please add news at the top!
+2023
+March 2023
+March 16: the vote to remove the horizontal rule passes, and WingerBot deals with all of them.
+February 2023
+February 5: Lite templates can now be used with reconstructed terms, using the normal syntax.
+Category:Pages using deprecated templates has been emptied of low-priority pages such as archived discussions, talk pages, and user pages. The category should now be empty in ordinary circumstances, just like our other maintenance categories such as CAT:E.
+February 2: Preliminary proposal to encode Ranjana
+January 2023
+January 16: {{trans-mid}} has been deprecated.
+January 14: The family code for the Finnic family of languages has been changed from fiu-fin to urj-fin, and the language code for Proto-Finnic respectively from fiu-fin-pro to urj-fin-pro.
+January 11: The language code for Eastern Mari has been changed from chm to mhr.
+January 5: The number list modules for Pite Sami (sje) and Ume Sami (sju) have been made.
+January 2: The number list module for Skolt Sami (sms) has been made.
+January 1: The number list modules for Inari Sami (smn), Kildin Sami (sjd), Lule Sami (smj) and Southern Sami (sma) have been made. Happy New Year, editors!
+Unicode Proposals
+Proposal to encode Tolong Siki
+Proposal to encode additional Tai Viet characters for the Jinping Dai
+2022
+December 2022
+Just in time for the new year, the translation boxes now use CSS columns (a second attempt after the first aborted try in August). This means that the number of columns in the translation box adapts to the width of the user's screen. There are also width options: an entry can contain {{trans-top|column-width=narrow}} to create a box with many short translations, or {{trans-top|column-width=wide}} to hold exceptionally long translations. If you find that you are now seeing too few columns on your screen, follow the instructions at T:trans-top#Personal customisation to tweak it to your tastes, or leave feedback at the Grease Pit.
+November 2022
+November 14: "The Unicode® Standard – 2023 Release Planning" by Peter Constable, Chair of the Unicode Technical Committee
+"Proposal for a compromise of the recent Old Hungarian proposal"
+"Proposal to Encode Latin characters for Initial Teaching Alphabet"
+For more information on the Initial Teaching Alphabet:
+http://itafoundation.org/about-us/what-is-i-t-a/
+https://omniglot.com/writing/ita.htm
+October 2022
+As a result of the vote at "Wiktionary:Votes/pl-2022-09/Meaning of consensus for discussions other than formal votes created at Wiktionary:Votes", "Wiktionary:Voting policy" has been updated with the following:
+Meaning of consensus for discussions which are not formal votes
+Where the consensus of editors is required for discussions other than formal votes at Wiktionary:Votes (for example, in discussion rooms such as Wiktionary:Beer parlour and on discussion pages such as Wiktionary:Requests for deletion and Wiktionary:Requests for verification), the support of at least two-thirds of the editors taking a supporting or opposing stance in a discussion on an issue is a hint for the threshold for consensus, but it is not set in stone. As a result, the consensus determination is somewhat indeterminate and can take into account considerations other than pure tallying. Tallying does play a role.
+September 2022
+September 13: Version 15.0.0 of the Unicode Standard® has been released.
+Specifically, the following blocks:
+Kawi (Kawi; U+11F00–U+11F5F)
+Nag Mundari (Nagm; U+1E4D0–U+1E4FF)
+CJK Unified Ideographs Extension H (U+31350–U+323AF)
+August 2022
+User:This, that and the other/broken interwiki links contains lists of entries that have defective links to sister projects. The August 1 edition has such defective links (to WP) sorted by language section of the entry page with the defective links to make it easier for those who would like to correct the errors in entries in their favorite languages.
+The translation boxes now use CSS columns. This means that the number of columns in the translation box adapts to the width of the user's screen. There are also width options: you can specify {{trans-top|width=narrow}} for a box with many short translations, or {{trans-top|width=wide}} to hold exceptionally long translations. The {{trans-mid}} template no longer has a purpose and is now blank. This change has been temporarily reverted owing to a bug.
+The number list module for Maranao (mrw) has been made.
+July 2022
+Following a vote, Wiktionary:Criteria for inclusion has been updated to require a derogatory term to meet the usual attestation requirements within:
+two weeks of the term being created, or if this period has passed,
+two weeks of the term being nominated for deletion or verification.
+Otherwise, it may be speedily deleted after that period. The template {{derogatory}} can be used to tag derogatory terms, or to generate boilerplate text when nominating such terms for deletion or verification.
+June 2022
+Number list modules have been made for Burmese (my), Chakma (ccp), Oriya (or), Rohingya (rhg), Sylheti (syl), Santali (sat), Friulian (fur), Shan (shn), Lü (khb), Khmer (km), Uyghur (ug) and Yakut (sah).
+April 2022
+The pronunciation template {{lo-pron}} has been created.
+January 2022
+enwikt-translations, a Toolforge website to search the contents of translation templates extracted from Translations sections in the latest XML dump, was created.
+2021
+September 2021
+September 14: Version 14.0.0 of the Unicode Standard® has been released.
+According to a document by Peter Constable, Version 15.0 of the Unicode Standard® is targeted for publication in September 2022.
+August 2021
+August 8: The URL format for specific sense IDs was changed; it used to be LanguageName-ID, but is now LanguageName:_ID. Existing links to IDs may be broken (but will still take to the correct page for now), and OrangeLinks as well as internal ID links might stop working temporarily, but should eventually start working again.
+June 2021
+The beta review period for Unicode 14.0 has started. The version will be implemented on or around September 14, 2021.
+2020
+August 2020
+Edit notices added for data submodules of Module:languages and for data submodules of Module:labels summarizing the format of the data.
+April 2020
+Completely new modularised methods are now in use for Bulgarian inflections with stress marks. Most of older templates will soon become obsolete.
+March 2020
+Module:Unicode data and its data submodules have been updated with data from version 13.0.0 of the Unicode Character Database.
+January 2020
+A search engine for {{IPA}} is available at Toolforge.
+2019
+December 2019
+Proto-West Germanic has been created as a language distinct from Proto-Germanic.
+November 2019
+The Pattern Dictionary of English Verbs is available online. It can be useful for analyzing English phrasal verbs and the adequacy of verb definitions.
+October 2019
+A filter has been added that checks for edits to entries in which the wikitext does not follow some of the rules for normalization. It adds a tag to the edit: WT:NORM. The tag does not indicate that the edit was bad, just that some part of the page needs reformatting. Some normalization rules are not included because they cannot be checked by a filter, and some are approximately checked by other filters, such as the missing headword template filter.
+Language data modules will now show messages from Module:data consistency check on their documentation pages, to alert template editors to any errors.
+A new set of categories for words coined by an identifiable person, organization or other entity has been set up, including categorization by coiner. Inclusion to these categories can be done using {{coinage}} (shorthand: {{coin}}).
+When not-yet-created categories are viewed, they will show suggestions of valid categories for languages, scripts, and languages. For instance, Category:en links to Category:En language and to Category:English language (en is the language code for English), and Category:Latin links to Category:Latin language and Category:Latin script. Category:Samaritan language links to Category:Samaritan Aramaic language and Category:Samaritan Hebrew language because both of those languages have "Samaritan" in their otherNames field.
+Not-yet-created templates will show suggestions for any matching reference (R:) or quotation template (RQ:) names with language codes or year suffixes. For instance, Category:Lane suggests Template:R:ar:Lane, Template:Asatryan suggests Template:R:Asatryan:1999/2000 and several others.
+June 2019
+The intonation scheme for Slovene has changed from the stress-based orthography to the tonemic orthography. The headwords of most entries have been converted, but inflection tables have not, and will need future work. Links to Slovene terms should be updated by editors as they come across them. There is also a new {{sl-IPA}} which generates IPA pronunciations when provided with the tonemic orthography.
+May 2019
+A new category named "multiword terms" is now available to categorise idiomatic terms made up of multiple words. The category is opt-in for the moment, only Category:Russian multiword terms and Category:Mongolian multiword terms are in use. The headword module of a language can be modified to automatically categorise terms in the new category. It may be made part of Module:headword eventually, if feasible. (October 2020: This has been done. Multiword-term categories for all languages are generated automatically. To opt a given language out of this, add it to Module:headword/data under no_multiword_cat.)
+The notation of Proto-Slavic has been changed in two ways:
+ľ, ň and ř are now used instead of lj, nj and rj.[discussion]
+The use of accent diacritics has changed, detailed on Wiktionary:About Proto-Slavic#Accents.[discussion] Nonconforming entries are now listed in Category:Proto-Slavic entries with invalid diacritics.
+The templates {{circumfixcat}}, {{infixcat}}, {{interfixcat}}, {{prefixcat}} and {{suffixcat}} have been renamed to include a space: {{circumfix cat}}, {{infix cat}}, {{interfix cat}}, {{prefix cat}} and {{suffix cat}}. (December 2020: These templates no longer exist. Use {{auto cat}}, specifying an |alt= parameter if needed to add extra diacritics to the affix.)
+The template {{inflection of}} now allows a list of inflection tags of the same category to be separated by double slashes, and the output is the same as if they were separated by and. For example, in phaenomena, {{inflection of|la|phaenomenon||nom//acc//voc|p}} or {{inflection of|la|phaenomenon||nom|and|acc|and|voc|p}}.
+April 2019
+The way tags are specified for WT:ACCEL has changed. Rather than specifying a single accel string, there is now one template parameter or table key for each tag. See WT:ACCEL#Adding the tags to a template for more information.
+Many common templates that had a mandatory language code in the |lang= parameter will now also accept it in the first parameter, and using the first parameter is preferred because it is more consistent with other common templates like {{l}} and {{m}}. For instance, {{IPA|en|/wɝːd/}} is preferred over {{IPA|/wɝːd/|lang=en}} and {{inflection of|la|verbum||gen|p}} is preferred over {{inflection of|verbum||gen|p|lang=la}}.
+Lists of often-linked entries in particular languages that haven't been created yet are now available at User:Jberkel/lists/wanted/latest. They serve a similar purpose to the subcategories of Category:Redlinks by language, but are more complete: they include links in many templates (not just {{l}}, {{m}}, {{t}}), and links to pages that exist but don't have a header for the language yet.If you are interested in a language and it is not in User:Jberkel/lists/wanted/latest, add its language code to User:Jberkel/lists/wanted/languages and it will be added when the next batch of lists is generated.
+March 2019
+A new version of the Unicode® Standard—Version 12.0.0—has been announced on the fifth (5th) of March, 2019. The data modules used by Module:Unicode data have been updated, for instance to include new code point names and block names.
+February 2019
+The {{cite}} and {{quote}} families of templates now support the following new parameters:
+|translator= and |translators= (abbreviation: |trans=)
+|text=, a synonym for |passage=
+|t=, a synonym for |translation=
+|tr= (in {{quote}} templates), a synonym for |transliteration=
+In {{quote}} family templates, use of the parameter |lang= is now mandatory; if it is omitted, the entry on which the quotation template is used will be placed in "Category:Undetermined terms with quotations".
+The CodeLinks gadget now makes most URLs in comments clickable, and links module names after require and mw.loadData to the module pages and tracking template names after require("Module:debug").track to Special:WhatLinksHere.
+2018
+December 2018
+The following updates have been made to the {{quote}} family of templates:
+|language= and |lang= are now used to specify the language of the passage quoted, and will add the entry page to a category in the form "Category:Language terms with quotations". The parameters require a language code (see Wiktionary:List of languages).
+|worklang= may be used to specify the language that the work as a whole is written in. This parameter takes either a language code or the name of one or more languages spelled out in full.
+If there are no issues with the updates, similar changes may be rolled out to the {{cite}} family of templates in due course.
+The above changes have been rolled out to the {{cite}} family of templates. The parameters |lang=, |language=, or |worklang= may be used to specify the language that the work as a whole is written in. The parameters take either a language code (preferred) or the name of one or more languages spelled out in full.
+The {{cite}} family of templates now also has a |translation= parameter so that a translation of a passage can be added.
+September 2018
+Using a raw span tag to provide acceleration tags for WT:ACCEL is now deprecated, and may stop working in the future. Instead, provide it as a parameter to a linking or headword template. The documentation of WT:ACCEL contains more instructions.
+The WT:ACCEL script has been improved/modified some more:
+When going to the edit page, the edit window now automatically scrolls to where the new entry has been inserted.
+The creation rules are no longer defined in User:Conrad.Irwin/creationrules.js, but in Module:accel and its submodules, where any user can create and edit them. The format has remained the same, except that it's now written in Lua. (A tip for people who want to run form-creation bots: you can now use expandtemplates to call Module:accel and have it generate an entry for you, so you don't have to do it yourself and your bot will always generate entries in the most recently defined format.)
+{{derivcatboiler}} is now called {{derived cat}}, to match {{inherited cat}} and {{borrowed cat}} and their respective etymology templates. (October 2020: These templates no longer exist as they are unnecessary. Use {{auto cat}}.)
+July 2018
+To celebrate the 90th anniversary of the Oxford English Dictionary, Oxford University Press is offering individual subscriptions to OED Online from 1 April 2018 to 31 March 2019 for £90 (usually £295). Subscription information is here.
+Quotation templates in the {{quote-}} family (such as {{quote-book}}) now accept demand the parameter |lang=, which will categorize entries into categories in the format “Category:[Language] terms with quotations”.
+The Wiktionary Discord server now has a bot which adds links to Wiktionary and other MW wikis in the server.
+The English Wiktionary now has more entries than the English Wikipedia.
+March 2018
+It is now possible to ping editors by linking to their username (e.g. [[User:Foobar]]) in an edit summary.
+The unofficial Wiktionary Discord server is still going strong, and open to all Wiktionary editors.
+February 2018
+The language name Azeri has been renamed to Azerbaijani on Wiktionary
+January 2018
+Interesting paper on Urban Dictionary; includes comparison with Wiktionary
+Retrieved from "https://en.wiktionary.org/w/index.php?title=Wiktionary:News_for_editors&oldid=72180410"
+Category: WiktionaryHidden category: Wiktionary pages with shortcuts
+Navigation menu
+Personal tools
+Not logged inTalkContributionsCreate accountLog in
+Namespaces
+Project pageDiscussion
+English
+Views
+ReadView sourceHistory
+More
+Search
+Navigation
+Main PageCommunity portalPreferencesRequested entriesRecent changesRandom entryHelpGlossaryDonationsContact us
+Tools
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+Wikimedia CommonsMediaWikiMeta-WikiMultilingual WikisourceWikibooksWikidataWikipediaWikiquoteWikisourceWikiversity
+In other languages
+AfrikaansAzərbaycancaБеларускаяČeštinaDeutschΕλληνικάFrançaisहिन्दीItalianoLombardМакедонски日本語РусскийSlovenčinaТоҷикӣTiếng Việt
+Edit links
+ This page was last edited on 19 March 2023, at 10:54.
+Definitions and other text are available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wiktionary
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

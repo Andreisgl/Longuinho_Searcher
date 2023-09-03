@@ -1,0 +1,26 @@
+Wayback Machine
+18 captures
+15 Dec 2019 - 26 Mar 2023
+Nov
+DEC
+Jul
+15
+2018
+2019
+2021
+success
+fail
+ About this capture
+COLLECTED BY
+Organization: Internet Archive
+  The Internet Archive discovers and captures web pages through many different web crawls.
+
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+
+View the web archive through the Wayback Machine.
+Collection: Live Web Proxy Crawls
+  Content crawled via the Wayback Machine Live Proxy mostly by the Save Page Now feature on web.archive.org.
+
+Liveweb proxy is a component of Internet Archive’s wayback machine project. The liveweb proxy captures the content of a web page in real time, archives it into a ARC or WARC file and returns the ARC/WARC record back to the wayback machine to process. The recorded ARC/WARC file becomes part of the wayback machine in due course of time.
+TIMESTAMPS
+The Wayback Machine - http://web.archive.org/web/20191215235020/http://www.cal.org/content/download/1803/19986/file/AGlobalPerspectiveonBilingualism.pdf

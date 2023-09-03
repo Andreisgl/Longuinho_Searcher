@@ -1,0 +1,541 @@
+Policy:Datenschutzrichtlinie - Wikimedia Foundation Governance Wiki
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+About Wikimedia
+HomeOfficial websiteContact usWikimedia NewsMovement blogCommunity calendarQuestions for Wikimedia?
+Support Wikimedia
+DonateVolunteeringWikipedia Store
+Corporate
+BylawsValuesPoliciesResolutionsBoard meetingsMovement affiliates
+Documentation
+Annual ReportFinancial reports and Form 990Fundraising reportsInstitutional knowledgeLegalSecurity
+Wiki
+Give feedbackBabelHelpRecent changes
+Languages
+Language links are at the top of the page across from the title.
+Search
+Search
+ EnglishLog in
+Personal tools
+ Log in
+Contents
+move to sidebar
+hide
+Beginning
+1 Einführung
+Toggle  Einführung subsection
+1.1Willkommen!
+1.1.1Definitionen
+1.1.2Was diese Datenschutzrichtlinie abdeckt und was nicht
+2 Erfassen & Nutzen von Daten
+Toggle  Erfassen & Nutzen von Daten subsection
+2.1Arten von Daten, die wir von Dir erhalten, wie wir sie bekommen und wie wir sie verwenden
+2.1.1Deine öffentlichen Beiträge
+2.1.2Kontoinformationen & Registrierung
+2.1.3Standortinformationen
+2.1.3.1GPS & andere Ortungstechnologien
+2.1.3.2Metadaten
+2.1.3.3IP-Adressen
+2.2Informationen im Zusammenhang mit deiner Nutzung der Wikimedia-Seiten
+2.2.1Informationen, die wir automatisch erhalten
+2.2.2Welche Informationen wir erheben
+2.3Nutzung der von dir erhaltenen Daten
+2.3.1Allgemein
+2.4Andere
+2.4.1Standortinformationen
+2.4.1.1GPS & andere Ortungstechnologien
+2.4.1.2Metadaten
+2.4.1.3IP-Adressen
+3 Weitergabe
+Toggle  Weitergabe subsection
+3.1Wann dürfen wir deine Informationen weitergeben?
+3.1.1Mit deiner Erlaubnis
+3.1.2Aus rechtlichen Gründen
+3.1.3Wenn die Organisation übertragen wird (sehr unwahrscheinlich!)
+3.1.4Um dich, uns oder Andere zu schützen
+3.1.5Zu unseren anderen Dienstleistern
+3.1.6Zum Verstehen & Experimentieren
+3.1.7Weil du sie veröffentlicht hast
+4 Schutz
+Toggle  Schutz subsection
+4.1Wie schützen wir deine personenbezogenen Daten?
+4.2Wie lange bewahren wir deine Daten auf?
+4.3Deine Rechte
+5 Wichtige Informationen
+Toggle  Wichtige Informationen subsection
+5.1Wo befindet sich die Foundation & was bedeutet das für mich?
+5.2Unsere Antwort auf Do Not Track (DNT)
+5.3Änderungen an dieser Datenschutzrichtlinie
+5.4Kontakt
+5.5Vielen Dank!
+Toggle the table of contents
+Toggle the table of contents
+Policy:Datenschutzrichtlinie
+Add languages
+Add links
+PolicyDiscussion
+Deutsch
+ReadTranslateView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadTranslateView history
+General
+What links hereRelated changesSpecial pagesPermanent linkPage information
+Print/export
+Create a bookDownload as PDFPrintable version
+From Wikimedia Foundation Governance Wiki
+This page is a translated version of the page Policy:Privacy policy and the translation is 100% complete.Other languages:Avañe'ẽ
+Bahasa Indonesia
+Bahasa Melayu
+Basa Banyumasan
+British English
+Bân-lâm-gú
+Canadian English
+Cebuano
+Cymraeg
+Deutsch
+Deutsch (Sie-Form)
+English
+Esperanto
+Frysk
+Hausa
+Kiswahili
+Kreyòl ayisyen
+Ligure
+Lëtzebuergesch
+Malagasy
+Mara
+Napulitano
+Nederlands
+Nederlands (informeel)
+Nordfriisk
+Oromoo
+Qaraqalpaqsha
+Ripoarisch
+Scots
+Soomaaliga
+Tiếng Việt
+Türkçe
+Yorùbá
+Zazaki
+asturianu
+azərbaycanca
+bosanski
+català
+dansk
+eesti
+español
+euskara
+français
+galego
+hrvatski
+interlingua
+italiano
+latviešu
+lietuvių
+magyar
+norsk bokmål
+occitan
+oʻzbekcha / ўзбекча
+polski
+português
+português do Brasil
+română
+sardu
+shqip
+sicilianu
+slovenščina
+suomi
+svenska
+čeština
+Ελληνικά
+башҡортса
+беларуская
+беларуская (тарашкевіца)
+български
+кыргызча
+македонски
+нохчийн
+русский
+српски / srpski
+тоҷикӣ
+удмурт
+українська
+հայերեն
+ייִדיש
+עברית
+اردو
+الدارجة
+العربية
+تۆرکجه
+روچ کپتین بلوچی
+سرائیکی
+سنڌي
+فارسی
+مازِرونی
+پښتو
+کوردی
+کٲشُر
+कॉशुर / کٲشُر
+नेपाली
+भोजपुरी
+मराठी
+संस्कृतम्
+हिन्दी
+অসমীয়া
+বাংলা
+ਪੰਜਾਬੀ
+ગુજરાતી
+தமிழ்
+తెలుగు
+മലയാളം
+සිංහල
+ไทย
+ပအိုဝ်ႏဘာႏသာႏ
+ဖၠုံလိက်
+ဘာသာ မန်
+မြန်မာဘာသာ
+მარგალური
+ქართული
+ភាសាខ្មែរ
+中文
+日本語
+粵語
+ꯃꯤꯇꯩ ꯂꯣꯟ
+한국어
+Willst Du bei der Übersetzung helfen? Übersetze die fehlenden Nachrichten.
+Diese Richtlinie wurde vom Kuratorium der Wikimedia-Foundation genehmigt.
+Sie darf von keinen Verantwortlichen oder Mitarbeitern der Wikimedia-Foundation oder lokalen Richtlinien eines Wikimedia-Projekts umgangen, untergraben oder ignoriert werden.
+Beachte bitte, dass im Fall von unterschiedlichen Bedeutungen oder Auslegungen bei der englischen Originalfassung und einer Übersetzung vorrangig die englische Originalfassung gilt.
+Datenschutzrichtlinie
+Dies ist eine Zusammenfassung der Datenschutzrichtlinie. Um die vollständigen Bedingungen zu lesen, scrolle nach unten oder klicke hier.
+Haftungsausschluss: Diese Zusammenfassung ist nicht Teil der Datenschutzrichtlinie und stellt kein rechtliches Dokument dar. Es handelt sich lediglich um eine praktische Referenz zum Verständnis der vollständigen Datenschutzrichtlinie. Betrachte dies als eine benutzerfreundliche Schnittstelle zu unserer Datenschutzrichtlinie.
+Da wir der Ansicht sind, dass du nicht verpflichtet sein solltest, personenbezogene Daten bereitzustellen, um am freien Wissensaustausch teilzunehmen, kannst du:
+Jede Wikimedia-Seite lesen, bearbeiten oder benutzen, ohne ein Konto zu erstellen.
+Ein Konto erstellen, ohne eine E-Mail-Adresse oder einen Klarnamen anzugeben.
+Wir möchten, dass du verstehst, wie die Wikimedia-Seiten genutzt werden, um sie für dich zu verbessern. Daher sammeln wir einige Informationen, wenn du:
+Öffentliche Beiträge machst.
+Ein Konto erstellst oder deine Benutzerseite aktualisierst.
+Die Wikimedia-Seiten benutzt.
+Uns E-Mails sendest oder an einer Umfrage teilnimmst oder Feedback übermittelst.
+Unsere Pflichten:
+Beschreibung in dieser Datenschutzrichtlinie, wie deine Informationen verwendet oder geteilt werden können.
+Einsatz angemessener Maßnahmen, um deine Informationen zu schützen.
+Deine Daten nie verkaufen oder zu Marketingzwecken an Dritte weitergeben.
+Deine Informationen nur unter eingeschränkten Umständen weitergeben, wie etwa zur Verbesserung der Wikimedia-Seiten, zur Einhaltung von Gesetzen oder zu deinem Schutz oder dem Schutz anderer.
+Daten so kurz wie möglich aufbewahren, wie für die Pflege, das Verständnis und die Verbesserung der Wikimedia-Seiten und zur Erfüllung unserer Pflichten unter geltendem Recht erforderlich.
+Achtung:
+Jeder von dir hinzugefügte Inhalt und jede Änderung, die du an einer Wikimedia-Seite vornimmst, ist öffentlich und dauerhaft verfügbar.
+Wenn du Inhalte hinzufügst oder eine Änderung an einer Wikimedia-Seite vornimmst, ohne dich einzuloggen, werden diese Inhalte oder Änderungen öffentlich und dauerhaft statt eines Benutzernamens der zu diesem Zeitpunkt verwendeten IP-Adresse zugeordnet.
+Unsere Gemeinschaft von freiwilligen Autoren und Mitwirkenden unterliegt der Selbstkontrolle. Bestimmte von der Gemeinschaft gewählte Administratoren der Wikimedia-Seiten verwenden Werkzeuge, die ihnen begrenzten Zugriff auf nicht-öffentliche Informationen über aktuelle Beiträge gewähren, damit sie die Wikimedia-Seiten schützen und Richtlinien durchsetzen können.
+Diese Datenschutzrichtlinie gilt nicht für alle von der Wikimedia Foundation betriebenen Seiten und Dienste, wie etwa nicht für solche Seiten oder Dienste, die ihre eigene Datenschutzrichtlinie besitzen (wie etwa der Wikimedia Shop) oder von Dritten betriebene Seiten oder Dienste (wie etwa Drittentwicklerprojekte auf den Wikimedia Cloud Services).
+Als Teil unserer weltweiten Arbeiten für Bildung und Forschung geben wir gelegentlich öffentliche Informationen und aggregierte oder nicht-personenbezogene Informationen in Form von Datendumps und Datensätzen an die Öffentlichkeit weiter.
+Zum Schutz der Wikimedia Foundation und anderer Nutzer darfst du die Wikimedia-Seiten nicht nutzen, wenn du mit dieser Datenschutzrichtlinie nicht einverstanden bist.
+Einführung
+Erfassen & Nutzen von Daten
+Weitergabe
+Schutz
+Wichtige Informationen
+ Einführung
+Willkommen!
+Die Wikimedia Foundation ist die gemeinnützige Organisation, die kollaborative, freie Wissensseiten wie Wikipedia, Wikimedia Commons und Wiktionary betreibt.
+Diese Richtlinie erklärt, wie wir deine personenbezogenen Daten erfassen, nutzen und weitergeben.
+Wir erfassen nur sehr wenige personenbezogene Daten über dich.
+Wir vermieten oder verkaufen deine personenbezogenen Daten nicht an Dritte.
+Durch Nutzung der Wikimedia-Seiten erklärst du deine Zustimmung zu dieser Richtlinie.
+Die Wikimedia-Bewegung basiert auf einem einfachen, aber schlagkräftigen Grundsatz: Wir erreichen gemeinsam mehr, als jeder von uns alleine schaffen kann. Wir können nicht kollektiv arbeiten, ohne Informationen über unsere Nutzer zu erfassen, zu teilen und zu analysieren, während wir nach neuen Wegen suchen, um die Wikimedia-Seiten benutzerfreundlicher, sicherer und nützlicher zu machen.
+Wir glauben, dass das Erfassen und Nutzen von Informationen transparent erfolgen sollte. Diese Datenschutzrichtlinie erklärt, wie die Wikimedia Foundation, die gemeinnützige Organisation, die die Wikimedia-Seiten wie Wikipedia betreibt, Informationen, die wir von dir durch deine Nutzung der Wikimedia-Seiten erhalten, erfasst, nutzt und weitergibt. Du musst verstehen, dass du durch die Nutzung einer Wikimedia-Seite der Erfassung, Übertragung, Verarbeitung, Speicherung, Offenlegung und Nutzung deiner Informationen in der in dieser Datenschutzrichtlinie beschriebenen Weise zustimmst. Das bedeutet, dass es wichtig ist, diese Richtlinie sorgfältig zu lesen.
+Wir finden, dass du keine nicht-öffentlichen personenbezogenen Daten angeben müssen solltest, um dich an der Bewegung für freies Wissen zu beteiligen. Du musst keine Daten wie etwa deinen Klarnamen, deine Adresse oder dein Geburtsdatum angeben, um sich für ein Standardkonto anzumelden oder Inhalte zu den Wikimedia-Seiten beizutragen.
+Wir verkaufen oder vermieten deine personenbezogenen Daten nicht und geben sie auch nicht an andere weiter, die dir etwas verkaufen wollen. Wir verwenden die Daten, um festzustellen, wie wir die Wikimedia-Seiten ansprechender und zugänglicher machen können, um zu festzustellen, welche Ideen funktionieren, und damit Lernen und Beteiligung mehr Spaß machen. Einfach ausgedrückt: Wir verwenden diese Informationen, um die Wikimedia-Seiten für dich besser zu machen.
+Schließlich sind es Menschen wie du, die Verfechter des freien Wissens, die nicht nur die Existenz der Wikimedia-Seiten erlauben, sondern sie auch wachsen und gedeihen lassen.
+Definitionen
+Zurück nach oben 
+Uns ist klar, dass die wenigsten von euch mit technischen Begriffen wie „Zählpixel“ und „Cookies“, die in der Datenschutzrichtlinie genutzt werden, vertraut sind.
+Unser Schlagwortglossar kann dir helfen, ganz egal, ob dir die Datenschutzterminologie ganz neu ist oder ob du schon Fachmann bist und nur eine Auffrischung willst.
+Da jeder (nicht nur Juristen) einfach verstehen können sollte, wie und warum seine Daten gesammelt und genutzt werden, ersetzen wir die formelleren Begriffe in dieser Richtlinie durch allgemeine Sprache. Um sicherzustellen, dass du einige bestimmte Schlagwörter verstehst, findest du hier eine Übersetzungstabelle:
+Wenn wir sagen...
+...meinen wir:
+„die Wikimedia Foundation“/„die Foundation“/„wir“/„uns“/„unser“
+Die Wikimedia Foundation, Inc. ist die gemeinnützige Organisation, die die Wikimedia-Seiten betreibt.
+„Wikimedia Seiten“/„unsere Dienste“
+Wikimedia-Websites und -Dienste, einschließlich unserer Hauptprojekte, wie Wikipedia und Wikimedia Commons, sowie mobile Anwendungen, Anwendungsprogrammierschnittstellen (APIs), E-Mails und Benachrichtigungen (unabhängig von der jeweiligen Sprache); ausgeschlossen sind Websites und Dienste, die im Abschnitt „Was diese Datenschutzrichtlinie nicht abdeckt“ nachfolgend aufgeführt sind.
+„du“/„dein“/„ich“
+dich, unabhängig davon, ob du eine Einzelperson, Gruppe oder Organisation bist und unabhängig davon, ob du die Wikimedia-Seiten oder unsere Dienste im eigenen Namen oder im Namen eines anderen verwendest.
+„diese Richtlinie“/„diese Datenschutzrichtlinie“
+Dieses Dokument mit dem Titel „Datenschutzrichtlinie der Wikimedia Foundation“.
+„Beiträge“
+Inhalte, die du zu Wikimedia-Seiten hinzufügst oder Änderungen, die du an Wikimedia-Seiten vornimmst.
+„Persönliche Daten“
+Informationen, die du uns zur Verfügung stellst, oder Informationen, die wir erfassen und die genutzt werden könnten, um dich persönlich zu identifizieren. Genau gesagt: Wir erfassen nicht notwendigerweise alle der folgenden Arten von Informationen, aber wir betrachten zumindest die folgenden Daten als „personenbezogene Daten“, wenn sie anderweitig nicht öffentlich sind und zu deiner Identifizierung genutzt werden können:
+(a) deinen Klarnamen, deine Adresse, deine Telefonnummer, deine E-Mail-Adresse, dein Passwort, deine Identifikationsnummer aus einem amtlichen Ausweis, deine IP-Adresse, deine User-Agent-Daten, deine Zahlungskontonummer;
+(b) im Zusammenhang mit Daten aus dem Abschnitt (a) alle sensiblen Daten wie dein Geburtsdatum, Geschlecht, sexuelle Orientierung, Ethnie oder Herkunft, Familienstand, Krankheiten oder Behinderungen, deine politische Zugehörigkeit und Religion.
+„Dritter“/„Dritte“
+Natürliche Personen, Einrichtungen, Websites, Dienste, Produkte und Anwendungen, die nicht von der Wikimedia Foundation kontrolliert, verwaltet oder betrieben werden. Dies umfasst andere Wikimedia-Nutzer und unabhängige Organisationen oder Gruppen, die zur Förderung der Wikimedia-Bewegung beitragen, wie etwa Wikimedia-Chapter, themenbezogene Organisationen und Benutzergruppen sowie Freiwillige, Mitarbeiter, Direktoren, leitende Angestellte, Förderungsempfänger und Auftragnehmer dieser Organisationen oder Gruppen.
+Was diese Datenschutzrichtlinie abdeckt und was nicht
+Mit Ausnahme der nachfolgend dargelegten Punkte gilt diese Datenschutzrichtlinie für die Erfassung und den Umgang mit Informationen über dich, die wir infolge deiner Nutzung einer der Wikimedia-Seiten erhalten. Diese Richtlinie gilt auch für Informationen, die wir von unseren Partnern oder anderen Dritten erhalten. Mehr dazu, was diese Datenschutzrichtlinie abdeckt, findest du nachfolgend.
+Von dieser Datenschutzrichtlinie abgedeckte Beispiele
+Der Klarheit halber ist festzuhalten, dass diese Datenschutzerklärung unabhängig von der jeweiligen Sprache folgende Geltungsbereiche hat:
+Alle unsere wichtigen Seiten (ausgeführt unter Liste der Hauptprojekte), wie etwa Wikipedia, einschließlich der Benutzerseiten, Diskussionsseiten und Pinnwände.
+Unsere Blogs und APIs (sofern keine separate Richtlinie für diese Dienste bereitgestellt wurde).
+Offizielle mobile Anwendungen der Wikimedia Foundation.
+E-Mails, SMS und Benachrichtigungen, die wir versenden oder die du an uns übermittelst.
+Diese Datenschutzrichtlinie deckt jedoch nicht alle Situationen ab, in denen wir möglicherweise Informationen erfassen oder verarbeiten. Beispielsweise können einige Verwendungen durch separate Datenschutzrichtlinien (wie die des Wikimedia Shops) oder durch von Dritten betriebene Websites oder Dienste (wie die Entwicklerprojekte Dritter auf Wikimedia Cloud Services) abgedeckt sein. Mehr dazu, was diese Datenschutzrichtlinie nicht abdeckt, findest du nachfolgend.
+Weitere von der Datenschutzrichtlinie der Wikimedia-Stiftung nicht abgedeckte Punkte
+Dieser Abschnitt ist Teil der Datenschutzrichtlinie. Er soll ausführlich erklären, welche Situationen nicht von unserer Datenschutzrichtlinie abgedeckt sind.
+Wikimedia-Seiten und -Tools mit alternativen Richtlinien
+Einige Websites oder Tools der Wikimedia Foundation besitzen alternative Datenschutzrichtlinien oder Bestimmungen, die von dieser Datenschutzrichtlinie abweichen. Diese Websites umfassen:
+Wikimedia Shop (unterliegt der Richtlinie des Shops);
+donate.wikimedia.org, einschließlich des Spendenablaufs, der das Anklicken eines Spendenbanners umfasst (unterliegt der  Datenschutzrichtlinie für Spender); und
+die Wikipedia-Reading-Lists-Browser-Erweiterung, die einer eigenen Datenschutzrichtlinie unterliegt. Diese eigene Richtlinie wird auch dort bereitgestellt, wo die Erweiterung heruntergeladen werden kann.
+Wenn eine Website der Wikimedia Foundation einer anderen Datenschutzrichtlinie unterliegt, wird ein Link zu dieser Richtlinie platziert. Wenn ein Tool der Wikimedia Foundation einer alternativen Datenschutzrichtlinie unterliegt, enthält die Seite, auf der das Tool heruntergeladen oder aktiviert werden kann, einen Link auf die jeweilige Richtlinie.
+Gemeinschaftsmitglieder
+Die Wikimedia-Seiten sind gemeinschaftliche Arbeiten aus Freude am Werk. Sie werden von einer globalen Gemeinschaft aus Freiwilligen ständig gepflegt und aktualisiert. Diese globale Gemeinschaft der Freiwilligen kann gelegentlich Zugriff auf personenbezogene Daten erlangen, um die Funktion der Wikimedia-Seiten zu gewährleisten.
+Freiwillige in der Administration, wie etwa CheckUser oder Stewards. Dies sind Freiwillige, die die Richtlinien der Wikimedia-Seiten durchsetzen und die Sicherheit der Wikimedia-Seiten sicherstellen. Wenn diese Administratoren auf nicht-öffentliche personenbezogene Daten zugreifen, müssen sie unsere Richtlinie zum Zugriff auf nichtöffentliche personenbezogene Daten sowie andere Richtlinien speziell für das jeweilige Tool einhalten.
+Toolanbieter. Wir unterstützen Plattformen für Drittentwickler, um zu experimentieren und neue Tools und Seiten zu entwickeln, wie z.B. [[[mw:Special:MyLanguage/Wikimedia Cloud Services|wmflabs.org]] wmflabs.org]. Wenn du eines der von diesen Freiwilligen entwickelten Tools verwendest, kannst du Daten an diese übertragen. Wenn diese Freiwilligen auf nicht-öffentliche Informationen oder personenbezogene Daten zugreifen, müssen sie die Bedingungen der jeweiligen Plattform einhalten, auf der das Tool zur Verfügung gestellt wird.
+Andere Nutzer. Wir stellen verschiedene Tools zur Verfügung, über die Nutzer miteinander kommunizieren können. Die Kommunikation kann dieser Richtlinie unterliegen, während sie unsere Systeme durchläuft. Die Nutzer, die solche Kommunikation erhalten, und deren Umgang damit nach dem Erhalt, sind jedoch nicht von dieser Richtlinie abgedeckt. Beispiele umfassen:
+Versand an von der Foundation gehostete E-Mail-Listen;
+Bitte um Unterstützung durch Freiwillige über unser Online-Ticketing-System (E-Mails an info[at]wikimedia.org gehen an dieses System);
+Versenden von E-Mails an andere Nutzer über die Wikimedia-Seiten (z. B. durch Nutzung der Funktion „E-Mail an diesen Nutzer“); und
+Chatten auf IRC (z. B. auf dem #wikipedia-Kanal).
+Dritte
+Diese Datenschutzrichtlinie deckt nur die Art und Weise ab, wie die Wikimedia Foundation personenbezogene Daten erfasst, nutzt und offenlegt, und befasst sich nicht mit den Praktiken Dritter. Diese Datenschutzrichtlinie bezieht sich beispielsweise nicht auf die Praktiken von:
+Websites, die von anderen Organisationen betrieben werden, wie z. B. Websites, die von den Abschnitten „Referenzen“ von Wikipedia verlinkt sind, oder die von Wikimedia-Chaptern oder anderen Organisationen der Bewegung betrieben werden. Diese Organisationen können deine Daten erhalten, wenn du deren Websites besuchst, nachdem du eine der Wikimedia-Seiten genutzt hast. Diese unterliegen ihren eigenen Datenschutzrichtlinien.
+Mobile Anwendungen, die von anderen Organisationen oder natürlichen Personen bereitgestellt werden. Diese Organisationen oder natürlichen Personen können Informationen von dir erhalten, wenn du diese Anwendungen verwendest, um auf die Wikimedia-Seiten oder Inhalte der Wikimedia-Seiten zuzugreifen. Diese unterliegen ihren eigenen Datenschutzrichtlinien.
+Manchmal platzieren Freiwillige ohne unser Wissen Tools zum Erfassen von Daten, wie etwa Skripts, Gadgets, Tracking-Pixels oder Share-Buttons, auf einer Wikimedia-Seite. Diese Richtlinie befasst sich nicht damit, was Dritte mit den Daten machen, die sie durch ein solches Tool erhalten. Wenn du ein solches Drittanbietertool findest und glaubst, dass es gegen diese Richtlinie verstößt, kannst du das Tool selbst entfernen oder es an privacy[at]wikimedia.org melden, sodass wir es untersuchen können.
+Wenn sich Gemeinschaftsrichtlinien auf Daten beziehen, wie etwa die CheckUser-Richtlinie, kann die jeweilige Gemeinschaft die in dieser Richtlinie dargelegten Regeln und Pflichten ergänzen. Es ist jedoch nicht gestattet, neue Ausnahmen zu schaffen oder den durch diese Richtlinie gebotenen Schutz anderweitig zu reduzieren.
+Zurück nach oben 
+ Erfassen & Nutzen von Daten
+Arten von Daten, die wir von Dir erhalten, wie wir sie bekommen und wie wir sie verwenden
+Deine öffentlichen Beiträge
+Alles, was du auf Wikimedia Seiten veröffentlichst, kann von allen gesehen und genutzt werden.
+Wenn du einen Beitrag auf einer Wikimedia-Seite machst, einschließlich auf Nutzer- oder Diskussionsseiten, erstellst du eine dauerhafte, öffentliche Aufzeichnung aller von dir hinzugefügten, entfernten oder geänderten Inhalte. Der Seitenverlauf zeigt den Zeitpunkt deines Beitrags oder deiner Löschung, sowie deinen Benutzernamen (wenn du angemeldet bist) oder deine IP-Adresse (wenn du nicht angemeldet bist). Wir können deine öffentlichen Beiträge entweder zusammen mit den öffentlichen Beiträgen anderer oder einzeln nutzen, um neue Funktionen oder datenbezogene Produkte für dich zu erstellen oder um genauer festzustellen, wie die Wikimedia-Seiten genutzt werden. Dies ist weiter unten im Abschnitt „Nutzung der von dir erhaltenen Daten“ dieser Datenschutzrichtlinie dargelegt.
+Öffentlich sichtbare Informationen
+Sofern diese Richtlinie nichts anderes festlegt, ist davon auszugehen, dass Informationen, die du aktiv zu den Wikimedia-Seiten beiträgst, einschließlich personenbezogener Daten, öffentlich sichtbar und über Suchmaschinen zu finden sind. Wie die meisten Dinge im Internet kann alles, was du freigibst, von anderen Personen kopiert und im Internet weiterverbreitet werden. Bitte trage keine Informationen bei, bei denen es dir unangenehm ist, sie dauerhaft öffentlich zu machen, etwa durch Offenbarung deines Klarnamens oder Standorts in deinen Beiträgen.
+Du solltest dir bewusst sein, dass bestimmte Daten, die du veröffentlichst, oder aggregierte Daten, die von uns veröffentlicht werden, von allen zur Analyse und zum Rückschluss auf weitere Daten genutzt werden können, wie etwa darauf, aus welchem Land ein Nutzer kommt, politische Zugehörigkeit und Geschlecht.
+Zurück nach oben 
+Kontoinformationen & Registrierung
+Du musst kein Konto erstellen, um eine Wikimedia-Seite zu nutzen.
+Wenn du ein Konto erstellst, musst du uns nicht deinen Namen oder deine E-Mail-Adresse mitteilen (obwohl du dies tun kannst, wenn du es wünschst, z. B. für die Funktion „E-Mail an diesen Nutzer“).
+Wenn du kein Konto erstellst, werden deine Beiträge öffentlich deiner IP-Adresse zugeordnet.
+Du willst ein Konto erstellen? Toll! Du willst kein Konto erstellen? Kein Problem!
+Du bist mit einigen wenigen Ausnahmen nicht verpflichtet, ein Konto zu erstellen, um eine Wikimedia-Seite zu lesen oder dazu beizutragen. Wenn du jedoch einen Beitrag leistest, ohne sich anzumelden, wird dein Beitrag der IP-Adresse, die mit dein Gerät verbunden ist, öffentlich zugeordnet.
+Wenn du ein Standardkonto erstellen willst, benötigen wir üblicherweise nur einen Benutzernamen und ein Passwort. Wenn du jedoch keine E-Mail-Adresse angibst, können wir dir nicht helfen, dein Passwort wiederherzustellen.
+Mehr zu Benutzernamen
+Dein Benutzername ist öffentlich sichtbar. Achte also bitte darauf, ob du deinen Klarnamen oder andere personenbezogene Daten in deinem Benutzernamen offenbarst. Dein Passwort wird nur genutzt, um zu überprüfen, dass das Konto dir gehört. Deine IP-Adresse wird ebenfalls automatisch an uns übermittelt und von uns temporär gespeichert. Dies schützt die Wikimedia-Nutzer und Projektinhalte; bei Missbrauch können IP-Adressen im Rahmen einer Untersuchung mit Benutzernamen in Verbindung gebracht werden. Es sind keine weiteren personenbezogenen Daten erforderlich: kein Name, keine E-Mail-Adresse, kein Geburtsdatum und keine Kreditkarteninformationen.
+Nach der Erstellung kann ein Benutzerkonto nicht vollständig entfernt werden (obwohl du die Informationen auf deiner Benutzerseite normalerweise ausblenden kannst, wenn du dies wünschst). Das liegt daran, dass deine öffentlichen Beiträge ihrem Autor (dir!) zugeordnet werden müssen. Unter bestimmten Umständen können die Wikimedia-Communitys Nutzer bei der Entfernung zusätzlicher Informationen zu ihrem Konto aus den Projekten unterstützen.
+Für ein besseres Verständnis der Demographie unserer Nutzer, um unsere Dienste zu lokalisieren und um festzustellen, wie wir unsere Dienste verbessern können, bitten wir dich möglicherweise um weitere demografische Informationen, wie etwa dein Geschlecht oder dein Alter. Wir teilen dir mit, ob diese Informationen öffentlich oder privat sein werden, sodass du eine fundierte Entscheidung dazu treffen kannst, ob du uns diese Informationen zur Verfügung stellen willst. Die Angabe solcher Informationen ist immer vollkommen freiwillig. Du musst nichts angeben, dass du nicht angeben willst – so einfach ist das.
+Zurück nach oben 
+Standortinformationen
+GPS & andere Ortungstechnologien
+Einige unserer Funktionen arbeiten besser, wenn wir wissen, in welcher Region du dich befindest.
+Wenn du zustimmst, können wir GPS (und andere Technologien, die üblicherweise zur Standortbestimmung genutzt werden) einsetzen, um dir relevantere Inhalte zu zeigen. Wir behandeln die durch diese Technologien erfassten Daten vertraulich. Ausnahmen sind in dieser Richtlinie erklärt. Mehr dazu findest du in der Beispielliste zur Verwendung dieser Technologien in unseren FAQ.
+Zurück nach oben 
+Metadaten
+Manchmal erhalten wir automatisch Standortdaten von deinem Gerät. Wenn du etwa ein Foto auf der Wikimedia Commons Mobile App hochladen möchtest, kann dein Gerät automatisch Metadaten übermitteln, wie etwa den Ort und die Zeit der Bildaufnahme. Beachte, dass die Standardeinstellung deines Mobilgeräts üblicherweise die Metadaten in deinem Foto- oder Video-Upload auf die Wikimedia-Seiten einschließt. Dies bei den oben beschriebenen Standortinformationen, die über GPS-Signale erfasst werden, anders. Wenn du nicht möchtest, dass Metadaten an uns gesendet und zum Zeitpunkt deines Uploads veröffentlicht werden, änder bitte die Einstellungen auf deinem Gerät.
+Zurück nach oben 
+IP-Adressen
+Wenn du schließlich eine Wikimedia-Seite besuchst, erhalten wir automatisch die IP-Adresse des Geräts, mit dem du auf das Internet zugreifen (oder deines Proxy-Servers). Dies könnte dazu genutzt werden, deinen geografischen Standort zu ermitteln.
+Zurück nach oben 
+Informationen im Zusammenhang mit deiner Nutzung der Wikimedia-Seiten
+Wir können verwenden bestimmte Technologien verwenden, um Daten darüber zu erfassen, wie du die Wikimedia-Seiten nutzt.
+Wie andere Websites auch, erhalten wir automatisch einige Daten zu dir, wenn du die Wikimedia-Seiten besuchst.
+Wir verwenden außerdem eine Reihe häufig verwendeter Technologien, wie etwa Cookies, um Informationen darüber zu erfassen, wie du die Wikimedia-Seiten nutzt, um unsere Dienste sicherer und benutzerfreundlicher zu machen und um dir ein besseres und anpassbares Erlebnis zu bieten.
+Wir wollen die Wikimedia-Seiten für dich besser machen, indem wir mehr darüber erfahren, wie du sie nutzt. Dies kann sich etwa darauf beziehen, wie oft du die Wikimedia-Seiten besuchst, was du magst, was du hilfreich findest, wie du auf die Wikimedia-Seiten kommst und ob du eine hilfreiche Funktion häufiger nutzen würdest, wenn wir sie anders erklären würden. Wir wollen außerdem, dass diese Richtlinie und unsere Praktiken die Werte unserer Gemeinschaft widerspiegeln. Daher behandeln wir Informationen, die sich auf deine Nutzung der Wikimedia-Seiten bezieht, mit den in dieser Richtlinie erklärten Ausnahmen vertraulich.
+Zurück nach oben 
+Informationen, die wir automatisch erhalten
+Aufgrund der Funktionsweise von Browsern erhalten wir einige Informationen automatisch, wenn du die Wikimedia-Seiten besuchst. Dies gilt auch, wenn du ein Online-Tool auf einer Website eines Drittanbieters nutzt, das Informationen lädt, die von den Wikimedia-Seiten stammen. Diese Informationen umfassen den Typ des von Ihnen verwendeten Geräts (für einige Beta-Versionen unserer mobilen Anwendungen möglicherweise auch die eindeutige Geräteidentifikationsnummern), der Typ und die Version deines Browsers, die Spracheinstellung deines Browsers, der Typ und die Version des Betriebssystems deines Geräts, möglicherweise den Namen deines Internetdienstanbieters oder Mobilfunkanbieters, die Website, die dich auf die Wikimedia-Seiten verwiesen hat, welche Seiten du anforderst und besuchst, sowie das Datum und die Uhrzeit jeder Anforderung, die du an die Wikimedia-Seiten stellst.
+Einfach ausgedrückt, verwenden wir diese Informationen, um deine Erfahrung mit den Wikimedia-Seiten zu verbessern. Wir verwenden diese Informationen beispielsweise, um die Seiten zu verwalten, höhere Sicherheit zu bieten und Vandalismus zu bekämpfen; mobile Anwendungen zu optimieren, Inhalte anzupassen und Spracheinstellungen vorzunehmen, Funktionen zu testen, zu sehen, was funktioniert, und die Leistung zu verbessern; zu verstehen, wie Nutzer mit den Wikimedia-Seiten interagieren, die Nutzung verschiedener Funktionen zu verfolgen und zu untersuchen, die Demographie der verschiedenen Wikimedia-Seiten zu verstehen und Trends zu analysieren.
+Zurück nach oben 
+Welche Informationen wir erheben
+Wir verwenden eine Reihe häufig verwendeter Technologien, wie etwa Cookies, um zu verstehen, wie du die Wikimedia-Seiten nutzt, um unsere Dienste sicherer und benutzerfreundlicher zu machen und um dir ein besseres und anpassbares Erlebnis zu bieten.
+Wir erheben aktiv einige Arten von Informationen mit einer Vielzahl von allgemein verwendeten Technologien. Dies umfasst allgemein Zählpixel, JavaScript und zahlreiche Technologien mit „lokal gespeicherten Daten“ wie Cookies und lokaler Speicher. Diese Arten von Technologien können auch in Onlinetools auf einer Drittwebsite genutzt werden, die Informationen von den Wikimedia-Seiten laden. Uns ist bekannt, dass einige dieser Technologien nicht den besten Ruf genießen und auch zu zwielichtigen Zwecken verwendet werden können. Wir möchten also so klar wie möglich erklären, warum wir diese Methoden verwenden und welche Art von Informationen wir damit erheben.
+Je nachdem, welche Technologie wir nutzen, können lokal gespeicherte Daten Text, personenbezogene Daten (wie deine IP-Adresse) und Informationen zu deiner Nutzung der Wikimedia-Seiten (wie dein Benutzername oder den Zeitpunkt deines Besuchs) enthalten. Weitere Informationen findest du nachfolgend.
+Wir verwenden diese Informationen, um deine Erfahrungen mit diesen Wikimedia-Seiten sicherer und besser zu machen, um ein besseres Verständnis der Benutzervorzüge und der Benutzerinteraktion mit diesen Wikimedia-Seiten zu erlangen und um unsere Dienstleistungen generell zu verbessern. Wir verwenden nie Cookies von Drittanbietern ohne deine Erlaubnis dazu. Falls du jemals auf ein Datenerfassungstool eines Drittanbieters stößt, das nicht von dir autorisiert wurde (z. B. eines, das versehentlich von einem anderen Nutzer oder Administrator platziert wurde), melde dieses uns bitte an privacy@wikimedia.org.
+Mehr zu lokal gespeicherten Daten
+Lokal gespeicherte Daten, JavaScript und Zählpixel helfen uns bei folgenden Aufgaben:
+Bereitstellen eines anpassbaren Erlebnisses, wie etwa durch Verwendung von Cookies, um deine Spracheinstellungen zu merken, deine Benutzereinstellungen zu speichern, das von dir gewünschte angepasste Erscheinungsbild zu bieten, und dich über interessante Wikimedia-Themen und Veranstaltungen in deiner Umgebung zu informieren.
+Du erhaltst schneller relevante Inhalte. Wir verwenden beispielsweise lokalen Speicher, um deine zuletzt gelesenen Artikel direkt auf deinem Gerät zu speichern, damit diese schnell abgerufen werden können. Außerdem nutzen wir Cookies, um etwas über die gesuchten Themen zu erfahren, damit wir die Suchergebnisse, die wir dir liefern, optimieren können.
+Verstehen, wie du die Wikimedia-Seiten nutzt, um zu wissen, was funktioniert und was nützlich ist. Beispielsweise können wir Cookies verwenden, um festzustellen, welche Artikel du in deiner Merkliste verfolgst, damit wir dir ähnliche Artikel empfehlen können, die dich möglicherweise interessieren.
+Verstehen, wie du die Wikimedia-Seiten über verschiedene Geräte hinweg nutzen kannst, damit wir unsere vielfältigen Wikimedia-Seiten für dich effizienter und effektiver gestalten können.
+Die Wikimedia-Seiten benutzerfreundlicher zu gestalten, z. B. durch die Verwendung von Cookies, um deine Sitzung aufrechtzuerhalten, wenn du dich anmeldest, oder um sich deinen Benutzernamen im Anmeldefeld zu merken.
+Willst du noch mehr wissen? Mehr über einige der spezifischen Cookies, die wir verwenden, wann sie ablaufen, und wofür wir sie nutzen, kannst du in den FAQ zur allgemeinen WMF-Datenschutzrichtlinie lesen.
+Wir sind der Ansicht, dass diese Datenerfassung uns hilft, deine Benutzererfahrung zu verbessern, du kannst jedoch einige oder alle lokal gespeicherten Daten abhängig von deinem Browser über deine Browsereinstellungen entfernen oder deaktivieren. Unsere FAQ informieren genauer über einige Möglichkeiten dazu. Auch wenn lokal gespeicherte Daten für die Nutzung unserer Websites nicht unbedingt benötigt werden, funktionieren einige Funktionen nicht ordnungsgemäß, wenn du lokal gespeicherte Daten deaktivierst.
+Während die obigen Beispiele der dich betreffenden Daten, die durch die Verwendung von Datenerfassungstools erhoben wurden, dieser Richtlinie entsprechend vertraulich behandelt werden, beachte bitte, dass einige Informationen über die von deinen Benutzernamen durchgeführten Aktionen durch öffentliche Protokolle neben den Aktionen anderer Nutzer öffentlich zugänglich gemacht werden. Ein öffentliches Protokoll kann z. B. Bearbeitungen des Artikelverlaufs oder das Datum, an dem dein Konto auf einer Wikimedia-Seite erstellt wurde, zusammen mit den Daten, an denen andere Konten auf einer Wikimedia-Seite erstellt wurden, enthalten.
+Zurück nach oben 
+Nutzung der von dir erhaltenen Daten
+Allgemein
+Wir und unsere Dienstleister verwenden deine personenbezogenen Daten für den rechtmäßigen Zweck der Verfolgung unserer gemeinnützigen Aufgabe, einschließlich:
+Betrieb der Wikimedia-Seiten, Freigabe deiner Beiträge und Verwaltung unserer Dienste.
+Um dir zu helfen, dein Wissen mit der Welt zu teilen und neue Funktionen zu unseren Diensten hinzuzufügen.
+Um den Zugang zu deinem Konto bereitzustellen und dir den entsprechenden Service zu bieten.
+Um dir administrative Informationen zu übermitteln, wie z.B. Änderungen an unseren Richtlinien.
+Um dir zu ermöglichen, bei Wunsch Nachrichten an eine andere Person zu senden. Direkte Kommunikation zwischen Nutzern (wie etwa Nachrichten, die über die Funktion „E-Mail an diesen Nutzer“ gesendet werden), sofern diese Kommunikation nicht öffentlich und in den Systemen der Wikimedia Foundation gespeichert ist oder durch diese übertragen wird, wird von uns mit den in dieser Richtlinie genannten Ausnahmen vertraulich behandelt.
+Wir führen diese Aktivitäten, um unsere Beziehung zu dir zu verwalten, auf Grundlage unseres rechtmäßigen Interesses und/oder um unseren gesetzlichen Pflichten nachzukommen durch.
+Bereitstellung benutzerspezifischer Dienste.
+Um dir benutzerdefinierte Inhalte, Hinweise und Einstellungen zur Verfügung zu stellen und um dein Erlebnis mit den Wikimedia-Seiten zu verbessern.
+Wir passen die Dienste in einigen Fällen mit deiner Zustimmung an; oder in Übereinstimmung mit unserem rechtmäßigen Interesse.
+Senden von E-Mails mit Neuigkeiten und Mitteilungen über Dinge, von denen wir glauben, dass sie für dich von Interesse sein könnten.
+Um dich über Dinge zu informieren, die mit der Wikimedia Foundation, den Wikimedia-Seiten oder der Wikimedia-Bewegung geschehen.
+Um dich zu benachrichtigen, wenn eine Änderung an einem Artikel vorgenommen wurde, dem du folgen möchtest.
+Wir senden dir diese Art von E-Mails nur mit deiner Zustimmung zu, sofern das geltende Recht nicht etwas anderes erlaubt. Wir verkaufen, vermieten oder verwenden deine E-Mail-Adresse nicht, um dir Produkte oder Dienstleistungen von Dritten zu bewerben. Du kannst in den Einstellungen für Benachrichtigungen und im Benutzerprofil einstellen, welche Arten von Benachrichtigungen du erhälst und wie oft du diese erhalten. Mehr zu E-Mails und Benachrichtigungen und zur Änderung deiner Einstellungen findest du in unserer FAQ.
+Senden von optionalen Umfragen und Einholen von Feedback.
+Wir informieren dich immer, wenn wir dir die Gelegenheit gibst, uns deine Meinung mitzuteilen, darüber, wie wir deine Antworten und alle von dir zur Verfügung gestellten personenbezogenen Daten verwenden werden.
+Deine Antworten auf unsere Umfragen und Feedbackanfragen sind immer freiwillig. Wir senden dir Anfragen dieser Art nur mit deiner Zustimmung per E-Mail zu, sofern nicht nach geltendem Recht etwas anderes zulässig ist. Du kannst in den Einstellungen für Benachrichtigungen und im Benutzerprofil einstellen, welche Arten von Benachrichtigungen du erhälst und wie oft du diese erhältst. Mehr zu E-Mails und Benachrichtigungen und zur Änderung deiner Einstellungen findest du in unserer FAQ.
+Verbesserung der Wikimedia-Seiten und sichereres und besseres Benutzererlebnis.
+Zur Nutzung deiner öffentlichen Beiträge entweder zusammen mit den öffentlichen Beiträgen anderer oder einzeln, um neue Funktionen oder datenbezogene Produkte für dich zu erstellen oder um genauer festzustellen, wie die Wikimedia-Seiten genutzt werden.
+Zur Bekämpfung von Spam, Identitätsdiebstahl, Malware und anderen Arten von Missbrauch.
+Zur Optimierung von mobilen und anderen Anwendungen.
+Zum Testen von Funktionen, um zu sehen, was funktioniert, um zu verstehen, wie Nutzer mit den Wikimedia-Seiten interagieren, um die Nutzung verschiedener Funktionen zu verfolgen und zu untersuchen, um ein Verständnis für die Demographie der verschiedenen Wikimedia-Seiten zu gewinnen und um Trends zu analysieren.
+Wir führen diese Aktivitäten aus, um unser rechtmäßiges Interesse zu fördern und/oder um unseren gesetzlichen Pflichten nachzukommen.
+Zurück nach oben 
+Andere
+Standortinformationen
+GPS & andere Ortungstechnologien
+Wie oben erwähnt, können wir gängige Ortungstechnologien einsetzen, um dir relevantere Inhalte zu zeigen. Beispielsweise können unsere mobilen Apps Artikel von den Wikimedia-Seiten über Sehenswürdigkeiten in der Nähe deines Standorts identifizieren. Erinnerung: Du kannst unserem Zugriff auf diese Ortungstechnologien jederzeit zustimmen und/oder ihn deaktivieren, z. B. über die nativen OS-Funktionen auf deinem mobilen Gerät, und die Wikimedia-Seiten dennoch nutzen.
+Zurück nach oben 
+Metadaten
+Wie oben erwähnt, erhalten wir möglicherweise automatisch Standortdaten von deinem Gerät. Wenn du z. B. ein Foto mit der Wikimedia Commons Mobile App hochlädst, beachte bitte, dass die Standardeinstellung auf deinem mobilen Gerät in der Regel dazu führt, dass die mit deinem Foto verbundenen Metadaten in den Upload eingeschlossen werden. Erinnerung: Wenn du nicht möchtest, dass Metadaten an uns gesendet und zum Zeitpunkt deines Uploads veröffentlicht werden, ändere bitte die Einstellungen auf deinem Gerät.
+Zurück nach oben 
+IP-Adressen
+Wenn du eine Wikimedia-Seite besuchst, erhalten wir automatisch die IP-Adresse des Geräts, das du für den Zugriff auf das Internet verwendest (oder deines Proxy-Servers), woraus wir auf deinen geografischen Standort schließen könnten. Wir behandeln IP-Adressen vertraulich. Ausnahmen sind in dieser Richtlinie erklärt. Wenn du die Wikimedia-Seiten mit deinem mobilen Gerät besuchst, können wir deine IP-Adresse verwenden, um Dienstleistern anonymisierte oder aggregierte Informationen über das Nutzungsvolumen in bestimmten Bereichen zur Verfügung zu stellen.
+Wir verwenden diese Standortinformationen, um deine Erfahrung mit den Wikimedia-Seiten sicherer und besser zu machen, um ein besseres Verständnis der Benutzereinstellungen und deiner Interaktion mit den Wikimedia-Seiten zu gewinnen und um unsere Dienste allgemein zu verbessern. Wir verwenden diese Informationen beispielsweise, um die Sicherheit zu erhöhen, mobile Anwendungen zu optimieren und zu lernen, wie wir die Wikimedia-Gemeinschaften erweitern und besser unterstützen können. Wir verwenden personenbezogene Daten auch in der Art und Weise, wie sie in den Abschnitten dieser Richtlinie mit den Titeln „Aus rechtlichen Gründen“ und „Um dich, uns selbst und andere zu schützen“ beschrieben sind.
+Zurück nach oben 
+ Weitergabe
+Wann dürfen wir deine Informationen weitergeben?
+Wir verwenden deine personenbezogenen Daten und geben sie weiter, wenn du uns die ausdrückliche Erlaubnis dazu gibst, aus rechtlichen Gründen und unter den anderen unten beschriebenen Umständen.
+Mit deiner Erlaubnis
+Wir geben deine personenbezogenen Daten für einen bestimmten Zweck weiter, wenn du zustimmst. Dies ist beispielsweise der Fall, wenn du ein Stipendium erhälst und wir deine Erlaubnis einholen, deine personenbezogenen Daten an eine Länderorganisation weiterzugeben. Weitere Informationen findest du in der Liste der Beispiele in unserer FAQ.
+Zurück nach oben 
+Aus rechtlichen Gründen
+Wir werden deine personenbezogenen Daten Behörden oder anderen Personen in Reaktion auf ein offizielles Rechtsverfahren gegenüber nur dann offenlegen, wenn wir glauben, dass dies rechtlich zulässig ist. Siehe auch unsere Verfahren und Richtlinien zur Anforderung von Benutzerinformationen. Wir informieren dich, wenn möglich, über solche Anfragen. Wir tun dies, um unser berechtigtes Interesse zu fördern und/oder um unsere gesetzlichen Pflichten zu erfüllen.
+Wir können auf deine persönlichen Informationen zugreifen, sie aufbewahren und/oder offenlegen, wenn wir angemessenen Grund zu der Annahme haben, dass dies notwendig ist, um eine gültige und rechtlich durchsetzbare Vollmacht, eine Vorladung, einen Gerichtsbeschluss, ein Gesetz oder eine Verordnung oder eine andere gerichtliche oder behördliche Anordnung zu erfüllen. Wenn wir jedoch der Meinung sind, dass ein bestimmter Antrag auf Offenlegung von Informationen eines Nutzers rechtlich ungültig ist oder ein Missbrauch des Rechtssystems vorliegt und der betroffene Nutzer nicht beabsichtigt, sich der Offenlegung selbst zu widersetzen, werden wir unser Bestes tun, um sie zu bekämpfen. Wir machen es uns zur Aufgabe, dich, wenn möglich, per E-Mail mindestens zehn (10) Kalendertage vor Offenlegung deiner persönlichen Daten in Reaktion auf eine gesetzliche Aufforderung zu benachrichtigen. Wir können dich jedoch nur dann benachrichtigen, wenn wir rechtlich nicht daran gehindert werden, dich zu kontaktieren, keine glaubwürdige Gefahr für Personenschäden besteht, die durch die Offenlegung der Anfrage verursacht oder erhöht werden, und du uns eine E-Mail-Adresse mitgeteilt hast.
+Nichts in dieser Datenschutzrichtlinie ist dazu vorgesehen, rechtliche Einwände oder die Rechtsverteidigung gegen die Aufforderung eines Dritten (sei es zivil-, strafrechtlich oder behördlich) zur Offenlegung deiner Daten zu beschränken. Wir empfehlen dir, dich sofort von einem Rechtsbeistand beraten zu lassen, wenn ein solches Ersuchen an dich gerichtet wird.
+Weitere Informationen findest du in unseren FAQ zu Vorladungen.
+Zurück nach oben 
+Wenn die Organisation übertragen wird (sehr unwahrscheinlich!)
+Für den unwahrscheinlichen Fall, dass sich die Eigentumsverhältnisse der Foundation ändern, informieren wir dich 30 Tage im Voraus, bevor personenbezogene Daten an die neuen Eigentümer übertragen werden oder einer anderen Datenschutzrichtlinie unterliegen.
+In dem äußerst unwahrscheinlichen Fall, dass sich die Eigentumsverhältnisse an der gesamten oder einem wesentlichen Teil der Foundation ändern oder wir eine Umstrukturierung (z. B. eine Fusion, Konsolidierung oder Übernahme) vornehmen, werden deine personenbezogenen Daten weiterhin vertraulich behandelt, sofern dies nicht in dieser Richtlinie anders vorgesehen ist. Wir informieren dich über die Wikimedia-Seiten und eine Benachrichtigung auf WikimediaAnnounce-L oder eine ähnliche Mailing-Liste mindestens dreißig (30) Kalendertage, bevor deine personenbezogenen Daten übertragen werden oder einer anderen Datenschutzrichtlinie unterliegen.
+Zurück nach oben 
+Um dich, uns oder Andere zu schützen
+Wir oder Nutzer mit bestimmten Administratorrechten verwenden und offenbaren personenbezogene Daten, die angemessen notwendig sind, um: 
+mögliche Verstöße gegen die Richtlinien der Wikimedia Foundation oder der Gemeinschaft durchzusetzen oder zu untersuchen;
+unsere Organisation, Infrastruktur, Mitarbeiter, Auftragnehmer oder die Öffentlichkeit zu schützen; oder
+direkt drohende oder schwere Körperverletzung oder den Tod einer Person zu verhindern.
+Damit verwalten wir unsere Beziehung zu dir, fördern unser rechtmäßiges Interesse und/oder kommen unseren gesetzlichen Pflichten nach.
+Wir oder bestimmte Nutzer mit bestimmten Administratorrechten, wie unten beschrieben, müssen deine personenbezogenen Daten nutzen und weitergeben, wenn dies nach vernünftigem Ermessen notwendig ist, um potenzielle Verstöße gegen unsere Nutzungsbedingungen, diese Datenschutzrichtlinie oder andere Richtlinien der Wikimedia Foundation oder der Benutzergemeinschaft durchzusetzen oder zu untersuchen. Wir müssen möglicherweise auch auf personenbezogene Daten zugreifen und diese weitergeben, um rechtliche Drohungen oder Klagen zu untersuchen und uns dagegen zu verteidigen.
+Wikimedia-Seiten sind kollaborativ, wobei die Nutzer den Großteil der Richtlinien schreiben und aus ihrer Mitte Personen auswählen, die bestimmte Administratorrechte haben. Diese Rechte können den Zugang zu begrenzten Mengen an ansonsten nichtöffentlichen Informationen über die jüngsten Beiträge und Aktivitäten anderer Nutzer enthalten. Du nutzt diesen Zugang, um sich vor Vandalismus und Missbrauch zu schützen, gegen Belästigungen anderer Nutzer vorzugehen und allgemein zu versuchen, störendes Verhalten auf den Wikimedia-Seiten zu minimieren. Diese verschiedenen vom Nutzer ausgewählten Administratorgruppen besitzen ihre eigenen Datenschutz- und Vertraulichkeitsrichtlinien, aber alle diese Gruppen sollen sich damit einverstanden erklären, unsere Richtlinie für den Zugriff auf nicht-öffentlichen Informationen zu befolgen. Diese von den Nutzern ausgewählten Administratorgruppen sind gegenüber den anderen Nutzern rechenschaftspflichtig: Die Nutzer werden durch einen von der Gemeinschaft gesteuerten Prozess gewählt und von ihren Kollegen durch einen protokollierten Verlauf ihrer Aktionen überwacht. Die bürgerlichen Namen dieser Nutzer sind der Wikimedia Foundation jedoch nicht bekannt.
+Auch wenn wir hoffen, dass es dazu nie kommt, können wir deine personenbezogenen Daten offenlegen, wenn wir glauben, dass dies vernünftigerweise notwendig ist, um drohende und ernsthafte körperliche Schäden oder den Tod einer Person zu verhindern, oder um unsere Organisation, Mitarbeiter, Auftragnehmer, Nutzer oder die Öffentlichkeit zu schützen. Wir können deine personenbezogenen Daten auch offenlegen, wenn wir dies für notwendig halten, um potenziellen Spam, Malware, Betrug, Missbrauch, ungesetzliche Aktivitäten und Sicherheits- oder technische Probleme zu erkennen, zu verhindern oder anderweitig zu bewerten und zu beheben. (Weitere Informationen findest du in der Liste der Beispiele in unserer FAQ)
+Zurück nach oben 
+Zu unseren anderen Dienstleistern
+Wir geben personenbezogene Daten an unsere Drittdienstleister oder Auftragnehmer weiter, um den Betrieb oder die Verbesserung der Wikimedia-Seiten zu unterstützen und Dienste zur Unterstützung unserer Aufgabe erbringen.
+Wir setzen Drittanbieter oder Auftragnehmer ein, um die Wikimedia-Seiten für dich und andere Nutzer zu betreiben oder zu verbessern. Wir können diesen Anbietern oder Auftragnehmern nach Bedarf Zugang zu deinen personenbezogenen oder nicht-personenbezogenen Daten gewähren, damit sie ihre Dienstleistungen für uns durchführen oder um ihre Tools und Dienstleistungen einzusetzen. Wir haben Voraussetzungen, wie etwa Vertraulichkeitsvereinbarungen, um sicherzustellen, dass diese Dienstleister deine personenbezogenen Daten unter Einhaltung der Grundsätze dieser Richtlinie behandeln und deine Privatsphäre nicht weniger schützen als diese es vorgibt. Weitere Informationen findest du in unseren FAQ.
+Wenn du die Wikimedia-Seiten mit deinem mobilen Gerät besuchst, verwenden wir deine IP-Adresse, um Dienstleistern anonymisierte oder aggregierte Informationen über das Nutzungsvolumen in bestimmten Bereichen zur Verfügung zu stellen.
+Einige unserer Dienstleister bitten uns, Links zu ihren Datenschutzrichtlinien zu veröffentlichen; eine Liste dieser Dienstleister und Links zu ihren Richtlinien findest du auf dieser Seite.
+Zurück nach oben 
+Zum Verstehen & Experimentieren
+Wir geben freiwilligen Entwicklern und Forschern Zugriff auf Systeme, die deine personenbezogenen Daten enthalten, um dir zu ermöglichen, die Wikimedia-Seiten zu schützen, zu entwickeln und zu ihnen beizutragen.
+Wir teilen auch nicht-personenbezogene Informationen oder aggregierte Informationen mit Dritten, die an der Untersuchung der Wikimedia-Seiten interessiert sind.
+Wenn wir personenbezogene Daten zu diesen Zwecken an Dritte weitergeben, setzen wir angemessene technische und vertragliche Schutzmaßnahmen ein, um deine personenbezogenen Daten in Übereinstimmung mit dieser Richtlinie und unseren berechtigten Interessen zu schützen.
+Die Open-Source-Software, die die Wikimedia-Seiten antreibt, hängt von den Beiträgen freiwilliger Software-Entwickler ab, die Zeit mit dem Schreiben und Testen, Verbessern und Weiterentwickeln des Codes in Anpassung an die Bedürfnisse unserer Nutzer verbringen. Wir gewähren einigen Entwicklern begrenzten Zugriff auf Systeme, die deine personenbezogenen Daten enthalten, um deren Arbeit zu erleichtern. Dies erfolgt jedoch nur in dem Maße, wie es für sie notwendig ist, um die Wikimedia-Seiten zu entwickeln und zu ihnen beizutragen.
+Ebenso geben wir nicht-personenbezogene Informationen oder aggregierte Informationen an Forscher, Wissenschaftler, Akademiker und andere interessierte Dritte weiter, die die Wikimedia-Seiten untersuchen möchten. Die Weitergabe dieser Informationen hilft dir, Nutzungs-, Anzeige- und demographische Statistiken und Muster zu verstehen. Du kannst dann deine Ergebnisse mit uns und unseren Nutzern teilen, damit wir alle die Wikimedia-Seiten besser verstehen und verbessern können.
+Wenn wir Drittanbieter-Entwicklern oder Forschern Zugriff auf persönliche Informationen gewähren, stellen wir Anforderungen, wie zum Beispiel angemessene technische und vertragliche Schutzmaßnahmen, um sicherzustellen, dass diese Dienstleister deine personenbezogenen Daten in Übereinstimmung mit den Grundsätzen dieser Richtlinie und in Übereinstimmung mit unseren Anweisungen behandeln. Wenn diese Entwickler oder Forscher später ihre Arbeiten oder Ergebnisse veröffentlichen, verlangen wir, dass sie deine personenbezogenen Daten nicht weitergeben. Bitte beachte, dass wir trotz der Verpflichtungen, die wir Entwicklern und Forschern auferlegen, nicht garantieren können, dass sie sich an unsere Vereinbarung halten, noch garantieren wir, dass wir ihre Projekte regelmäßig überprüfen oder auditieren. (Mehr über Re-Identifikation erfährst du in unserer FAQ)
+Zurück nach oben 
+Weil du sie veröffentlicht hast
+Informationen, die du veröffentlichst, sind öffentlich und können von jedem gesehen und genutzt werden.
+Alle Informationen, die du öffentlich auf den Wikimedia-Seiten veröffentlichst, sind genau das – öffentlich. Wenn du z. B. deine Postanschrift auf deiner Diskussionsseite angibst, ist diese öffentlich und nicht speziell durch diese Richtlinie geschützt. Wenn du editierst, ohne dich zu registrieren oder in dein Konto einzuloggen, ist deine IP-Adresse öffentlich sichtbar. Bitte überlege dir sich das von dir gewünschte Maß an Privatsphäre genau, bevor du personenbezogene Daten auf deiner Nutzerseite oder an anderer Stelle preisgibst.
+Zurück nach oben 
+ Schutz
+Wie schützen wir deine personenbezogenen Daten?
+Wir setzen zahlreiche physische und technische Maßnahmen, Richtlinien und Verfahren ein, um deine personenbezogenen Daten vor unbefugtem Zugriff, unbefugter Nutzung oder Offenlegung zu schützen.
+Wir bemühen uns, deine Informationen vor unberechtigtem Zugriff, unberechtigter Nutzung oder Offenlegung zu schützen. Wir verwenden zahlreiche physische und technische Maßnahmen, Richtlinien und Verfahren (wie Zugriffskontrollverfahren, Netzwerkfirewalls und physische Sicherheit), um unsere Systeme und deine personenbezogenen Daten zu schützen. Leider gibt es keine absolut sichere Datenübertragung oder -speicherung, sodass wir nicht garantieren können, dass unsere Sicherheit nicht verletzt wird (durch technische Eingriffe oder durch Verletzung unserer Richtlinien und Verfahren).
+Wir fragen dich niemals per E-Mail nach deinem Passwort (können dir jedoch ein temporäres Passwort per E-Mail zusenden, wenn du eine Passwortrücksetzung angefordert hast). Solltest du jemals eine E-Mail erhalten, in der du um dein Passwort gebeten wirst, bitte teile uns dies mit, indem du eine E-Mail an privacy@wikimedia.org sendest, damit wir die Quelle der E-Mail untersuchen können.
+Zurück nach oben 
+Wie lange bewahren wir deine Daten auf?
+Sofern in dieser Richtlinie nicht anders angegeben, bewahren wir deine personenbezogenen Daten nur so lange auf, wie es für die Aufrechterhaltung, das Verständnis und die Verbesserung der Wikimedia-Seiten oder für die Einhaltung der geltenden Gesetze notwendig ist.
+Wenn personenbezogenen Daten von dir erhalten haben, bewahren wir diese für den kürzestmöglichen Zeitraum auf, der mit der Pflege, dem Verständnis und der Verbesserung dieser Wikimedia-Sites und unseren Verpflichtungen nach geltendem US-Recht vereinbar ist. In den meisten Fällen werden personenbezogene Daten nach 90 Tagen gelöscht, aggregiert oder de-identifiziert. Nicht personenbezogene Daten können bei Bedarf für unbestimmte Zeit aufbewahrt werden. (Sehe dir die Liste der Beispiele in unseren FAQ an)
+Vergesse nicht, dass der Seitenverlauf zeigt, wann dein Beitrag übermittelt wurde, deinem Benutzernamen (wenn du angemeldet bist) oder deine IP-Adresse (wenn du ohne Einzuloggen arbeitest) anzeigt, wenn du einen Beitrag zu einer beliebigen Wikimedia-Seite vornimmst. Die Transparenz des Beitrags- und Versionsverlaufs der Projekte ist entscheidend für ihre Wirksamkeit und Vertrauenswürdigkeit. Um mehr über unsere Praktiken zur Datenspeicherung zu erfahren, lese unsere Richtlinien zur Datenspeicherung.
+Zurück nach oben 
+Deine Rechte
+Wenn du Zugang zu deinen personenbezogenen Daten oder deren Löschung verlangen willst, kannst du uns kontaktieren.
+Informationen dazu, wie du die Löschung deiner personenbezogenen Daten anfordern oder andere Rechte, die deine personenbezogenen Daten betreffen, ausüben kannst, findst du in unseren FAQ. Wenn du den Zugriff auf deine personenbezogenen Daten beantragst, diese aktualisieren oder die Verarbeitung einschränken bzw. ablehnen oder eine Kopie deiner personenbezogenen Daten zum Zwecke der Übermittlung an eine andere Organisation erhalten willst, kannst du uns kontaktieren. Wir beantworten deine Anfrage dem geltenden Recht entsprechend.
+Beachte auch, dass du einige dieser Rechte möglicherweise auch ohne unsere Mitwirkung ausüben kannst. Wenn du beispielsweise ein registrierter Nutzer bist, kannst du auf einige personenbezogene Daten in deinen Einstellungen zugreifen und diese aktualisieren oder deine Nutzerkontodaten herunterladen. Du kannst auch in den Einstellungen für Benachrichtigungen einstellen, welche Arten von Benachrichtigungen du erhälst und wie oft du diese erhälst.
+Zurück nach oben 
+ Wichtige Informationen
+Zum Schutz der Wikimedia Foundation und anderer Nutzer darfst du Wikimedia-Seiten nicht nutzen, wenn du mit dieser Datenschutzrichtlinie nicht einverstanden bist.
+Wo befindet sich die Foundation & was bedeutet das für mich?
+Die Wikimedia Foundation ist eine gemeinnützige Organisation mit Sitz in San Francisco, Kalifornien, deren Server und Rechenzentren sich in den USA befinden. Wenn du dich dafür entscheidest, die Wikimedia-Seiten zu nutzen, egal, ob von innerhalb oder außerhalb der USA, ist dir bekannt, dass deine personenbezogenen Daten in den USA gesammelt, übertragen, gespeichert, verarbeitet, offengelegt und anderweitig nutzt werden, wie in dieser Datenschutzrichtlinie beschrieben wird. Du stimmst auch der Übertragung deiner Daten durch uns im Zusammenhang mit der Erbringung von Dienstleistungen für dich aus den USA in andere Länder zu, die andere oder weniger strenge Datenschutzgesetze als dein Land haben kannst.
+Zurück nach oben 
+Unsere Antwort auf Do Not Track (DNT)
+Wir setzen uns stark für den Schutz der nicht-öffentlichen Informationen der Nutzer ein. Im Rahmen dieser Richtlinie dürfen wir deine Informationen nur in bestimmten Situationen weitergeben, über die du im Abschnitt „Wann dürfen wir deine Informationen weitergeben?“ dieser Datenschutzrichtlinie mehr erfahren kannst. Insbesondere geben wir deine personenbezogenen Daten nicht für Marketingzwecke weiter.
+Da wir alle Benutzer in Übereinstimmung mit dieser Datenschutzrichtlinie schützen, ändern wir unser Verhalten nicht in Reaktion auf das „Do Not Track“-Signal eines Webbrowsers. Für weitere Informationen über „Do Not Track“-Signale und wie wir mit diesen umgehen, ziehe bitte die FAQ zu Rate.
+Zurück nach oben 
+Änderungen an dieser Datenschutzrichtlinie
+Wesentliche Änderungen an dieser Richtlinie werden erst nach einem öffentlichen Kommentierungszeitraum von mindestens 30 Tagen vorgenommen.
+Da sich die Dinge im Laufe der Zeit natürlich ändern und wir sicherstellen wollen, dass unsere Datenschutzrichtlinie unsere Praktiken und das Gesetz korrekt widerspiegelt, behalten wir uns das Recht vor, diese Datenschutzrichtlinie hin und wieder zu ändern. Wir behalten uns das Recht vor, dies in folgender Weise zu tun:
+Bei wesentlichen Änderungen stellen wir unseren Nutzern die vorgesehenen Änderungen für einen offenen Kommentierungszeitraum von mindestens dreißig (30) Kalendertagen in mindestens drei (3) (nach unserem Ermessen ausgewählten) Sprachen zur Verfügung. Vor dem Beginn eines Kommentierungszeitraums geben wir solche Änderungen und die Möglichkeit zur Stellungnahme über die Wikimedia-Seiten und über eine Benachrichtigung auf WikimediaAnnounce-L oder einer ähnlichen Mailingliste bekannt.
+Bei geringfügigen Änderungen, wie etwa grammatikalischen Korrekturen, administrativen oder rechtlichen Änderungen oder Korrekturen von ungenauen Angaben, werden wir die Änderungen veröffentlichen und, wenn möglich, mindestens drei (3) Kalendertage vorher über WikimediaAnnounce-L oder eine ähnliche Mailingliste bekannt geben.
+Wir bitten dich, die aktuellste Version dieser Datenschutzrichtlinie zu lesen. Deine fortgesetzte Nutzung der Wikimedia-Seiten nach dem Datum des Inkrafttretens einer späteren Version dieser Datenschutzrichtlinie stellt die Annahme dieser Datenschutzrichtlinie deinerseites dar.
+Zurück nach oben 
+Kontakt
+Wenn du Fragen oder Anregungen zu dieser Datenschutzrichtlinie oder den gemäß dieser Datenschutzrichtlinie gesammelten Informationen hast, sende uns bitte eine E-Mail an privacy@wikimedia.org oder kontaktiere uns direkt. Wenn du im Europäischen Wirtschaftsraum ansässig bist und Fragen zu deinen personenbezogenen Daten hast oder Zugriff auf diese, ihre Aktualisierung oder Löschung beantragen möchtest, erreichst du unseren Vertreter per E-Mail unter EUrepresentative.Wikimedia@twobirds.com oder per Post unter:
+Bird & Bird GDPR Representative Ireland
+29 Earlsfort Terrace
+Dublin 2
+D02 AY28
+Ireland
+Kontaktstelle: Vincent Rezzouk-Hammachi
+Wenn du im Vereinigten Königreich ansässig bist und Fragen zu deinen personenbezogenen Daten hast oder Zugriff auf diese, ihre Aktualisierung oder Löschung beantragen möchten, erreichst du unseren Vertreter per E-Mail unter UKrepresentative.Wikimedia@twobirds.com oder per Post unter:
+Bird & Bird GDPR Representative Services UK
+12 New Fetter Lane
+London
+EC4A 1JP
+United Kingdom
+Hauptkontaktstelle: Vincent Rezzouk-Hammachi
+Unser Vertreter für den Europäischen Wirtschaftsraum und das Vereinigte Königreich kann nur für Fragen zum Datenschutz kontaktiert werden.
+Abhängig von deiner Gerichtsbarkeit hast du zudem gegebenenfalls das Recht, eine Beschwerde bei einer für dein Land oder deine Region zuständigen Aufsichtsbehörde einzureichen.
+Vielen Dank!
+Vielen Dank, dass du unsere Datenschutzrichtlinie gelesen habst. Wir wünschen dir viel Spaß bei der Nutzung der Wikimedia-Seiten und freuen uns über deine Teilnahme an der Erstellung, Pflege und ständigen Verbesserung der größten Sammlung von freiem Wissen in der Welt.
+Bitte beachte, dass im Falle von Unterschieden hinsichtlich der Bedeutung oder Auslegung zwischen der originalen englischen Fassung dieser Datenschutzrichtlinie und einer Übersetzung, die originale englische Version Vorrang hat.
+Diese Version wurde am 7. Juni 2021 von Amanda Keton gemäß der Delegation von Entscheidungsbefugnissen des Kuratoriums genehmigt und trat am 25. Juni 2021 in Kraft. Frühere Versionen finden sich unten:
+Datenschutzrichtlinie (Mai 2018 - Juni 2021): in Kraft vom 24. Mai 2018 bis zum 24. Juni 2021
+Datenschutzrichtlinie (Juni 2014 - Mai 2018): in Kraft vom 6. Juni 2014 bis zum 24. Mai 2018
+Datenschutzrichtlinie (November 2008 - Juni 2014): in Kraft vom 25. November 2008 bis zum 6. Juni 2014
+Datenschutzrichtlinie (August 2008 - November 2008): in Kraft vom 19. August 2008 bis zum 25. November 2008
+Datenschutzrichtlinie (Juni 2006 - August 2008): in Kraft vom 21. Juni 2006 bis zum 19. August 2008
+Datenschutzrichtlinie (April 2005 - Juni 2006): in Kraft von April 2005 bis zum 21. Juni 2006
++/-
+übersetzen
+Datenschutzbezogene Seiten
+Datenschutzrichtlinie
+Häufig gestellte Fragen
+Glossar von Schlüsselbegriffen
+FAQ zur Beschlagnahmeanordnung
+Richtlinie zur Datenvorratsspeicherung
+Stellungnahme zu Cookies
+Zugang zu nichtöffentlichen persönlichen Daten
+Vertraulichkeitsvereinbarung
+Wie unterschreibe ich?
+Ausnahmen für Minderjährige
+Anfrageseite
+Datenschutzrichtlinie für Spender
+Retrieved from "https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy/de&oldid=258700"
+Categories: Policies/dePrivacy policy/de
+ This page was last edited on 1 June 2023, at 08:57.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Wikimedia Foundation Governance Wiki
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

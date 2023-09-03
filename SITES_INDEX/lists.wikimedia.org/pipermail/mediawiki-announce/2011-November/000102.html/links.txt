@@ -1,0 +1,8 @@
+http://www.mediawiki.org/wiki/Extension:DublinCoreRdf
+http://www.mediawiki.org/wiki/Extension:CreativeCoreRdf
+http://www.mediawiki.org/wiki/Extension:Math
+http://www.mediawiki.org/wiki/Release_notes/1.18
+http://download.wikimedia.org/mediawiki/1.18/mediawiki-1.18.0beta1.tar.gz
+http://download.wikimedia.org/mediawiki/1.18/mediawiki-1.18.0beta1.tar.gz.si
+https://secure.wikimedia.org/keys.html
+https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce

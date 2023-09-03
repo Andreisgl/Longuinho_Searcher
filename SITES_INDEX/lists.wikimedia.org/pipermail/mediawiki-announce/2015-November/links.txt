@@ -1,0 +1,9 @@
+https://www.mediawiki.org/wiki/MediaWiki_1.26
+https://phabricator.wikimedia.org/diffusion/MW/browse/REL1_26/RELEASE-NOTES-1.26
+https://www.mediawiki.org/wiki/Release_notes/1.26
+http://download.wikimedia.org/mediawiki/1.26/mediawiki-1.26.0.tar.gz
+http://download.wikimedia.org/mediawiki/1.26/mediawiki-core-1.26.0.tar.gz
+http://download.wikimedia.org/mediawiki/1.26/mediawiki-core-1.26.0.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.26/mediawiki-1.26.0.tar.gz.sig
+https://www.mediawiki.org/keys/keys.html
+http://hyperkitty.readthedocs.org

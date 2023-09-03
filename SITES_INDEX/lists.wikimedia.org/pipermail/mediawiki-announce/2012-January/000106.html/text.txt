@@ -1,0 +1,44 @@
+ [MediaWiki-announce] MediaWiki security release 1.17.2
+   
+[MediaWiki-announce] MediaWiki security release 1.17.2
+Sam Reed
+reedy at wikimedia.org
+       
+Wed Jan 11 21:50:21 UTC 2012
+Next message: [MediaWiki-announce] MediaWiki security and maintenance release1.18.1
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+I would like to announce the release of MediaWiki 1.17.2. One security
+issue was discovered.
+Roan Kattouw discovered an issue with the API, where prop=revisions would
+expose
+deleted text to unprivileged users through cache pollution.
+For more details, see https://bugzilla.wikimedia.org/show_bug.cgi?id=33117
+Full release notes:
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_17_2/phase3/RELEASE-NOT
+ES
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-1.17.2.tar.gz
+Patch to previous version (1.17.1), without interface text:
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-1.17.2.patch.gz
+Interface text changes:
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-i18n-1.17.2.patch.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-1.17.2.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-1.17.2.patch.gz.sig
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-i18n-1.17.2.patch.gz.
+sig
+Public keys:
+https://secure.wikimedia.org/keys.html
+Next message: [MediaWiki-announce] MediaWiki security and maintenance release1.18.1
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+More information about the MediaWiki-announce
+mailing list

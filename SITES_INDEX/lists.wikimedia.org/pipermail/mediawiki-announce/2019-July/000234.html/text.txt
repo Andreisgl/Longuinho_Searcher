@@ -1,0 +1,365 @@
+[MediaWiki-announce] Maintenance release: 1.31.3 and 1.32.3 - MediaWiki-announce - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+                            2023
+                        
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2022
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2021
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2020
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2019
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2018
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2017
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2016
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2015
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2014
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2013
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2012
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2011
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2010
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2009
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2008
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2007
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2006
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2005
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2004
+                        
+December
+            List overview
+ Download
+thread
+[MediaWiki-announce] Maintenance release: 1.31.3 and 1.32.3
+Sam Reed
+                2 Jul
+                
+                    2019
+                
+            
+                2 Jul
+                
+                '19
+                
+            
+9:52 p.m.
+ 
+Hi all,
+I would like to announce the release of MediaWiki 1.32.3 and 1.31.3. These
+releases primarily fixes two issues that were causing some users problems
+when using composer and when upgrading from older versions of MediaWiki
+if they were using the SQLite database backend. Some other minor fixes are
+also included.
+* (T226766) Remove jetbrains/phpstorm-stubs from composer dev dependancies.
+* (T202211) Fix SQLite patch-(image|page|template)links-fix-pk.sql column
+order.
+== Links to all mentioned tasks ==
+* https://phabricator.wikimedia.org/T202211
+* https://phabricator.wikimedia.org/T226766
+== Release notes ==
+Full release notes for 1.31.3:
+https://phabricator.wikimedia.org/diffusion/MW/browse/REL1_31/RELEASE-NOTES…
+https://www.mediawiki.org/wiki/Release_notes/1.31
+Full release notes for 1.32.3:
+https://phabricator.wikimedia.org/diffusion/MW/browse/REL1_32/RELEASE-NOTES…
+https://www.mediawiki.org/wiki/Release_notes/1.32
+For information about how to upgrade, see
+<https://www.mediawiki.org/wiki/Manual:Upgrading>
+**********************************************************************
+Download:
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-1.31.3.tar.gz
+Download without bundled extensions:
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-core-1.31.3.tar.gz
+Patch to previous version (1.31.2):
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-1.31.3.patch.gz
+GPG signatures:
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-core-1.31.3.tar.gz.…
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-1.31.3.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-1.31.3.patch.gz.sig
+Public keys:
+https://www.mediawiki.org/keys/keys.html
+**********************************************************************
+Download:
+https://releases.wikimedia.org/mediawiki/1.32/mediawiki-1.32.3.tar.gz
+Download without bundled extensions:
+https://releases.wikimedia.org/mediawiki/1.32/mediawiki-core-1.32.3.tar.gz
+Patch to previous version (1.32.2):
+https://releases.wikimedia.org/mediawiki/1.32/mediawiki-1.32.3.patch.gz
+GPG signatures:
+https://releases.wikimedia.org/mediawiki/1.32/mediawiki-core-1.32.3.tar.gz.…
+https://releases.wikimedia.org/mediawiki/1.32/mediawiki-1.32.3.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.32/mediawiki-1.32.3.patch.gz.sig
+Public keys:
+https://www.mediawiki.org/keys/keys.html
+ 0
+ 0
+            Reply
+        
+Back to the thread
+            Back to the list
+        
+ 
+            Powered by HyperKitty version 1.3.4.
+        

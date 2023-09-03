@@ -1,0 +1,67 @@
+Global sysops/Requests - Meta
+Global sysops/Requests
+From Meta, a Wikimedia project coordination wiki
+< Global sysops
+Jump to navigation
+Jump to search
+Global sysop requests
+Translate
+Shortcut: GSR
+This page is monitored by global sysops and stewards for simple requests for deletion or blocking on wikis with no active administrators. It is an alternative option available to using IRC to make a quick request. Please do not use this page for controversial requests; this is intended to be a venue for quick cleanup of GS-wikis. Formal or controversial requests can be filed at Steward requests/Miscellaneous.
+A bot automatically updates a list of all speedy deletion requests - global sysops can review it at Global sysops/Speedy delete requests.
+Global sysops: Please clear page contents after processing requests.
+ Edit
+ Reset
+Requests
+Please brew page MediaWiki:Babel-footer with content Uzantaro de vikivortaro and page MediaWiki:Babel-footer-url with content :Kategorio:Uzantaro. Better link to existing cat. Taylor 49 (talk) 10:30, 6 August 2023 (UTC)Reply[reply]
+footer-url's request seems invalid, default is a babel cat, Kategorio:Uzantaro is an umbrella category for all user-related pages. --Minorax«¦talk¦» 08:17, 19 August 2023 (UTC)Reply[reply]
+@User:Minorax: Alternatively eo:wikt:Kategorio:Vikivortaristo laŭ lingvo :Kategorio:Vikivortaristo laŭ lingvo. Still I do not agree that "Kategorio:Uzantaro" is "invalid" given that the "babel" syntax can eat templates and produce cat insertions outside of Cat:Wikipedians_by_language ie exactly matching the scope of the category that I proposed originally. Taylor 49 (talk) 18:34, 22 August 2023 (UTC)Reply[reply]
+Fixed an error in above proposal. BTW, 21 days have elapsed. Taylor 49 (talk) 11:14, 27 August 2023 (UTC)Reply[reply]
+please delete [1] [2] [3] [4] unused template and module, the last one further not in project language. Taylor 49 (talk) 17:30, 25 August 2023 (UTC)Reply[reply]
+Please delete w:diq:Duran Çetin: Spam Kadı Message 16:37, 26 August 2023 (UTC)Reply[reply]
+Please delete w:ny:Abhishek S Chauhan: Spam Lymantria (talk) 11:05, 27 August 2023 (UTC)Reply[reply]
+Add back quote of the day template https://fa.wikiquote.org/w/index.php?title=%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C&diff=prev&oldid=33225 Baratiiman (talk) 12:17, 27 August 2023 (UTC)Reply[reply]
+Please delete wikt:fa:پاچه خوار: Test page —Yahya (talk • contribs.) 11:42, 29 August 2023 (UTC)Reply[reply]
+Please delete w:si:Taman gendheng: Spam Leonidlednev (talk) 17:23, 31 August 2023 (UTC)Reply[reply]
+Please delete w:si:ካታሎግ: Spam Leonidlednev (talk) 17:25, 31 August 2023 (UTC)Reply[reply]
+Please delete q:tr:AKVARYUM BİTKİLERİ: Nonsense Kadı Message 19:52, 31 August 2023 (UTC)Reply[reply]
+Please delete q:tr:Atatürk Hakkında Kim Ne Demiş?: Mustafa Kemal Atatürk/Atatürk hakkında söylenmiş sözler is created. No need to kept this page. Clean Up. Kadı Message 19:54, 31 August 2023 (UTC)Reply[reply]
+Please delete q:tr:Ateistin Kutsal Kitabı Joan Konner Sayfa 101 - NOTOS: Nonsense Kadı Message 19:55, 31 August 2023 (UTC)Reply[reply]
+Please delete q:tr:Herbert J. Taylor: Spam Kadı Message 19:58, 31 August 2023 (UTC)Reply[reply]
+Please delete q:tr:Yakup Deniz: spam, not notable Kadı Message 20:08, 31 August 2023 (UTC)Reply[reply]
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Global_sysops/Requests&oldid=25545288"
+Category: Global sysops
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Content pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+In other languages
+Add links
+ This page was last edited on 31 August 2023, at 20:08.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

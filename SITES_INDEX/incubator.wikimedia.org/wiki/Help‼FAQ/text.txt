@@ -1,0 +1,266 @@
+Help:FAQ - Wikimedia Incubator
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageList of wikisCommunity portalAll recent changesHelpManualDonate
+Navigation
+Main pageRecent changesRandom page
+Languages
+Language links are at the top of the page across from the title.
+Wikimedia Incubator
+Search
+Search
+ EnglishCreate accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+Beginning
+1Is this part of Wikipedia? What is Wikimedia, and MediaWiki?
+2Incubator and approval
+Toggle Incubator and approval subsection
+2.1What are the rules and policies?
+2.2How do I upload an image?
+2.3How do I start a new test wiki?
+2.4When will our test wiki have its own site?
+2.5How do we develop an active test project?
+2.5.1What to write? And what to write about?
+2.6Why does the subdomain not work? Why does the URL not redirect to Incubator? How do the redirects work?
+2.7How can we use interwiki links?
+3Prefix
+Toggle Prefix subsection
+3.1What is a prefix?
+3.2What is the prefix of our test wiki?
+3.2.1Help, I have no ISO code!
+3.3Why must all pages be prefixed?
+3.4How to link to prefixed pages?
+3.5I still don't understand it, or I don't know what the prefix is
+4New wiki created
+Toggle New wiki created subsection
+4.1Our wiki is created! But what do I need to do now?
+4.2On Special:Statistics, the counter gives a low number of articles!
+4.3Why are some pages not imported?
+4.4How do we set our own logo?
+4.5How do we change our sitename?
+4.6How does someone become admin?
+4.7Interwiki links to our new project don't work!
+4.8We are not listed on meta:List of Wikipedias! (or a similar list)
+5Localisation, interface, etc.
+Toggle Localisation, interface, etc. subsection
+5.1The interface is in English, how can I change it to a language I speak?
+5.2My language is not in the list on Special:Preferences? / I've chosen my language but it is still in English?
+6My question is not answered.
+Toggle the table of contents
+Toggle the table of contents
+Help:FAQ
+Add languages
+Add links
+Help pageDiscussion
+English
+ReadView sourceView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadView sourceView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+Print/export
+Create a bookDownload as PDFPrintable version
+From Wikimedia Incubator
+Translate this pageYou can also read this page in:Bahasa Indonesia
+Bahasa Melayu
+British English
+Deutsch
+Deutsch (Sie-Form)
+English
+Esperanto
+Fakaʻuvea
+Frysk
+Hunsrik
+Li Niha
+Mara
+Napulitano
+Nederlands
+Patois
+Pälzisch
+Sassaresu
+Scots
+Soomaaliga
+Taqbaylit
+Tiếng Việt
+Türkçe
+Zazaki
+azərbaycanca
+chiShona
+dansk
+español
+français
+galego
+italiano
+lietuvių
+magyar
+polski
+português
+português do Brasil
+română
+srpskohrvatski / српскохрватски
+suomi
+svenska
+Ænglisc
+čeština
+Ελληνικά
+башҡортса
+беларуская
+русский
+українська
+العربية
+بختیاری
+تۆرکجه
+روچ کپتین بلوچی
+سرائیکی
+فارسی
+لئری دوٙمینی
+مصرى
+پښتو
+کھوار
+अंगिका
+अवधी
+मगही
+हिन्दी
+বাংলা
+ગુજરાતી
+தமிழ்
+ಕನ್ನಡ
+සිංහල
+ไทย
+ပအိုဝ်ႏဘာႏသာႏ
+ဘာသာ မန်
+မြန်မာဘာသာ
+ရခိုင်
+ၽႃႇသႃႇတႆး 
+მარგალური
+ქართული
+Ἀρχαία ἑλληνικὴ
+ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ
+中文
+中文（简体）
+文言
+日本語
+粵語
+ꆇꉙ
+ꯃꯤꯇꯩ ꯂꯣꯟ
+한국어
+These are the Frequently Asked Questions.
+Is this part of Wikipedia? What is Wikimedia, and MediaWiki?
+Take a look at these images:
+The Wikimedia Incubator is part of the Wikimedia Foundation which operates various projects, like Wikipedia.
+Incubator and approval
+What are the rules and policies?
+You can find the policy on Incubator:Policy. See also Category:Incubator:Policy.
+How do I upload an image?
+If you are a registered user, you normally can upload a file through Special:Upload but it's disabled here. You have to upload it on Wikimedia Commons. You can find more information on Incubator:Upload.
+How do I start a new test wiki?
+Follow the instructions on Help:Manual. Note that you really need a valid ISO 639 language code.
+When will our test wiki have its own site?
+After you have submitted a request at Meta, the test wiki will remain on Incubator until the Language committee gives its approval. The wiki will first be verified to be eligible, that means the test wiki is allowed to have its own wiki. Then you will see a link to a status page. There you can easily see what needs to be done yet. If everything has been done and your test wiki here is still active, the test wiki will be approved. After approval, it takes some time before a bug is submitted and before the wiki is actually created.
+How do we develop an active test project?
+What to write? And what to write about?
+See also the Manual for small and new Wikipedias on Meta.
+For Test-Wikipedias:
+You will want to have a high-quality encyclopaedia. Please write a few suggestions for writers. Are there websites in your language about how to write? Maybe you want to add a dictionary or a grammar guide here. Put in everything that could be useful for writers.
+You can use the list of articles every Wikipedia should have as an inspiration for topics to write about.
+Articles about the region where your language is spoken are probably of special interest for your readers.
+Geography, History, Society, Politics
+Science, Technology, Arts, Religion, Sports
+You can translate articles from other Wikipedias, so long as you attribute the source of the text that you are translating, to satisfy our licensing requirements. This can be done in the edit summary by including a statement such as "translated from the article [[:en:Title]] on the English Wikipedia".
+Why does the subdomain not work? Why does the URL not redirect to Incubator? How do the redirects work?
+For a test wiki on Incubator in a language listed on Special:SiteMatrix, the URL redirects to Incubator (redlinks on Special:SiteMatrix).
+Exceptions:
+Previously existing wikis that were closed (struck-through bluelinks).
+Wikis in languages not listed there (usually Wikipedias).
+Wikiversities and Wikisources.
+You can specify a normal URL, and it will redirect to the page on Incubator (xyz.wikiproject.org/wiki/Page → incubator.wikimedia.org/wiki/Wx/xyz/Page) but it will not take into account parameters like "action=history". The base URL xyz.wikiproject.org will redirect to the Wx/xyz/Main_Page if it exists, and it will take into account a "uselang" parameter.
+How can we use interwiki links?
+For Wikipedia test-projects, you can use interwiki links in the normal format (e.g. [[ru:Page name]] for an interwiki link to the Russian Wikipedia). Wikidata unfortunately does not yet work for Incubator, but there is a bot which updates interwiki links from time to time. Interwiki links in the sidebar from existing Wikipedias to Incubator pages are not possible.
+For other projects, you can use interwiki links by adding the project code, e.g. [[en:voy:Page]] for Links to the English Wikivoyage, [[fr:wikt:Page]] for French Wiktionary, and so on.
+Prefix
+Shortcuts:
+I:PREFIXI:PFIX
+What is a prefix?
+A prefix is the first part of a page title, if you go to a random page you will likely go to a page "Wx/xx/Page title". The first two letters indicate the project, then a slash, the following two or three letters indicate the language, then another slash, then the normal page title as it will be when the wiki is created.
+Prefixes are used in all namespaces for test-wiki content, e.g. "Template:Wx/xx/Template name" and "Category:Wx/xx/Category name". Note that the language code must be lowercase.
+Important note: The Help: and Project: (Incubator:) namespaces are reserved for pages serving the entire Incubator. To create a page for the Help: or Project: (e.g., "Wikipedia:") namespace of your test, place the page in mainspace by putting the namespace in after the prefix (e.g., "Wx/xx/Help:Help page" or "Wx/xx/Wiktionary:Project page").
+What is the prefix of our test wiki?
+This needs to be Project/code
+Project: Normally the first project you make in a new language is Wikipedia, in which case use Wp, but it can also be: Wiktionary (prefix "Wt/"), Wikiquote (prefix "Wq/"), Wikibooks (prefix "Wb/"), Wikinews (prefix "Wn/"), or Wikivoyage (prefix "Wy/"). Wikisource and Wikiversity projects are hosted elsewhere: oldwikisource: and betawikiversity:.
+Code: The ISO 639 code of your language. The language must have a valid ISO 639 code (search).
+Help, I have no ISO code!
+Sorry, but you cannot start a test wiki here.
+You can try submitting a request for an ISO 639 code.
+You can start one at Incubator Plus, but you won't get your own Wikimedia wiki.
+Why must all pages be prefixed?
+There are several reasons:
+Logically, to distinguish the pages between the test languages.
+For example, if there is one page (e.g. "Europa") which is the same in many, many languages. Which test will have an article with that name? What should the other test have to do?  Prefixes solve this problem.
+The prefixed pages will be imported when your test language has its own subdomain, the unprefixed pages will not.
+Pages have to be imported instead of just copied. It is very, very hard to import pages without a prefix.
+The prefixed pages will be listed in the analysis for your test language, the unprefixed not.
+So, in some way, you will get your own wiki faster :-)
+How to link to prefixed pages?
+The AddPrefix gadget is enabled by default for everyone (since 2022). Using it, you link to prefixed pages with normal link syntax like you would in any other wiki, and it will be converted into prefixed links. For example, [[Page title]] will be converted into [[Wx/xx/Page title|Page title]] automatically.
+If you don't have JavaScript enabled, or if you for some other reason wish to edit without the gadget, you need to add the prefix manually to all links, categories and templates when you edit a test wiki.
+I still don't understand it, or I don't know what the prefix is
+Try asking in the community portal for help.
+New wiki created
+Shortcut:
+I:NEWWIKI
+Our wiki is created! But what do I need to do now?
+First of all, do not start copying or editing! Someone will import pages from here to the new wiki, see Incubator:Importing from Incubator for more information.
+Your login credentials should work on the new wiki as unified login is now available on all Wikimedia projects.
+On Special:Statistics, the counter gives a low number of articles!
+It is a known problem that the number of pages is incorrect for new wikis. The counter is updated automatically after some time, so maybe it will be correct after a few days. Otherwise, developers need to run maintenance scripts to fix it.
+Why are some pages not imported?
+You probably got the number of articles from Special:Statistics or {{NUMBEROFARTICLES}}.
+It is a known problem that page count is incorrect after import. So, look at Special:Allpages for the real number (no number, but a list of all pages). On the other side, after previous imports there were some pages missing. This could be fixed meanwhile, but it is still possible that there are some pages missing. If so, please report it to the user who imported the pages to your wiki.
+How do we set our own logo?
+First of all, add (or fix) the translation of name and motto of your project to your language in this list so that it will be possible in future to re-create the logo, and remove 5=incubator from your row if you have your own wiki now.
+The page has also links to some how-tos: upload the logo on Commons under its standard title (like File:Wikipedia-logo-v2-en.png for en.wikipedia) and protect that image or ask someone with sysop access to do so. If you're not able to create it yourself, it's possible that someone else will do it for you from the list above; to ask for help, try the talk page of the logo galleries on Commons, e.g. commons:Wikipedia/2.0.
+Remember that the logo must be 135 pixels wide and transparent. If you are sure it is correctly done, request on Phabricator (help) under the Wikimedia-Site-Requests tag to set your logo.
+How do we change our sitename?
+Request at Phabricator under the Wikimedia-Site-Requests project tag to change the sitename.
+How does someone become admin?
+You can either request temporary adminship on the Meta page for permission requests, or you can elect an admin on your new wiki and then request normal adminship on the same page, with a link to the local election.
+Interwiki links to our new project don't work!
+This occurs often for languages that are new to Wikimedia. Have patience, probably the issue is already reported and it will be resolved soon.
+We are not listed on meta:List of Wikipedias! (or a similar list)
+Don't worry, it will be updated soon. If not, you can always open a bug on Phabricator (tag with: VPS-project-Wikistats).
+Localisation, interface, etc.
+The interface is in English, how can I change it to a language I speak?
+First, you need to be logged in. Then you can easily change your language in Special:Preferences (the list somewhere in the middle). Also see here for interface translation: Special:MyLanguage/Help:Manual#5 Alternatively, you can change the language by clicking at the name of your current interface language which is displayed at the top of the page, next to your user name.
+ My language is not in the list on Special:Preferences? / I've chosen my language but it is still in English?
+This means your language is not yet translated, or not completely translated. If you are willing to translate it, you can do that on Translatewiki.net (follow the instructions on Special:FirstSteps). See also the localisation statistics on Translatewiki and Translation project on Incubator.
+My question is not answered.
+Try asking in the Community Portal. The question and answer will be added here.
+Retrieved from "https://incubator.wikimedia.org/w/index.php?title=Help:FAQ&oldid=5991022"
+Category: Help:(all)
+ This page was last edited on 18 June 2023, at 08:25.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Wikimedia Incubator
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

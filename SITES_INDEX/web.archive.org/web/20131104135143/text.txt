@@ -1,0 +1,286 @@
+38 captures
+04 Nov 2013 - 28 Feb 2023
+Oct
+NOV
+Dec
+04
+2012
+2013
+2014
+success
+fail
+ About this capture
+COLLECTED BY
+Organization: Internet Archive
+  These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to.   That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.  
+Then the Internet Archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.
+The goal is to fix all broken links on the web. 
+Crawls of supported "No More 404" sites.
+Collection: Wikipedia Near Real Time (from IRC)
+  This is a collection of web page captures from links added to, or changed on, Wikipedia pages. The idea is to bring a reliability to Wikipedia outlinks so that if the pages referenced by Wikipedia articles are changed, or go away, a reader can permanently find what was originally referred to.
+This is part of the Internet Archive's attempt to rid the web of broken links.
+TIMESTAMPS
+The Wayback Machine - http://web.archive.org/web/20131104135143/http://perens.com/works/articles/State8Feb2008.html
+Press contact: Bruce Perens, email bruce at perens dot com .
+You may publish this entire work or excerpts thereof, but
+you must attribute it to the author, Bruce Perens. Online media should
+include a link back to this document. You may alter this document as
+necessary to reformat it for presentation or translate it, but you may
+not edit it to make it appear as if my opinion is different than presented
+here.
+Translations:
+Fran?ais
+T?rk?e
+简体中文
+(Mandarin Chinese - Simple)
+繁體中文
+(Mandarin Chinese - Traditional)
+On February 9, 1998, I published the
+Open Source Definition
+and the public announcement of the
+Open Source Initiative
+that Eric Raymond and I were starting.
+This was the first time that the general public heard what
+Open Source
+was about. Friday, February 8 is the
+last day of
+Decade Zero
+of Open Source. Saturday, February 9 is the anniversary of Open Source
+and the start of
+Decade One.
+It's a computer scientist thing. We always start counting from zero :-)
+Of course, in building our Open Source campaign, we were standing on
+the shoulders of a giant. Starting in the
+early 1980's, Richard Stallman
+blazed the trail with his philosophy of
+Free Software
+and the creation of the
+GNU System,
+which, most notably when it was combined with the Linux
+kernel, changed the way software works forever.
+And that brings me to our first mistake: for a time, there was
+a conflict between
+Open Source
+and
+Free Software
+evangelism.
+My intent has always been for Open Source to simply be another way
+of talking about Free Software, tailored to the ears of business
+people, and that it would eventually lead them to a greater appreciation
+of
+Richard Stallman's arguments. This has come to pass, and I hope you'll
+continue to make it so. One only had to witness the attendance of the
+GPL 3 committees to see that the importance of FSF's work was
+appreciated by the largest of corporations.
+Had you asked me in on that day in 1998 how far I thought this
+phenomenon would go, I would not have come close to predicting the
+success that exists today. As we enter decade one,
+Free Software / Open Source is mainstream. Indeed, we are the leader
+in many business computing categories.
+Our most pervasive penetration has been in business servers and
+embedded systems.
+These days there are, for the most part, two sorts of businesses
+regarding Open Source
+use: ones whose management is aware of how much they depend on Open
+Source, and the ones where the boss doesn't know yet.
+In contrast, we have not yet achieved the penetration that we might
+have desired on user desktop systems, at least if you don't count the
+fact that Free Software provides a large part of Apple's MacOS today,
+and critical elements of Microsoft Windows as well. Both
+companies have been forced to develop strategies to live with us, some
+of them less comfortable than others. Today we are seeing much of the
+value of software move from the desktop to the network, an area in which
+we are already entrenched. This can only lead to the expansion of Open
+Source on the
+systems in individual user's hands.
+There been a phenomenon of wealth creation by Open Source
+companies, starting with Red Hat's IPO and leading most recently to the
+purchase of MySQL for 1.1 Billion dollars seven years after the company's
+creation. But I would warn those of you who consider Open Source by its
+companies:
+you're missing the biggest part of the phenomenon.
+Most
+Open Source today is software being produced by its users, for its users.
+The largest part of the payment for Open Source development today comes
+from cost-center budgets of IT users, be they companies, institutions,
+or individuals, rather than profit-centers based on Open Source like
+that of MySQL. By participating in Open Source development, users
+distribute the cost and risk of the development of enabling technology
+and infrastructure for their businesses. Their profit centers are not
+tied to software sales, but to some other business. To find them, look
+to the communities rather than the companies.
+One recent phenomenon has been the appearance of government officials
+openly on the stage at conferences concerning Free Software. Of late,
+it's my turn to speak when the minister has finished his greeting, and
+they are always announcing some national government initiative concerning
+Open Source. OK, I speak outside of the U.S. a lot, but even in the
+U.S. we are seeing Linux (and presumably the GNU system) in a USD$200 Billion
+defense project with Boeing as the prime contractor. Nobody's apologizing
+to the proprietary software industry for doing this any longer. Indeed,
+we have become such an accepted part of the software industry that
+most proprietary software vendors make use of Open Source in development
+or to inter-operate with their products, and many
+include Open Source components in their products. Only a few
+remaining bad apples feel a need to fight us.
+We have actually changed the way that innovation happens.
+Innovation has gone public.
+Many companies, institutions, and individuals share innovation on a
+daily basis, entirely in the open, through Free Software development
+communities. The products they produce are the leaders in their field.
+Public innovation eliminates the high transaction costs of lawyers,
+lawsuits and licensing.
+It focuses on
+building a fertile community
+across the market
+for idea creation and utilization rather
+than dividing the market for the direct monetization of ideas as property.
+This is the economically most efficient approach for most companies.
+My previous reports have discussed SCO. SCO is toast. Good riddance.
+However, many in our community have been damaged by SCO's allegations
+and will never be compensated. Mr. Ralph Yarro made some tens of millions
+from the rise of SCO's stock on anticipation that they'd win something.
+He has been allowed to keep those funds. I see no suit, legal charge,
+or SEC investigation against him so far. We must also note Microsoft's
+participation as financial backer of SCO, as revealed in sworn testimony
+during the case. And finally, there were two suicides in connection with the
+SCO case: Val Noorda Kreidel, the only daughter of SCO founder Ray Noorda,
+and Robert Penrose, IT director for SCO holding company Canopy Group.
+One can only wonder at the pressure these poor souls were under.
+Microsoft remains a problem, as the bastion of the old way of thinking
+about software, and as the epitome of the old school of dirty corporate
+fighting. Their current strategy seems to be to poison
+us with money, most recently by making patent agreements with a number of Linux
+distributions.
+These agreements go against the spirit of the software licenses used by our
+developers, and were perhaps intended to dissuade developers from
+contributing their work.
+To this end, Microsoft poured more money into Novell
+last year than Novell's annual profit - indeed Novell would have had no
+annual profit without Microsoft.
+But Microsoft's continuing attempts at
+patent-based FUD, for all they cost, don't seem to be effective.
+They've not caught the big fish with their agreements, but only the
+third-ranking Novell and
+a handful of also-ran distributions that few knew were still in business.
+These companies have offended their own enterprise customers, who hate the
+idea of patent FUD directed at their own operations. They are
+viewed with suspicion by many Open Source developers, although some have
+been too quick to forgive.
+Aside from that, the most visible effect of Microsoft's influence seems
+to have been to send some
+Open Source projects in arguably hurtful or merely absurd directions,
+as with Novell's
+propagandizing projects to participate in Office Open XML.
+Reassuringly, Microsoft remains visibly heavy-handed. Their ballot-box
+stuffing around the OOXML standards process has won them few friends
+among national standards organizations and has made governments take
+a hard look at a situation that they otherwise would have left to
+the techies.
+Some see the potential purchase of Yahoo by Microsoft as a threat.
+Certainly it might curtail or corrupt some of Yahoo's involvements
+in Open Source communities, and in half-Open-Source products like Zimbra.
+But a buy-the-loser strategy could potentially suck up a large part of
+Microsoft's unpleasantly (to us) ample cash while leaving them with the
+loser.
+An increase of Microsoft's influence in the content
+business could mean the entrance of DRM into conventional web pages.
+Goodbye "view source", printing without a fee,
+and Firefox, if Microsoft is ever successful with that. It wouldn't
+surprise me if Microsoft were to make more plays in the content market,
+perhaps investing in music and film companies.
+But Microsoft recognized software patents as the Achilles heel of
+Free Software. This is more evident today with several running patent
+lawsuits against Open Source developers. The
+JMRI
+case
+is notable since it is a software patent
+suit against an
+individual Free Software developer, and for
+its offensiveness: an Open Source
+developer's work, a Java Model Railroad Interface, was integrated
+into a commercial product, a model
+railroad throttle, and then the throttle's manufacturer brought a
+patent suit against the very
+Open Source developer whose work he capitalized
+upon.
+Without the fortunate participation
+of a pro-bono attorney, the developer would have been defenseless.
+We should
+note that the well of volunteer attorneys and defense funds for Open
+Source developers is all too finite.
+JMRI's developer countersued the throttle manufacturer for violating
+his license. The developer's use of
+the
+Artistic license
+with its rather shaky legal language, and an
+odd court ruling on that license, weakened his countersuit.
+The case remains in court.
+The JMRI developer has since switched to LGPL. His plight should be
+a warning to
+other
+developers: you need a license with the strongest legal language
+that you can get to make it effective, and to protect you from software
+patent holders, lest unsavory businesses pull the same trick on you.
+Ask your attorney, but my surmise is that LGPLv3 and GPLv3 are about
+as strong as you can get, having been reviewed by the attorneys of
+dozens of major corporations, the eminent Mr. Moglen, and his attorneys
+at the Software Freedom Law Center.
+There are also running suits against a component of JBoss (Red Hat is the defendant), and against
+the ClamAV anti-virus software (Barracuda [integrator] is defendant) for the "invention" of
+integration of virus checking into email transfers.
+At this point I don't need to re-iterate the evils of software patenting.
+That story has been well-told. But it's notable that Open Source is
+not the only entity that is threatened by software patents. Any small
+or medium-sized business - meaning any company with less than 1000
+employees - is at risk, and has common cause with Open Source on this
+issue. But small and medium sized enterprises haven't been sufficiently
+educated on this issue. That must now change.
+Until this point, Open Source evangelists like myself haven't been the
+right people to talk to non-Open-Source business about this problem,
+because we've been viewed as outsiders by the proprietary software
+business, by content businesses, indeed by most business in general.
+That's no longer the case. We're part of their community now. And thus
+we are in position to handle a problem that's been untenable until
+now: a effort to overturn software patenting in its bastion, the United
+States, through the political process.
+There are a number of different efforts going on regarding software
+patents:
+The Linux Foundation has been operating some "patent quality
+initiatives" with the U.S. Patent Office, which unfortunately may
+in the end only serve to strengthen the patents to which they are
+applied.  We must recognize that the Linux Foundation's steering board
+is composed of the very largest of corporations, who in general stand
+to profit from the present system while the rest of the business world
+loses. While the foundation does excellent work for us in many areas,
+they would have a severe conflict with their large-corporate membership
+if the radical reform necessary to solve the software patent problem was
+to to enter their agenda.
+The Free Software Foundation is working on telling stories about
+businesses hurt by software patenting, and on bringing a court
+challenge to software patenting law. My problem with a court challenge
+is that it only takes an act of congress to undo what is done by the
+courts. Thus, unless we simultaneously build a strong political force
+against software patenting, a court challenge is worthless.
+Only the Europeans have turned back the prospect of pan-Europe
+enforcibility of software patents through a political process.
+They have recently suffered something of a setback in a British
+court decision that disallowed the outright rejection of software
+patents by the British patent office. They expect that a version of
+the European Patent Litigation Agreement may be back under consideration
+by the end of this year, and that in its next form it will not go
+through parliamentary channels, and thus will be much more difficult
+for us to fight.
+But where the Europeans have won so far, the Americans haven't even
+tried. Expect to see that change soon. One necessary tactic will be
+decoupling the case of software patenting from the system of patenting
+desired
+by the pharmaceutical companies. Pharmaceutical companies literally
+have the best government they can buy. We don't want them in the
+argument.
+So, you can see that the future will present its challenges for Open
+Source.
+We could never have forecast
+how big we would become during Decade Zero of Open Source.
+But we've built tremendous strength, to the point that we can consider
+much larger tasks. Join us now, as we enter Decade One.
+- Bruce Perens

@@ -1,0 +1,101 @@
+Wikipedia:Wikipedia Signpost/2013-02-04/Technology report - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Languages
+Language links are at the top of the page across from the title.
+Search
+Search
+Create accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Wikipedia:Wikipedia Signpost/2013-02-04/Technology report
+Add languages
+Add links
+Project pageTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+Print/export
+Download as PDFPrintable version
+From Wikipedia, the free encyclopedia
+< Wikipedia:Wikipedia Signpost‎ | 2013-02-04
+← Back to ContentsView Latest Issue4 February 2013
+Technology report
+Wikidata team targets English Wikipedia deployment
+Contribute  —  
+Share this
+ E-mail
+ Facebook
+ Twitter
+ LinkedIn
+ Reddit
+ Digg
+By Jarry1250
+English Wikipedia to get centralised interwiki links on 11 February
+In addition to the Wikidata client deployments this week, functionality for adding statements (pictured) was added to the Wikidata.org repository.
+Following the deployment of the Wikidata client to the Hungarian Wikipedia last month, the client was also deployed to the Italian and Hebrew Wikipedias on Wednesday. The next target for the client, which automatically provides phase 1 functionality (surfacing interwikis stored on the central wikidata.org repository), is the English Wikipedia, with a deployment date of 11 February already set. Barring any unforeseen problems, all other Wikipedias will get the client by the end of the month (non-Wikipedia projects not being the focus of phase 1).
+Perhaps more importantly, the much more adventurous "data repository" phase of the project remains firmly on course to be completed (and deployed) before the original project completion date of 31 March despite the significant delays to phase 1. With that deployment, users will "be able to create a property 'child'... [and] add a statement to the item for Marie Curie using this property to say that she is the mother of Irène Joliot-Curie and Ève Curie. ... [In addition,] you can support all of these statements by adding references to them." Communities will be left to decide whether and how they wish to use these statements onwiki, but the expectation is that they will be used to turn wikidata.org into what amounts to a central repository for infoboxes.
+Some preliminary work from phase 2 went live on Wikidata.org on Monday (example; accompanying blog post). As of time of writing, the eventual fate of the planned third phase (dynamic lists) remains more uncertain.
+In brief
+Not all fixes may have gone live to WMF sites at the time of writing; some may not be scheduled to go live for several weeks.
+Pick of the blogs: Wikimedia technology bloggers (both WMF and community) had a busy week. Highlights include a commendably thorough discussion of the professionalisation of the WMF Operations Team over the past two years and how it fits in relation to the data centre migration (Wikimedia blog; follow-up about ongoing monitoring and management) and a commentary by board member SJ Klein on the trouble into which ArticleFeedback version 5 has run (personal blog; see also this week's "News and Notes" for full coverage). There was also a useful roundup of the challenges and opportunities posed by the increasing number of visitors accessing Wikipedia through their phones on the Wikimedia blog following the news that the mobile site recorded 3 billion page impressions for the first time last month.
+← Previous "Technology report"Next "Technology report" →
+In this issue4 February 2013Special report
+In the media
+News and notes
+Featured content
+WikiProject report
+Technology report
++ Add a commentDiscuss this story
+These comments are automatically transcluded from this article's talk page. To follow comments, add the page to your watchlist. If your comment has not appeared here, you can try purging the cache.
+The specification for Tools Labs is freshly improved and ready for more prioritization, adding Bugzilla links, etc. (labs-l post). Sumana Harihareswara, Wikimedia Foundation Engineering Community Manager (talk) 13:07, 4 February 2013 (UTC)Reply[reply]
+Thanks for the report. For anyone who knows: what exactly does Wikidata "going live" entail? Does it mean we will start taking out local interwiki links? If that happens, what does it look like? Or just that it will be possible, or what? How have the other wikidata deployments gone? Thanks, -- phoebe / (talk to me) 01:21, 6 February 2013 (UTC)Reply[reply]
+The other deployments have been relatively successful (some bug fixes, but nothing that meant they had to be revert AFAIK). One problem that they are having, however, is that they can't really start removing wikilinks (even if they wanted to) out of fear that a Wikidata-ignorant (but also non-API?) bot will just re-add them. (Bots aside, yes, you can simply take an interwiki link that is also on Wikidata out.) en.wp is still discussing whether it wants to allow edits that only remove them, with the probable conclusion that only articles with very many wikilinks (more than 50) should be pro-actively stripped of them. All others can be removed while making other edits (e.g. through AWB). - Jarry1250 [Deliberation needed] 10:43, 6 February 2013 (UTC)Reply[reply]
+You can start taking out local links if you want, yes. This decision is up to the local wiki's community. A more detailed explanation is in this blog post. The three previous deployments have gone well overall. --Lydia Pintscher (WMDE) (talk) 10:45, 6 February 2013 (UTC)Reply[reply]
+Thanks. I'm especially curious what it looks like when you do take the interwiki links out -- is there an easy way to be directed to Wikidata from the local article to edit the language links if you notice a mistake? I did follow the first hungarian deployment but didn't figure this out. -- phoebe / (talk to me) 22:39, 6 February 2013 (UTC)Reply[reply]
+Yes there is a link at the bottom of the list of language links saying "edit links" that leads you to the corresponding page on Wikikdata to edit them. --Lydia Pintscher (WMDE) (talk) 22:43, 6 February 2013 (UTC)Reply[reply]
+Is there an Idiot's Guide to Wikidata somewhere that explains, with syntax and rendered examples, exactly how it is used in Wikipedia articles? Thanks. --ukexpat (talk) 04:47, 6 February 2013 (UTC)Reply[reply]
+Sorry, there isn't. You have to see Wikidata as an entity like Wikimedia Commons; a separate Wikimedia project with its own set of admins and international people who form its core community. You can browse the help pages, but it may help to install the gadget that lets you view the items associated with articles (or just click on the Hungarian links in widely translated articles and take a look at how the interwiki column is set up now - with both manual and Wikidata links). Jane (talk) 08:37, 6 February 2013 (UTC)Reply[reply]
+Phase 1 or phase 2? Phase 1 is just magic (for reading) and a little helper dialog box in the interwiki section that edits Wikidata for you without you leaving the page (for writing) IIRC. The syntax for phase 2 has changed a bit recently, but it'll certainly be some sort of parser function {{#property:...}}, though a community might want to wrap that in a template, depending on how the community decides to use Wikidata data on its pages. HTH, - Jarry1250 [Deliberation needed] 10:43, 6 February 2013 (UTC)Reply[reply]
+Language links will automatically show up in the article's sidebar. No special syntax is needed anymore. Any data beyond language links can't be used on the Wikipedias yet. That will still take a bit. All in all the comparison to Commons is a good one. Think of it as becoming the Commons for stuff that is in infoboxes now. --Lydia Pintscher (WMDE) (talk) 10:45, 6 February 2013 (UTC)Reply[reply]
+Considering we are on the English Wikipedia right now, I think it's reasonable to interpret Ukexpat's request as pertaining to how Wikidata data is planned to be used on the English Wikipedia.  It is akin to asking "what is the image policy on en.wikipedia?" rather than "how do I upload files to Commons?"  Powers T 14:52, 6 February 2013 (UTC)Reply[reply]
+For the first roll-out here you'll not have to do anything for the links to show up. For a large number of pages these links have already been collected on wikidata.org. Existing links in the wikitext will continue to work and show up. In addition you'll be able to suppress language links coming from Wikidata for specific articles by using the noexternallanglinks magic word. --Lydia Pintscher (WMDE) (talk) 15:03, 6 February 2013 (UTC)Reply[reply]
+@ Powers - I believe the Wikidata "data policy" still needs to be decided upon here on the English Wikipedia, but the current RFC is out there just as a heads-up to Wikipedians and any bots they may have. I think the basic idea is that Wikidata, like Wikimedia Commons, will grow and morph into it's own identity, while local Wikipedians here will be able to use its services or not as they see fit. The first service offered is interwiki links, so it makes sense to look at that issue first. As an aside, though I am an avid user of Wikimedia Commons images for English Wikipedia articles, I have never bothered to read our local "image policy" and if someone asked me about it I would have assumed that it was for local images, not images from Wikimedia Commons. Jane (talk) 13:09, 7 February 2013 (UTC)Reply[reply]
+The Signpost is written by editors like you — join in!
+Home
+About
+Archives
+Newsroom
+Subscribe
+Suggestions
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipedia_Signpost/2013-02-04/Technology_report&oldid=1136366195"
+Category: Wikipedia Signpost archives 2013-02
+ This page was last edited on 30 January 2023, at 00:29 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

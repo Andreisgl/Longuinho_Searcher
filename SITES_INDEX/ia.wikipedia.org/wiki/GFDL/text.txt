@@ -1,0 +1,169 @@
+Licentia GNU pro Documentation Libere - Wikipedia, le encyclopedia libere
+Saltar al contento
+Menu principal
+Menu principal
+displaciar verso le barra lateral`
+celar
+Navigation
+Pagina principalPortal del communitateActualitatesModificationes recentePagina aleatoriAdjutaDonationes
+Linguas
+Le ligamines a linguas se trova in le parte superior del pagina in facie del titulo del articulo.
+Recerca
+Cercar
+Crear contoAperir session
+Instrumentos personal
+ Crear conto Aperir session
+Paginas pro redactores sin session aperte leger plus
+ContributionesDiscussion
+Contento
+displaciar verso le barra lateral`
+celar
+Initio
+1Texto del Licentia GNU pro Documentation Libere
+Alternar subsection Texto del Licentia GNU pro Documentation Libere
+1.10. PREAMBULO
+1.21. APPLICABILITATE E DEFINITIONES
+1.32. COPIAS LITTERAL
+1.43. COPIAS IN QUANTITATE
+1.54. MODIFICATIONES
+1.65. COMBINATION DE DOCUMENTOS
+1.76. COLLECTIONES DE DOCUMENTOS
+1.87. AGGREGATION CON OBRAS INDEPENDENTE
+1.98. TRADUCTION
+1.109. TERMINATION
+1.1110. REVISIONES FUTUR DE ISTE LICENTIA
+1.1211. RELICENTIAMENTO
+1.13ADDENDUM: Como usar iste Licentia pro vostre documentos
+Alternar le tabula de contento
+Alternar le tabula de contento
+Licentia GNU pro Documentation Libere
+102 linguas
+AfrikaansAlemannischÆngliscالعربيةAsturianuAzərbaycancaБеларускаяБеларуская (тарашкевіца)БългарскиবাংলাBosanskiБуряадCatalà閩東語 / Mìng-dĕ̤ng-ngṳ̄ČeštinaKaszëbscziDanskDeutschΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFøroysktFrançaisFryskGaeilgeGalegoગુજરાતીעבריתहिन्दीHrvatskiMagyarՀայերենBahasa IndonesiaIgboIlokanoÍslenskaItaliano日本語Jawaქართული한국어RipoarischLëtzebuergeschLimburgsLombardLietuviųLatviešuMadhurâMāoriМакедонскиമലയാളംМонголBahasa MelayuPlattdüütschNedersaksiesNederlandsNorsk nynorskNorsk bokmålOccitanPolskiPortuguêsRomânăTarandíneРусскийСаха тылаSarduSicilianuScotsسنڌيSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaСрпски / srpskiSundaSvenskaKiswahiliதமிழ்తెలుగుไทยTagalogTürkçeУкраїнськаاردوVènetoTiếng ViệtWest-VlamsWalon吴语მარგალურიייִדישYorùbá中文文言Bân-lâm-gú粵語
+Modificar ligamines
+ArticuloDiscussion
+interlingua
+LegerVider codice-fonteVider historia
+Instrumentos
+Instrumentos
+displaciar verso le barra lateral`
+celar
+Actiones
+LegerVider codice-fonteVider historia
+General
+Paginas ligate a isteModificationes ligateIncargar filePaginas specialLigamine permanenteInformation sur le paginaCitar iste paginaElemento Wikidata
+Imprimer/exportar
+Crear un libroDiscargar como PDFVersion pro imprimer
+In altere projectos
+Wikimedia Commons
+De Wikipedia, le encyclopedia libere
+(Redirigite ab GFDL)
+Licentia GNU pro Documentation Libere
+instantia de: copyleft free software license[*], copyleft license[*]
+subclasse de: open license[*]
+sito web official: https://www.gnu.org/licenses/fdl-1.3.html
+Commons: GFDL
+Le Licentia GNU pro Documentation Libere, initiate per le Projecto GNU, es un licentia legal, applicabile a documentos, que garanti a omnes le libertate de copiar, distribuer, e cambiar le documentos in question. Un autor pote subjectar su documento al Licentia per includer un declaration indicante isto. Le version in anglese del Licentia es definitive. Le traductiones es sempre non official.
+Per favor lege Wikipedia:Copyright pro informationes concernente le application de iste licentia a Wikipedia.
+Texto del Licentia GNU pro Documentation Libere
+ Le 15 de julio 2009, Wikipedia ha comenciate a usar un systema de licentia dual que reimplacia le licentia anterior con GFDL unic.  In breve, isto vole dicer que texto licentiate unicamente sub GFDL non plus pote esser importate in Wikipedia, retroactivemente a partir del 1 de novembre 2008.  In addition, texto de Wikipedia ora pote esser o non esser exportabile sub GFDL dependente de si alcun contento ha essite addite e non removite a partir del 15 de julio 2009. Vide Actualisation de licentia pro ulterior information.Pro le original de iste licentia, vide http://www.gnu.org/copyleft/fdl.html 
+Isto es un traduction non official del Licentia GNU pro Documentation Libere (GFDL) in interlingua. Illo non esseva publicate per le Fundation pro Software Libere, e non declara legalmente le conditiones de distribution pro documentos que usa le GFDL – solmente le texto original anglese del GFDL lo face. Nonobstante, nos spera que iste traduction adjutara le parlantes de interlingua a comprender melio le GFDL. 
+This is an unofficial translation of the GNU Free Documentation License into Interlingua. It was not published by the Free Software Foundation, and does not legally state the distribution terms for documents that use the GNU FDL—only the original English text of the GNU FDL does that. However, we hope that this translation will help Interlingua speakers understand the GNU FDL better. 
+Version 1.3, 3 novembre 2008
+Copyright © 2000, 2001, 2002, 2007, 2008 Free Software Foundation, Inc.
+<http://fsf.org/>
+Omnes pote copiar e distribuer copias litteral de iste
+documento de licentia, ma cambiar lo non es permittite.
+0. PREAMBULO
+Le objectivo de iste Licentia es render "libere" un manual, libro scholar, o altere documento functional e utile: assecurar a omnes le libertate effective de copiar e redistribuer lo, con o sin modificationes, con o sin scopo lucrative. Secundarimente, iste Licentia preserva al autor e publicator un modo de esser recognoscite pro lor labor, sin esser considerate responsabile pro modificationes facite per alteros.
+Iste Licentia es un typo de "copyleft", lo que significa que le obras derivate del documento debe equalmente esser libere in le mesme senso. Illo complementa le Licentia Public General de GNU, le qual es un licentia de copyleft designate pro software libere.
+Nos ha designate iste Licentia a fin de usar lo pro manuales pro software libere, post que le software libere necessita documentation libere: un programma libere deberea includer manuales que offere le mesme libertates que le software. Ma iste Licentia non es limitate a manuales pro software; illo pote esser usate pro omne obra textual, non importa le thema o si illo es publicate como libro imprimite. Nos recommenda iste Licentia principalmente pro obras con scopo instructive o referential.
+1. APPLICABILITATE E DEFINITIONES
+Iste Licentia se applica a omne manual o altere obra, in omne medio de communication, que contine un nota placiate per le possessor de copyright annunciante que illo pote esser distribuite secundo le terminos de iste Licentia. Un tal nota garanti un licentia mundial e libere de royalties, illimitate in duration, pro usar le obra in question secundo le conditiones stipulate in iste. Le "Documento", infra, refere a omne tal manual o obra. Omne membro del publico es un licentiato, e es addressate como "vos". Vos accepta le licentia si vos copia, modifica o distribue le obra in un modo que require permission sub lege de copyright.
+Un "Version Modificate" del Documento significa omne obra continente le Documento o un portion de illo, copiate exactemente o con modificationes e/o traducite in un altere lingua.
+Un "Section Secundari" es un appendice nominate o un section de materia frontal del Documento que tracta exclusivemente del relation del publicatorers o autores del Documento con le thema general (o con materias connexe) e contine nihil que poterea esser includite directemente in ille thema general. (Per exemplo, si le Documento es in parte un libro scholar de mathematica, un Section Secundari non pote explicar alcun mathematica.) Le relation poterea esser un question de connexion historic con le thema o con materias connexe, o de position legal, commercial, philosophic, ethic o politic concernente illos.
+Le "Sectiones Invariabile" es certe Sectiones Secundari cuje titulos es designate como esser les de Sectiones Invariabile in le nota que annuncia que le Documento es publicate sub iste Licentia. Si un section non satisface le definition ci supra de Secundari, alora il non es permittite designar lo como Invariabile. Il es possibile que un Documento contine zero Sectiones Invariabile. Si un Documento non identifica alcun Sectiones Invariabile, alora il ha nulle.
+Le "Textos de Copertura" es certe breve passages de texto que pote esser listate, como Textos de Copertura Frontal o Textos de Copertura Posterior, in le nota que annuncia que le Documento es publicate sub iste Licentia. Le grandor del Texto de Copertura Frontal pote esser 5 parolas al maximo, e le grandor del Texto de Copertura Posterior pote esser 25 parolas al maximo.
+Un copia "Transparente" del Documento significa un copia legibile per machinas, representate in un formato cuje specification es disponibile al publico general, que es apte pro revider le documento de modo simplice con editores de texto generic o (pro imagines componite de pixels) con programmas a pinger generic o (pro designos) con alcun editor de designos generalmente disponibile, e que es apte pro entrata in formatatores de texto o pro traduction automatic a un varietate de formatos apte pro entrata in formatatores de texto. Un copia facite in un formato de file alteremente Transparente cuje marcation, o absentia de marcation, ha essite arrangiate a impedir o discoragiar modification posterior per lectores, non es Transparente. Un formato de imagine non es Transparente si illo es usate pro alcun quantitate substantial de texto. Un copia que non es "Transparente" es appellate "Opac".
+Exemplos del formatos apte pro copias Transparente include texto pur in ASCII sin marcation, le formato de entrata Texinfo, le formato de entrata LaTeX, le formatos SGML o XML usante un DTD publicamente disponibile, e HTML, PostScript o PDF simplice e conforme al standards, designate pro modification per humanos. Exemplos de formatos transparente pro imagines include PNG, XCF e JPG. Le formatos opac include formatos proprietari que pote esser legite e redigite solmente per processatores de texto proprietari, SGML o XML pro le qual le DTD e/o le instrumentos a processar non es generalmente disponibile, e HTML, PostScript o PDF generate per machinas como producite per alcun processatores de texto a objectivos de rendimento solmente.
+Le "Pagina de Titulo" significa, pro un libro imprimite, le pagina de titulo mesme, plus le paginas sequente que es necessari pro continer, de modo legibile, le material que iste Licentia require pro figurar in le pagina de titulo. Pro obras in formatos que non ha un pagina de titulo per se, "Pagina de Titulo" significa le texto proxime al occurrentia le plus prominente del titulo del obra, precedente le initio del corpore del texto.
+Le "publicator" significa omne persona o entitate que distribue copias del Documento al publico.
+Un section "Titulate XYZ" significa un subunitate del Documento con un titulo que o es precisemente equal a XYZ o contine XYZ inter parentheses post un texto que traduce XYZ in un altere lingua. (XYZ representa hic un nomine specific de section mentionate infra, como "Recognoscentias", "Dedicationes", "Approbationes", o "Historia".) "Preservar le Titulo" de un tal section quando vos modifica le Documento significa que illo remane un section "Titulate XYZ" secundo iste definition.
+Le Documento pote includer Limitationes de Garantia al latere del nota que declara que iste Licentia se applica al Documento. Iste Limitationes de Garantia se considera de esser includite per referentia in iste Licentia, ma solmente con respecto al limitation de garantias: omne altere implication que iste Limitationes de Garantia poterea haber es nulle e non ha effecto super le significato de iste Licentia.
+2. COPIAS LITTERAL
+Vos pote copiar e distribuer le Documento in omne medio de communication, con o sin scopo lucrative, a condition que iste Licentia, le notas de copyright, e le nota de licentia declarante que iste Licentia se applica al Documento es reproducite in tote le copias, e que vos adde absolutemente nulle altere conditiones a illos de iste Licentia. Vos non pote usar mesuras technic pro obstruer o controlar le lection o reproduction ulterior del copias que vos face o distribue. Nonobstante, vos pote acceptar compensation in excambio pro copias. Si vos distribue un bastante grande numero de copias vos debe equalmente sequer le conditiones in section 3.
+Vos pote equalmente prestar copias, sub le mesme conditiones stipulate supra, e vos pote monstrar copias publicamente.
+3. COPIAS IN QUANTITATE
+Si vos publica copias imprimite (o copias in medios que normalmente ha coperturas imprimite) del Documento, numerante plus de 100, e le nota de licentia del Documento require Textos de Copertura, vos debe includer le copias in coperturas que porta, clar- e legibilemente, tote iste Textos de Copertura: le Textos de Copertura Frontal in le copertura frontal, e le Textos de Copertura Posterior in le copertura posterior. Ambe coperturas debe equalmente clar- e legibilemente identificar vos como le publicator de iste copias. Le copertura frontal debe presentar le titulo complete, con tote le parolas del titulo equalmente prominente e visibile. Vos pote adder altere material in le coperturas. Copias con cambiamentos limitate al coperturas, a condition que illos preserva le titulo del Documento e satisface iste conditiones, pote esser tractate como copias litteral in altere respectos.
+Si le textos requirite pro un del coperturas es troppo voluminose pro vader in le copertura legibilemente, vos debe poner le primes listate (tantes que va rationabilemente) in le copertura real, e continuar le resto in paginas adjacente.
+Si vos publica o distribue copias Opac del Documento numerante plus de 100, vos debe o includer un copia Transparente e legibile per machinas insimul a cata copia Opac, o declarar in o con cata copia Opac un adresse de rete de computator ab le qual le publico general usante retes ha accesso a discargar con protocollos de rete conforme a standards public un complete copia Transparente del Documento, libere de material addite. Si vos usa iste option, vos debe prender passos rationabilemente prudente, quando vos comencia le distribution de copias Opac in quantitate, a assecurar que iste copia Transparente remanera assi accessibile al adresse declarate usque al minus un anno post le ultime vice que vos distribue un copia Opac (directemente o per vostre agentes o revenditores) de ille edition al publico.
+Il es requestate, ma non obligatori, que vos contacta le autores del Documento ben ante que vos redistribue alcun grande numero de copias, pro dar les un opportunitate a provider vos de un version actualisate del Documento.
+4. MODIFICATIONES
+Vos pote copiar e distribuer un Version Modificate del Documento sub le conditiones de sectiones 2 e 3 supra, a condition que vos publica le Version Modificate sub precisemente iste Licentia, le Version Modificate habente le rolo del Documento, autorisante assi le distribution e modification del Version Modificate a quicunque possede un copia de illo. In addition, vos debe facer lo sequente in le Version Modificate:
+Usar in le Pagina de Titulo (e in le coperturas, si existe) un titulo distincte de illo del Documento, e de illos de previe versiones (que deberea, si existeva, esser listate in le section Historia del Documento). Vos pote usar le mesme titulo como un previe version si le publicator original de ille version concede le permission.
+Listar in le Pagina de Titulo, como autores, un o plus personas o entitates responsabile como autores del modificationes in le Version Modificate, insimul con al minus cinque del principal autores del Documento (tote su autores principal, si il ha minus de cinque), a minus que illes vos exempta de iste requisito.
+Declarar in le pagina de Titulo le nomine del publicator del Version Modificate, como le publicator.
+Preservar tote le notas de copyright del Documento.
+Adder un nota appropriate de copyright pro vostre modificationes adjacente al altere notas de copyright.
+Includer, immediatemente post le notas de copyright, un nota de licentia concedente al publico le permission de usar le Version Modificate sub le terminos de iste Licentia, in le forma monstrate in le Addendum infra.
+Preservar in ille nota de licentia le complete listas de Sectiones Invariabile e requisite Textos de Copertura specificate in le nota de licentia del Documento.
+Includer un copia non alterate de iste Licentia.
+Preservar le section Titulate "Historia", Preservar su Titulo, e adder a illo un articulo declarante al minus le titulo, anno, nove autores, e publicator del Version Modificate como specificate in le Pagina de Titulo. Si il ha nulle section Titulate "Historia" in le Documento, crear un, declarante le titulo, anno, autores, e publicator del Documento como specificate in le Pagina de Titulo, postea adder un articulo describente le Version Modificate como prescribite in le previe phrase.
+Preservar le adresse de rete, si existe, indicate in le Documento pro accesso public a un copia Transparente del Documento, e similarmente le adresses de rete indicate in le Documento pro previe versiones super que illo esseva basate. Istos pote esser placiate in le section "Historia". Vos pote omitter un adresse de rete pro un obra que esseva publicate al minus quatro annos ante le Documento mesme, o si le publicator original del version a que illo se refere concede le permission.
+Pro omne section Titulate "Recognoscentias" o "Dedicationes", Preservar le Titulo del section, e preservar in le section tote le substantia e tono de cata un del recognoscentias de, e/o dedicationes a contributores detaliate in illo.
+Preservar tote le Sectiones Invariabile del Documento, sin alteration in lor texto e in lor titulos. Le numeros de section o lor equivalente non es considerate como parte del titulos de section.
+Deler omne section Titulate "Approbationes". Un tal section non pote esser includite in le Version Modificate.
+Non retitular alcun section existente de modo que illo sia Titulate "Approbationes" ni que illo conflige in titulo con alcun Section Invariabile.
+Preservar omne Limitationes de Garantia.
+Si le Version Modificate include nove sectiones de materia frontal o appendices que es qualificate como Sectiones Secundari e contine nulle material copiate del Documento, vos pote optar pro designar alcunes o totes de iste sectiones como invariabile. Pro facer isto, adde lor titulos al listas del Sectiones Invariabile in le nota de licentia del Version Modificate. Iste titulos debe esser distincte de omne altere titulos de section.
+Vos pote adder un section Titulate "Approbationes", a condition que illo contine nihil que Approbationes de vostre Version Modificate per varie entitates – per exemplo, declarationes de revision per pares o que le texto ha essite approbate per un organisation como le definition autoritative de un standard.
+Vos pote adder un passage con un maximo de cinque parolas como Texto de Copertura Frontal, e un passage con un maximo de 25 parolas como Texto de Copertura Posterior, al fin del lista de Textos de Copertura in le Version Modificate. Solmente un passage de Texto de Copertura Frontal e un de Texto de Copertura Posterior pote esser addite per (o via arrangiamentos facite per) omne entitate specific. Si le Documento jam include un texto de copertura pro le mesme copertura, previemente addite per vos o per arrangiamento facite per le mesme entitate que vos representa, vos non pote adder un altere; ma vos pote reimplaciar le vetule, con permission explicite del previe publicator que addeva le vetule.
+Le autor(es) e publicator(es) del Documento non concede per iste Licentia le permission de usar lor nomines pro publicitate, ni de asserer o implicar lor approbation de alcun Version Modificate.
+5. COMBINATION DE DOCUMENTOS
+Vos pote combinar le Documento con altere documentos publicate sub iste Licentia, sub le terminos definite in section 4 supra pro versiones modificate, a condition que vos include in le combination tote le Sectiones Invariabile de tote le documentos original, sin modification, e lista los totes como Sectiones Invariabile de vostre obra combinate in su nota de licentia, e que vos preserva tote lor Limitationes de Garantia.
+In le obra combinate es necessari solmente un copia de liste Licentia, e plure Sectiones Invariabile identic pote esser reimplaciate per un singule copia. Si il ha plure Sectiones Invariabile con le mesme nomine ma con contento differente, rende le titulo de cata tal section unic per adder al fin de illo, in parentheses, le nomine del autor o publicator original de ille section si cognoscite, o alteremente un numero unic. Face le mesme adjustamento al titulos del sectiones in le lista del Sectiones Invariabile in le nota de licentia del obra combinate.
+In le combination, vos debe combinar omne sectiones Titulate "Historia" in le varie documentos original, formante un section Titulate "Historia"; vos debe similarmente combinar omne sectiones Titulate "Recognoscentias", e omne sectiones Titulate "Dedicationes". Vos debe deler tote le sectiones Titulate "Approbationes."
+6. COLLECTIONES DE DOCUMENTOS
+Vos pote facer un collection consistente del Documento e altere documentos publicate sub iste Licentia, e reimplaciar le copias individual de iste Licentia in le varie documentos con un singule copia que es includite in le collection, a condition que vos obedi al regulas de iste Licentia pro facer copias litteral de cata un del documentos in omne altere respectos.
+Vos pote extraher un singule documento de un tal collection, e distribuer lo individualmente sub iste Licentia, a condition que vos insere un copia de iste Licentia in le documento extrahite, e obedi a iste Licentia in omne altere respectos concernente le production de copias litteral de ille documento.
+7. AGGREGATION CON OBRAS INDEPENDENTE
+Un compilation del Documento o de su derivatos con altere documentos o obras separate e independente, in un volumine de immagazinage o medio de distribution, es appellate un "aggregato" si le copyright resultante del compilation non es usate pro limitar le derectos legal del usatores del compilation ultra lo permittite per le obras individual. Quando le Documento es includite in un aggregato, iste Licentia non se applica al altere obras in le aggregato que non es illos mesme obras derivate del Documento.
+Si le requisito de Texto de Copertura in section 3 es applicabile a iste copias del Documento, alora si le Documento es minus que un medietate del aggregato integre, le Textos de Copertura del Documento pote esser placiate in coperturas que inveloppa le Documento intra le aggregato, o le equivalente electronic de coperturas si le Documento es in forma electronic. Alteremente illos debe apparer in coperturas imprimite que inveloppa le aggregato integre.
+8. TRADUCTION
+Le traduction es considerate como un typo de modification, ergo vos pote distribuer traductiones del Documento sub le terminos de section 4. Reimplaciar le Sectiones Invariabile con traductiones require permission special del possessores de lor copyright, ma vos pote includer traductiones de alcun o omne Sectiones Invariabile in addition al versiones original de iste Sectiones Invariabile. Vos pote includer un traduction de iste Licentia, e de tote le notas de licentia in le Documento, e de omne Limitationes de Garantia a condition que vos include equalmente le version original in anglese de iste Licentia e le versiones original de iste notas e limitationes. In caso de un disaccordo inter le traduction e le version original de iste Licentia o un nota o limitation, le version original prevalera.
+Si un section in le Documento es Titulate "Recognoscentias", "Dedicationes", o "Historia", le requisito (section 4) de Preservar su Titulo (section 1) necessita typicamente cambiar le titulo mesme.
+9. TERMINATION
+Vos non pote copiar, modificar, sublicentiar, o distribuer le Documento excepte como stipulate explicitemente per le terminos de iste Licentia. Omne tentativa de alteremente copiar, modificar, sublicentiar, o distribuer lo es nulle, e resulta automaticamente in le termination de vostre derectos sub iste Licentia.
+Nonobstante, si vos cessa tote violation de iste Licentia, alora vostre licentia ab un possessor particular de copyright es restituite (a) provisionalmente, a minus que e usque le possessor de copyright explicite- e definitivemente termina vostre licentia, e (b) permanentemente, si le possessor de copyright neglige de notificar vos del violation per alcun medio rationabile intra 60 dies post le cessation.
+In ultra, vostre licentia ab un possessor particular de copyright es restituite permanentemente si le possessor de copyright vos notifica del violation per alcun medio rationabile, si isto es le prime vice que vos ha recipite un advertimento del violation de iste Licentia (pro qualcunque obra) ab ille possessor de copyright, e si vos remedia le violation intra 30 dies post vostre reception del advertimento.
+Le termination de vostre derectos sub iste section non resulta in le termination del licentias del personas qui ha recipite copias o derectos de vos sub iste Licentia. Si vostre derectos ha essite terminate e non permanentemente restituite, le reception de un copia de alcun parte o del totalitate del mesme material non vos accorda alcun derecto de usar lo.
+10. REVISIONES FUTUR DE ISTE LICENTIA
+Le Fundation pro Software Libere pote publicar versiones nove e revidite del Licentia GNU pro Documentation Libere de tempore a tempore. Tal nove versiones essera similar in spirito al version presente, ma pote differer in detalio pro adressar nove problemas o affaires. Vide http://www.gnu.org/copyleft/.
+A cata version del Licentia es assignate un numero de version distincte. Si le Documento specifica que un particular version numerate de iste Licentia "o alcun version plus recente" es applicabile a illo, vos ha le option de obedir al terminos e conditiones sia de ille version specificate sia de alcun version plus recente que ha essite publicate (non como version provisori) per le Fundation pro Software Libere. Si le Documento non specifica un numero de version de iste Licentia, vos pote seliger omne version jammais publicate (non como version provisori) per le Fundation pro Software Libere. Si le Documento specifica que un mandatario pote decider qual versiones futur de liste Licentia pote esser usate, le declaration public per ille mandatario del acceptation de un version vos autorisa permanentemente a seliger ille version pro le Documento.
+11. RELICENTIAMENTO
+"Sito de Collaboration Massive Multiautor" (o "Sito CMM") significa omne servitor World Wide Web que publica obras subjectabile a copyright e que tamben provide facilitates prominente pro le modification per omnes de ille obras. Un wiki public que omnes pote modificar es un exemplo de un tal servitor. Un "Collaboration Massive Multiautor" (o "CMM") continite in le sito significa omne collection de obras subjectabile a copyright publicate in le sito CMM.
+"CC-BY-SA" significa le licentia Creative Commons Attribution−Share Alike 3.0 publicate per Creative Commons Corporation, un corporation sin scopo lucrative con sede principal in San Francisco (California), assi como le versiones futur copyleft de ille Licentia publicate per ille mesme organisation.
+"Incorporar" significa publicar o republicar un Documento, in totalitate o in parte, como parte de un altere Documento.
+Un CMM es "eligibile pro relicentiamento" si illo es licentiate sub iste Licentia, e si tote le obras que esseva originalmente publicate sub iste Licentia in un altere loco que iste CMM, e posteriormente incorporate in totalitate o in parte in le CMM, (1) non habeva textos de copertura o sectiones invariabile, e (2) esseva assi incorporate ante le 1 de novembre 2008.
+Le operator de un Sito CMM pote republicar un CMM continite in le sito sub CC-BY-SA in le mesme sito a omne tempore ante le 1 de augusto 2009, a condition que le CMM es eligibile pro licentiamento.
+ADDENDUM: Como usar iste Licentia pro vostre documentos
+Pro usar iste Licentia in un documento que vos ha scribite, include un copia del Licentia in le documento e insere le sequente notas de copyright e de licentia immediatemente post le pagina de titulo:
+Copyright © [ANNO] [VOSTRE NOMINE].
+Le permission es concedite de copiar, distribuer e/o modificar iste documento sub le terminos del Licentia GNU pro Documentation Libere, Version 1.3 o alcun version plus recente publicate per le Fundation pro Software Libere; sin Sectiones Invariabile, sin Textos de Copertura Frontal, e sin textos de Copertura Posterior. Un copia de iste licentia es includite in le section titulate "Licentia GNU pro Documentation Libere".
+Si vos ha Sectiones Invariabile, Textos de Copertura Frontal e Textos de Copertura Posterior, reimplacia le linea "sin...Posterior." con isto:
+le Sectiones Invariabile essente [LISTA DE LOR TITULOS], le Textos de Copertura Frontal essente [LISTA], e le Textos de Copertura Posterior essente [LISTA].
+Si vos ha Sectiones Invariabile sin Textos de Copertura, o un altere combination del tres, combina ille duo alternativas pro convenir al situation.
+Si vostre documento contine exemplos non trivial de codice de programma, nos recommenda publicar iste exemplos in parallello sub vostre licentia preferite de software libere, como le Licentia Public General de GNU, pro permitter lor uso in software libere.
+Obtenite de “https://ia.wikipedia.org/w/index.php?title=Licentia_GNU_pro_Documentation_Libere&oldid=660542”
+Categorias: Licentias de derecto de autorContento libereInformatica
+ Iste pagina esseva modificate le plus recentemente le 2 julio 2023 a 13:46.
+Le texto es disponibile sub le licentia Creative Commons Attribution-CompartiSimile; additional conditiones pote esser in vigor.
+Vide Conditiones de uso pro detalios.
+Politica de confidentialitate
+A proposito de Wikipedia
+Declaration de non-responsabilitate
+Codice de conducta
+Version mobile
+Programmatores
+Statisticas
+Declaration sur cookies
+Alternar limitation de latitude de contento

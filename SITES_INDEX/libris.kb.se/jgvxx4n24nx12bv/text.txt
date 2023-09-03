@@ -1,0 +1,42 @@
+Storbritannien • sao | id.kb.se
+        Libris
+       
+         2.2.0
+          sv
+      |
+      en  
+      Storbritannien • sao Svenska ämnesord 
+      Geografiskt ämnesord
+     
+      URI (länk till resurs)
+     
+          https://id.kb.se/term/sao/Storbritannien
+          föredragen benämning 
+      Storbritannien
+    ingår i system Svenska ämnesordbredare Brittiska öarna • saonära match 
+      41 • 23/swe
+    
+      941 • 23/swe
+    
+      Great Britain • lcsh
+    bredare match 
+      Ke • kssb
+    
+      Ne • kssb
+    variant 
+      Förenade kungariket Storbritannien och Nordirland
+    
+      Great Britain
+    
+      Storbritannien och Nordirland
+    
+      United Kingdom of Great Britain and Northern Ireland
+    relaterad 
+      Brittiska öarna
+    anmärkning om användning 
+      För verk om landets historia läggs geografiskt ämnesord och det allmänna ämnesordet Historia.
+    
+      Särsk provinser och orter Nez.
+    samma sak som http://libris.kb.se/resource/auth/164342https://libris.kb.se/jgvxx4n24nx12bv#itmarc:hasAddedEntryGeographicName 
+      Great Britain
+     Ladda ner JSON-LD • Turtle • RDF/XML Andra tjänster Libris katalogisering

@@ -1,0 +1,226 @@
+xowa download | SourceForge.net
+Join/Login
+Open Source Software
+Business Software
+Blog
+About
+More
+Articles
+Create
+Learn
+Site Documentation
+Subscribe to our Newsletter
+Support Request
+For Vendors
+Help
+Create
+Join
+Login
+Open Source Software
+Business Software
+Resources
+Articles
+Learn
+Blog
+Menu
+Help
+Create
+Join
+Login
+Home
+Browse Open Source
+Education
+Library Management
+xowa
+xowa
+A free, open-source, offline Wikipedia application
+Status: Beta
+Brought to you by:
+gnosygnu
+8 Reviews
+Downloads:
+13 This Week
+Last Update:
+2015-07-27
+ Download
+Get Updates
+Share This
+Linux
+Mac
+Windows
+Summary
+Files
+Reviews
+Support
+Wiki
+Tickets
+Discussion
+Mailing Lists
+XOWA is a desktop application for reading and editing Wikipedia offline
+(XOWA has moved to http://gnosygnu.github.io/xowa/download.html)
+Features
+Displays all articles from Wikipedia without an internet connectionWorks with any Wikimedia wiki, including Wikipedia, Wiktionary, Wikisource, Wikiquote, WikivoyageWorks with any non-English language wiki such as French Wikipedia, German Wikisource, Dutch Wikivoyage, etc.Works with other specialized wikis such as Wikidata, Wikimedia Commons, Wikispecies, or any other MediaWiki generated dumpRenders articles with full HTML formattingDownloads images and other files on demandUpdates your wiki whenever you want, using Wikimedia database backups.Sets up Simple Wikipedia in less than 5 minutesNavigates between offline wikis (click on "Look up this word in Wiktionary" and it will open your offline version of Wiktionary)Edits articlesInstalls to a flash memory card for portability to other machinesCan be customized at many levels: from keyboard shortcuts to HTML layouts to internal optionsView the HTML for any wiki pageSearch for any page by title using a Wikipedia-like Search boxBrowse pages by alphabetical order using Special:AllPagesFind a word on a page.Access a history of viewed pagesBookmark your favorite pages.
+Project Samples
+Project Activity
+ 
+See All Activity >
+CategoriesLibrary Management, Wiki
+LicenseAffero GNU Public License
+Follow xowa
+xowa Web Site
+Other Useful Business Software
+SiteDocs Safety Management Software
+Safety Compliance Made Easy
+By going paperless with SiteDocs, you can attain the highest level of safety and make your company more profitable by eliminating hundreds of hours wasted handling paper. With real-time monitoring and accountability not only will you save time and money, you’ll also ensure compliance and improve safety culture across all your job sites.
+Learn More
+Rate This ProjectLogin To Rate This Project
+User Ratings
+4.8
+out of 5 stars
+★★★★★
+★★★★
+★★★
+★★
+★
+7 
+0 
+1 
+0 
+0 
+ease
+1 of 5
+2 of 5
+3 of 5
+4 of 5
+5 of 5
+4 / 5
+features
+1 of 5
+2 of 5
+3 of 5
+4 of 5
+5 of 5
+4 / 5
+design
+1 of 5
+2 of 5
+3 of 5
+4 of 5
+5 of 5
+4 / 5
+support
+1 of 5
+2 of 5
+3 of 5
+4 of 5
+5 of 5
+4 / 5
+User Reviews
+Filter Reviews:
+All
+All
+★★★★★
+★★★★
+★★★
+★★
+★
+senorfish
+Posted 2015-03-28
+Flawless work! Intuitive design and features that require no learning curve to use. While downloading the entirety of wikipedia takes a long time, the program itself is very easy to install. Accessing Wikipedia offline is a worthwhile concept, and Xowa nails it.
+Great support/documentation for setup and install with continuous updates for improvement and compatibility.
+Thank you gnosygnu!
+1 user found this review helpful.
+mohanips
+Posted 2015-03-21
+With all my heart, thank you for this awesome software Mr.Gnosygnu. In my village don't have high speed internet. But now all school and college students in my village, use this software on thier laptop's. Most of the TPEVR Polytechnic College students use this software on thier laptops. Guess how many laptops:....... 500+ laptop's install XOWA and use Wikipedia Offline.
+It performing very well...
+It looks like online Wikipedia......
+Once again Thank You sir......
+2 users found this review helpful.
+brittonburton
+Posted 2015-01-29
+I like this software, it makes having a complete local copy of the entire Wikipedia database super simple. I would like to see the user interface improved some what, so that it matches the host operating system better (Windows 7 in my case). Such as offering transparency for systems capable of doing that. Otherwise I can not find any technical issues with this software. Big thanks to the developer for making such a great software application.
+1 user found this review helpful.
+gsahmad
+Posted 2014-09-03
+The Best feature full Wikipedia reader ..Thanks Mr gnosygnu For the nice app :)
+2 users found this review helpful.
+mschmitz047
+Posted 2014-07-13
+A fantastic wiki offline reader. Go on, please!
+2 users found this review helpful.
+Read more reviews >
+Additional Project Details
+Operating SystemsLinux, Mac, Windows
+Intended AudienceEnd Users/Desktop
+User InterfaceJava SWT
+Programming LanguageJava
+Database EnvironmentSQLite
+Registered
+2012-12-27
+Similar Business Software
+Axero
+Axero is an award-winning intranet and employee experience platform. Hundreds of companies use Axero to communicate, collaborate, manage tasks, organize content and develop their company culture. Down with legacy intranets and document dumping grounds that are difficult to update and impossible...
+See Software
+GreenOrbit
+With over 25 years of experience, we understand leaders' frustrations with overly complicated and expensive solutions. Our easy, out-of-the-box software helps you handle core business functions and streamline internal processes.
+A GreenOrbit intranet will:
+- Reduce friction by bringing...
+See Software
+Docsie
+Docsie is an award-winning digital documentation and knowledge management platform based in Ontario, Canada. You can access Docsie through a SaaS web application to create & edit documentation from any location. Then, you can publish content to a dynamic knowledge portal that users can access...
+See Software
+Report inappropriate content
+Recommended Projects
+Kiwix
+Wikipedia offline & more
+WikiFilter
+A wiki text parser and a web filter used for browsing a local copy of the Wikipedia and other wiki project dump files. Works with either Microsoft web server or Apache.
+WikiTool
+Stay documented, perform multiple searches and read articles
+Awesome Stock Resources
+Collection of links for free stock photography, video and Illustration
+Top Searches
+wikipedia offline
+portable folder encryption
+Related Business Categories
+Library Management
+Corporate Wiki
+SourceForge
+Create a Project
+Open Source Software
+Business Software
+Top Downloaded Projects
+Company
+About
+Team
+SourceForge Headquarters
+225 Broadway Suite 1600
+San Diego, CA 92101
++1 (858) 454-5900
+Resources
+Support
+Site Documentation
+Site Status
+© 2023 Slashdot Media. All Rights Reserved.
+Terms
+Privacy
+Opt Out
+Advertise
+Thanks for helping keep SourceForge clean.
+X
+You seem to have CSS turned off.
+Please don't fill out this field.
+You seem to have CSS turned off.
+Please don't fill out this field.
+Briefly describe the problem (required):
+Upload screenshot of ad (required):
+Select a file, or drag & drop file here.
+✔
+✘
+Screenshot instructions:
+Click URL instructions:
+Right-click on the ad, choose "Copy Link", then paste here →
+(This may not be possible with some types of ads)
+More information about our ad policies
+Please provide the ad click URL, if possible:

@@ -1,0 +1,671 @@
+Microsoft Windows – Wikipedia, wolna encyklopedia
+Przejdź do zawartości
+Menu główne
+Menu główne
+przypnij
+ukryj
+Nawigacja
+Strona głównaLosuj artykułKategorie artykułówNajlepsze artykułyCzęste pytania (FAQ)
+Dla czytelników
+O WikipediiZgłoś błądZgłoś błąd w plikuKontaktWspomóż Wikipedię
+Dla wikipedystów
+Pierwsze krokiPortal wikipedystówOgłoszeniaZasadyPomocOstatnie zmiany
+Języki
+Linki pomiędzy różnymi wersjami językowymi znajdują się na górze strony, naprzeciw jej tytułu.
+Szukaj
+Szukaj
+Utwórz kontoZaloguj się
+Narzędzia osobiste
+ Utwórz konto Zaloguj się
+Strony dla anonimowych edytorów dowiedz się więcej
+EdycjeDyskusja
+Spis treści
+przypnij
+ukryj
+Początek
+1Wersje
+Przełącz podsekcję Wersje
+1.116-bitowe środowiska operacyjne
+1.2Hybrydy, 16/32-bitowe środowiska operacyjne
+1.3Hybrydowe, 16/32-bitowe systemy operacyjne
+1.432-bitowe systemy operacyjne
+1.564-bitowe systemy operacyjne
+2Popularne aplikacje w Windows
+Przełącz podsekcję Popularne aplikacje w Windows
+2.1Internet Explorer
+2.2Windows Media Player
+2.3Microsoft Paint
+2.4Aplikacje pocztowe
+3Historia
+Przełącz podsekcję Historia
+3.1Daty wydań
+4Bezpieczeństwo
+Przełącz podsekcję Bezpieczeństwo
+4.1Windows Defender
+4.2Analizy firm trzecich do niewspieranych już edycji Windows
+5Projekty o otwartym kodzie źródłowym
+6Oprogramowanie do emulacji
+7Przypisy
+8Linki zewnętrzne
+Przełącz stan spisu treści
+Przełącz stan spisu treści
+Microsoft Windows
+153 języki
+AfrikaansአማርኛअंगिकाÆngliscالعربيةAragonésঅসমীয়াAsturianuAzərbaycancaتۆرکجهবাংলাBân-lâm-gúБашҡортсаБеларускаяБеларуская (тарашкевіца)БългарскиBoarischBosanskiBrezhonegCatalàCebuanoČeštinaChiShonaCorsuCymraegDanskDeutschދިވެހިބަސްཇོང་ཁEestiΕλληνικάEnglishEspañolEsperantoEuskaraفارسیFøroysktFrançaisFryskFurlanGaeilgeGalegoગુજરાતી客家語/Hak-kâ-ngî한국어HausaHawaiʻiՀայերենहिन्दीHornjoserbsceHrvatskiIdoIlokanoBahasa IndonesiaInterlinguaIsiXhosaÍslenskaItalianoעבריתJawaಕನ್ನಡქართულიҚазақшаKreyòl ayisyenKurdîКыргызчаລາວLatinaLatviešuLëtzebuergeschLietuviųLigureLimburgsLingálaLa .lojban.LombardMagyarМакедонскиMalagasyമലയാളംMaltiमराठीმარგალურიمصرىBahasa Melayu閩東語 / Mìng-dĕ̤ng-ngṳ̄Монголမြန်မာဘာသာNa Vosa VakavitiNederlandsनेपाली日本語Norsk bokmålNorsk nynorskOccitanଓଡ଼ିଆOʻzbekcha / ўзбекчаਪੰਜਾਬੀپنجابیپښتوភាសាខ្មែរPlattdüütschPortuguêsQaraqalpaqshaRipoarischRomânăRuna SimiРусиньскыйРусскийСаха тылаᱥᱟᱱᱛᱟᱲᱤSarduScotsSesothoShqipSicilianuසිංහලSimple EnglishSiSwatiSlovenčinaSlovenščinaŚlůnskiSoomaaligaکوردیСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaTagalogதமிழ்TaqbaylitТатарча / tatarçaతెలుగుไทยТоҷикӣTürkçeУкраїнськаاردوVahcuenghVènetoVepsän kel’Tiếng ViệtVõro文言West-VlamsWinaray吴语ייִדישYorùbá粵語ZazakiŽemaitėška中文
+Edytuj linki
+ArtykułDyskusja
+polski
+CzytajEdytujEdytuj kod źródłowyWyświetl historię
+Narzędzia
+Narzędzia
+przypnij
+ukryj
+Działania
+CzytajEdytujEdytuj kod źródłowyWyświetl historię
+Ogólne
+LinkująceZmiany w linkowanychPrześlij plikStrony specjalneLink do tej wersjiInformacje o tej stronieCytowanie tego artykułuElement Wikidanych
+Drukuj lub eksportuj
+Utwórz książkęPobierz jako PDFWersja do druku
+W innych projektach
+Wikimedia CommonsWikibooksWikinewsWikicytaty
+Z Wikipedii, wolnej encyklopedii
+(Przekierowano z Windows)
+Na tę stronę wskazuje przekierowanie z „Windows”. Zobacz też: inne znaczenia.
+Microsoft Windows
+Interfejs użytkownika
+Producent
+Microsoft
+Architektura
+x86, x86-64, ARM[1]
+Pierwsze wydanie
+20 listopada 1985; ponad 37 lat temu(jako Windows 1.01)
+Aktualna wersja
+Windows 11 (wersja 22H2 (10.0.22621.2215)[2](22 sierpnia 2023)
+Aktualna wersja testowa
+Windows 11 Release Preview Channel
+10.0.22621.2215[3]
+Beta Channel
+10.0.22631.2199[4]
+Dev Channel
+10.0.23526.1000[5]
+Canary Channel
+10.0.25931.1010[6](22 sierpnia 2023)
+Jądro
+hybrydowe (Windows NT);monolityczne (Windows Me i wcześniejsze)
+Środowisko pracy
+Aero (Windows Vista oraz Windows 7);Modern UI (Windows 8.1);MDL2, Fluent[7] (Windows 10 oraz Windows 11)
+Licencja
+MS–EULA
+Typ pakietów
+exe
+Wersja Live
+ poprzez modyfikację
+Multimedia w Wikimedia Commons
+Książki w Wikibooks
+Strona internetowa
+Microsoft Windows (ang. windows „okna”, IPA: [maɪkɹoʊsɑːft ˈwɪndoʊz]) – rodzina systemów operacyjnych stworzonych przez firmę Microsoft. Systemy rodziny Windows działają na telefonach, smartfonach, serwerach, systemach wbudowanych oraz na komputerach osobistych, z którymi są najczęściej kojarzone.
+Prezentację pierwszego graficznego środowiska pracy z rodziny Windows firmy Microsoft przeprowadzono w listopadzie 1984. Wówczas była to graficzna nakładka na system operacyjny MS-DOS[8], powstała w odpowiedzi na rosnącą popularność graficznych interfejsów użytkownika, takich jakie prezentowały na przykład komputery Macintosh. Nakładka, a później system operacyjny Windows po pewnym czasie zdominowała światowy rynek komputerów osobistych. Pierwszym stabilnym wydaniem był Windows 1.01. Windows 1.00 był wersją beta, nigdy nie wydaną.
+Wersje[edytuj | edytuj kod]
+Zbiorczo stosowana nazwa Windows dotyczy całej serii produktów z dziedziny systemów operacyjnych firmy Microsoft. Produkty te dzielą się następująco:
+16-bitowe środowiska operacyjne[edytuj | edytuj kod]
+Wczesne wersje Windows były raczej graficznymi interfejsami użytkownika – pulpitami. Wynikało to z faktu, że były one uruchamiane z poziomu systemu operacyjnego MS-DOS i wykorzystywały jego mechanizmy w dziedzinach chociażby obsługi plików. Z drugiej jednak strony nawet owe wczesne 16-bitowe środowiska pracy posiadały pewne cechy pełnoprawnego systemu operacyjnego, posiadając na przykład własny format plików wykonywalnych i własne sterowniki urządzeń (zegara, urządzeń graficznych, drukarek, myszy, klawiatur, czy urządzeń do generowania dźwięku) wykorzystywane przez aplikacje. Inaczej niż możliwe to było w MS-DOS, nakładki Windows umożliwiały jednoczesne uruchomienie wielu aplikacji, działających w trybie wielozadaniowości kooperatywnej. Kolejną cechą 16-bitowych implementacji Windows było korzystanie ze skomplikowanego systemu segmentowanej pamięci wirtualnej obsługiwanej programowo; system ten umożliwiał uruchamianie aplikacji o rozmiarach przekraczających wielkość dostępnej pamięci operacyjnej komputera. Segmenty danych były przywoływane do pamięci i usuwane z niej, jeśli tylko ilość wolnego miejsca niebezpiecznie spadała. Dane ulegały również przemieszczaniu, jeśli aplikacja nie wymagała stałej kontroli ze strony procesora, na przykład czekając na wprowadzenie przez użytkownika danych. Środowiska wykorzystujące tę technologię to Windows 1.0, wydany w roku 1985 i Windows 2.0 (rok 1987) wraz z powiązanym środowiskiem Windows/286.
+Hybrydy, 16/32-bitowe środowiska operacyjne[edytuj | edytuj kod]
+Windows/386 wprowadził do środowiska jądro działające w 32-bitowym trybie chronionym procesora i monitor urządzeń wirtualnych. Na okres całej sesji nakładka tworzyła jedno lub więcej środowisk wirtualnych typu 8086, umożliwiając wirtualizację urządzeń (karty graficznej, klawiatury, myszy, zegara i kontrolera przerwań) dla każdego z nich. Widocznym dla użytkownika skutkiem działania tej technologii była możliwość uruchamiania wielu środowisk MS-DOS w trybie wielozadaniowości z wywłaszczeniem, z których każde uruchomione było w oddzielnym oknie (aplikacje graficzne MS-DOS-a wymagały przejścia w tryb pełnoekranowy). Aplikacje przeznaczone dla środowiska Windows były nadal uruchamiane w trybie wielozadaniowości kooperatywnej, a każda była umieszczona w odrębnym środowisku.
+Środowiska Windows 3.0 (rok wydania 1990) i Windows 3.1 (rok 1992) znacznie usprawniły wyżej opisane mechanizmy, głównie dzięki wykorzystywaniu pamięci wirtualnej i ładowanych do pamięci sterowników urządzeń wirtualnych (VxD), które zezwalały poszczególnym oknom DOS uruchomionym w wielozadaniowości wspólne korzystanie z umownych urządzeń. Dzięki tym rozwiązaniom aplikacje Windows mogły być uruchamiane w 16-bitowym trybie chronionym (zarówno gdy środowisko Windows działało w trybie standardowym, jak i rozszerzonym trybie procesorów 386), otrzymując dostęp do kilkunastu megabajtów pamięci operacyjnej, były też zwolnione z konieczności korzystania z systemu pamięci wirtualnej obsługiwanego programowo. Nadal działały we wspólnej przestrzeni adresowej, gdzie były częściowo chronione przez funkcję segmentacji pamięci, a ich wykonywanie odbywało się w trybie wielozadaniowości kooperacyjnej. W przypadku Windows 3.0 Microsoft dodatkowo napisał w asemblerze część kluczowych funkcji środowiska, co obniżyło wymagania pamięciowe platformy i przyspieszyło jej działanie.
+Hybrydowe, 16/32-bitowe systemy operacyjne[edytuj | edytuj kod]
+Po wprowadzeniu do środowiska Windows for Workgroups 3.11 32-bitowego dostępu do plików, platforma Windows mogła w końcu zrezygnować z zarządzania plikami przez system operacyjny DOS. Wykorzystując cechy nowego mechanizmu, system operacyjny Windows 95 wprowadził możliwość stosowania długich nazw plików, zaś DOS ze swoimi ograniczeniami nazw plików (8 liter nazwy plus 3 rozszerzenia) został sprowadzony do roli programu ładującego system przy starcie komputera. Windows 95 i jego następcy do wersji ME miały więc dwa jądra, środowiska: uruchamiany zaraz po starcie DOS, a chwilę później środowisko wielozadaniowe (pulpit). Sam DOS był dostarczany wraz z Windows, co sprawiło, że (częściowo) obsługiwał długie nazwy plików, jeśli jego aplikacje były wywoływane spod Windows. Najważniejszą cechą nowego systemu była możliwość uruchamiania 32-bitowych programów graficznych działających wielowątkowo w trybie wielozadaniowości z wywłaszczeniem. Konieczność utrzymania zgodności wstecznej z programami 16-bitowymi oznaczała jednak, że komponenty graficznego interfejsu użytkownika nadal były 16-bitowe, do tego nie w pełni wielobieżne, co skutkowało obniżonymi osiągami systemu i kłopotami z jego stabilnością.
+System operacyjny Windows 95 ukazał się w trzech wersjach: pierwsza zadebiutowała w roku 1995, zaś kolejne w latach 1996 i 1997. Dwie późniejsze wersje dostępne były tylko w edycjach OEM, a jedną z ważniejszych zaimplementowanych w nich cech był system plików FAT32 oraz poprawna obsługa urządzeń USB (wersja OSR2.1). Następnym produktem serii był Windows 98, który na rynku pojawiał się dwukrotnie – w roku 1998 oraz pod nazwą Windows 98 Second Edition w rok później. W roku 2000 Microsoft wydał system operacyjny Windows Me (skrót Me oznacza Millennium Edition), bazujący na kodzie systemu Windows 98, lecz w kwestiach wyglądu zaprojektowany jak Windows 2000. Jednym z rozwiązań wprowadzonym do Windows Me było przywracanie systemu, które umożliwiało użytkownikowi przywrócenie ustawień systemu z danego dnia. Nie zostało ono jednak ciepło przyjęte, gdyż w wielu przypadkach powodowało konflikty. Windows Me został przyjęty na rynku jako „wypełniacz” na drodze do pełnego połączenia obydwu gałęzi opracowywanych przez Microsoft systemów operacyjnych. Microsoft natomiast nie dał produktowi wystarczającego czasu na „zadomowienie się” na rynku, zanim wprowadził Windows XP.
+32-bitowe systemy operacyjne[edytuj | edytuj kod]
+Ta linia systemów operacyjnych z rodziny Windows była opracowywana i sprzedawana pod kątem klientów korporacyjnych, żądających zwiększonej stabilności systemu i dzięki swemu pochodzeniu (odseparowaniu od linii MS-DOS) nie była obarczona ograniczeniami tekstowego systemu operacyjnego. Pierwszym systemem tej linii był Windows NT 3.1, który zadebiutował w roku 1993 – numer wersji 3.1 pozostawiono, by zrównać numerację z wcześniej oferowanymi środowiskami operacyjnymi i by „przebić” numerację systemu OS/2 – głównego konkurenta systemu Windows NT (wówczas istniejącego w wersji 2.1), sztandarowego produktu firmy IBM, w którego powstaniu uczestniczył również Microsoft. Kolejne wersje systemu NT to 3.5 (rok 1994), 3.51 (1995) i 4.0 (1996). Ostatnia z wymienionych wersji wyglądem przypominała Windows 95, przejmując jego interfejs użytkownika. Późniejsze działanie Microsoftu podążały w kierunku połączenia linii systemów operacyjnych dla klientów indywidualnych i korporacyjnych. Pierwsza próba, którą był Windows 2000, nie spełniła oczekiwań obydwu grup, została więc przeznaczona dla zastosowań firmowych. Prace nad domowym odpowiednikiem Windows 2000, roboczo ochrzczonym „Neptune” zostały wstrzymane, a w jego miejscu pojawił się Windows Me. Osiągnięcia „Neptune” zostały włączone do nowego projektu o nazwie „Whistler”, który po zakończeniu stał się systemem operacyjnym Windows XP. Rozszerzeniem linii wysokiej klasy 32-bitowych systemów operacyjnych dla biznesu był Windows Server 2003. Windows Vista jest w wersji 32-bitowej i 64-bitowej. Ostatnim na liście systemem 32-bitowym jest Windows CE, zaprojektowany dla rozwiązań przenośnych i aplikacji zagnieżdżonych i oferujący szereg usług dla działających w jego środowisku stanowisk roboczych. Windows 7, Windows 8.1 oraz Windows 10 są dostępne zarówno w wersji 32-bitowej, jak i 64-bitowej.
+64-bitowe systemy operacyjne[edytuj | edytuj kod]
+System Windows NT działał na kilku różnych platformach sprzętowych zanim dominującą pozycję na rynku komputerowym (również w dziedzinie zastosowań profesjonalnych) uzyskały komputery osobiste oparte na procesorach rodziny x86. Windows NT w wersjach od 3.1 do 4.0 dostępny był dla komputerów opartych na architekturze DEC Alpha i MIPS R4000, które były maszynami 64-bitowymi. System operacyjny traktował procesory tych komputerów jednak jak 32-bitowe.
+Po pojawieniu się architektur sprzętowych IA-64 (procesory Itanium), zaś później X86-64/EMT64 (która w terminologii Microsoftu była oznaczana jako x64), Microsoft udostępnił nowe wersje swoich aktualnie wydawanych systemów operacyjnych. Nowoczesna linia 64-bitowych systemów Windows składała się z Windows XP 64-bit Edition dla systemów IA-64, Windows XP Professional x64 Edition dla komputerów wyposażonych w procesory obsługujące rozszerzone instrukcje X86-64/EMT64 oraz Windows Server 2003 w wydaniach dla architektur IA-64 i x64. Wersje x64 systemów Windows XP Professional i Windows Server 2003 zadebiutowały 25 kwietnia 2005, wersje dla procesorów Intel Itanium były natomiast udostępniane w tym samym czasie, co ich 32-bitowe odpowiedniki. System Windows Vista jest pierwszym produktem firmy, który dla użytkowników końcowych został wydany jednocześnie w wersji 32-bitowej, jak i 64-bitowej. Jego następcy – Windows 7, Windows 8, Windows 8.1 oraz Windows 10 – również są dostępni w obu wersjach. Nowy Windows 11 został wydany tylko w wersji 64-bitowej.
+Popularne aplikacje w Windows[edytuj | edytuj kod]
+Internet Explorer[edytuj | edytuj kod]
+ Osobny artykuł: Internet Explorer.
+Po premierze systemu Windows 95 został dopuszczony do sprzedaży dodatek Microsoft Plus! zawierający graficzną przeglądarkę Internet Explorer w wersji 1.0. Była to pierwsza przeglądarka Microsoftu.
+Od czasu wydania systemu Windows 98 przeglądarka Internet Explorer jest zintegrowana z Eksploratorem Windows, co oznacza, że nie da się jej całkowicie usunąć.
+W Windows 7 istnieje możliwość odinstalowania przeglądarki Internet Explorer. Europejska wersja systemu Windows 7 E, która miała nie zawierać przeglądarki Internet Explorer według decyzji Microsoftu została wycofana z produkcji. Zastąpiło ją okno wyboru przeglądarki, dystrybuowane jako aktualizacja przez Windows Update w pierwszej kolejności dla komputerów, gdzie domyślną przeglądarką jest Internet Explorer[9].
+W Windows 10 Internet Explorer został zastąpiony przez nową przeglądarkę o nazwie Microsoft Edge. Internet Explorer nie został jednak usunięty z systemu celem zapewnienia wstecznej kompatybilności.
+Windows Media Player[edytuj | edytuj kod]
+ Osobny artykuł: Windows Media Player.
+Windows Media Player jest domyślnym odtwarzaczem multimedialnym w systemach Windows. Podobnie jak w przypadku przeglądarki Internet Explorer nie można go całkowicie usunąć z systemu.
+Komisja Europejska w marcu 2004 nałożyła na Microsoft karę w wysokości 497,2 mln euro i nakazała wydać wersje Windows bez programu Windows Media Player[10], co Microsoft uczynił wydając w Europie wersje N swoich systemów. Wersje N nie odniosły jednak sukcesu na rynku[11].
+W systemie Windows 10 domyślnym odtwarzaczem wideo jest aplikacja Filmy i TV a odtwarzaczem audio Muzyka Groove. Wciąż jednak możliwe jest ustawienie Windows Media Player jako domyślny odtwarzacz.
+Microsoft Paint[edytuj | edytuj kod]
+ Osobny artykuł: Microsoft Paint.
+Microsoft Paint (wcześniej Paint, Paintbrush) – program graficzny przeznaczony do tworzenia i obróbki grafiki rastrowej w systemach Windows, będący produktem firmy Microsoft.
+Program nie posiada filtrów ani obsługi warstw – funkcji typowych dla profesjonalnych programów graficznych, mimo to chętnie jest wykorzystywany przez artystów pixel artu. Potrafi zapisywać i odczytywać grafikę w formatach: BMP, JPG i JPEG, GIF, TIFF, ICO oraz PNG.
+Aplikacje pocztowe[edytuj | edytuj kod]
+Outlook Express jest standardowym klientem poczty elektronicznej od wersji Windows 95 do wersji Windows XP. Następcą Outlook Express jest Windows Mail, klient poczty e-mail w Windows Vista, zastąpiony dodatkiem Poczta systemu Windows Live w Windows 7, a w systemie Windows 8, Windows 8.1, Windows 10 i Windows 11 dostępny jest program nazwany po prostu Poczta.
+Historia[edytuj | edytuj kod]
+ Osobny artykuł: Historia systemów Microsoft Windows.
+Udział poszczególnych wersji systemu Microsoft Windows w globalnym rynku komputerów PC z systemem Windows
+Windows 10
+  
+67,95%
+Windows 11
+  
+16,97%
+Windows 7
+  
+11,20%
+Windows 8.1
+  
+2,60%
+Windows 8
+  
+0,66%
+Windows XP
+  
+0,49%
+Inne
+  
+0,14%
+Dane według serwisu StatCounter na grudzień 2022[12].
+Udział poszczególnych wersji systemu Microsoft Windows w rynku komputerów PC z systemem Windows w Polsce
+Windows 10
+  
+77,41%
+Windows 11
+  
+12,96%
+Windows 7
+  
+6,67%
+Windows 8.1
+  
+2,17%
+Windows XP
+  
+0,35%
+Windows 8
+  
+0,34%
+Inne
+  
+0,11%
+Dane według serwisu StatCounter na grudzień 2022[13].
+Microsoft podążył w rozwoju swoich systemów operacyjnych dwiema równoległymi ścieżkami. Jedna z nich koncentrowała się na dostarczaniu systemów operacyjnych dla użytkowników domowych, druga zaś oferowała rozwiązania dla profesjonalistów w dziedzinie informatyki. Ten swoisty dualizm skutkował pojawianiem się na rynku systemów domowych o znacznie bardziej chwytliwej dla oka stylistyce, lecz ograniczonymi w kwestiach pracy w sieci i bezpieczeństwa oraz wersji profesjonalnych – uboższych graficznie, lecz stabilniejszych podczas pracy w sieci i wyposażonych w lepsze zabezpieczenia.
+Pierwsza niezależna wersja Microsoft Windows, opatrzona numerem 1.0, obecna na rynku od listopada 1985, nie oferowała dużego zakresu funkcjonalności i nie zyskała szerszego uznania. Windows 1.0 nie był systemem operacyjnym, lecz przedłużeniem – nakładką na system MS-DOS. Microsoft Windows w wersji 2.0, sprzedawany od listopada 1987, nieco lepiej przyjął się wśród użytkowników. Wersja 2.03, datowana na styczeń 1988, wprowadziła zmiany w wyglądzie – zamiast okien ułożonych sąsiadująco możliwe było nachodzenie poszczególnych aplikacji na siebie. Skutkiem wprowadzenia tej zmiany był pozew wytoczony Microsoftowi przez firmę Apple Computer, który zarzucał firmie Billa Gatesa naruszenie praw autorskich należących do Apple.
+Wersja 3.0 nakładki Windows, sprzedawana od roku 1990, była pierwszym produktem rodziny, który osiągnął szerszy sukces. Wyznacznikiem popularności było sprzedanie 2 milionów kopii nakładki w trakcie pierwszych sześciu miesięcy obecności rynkowej. Wprowadzone ulepszenia dotyczyły przede wszystkim interfejsu użytkownika i możliwości pracy wielozadaniowej. W sierpniu 1995 Microsoft rozpoczął sprzedaż systemu operacyjnego Windows 95, który kontynuował zmiany w interfejsie użytkownika i pozwalał na rzeczywistą prace wielozadaniową. Wsparcie techniczne dla systemu Windows 95 zakończyło się 31 grudnia 2001[14].
+W lipcu 1993 pojawił się Windows NT, oparty na nowym jądrze. Seria NT była postrzegana jako system dla profesjonalistów. Połączenie linii systemów operacyjnych dla użytkowników domowych i profesjonalistów dokonało się dopiero przy okazji wprowadzenia systemu Windows XP.
+Kolejnym systemem rodziny była wersja Windows 98, który na rynku pojawił się w czerwcu 1998. Dość ostrej krytyce poddana została jego powolność w porównaniu z Windows 95, lecz większość niedogodności została wyeliminowana w wydanej w roku 1999 wersji Windows 98 Second Edition. Wsparcie techniczne dla systemów Windows 98 i Windows 98 SE zostało zakończone 11 lipca 2006[15].
+W dziedzinie systemów operacyjnych do zastosowań profesjonalnych, Microsoft zaoferował w lutym 2000 system operacyjny Windows 2000. Następcą Windows 98 w kategorii rozwiązań dla użytkowników domowych był produkt Windows Me (Windows Millenium Edition). Wraz z systemem Windows Me który debiutował we wrześniu 2000, Microsoft starał się wprowadzić szereg własnych rozwiązań technologicznych, takich jak „Universal Plug and Play”. Produkt jednak otrzymał od rynku słowa krytyki pod adresem kompatybilności zastosowanych rozwiązań i stabilności działania.
+W październiku 2001 Microsoft przedstawił system operacyjny Windows XP. Produkt ten łączył w sobie jądro przejęte z linii Windows NT oraz funkcjonalność systemu Windows 95 i jego następców. W prasie komputerowej pojawiło się sporo pochwał skierowanych pod adresem nowego systemu[16]. Oferowane były dwie wersje Windows XP, ochrzczone mianami „Home” i „Professional”, przy czym pierwsza – skierowana do użytkowników domowych – nie była wyposażona w szereg mechanizmów sieciowych i zabezpieczających, które zostały wprowadzone w wersji Professional. Była więc upodobniona do systemów z linii 9x, natomiast wersja Professional kontynuowała założenia systemów z linii NT. Dodatkowym produktem linii XP była wersja „Windows XP Media Center Edition”, która pojawiła się w roku 2003 i skierowana była głównie do entuzjastów filmów telewizyjnych i DVD, pozwalając na przykład na nagrywanie sygnału telewizyjnego i obsługę za pomocą pilota. Wersja XP MCE była więc połączeniem wersji Home systemu XP i specjalnej nakładki systemowej dla obsługi multimediów. Wsparcie techniczne dla systemu Windows XP zakończyło się 8 kwietnia 2014[17].
+W kwietniu 2003 na rynku pojawił się system operacyjny Windows Server 2003, który zastąpił Windows 2000 w dziedzinie systemów operacyjnych dla serwerów. Pojawiło się w nim szereg nowych funkcji, zaś szczególnie silny nacisk położono na bezpieczeństwo. Ulepszona wersja Windows Server 2003 o nazwie Windows Server 2003 R2 pojawiła się w grudniu 2005.
+Zobacz wiadomość w serwisie Wikinews pt. wydania Windows Vista Release Candidate 1
+Windows Vista, następca systemu Windows XP, na rynku pojawił się 30 stycznia 2007. Zostały dodane do niej nowe efekty graficzne, serwer IIS 7. W Windows Update jest dostępnych wiele więcej sterowników niż w Windows XP. Klienci korporacyjni mogli nabywać go już od 30 listopada 2006.Następcą Windows Server 2003 jest Windows Server 2008 (kodowa nazwa Longhorn), który został wydany 27 lutego 2008 roku. Wsparcie techniczne dla systemu Windows Vista zakończyło się 11 kwietnia 2017 roku[18].
+Cieszący się długo najwyższym udziałem rynku systemów operacyjnych Windows, utracił tę pozycję na rzecz systemu Android w kwietniu 2017[19][20].
+Historia systemu Microsoft Windows
+Daty wydań[edytuj | edytuj kod]
+Data wydania
+Nazwa produktu
+Wersja
+Wsparcie techniczne[21]
+Najnowsza dostępna wersja przeglądarki Internet Explorer
+Obecność przeglądarki Microsoft Edge
+listopad 1985
+Windows 1.01
+1.01
+Nie
+–
+Nie
+listopad 1987
+Windows 2.03
+2.03
+Nie
+–
+Nie
+marzec 1989
+Windows 2.11
+2.11
+Nie
+–
+Nie
+maj 1990
+Windows 3.0
+3.0
+Nie
+–
+Nie
+marzec 1992
+Windows 3.1
+3.1
+Nie
+5
+Nie
+październik 1992
+Windows For Workgroups 3.1
+3.1
+Nie
+5
+Nie
+lipiec 1993
+Windows NT 3.1
+NT 3.1
+Nie
+5
+Nie
+grudzień 1993
+Windows For Workgroups 3.11
+3.11
+Nie
+5
+Nie
+styczeń 1994
+Windows 3.2 (wydany tylko w języku chińskim)
+3.2
+Nie
+5
+Nie
+wrzesień 1994
+Windows NT 3.5
+NT 3.5
+Nie
+5
+Nie
+maj 1995
+Windows NT 3.51
+NT 3.51
+Nie
+5
+Nie
+sierpień 1995
+Windows 95
+4.0.950
+Nie
+5
+Nie
+lipiec 1996
+Windows NT 4.0
+NT 4.0
+Nie
+6
+Nie
+czerwiec 1998
+Windows 98
+4.10.1998
+Nie
+6
+Nie
+maj 1999
+Windows 98 SE
+4.10.2222
+Nie
+6
+Nie
+luty 2000
+Windows 2000
+NT 5.0.3700.6690
+Nie
+6
+Nie
+wrzesień 2000
+Windows Me
+4.90.3000
+Nie
+6
+Nie
+październik 2001
+Windows XP
+NT 5.1.2600
+Nie
+8
+Nie
+marzec 2003
+Windows XP 64-bit Edition
+NT 5.2.3790
+Nie
+8
+Nie
+kwiecień 2003
+Windows Server 2003
+NT 5.2.3790
+Nie
+8
+Nie
+kwiecień 2005
+Windows XP Professional x64 Edition
+NT 5.2.3790
+Nie
+8
+Nie
+lipiec 2006
+Windows Fundamentals for Legacy PCs
+NT 5.1.2600
+Nie
+8
+Nie
+listopad 2006 (klienci biznesowi)styczeń 2007 (klienci indywidualni)
+Windows Vista
+RTM – NT 6.0.6000
+SP1 – NT 6.0.6001
+SP2 – NT 6.0.6002
+Nie
+9
+Nie
+lipiec 2007
+Windows Home Server
+NT 5.2.3790
+Nie[22]
+9
+Nie
+luty 2008
+Windows Server 2008
+NT 6.0.6001
+Nie[23]
+9
+Nie
+22 października 2009
+Windows 7
+RTM – NT 6.1.7600
+SP1 – NT 6.1.7601
+Nie[18]
+11
+Nie
+22 października 2009
+Windows Server 2008 R2
+NT 6.1.7600
+Nie[23]
+11
+Nie
+6 czerwca 2011
+Windows Thin PC[24]
+NT 6.1.7601
+Nie
+11
+Nie
+28 czerwca 2011
+Windows Home Server 2011
+NT 6.1.7601
+Nie
+11
+Nie
+4 września 2012[25]
+Windows Server 2012
+NT 6.2.9200
+Nie[23]
+10
+Nie
+26 października 2012
+Windows 8
+NT 6.2.9200
+Nie
+11
+Nie
+17 października 2013
+Windows 8.1
+NT 6.3.9600
+Nie[18]
+11
+Nie
+18 października 2013
+Windows Server 2012 R2
+NT 6.3.9600
+Nie[23]
+11
+Nie
+29 lipca 2015
+Windows 10 (wersja początkowa; 1507)
+NT 10.0.10240
+Nie
+11
+Tak
+12 listopada 2015
+Windows 10 November Update (wersja 1511)
+NT 10.0.10586
+Nie
+11
+Tak
+2 sierpnia 2016
+Windows 10 Anniversary Update (wersja 1607)
+NT 10.0.14393
+Nie
+11
+Tak
+26 września 2016
+Windows Server 2016
+NT 10.0.14393
+Tak (12 sty 2027)[26]
+11
+Tak
+11 kwietnia 2017
+Windows 10 Creators Update (wersja 1703)
+NT 10.0.15063
+Nie
+11
+Tak
+17 października 2017
+Windows 10 Fall Creators Update (wersja 1709)
+NT 10.0.16299
+Nie
+11
+Tak
+30 kwietnia 2018
+Windows 10 April 2018 Update (wersja 1803)
+NT 10.0.17134
+Nie
+11
+Tak
+2 października 2018
+Windows 10 October 2018 Update (wersja 1809)
+NT 10.0.17763
+Nie
+11
+Tak
+2 października 2018[27]
+Windows Server 2019
+NT 10.0.17763
+Tak (9 sty 2029)[28]
+11
+Tak
+21 maja 2019
+Windows 10 May 2019 Update (wersja 1903)
+NT 10.0.18362
+Nie
+11
+Tak
+12 listopada 2019
+Windows 10 November 2019 Update (wersja 1909)
+NT 10.0.18363
+Nie
+11
+Tak
+27 maja 2020
+Windows 10 May 2020 Update (wersja 2004)
+NT 10.0.19041
+Nie
+11
+Tak
+20 października 2020
+Windows 10 October 2020 Update (wersja 20H2)
+NT 10.0.19042
+Nie
+11
+Tak
+18 maja 2021
+Windows 10 May 2021 Update (wersja 21H1)
+NT 10.0.19043
+Nie[29]
+11
+Tak
+18 sierpnia 2021[30]
+Windows Server 2022
+NT 10.0.20348
+Tak
+11 (ukryty)
+Tak
+5 października 2021
+Windows 11 21H2
+NT 10.0.22000
+Tak
+11 (ukryty)
+Tak
+16 listopada 2021
+Windows 10 November 2021 Update (wersja 21H2)
+NT 10.0.19044
+Nie
+11
+Tak
+20 września 2022[31]
+Windows 11 22H2
+NT 10.0.22621
+Tak
+11 (ukryty)
+Tak
+18 października 2022[32]
+Windows 10 November 2022 Update (wersja 22H2)
+NT 10.0.19045
+Tak
+11
+Tak
+Bezpieczeństwo[edytuj | edytuj kod]
+Bezpieczeństwo systemów Windows od wielu lat wywołuje ożywione dyskusje. Zdarzało się nawet, że sam producent systemów Windows padał ofiarą ataków (ostatni raz w roku 2000)[33]. Po części z uwagi na rozpowszechnienie systemów Windows, po części zaś z uwagi na kwestie techniczne dla systemów tej rodziny istnieje około 2 000 000 razy więcej szkodliwego oprogramowania niż dla innych systemów, takich jak macOS, Linux, Unix czy FreeBSD[34]. Początkowo systemy Windows projektowane były tak, by umożliwiać użytkownikom łatwe korzystanie z komputera bez połączeń sieciowych, nie stosowano więc w nich systemów zabezpieczeń. System operacyjny Windows NT i jego następcy posiadał już implementację zasad bezpieczeństwa pracy (w tym bezpieczeństwa sieciowego) oraz mechanizmy pozwalające na pracę systemu z wieloma użytkownikami, lecz pierwsza jego wersja nie zakładała stosowania zabezpieczeń podczas pracy w Internecie – rozwiązanie to nie było jeszcze tak szeroko rozpowszechnione w czasach prac nad systemem Windows NT. Te właśnie cechy w połączeniu z kodem, który w pewnych miejscach obarczony był pewnymi niedoskonałościami (zezwalając na przykład na przepełnienie bufora) sprawiają, że systemy z rodziny Windows są częstym celem ataków twórców wirusów i robaków komputerowych. Dodatkowo, do czasu pojawienia się w sprzedaży Windows Server 2003, większość wersji (nawet w przypadku Windows NT) sprzedawano w konfiguracji z wyłączonymi ważnymi mechanizmami zabezpieczeń, za to z włączonymi podatnymi na ataki (lecz jednocześnie użytecznymi) usługami systemowymi. W czerwcu 2005 zarządzana przez Bruce’a Schneiera firma Counterpane Internet Security podała, że zarejestrowała w przeciągu poprzedzających tę datę sześciu miesięcy ponad tysiąc nowych wirusów i robaków atakujących systemy operacyjne Windows.
+Narzędzie automatycznych aktualizacji systemu pojawiło się po raz pierwszy w systemie Windows Me. Dzięki tej funkcji dodatki Service Pack dla systemów Windows XP i Windows Server 2003 zostały przez większość użytkowników zainstalowane o wiele szybciej niż byłoby to możliwe przy dystrybucji uaktualnień bardziej konwencjonalnymi metodami. Microsoft dostarcza uaktualnienia swoich produktów poprzez usługę Windows Update średnio raz na miesiąc (zwykle w drugi wtorek każdego miesiąca), choć aktualizacje krytyczne mogą się w miarę potrzeby pojawiać w dowolnym momencie. W systemach Windows 2000 z dodatkiem Service Pack 3 i nowszym, Windows XP i Windows Server 2003 i nowszych, możliwe jest automatyczne pobranie i instalacja aktualizacji.
+W systemie Windows Vista Microsoft wprowadził mechanizm kontrola konta użytkownika (User Account Control). W systemie Windows każdy program ma takie same prawa, jak użytkownik. Jeżeli użytkownik chce wykonać działanie wykraczające poza jego uprawnienia (np. zmienić ustawienia systemowe, uruchomić program wymagający uprawnień administratora), konieczne jest potwierdzenie tej akcji na specjalnym ekranie, wpisując hasło konta z uprawnieniami administratora, jeżeli hasło to zostało ustawione. Funkcja ta jest jednak przez wiele osób uważana za uciążliwą i wyłączaną[35][36].
+Windows Defender[edytuj | edytuj kod]
+ Osobny artykuł: Windows Defender.
+6 stycznia 2005 firma Microsoft udostępniła wersję testową (beta) programu Windows AntiSpyware, który stworzono na podstawie wcześniej zakupionego programu o nazwie Giant AntiSpyware. 14 lutego 2006 nazwę programu zmieniono na Windows Defender, co stało się równocześnie z pojawieniem się drugiej wersji beta programu. Produkt wydano na licencji freeware, zaś jego funkcje to ochrona przed niepożądanym oprogramowaniem, w tym przed programami szpiegowskimi. Użytkownicy systemów Windows XP i Windows Server 2003, których legalność została potwierdzona przez WGA, mogą bezpłatnie pobrać i zainstalować Windows Defendera. Jest on dostępny również jako część systemu operacyjnego Windows Vista i nowszych[37].
+Analizy firm trzecich do niewspieranych już edycji Windows[edytuj | edytuj kod]
+Studium przeprowadzone w 2004 roku przez Kevina Mitnicka wraz z firmą Avantgarde zajmującą się komunikacją marketingową ujawniło, że komputer, na którym zainstalowano pozbawiony uaktualnień system Windows XP, nie wyposażony w jakiekolwiek oprogramowanie ochronne, pozostaje bezpieczny w sieci Internet przez około cztery minuty, po czym następuje przełamanie jego podstawowych mechanizmów ochrony[38].
+Opublikowane w październiku 2004 poświęcone bezpieczeństwu sieciowemu studium przeprowadzone przez AOL stwierdziło, że na komputerach 80 procent użytkowników systemów operacyjnych Windows działa co najmniej jeden program szpiegowski lub reklamowy. Istnieje również spora ilość dokumentacji ilustrująca metody podniesienia poziomu bezpieczeństwa systemów Windows. W starszych systemach Windows zaleca się instalację systemu komputerowego za sprzętową lub programową zaporą sieciową, ciągłą aktywność oprogramowania antywirusowego i antyszpiegowskiego oraz instalację uaktualnień dostępnych w witrynie Windows Update.
+W nowszych systemach (Windows XP SP2, Windows Vista, Windows 7) wiele z wymienionych powyżej funkcjonalności zostało wbudowane w system operacyjny.
+Projekty o otwartym kodzie źródłowym[edytuj | edytuj kod]
+Wine – Jest to prawie całkowita implementacja API środowiska Windows rozpowszechniana na zasadach wolnego oprogramowania. Pozwala ona na uruchomienie niektórych aplikacji Windows na komputerach o architekturze x86 z zainstalowanym systemem operacyjnym pochodzenia uniksowego, w tym GNU/Linux.
+ReactOS – Projekt mający na celu utworzenie darmowego, otwartego odpowiednika Windows 2000 tworzony przez wolontariuszy. Założeniem projektu jest maksymalna kompatybilność z istniejącym oprogramowaniem i sterownikami dla Windows NT. ReactOS jest ściśle powiązany z Wine, jednak w chwili obecnej projekt jest we wczesnej fazie rozwoju.
+Oprogramowanie do emulacji[edytuj | edytuj kod]
+Emulacja zezwala na uruchamianie programów napisanych dla systemów Windows bez konieczności uruchamiania samego systemu. Część z tych programów to:
+CrossOver Office – komercyjna wersja Wine z zestawem licencjonowanych czcionek. Podmioty, które stworzyły projekt są również regularnymi uczestnikami prac nad Wine, a ich działania koncentrują się na umożliwieniu uruchamiania pod Wine aplikacji oficjalnie przeznaczonych na systemy Windows.
+Cedega, wcześniej znana pod nazwą WineX – odgałęzienie Wine opracowywane przez firmę TransGaming Technologies, którego przeznaczeniem jest umożliwienie uruchamiania gier przeznaczonych dla systemu Windows w systemach GNU/Linux.
+Project David – ambitny i kontrowersyjny projekt zmierzający do pełnej emulacji programów Windows pod kontrolą innych systemów operacyjnych.
+Parallels Workstation – projekt firmy Parallels, Inc.
+Microsoft Virtual PC – przeznaczony dla systemów operacyjnych macOS zestaw aplikacji, którego rozwój w dotychczasowej formie został wstrzymany w roku 2006. Aktualnie spotyka się nazwę Virtual PC w odniesieniu do oprogramowania wirtualizacyjnego. Program stworzyła firma Connectix, po czym została przejęta przez Microsoft. Virtual PC dla środowiska macOS emuluje zachowanie 32-bitowych procesorów serii x86, wskutek czego możliwe jest za jego pomocą korzystanie z systemów operacyjnych dla PC; głównie jednak stosowany jest do emulacji systemu operacyjnego Windows.
+Darwine – projekt, którego założeniem jest stworzenie portów dla Wine (jak i innych narzędzi) i rozwijanie ich tak, by systemy operacyjne Darwin i macOS mogły uruchamiać oprogramowanie Microsoft Windows. Kolejnym założeniem projektu jest umożliwienie kompatybilności API 32-bitowych programów Windows na poziomie kodu źródłowego aplikacji.
+Przypisy[edytuj | edytuj kod]
+Informacje w projektach siostrzanych
+  Multimedia w Wikimedia Commons
+  Cytaty w Wikicytatach
+  Wiadomości w Wikinews
+  Podręczniki w Wikibooks
+  Definicje słownikowe w Wikisłowniku
+↑ TomT. Warren TomT., Microsoft is bringing Windows desktop apps to mobile ARM processors, The Verge, 7 grudnia 2016 [dostęp 2017-09-25]  (ang.).
+↑ 22 sierpnia 2023 r. — KB5029351 (kompilacja systemu operacyjnego 22621.2215) — wersja zapoznawcza, support.microsoft.com [dostęp 2023-08-22]  (pol.).
+↑ AmandaA. Langowski AmandaA., BrandonB. LeBlanc BrandonB., Releasing Windows 11 Build 22621.2213 to the Release Preview Channel, Windows Insider Blog, 10 sierpnia 2023 [dostęp 2023-08-10]  (ang.).
+↑ AmandaA. Langowski AmandaA., BrandonB. LeBlanc BrandonB., Announcing Windows 11 Insider Preview Build 22621.2199 and 22631.2199 (Beta Channel), Windows Insider Blog, 18 sierpnia 2023 [dostęp 2023-08-18]  (ang.).
+↑ AmandaA. Langowski AmandaA., BrandonB. LeBlanc BrandonB., Announcing Windows 11 Insider Preview Build 23526 (Dev Channel), Windows Insider Blog, 18 sierpnia 2023 [dostęp 2023-08-18]  (ang.).
+↑ AmandaA. Langowski AmandaA., BrandonB. LeBlanc BrandonB., Announcing Windows 11 Insider Preview Build 25931 (Canary Channel), Windows Insider Blog, 16 sierpnia 2023 [dostęp 2023-08-16]  (ang.).
+↑ Fluent Design System, Microsoft [dostęp 2018-12-06]  (ang.).
+↑ The Unusual History of Microsoft Windows [dostęp 2008-08-23]  (ang.).
+↑ Okno wyboru przeglądarki już działa, instalki.pl, 9 marca 2010 [dostęp 2010-11-21]  (pol.).
+↑ Klamka zapadła, 497,2 mln euro grzywny dla Microsoftu, dobreprogramy.pl, 24 marca 2004 [dostęp 2008-05-10]  (pol.).
+↑ Niechciane „okienka”, webdiary.pl, 21 listopada 2005 [dostęp 2008-05-10] [zarchiwizowane z adresu 2008-01-12] .
+↑ Desktop Windows Version Market Share Worldwide – December 2022. gs.statcounter.com. (ang.).
+↑ Desktop Windows Version Market Share in Poland – December 2022. gs.statcounter.com. (ang.).
+↑ Koniec wsparcia technicznego dla systemu Windows 95, support.microsoft.com [dostęp 2017-01-21]  (pol.).
+↑ Koniec wsparcia technicznego dla systemu Windows 98, support.microsoft.com [dostęp 2017-01-21]  (pol.).
+↑ Odpowiedzi na najczęściej zadawane pytania o Windows, review.zdnet.com [zarchiwizowane z adresu 2008-09-19] ..
+↑ Koniec wsparcia technicznego dla systemu Windows XP, support.microsoft.com [dostęp 2017-01-21]  (pol.).
+↑ a b c Microsoft, Zestawienie dotyczące cyklu Życia systemu Windows – Microsoft Windows [dostęp 2012-04-11]  (pol.).
+↑ Android overtakes Windows for first time | StatCounter Global Stats, gs.statcounter.com [dostęp 2017-11-25]  (ang.).
+↑ Android najpopularniejszym system na świecie. To koniec pewnej ery – PC World – Testy i Ceny sprzętu PC, RTV, Foto, Porady IT, Download, Aktualności, www.pcworld.pl [dostęp 2017-11-25]  (pol.).
+↑ Zestawienie dotyczące cyklu życia systemu Windows, Microsoft Support [dostęp 2019-11-14]  (pol.).
+↑ Microsoft, Cykl wsparcia technicznego produktów firmy Microsoft (Windows Home Server) [dostęp 2014-04-09]  (pol.).
+↑ a b c d Microsoft, Cykl wsparcia technicznego produktów firmy Microsoft [dostęp 2014-02-05]  (pol.).
+↑ Windows Thin PC RTMs! – Windows For Your BusinessWindows For Your Business, blogs.windows.com [dostęp 2016-12-18] .
+↑ Dziś wielka premiera Windows Server 2012 – Artykuły – Chip.pl.
+↑ Windows Server 2016, Daty obowiązywania obsługi technicznej .
+↑ Windows Server 2019 – now generally available!, Windows Server Blog, 2 października 2018 [dostęp 2018-11-17]  (ang.).
+↑ Windows Server 2019, Daty obowiązywania obsługi technicznej .
+↑ Windows 10, Daty obowiązywania obsługi technicznej .
+↑ DocsPreview, Windows Server release information, learn.microsoft.com [dostęp 2022-11-25]  (ang.).
+↑ direeshk, Windows 11 - release information, learn.microsoft.com [dostęp 2022-11-25]  (ang.).
+↑ direeshk, Windows 10 - release information, learn.microsoft.com [dostęp 2022-11-25]  (ang.).
+↑ Microsoft znowu zhakowany.
+↑ Anonimowa firma sugeruje przesiadkę na Maki.
+↑ ScottS. Dunn ScottS., Annoyance Buster: Make Vista’s User Account Control Work for You, pcworld.com, 11 grudnia 2007 [dostęp 2010-01-22] [zarchiwizowane z adresu 2010-01-21]  (ang.).
+↑ Neil J.N.J. Rubenking Neil J.N.J., Security in Windows 7: UAC, pcmag.com, 20 listopada 2008 [dostęp 2010-01-22]  (ang.).
+↑ Windows Security Center, Microsoft [dostęp 2018-05-31] [zarchiwizowane z adresu 2008-01-08]  (ang.).
+↑ Zautomatyzowane „boty” przejmują komputery bez zapór sieciowych w ciągu 4 minut.
+Linki zewnętrzne[edytuj | edytuj kod]
+Oficjalna strona Windowsa
+Historia systemu Windows – graficzna linia czasowa, autorstwa Érica Lévéneza (szczegółowa i ciągle uaktualniana) (ang.)
+GUIdebook > GUIs > Windows – strona poświęcona zachowaniu i prezentowaniu graficznych interfejsów użytkownika (ang.)
+pdeMicrosoft Windows
+Historia Microsoft Windows
+Wersje Microsoft Windows
+Wersje dla DOS
+1.x
+2.x
+3.x
+Wersje z rodziny 9x
+95
+98
+Me
+Wersje z rodziny NT
+NT 3.1
+NT 3.5
+NT 3.51
+NT 4.0
+2000
+XP
+rozwój
+IA-64
+x64
+Media Center
+Tablet PC Edition
+Fundamentals
+Server 2003
+Vista
+Home Server
+Server 2008
+7
+rozwój
+Server 2008 R2
+Server 2012
+8
+RT
+8.1
+10
+10 Mobile
+Server 2016
+Server 2019
+11
+Wersje na urządzenia przenośne
+CE
+Mobile
+Phone
+Platformy w chmurze
+Azure
+Wersje anulowane
+Neptune
+Odyssey
+Nashville
+Longhorn
+10X
+Powiązane projekty
+OS/2
+Midori
+BOB
+ReactOS
+PetrOS
+Kontrola autorytatywna (system operacyjny):VIAF: 230666902LCCN: n88027331GND: 4192183-5BnF: 14400232kNKC: ph117055Encyklopedia internetowa:
+PWN: 3996493
+Britannica: technology/Windows-OS
+SNL: Windows_-_IT
+Catalana: 0245975
+Hrvatska enciklopedija: 68387
+Źródło: „https://pl.wikipedia.org/w/index.php?title=Microsoft_Windows&oldid=71103505”
+Kategorie: WindowsSystemy operacyjneOprogramowanie Microsoftu
+ Tę stronę ostatnio edytowano 23 sie 2023, 11:14.
+Tekst udostępniany na licencji Creative Commons: uznanie autorstwa, na tych samych warunkach, z możliwością obowiązywania dodatkowych ograniczeń.
+Zobacz szczegółowe informacje o warunkach korzystania.
+Polityka prywatności
+O Wikipedii
+Korzystasz z Wikipedii tylko na własną odpowiedzialność
+Powszechne Zasady Postępowania
+Wersja mobilna
+Dla deweloperów
+Statystyki
+Komunikat na temat ciasteczek
+Przełącz ograniczenie szerokości strony

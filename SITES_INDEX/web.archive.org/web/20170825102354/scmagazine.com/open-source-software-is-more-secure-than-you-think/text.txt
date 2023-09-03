@@ -1,0 +1,393 @@
+Open source software is more secure than you think
+ 
+14 captures
+25 Aug 2017 - 17 Jul 2023
+Jul
+AUG
+Aug
+25
+2016
+2017
+2019
+success
+fail
+ About this capture
+COLLECTED BY
+Organization: Internet Archive
+  These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to.   That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.  
+Then the Internet Archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.
+The goal is to fix all broken links on the web. 
+Crawls of supported "No More 404" sites.
+Collection: Wikipedia Near Real Time (from IRC)
+  This is a collection of web page captures from links added to, or changed on, Wikipedia pages. The idea is to bring a reliability to Wikipedia outlinks so that if the pages referenced by Wikipedia articles are changed, or go away, a reader can permanently find what was originally referred to.
+This is part of the Internet Archive's attempt to rid the web of broken links.
+TIMESTAMPS
+The Wayback Machine - http://web.archive.org/web/20170825102354/https://www.scmagazine.com/open-source-software-is-more-secure-than-you-think/article/541874/
+ 
+menu
+SC US
+SC UK
+Show Search Bar
+News
+ 
+Opinions
+Blogs
+SC Fast Facts
+Reboot 2016
+Women in Security 2017
+Cybercrime
+Ransomware
+Data breaches
+APTs/Cyberespionage
+Malware
+Phishing
+Insider Threats
+Network Security
+Mobile Security
+Cloud Security
+Privacy & compliance
+Vulnerabilities
+IoT
+Email Security
+Government/Defense
+Product Reviews
+Group Tests
+First Looks
+About product reviews
+In Depth
+Features
+Video
+In Depth
+SC Magazine Archive
+Events
+Virtual Conferences
+Webcasts
+SC Awards 2018
+Whitepapers
+Log in
+Register
+The Cybersecurity source
+SC Media US
+>
+News
+>
+Opinions
+>
+Open source software is more secure than you think                
+by Lasse Andresen, CTO, ForgeRock
+October 08, 2013
+Open source software is more secure than you think
+Lasse Andresen, CTO, ForgeRock
+According to a recent survey by Black Duck Software, there are more than one million unique open source projects today, with a projected growth of around two million by 2014. Open source is growing in the enterprise, but oftentimes when people think of open source, they are concerned about the potential security issues. But, those security concerns are merely myths. So, what is the reality when it comes to open source software security?  
+The first myth is that open source software is vulnerable to security threats due to access to code, which is not evaluated thoroughly. The truth is that with open source code, a diverse developer community works together to forge the initial solution, but they also work together to solve problems and produce new releases. The result? Fewer bugs and quicker fixes. Further, users have the opportunity to evaluate and critique the actual code – not just how it works, but how it was written to work. Because of the nature of the open source community and the fear of losing credibility, developers take great caution in releasing code with their name on it. Since their work is open to a public audience for critique and evaluation, open source developers are constantly striving to develop a product that will earn them respect and credibility from their fellow open source peers.
+The next challenge that needs to be addressed is the perception that open source is not "enterprise-ready." Considering that companies like Google and Amazon have hundreds of thousands of enterprise customers who use their open source software and Red Hat, SugarCRM and Netflix are at the forefront of open source innovation, it is surprising that this myth still exists. Open source allows enterprises to customize solutions that meet their exact needs, without forcing them to fit into a pre-defined box to solve their IT challenges.  
+Whether it's resource constraints or the demand to implement the latest trend (aka BYOD), enterprise administrators are faced with numerous hurdles. The software they use to leap over those hurdles should be easy to deploy, highly scalable and incredibly agile. Not only has open source software been ready for the enterprise for many years, enterprises might be one of its most powerful use cases.  
+Further, some companies believe that open source code is great for cutting-edge developers, but not IT operations. While open source code does serve the needs of application developers who are looking to use the latest technology and are not concerned about the production environment, uptime, etc., it is also a great tool for IT operations. With production stability, no interruption in service, the guarantee of quality assurance testing and patches, and controlled and frequent upgrades, open source software is a great solution for both sides of the IT fence – developers and IT operations.   
+As well, CIOs and CSOs often believe that since anyone can contribute to the code, there are no guarantees of security and quality in open source software, but this is not true. Open source developers are concerned with their credibility and hence release quality code, simplifying the development process. In a commercial open source environment, each member goes through an approval process after which they are provided with the appropriate credentials. After this, they are able to commit code, but the code then goes through a sophisticated process of review, acceptance and rejection. The end result is thoroughly tested enterprise-ready software. 
+Finally, enterprises hesitate to adopt open source software as they believe that there is no responsibility for failures and it is hard to maintain open source code. However, several companies, large and small, currently use open source code in their products, which automatically makes them responsible for what they are licensing to customers. The collaborative nature of open source means no vendor lock-in and fast development, making open source software highly responsive to company needs and quick to release product updates, fixes, patches and stable new versions.
+Every type of software has its pros and cons. However, a concern about security is definitely not a valid reason to turn away from open source software. Open collaboration drives innovation, and embracing open source software is one way to keep up with the rapidly evolving enterprise world that is facing constant change due to cloud and virtualization. As even the largest companies are embracing open source software, with recent projects like OpenDaylight, the hope is that these myths will continue to be de-bunked and organizations will realize the true potential of leveraging open source software.
+Topics:
+Network Security
+                        You must be a registered member of SC Media US to post a comment.
+                    
+Click here to login
+  | 
+ Click here to register
+Related Articles
+                                    Open source research program for DHS takes root
+                                
+BY
+            Angela Moscaritolo
+                                 May 26, 2011
+                            
+                                    Should the federal government go open source?
+                                
+BY
+            Chuck Miller
+                                 Mar 12, 2009
+                            
+                                    DHS, FBI warn first responders of Android threat
+                                
+BY
+            Adam Greenberg
+                                 Aug 28, 2013
+                            
+                                    At the ready: Incident response
+                                
+BY
+            Karen Epper Hoffman
+                                 Sep 3, 2013
+                            
+Most read on SC
+Latest leak of hacked celebrity photos includes images of Tiger Woods and Lindsay Vonn
+500+ Android apps found containing program that can download spyware plug-in
+Voter data on 1.8M Chicagoans left exposed on online storage service
+HBO hackers threaten to release Game of Thrones finale
+Hackers steal nearly $500K from Enigma virtual currency platform's ICO investors
+Get SC Media delivered to your inbox
+Whitepaper of the Day
+Newswire
+Buzz 
+I would like to receive relevant information via email from Haymarket Media.
+United States
+United Kingdom
+Canada
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo (DRC)
+Cook Islands
+Costa Rica
+Côte D'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji Islands
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and Mcdonald Islands
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+North Korea
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin
+Saint Pierre and Miquelon
+Saint Vincent and The Grenadines
+San Marino
+Sao Tome & Principe
+Saudi Arabia
+Senegal
+Serbia-Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Virgin Islands
+Virgin Islands, British
+Wallis and Futuna
+Western Samoa
+Yemen
+Yugoslavia
+Zambia
+Zimbabwe
+SC Media arms cybersecurity professionals with the in-depth, unbiased business and technical information they need to tackle the countless security challenges they face and establish risk management and compliance postures that underpin overall business strategies.
+User Center
+About
+Contact
+Advisory Board
+Meet the team
+Subscribe
+Advertise
+Product Reviews
+About/Contact
+FAQ
+Reprints
+Other
+Privacy Policy
+Terms & Conditions
+More SC Sites
+RiskSec
+SC Whitepaper & Resource Library
+SC Awards
+SC Online Events
+Follow SC Media
+Copyright © 2017 Haymarket Media, Inc. All Rights Reserved
+This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.
+Your use of this website constitutes acceptance of Haymarket Media's Privacy Policy and Terms & Conditions.

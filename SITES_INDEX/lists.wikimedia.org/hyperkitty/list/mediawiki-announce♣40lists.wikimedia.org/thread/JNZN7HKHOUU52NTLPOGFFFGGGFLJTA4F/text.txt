@@ -1,0 +1,378 @@
+MediaWiki 1.39.0-rc.0 is ready for testing - MediaWiki-announce - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+            List overview
+       All Threads
+ Download
+newer
+MediaWiki 1.39.0-rc.0 is ready for testing
+older
+Security pre-release announcement:...
+Maintenance release: MediaWiki...
+ 
+First Post
+Replies
+Stats
+Threads by month 
+----- 2023 -----
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2022 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2021 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2020 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2019 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2018 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2017 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2016 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2015 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2014 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2013 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2012 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2011 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2010 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2009 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2008 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2007 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2006 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2005 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2004 -----
+December
+ 
+Sam Reed
+                24 Sep
+                
+                    2022
+                
+            
+                24 Sep
+                
+                '22
+                
+            
+4:54 a.m.
+ 
+I'm pleased to announce the immediate availability of MediaWiki
+1.39.0-rc.0, the first release candidate for 1.39.0, the next LTS after
+MediaWiki 1.35. Download links are at the end of the e-mail. The tag has
+been signed and pushed to Git.
+
+This is not a final release, and should not be used for production
+websites. Known issues are tracked in Phabricator on the release workboard
+[1]. As with every release of MediaWiki, a large number of changes have
+landed in the last six months (over 1850 commits since 1.38.0 was cut), and
+you should read over the preliminary release notes as part of assuring
+yourself of areas that may have issues with your configuration, your skins,
+and/or your extensions.
+
+As always, please try out the release candidate in a test environment and
+do report any issues that you discover. Please use the #MW-1.39-Release [2]
+tag in Phabricator when reporting issues specific to this release, to make
+sure that we find them as quickly as possible.
+
+It is expected that MediaWiki 1.39 will become final in November 2022,
+though the date may slip if blockers are identified.
+
+Preliminary release notes:
+https://gerrit.wikimedia.org/g/mediawiki/core/+/REL1_39/RELEASE-NOTES-1.39
+https://www.mediawiki.org/wiki/Release_notes/1.39
+
+Open Bugs:
+[1] https://phabricator.wikimedia.org/tag/mw-1.39-release/
+
+Bug report form:
+[2]
+https://phabricator.wikimedia.org/maniphest/task/edit/form/1/?tags=MW-1.39-…
+
+
+**********************************************************************
+Download:
+https://releases.wikimedia.org/mediawiki/1.39/mediawiki-1.39.0-rc.0.tar.gz
+https://releases.wikimedia.org/mediawiki/1.39/mediawiki-1.39.0-rc.0.zip
+
+Download without bundled extensions:
+https://releases.wikimedia.org/mediawiki/1.39/mediawiki-core-1.39.0-rc.0.ta…
+https://releases.wikimedia.org/mediawiki/1.39/mediawiki-core-1.39.0-rc.0.zip
+
+GPG signatures:
+https://releases.wikimedia.org/mediawiki/1.39/mediawiki-core-1.39.0-rc.0.ta…
+https://releases.wikimedia.org/mediawiki/1.39/mediawiki-core-1.39.0-rc.0.zi…
+https://releases.wikimedia.org/mediawiki/1.39/mediawiki-1.38.0-rc.0.tar.gz.…
+https://releases.wikimedia.org/mediawiki/1.39/mediawiki-1.38.0-rc.0.zip.sig
+
+Public keys:
+https://www.mediawiki.org/keys/keys.html
+ 0
+ 0
+            Reply
+        
+Show replies by date
+345
+                days inactive
+            
+345
+                days old
+            
+ 
+            mediawiki-announce@lists.wikimedia.org
+        
+        Manage subscription
+        0 comments
+    
+        1 participants
+    
+Add to favorites
+Remove from favorites
+tags (0)
+        
+    
+participants (1)
+        
+Sam Reed
+ 
+            Powered by HyperKitty version 1.3.4.
+        

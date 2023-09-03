@@ -1,0 +1,80 @@
+FOSDEM 2013 - How MediaWiki is tested
+FOSDEM13 Free and open source software developers’ European meeting
+Home
+About
+News
+Schedule
+Practical
+ 
+ 
+ 
+News
+Sponsors
+Contact
+Brussels / 2 & 3 February 2013
+schedule
+ 
+FOSDEM 2013/Schedule/Events/Devrooms/Testing and Automation/How MediaWiki is tested
+How MediaWiki is tested
+How MediaWiki, software that runs Wikipedia, is tested
+ Track: Testing and Automation devroom
+ Room: H.1309
+ Day: Saturday
+ Start: 13:30
+ End: 14:10
+The software that runs Wikipedia, named MediaWIki, is tested in the open just like Wikipedia itself. This talk will cover how MediaWiki is tested, along with mistakes and successes made along the way.
+The code and Jenkins jobs are visible to everybody. Only one file
+with passwords is hidden. If you are interested in contributing, you will
+learn how to get involved.
+I will mention one pattern, page object, and a lot of tools: Git,
+Ruby, RVM, RubyGems, Cucumber, Selenium
+WebDriver, Watir, Bundler, page-object gem,
+RubyMine, Jenkins, CloudBees, Sauce Labs and
+probably a few more.
+I think it is important to have a few reference implementations of open
+source test automation projects available to everybody. This is our
+contribution.
+Speakers
+Željko Filipin
+ 
+FOSDEM
+Home
+News
+About
+Sponsors
+FAQ
+Archives
+ 
+Schedule
+Information
+Timetables
+Tracks
+Events
+Certification exams
+Distribution Miniconf
+Keysigning
+ 
+Practical Information
+Stands
+Friday Beer Event
+Venue & travel
+Accommodation
+Sightseeing
+Catering
+During the Event
+Job Corner
+ 
+Media and Press
+Interviews
+Promote
+Videos
+ 
+ 
+FOSDEM13
+Brussels / 2 & 3 February 2013
+          This work is licensed under the Creative Commons Attribution-ShareAlike 2.0
+          Belgium License.
+          To view a copy of this license, visit
+          http://creativecommons.org/licenses/by-sa/2.0/be/
+          or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+        

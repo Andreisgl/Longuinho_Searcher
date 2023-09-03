@@ -1,0 +1,146 @@
+Wikimedia Apps/Synced Reading Lists - MediaWiki
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageGet MediaWikiGet extensionsTech blogContribute
+Support
+User helpFAQTechnical manualSupport deskCommunication
+Development
+Developer portalCode statistics
+MediaWiki.org
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+In other languages
+Add links
+Search
+Search
+ EnglishCreate accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+Beginning
+1Existing App Reading List Features
+Toggle Existing App Reading List Features subsection
+1.1Saved Pages on iOS
+1.2Reading Lists on Android
+1.3Web browser extension
+2Strategic Purpose
+3User Interest and Utilization
+Toggle User Interest and Utilization subsection
+3.1User requests
+3.2Existing feature use
+4User Survey
+5Personas and Stories
+Toggle Personas and Stories subsection
+5.1Michelle
+5.2Sandeep
+6Privacy and Data Storage
+7Why Not Watchlist
+8Note on Larger Lists Project
+9See also
+Toggle the table of contents
+Toggle the table of contents
+Wikimedia Apps/Synced Reading Lists
+PageDiscussion
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+From mediawiki.org
+< Wikimedia Apps
+Existing App Reading List Features[edit]
+Saved Pages on iOS[edit]
+For several years, the iOS app has had a Saved Pages feature which allows users to bookmark articles for reading later, and also saves those articles so they are available offline. Users can save articles to their Saved Pages library using the Bookmark icon available on all articles, and in many other places throughout the app. These articles are saved in a flat list (no folders or user metadata), and stored only locally to the device.
+Reading Lists on Android[edit]
+In early 2016, the Android team updated their existing Saved Pages to a new feature called Reading Lists. Reading Lists allowed users to put saved articles into folders and to label and make a basic description for their folders. The original feature design included the ability for logged-in users to sync their lists across devices, using the list storing capabilities of the Collections extension. For reasons unrelated to the apps and their user's needs, these plans were paused. In early 2017 the Android team made a number of improvements to the Reading Lists feature, to make them easier to manage for users and solidify the offline saving elements, based on research identifying offline saving as a major area of focus for serving New Readers.
+Web browser extension[edit]
+As of April 2019, Reading Lists can still only be viewed within Wikipedia Android and iOS apps, but there is a browser extension for adding articles to a user's Reading List from the web available on Chrome and Firefox.
+Download for Firefox
+Download for Chrome
+More information can be found on the  Reading list browser extension page.
+Strategic Purpose[edit]
+In addition to the demonstrated user interest in Reading Lists (see below), improvement to this feature is part of our strategy of improving retention of app users as part of the "Better Encyclopedia" strategy. We believe that by providing mobile friendly ways for users to personalize and make the Wikipedia app part of their lives, they will use the app more regularly, be more invested in the app and the movement, and learn more.
+User Interest and Utilization[edit]
+User requests[edit]
+For iOS users, reading lists functionality (including foldering and syncing) is the second most requested feature via OTRS (1st is "dark reading mode").
+For Android users, losing their carefully curated reading lists when updating or switching devices is the number 1 complaint received via OTRS.
+Existing feature use[edit]
+The Android Reading lists feature is one of the most prominent/used features of the app. Some specifics around the exiting feature usage:
+Reading Lists are used by approximately 10.5% of Android users (730K / 7M active users).
+Median pages per list: 3
+Average pages per list: 17
+Approximate total number of lists: 1,059,354
+Approximate number of lists per user: 1.45
+Approximately 77% of users who use Reading Lists have only one list
+We expect the usage curve to be similar for the reading lists feature across both platforms, with some increase in utilization driven by better on-boarding and awareness
+User Survey[edit]
+A survey ran in-app on both Wikipedia Android and iOS which asked about motivations for the existing feature as well as proposed capability, such as cross-device syncing. 
+Read the full report of findings on the Reading lists survey results page. 
+The original details of this task can be seen at: https://phabricator.wikimedia.org/T164770
+Personas and Stories[edit]
+Michelle[edit]
+Michelle is the core power Reader persona. Michelle lives in the global north, with fast internet access. She owns a tablet and updates her devices every 2-3 years. She has the need to manage her storage space on the device, but is less concerned about bandwidth or use of reading lists offline. 
+As a user, I want to sync reading lists across my devices and browsers
+As a user, I want to name and customize my lists with color, image, icon, etc…
+As a user, I want to reorder my lists
+As a user, I want to delete lists I no longer want
+As a user, I want to add entries from multiple wikis in my lists
+As a user, when I add a new entry to a list, it should appear as the first item so it easy to find
+As a user, I want to reorder the entries in my lists
+As a user, I want to delete entries from my lists
+As a user, I want a default list which will not require me to manage lists
+As a user, I want to search the content of my reading lists
+As a user, I want to know the number of items in each reading list
+As a user, I expect the list UI to be responsive
+As a user, I want to explicitly opt in before enabling syncing
+As a user, I want a way to opt out of saving my lists and delete them all from the server
+As a user, I want my reading lists to update in the background
+Sandeep[edit]
+Sandeep is a New Reader persona. Sandeep lives in India and has two devices. He pays by the byte and is cautious about bandwidth usage. 
+Most of the core stories for organizing and storing lists also apply to Sandeep, with higher priority to some stories around offline support. Additionally, Sandeep has two priority uses not included in Michelle's needs.
+As a user, I want to know the size of the content of my reading lists (both total and individual pages with images) before I download so I understand how it affects my data usage and device storage
+As a user, I want my bandwidth to be used efficiently
+Privacy and Data Storage[edit]
+Storing any user data is something the Foundation takes seriously and treats cautiously. Given our deeply held values around user privacy and desire to minimize the amount of information we track and retain about users, we plan to take every possible step to guard that privacy while still being able to serve our reader's desire for lists which can live on more than one device. 
+In addition to a Foundation Legal review of the terms and privacy statements to ensure they are accurate and clear around these issues, this feature will require:
+Only logged-in users will be able to sync their lists, and information will be stored based on user account, not device or personal identifiers
+Users who want their lists to sync will have to "opt-in" through a clearly worded on-boarding. No users' reading lists will be stored on our servers without the user explicitly choosing to do so.
+Users will have the ability from the app to delete their stored lists. This deletion will be permanent, and not require them to delete or disable their Wikipedia account.
+Why Not Watchlist[edit]
+Watchlists offer similar functionality and the WatchList infrastructure was evaluated before exploring other options. In general, the needs of WatchLists differ from Reading Lists in a few key ways:
+Focused on Reading, not the monitoring of Changes.
+Watchlists are squarely focused on monitoring changes of pages/revisions. The Watchlist infrastructure is key to our editor community for monitoring content changes both manually and through the use of bots. Because of these needs, expanding the scope of Watchlists to reading purposes will only make the project harder to maintain and add additional constraints.
+By keeping the projects separate, it is easier to scale resources to serve these two different audiences and prioritize the work accordingly. Reading Lists are, by their nature, less critical to the health of Wikipedia/MediaWiki.
+Multi-project support. Reading Lists are by nature cross-wiki/project. Watchlists are scoped to specific Wikis. While making them cross-wiki this has been discussed for a while, the resolution is not in the near term.
+Note on Larger Lists Project[edit]
+Reading lists are also similar in concept and technology to Offline Compilations, and even the existing Watchlist function. This feature is being designed and developed within a larger context which is described and documented here.
+See also[edit]
+Text of the announcement sent on Wed, Sep 20, 2017 to all the Wikipedias via this distribution list to make them aware of the upcoming feature and provide an opportunity for feedback and questions.
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Wikimedia_Apps/Synced_Reading_Lists&oldid=6018810"
+ This page was last edited on 8 July 2023, at 21:08.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About MediaWiki.org
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

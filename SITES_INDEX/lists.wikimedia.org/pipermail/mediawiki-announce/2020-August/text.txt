@@ -1,0 +1,399 @@
+[MediaWiki-announce] MediaWiki 1.35.0-rc.2 is ready for testing - MediaWiki-announce - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+                            2023
+                        
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2022
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2021
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2020
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2019
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2018
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2017
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2016
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2015
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2014
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2013
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2012
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2011
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2010
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2009
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2008
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2007
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2006
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2005
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2004
+                        
+December
+            List overview
+ Download
+thread
+[MediaWiki-announce] MediaWiki 1.35.0-rc.2 is ready for testing
+Sam Reed
+                22 Aug
+                
+                    2020
+                
+            
+                22 Aug
+                
+                '20
+                
+            
+12:04 a.m.
+ 
+I'm pleased to announce the immediate availability of MediaWiki
+1.35.0-rc.2, the third release candidate for 1.35.x, the next LTS version
+to replace 1.31 which is due to go end of life in June 2021. Download links
+at the end of the e-mail. The tag has been signed and pushed to Git.
+Please note that the PHP version requirement has been raised from 7.2.9 in
+MediaWiki 1.34 (and 7.0 in MediaWiki 1.31), to 7.2.22 (this may change
+further, see below).
+This is not a final release and should not be used for production websites.
+Known issues are tracked in Phabricator on the release workboard [1]. As
+always please do try out the release candidate in a test environment and
+report any issues that you discover. Please use the #MW-1.35-Release [2]
+tag in Phabricator when reporting issues specific to this release.
+It is expected that MediaWiki 1.35 will become final in late August 2020,
+and will be supported for 3 years after that.
+Known/outstanding issues/things to test:
+* It has been proposed to require PHP 7.3 for MediaWiki 1.35, please
+discuss at <https://phabricator.wikimedia.org/T257879>.
+* Both the Vector skin and the underlying skin infrastructure are
+undergoing numerous changes, so there might be things broken that are
+already fixed in master and as such need backporting.
+* VisualEditor and Parsoid are now bundled in the tarball and no longer
+need a separate nodejs service. The documentation for this still needs to
+be updated, and in some cases, users are reporting HTTP 500 errors from
+RestBase <https://phabricator.wikimedia.org/T259693>.
+* Watchlist expiry (behind the $wgWatchlistExpiry flag) is currently
+experimental. It should be finished for the 1.35.0 final release.
+* If you're on Windows and use 7zip and had issues in the previous release
+candidates (and the last round of security releases) extracting the
+tarball, this should be fixed for this release.
+* While the rc.2 tarballs are smaller than the rc.1 tarballs, the patch for
+rc.2 is much larger than usual, due to the removal of Gruntfile.js and
+package-lock.json files from the tarball.
+Changes since 1.35.0-rc.1:
+* (T259693) uuid: Fix filenames on Windows.
+* Remove Gruntfile.js and package-lock.json from the tarball.
+* firejail: Strengthen by copying from Wikimedia's profile.
+* (T260059) ResourceLoaderOOUIImageModule: loadOOUIDefinition() may return
+  false.
+* (T30162, T245387) The installer supports using a Postgres server running
+  on a custom port other than 5432.
+* (T260201) Support private wikis in Parsoid zero configuration mode.
+* Fix bad use of `|=` PHP bit operation where `= … ||` bool is intended.
+* (T259212) SpecialBlock: Show error if a block could not be inserted or
+found.
+* (T255842) UserOptionsManager: fix options reset.
+* (T258649) WatchAction: avoid unnecessary UPDATEs when expiry is unchanged.
+* (T250851) Allow skins to override mediawiki.page.ready initialisation.
+* (T250851) mediawiki.page.ready: Allow skins to disable search lazy load.
+* (T253135, T255632) Update language in watchlist expiry.
+* Use IPset in MWRestrictions::checkIP.
+* (T259564) Fix race condition on edit page.
+* (T260759) Hide watchlist expiry label in edit form.
+* mime: Fix docs of MIME_EXTENSIONS, they're arrays, not space-seperated.
+* (T260031) Add application/font-sfnt to MimeMap for ttf files.
+* (T259379) WatchedItemStore: Cache single WatchedItems with preexisting
+expiry.
+* Add a maintenance script to create bot passwords.
+* (T201269) Add Traditional Chinese zh-hant as fallback for Amis (ami).
+* Improve wfParseUrl docs.
+* (T251038) Add multi index fields in ImageListPager for unique paginate.
+* (T259916) Guard against 'Widget not found' error.
+Preliminary release notes:
+https://phabricator.wikimedia.org/source/mediawiki/browse/REL1_35/RELEASE-N…
+https://www.mediawiki.org/wiki/Release_notes/1.35
+Open Bugs:
+[1] https://phabricator.wikimedia.org/project/board/4035/
+Bug report form:
+[2]
+https://phabricator.wikimedia.org/maniphest/task/edit/form/1/?tags=MW-1.35-…
+**********************************************************************
+Download:
+https://releases.wikimedia.org/mediawiki/1.35/mediawiki-1.35.0-rc.2.tar.gz
+Download without bundled extensions:
+https://releases.wikimedia.org/mediawiki/1.35/mediawiki-core-1.35.0-rc.2.ta…
+Patch to previous version (1.35.0-rc.0):
+https://releases.wikimedia.org/mediawiki/1.35/mediawiki-1.35.0-rc.2.patch.gz
+GPG signatures:
+https://releases.wikimedia.org/mediawiki/1.35/mediawiki-core-1.35.0-rc.2.ta…
+https://releases.wikimedia.org/mediawiki/1.35/mediawiki-1.35.0-rc.2.tar.gz.…
+Public keys:
+https://www.mediawiki.org/keys/keys.html
+ 0
+ 0
+            Reply
+        
+Back to the thread
+            Back to the list
+        
+ 
+            Powered by HyperKitty version 1.3.4.
+        

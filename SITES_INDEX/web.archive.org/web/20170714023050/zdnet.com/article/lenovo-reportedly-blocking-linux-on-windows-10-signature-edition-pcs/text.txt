@@ -1,0 +1,254 @@
+Lenovo reportedly blocking Linux on Windows 10 Signature Edition PCs (updated) | ZDNet
+88 captures
+22 Sep 2016 - 21 Jul 2023
+May
+JUL
+Aug
+14
+2016
+2017
+2019
+success
+fail
+ About this capture
+COLLECTED BY
+Collection: OpenCitations
+  The main output of the OpenCitations Project is the creation of the Open Citations Corpus (OCC), an open repository of scholarly citation data made available under a Creative Commons public domain dedication, which provides in RDF accurate citation information (bibliographic references) harvested from the scholarly literature. These are described using the SPAR Ontologies according to the OCC metadata model, and are made freely available so that others may freely build upon, enhance and reuse them for any purpose, without restriction under copyright or database law.
+The OCC is being continuously populated from the scholarly literature.
+TIMESTAMPS
+The Wayback Machine - http://web.archive.org/web/20170714023050/http://www.zdnet.com/article/lenovo-reportedly-blocking-linux-on-windows-10-signature-edition-pcs/
+This web site uses cookies to improve your experience. By viewing our content, you are accepting the use of cookies. To find out more and change your cookie settings, please
+view our cookie policy.
+                            Edition: 
+            Asia
+        
+            Australia
+        
+            Europe
+        
+            India
+        
+            United Kingdom
+        
+            United States
+        
+ZDNet around the globe:
+            ZDNet Belgium
+        
+            ZDNet China
+        
+            ZDNet France
+        
+            ZDNet Germany
+        
+            ZDNet Korea
+        
+            ZDNet Japan
+        
+Go
+ 
+                Videos
+            
+                Smart Cities
+            
+                Windows 10
+            
+                Cloud
+            
+                Innovation
+            
+                Security
+            
+                ZDNet Academy
+            more
+                Digital Transformation
+            
+                Data Centers
+            
+                Apple
+            
+                Mobility
+            
+                IoT
+            
+                Enterprise Software
+            
+                Hardware
+            
+                See All Topics 
+            
+                White Papers
+            
+                Downloads
+            
+                Reviews
+            
+                Galleries
+            
+                Videos
+            NewslettersAll WritersLog In to ZDNETJoin ZDNetAbout ZDNetManage ProfileNewslettersAuthor AlertsRecent ActivityLog Out 
+Go
+ 
+Menu
+                Videos
+            
+                Smart Cities
+            
+                Windows 10
+            
+                Cloud
+            
+                Innovation
+            
+                Security
+            
+                ZDNet Academy
+            
+                Digital Transformation
+            
+                Data Centers
+            
+                Apple
+            
+                Mobility
+            
+                IoT
+            
+                Enterprise Software
+            
+                Hardware
+            
+                See All Topics 
+            
+                White Papers
+            
+                Downloads
+            
+                Reviews
+            
+                Galleries
+            
+                Videos
+            
+Log In to ZDNET
+Join ZDNet
+About ZDNet
+Manage Profile
+Newsletters
+Author Alerts
+Recent Activity
+Log Out
+us
+            Asia
+        
+            Australia
+        
+            Europe
+        
+            India
+        
+            United Kingdom
+        
+            United States
+        
+ZDNet around the globe:
+            ZDNet Belgium
+        
+            ZDNet China
+        
+            ZDNet France
+        
+            ZDNet Germany
+        
+            ZDNet Korea
+        
+            ZDNet Japan
+        
+Lenovo reportedly blocking Linux on Windows 10 Signature Edition PCs (updated)
+If you're looking for a new PC to install Linux onto, you might want to give Lenovo's Windows 10 powered Signature Edition PCs a wide berth.
+                                   By Adrian Kingsley-Hughes
+            
+                    
+                    for Hardware 2.0
+        
+                                        |            September 21, 2016 -- 11:15 GMT (04:15 PDT)
+        
+                                                        
+                    | Topic: Developer
+0
+ 
+ 
+ 
+Lenovo Yoga 900 ISK2 UltraBook[Updated with comment from Lenovo] If you're looking for a new PC to install Linux onto, you might want to give Lenovo's Windows 10 powered Signature PCs a wide berth.
+what's hot on zdnet
+Goodbye Windows Phone: What comes next for Microsoft in mobile?
+Millions of Verizon customer records exposed in security lapse
+Hyperloop One's 'big breakthrough': Full system nails first vacuum tube test run
+​Robocops are on the beat: But here's why they're no match for your average criminal
+According to Reddit user BaronHK, it is impossible to install Linux onto the Signature Edition Lenovo Yoga 900 ISK2 UltraBook because the SSD is locked in a proprietary RAID mode that Linux doesn't support, and that even Windows 10 cannot use without an Lenovo driver being downloaded first.Evidence -- in the form of owner reports and reviews -- has been uncovered which suggests that the Yoga 900S, and Yoga 710S are locked in a similar manner.To confuse matters further, there is a post from a Lenovo "product expert" claiming that Signature Edition PCs have to lock out Linux users because Microsoft says so.Signature Edition PCs differ from other systems because they are free from the usual bloatware or other junk that clutter up regular PCs. If you're looking for a "clean" PC then the Signature Edition systems are indeed worth a look (well, if you're happy with Windows 10 at any rate). 
+So, what's going on here?On first blush this seems to be an issue relating to how Lenovo has configured the systems. I can't find any evidence to suggest that Microsoft is trying to "lock" Signature Edition PCs to Windows 10, or making any moves to shut the door on Linux users (using some proprietary RAID mode that even requires Windows 10 users to download and install a separate driver from Lenovo would seem to be an odd way to achieve this). This alone suggests that the problem is related to how the systems have been configured by Lenovo, and not some shady deal foisted upon them by Microsoft.
+Additionally, it's hard to believe that a random Lenovo representative posting on a forum would know of any deals struck between the OEM and Microsoft regarding locking out Linux users.It also doesn't help that a number of posts relating to this matter on Lenovo's support forum appear to have been locked, edited, and deleted.If you are looking for a system that supports Linux then why not go for the system that Linus Torvalds calls his favorite -- the Dell XPS 13.We've reached out to Microsoft and Lenovo for comment on this matter, and will update if/when we receive an answer.[UPDATE 9-21-16 7:25 PDT: Comment from Lenovo:"To improve system performance, Lenovo is leading an industry trend of adopting RAID on the SSDs in certain product configurations. Lenovo does not intentionally block customers using other operating systems on its devices and is fully committed to providing Linux certifications and installation guidance on a wide range of products -https://support.lenovo.com/us/en/documents/pd031426.  Unsupported models will rely on Linux operating system vendors releasing new kernel and drivers to support features such as RAID on SSD."So no Microsoft involvement, just a lack of drivers on Linux's part. Although Lenovo could offer a method for owners to switch the SSD from RAID to AHCI mode to improve compatibility.][UPDATED 9-21-16 18:21 PDT: Similar comment from Microsoft:"Lenovo recently adoptedRAID on SSDs in certain product configurations, which require additional steps to support all system features. More information can be found on their support page; https://support.lenovo.com/us/en/documents/pd031426". Recent claims about software installation issues related to Microsoft Signature are inaccurate."]
+Budget (under $300) laptops for work and...
+SEE FULL GALLERY
+1 - 5 of 5
+                    NEXT     
+ PREV
+                
+See also:How to fix iOS 10's most annoying featureHere's how Apple made the iPhone 7 water resistantCan I just ignore the recall and carry on using my Galaxy Note 7?iPhone 7 shattering pre-order recordsStop calling the iPhone 7 'waterproof'. It isn'tiPhone 7 and iPhone 7 Plus: New features highlightsHow to securely wipe your iPhone for resale
+0
+ 
+ 
+ 
+LOG IN TO COMMENT
+My Profile
+Log Out
+            | Community Guidelines
+Join Discussion
+Add Your Comment
+Add Your Comment
+Related Stories
+IT Priorities
+In the rush to digital, IT is burdened with new performance issues
+Developer
+Turn Raspberry Pi into an Amazon Echo with $49 pi-topPULSE
+Big Data Analytics
+Yahoo's Bullet looks ahead in querying streaming data
+Cloud
+Linux Foundation offers free Introduction to Kubernetes class
+×
+Thank You
+Please review our terms of service to complete your newsletter subscription
+I agree to the Terms of Use, Privacy Policy and Video Services Policy.
+                     I understand I will receive a complimentary subscription to TechRepublic's News and Special Offers newsletter, and the Daily Digest newsletter (you can opt out at any time).
+ACCEPT & CLOSE
+Newsletters
+You have been successfully signed up. To sign up for more newsletters or to manage your account, visit the Newsletter Subscription Center.
+See
+                    All
+                  
+See
+                    All
+                  
+ZDNet
+Connect with us
+© 2017 CBS Interactive. All rights reserved. Privacy Policy | Cookies | Ad Choice |  Advertise | Terms of Use | Mobile User Agreement
+Visit other CBS Interactive sites:
+Select SiteCBS CaresCBS FilmsCBS RadioCBS.comCBSInteractiveCBSNews.comCBSSports.comChowhoundCNETCollege NetworksGameSpotLast.fmMaxPrepsMetacritic.comMoneywatchmySimonRadio.comSearch.comShopper.comShowtimeTechRepublicThe InsiderTV.comUrbanBaby.comZDNet
+Topics
+All Authors
+Galleries
+Videos
+Sponsored Narratives
+About ZDNet
+Meet The Team
+Site Map
+RSS Feeds
+Reprint Policy
+Manage | Log Out
+Log In to ZDNET
+                        |
+                        Join ZDNet
+Membership
+Newsletters
+Site Assistance
+ZDNet Academy

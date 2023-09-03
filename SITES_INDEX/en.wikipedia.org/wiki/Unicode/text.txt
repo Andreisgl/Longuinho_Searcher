@@ -1,0 +1,1533 @@
+Unicode - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Languages
+Language links are at the top of the page across from the title.
+Search
+Search
+Create accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1Origin and development
+Toggle Origin and development subsection
+1.1History
+1.2Unicode Consortium
+1.3Scripts covered
+1.4Script Encoding Initiative
+1.5Versions
+1.6Projected versions
+2Architecture and terminology
+Toggle Architecture and terminology subsection
+2.1Codespace and code points
+2.2Code planes and blocks
+2.3General Category property
+2.4Abstract characters
+2.5Ready-made versus composite characters
+2.6Ligatures
+2.7Standardized subsets
+2.8Mapping and encodings
+3Adoption
+Toggle Adoption subsection
+3.1Operating systems
+3.2Input methods
+3.3Email
+3.4Web
+3.5Fonts
+3.6Newlines
+4Issues
+Toggle Issues subsection
+4.1Character unification
+4.1.1Han unification
+4.1.2Italic or cursive characters in Cyrillic
+4.2Mapping to legacy character sets
+4.3Indic scripts
+4.4Combining characters
+4.5Anomalies
+4.6Security issues
+5See also
+6Notes
+7References
+8Further reading
+9External links
+Toggle the table of contents
+Toggle the table of contents
+Unicode
+117 languages
+AfrikaansAlemannischአማርኛالعربيةঅসমীয়াAsturianuAzərbaycancaবাংলাBân-lâm-gúБеларускаяБеларуская (тарашкевіца)भोजपुरीБългарскиBoarischBosanskiBrezhonegCatalàЧӑвашлаČeštinaCymraegDanskDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisGaeilgeGalegoગુજરાતી客家語/Hak-kâ-ngî한국어Հայերենहिन्दीHrvatskiIlokanoBahasa IndonesiaInterlinguaÍslenskaItalianoעבריתJawaಕನ್ನಡქართულიकॉशुर / کٲشُرҚазақшаKiswahiliKurdîКыргызчаLatinaLatviešuLietuviųLingua Franca NovaMagyarमैथिलीМакедонскиമലയാളംमराठीმარგალურიဘာသာ မန်Bahasa Melayu閩東語 / Mìng-dĕ̤ng-ngṳ̄Монголမြန်မာဘာသာNederlandsनेपालीनेपाल भाषा日本語Norsk bokmålNorsk nynorskOccitanОлык марийOʻzbekcha / ўзбекчаਪੰਜਾਬੀပအိုဝ်ႏဘာႏသာႏPapiamentuپښتوPlattdüütschPolskiPortuguêsRomânăРусскийСаха тылаसंस्कृतम्ScotsShqipසිංහලSimple EnglishسنڌيSlovenčinaSlovenščinaکوردیСрпски / srpskiSrpskohrvatski / српскохрватскиSundaSuomiSvenskaTagalogதமிழ்తెలుగుไทยТоҷикӣᏣᎳᎩTürkçeУкраїнськаاردوئۇيغۇرچە / UyghurcheTiếng ViệtWalon文言吴语ייִדישYorùbá粵語中文
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Download as PDFPrintable version
+In other projects
+Wikimedia CommonsWikibooks
+From Wikipedia, the free encyclopedia
+Character encoding standard
+UnicodeLogo of the Unicode ConsortiumAlias(es)Universal Coded Character Set (UCS, ISO/IEC 10646)Language(s)InternationalStandardUnicode StandardEncoding formatsUTF-8UTF-16GB18030Less common:UTF-32BOCUSCSUObsolete:UTF-7Preceded byISO/IEC 8859, various othersOfficial websiteOfficial, technical websitevte
+This article contains uncommon Unicode characters. Without proper rendering support, you may see question marks, boxes, or other symbols.
+Unicode, formally The Unicode Standard,[note 1][note 2] is a text encoding standard maintained by the Unicode Consortium that provides for consistent handling of written characters and text across most of the world's writing systems. Version 15.0 of the standard defines 149186 characters[3][4] and 161 scripts for use in various ordinary, literary, academic, and technical contexts. Many common characters, including numerals, punctuation, and other symbols, are unified within the standard and are not treated as specific to any given writing system. Unicode encodes thousands of emoji:[5] moreover, the standard's widespread adoption in large part precipitated the popularization of emoji outside of Japan, as well as enabling emoji's continued expansion as an integral part of the standard. Unicode is capable of encoding more than 1.1 million different characters.
+Unicode proved successful in unifying what had previously been an environment of many incompatible character sets spread across different locales and computer architectures. This success has led to its widespread adoption in software and predominance on the Internet: relevant support for Unicode has become a consideration for most contemporary software projects, its use is sometimes even presupposed as a fundamental design decision. Text encoding is particularly relevant when engineering user interfaces and handling user input, but the ubiquity of text-based data often also necessitates its proper handling within the backend of software.
+The Unicode character repertoire is synchronized with ISO/IEC 10646, each being code-for-code identical with one another. However, The Unicode Standard covers more than just the assignment of characters within a repertoire; it also includes documents detailing pertinent concepts, such as the properties of scripts and how to correctly display them—articulating rules regarding character normalization, character composition and decomposition, collation, the display of bidirectional text, and so on.[6] To aid developers and designers in implementation, the standard also provides visual diagrams and comprehensive reference data.
+Unicode text is processed and stored as binary data using one of several encodings, which define how to translate the standard's abstracted codes for characters into sequences of bytes. The Unicode Standard itself defines three encodings: UTF-8, UTF-16, and UTF-32, though several others exist. The most common encoding, UTF-8, is backwards-compatible with ASCII text. UTF-16, while not compatible with ASCII, is instead compatible with UCS-2 as well as with GB18030, a standard for encoding Chinese characters.
+Origin and development[edit]
+Unicode has been designed with the explicit goal of transcending the limitations of previous character encodings that had been designed and adopted in various regions of the world, but were largely incompatible with one another. Many of these encodings were designed to facilitate interoperation between a relatively small number of scripts (usually mainly between a given script and Latin characters) but not among a large number of scripts, with each treated in a consistent manner.
+The philosophy underpinning Unicode seeks to encode underlying characters—graphemes and grapheme-like units—rather than any visual differences that are considered merely variant glyphs of underlying characters, and are therefore best handled by means of typeface, markup, and other stylistic dimensions. In particularly complex instances, such as the treatment of various orthographical variants among Han characters, these distinctions have lead to controversy concerning the precise definitions of, and the delineation between, an "underlying character" and its "variant glyphs".
+At the most abstract level, Unicode provides a unique code point—a number, not a visual glyph—for each character. To a considerable degree, the visual rendering, including issues of size, shape, and style, is left to the software actually rendering the text, such as a web browser or word processor. However, the simplicity of this original model has become somewhat more elaborate, with the standard adopting various pragmatic concessions to its core philosophy in the hope of encouraging more rapid adoption.
+The first 256 code points were assigned as to mirror ISO/IEC 8859-1, with the intent of making the conversion of existing text written in Western European scripts trivial, or even transparent. To preserve distinctions made by different legacy encodings, and therefore allow conversion to and from those encodings into Unicode without the loss of any information, many characters of nearly identical appearance and intended function were given distinct code points. For example, the Halfwidth and Fullwidth Forms block encompasses a full semantic duplicate of the Latin alphabet, because legacy CJK encodings contained both "fullwidth" (matching the width of CJK characters) and "halfwidth" (hewing toward the metric of the original Latin script) characters. For other examples, see duplicate characters in Unicode.
+The Unicode Bulldog Award is given to people deemed to be influential in Unicode's development, with recipients including Tatsuo Kobayashi, Thomas Milo, Roozbeh Pournader, Ken Lunde, and Michael Everson.[7]
+History[edit]
+The origins of Unicode can be traced back to the 1980s, to  a group of individuals with connections to Xerox's Character Code Standard (XCCS).[8] In 1987, Xerox employee Joe Becker, along with Apple employees Lee Collins and Mark Davis, started investigating the practicalities of creating a universal character set.[9] With additional input from Peter Fenwick and Dave Opstad,[8] Becker published a draft proposal for an "international/multilingual text character encoding system in August 1988, tentatively called Unicode". He explained that "the name 'Unicode' is intended to suggest a unique, unified, universal encoding".[8]
+In this document, entitled Unicode 88, Becker outlined a scheme using 16-bit characters:[8]
+Unicode is intended to address the need for a workable, reliable world text encoding. Unicode could be roughly described as "wide-body ASCII" that has been stretched to 16 bits to encompass the characters of all the world's living languages. In a properly engineered design, 16 bits per character are more than sufficient for this purpose.
+This design decision was made based on the assumption that only scripts and characters in 'modern' use would require encoding:[8]
+Unicode gives higher priority to ensuring utility for the future than to preserving past antiquities. Unicode aims in the first instance at the characters published in the modern text (e.g. in the union of all newspapers and magazines printed in the world in 1988), whose number is undoubtedly far below 214 = 16,384. Beyond those modern-use characters, all others may be defined to be obsolete or rare; these are better candidates for private-use registration than for congesting the public list of generally useful Unicode.
+In early 1989, the Unicode working group expanded to include Ken Whistler and Mike Kernaghan of Metaphor, Karen Smith-Yoshimura and Joan Aliprand of Research Libraries Group, and Glenn Wright of Sun Microsystems. In 1990, Michel Suignard and Asmus Freytag of Microsoft and NeXT's Rick McGowan had also joined the group. By the end of 1990, most of the work of remapping existing standards had been completed, and a final review draft of Unicode was ready.
+The Unicode Consortium was incorporated in California on 3 January 1991,[10] and the first volume of The Unicode Standard was published that October. The second volume, now adding Han ideographs, was published in June 1992.
+In 1996, a surrogate character mechanism was implemented in Unicode 2.0, so that Unicode was no longer restricted to 16 bits. This increased the Unicode codespace to over a million code points, which allowed for the encoding of many historic scripts, such as Egyptian hieroglyphs, and thousands of rarely used or obsolete characters that had not been anticipated for inclusion in the standard. Among these characters are various rarely used CJK characters—many mainly being used in proper names, making them far more necessary for a universal encoding than the original Unicode architecture envisioned.[11]
+Version 1.0 of Microsoft's TrueType specification, published in 1992, used the name 'Apple Unicode' instead of 'Unicode' for the Platform ID in the naming table.
+Unicode Consortium[edit]
+Main article: Unicode Consortium
+The Unicode Consortium is a nonprofit organization that coordinates Unicode's development. Full members include most of the main computer software and hardware companies with any interest in text-processing standards, including Adobe, Apple, Facebook, Google, IBM, Microsoft, Netflix, and SAP SE.[12]
+Over the years several countries or government agencies have been members of the Unicode Consortium. Presently only the Ministry of Endowments and Religious Affairs (Oman) is a full member with voting rights.[12]
+The Consortium has the ambitious goal of eventually replacing existing character encoding schemes with Unicode and its standard Unicode Transformation Format (UTF) schemes, as many of the existing schemes are limited in size and scope and are incompatible with multilingual environments.
+Scripts covered[edit]
+Main article: Script (Unicode)
+Many modern applications can render a substantial subset of the many scripts in Unicode, as demonstrated by this screenshot from the OpenOffice.org application.
+Unicode currently covers most major writing systems in use today.[13][better source needed]
+As of 2022[update], a total of 161 scripts[14] are included in the latest version of Unicode (covering alphabets, abugidas and syllabaries), although there are still scripts that are not yet encoded, particularly those mainly used in historical, liturgical, and academic contexts. Further additions of characters to the already encoded scripts, as well as symbols, in particular for mathematics and music (in the form of notes and rhythmic symbols), also occur.
+The Unicode Roadmap Committee (Michael Everson, Rick McGowan, Ken Whistler, V.S. Umamaheswaran)[15] maintain the list of scripts that are candidates or potential candidates for encoding and their tentative code block assignments on the Unicode Roadmap[16] page of the Unicode Consortium website. For some scripts on the Roadmap, such as Jurchen and Khitan large script, encoding proposals have been made and they are working their way through the approval process. For other scripts, such as Mayan (besides numbers) and Rongorongo, no proposal has yet been made, and they await agreement on character repertoire and other details from the user communities involved.
+Some modern invented scripts which have not yet been included in Unicode (e.g., Tengwar) or which do not qualify for inclusion in Unicode due to lack of real-world use (e.g., Klingon) are listed in the ConScript Unicode Registry, along with unofficial but widely used Private Use Areas code assignments.
+There is also a Medieval Unicode Font Initiative focused on special Latin medieval characters. Part of these proposals has been already included in Unicode.
+ Script Encoding Initiative[edit]
+The Script Encoding Initiative,[17] a project run by Deborah Anderson at the University of California, Berkeley was founded in 2002 with the goal of funding proposals for scripts not yet encoded in the standard. The project has become a major source of proposed additions to the standard in recent years.[18]
+Versions[edit]
+The Unicode Consortium and the International Organization for Standardization (ISO) have together developed a shared repertoire following the initial publication of The Unicode Standard in 1991; Unicode and the ISO's Universal Coded Character Set (UCS) use identical character names and code points. However, the Unicode versions do differ from their ISO equivalents in two significant ways.
+While the UCS is a simple character map, Unicode specifies the rules, algorithms, and properties necessary to achieve interoperability between different platforms and languages. Thus, The Unicode Standard includes more information, covering in-depth topics such as bitwise encoding, collation, and rendering. It also provides a comprehensive catalog of character properties, including those needed for supporting bidirectional text, as well as visual charts and reference data sets to aid implementers.  Previously, The Unicode Standard was sold as a print volume containing the complete core specification, standard annexes[note 3], and code charts. However, Unicode 5.0, published in 2006, was the last version printed this way. Starting with version 5.2, only the core specification, published as a print-on-demand paperback, may be purchased.[19] The full text, on the other hand, is published as a free PDF on the Unicode website.
+A practical reason for this publication method highlights the second significant difference between the UCS and Unicode—the frequency with which updated versions are released and new characters added. The Unicode Standard has regularly released annual expanded versions, occasionally with more than one version released in a calendar year and with rare cases where the scheduled release had to be postponed. For instance, in April 2020, a month after version 13.0 was published, the Unicode Consortium announced they had changed the intended release date for version 14.0, pushing it back six months from March 2021 to September 2021 due to the COVID-19 pandemic.
+The latest version of Unicode, 15.0.0, was released on 13 September 2022. Several annexes were updated including Unicode Security Mechanisms (UTS #39), and a total of 4489 new characters were encoded, including 20 new emoji characters, such as "wireless" (network) symbol and hearts in different colors such as pink, two new scripts, CJK Unified Ideographs extension, and multiple additions to existing blocks.[20][21]
+Thus far, the following major and minor versions of The Unicode Standard have been published. Update versions, which do not include any changes to character repertoire, are signified by the third number (e.g., "version 4.0.1") and are omitted in the table below.[22]
+Unicode version history and notable changes to characters and scripts
+Version
+Date
+Book
+Corresponding ISO/IEC 10646 edition
+Scripts
+Characters
+Total[tablenote 1]
+Notable additions
+1.0.0[23]
+October 1991
+ISBN 0-201-56788-1 (Vol. 1)
+24
+7,129[tablenote 2]
+Initial repertoire covers these scripts: Arabic, Armenian, Bengali, Bopomofo, Cyrillic, Devanagari, Georgian, Greek and Coptic, Gujarati, Gurmukhi, Hangul, Hebrew, Hiragana, Kannada, Katakana, Lao, Latin, Malayalam, Odia, Tamil, Telugu, Thai, and Tibetan.[23]
+1.0.1[24]
+June 1992
+ISBN 0-201-60845-6 (Vol. 2)
+25
+28,327(21,204 added;6 removed)
+The initial set of 20,902 CJK Unified Ideographs is defined.[24]
+1.1[25]
+June 1993
+ISO/IEC 10646-1:1993
+24
+34,168(5,963 added;89 removed;33 reclassifiedas controlcharacters)
+4,306 more Hangul syllables added to original set of 2,350 characters. Tibetan removed.[25]
+2.0[26]
+July 1996
+ISBN 0-201-48345-9
+ISO/IEC 10646-1:1993 plus Amendments 5, 6 and 7
+25
+38,885(11,373 added;6,656 removed)
+Original set of Hangul syllables removed, and a new set of 11,172 Hangul syllables added at a new location. Tibetan added back in a new location and with a different character repertoire. Surrogate character mechanism defined, and Plane 15 and Plane 16 Private Use Areas allocated.[26]
+2.1[27]
+May 1998
+ISO/IEC 10646-1:1993 plus Amendments 5, 6 and 7, as well as two characters from Amendment 18
+25
+38,887(2 added)
+Euro sign and Object Replacement Character added.[27]
+3.0
+September 1999
+ISBN 0-201-61633-5
+ISO/IEC 10646-1:2000
+38
+49,194(10,307 added)
+Cherokee, Ethiopic, Khmer, Mongolian, Burmese, Ogham, Runic, Sinhala, Syriac, Thaana, Unified Canadian Aboriginal Syllabics, and Yi Syllables added, as well as a set of Braille patterns.[28]
+3.1
+March 2001
+ISO/IEC 10646-1:2000
+ISO/IEC 10646-2:2001
+41
+94,140(44,946 added)
+Deseret, Gothic and Old Italic added, as well as sets of symbols for Western music and Byzantine music, and 42,711 additional CJK Unified Ideographs.[29]
+3.2
+March 2002
+ISO/IEC 10646-1:2000 plus Amendment 1
+ISO/IEC 10646-2:2001
+45
+95,156(1,016 added)
+Philippine scripts Buhid, Hanunoo, Tagalog, and Tagbanwa added.[30]
+4.0
+April 2003
+ISBN 0-321-18578-1
+ISO/IEC 10646:2003
+52
+96,382(1,226 added)
+Cypriot syllabary, Limbu, Linear B, Osmanya, Shavian, Tai Le, and Ugaritic added, as well as Hexagram symbols.[31]
+4.1
+March 2005
+ISO/IEC 10646:2003 plus Amendment 1
+59
+97,655(1,273 added)
+Buginese, Glagolitic, Kharosthi, New Tai Lue, Old Persian, Sylheti Nagri, and Tifinagh added, and Coptic was disunified from Greek. Ancient Greek numbers and musical symbols were also added.[32] First named character sequences were introduced.[33]
+5.0
+July 2006
+ISBN 0-321-48091-0
+ISO/IEC 10646:2003 plus Amendments 1 and 2, as well as four characters from Amendment 3
+64
+99,024(1,369 added)
+Balinese, Cuneiform, N'Ko, ʼPhags-pa, and Phoenician added.[34]
+5.1
+April 2008
+ISO/IEC 10646:2003 plus Amendments 1, 2, 3 and 4
+75
+100,648(1,624 added)
+Carian, Cham, Kayah Li, Lepcha, Lycian, Lydian, Ol Chiki, Rejang, Saurashtra, Sundanese, and Vai added, as well as sets of symbols for the Phaistos Disc, Mahjong tiles, and Domino tiles. There were also important additions for Burmese, additions of letters and Scribal abbreviations used in medieval manuscripts, and the addition of Capital ẞ.[35]
+5.2
+October 2009
+ISBN 978-1-936213-00-9
+ISO/IEC 10646:2003 plus Amendments 1, 2, 3, 4, 5 and 6
+90
+107,296(6,648 added)
+Avestan, Bamum, Egyptian hieroglyphs (the Gardiner Set, comprising 1,071 characters), Imperial Aramaic, Inscriptional Pahlavi, Inscriptional Parthian, Javanese, Kaithi, Lisu, Meetei Mayek, Old South Arabian, Old Turkic, Samaritan, Tai Tham and Tai Viet added. 4,149 additional CJK Unified Ideographs (CJK-C), as well as extended Jamo for Old Hangul, and characters for Vedic Sanskrit.[36]
+6.0
+October 2010
+ISBN 978-1-936213-01-6
+ISO/IEC 10646:2010 plus the Indian rupee sign
+93
+109,384(2,088 added)
+Batak, Brahmi, Mandaic, playing card symbols, transport and map symbols, alchemical symbols, emoticons and emojis.[37] 222 additional CJK Unified Ideographs (CJK-D) added.[38]
+6.1
+January 2012
+ISBN 978-1-936213-02-3
+ISO/IEC 10646:2012
+100
+110,116(732 added)
+Chakma, Meroitic cursive, Meroitic hieroglyphs, Miao, Sharada, Sora Sompeng, and Takri.[39]
+6.2
+September 2012
+ISBN 978-1-936213-07-8
+ISO/IEC 10646:2012 plus the Turkish lira sign
+100
+110,117(1 added)
+Turkish lira sign.[40]
+6.3
+September 2013
+ISBN 978-1-936213-08-5
+ISO/IEC 10646:2012 plus six characters
+100
+110,122(5 added)
+5 bidirectional formatting characters.[41]
+7.0
+June 2014
+ISBN 978-1-936213-09-2
+ISO/IEC 10646:2012 plus Amendments 1 and 2, as well as the Ruble sign
+123
+112,956(2,834 added)
+Bassa Vah, Caucasian Albanian, Duployan, Elbasan, Grantha, Khojki, Khudawadi, Linear A, Mahajani, Manichaean, Mende Kikakui, Modi, Mro, Nabataean, Old North Arabian, Old Permic, Pahawh Hmong, Palmyrene, Pau Cin Hau, Psalter Pahlavi, Siddham, Tirhuta, Warang Citi, and Dingbats.[42]
+8.0
+June 2015
+ISBN 978-1-936213-10-8
+ISO/IEC 10646:2014 plus Amendment 1, as well as the Lari sign, nine CJK unified ideographs, and 41 emoji characters[43]
+129
+120,672(7,716 added)
+Ahom, Anatolian hieroglyphs, Hatran, Multani, Old Hungarian, SignWriting, 5,771 CJK Unified Ideographs, a set of lowercase letters for Cherokee, and five emoji skin tone modifiers.[44]
+9.0
+June 2016
+ISBN 978-1-936213-13-9
+ISO/IEC 10646:2014 plus Amendments 1 and 2, as well as Adlam, Newa, Japanese TV symbols, and 74 emoji and symbols[45]
+135
+128,172(7,500 added)
+Adlam, Bhaiksuki, Marchen, Newa, Osage, Tangut, and 72 emoji.[46][47]
+10.0
+June 2017
+ISBN 978-1-936213-16-0
+ISO/IEC 10646:2017 plus 56 emoji characters, 285 hentaigana characters, and 3 Zanabazar Square characters[48]
+139
+136,690(8,518 added)
+Zanabazar Square, Soyombo, Masaram Gondi, Nüshu, hentaigana (non-standard hiragana), 7,494 CJK Unified Ideographs, 56 emoji, and bitcoin symbol.[48]
+11.0
+June 2018
+ISBN 978-1-936213-19-1
+ISO/IEC 10646:2017 plus Amendment 1, as well as 46 Mtavruli Georgian capital letters, 5 CJK unified ideographs, and 66 emoji characters.[49]
+146
+137,374(684 added)
+Dogra, Georgian Mtavruli capital letters, Gunjala Gondi, Hanifi Rohingya, Indic Siyaq Numbers, Makasar, Medefaidrin, Old Sogdian and Sogdian, Maya numerals, 5 urgently needed CJK Unified Ideographs, symbols for xiangqi (Chinese chess) and star ratings, and 145 emoji.[50]
+12.0
+March 2019
+ISBN 978-1-936213-22-1
+ISO/IEC 10646:2017 plus Amendments 1 and 2, as well as 62 additional characters.[51]
+150
+137,928(554 added)
+Elymaic, Nandinagari, Nyiakeng Puachue Hmong, Wancho, Miao script additions for several Miao and Yi languages of China, hiragana and katakana small letters for writing archaic Japanese, Tamil historic fractions and symbols, Lao letters for Pali, Latin letters for Egyptological and Ugaritic transliteration, hieroglyph format controls, and 61 emoji.[52]
+12.1
+May 2019
+ISBN 978-1-936213-25-2
+150
+137,929(1 added)
+Adds a single character at U+32FF for the square ligature form of the name of the Reiwa era.[53]
+13.0[54]
+March 2020
+ISBN 978-1-936213-26-9
+ISO/IEC 10646:2020[55]
+154
+143,859(5,930 added)
+Chorasmian, Dhives Akuru, Khitan small script, Yezidi, 4,969 CJK unified ideographs added (including 4,939 in Ext. G), Arabic script additions used to write Hausa, Wolof, and other languages in Africa and other additions used to write Hindko and Punjabi in Pakistan, Bopomofo additions used for Cantonese, Creative Commons license symbols, graphic characters for compatibility with teletext and home computer systems from the 1970s and 1980s, and 55 emoji.[54]
+14.0[56]
+September 2021
+ISBN 978-1-936213-29-0
+159
+144,697(838 added)
+Toto, Cypro-Minoan, Vithkuqi, Old Uyghur, Tangsa, Latin script additions at SMP blocks (Ext-F, Ext-G) for use in extended IPA, Arabic script additions for use in languages across Africa and in Iran, Pakistan, Malaysia, Indonesia, Java, and Bosnia, and to write honorifics, additions for Quranic use, other additions to support languages in North America, the Philippines, India, and Mongolia, addition of the Kyrgyzstani som currency symbol, support for Znamenny musical notation, and 37 emoji.[56]
+15.0[57]
+September 2022
+ISBN 978-1-936213-32-0
+161
+149,186(4,489 added)
+Kawi and Mundari, several new characters, including 20 emoji, 4,192 CJK ideographs, and control characters for Egyptian hieroglyphs.[57]
+^ The number of characters listed for each version of Unicode is the total number of graphic and format characters (i.e., excluding private-use characters, control characters, noncharacters and surrogate code points).
+^ Not counting 'space' or 33 non-printing characters (7,163 total)[23]
+Projected versions[edit]
+Version 15.1, scheduled for publication on 12 September 2023, releasing 622 new Ideographs and 5 new Description Characters[58] is a retrenchment, for the consolidation of support and character behaviour. It will add 627 characters.[58] Significant additions of characters will not occur until version 16, in the pipeline for 2024. Todhri, Sunuwar, Gurung Khema, Kirat Rai, Garay, Ol Onal, Extended Numbers for Shan and Mon, More Shapes for Legacy Computing Symbols, and 22 new emoji. [59]
+ Architecture and terminology[edit]
+See also: Universal Character Set characters
+Codespace and code points[edit]
+The Unicode Standard defines a codespace:[60] a sequence of integers called code points[61] covering the interval 
+[
+0
+,
+17
+×
+2
+16
+)
+{\displaystyle [0,17\times 2^{16})}
+, notated according to the standard as U+0000–U+10FFFF.[62] The codespace is a systematic, architecture-independent representation of The Unicode Standard; actual text is processed as binary data via one of several Unicode encodings, such as UTF-8.[a]
+In this normative notation, the two-character prefix U+ always precedes a written code point,[63] and the code points themselves are written as hexadecimal numbers. At least four hexadecimal digits are always written, with leading zeros prepended as needed. 
+For example, the code point U+00F7 ÷ DIVISION SIGN is padded with two leading zeros, but U+13254 𓉔 EGYPTIAN HIEROGLYPH O004 () is not padded.[64]
+There are a total of (17 × 216) − 211 = 1112064 valid code points within the codespace. Even though 4 bytes are used when encoding many characters using UTF-8,[a] at first blush potentially allowing for code points up to U+FFFFFFFF, due to limitations arising from UTF-16's use of surrogate pairs, the 211 = 2048 code points in the range U+D800–U+DFFF, as well as all code points U+110000 and above are permanently unusable for encoding characters.
+^ a b See #Mapping and encodings for an explanation of how the UTF encodings work.
+Code planes and blocks[edit]
+Main article: Plane (Unicode)
+The Unicode codespace is divided into 17 planes, numbered 0 to 16. Plane 0 is the Basic Multilingual Plane (BMP), and contains the most commonly used characters. All code points in the BMP are accessed as a single code unit in UTF-16 encoding and can be encoded in one, two or three bytes in UTF-8. Code points in planes 1 through 16 (the supplementary planes) are accessed as surrogate pairs in UTF-16 and encoded in four bytes in UTF-8.
+Within each plane, characters are allocated within named blocks of related characters. The size of a block is always a multiple of 16, and is often a multiple of 128, but is otherwise arbitrary. Characters required for a given script may be spread out over several different, potentially disjunct blocks within the codespace.
+General Category property[edit]
+Each code point is assigned a classification, listed as the code point's General Category property. Here, at the uppermost level code points are categorized as one of Letter, Mark, Number, Punctuation, Symbol, Separator, or Other. Under each category, each code point is then further subcategorized. In most cases, other properties must be used to adequately describe all the characteristics of any given code point. 
+General Category (Unicode Character Property)[a] vte
+Value
+Category Major, minor
+Basic type[b]
+Character assigned[b]
+Count[c](as of 15.0)
+Remarks
+ 
+L, Letter; LC, Cased Letter (Lu, Ll, and Lt only)[d]
+Lu
+Letter, uppercase
+Graphic
+Character
+1,831
+Ll
+Letter, lowercase
+Graphic
+Character
+2,233
+Lt
+Letter, titlecase
+Graphic
+Character
+31
+Ligatures containing uppercase followed by lowercase letters (e.g., ǅ, ǈ, ǋ, and ǲ)
+Lm
+Letter, modifier
+Graphic
+Character
+397
+A modifier letter
+Lo
+Letter, other
+Graphic
+Character
+131,612
+An ideograph or a letter in a unicase alphabet
+M, Mark
+Mn
+Mark, nonspacing
+Graphic
+Character
+1,985
+Mc
+Mark, spacing combining
+Graphic
+Character
+452
+Me
+Mark, enclosing
+Graphic
+Character
+13
+N, Number
+Nd
+Number, decimal digit
+Graphic
+Character
+680
+All these, and only these, have Numeric Type = De[e]
+Nl
+Number, letter
+Graphic
+Character
+236
+Numerals composed of letters or letterlike symbols (e.g., Roman numerals)
+No
+Number, other
+Graphic
+Character
+915
+E.g., vulgar fractions, superscript and subscript digits
+P, Punctuation
+Pc
+Punctuation, connector
+Graphic
+Character
+10
+Includes spacing underscore characters such as "_", and other spacing tie characters. Unlike other punctuation characters, these may be classified as "word" characters by regular expression libraries.[f]
+Pd
+Punctuation, dash
+Graphic
+Character
+26
+Includes several hyphen characters
+Ps
+Punctuation, open
+Graphic
+Character
+79
+Opening bracket characters
+Pe
+Punctuation, close
+Graphic
+Character
+77
+Closing bracket characters
+Pi
+Punctuation, initial quote
+Graphic
+Character
+12
+Opening quotation mark. Does not include the ASCII "neutral" quotation mark. May behave like Ps or Pe depending on usage
+Pf
+Punctuation, final quote
+Graphic
+Character
+10
+Closing quotation mark. May behave like Ps or Pe depending on usage
+Po
+Punctuation, other
+Graphic
+Character
+628
+S, Symbol
+Sm
+Symbol, math
+Graphic
+Character
+948
+Mathematical symbols (e.g., +, −, =, ×, ÷, √, ∊, ≠).  Does not include parentheses and brackets, which are in categories Ps and Pe.  Also does not include !, *, -, or /, which despite frequent use as mathematical operators, are primarily considered to be "punctuation".
+Sc
+Symbol, currency
+Graphic
+Character
+63
+Currency symbols
+Sk
+Symbol, modifier
+Graphic
+Character
+125
+So
+Symbol, other
+Graphic
+Character
+6,634
+Z, Separator
+Zs
+Separator, space
+Graphic
+Character
+17
+Includes the space, but not TAB, CR, or LF, which are Cc
+Zl
+Separator, line
+Format
+Character
+1
+Only U+2028  LINE SEPARATOR (LSEP)
+Zp
+Separator, paragraph
+Format
+Character
+1
+Only U+2029  PARAGRAPH SEPARATOR (PSEP)
+C, Other
+Cc
+Other, control
+Control
+Character
+65 (will never change)[e]
+No name,[g] <control>
+Cf
+Other, format
+Format
+Character
+170
+Includes the soft hyphen, joining control characters (ZWNJ and ZWJ), control characters to support bidirectional text, and language tag characters
+Cs
+Other, surrogate
+Surrogate
+Not (only used in UTF-16)
+2,048 (will never change)[e]
+No name,[g] <surrogate>
+Co
+Other, private use
+Private-use
+Character (but no interpretation specified)
+137,468 total (will never change)[e] (6,400 in BMP, 131,068 in Planes 15–16)
+No name,[g] <private-use>
+Cn
+Other, not assigned
+Noncharacter
+Not
+66 (will not change unless the range of unicode code points is expanded)[e]
+No name,[g] <noncharacter>
+Reserved
+Not
+825,279
+No name,[g] <reserved>
+^ "Table 4-4: General Category" (PDF). The Unicode Standard. Unicode Consortium. September 2022.
+^ a b "Table 2-3: Types of code points" (PDF). The Unicode Standard. Unicode Consortium. September 2022.
+^ "DerivedGeneralCategory.txt". The Unicode Consortium. 2022-04-26.
+^ "5.7.1 General Category Values". UTR #44: Unicode Character Database. Unicode Consortium. 2020-03-04.
+^ a b c d e Unicode Character Encoding Stability Policies: Property Value Stability Stability policy: Some gc groups will never change. gc=Nd corresponds with Numeric Type=De (decimal).
+^ "Annex C: Compatibility Properties (§ word)". Unicode Regular Expressions. Version 23. Unicode Consortium. 2022-02-08. Unicode Technical Standard #18.
+^ a b c d e "Table 4-9: Construction of Code Point Labels" (PDF). The Unicode Standard. Unicode Consortium. September 2022. A Code Point Label may be used to identify a nameless code point. E.g. <control-hhhh>, <control-0088>. The Name remains blank, which can prevent inadvertently replacing, in documentation, a Control Name with a true Control code. Unicode also uses <not a character> for <noncharacter>.
+The 1024 points in the range U+D800–U+DBFF are known as high-surrogate code points, and code points in the range U+DC00–U+DFFF (1024 code points) are known as low-surrogate code points. A high-surrogate code point followed by a low-surrogate code point forms a surrogate pair in UTF-16 in order to represent code points greater than U+FFFF. In principle, these code points cannot otherwise be used, though in practice this rule is often ignored, especially when not using UTF-16.
+A small set of code points are guaranteed never to be assigned to characters, although third-parties may make independent use of them at their discretion. There are 66 of these noncharacters: U+FDD0–U+FDEF and any code point with a representation ending in FFFE or FFFF (e.g. U+FFFE, U+FFFF, U+1FFFE, U+1FFFF, ... U+10FFFE etc.). The set of noncharacters is stable, and no new noncharacters will ever be defined.[65] Like surrogates, the rule that these cannot be used is often ignored, although the operation of the byte order mark assumes that U+FFFE will never be the first code point in a text. The exclusion of surrogates and noncharacters leaves 1111998 code points available for use.
+Private-use code points are considered to be assigned, but they intentionally have no interpretation specified by The Unicode Standard[66] such that any interchange of such code points requires an independent agreement between the sender and receiver as to their interpretation. There are three private-use areas in the Unicode codespace:
+Private Use Area: U+E000–U+F8FF (6400 characters),
+Supplementary Private Use Area-A: U+F0000–U+FFFFD (65534 characters),
+Supplementary Private Use Area-B: U+100000–U+10FFFD (65534 characters).
+Graphic characters are those defined by The Unicode Standard to have particular semantics, either having a visible glyph shape or representing a visible space. As of Unicode 15.0, there are 149014 graphic characters.
+Format characters are characters that do not have a visible appearance but may have an effect on the appearance or behavior of neighboring characters. For example, U+200C  ZERO WIDTH NON-JOINER and U+200D  ZERO WIDTH JOINER may be used to change the default shaping behavior of adjacent characters (e.g. to inhibit ligatures or request ligature formation). There are 172 format characters in Unicode 15.0.
+65 code points, the ranges U+0000–U+001F and U+007F–U+009F, are reserved as control codes, corresponding to the C0 and C1 control codes as defined in ISO/IEC 6429. U+0089 LINE TABULATION, U+008A LINE FEED, and U+000D CARRIAGE RETURN are widely used in texts using Unicode. In a phenomenon known as mojibake, the C1 code points are improperly decoded  according to the Windows-1252 codepage, previously widely used in Western European contexts.
+Together, graphic, format, control code, and private use characters are collectively referred to as assigned characters. Reserved code points are those code points that are valid and available for use, but have not yet been assigned. As of Unicode 15.0, there are 825279 reserved code points.
+Abstract characters[edit]
+The set of graphic and format characters defined by Unicode does not correspond directly to the repertoire of abstract characters representable under Unicode. Unicode encodes characters by associating an abstract character with a particular code point.[67] However, not all abstract characters are encoded as a single Unicode character, and some abstract characters may be represented in Unicode by a sequence of two or more characters. For example, a Latin small letter "i" with an ogonek, a dot above, and an acute accent, which is required in Lithuanian, is represented by the character sequence U+012F; U+0307; U+0301. Unicode maintains a list of uniquely named character sequences for abstract characters that are not directly encoded in Unicode.[68]
+All assigned characters have a unique and immutable name by which they are identified. This immutability has been guaranteed since version 2.0 of The Unicode Standard by its Name Stability policy.[65] In cases where a name is seriously defective and misleading, or has a serious typographical error, a formal alias may be defined that applications are encouraged to use in place of the official character name. For example, U+A015 ꀕ YI SYLLABLE WU has the formal alias YI SYLLABLE ITERATION MARK, and U+FE18 ︘ PRESENTATION FORM FOR VERTICAL RIGHT WHITE LENTICULAR BRAKCET (sic) has the formal alias PRESENTATION FORM FOR VERTICAL RIGHT WHITE LENTICULAR BRACKET.[69]
+Ready-made versus composite characters[edit]
+Unicode includes a mechanism for modifying characters that greatly extends the supported repertoire of glyphs. This covers the use of combining diacritical marks that may be added after the base character by the user. Multiple combining diacritics may be simultaneously applied to the same character. Unicode also contains precomposed versions of most letter/diacritic combinations in normal use. These make the conversion to and from legacy encodings simpler, and allow applications to use Unicode as an internal text format without having to implement combining characters. For example, é can be represented in Unicode as U+0065 e LATIN SMALL LETTER E followed by U+0301 ◌́ COMBINING ACUTE ACCENT), and equivalently as the precomposed character U+00E9 é LATIN SMALL LETTER E WITH ACUTE. Thus, users often have multiple equivalent ways of encoding the same character. The mechanism of canonical equivalence within The Unicode Standard ensures the practical interchangeability of these equivalent encodings.
+An example of this arises with the Korean alphabet Hangul: Unicode provides a mechanism for composing Hangul syllables from their individual Hangul Jamo subcomponents. However, it also provides 11172 combinations of precomposed syllables made from the most common jamo.
+CJK characters presently only have codes for uncomposable radicals and precomposed forms. Most Han characters have either been intentionally composed from, or reconstructed as compositions of, simpler orthographic elements called radicals, so in principle  Unicode could have enabled their composition as it did with Hangul. While this could have greatly reduced the number of required code points, as well as allowing the algorithmic synthesis of many arbitrary new characters, the complexities of character etymologies and the post-hoc nature of radical systems add immense complexity to the proposal. Indeed, attempts to design CJK encodings on the basis of composing  radicals have been met with difficulties resulting from the reality that Chinese characters do not decompose as simply or as regularly as Hangul does.
+The CJK Radicals Supplement block is assigned to the range U+2E80–U+2EFF, and the Kangxi radicals are assigned to U+2F00–U+2FDF. The Ideographic Description Sequences block covers the range U+2FF0–U+2FFB, but The Unicode Standard warns against using its characters as an alternate representation for characters encoded elsewhere:
+This process is different from a formal encoding of an ideograph. There is no canonical description of unencoded ideographs; there is no semantic assigned to described ideographs; there is no equivalence defined for described ideographs. Conceptually, ideographic descriptions are more akin to the English phrase "an 'e' with an acute accent on it" than to the character sequence <U+0065, U+0301>.
+Ligatures[edit]
+The Devanāgarī ddhrya-ligature (द् + ध् + र् + य = द्ध्र्य) of JanaSanskritSans[70]The Arabic lām-alif ligature (ل ‎+‎ ا ‎=‎ لا)
+Many scripts, including Arabic and Devanāgarī, have special orthographic rules that require certain combinations of letterforms to be combined into special ligature forms. The rules governing ligature formation can be quite complex, requiring special script-shaping technologies such as ACE (Arabic Calligraphic Engine by DecoType in the 1980s and used to generate all the Arabic examples in the printed editions of The Unicode Standard), which became the proof of concept for OpenType (by Adobe and Microsoft), Graphite (by SIL International), or AAT (by Apple).
+Instructions are also embedded in fonts to tell the operating system how to properly output different character sequences. A simple solution to the placement of combining marks or diacritics is assigning the marks a width of zero and placing the glyph itself to the left or right of the left sidebearing (depending on the direction of the script they are intended to be used with). A mark handled this way will appear over whatever character precedes it, but will not adjust its position relative to the width or height of the base glyph; it may be visually awkward and it may overlap some glyphs. Real stacking is impossible but can be approximated in limited cases (for example, Thai top-combining vowels and tone marks can just be at different heights to start with). Generally, this approach is only effective in monospaced fonts but may be used as a fallback rendering method when more complex methods fail.
+Standardized subsets[edit]
+Several subsets of Unicode are standardized: Microsoft Windows since Windows NT 4.0 supports WGL-4 with 657 characters, which is considered to support all contemporary European languages using the Latin, Greek, or Cyrillic script. Other standardized subsets of Unicode include the Multilingual European Subsets:[71] MES-1 (Latin scripts only, 335 characters), MES-2 (Latin, Greek, and Cyrillic 1062 characters)[72] and MES-3A & MES-3B (two larger subsets, not shown here). MES-2 includes every character in MES-1 and WGL-4.
+The standard DIN 91379[73] specifies a subset of Unicode letters, special characters, and sequences of letters and diacritic signs to allow the correct representation of names and to simplify data exchange in Europe. This specification supports all of the official languages of all European Union countries, as well as the German minority languages and the official languages of Iceland, Liechtenstein, Norway, and Switzerland. To allow the transliteration of names in other writing systems to the Latin script according to the relevant ISO standards, all necessary combinations of base letters and diacritic signs are provided.
+WGL-4, MES-1 and MES-2
+Row
+Cells
+Range(s)
+00
+20–7E
+Basic Latin (00–7F)
+A0–FF
+Latin-1 Supplement (80–FF)
+01
+00–13, 14–15, 16–2B, 2C–2D, 2E–4D, 4E–4F, 50–7E, 7F
+Latin Extended-A (00–7F)
+8F, 92, B7, DE-EF, FA–FF
+Latin Extended-B (80–FF ...)
+02
+18–1B, 1E–1F
+Latin Extended-B (... 00–4F)
+59, 7C, 92
+IPA Extensions (50–AF)
+BB–BD, C6, C7, C9, D6, D8–DB, DC, DD, DF, EE
+Spacing Modifier Letters (B0–FF)
+03
+74–75, 7A, 7E, 84–8A, 8C, 8E–A1, A3–CE, D7, DA–E1
+Greek (70–FF)
+04
+00–5F, 90–91, 92–C4, C7–C8, CB–CC, D0–EB, EE–F5, F8–F9
+Cyrillic (00–FF)
+1E
+02–03, 0A–0B, 1E–1F, 40–41, 56–57, 60–61, 6A–6B, 80–85, 9B, F2–F3
+Latin Extended Additional (00–FF)
+1F
+00–15, 18–1D, 20–45, 48–4D, 50–57, 59, 5B, 5D, 5F–7D, 80–B4, B6–C4, C6–D3, D6–DB, DD–EF, F2–F4, F6–FE
+Greek Extended (00–FF)
+20
+13–14, 15, 17, 18–19, 1A–1B, 1C–1D, 1E, 20–22, 26, 30, 32–33, 39–3A, 3C, 3E, 44, 4A
+General Punctuation (00–6F)
+7F, 82
+Superscripts and Subscripts (70–9F)
+A3–A4, A7, AC, AF
+Currency Symbols (A0–CF)
+21
+05, 13, 16, 22, 26, 2E
+Letterlike Symbols (00–4F)
+5B–5E
+Number Forms (50–8F)
+90–93, 94–95, A8
+Arrows (90–FF)
+22
+00, 02, 03, 06, 08–09, 0F, 11–12, 15, 19–1A, 1E–1F, 27–28, 29, 2A, 2B, 48, 59, 60–61, 64–65, 82–83, 95, 97
+Mathematical Operators (00–FF)
+23
+02, 0A, 20–21, 29–2A
+Miscellaneous Technical (00–FF)
+25
+00, 02, 0C, 10, 14, 18, 1C, 24, 2C, 34, 3C, 50–6C
+Box Drawing (00–7F)
+80, 84, 88, 8C, 90–93
+Block Elements (80–9F)
+A0–A1, AA–AC, B2, BA, BC, C4, CA–CB, CF, D8–D9, E6
+Geometric Shapes (A0–FF)
+26
+3A–3C, 40, 42, 60, 63, 65–66, 6A, 6B
+Miscellaneous Symbols (00–FF)
+F0
+(01–02)
+Private Use Area (00–FF ...)
+FB
+01–02
+Alphabetic Presentation Forms (00–4F)
+FF
+FD
+Specials
+Rendering software that cannot process a Unicode character appropriately often displays it as an open rectangle, or as U+FFFD to indicate the position of the unrecognized character. Some systems have made attempts to provide more information about such characters. Apple's Last Resort font will display a substitute glyph indicating the Unicode range of the character, and the SIL International's Unicode fallback font will display a box showing the hexadecimal scalar value of the character.
+Mapping and encodings[edit]
+Several mechanisms have been specified for storing a series of code points as a series of bytes.
+Unicode defines two mapping methods: the Unicode Transformation Format (UTF) encodings, and the Universal Coded Character Set (UCS) encodings. An encoding maps (possibly a subset of) the range of Unicode code points to sequences of values in some fixed-size range, termed code units. All UTF encodings map code points to a unique sequence of bytes.[74] The numbers in the names of the encodings indicate the number of bits per code unit (for UTF encodings) or the number of bytes per code unit (for UCS encodings and UTF-1). UTF-8 and UTF-16 are the most commonly used encodings. UCS-2 is an obsolete subset of UTF-16; UCS-4 and UTF-32 are functionally equivalent.
+UTF encodings include:
+UTF-8, which uses one to four bytes per code point, and has maximal compatibility with ASCII
+UTF-16, which uses either one or two 16-bit units per code point, but cannot encode surrogates
+UTF-32, which uses one 32-bit unit per code point
+UTF-EBCDIC, not specified as part of The Unicode Standard, which uses one to five bytes per code point, intended to maximize compatibility with EBCDIC
+UTF-8 uses one to four bytes per code point and, being compact for Latin scripts and ASCII-compatible, provides the de facto standard encoding for the interchange of Unicode text. It is used by FreeBSD and most recent Linux distributions as a direct replacement for legacy encodings in general text handling.
+The UCS-2 and UTF-16 encodings specify the Unicode byte order mark (BOM) for use at the beginnings of text files, which may be used for byte-order detection (or byte endianness detection). The BOM, encoded as U+FEFF  BYTE ORDER MARK, has the important property of unambiguity on byte reorder, regardless of the Unicode encoding used; U+FFFE (the result of byte-swapping U+FEFF) does not equate to a legal character, and U+FEFF in places other than the beginning of text conveys the zero-width non-break space (a character with no appearance and no effect other than preventing the formation of ligatures).
+The same character converted to UTF-8 becomes the byte sequence EF BB BF. The Unicode Standard allows the BOM "can serve as a signature for UTF-8 encoded text where the character set is unmarked".[75] Some software developers have adopted it for other encodings, including UTF-8, in an attempt to distinguish UTF-8 from local 8-bit code pages. However RFC 3629, the UTF-8 standard, recommends that byte order marks be forbidden in protocols using UTF-8, but discusses the cases where this may not be possible. In addition, the large restriction on possible patterns in UTF-8 (for instance there cannot be any lone bytes with the high bit set) means that it should be possible to distinguish UTF-8 from other character encodings without relying on the BOM.
+In UTF-32 and UCS-4, one 32-bit code unit serves as a fairly direct representation of any character's code point (although the endianness, which varies across different platforms, affects how the code unit manifests as a byte sequence). In the other encodings, each code point may be represented by a variable number of code units. UTF-32 is widely used as an internal representation of text in programs (as opposed to stored or transmitted text), since every Unix operating system that uses the gcc compilers to generate software uses it as the standard "wide character" encoding. Some programming languages, such as Seed7, use UTF-32 as an internal representation for strings and characters. Recent versions of the Python programming language (beginning with 2.2) may also be configured to use UTF-32 as the representation for Unicode strings, effectively disseminating such encoding in high-level coded software.
+Punycode, another encoding form, enables the encoding of Unicode strings into the limited character set supported by the ASCII-based Domain Name System (DNS). The encoding is used as part of IDNA, which is a system enabling the use of Internationalized Domain Names in all scripts that are supported by Unicode. Earlier and now historical proposals include UTF-5 and UTF-6.
+GB18030 is another encoding form for Unicode, from the Standardization Administration of China. It is the official character set of the People's Republic of China (PRC). BOCU-1 and SCSU are Unicode compression schemes. The April Fools' Day RFC of 2005 specified two parody UTF encodings, UTF-9 and UTF-18.
+Adoption[edit]
+See also: UTF-8 § Adoption
+Unicode, in the form of UTF-8, has been the most common encoding for the World Wide Web since 2008.[76] It has near-universal adoption, and much of the non-UTF-8 content is found in other Unicode encodings, e.g. UTF-16. As of 2023[update], UTF-8 accounts for on average 97.8% of all web pages (and 987 of the top 1,000 highest-ranked web pages).[77] Although many pages only use ASCII characters to display content, UTF-8 was designed with 8-bit ASCII as a subset and almost no websites now declare their encoding to only be ASCII instead of UTF-8.[78] Over a third of the languages tracked have 100% UTF-8 use.
+All internet protocols maintained by Internet Engineering Task Force, e.g. FTP,[79] have required support for UTF-8 since the publication of RFC 2277 in 1998, which specified that all IETF protocols "MUST be able to use the UTF-8 charset".[80]
+Operating systems[edit]
+Unicode has become the dominant scheme for the internal processing and storage of text. Although a great deal of text is still stored in legacy encodings, Unicode is used almost exclusively for building new information processing systems. Early adopters tended to use UCS-2 (the fixed-length two-byte obsolete precursor to UTF-16) and later moved to UTF-16 (the variable-length current standard), as this was the least disruptive way to add support for non-BMP characters. The best known such system is Windows NT (and its descendants, 2000, XP, Vista, 7, 8, 10, and 11), which uses UTF-16 as the sole internal character encoding. The Java and .NET bytecode environments, macOS, and KDE also use it for internal representation. Partial support for Unicode can be installed on Windows 9x through the Microsoft Layer for Unicode.
+UTF-8 (originally developed for Plan 9)[81] has become the main storage encoding on most Unix-like operating systems (though others are also used by some libraries) because it is a relatively easy replacement for traditional extended ASCII character sets. UTF-8 is also the most common Unicode encoding used in HTML documents on the World Wide Web.
+Multilingual text-rendering engines which use Unicode include Uniscribe and DirectWrite for Microsoft Windows, ATSUI and Core Text for macOS, and Pango for GTK+ and the GNOME desktop.
+Input methods[edit]
+Main article: Unicode input
+Because keyboard layouts cannot have simple key combinations for all characters, several operating systems provide alternative input methods that allow access to the entire repertoire.
+ISO/IEC 14755,[82] which standardises methods for entering Unicode characters from their code points, specifies several methods. There is the Basic method, where a beginning sequence is followed by the hexadecimal representation of the code point and the ending sequence. There is also a screen-selection entry method specified, where the characters are listed in a table on a screen, such as with a character map program.
+Online tools for finding the code point for a known character include Unicode Lookup[83] by Jonathan Hedley and Shapecatcher[84] by Benjamin Milde. In Unicode Lookup, one enters a search key (e.g. "fractions"), and a list of corresponding characters with their code points is returned. In Shapecatcher, based on Shape context, one draws the character in a box and a list of characters approximating the drawing, with their code points, is returned.
+Email[edit]
+Main article: Unicode and email
+MIME defines two different mechanisms for encoding non-ASCII characters in email, depending on whether the characters are in email headers (such as the "Subject:"), or in the text body of the message; in both cases, the original character set is identified as well as a transfer encoding. For email transmission of Unicode, the UTF-8 character set and the Base64 or the Quoted-printable transfer encoding are recommended, depending on whether much of the message consists of ASCII characters. The details of the two different mechanisms are specified in the MIME standards and generally are hidden from users of email software.
+The IETF has defined[85][86] a framework for internationalized email using UTF-8, and has updated[87][88][89][90] several protocols in accordance with that framework.
+The adoption of Unicode in email has been very slow.[citation needed] Some East Asian text is still encoded in encodings such as ISO-2022, and some devices, such as mobile phones[citation needed], still cannot correctly handle Unicode data. Support has been improving, however. Many major free mail providers such as Yahoo! Mail, Gmail, and Outlook.com support it.
+Web[edit]
+Main article: Unicode and HTML
+All W3C recommendations have used Unicode as their document character set since HTML 4.0. Web browsers have supported Unicode, especially UTF-8, for many years. There used to be display problems resulting primarily from font related issues; e.g. v6 and older of Microsoft Internet Explorer did not render many code points unless explicitly told to use a font that contains them.[91]
+Although syntax rules may affect the order in which characters are allowed to appear, XML (including XHTML) documents, by definition,[92] comprise characters from most of the Unicode code points, with the exception of:
+FFFE or FFFF.
+most of the C0 control codes,
+the permanently unassigned code points D800–DFFF,
+HTML characters manifest either directly as bytes according to the document's encoding, if the encoding supports them, or users may write them as numeric character references based on the character's Unicode code point. For example, the references &#916;, &#1049;, &#1511;, &#1605;, &#3671;, &#12354;, &#21494;, &#33865;, and &#47568; (or the same numeric values expressed in hexadecimal, with &#x as the prefix) should display on all browsers as Δ, Й, ק ,م, ๗, あ, 叶, 葉, and 말.
+When specifying URIs, for example as URLs in HTTP requests, non-ASCII characters must be percent-encoded.
+Fonts[edit]
+Main article: Unicode font
+Unicode is not in principle concerned with fonts per se, seeing them as implementation choices.[93] Any given character may have many allographs, from the more common bold, italic and base letterforms to complex decorative styles. A font is "Unicode compliant" if the glyphs in the font can be accessed using code points defined in The Unicode Standard.[94] The standard does not specify a minimum number of characters that must be included in the font; some fonts have quite a small repertoire.
+Free and retail fonts based on Unicode are widely available, since TrueType and OpenType support Unicode (and Web Open Font Format (WOFF and WOFF2) is based on those). These font formats map Unicode code points to glyphs, but OpenType and TrueType font files are restricted to 65,535 glyphs. Collection files provide a "gap mode" mechanism for overcoming this limit in a single font file. (Each font within the collection still has the 65,535 limit, however.) A TrueType Collection file would typically have a file extension of ".ttc".
+Thousands of fonts exist on the market, but fewer than a dozen fonts—sometimes described as "pan-Unicode" fonts—attempt to support the majority of Unicode's character repertoire. Instead, Unicode-based fonts typically focus on supporting only basic ASCII and particular scripts or sets of characters or symbols. Several reasons justify this approach: applications and documents rarely need to render characters from more than one or two writing systems; fonts tend to demand resources in computing environments; and operating systems and applications show increasing intelligence in regard to obtaining glyph information from separate font files as needed, i.e., font substitution. Furthermore, designing a consistent set of rendering instructions for tens of thousands of glyphs constitutes a monumental task; such a venture passes the point of diminishing returns for most typefaces.
+Newlines[edit]
+Unicode partially addresses the newline problem that occurs when trying to read a text file on different platforms. Unicode defines a large number of characters that conforming applications should recognize as line terminators.
+In terms of the newline, Unicode introduced U+2028  LINE SEPARATOR and U+2029  PARAGRAPH SEPARATOR. This was an attempt to provide a Unicode solution to encoding paragraphs and lines semantically, potentially replacing all of the various platform solutions. In doing so, Unicode does provide a way around the historical platform-dependent solutions. Nonetheless, few if any Unicode solutions have adopted these Unicode line and paragraph separators as the sole canonical line ending characters. However, a common approach to solving this issue is through newline normalization. This is achieved with the Cocoa text system in Mac OS X and also with W3C XML and HTML recommendations. In this approach, every possible newline character is converted internally to a common newline (which one does not really matter since it is an internal operation just for rendering). In other words, the text system can correctly treat the character as a newline, regardless of the input's actual encoding.
+Issues[edit]
+Character unification[edit]
+Han unification[edit]
+Han unification (the identification of forms in the East Asian languages which one can treat as stylistic variations of the same historical character) has become one of the most controversial aspects of Unicode, despite the presence of a majority of experts from all three regions in the Ideographic Research Group (IRG), which advises the Consortium and ISO on additions to the repertoire and on Han unification.[95]
+Unicode has been criticized for failing to separately encode older and alternative forms of kanji which, critics argue, complicates the processing of ancient Japanese and uncommon Japanese names. This is often due to the fact that Unicode encodes characters rather than glyphs (the visual representations of the basic character that often vary from one language to another). The unification of glyphs leads to the perception that the languages themselves, not just the basic character representation, are being merged.[96][clarification needed] There have been several attempts to create alternative encodings that preserve the stylistic differences between Chinese, Japanese, and Korean characters in opposition to Unicode's policy of Han unification. An example of one is TRON (although it is not widely adopted in Japan, there are some users who need to handle historical Japanese text and favor it).
+Although the repertoire of fewer than 21,000 Han characters in the earliest version of Unicode was largely limited to characters in common modern usage, Unicode now includes more than 97,000 Han characters, and work is continuing to add thousands more historic and dialectal characters used in China, Japan, Korea, Taiwan, and Vietnam.
+Modern font technology provides a means to address the practical issue of needing to depict a unified Han character in terms of a collection of alternative glyph representations. The 'locl' OpenType table allows a renderer to select a different glyph for a character based on the text locale.[97] The Unicode variation sequences can also provide in-text annotation of desired glyph selection, but no such sequences for Han characters have been standardized.
+Italic or cursive characters in Cyrillic[edit]
+Various Cyrillic characters shown with upright, oblique, and italic alternate forms
+If the appropriate glyphs for characters in the same script differ only in the italic, Unicode has generally unified them, as can be seen in the comparison among a set of seven characters' italic glyphs as typically appearing in Russian, traditional Bulgarian, Macedonian, and Serbian texts at right, meaning that the differences are displayed through smart font technology or manually changing fonts. The same OpenType 'locl' technique is used.[98]
+Mapping to legacy character sets[edit]
+Unicode was designed to provide code-point-by-code-point round-trip format conversion to and from any preexisting character encodings, so that text files in older character sets can be converted to Unicode and then back and get back the same file, without employing context-dependent interpretation. That has meant that inconsistent legacy architectures, such as combining diacritics and precomposed characters, both exist in Unicode, giving more than one method of representing some text. This is most pronounced in the three different encoding forms for Korean Hangul. Since version 3.0, any precomposed characters that can be represented by a combined sequence of already existing characters can no longer be added to the standard to preserve interoperability between software using different versions of Unicode.
+Injective mappings must be provided between characters in existing legacy character sets and characters in Unicode to facilitate conversion to Unicode and allow interoperability with legacy software. Lack of consistency in various mappings between earlier Japanese encodings such as Shift-JIS or EUC-JP and Unicode led to round-trip format conversion mismatches, particularly the mapping of the character JIS X 0208 '～' (1-33, WAVE DASH), heavily used in legacy database data, to either U+FF5E ～ FULLWIDTH TILDE (in Microsoft Windows) or U+301C 〜 WAVE DASH (other vendors).[99]
+Some Japanese computer programmers objected to Unicode because it requires them to separate the use of U+005C \ REVERSE SOLIDUS (backslash) and U+00A5 ¥ YEN SIGN, which was mapped to 0x5C in JIS X 0201, and a lot of legacy code exists with this usage.[100] (This encoding also replaces tilde '~' 0x7E with macron '¯', now 0xAF.) The separation of these characters exists in ISO 8859-1, from long before Unicode.
+Indic scripts[edit]
+Indic scripts such as Tamil and Devanagari are each allocated only 128 code points, matching the ISCII standard. The correct rendering of Unicode Indic text requires transforming the stored logical order characters into visual order and the forming of ligatures (also known as conjuncts) out of components. Some local scholars argued in favor of assignments of Unicode code points to these ligatures, going against the practice for other writing systems, though Unicode contains some Arabic and other ligatures for backward compatibility purposes only.[101][102][103] Encoding of any new ligatures in Unicode will not happen, in part, because the set of ligatures is font-dependent, and Unicode is an encoding independent of font variations. The same kind of issue arose for the Tibetan script in 2003 when the Standardization Administration of China proposed encoding 956 precomposed Tibetan syllables,[104] but these were rejected for encoding by the relevant ISO committee (ISO/IEC JTC 1/SC 2).[105]
+Thai alphabet support has been criticized for its ordering of Thai characters. The vowels เ, แ, โ, ใ, ไ that are written to the left of the preceding consonant are in visual order instead of phonetic order, unlike the Unicode representations of other Indic scripts. This complication is due to Unicode inheriting the Thai Industrial Standard 620, which worked in the same way, and was the way in which Thai had always been written on keyboards. This ordering problem complicates the Unicode collation process slightly, requiring table lookups to reorder Thai characters for collation.[96] Even if Unicode had adopted encoding according to spoken order, it would still be problematic to collate words in dictionary order. E.g., the word แสดง [sa dɛːŋ] "perform" starts with a consonant cluster "สด" (with an inherent vowel for the consonant "ส"), the vowel แ-, in spoken order would come after the ด, but in a dictionary, the word is collated as it is written, with the vowel following the ส.
+Combining characters[edit]
+Main article: Combining character
+See also: Unicode normalization § Normalization
+Characters with diacritical marks can generally be represented either as a single precomposed character or as a decomposed sequence of a base letter plus one or more non-spacing marks. For example, ḗ (precomposed e with macron and acute above) and ḗ (e followed by the combining macron above and combining acute above) should be rendered identically, both appearing as an e with a macron and acute accent, but in practice, their appearance may vary depending upon what rendering engine and fonts are being used to display the characters. Similarly, underdots, as needed in the romanization of Indic, will often be placed incorrectly.[citation needed]. Unicode characters that map to precomposed glyphs can be used in many cases, thus avoiding the problem, but where no precomposed character has been encoded, the problem can often be solved by using a specialist Unicode font such as Charis SIL that uses Graphite, OpenType ('gsub'), or AAT technologies for advanced rendering features.
+Anomalies[edit]
+Main article: Unicode alias names and abbreviations
+The Unicode Standard has imposed rules intended to guarantee stability.[106] Depending on the strictness of a rule, a change can be prohibited or allowed. For example, a "name" given to a code point cannot and will not change. But a "script" property is more flexible, by Unicode's own rules. In version 2.0, Unicode changed many code point "names" from version 1. At the same moment, Unicode stated that, thenceforth, an assigned name to a code point would never change. This implies that when mistakes are published, these mistakes cannot be corrected, even if they are trivial (as happened in one instance with the spelling BRAKCET for BRACKET in a character name). In 2006 a list of anomalies in character names was first published, and, as of June 2021, there were 104 characters with identified issues,[107] for example:
+U+034F ͏ COMBINING GRAPHEME JOINER: Does not join graphemes.[107]
+U+2118 ℘ SCRIPT CAPITAL P: This is a small letter. The capital is U+1D4AB 𝒫 MATHEMATICAL SCRIPT CAPITAL P.[108]
+U+A015 ꀕ YI SYLLABLE WU: This is not a Yi syllable, but a Yi iteration mark.
+U+FE18 ︘ PRESENTATION FORM FOR VERTICAL RIGHT WHITE LENTICULAR BRAKCET: bracket is spelled incorrectly.[109] (Spelling errors are resolved by using Unicode alias names.)
+While Unicode defines the script designator (name) to be "Phags_Pa", in that script's character names, a hyphen is added: U+A840 ꡀ PHAGS-PA LETTER KA.[110][111] This, however, is not an anomaly, but the rule: hyphens are replaced by underscores in script designators.[110]
+Security issues[edit]
+Unicode has a large number of homoglyphs, many of which look very similar or identical to ASCII letters. Substitution of these can make an identifier or URL that looks correct, but directs to a different location than expected.[112] Additionally, homoglyphs can also be used for manipulating the output of natural language processing (NLP) systems.[113] Mitigation requires disallowing these characters, displaying them differently, or requiring that they resolve to the same identifier;[114] all of this is complicated due to the huge and constantly changing set of characters.[115][116]
+A security advisory was released in 2021 by two researchers, one from the University of Cambridge and the other from the University of Edinburgh, in which they assert that the BiDi marks can be used to make large sections of code do something different from what they appear to do. The problem was named "Trojan Source".[117] In response, code editors started highlighting marks to indicate forced text-direction changes.[118]
+See also[edit]
+Comparison of Unicode encodings
+International Components for Unicode (ICU), now as ICU-TC a part of Unicode
+List of binary codes
+List of Unicode characters
+List of XML and HTML character entity references
+Lotus Multi-Byte Character Set (LMBCS), a parallel development with similar intentions
+Open-source Unicode typefaces
+Religious and political symbols in Unicode
+Standards related to Unicode
+Unicode symbols
+Universal Coded Character Set
+Notes[edit]
+^ The formal version reference is The Unicode Consortium: The Unicode Standard, Version 15.0.0. Mountain View, CA: The Unicode Consortium. 2022. ISBN 978-1-936213-32-0.
+^ Sometimes abbr. TUS is used.[1][2]
+^ "A Unicode Standard Annex (UAX) forms an integral part of The Unicode Standard, but is published as a separate document."[1]
+References[edit]
+^ "Unicode Technical Report #28: Unicode 3.2". Unicode Consortium. 2002-03-27. Retrieved 2022-06-23.
+^ Jenkins, John H. (2021-08-26). "Unicode Standard Annex #45: U-source Ideographs". Unicode Consortium. Retrieved 2022-06-23. 2.2 The Source Field
+^ "Unicode 15.0.0". www.unicode.org.
+^ "Unicode Character Count V15.0". www.unicode.org.
+^ "Emoji Counts, v15.0". unicode.org. Retrieved 2023-01-30.
+^ "The Unicode Standard: A Technical Introduction". Retrieved 2010-03-16.
+^ "Unicode Bulldog Award". www.unicode.org.
+^ a b c d e Becker, Joseph D. (1998-09-10) [1988-08-29]. "Unicode 88" (PDF). unicode.org. Unicode Consortium. Archived (PDF) from the original on 2016-11-25. Retrieved 2016-10-25. In 1978, the initial proposal for a set of "Universal Signs" was made by Bob Belleville at Xerox PARC. Many persons contributed ideas to the development of a new encoding design. Beginning in 1980, these efforts evolved into the Xerox Character Code Standard (XCCS) by the present author, a multilingual encoding that has been maintained by Xerox as an internal corporate standard since 1982, through the efforts of Ed Smura, Ron Pellar, and others.Unicode arose as the result of eight years of working experience with XCCS. Its fundamental differences from XCCS were proposed by Peter Fenwick and Dave Opstad (pure 16-bit codes) and by edition=10th anniversary reprint |Lee Collins (ideographic character unification). Unicode retains the many features of XCCS whose utility has been proved over the years in an international line of communication multilingual system products.
+^ "Summary Narrative". Retrieved 2010-03-15.
+^ "History of Unicode Release and Publication Dates". unicode.org. Retrieved 2023-03-20.
+^ Searle, Stephen J. "Unicode Revisited". Retrieved 2013-01-18.
+^ a b "The Unicode Consortium Members". Retrieved 2019-01-04.
+^ "Unicode FAQ". Retrieved 2020-04-02.
+^ "Supported Scripts". unicode.org. Retrieved 2022-09-16.
+^ "Roadmap to the BMP". Unicode Consortium. Retrieved 2018-07-30.
+^ "Roadmaps to Unicode". www.unicode.org.
+^ "script encoding initiative". linguistics.berkeley.edu.
+^ "About The Script Encoding Initiative". The Unicode Consortium. Retrieved 2012-06-04.
+^ "Unicode 6.1 Paperback Available". announcements_at_unicode.org. Retrieved 2012-05-30.
+^ "BETA Unicode 15.0.0". unicode.org. Retrieved 2022-07-16.
+^ "Emoji Counts, v15.0β". unicode.org. Retrieved 2022-07-16.
+^ "Enumerated Versions of The Unicode Standard". Retrieved 2016-06-21.
+^ a b c "Unicode version 1.0". 1991."1.0.0/UnicodeData.txt (reconstructed)". 2004. Retrieved 2010-03-16.
+^ a b "Unicode Data 1.0.1". Retrieved 2010-03-16.
+^ a b "Unicode version 1.1"."Unicode Data 1995". Retrieved 2010-03-16.
+^ a b "Unicode version 2.0.0"."Unicode Data-2.0.14". Retrieved 2010-03-16.
+^ a b "Unicode version 2.1.0"."Unicode Data-2.1.2". Retrieved 2010-03-16.
+^ "Unicode Data-3.0.0". Retrieved 2010-03-16.
+^ "Unicode Data-3.1.0". Retrieved 2010-03-16.
+^ "Unicode Data-3.2.0". Retrieved 2010-03-16.
+^  and "ș" and "ț" characters to support Romanian"Unicode Data-4.0.0". Retrieved 2010-03-16.
+^ "Unicode Data-4.1.0". Retrieved 2010-03-16.
+^ "Named Sequences-4.1.0". Retrieved 2010-03-16.
+^ "Unicode Data 5.0.0". Retrieved 2010-03-17.
+^ "Unicode Data 5.1.0". Retrieved 2010-03-17.
+^ "Unicode Data 5.2.0". Retrieved 2010-03-17.
+^ "Unicode 6.0 Emoji List". emojipedia.org. Retrieved 2022-09-21.
+^ "Unicode Data 6.0.0". Retrieved 2010-10-11.
+^ "Unicode Data 6.1.0". Retrieved 2012-01-31.
+^ "Unicode Data 6.2.0". Retrieved 2012-09-26.
+^ "Unicode Data 6.3.0". Retrieved 2013-09-30.
+^ "Unicode Data 7.0.0". Retrieved 2014-06-15.
+^ "Unicode 8.0.0". Unicode Consortium. Retrieved 2015-06-17.
+^ "Unicode Data 8.0.0". Retrieved 2015-06-17.
+^ "Unicode 9.0.0". Unicode Consortium. Retrieved 2016-06-21.
+^ "Unicode Data 9.0.0". Retrieved 2016-06-21.
+^ Lobao, Martim (2016-06-07). "These Are The Two Emoji That Weren't Approved For Unicode 9 But Which Google Added To Android Anyway". Android Police. Retrieved 2016-09-04.
+^ a b "Unicode 10.0.0". Unicode Consortium. Retrieved 2017-06-20.
+^ "The Unicode Standard, Version 11.0.0 Appendix C" (PDF). Unicode Consortium. Retrieved 2018-06-11.
+^ "Announcing The Unicode Standard, Version 11.0". blog.unicode.org. Retrieved 2018-06-06.
+^ "The Unicode Standard, Version 12.0.0 Appendix C" (PDF). Unicode Consortium. Retrieved 2019-03-05.
+^ "Announcing The Unicode Standard, Version 12.0". blog.unicode.org. Retrieved 2019-03-05.
+^ "Unicode Version 12.1 released in support of the Reiwa Era". blog.unicode.org. Retrieved 2019-05-07.
+^ a b "Unicode 13.0.0"."Announcing The Unicode Standard, Version 13.0". blog.unicode.org. Retrieved 2020-03-11.
+^ "The Unicode Standard, Version 13.0– Core Specification Appendix C" (PDF). Unicode Consortium. Retrieved 2020-03-11.
+^ a b "Unicode 14.0.0"."Announcing The Unicode® Standard, Version 14.0".
+^ a b "Unicode 15.0.0".
+^ a b "BETA Unicode® 15.1.0".
+^ "Unicode 15.1.0". www.unicode.org.
+^ "Glossary of Unicode Terms". Retrieved 2010-03-16.
+^ "2.4 Code Points and Characters". The Unicode Standard Version 15.0 – Core Specification (PDF). 2022. p. 29.
+^ "3.4 Characters and Encoding". The Unicode Standard, Version 15.0 (PDF). 2022. p. 88.
+^ "Re: Origin of the U+nnnn notation". Unicode Mail List Archive (Mailing list). 2005-11-08.
+^ "Appendix A: Notational Conventions" (PDF). The Unicode Standard. Unicode Consortium. September 2022.
+^ a b "Unicode Character Encoding Stability Policy". Retrieved 2010-03-16.
+^ "Properties" (PDF). Retrieved 2022-09-16.
+^ "Unicode Character Encoding Model". Retrieved 2022-09-16.
+^ "Unicode Named Sequences". Retrieved 2022-09-16.
+^ "Unicode Name Aliases". Retrieved 2010-03-16.
+^ "JanaSanskritSans". Archived from the original on 2011-07-16.
+^ CWA 13873:2000 – Multilingual European Subsets in ISO/IEC 10646-1 CEN Workshop Agreement 13873
+^ Kuhn, Markus (1998). "Multilingual European Character Set 2 (MES-2) Rationale". University of Cambridge. Retrieved 2023-03-20.
+^ "DIN 91379:2022-08: Characters and defined character sequences in Unicode for the electronic processing of names and data exchange in Europe, with CD-ROM". Beuth Verlag. Retrieved 2022-08-21.
+^ "UTF-8, UTF-16, UTF-32 & BOM". Unicode.org FAQ. Retrieved 2016-12-12.
+^ The Unicode Standard, Version 6.2. The Unicode Consortium. 2013. p. 561. ISBN 978-1-936213-08-5.
+^ Davis, Mark (2008-05-05). "Moving to Unicode 5.1". Retrieved 2021-02-19.
+^ "Usage Survey of Character Encodings broken down by Ranking". w3techs.com. Retrieved 2023-01-16.
+^ "Usage Statistics and Market Share of US-ASCII for Websites, October 2021". w3techs.com. Retrieved 2020-11-01.
+^ B. Curtin (July 1999). Internationalization of the File Transfer Protocol. doi:10.17487/RFC2640. RFC 2640. Retrieved 2022-08-17.
+^ H. Alvestrand (January 1998). IETF Policy on Character Sets and Languages. doi:10.17487/RFC2277. BCP 18. RFC 2277. Retrieved 2022-08-17.
+^ Pike, Rob (2003-04-30). "UTF-8 history".
+^ "ISO/IEC JTC1/SC 18/WG 9 N" (PDF). Retrieved 2012-06-04.
+^ Hedley, Jonathan (2009). "Unicode Lookup".
+^ Milde, Benjamin (2011). "Unicode Character Recognition".
+^ J. Klensin; Y. Ko (July 2007). Overview and Framework for Internationalized Email. doi:10.17487/RFC4952. RFC 4952. Retrieved 2022-08-17.
+^ J. Klensin; Y. Ko (February 2012). Overview and Framework for Internationalized Email. doi:10.17487/RFC6530. RFC 6530. Retrieved 2022-08-17.
+^ J. Yao; W. Mao (February 2012). SMTP Extension for Internationalized Email. doi:10.17487/RFC6531. RFC 6531. Retrieved 2022-08-17.
+^ A. Yang; S. Steele; N. Freed (February 2012). Internationalized Email Headers. doi:10.17487/RFC6532. RFC 6532. Retrieved 2022-08-17.
+^ C. Newman; A. Gulbrandsen; A. Melnikov (June 2008). Internet Message Access Protocol Internationalization. doi:10.17487/RFC5255. RFC 5255. Retrieved 2022-08-17.
+^ R. Gellens; C. Newman (February 2010). POP3 Support for UTF-8. doi:10.17487/RFC5721. RFC 5721. Retrieved 2022-08-17.
+^ Wood, Alan. "Setting up Windows Internet Explorer 5, 5.5 and 6 for Multilingual and Unicode Support". Alan Wood. Retrieved 2012-06-04.
+^ "Extensible Markup Language (XML) 1.1 (Second Edition)". Retrieved 2013-11-01.
+^ Bigelow, Charles; Holmes, Kris (September 1993). "The design of a Unicode font" (PDF). Electronic Publishing. 6 (3): 292.
+^ "Fonts and keyboards". Unicode Consortium. 2017-06-28. Retrieved 2019-10-13.
+^ A Brief History of Character Codes, Steven J. Searle, originally written 1999, last updated 2004
+^ a b Topping, Suzanne (2013-06-25). "The secret life of Unicode". IBM. Archived from the original on 2013-06-25. Retrieved 2023-03-20.
+^ "Noto CJK fonts". Noto Fonts. 2023-02-18. Select this deployment format if your system supports variable fonts and you prefer to use only one language, but also want full character coverage or the ability to language-tag text to use glyphs that are appropriate for the other languages (this requires an app that supports language tagging and the OpenType 'locl' GSUB feature).
+^ Preuss, Ingo. "OpenType Feature: locl - Localized Forms". preusstype.com.
+^ 
+AFII contribution about WAVE DASH, "An Unicode vendor-specific character table for japanese". 2011-04-22. Archived from the original on 2011-04-22. Retrieved 2019-05-20.
+^ ISO 646-* Problem, Section 4.4.3.5 of Introduction to I18n, Tomohiro KUBOTA, 2001
+^ "Arabic Presentation Forms-A" (PDF). Retrieved 2010-03-20.
+^ "Arabic Presentation Forms-B" (PDF). Retrieved 2010-03-20.
+^ "Alphabetic Presentation Forms" (PDF). Retrieved 2010-03-20.
+^ "Proposal on Tibetan BrdaRten Characters Encoding for ISO/IEC 10646 in BMP" (PDF). 2002-12-02.
+^ Umamaheswaran, V. S. (2003-11-07). "Resolutions of WG 2 meeting 44" (PDF). Resolution M44.20.
+^ "Character Encoding Stability". www.unicode.org.
+^ a b "Unicode Technical Note #27: Known Anomalies in Unicode Character Names". unicode.org. 2021-06-14.
+^ "Unicode chart: "actually this has the form of a lowercase calligraphic p, despite its name"" (PDF).
+^ "Misspelling of BRACKET in character name is a known defect" (PDF).
+^ a b "Unicode Standard Annex #24: Unicode Script Property". The Unicode Consortium. 2021. 2.2 Relation to ISO 15924 Codes. Retrieved 2022-04-29.
+^ "Scripts-15.0.0.txt". The Unicode Consortium. 2022. Retrieved 2022-09-16.
+^ "UTR #36: Unicode Security Considerations". unicode.org.
+^ Boucher, Nicholas; Shumailov, Ilia; Anderson, Ross; Papernot, Nicolas (2022). "Bad Characters: Imperceptible NLP Attacks". 2022 IEEE Symposium on Security and Privacy (SP). San Francisco, CA, USA: IEEE. pp. 1987–2004. arXiv:2106.09898. doi:10.1109/SP46214.2022.9833641. ISBN 978-1-6654-1316-9. S2CID 235485405.
+^ Engineering, Spotify (2013-06-18). "Creative usernames and Spotify account hijacking". Spotify Engineering. Retrieved 2023-04-15.
+^ Wheeler, David A. (2020). "Countermeasures". Initial Analysis of Underhanded Source Code: 4–1.
+^ "UTR #36: Unicode Security Considerations". unicode.org. Retrieved 2022-06-27.
+^ Boucher, Nicholas; Anderson, Ross. "Trojan Source: Invisible Vulnerabilities" (PDF). Retrieved 2021-11-02.
+^ "Visual Studio Code October 2021". code.visualstudio.com. Retrieved 2021-11-11.
+Further reading[edit]
+Julie D. Allen. The Unicode Standard, Version 6.0, The Unicode Consortium, Mountain View, 2011, ISBN 9781936213016, (Unicode 6.0.0).
+The Complete Manual of Typography, James Felici, Adobe Press; 1st edition, 2002. ISBN 0-321-12730-7
+The Unicode Standard, Version 3.0, The Unicode Consortium, Addison-Wesley Longman, Inc., April 2000. ISBN 0-201-61633-5
+The Unicode Standard, Version 4.0, The Unicode Consortium, Addison-Wesley Professional, 27 August 2003. ISBN 0-321-18578-1
+The Unicode Standard, Version 5.0, Fifth Edition, The Unicode Consortium, Addison-Wesley Professional, 27 October 2006. ISBN 0-321-48091-0
+Unicode Demystified: A Practical Programmer's Guide to the Encoding Standard, Richard Gillam, Addison-Wesley Professional; 1st edition, 2002. ISBN 0-201-70052-2
+Unicode Explained, Jukka K. Korpela, O'Reilly; 1st edition, 2006. ISBN 0-596-10121-X
+Unicode: A Primer, Tony Graham, M&T books, 2000. ISBN 0-7645-4625-2.
+Haralambous, Yannis; Martin Dürst (2019). "Unicode from a Linguistic Point of View". In Haralambous, Yannis (ed.). Proceedings of Graphemics in the 21st Century, Brest 2018. Brest: Fluxus Editions. pp. 167–183. doi:10.36824/2018-graf-hara1. ISBN 978-2-9570549-1-6.
+External links[edit]
+Unicode  at Wikipedia's sister projects
+Media from CommonsTextbooks from Wikibooks
+Unicode, Inc.
+Unicode Technical Site
+The Unicode Standard
+Unicode Character Code Charts
+Alan Wood's Unicode Resources –  contains lists of word processors with Unicode capability; fonts and characters are grouped by type; characters are presented in lists, not grids.
+Unicode at Curlie
+Unicode BMP Fallback Font – displays the Unicode 6.1 value of any character in a document, including in the Private Use Area, rather than the glyph itself.
+The World's Writing Systems, all 294 known writing systems with their Unicode status (131 not yet encoded as of 2023[update])
+vteUnicodeUnicode
+Unicode Consortium
+ISO/IEC 10646 (Universal Character Set)
+Versions
+Code points
+Block
+List
+Universal Character Set
+Character charts
+Character property
+Plane
+Private Use Area
+CharactersSpecial purpose
+BOM
+Combining grapheme joiner
+Left-to-right mark / Right-to-left mark
+Soft hyphen
+Variant form
+Word joiner
+Zero-width joiner
+Zero-width non-joiner
+Zero-width space
+Lists
+Characters
+CJK Unified Ideographs
+Combining character
+Duplicate characters
+Numerals
+Scripts
+Spaces
+Symbols
+Halfwidth and fullwidth
+Alias names and abbreviations
+Whitespace characters
+ProcessingAlgorithms
+Bidirectional text
+Collation
+ISO/IEC 14651
+Equivalence
+Variation sequences
+International Ideographs Core
+Comparison
+BOCU-1
+CESU-8
+Punycode
+SCSU
+UTF-1
+UTF-7
+UTF-8
+UTF-16/UCS-2
+UTF-32/UCS-4
+UTF-EBCDIC
+On pairs ofcode points
+Combining character
+Compatibility characters
+Duplicate characters
+Equivalence
+Homoglyph
+Precomposed character
+list
+Z-variant
+Variation sequences
+Regional indicator symbol
+Emoji skin color
+Usage
+Domain names (IDN)
+Email
+Fonts
+HTML
+entity references
+numeric references
+Input
+International Ideographs Core
+Related standards
+Common Locale Data Repository (CLDR)
+GB 18030
+ISO/IEC 8859
+ISO 15924
+Related topics
+Anomalies
+ConScript Unicode Registry
+Ideographic Research Group
+International Components for Unicode
+People involved with Unicode
+Han unification
+Scripts and symbols in UnicodeCommon and inherited scripts
+Combining marks
+Diacritics
+Punctuation marks
+Spaces
+Numbers
+Modern scripts
+Adlam
+Arabic
+Armenian
+Balinese
+Bamum
+Batak
+Bengali
+Bopomofo
+Braille
+Buhid
+Burmese
+Canadian Aboriginal
+Chakma
+Cham
+Cherokee
+CJK Unified Ideographs (Han)
+Cyrillic
+Deseret
+Devanagari
+Geʽez
+Georgian
+Greek
+Gujarati
+Gunjala Gondi
+Gurmukhi
+Hangul
+Hanifi Rohingya
+Hanja
+Hanunuoo
+Hebrew
+Hiragana
+Javanese
+Kanji
+Kannada
+Katakana
+Kayah Li
+Khmer
+Lao
+Latin
+Lepcha
+Limbu
+Lisu (Fraser)
+Lontara
+Malayalam
+Masaram Gondi
+Mende Kikakui
+Medefaidrin
+Miao (Pollard)
+Mongolian
+Mru
+N'Ko
+Nag Mundari
+New Tai Lue
+Nüshu
+Nyiakeng Puachue Hmong
+Odia
+Ol Chiki
+Osage
+Osmanya
+Pahawh Hmong
+Pau Cin Hau
+Pracalit (Newa)
+Ranjana
+Rejang
+Samaritan
+Saurashtra
+Shavian
+Sinhala
+Sorang Sompeng
+Sundanese
+Syriac
+Tagbanwa
+Tai Le
+Tai Tham
+Tai Viet
+Tamil
+Tangsa
+Telugu
+Thaana
+Thai
+Tibetan
+Tifinagh
+Tirhuta
+Toto
+Vai
+Wancho
+Warang Citi
+Yi
+Ancient andhistoric scripts
+Ahom
+Anatolian hieroglyphs
+Ancient North Arabian
+Avestan
+Bassa Vah
+Bhaiksuki
+Brāhmī
+Carian
+Caucasian Albanian
+Coptic
+Cuneiform
+Cypriot
+Cypro-Minoan
+Dives Akuru
+Dogra
+Egyptian hieroglyphs
+Elbasan
+Elymaic
+Glagolitic
+Gothic
+Grantha
+Hatran
+Imperial Aramaic
+Inscriptional Pahlavi
+Inscriptional Parthian
+Kaithi
+Kawi
+Kharosthi
+Khitan small script
+Khojki
+Khudawadi
+Khwarezmian (Chorasmian)
+Linear A
+Linear B
+Lycian
+Lydian
+Mahajani
+Makasar
+Mandaic
+Manichaean
+Marchen
+Meetei Mayek
+Meroitic
+Modi
+Multani
+Nabataean
+Nandinagari
+Ogham
+Old Hungarian
+Old Italic
+Old Permic
+Old Persian cuneiform
+Old Sogdian
+Old Turkic
+Old Uyghur
+Palmyrene
+ʼPhags-pa
+Phoenician
+Psalter Pahlavi
+Runic
+Sharada
+Siddham
+Sogdian
+South Arabian
+Soyombo
+Sylheti Nagri
+Tagalog (Baybayin)
+Takri
+Tangut
+Ugaritic
+Vithkuqi
+Yezidi
+Zanabazar Square
+Notational scripts
+Duployan
+SignWriting
+Symbols, emojis
+Cultural, political, and religious symbols
+Currency
+Control Pictures
+Mathematical operators and symbols
+List by subject
+Phonetic symbols (including IPA)
+Emoji
+ Category: Unicode
+ Category: Unicode blocks
+vteCharacter encodingsEarly telecommunications
+Telegraph code
+Needle
+Morse
+Non-Latin
+Wabun/Kana
+Chinese
+Cyrillic
+Korean
+Baudot and Murray
+Fieldata
+ASCII
+ISO/IEC 646
+BCDIC
+Teletex and Videotex/Teletext
+T.51/ISO/IEC 6937
+ITU T.61
+ITU T.101
+World System Teletext
+background
+sets
+Transcode
+ISO/IEC 8859
+Approved parts
+-1 (Western Europe)
+-2 (Central Europe)
+-3 (Maltese/Esperanto)
+-4 (North Europe)
+-5 (Cyrillic)
+-6 (Arabic)
+-7 (Greek)
+-8 (Hebrew)
+-9 (Turkish)
+-10 (Nordic)
+-11 (Thai)
+-13 (Baltic)
+-14 (Celtic)
+-15 (New Western Europe)
+-16 (Romanian)
+Abandoned parts
+-12 (Devanagari)
+Proposed but not approved
+KOI-8 Cyrillic
+Sámi
+Adaptations
+Welsh
+Barents Cyrillic
+Estonian
+Ukrainian Cyrillic
+Bibliographic use
+MARC-8
+ANSEL
+CCCII/EACC
+ISO 5426
+5426-2
+5427
+5428
+6438
+6862
+National standards
+ArmSCII
+BraSCII
+CNS 11643
+DIN 66003
+ELOT 927
+GOST 10859
+GB 2312
+GB 12345
+GB 12052
+GB 18030
+HKSCS
+ISCII
+JIS X 0201
+JIS X 0208
+JIS X 0212
+JIS X 0213
+KOI-7
+KPS 9566
+KS X 1001
+KS X 1002
+LST 1564
+LST 1590-4
+PASCII
+Shift JIS
+SI 960
+TIS-620
+TSCII
+VISCII
+VSCII
+YUSCII
+ISO/IEC 2022
+ISO/IEC 8859
+ISO/IEC 10367
+Extended Unix Code / EUC
+Mac OS Code pages("scripts")
+Armenian
+Arabic
+Barents Cyrillic
+Celtic
+Central European
+Croatian
+Cyrillic
+Devanagari
+Farsi (Persian)
+Font X (Kermit)
+Gaelic
+Georgian
+Greek
+Gujarati
+Gurmukhi
+Hebrew
+Iceland
+Inuit
+Keyboard
+Latin (Kermit)
+Maltese/Esperanto
+Ogham
+Roman
+Romanian
+Sámi
+Turkish
+Turkic Cyrillic
+Ukrainian
+VT100
+DOS code pages
+437
+668
+708
+720
+737
+770
+773
+775
+776
+777
+778
+850
+851
+852
+853
+855
+856
+857
+858
+859
+860
+861
+862
+863
+864
+865
+866
+867
+868
+869
+897
+899
+903
+904
+932
+936
+942
+949
+950
+951
+1034
+1040
+1042
+1043
+1044
+1098
+1115
+1116
+1117
+1118
+1127
+3846
+ABICOMP
+CS Indic
+CSX Indic
+CSX+ Indic
+CWI-2
+Iran System
+Kamenický
+Mazovia
+MIK
+IBM AIX code pages
+895
+896
+912
+915
+921
+922
+1006
+1008
+1009
+1010
+1012
+1013
+1014
+1015
+1016
+1017
+1018
+1019
+1046
+1124
+1133
+Windows code pages
+CER-GS
+932
+936 (GBK)
+950
+1169
+Extended Latin-8
+1250
+1251
+1252
+1253
+1254
+1255
+1256
+1257
+1258
+1270
+Cyrillic + Finnish
+Cyrillic + French
+Cyrillic + German
+Polytonic Greek
+EBCDIC code pages
+37
+Japanese language in EBCDIC
+DKOI
+DEC terminals (VTx)
+Multinational (MCS)
+National Replacement (NRCS)
+French Canadian
+Swiss
+Spanish
+United Kingdom
+Dutch
+Finnish
+French
+Norwegian and Danish
+Swedish
+Norwegian and Danish (alternative)
+8-bit Greek
+8-bit Turkish
+SI 960
+Hebrew
+Special Graphics
+Technical (TCS)
+Platform specific
+1052
+1053
+1054
+1055
+1056
+1057
+1058
+Acorn
+Adobe Standard
+Adobe Latin 1
+Amstrad CPC
+Apple II
+ATASCII
+Atari ST
+BICS
+Casio calculators
+CDC
+Compucolor 8001
+Compucolor II
+CP/M+
+DEC RADIX 50
+DEC MCS/NRCS
+DG International
+Fieldata
+GEM
+GSM 03.38
+HP Roman
+HP FOCAL
+HP RPL
+SQUOZE
+LICS
+LMBCS
+MSX
+NEC APC
+NeXT
+PETSCII
+SAM Coupé
+Sega SC-3000
+Sharp calculators
+Sharp MZ
+Sinclair QL
+Symbol
+Teletext
+TI calculators
+TRS-80
+Ventura International
+WISCII
+XCCS
+ZX80
+ZX81
+ZX Spectrum
+Unicode / ISO/IEC 10646
+UTF-1
+UTF-7
+UTF-8
+UTF-16
+UTF-32
+UTF-EBCDIC
+GB 18030
+DIN 91379
+BOCU-1
+CESU-8
+SCSU
+TACE16
+Comparison of Unicode encodings
+TeX typesetting system
+Cork
+LY1
+OML
+OMS
+OT1
+Miscellaneous code pages
+ABICOMP
+ASMO 449
+Big5
+Digital encoding of APL symbols
+ISO-IR-68
+ARIB STD-B24
+HZ
+IEC-P27-1
+INIS
+7-bit
+8-bit
+ISO-IR-169
+ISO 2033
+KOI
+KOI8-R
+KOI8-RU
+KOI8-U
+Mojikyō
+SEASCII
+Stanford/ITS
+TRON
+Unified Hangul Code
+Control character
+Morse prosigns
+C0 and C1 control codes
+ISO/IEC 6429
+JIS X 0211
+Unicode control, format and separator characters
+Whitespace characters
+Related topics
+CCSID
+Character encodings in HTML
+Charset detection
+Han unification
+Hardware code page
+MICR code
+Mojibake
+Variable-length encoding
+ Character sets
+Authority control: National 
+Germany
+Israel
+United States
+Czech Republic
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Unicode&oldid=1173195085"
+Categories: UnicodeCharacter encodingDigital typographyHidden categories: Articles with short descriptionShort description is different from WikidataUse Oxford spelling from September 2022Use dmy dates from March 2023Official website different in Wikidata and WikipediaAll articles lacking reliable referencesArticles lacking reliable references from May 2021Articles containing potentially dated statements from 2022All articles containing potentially dated statementsArticles containing Arabic-language textPages using multiple image with auto scaled imagesArticles containing potentially dated statements from 2023All articles with unsourced statementsArticles with unsourced statements from November 2022Wikipedia articles needing clarification from April 2010Articles containing Thai-language textArticles with unsourced statements from July 2011Articles with Curlie linksArticles with GND identifiersArticles with J9U identifiersArticles with LCCN identifiersArticles with NKC identifiers
+ This page was last edited on 31 August 2023, at 21:51 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

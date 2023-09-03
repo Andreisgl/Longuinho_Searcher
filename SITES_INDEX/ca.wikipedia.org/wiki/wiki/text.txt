@@ -1,0 +1,187 @@
+Wiki - Viquipèdia, l'enciclopèdia lliure
+Vés al contingut
+Menú principal
+Menú principal
+mou a la barra lateral
+amaga
+Navegació
+PortadaArticle a l'atzarArticles de qualitat
+Comunitat
+Portal viquipedistaAgenda d'actesCanvis recentsLa tavernaContacteXatDonatiusAjuda
+Llengües
+En aquest projecte Viquipèdia, els enllaços de llengua són a dalt de la pàgina a l'altre costat del títol. Vés a dalt.
+Cerca
+Cerca
+Crea un compteInicia la sessió
+Eines personals
+ Crea un compte Inicia la sessió
+Pàgines per a editors no registrats més informació
+ContribucionsDiscussió per aquest IP
+Contingut
+mou a la barra lateral
+amaga
+Inici
+1Història
+2Característiques
+Commuta la subsecció Característiques
+2.1Pàgines i edició
+2.2Codi font estàndard
+2.3Creació de vincles i enllaços
+2.4Control de canvis
+2.5Vandalisme
+3Programari utilitzat
+4Confiança en els continguts
+5Referències
+6Vegeu també
+7Enllaços externs
+Commuta la taula de continguts.
+Commuta la taula de continguts.
+Wiki
+143 llengües
+АԥсшәаAfrikaansAlemannischAragonésالعربيةمصرىঅসমীয়াAsturianuAzərbaycancaБашҡортсаBoarischŽemaitėškaБеларускаяБеларуская (тарашкевіца)БългарскиBanjarBamanankanবাংলাBrezhonegBosanskiБуряадCebuanoکوردیCorsuČeštinaЧӑвашлаCymraegDanskDeutschZazakiΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiVõroNa Vosa VakavitiFøroysktFrançaisArpetanFurlanGaeilgeKriyòl gwiyannenGalegoHausaעבריתहिन्दीHrvatskiKreyòl ayisyenMagyarՀայերենInterlinguaBahasa IndonesiaIgboIlokanoГӀалгӀайÍslenskaItalianoᐃᓄᒃᑎᑐᑦ / inuktitut日本語La .lojban.JawaქართულიTaqbaylitҚазақшаಕನ್ನಡ한국어KurdîКыргызчаLatinaLëtzebuergeschLingua Franca NovaLimburgsLombardLietuviųLatviešuMalagasyMinangkabauМакедонскиമലയാളംМонголमराठीBahasa MelayuMaltiမြန်မာဘာသာNāhuatlPlattdüütschNedersaksiesनेपालीNederlandsNorsk nynorskNorsk bokmålNouormandOccitanਪੰਜਾਬੀPangasinanPolskiΠοντιακάPortuguêsRuna SimiRomânăРусскийРусиньскыйसंस्कृतम्SarduSicilianuScotsSrpskohrvatski / српскохрватскиၽႃႇသႃႇတႆး සිංහලSimple EnglishSlovenčinaSlovenščinaSoomaaligaShqipСрпски / srpskiSundaSvenskaKiswahiliதமிழ்తెలుగుТоҷикӣไทยTagalogTürkçeТатарча / tatarçaУкраїнськаاردوOʻzbekcha / ўзбекчаTiếng ViệtWinaray吴语ХальмгმარგალურიייִדישYorùbá中文文言Bân-lâm-gú粵語
+Modifica els enllaços
+PàginaDiscussió
+català
+MostraMostra el codiMostra l'historial
+Eines
+Eines
+mou a la barra lateral
+amaga
+Accions
+MostraMostra el codiMostra l'historial
+General
+Què hi enllaçaCanvis relacionatsPàgines especialsEnllaç permanentInformació de la pàginaCitau aquest articleElement a Wikidata
+Imprimeix/exporta
+Crear un llibreBaixa com a PDFVersió per a impressora
+En altres projectes
+CommonsMeta-Wiki
+De la Viquipèdia, l'enciclopèdia lliure
+Les pàgines d'un wiki es poden editar des del mateix navegador que s'estan visualitzant.
+Un wiki (del hawaià wikiwiki, «ràpid»)[1] és un lloc web col·laboratiu que pot ser editat des del navegador pels usuaris. Els usuaris d'un wiki poden d'aquesta manera crear, modificar, enllaçar i esborrar el contingut d'una pàgina web, de forma interactiva, fàcil i ràpida. Un dels wikis més coneguts és la Wikipedia.[2]
+Els projectes wiki tenen normalment historials amb totes les modificacions que s'han fet dels seus continguts. D'aquesta manera se'n poden veure totes les versions i recuperar informació eliminada o desfer edicions vandàliques, ja que els canvis s'apliquen normalment a l'instant, sense que cap mena d'usuari de confiança o administrador els haja de revisar i confirmar abans. Tanmateix, si el vandalisme és excessiu, es poden protegir les pàgines wiki per tal d'impedir que ningú o només una part d'usuaris les puga editar.
+Fins ara, els sistemes wiki deuen la seua fama sobretot a la creació d'enciclopèdies col·lectives com la Viquipèdia. Les característiques dels wikis els converteixen en una eina efectiva per a l'escriptura col·laborativa, i cada vegada són més usats en empreses i comunitats com a webs i intranets econòmiques i eficaces per a la gestió del coneixement. Molts projectes són oberts al públic en general, accessibles per a qualsevol que disposi de connexió a Internet, i permeten fer edicions sense cap mena de filtre previ.
+Wiki-Wiki Bus a l'aeroport de Honolulu
+Ward Cunningham va crear, el 25 de març del 1995, el primer wiki, anomenat WikiWikiWeb (el nom prové del «wiki wiki bus», l'autobús llançadora de l'aeroport de Honolulu)[3] i el descrigué com «la base de dades en línia més simple que probablement pot funcionar».[4]
+Història
+L'origen dels wikis és a la comunitat de patrons de disseny, els integrants de la qual els van utilitzar per escriure i discutir patrons de programació. El primer wiki el va crear Ward Cunningham el 25 de març del 1995 per als dipòsits de patrons de Portland, i es va dir WikiWikiWeb (el nom prové del «wiki wiki bus», l'autobús llançadora de l'aeroport de Honolulu).[3] Cunningham el va descriure com «la base de dades en línia més simple que probablement pot funcionar».[4][5]
+El gener de 2001, els fundadors del projecte d'enciclopèdia Nupedia, Jimbo Wales i Larry Sanger, van decidir utilitzar un wiki com a base per al projecte d'enciclopèdia Wikipedia, que posteriorment s'adaptaria al català amb el nom "Viquipèdia". Originalment es va usar el programari UseMod, però després van crear un programari propi, MediaWiki, que ha estat adoptat després per molts altres wikis.
+Actualment, el wiki més gran que existeix és la versió en anglès de la Viquipèdia, seguida per diverses altres versions del projecte. Els wikis aliens a la Viquipèdia són molt més petits i amb menor participació d'usuaris, generalment a causa del fet de ser molt més especialitzats. És molt freqüent per exemple la creació de wikis per a proveir amb adocumentació diferents programes informàtics, especialment els desenvolupats en programari lliure.
+En març del 2007, l'Oxford English Dictionary va acceptar el terme wiki en la seva versió en línia.[6]
+Característiques
+La principal utilitat d'un wiki és que permet crear i millorar les pàgines de forma instantània, donant una gran llibertat a l'usuari, i per mitjà d'una interfície molt simple. Això fa que més gent participi en la seva edició, a diferència dels sistemes tradicionals on resulta més difícil que els usuaris del lloc contribuïsquen a millorar-lo.
+Ward Cunningam i Bo Leuf van definir la base dels wikis al seu llibre The Wiki Way: Quick Collaboration on the Web amb aquestos tres punts:
+Un wiki invita els usuaris a modificar o crear qualsevol pàgina des de la mateixa pàgina web i navegador, sense cap programari addicional.
+Un wiki, mitjançant els enllaços interns, connecta pàgines relacionades de manera fàcil i intuïtiva, i mostra si la pàgina a què s'enllaça ja s'ha creat o encara no.
+Un wiki no està pensat només per a visitants esporàdics, sinó que busca que aquestos s'impliquen en la seua creació i col·laboren en els canvis constants que el modifiquen.
+La velocitat per a crear i actualitzar pàgines wiki és una de les seves característiques. Normalment no es fan revisions abans d'acceptar els canvis i moltes wikis permeten que el públic les edite sense obrir comptes d'usuari prèviament, encara que sovint es recomana fer-ho per accedir a algunes característiques addicionals.
+La velocitat per a editar, la possibilitat que tothom puga fer-ho i la publicació instantània dels canvis fan que les pàgines wiki evolucionen ràpidament adquirint informació o actualitzant-se si fan referència a un tema d'actualitat, com ara biografies de persones vives. També existeixen les edicions vandàliques, que intencionadament introdueixen errades o suprimeixen informació. Aquestes poden ser revertides ràpidament des de l'historial de la pàgina wiki per a restaurar la versió anterior.[7]
+Pàgines i edició
+En un wiki tradicional existeixen tres representacions per cada pàgina:
+El "codi font", que poden editar els usuaris. És el format emmagatzemat localment al servidor. Normalment és text pla, només és visible per l'usuari quan ho mostra l'operació «Edita».
+Una plantilla (de vegades generada internament) que defineix la disposició i elements comuns de totes les pàgines.
+El codi HTML, generat en temps real pel servidor a partir del codi font cada vegada que un usuari accedeix a la pàgina.
+L'aprenentatge del codi font s'afavoreix mitjançant un llenguatge de marques simplificat per a fer diverses convencions visuals i estructurals. Per exemple, l'ús de l'asterisc en començar una línia de text significa, en la Viquipèdia, que es generarà una llista no numerada d'elements. L'estil i la sintaxi poden variar en funció de cada wiki, i algunes d'aquestes (o algunes de les seues marques) també accepten etiquetes HTML. Tanmateix, aquest s'intenta evitar perquè la seua complexitat no és fàcil de llegir ni d'editar per a usuaris no tècnics. En conseqüència, es promou l'edició en text pla amb convencions per a l'estructura i l'estil fàcils de comprendre.
+De vegades és beneficiós que els usuaris no puguin usar certes funcionalitats que l'HTML permet, com ara JavaScript, CSS i XML. D'aquesta manera s'aconsegueix consistència en la visualització, així com més seguretat per a l'usuari. En moltes wikis, per exemple, un hipervincle s'insereix exactament tal com es mostra a la barra de direccions del navegador web, al contrari del que passa a l'HTML.
+Codi font estàndard
+Durant anys, el codi font estàndard de facto va ser la sintaxi del WikiWikiWeb original. Actualment les instruccions de formatació són diferents depenent del motor del wiki. Els wikis simples permeten només formatació de text bàsic, mentre que altres més complexos poden suportar imatges, fórmules i fins i tot altres elements més interactius tals com enquestes i jocs. A causa de la dificultat d'usar diverses sintaxis, s'estan fent esforços per definir un estàndard de marcat.
+Sintaxi MediaWiki
+Equivalent HTML
+Resultat
+"Pren una mica més de [[te]]," va dir amablement la Llebre de Març a Alícia."Encara no n'he pres," va respondre Alícia ofesa: "així que no en puc prendre més.""Vols dir que no en pots prendre ''menys''," va dir la Llebre: "és molt fàcil prendre'n ''més'' que gens."
+<p>"Pren una mica més de <a href="/wiki/Te" 
+title="te">te</a>," va dir amablement la Llebre de Març 
+a Alícia.</p>
+<p>"Encara no n'he pres," va respondre Alícia ofesa: 
+"així que no en puc prendre més."</p>
+<p>"Vols dir que no en pots prendre <i>menys</i>," va 
+dir la Llebre: "és molt fàcil prendre'n <i>més</i> que 
+gens."</p>
+"Pren una mica més de te," va dir amablement la Llebre de Març a Alícia.
+"Encara no n'he pres," va respondre Alícia ofesa: "així que no en puc prendre més."
+"Vols dir que no en pots prendre menys," va dir la Llebre: "és molt fàcil prendre'n més que gens."
+(Traducció de la versió anglesa d'Alícia en terra de meravelles de Lewis Carroll)
+Creació de vincles i enllaços
+Els wikis són un autèntic medi per a l'hipertext, amb estructures de navegació no lineal. Cada pàgina conté un gran nombre de vincles a altres pàgines. En les grans wikis hi ha les pàgines de navegació jeràrquica, normalment a conseqüència del procés de creació original, però no és necessari usar-les. Els vincles s'usen amb una sintaxi específica, el «patró de vincles». En la Viquipèdia, per exemple, en escriure entre dobles claudàtors ([[exemple]]), crea un enllaç a l'article amb eixe nom.
+Originalment la major part de wikis feien servir un sistema per a crear vincles anomenat CamelCase, que consisteix a escriure frases sense espais i posant la primera lletra de cada paraula en majúscula (per exemple, la paraula «CamelCase»). Aquest mètode és molt senzill, però fa que els enllaços s'escriguin d'una manera que es desvia de l'escriptura estàndard. Els wikis basats en CamelCase es distingeixen instantàniament pels enllaços que tenen noms com ara: «TaulaDeContinguts» o «PreguntesFreqüents». En conseqüència, van començar a desenvolupar-se altres solucions.
+Quan l'enllaç creat no existeix, sovint s'indica amb un color que indica que aquest està trencat i, si es segueix, l'usuari pot crear la pàgina o l'article corresponent. Aquest sistema intenta evitar la creació de pàgines òrfenes (no enllaçades des de cap altre lloc de la wiki) i manté un nivell alt de connectivitat.
+Control de canvis
+Els wikis solen dissenyar-se amb la filosofia d'augmentar la facilitat per a corregir les errades, i no la de reduir la dificultat de cometre'ls. Els wikis són molt oberts, però tot i així proporcionen maneres de verificar la validesa dels últims canvis al contingut de les pàgines. En gairebé tots els wikis hi ha una pàgina concreta, «Canvis recents», que enumera les edicions més recents d'articles, o una llista amb els canvis fets durant un període. Les pàgines de Canvis recents d'alguns wikis tenen la possibilitat d'amagar les edicions menors o fetes per bots,[8] per a facilitar el control de l'evolució de la pàgina.
+Des del registre de canvis hi ha normalment altres funcions: l'«Historial de revisió» mostra versions anteriors de la pàgina, on es poden comparar les diferències entre edicions. Usant l'historial, un editor pot veure i restaurar una versió anterior de l'article, o recuperar informació esborrada d'una edició anterior si escau. Quan la diferència entre dues versions empitjora el resultat de l'article o la pàgina, l'edició desitjada es pot desfer ràpidament.[9]
+En cas que les edicions inacceptables es passin per alt en la pàgina de «Canvis recents», alguns motors de wiki proporcionen un control de contingut addicional; els usuaris poden crear una llista de pàgines personalitzada que vigilaran, i cada vegada que s'hi produeixin canvis reben un avís, el que els permet verificar ràpidament la validesa de les noves edicions.[10]
+Alguns wikis permeten que usuaris "de confiança", que ja porten un temps col·laborant en el projecte, puguen marcar edicions com a "patrullades", confirmant que no són vandàliques. També hi ha wikis que implementen un sistema de "validació d'edicions"; fins que aquestes no són revisades, no es publiquen.[11]
+Vandalisme
+Consisteix a fer edicions que esborren contingut important, introdueixen errors, agreguen contingut inapropiat o ofensiu (per exemple, insults) o simplement incompleixen flagrantment les normes del wiki de manera intencionada. En la majoria dels casos el vandalisme el produeixen usuaris no registrats o anònims. També són freqüents els intents de spam o manipulació en general, per exemple:
+La introducció d'enllaços en un wiki amb l'objectiu de pujar als cercadors d'Internet (vegeu PageRank).
+Els intents de publicitar-se o fer proselitisme (de la seva ideologia, religió o d'altres) a través del wiki.
+Ingressar material que viola drets d'autor.
+Algunes solucions que s'utilitzen per lluitar contra el vandalisme són:
+Revertir ràpidament els seus canvis.
+Bloquejar temporalment l'usuari o l'adreça IP, de tal manera que no puguin continuar editant. Aquesta solució es veu dificultada per les IPs dinàmiques i l'ús de proxies oberts, que, en ser bloquejats, poden afectar també persones innocents. Per aquest motiu normalment els bloquejos no són permanents.
+Protegir les pàgines més vandalitzades.
+No permetre que editin pàgines usuaris que no estiguin registrats en la wiki.
+En casos extrems (generalment, atacs per mitjà d'eines automàtiques), bloquejar la base de dades del wiki, sense permetre cap tipus d'edició.
+Programari utilitzat
+Logotip de MediaWiki, un dels programes wiki més populars.
+El programari és aquell que permet fer funcionar els wikis, mostrant el contingut i permetent-ne l'edició. El programari wiki va ser el WikiWikiWeb, creat per Ward Cunningham el 1994 i llançat a c2.com el 1995.[12] Més tard en van anar apareixent d'altres, com per exemple MediaWiki que fa funcionar, entre altres, els projectes de la Fundació Wikimedia. El programari es diferencia segons com emmagatzema les dades; el MediaWiki, per exemple, emmagatzema les dades en una base de dades. Altres, com PMWiki ho fan en model de taula.
+Alguns factors de la tria del programari en ús acadèmic inclouen el cost, complexitat, control o característiques. Sovint es diu que el fet que molts programes wiki no tinguin editors de fórmules o missatgeria instantània és un obstacle per la utilitat en obra acadèmica.[13] Alguns dels programes wiki més utilitzats són Foswiki, MoinMoin, Tiki Wiki CMS Groupware, XWiki, DokuWiki, i MediaWiki.[14][15] TWiki, Traction TeamPage i Atlassian Confluence són populars en intranets.
+Els Wikis es poden implementar com a "granges wiki" (wiki farms), en què un servidor conté múltiples wikis independents. En són exemples coneguts PBwiki, Socialtext, Wetpaint, i Wikia. En alguns casos hi ha granges privades, amb contrasenya. Tanmateix, les granges gratuïtes acostumen a contenir publicitat a cada pàgina.
+Confiança en els continguts
+Els crítics dels sistemes wiki oberts, sostenen que aquests sistemes es poden manipular fàcilment, mentre els defensors sostenen que la comunitat d'usuaris pot detectar el contingut falsejat i corregir-lo.[2] Lars Aronsson, un especialista de sistemes, resumeix la controvèrsia de la següent manera:
+«
+La majoria de persones, quan senten parlar per primer cop del concepte wiki, assumeixen que un lloc web que pot ser editat per qualsevol es convertirà aviat en un web inútil a causa de l'aportació de dades destructives. És com si s'oferissin pots d'esprai gratuïts prop d'una paret grisa. L'únic resultat probable serien grafits lletjos i marques simples, i molts dels esforços artístics no arribarien gaire lluny. Tot i això, sembla que funcioni molt bé.[16]
+»
+Referències
+↑ «Hawaiian Words; Hawaiian to English» mauimapp.com Consultat el 21 d'octubre del 2010 (anglès)
+↑ 2,0 2,1  "wiki", Encyclopædia Britannica, 2007
+↑ 3,0 3,1 Cunningham, Ward. «Correspondence on the Etymology of Wiki» (en anglès).   Cunningham & Cunningham, Inc., 2005. [Consulta: 7 juny 2009].
+↑ 4,0 4,1 Ward Cunningham's original description of Wiki Arxivat 2008-04-16 a Wayback Machine..
+↑ «The simplest online database that could possibly work» www.plidesign.co.uk (anglès)
+↑ Diamond, Graeme; March 2007 new words, Oxford English Dictionary, Oxford University Press[Enllaç no actiu], [Consulta: 2 de novembre del 2010] (anglès)
+↑ MNK Boulos, I Maramba, S Wheeler «Wikis, blogs and podcasts: a new generation of Web-based tools for virtual collaborative clinical practice and education». BMC medical education. BMC Medical Education, 6, 2006, p. 41. DOI: 10.1186/1472-6920-6-41.
+↑ Ebersbach, Anja (2008), Wiki: Web Collaboration, Springer Science+Business Media, pàgina 54, ISBN 3540351507 (anglès)
+↑ Ebersbach, Anja (2008), Wiki: Web Collaboration, Springer Science+Business Media, pàgina 178, ISBN 3540351507 (anglès)
+↑ Ebersbach, Anja (2008), Wiki: Web Collaboration, Springer Science+Business Media, pàgina 109, ISBN 3540351507 (anglès)
+↑ Goldman, Eric, Wikipedia's Labor Squeeze and its Consequences, 8, Journal on Telecommunications and High Technology Law (anglès)
+↑ The Wiki Way. Quick collaboration on the Web, Addison-Wesley (April 2001) ISBN 020171499X
+↑ L Schwartz, S Clark, M Cossarin, J Rudolph. Educational Wikis: features and selection criteria.  The International Review of Research in Open and Distance Learning, 2004. 
+↑ «Google Trends». [Consulta: 17 desembre 2017].
+↑ «Corporate Wiki Users: Results of a Survey» (PDF). Arxivat de l'original el 2012-05-04. [Consulta: 28 gener 2008].
+↑  Richard Heigl, Markus Glaser, Anja Ebersbach(2006), p.10.
+Vegeu també
+Treball col·laboratiu
+MediaWiki, el programari de la Viquipèdia.
+TiddlyWiki, programari personal lliure per a wikis.
+TikiWiki, sistema de gestió de continguts de caràcter col·laboratiu.
+Wikispaces, espais d'edició wiki.
+Fandom (abans Wikia), allotjament de wikis.
+Enllaços externs
+En altres projectes de Wikimedia:
+Commons
+Commons (Galeria) 
+Commons
+Commons (Categoria) 
+Viccionari
+Viccionari 
+WikiWikiWeb (anglès)
+TikiWiki (anglès) - El programari lliure pels teus wikis i moltes altres funcionalitats enllaçades més
+TiddlyWiki - Wiki portàtil (anglès)
+Registres d'autoritat
+BNF  (1)
+GND  (1)
+LCCN  (1)
+NKC  (1)
+Obtingut de «https://ca.wikipedia.org/w/index.php?title=Wiki&oldid=32376736»
+Categoria: WikisCategories ocultes: Pàgines amb errors de marcatge de sintaxiArticles amb la plantilla Webarchive amb enllaç waybackArticles amb enllaços externs no actius des de 2023Pàgines amb enllaç commonscat des de WikidataControl d'autoritats
+ La pàgina va ser modificada per darrera vegada el 23 ago 2023 a les 03:22.
+El text està disponible sota la  Llicència de Creative Commons Reconeixement i Compartir-Igual; es poden aplicar termes addicionals.
+Vegeu les Condicions d'ús.
+Wikipedia® (Viquipèdia™) és una marca registrada de Wikimedia Foundation, Inc.
+Política de privadesa
+Quant al projecte Viquipèdia
+Descàrrec de responsabilitat
+Codi de conducta
+Versió per a mòbils
+Desenvolupadors
+Estadístiques
+Declaració de cookies
+Commuta la limitació d'amplada del contingut

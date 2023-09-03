@@ -1,0 +1,126 @@
+Disionario de Elefen
+Elefen •
+    Gramatica •
+    Spelador •
+    Xercador vea
+Disionario
+Elefen •
+    Gramatica •
+    Spelador
+Disionario de Elefen
+La disionario usa JavaScript per funsiona, ma JavaScript no es disponable en tua surfador.
+Clui
+Bonveni a Xercan, un util per esplora la vocabulo elefen con rapidia tigrin!
+      
+Fundal …
+Xercan responde direta pos cada letera cual tu tape en la caxa.
+        Normal, lo lista la parolas cual comensa con la testo cual tu ia tape.
+        Ma tu pote fa otra demandas par ajunta alga sinias spesial. Esta sinias es descriveda en la resta de esta panel, con esemplos clicable. (Proba! -tri)
+        Regretable, si tu xerca un parola xines, esta sinias spesial no es suportada a presente. Xercas per sinias xines trova los en cualce parte de un parola.
+        
+Teclas …
+Presa la tecla ↵ Entra o la tecla Esc per reveni a la caxa de tape pos rola la resultas. ↵ Entra eleje ance tua testo ja tapeda.
+En loca de clica Aida per revela esta panel, tu pote presa la tecla A, probable combinada con un o du otra teclas, dependente de tua surfador. Presa Esc per clui esta panel.
+        
+Parolas cual comensa con …
+tri trova la parolas cual comensa con tri, en elefen o tua lingua elejeda, incluinte tri mesma, triste e – si tua lingua es engles – trickle. “Parolas” es separada no sola par spasios ma ance par ifenes (-) e sinias de elidi (').
+,tri trova la espresas (de un o plu parolas) cual comensa con tri, en elefen o tua lingua elejeda, incluinte tricota, trigo dur (ma no tera de trigo), e – si tua lingua es engles – trip over (ma no take a trip). (En tua lingua elejeda, la espresas es separada par virgulas o punto-virgulas.)
+Parolas cual fini con …
+-tri trova la parolas cual fini con tri, incluinte tri mesma, filtri e – si tua lingua es engles – centri-.
+Parolas cual conteni …
+?tri trova la parolas cual conteni tri, incluinte distrito e – si tua lingua es engles – electric.
+Si on prefere, on pote usa la sinia > en loca: >tri.
+        
+Parolas esata …
+tri. trova esata la parola tri en elefen o tua lingua elejeda.
+Afisas deduida …
+Xercan es ance capas de deriva alga formas de parolas – plurales de nomes; ajetivos derivada de verbos par la prefisas -nte, -da e -able; e ajetivos e verbos con la prefisa non-: pares.
+        Lo pote dedui an plurales de partisipios negativa: nonrojidas.
+        Esta funsiona es disponable sola per parolas simple, cual conteni sola leteras minor.
+        Per supresa esta, tape % a la comensa de tua xerca: %pares. Lo es ance supresada si la terma fini con . (per trova un parola esata) o usa cualce de la sinias spesial - ? > / \.
+        
+Eleje de linguas …
+Normal, la xercador trova egal parolas en elefen e la lingua cual tu ia eleje en la menu su la caxa de tape. A presente, tu ia eleje tua lingua elejeda.
+        Ma tu pote restrinje tua xercas a sola un lingua par ajunta un braseta ronda:
+        (tri – o, egal, tri( – xerca sola en elefen.
+)tri – o, egal, tri) – xerca sola en tua lingua elejeda.
+Alga linguas disponable ancora no ave traduis per tota parolas elefen. Cuando la xercador trova no tradui, lo mostra la tradui engles en loca.
+        Si tu cambia tua lingua elejeda, tu va vide la frase “Mostra traduis ance en [la lingua(s) vea]”. Si tu no deseleje la lingua(s) vea en acel frase, cualce traduis disponable en los va es ajuntada a la resultas de tua xercas seguente. Nota ce, an tal, la sistem va trova parolas sola en elefen o tua lingua presente.
+        
+Leteras major e sinietas …
+Normal, sola leteras e dijitos es considerada, e la xerca no distingui leteras major.
+Leteras con sinietas es simplida (ä = a, é = e, œ = oe), etc.
+Tu pote tape o la letera con sinieta o la forma simple, con resultas egal.
+!Tri o tri- o tré trova esata acel formas. Tota la testo pos ! es xercada en modo esata.
+Xerca par categoria …
+n;tri trova nomes cual comensa con tri.
+        T;d; trova tota verbos transitiva derivada.
+        La categorias suportada es:
+          a; ajetivo |
+          A; averbo |
+          b; prenomal |
+          c; conjunta |
+          C; corti |
+          d; derivada |
+          D; determinante |
+          e; esclama |
+          E; espresa |
+          i; inisial minor en elefen |
+          I; inisial major en elefen |
+          j; plural |
+          J; nom-ajetivo |
+          L; verbo liante |
+          m; pronom |
+          n; nom |
+          N; verbo nontransitiva |
+          P; prefisa |
+          p; preposada |
+          r; radis |
+          s; sujunta |
+          S; sufisa |
+          t; preverbal |
+          T; verbo transitiva |
+          v; verbo |
+          V; verbo-nom |
+          w; ajetivo reusada como nom |
+          W; verbo reusada como nom |
+          x; simbol |
+          X; afisa tecnical |
+          z; con zero traduis disponable en tua lingua elejeda.
+        
+Xerca par campo …
+D:tri trova tri en la definis de parolas.
+        P: trova tota entradas cual indica un pronunsia.
+        La campos suportada es:
+          A: ance |
+          D: defini |
+          G: gramatica |
+          I: imaje |
+          N: nota |
+          P: pronunsia |
+          Q: capital |
+          S: simbol |
+          T: tasonomia |
+          U: usa |
+          V: vide |
+          X: apendis mitolojial.
+Funsionas spesial …
+.tri trova la radises cual comensa con tri – per esemplo tribu e triste – e mostra tota informas sur los e sua derivadas. Lo no trova la parola elefen tri (⅓), car esta es derivada de la radis tre.
+#tri produi mera un lista bruta de parolas elefen, sin traduis o otra informas.
+/[dt]ris xerca un regex – un motif de sinias, trovante en esta esemplo la parolas cual conteni dris o tris. Si tu vole ce la regex distingui leteras major, usa \[dt]ris en loca.
+Combinas de sinias …
+Tu pote combina la sinias spesial: .tre. (tota informas sur la radis esata tre e sua derivadas); (-spa (parolas elefen cual fini con spa); )?eur (parolas cual conteni eur en tua lingua elejeda). Esperimenta! ☺
+Alga esemplos plu avansada: .?fre mostra tota informas sur radises elefen cual conteni la silaba fre; (r;/^[dt]ru lista la radises cual comensa con dru o tru; #z;b lista la parolas elefen cual comensa con b e ave ancora no tradui en tua lingua elejeda.
+Pronunsia …
+La pronunsia de cada parola es indicada entre baras inclinada, usante la spele elefen per la plu de sonas.
+En parolas de plu ca un silaba, la vocal de la silaba asentuada es sulinida.
+/k/ representa la sona de la letera c, e la simbol /ŋ/ representa la sona velal de n en la combinas ng e nc. Per esemplo, la pronunsia de banco es mostrada como /baŋko/.
+/y/ e /w/ representa la sonas de la leteras i e u cuando los es semivocal, forminte un diftongo con la vocal visina. Per claria, cuando un i o un u es a lado de un otra vocal ma no formi un diftongo, la du vocales es separada par un ifen en la indica de pronunsia – per esemplo /pro-ibi/*.
+Pronunsias cual no segue esata la regulas normal es segueda par un stela. Xerca P: per lista tota de los.
+Lias …
+Si tu ajunta ?lingua=xx a la adirije ueb de Xercan, lo va carga sua vocabulo en la lingua xx, per esemplo de per deutx, en per engles o fr per franses. Asi es un esemplo espaniol.
+Si tu ajunta ?terma=parola a la adirije, Xercan va xerca la parola indicada. La "lia a esta xerca", cual apare a la comensa de la resultas de cada xerca, es de esta tipo.
+Tu pote fa ambos ajuntas en la mesma lia, usante un bretsel & per separa los: ?lingua=xx&terma=parola. Asi es un esemplo cual xerca la parola franses écran.
+        
+Statistica …
+Aida

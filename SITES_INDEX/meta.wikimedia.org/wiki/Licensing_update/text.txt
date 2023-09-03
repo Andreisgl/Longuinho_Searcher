@@ -1,0 +1,110 @@
+Licensing update/ia - Meta
+Licensing update/ia
+From Meta, a Wikimedia project coordination wiki
+< Licensing update
+Jump to navigation
+Jump to search
+Le votation super le actualisation del licentia ha terminate.Le resultato ha essite publicate. Nota ben que alcun paginas non reflecte ancora le resultato e pote esser obsolete. Omne assistentia con traductiones continua a esser multo appreciate.
+IMPORTANT NOTE: The text below is a volunteer-written translation of the English original. It may be out of date, incomplete or incorrect. When in doubt, please refer to the English original, or help to improve the translation.
+Other languages:
+English · Afrikaans · Alemannisch · Alemannisch · Bahasa Indonesia · bosanski · català · čeština · dansk · Deutsch · English · español · français · hrvatski · interlingua · italiano · magyar · Nederlands · norsk bokmål · polski · português · română · slovenčina · suomi · Tiếng Việt · Türkçe · Ελληνικά · български · русский · српски / srpski · українська · ไทย · 한국어 · 日本語 · 中文 · 中文（简体） · 中文（繁體） · العربية · فارسی
+Actualisation de licentia
+Shortcut: LU/ia
+Le Consilio de Administration del Fundation Wikimedia invita le communitate de Wikimedia a votar super iste proposition a licentiar le materiales de Wikimedia pro render los disponibile sub le licentia Creative Commons Attribution-ShareAlike (CC-BY-SA), mantenente le licentia duple con le Licentia GNU pro Documentation Libere (GFDL). Le Consilio ha evalutate le optiones possible de licentias pro le materiales de Wikimedia, e crede que iste proposition es le melior option disponibile pro attinger nostre objectivo commun a colliger, disveloppar e disseminar materiales educative, e render los disponibile a tote le mundo, gratuitemente, in perpetuitate.
+Specificamente, le Fundation Wikimedia propone emendar le terminos de licentia e de uso in tote le sitos e projectos como seque:
+render tote le contento actualmente distribuite sub le Licentia GNU pro Documentation Libere (con le clausula "o alcun version plus recente") additionalmente disponibile sub CC-BY-SA 3.0, como explicitemente permittite per le ultime version del GFDL;
+requirer le continuation del licentia duple de nove modificationes del communitate in iste maniera, permittente totevia le contento exclusivemente CC-BY-SA de tertie personas (nonobstante, le contento exclusivemente GFDL de tertie personas non es plus permittite);
+informar le reusatores que le contento con informationes importate con licentia CC-BY-SA exclusive non pote esser usate sub GFDL.
+In ultra, como es consistente con le politica e practica in vigor, e como es consistente con le licentia CC-BY-SA, le autores e redactores essera requirite a consentir a esser recognoscite per le reusatores; al minimo, isto essera facite per un hyperligamine o un adresse URL verso le articulo al qual illes contribue.
+Per favor vide Licensing update/Questions and Answers/ia pro un explication plus complete. Contribuer traductiones
+Actualisation del licentia
+Proposition
+Questiones e responsas
+Contra-argumentos
+Comparation de licentias
+Comité
+Agenda
+Traduction
+Resultato
+Implementation
+Outreach
+Project Transitions
+ This box: view · talk · edit 
+Contents
+1 Motivation
+2 Processo de decision
+2.1 Suffragio
+2.2 Processo de votation
+3 Conditiones de uso proponite
+Motivation[edit]
+Le motivationes fundamental de iste cambio proponite es como seque:
+Nos non pote actualmente transferer texto (in alcun direction) inter nos e le projectos que usa le licentias Creative Commons Attribution/Share-Alike. Le licentias de Creative Commons es usate per centos de milles de autores in tote le mundo (vide statisticas), habente rapidemente devenite le instrumento legal le plus diffundite pro liberar le derectos super obras non software. Iste barriera de interoperabilitate con altere organisationes sin scopo lucrative e communitates in linea que divulga liberemente lor cognoscentias es ergo contra le mission de Wikimedia.
+Le GFDL include alcun provisiones potentialmente onerose, como le requisito de includer le texto complete del licentia in cata copia. Iste requisitos impedi le reuso de texto e de multimedia (le versiones parlate o imprimite de articulos, impressiones de imagines, etc.). Wikimedia es dedicate al dissemination le plus general possibile del cognoscentia libere. Ben que nostre conditiones de uso ha sempre volite minimisar le barrieras contra reuso, lor inconsistentia con le texto del licentia resulta in timor, incertitude e dubitas quanto al legalitate de isto. Illos avantagia le reusatores que pote tolerar le expensa del consilio e recerca legal super illes que non lo pote. Isto es contra le mission de Wikimedia.
+Le actualisation de licentia proponite es projectate pro augmentar le interoperabilitate e reuso de cognoscentia libere in tote le mundo in le servicio de nostre vision: un mundo in le qual cata esser human pote participar liberemente in le summa de omne cognoscentia. 
+Processo de decision[edit]
+Suffragio[edit]
+Le communitate de Wikimedia decidera per medio de un voto si iste cambiamento essera implementate. Tote le usatores (excludente robotes) que ha facite al minus 25 modificationes a qualcunque projecto de Wikimedia ante le 15 de martio 2009 es benvenite a participar in iste voto.
+Processo de votation[edit]
+Le voto habera tres optiones:
+Si, io es in favor de iste cambiamento
+No, io me oppone a iste cambiamento
+Io non ha un opinion super iste cambiamento
+Si minus de 50% del votatores que exprime un preferentia supporta le cambiamento, illo non essera immediatemente implementate, e il sequera ulterior consultationes al nivellos del Consilio e del communitate.
+Si 50% o plus del votatores que exprime un preferentia supporta le cambiamento, illo essera submittite al Consilio de Administration pro approbation. Dependente del resultato del voto e del natura del objectiones, le Consilio pote eliger a deliberar ulteriormente, modificar le proposition, o implementar lo tal qual. Si le Consilio approba le proposition, illo definira un data specific pro implementation.
+Le voto comenciava le 12 de april 2009 e finiva le 3 de maio 2009. Un agenda provisori se trova a Licensing update/Timeline/ia.
+Durante e ante le voto, le commentos pote esser lassate a Talk:Licensing update/ia. 
+Conditiones de uso proponite[edit]
+Iste conditiones de uso essera implementate in tote le sitos que al presente usa le GFDL:
+Le pede del sito essera modificate pro dicer:
+Tote le texto es disponibile sub le licentia Creative Commons Attribution/Share-Alike. Le texto pote equalmente esser disponibile sub le Licentia GNU pro Documentation Libere. Vide ((ligamine al politica de copyright)) pro ulterior detalios. Vide le historia del pagina pro un lista del autores. Le files multimedia es disponibile sub altere licentias; clicca super cata file pro ulterior informationes.
+Le conditiones in le schermo de modification essera modficate pro dicer:
+Per submitter un modification, tu te declara de accordo de liberar tu contribution secundo le conditiones del licentia Creative Commons Attribution/Share-Alike License e del Licentia GNU pro Documentation Libere. Le reusatores essera requirite a recognoscer te, al minimo, per un hyperligamine o adresse URL verso le articulo al qual tu contribue, e tu te declara de accordo que tal recognoscentia es sufficiente in omne medio de communication. Vide ((ligamine al politica de copyright)) pro detalios. Si tu non vole que tu scripto sia modificate impietosemente e redistribuite a voluntate, alora non lo submitte hic. In addition, tu nos garanti que tu es le autor de isto, o que tu lo ha copiate de un ressource a dominio public o alteremente libere de derectos. NON SUBMITTE MATERIAL SUBJECTE A COPYRIGHT SIN AUTORISATION EXPRESSE.
+Un politica standard super le copyright essera providite, que es pro traducer litteralmente in altere linguas. Ultra le texto de ambe licentias, le politica includera le sequente expectationes pro le reusatores (directivas pro uso sub CC- BY-SA):
+Attribution de texto: Pro redistribuer un pagina de articulo in qualcunque forma, tu debe recognoscer le autores per includer a) un hyperligamine (ubi possibile) o adresse URL verso le articulo o articulos que tu reusa, b) un hyperligamine (ubi possibile) o adresse URL verso un copia alternative, stabile e liberemente accessibile, que es conforme con le licentia, e que recognosce le autores in un maniera equivalente al recognoscentia date in iste sito web, o c) un lista de tote le autores. (Omne lista de autores pote esser filtrate pro excluder le contributiones multo micre o irrelevante.)
+Attribution de multimedia: Le multimedia (imagines, sono, video, etc.) que esseva create per collaborationes substantial inter al minus cinque personas pote esser recognoscite del mesme modo que texto; altere files multimedia debe esser attribuite in omne maniera reationabile specificate per le contributor(es).
+Attribution de contento externalmente contribuite: Le requisitos prementionate de attribution es applicabile al contento disveloppate e cargate per le communitate de Wikimedia. Le contributiones textual e multimedial que proveni de origines externe pote esser accompaniate de requisitos additional super le attribution del obra, le quales nos tentara specificar clarmente a te.
+Copyleft/Share e Share Alike: Si tu face modificationes o additiones al pagina o obra que tu reusa, tu debe licentiar los sub le licentia Creative Commons Attribution-Share-Alike 3.0 o plus recente.
+Indicar cambiamentos: Si tu face modificationes o additiones, tu debe indicar de un modo rationabile que le obra original ha essite modificate. Si tu reusa le pagina in un wiki, per exemplo, il suffice indicar isto in le historia del pagina.
+Pro ulterior informationes, per favor consulta le codice legal del licentia CC-BY-SA.
+Le politica de copyright includera le sequente declaration concernente le inclusion de contento per tertie personas sub le licentia CC-BY-SA:
+Tu pote importar qualcunque texto ab altere origines que es solmente disponibile sub le licentia CC-BY-SA, mesmo si illo non es disponibile sub le Licentia GNU pro Documentation Libere. Tu es nullemente obligate de obtener tal contento etiam sub GFDL. Nonobstante, tu non pote importar texto que es disponibile solmente sub GFDL. Si tu importa texto sub le licentia CC-BY-SA, tu debe obedir al terminos del licentia; specificamente, tu debe, de un modo rationabile, recognoscer le autor(es). Ubi tal recognoscentia es normalmente date per le historias de paginas (p.ex. le copiar inter wikis), il suffice dar attribution in le summario del modification, le qual es registrate in le historia del pagina, quando tu importa le contento.
+Le politica de copyright includera le sequente declaration concernente le reuso sub GFDL:
+Si tu vole reusar paginas sub le conditiones del Licentia GNU pro Documentation Libere, tu debe verificar, pro cata pagina que tu reusa, que illo non include informationes exclusivemente licentiate sub le licentia Creative Commons Attribution/Share-Alike. Isto debe esser notate in le historia del pagina, in le pede, o in le pagina de discussion. Si tal informationes es includite, tu non pote reusar le pagina sub GFDL. Le versiones create ante le ((data del actualisation del licentia)) pote esser rationabilemente expectate de non includer alcun texto exclusivemente CC-BY-SA.
+Le formulation de iste conditiones pote esser rationabilemente modificate in le futuro per le Fundation Wikimedia pro le scopos de claritate e de elaboration.
+Finalmente, nos incoragiara le communitate a identificar le files multimedia presentemente licentiate sub GFDL (sed non illos licentiate sub "GFDL 1.2 solmente") como esser additionalmente disponibile sub CC-BY-SA.
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Licensing_update/ia&oldid=10005637"
+Category: Licensing update/ia
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Content pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+In other languages
+Add links
+ This page was last edited on 25 September 2014, at 21:37.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

@@ -1,0 +1,560 @@
+Wikisource:Scriptorium/Octobre 2013 - Wikisource
+Wikisource:Scriptorium/Octobre 2013
+La bibliothèque libre.
+< Wikisource:Scriptorium
+Aller à la navigation
+Aller à la recherche
+Questions
+ 
+Raccourci [+]
+WS:S
+Choix éditoriaux Contenu des livres, mise en page, typographie, etc.
+Questions techniques Utilisation de Wikisource, de la syntaxe d'édition, de l'interface.
+Questions légalesDroits d'auteurs sur les livres et questions juridiques.
+Questions sur les Glyphes & caractèresCodage et représentation des glyphes et caractères.
+Scriptorium (Mois en cours, Archives, discussion générale en anglais)Pour laisser un message qui ne concerne pas les cas cités.
+Communauté : Forum des nouveaux - Annonces - Projets - Actualités - Newsletter technique - Pages à supprimer
+Lancer une nouvelle discussion
+Aller à la fin de la page
+Sommaire
+1 Octobre 2013
+1.1 Notifications
+1.2 Candidature au statut d'administrateur
+1.2.1 Qui peut voter ?
+1.3 Speak up about the trademark registration of the Community logo.
+1.4 Akathistos
+1.5 Edmond Haraucourt 1
+1.6 Edmond Haraucourt 2
+1.7 Dictionnaire raisonné de l’architecture française du XIe au XVIe siècle/Arc-boutant avec des liens vers wikipedia et le wiktionnaire à la fin de l’article
+1.8 Sondage Wikisourcien
+1.9 Succès de Wikisource sur les stands Wikimédia France
+1.10 Question sur la transclusion des revues
+1.11 Pillage des textes
+1.12 Livre:Leroux_-_L'Epouse_du_Soleil.djvu
+1.13 Liste des textes où il manque quelques pages à valider pour passer dans la catégorie terminé
+1.14 Faciliter les choses pour les nouveaux
+1.15 Nouveau contributeur : comment changer le titre d'une page d'un ouvrage ?
+1.16 Archivage des « Questions techniques »
+1.17 Les Amours jaunes
+1.18 Annonce : Lexiconcours 2013
+1.19 Un chiffre rond
+1.20 Les Travailleurs de la mer
+1.21 Trouble in Canterbury
+1.22 Diner et scanneur de livres
+1.23 Epub Wikisource sur Kobo
+1.24 Libre de droit ?
+1.25 Problème d'import djvu
+1.26 Tester le nouveau moteur de recherche
+1.27 Page en numéroté en noir
+1.28 Après-midi contributive à Rennes le 24 novembre
+1.29 Support par Wikidata le 13 janvier
+1.30 L'abréviation discrète ne l'est plus
+1.31 Écriture ronde
+1.32 téléchargement epub sur mobile
+1.33 Une autre petite liste
+1.34 Sous-page /Présentation
+1.35 Modèle:Iwpage et Modèle:Lang
+Octobre 2013[modifier]
+Notifications[modifier]
+Notifications inform you of new activity that affects you -- and let you take quick action.
+(This message is in English, please translate as needed)
+Greetings!  
+Notifications will inform users about new activity that affects them on this wiki in a unified way: for example, this new tool will let you know when you have new talk page messages, edit reverts, mentions or links -- and is designed to augment (rather than replace) the watchlist. The Wikimedia Foundation's editor engagement team developed this tool (code-named 'Echo') earlier this year, to help users contribute more productively to MediaWiki projects. 
+We're now getting ready to bring Notifications to almost all other Wikimedia sites, and are aiming for a 22 October deployment, as outlined in this release plan. It is important that notifications is translated for all of the languages we serve.  
+There are three major points of translation needed to be either done or checked:
+Echo on translatewiki for user interface - you must have an account on translatewiki to translate
+Thanks on translatewiki for user interface - you must have an account on translatewiki to translate
+Notifications help on mediawiki.org.  This page can be hosted after translation on mediawiki.org or we can localize it to this Wikipedia.  You do not have to have an account to translate on mediawiki, but single-user login will create it for you there if you follow the link.
+Checklist
+Please let us know if you have any questions, suggestions or comments about this new tool. For more information, visit this project hub and this help page. Keegan (WMF) (talk) 4 octobre 2013 à 18:33 (UTC)Répondre[répondre]
+(via the Global message delivery system) (wrong page? You can fix it.)
+Si j'ai bien compris (corrigez-moi sinon), au lieu de notifications simples vous avez du courrie (lien), nous recevrons des notifications plus précises : un-tel vous a dit merci (lien), un-tel a parlé de vous (lien), un-tel a réverté votre modification (lien)… : et cela devrait se généraliser dans les projets wikimedia d'ici le 22 octobre si tout se passe bien. --Zyephyrus (d) 5 octobre 2013 à 07:07 (UTC)Répondre[répondre]
+Candidature au statut d'administrateur[modifier]
+Bonjour,
+Je propose ma candidature. Les votes se déroulent ici.
+Cordialement, --Acélan (d) 5 octobre 2013 à 14:12 (UTC)Répondre[répondre]
+Zyeph m'a donné le balai, je tâcherai d'en faire bon usage. Merci à tous pour votre confiance. Amicalement, --Acélan (d) 12 octobre 2013 à 06:18 (UTC)Répondre[répondre]
+Qui peut voter ?[modifier]
+En reprenant les conditions utilisées antérieurement :
+Pour pouvoir participer au vote, il faut 
+1° être un utilisateur inscrit, 
+2° ne pas être un robot, 
+3° avoir fait au moins 300 modifications sur la Wikisource francophone avant le 1er août 2013, dont au moins  20 modifications entre le 1er mai et le 31 juillet 2013.
+4° ne pas être soi-même candidat.
+Ces conditions restent-elles correctes ? Vos avis ?
+--Zyephyrus (d) 7 octobre 2013 à 16:59 (UTC)Répondre[répondre]
+Salut, personnellement, je ne vois pas en quoi le fait d'être soi-même candidat est un problème, étant donné que les candidats administrateurs ne sont pas en compétition les uns contre les autres… mais, bon, si ce sont les règles fixées antérieurement… de toutes façons, je crois qu'Acélan est le seul candidat à l'heure actuelle… allez voter, s'il vous plaît… son boulot en vaut la peine :) --Hélène (d) 8 octobre 2013 à 13:36 (UTC)Répondre[répondre]
+PS : ouf, j'ai eu peur de ne pas pouvoir voter, vu que je n'ai presque rien fait entre juin et septembre… mais 20 contributions, ça va vite… , heureusment… --Hélène (d) 8 octobre 2013 à 13:39 (UTC)Répondre[répondre]
+Je trouve ridicule ses 20 contributions entre le 1er mai et le 31 juillet, déjà dans la période définie, il y a un mois de vacances. Bon je vais allé vérifier si j’ai le droit de vote. --Le ciel est par dessus le toit (d) 9 octobre 2013 à 08:00 (UTC). Ben non, je peux pas voter il me semble. Alors Acélan, je ne peux que te soutenir dans ta candidature, et espère ton élection.--Le ciel est par dessus le toit (d) 9 octobre 2013 à 08:06 (UTC)Répondre[répondre]
+Merci, Le ciel ; mais apparemment, tu as plus de 20 contributions pour la période en question, si je ne m'abuse ? --Acélan (d) 9 octobre 2013 à 12:09 (UTC)Répondre[répondre]
+On compte quoi comme contributions ? sur quel type de pages ? --Le ciel est par dessus le toit (d) 9 octobre 2013 à 16:37 (UTC) oups j’avais oublié de signer !Répondre[répondre]
+ça n'est pas plus précisé que le reste, à vrai dire... --Acélan (d) 9 octobre 2013 à 16:24 (UTC)Répondre[répondre]
+Pareil pour moi, slmt 12 contrib dans la période indiquée. Et c'est la première fois depuis des années que je laisse si longtemps WS... Bonne chance Acélan ! --Acer11 (d) 9 octobre 2013 à 08:58 (UTC)Répondre[répondre]
+Bonjour. Pour les non-initiés qui pourraient voter, quelles sont les conditions pour que Acélan devienne administrateur ? Si j'ai bien compris il ne s'agit pas d'une élection où celui qui a le plus de voix emporte le poste. Combien lui faut-il d'avis favorables ?  Peut-on voter contre ( - simple question formelle  - ) et comment c'est comptabilisé ? Manseng (d) 9 octobre 2013 à 11:54 (UTC)Répondre[répondre]
+Bonjour,
+A vrai dire, je ne sais pas combien il faudrait de voix ; apparemment, ce n'est pas indiqué. Il y a pas mal de flou dans les règles, sans doute parce que Wikisource n'est pas un lieu où il y a beaucoup de conflit. Mais si je n'ai que 5 voix, je retirerai ma candidature : je trouve que c'est un peu court, même si les wikisourciens sont peu nombreux.
+Bien sûr, on peut voter contre. Mais je ne sais pas non plus comment c'est comptabilisé :/
+--Acélan (d) 9 octobre 2013 à 12:09 (UTC)Répondre[répondre]
+La situation actuelle, avec nos meilleurs contributeurs empêchés de voter et/ou découragés de se présenter comme candidats, tandis que des contributeurs non initiés, autorisés à voter, risqueraient d'interpréter assez faussement des résumés de modifications semblables aux échantillons ci-dessous (pris au hasard)
+(afficher/masquer) 8 septembre 2010 à 09:41 (diff | hist) . . (+62)‎ . . Utilisateur:Acer11/Trévoux.js ‎ (" v[aâz][CfiîïjJlrtT\\/1\\(][ce]([s,. ])", " vase$1", à revérifier)
+(afficher/masquer) 8 septembre 2010 à 09:24 (diff | hist) . . (+100)‎ . . Utilisateur:Acer11/Trévoux.js ‎ ("([^s])u(ei|éi|èi|eî|éî|èî|eï|éï|èï|él|èl|èt|ét|6t|ci|cr|tL)i[co]", "$1uctio",) 
+(il en a fait des milliers comme cela !)
+contributeurs qui risqueraient de décider de bloquer de tels vandalismes... je commence à comprendre pourquoi les wikisources que j'ai visités (ceux dont je comprends les langues) n'ont pas créé de règles jusqu'à présent et ont plutôt défendu, comme disait François, un appel à l'intelligence humaine plutôt qu'à une robotisation à outrance. 
+Marc disait, si je me souviens bien, que des règles pourront être établies au fur et à mesure que la nécessité s'en fera sentir. 
+On s'y met maintenant ou est-ce qu'on peut attendre ? Qu'en pensez-vous ? --Zyephyrus (d) 9 octobre 2013 à 14:49 (UTC)Répondre[répondre]
+Je faisais juste cette remarque car on avait un contraste étonnant entre une définition extrêmement précise d'un corps électoral et une absence totale d'indications sur quand, comment, par qui, à quelles conditions, sera prise une décision finale. Je comprends que la règle actuelle est que "un ou plusieurs administrateurs-en-chef" consultent les différents avis et prennent une décision éclairée au bout "d'un certain temps". Personnellement ça me va bien , pour ce que je connais du sujet : je peux juste noter qu'Acélan vu son impressionnante production (70 modifications en moyenne par jour sur 4 ans) doit certainement être le premier à savoir s'il a besoin d'être administrateur et s'il en a les compétences.  Il faut noter que cette procédure relève alors plus d'un recueil d'avis, d'une enquête d'utilité wikisourcienne, que d'un vote proprement dit. Manseng (d) 10 octobre 2013 à 08:26 (UTC)Répondre[répondre]
+Il bosse bien, il bosse beaucoup, il veut bosser encore mieux et encore plus. Qui est contre ?
+PAS MOI Pibewiki (d) 11 octobre 2013 à 22:12 (UTC)Répondre[répondre]
+Comme je ne sais toujours pas si je peux voter car les critères ne me semblent pas pertinents (tant qu’on aura pas répondu à la question sur la qualité, catégorie des modifications prise en compte) je décide de passé outre mes reflexions et vais de ce pas apporter ma voix à Acelan. Quant à la modifications des critères, je propose ceci :
+critère actuel numéro 3 :
+3° avoir fait au moins 300 modifications sur la Wikisource francophone avant le 1er août 20tomatique13, dont au moins  20 modifications entre le 1er mai et le 31 juillet 2013.
+critère proposé :
+3° avoir fait au moins 300 modifications sur la Wikisource francophone avant le 1er août 2013,
+D’autre part notre communauté étant très restreinte, si on commence à mettre des procédures contraignantes on va décourager les bonnes volontés à s’investir sur notre projet. Et quand on travail sur des textes compliqués : ancien français, ocr de mauvaise qualité, pages longues, notes multiples, etc. Faire des poses me paraît un minimum, moi j’avoue que je me décourage souvent et que je dois me forcer à revenir travailler ici, ce qui peut prendre parfois quelques mois. Alors on s’y met à la reflexion sur les critères ?… ou pas ! --Le ciel est par dessus le toit (d) 12 octobre 2013 à 08:47 (UTC)Répondre[répondre]
+Je suis d'accord avec toi ; d'autant qu'il n'y a pas de quorum, ni de règles concernant la répartition des éventuels votes "contre", comme le soulignait Manseng, donc il paraît effectivement curieux d'avoir des règles trop précises concernant une éventuelle absence.
+En tout cas, si on adopte des règles concernant l'absence prolongée (ce qui n'est pas forcément utile), on pourrait les assouplir, dans le genre :
+3° avoir fait au moins 300 modifications sur la Wikisource francophone avant le (1 mois avant la candidature), et avoir contribué depuis le (1 an avant l'année en cours).
+Pour le reste : c'est vrai qu'il est curieux d'avoir des règles aussi peu précises ; mais les réflexions de Zyeph sont pertinentes : en avons-nous besoin ? --Acélan (d) 12 octobre 2013 à 16:10 (UTC)Répondre[répondre]
+Autre échantillon d'application automatique de règles : je ne suis plus administrateur sur Commons, motif : « inactivité »...  :)  — C'est techniquement exact : je n'ai pas eu à supprimer de fichiers djvu ou pdf (raison pour laquelle on m'avait accordé les droits), et il y a eu une quasi-absence de vandalisme sur les fichiers en question ; mais à mon avis ce calme n'aurait pas été obtenu sans que des administrateurs disposent d'outils qui permettent de stopper les vandales en cas d'action de ceux-ci. Je me trompe ? Mon activité ne peut certes se comparer à celle d'Acer11 ci-dessus, mais je ne crois pas, moi non plus, tout à fait mériter de perdre des droits dans une situation que je trouve assez parallèle à ce qui lui est arrivé. Qu'en pensez-vous ? --Zyephyrus (d) 14 février 2014 à 00:29 (UTC)Répondre[répondre]
+Je suis d’accord pour l’assouplissement des règles. Yann (d) 3 novembre 2013 à 10:35 (UTC)Répondre[répondre]
+Speak up about the trademark registration of the Community logo.[modifier]
+Hi all, 
+Please join the consultation about the Community logo that represents Meta-Wiki: m:Community Logo/Request for consultation.
+This community consultation was commenced on September 24. The following day, two individuals filed a legal opposition against the registration of the Community logo.
+The question is whether the Wikimedia Foundation should seek a collective membership mark with respect to this logo or abandon its registration and protection of the trademark. 
+We want to make sure that everyone get a chance to speak up so that we can get clear direction from the community.  We would therefore really appreciate the community's help in translating this announcement from English so that everyone is able to understand it.
+Thanks, 
+Geoff & Yana 8 octobre 2013 à 20:06 (UTC)Répondre[répondre]
+Akathistos[modifier]
+Bonjour,
+J'ai recopié sur la page Akathistos un long texte de prière issue de Wikipédia (w:fr:Akathistos). Est-ce qu'un habitué de Wikisource pourrait apposer les éventuels messages permettant de préciser la liste des auteurs initiaux de Wikipédia (j'ai utilisé un commentaire explicite mais je ne sais pas si cela suffit sur Wikisource).
+Pour la mise en forme je ne sais pas du tout ce qu'il y a à faire non plus.
+Cordialement,
+--Hercule (d) 10 octobre 2013 à 09:30 (UTC)Répondre[répondre]
+Edmond Haraucourt 1[modifier]
+Bonjour
+J'ai relu l'ensemble des poèmes du recueil L'âme nue d'Edmond Haraucourt. 
+J'espère qu'on ne jugera pas trop gênant le fait que je n'aie pas écrit les indications de type "< noinclude>  ...  </noinclude >" dans l'en-tête prévu à cet effet. En effet, j'ai trouvé que l'espace vertical, prévu pour cet en-tête, est trop étroit pour pouvoir en lire d'un seul regard tout le contenu (il faut donc utiliser l'ascenseur de droite dès que l'en-tête fait plus plus d'une ligne) ...
+À présent, il faudrait, si j'ai bien compris (je suis débutant chez wikisource), qu'un autre contributeur se lance dans une seconde lecture.
+D'avance merci à lui !
+Papy77 (d) 10 octobre 2013 à 13:25 (UTC)Répondre[répondre]
+Edmond Haraucourt 2[modifier]
+Par ailleurs, je suis prêt à me lancer dans la relecture d'un recueil de 39 poèmes (qui fut jugé scandaleux à sa première sortie — discrète — en 1882) intitulé La légende des sexes du même Edmond Haraucourt (publié sous le pseudonyme de Le Sire de Chambley) dont on peut trouver ici une version scannée provenant de gallica.
+Il faut noter que cette première édition ne contient pas les dessins érotiques (qui peuvent assurément choquer de jeunes regards ou inquiéter ceux de leurs parents) de Félicien Rops, Nicolas Sternberg, Martin Van Maele et Franz Von Bayros qui ont été publiés dans certaines versions ultérieures, notamment en 1923. 
+Sauf s'il existe, dans la politique éditoriale de wikisource, une réticence vis-à-vis des textes érotiques (ce que je ne crois guère puisque l'on trouve dans wikisource la Justine de Sade ou les Onze mille verges d'Apollinaire), je demande que l'on assure la lecture OCR de ce recueil (à la B.N.F., il est toujours rangé dans L'enfer !...) pour que je puisse me mettre au travail.
+Merci !
+Papy77 (d) 10 octobre 2013 à 13:25 (UTC)Répondre[répondre]
+Dictionnaire raisonné de l’architecture française du XIe au XVIe siècle/Arc-boutant avec des liens vers wikipedia et le wiktionnaire à la fin de l’article[modifier]
+Bizarre, bizarre, n’y aurait-il pas confusion des genres ?
+Une entrée dans le Dictionnaire de Viollet-le-Duc est-elle bien la place pour mettre de tels liens ?
+Il me semble que les liens devraient être plutôt de WP ou du Wiktionnaire vers WS.
+J’ai besoin de votre avis pour savoir quoi faire de cet appendice à l’article, en attendant, je transclus et je le laisse.
+--Marceau (d) 12 octobre 2013 à 15:58 (UTC)Répondre[répondre]
+Après mise à jour avec le modèle {{interprojet}}, selon la syntaxe qui était employée jusqu'à présent,
+{{interprojet|nolink||w=Arc-boutant|wikt=arc-boutant}}
+je m'attendais à retrouver à gauche de l'écran des liens vers Wikipédia et vers le Wiktionnaire, mais au lieu de ce dernier, je vois un lien qui semble pointer vers une page anglophone Wikidata affichant une liste de traductions en différentes langues, mais aucun Wiktionnaire. C'est voulu ? --Zyephyrus (d) 12 octobre 2013 à 19:06 (UTC)Répondre[répondre]
+Je ne comprends pas : je me suis chargé d'établir le fac-simile du dictionnaire pour y rapatrier le texte situé jusque là dans l'espace principal.
+Au moment de remplacer le texte de l'espace principal par sa transclusion à partir du fac-simile, je suis tombé sur cet additif et je me suis demandé ce que je devais en faire.
+Je vois que tu l'a remplacé par interprojet, c'est une bonne chose, mais pourquoi as-tu aussi rétabli la version antérieure non transclue ?
+L'ancien lien vers le Wiktionnaire était bon, je ne vois pas ce que Wikidata vient faire là-dedans, je ne connais rien de ces liens inter-projet générés automatiquement.
+--Marceau (d) 12 octobre 2013 à 19:56 (UTC)Répondre[répondre]
+Je te demande pardon, Marceau, j'avais en effet restauré une version antérieure comparée à l'autre: c'est corrigé.
+Mais l'erreur dans le modèle interprojet quant à elle ne vient pas de moi : l'entrée wikt (wiktionnaire) est apparemment traitée comme s'il y avait wikidata à la place, je ne vois pas ce qui provoque ce bogue car le modèle me paraît normal. Qui comprend ce déplacement ?
+Dés que ce sera réparé (ou expliqué, si c'était volontaire), on pourra reparler, si vous le voulez, de l'usage des liens internes ou externes dans des textes de ce genre, accepté à certaines conditions lors de discussions précédentes. --Zyephyrus (d) 12 octobre 2013 à 21:26 (UTC)Répondre[répondre]
+Pas de problème, je peux donc continuer, si d'autres liens du même genre apparaisssent dans d'autres entrées, je les laisserai en attendant qu'interprojet fonctionne.
+--Marceau (d) 12 octobre 2013 à 22:23 (UTC)Répondre[répondre]
+Code projet du wikitionnaire : wikt et non pas wkt. C'est réparé.
+Nous pouvons maintenant discuter des cas où il paraît justifié d'ajouter des liens dans le texte. Nous avions estimé alors que Viollet-le_Duc avait mis des liens avec les moyens de son époque, et que nous respections son travail en les mettant à jour ; de même pour les renvois d'une lettre à l'autre dans les commentaires de Monmerqué sur les œuvres de Madame de Sévigné, nous avions trouvé que des liens seraient justifiés. Vos avis ? --Zyephyrus (d) 16 octobre 2013 à 11:32 (UTC)Répondre[répondre]
+Il me semblait que la communauté avait établie que les liens hypertextes étaient justifiés pour tout les renvois (qui ne sont rien des liens hypertextes avant l’heure numérique). Personnellement, je trouve aussi pertinent les liens vers les noms d’auteurs ou d’œuvres, particulièrement quand il peut y avoir ambiguïté (eg. un cas récent sur lequel je suis tombé entre le général Charles de Gaulle et son oncle, l’écrivain Charles de Gaulle). Pour le corpus étendu du Portail:Rennes, je place beaucoup de liens (puisque ce corpus est cohérent et même fortement auto-référent). Cdlt, VIGNERON * discut. 17 octobre 2013 à 09:58 (UTC)Répondre[répondre]
+Sondage Wikisourcien[modifier]
+Un sondage a été créé par Aubrey (d · c · b) et Micru (d · c · b) dans le cadre du projet Elaborate Wikisource strategic vision afin de mieux cibler les besoins de Wikisource, en terme d'amélioration du logiciel notamment. L'un des buts est de voir quels sont les améliorations les plus attendues afin peut-être ensuite voir avec la Wikimedia Foundation s'il est possible de mettre de l'argent sur ces projets. Dans cette perspective là, le nombre de réponses est très important pour montrer la réalité des besoins. Ce sondage me sera aussi très utile pour mieux déterminer le futur de ProofreadPage dont je m'occupe. Il est accessible en français ici et est ouvert jusqu'au lundi 28. Il prend moins de 10mn à faire. Si vous pouviez répondre en anglais se serait mieux mais ce n'est pas du tout indispensable. Cela gène-t-il quelqu'un que j'utilise le système de sitenotice (message en haut des pages pour les utilisateurs inscrits) pour en faire la publicité ? Tpt (d) 14 octobre 2013 à 14:21 (UTC)Répondre[répondre]
+J'aurais aimé faire un sondage sur à quoi doit servir le site notice, (l'affichage d'office d'un message en haut de toutes les pages) mais nous avons déjà d'autant plus de pain sur la planche que les outils que nous offrent nos développeurs nous rendent le travail de jour en jour plus facilité et plus améliorable, donc je plaisante :) Non, Tpt, je ne demande pas à Aubrey, Micru, et toi, de faire encore un autre sondage à présent, car je pense que vous en organisez précisément un. Je pense aussi cependant que mes choix ne doivent pas pour autant empêcher d'autres wikisourciens d'exprimer leur désaccord s'ils l'estiment nécessaire, car la multiplicité est à mon avis une des richesses de Wikisource. --Zyephyrus (d) 15 octobre 2013 à 11:05 (UTC)Répondre[répondre]
+Je ne suis pas fan non plus des sitenotice, mais pour une fois qu'une consultation concerne Wikisource, je pense qu'il faut essayer de toucher un maximum de contributeurs.--Acélan (d) 16 octobre 2013 à 16:38 (UTC)Répondre[répondre]
+J'ai mis en place un message dans Mediawiki:Sitenotice. N'hésitez pas à l'améliorer. Cela gène-t-il quelqu'un si on le laisse en place une semaine, c'est à dire jusqu'au 23 octobre, afin de permettre aux contributeurs ne venant que le week-end de le voir ? Tpt (d) 16 octobre 2013 à 19:35 (UTC)Répondre[répondre]
+Succès de Wikisource sur les stands Wikimédia France[modifier]
+Bonjour,
+Les week-ends des 5-6 et des 12-13 octobre, j’ai tenu un stand Wikimédia France (le premier au festival international de géographie à Saint-Dié-des-Vosges et le second à Betton, près de Rennes). Comme d’habitude, beaucoup de curieux ont été attirés par le dépliant Wikisource. Parmi ces curieux, il y a eu plusieurs « professionnels (principalement des enseignants et/ou des chercheurs) qui se servent ou vont se servir de Wikisource. Sinon, Peut-être était-ce du à la présence de la liseuse Kobo de Wikimédia France, on a eu beaucoup de demandes de pouvoir lire hors-ligne les œuvres de Wikisource.
+Cdlt, VIGNERON * discut. 15 octobre 2013 à 07:42 (UTC)Répondre[répondre]
+Bonne nouvelle : un des problèmes majeurs de Wikisource est, me semble-t-il, la méconnaissance du public.
+Tu parles d'un dépliant : où le trouve-t-on ?
+Cordialement, --Acélan (d) 15 octobre 2013 à 11:39 (UTC)Répondre[répondre]
+2009
+2011
+D'autres plus récents ?
+...et aussi ceci :
+Wikisource (6 min 44 sec)
+Wikisource, aide ajout en-tête de page.ogv (27 sec)
+Wikisource, aide pour les césures en fin de page.ogv (1 min 5 sec)
+Wikisource leaflet 2008
+Wikisource leaflet 2009
+Wikisource leaflet
+Wikisource leaflet
+Discussions : projet Wikisource Promotion.
+--Zyephyrus (d) 16 octobre 2013 à 09:40 (UTC)Répondre[répondre]
+Oula, ce sont de bien vieux dépliants que tu as trouvé là Zyeph. Sauf erreur (je ne l’ai plus sous les yeux), il devait s’agir celui-ci : File:Wikisource French leaflet no printing marks.pdf. Sinon la méconnaissance du public ne concerne pas que Wikisource, les autres projets (y compris Wikipédia d’ailleurs) sont aussi concernés, c’est pour cela que je fais des ateliers et que je tiens des stands quasiment tout les mois . Cdlt, VIGNERON * discut. 17 octobre 2013 à 08:44 (UTC)Répondre[répondre]
+Combien avons-nous de textes ? Je n'ose pas dire aux wikisourciens anglophones que le « mot magique » {{NUMBEROFARTICLES}} qui donne sur en.ws 994 642, soit bientôt un million qu'ils espèrent atteindre pour les 10 ans de Wikisource le 24 novembre, donne sur fr.ws le chiffre suivant : 1 416 269 !
+en.ws
+1 457 343 pages
+994 645 articles
+9 162 files
+4 653 928 edits
+870 162 users
+39 admins
+329 active users
+fr.ws
+1 492 915 pages
+1 416 269 articles
+6 895 files
+4 431 470 edits
+37 259 users
+20 admins
+160 active users
+...mais en fait je crois que notre façon de les catégoriser a dû être différente : je doute fortement que nous ayons un nombre de textes à ce point plus considérable que le leur, avec un nombre d'utilisateurs inscrits et de contributeurs actifs si restreint par rapport à eux...   :-)   Vos avis ? --Zyephyrus (d) 17 octobre 2013 à 19:46 (UTC)Répondre[répondre]
+Question sur la transclusion des revues[modifier]
+Pour ce qui est de la transclusion des revues, il me semble que la pratique habituelle est de considérer chaque article ou série d’articles comme une œuvre à part, et donc des les transclure chacun dans une page de l’espace principal. Les pages et sous-pages de la revue ne sont alors utilisés que pour les index et tables. C’est notamment ce qui est fait dans la RDDM et La Nature. 
+Je suis en train de corriger un article du Tour du monde, et il semble que le contributeur original ait fait différemment:les quelques articles existants sont dans des sous-pages de la page de la revue (par exemple). J’ai tenté de le consulter pour avis, sans succès.
+Que faire ? Est-ce que la pratique de transclusion est établie / documentée ? Dois-je déplacer les articles existants dans une page dédiée ? Ou suivre la pratique commencée pour cette revue ?
+Merci de votre avis, 
+--LBE (d) 12 octobre 2013 à 12 : 23 (UTC)
+Pour moi, la structure du « Tour du monde » a l’inconvénient de créer des noms de pages à rallonge : titre de la revue, année, tome ou volume ou N° qui apparaissent dans le nom de page de l’article alors qu’on peut les retrouver dans son « header ».
+Il est plus souple d’attacher l’article à des catégories du genre « Articles de xxxxx » que de changer le nom d’une page si on veut faire évoluer la structure (c’est un des problèmes que j’ai eu en reprenant « L’Homme et la Terre » et que je vois aussi dans le dictionnaire de l’architecture de Viollet-le-Duc ou les entrées étaient des sous-pages des tomes)
+Cette division en tomes ou en n° est une contrainte éditoriale de l’édition papier, le wiki permet de s’en affranchir.
+--Marceau (d) 12 octobre 2013 à 22:52 (UTC)Répondre[répondre]
+Pillage des textes[modifier]
+A la suite de la lecture de cet article que je viens de voir : http://www.actualitte.com/les-maisons/oeuvres-du-domaine-public-ou-le-pillage-du-temple-litteraire-45669.htm (avec ses commentaires, il faut avouer que le catalogue de cette "Culture commune" http://librairie.immateriel.fr/fr/list/editeur-395-culture-commune/page/1/date ou de l'autre citée http://librairie.immateriel.fr/fr/list/editeur-1732-ink-book/page/1/date sont en effet bien indigents, rien que des copies à ce qu'il semble), je me dis qu'il serait peut-être bon que Wikisource créé un ePub regroupant toutes les traductions de Platon par Victor Cousin, si c'est possible. Xavier M (d) 16 octobre 2013 à 20:08 (UTC)Répondre[répondre]
+Cet article et les commentaires disent un peu n’importe quoi (même si il y existe de nombreuses pratiques immorales et/ou illégales, on ne peut pas « piller » de la propriété intellectuelle puisque ce n’est justement pas de la propriété. De plus les pratiques peu scrupuleuses existe depuis des millénaires, rien de nouveaux sous le soleil finalement).
+Tu parles de Livre:Platon - Œuvres, trad. Cousin, I et II.djvu et suivant ? Avant de créer un ePub complet, il faudrait commencer par corriger toutes les pages (le travail est déjà bien avancé mais il reste encore pas mal de boulot ; serait-ce une occasion de relancer le Wikisource:Projets communautaires ? bloqué depuis mai…).
+Cdlt, VIGNERON * discut. 17 octobre 2013 à 08:53 (UTC)Répondre[répondre]
+Tu as mal lu. L'article ne dit à aucun moment que c'est illégal, ni que ces fichiers appartiennent à quiconque. Il salue même l'astuce de la combine... Il fallait y penser et oser, il faut dire. Il serait vraiment bon de développer au maximum le téléchargement en ePub sur Wikisource, et surtout que cela se sache. Xavier M (d) 17 octobre 2013 à 09:12 (UTC)Répondre[répondre]
+« pillage », « étrange revers », « soi-disant "éditeurs" (méritent-ils même ce nom ?) », « machiavélique », « rapaces », « attrape-nigauds », sacré champ lexical (et je ne parle même pas des commentaires qui vont encore plus loin : « le coté maléfique d'internet »). Je ne connais personne qui aimerait être « saluer » en ces termes.
+Avant de pouvoir communiquer massivement et efficacement sur le téléchargement ePub, encore faut-il 1. que la génération des ePub soit aisée et de qualité. 2. que la correction/validation des textes eux-mêmes soit de qualité. On s’y rend doucement mais surement, inutile de précipiter les choses (le remède pourrait être pire que le mal).
+Sur ce, je retourne contribuer. Cdlt, VIGNERON * discut. 17 octobre 2013 à 10:08 (UTC)Répondre[répondre]
+Livre:Leroux_-_L'Epouse_du_Soleil.djvu[modifier]
+Je suis tombé sur ça ! quelqu’un sait-il résoudre le problème ?--Le ciel est par dessus le toit (d) 17 octobre 2013 à 10:30 (UTC)Répondre[répondre]
+Un problème sur commons, le format du fichier n'était plus reconnu et a été détruit un peu hâtivement. Il y a aussi Livre:Leroux - Le Fauteuil hanté.djvu dans le même cas. — Phe 17 octobre 2013 à 21:35 (UTC)Répondre[répondre]
+Le second est corrigé aussi. — Phe 17 octobre 2013 à 21:58 (UTC)Répondre[répondre]
+Merci  beaucoup Phe pour cette réparation. J'avais essayé de contacter l'administrateur nettoyeur mais sans succès.Toto256 (d) 18 octobre 2013 à 06:11 (UTC)Répondre[répondre]
+Merci --Le ciel est par dessus le toit (d) 18 octobre 2013 à 08:56 (UTC)Répondre[répondre]
+Même problème avec ces livres :
+Livre:Becquerel_-_Exposé_élémentaire_de_la_théorie_d’Einstein_et_de_sa_généralisation.djvu
+Livre:Buffon_-_Oeuvres_completes,_1829,_T01 Vérifier si ce n’est pas un doublon avec celui-ci : Livre:Buffon_-_Oeuvres_completes,_1829,_T01.djvu
+--Le ciel est par dessus le toit (d) 21 octobre 2013 à 19:26 (UTC)Répondre[répondre]
+Pour Becquerel, c'est un problème de copyright, Jean Becquerel est mort en 1953, j'efface le livre aussi ou il faut faire une PàS ? Pour le second, c'est une erreur dans le titre lors de la création, je l'ai effacé, le titre correcte est bien Livre:Buffon_-_Oeuvres_completes,_1829,_T01.djvu. — Phe 21 octobre 2013 à 21:35 (UTC)Répondre[répondre]
+Merci, je ne connais pas les conditions où il faut passer par une PàS, fais au mieux.--Le ciel est par dessus le toit (d) 21 octobre 2013 à 21:58 (UTC)Répondre[répondre]
+et encore :
+Livre:Eddington_-_Espace,_Temps_et_Gravitation,_trad._Rossignol,_1921.djvu
+En cours de discussion plus bas. — Phe 28 octobre 2013 à 08:45 (UTC)Répondre[répondre]
+Bonjour, Il serait utile de copier les livres sur Wikilivres avant de les supprimer. Cordialement, Yann (d) 3 novembre 2013 à 10:50 (UTC)Répondre[répondre]
+Liste des textes où il manque quelques pages à valider pour passer dans la catégorie terminé[modifier]
+Vous trouverez cette liste ici :Utilisateur:Le_ciel_est_par_dessus_le_toit/Liste_2. Ca va de 1 page à valider pour terminer un livre, à 25 maximim.
+S’il y à des bonnes volontés. elles sont bien venues--Le ciel est par dessus le toit (d) 17 octobre 2013 à 16:49 (UTC)Répondre[répondre]
+Faciliter les choses pour les nouveaux[modifier]
+Bonjour,
+Comme je patrouille régulièrement, j'ai l'occasion de constater que les nouveaux avaient un peu de mal à se retrouver dans les modèles, et à se conformer aux normes typographiques (en particulier les apostrophes courbes).
+Or, il y a des gadgets qui facilitent énormément les choses, mais il semble que, bien qu'ils soient signalés en bonne place dans le mémo, il faille le leur signaler pour que les nouveaux les activent. Ça laisse penser qu'il faudrait :
+que ces gadgets soient activés par défaut lors de toute création de compte
+que le mémo apparaisse de façon beaucoup plus visible dans le message d'accueil aux nouveaux
+que la barre d'outils soit un peu retouchée : il faudrait revoir "titre", qui donne une syntaxe qui, sur wikisource, n'est à utiliser que sur les pages de discussion ou d'aide.
+Qu'en pensez-vous ? --Acélan (d) 17 octobre 2013 à 20:18 (UTC)Répondre[répondre]
+Pour le 1 et 2, je suis complètement d’accord.
+Pour le troisième point, l’arrivé (certes encore lointaine) de l’éditeur visuel devrait diablement simplifié les choses, non ? -wait and see).
+Cdlt, VIGNERON * discut. 18 octobre 2013 à 06:40 (UTC)Répondre[répondre]
+Nouveau contributeur : comment changer le titre d'une page d'un ouvrage ?[modifier]
+Bonjour à tous,
+Je suis un wikipédien de longue date, mais tout nouvel arrivant sur Wikisource, qui m'a l'air plus ardu à prendre en main techniquement. Je souhaitais contribuer sur Abrégé du dictionnaire grec-français, et je me demande comment on fait pour modifier le titre d'une page de l'ouvrage ? Pour donner un exemple précis, sur cette page-ci, il y a une coquille sur son en-tête ("Α, α  1  ἀβλαβῶς"), mais c'est inaccessible par l'onglet "modifier" ?! Merci aux habitués qui pourront m'éclairer ! :D--Cattzy (d) 17 octobre 2013 à 20:24 (UTC)Répondre[répondre]
+Il faut ouvrir la zone d'en-tête, ce qui se fait via un bouton de la barre d'outil du haut, qui ressemble vaguement à un tableau (avec une petite barre verte) --Acélan (d) 17 octobre 2013 à 20:32 (UTC)Répondre[répondre]
+Et pour une démonstration visuelle, cela se passe là : File:Wikisource, aide ajout en-tête de page.ogv. Cdlt, VIGNERON * discut. 18 octobre 2013 à 06:45 (UTC)Répondre[répondre]
+Super, merci ! Et du coup, si j’ai bien compris, il faut que je change aussi le nom de la page dans le sommaire en modifiant la page correspondant au livre. J'en profite pour vous demander deux autres petites choses : d'abord, dans le code des pages déjà tapées par un utilisateur précédent, il y a des lignes de dièses (####) à quoi cela correspond-il ? Ensuite, il manque des scans de certaines pages pour cet ouvrage (les pages non numérotées de début et de fin). Je l’ai (la même édition, y'en a qu'une de toute façon) physiquement chez moi, est-ce que je peux les scanner moi-même pour les rajouter aux scans déjà présents ? Merci de votre aide. --Cattzy (d) 18 octobre 2013 à 10:16 (UTC)Répondre[répondre]
+Les suites de 4 dièses correspondent à une fin de section. Les débuts de sections sont signalées, par exemple, par ## s1 ## ("s1" peut changer, c'est arbitraire) ; si dans la même page on a une autre section (par exemple ## s2 ##), la première finit où commence la seconde ; si on a 4 #, la première section finit là, et la fin de la page ou ce qui est compris entre cette marque et le début de la section suivante, n'est compris dans aucune section.
+Pour la réparation des scans, quelqu'un de plus calé que moi te répondra sûrement ;
+Pour corriger les intitulés du sommaire, effectivement, il faut aller (ici) en modification du livre lui-même. --Acélan (d) 18 octobre 2013 à 12:47 (UTC)Répondre[répondre]
+Ok !--Cattzy (d) 18 octobre 2013 à 15:53 (UTC)Répondre[répondre]
+Archivage des « Questions techniques »[modifier]
+Bonjour, wikisourciens/ciers/cistes/ceresses, et visiteurs de tous horizons et usages,
+Vous trouverez la liste des questions techniques archivées sur la page d'archives dédiée (M. de La Palice ne dirait pas mieux.)
+Pour trouver cette page, vous avez un lien « archives » dans la case « Questions techniques » de l'en-tête. 
+Quand vous arrivez sur la page d'archives, le sommaire de toutes les questions peut se déployer en cliquant sur le bouton « afficher » du tableau pliable en haut de la page,  et vous pouvez déployer une, ou plusieurs années au choix, ou toutes les années pour une recherche globale éventuelle, en cliquant sur « dérouler » sur les barres des années. 
+Toute correction ou amélioration de ce système, ou tout remplacement par un autre système plus efficace, restent évidemment très bienvenus. --Zyephyrus (d) 18 octobre 2013 à 08:27 (UTC)Répondre[répondre]
+Les Amours jaunes[modifier]
+Bonjour, difficile de faire un volume epub des amours jaunes qui se tienne (mon éditeur Okular ne montre que les titres aujourd'hui depuis la page principale). J'aurais bien passé les titres de section comme Armor en T2 et les poèmes en T3 et ajouté entre les poèmes concernés, des pages avec juste les titres de section... le rendu pour le frontispice et la dédicace n'est pas génial non plus... Un spécialiste des recueils de poèmes, un livre bien mis en forme à suivre ? Sapcal22 (d) 18 octobre 2013 à 08:52 (UTC)Répondre[répondre]
+[1], ennuyeux et difficilement compréhensible pour les non-initiés pourquoi il faut un saut de ligne à cet endroit. — Phe 19 octobre 2013 à 11:52 (UTC)Répondre[répondre]
+Je me suis réverté, le saut de ligne est indispensable mais je l'ai ajouté directement dans Module:Header template pour éviter ce genre de problème incompréhensible. Pour le rendu lui même il faut voir avec quelqu'un d'autre. — Phe 19 octobre 2013 à 11:57 (UTC)Répondre[répondre]
+Merci pour la résolution de ce problème. Il me semble que maintenant, le rendu est correct, et que le volume est à nouveau exportable en epub ? --Acélan (d) 19 octobre 2013 à 12:11 (UTC)Répondre[répondre]
+Oui merci, dans Okular, l'epub est correct. Sapcal22 (d) 24 octobre 2013 à 13:51 (UTC)Répondre[répondre]
+Annonce : Lexiconcours 2013[modifier]
+Le Wiktionnaire francophone a lancé son Lexiconcours 2013 consistant en la création ou l’amélioration d’un article existant.
+Chaque équipe, d’une ou deux personnes, soumet un article au jugement de la communauté Wikimédia et ce avant le 2 novembre 2013 à 23:59 UTC.
+Cet article peut décrire un mot ou une locution idiomatique de n’importe quelle langue.
+L’article à travailler peut être encore inexistant, ébauché ou avancé.
+Ce concours à thème libre est ouvert à tous sans exception, même si vous n’avez jamais édité sur Wiktionnaire. Vous pouvez d’ores et déjà annoncer votre participation. Si besoin, la communauté du Wiktionnaire se fera une joie de vous guider. Les « articles de qualité » et les « articles de valeur » sont hors concours mais sont des exemples utiles.
+Un chiffre rond[modifier]
+Si on en crois la page communauté du jour : "Il reste 1000 livre prêts à être validés". Je reviendrai vous voir quand il n’en restera plus que 500. --Le ciel est par dessus le toit (d) 18 octobre 2013 à 17:05 (UTC)Répondre[répondre]
+Les Travailleurs de la mer[modifier]
+Bonsoir, la validation en mode page des 2 tomes des Travailleurs de la Mer est finie. Il n'était censé n'y avoir plus qu'un dizaine de pages... Par contre, la transclusion semble être un joyeux mélange entre une ancienne saisie et la transclusion du mode page, selon que l'on accède aux chapitres ou aux livres. J'avoue m'y perdre, surtout qu'il y a aussi des redirections. Si quelqu'un pouvait mettre bon ordre à tout cela, ce serait parfait. D'avance merci.Toto256 (d) 19 octobre 2013 à 21:23 (UTC)Répondre[répondre]
+Excuse-moi si je me suis trompé sur le nombre de pages. Merci en tous cas pour les validations effectuées--Le ciel est par dessus le toit (d) 21 octobre 2013 à 16:50 (UTC)Répondre[répondre]
+Trouble in Canterbury[modifier]
+Hello,
+Me consacrant actuellement aux Contes de Canterbury, j'ai rencontré quelques difficultés de mise en forme. Je les rapporte ici, dans l'espoir que quelqu'un saura les résoudre (ou me renvoyer avec une baffe vers les pages d'aide appropriées).
+Page:Chaucer - Les Contes de Canterbury.djvu/218 : certains vers sont alignés à droite, mais les modèles d'alignement horizontal mettent un peu trop le bazar.
+Page:Chaucer - Les Contes de Canterbury.djvu/223 : la pire note de bas de page de tous les temps ! Je ne sais vraiment pas quoi en faire.
+Page:Chaucer - Les Contes de Canterbury.djvu/440 : il y a un poème dans une note dans un poème, mais imbriquer les balises <poem> casse tout.
+Page:Chaucer - Les Contes de Canterbury.djvu/458 : ces lignes de points sont-elles à restituer d'une façon particulière ? (un modèle, peut-être ?)
+Voilà voilà. Merci d'avance. Ælfgar (d) 23 octobre 2013 à 21:32 (UTC)Répondre[répondre]
+Hi !
+p. 218, les vers ne sont pas alignés à droite ce me semble, mais simplement décalés sur la droite. On devrais s’en sortir avec une simple indentation avec « : » (je crois me souvenir de modèle spécifique au théâtre qui pourraient servir aussi… un truc qui gérait les vers avec changement de personnage à l’hémistiche si je me souviens bien),
+p. 223, ouhouhouh ! Déjà on peut répartir la note sur plusieurs pages avec le paramètre follow (voir Aide:Notes), après vu que c’est une note (donc avec une taille réduite), il vaut peut-être mieux de ne pas trop essayer de respecter conformément la mise en forme,
+p. 440, bizarre, bug à signaler au développeur.
+p. 458, pas forcément (il est possible d’utiliser divers astuces comme ce que tu as fait ou bien du code HTML comme « div style="border-bottom:dotted" » − à vérifier le HTML n’est pas ma spécialité − mais ce n’est pas obligatoire ni même courant je pense).
+Cdlt, VIGNERON * discut. 24 octobre 2013 à 06:30 (UTC)Répondre[répondre]
+J'ai il n'y a pas longtemps corrigé un conte de Canterbury (Conte de la femme de Bath). Pour les vers décalés vers la droite, j'ai inséré &Nbsp; &Nbsp; (avec un n minuscule). C'est de bas niveau mais ça semble fonctionner et ne pas avoir d'autre effet que le blanc à gauche désiré. --Wuyouyuan - discuter 24 octobre 2013 à 07:19 (UTC)Répondre[répondre]
+Ou bien encore avec le modèle {{cach}}, on peut par exemple obtenir ceci :
+le pays de féerie
+ le pays de ftant sauvage ;
+en recopiant le début du vers précédent jusqu'au décalage
+<poem>
+le pays de féerie
+{{cach | le pays de f}}tant sauvage ;
+</poem>
+mais Wuyouyuan signale ci-dessous que l'export vers des fichiers au format e-pub pose en ce cas problème.
+--Zyephyrus (d) 24 octobre 2013 à 07:49 (UTC)Répondre[répondre]
+Pour le formatage d'un poème dans une note, il faudrait vérifier si cette solution passe sous le format epub. --Zyephyrus (d) 24 octobre 2013 à 08:08 (UTC)Répondre[répondre]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+{{séparateur de points|45|75%}}
+je suis aussi ennuyé dans les poems par les modèles {{Centré}} et {{Droite}}  qui ajoutent systématiquement une ligne blanche après (idem avec le tag center). Une solution est de clore et réouvrir le tag Poem après chaque ligne centrée ou alignée à droite.
+Manseng (d) 24 octobre 2013 à 07:12 (UTC)Répondre[répondre]
+p. 218 : d'accord avec Vigneron ; soit une indentation avec les deux points, soit le modèle {{caché}}, qui permet d'avoir un blanc équivalent à un certain texte ; j'en ai placé pour exemple.
+p. 440 : il me semble avoir remarqué, effectivement, qu'on ne pouvait utiliser les balises poem dans une note que quand le texte n'utilisait pas lui-même ces balises. J'ai mis deux points pour l'indentation, ça peut remplacer.
+p. 458 : Il existe un modèle, {{…}} (son vrai nom, c'est séparateur de points) ; je l'ai mis dans la page en question.
+(Les baffes sont rares ici) --Acélan (d) 24 octobre 2013 à 07:15 (UTC)Répondre[répondre]
+Le modèle {{caché}}, que j'ai utilisé aussi dans des poèmes à indenter, avec __ comme caractère caché, a un inconvénient: les caractères cachés refont surface dans les .EPUB avec certains visualiseurs, tant la variété des conventions qu'ils utilisent est grande. --Wuyouyuan - discuter 24 octobre 2013 à 07:38 (UTC)Répondre[répondre]
+Wow, merci à tous pour les réponses rapides et utiles ! Je vais reprendre ce soir, armé de quelques modèles en plus. :) Ælfgar (d) 24 octobre 2013 à 19:29 (UTC)Répondre[répondre]
+Ah, une autre question, en fait : les pages de certains contes sont en sous-page des Contes de Canterbury (Les Contes de Canterbury/Conte du chevalier), d'autres non (Conte de Chaucer sur Sire Topaze). Faut-il uniformiser, et si oui dans quel sens ? Ælfgar (d) 24 octobre 2013 à 19:46 (UTC)Répondre[répondre]
+Oui il veut mieux uniformiser. L’habitude est plutôt d’utiliser les sous-pages. Cdlt, VIGNERON * discut. 25 octobre 2013 à 07:46 (UTC)Répondre[répondre]
+Et une autre aussi : je tombe dans Page:Chaucer - Les Contes de Canterbury.djvu/158 sur un alinéa fait à la main, avec des espaces insécables. C'est une mise en forme à respecter ? Si oui, il n'y a pas d'autre moyen ? Ælfgar (d) 24 octobre 2013 à 20:04 (UTC)Répondre[répondre]
+Sans certitude, mais il me semble que la meilleure méthode consiste à utiliser les deux points « : » (avec nbsp ou juste des espaces, on « voit » ces espaces si on les surligne). Cdlt, VIGNERON * discut. 25 octobre 2013 à 07:46 (UTC)Répondre[répondre]
+Pour la note page 223, d'abord la mise en tableau [2], je ne sais pas si tu avais fait exprès de ne pas utiliser de table, trois colonnes dans une note c'est un peu chaud au niveau lisibilité… Pour la ventilation de la note sur plusieurs pages, ce qui te manque c'est <ref name=xx> et <ref follow=xxx>, voir [3], [4] et [5] — Phe 26 octobre 2013 à 23:07 (UTC)Répondre[répondre]
+Diner et scanneur de livres[modifier]
+Bonjour à tous,
+Une rencontre de wiki(p/m)édiens se prépare pour le samedi 26 (oui, dans deux jours) avec à l'ordre du jour un diner mais surtout, pour nous wikisourciers, une présentation d'un scanneur de livres.
+Vous trouverez plus de détails pour ces deux événements sur wikipédia ici : w:Wikipédia:Rencontres/Île-de-France. C'est à Paris et le délai est court mais je pense que ça pourrait intéresser du monde. Aristoi (d) 24 octobre 2013 à 08:36 (UTC)Répondre[répondre]
+Le dîner était très bien, on a même pu faire une table de 7 wikimédiens plus ou moins wikisourciers (y compris un wikimédien-wikisourcier ukrainien !).
+Par contre, le dîner a fini trop tard pour que l’on eu le temps d’aller voir le scanneur à la Quadrature .
+Cdlt, VIGNERON * discut. 28 octobre 2013 à 21:51 (UTC)Répondre[répondre]
+Epub Wikisource sur Kobo[modifier]
+Bonjour,
+Petit rappel des faits : depuis mars 2012, Wikimedia France possède une liseuse Kobo by Fnac (sur demande à l’origine de Tpt (d · c · b), cf. Wikisource:Scriptorium/Mars_2012#Mise à disposition d'un e-reader), celle-ci est empruntable par les membres de Wikimédia France sur demande et selon les besoins. Coyau (d · c · b) l’a emprunté et je l’ai moi-même emprunté depuis avril 2013 (cf. Wikisource:Scriptorium/Avril_2013#Pour l'e-pub (question transférée)).
+Je m’en suis servi pour plusieurs choses :
+présenter Wikisource sur les stands lors de diverses manifestations (cf. supra, #Succès de Wikisource sur les stands Wikimédia France),
+repérer divers problèmes dans les epubs (malheureusement, j’ai un peu manqué de temps à ce niveau, je fais un succins rapport infra),
+et plus personnellement pour relire des textes et repéré des coquilles subsistantes (changer de support est incroyablement efficace pour repérer de nouvelles erreurs)
+Globalement les ePubs sont plutôt bons et je n’ai pas eu le temps de tester tout ce que je voulais mais j’ai tout de même pu constater divers problèmes dans les epubs sur Kobo :
+plusieurs caractères « assez courant » ne passent pas et sont remplacés par des points d’interrogations
+quelques casseaux comme l’astérisme ou la barre horizontale (caractère U+2015)
+certains caractères grecs (grec ancien et/ou diacrités, dans la première phrase de Histoire romaine (Mommsen) « Τα παλαιότερα σαφῶς… » la plupart des caractères grec s’affichent bien sauf ῶ, ὲ, ῖ, ἁ, etc. qui ne s’affichent jamais avec les polices présentes par défaut ; selon la police d’autres caractères peuvent également ne pas s’afficher)
+le caractère U+00AD Trait d'union conditionnel engendre un retour à la ligne peu esthétique
+à l’affichage en ePub, il faudrait soit ne pas le rendre du tout, soit encore mieux afficher un trait d’union
+il faudrait en parallèle réfléchir à les supprimer sur Wikisource (mais vu qu’ils sont invisibles, la tache n’est pas facile : [6] ; peut-être faudrait-il essayer de modifier dicompte ?)
+l’affichage des marges comme celles générées par {{Note latérale droite}} est assez aléatoire (parfois cela tombe « correctement » au début du paragraphe mais parfois c’est au milieu d’une phrase)
+quelques mises en formes « exotique » ou « historique » ne fonctionne pas (heureusement assez rare ; par exemple, avec <div align="center">)
+PS : ce week-end se tient à Paris l’AG de Wikimédia France, j’amènerais la liseuse. Si un Wikisourcier en a besoin (Tpt ?), je peux la rendre au siège de Wikimédia France ou bien la donner à un autre membre. N’hésitez pas à vous signaler !
+Cdlt, VIGNERON * discut. 24 octobre 2013 à 08:43 (UTC)Répondre[répondre]
+Deux autres points problématiques, concernant des modèles qui sont très utilisés :
+{{sc}} : le texte s'affiche en bas de casse, pas en petites majuscules
+{{séparateur}} : le séparateur n'est pas centré, ce qui donne un rendu très laid.
+Pour le modèle {{caché}}, mentionné ci-dessus par Wuyouyuan, je n'ai pas eu l'occasion de tester sur kobo, mais ce serait embêtant, en effet. --Acélan (d) 24 octobre 2013 à 10:59 (UTC)Répondre[répondre]
+À propos du trait d'union conditionnel, la liseuse gère la césure toute seule (miracle de l'informatique), sans qu'on ait à s'ennuyer à le faire à la main (ie le trait d'union conditionnel est inutile). --Coyau (d) 25 octobre 2013 à 11:46 (UTC)Répondre[répondre]
+Tu confirmes donc que ce caractère est à supprimer sur Wikisource ? Quelqu’un pourrait-il programmer un robot pour cela ? Cdlt, VIGNERON * discut. 25 octobre 2013 à 13:05 (UTC)Répondre[répondre]
+Libre de droit ?[modifier]
+Ce texte est-il libre de droit ?
+Livre:Ligne_directrice_sur_les_tests_écologiquement_rationnels,_remise_à_neuf_&_réparation_de_matériel_informatique_usagé.pdf
+--Le ciel est par dessus le toit (d) 24 octobre 2013 à 10:31 (UTC)Répondre[répondre]
+Oui, d'après la page du fichier sur Commons (tu peux la voir en cliquant sur le fichier lui-même sur Wikisource, puis sur "accéder au fichier sur Commons"). --Acélan (d) 24 octobre 2013 à 11:03 (UTC)Répondre[répondre]
+Merci Acelan --Le ciel est par dessus le toit (d) 24 octobre 2013 à 11:06 (UTC)Répondre[répondre]
+Résumé : ce fichier « a l’air » compatible avec Wikisource mais il faudrait creuser la question.
+Version longue : désolé de faire mon râleur mais :
+1. non, il n’est pas « libre de droit » puisque cette expression ne veut rien dire (même le domaine public n’est pas « libre de droit » puisque tout la partie morale des droits d’auteurs s’applique encore, et je ne parle même pas des droits hors du droit d’auteurs).
+2. Tout comme sur Wikisource, il y a parfois des erreurs sur Commons, il faut regarder un peu plus loin que la licence. Poser la question est un bon début ;)
+3. En l’occurrence, le texte est récent donc suspect. Heureusement, un habitué peut rapidement repéré sur la première page les logos de l’UN/ONU et de l’UNEP/PNUE (organisme qui publient en général dans le domaine public sous une sorte de super PD-law, cf {{DP-ONU}}). Cela semble donc bon mais cela reste au mieux inhabituel, au pire bizarre.
+4. Au delà de la question du droit d’auteur, se pose la question de sa place sur Wikisource ; selon la première page, ce serait un appel à traduction et « une traduction approximative » qui n’a probablement pas été publiée, n’existe-t-il pas plutôt une version finalisée ?
+Cdlt, VIGNERON * discut. 24 octobre 2013 à 13:37 (UTC)Répondre[répondre]
+Problème d'import djvu[modifier]
+Bonjour. J'essaye de comprendre pourquoi le fichier Livre:Casanova Histoire de ma fuite 1788.djvu ne s'affiche pas, si quelqu'un peut y aller voir, merci --Bgeslin (d) 24 octobre 2013 à 16:00 (UTC)Répondre[répondre]
+Le fichier sur Commons était apparemment défectueux. J'ai recommencé la conversion en djvu, et rechargé le fichier sur Commons : il apparaît maintenant normalement. --Acélan (d) 25 octobre 2013 à 13:19 (UTC)Répondre[répondre]
+Il y a ceux-là aussi :
+Livre:Eddington_-_Espace,_Temps_et_Gravitation,_trad._Rossignol,_1921.djvu
+Livre:Pereire_-_Autour_de_Saint-Simon.djvu
+Livre:Russell_-_Essai_sur_les_fondements_de_la_géométrie.djvu
+Livre:Wells_-_La_guerre_qui_tuera_la_guerre.djvu
+Livre:Wittengenstein_-_Tractatus_Logico-Philosophicus,_1922.djvu
+Cette page ne correspond à aucun fichier :
+Livre:Challemel_-_Le_Promenoir,_1903.djvu
+--Le ciel est par dessus le toit (d) 25 octobre 2013 à 07:50 (UTC)Répondre[répondre]
+Pour le dernier (Challemel), une édition vide du livre: à corriger le problème, pour tous les autres ce sont des problèmes de copyright, fichier sur commons effacé, excepté le second : Pereire est un pb de copyright ET de fichier corrompu, il faudrait sans doute le réparer avant de l'effacer. J'ai créer Wikisource:Pages à restaurer pour gérer ce genre de problème. Quand des Livre: sont effacés à partir de WS:PAS pour copyright il faudrait les lister sur WS:PAR pour ne pas oublier de les restaurer. Pour l'instant je n'ai pas effacé les Livre:, ni les Page:. Des observations, suggestions ?   — Phe 27 octobre 2013 à 22:55 (UTC)Répondre[répondre]
+Wells - La guerre qui tuera la guerre.djvu est à recopier sur Wikilivres. Yann (d) 3 novembre 2013 à 11:05 (UTC)Répondre[répondre]
+Est-ce que ça en vaut vraiment la peine ? les seules pages corrigées sont une préface de deux petites pages et des pages vides. [7] — Phe 9 novembre 2013 à 19:01 (UTC)Répondre[répondre]
+Tester le nouveau moteur de recherche[modifier]
+Des wikis sont recherchés pour tester le nouveau moteur de recherche.
+Sources :
+Tech News: 2013-42
+http://lists.wikimedia.org/pipermail/wikitech-ambassadors/2013-October/000426.html
+Pyb (d) 25 octobre 2013 à 09:59 (UTC)Répondre[répondre]
+De ce que je comprends, le nouveau moteur, CirrusSearchFeatures, développe les modèles avant indexation. Est-ce que cela vaut aussi pour la balise <pages/> ? Si c’est le cas, il faut absolument tester ce nouveau moteur ! Aristoi (d) 25 octobre 2013 à 10:19 (UTC)Répondre[répondre]
+J’avais eu connaissance de ce nouveau moteur de recherche via un autre biais. La wikisource en italien devrait tester ce moteur. À propos des transclusions, j’avais eu la réponse suivante : « If Mediawiki puts it on the page it we include it. » (donc a priori, cela devrait gérer la balise pages).
+Je suis donc également pour tester ce moteur de recherche.
+Plus d’informations (techniques) sont disponibles ici : mw:Search/CirrusSearchFeatures.
+Cdlt, VIGNERON * discut. 25 octobre 2013 à 11:21 (UTC)Répondre[répondre]
+CirrusSearch indexe effectivement toutes les transclusions (pages, catégories ajoutées à l'aide d'un modèle...) Il est activé (par défaut) sur la wikisource anglophone. Pyb (d) 25 octobre 2013 à 11:33 (UTC)Répondre[répondre]
+Oui, cela gère la balise pages. +1 pour le test (quelqu'un veux-t-il ouvrir un bug à ce sujet ?). Tpt (d) 25 octobre 2013 à 16:50 (UTC)Répondre[répondre]
+Le nouveau moteur de recherche sera déployé en tant que second moteur le 5 novembre (c. f. mw:Search#Secondary_backend). Il faudra alors ajouter à l'URL {{{1}}} pour l'utiliser. Tpt (d) 1 novembre 2013 à 17:48 (UTC)Répondre[répondre]
+Page en numéroté en noir[modifier]
+sur ce livre :
+Livre:Stendhal_-_Romans_et_Nouvelles,_Lévy,_1854.djvu
+des pages sont numérotés en noir,  elles sont donc inaccessibles: quel est le problème ?--Le ciel est par dessus le toit (d) 25 octobre 2013 à 12:52 (UTC)Répondre[répondre]
+Elles ont volontairement été « cachées » avec le code 115to319=empty dans la balise pagelist par ThomasV en 2010. J’ai regardé (très rapidement) le DjVu sans voir de raison justifiant cela. On peut sans doute juste retirer cette partie du code.
+Cdlt, VIGNERON * discut. 25 octobre 2013 à 13:03 (UTC)Répondre[répondre]
+Excuse-moi, mais je ne comprends rien à ce que tu dis. En tous cas il faudrait connaître la justification, je trouve cela étrange. Merci pour cette réponse très mystérieuse pour moi--Le ciel est par dessus le toit (d) 25 octobre 2013 à 13:07 (UTC)Répondre[répondre]
+Désolé. Dans l’espace Livre:, il existe la possibilité de modifier l’affichage des pages. Cela se fait par le biais de la balise pagelist (pour encore plus d'information, voir la page Aide:Espace « Livre »). En général, on se contente d'indiquer que la page 1 de l’ouvrage correspond à la page X du document DjVu mais il existe des possibilités plus avancés comme de supprimer les liens des pages (personnellement, je n’ai jamais utilisé cette possibilité et je ne l’ai jamais vu utilisée non plus). En attendant une éventuelle explication (mais ThomasV étant parti, il faudra la trouver par nous-mêmes), j’ai « dé-caché » ces pages : diff. Cdlt, VIGNERON * discut. 25 octobre 2013 à 13:26 (UTC)Répondre[répondre]
+Merci pour les explications et pour le "démasquage" .--Le ciel est par dessus le toit (d) 25 octobre 2013 à 13:29 (UTC)Répondre[répondre]
+Pages cachées car le texte existe déjà Armance, l'année d'édition est différente, mais la pagination est exactement identique, cette partie du scan est un doublon. — Phe 26 octobre 2013 à 13:05 (UTC)Répondre[répondre]
+Effectivement, en y regardant de plus près, j’ai l’impression qu’il y a un doublon exact entre Livre:Stendhal - Armance, Lévy, 1877.djvu et Livre:Stendhal - Romans et Nouvelles, Lévy, 1854.djvu (en tout cas, au moins la première page est rigoureusement identique : Page:Stendhal - Armance, Lévy, 1877.djvu/83 et Page:Stendhal - Romans et Nouvelles, Lévy, 1854.djvu/115). Si c’est vraiment le cas, ne faudrait-il pas fusionner les contenus et supprimer l’un de deux ? VIGNERON * discut. 28 octobre 2013 à 10:34 (UTC)Répondre[répondre]
+C'est ce qui avait été fait en cachant les pages, c'était indiqué dans l'historique du livre. — Phe 28 octobre 2013 à 12:31 (UTC)Répondre[répondre]
+Non seulement ce n’était pas clair mais ce ne l’est toujours pas pour moi (surtout que je ne vois rien dans l’historique de ces deux livres).
+Enfin bref, est-ce vraiment des doublons ou non ? Soit oui, et dans ce cas on supprime l’un des deux (quel intérêt d’avoir deux fois exactement la même chose), soit non et on corrige les deux livres (d’autant plus facilement si tout ou partie de l’ouvrage est plus ou moins similaire). Pourquoi inutilement se compliquer la vie à cacher les liens vers les pages (pages qui existent toujours et auxquelles on peut accéder par d’autres biais) en espérant que les lecteurs et les contributeurs comprennent ce que cela signifie…
+Cdlt, VIGNERON * discut. 28 octobre 2013 à 14:52 (UTC)Répondre[répondre]
+Bon, je viens de faire une collation : ce sont bien deux ouvrages très similaires mais différents. L’édition de 1877 semble reprendre scrupuleusement l’édition de 1854 et y adjoindre trois nouvelles.
+En détail : le début diffère un peu, jusqu’à Page:Stendhal - Armance, Lévy, 1877.djvu/13 et Page:Stendhal - Romans et Nouvelles, Lévy, 1854.djvu/13 le corps de texte est identique mais en 1877 le titre a disparu (du coup, la note de bas de page perd son appel… pas très soigné ni même logique comme composition). Les pages suivantes (14 à 82, paginées iv à lxii) semblent exactement identiques. La page suivante de 1854 comporte ensuite une partie (allant des pages 83 à 114 soit lxxiii à civ) apparemment absente de l’ouvrage de 1877. On retrouve ensuite du texte apparemment identique (soit page 83 à 287 / i à 205 dans 1877 et 115 à 319 / i à 205 dans 1854). L’ouvrage de 1877 s’arrête là (quelques pages blanches puis couverture) tandis que celui de 1854 continue encore sur une centaines de pages (inédites dans 1854 évidemment).
+Du coup, je propose d’éditer/travailler plutôt l’ouvrage de 1854 que celui de 1877. Pour l’édition de 1854, je vois trois solutions : soit masquer les pages (c’est-à-dire tout masquer puisque tout ce retrouve dans l’édition de 1877), soit de transclure le texte depuis l’édition de 1877 (cela me semble préférable et plus compréhensible pour le lecteur, sauf opposition dans les jours à venir je pense appliquer cette solution), soit carrément supprimer ce livre de Wikisource (à quoi bon avoir une édition postérieure si elle n’apporte rien de nouveau ? cela me semble trop radical mais ce serait compréhensible).
+Au passage, si quelqu’un pouvait récupérer l’édition originale en trois tomes : (FR-BNF 31403927f), la situation serait quasiment parfaite ; merci davance.
+Cdlt, VIGNERON * discut. 30 octobre 2013 à 13:26 (UTC)Répondre[répondre]
+Après-midi contributive à Rennes le 24 novembre[modifier]
+Bonjour, les Wikimédiens de la Non-Cabale de l’Ouest (NCO) organisent le 24 novembre 2013 une journée contributive à Rennes à la bibliothèque (patrimoniale) des Champs Libres. Ça sera orienté Wikipédia pour ceux qui veulent, mais aussi en grande partie Wikisource (pour ceux qui veulent), tant dû au fait que ce sera les 10 ans de Wikisource qu’au fait que la bibliothèque des Champs Libres (Rennes Métropole) vient de lancer sa bibliothèque numérique Les Tablettes rennaises dont tous les livres sont DP — et dont certains de la NCO commencent à wikisourcer pour ensuite les reverser dans les tablettes.
+Si vous êtes autour de Rennes le 24 novembre (ou si vous êtes motivé pour venir de plus loin), n’hésitez surtout à venir passer l’après-midi. L’organisation de l’événement se fait sur Wikipédia. ~ Seb35 [^_^] 25 octobre 2013 à 14:00 (UTC)Répondre[répondre]
+J’y serais (évidemment) et je ne peut que vous enjoindre à venir aussi . Cdlt, VIGNERON * discut. 28 octobre 2013 à 10:25 (UTC)Répondre[répondre]
+Support par Wikidata le 13 janvier[modifier]
+Selon bugzilla:55502, le support de Wikisource par Wikidata concernant les interwikis (ie la phase 1) devrait être activé le 13 janvier prochain si tout se passe bien. Tpt (d) 25 octobre 2013 à 16:52 (UTC)Répondre[répondre]
+L'abréviation discrète ne l'est plus[modifier]
+Bonjour.
+J'ai pris l'habitude d'utiliser certains modèles comme rom-maj, abréviation ou encore lang, car ils m'apparaissent de première utilité à un éventuel synthétiseur vocal. Ces modèles ont l'avantage d'être discrets en n'altérant pas le texte au niveau visuel, ce qui est essentiel pour Wikisource.
+Le modèle abréviation précise d'ailleurs dans sa documentation « ce modèle ne souligne pas l’abréviation », ce qu'il faisait effectivement jusqu'à très récemment. Or je viens de m’apercevoir que ce comportement a changé, pas du fait du modèle lui-même mais surement des propriétés de style que je ne maitrise pas. Voir par exemple La_République_(trad._Cousin)/Livre_premier#Notes, où l'on voit le soulignage apparaitre.
+Je suppose que ce changement est une victime collatérale et involontaire d'une modification de style. Y a-t-il moyen de rétablir le comportement annoncé dans la documentation du modèle ?
+Merci ! cbonnery (d) 25 octobre 2013 à 22:12 (UTC)Répondre[répondre]
+Note : tous les modèles utilisant abréviation sont impactés, comme le simple modèle 1er, qui rend : 1er. cbonnery (d) 26 octobre 2013 à 12:36 (UTC)Répondre[répondre]
+J'ai modifié le css de fr.ws pour éviter cela. — Phe 26 octobre 2013 à 12:56 (UTC)Répondre[répondre]
+Merci  -- cbonnery (d) 26 octobre 2013 à 17:40 (UTC)Répondre[répondre]
+Écriture ronde[modifier]
+En cherchant les planches de Charles Paillasson intitulées l’Art d’Écrire dans l’Encyclopédie de Diderot et d’Alembert, je suis tombé sur l’entrée Alphabet (en particulier la copie de la page 355 du facsimilé) ou les lettres e, s, r imprimée en écriture ronde dans l’originale sont rendu ici par des points d’interrogation pleine chasse rouges :
+1°. Le romain, où l’a se fait ainsi a.
+2°. L’italique, a.
+3°. L’alphabet de l’écriture que les Maîtres appellent
+françoise, ronde, ou financiere, où l’e se fait
+ainsi ？, l’s ainsi ？, l’r ？, ？, ？ ainsi.
+Ne faudrait-il pas plutôt les rendre avec leurs caractères :
+3°. L’alphabet de l’écriture que les Maîtres appellent
+françoise, ronde, ou financiere, où l’e se fait
+ainsi e, l’s ainsi s, l’r r, r, r ainsi.
+Sinon au passage, ou puis-je trouver les planches l’Art d’Écrire de Paillasson (en fait il y a une copie dans l’Histoire de l’écriture typographique publiée récemment mais si il y a déjà une copie ici c’est mieux). --Moyogo (d) 26 octobre 2013 à 16:10 (UTC)Répondre[répondre]
+Ce serait dommage de les rendre par des caractères courants, puisqu'il s'agit d'écriture cursive ; le modèle {{?}} est ici temporaire, et sert à marquer des signes qu'on n'a pas (encore) su rendre, soit par des caractères unicode, soit par des copies d'écran - et d'habitude, les pages l'utilisant ne sont pas marquées comme corrigées (mea culpa, en l'occurrence, mais c'est corrigé).
+Il y a ici les planches de l'Encyclopédie, mais elles sont actuellement peu corrigées, et le lien avec le texte de l'Encyclopédie n'est pas (encore) fait. Tu les trouveras à partir de cette page --Acélan (d) 27 octobre 2013 à 08:32 (UTC)Répondre[répondre]
+Effectivement, ces points d’interrogation sont temporaires (mais le temporaire peut malheureusement durer longtemps).
+Personnellement, je suis très hésitant mais je serais plutôt pour la solution de Moyogo (d · c · b).
+@Acélan (d · c · b) : il s’agit pourtant bien de caractères courants, c’est leur écriture/graphie/ductum/whatever qui est peu courant. Si je me souviens bien du fonctionnement d’Unicode, ce genre précis de variante graphique n’y est pas accepté et n’y sera jamais (puisque Unicode ne se préoccupe pas vraiment des représentations graphiques) ; la seule autre solution serait donc de faire des images mais cela présente un trop grande nombre d’inconvénients ce me semble et ne semble pas vraiment justifié dans ce cas (contrairement à d’autres caractères).
+Cdlt, VIGNERON * discut. 28 octobre 2013 à 10:19 (UTC)Répondre[répondre]
+@VIGNERON (d · c · b) : quels sont ces inconvénients ? et en quoi ce n'est pas justifié ici ? il s'agit de montrer des exemples de graphie cursive, en l'occurrence ; je ne vois pas bien comment les rendre autrement que par des images (ce que j'ai fait, du reste) ? --Acélan (d) 28 octobre 2013 à 11:21 (UTC)Répondre[répondre]
+Tout les inconvénients propres aux images en général (converti en ASCII, une image ça n’existe pas voir ça produit du code incompréhensible au milieu de texte ; même visible une image pose toujours d’autres problèmes : format adapté, taille, résolution, alignement, etc. et je ne parle même pas de l’accessibilité pour les mal- et les non-voyants ou simplement les supports mobiles) avec des inconvénients en particulier pour Wikisource (je pense notamment à la génération d’ePub notamment). Il faut penser que de moins en moins de lecteurs lisent sur un écran « normal » (si tant est qu'il est jamais existé un écran « normal »).
+Pour la justification, créer une image pour un caractère qui revient souvent mais qui n’existe pas en Unicode (par exemple la croix de la  Légion d’honneur ou les palmes académiques qui apparaissent dans des centaines de documents sur la Wikisource) me semble plus pertinent que de créer une image pour un « hapax graphique » (ça à un nom d’ailleurs mais je l’ai oublié). Après, l’image peut convenir mais il faudrait à minima l’utiliser via {{Caractère}} (qui permet de mieux suivre, gérer, maintenir et améliorer la situation même si ce cas est très… exotique).
+Cdlt, VIGNERON * discut. 28 octobre 2013 à 14:30 (UTC)Répondre[répondre]
+La phrase "l’e se fait ainsi e, l’s ainsi s, l’r ainsi r" n'a plus le même sens. — Phe 28 octobre 2013 à 12:29 (UTC)Répondre[répondre]
+Oui et non. Les caractères sont bon mais pas les glyphes. Or pour une lecture « qui fait sens », les deux sont parfois nécessaires (c’est le cas ici justement).
+La question de la gestion des glyphes est complexe et souvent problématique. L’insertion d'image (comme l’a fait Acélan (d · c · b)) permet de fournir une solution à ce problème mais elle est loin d’être parfaite. En tout cas, j’ajoute ces cas sur la page WS:G&C pour au moins mieux cerner le problème.
+Cdlt, VIGNERON * discut. 28 octobre 2013 à 21:25 (UTC)Répondre[répondre]
+Perso, le solution des images est un bonne solution temporaire ou non (ce sont bien des illustrations mais avec des glyphes de ronde qu’on devrait traiter comme on traite l’italique juste au dessus). La meilleure solution serait d’avoir une fonte web pour l’écriture ronde, gérant les différents glyphes avec la technologie OpenType que les navigateurs prennent en charge. J’imagine que ce n’est pas le seul texte mélangeant les fontes. --Moyogo (d) 30 novembre 2013 à 17:12 (UTC)Répondre[répondre]
+téléchargement epub sur mobile[modifier]
+Bonsoir,
+J'ai depuis quelques temps (très peu) un smartphone, et je suis allée voir ce que donnais wikisource en format "mobile"... les textes sont très lisibles, et mieux encore, sur la page des nouveautés, quand il y a une icône-bouton "epub", on peut directement télécharger l'epub sur le téléphone, ce qui libère des problèmes d'itinérance ...
+Par contre, quand on est sur la page principale d'un texte, les boutons qui sont dans la barre horizontale en haut n'apparaissent pas... du coup, quand on est sur un texte, même s'il est "bon pour epub", on ne peut pas le télécharger...
+Serait-il possible d'envisager une modification du format "mobile" pour permettre le téléchargement en epub d'un livre catégorisé, soit avec un petit  bouton qui apparaîtrait en haut du texte, soit (mais je ne sais pas si c'est possible), avec un menu…
+--Hélène (d) 28 octobre 2013 à 19:20 (UTC) (qui prêche pour les epubs depuis des années, et voudrait qu'ils se développent encore plus…)Répondre[répondre]
+Sans indiscrétion, quel matériel utilises-tu ?
+Au passage, je viens de tester sur un Samsung Galaxy Ace (GT-S5830), j’ai été heureusement étonné du poids et donc de la vitesse de téléchargement dudit ePub (alors que les pdfs prennent généralement de très longues minutes… même avec un bon réseau). Par contre, « aucune application ne peux exécuter cette action » quand je demande à ouvrir l’ePub 
+Cdlt, VIGNERON * discut.
+@Hsarrazin il faut regarder si on peut injecter du JS sur le site mobile via une page de l'espace MediaWiki. Sinon, cela attendra l'intégration de l'export epub dans MediaWiki.
+@VIGNERON il te faut une app pour ouvrir les epubs comme Aldiko. Tpt (d) 30 octobre 2013 à 09:12 (UTC)Répondre[répondre]
+@VIGNERON : j'ai un Sony Xperia E (modèle plutôt simple), et j'utilise Moon Reader comme lecteur d'epub… on peut régler non seulement la police et la taille, mais aussi le fond (couleur) et la luminosité, en fonction de l’environnement… et l'epub, contrairement à un pdf, ça s'adapte sans problème à l'écran 
+@Tpt : c'est toi l'expert  - je soumettais l'idée parce que je me suis aperçue que le téléchargement marchait super bien depuis la page des nouveautés (donc l'export epub fonctionne), mais que quand on est dans un texte, il n'y a pas de bouton permettant de l’obtenir… - autrement dit, les bouquins exportables sur un mobile sont plutôt limités en nombre…, sauf peut-être à en éditer une liste avec bouton d'export ({{epub}}) présent… :)
+très cordialement à tous les deux… --Hélène (d) 31 octobre 2013 à 16:40 (UTC)Répondre[répondre]
+Une autre petite liste[modifier]
+Comme je l’avais fait pour les livres où il reste quelques page à valider pour passer dans la catégorie terminé, voir ici: 
+Utilisateur:Le_ciel_est_par_dessus_le_toit/Liste_2
+sur le même principe , j’ai fait une autre liste pour les livres où il reste quelques pages -1 à 25 pages-  à corriger pour passer dans la catégorie à valider : voir ci :
+Utilisateur:Le_ciel_est_par_dessus_le_toit/Liste_1
+Le travail étant fastidieux, dites-moi si ces listes sont utiles ou pas. En tous cas elles m’ont permis de dénicher quelques livres avec des fichiers qui ne s’affichaient pas, et aussi de nombreux livres qui étaient corrigés ou terminés qui ne figuraient pas dans ses catégories
+cordialement.
+--Le ciel est par dessus le toit (d) 29 octobre 2013 à 18:40 (UTC)Répondre[répondre]
+J’ai relu les trois premiers. Merci de vérifier tout de même et de me signaler mes erreurs : je n'ai pas encore une très grande habitude de contribuer à Wikisource. Du coup, c’est pratique de relire des livres courts pour s’exercer. TED (d) 30 octobre 2013 à 00:36 (UTC) Répondre[répondre]
+Oui (et un grand oui, genre en lettres rouges clignotantes de 3 mètres sur dix), ces listes sont très utiles (l’idéal serait même un outil automatique et mis à jour quasiment en temps réel). J’ai également fait un livre court de mon côté. Cdlt, VIGNERON * discut. 30 octobre 2013 à 08:30 (UTC)Répondre[répondre]
+Hésite pas à soumettre un report de bug sur bugzilla. C'est quelque chose qu'on peut tout à fait intégrer à ProofreadPage via une nouvelle page spéciale. Tpt (d) 30 octobre 2013 à 09:08 (UTC)Répondre[répondre]
+Je ne sais pas trop utiliser bugzilla mais je vais tenter. Plutôt que de proposer un nouvel outil, est-ce que l’on ne pourrait pas améliorer Spécial:IndexPages ? (d’ailleurs, bug ou feature sur le tri par « État de l’index » qui semble trié uniquement sur le nombre absolu de page corrigée sans prendre en compte le nombre relatif).
+Cdlt, VIGNERON * discut. 30 octobre 2013 à 12:06 (UTC)Répondre[répondre]
+Phe et son PheBot semblent déjà capable de faire ça de façon automatique : Utilisateur:Phe/Pages et livres/Petit nombre de pages à valider ou à corriger. Mais la dernière mise à jour date d'avril.
+Mais je pense que se baser sur le nombre du page du djvu est souvent peu pertinent : il ne reste souvent que des pages de titre, ou des "du même auteur", bref des pages que certains d'entre nous considèrent comme inutiles à corriger.
+Un rapport plus intéressant à mon sens partirait des pages déjà transclues dans l’espace principal. Il regarderait l'état des pages sources et les trierait en fonction. Là on aurait un tri en fonction des pages significatives pour WS.
+--LBE (d) 30 octobre 2013 à 15:03 (UTC)Répondre[répondre]
+On pourrait ajouter des tri par nombre de pages non corrigés et non validés à Spécial:IndexPages, et ajouter aussi une page spécial ou réutiliser Spécial:IndexPages pour ne tenir compte que des pages transcluses. — Phe 30 octobre 2013 à 15:55 (UTC)Répondre[répondre]
+Tout bien réfléchi une nouvelle page spéciale, me semble inutile, une checkbox « [x] faire le tri en ne comptant que les pages transcluses » me semble suffisant (dans le cas d'un tri alphabétique elle ne doit avoir aucun effet) et ajouter une option de tri « par nombre de pages restant à corriger » pour régler ce problème [8] où j'ai du mal à voir dans quels livres ils restent des pages à corriger. — Phe 18 novembre 2013 à 16:20 (UTC)Répondre[répondre]
+bug ouvert — Phe 18 novembre 2013 à 16:39 (UTC)Répondre[répondre]
+Une question idiote d’un néophyte : quand j’ai relu les dernières pages d’un livre, est-ce qu’il faut modifier l’avancement du livre (dans la page Livre:) ? ou est-ce que cela se fait automatiquement ? TED (d) 31 octobre 2013 à 12:04 (UTC)Répondre[répondre]
+Il faut modifier l’avancement. Il y a deux modèle : un avec les lettre C / V/ T pour à Corriger/ à Valider/ Terminé à inscrire et un autre avec un menu déroulant. Cordialement --Le ciel est par dessus le toit (d) 31 octobre 2013 à 12:19 (UTC)Répondre[répondre]
+Merci ! J’espère que je n’ai pas fait d’erreur. TED (d) 31 octobre 2013 à 12:25 (UTC)Répondre[répondre]
+Normalement il n'y a qu'un modèle, avec menu déroulant, tu as un exemple de Livre: où le menu n'apparaît pas ? — Phe 31 octobre 2013 à 13:09 (UTC)Répondre[répondre]
+Exemple celui-ci : Livre:Reverdy_-_Etoiles_peintes.djvu mais il y en à beaucoup d’autre --Le ciel est par dessus le toit (d) 31 octobre 2013 à 16:12 (UTC)Répondre[répondre]
+Chez moi, il apparaît avec un menu… TED (d) 31 octobre 2013 à 16:34 (UTC) Répondre[répondre]
+Pareil, chez moi aussi il apparaît avec un menu. Si tu sais comment accéder à la console d'erreur javascript de ton browser, est-ce que tu as des messages d'erreurs ? — Phe 31 octobre 2013 à 21:55 (UTC)Répondre[répondre]
+Je viens de ré-essayé  il appairait la première fois sans la menu déroulant, la seconde avec le menu déroulant. Décidément je ne comprends pas.  Phe je ne sais pas accéder à la console d’erreur java script, mais bon ça ne me gène pas pour contribuer. Alors ça restera comme ça. Cordialement --Le ciel est par dessus le toit (d) 3 novembre 2013 à 17:16 (UTC)Répondre[répondre]
+Je viens d'avoir le même problème, j'ai corrigé mais il faut forcer un rechargement des scripts pour que la correction soit prise en compte. — Phe 7 novembre 2013 à 19:34 (UTC)Répondre[répondre]
+Sous-page /Présentation[modifier]
+De retour après une absence due à des évènements IRL, je découvre dans le pavé "nouveautés" de l'accueil des petites icônes bleues qui branchent sur des pages de prose pour vanter l'ouvrage dont il s'agit, y compris le nombre d'heures que doit me coûter sa lecture. Par contre, une fois sur l'ouvrage en question, je ne trouve rien qui me prévienne de l'existence de la prose en question. Est-ce que j'ai mal vu ? J'avais moi-même orné d'un commentaire plus ou moins technique la page d'entrée de certains ouvrages dont je me suis occupé, par exemple Promenade d’un Français dans l’Irlande. Est-ce la même intention ? (et alors il faut pouvoir signaler "il y a une note" au lecteur qui est arrivé par un autre chemin que "Nouveautés"). Digression: indiquer le nombre d'heures que va coûter la lecture de Le Banquet (trad. Cousin) me semblerait une insulte au bon sens; heureusement ce n'est pas encore le cas. --Wuyouyuan - discuter 31 octobre 2013 à 10:01 (UTC)Répondre[répondre]
+Je ne me suis jamais vraiment éloigné de Wikisource mais je découvre - grâce à ton message - l'existence des ces pages.
+L'idée et l'intention générale me semble très bonne. Sur la forme, effectivement il y a des améliorations possibles. Wuyouyuan (d · c · b) (tiens une notification ), que penserais-tu de l'intégrer directement dans le bloc titre du Proofreadpage header template ? Le temps de lecture me semble également plutôt malvenu (et éminemment subjectif). Autant sur Le Fils naturel/Présentation ou Simple Histoire/Présentation cela me choque moins car cela arrive en fin de la présentation après les informations essentielles ; autant sur La Dame verte/Présentation cela fait un peu ridicule. Le nombre de mots n'est-il pas suffisant ? Est-ce que cela ne pourrait pas prendre une forme plus discrète (des icônes d'horloge comme  par exemple ?). Il serait bon de prévoir une catégorie pour retrouver facilement toute ces présentations.
+Cdlt, VIGNERON * discut. 2 novembre 2013 à 11:30 (UTC)Répondre[répondre]
+Pas d'accord pour mettre ça dans le Header Template (:Livre). Il y a déjà trop de choses à mon avis. Et c'est mettre du subjectif (de la création de contributeurs) dans un objet qui est normalement réservé à la description codée d'un ouvrage. Même l'épigraphe est du texte existant. Ca me parait être, techniquement, un objet comparable au "Texte entier", donc une sous-page ayant un nom conventionnel. On pourra alors le créer, ou non, selon l'humeur et le besoin, et son existence sera signalée dans l'entête par une indication discrète, du genre "Note de lecture" ou "Appréciation critique", qui apparait automatiquement (comme Texte sur une seule page) quand c'est un ouvrage canoniquement construit, ou grâce à un modèle semblable à TXT. Digression: j'avais, il y a longtemps, agité une idée du même genre sous le nez des pères fondateurs Yann et Marc, qui ne l'avaient pas trouvée bonne, y voyant une porte ouverte aux controverses et inepties qui font tout le plaisir de contribuer à Wikipedia. --Wuyouyuan - discuter 3 novembre 2013 à 04:18 (UTC)Répondre[répondre]
+Et juste une lien dans le Proofreadpage header template ? (eg. en dessous ou à côté du lien « texte entier »).
+Si certaines des présentations actuelles sont effectivement un peu trop subjectives, ce n’est pas le but principal ce me semble. Le but − comme l'indique le titre de ces sous-pages − est de faire une « présentation » (donc quelque chose de relativement neutre et plutôt une bonne idée) et pas du tout des « notes de lectures » ou « des appréciations critiques » (qui sont effectivement plutôt une très mauvaise idée).
+PS: je n’ai pas compris le sens de « quand c'est un ouvrage canoniquement construit, ou grâce à un modèle semblable à TXT. » :::Cdlt, VIGNERON * discut. 4 novembre 2013 à 08:20 (UTC)Répondre[répondre]
+Nous sommes d'accord. Un lien qui apparait automatiquement sous le pavé "Titre" à côté ou en dessous de "Texte complet sur une page", si la sous-page est présente. Il n'y a plus qu'à réaliser. Le libellé Présentation de l'ouvrage me plait.  PS: "canoniquement construit", c'est à dire en invoquant le fac-simile et les pages et en générant automatiquement les entêtes. Sinon, on met le lien explicitement. --Wuyouyuan - discuter 6 novembre 2013 à 00:40 (UTC)Répondre[répondre]
+Modèle:Iwpage et Modèle:Lang[modifier]
+Bonjour ! Serait-il possible d’ajouter un {{lang}} dans {{iwpage}} (et les autres modèles de la même famille) pour indiquer automatiquement que l’extrait transclus est dans une autre langue ? Cela ne fonctionne pas quand on ajoute {{lang}} autour de {{iwpage}}. TED (d) 31 octobre 2013 à 12:28 (UTC) Répondre[répondre]
+C'est un peu plus compliqué que ça, on ne peut pas utiliser le modèle lang, j'ai ajouté le code qui va bien directement dans le modèle [9], ce qui m'a demandé aussi de modifier le script qui gère ça. Il faut forcer un rafraîchissement des scripts pour obtenir la version la plus récente qui fonctionne avec ce modèle modifié. — Phe 31 octobre 2013 à 12:58 (UTC)Répondre[répondre]
+Super ! Merci beaucoup. NB : ajouter le code qui va bien dans le modèle, c’était bien ce que je voulais dire… TED (d) 31 octobre 2013 à 13:00 (UTC)Répondre[répondre]
+Récupérée de « https://fr.wikisource.org/w/index.php?title=Wikisource:Scriptorium/Octobre_2013&oldid=11012430 »
+Menu de navigation
+Outils personnels
+Non connecté(e)DiscussionContributionsCréer un compteSe connecter
+Espaces de noms
+Page de projetDiscussion
+français
+Affichages
+LireModifierAjouter un sujetVoir l’historique
+Plus
+Rechercher
+Lire
+AccueilIndex des auteursPortails thématiquesAide au lecteurContacter WikisourceTexte au hasardAuteur au hasard
+Contribuer
+ScriptoriumForum des nouveauxAideCommunautéLivre au hasardModifications récentesFaire un don
+Imprimer / exporter
+Créer un livreTélécharger comme PDFVersion imprimable
+Outils
+Pages liéesSuivi des pages liéesPages spécialesLien permanentInformations sur la page
+Dans d’autres langues
+Ajouter des liens
+ La dernière modification de cette page a été faite le 9 janvier 2021 à 18:19.
+Les textes sont disponibles sous licence Creative Commons Attribution-partage dans les mêmes conditions ;
+d’autres conditions peuvent s’appliquer.
+Voyez les Conditions d’utilisation pour plus de détails.
+Politique de confidentialité
+À propos de Wikisource
+Avertissements
+Code de conduite
+Version mobile
+Développeurs
+Statistiques
+Déclaration sur les témoins (cookies)

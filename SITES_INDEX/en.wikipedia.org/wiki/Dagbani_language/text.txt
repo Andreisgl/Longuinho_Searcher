@@ -1,0 +1,779 @@
+Dagbani language - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Languages
+Language links are at the top of the page across from the title.
+Search
+Search
+Create accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1In Togo
+2Dialects
+3Orthography
+4Phonology
+Toggle Phonology subsection
+4.1Vowels
+4.2Consonants
+4.3Tone
+5Grammar
+Toggle Grammar subsection
+5.1Lexicon
+5.2Noun Class System[21]
+5.3Pronouns
+5.3.1Non-emphatic Pronouns
+5.3.1.1Preverbal
+5.3.1.2Postverbal
+5.3.2Emphatic Pronouns
+5.3.3Reciprocal Pronouns
+5.3.4Reflexive Pronouns
+5.3.5Possessive Pronouns
+5.3.6Relative Pronouns[23]
+5.3.7Interrogative Pronouns[24]
+5.3.8Demonstrative Pronouns
+5.3.9Indefinite Pronouns
+6Syntax
+Toggle Syntax subsection
+6.1Word Order
+6.2Verb Phrase
+6.2.1Preverbal Particles
+6.2.1.1Major Particles[28]
+6.2.2Main Verb
+6.2.3Postverbal Particles
+6.2.4Conjoint / Disjoint Markers[29]
+6.3Questions
+6.3.1Ex situ
+6.3.2In situ
+7Dagbani language scholars
+8References
+9External links
+Toggle the table of contents
+Toggle the table of contents
+Dagbani language
+28 languages
+अंगिकाتۆرکجهBrezhonegCatalàChiShonaDagbanliDeutschEspañolEsperantoEuskaraفارسیFiji HindiFrançaisGalegoHausaKiswahiliLietuviųNederlands日本語OccitanPiemontèisPortuguêsРусскийᱥᱟᱱᱛᱟᱲᱤSuomiSvenskaதமிழ்中文
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Download as PDFPrintable version
+In other projects
+Wikimedia CommonsWikivoyage
+From Wikipedia, the free encyclopedia
+Gur language of Northern Ghana
+DagbaniDagbanliRegionKingdom of Dagbon (Ghana), TogoEthnicityDagbambaNative speakers3,200,000 (2013)[1]Language familyNiger–Congo?
+Atlantic–CongoVolta-CongoSavannasGurNorthern GurOti–VoltaWestern Oti-VoltaSoutheasternDagbaniDialects
+Nanuni (Nanumba)
+Tomosili
+Nayahali
+Writing systemLatinLanguage codesISO 639-3dagGlottologdagb1246This article contains IPA phonetic symbols. Without proper rendering support, you may see question marks, boxes, or other symbols instead of Unicode characters. For an introductory guide on IPA symbols, see Help:IPA.
+PersonDagbambia[2]LanguageDagbanliCountryDagbɔŋ
+Dagbani (or Dagbane), also known as Dagbanli and Dagbanle, is a Gur language that is spoken in Ghana and Northern Togo. Its native speakers are estimated around 3,160,000. That number increases to more than 6,000,000 if mutually-intelligible languages such as Mamprusi are added. It is a compulsory subject in primary and junior high schools in the Dagbon Kingdom, which covers the north-eastern part of Ghana.[1] Dagbani is the most widely spoken language in northern Ghana, specifically among the tribes that fall under the authority of the King of Dagbon, known as the Yaa-Naa.
+Dagbon is a traditional kingdom situated in northern Ghana, and the Yaa-Naa is the paramount chief or king who governs over the various tribes and communities within the Dagbon kingdom.
+It is closely related to and mutually intelligible with the Mampelle language, also spoken in Northern Region, Ghana. Dagbani is also similar to the other languages of the same subgroup spoken in this region, the Dagaare and Wali languages, spoken in Upper West Region of Ghana, and the Frafra language, spoken in Upper East Region of Ghana.[3][4]
+In Togo[edit]
+In Togo, Dagbani is spoken in the Savanes Region at the border with Ghana.
+Dialects[edit]
+Dagbani has a major dialect split between Eastern Dagbani, centred on the traditional capital town of Yendi, and Western Dagbani, centred on the administrative capital of the Northern Region, Tamale. The dialects are, however, mutually intelligible, and mainly consist of different root vowels in some lexemes, and different forms or pronunciations of some nouns, particularly those referring to local flora. The words Dagbani and Dagbanli given above for the name of the language are respectively the Eastern and Western dialect forms of the name, but the Dagbani Orthography Committee resolved that “It was decided that in the spelling system <Dagbani> is used to refer to the ... Language, and <Dagbanli> ... to the life and culture”;[5][original research?] in the spoken language, each dialect uses its form of the name for both functions.
+Orthography[edit]
+A teacher at School for Life, a project in northern GhanaDagbani is written in a Latin alphabet with the addition of the apostrophe, the letters ɛ, ɣ, ŋ, ɔ, and ʒ, and the digraphs ch, gb, kp, ŋm, sh and ny. The literacy rate used to be only 2–3%.[6][7] This percentage is expected to rise as Dagbani is now a compulsory subject in primary and junior secondary school all over Dagbon. The orthography currently used[8] (Orthography Committee /d(1998)) represents a number of allophonic distinctions. Tone is not marked.
+a
+b
+ch
+d
+e
+ɛ
+f
+g
+gb
+ɣ
+h
+i
+j
+k
+kp
+l
+m
+n
+ny
+ŋ
+ŋm
+o
+ɔ
+p
+r
+s
+sh
+t
+u
+w
+y
+z
+ʒ
+’
+Phonology[edit]
+Vowels[edit]
+Dagbani has eleven phonemic vowels – six short vowels and five long vowels:
+Front
+Central
+Back
+High
+i
+ɨ
+u
+Mid
+e
+o
+Low
+a
+Front
+Central
+Back
+High
+iː
+uː
+Mid
+eː
+oː
+Low
+aː
+Olawsky (1999) puts the schwa (ə) in place of /ɨ/, unlike other researchers on the language[9] who use the higher articulated /ɨ/. Allophonic variation based on tongue-root advancement is well attested for 4 of these vowels: [i] ~ [ɪ]/[ə], [e] ~ [ɛ], [u] ~ [ʊ] and [o] ~ [ɔ].
+Consonants[edit]
+Labial
+Alveolar
+Palatal
+Velar
+Labial-velar
+Glottal
+Nasal
+m
+n
+ɲ
+ŋ
+ŋ͡m
+Stop/Affricate
+Voiceless
+p
+t
+(t͡ʃ)
+k
+k͡p
+(ʔ)
+Voiced
+b
+d
+(d͡ʒ)
+ɡ
+ɡ͡b
+Fricative
+Voiceless
+f
+s
+(ʃ)
+x
+(h)
+Voiced
+v
+z
+(ʒ)
+Lateral
+l
+Sonorant
+(ɾ)
+j
+w
+[x] mainly occurs phonemically among other Western dialects.
+/s/ debuccalizes as a glottal [h] when in intervocalic position. /ɡ/ debuccalizes as a glottal stop [ʔ] post-vocalic position.
+Sounds /k, ɡ, s, z/ are realized as [t͡ʃ, d͡ʒ, ʃ, ʒ] when preceding front vowels.
+/d/ can be heard as [ɾ] when in post-vocalic positions.[9]
+Tone[edit]
+Dagbani is a tonal language in which pitch is used to distinguish words, as in gballi [ɡbálːɪ́] (high-high) 'grave' vs. gballi [ɡbálːɪ̀] (high-low) 'zana mat'.[10] The tone system of Dagbani is characterised by two level tones and downstep (a lowering effect occurring between sequences of the same phonemic tone).
+Grammar[edit]
+Dagbani is agglutinative, but with some fusion of affixes. The constituent order in Dagbani sentences is usually agent–verb–object.
+Lexicon[edit]
+There is an insight into a historical stage of the language in the papers of Rudolf Fisch reflecting data collected during his missionary work in the German Togoland colony in the last quarter of the nineteenth century, especially the lexical list,[11] though there is also some grammatical information[12] and sample texts.[13] A more modern glossary was published in 1934 by a southern Ghanaian officer of the colonial government, E. Foster Tamakloe, in 1934,[14] with a revised edition by British officer Harold Blair.[15] Various editors added to the wordlist and a more complete publication was produced in 2003 by a Dagomba scholar, Ibrahim Mahama.[16] According to the linguist Salifu Nantogma Alhassan,[17] there is evidence to suggest that there are gender-related double standards in the Dagbani language with "more labels that trivialise females than males."[18] Meanwhile, the data was electronically compiled by John Miller Chernoff and Roger Blench (whose version is published online),[19] and converted to a database by Tony Naden, on the basis of which a full-featured dictionary is ongoing and can be viewed online.[20]
+Noun Class System[21][edit]
+Noun Class
+Example (SG)
+Example (PL)
+SG Suffix
+PL Suffix
+Gloss
+1
+tIb-li
+tIb-a
+-li
+-a
+ear
+2
+paG-a
+paG-ba
+-a
+-ba
+woman
+3
+gab-ga
+gab-si
+-ga
+-si
+rope
+4
+wab-gu
+wab-ri
+-gu
+-ri
+elephant
+5
+kur-gu
+kur-a
+-gu
+-a
+old
+6
+ko-m/kom-
+ko-ma/kom-a
+-m/
+-ma/-a
+water
+Pronouns[edit]
+Each set of personal pronouns in Dagbani is distinguished regarding person, number and animacy. Besides the distinction between singular and plural, there is an additional distinction between [+/- animate] in the 3rd person. Moreover, Dagbani distinguishes between emphatic and non-emphatic pronouns and there are no gender distinctions. While there is no morphological differentiation between grammatical cases, pronouns can occur in different forms according to whether they appear pre- or postverbally.[22]
+Non-emphatic Pronouns[edit]
+Preverbal[edit]
+Preverbal pronouns serve as subjects of a verb and are all monosyllabic.[22]
+Person
+SG
+PL
+1
+n
+ti
+2
+a
+yi
+3 [+animate]
+o
+bɛ
+3 [-animate]
+di
+di,  ŋa
+Postverbal[edit]
+Postverbal pronouns usually denote objects.[22]
+Person
+SG
+PL
+1
+ma
+ti
+2
+a
+ya
+3 [+animate]
+o
+ba
+3 [-animate]
+li
+li, ŋa
+Given the fact that preverbal and postverbal pronouns do not denote two complementary sets, one could refer to them as unmarked or specifically marked for postverbal occurrence.[22]
+Person
+SG
+PL
+Unmarked
+Marked
+Unmarked
+Marked
+1
+n
+ma
+ti
+2
+a
+yi
+ya
+3 [+animate]
+o
+bɛ
+ba
+3 [-animate]
+di
+li
+di
+(ŋa)
+li
+Emphatic Pronouns[edit]
+Emphatic pronouns in Dagbani serve as regular pronouns in that they can stand in isolation, preverbally or postverbally.[22]
+Person
+SG
+PL
+1
+mani
+tinima
+2
+nyini
+yinima
+3 [+animate]
+ŋuni, ŋuna
+bɛna, bana
+3 [-animate]
+dini, dina
+ŋana
+Reciprocal Pronouns[edit]
+Reciprocals are formed by the addition of the word taba after the verb.[22]
+Ti1PLŋmaaicuttaba.each-otherTi ŋmaai taba.1PL cut each-other„We cut each other.“[22]
+Reflexive Pronouns[edit]
+Reflexive pronouns are formed by the suffix -maŋa, which is attached to the non-emphatic preverbal pronoun.[22]
+O3SGŋmaagicuto-maŋa.3SG-REFLO ŋmaagi o-maŋa.3SG cut 3SG-REFL„He cuts himself.“[22]
+The affix maŋa can also occur as an emphatic pronoun after nouns.[22]
+O3SGzofriendmaŋa.REFLO zo maŋa.3SG friend REFL„His friend himself.“[22]
+Possessive Pronouns[edit]
+The possessive pronouns in Dagbani exactly correspond to the preverbal non-emphatic pronouns, which always proceed the possessed constituent. 
+O3SGyili.houseO yili.3SG house„His house.“[22]
+Relative Pronouns[23][edit]
+In Dagbani the relative pronouns are ŋʊn ("who") and ni ("which").[23]
+Bi-sochildŋʊnRELzusteal.PFVbaadoglaDETtʃaŋ-ja.go-PFVBi-so ŋʊn zu baa la tʃaŋ-ja.child REL steal.PFV dog DET go-PFV„The child who stole the dog is gone.“[23]
+Ti3PLɲasee.PFVbi-sochildŋʊnRELzusteal.PFVbaadogla.DETTi ɲa bi-so ŋʊn zu baa la.3PL see.PFV child REL steal.PFV dog DET„We saw the child who stole the dog.“[23]
+The relative pronouns in Dagbani are not obligatory present and can also be absent depending on the context, as the following example illustrates.[23]
+AzimaAzimakaagivisit.PFVji-lihouseʃɛliproniRELdabuy.PFVla.DETAzima kaagi ji-li ʃɛli ni da la.Azima visit.PFV house pro REL buy.PFV DET„Azima visited the house which I bought.“[23]
+AzimaAzimakaagivisit.PFVji-lihousela.DETAzima kaagi ji-li la.Azima visit.PFV house DET„Azima visited the house which I bought.“[23]
+Relative pronouns in Dagbani can also be complex in its nature, such that they consist of two elements, an indefinite pronoun and an emphatic pronoun.[22]
+Bi-achildsoproŋʊnRELzusteal.PFVbaadoglaDETtʃaŋ-ja.go.PFVBi-a so ŋʊn zu baa la tʃaŋ-ja.child pro REL steal.PFV dog DET go.PFV„The child who stole the dog is gone.“[23]
+Su-aKnifeʃɛliprodinRELpabeteebʊlʊtable.SGzʊʔʊheadmaaDETkabiya.break.PFVSu-a ʃɛli din pa teebʊlʊ zʊʔʊ maa kabiya.Knife pro REL be table.SG head DET break.PFV„The knife which was on the table is broken.“[23]
+Interrogative Pronouns[24][edit]
+Interrogative pronouns in Dagbani make a distinction between human and non-human. 
+Dagbani
+English
+bòn / bà
+what
+ŋùní
+who
+bòzùɤù
+why
+yà
+where
+díní
+which
+álá
+how much
+bòndàlì
+when
+sáhá díní
+when
+wùlà
+how
+Additionally, interrogative pronouns inflect for number, but not all of them. Those inflecting for number belong to the semantic categories [ +THING], [ +SELECTION], [ +PERSON].[25]
+Semantic Category
+SG
+PL
+Gloss
+[+PERSON]
+ŋùní
+bànímà
+who/whom
+[+SELECTION]
+dìní
+dìnnímà
+which
+[+THING]
+bò
+bònímà
+what
+Demonstrative Pronouns[edit]
+Demonstrative pronouns in Dagbani make a morphological difference between the singular and plural form. The demonstrative pronoun ŋɔ moves to the specifier of the functional NumP and if Num is plural, then the plural morphem -nímá attaches to the demonstrative pronoun. If Num is singular, there is a zero morphem, such that the demonstrative pronoun does not differ in its morphological form.[26]
+Demonstrative Pronoun
+SG
+PL
+Gloss
+Proximal
+ŋɔ
+ŋɔnímá
+this/these
+Distal
+ŋɔ há
+ŋɔnímá há
+that/those
+Indefinite Pronouns[edit]
+Dagbani distinguishes not only between singular and plural for indefinite pronouns, but also between [+/-animate]. Therefore, there are two pairs of indefinite pronouns. Indefinites are basically used in the same way as adjectives, as their morphological form is similar to that of nouns and adjectives.[22] In order to express an indefinite like "something" the inanimate singular form is combined with the noun bini ("thing"). 
+SG
+PL
+Gloss
+[+animate]
+<so>
+<shɛba>
+somebody
+[-animate]
+<shɛli>
+<shɛŋa>
+something
+Syntax[edit]
+Word Order[edit]
+Dagbani has a rigid SVO word order. In the canonical sentence structure, the verb precedes the direct and indirect object as well as adverbials. The clause structure exhibits varying functional elements projecting various functional phrasal categories including tense, aspect, negation, mood and the conjoint/disjoint paradigm.
+DawuniDawunikú-r-íkill-IPFV-CONJsòònsírabbitsmáá.DEFDawuni kú-r-í sòònsí máá.Dawuni kill-IPFV-CONJ rabbits DEF„Dawuni kills the rabbits.[25]
+PáɣàwomanmááDETtígive.PFVbíhíchildrennyùlíyamzùŋò.todayPáɣà máá tí bíhí nyùlí zùŋò.woman DET give.PFV children yam today„The woman has given the children yam today.[25]
+Verb Phrase[edit]
+The VP in Dagbani consists of a preverbal particle encoding tense, aspect and mood, the main verb, and a postverbal particle which marks focus.[27]
+Preverbal Particles[edit]
+Major Particles[28][edit]
+Tense, Aspect, Modal Particles
+Dagbani
+today (also once upon a time)
+də
+one day away
+sa
+two or more days away
+daa
+habitual
+yi
+still, not yet
+na
+actually
+siri
+once again, as usual
+yaa
+suddenly, just
+dii
+non-future negative
+bə
+future affix
+nə
+future negative
+ku
+imperative subjunctive negative
+de
+again
+lah
+Main Verb[edit]
+Each verb in Dagbani has two forms, a perfective and an imperfective form with very few exceptions. In general, the perfective form is the unmarked form, whereas the imperfective form corresponds to the progressive form, or in other words it refers to an action, which is still in progress.[22] The perfective is nearly syncretic with the infinitive, which in turn has an /n-/-prefix. The imperfective is formed by the suffix /-di/.[22]
+The inflectional system in Dagbani is relatively poor as compared to other languages. There is no grammatical agreement, since number and person are not marked. Tense is marked only under certain constraints. Basically, Dagbani makes a distinction between future and non-future, however the main distinction does not concern Tense, but Aspect and occurs between perfective and imperfective. 
+Postverbal Particles[edit]
+The postverbal particle la marks presentational focus, rather than contrastive focus.[27] In comparison to the postverbal particle in Dagaare, the function of this Dagbani particle is also not yet fully investigated. There are native speakers, who consider the particle to indicate that what is expressed to the hearer is not shared knowledge. Issah (2013) on the other hand argues that the presence of la asserts new information, while its absence indicates old information.
+NapariNaparida-Øbuy.PFVlaFOCloori.lorryNapari da-Ø la loori.Napari buy.PFV FOC lorry„Napari has bought a lorry.“[27]
+NapariNaparida-Øbuy.PFVloori.lorryNapari da-Ø loori.Napari buy.PFV lorry„Napari has bought a lorry.“[27]
+Conjoint / Disjoint Markers[29][edit]
+Conjoint
+Disjoint
+Imperfective
+Ò3SGnyú-r-ídrink-IPFV-CONJkóm.waterÒ nyú-r-í kóm.3SG drink-IPFV-CONJ water„He is drinking water.“
+Ò3SGnyú-r-á.drink-IPFV-CONJÒ nyú-r-á.3SG drink-IPFV-CONJ„He is drinking.“
+Perfective
+Ò3SGnyú-Ødrink.PFV-CONJkóm.waterÒ nyú-Ø kóm.3SG drink.PFV-CONJ water„He drank water.“
+Ò3SGnyú-yá.drink.PFV-CONJÒ nyú-yá.3SG drink.PFV-CONJ„He drank.“
+Questions[edit]
+In Dagbani, the question word can either appear in situ or ex situ.[29]
+Ex situ[edit]
+Dagbani
+Question words
+Bɔ
+what
+Dini
+which
+Ya
+where
+Wula
+how
+ŋuni
+who
+ŋun
+whose
+Bɔ zuɤu
+why
+The basic word order in Dagbani questions is SVO, such that the question word is fronted and followed by the focus marker ka. This is the unmarked form and accepted by many native speakers as "natural".[22]
+YawherekaFOCa2SGchana?go.IPFVYa ka a chana?where FOC 2SG go.IPFV„Where did you go to?“[22]
+BɔwhatkaFOCa2SGbɔra?want.IPFVBɔ ka a bɔra?what FOC 2SG want.IPFV„What did you want?“[22]
+In situ[edit]
+Yes-/No-question in Dagbani are formed by the disjunction bee ('or'), which either conjoints two propositions or which occurs sentence-finally to indicate that the sentence with SVO order is actually a question. 
+A2SGniFUTkanacomebeeora2SGkuNEG.FUTkana?comeA ni kana bee a ku kana?2SG FUT come or 2SG NEG.FUT come„Will you come or will you not come?“[22]
+A2SGniFUTkanacomebee?orA ni kana bee?2SG FUT come or„Will you come or not?“[22]
+In addition to Yes-/No-questions, the question word can also occur in sentence-final position. This might correspond to echo questions.[30]
+NapariNaparidábuy.PFVbò?whatNapari dá bò?Napari buy.PFV what„Napari bought what?“[30]
+NapariNaparidábuy.PFVbúá.goatNapari dá búá.Napari buy.PFV goat„Napari bought a goat.“[30]
+Dagbani language scholars[edit]
+Fusheini Hudu
+Knut Olawsky
+Roger Blench
+Tony Naden
+Samuel Alhassan Issah
+References[edit]
+^ a b Dagbani at Ethnologue (25th ed., 2022) 
+^ Naden, Tony (2014). Dagbani dictionary. Webonary.
+^ Naden, Tony (1989). Gur. Lanham, MD: University Press of America. pp. 141–168.
+^ Bendor-Samuel, John T. (1989). The Niger-Congo Languages. Lanham, MD: University Press of America.
+^ Committee, Dagbani Orthography (1998). Approved Dagbani Orthography. n/p (Tamale, N.R.): privately.
+^ Denteh, A. C. (Andrew Crakye) (1974). Spoken Dagbani for non-Dagbani beginners. Pointer. OCLC 4602509.
+^ Olawsky, Knut J. (2003-01-02), "What is a word in Dagbani?", Word, Cambridge University Press, pp. 205–226, doi:10.1017/cbo9780511486241.009, ISBN 978-0-521-81899-5
+^ Sergio, Baldi; Adam, Mahmoud (2006). Dagbani basic and cultural vocabulary. Univ. degli Studidi Napoli "L'Orientale". p. 10. ISBN 9788895044071. OCLC 613117515.
+^ a b Hudu, Fusheini (2010). Dagbani tongue-root harmony: a formal account with ultrasound investigation. Vancouver: University of British Columbia.
+^ Olawsky 1997
+^ Fisch, Rudolf (1913). "Wörtersammlung Dagbané-Deutsch". MSOS. 16: 113–214.
+^ Fisch, Rudolf (1912). "Grammatik der Dagomba-Sprache". Archiv für das Studium Deutscher Kolonialsprachen. 14: 1–79.
+^ Fisch, Rudolf (1913). "Dagbane Sprachproben". M. Veröfffentlich Vom Seminar für Kolonialsprachen in Hamburg. 8: beiheft.
+^ Tamakloe, E. Foster, ed. (1934). Dagomba Dictionary and Grammar. Accra: Government Printer.
+^ Tamakloe, Emmanuel F. (1940). H.A.Blair (ed.). Dagomba (Dagbane) Dictionary. Accra: Government Printer.
+^ Mahama, Ibrahim (2003). Dagbani-English Dictionary. Tamale, N/R: School for Life.
+^ "About the author: Salifu Nantogma Alhassan". Equinox. Retrieved 27 February 2015.
+^ Alhassan, Salifu Nantogma (October 2014). "Sexism and gender stereotyping in the Dagbanli language". Gender and Language. 8 (3): 393–415. doi:10.1558/genl.v8i3.393.
+^ "Dagbani Dictionary" (PDF).
+^ "Dagbani Dictionary progress" (PDF).
+^ Bodomo, Adams; Abubakari, Hasiyatu; Issah, Samuel Alhassan (2020). Handbook of the Mabia Languages of West Africa. Glienicke: Galda Verlag.
+^ a b c d e f g h i j k l m n o p q r s t u Olawsky, Knut (1999). Aspects of Dagbani grammar. Munich: Lincom.
+^ a b c d e f g h i Inusah, Abdul-Razak (2017). "Patterns of Relative Clauses in Dagbanli". SAGE Open: 1–9.
+^ Issah, Samuel Alhassan; Acheampong, Samuel Owoahene (2021). "Interrogative Pronouns in Dagbani and Likpakpaanl". Ghana Journal of Linguistics. 10 (3): 30–57. doi:10.4314/gjl.v10i2.2. S2CID 250234740.
+^ a b c Issah, Samuel Alhassan (2018). On the structure of A-bar constructions in Dagbani: Perspectives of wh-questions and fragment answers (Ph.D.thesis ed.). Frankfurt am Main: Johann Wolfgang Goethe-Universität.
+^ Issah, Samuel Alhassan (2018). A. Agwuele, A. Bodomo (ed.). The Form and Function of Dagbani Demonstratives. pp. 281–296. {{cite book}}: |work= ignored (help)
+^ a b c d Issah, Samuel Alhassan (2013). "The function of the post verbal particle la in Dagbani". Studies of African Linguistics. 42 (2): 153–176. doi:10.32473/sal.v42i2.107272. S2CID 141937504.
+^ Bodomo, Adams (1997). The structure of Dagaare. Stanford: CSLI Publications.
+^ a b "The VP-periphery in Mabia languages | Dagbani". The VP-periphery in Mabia languages. Retrieved 2022-09-23.
+^ a b c Issah, Samuel Alhassan; Smith, Peter W. (2020). "Subject and non-subject ex situ focus in Dagbani". Glossa: A Journal of General Linguistics. 5 (1): 1–36. doi:10.5334/gjgl.664. S2CID 113397056.
+External links[edit]
+ Dagbani  edition of Wikipedia, the free encyclopedia
+Dagbani language test of Wiktionary at Wikimedia Incubator
+Knut Olawsky's Homepage
+The UCLA Phonetics Lab Archive – Dagbani
+Dagbani kasahorow online dictionary
+Dagbane dictionary (PDF)
+The VP-periphery in Mabia languages
+vteLanguages of GhanaOfficial language
+English
+Creole languages
+Ghanaian Pidgin English
+Government-sponsored
+Akan
+Twi
+Asante
+Akuapem
+Bono
+Fante
+Dagaare
+Dagbani
+Dangme
+Ewe
+Ga
+Gonja
+Kasem
+Nzema
+Indigenous languagesGur
+Birifor
+Buli
+Chakali
+Chala
+Deg
+Delo
+Frafra
+Hanga
+Kabye
+Kamara
+Kantosi
+Konkomba
+Konni
+Kusasi
+Mamprusi
+Moba
+Mooré
+Nabit
+Notre
+Ntcham
+Nuni
+Paasaal
+Safaliba
+Sisaala
+Talni
+Tamprusi
+Tem
+Vagla
+Wali
+Winye
+Yobe
+Kwa
+Adele
+Ahanta
+Anii
+Animere
+Anyin
+Avatime
+Bowili
+Chakosi
+Cherepon
+Chumburung
+Efutu
+Gua
+Jwira-Pepesa
+Kebu
+Kposo
+Krache
+Larteh
+Lelemi
+Likpe
+Logba
+Mpra
+Nkami
+Nkonya
+Nyangbo-Tafi
+Santrokofi
+Sehwi
+Siwu
+Wasa
+Mande
+Bambara
+Ligbi
+Tonjon
+Others
+Gbe
+Hausa
+Mpur
+Nafaanra
+Yoruba
+Sign languages
+Ghanaian Sign Language
+Adamorobe Sign Language
+Nanabin Sign Language
+Immigrant languages
+English
+French
+Punjabi
+Spanish
+German
+Italian
+Hindi
+Hebrew
+Arabic
+Chinese
+Portuguese
+Japanese
+Romani
+Russian
+Danish
+Dutch
+vteGur languagesCentral GurOti–VoltaEastern
+Berba
+Mbelime
+Tammari
+Waama
+Western
+Birifor
+Dagaare
+Dagbani
+Frafra
+Hanga
+Kamara
+Kantosi
+Kusasi
+Mamprusi
+Mooré
+Nabit
+Notre
+Safaliba
+Talni
+Wali
+Gurma
+Gourmanché
+Konkomba
+Moba
+Nateni
+Ngangam
+Ntcham
+Other
+Buli
+Konni
+Nawdm
+Yom
+Bwa
+Bwamu
+Láá Láá Bwamu
+Cwi Bwamu
+Bomu
+GurunsiEastern
+Bago-Kusuntu
+Chala
+Delo
+Kabiyé
+Lama
+Lukpa
+Tem
+Northern
+Kalamsé
+Kasena
+Lyélé
+Nuni
+Pana
+Western
+Chakali
+Deg
+Paasaal
+Phuie
+Sisaala
+Tamprusi
+Vagla
+Winye
+Others
+Koromfe
+Cerma
+Turka
+Lobi
+Dyan
+Dogoso
+Khe
+SenufoNorthern
+Minyanka
+Nanerigé
+Sucite
+Supyire
+Central
+Cebaara
+Kar
+Nyarafolo
+Kpalaga
+Senara
+Syer-Tenyer
+Southern
+Djimini
+Nafanan
+Tagwana
+Kulango
+Kulango
+Lomakka
+Téén
+Wara–Natyoro
+Samwe
+Paleni
+Natioro
+Others
+Bariba
+Samo
+Tiefo
+Tusya
+Vyemo
+Yobe
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Dagbani_language&oldid=1164086724"
+Categories: Dagbani languageOti–Volta languagesLanguages of GhanaHidden categories: Language articles citing Ethnologue 25CS1 errors: periodical ignoredArticles with short descriptionShort description is different from WikidataAll articles that may contain original researchArticles that may contain original research from July 2017Articles with ambiguous glossing abbreviations
+ This page was last edited on 7 July 2023, at 21:55 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

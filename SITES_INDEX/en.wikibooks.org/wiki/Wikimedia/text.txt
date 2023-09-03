@@ -1,0 +1,205 @@
+Wikimedia - Wikibooks, open books for an open world
+Wikimedia
+From Wikibooks, open books for an open world
+Jump to navigation
+Jump to search
+The Wikimedia community logo.
+Wikimedia
+This book is about the Wikimedia Foundation, its goals, websites, criticisms and culture and how people can contribute to it.
+Table of Contents[edit | edit source]
+A printable version of Wikimedia is available.  (edit it)
+Administrative:
+Contributing to this book
+Chapters:
+What is Wikimedia?
+How to Use Wikis
+Editing
+Basic Markup Language
+Images
+Templates
+Categories
+What are namespaces?
+Administrators
+User Rights
+Protection
+The Wikis of Wikimedia, and What Goes Where
+Wikipedia
+The History of Wikipedia
+The Culture of Wikipedia
+The Wikipedia MOS
+Wikimedia Commons
+The History of Wikimedia Commons
+The Culture of Wikimedia Commons
+The Wikicommons MOS
+Wikibooks
+The History of Wikibooks
+The Culture of Wikibooks
+The Wikibooks MOS
+Wikinews
+The History of Wikinews
+The Culture of Wikinews
+The Wikinews Style Guide
+Wiktionary
+The History of Wiktionary
+The Culture of Wiktionary
+The Wiktionary MOS
+Wikisource
+The History of Wikisource
+The Culture of Wikisource
+The Wikisource MOS
+Wikiquote
+The History of Wikiquote
+The Culture of Wikiquote
+The Wikiquote MOS
+Wikispecies
+The History of Wikispecies
+The Culture of Wikispecies
+The Wikispecies MOS
+Wikiversity
+The History of Wikiversity
+The Culture of Wikiversity
+The Wikiversity MOS
+Meta
+The History of Meta
+The Culture of Meta
+The Meta MOS
+Global Rights
+Wikidata
+The History of Wikidata
+The Culture of Wikidata
+How Wikidata works
+Wikivoyage
+The History of Wikivoyage
+The Culture of Wikivoyage
+The Wikivoyage MOS
+Wikimedia Incubator
+The History of Wikimedia Incubator
+The Culture of Wikimedia Incubator
+Wikimedia Cloud Services
+The History of Wikimedia Cloud Services
+Acknowledgements[edit | edit source]
+The creators of Wikibooks, those who contributed financially and so generously of their time, the administrators who assist in copyright compliance, layout and copyediting, the co-editors this book is expected to attract, and most of all the readers whom, though they may not edit, contribute by reading and pondering the writing, for, without readers, there would be no point to writing. In particular, Adrignoli was very helpful with an earlier book by this book's lead author, and by establishing a tone of genuine academic and bibliophilic collegiality, made wikibooks a true refuge in a wikiworld often full of wicked ways.
+Outside agitators[edit | edit source]
+In the wikipaediae outside of wikibooks, James Neill, an administrator and bureaucrat at wikiversity has really been a very positive and welcoming force which is reciprocally quite welcome indeed. On Wiktionary, User: Internoob has been a sage and innovative source of information, insight and encouragement in often contentious debates.
+Technical note for contributors[edit | edit source]
+Please feel free to peruse Things to Do on the discussion page. You are also invited to the discussion page to suggest possible ways to handle the layout, which is at this time under study. Contributors are requested to read the text, unless making grammatical corrections, adding citations, or similar contributions which are not contingent upon understanding the overall vision of the book. The purpose of this request is to establish the unity which underlies that which is, in fact, a book, and to help contributors establish a feel for what this book is about. Of course, suggestions are always welcome for those who do not have the time to read the whole book but who have a burning desire to contribute an insight. Comments are also welcome on this request, whether it is regarded as draconian, or as an invitation to a reckless free for all of under-qualified editorial experiments!
+Local manual of style[edit | edit source]
+Introduction[edit | edit source]
+Wikipaediae is the evolving culture of collaborative internet creativity utilizing wiki software. It includes the various projects of Wikimedia Foundation and separate groups which utilize similar software and collective protocol. It includes an ever-expanding array of projects, which in turn has fostered a subset of projects to provide intellectual[1] and technical,Template:Fix/category[citation needed][2] infrastructure and support. Sometimes these are referred to as backstage projects.[3]Included are variants of Wikipedia in multiple languages, but also collaborative media which utilize similar or derivative software and interactional models. These include wiktionary,
+wikibooks,wikiversity, which are respectively online dictionary, publishing consortium and (as yet unaccredited) university in cyberspace. Some accredited institutes of higher education utilize one or more resources in the world of wikipaediae, including wikiversity courses.
+Other species of wikipaediae provide support to Wikipedia and its offshoots. These include wikicommons, which provides content, and mediawiki,which provides developer support in utilizing the software. The latter is not to be confused with Wikimedia, which hosts strategic planning papers and discussion.
+Overview[edit | edit source]
+Different wikis or projects necessarily encounter different issues depending upon the underlying structure of the wiki, its language, audience, contributors and administrators.
+Disputes inevitably arise and the mechanisms for disposing of disputes itself has an effect upon the contributors and content attracted.
+Shared policies and philosophies[edit | edit source]
+An underlying ethic across wiki projects is well expressed by the strategic planning motto:
+"Imagine a world in which every single human being can freely share in the sum of all knowledge."
+Consistent with this motto, many wikipaediae are interested in proliferating the benefits of their project. This reaches across linguistic barriers, a difficulty facilitated by translation software. Wikiversity Beta is a multilingual hub for the coordination of Wikiversity projects in different languages.
+[4]
+Divergent policies and philosophies[edit | edit source]
+Wikimedia projects have divergent policies with regard to content and administration. For instance, the rule of thumb on Wikipedia is to encourage contributions based upon primary sources. Commensurately, Wikipedia discourages original research. However, throughout the world of wikipaedie, there are different views in this matter. For instance wikinews, which aspires to a specific vision of journalism, has a policy page titled "Original reporting" which establishes guidelines for preparing material which is novel in the world of publishing.
+Wikiversity specifically encourages original research as long as it is consistent with its guidelines.
+Shared Structures, Different Functions[edit | edit source]
+Portals[edit | edit source]
+Portals are designed as an easy user interface to facilitate reading. They originated in the Polish and German Wikipedias. In early 2005, the concept was imported to the English Wikipedia.
+Projects[edit | edit source]
+Projects are similar to portals in that they aggregate content but they are not as user friendly and are more apt to be used by editors.
+Shared problems[edit | edit source]
+Wikipaediae, not unlike frontiers in the gold rush days, is disproportionately comprised of men. Many Wikimedia projects report under-representation of women in its editorial and administrative teams.
+[5]
+Editor retention is also a frequently discussed problem area.Template:Fix/category[citation needed]
+Advocacy agendas[edit | edit source]
+Wikimedia projects tend to emphasize non-ideological, policy-neutral approaches to content, but with regard to the fundamental social contract which is the matrix of its operations, Wikipedians of all type can be fiercely protective. Free speech, censorship and public policy which impacts internet infrastructure are issues of concern across all WMF projects and other internet enterprises.
+[6]
+Wikigames[edit | edit source]
+The wikigame is a competition to see who can reach a "homebase" or destination wiki article from a random starting point solely by clicking links within wiki articles. [7]
+Major WMF projects[edit | edit source]
+Wikibooks[edit | edit source]
+Wikipedia[edit | edit source]
+Wikisource[edit | edit source]
+Wikimedia Foundation projects focused on policy[edit | edit source]
+Wikimedia Outreach[edit | edit source]
+Wikimedia Outreach is an offshoot of WikiMedia and is focused on building the numerical strength of foundation projects. It purports to serve as a home for multiple outreach and collaborative initiatives with "a bookshelf, a collection of best practices, and a coordination point for any activity that is directed to the public, to cultural institutions or to universities."[8]
+Meta-focused wiki:Strategy wiki[edit | edit source]
+Strategic planning for Wikimedia projects is an outgrowth of metawiki. In July 2009, the project began the first strategy-development project with the intention of producing a five-year strategic plan for the entire Wikimedia movement. More than 1,000 people from around the world contributed in more than 50 languages. Technologies deployed included IRC, [[Skype, mailing lists and wiki pages. The Bridgespan Group provided data andanalysis. Other important participants included Eugene Eric Kim of Blue Oxen Associates and  Wikipedian Philippe Beaudette.[9]
+Meta-focused backstage project: MediaWiki[edit | edit source]
+MediaWiki[10] provides software documentation and technical discussion for projects utilizing wiki software. Meta-focused wikis such as Wikimedia Outreach and Wikimedia Strategy are specialized projects that have their roots in Meta-Wiki.
+Technologically-focused backstage projects[edit | edit source]
+Bugzilla[edit | edit source]
+Bugzilla is a bug tracker for MediaWiki. To use bugzilla you need to create an account. [11]
+Incubator[edit | edit source]
+Incubator is a project for potential new language versions of wiki projects.
+Wikimedia Mailservices[edit | edit source]
+Wikimedia Mailservices administers Wikimedia Mailing Lists.
+Wikitech[edit | edit source]
+Wikitech is similar to mediawiki but includes server issues and overall Wikimedia technical documentation.
+Test Wikipedia[edit | edit source]
+Test Wikipedia is for testing software changes
+Wikistats[edit | edit source]
+Wikistats is for collecting and processing Wikimedia statistics.
+Bibliography[edit | edit source]
+[1]
+Wikimedia Laboratories[edit | edit source]
+Wikimedia Laboratories is for developing new extensions and features.
+Appendixes and Afterword[edit | edit source]
+Appendix A: List of Wikimedia Foundation Projects[edit | edit source]
+Appendix B: List Non-WMF Wiki Projects (Non-Profit)[edit | edit source]
+Contributors and copyright information[edit | edit source]
+Geoffery Bard initiated this wikibook and all content in the first post was based upon a Wikipedia article of which he was, at that time, the sole contributor. Much of the information was found at the introductory pages of various WMF projects.
+Other anticipated contributors welcome[edit | edit source]
+Adrignoli is an active administrator at Wikibooks and it is anticipated that Adrignoli will provide/has provided the usually excellent support and technical oversight of this project.
+Other contributors are welcome but are requested to read all text and contributor notes in place and as they may arise, including the discussion page, in order to maintain consistency of style and relevance to the topic.
+If you wish to republish[edit | edit source]
+Please comply with the following, taken from Wikimedia website: 
+Re-use of text:
+"Attribution: To re-distribute a text page in any form, provide credit to the authors either by including a) a hyperlink (where possible) or URL to the page or pages you are re-using, b) a hyperlink (where possible) or URL to an alternative, stable online copy which is freely accessible, which conforms with the license, and which provides credit to the authors in a manner equivalent to the credit given on this website, or c) a list of all authors. (Any list of authors may be filtered to exclude very small or irrelevant contributions.) This applies to text developed by the Wikimedia community."
+CC-BY-SA 3.0 License and the GFDL. By using this text, you agree to provide a hyperlink or URL back to this wikibook or a lawful successor site and that is sufficient attribution under the Creative Commons license. 
+References[edit | edit source]
+↑ "Communication Projects Group". Retrieved May 14, 2011.
+↑ "interwiki". Retrieved May 14, 2011.
+↑ "Wikimedia projects". Retrieved May 14, 2011.
+↑ "http://beta.wikiversity.org/wiki/Main_Page". Retrieved May 14, 2011. {{cite web}}: External link in |title= (help)
+↑ http://strategy.wikimedia.org/wiki/Wikimedia_Movement_Strategic_Plan_Summary
+↑ http://strategy.wikimedia.org/wiki/Advocacy_agendas
+↑ http://webtrends.about.com/od/wiki/a/wiki_game.htm
+↑ "Wikimedia Outreach". Retrieved May 14, 2011.
+↑ "Board approved summary". Retrieved May 14, 2011.
+↑ "MediaWiki contributors, "MediaWiki," MediaWiki, The Free Wiki Engine,". Retrieved May 14, 2011.
+↑ "omitted". Retrieved May 14, 2011. {{cite web}}: Unknown parameter |name= ignored (help)
+Retrieved from "https://en.wikibooks.org/w/index.php?title=Wikimedia&oldid=4112415"
+Categories: Book:WikimediaShelf:Web applicationsHidden categories: CS1 errors: external linksCS1 errors: unsupported parameterBooks with print versionSubject:Web applicationsSubject:Web applications/all booksSubject:Computer software/all booksSubject:Computing/all booksSubject:Books by subject/all booksSubject:Internet/all booksBook:Wikibooks Stacks/BooksShelf:Web applications/all booksShelf:Computer software/all booksDepartment:Computing/all booksShelf:Internet/all booksAlphabetical/WFreshly started booksBooks by completion status/all books
+Navigation menu
+Personal tools
+Not logged inDiscussion for this IP addressContributionsCreate accountLog in
+Namespaces
+BookDiscussion
+English
+Views
+ReadEditEdit sourceView history
+More
+Search
+Navigation
+Main PageHelpBrowseCookbookWikijuniorFeatured booksRecent changesDonationsRandom bookUsing Wikibooks
+community
+Reading room forumCommunity portalBulletin BoardHelp out!Policies and guidelinesContact us
+Tools
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+sister projects
+WikipediaWikiversityWiktionaryWikiquoteWikisourceWikinewsWikivoyageCommonsWikidataMediaWikiMeta-Wiki
+Print/export
+Create a collectionDownload as PDFPrintable version
+In other projects
+Wikimedia CommonsMeta-WikiWikidataWikinewsWikipediaWikiversity
+In other languages
+AzərbaycancaEspañolفارسیFrançaisहिन्दीTiếng Việt
+Edit links
+ This page was last edited on 21 September 2022, at 18:47.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikibooks
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

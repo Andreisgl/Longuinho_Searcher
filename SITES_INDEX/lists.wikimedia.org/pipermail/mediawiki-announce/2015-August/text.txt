@@ -1,0 +1,463 @@
+[MediaWiki-announce] MediaWiki Security and Maintenance Releases:1.25.2, 1.24.3, 1.23.10 - MediaWiki-announce - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+                            2023
+                        
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2022
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2021
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2020
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2019
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2018
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2017
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2016
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2015
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2014
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2013
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2012
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2011
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2010
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2009
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2008
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2007
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2006
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2005
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2004
+                        
+December
+            List overview
+ Download
+thread
+[MediaWiki-announce] MediaWiki Security and Maintenance Releases:1.25.2, 1.24.3, 1.23.10
+Chad
+                11 Aug
+                
+                    2015
+                
+            
+                11 Aug
+                
+                '15
+                
+            
+12:54 a.m.
+ 
+I would like to announce the release of MediaWiki 1.25.2, 1.24.3, and
+1.23.10.
+These releases fix three security issues in core, in addition to other bug
+fixes. Several extensions have also had security issues fixed. Download
+links
+are given at the end of this email
+== Security fixes ==
+* Internal review discovered that Special:DeletedContributions did not
+properly
+protect the IP of autoblocked users. This fix makes the functionality of
+Special:DeletedContributions consistent with Special:Contributions and
+Special:BlockList.
+<https://phabricator.wikimedia.org/T106893>
+* Internal review discovered that watchlist anti-csrf tokens were not being
+compared in constant time, which could allow various timing attacks. This
+could
+allow an attacker to modify a user's watchlist via csrf.
+<https://phabricator.wikimedia.org/T94116>
+* John Menerick reported that MediaWiki's thumb.php failed to sanitize
+various
+error messages, resulting in xss.
+<https://phabricator.wikimedia.org/T97391>
+Additionally, the following extensions have been updated to fix security
+issues:
+* Extension:SemanticForms - MediaWiki user Grunny discovered multiple
+reflected
+xss vectors in SemanticForms. Further internal review discovered and fixed
+other reflected and stored xss vectors.
+<https://phabricator.wikimedia.org/T103391>
+<https://phabricator.wikimedia.org/T103765>
+<https://phabricator.wikimedia.org/T103761>
+* Extension:SyntaxHighlight_GeSHi - xss and potential DoS vectors. Internal
+review discovered that the contib directory for GeSHi was re-included in
+MediaWiki 1.25. Some scripts could be potentially be used for DoS, and
+DAU Huy Ngoc discovered an xss vector. All contrib scripts have been
+removed.
+<https://phabricator.wikimedia.org/T108198>
+* Extension:TimedMediaHandler - User:McZusatz reported that resetting
+transcodes deleted the transcode without creating a new one, which could be
+used for vandalism or potentially DoS.
+<https://phabricator.wikimedia.org/T100211>
+* Extension:Quiz - Internal review discovered that Quiz did not properly
+escape
+regex metacharacters in a user controlled regular expression, enabling a DoS
+vector.
+<https://phabricator.wikimedia.org/T97083>
+* Extension:Widgets - MediaWiki developer Majr reported a potential HTML
+injection (xss) vector.
+<https://phabricator.wikimedia.org/T88964>
+== Bug Fixes in 1.25.2 ==
+* (T102562) Fix InstantCommons parameters to handle the new HTTPS-only
+  policy of Wikimedia Commons.
+* (T100767) Setting a configuration setting for skin or extension to
+  false in LocalSettings.php was not working.
+* (T100635) API action=opensearch json output no longer breaks when
+  $wgDebugToolbar is enabled.
+* (T102522) Using an extension.json or skin.json file which has
+  a "manifest_version" property for 1.26 compatability will no longer
+  trigger warnings.
+* (T86156) Running updateSearchIndex.php will not throw an error as
+  page_restrictions has been added to the locked table list.
+* Special:Version would throw notices if using SVN due to an incorrectly
+  named variable. Add an additional check that an index is defined.
+== Bug Fixes in 1.24.3 ==
+* Update jQuery from v1.11.2 to v1.11.3.
+* (T102562) Fix InstantCommons parameters to handle the new HTTPS-only
+  policy of Wikimedia Commons.
+== Bug Fixes in 1.23.10 ==
+* (bug 67644) Make AutoLoaderTest handle namespaces
+* (T91653) Minimal PSR-3 debug logger to support backports from 1.25+.
+* (T102562) Fix InstantCommons parameters to handle the new HTTPS-only
+  policy of Wikimedia Commons.
+Full release notes for 1.25.2:
+<https://www.mediawiki.org/wiki/Release_notes/1.25>
+Full release notes for 1.24.3:
+<https://www.mediawiki.org/wiki/Release_notes/1.24>
+Full release notes for 1.23.10:
+<https://www.mediawiki.org/wiki/Release_notes/1.23>
+For information about how to upgrade, see
+<https://www.mediawiki.org/wiki/Manual:Upgrading>
+**********************************************************************
+   Mediawiki downloads and patches
+**********************************************************************
+Full release notes:
+https://www.mediawiki.org/wiki/Release_notes/1.25
+https://www.mediawiki.org/wiki/Release_notes/1.24
+https://www.mediawiki.org/wiki/Release_notes/1.23
+Download:
+http://download.wikimedia.org/mediawiki/1.25/mediawiki-1.25.2.tar.gz
+http://download.wikimedia.org/mediawiki/1.24/mediawiki-1.24.3.tar.gz
+http://download.wikimedia.org/mediawiki/1.23/mediawiki-1.23.10.tar.gz
+Download (no bundled extensions):
+http://download.wikimedia.org/mediawiki/1.25/mediawiki-core-1.25.2.patch.gz
+http://download.wikimedia.org/mediawiki/1.24/mediawiki-core-1.24.3.patch.gz
+http://download.wikimedia.org/mediawiki/1.23/mediawiki-core-1.23.10.patch.gz
+Patch to previous version:
+http://download.wikimedia.org/mediawiki/1.25/mediawiki-1.25.2.patch.gz
+http://download.wikimedia.org/mediawiki/1.24/mediawiki-1.24.3.patch.gz
+http://download.wikimedia.org/mediawiki/1.23/mediawiki-1.23.10.patch.gz
+Localization patch to previous version:
+http://download.wikimedia.org/mediawiki/1.25/mediawiki-i18n-1.25.2.patch.gz
+http://download.wikimedia.org/mediawiki/1.24/mediawiki-i18n-1.24.3.patch.gz
+http://download.wikimedia.org/mediawiki/1.23/mediawiki-i18n-1.23.10.patch.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.25/mediawiki-1.25.2.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.24/mediawiki-1.24.3.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.23/mediawiki-1.23.10.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.25/mediawiki-core-1.25.2.patch.gz…
+http://download.wikimedia.org/mediawiki/1.24/mediawiki-core-1.24.3.patch.gz…
+http://download.wikimedia.org/mediawiki/1.23/mediawiki-core-1.23.10.patch.g…
+http://download.wikimedia.org/mediawiki/1.25/mediawiki-1.25.2.patch.gz.sig
+http://download.wikimedia.org/mediawiki/1.24/mediawiki-1.24.3.patch.gz.sig
+http://download.wikimedia.org/mediawiki/1.23/mediawiki-1.23.10.patch.gz.sig
+http://download.wikimedia.org/mediawiki/1.25/mediawiki-i18n-1.25.2.patch.gz…
+http://download.wikimedia.org/mediawiki/1.24/mediawiki-i18n-1.24.3.patch.gz…
+http://download.wikimedia.org/mediawiki/1.23/mediawiki-i18n-1.23.10.patch.g…
+Public keys:
+https://www.mediawiki.org/keys/keys.html
+**********************************************************************
+   Extension:Semantic Forms
+**********************************************************************
+Information and Download:
+https://www.mediawiki.org/wiki/Extension:Semantic_Forms
+**********************************************************************
+   Extension:SyntaxHighlight_GeSHi
+**********************************************************************
+Information and Download:
+https://www.mediawiki.org/wiki/Extension:SyntaxHighlight_GeSHi
+**********************************************************************
+   Extension:TimedMediaHandler
+**********************************************************************
+Information and Download:
+https://www.mediawiki.org/wiki/Extension:TimedMediaHandler
+**********************************************************************
+   Extension:Quiz
+**********************************************************************
+Information and Download:
+https://www.mediawiki.org/wiki/Extension:Quiz
+**********************************************************************
+   Extension:Widgets
+**********************************************************************
+Information and Download:
+https://www.mediawiki.org/wiki/Extension:Widgets
+-Chad
+    
+ 0
+ 0
+            Reply
+        
+Back to the thread
+            Back to the list
+        
+ 
+            Powered by HyperKitty version 1.3.4.
+        

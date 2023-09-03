@@ -1,0 +1,53 @@
+ [MediaWiki-announce] MediaWiki 1.12.0 released
+   
+[MediaWiki-announce] MediaWiki 1.12.0 released
+Brion Vibber
+brion at wikimedia.org
+       
+Thu Mar 20 22:15:19 UTC 2008
+Previous message: [MediaWiki-announce] MediaWiki 1.12.0rc1 released
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+No problems reported with 1.12.0rc1, so here's the final release. Enjoy!
+Full release notes:
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_12_0/phase3/RELEASE-NOTES
+Download:
+http://download.wikimedia.org/mediawiki/1.12/mediawiki-1.12.0.tar.gz
+GPG signature:
+http://download.wikimedia.org/mediawiki/1.12/mediawiki-1.12.0.tar.gz.sig
+SHA-1 checksum:
+48bf1877f60c317cbe93c072187dfe9c1aa3b857 mediawiki-1.12.0.tar.gz
+MD-5 checksum:
+MD5 (mediawiki-1.12.0.tar.gz) = 117a1360f440883a51f0ebca32906ea0
+Before asking for help, try the FAQ:
+http://www.mediawiki.org/wiki/Manual:FAQ
+Low-traffic release announcements mailing list:
+(Please subscribe to receive announcements of security updates.)
+http://lists.wikimedia.org/mailman/listinfo/mediawiki-announce
+Wiki admin help mailing list:
+http://lists.wikimedia.org/mailman/listinfo/mediawiki-l
+Bug report system:
+http://bugzilla.wikimedia.org/
+Play "stump the developers" live on IRC:
+#mediawiki on irc.freenode.net
+- -- brion vibber (brion @ wikimedia.org)
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.8 (Darwin)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+iEYEARECAAYFAkfi4fcACgkQwRnhpk1wk46HEACaAvMj2oHe0stHrXdhKWUR2fF8
+CosAoKvS5oWuitWIgT7rTh+N06kNNmqt
+=j1cY
+-----END PGP SIGNATURE-----
+Previous message: [MediaWiki-announce] MediaWiki 1.12.0rc1 released
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+More information about the MediaWiki-announce
+mailing list

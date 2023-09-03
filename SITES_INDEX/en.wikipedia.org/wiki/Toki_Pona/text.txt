@@ -1,0 +1,559 @@
+Toki Pona - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Languages
+Language links are at the top of the page across from the title.
+Search
+Search
+Create accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1Etymology
+2Purpose
+3History
+4Phonology and phonotactics
+Toggle Phonology and phonotactics subsection
+4.1Inventory
+4.2Distribution
+4.3Syllable structure
+4.4Phonotactics
+4.5Allophony
+5Writing systems
+Toggle Writing systems subsection
+5.1sitelen pona
+5.2sitelen sitelen
+6Grammar
+Toggle Grammar subsection
+6.1Sentence structures
+6.2Pronouns
+6.3Nouns
+6.4Modifiers
+6.5Verbs
+7Vocabulary
+Toggle Vocabulary subsection
+7.1Colors
+7.2Numbers
+7.3Roots history
+7.4Provenance
+7.5Signed Toki Pona and Luka Pona
+8Community
+9Literature
+10Sample texts
+Toggle Sample texts subsection
+10.1The Lord's Prayer
+10.2Hail Mary
+10.3Universal Declaration of Human Rights
+10.4The Tower of Babel
+10.5Poem
+11See also
+12Notes
+13References
+14Publications
+15External links
+Toggle the table of contents
+Toggle the table of contents
+Toki Pona
+71 languages
+العربيةAragonésAsturianuБеларускаяБеларуская (тарашкевіца)БългарскиCatalàЧӑвашлаČeštinaCymraegDanskDeutschDolnoserbskiEestiΕλληνικάEspañolEsperantoفارسیFrançais한국어Hawaiʻiहिन्दीHornjoserbsceHrvatskiIdoBahasa IndonesiaInterlinguaItalianoעבריתქართულიҚазақшаКомиLatinaLietuviųLimburgsLingua Franca NovaLa .lojban.LombardMagyarBahasa MelayuNederlandsNedersaksies日本語Norsk bokmålNorsk nynorskNovialOccitanPolskiPortuguêsRipoarischRomânăРусскийScotsSimple EnglishSlovenčinaSlovenščinaŚlůnskiСрпски / srpskiSuomiSvenskaTagalogTaclḥitТатарча / tatarçaไทยTürkçeУкраїнськаTiếng ViệtVolapük吴语粵語中文
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Download as PDFPrintable version
+In other projects
+Wikimedia CommonsWikibooksWiktionary
+From Wikipedia, the free encyclopedia
+Minimalist language created by Sonja Lang
+Toki Ponatoki ponaThe words toki pona written in sitelen ponaPronunciation[ˈtoki ˈpona]Created bySonja LangDate2001Setting and usageTesting principles of minimalism, the Sapir–Whorf hypothesis and pidginsUsers500 ~ 5000 (2021)[1]PurposeConstructed language, combining elements of the subgenres personal language and philosophical languageWriting systemLatin script; sitelen pona (logographic); sitelen sitelen (logographic with an alphasyllabary for foreign words); and numerous other community-made scriptsSigned formsluka pona,  toki pona lukaSourcesA posteriori language, with elements of English, Tok Pisin, Finnish, Georgian, Dutch, Acadian French, Esperanto, Serbo-Croatian and ChineseLanguage codesISO 639-3tokGlottologtoki1239This article contains IPA phonetic symbols. Without proper rendering support, you may see question marks, boxes, or other symbols instead of Unicode characters. For an introductory guide on IPA symbols, see Help:IPA.
+Toki Pona (rendered as toki pona[a] and often translated as 'the language of good';[b] IPA: [ˈtoki ˈpona] (listeni); English: /ˈtoʊki ˈpoʊnə/) is a philosophical artistic constructed language known for its small vocabulary, simplicity, and ease of acquisition.[5] It was created by Sonja Lang, a Canadian linguist and translator,[5][6] to simplify thoughts and communication. The first drafts were published online in 2001,[2] while the complete form was published in the book Toki Pona: The Language of Good in 2014.[7][8] Lang also released a supplementary dictionary, the Toki Pona Dictionary, in July 2021, based on community usage.
+Toki Pona is an isolating language with only 14 phonemes and an underlying feature of minimalism. It focuses on simple, near-universal concepts to maximize expression from very few words. In Toki Pona: The Language of Good, Lang presents around 120 words, while the later Toki Pona Dictionary lists 137 "essential" words and a number of less-used ones.[c] Its words are easy to pronounce across language backgrounds, which allows it to serve as a bridge of sorts for people of different cultures.[12] However, it was not created as an international auxiliary language. Partly inspired by Taoist philosophy, the language is designed to help users concentrate on basic things and to promote positive thinking, in accordance with the Sapir–Whorf hypothesis. Despite the small vocabulary, speakers can understand and communicate, mainly relying on context and combinations of words to express more specific meanings.
+After its initial creation, a small community of speakers developed in the early 2000s.[6][13] While activity mainly takes place online in chat rooms, on social media, and in other online groups, there were a few organized in-person meetings during the 2000s[2] and 2010s.
+Etymology[edit]
+The name of the language has two parts – toki ('language'),[14] derived from Tok Pisin tok, which itself comes from English talk; and pona ('good/simple'), from Esperanto bona,[14] from Latin bonus. The name toki pona therefore means both 'good language' and 'simple language', emphasising that the language encourages speakers to find joy in simplicity.
+Purpose[edit]
+One of the language's main goals is a focus on minimalism. It is designed to express maximal meaning with minimal complexity.[3] Like a pidgin, it focuses on simple concepts and elements that are near-universal among cultures. It has a minimal vocabulary and 14 phonemes devised to be easy to pronounce for speakers of various language backgrounds.[5][2][6]
+Partly inspired by Taoist philosophy, another goal of Toki Pona is to help its speakers focus on the essentials by reducing complex concepts to basic elements.[5][15] From these simple notions, more complex ideas can be built up by simple combining.[3] This allows the users to see the fundamental nature and effect of the ideas expressed.
+In accordance with the Sapir–Whorf hypothesis, which states that a language influences the way its speakers think and behave,[6][15] Toki Pona was designed to induce positive thinking.[16]
+Another aim of the language is for the speakers to become aware of the present moment and pay more attention to the surroundings and the words people use.[5] According to its author, it is meant to be "fun and cute".[17]
+Although it was not intended as an international auxiliary language,[16] a world-wide online community uses it for communication.[5]
+History[edit]
+Toki Pona was developed by the Canadian linguist and translator Sonja Lang (known as Sonja Elen Kisa at the time of its creation). Born in 1978 in Moncton, New Brunswick,[18] Lang grew up in a bilingual family; her mother spoke French, and her father spoke English. During and after her high school years, she became fluent in five languages, including Esperanto.[19] She later said that Esperanto was the inspiration for her creation of constructed languages.[20]
+In 2001, Lang was experiencing depression and started working on Toki Pona as a way to simplify her thoughts.[21][19] In the same year, an early version of the language was published online, and it quickly gained popularity.[6] Early activity took place in a Yahoo! group. Members of the group discussed the language with one another in English, Toki Pona, and Esperanto, proposed changes, and talked about the resources on the tokipona.org site. At its peak member count, the group had a little over 500 members. Messages in the group were archived in the Toki Pona forum using phpBB.
+In 2014, Lang released her first book on the language, Toki Pona: The Language of Good, which features one hundred and twenty words plus three synonyms and provides a completed form of the language based on how Lang used the language at the time.[7] In 2016, the book was also published in French.[22]
+In 2021, Lang released her second book, Toki Pona Dictionary, a comprehensive two-way Toki Pona–English dictionary including more than 11,000 entries detailing the use of the language as she gathered from polls conducted in the ma pona pi toki pona Discord server over a few months. The book presents the original 120 words plus 16 nimi ku suli (major dictionary words) as gathered from at least over 40% of respondents. It also contains 45 words given by 40% or less of respondents, referred to as nimi ku pi suli ala (minor dictionary words).
+After two failed applications for an ISO 639-3 code, a third request was filed in August 2021, which resulted in the ISO 639-3 code "tok" being adopted in January 2022.[23]
+Toki Pona was the subject of some scientific works,[2] and it has also been used for artificial intelligence and software tools,[22] as well as a therapeutic method for eliminating negative thinking by having patients keep track of their thoughts in the language.[6] In 2010 it was chosen for the first version of the vocabulary for the ROILA project. The purpose of the study was to investigate the use of an artificial language on the accuracy of machine speech recognition, and it was revealed that the modified vocabulary of Toki Pona significantly outperformed English.[24]
+In 2015, YouTuber jan Misali uploaded a series titled 12 days of sona pi toki pona, which proved influential and was recommended as a learning tool by sitelen sitelen creator Jonathan Gabel.[25][26]
+Phonology and phonotactics[edit]
+Inventory[edit]
+Toki Pona has nine consonants (/p, t, k, s, m, n, l, j, w/) and five vowels (/a, e, i, o, u/),[2][6] shown here with the International Phonetic Alphabet symbols. Stress falls on the initial syllable of a word, and it is marked by an increase in loudness, length, and pitch.[27] There are no diphthongs, vowel hiatus, contrasting vowel length, consonant clusters (except those starting with the nasal coda), or tones.[2] Both its sound inventory and phonotactics are compatible with the majority of human languages, and are therefore readily accessible.[7]
+Consonants
+Labial
+Coronal
+Dorsal
+Nasal
+m
+n
+Stop
+p
+t
+k
+Fricative
+s
+Approximant
+w
+l
+j
+Vowels
+Front
+Back
+Close
+i
+u
+Mid
+e
+o
+Open
+a
+Distribution[edit]
+The statistical vowel spread is fairly typical when compared with other languages.[2] Counting each root once, 32% of vowels are /a/, 25% are /i/, with /e/ and /o/ a bit over 15% each, and 10% are /u/.[2] The usage frequency in a 10kB sample of texts was slightly more skewed: 34% /a/, 30% /i/, 15% each /e/ and /o/, and 6% /u/.[28]
+Of the syllable-initial consonants, /l/ is the most common, at 20% total; /k, s, p/ are over 10%, then the nasals /m, n/ (not counting final N), with the least common, at little more than 5% each, being /t, w, j/. The high frequency of /l/ and low frequency of /t/ is somewhat unusual among the world's languages.[2]
+Syllable structure[edit]
+Syllables are of the form (C)V(N), i.e. optional consonant + vowel + optional final nasal, or V, CV, VN, CVN. The consonant is obligatory in syllables that are not word-initial.[22] As in most languages, CV is the most common syllable type, at 75% (counting each root once). V and CVN syllables are each around 10%, while only 5 words have VN syllables (for 2% of syllables).[2]
+Most roots (70%) are disyllabic; about 20% are monosyllables and 10% trisyllables. This is a common distribution, and similar to Polynesian.[2]
+Phonotactics[edit]
+The following sequences are not allowed: */ji, wu, wo, ti/, nor may a syllable's final nasal occur before /m/ or /n/ in the same root.[2][22]
+Proper nouns are usually converted into Toki Pona proper adjectives using a set of guidelines. The native, or even colloquial, pronunciation is used as the basis for the subsequent sound conversion. Thus, England or English become Inli and John becomes San.[29]
+Allophony[edit]
+The nasal at the end of a syllable can be pronounced as any nasal stop, though it is normally assimilated to the following consonant. That is, it typically occurs as an [n] before /t/, /s/ or /l/, as an [m] before /p/ or /w/, as an [ŋ] before /k/, and as an [ɲ] before /j/.[2]
+Because of its small phoneme inventory, Toki Pona allows for extensive allophonic variation. For example, /p t k/ may be pronounced [b d ɡ] as well as [p t k], /s/ as [z] or [ʃ] as well as [s], /l/ as [ɾ] as well as [l], and vowels may be either long or short.[2]
+Writing systems[edit]
+Latin Alphabet chart for Toki Pona
+Fourteen Latin letters, a e i j k l m n o p s t u w, are used to write the language. They have the same values as in the International Phonetic Alphabet:[2] j sounds like English y (as in many Germanic and Slavic languages) and the vowels are like those of Spanish, Modern Greek, or Modern Hebrew. Capital initials are used to mark proper nouns, while Toki Pona roots are always written with lowercase letters, even when they start a sentence.[2][3]
+Besides the Latin alphabet, which is the most common way of writing the language, many alternative writing systems have been developed for and adapted to Toki Pona.[2] Most successful and widespread are two logographic writing systems, sitelen pona and sitelen sitelen. Both were included in the book Toki Pona: The Language of Good.
+sitelen pona[edit]
+sitelen pona hieroglyphs from Toki Pona: The Language of Good by Sonja Lang
+Modified symbols in sitelen pona
+The sitelen pona ('good/simple writing/drawing') writing system was devised as an alternative writing system by Lang herself, and first published in her book Toki Pona: The Language of Good in 2014.[8] In it each word is represented by its own symbol. It has been described as "a hieroglyphic-like script that makes use of squiggles and other childlike shapes".[30] Proper names are written inside a cartouche-like symbol using a series of symbols, where each symbol represents the first letter of its word. Symbols representing a single adjective may be written inside or above the symbol for the preceding word that they modify. The symbol of the language  is written in sitelen pona,[30] with the symbol  (pona) written inside the symbol  (toki).
+In August 2021 sitelen pona was proposed for inclusion on the Under-ConScript Unicode Registry for allocation in the U+F1900..U+F1AFF location.[31][32]
+sitelen sitelen[edit]
+The word symbols and punctuation of sitelen sitelen
+The sitelen sitelen ('drawn writing') writing system, also known as sitelen suwi ('cute writing'),[33] was created by Jonathan Gabel. This more elaborate non-linear system uses two separate methods to form words: logograms representing words and an alphasyllabary for writing the syllables (especially for proper names). The complex artful designs of the glyphs are chosen to help people who use this writing system to slow down and explore how not only the language but also the method of communication can influence their thinking.[8][33]
+sitelen sitelen's overall aesthetics are inspired by US west-coast comix artists such as Jim Woodring and US east-coast graffiti artists such as Kenny Scharf. The designs of many individual characters are inspired by characters and principles from various other writing systems, including Egyptian hieroglyphs, Chinese characters, Maya script, Miꞌkmaw hieroglyphic writing, Dongba symbols, as well as early Pagan and Christian signs and symbols.[34]
+Grammar[edit]
+Toki Pona's word order is subject–verb–object.[15][35] The word li introduces predicates, e introduces direct objects, prepositional phrases follow the objects, and la phrases come before the subject to add additional context.[22]
+Some roots are grammatical particles, while others have lexical meanings. The lexical roots do not fall into well defined parts of speech; rather, they may be used generally as nouns, verbs, modifiers, or interjections depending on context or their position in a phrase. For example, ona li moku may mean "they ate" or "it is food".[2][15]
+Sentence structures[edit]
+A sentence may be an interjection, statement, wish/command, or question.
+For example, interjections such as a, ala, ike, jaki, mu, pakala, pona, toki, etc. can stand alone as a sentence.[15]
+Statements follow the normal structure of subject-predicate with an optional la phrase at the beginning. The word li always precedes the predicate unless the subject is mi or sina. The direct object marker e comes before direct objects. More li and e markers can present new predicates or direct objects. Vocative phrases come before the main sentence and are marked with o at the end of the phrase, after the addressee.[15][22]
+In commands, the word o comes before a verb to express a second person command. It can also replace li, or come after the subjects mi or sina, to express wishes.
+There are two ways to form yes–no questions in Toki Pona. The first method is to use the "verb ala verb" construction in which ala comes in between a duplicated verb, auxiliary verb, or other predicators.[15] Another way to form a yes–no question is to put anu seme? (lit. 'or what?') after the phrase being inquired about. Questions cannot be made by just putting a question mark at the end of a sentence.
+Non-polar questions are formed by replacing the unknown information with the interrogative word seme.[22]
+Pronouns[edit]
+Toki Pona has three basic pronouns: mi (first person), sina (second person), and ona (genderless third person).[36]
+Whenever the subject of a sentence is either of the unmodified pronouns mi or sina, then li is not used to separate the subject and predicate.[22]
+Nouns[edit]
+With such a small root-word vocabulary, Toki Pona relies heavily on noun phrases, where a noun is modified by a following root, to make more complex meanings.[37] A typical example is combining jan ('person') with utala ('to fight') to make jan utala ('fighter, soldier, warrior'). (see § Modifiers)
+Nouns do not decline according to number. jan can mean 'person', 'people', 'humanity', or 'somebody', depending on context.[2]
+Toki Pona does not use isolated proper nouns; instead, they must modify a preceding noun. For this reason, they may be called "proper adjectives" or simply "proper words" instead of "proper nouns". For example, names of people and places are used as modifiers of the common roots for "person" and "place", e.g. ma Kanata (lit. 'Canada land') or jan Lisa (lit. 'Lisa person').[2]
+Modifiers[edit]
+Phrases in Toki Pona are head-initial; modifiers always come after the word that they modify.[15] Therefore, soweli utala, lit. 'animal of fighting', can be a 'fighting animal', whereas utala soweli, lit. 'fighting of animal', can mean 'animal war'.[2]
+When a second modifier is added to a phrase, for example jan pona lukin, it modifies all that comes before it, so jan pona mute might mean 'many good people', with both pona 'good' and mute 'many' modifying jan 'person'.[2] The particle pi is placed before two or more modifiers, to group them into another phrase that functions as a unit to modify the head: In jan pi pona mute, pona mute as a unit means 'much goodness', to together mean 'very good person'. mute modifies pona and pona mute as a whole modifies jan.[2][22]
+Demonstratives, numerals, and possessive pronouns come after the head like other modifiers.[2]
+Verbs[edit]
+Toki Pona does not inflect verbs according to person, tense, mood, or voice, as the language features no inflection whatsoever. Person is indicated by the subject of the verb; time is indicated through context or by a temporal adverb in the sentence.[2]
+Prepositions are used in the predicate in place of a regular verb.[8][35]
+Vocabulary[edit]
+Toki Pona has around 120 to 137 words.[c] Each is polysemous and covers a range of similar concepts,[38] so suli not only means 'big' or 'long', but also 'important'.[2] Their use relies heavily on context. To express more complex thoughts, the roots can be combined. For example, jan pona can mean 'friend', although it translates to lit. 'good/friendly person',[37] and telo nasa, lit. 'strange liquid', could be understood to mean 'alcohol' or 'alcoholic beverage' depending on the context. The verb to teach can be expressed by pana e sona, lit. 'give knowledge'.[2] Essentially identical concepts can be described by different words as the choice relies on the speaker's perception and experience.[7]
+Colors[edit]
+Many colors can be expressed by using subtractive colors
+Toki Pona has five words for colors: pimeja (black), walo (white), loje (red), jelo (yellow), and laso (blue and green). Although the simplified conceptualization of colors tends to exclude a number of colors that are commonly expressed in Western languages, speakers sometimes may combine these five words to make more specific descriptions of certain colors. For instance, "purple" may be represented by combining laso and loje. The phrase laso loje means "a reddish shade of blue" and loje laso means "a bluish shade of red".[2]
+Numbers[edit]
+Toki Pona has words for one (wan), two (tu), and many (mute). In addition, ala can mean 'zero', although its meaning is lit. 'no'  or 'none', and ale 'all' can express an infinite or immense amount.
+The simplest number system uses these five roots to express any amount necessary. For numbers larger than two, speakers would use mute which means 'many'.[38]
+A more complex system expresses larger numbers additively by using phrases such as tu wan for three, tu tu for four, and so on. This feature purposely makes it impractical to communicate large numbers.[38][39] This system, described in Lang's book, also uses luka (lit. 'hand') to signify 'five', mute (lit. 'many') to signify 'twenty' and ale (lit. 'all') to signify 'hundred'. For example, using this structure ale tu would mean '102' and mute mute mute luka luka luka tu wan would signify '78'.[40]
+Roots history[edit]
+Body parts in Toki Pona. The words oko, uta, lawa, luka and noka have Slavic (Serbo-Croatian) roots.
+Some words have obsolete synonyms. For example, nena replaced kapa (protuberance) early in the language's development for unknown reasons.[41] Later, the pronoun ona replaced iki ('he, she, it, they'), which was sometimes confused with ike ('bad').[39]
+Similarly, ali was added as an alternative to ale ('all') to avoid confusion with ala ('no, not') among people who reduce unstressed vowels, though both forms are still used.
+Originally, oko meant 'eye' and lukin was used as a verb 'see'. In the book, the meanings were later merged into lukin, oko being the alternative.[8][22]
+Words that were simply removed from the lexicon include leko ('block, stairs'), monsuta ('monster, fear'), majuna ('old'), kipisi ('to cut'), and pata ('sibling').[41] These words were considered outdated because they were not included in the official book.[41] However, oko, leko, monsuta, majuna, and kipisi retained enough usage in the community that they were re-included in the lexicon as nimi ku suli in Toki Pona Dictionary.[42]
+Besides nena and ona, which replaced existing roots, a few roots were added to the original 118: pan ('grain, bread, pasta, rice'), esun ('market, shop, trade'), alasa ('hunt, gather'), and namako ('extra, additional, spice'), another word for sin ('new, fresh').[9]
+Provenance[edit]
+Origin of the Toki Pona roots by language. Obsolete roots are not included
+Most Toki Pona roots come from English, Tok Pisin, Finnish, Georgian, Dutch, Acadian French, Esperanto, and Serbo-Croatian, with a few from Chinese (Mandarin and Cantonese).[14][3]
+Many of these derivations are transparent. For example, toki ('speech, language') is similar to Tok Pisin tok and its English source talk, while pona ('good, positive'), from Esperanto bona, reflects generic Romance bon, buona, English bonus, etc. However, the changes in pronunciation required by the simple phonetic system often make the origins of other words more difficult to see. The word lape ('to sleep, to rest'), for example, comes from Dutch slapen and is cognate with English sleep; kepeken ('to use') is somewhat distorted from Dutch gebruiken, and akesi from hagedis ('lizard') is scarcely recognizable. [Because *ti is an illegal syllable in Toki Pona, Dutch di becomes si.][14]
+Although only 14 roots (12%) are listed as derived from English, a large number of the Tok Pisin, Esperanto, and other roots are transparently cognate with English, raising the English-friendly portion of the vocabulary to about 30%. The portions of the lexicon from other languages are 15% Tok Pisin, 14% Finnish, 14% Esperanto, 12% Serbo-Croatian, 10% Acadian French, 9% Dutch, 8% Georgian, 5% Mandarin, 3% Cantonese; one root each from Welsh, Tongan (an English borrowing), Akan, and an uncertain language (apparently Swahili)[original research?]; four phonesthetic roots (two which are found in English, one from Japanese, and one which was made up); and one other made-up root (the grammatical particle e).[14]
+Signed Toki Pona and Luka Pona[edit]
+Hand shapes of Signed Toki Pona and Luka Pona
+Signed Toki Pona, or toki pona luka, is a manually coded form of Toki Pona. Each word and letter has its own sign, which is distinguished by the hand shape, location of the hand on the body, palm or finger orientation, and the usage of one or both hands. Most signs are performed with the right hand at the required location. A few signs, however, are performed with both hands in a symmetrical way. To form a sentence, each of the signs is performed using the grammar and word order of Toki Pona.[8]
+A more naturalistic constructed sign language called luka pona also exists, and is more widely used in the Toki Pona community than toki pona luka. It is a separate language with its own grammar, but has a vocabulary that generally parallels Toki Pona. luka pona's signs have increased iconicity as compared to toki pona luka, and many signs are loan-words from natural sign languages. Its grammar is subject-object-verb, and, like natural sign languages, it makes use of classifier constructions and signing space.[43][44] In Toki Pona Dictionary, Sonja Lang recommends learning luka pona instead of toki pona luka.[45]
+Community[edit]
+The language is fairly well known among Esperantists, who often offer courses and conversation groups at their meetings.[2] In 2007, Lang reportedly said that at least 100 people speak Toki Pona fluently and estimated that a few hundred have a basic knowledge of the language.[6][46] One-hour courses of Toki Pona were taught on various occasions by the Massachusetts Institute of Technology during their Independent Activities Period.[6]
+The language is used mainly online on social media, in forums, and other online groups.[46] Users of the language are spread out across multiple platforms. A Yahoo! group existed from about 2002 to 2009, when it moved to a forum on a phpBB site.[47][48] For a short time there was a Wikipedia written in Toki Pona (called lipu Wikipesija). It was closed in 2005[49] and moved to Wikia/Fandom, and then moved from Fandom to an independent website on 23 April 2021.[50]
+The largest groups exist on Reddit, Facebook, and Discord. Two large groups exist on Facebook—one designated for conversation in Toki Pona and English, and the other for conversation in only Toki Pona.[51] The most subscribed Facebook group, in which members communicate in both English and Toki Pona, has over 6k members as of 2023[update].[52] The largest community on Reddit has over 15k members as of 2023[update].[53] The largest Discord group has over 10k members as of 2023[update].[54]
+In November 2021, the language was added as an interface language for the video game Minecraft.[55]
+Literature[edit]
+Logo of the first registered zine in Toki Pona
+There are a few published books and many other works in Toki Pona. Most of the published works are language-learning books for beginners like akesi seli lili and meli olin moli.[56] Many other works are translations of original literature in other languages. Starting in 2020, a group has been working on and publishing a zine in Toki Pona called lipu tenpo (lit. 'book of time'), and it is officially registered as a zine in the United Kingdom.[57][58]
+Sample texts[edit]
+ Toki Pona repository of Wikisource, the free library
+The Lord's Prayer[edit]
+mama mi sewi o(in Toki Pona)
+mama mi sewi o ·
+nimi sina o sewi ·
+ma sin sina o kama ·
+wile sina o kama
+lon ma lon sewi ·
+suno ni la
+o pana e moku wile tawa mi ·
+mi pali ike la
+o pali ike ala tawa mi tan ni ·
+sama la
+jan ante li pali ike tawa mi la
+mi pali ike ala tawa ona tan ni ·
+o nasin ike ala e mi ·
+taso o weka e mi tan ike ·
+o ni ali tan ni :
+lawa en wawa en suli
+o tawa sina
+lon tenpo ali ·
+ni li nasin ·
+Our holy parent(English translation)
+Our holy parent,
+may your name be high.
+May your new world come.
+May your desires happen
+on earth and in the sky.
+On this day,
+give us the necessary food.
+If we do bad,
+don't do bad to us because of that.
+Similarly,
+if others do bad to us,
+we don't do bad to them because of that.
+Don't [lead] us [on] the way of evil.
+But remove us from evil.
+Do all of this, because
+may the reign and the power and the greatness
+be to you,
+forever.
+This is the way.
+A contract in the sitelen sitelen writing system (2012)[59]
+Hail Mary[edit]
+jan Meli o[60] (Ave Maria, translated by Tobias Merkle, 2020)
+jan Meli o,
+kon sewi li suli insa sina.
+wan sewi li poka sina.
+lon meli la, wan sewi li pona e sina.
+kili pona pi insa sina li sewi Jesu.
+jan Meli sewi o!
+mama pi jan sewi o!
+tenpo ni la, tenpo pi moli mi mute la,
+o toki tawa wan sewi tan mi mute jan ike.
+awen.
+Universal Declaration of Human Rights[edit]
+Article 1 of the Universal Declaration of Human Rights[61]
+jan ali li kama lon nasin ni: ona li ken tawa li ken pali. jan ali li kama lon sama. jan ali li jo e ken pi pilin suli. jan ali li ken pali e wile pona ona. jan ali li jo e ken pi sona pona e ken pi pali pona. jan ali li wile pali nasin ni: ona li jan pona pi jan ante.
+The Tower of Babel[edit]
+ma tomo Pape[62] (The Tower of Babel story, translated by Bryant J. Knight, 2005)
+jan ali li kepeken e toki sama. jan li kama tan nasin pi kama suno li kama tawa ma Sinale li awen lon ni. jan li toki e ni: "o kama! mi mute o pali e kiwen. o seli e ona". jan mute li toki e ni: "o kama! mi mute o pali e tomo mute e tomo palisa suli. sewi pi tomo palisa li lon sewi kon. nimi pi mi mute o kama suli! mi wile ala e ni: mi mute li lon ma ante mute". jan sewi Jawe li kama anpa li lukin e ma tomo e tomo palisa. jan sewi Jawe li toki e ni: "jan li lon ma wan li kepeken e toki sama li pali e tomo palisa. tenpo ni la ona li ken pali e ijo ike mute. mi wile tawa anpa li wile pakala e toki pi jan mute ni. mi wile e ni: jan li sona ala e toki pi jan ante". jan sewi Jawe li kama e ni: jan li lon ma mute li ken ala pali e tomo. nimi pi ma tomo ni li Pape tan ni: jan sewi Jawe li pakala e toki pi jan ali. jan sewi Jawe li tawa e jan tawa ma mute tan ma tomo Pape.
+Poem[edit]
+wan taso (2003)[63]
+ijo li moku e mi.
+mi wile pakala.
+pimeja li tawa insa kon mi.
+jan ala li ken sona e pilin ike mi.
+toki musi o, sina jan pona mi wan taso.
+telo pimeja ni li telo loje mi, li ale mi.
+tenpo ale la pimeja li lon.
+Alone (translation of wan taso)
+I am devoured.
+I must destroy.
+Darkness fills my soul.
+No one can understand my suffering.
+O poetry! My only friend.
+This ink is my blood, is my life.
+And Darkness shall reign forevermore.
+See also[edit]
+Constructed languages portal
+ The dictionary definition of Appendix:Toki Pona at Wiktionary
+ The dictionary definition of Category:Toki Pona language at Wiktionary
+Alphabet of human thought
+Hyponymy and hypernymy
+Philosophical language
+Army Slavic
+Notes[edit]
+^ When writing in Toki Pona, capital letters are used only for proper names, such as the names of people.[2][3]
+^ toki as a noun has meanings including 'language', 'talk', and 'communication'.[4] pona as an adjective has meanings including 'good', 'peaceful', and 'simple'.[4]
+^ a b Prior to the publication of Toki Pona: The Language of Good, the language grew to 118 words.[9] Between then and the publication of Toki Pona Dictionary, varying counts were given for the number of words in the former (nimi pu, lit. 'words of the official Toki Pona book'), ranging between 120 and 125.[2][5][6] The Toki Pona Dictionary added 16 new "essential" words (nimi ku suli, lit. 'important dictionary words'),[10] and states on its back cover that there are a total of 137.[11] It also includes several less-used words (nimi ku pi suli ala, lit. 'dictionary words of little importance').[10]
+References[edit]
+^ "Archived copy" (PDF). Archived (PDF) from the original on 2023-07-06. Retrieved 2023-06-21.{{cite web}}:  CS1 maint: archived copy as title (link)
+^ a b c d e f g h i j k l m n o p q r s t u v w x y z aa ab ac ad ae Blahuš, Marek (November 2011). Fiedler, Sabine (ed.). "Toki Pona: eine minimalistische Plansprache" [Toki Pona: A Minimalistic Planned Language] (PDF). Interlinguistische Informationen (in German). Berlin. 18: 51–55. ISSN 1432-3567. Archived (PDF) from the original on 2021-06-27. Retrieved 2019-01-08.
+^ a b c d e Rogers, Steven D. (2011). "Part I: Made-Up Languages – Toki pona". A Dictionary of Made-Up Languages. United States of America: Adams Media. ISBN 978-1440528170.
+^ a b Lang 2014, p. 125–134.
+^ a b c d e f g Morin, Roc (2015-07-15). "How to Say (Almost) Everything in a Hundred-Word Language". The Atlantic. Archived from the original on 2022-07-12. Retrieved 2019-08-01.
+^ a b c d e f g h i j Roberts, Siobhan (2007-07-09). "Canadian has people talking about lingo she created". The Globe and Mail. Archived from the original on 2017-03-12. Retrieved 2017-03-10.
+^ a b c d Thomas, Simon (2018-03-27). "Exploring Toki Pona: do we need more than 120 words?". Oxford Dictionaries. Archived from the original on 2019-05-11. Retrieved 2019-02-03.
+^ a b c d e f Lang 2014, p. 134.
+^ a b "Classic Word List (Improved!)". tokipona.net. Archived from the original on 2018-10-30. Retrieved 2019-01-07.
+^ a b Lang 2021, p. 22–23.
+^ Lang 2021, back cover.
+^ Lang 2014, p. 10.
+^ Јовановић, Тијана (Tijana Jovanović) (2006-12-15). "Вештачки језици (Veštački jezici)" [Artificial languages]. Политикин Забавник (Politikin Zabavnik) (in Serbian) (2862). Archived from the original on 2007-06-10.
+^ a b c d e "Toki Pona word origins". tokipona.org. 2009-09-28. Archived from the original on 2010-03-08.
+^ a b c d e f g h Tomaszewski, Zach (2012-12-11). "A Formal Grammar for Toki Pona" (PDF). University of Hawai‘i. Archived (PDF) from the original on 2019-11-01. Retrieved 2019-09-21.
+^ a b Malmkjær, Kirsten (2010). "Artificial languages". The Routledge Linguistics Encyclopedia (3rd ed.). New York: Routledge. p. 34. ISBN 9780415424325. OCLC 656296619.
+^ Okrent, Arika (2009). "The Klingons, the Conlangers, and the Art of Language – 26. The Secret Vice". In the Land of Invented Languages. New York: Spiegel & Grau. ISBN 978-0-385-52788-0.
+^ "3-60 - Toki Pona". en.tokipona.org. 2009-11-15. Archived from the original on 2009-11-15. Retrieved 2022-04-27.
+^ a b "What is a Language?". Canada Institute of Linguistics. 2018-03-08. Archived from the original on 2018-03-08. Retrieved 2022-03-26.
+^ "AFP 20 - Sonja Lang: Toki Pona, Conlanging, meaning of life". Actual Fluency. 2014-07-18. Retrieved 2022-03-23.
+^ "Babel's modern architects". Los Angeles Times. 2007-08-24. Retrieved 2022-03-26.
+^ a b c d e f g h i j Fabbri, Renato (July 2018). "Basic concepts and tools for the Toki Pona minimal and constructed language". ACM Transactions on Asian and Low-Resource Language Information Processing. arXiv:1712.09359.
+^ "Change Request Documentation: 2021-043". SIL International ISO 639-3. 20 January 2022. Archived from the original on 2022-07-19. Retrieved 2022-08-12.
+^ Mubin, Omar; Bartneck, Christoph; Feijs, Loe (2010). "Towards the Design and Evaluation of ROILA: A Speech Recognition Friendly Artificial Language". Advances in Natural Language Processing. Lecture Notes in Computer Science. LNCS 6233/2010: 250–256. CiteSeerX 10.1.1.175.6679. doi:10.1007/978-3-642-14770-8_28. ISBN 978-3-642-14769-2 – via ResearchGate.
+^ "12 Days of sona pi toki pona Day One: Reading and Whatnot". Archived from the original on 2022-10-07. Retrieved 2022-10-07 – via YouTube.
+^ Gabel, Jonathan (2021). "toki pona". jonathangabel.com. Archived from the original on 2 October 2022. Retrieved 7 October 2022.
+^ Lang 2014, p. 16.
+^ "Phoneme frequency table / Ofteco de fonemoj". lipu pi toki pona pi jan Jakopo. Archived from the original on 2007-11-14.
+^ Lang, Sonja. Knight, Bryant (ed.). "Phonetic conversion of proper names". lipu pi jan Pije. Archived from the original on 2020-02-17. Retrieved 2019-01-15.
+^ a b "Toki Pona – The language of good". Smith Journal. Melbourne, Australia. 2019-06-03. Archived from the original on 2019-10-20. Retrieved 2019-10-20.
+^ Bettencourt, Rebecca G. (2021-08-06). "Under-ConScript Unicode Registry". KreativeKorp. Archived from the original on 2021-09-28. Retrieved 2021-10-23.
+^ Bettencourt, Rebecca G. (2021-08-06). "Sitelen Pona: U+F1900 - U+F1AFF". KreativeKorp. Archived from the original on 2021-09-28. Retrieved 2021-10-23.
+^ a b Gabel, Jonathan (2019-10-20). "Lesson 1: Welcome". Jonathan Gabel. Archived from the original on 2019-10-20. Retrieved 2019-10-20.
+^ Gabel, Jonathan (2021). "sitelen sitelen acknowledgements and etymology". Jonathan Gabel. Archived from the original on 2022-01-25. Retrieved 2021-10-22.
+^ a b "3. Toki Pona Text – Grammar and Vocabulary". Language Creation Society. Archived from the original on 2019-01-26. Retrieved 2019-01-25.
+^ Martin, Matthew (2007-09-11). "Toki Pona: Pronouns unleashed". My Suburban Destiny. Archived from the original on 2019-04-20. Retrieved 2019-01-25.
+^ a b Dance, Amber (2007-08-24). "In their own words – literally / Babel's modern architects". Los Angeles Times. Archived from the original on 2013-01-03. Retrieved 2007-08-29.
+^ a b c Синящик, Анна (Anna Sinyashchik) (2018-01-03). "Коротко и ясно. Как искусственный язык учит фокусироваться на главном" [Briefly and Clearly. How an Artificial Language Teaches to Focus on What's Important]. Фокус (Focus) (in Russian). Archived from the original on 2019-02-12. Retrieved 2019-02-10.
+^ a b Yerrick, Damian (2002-10-23). "Toki Pona li pona ala pona? A review of Sonja Kisa's constructed language Toki Pona". Pin Eight. Archived from the original on 2007-09-28. Retrieved 2007-07-20.
+^ "Numbers". tokipona.net. Archived from the original on 2020-01-28. Retrieved 2019-01-26.
+^ a b c Knight, Bryant (2017-08-31). "Extinct words". lipu pi jan Pije. Archived from the original on 2020-02-17. Retrieved 2019-01-13.
+^ Lang 2021, p. 22.
+^ "luka pona li seme?". lukapona.blogspot.com. Archived from the original on 2021-05-15. Retrieved 2022-01-01.
+^ "lipu tenpo nanpa akesi > lipu tenpo". lipu tenpo. 2021-02-01. Archived from the original on 2022-07-20. Retrieved 2021-07-03.
+^ Lang 2021, p. 11.
+^ a b Marsh, Stefanie (2007-09-06). "Now you're really speaking my language". The Times. London, England. p. 2.
+^ Martin, Matthew (2018-03-11). "Conlang SE". Fake languages by a fake linguist. Archived from the original on 2019-11-12. Retrieved 2019-10-20.
+^ "tokipona Toki Pona". Yahoo! Groups. 2019-10-20. Archived from the original on 2013-04-30. Retrieved 2019-10-20.
+^ van Steenbergen, Jan (2018). "A new era in the history of language invention" (PDF). Linguapax Review. Archived (PDF) from the original on 2022-04-24. Retrieved 2020-07-09.
+^ "lipu open". Wikipesija. 23 April 2021. Archived from the original on 20 July 2022. Retrieved 10 May 2021.
+^ Knežević, Nenad (2018). "Constructed languages in the whirlwind of the digital revolution". Језик, књижевност и технологија (Jezik, književnost i tehnologija) / Language, Literature and Technology: Proceedings from the Sixth International Conference at the Faculty of Foreign Languages, 19–20 May 2017. Алфа БК универзитет (Alfa BK univerzitet): 16. ISBN 978-86-6461-023-0 – via ResearchGate.
+^ "toki pona". Archived from the original on 2022-12-17. Retrieved 2022-04-13 – via Facebook.
+^ "lipu Wesi pi toki pona". Reddit. Archived from the original on 2021-08-12. Retrieved 2021-09-24.
+^ "Join the ma pona pi toki pona Discord Server!". Discord. Archived from the original on 2023-04-23. Retrieved 2022-04-13.
+^ Mojang (2021-11-30). Minecraft (Java) (1.18 ed.).
+^ Aaron (Fingtam Languages) (2020). meli olin moli. Independently Published. ISBN 979-8579152343.
+^ "jan pali". lipu tenpo. kulupu pi lipu tenpo. 1 February 2021. Archived from the original on 8 May 2022. Retrieved 10 May 2021.
+^ "ISSN 2752-4639 (Online) | lipu tenpo | The ISSN Portal". portal.issn.org. Archived from the original on 2023-01-25. Retrieved 2023-01-25.
+^ "lipu lawa pi esun kama". jonathangabel.com. Archived from the original on 2020-10-20. Retrieved 2020-08-09.
+^ "Ave Maria". jonathangabel.com. Archived from the original on 2020-08-06. Retrieved 2020-08-10.
+^ "Toki Pona". Omniglot: the online encyclopedia of writing systems & languages. Archived from the original on 2019-01-13. Retrieved 2019-01-13.
+^ "ma tomo Pape". suno pona. Archived from the original on 2019-01-13. Retrieved 2019-01-12.
+^ "Dark Teenage Poetry". tokipona.org. 23 April 2003. Archived from the original on 23 April 2003.
+Publications[edit]
+Lang, Sonja (2014). Toki Pona: The Language of Good. Tawhid. ISBN 978-0978292300. OCLC 921253340.
+This book was translated as: Lang, Sonja; Strake, Julius (2021). Toki Pona: Die Sprache des Guten [Toki Pona: The Language of Good] (in German). Independently published (published 2021-12-01). ISBN 979-8770755251. Archived from the original on 2022-07-20. Retrieved 2022-06-26.
+This book was translated as: Lang, Sonja (2016). Toki Pona : la langue du bien (in French). Tawhid. ISBN 978-0978292355.
+Lang, Sonja (2021). Toki Pona Dictionary. Illustrated by Vacon Sartirani. Tawhid. ISBN 978-0978292362.
+Cárdenas, Eliazar Parra (2013). Toki pona en 76 ilustritaj lecionoj [Toki Pona in 76 illustrated lessons] (in Esperanto). Translated by Blahuš, Marek. Partizánske, Slovakia: Espero. ISBN 978-80-89366-20-0.
+Toki Pona Stories: akesi seli lili [The Little Dragon]. 2020. ISBN 979-8637271252.
+Samys, Ret (2021-09-06). ma pi kulupu tu [The Land of Two Peoples] (in German). Berlin, Germany: Holtzbrinck Publishing Group. ISBN 9783754161654. Archived from the original on 2022-06-27. Retrieved 2022-06-27.
+This book was translated as: Samys, Ret (2021-09-06). ma pi kulupu tu [The Land of Two Peoples]. Berlin, Germany: Holtzbrinck Publishing Group. ISBN 9783754161647. Archived from the original on 2022-06-27. Retrieved 2022-06-27.
+External links[edit]
+Toki Pona  at Wikipedia's sister projects
+Definitions from WiktionaryMedia from CommonsQuotations from WikiquoteTextbooks from WikibooksData from Wikidata
+Official website – The creator's website.
+Toki Pona dictionary
+lipu Wikipesija, wiki-based encyclopedia in Toki Pona
+Where is Toki Pona used? – A page with many links to Toki Pona related websites.
+Lang's personal website
+vteConstructed languagesClassification
+Artistic
+Fictional
+Language game
+International auxiliary
+Zonal
+Engineered
+Experimental
+Musical
+Philosophical
+Specific languages by groupInternationalauxiliary
+Adjuvilo
+Babm
+Blissymbols
+Bolak
+Communicationssprache
+Esperanto
+Arcaicam
+Esperanto II
+Ido
+Mundolinco
+Reformed
+Romániço
+other esperantidos
+Glosa
+Interglossa
+Idiom Neutral
+Intal
+Interlingua
+Interlingue
+International Sign
+Kotava
+Langue nouvelle
+Latino sine flexione
+Lingua Franca Nova
+Lingwa de planeta
+Mondial
+Neo
+Nal Bino
+Novial
+Pasilingua
+Sambahsa
+Solresol
+Sona
+Spokil
+Unish
+Universalglot
+Uropi
+Volapük
+Zonal
+Afrihili
+Budinos
+Efatese language
+Eurolengo
+Guosa
+N'Ko
+Palawa kani
+Pan-Germanic language
+Folkspraak
+Tutonish
+Pan-Romance language
+Romanid
+Sabir
+Pan-Slavic language
+Interslavic
+Runyakitara
+Wede
+Weltdeutsch
+Engineered
+aUI
+Basic English
+Dutton Speedwords
+Ithkuil
+Kalaba-X
+Astrolinguistics
+Lincos
+Lingua generalis
+Loglan
+Logopandecteision
+Lojban
+Real Character
+Ro
+Toki Pona
+Viossa
+Fictional andother artistic
+Atlantean
+Belter Creole
+Brithenig
+Dritok
+Dothraki
+Elvish languages
+Enchanta
+Kēlen
+Kiliki
+Klingon
+Kobaïan
+Láadan
+Loxian
+Lydnevi
+Mänti
+Middle-earth languages
+Adûnaic
+Quenya
+Sindarin
+more...
+Naʼvi
+Nadsat
+Star Wars languages
+Syldavian
+Teonaht
+Tsolyáni
+Utopian
+Valyrian
+Venedic
+Verdurian
+Wenja
+Ritual and other
+Balaibalan
+Damin
+Enochian
+Eskayan
+Lingua ignota
+Medefaidrin
+Yerkish
+Zaum
+Writing systems
+Constructed script
+Esperanto orthography
+Tolkien's scripts
+Cirth
+Sarati
+Tengwar
+Related
+Conlanging: The Art of Crafting Tongues
+Grammelot
+Relexification
+"A Secret Vice"
+Zompist.com
+Langmaker
+Codes for constructed languages
+Comparisons
+Esperanto/Ido
+Esperanto/Interlingua
+Esperanto/Novial
+Ido/Interlingua
+Ido/Novial
+Interlingue/Interlingua
+Lojban/Loglan
+Portal
+List of constructed languages
+List of language creators
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Toki_Pona&oldid=1173073209"
+Categories: 2001 introductionsConstructed languagesConstructed languages introduced in the 2000sAnalytic languagesEngineered languagesArtistic languagesIsolating languagesTaoism in popular cultureHidden categories: Pages that use PhonosArticles containing Toki Pona-language textCS1 maint: archived copy as titleCS1 German-language sources (de)CS1 Serbian-language sources (sr)CS1: long volume valueCS1 Russian-language sources (ru)Articles with short descriptionShort description is different from WikidataGood articlesArticles with unnamed Glottolog codeISO language articles citing sources other than EthnologuePages including recorded pronunciationsArticles containing Tok Pisin-language textArticles containing Esperanto-language textArticles containing Latin-language textArticles containing French-language textArticles containing Italian-language textArticles containing Dutch-language textAll articles that may contain original researchArticles that may contain original research from December 2022Articles containing potentially dated statements from 2023All articles containing potentially dated statementsCS1 French-language sources (fr)CS1 Esperanto-language sources (eo)Pages using Sister project links with hidden wikidata
+ This page was last edited on 31 August 2023, at 02:39 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

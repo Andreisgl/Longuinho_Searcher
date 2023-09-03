@@ -1,0 +1,240 @@
+Wikiquote:Manual of style - Wikiquote
+Wikiquote:Manual of style
+From Wikiquote
+Jump to navigation
+Jump to search
+ShortcutsWQ:MoSWQ:MOSWQ:STYLE
+This Manual of Style has the simple purpose of making things look alike — it is a style guide.  The following rules don't claim to be the last word.  One way is often as good as another, but if everyone does it the same way, Wikiquote will be  easier to read and easier to use, not to mention easier to write and easier to edit. 
+It is desirable, although not mandatory, to be accurate and precise in adding quotations, proverbs and speeches, and to adhere to the Template, as standard formatting of pages will make possible parsing our content for a variety of uses, such as quotation counting (verified vs. attributed), generation of theme pages, etc. When editing an existing page you are encouraged to change the formatting to conform to the Template.
+Please see How to edit a page for information on how to use all the different forms of markup, much more than just bold or italic.  This article concentrates on when  to use them, although the examples usually also show the markup.  
+Please see Wikiquote:Guide to layout for some simple suggestions on laying out an article.
+Some of the standard forms outlined below are available at Wikipedia:Boilerplate text for quick copy-paste into articles.
+Note to contributors to this article:  We should keep this "manual" simple and straightforward, with anything TOO hairy (table styles, for instance) relegated to a linked page.
+Contents
+1 Introductions
+2 Section headings
+3 List style
+4 Punctuation style
+4.1 Quotations from written sources
+4.1.1 Elipses
+4.2 Quotations from non-written sources
+5 Dates, numbers, measurements
+6 Title style
+7 Caption style
+8 Style for words as words
+9 Spelling style
+10 Scientific style
+11 Citation style
+12 Free link style
+13 "See also" styles
+14 URL and World Wide Web style
+15 Simple tabulation
+16 Stub tags
+17 When all else fails
+18 Don't get fancy
+19 For further information
+Introductions
+Articles should and sections may begin with a short introductory paragraph.  Article introductions should briefly describe the subject of the article; link to a Wikipedia article for any additional details.  Theme articles may dispense with the introduction if the title obviously has only one referent.  Introductions should be written in complete sentences.
+Article introductions should mention the article title and any alternate names by which the same subject is known.  For person and theme articles, the first reference to the subject should be in bold; for subjects like book titles which are normally italicized, the first reference should be in bold italic.
+Samuel Langhorne Clemens, better known as Mark Twain (1835–1910), was an American novelist and humorist. …
+'''Samuel Langhorne Clemens''', better known as '''[[w:Mark Twain|Mark Twain]]''' (1835–1910), was an [[w:United States|American]] novelist and humorist. …
+The Tragedy of Hamlet, Prince of Denmark is a tragedy by William Shakespeare and one of his most well-known and oft-quoted plays. …
+'''''[[w:Hamlet|The Tragedy of Hamlet, Prince of Denmark]]''''' is a tragedy by [[William Shakespeare]] and one of his most well-known and oft-quoted plays. …
+People articles should include at least the years of the author's birth and death, if known; birth and death dates should be separated by an en dash, "–".  This and many other special characters which may be useful in transcribing names and original text are available in a palette at the bottom of the edit and preview pages.  (The en dash is first of the punctuation characters shown.)  If the author is still alive, write "(born date-of-birth)" or "(b. date-of-birth)", not "(yyyy–)".
+Article introductions are most important for quotations of people or works which are not universally recognized.  A good introduction will help other Wikiquote editors find out more about the subject and research additional citations which may belong in the article.  (Alternately, a bad or missing introduction may lead to an article being proposed for deletion, if no other editor is able to find sufficient information on the article subject.)
+Section introductions should be used to provide additional information about the context of a specific subset of the quotations in an article.  In the common case of a section in a person article for a specific work of that author, the introduction may include bibliographic details for the work, so that they need not be repeated for each citation.
+Section headings
+Use the == style markup for section headings, not '''. Start with "==" (that's two equal signs). If the resulting font looks too big (as many people feel), that's an issue for the Wikiquote-wide stylesheet, not individual articles. Note that with the  == brackets used, no additional space under the heading is needed.  Major benefits of marking headings this way are that the default article format will include "Edit" links in each section to ease editing of large articles, and that words within properly marked headers are given greater weight in searches.  Headings also help readers by breaking up the text and outlining the article.  
+Capitalize the first word and any proper nouns in headings, but leave the rest lower case. (This is known as "sentence case".)
+Avoid links within headings.  Depending on their browser settings, some users may not see them clearly.  It is much better to put the appropriate link in the first sentence after the heading.   
+more: Wikipedia:Manual of Style (headings)
+List style
+ShortcutWQ:LIST
+Nearly everything in Wikiquote, except for article and section introductions, is a list.  Specifically, all of the quotations are represented as elements in an unnumbered list, which is expressed in Wiki syntax by beginning a new line of text with an asterisk:
+* First item
+* Second item
+** First sub-item of second item
+produces:
+First item
+Second item
+First sub-item of second item
+Translations, explanations, and citations should all be represented as subitems following the main item which is the quotation itself.
+In some cases, it may be desirable to use a numbered list.  Most commonly, numbered lists will be used when the quotation itself consists of a numbered list.  The number sign (pound sign, octothorpe) is used to make numbered lists; numbered and unnumbered lists may also be nested arbitrarily.
+* First item
+* Second item introduces a numbered list:
+*# First sub-item
+*# Second sub-item
+produces:
+First item
+Second item introduces a numbered list:
+First sub-item
+Second sub-item
+If you accidentally insert a blank line in the middle of a list, the formatting will look odd to most users, and will not be parsed correctly by accessibility tools such as screen readers.  Don't do this:
+* First item
+** Sub-item
+** Sub-item
+For many browsers, the second sub-item will begin with two bullets:
+First item
+Sub-item
+Sub-item
+more: Wikipedia:Manual of Style (lists)
+Punctuation style
+ShortcutWQ:PUNCTUATION
+In most cases, simply follow the usual rules of English punctuation.  A few points where the Wikiquote may differ from usual usage follow.
+Wikiquote guidelines used to recommend that all Wikiquote entries be surrounded by quotation marks.  It is now recommended that these "extra" quotation marks not be used; Wikiquote is understood to consist almost entirely of quotations, and therefore individual entries do not need them.  Many pages remain which still follow the old guidelines, and editors should feel free to update them.
+Quotations from written sources
+In almost all cases, a quotation from a written source should follow the punctuation of the original.  Exceptions may be made for partial quotations where keeping the original punctuation would result in an unintended change in meaning, and where the original punctuation is archaic or the primary source is unavailable.
+Elipses
+ShortcutWQ:ELIPSIS
+Omissions from quoted sources should be indicated with an ellipsis (...).  Some editors prefer to put the ellipsis in square brackets.  Editors generally should not change the punctuation of a quotation when the differences only reflect differing conventions which vary from edition to edition (for example, American versus British usage).
+Ellipses should be kept as three dots " ... " instead of single characters representing elipses, like " … ⋯ " for uniformity.
+Quotations from non-written sources
+With quotation marks, we suggest splitting the difference between American and English usage.  
+Although it is not a rigid rule, it is probably best to use the "double quotes" for most quotations, as they are easier to read on the screen, and use 'single quotes' for "quotations 'within' quotations".  This is the American style.
+Note however the following problem with single quotes: if a word appears in an article with single quotes, such as 'abcd', the Wikiquote:Searching facility will only find it if you search for the word with quotes (when trying this out with the example mentioned, remember that this article is in the Wikiquote namespace). Since this is rarely desirable, this problem is an additional reason to use double quotes, for which this problem does not arise. It may even be a reason to use double quotes for quotations within quotations as well.  Since these are comparatively rare, this is not expected to be an issue in practice.
+When punctuating quoted passages, put punctuation where it belongs, inside or outside the quotation marks, depending on the meaning, not rigidly within the quotation marks.   This is the British style (Fowler has good guidelines for this).  For example, "Stop!" has the punctuation inside the quotation marks.  However, when using "scare quotes", the comma goes outside.
+Another example:
+Arthur said the situation was "deplorable". (the source we're transcribing quotes only part of a sentence)
+Arthur said, "The situation is deplorable." (full sentence is quoted)
+Keep in mind that if you're quoting several paragraphs, there should be quotes at the beginning of each paragraph, but only at the end of the last paragraph.
+For uniformity and to avoid complications use straight quotation marks and apostrophes:
+' "
+not curved (smart) ones or the "backtick":
+‘ ’ “ ” `
+If you are pasting text from Microsoft Word, remember to turn off the smart quotes feature, unmark this feature in AutoEdit and "AutoEdit during typing"! [1] You will probably have to take similar steps for other word processors that format text beyond simple ascii or unicode, such as OpenOffice. As an alternative, you can use a simple text editor, such as Notepad, vim, and emacs.
+Dates, numbers, measurements
+ShortcutsWQ:DATESWQ:NUMBERSWQ:MEASUREMENTSWQ:DNM
+In general, Wikiquote follows Wikipedia in its guidelines for the representation of numeric quantities, described in detail at Wikipedia:Manual of Style (dates and numbers). There are several important project-specific aspects, however, that should be noted:
+Dates
+There is, as yet, no established standard here for representing dates. In general, it is advisable to use one of three relatively common and unambiguous formats: "American" style (January 13, 2007); "European" style (13 January 2007); or ISO 8601 date style (2007-01-13). Do not use ambiguous representations like "03-12-1994" or "11/5/2001", or ordinal representations like "May 5th". Please avoid the use of ISO format in general article text, as it is not as reader-friendly. (It is more commonly used in source citations that are meant primarily for references.)
+In general article text, do not link dates or years to the corresponding Wikipedia articles. Historically this was done to provide useful links to information, but we are moving toward Wikipedia's use of internal links to provide date display formatting based on each user's preference settings. (See the Wikipedia MoS article mentioned above for details.)
+Preference-based date formatting may be used, but is not required, and many editors do not feel it will be appropriate until Wikiquote has established useful year articles. Until then, the only requirement is to avoid ambiguity. If preference-based links are used, internal month-date links will lead to Wikiquote's quote-of-the-day pages, which display old QoTDs and suggested future quotes, and to year articles, only a handful of which exist at this time, and whose purpose is not yet officially defined.
+Numbers and measurements
+Since non-quote material is mostly limited to the article introduction, these formatting issues should be rare. If country-specific formatting becomes an issue, it is usually preferable to abide by Wikipedia style guidelines.
+Note that these formatting guidelines apply to non-quote text. Quoted text should always be rendered as originally spoken or written. Context information may be added in sub-bullets or other notational forms if necessary.
+Title style
+As a general rule, the title of a Wikiquote page should be the same as the title of a Wikipedia article on the same subject, including capitalization and accented characters.  (If there is no Wikipedia article, perhaps you should write one first.)  See Wikipedia:Manual of Style (titles) for specific details.  Sometimes a Wikipedia article will have a disambiguator (word or words in parentheses at the end of the title); this is not always strictly necessary in Wikiquote, but using the full Wikipedia title will ease the maintenance of links between the projects.
+The names of categories and the category structure generally differ between Wikipedia and Wikiquote; in particular, because Wikiquote has far fewer pages than Wikipedia, Wikiquote categories are often more general than the corresponding Wikipedia categories.  Have a look at other pages on similar topics to see which categories are in use before creating a new category for a single article.
+Caption style
+Photos and other graphics should have captions unless they are "self-captioning" as in reproductions of album or book covers.
+Captions should be in italics, using conventional text wherever italics would normally appear. 
+Many elderly Russians are nostalgic for the Stalin era.
+''Many elderly Russians are nostalgic for the ''Stalin'' era.''
+Al Jolson in The Jazz Singer
+''Al Jolson in'' The Jazz Singer
+Style for words as words
+Italicize words when they are being referenced in a sentence, rather than used normally. Similarly for letters.
+The term panning is derived from panorama, a word originally coined in 1787
+The term ''panning'' is derived from ''panorama'', a word originally coined in 1787
+The letter E is the most common letter in English.
+Spelling style
+For the English Wikiquote, either American or British spelling is acceptable. However, proper names should retain their original spellings. For example U.S. Department of Defense and Australian Defence Force.
+It is in no way a requirement, but it probably reads better to use American spellings in articles on American subjects and British spelling in articles on British subjects. A reference to "the American labour movement" (with a U) or to "Anglicization" (with a Z) may be jarring. It also may be jarring to find both forms in a single article. If the spelling appears in an article name, you should make a redirect page to accommodate "the other language", as with Colours and Colors.
+Note that when quoting a written source, you should copy the text exactly as written: that not only includes original spelling (British, American or anachronistic) but preferably any mistakes made in the original (if you are too concerned about them being fixed, a {{sic}} should be able to solve this). Of course none of this applies in comments, translations or introductions. If the quote is from an oral source (CD, television show) and there is no alternative official written source (lyrics, transcript/shooting script), you may use either, though a slight preference is given to a spelling which reflects the original accent (British spelling for non-U.S. accents, American spellings for U.S. accents).
+Scientific style
+For units of measure use SI units; see also Wikipedia:Manual of Style (dates and numbers).
+For mathematics and mathematical formulae, see Wikipedia:WikiProject Mathematics.
+Citation style
+See Wikipedia:Cite your sources
+The source for a quote should ideally be the original source of the quote. Additional citations (one or two) can be useful as long as they don't clutter too much. They can be useful for 
+online verification (if it is an online source)
+to help the reader find additional context and discussion about a quote
+or simply to acknowledge as a matter of fairness the source where the quote was actually found
+If there are several quotes from the same source in the same article:
+a subsection is the best way to go when there are more than just a couple of quotes from a single source
+Alternatively, the source should be repeated below each quote (even if they are from the same source)
+Free link style
+The use of so-called "free links" to other topics, for example, [[George W. Bush]], is encouraged. Use the links for all words and terms that appear in your article for which it could be worthwhile to read the linked article. However, don't overdo it. Do not link every occurrence of a word; simply linking the first time the word appears will usually be enough. (This guideline has yet to be discussed for Wikiquote — some feel that it may not be appropriate in the middle of quotations.)  
+Links that follow the Wikipedia naming conventions are much more likely to lead to existing articles, and, if there is not yet an article about that subject, will make the creation of a correctly-named article much easier for later writers.
+It is possible to link words that are not exactly the same as the linked article title,  [[English language|English]]  for example. Make sure however that it is still clear what the link refers without having to follow the link. When making plurals, do [[language]]s. This is clearer to read in wiki form than  [[language|languages]] — and easier to type.
+Try to link accurately. If an article you want to link seems not to exist, do a quick search to find out if that is really the case; the article may have a slightly different name from what you expected.
+"See also" styles
+ShortcutsWQ:SEEALSOWQ:SEE ALSO
+Informal references to related articles that have not been linked from free links in the text are best handled by "See also:", e.g.
+See also: Internet troll, flaming
+Sometimes it may be useful to have an explicit cross-reference in the text, for example, when a long section of text has been moved somewhere else. In these cases, please make the link bold so that its significance is easier to recognize. Example:
+The legal situation with regard to circumcision varies from country to country (see Legal status of circumcision).
+Sometimes, references may also be more formally called out:
+== See also ==
+* War
+* Poverty
+URL and World Wide Web style
+Wikiquote is not a link collection and an article with only links is actively discouraged, but it is appropriate to reference more detailed material from the World Wide Web.  This is particularly the case when you have used a web site as an important source of information.  
+The syntax of referencing a URL is simple, just enclose it in single brackets, [full URL optional text after space].  The URL must begin with http:// or other form, such as ftp://.  Most URLs are ugly and uninformative, so it is better to hide them.  The "printable version" of a page displays all URLs in full, even if concealed, so no information is lost.
+Without the optional text, such an external reference takes the form of a footnote:  
+[2]
+[http://en.wikiquote.org]
+If followed by a space and text, the text replaces the URL:
+an open-source compendium of quotations
+[http://en.wikiquote.org an open-source compendium of quotations]
+This form can be used to include a run-in URL reference within text when necessary, as:
+One good example of a cooperative online community is Wikiquote, an open-source compendium of quotations.
+One good example of a cooperative online community is [http://en.wikiquote.org Wikiquote, an open-source compendium of quotations]. 
+In most cases, however, it is clearer to keep the URL separate at the bottom of the article under a heading like this:
+==External links==
+As with other headers, two equals signs should be used to markup the external links header (see Headline style above).
+Note: At present, without brackets, URLs are presented as is:
+http://en.wikiquote.org
+http://en.wikiquote.org
+But this feature may disappear in a future release and in cases where you wish to display the URL because it is intrinsically valuable information, it is better to use the short form of the URL as the optional text:
+en.wikiquote.org
+[http://en.wikiquote.org en.wikiquote.org]
+Simple tabulation
+Any line that starts with a blank space becomes a fixed font width and can be used for simple tabulation.  See English plural for many examples.
+foo     bar     baz
+alpha   beta    gamma
+A line that starts with a blank space with nothing else on it forms a blank line, which can be a confusing error, or may be just what you want.  
+Or maybe not. 
+(If you are one of those typists who puts two spaces after a period, you can cause a blank line unknowingly if those blanks are "wrapped" to the beginning of the next line.)
+Stub tags
+Many of the stub tags (e.g. {{people-stub}} or other stub tags) have been placed at the beginning of an article following the introduction, where they are more likely to be seen and acted on. This is different from Wikipedia policy, where stub tags are always placed at the bottom of the article.
+When all else fails
+If you are faced with a fine point, please use other resources, such as The Chicago Manual of Style (from the University of Chicago Press) or Fowler's Modern English Usage (from the Oxford University Press).  Where this page differs from the other sources, the usage on this page should be preferred, but please feel free to add to this page or to carry on a discussion on Wikiquote talk:Manual of style.
+Even simpler is simply to look at an article that you like and open it for editing to see how the writers and editors have put it together.  You can then close the window without saving changes if you like, but look around while you're there.  Almost every article can be improved.  Maybe you could add some markup to make it fit this style better.  
+Don't get fancy
+It's easier for you and whoever follows you if you don't try to get too fancy with your markup.  Even with markup as suggested here, you shouldn't assume that any markup you put in is guaranteed to have a certain appearance when it is displayed.  
+It is easier to display the Wikiquote, easier to edit or add to its articles, if we don't make the markup any more complex than is necessary to display the information in a useful and comprehensible way.  A useful compendium is the first goal, but ease of editing and maintenance of that compendium is right behind it.
+Among other things, this means using HTML markup sparingly and only with good reason.
+For further information
+Before you start writing or editing, it is a good idea to read through and understand these documents:
+Note to contributors to this page: We need to go over all these and make sure they're up to date too.
+Wikiquote:
+Wikiquote:Policies and guidelines is the main stop for policies and, well, guidelines.
+Lee's notes on writing style contains one Wikipedian's advice on good language usage.
+Wikipedia:
+Wikipedia:Welcome, newcomers is a gentle introduction to the world of Wikipedia.
+Retrieved from "https://en.wikiquote.org/w/index.php?title=Wikiquote:Manual_of_style&oldid=2933543"
+Categories: WikiquotePolicies needing expansion
+Navigation menu
+Personal tools
+Not logged inTalkContributionsCreate accountLog in
+Namespaces
+Project pageDiscussion
+English
+Views
+ReadView sourceView history
+More
+Search
+Navigation
+Main pageCommunity portalVillage pumpRecent changesRandom pageHelpDonateContact Wikiquote
+Wikiquote links
+PeopleLiterary worksProverbsFilmsTV showsThemesCategories
+Tools
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+Multilingual WikisourceWikibooksWikinewsWikipediaWikisourceWikiversityWikivoyageWiktionary
+In other languages
+CatalàEsperantoEspañolEuskaraفارسیFrançaisGalegoעבריתHrvatskiItaliano日本語한국어LatinaSimple EnglishSvenskaไทย中文
+Edit links
+ This page was last edited on 28 February 2021, at 00:24.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikiquote
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

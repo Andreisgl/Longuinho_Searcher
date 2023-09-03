@@ -1,0 +1,122 @@
+Language committee/Handbook (requesters) - Meta
+Language committee/Handbook (requesters)
+From Meta, a Wikimedia project coordination wiki
+< Language committee
+Jump to navigation
+Jump to search
+Other languages:
+English · Bahasa Indonesia · русский
+←Language committee
+Language committee (Guide for requesting users)
+Shortcut: langcom/handbook
+This page explains the procedures for making requests for new languages. For the policy that governs such requests (including criteria for approval), see the language proposal policy.
+Language committee
+Language committee
+For requesting users
+Requests
+Proposal policy
+Handbook (requesters)
+Incubator manual
+For members
+Handbook (committee)
+Voting policy
+Information
+Common answers
+Discussion archives
+Closing projects (voluntarily)
+Closing projects policy
+Proposals
+ This box: view · talk · edit 
+Contents
+1 Making a new request
+1.1 Test wikis
+1.2 Old template
+2 Localization
+Making a new request[edit]
+Read the Language proposal policy. Requests that do not meet the policy will be rejected.
+Register an account or log in on Meta.
+Below, replace WIKIPROJECT with "Wikipedia", "Wikisource", ... and replace LANGUAGE with the language name, so it is for example "Requests for new languages/Wikipedia French".
+Create the page with the following template. Make sure to fill out the template and replace the examples. Preview the new page to view explanations for each field.
+{{New wiki request
+| status           = open
+| language_code    = fr
+| language_code3   = fra
+| language_English = French
+| language_native  = français
+| language_Wikidata= Q150
+| new_language     = yes/no <!-- usually yes if it's a Wikipedia, otherwise usually no -->
+| directionality   = LTR <!--LTR = "left to right"; "RTL" for right-to-left scripts.-->
+| project_English  = Wikipedia
+| project_native   = Wikipédia
+| ns_project       = 
+| ns_project_talk  = 
+| enable_upload    = no
+| logo             = File:...
+| timezone         = Continent/City
+| add_namespaces   = 
+| add_settings     = 
+| category         = <!-- for Wikisource and Wikiversity: the category of the test-project on OldWS/BetaWV -->
+}}
+== Proposal ==
+Replace this text with your opening argument in favour of the new project.
+You can also refer to external documentation or websites.
+Sign your request by ending your statement with: --~~~~
+== Discussion ==
+On Requests for new languages, add "{{subst:ls-newrow|Project Language name}}" (for example, "{{subst:ls-newrow|Wikipedia French}}") under "Open". "Project Language name" must match the name of the page you just created; if it adds a red link, check that you spelled it correctly (note that the page cannot be edited by anonymous or newly registered users; in that case, just wait until you are registered long enough).
+Test wikis[edit]
+Wikisource: The multilingual Wikisource accepts content in languages that do not yet have a subdomain (see instructions). Feel free to place pages there at any time; they will be moved to the subdomain if it is created.
+Wikiversity: See a list of existing Wikiversities. Discuss new language versions of Wikiversity at the Wikiversity Beta multlingual hub. For more information, see the wikiversity-l and foundation-l archive (August 2006, particularly this post) mailing lists.
+Incubator (all other projects): See the instructions to start a test wiki at the Wikimedia Incubator.
+Old template[edit]
+The old template should not be added to new pages. On some old requests it is still used. Generally, there is no need to replace it with the new template. For reference, this is an example of how to use the old template:
+{{lc-header|open}}
+{{New language proposal
+ |language  = [[w:French language|French]] (''français'', fr ISO 639-2)
+ |links     = [[incubator:Wp/fr|development wiki project]]
+ |community = ???
+ |external  = [http://www.pch.gc.ca/progs/ai-ia/fi-if/index_e.cfm International Francophonie]
+ |url = http://fr.wikipedia.org/
+ |project_name = Wikipédia
+ |project_namespace = Wikipédia
+ |project_talk = Discussion Wikipédia
+ |logo    = Wikipedia svg logo-fr.svg
+ |timezone = CET (UTC+1)
+}}
+Localization[edit]
+Please see translatewiki.net and incubator:Help:Manual#5 on Incubator for more information.
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Language_committee/Handbook_(requesters)&oldid=24932513"
+Category: Language committee
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Content pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other languages
+Add links
+ This page was last edited on 24 April 2023, at 18:58.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

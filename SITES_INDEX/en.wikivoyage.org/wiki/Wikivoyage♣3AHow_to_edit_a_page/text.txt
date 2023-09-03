@@ -1,0 +1,71 @@
+Wikivoyage:How to edit a page – Travel guide at Wikivoyage
+Wikivoyage:How to edit a page
+From Wikivoyage
+Jump to navigation
+Jump to search
+You can edit any article on Wikivoyage by clicking the edit link. You'll get a browser text-entry box with the current contents of the page formatted in Wiki markup.    
+You can modify the page however you want, but anything you add must be compatible with Wikivoyage copyleft. It helps the rest of us if you follow our policies and guidelines and manual of style, but don't let that stop you from plunging forward. It's more important that you add something than that you do it perfectly.
+Contents
+1 Previewing and saving a page
+2 Using the check boxes
+3 Starting new pages
+4 Restoring previous article versions
+5 Crediting copied content
+6 See also
+Previewing and saving a page
+To see what your changes will look like, hit the Show preview button, which will not save the page. Do a preview just before saving the page, to make sure your changes look right. When you're happy with the changes, hit the blue Publish changes button to post your changes.
+You can cancel your edits by clicking the Cancel link and of course Editing help brings you here.
+Beneath the article editing text box is a short field labelled Summary. This is for putting a short note (edit summary) about what you've done to an article, such as "added Ao Shai To hotel details" or "spelling 'miserible' -> 'miserable'" or "took out obsolete detour directions to Spanish Steps". It can be helpful for people who are looking at the Recent changes or Page history pages to quickly see what you did.
+If you've edited a page but it doesn't seem to have changed you should probably look at Special:Recentchanges or the article's history, since it is likely that someone has done a rollback of your change, and may have given an informative reason.
+Using the check boxes
+If you are logged in to a user account there will be a This is a minor edit checkbox for marking your changes as "minor". The idea with this is that people reviewing page history or recent changes can filter out unimportant changes. It's up to you to determine what makes your changes "minor" -- usually, spelling corrections, grammar, or formatting changes are "minor", and changes to the real information on a page are not.
+The Watch this article checkbox puts this article on your watchlist. Any changes to the article, or to the article's talk page, by you or anyone else will show up in your watchlist, so you can keep an eye on the article.
+The default setting — whether these checkboxes are checked or not by default — can be set in your user preferences.
+Starting new pages
+If you are starting a new page from the beginning, please make use of our article skeletons which help to organize the information on a page and give a consistent look. See How to start a new page for more information.
+Restoring previous article versions
+If an editor changes or removes content from an article the old versions of the article are still available from the article's history. To view article history, click on the "history" tab for any article, then click on the date for the revision that you are interested in. To revert the article to the specified revision, simply click on the "edit" tab while viewing the old version and then re-save the version. Alternately, if you just want to revert a single edit, click on the "undo" link from an article's history next to the edit that is being reverted.
+Crediting copied content
+Sometimes content is moved between articles, or paraphrased from other sources. The licence and good manners often require some kind of attribution. When the content is from Wikivoyage or a sister project, the best way is to include a permanent link to the version you used in the edit summary. The link is found in the toolbox in the left margin of the original page. Write something like "Eat listings from Abugelbe, https://en.wikivoyage.org/w/index.php?title=Abugelbe&oldid=12345" or extract and use the oldid number: "Eat listings from [[Special:Permalink/12345|Abugelbe]]". The latter form needs a prefix if used with sister projects: "added Understand, with content from [[w:de:Special:Permalink/67890|w:de:Egeheve]]" (Wikipedia in German).
+See also
+Help
+How to add an image
+How to start a new page
+Manual of style
+Using talk pages
+Wiki markup
+Retrieved from "https://en.wikivoyage.org/w/index.php?title=Wikivoyage:How_to_edit_a_page&oldid=4590235"
+Category: Wikivoyage help
+Navigation menu
+Personal tools
+Not logged inTalkContributionsCreate accountLog in
+Namespaces
+Project pageDiscussion
+English
+Views
+ReadView sourceView history
+More
+Search
+Navigation
+Main pageTravel destinationsStar articlesWhat's Nearby?Tourist officeRandom page
+Get involved
+Travellers' pubRecent changesCommunity portalMaintenance panelPoliciesHelpInterlingual loungeDonate
+Tools
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+Wikimedia CommonsMediaWikiMeta-WikiWikispeciesWikibooksWikidataWikinewsWikipediaWikiquoteWikisourceWikiversityWiktionary
+In other languages
+বাংলাDeutschΕλληνικάEspañolفارسیFrançaisעבריתItaliano日本語NederlandsPortuguêsRomânăРусскийSvenskaУкраїнська中文
+Edit links
+This article is partly based on Creative Commons Attribution-ShareAlike 3.0 Licensed work from other websites. Details of contributors can be found in the article history.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikivoyage
+Disclaimer
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

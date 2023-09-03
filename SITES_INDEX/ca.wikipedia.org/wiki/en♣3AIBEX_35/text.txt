@@ -1,0 +1,569 @@
+IBEX 35 - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Languages
+Language links are at the top of the page across from the title.
+Search
+Search
+Create accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1History
+2Rules
+Toggle Rules subsection
+2.1Selection
+2.2Weighting
+2.3Calculation
+2.4Specification
+3Components
+4Record values
+5Annual returns
+6Related indices
+7Past components
+8See also
+9References
+10External links
+Toggle the table of contents
+Toggle the table of contents
+IBEX 35
+23 languages
+AsturianuCatalàDanskDeutschEspañolEuskaraفارسیFrançaisGalego한국어Bahasa IndonesiaÍslenskaItalianoLietuviųBahasa MelayuNederlands日本語PolskiPortuguêsРусскийSuomiTürkçe中文
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Download as PDFPrintable version
+In other projects
+Wikimedia Commons
+From Wikipedia, the free encyclopedia
+Spanish stock market index
+IBEX 35FoundationJanuary 14, 1992 (1992-01-14)OperatorBolsas y Mercados EspañolesExchangesBolsa de MadridTrading symbol^IBEXConstituents35TypeLarge capMarket cap€451,626 billion (March 2021)[1]Weighting methodCapitalization-weightedRelated indicesMadrid Stock Exchange General IndexWebsiteOfficial website
+The IBEX 35 (IBerian IndEX) is the benchmark stock market index of the Bolsa de Madrid, Spain's principal stock exchange. Initiated in 1992, the index is administered and calculated by Sociedad de Bolsas, a subsidiary of Bolsas y Mercados Españoles (BME), the company which runs Spain's securities markets (including the Bolsa de Madrid). It is a market capitalization weighted index comprising the 35 most liquid Spanish stocks traded in the Madrid Stock Exchange General Index and is reviewed twice annually.[2] Trading on options and futures contracts on the IBEX 35 is provided by MEFF (Mercado Español de Futuros Financieros), another subsidiary of BME.[3]
+History[edit]
+Performance of the IBEX 35 between 1992 and 2009
+The IBEX 35 was inaugurated on January 14, 1992,[4] although there are calculated values for the index back to December 29, 1989, where the base value of 3,000 points lies.[5]
+Between 2000 and 2007, the index outperformed many of its Western peers,[6] driven by relatively strong domestic economic growth which particularly helped construction and real estate stocks.[7] Consequently, while the record highs to date of the FTSE 100, CAC 40 and AEX, for example, were set during the dot-com bubble in 1999 and 2000, the IBEX 35's all-time maximum of 15,945.70 was reached on November 8, 2007.[8][9]
+The financial crisis of 2007–2008 included extreme volatility in the markets, and saw both the biggest one day percentage fall and rise in the IBEX 35's history. The index closed 7.5% down on January 21, 2008, the second biggest fall in the Spanish equity market since 1987,[10] and rose a record 6.95% three days later.[11]
+Rules[edit]
+Selection[edit]
+The composition of the IBEX 35 is reviewed twice per year (in June and December)[12] by the so-called Technical Advisory Committee, which consists of "representatives of the stock exchanges and derivatives markets, as well as... renowned experts from the academic and financial fields".[12] If any changes are made, they come into effect the following trading day after the third Friday of the rebalance month[13][12] In general, at each review, the 35 companies with the highest trading volume in Euros over the previous six months are chosen for inclusion in the index, provided that the average free float market capitalization of the stock is at least 0.3% of the total market cap of the index.[5] Any candidate stock must also have either been traded on at least a third of all trading days in the previous six months,[12] or rank in the top twenty overall in market cap[14] (thus allowing large recently IPOed companies to be included).
+The Bolsa de Madrid
+Weighting[edit]
+The IBEX 35 is a capitalization-weighted index.[12] The market cap used to calculate the weighting of each constituent is multiplied by a free float factor (ranging from 0.1 to 1) depending on the fraction of shares not subject to block ownership.[5] Any company with 50% or more of its shares considered free float is given a free float factor of 1.[5] Unlike many other European benchmark indices, the weightings of companies in the IBEX 35 are not capped.
+As of 2015, international funds based abroad (chiefly in Norway, the United States, the United Kingdom and Qatar) owned 43% of the index, vs. 16% in 1992.[15] Such rate of foreign investment was about 5% above the EU average.[15]
+Calculation[edit]
+The index value (given here as I) of the IBEX 35 index is calculated using the following formula:[5]
+I
+(
+t
+)
+=
+I
+(
+t
+−
+1
+)
+×
+∑
+i
+=
+1
+35
+C
+a
+p
+i
+(
+t
+)
+[
+∑
+i
+=
+1
+35
+C
+a
+p
+i
+(
+t
+−
+1
+)
+±
+J
+]
+{\displaystyle I(t)=I(t-1)\times {\frac {\sum _{i=1}^{35}{\rm {Cap}}_{i}(t)\,}{[\,\sum _{i=1}^{35}{\rm {Cap}}_{i}(t-1)\,\pm J\,]\,}}}
+with t the moment of calculation; Cap the free float market cap of a specific listing and J a coefficient used to adjust the index on the back of capital increases or other corporate actions so as to ensure continuity. The formula can be adjusted to accommodate changes in index structure, such as the temporary suspension of companies pending news.
+Specification[edit]
+IBEX Mini futures contracts are traded on the MEFF Renta Variable (MEFF-RV) exchange under the ticker symbol BIBX. The full contract specifiactions for IBEX Mini futures are listed below.
+Contract Specification[16]
+IBEX Mini (BIBX)
+Exchange:
+MEFF-RV
+Sector:
+Index
+Tick Size:
+0.1
+Tick Value:
+0.5 EUR
+Big Point Value (BPV):
+5
+Denomination:
+EUR
+Decimal Place:
+1
+Components[edit]
+As of August 3, 2023[update], the following 35 companies make up the index:[17]
+Ticker
+Company
+Sector
+ACS
+ACS
+Construction
+ACX
+Acerinox
+Steel
+AENA
+Aena
+Aviation
+AMS
+Amadeus IT Group
+Tourism
+ANA
+Acciona
+Construction
+ANE
+Acciona Energía
+Energy
+BBVA
+BBVA
+Financial Services
+BKT
+Bankinter
+Financial Services
+CABK
+CaixaBank
+Financial Services
+CLNX
+Cellnex Telecom
+Telecommunications
+COL
+Inmobiliaria Colonial
+Real Estate
+ELE
+Endesa
+Energy
+ENG
+Enagás
+Energy
+FDR
+Fluidra
+Manufacturing
+FER
+Ferrovial
+Infrastructure
+GRF
+Grifols
+Pharmaceuticals
+IAG
+International Airlines Group
+Aviation
+IBE
+Iberdrola
+Energy
+IDR
+Indra
+Information Technology
+ITX
+Inditex
+Textile
+LOG
+Logista
+Logistics
+MAP
+Mapfre
+Insurance
+MEL
+Meliá Hotels
+Tourism
+MRL
+Merlin Properties
+Real Estate
+MTS
+ArcelorMittal
+Steel
+NTGY
+Naturgy
+Energy
+RED
+Red Eléctrica
+Energy
+REP
+Repsol
+Oil and Gas
+ROVI
+Laboratorios Rovi [es]
+Pharmaceuticals
+SAB
+Banco Sabadell
+Financial Services
+SAN
+Santander
+Financial Services
+SACYR
+Sacyr
+Construction
+SLR
+Solaria
+Solar Energy
+TEF
+Telefónica
+Telecommunications
+UNI
+Unicaja
+Financial Services
+Record values[edit]
+The index reached the following record values:
+Category
+All-time highs
+All-time lows
+Closing
+15,945.70
+8 November 2007
+1,873.58
+5 October 1992
+Intraday
+16,040.40
+9 November 2007
+1.861,90
+5 October 1992
+Annual returns[edit]
+The following table shows the annual development of the IBEX 35 since 1992.[18]
+Year
+Closing level
+Change in Indexin Points
+Change in Indexin %
+1992
+2,344.57
+1993
+3,615.22
+1,270.65
+54.20
+1994
+3,087.68
+−527.54
+−14.59
+1995
+3,630.76
+543.08
+17.59
+1996
+5,154.77
+1,524.01
+41.97
+1997
+7,255.40
+2,100.63
+40.75
+1998
+9,836.60
+2,581.20
+35.58
+1999
+11,641.40
+1,804.80
+18.35
+2000
+9,109.80
+−2,531.60
+−21.75
+2001
+8,397.60
+−712.20
+−7.82
+2002
+6,036.90
+−2,360.70
+−28.11
+2003
+7,737.20
+1,700.30
+28.17
+2004
+9,080.80
+1,343.60
+17.37
+2005
+10,733.90
+1,653,10
+18.20
+2006
+14,146.50
+3,412.60
+31.79
+2007
+15,182.30
+1,035.80
+7.32
+2008
+9,195.80
+−5,986.50
+−39.43
+2009
+11,940.00
+2,744.20
+29.84
+2010
+9,859.10
+2,080.90
+−17.43
+2011
+8,566.30
+−1,292.80
+−13.11
+2012
+8,167.50
+−398.80
+−4.66
+2013
+9,916.70
+1,749.50
+21.42
+2014
+10,279.20
+362.80
+3.66
+2015
+9,544.50
+−734.70
+−7.15
+2016
+9,352.10
+−192.10
+−2.01
+2017
+10,043.90
+691.80
+7.40
+2018
+8,539.90
+−1,504.00
+−14.97
+2019
+9,549.20
+1,009.30
+11.82
+2020
+8,073.70
+−1,475.50
+−15.45
+2021
+8,713.80
+640.10
+7.93
+2022
+8,229.10
+-484.70
+-5.56
+Related indices[edit]
+IBEX Medium Cap: It is composed by the 20 listed Spanish companies with the largest capitalization after those included in the IBEX 35.
+IBEX Small Cap:  It is composed by the 30 listed Spanish companies with the largest capitalization after those included in the IBEX Medium Cap.
+IBEX Top Dividendo.
+BME Growth: a sub-market of Bolsas y Mercados Españoles (BME) for smaller companies to float shares with a more flexible regulatory system than is applicable to the main market.
+Past components[edit]
+All changes are due to market capitalisation unless stated otherwise.[19]
+Abengoa
+Abertis Infraestructuras
+Aceralia (merged with Arbed and Usinor to from Arcelor)
+Agromán
+Aguas de Barcelona
+Altadis
+Amper
+Antena 3 TV
+Arcelor
+Asland (not listed anymore)
+Asturiana de Zinc (not listed anymore)
+Autopistas del Mare Nostrum (renamed as Aurea, and merged in 2003 with ACESA to form Abertis)
+Banco Central (merged with Banco Hispano Americano to form Banco Central Hispano, which later merged with Banco Santander to form Banco Santander Central Hispano, renamed later as Banco Santander)
+Banco Hispano Americano (merged with Banco Central to form Banco Central Hispano, which later merged with Banco Santander to form Banco Santander Central Hispano, renamed later as Banco Santander)
+Banco Popular (acquired by Banco Santander)
+Banesto (acquired by Banco Santander)
+Bankia  (acquired by CaixaBank)
+Bolsas y Mercados Españoles
+Carrefour
+CEPSA
+Cintra (acquired by Ferrovial)
+Continente (merged with Pryca to form Carrefour)
+Corporación Financiera Alba
+Cortefiel
+Cristalería Española (not listed anymore)
+Distribuidora Internacional de Alimentación
+Dragados (acquired by ACS)
+Ebro Industrias Agrícolas (merged with Puleva to form Ebro Puleva, which later was renamed Ebro Foods)
+Energía e Industrias Aragonesas (not listed anymore)
+Ence
+Ercros
+Fadesa (not listed anymore)
+Fomento de Construcciones y Contratas
+FECSA (merged with Endesa)
+GESA (acquired by Endesa)
+Hidrocantábrico (acquired by EDP Group and renamed EDP España)
+Huarte (merged with Obrascón to form Obrascón Huarte, which later merged with Construcciones Lain to form Obrascón Huarte Lain)
+Iberia (merged with British Airways to form IAG)
+Jazztel (acquired by Orange España)
+Masmovil Ibercom
+Mediaset
+Movistar Móviles (acquired by Telefónica)
+NH Hoteles
+Obrascón Huarte Lain
+Picking Pack
+Portland Valderrivas
+Prisa
+Pryca (merged with Continente to form Carrefour)
+Puleva (merged with Ebro Industrias Agricolas to form Ebro Puleva, which later was renamed Ebro Foods)
+Radiotrónica (renamed as Avanzit)
+Sacyr
+Sarrió (not listed anymore)
+Sevillana de Electricidad (acquired by Endesa)
+Sol Meliá
+Técnicas Reunidas
+Telefónica Móviles (acquired by Telefónica)
+Telefónica Publicidad e Información (acquired by Yell)
+Telepizza
+Terra Networks (acquired by Telefónica)
+Tubacex
+Uralita
+Urbis
+Unión Fenosa (acquired by Gas Natural, later renamed as Naturgy)
+Vocento
+Yell Publicidad
+Zardoya Otis
+Zeltia
+See also[edit]
+Economy of Spain
+References[edit]
+^ "IBEX 35 Factsheet" (PDF). BME Market Data. March 2021. Retrieved April 16, 2021.
+^ IBEX 35 facts via Wikinvest
+^ "About us". Mercado Español de Futuros Financieros. Archived from the original on September 18, 2010. Retrieved October 1, 2010.
+^ "El Ibex 35 celebra su 15º cumpleaños con una revalorización superior al 400%". El Mundo. January 15, 2007. Retrieved January 21, 2008.
+^ a b c d e "Technical Regulations for the Composition and Calculation of the Sociedad De Bolsas, S.A. Indexes" (PDF) (in Spanish). Sociedad de Bolsas. Archived from the original (PDF) on May 22, 2006. Retrieved January 27, 2008.
+^ "5-year comparison chart of Xetra DAX, IBEX 35, CAC 40, FTSE 100 and DJIA". Yahoo! Finance. Retrieved December 28, 2007.
+^ Smyth, Sharon (January 9, 2007). "Around the Markets: Spanish stock market could become victim of its own success". International Herald Tribune. Bloomberg. Archived from the original on March 14, 2007. Retrieved January 27, 2008.
+^ "Récord para el Ibex: Santander hizo saltar la sesión por los aires". El Economista. November 8, 2007. Retrieved January 27, 2008.
+^ "Historical prices of IBEX 35" (in Spanish). Yahoo! Finance. Retrieved December 28, 2007.
+^ "El Ibex 35 pierde un 7,5% y registra la mayor caída de toda su historia" [The Ibex 35 loses 7.5% and registers the biggest drop in its history]. El Mundo (in Spanish). January 21, 2008.
+^ "El Ibex gana un 6,95%, la mayor subida de su historia". El País (in Spanish). January 24, 2008.
+^ a b c d e "10 key questions about IBEX 35". Sociedad de Bolsas. Archived from the original on March 29, 2009.
+^ "Bolsa de Madrid". BME Exchange. Retrieved April 30, 2023.
+^ "Notice from the Technical Advisory Committee of the IBEX indices regarding changes to the Technical Regulations for the Composition and Calculation of the Indices" (PDF). Bolsas y Mercados Españoles. April 17, 2008. Archived from the original (PDF) on July 16, 2011. Retrieved April 18, 2008.
+^ a b David Fernández (January 8, 2017). "Los fondos extranjeros se adueñan del IBEX 35". El País (in Spanish).
+^ "Historical Ibex Mini Intraday Data (BIBX)". PortaraCQG. Retrieved September 16, 2022.
+^ "Indices IBEX" (PDF) (in Spanish). Bolsas y Mercados Españoles. August 3, 2023.
+^ "IBEX 35. (^IBEX) Historical Data - Yahoo Finance". finance.yahoo.com. Retrieved January 21, 2020.
+^ "Bolsa de Madrid - Historical Constituents". www.bolsamadrid.es. Retrieved June 1, 2021.
+External links[edit]
+Wikimedia Commons has media related to IBEX 35.
+Official website 
+Reuters page for .IBEX
+Business data for IBEX 35: BloombergYahoo!
+vteIBEX 35 companies of Spain
+ACS
+Acerinox
+Aena
+Amadeus IT Group
+Acciona
+Acciona Energía
+BBVA
+Bankinter
+CaixaBank
+Cellnex Telecom
+Inmobiliaria Colonial
+Endesa
+Enagás
+Fluidra
+Ferrovial
+Grifols
+International Airlines Group
+Iberdrola
+Indra
+Inditex
+Logista
+Mapfre
+Meliá Hotels
+Merlin Properties
+ArcelorMittal
+Naturgy
+Red Eléctrica
+Repsol
+Banco Sabadell
+Santander
+Sacyr
+Solaria
+Telefónica
+Unicaja
+vteMajor European stock market indices
+AEX
+ATX
+BEL 20
+BUX
+CAC 40
+DAX
+FTSE 100
+FTSE MIB
+IBEX 35
+ISEQ 20
+MOEX
+OBX
+OMXC25
+OMXH25
+OMXS30
+PSI-20
+PX
+RTSI
+SMI
+WIG30
+Authority control International
+FAST
+National
+Israel
+United States
+Retrieved from "https://en.wikipedia.org/w/index.php?title=IBEX_35&oldid=1172524228"
+Categories: IBEX 351992 establishments in Spain1992 introductionsSpanish stock market indicesHidden categories: CS1 Spanish-language sources (es)Articles with short descriptionShort description is different from WikidataUse mdy dates from April 2019Articles containing potentially dated statements from August 2023All articles containing potentially dated statementsCommons category link from WikidataArticles with FAST identifiersArticles with J9U identifiersArticles with LCCN identifiers
+ This page was last edited on 27 August 2023, at 17:06 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

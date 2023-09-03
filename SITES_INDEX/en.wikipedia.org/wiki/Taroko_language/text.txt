@@ -1,0 +1,1730 @@
+Seediq language - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Languages
+Language links are at the top of the page across from the title.
+Search
+Search
+Create accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1Subdivisions
+2Phonology
+3Morphology
+Toggle Morphology subsection
+3.1Verbs
+4Word classes
+5Syntax
+Toggle Syntax subsection
+5.1Clauses
+5.2Function words
+5.3Predicate extenders
+6Pronouns
+7Numerals
+8References
+9Further reading
+10External links
+Toggle the table of contents
+Toggle the table of contents
+Seediq language
+26 languages
+Bân-lâm-gúBikol CentralČeštinaEsperantoFrançaisGalegoHrvatskiIlokanoBahasa IndonesiaItalianoKapampanganKiswahiliLietuviųМакедонскиNederlands日本語Norsk bokmålNorsk nynorskPiemontèisPortuguêsᱥᱟᱱᱛᱟᱲᱤSuomiТатарча / tatarçaTiếng Việt粵語中文
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Download as PDFPrintable version
+From Wikipedia, the free encyclopedia
+(Redirected from Taroko language)
+Austronesian language spoken in Taiwan
+"Truku language" redirects here. For the Micronesian language named "Trukese", see Chuukese language.
+Kari SeediqTarokoNative toTaiwanRegioncentral, eastern, and coastalEthnicitySeediq, TarokoNative speakers20,000 (2008)[1]Language familyAustronesian
+AtayalicKari SeediqLanguage codesISO 639-3trvGlottologtaro1264ELPSeediqLinguasphere30-AABTaroko is classified as Vulnerable by the UNESCO Atlas of the World's Languages in Danger
+Seediq, also known as Sediq, Taroko, is an Atayalic language spoken in the mountains of Northern Taiwan by the Seediq and Taroko people.
+Subdivisions[edit]
+Seediq consists of three main dialects (Tsukida 2005). Members of each dialect group refer to themselves by the name of their dialect, while the Amis people call them "Taroko."
+Truku (Truku) – 20,000 members including non-speakers. The Truku dialect, transcribed 德路固 Délùgù in Chinese.
+Toda (Tuuda) – 2,500 members including non-speakers.
+Tgdaya (Tkdaya, Paran) – 2,500 members including non-speakers.
+Phonology[edit]
+In Seediq there are 19 consonant phonemes and 4 vowel phonemes. Among these, there are two velar fricatives, one voiceless and the other voiced, and a uvular stop. In both labial and alveolar plosive series, voice opposition is contrastive; velar and uvular series, however, only display voiceless sounds. The alveolar affricate has a marginal phonological status and is found in some interjections (such as teʼcu! "what a mess!"), loanwords and non-finite verbal forms with the gerund prefix cese- (Tsukida 2005: 292, 297).
+Consonants in Seediq (Truku dialect)[2][3]
+Labial
+Alveolar
+Palatal
+Velar
+Uvular
+Glottal
+Nasal
+m
+n
+ŋ ⟨ng⟩
+Plosive
+voiceless
+p
+t
+(ɟ ⟨j⟩)
+k
+q
+ʔ ⟨ʼ⟩
+voiced
+b
+d
+Fricative
+voiceless
+s
+x
+h
+voiced
+ɣ ⟨g⟩
+Affricate
+(ts ⟨c⟩)
+Tap
+ɾ ⟨r⟩
+Glide
+l
+j ⟨y⟩
+w
+With the graphemes c and j the practical orthography indicates the palatal allophones of t and d respectively after i and y.
+The vowels are the following:
+Vowels in Seediq (Truku dialect)[2]
+Front
+Central
+Back
+Closed
+i
+u
+Mid
+ə ⟨e⟩
+Open
+a
+Seediq also has three diphthongs, mainly ay [ai̯], aw [au̯] and uy [ui̯].
+Seediq syllables have C, CV, or CVC structures, except for some interjections which have CVCC structures (e.g., saws, which is uttered when offering food to ancestors, and sawp, which is the sound of an object blown by the wind). Disyllabic words can take on the following structures:
+CVCV, CVCVC
+CVCCV, CVCCVC
+Vowels in antepenultimate syllables are often /e/. The stressed syllable is usually the penultimate one, and is pronounced with a high pitch. In the Truku dialect stress is on the final syllable resulting in loss of first vowel in CVCCV and CVCCVC structures, for example compare: qduriq > pqdriqun, lqlaqi > lqlqian. In Taroko, up to six onset consonants are possible: CCCCCVC(VC), for example: tn'ghngkawas, mptrqdug, pngkrbkan, dmptbrinah.
+Morphology[edit]
+As other Austronesian languages, Seediq uses reduplication to convey grammatical functions, such as pluralization and reciprocal verb form derivation. There are two kinds of reduplication: one which involves only the first syllable of the stem, with structure Cə-CV(C), and one which involves the last pair of syllables of the stem excluding codas, having structure CəCə-CV(C)CV(C). Examples are:
+qehunitree"tree"→  qe-qehuniREDUP-tree"trees"(Cə-reduplication)  qehuni → qe-qehunitree {} REDUP-tree"tree" {} "trees"
+seʼdiqperson"person"→  sede-seʼdiqREDUP-person"people"(CəCə-reduplication)[4]  seʼdiq → sede-seʼdiqperson {} REDUP-person"person" {} "people"
+Along with reduplication, there are also numerous prefixes and suffixes in Seediq that intervene to alter the meaning of words in derivational and inflectional processes. Affixes include:
+-an: oblique case
+ne-: something possessed by the prefixed noun
+Clitics, unlike affixes, do not cause phonological alterations on their roots to which they are attached.
+Verbs[edit]
+Seediq verbs have three types of voices, which are in turn inflected for mood or aspect (Tsukida 2005:313). Nouns, however, do not inflect for voice.
+Agent voice – marked by -em- or its allomorphs me or Ø
+Goal voice
+Conveyance voice
+There are four basic aspect/mood categories:
+Neutral – same as non-future/imperfective
+Perfect – marked by -en-
+Non-finite – bare stem
+Hortative (i.e., when advising someone) – marked by -a(y/nay)
+The future is marked by me-, mpe-, mpe-ke-.
+There are a total of five different verb classes (conjugation paradigms). Other verb forms include causatives, reciprocals, and reflexives. Serial verb constructions are also allowed.
+Word classes[edit]
+Truku Seediq has 11 word classes (Tsukida 2005:295).
+Open classes
+Nouns
+Verbs
+Adjectives
+Closed classes
+Numerals
+Personal pronouns
+Deictics
+Adverbs
+Conjunctives
+Prepositions
+Interjections
+Sentence final particles
+Like many other Formosan and Philippine languages, Seediq nouns and verbs behave similarly. Adjectives can be considered as a subcategory of verbs.
+Syntax[edit]
+The word order of Seediq is verb–object–subject (VOS), where S corresponds to the argument marked with absolutive case.  This argument ordinarily occurs clause-finally, but may be followed by a topicalized ergative argument.  Like many of its other Austronesian relatives, Seediq contains voice morphemes marked on the verb which indicate which of the verb's arguments (agent, patient, etc.) is treated as the subject and thus marked with absolutive case. In noun phrases, modifiers follow the head (Tsukida 2005:304). Unlike Tagalog and many other Philippine languages, there are no linkers connecting the heads and modifiers.
+Clauses[edit]
+There are three types of Seediq clauses (Tsukida 2005):
+Interjection clauses
+Basic clauses
+Existential/possessive clauses
+Basic clauses have predicates (usually initial and consisting of single verbs, adjectives, or noun phrases), subjects, and optionally non-subject arguments and adjuncts.
+Subjects can be recognized via (Tsukida 2005):
+Voice affix
+Clitic pronoun
+Quantifier floating
+Relativization
+Possessum demotion
+Function words[edit]
+Some function words are given below:
+ni – "and" (conjunction)
+deni – "and then" (conjunction)
+'u, du'u, ga, dega – all meaning "in case that" (conjunction)
+nasi – "if"
+'ana – "even"
+ka – subordinating conjunction, case marker, linker
+'ini – negator
+'adi – negates noun phrase predicates, future/perfect verb forms
+wada – past
+na'a – "had better, could have done..."
+dima – "already"
+hana – "just"
+ya'asa – "because"
+niqan – existential predicate (like Tagalog "may")
+'ungat – negative existential predicate (like Tagalog "wala")
+Deictics include (Tsukida 2005:303):
+niyi – this, this one
+ga/gaga – that, that one
+hini – here
+hi/hiya – there
+ga/gaga hiya – over there
+There are a total of six prepositions (Tsukida 2005:303):
+quri – toward, about, in the direction of
+pa'ah – from
+bitaq – until, up to
+saw – like
+'asaw – because of
+mawxay – for the sake of
+Stative locatives (e.g., "on the mountain") do not take on any prepositions, but are rather placed directly after the verb without any additional marking.
+Predicate extenders[edit]
+Preverbal elements such as adverbs, demonstratives, and prepositions can be used to extend predicates. Below is a partial list of predicate extenders from Tsukida (2008:308).
+Extenders that require neutral verb forms
+wada – past
+ga(ga) – distal progressive
+niyi – proximal progressive
+gisu – progressive, state
+meha – future, "is going to do"
+(me-)teduwa – "be able to do"
+nasi – "if"
+na'a – "could have done something but did not
+Extenders that require non-finite verb forms
+'asi ~ kasi – "at once, suddenly"
+pasi – "at once"
+kani – "one did not have to do something but did it"
+'ini – negative
+'iya – negative imperative
+Extenders that require future forms
+saw – "is/was about to do"
+rubang – "was about to do"
+Extenders that require future/perfect forms of verbs/nouns
+'adi – negative
+Extenders that are combined with adjectives/nouns
+ma'a – "become"
+Extenders without specific requirements
+pekelug – "just"
+dima – "already"
+hana – "at last"
+'ida – "surely"
+ya'a – uncertainty
+wana – only
+'ana – "even"
+ma – "why"
+'alung ~ 'alaw ~ 'arang – "as is expected"
+pida – exactly
+lengu – "planned to do..."
+binaw – confirmation
+'atih – "at the last moment," "nearly"
+seperang – "purposefully, on purpose"
+Pronouns[edit]
+Truku Seediq personal pronouns
+Type ofpronoun
+Direct
+Oblique
+Independent possessive
+Subject
+Genitive
+1s.
+yaku
+kenan
+(ne-)naku
+=ku
+=mu
+2s.
+isu
+sunan
+(ne-)nisu
+=su
+=su
+3s.
+hiya
+hiyaan
+ne-hiya
+–
+=na
+1p. (incl.)
+'ita
+tenan
+(ne-)nita
+=ta
+=ta
+1p. (excl.)
+yami
+menani
+(ne-)nami
+=nami
+=nami
+2p.
+yamu
+munan
+(ne-)namu
+=namu
+=namu
+3p.
+dehiya
+dehiyaan
+ne-dehiya
+-
+=deha
+Numerals[edit]
+The cardinal numbers are:[5]
+kingal
+deha
+teru
+sepat
+rima
+mataru
+mpitu
+maspat
+mengari
+maxal
+Other numerals and numeral-related affixes (Tsukida 2005:297):
+taxa: used for humans – one person
+'uwin: used for objects – one object
+ma- -(u)l: used to form words for 10, 20, 30, 40, 50
+ma-xa-l: 10
+m-pusa-l: 20
+me-teru-l: 30
+me-sepat-ul: 40
+me-rima-l: 50
+References[edit]
+^ Kari Seediq at Ethnologue (18th ed., 2015) (subscription required)
+^ a b Tsukida 2005, p. 293.
+^ Hsu 2008, pp. 6–9.
+^ Tsukida 2005, pp. 294–295
+^ Campbell, W. (1915). Sketches from Formosa. London: Marshall Brothers. p. 43. Here are the ten numerals : Khial, Dahah, Turuh, Supat, Rimah, Maturuh, Mapitah, Mashupat, Mugarih, Machal.
+Tsukida, Naomi (2005). "Seediq". In Adelaar, K. Alexander; Himmelmann, Nikolaus (eds.). The Austronesian Languages of Asia and Madagascar. Psychology Press.
+Hsu, Lowking Wei-Cheng 許韋晟 (2008). Tàilǔgé gòucífǎ yánjiū 太魯閣構詞法研究 [Word Formation In Truku] (PDF) (Master's thesis) (in Chinese). Guoli xinzhu jiaoyu daxue. hdl:11296/5xh3f2. Archived from the original (PDF) on 2021-05-04.
+Further reading[edit]
+Lien, Hao-Chi 連皓琦 (2013). Sàidékèyǔ Tàilǔgé fāngyán jìnjìyǔ yǔ wēiwǎnyǔ yánjiū 賽德克語太魯閣方言禁忌語與委婉語研究 [A Study of Taboos and Euphemisms in the Truku Dialect of Seediq] (in Chinese). Hualian Xian Shoufeng Xiang: Guolì donghua daxue. ISBN 978-986-03-9288-3.
+Ochiai, Izumi (2016). "Bu-hwan Vocabulary Recorded in 1874: Comparison with Seediq Dialects". Asian and African Languages and Linguistics. 10: 287–324. hdl:10108/85073.
+Chen, Kang 陈康 (2014). Sàidékèyǔ yánjiū 赛德克语研究 [A Study of Seediq] (in Chinese). Beijing: Minzu chubanshe.
+Yuánzhùmínzú yǔyán shūxiě xìtǒng 原住民族語言書寫系統 [Aboriginal Language Writing System] (PDF) (in Chinese), 1994, archived from the original (PDF) on 2006-12-31 – The alphabets of written Taiwanese aboriginal languages and the corresponding sounds in IPA
+Sung, Li-May 宋麗梅 (2018). Sàidékèyǔ yǔfǎ gàilùn 賽德克語語法概論 [Introduction to Seediq Grammar] (in Chinese). Xinbei Shi: Yuanzhuminzu weiyuanhui. ISBN 978-986-05-5686-5 – via alilin.apc.gov.tw.
+Lee, Amy Pei-jun 李佩容; Hsu, Lowking Wei-Cheng 許韋晟 (2018). Tàilǔgéyǔ yǔfǎ gàilùn 太魯閣語語法概論 [Introduction to Truku Grammar] (in Chinese). Xinbei Shi: Yuanzhuminzu weiyuanhui. ISBN 978-986-05-5691-9 – via alilin.apc.gov.tw.
+Sterk, Darryl (2020). "Ecologising Seediq: Towards an Ecology of an Endangered Indigenous Language from Taiwan". International Journal of Taiwan Studies. 4 (1): 54–71. doi:10.1163/24688800-20201153. S2CID 219671559.
+External links[edit]
+ Seediq edition of Wikipedia, the free encyclopedia
+Yuánzhùmínzú yǔyán xiànshàng cídiǎn 原住民族語言線上詞典 (in Chinese) – Seediq search page at the "Aboriginal language online dictionary" website of the Indigenous Languages Research and Development Foundation
+Yuánzhùmínzú yǔyán xiànshàng cídiǎn 原住民族語言線上詞典 (in Chinese) – Truku search page at the "Aboriginal language online dictionary" website of the Indigenous Languages Research and Development Foundation
+Seediq teaching and leaning materials published by the Council of Indigenous Peoples of Taiwan (in Chinese)
+Truku teaching and leaning materials published by the Council of Indigenous Peoples of Taiwan (in Chinese)
+Seediq translation of President Tsai Ing-wen's 2016 apology to indigenous people – published on the website of the presidential office
+Truku translation of President Tsai Ing-wen's 2016 apology to indigenous people – published on the website of the presidential office
+vteLanguages of TaiwanAustronesianFormosanAtayalic
+Atayal
+Seediq
+Truku
+Rukaic
+Rukai
+Northern
+Babuza
+Favorlang
+Taokas
+Papora
+Hoanya
+Arikun
+Lloa
+Pazeh
+Kaxabu
+Kulon
+Saisiyat
+Thao
+East
+Amis
+Kavalan
+Ketagalan
+Basay
+Luilang
+Makatao
+Qauqaut
+Sakizaya
+Siraya
+Taivoan
+Southern
+Bunun
+Paiwan
+Puyuma
+Tsouic
+Kanakanavu
+Saaroa
+Tsou
+Malayo-PolynesianBatanic
+Yami
+Sino-TibetanSiniticMandarin
+Taiwanese Mandarin
+Junhua
+MinSouthern
+Taiwanese Hokkien
+Teochew dialect
+Eastern
+Fuzhounese
+Matsu dialect
+Pu-Xian
+Putian dialect (Wuqiu dialect)
+Hakka
+Taiwanese Hakka
+Sixian
+Hailu
+Dabu
+Raoping
+Zhao'an
+Japonic Sign
+Taiwanese Sign Language
+Auxiliary
+Taiwanese Braille
+Other languages
+English
+Cantonese
+Wu
+Shanghainese
+Filipino
+Japanese
+Korean
+Malay
+Malaysian
+Indonesian
+Thai
+Vietnamese
+Yilan Creole Japanese
+vteFormosan languagesRukaic
+Rukai
+Tsouic
+Tsou
+Kanakanavu
+Saaroa
+Northern FormosanAtayalic
+Atayal
+Seediq (Truku)
+Northwest Formosan
+Arikun †
+Babuza †
+Favorlang †
+Taokas
+Lloa †
+Papora †
+Kulon †
+Pazeh †
+Kaxabu
+Saisiyat
+Thao
+East FormosanKavalanic
+Kavalan
+Basay †
+Ketagalan †
+Ami
+Amis
+Sakizaya
+Sirayaic
+Siraya †
+Makatao †
+Taivoan †
+Southern Formosan
+Bunun
+Paiwan
+Puyuma
+Bold indicates languages with more than 1 million speakers? indicates classification dispute† indicates extinct status
+vteAustronesian languagesFormosan languagesRukaic
+Rukai
+Tsouic
+Tsou
+Kanakanavu
+Saaroa
+NorthernAtayalic
+Atayal
+Seediq
+NorthwestFormosan
+Saisiyat
+Pazeh †
+Kulon †
+Thao
+Babuza
+Favorlang †
+Papora-Hoanya †
+EastKavalanic
+Basay †
+Kavalan
+Luilang †
+Ami
+Amis
+Sakizaya
+Siraiyac
+Siraya †
+Taivoan †
+Southern ?
+Puyuma
+Paiwan
+Bunun
+Malayo–PolynesianWestern branches of Malayo–PolynesianPhilippine(linkage) ?Batanic (Bashiic)
+Itbayat
+Ivatan
+Yami
+Northern Luzon
+Arta
+Dicamay Agta †
+Ilocano
+Cagayan Valley
+Atta
+Cagayan Agta
+Ga'dang
+Gaddang
+Ibanag
+Isnag
+Itawis
+Yogad
+Meso-Cordilleran
+Northern Alta
+Southern Alta
+Central Cordilleran
+Balangao
+Bontoc
+Ifugao
+Isinai
+Itneg
+Kalinga
+Kankanaey
+Tuwali
+Southern Cordilleran
+Bugkalot
+Ibaloi
+Iwaak
+Kalanguya
+Karao
+Pangasinan
+Central Luzon
+Kapampangan
+Hatang Kayi (Remontado)
+Sambalic
+Abellen
+Ambala
+Mag-antsi
+Bolinao
+Botolan
+Mag-indi
+Mariveleño
+Sambal
+Northern Mindoro
+Alangan
+Iraya
+Tadyawan
+Greater CentralPhilippineSouthern Mindoro
+Buhid
+Hanunoo
+Tawbuid
+Central PhilippineTagalogic
+Filipino
+Kasiguranin
+Tagalog
+Old Tagalog †
+Batangueño
+Bikol
+Albay Bikol
+Central Bikol
+Isarog Agta
+Mount Iraya Agta
+Mount Iriga Agta
+Pandan Bikol
+Rinconada
+Bisayan
+Akeanon
+Asi
+Bantayanon
+Baybay
+Butuanon
+Caluyanon
+Capiznon
+Cebuano
+Boholano
+Old Cebuano †
+Cuyonon
+Hiligaynon
+Kabalian
+Karay-a
+Karolanos
+Magahat
+Masbateño
+Northern Sorsogon
+Onhan
+Porohanon
+Ratagnon
+Romblomanon
+Southern Sorsogon
+Sulod
+Surigaonon
+Tausug
+Waray
+Mansakan
+Davawenyo
+Kalagan
+Kamayo
+Mamanwa
+Mandaya
+Mansaka
+(unclassified)
+Ata †
+Palawanic
+Aborlan Tagbanwa
+Batak
+Central Tagbanwa
+Palawano
+Taaw't Bato
+Subanen
+Western Subanon
+Danao
+Iranun
+Maguindanao
+Maranao
+Manobo
+Agusan
+Ata Manobo
+Binukid
+Cotabato Manobo
+Higaonon
+Ilianen
+Kagayanen
+Kamigin
+Matigsalug
+Obo
+Sarangani
+Tagabawa
+Western Bukidnon
+Gorontalo–Mongondow
+Bintauna
+Bolango
+Buol
+Gorontalo
+Kaidipang
+Lolak
+Mongondow
+Ponosakan
+Suwawa
+Kalamian
+Agutaynen
+Calamian Tagbanwa
+Bilic
+Blaan
+Tboli
+Teduray
+Sangiric
+Bantik
+Ratahan
+Sangirese
+Talaud
+Minahasan
+Tombulu
+Tondano
+Tonsawang
+Tonsea
+Tontemboan
+Other branches
+Ati
+Klata
+Umiray Dumaget
+Manide–Alabat
+Inagta Alabat
+Manide
+Greater Barito *Barito
+Malagasy
+Bushi
+Deyah
+Malang
+Witu
+Balangan
+Ma'anyan
+Paku
+Lawangan
+Kohin
+Dohoi
+Siang
+Bakumpai
+Ngaju
+Ampanang
+Tunjung
+Sama–Bajaw
+Abaknon
+Bajaw
+Mapun
+Pangutaran Sama
+Sama
+West Coast Bajaw
+Yakan
+Basap *GreaterNorth Borneo *North Borneo *Northeast Sabah *
+Ida'an
+Bonggi
+Molbog ?
+Southwest Sabah *GreaterDusunic *Bisaya–Lotud
+Brunei Bisaya
+Lotud
+Dusunic
+Kadazandusun
+Central Dusun
+Coastal Kadazan
+Kuijau
+Eastern Kadazan
+Kota Marudu Talantang
+Rungus / Momogun
+Klias River Kadazan
+Paitanic
+Tombonuwo
+Kinabatangan
+Abai Sungai
+Serudung
+GreaterMurutic *
+Tatana ?
+Papar
+Murutic
+Tagol
+Timugon
+Keningau
+Selungai
+Sembakung
+Baukan
+Okolod
+Paluan
+Ganaʼ
+Kalabakan
+Nonukan Tidong
+Sesayap Tidong
+North Sarawak *
+Kenyah / Bakung
+Sebob
+Tutoh
+Umaʼ Lasan
+Wahau Kenyah
+Penan ?
+Kelabit
+Lengilu
+Lundayeh
+Sa'ban
+Tring
+Berawan
+Belait
+Kiput
+Narom
+Tutong
+Bintulu
+Central Sarawak
+Kajaman
+Lahanan
+Sekapan
+Daro-Matu
+Kanowit–Tanjong
+Melanau
+Bukitan
+Punan Batu
+Sian
+Ukit
+Burusu
+Bah-Biau Punan
+Sajau
+Punan Merap
+Bukat
+Seru †
+Lelak †
+Kayanic
+Kayan
+Bahau
+Modang
+Segai
+Hovongan
+Aoheng
+Aput
+Punan
+Krio Dayak
+Murik
+Land Dayak
+Bakatiʼ
+Sara
+Laraʼ
+Bukar–Sadong
+Biatah
+Tringgus
+Jagoi
+Jangkang
+Kembayan
+Semandang
+Ribun
+Benyaduʼ
+Sanggau
+Malayo–Chamic *Aceh–Chamic
+Acehnese
+Cham dialects
+Chru
+Haroi
+Jarai
+Rade
+Roglai
+Tsat
+Iban–MalayanIbanic
+Iban
+Keninjal ?
+Mualang
+Remun
+Seberuang
+Malay
+Malaysian
+Indonesian
+Minangkabau
+Brunei/Kedayan Malay
+Bamayo
+Banjar
+Berau Malay
+Bangka Malay
+Bengkulu
+Col
+Duanoʼ
+Haji
+Jambi Malay
+Jakun
+Kedah Malay
+Kendayan / Selako ?
+Kutai Malay
+Kaur
+Kerinci
+Kelantan-Pattani Malay
+Kubu
+Orang Laut
+Lubu
+Musi
+Negeri Sembilan Malay
+Orang Kanaq
+Orang Seletar
+Pahang Malay
+Pekal
+Perak Malay
+Pontianak Malay
+Reman Malay
+Sarawak Malay
+Temuan
+Terengganu Malay
+Urak Lawoi'
+Sundanese
+Sundanese
+Old Sundanese †
+Baduy
+Bantenese
+Cirebonese
+Rejang ?
+Rejang
+Moklenic ?
+Moken
+Moklen
+Sumatran *Northwest Sumatra–Barrier Islands
+Enggano ?
+Gayo
+Mentawai
+Nias
+Sikule
+Simeulue
+Batak
+Alas
+Angkola
+Dairi
+Karo
+Simalungun
+Toba
+Mandailing
+Nasal ?
+Lampungic
+Lampung
+Lampung Nyo
+Lampung Api
+Komering
+Javanese
+Javanese
+Kawi / Old Javanese †
+Banyumasan
+Osing
+Tenggerese
+Madurese
+Madurese
+Kangean
+Bali–Sasak–Sumbawa
+Balinese
+Sasak
+Sumbawa
+CelebicBungku–Tolaki
+Bahonsuai
+Bungku
+Kodeoha
+Kulisusu
+Moronene
+Mori Bawah
+Mori Atas
+Padoe
+Rahambuu
+Tolaki
+Tomadino
+Waru
+Wawonii
+Muna–Buton
+Bonerate
+Busoa
+Cia-Cia
+Kaimbulawa
+Kumbewaha
+Lasalimu
+Liabuku
+Muna
+Pancana
+Tukang Besi
+Saluan–Banggai
+Andio
+Balantak
+Banggai
+Batui
+Bobongko
+Saluan
+Tomini–Tolitoli *
+Balaesang
+Boano ?
+Dampelas
+Dondo
+Lauje
+Pendau
+Taje
+Tajio
+Tomini
+Totoli ?
+Kaili–Wolio *Kaili–Pamona
+Kaili
+Mbelala
+Moma
+Pamona
+Rampi
+Sarudu
+Sedoa
+Topoiyo
+Uma
+Wotu–Wolio
+Kalao
+Kamaru
+Laiyolo
+Ledo Kaili *
+Wolio
+Wotu
+South SulawesiBugis
+Buginese
+Campalagian
+Embaloh ?
+Taman
+Makassaric
+Makassarese
+Bentong
+Coastal Konjo
+Highland Konjo
+Selayar
+Seko–Badaic *Seko
+Budong-Budong
+Panasuan
+Seko Padang
+Seko Tengah
+Badaic *
+Bada
+Behoa
+Napu
+Northern
+Mamuju
+Mandar
+Massenrempulu
+Duri
+Enrekang
+Maiwa
+Malimpung
+Pitu Ulunna Salu
+Aralle-Tabulahan
+Bambam
+Dakka
+Pannei
+Ulumandaʼ
+Toraja
+Kalumpang
+Mamasa
+Pattae'
+Lawa
+Talondoʼ ?
+Toraja-Saʼdan
+Lemolang
+Isolates
+Chamorro
+Palauan
+Central Malayo-Polynesian languagesBima
+Bima
+Sumba–FloresSumba–HawuSavu
+Hawu
+Dhao
+Sumba
+Kambera
+Mamboru
+Anakalangu
+Wanukaka
+Pondok
+Baliledo
+Wejewa
+Lamboya
+Kodi
+Gaura
+Western Flores
+Komodo
+Manggarai
+Riung
+Rembong
+Rajong
+Kepoʼ
+Wae Rana
+Palu'e
+Ende
+Lio
+Nagé-Kéo
+Ngadha
+Rongga
+Soʼa
+Flores–Lembata
+Sika
+Kedang
+Lamaholot
+Lamaholot
+Alorese
+Lamatuka
+Lewo Eleng
+Levuka
+South Lembata
+Lamalera
+Lewotobi
+Adonara
+Ile Ape
+Mingar
+Selaru
+Selaru
+Seluwasan
+Kei–Tanimbar ?
+Kei
+Fordata
+Yamdena
+Onin
+Sekar
+Uruangnirin
+Aru
+Barakai
+Batuley
+Dobel
+Karey
+Koba
+Kola
+Lola
+Lorang
+Manombai
+Mariri
+Tarangan
+Ujir
+Timoric *
+Helong
+Tetum
+Uab Meto
+Amarasi
+Central Timor *
+Kemak
+Tukudede
+Mambai
+Bekais
+Wetar–Galoli ?
+Wetar
+Galoli
+Kawaimina
+Kairui
+Waimoa
+Midiki
+Naueti ?
+Habun ?
+Luangic–Kisaric ?
+Romang
+Kisar
+Leti
+Luang
+Makuva
+Rote–Meto *
+Bilba
+Dengka
+Lole
+Ringgou
+Dela-Oenale
+Termanu
+Tii
+Babar
+Idalaka
+West Damar
+Dawera-Daweloor
+North Babar
+Dai
+Masela
+Serili
+Southeast Babar
+Emplawas
+Imroing
+Telaʼa
+Southwest Maluku
+East Damar
+Teun
+Nila
+Serua
+Kowiai ?
+Kowiai
+Central Maluku *
+Teor-Kur
+West
+Ambelau
+Buru
+Lisela
+Hukumina †
+Moksela †
+Sula
+Mangole
+Taliabo
+East
+Banda
+Bati
+Geser
+Watubela
+Bobot
+Masiwang
+Hoti †
+Benggoi
+Salas
+Liana
+Nunusaku
+Kayeli †
+Nuaulu
+Huaulu
+Manusela
+Wemale
+Yalahatan
+Piru Bay ?
+Asilulu
+Luhu
+Manipa
+Wakasihu
+Boano
+Sepa-Teluti
+Paulohi
+Kaibobo
+Hitu
+Tulehu
+Laha
+Seit-Kaitetu
+Kamarian †
+Haruku
+Amahai
+Nusa Laut
+Saparua
+Latu
+Eastern Malayo-Polynesian languagesSHWNG
+Tandia †
+Mor
+Waropen
+Warembori ?
+Yoke ?
+Halmahera SeaAmbel–Biga
+Ambel
+Biga
+Maya–Matbat
+Ma'ya
+Matbat
+Maden
+Maden
+Fiawat
+As
+As
+South Halmahera
+Gane
+Taba
+Buli
+Maba
+Patani
+Sawai
+Gebe
+CenderawasihBiakic
+Biak
+Dusner †
+Meoswar
+Roon
+Yapen
+Ambai
+Ansus
+Marau
+Wamesa
+Wooi
+Munggui
+Papuma
+Pom
+Serui-Laut
+Kurudu
+Wabo
+Southwest
+Yaur
+Yerisiam
+Umar
+OceanicAdmiralty
+Yapese ?
+Eastern
+Manus
+Baluan-Pam
+Lenkau
+Lou
+Nauna
+Penchal
+Western
+Northern Kaniet †
+Southern Kaniet †
+Seimat
+Wuvulu
+Aua
+Saint Matthias
+Mussau-Emira
+Tenis
+TemotuUtupua
+Amba
+Asumboa
+Tanimbili
+Vanikoro
+Teanu
+Lovono
+Tanema
+Reefs–Santa Cruz
+Äiwoo
+Engdewu / Nanggu
+Natügu / Santa Cruz
+Nalögo
+Noipx
+SoutheastSolomonicGela–Guadalcanal
+Bugotu
+Gela
+Lengo
+Birao
+Ghari
+Malango
+Talise
+Malaita–San Cristobal
+Longgu
+Sa'a
+Arosi
+Fagani
+Bauro
+Kahua
+Owa
+Marau Wawa ? †
+Toʼabaita
+Baelelea
+Baeggu
+Fataleka
+Lau
+Kwara'ae
+Wala
+Gula'alaa
+Kwaio
+Dori'o
+ꞋAreꞌare
+Oroha
+WesternOceanicMeso–MelanesianWillaumez
+Bola
+Bulu
+Meramera
+Nakanai
+Bali-Vitu
+Bali
+Vitu
+New Ireland–NorthwestSolomonicTungag–Nalik
+Kara
+Laxudumau
+Nalik
+Tiang
+Tigak
+Tungag
+Tabar
+Lihir
+Madara
+Notsi
+Madak
+Barok
+Lavatbura–Lamusong
+Madak
+St. George
+Bilur
+Fanamaket
+Guramalum †
+Kandas
+Konomala
+Label
+Lungalunga
+Niwer Mil
+Patpatar
+Ramoaaina
+Siar
+Sursurunga
+Tangga
+Tolai
+NorthwestSolomonic
+Babatana
+Bannoni
+Blablanga
+Cheke Holo
+Gao
+Ghanongga
+Hahon
+Hakö
+Halia
+Hoava
+Kazukuru †
+Kokota
+Kusaghe
+Laghu †
+Lungga
+Marovo
+Mono-Alu
+Nduke
+Nehan
+Papapana
+Petats
+Piva
+Ririo
+Roviana
+Saposa
+Simbo
+Solos
+Teop
+Tinputz
+Torau
+Ughele
+Uruava †
+Vaghua
+Vangunu
+Varisi
+Zabana
+Zazao
+Tomoip
+NorthNew GuineaSarmi–Jayapura ?
+Anus
+Bonggo
+Kayupulau
+Liki
+Masimasi
+Ormu
+Podena
+Kaptiau
+Sobei
+Tarpia
+Tobati
+Wakde
+Yamna
+Schouten
+Arop-Sissano
+Sera
+Sissano
+Ulau-Suain
+Tumleo
+Yakamul
+Kaiep
+Kairiru
+Terebu
+Biem
+Kis
+Manam
+Medebur
+Sepa
+Wogeo
+Huon Gulf
+Bukawa
+Kela
+Yabem
+Aribwatsa †
+Aribwaung
+Adzera
+Dangal
+Duwet
+Labu
+Maralango
+Mari
+Musom
+Nafi
+Silisili
+Wampar
+Wampur
+Hote
+Iwal
+Kapin
+Kumalu
+Mangga Buang
+Mapos Buang
+Mumeng
+Piu
+Vehes
+Yamap
+Numbami
+Ngero–Vitiaz
+Bariai
+Gitua
+Kove
+Lusi
+Malalamai
+Mutu
+Awad Bing
+Bilibil
+Gedaged
+Marik
+Matukar
+Mindiri
+Takia
+Wab
+Lamogai
+Mouk-Aria
+Aigon
+Karore
+Kaulong †
+Miu
+Sengseng
+Aiklep
+Akolet
+Apalik
+Avau
+Bebeli
+Gimi
+Lesing-Gelimi
+Mangseng
+Solong
+Lote
+Mamusi
+Mengen
+Arop-Lukep
+Karnai
+Malasanga
+Mur Pano
+Mato
+Ronji
+Amara
+Maleu
+Mbula
+Sio
+Tami
+Papuan TipNuclear
+ʼAuhelawa
+Buhutu
+Bwanabwana
+Oya'oya
+Saliba
+Suau
+Unubahe
+Wagawaga
+Bwaidoka
+Diodio
+Iamalele
+Iduna
+Koluwawa
+Maiadomu
+Bunama
+Boselewa
+Dobu
+Duau
+Galeya
+Molima
+Mwatebu
+Sewa Bay
+Dawawa
+Kakabai
+Are
+Arifama-Miniafia
+Doga
+Gapapaiwa
+Ghayavi
+Kaninuwa
+Ubir
+Gweda
+Haigwai
+Maiwala
+Minaveha
+Taupota
+Tawala
+Yakaikeke
+Anuki
+Gumawana
+Kilivila–Misima
+Budibud
+Kilivila
+Misima
+Muyuw
+Nimoa–Sudest
+Nimoa
+Sudest
+SouthernOceanicNorthVanuatuTorres–Banks
+Dorig
+Hiw
+Koro
+Lakon
+Lehali
+Lemerig
+Lo-Toga
+Löyöp
+Mota
+Mwerlap
+Mwesen
+Mwotlap
+Nume
+Olrat
+Vera’a
+Volow
+Vurës
+Maewo–Ambae–North Pentecost
+Baetora
+Duidui
+Northeast Ambae
+Raga
+Sun̄wadaga
+Sun̄wadia
+South Pentecost
+Apma
+Sa
+Ske
+Sowa †
+Espiritu Santo
+Akei
+Aore †
+Araki
+Cape Cumberland
+Nokuku
+Kiai
+M̈av̈ea
+Merei-Tiale
+Mores
+Sakao
+Shark Bay
+Tamambo
+Tangoa
+Tasiriki
+Tolomako
+Tutuba
+Wusi
+NuclearSouthernOceanicCentral Vanuatu
+North Efate
+Nafsan
+Efatese
+Eton
+Lelepa
+Makura
+Daakaka
+Dalkalaen
+Lonwolwol
+Paamese
+Port Vato
+Southeast Ambrym
+Epi
+Baki
+Bierebo
+Bieria
+Lamen
+Lewo
+Maii
+Malakula
+Aulua
+Avava
+Aveteian
+Axamb
+Big Nambas
+Botovro
+Burmbar
+Bwenelang
+Larëvat
+Lendamboi
+Litzlitz
+Malfaxal
+Malua Bay
+Maskelynes
+Nahavaq
+Nasarian
+Nasvang
+Nāti
+Navwien
+Nese
+Neve'ei
+Neverver
+Ninde
+Nisvai
+Nitita
+Port Sandwich
+Rerep
+Sörsörian
+Tape
+Tirax
+Unua
+Northeast Malakula
+Vao
+Vivti
+Rutan
+Alovas
+Najit
+Njav
+South VanuatuErromango
+Erromanga / Sie
+Sorung †
+Ura
+Utaha / Ifo †
+Tanna
+Kwamera / South Tanna
+Lenakel / West Tanna
+North Tanna
+Southwest Tanna
+Whitesands / East Tanna
+Aneityum
+Loyalties–New CaledoniaLoyalty Islands
+Drehu
+Iaai
+Nengone
+New CaledonianSouthern
+Ajië
+Arhâ
+Arhö
+Ndrumbea
+Neku
+Numèè
+Orowe
+Tîrî
+Xârâcùù
+Xârâgurè
+Zire †
+Northern
+Bwatoo
+Caac
+Cèmuhî
+Fwâi
+Haeke
+Haveke
+Hmwaveke
+Jawe
+Kumak
+Nemi
+Nyâlayu
+Paicî
+Pije
+Pwaamei
+Pwapwâ
+Vamale
+Waamwang †
+Yuanga
+Micronesian
+Nauruan
+NuclearMicronesian
+Gilbertese
+Kosraean
+Marshallese
+Chuukic–PohnpeicChuukic
+Carolinian
+Chuukese
+Mapia †
+Mortlockese
+Namonuito
+Pááfang
+Puluwatese
+Satawalese
+Sonsorol
+Tanapag
+Tobian
+Ulithian
+Woleaian
+Pohnpeic
+Mokilese
+Ngatikese
+Pingelapese
+Pohnpeian
+CentralPacificWest
+Namosi-Naitasiri-Serua
+Rotuman
+Western Fijian
+East
+Fijian
+Gone Dau
+Lauan
+Lomaiviti
+PolynesianNuclearPolynesian
+Kapingamarangi
+Nuguria
+Nukumanu
+Nukuoro
+Ontong Java
+Sikaiana
+Takuu
+Tuvaluan
+Samoic
+Niuatoputapu †
+Samoan
+Tokelauan
+Eastern
+Austral
+Cook Islands Māori
+Hawaiian
+Mangareva
+Māori
+Moriori †
+Marquesan
+Penrhyn
+Rakahanga-Manihiki
+Rapa
+Rapa Nui
+Tahitian
+Tuamotuan
+Futunic
+Anuta
+Emae
+Futuna-Aniwa / West Futunan
+Futunan / East Futunan
+Mele-Fila
+Pukapukan
+Rennellese
+Tikopia
+Wallisian / East Uvean
+West Uvean
+Tongic
+Niuafoʻou ?
+Niuean
+Tongan
+* indicates proposed status ? indicates classification dispute† indicates extinct status
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Seediq_language&oldid=1149946222"
+Categories: Seediq languageVerb–object–subject languagesTruku peopleAtayalic languagesHidden categories: Pages containing links to subscription-only contentLanguage articles citing Ethnologue 18Articles with short descriptionShort description is different from WikidataPages with interlinear glosses using more than three unnamed parametersCS1 uses Chinese-language script (zh)CS1 Chinese-language sources (zh)Articles with Chinese-language sources (zh)
+ This page was last edited on 15 April 2023, at 12:07 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

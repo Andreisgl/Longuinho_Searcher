@@ -1,0 +1,79 @@
+Germany launches opencode.de | Joinup
+      Skip to main content
+    
+Interoperable EuropeInteroperability SolutionsSign in
+                      Get started
+                    
+                        Create an account
+                        As a signed-in user you can create content, become a member of a community, receive notifications on your favourite solutions and topics, and access all other features available on the platform.Toggle menu
+                          Home
+                        
+                          Interoperable Europe
+                        
+                          Interoperability Solutions
+                        
+                          Sign in
+                        
+                          About us
+                        Toggle search boxOpen Source Observatory (OSOR)Search
+          Open Source Observatory (OSOR)
+        
+You must have JavaScript enabled to use this form.
+Join this collection
+OSOR missionAboutKnowledge CentreOSOR Awards 2023OSPOs & OSS Governance
+See more
+Open Source in Cities and RegionsNews & EventsOSOR NewslettersOSOR and Community EventsInteractive Resource MapMembersOSOR Awards 2023 - FAQ
+    Like (0)
+  
+      Germany's opencode.de goes into production use
+          
+Germany launches opencode.de
+ 
+Ciarán O'Riordan
+Published on: 20/09/2022
+Last update: 03/11/2022
+        News
+      
+Source: http://opencode.de/National code repository rolled-out to facilitate local cooperation.
+Germany's Online Access Act defines a list of 575 public services that must be provided online, and requires that these be implemented through "openness" - a concept which the government's implementation guide explains as meaning that source code is published as open source and components are checked for reusability.
+Adopted in 2017 and amended in 2021, this act sets a deadline for end-of-2022 to get the listed services online, so this is a busy period for the national and regional IT departments.
+The idea for a central repository was launched in 2020 and was worked on by Open Source Business Alliance (OSBA) together with the IT departments of local administrations. Interestingly, the stated advantages of Open Source focus on the flexibility and speed of adding new functionality. Many years ago, the focus was on cost saving, but this has changed in recent years. Also interesting is the idea of creating a community.  The aim is that local administrations can see that particular pieces of software are already in use in similar administrations—a form of to peer-review or recommendation—and they also know they can turn to those colleagues if they have questions. Tasks such as licence verification and security audits can also be done just once.
+A "minimum viable product" was running by March 2021. Twelve months later a pilot was put online, for use by two of Germany's provinces, with funding from the 2022 federal budget. The pilot phase was used for real projects and included licensing guidelines and requirements.
+In July 2022 the "pilot" label was removed and opencode.de became fully available with active projects which had already been using the platform during the pilot phase.
+As we can see already in the repository, local administrations are using it to share configurations, tools and to agree on software versions. There is also a forum where implementers can exchange know-how about the various solutions.
+From discussion to final product, the project has focussed on advantages of Open Source in terms of sovereignty, community and the flexibility to achieve the government's aims in terms of their cloud strategy and the Online Access Act. When discussing motivations the head of the opencode.de project group, Dr Christian Knebel, also made reference to the FSFE campaign Public Money? Public Code!
+If you have further information about this project, or of similar projects in other regions, please leave a comment below. All comments are read by an OSOR facilitator.
+References
+http://opencode.de
+Report abusive content
+  Share
+  
+Login or create an account to comment.
+Joinup
+v1.96.0
+Useful links
+About us
+What is Joinup
+Joinup Licensing Assistant
+EIF Online Assistant
+EIF Toolbox
+Interoperable Europe
+Help and support
+Frequently Asked Questions (FAQ)
+Contact Joinup Support
+How-to & video tutorials
+Satisfaction survey
+Federation of solutions
+Legal notice
+Privacy statement
+European Commission
+About the Commission's new web presence
+Resources for partners
+Cookies
+Contact European Commission
+Europa Analytics
+Follow us
+Newsletter subscription
+Newsletter archive
+Twitter
+LinkedIn

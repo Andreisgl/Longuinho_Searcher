@@ -1,0 +1,237 @@
+The Curse of Open Source License Proliferation   |  Socialized Software
+ 
+42 captures
+13 May 2008 - 16 Jul 2023
+Oct
+DEC
+Jan
+08
+2010
+2015
+2017
+success
+fail
+ About this capture
+COLLECTED BY
+Organization: Internet Archive
+  These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to.   That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.  
+Then the Internet Archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.
+The goal is to fix all broken links on the web. 
+Crawls of supported "No More 404" sites.
+Collection: Wikipedia Near Real Time (from IRC)
+  This is a collection of web page captures from links added to, or changed on, Wikipedia pages. The idea is to bring a reliability to Wikipedia outlinks so that if the pages referenced by Wikipedia articles are changed, or go away, a reader can permanently find what was originally referred to.
+This is part of the Internet Archive's attempt to rid the web of broken links.
+TIMESTAMPS
+The Wayback Machine - http://web.archive.org/web/20151208112000/http://socializedsoftware.com/2008/05/08/the-curse-of-open-source-license-proliferation/
+Go to...
+Home
+Presentations
+Publications
+Resume
+About
+Home
+Presentations
+Publications
+Resume
+About
+Home/
+Featured Articles /
+The Curse of Open Source License Proliferation
+The Curse of Open Source License Proliferation
+ Mark May 8, 2008 2 Comments 2968
+I remember when the big open source debate was whether a piece of software was really open source, meaning it was released under an OSI-approved license. The tides are shifting, debates now center around which open source license to use. Adding to the complexity of the debate is proliferation of OSI-approved licenses. Now discussions are rising over the open source licenses that are in the best interest of all stakeholders of an open source project. In the case of collective software works there is also the added intricacies of license compatibility.
+Part of the problem is that companies are trying to drive their own vanity licenses that reinforce their branding and leverage the goodwill associated with the open source seal of approval. SugarCRM once mounted an offensive asking for acceptance  of their Sugar Public License (a derivative of the OSI-Approved Mozilla Public License) that for a brief time was gaining popularity among commercial open source developers. The license was rejected and Sugar has since moved to the  GPLv3. Ironically the  Common Public Attribution License (CPAL) submitted by Social Text, which bears many similarities to the Sugar Public License, was accepted by the OSI. Even Microsoft has successfully lobbied the OSI-board for approval of two licenses. The Microsoft Public License (M-PL) and the Microsoft Reciprocal License (Ms-RL) which are very similar to the BSD and GPL licenses.
+The number of open source projects has grown considerably over the last ten years, actually exponentially according to a paper delivered by Amit Deshpande and Dirk Riehle in March of this year.
+According to Black Duck Software knowledgebase the most common open source license used by open source projects is the GPL version 2.0. According to that same source 94% of open source projects use 10 licenses.
+License
+% usage
+GNU General Public License
+(GPL) 2.0
+58.69%
+GNU Lesser General Public
+License (LGPL) 2.1
+11.39%
+Artistic License (Perl)
+7.46%
+BSD License
+6.50%
+Apache License 2.0
+2.92%
+MIT License
+2.58%
+GNU General Public Liense (GPL) 3.0
+1.64%
+Mozilla Public License (MPL) 1.1
+1.37%
+Common Public License
+0.83%
+zlib/lippng License
+0.64%
+93.92%
+Currently the decision to move from GPL v2 to GPL v3 is being hotly debated by many open source projects. According to Palamida, a provider of IP compliance software, there have been roughly 2489 open source projects that have moved from GPL v2 to later versions.
+(source Palamida)
+Apparently there are many people thinking about using the AGPL because unlike the GPL it also extends its requirement from software redistribution to networked services like those provided by ASPs (see Section 13 of the license – Remote Network Interaction):
+Notwithstanding any other provision of this License, if you modify the Program, your modified version must prominently offer all users interacting with it remotely through a computer network (if your version supports such interaction) an opportunity to receive the Corresponding Source of your version by providing access to the Corresponding Source from a network server at no charge, through some standard or customary means of facilitating copying of software.
+SpringSource is causing a bit of a ruckus within the Java community releasing their SpringSource Application Platform under the GPL v3 license (Commentary by JBoss founder Mark Fleury).
+Ubuntu is considering the use of the AGPL for their Launchpad service but the jury is still out.
+In the case of Launchpad, we do view you as a co-owner of the data, so the resolution of this problem is important to us. As you point out, there’s no really clear best practice that works well and has been shownto be commercially sustainable. That’s different to the GPL (even v3). I think the Affero GPL is a strong candidate for the front line of thinking on the subject, and that’s what I am inclined to use when we publish Launchpad’s source code.
+Google has refused to allow AGPL licensed on Google code, citing license proliferation as the issue.
+In fact we do not support the AGPL on code.google.com. We are actively trying to fight the proliferation of licenses that are considered open source and the AGPL both has very little market share and has not been certified as being open source by the OSI.
+However, AGPL provisions for hosting services doesn’t exactly jive with their business either. For example, any modifications Google makes to AGPL code would require them to provide source code when delivered as a service.
+Software licensing is complex open source or not. I suspect that most users are not well versed in the license for the software they download. I find it somewhat disheartening that while I feel strongly that open source development is superior the licensing of open source software for the most part is no easier to understand or apply.
+Technorati Tags: AGPL, BlackDuck, CPAL, gpl, Launchpad, Licensing, Open Source, Palamida, SocialText, SpringSource, SugarCRM, Ubuntu
+ 
+Mark
+2008-05-08
+ 
+Tags: AGPL BlackDuck CPAL gpl Launchpad Licensing Open Source Palamida SocialText SpringSource SugarCRM Ubuntu
+Share story: 
+← PreviousOpen Source is about People 
+Next →Blog Carolinas 
+ 
+Written by Mark
+I am an author, technologist, social media expert and open source fan.
+View all articles by Mark 
+Website: http://www.socializedsoftware.com
+Related Articles
+ 
+Presentation – Crash Course Cloud 2.0
+ 
+Presentation – Linux Collab Summit – Cloud 2.0: Containers, Microservices and Cloud Hybridization
+ 
+CloudOpen 2014 – Mixing Your Open Source Cloud Cocktail
+ 
+Preso: Things I Learned about Open Source…The Hard Way
+ 
+OSCON 2014 – Crash Course in Open Source Cloud Computing
+2 Comments
+ 
+Jay Godse
+May 09, 2008 at 11:42 pm
+The number in the statistics are misleading. Why? Anybody can put up a project in Sourceforge or Google Code and it gets counted. That is not enough to support your main point, which is that open source license proliferation is a problem. 
+If you want to get a true sense of the proliferation, you need to (mathematically, as in weighted average) project the top 100 projects from the Black Duck list, against the number of downloads (for a lack of a better measure of the extent of distribution) for each of those projects. Then take the top 100 downloads and project them on the licenses. From the two lists, get the top 10 or 20. You will soon see that a license proliferation is not a big issue, because to top 10 licenses as defined by Black Duck, Google, and Krugle cover most open source software. Furthermore, there are really only 3 families of licenses with GPL variants in one family, MPL/EPL and variants in another family, and BSD/MIT/Apache in another family. These 3 families plus public domain software cover 99% or more of open source code (I would bet). i.e. You don’t have to learn that much about licenses, and license proliferation is not as bad as some may think.
+451 CAOS Theory » 451 CAOS Links - 2008.05.09
+June 09, 2008 at 02:42 pm
+[…] The Curse of Open Source License Proliferation, Socialized Software, Mark Hinkle (Blog)  Permalink |  Technorati Links | Bookmark on del.icio.us | digg it   Categories: Links […]
+Leave a Comment Cancel Reply
+You must be logged in to post a comment. 
+Social Networks 
+Follow me on TwitterMy TweetsCategoriesCategories
+Select Category
+Cooking
+   Cocktails
+DevOps
+Featured Articles
+Free Culture
+   Citizen Journalism
+   Online Community
+How-To
+Knee Injury
+Marketing/PR
+   Email Marketing
+   Google
+   SEO
+   Social Media
+      Blogging
+Miscellania
+   Books
+   Humor
+   In the News
+   Links
+   Reviews
+   Start-Ups
+   Statistics
+   Syndication
+      Linux.com
+      LinuxToday
+      LinuxWorld
+   Uncategorized
+   Vocabulary
+Open Source
+   Linux
+   Mozilla
+Technology
+   Cloud Computing
+   Geek Chic
+      Home Entertainment
+      iPhone
+      Mac
+   Software-Defined Networking
+   Systems Management
+   Virtualization
+   Web Applications
+Subscribe to Blog via Email
+Enter your email address to subscribe to this blog and receive notifications of new posts by email.
+ 
+Email Address
+  Tag Cloud amazon
+BarCamp
+Blog
+Blogging
+Cfengine
+cloud computing
+Community
+Configuration Management
+Firefox
+Google
+Humor
+iPhone
+Joomla!
+Links
+Linux
+marketing
+Matt Asay
+Microsoft
+MindTouch
+Mozilla
+MySQL
+OLPC
+opensource
+Open Source
+Opscode
+Oracle
+Puppet
+Red Hat
+Redmonk
+review
+SEO
+Social Media
+SugarCRM
+Sun
+Systems Management
+tag1
+tag2
+tag5
+Travel
+Twitter
+Ubuntu
+VMware
+WordPress
+Zenoss
+ZimbraWP Cumulus Flash tag cloud by Roy Tanck and Luke Morton requires Flash Player 9 or better.  
+Publications
+Presentations
+Sitemap
+ 
+Go to...
+Publications
+Presentations
+Sitemap
+Open Source Projects I Support  
+Apache CloudStack
+Gluster
+Open Daylight
+Xen Project
+XenServer
+Zenoss Core
+ 
+ 
+About Us This is the personal opinion blog of Mark R. Hinkle and does not reflect the opinion of my employer Citrix Systems Inc.. I am also an avid investor and have holdings in numerous industries,  both public and private companies. Investments are often made for me by a third party and best efforts will be made to disclose any investments that may be germane at the time of the posts made herein. 
+ 
+ 
+Opinions expressed on this blog are solely those of the author and do not express the views or opinions of my employer.
+Phone: 919.228.8049
+Email: mrhinkle@socializedsoftware.com
+ 
+This work is licensed under a Creative Commons Attribution 4.0 International License.
+ 

@@ -1,0 +1,881 @@
+Features - Update to A Guide to the UK Legal System | LLRX.com
+ 
+264 captures
+04 Aug 2001 - 09 Jul 2023
+Jan
+MAY
+Oct
+05
+2011
+2012
+2013
+success
+fail
+ About this capture
+COLLECTED BY
+Organization: Internet Archive
+  The Internet Archive discovers and captures web pages through many different web crawls.
+
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+
+View the web archive through the Wayback Machine.
+Collection: Wide Crawl started April 2012
+  Web wide crawl with initial seedlist and crawler configuration from April 2012.
+TIMESTAMPS
+The Wayback Machine - http://web.archive.org/web/20120505115306/http://www.llrx.com/features/uk2.htm
+LLRX.com
+ 
+Search
+LLRX.com
+LLRX and beSpacific
+Legal Web
+ 
+Navigation
+Home
+Court Rules, Forms & Dockets
+Article Archives
+Subjects
+Date
+Author
+Column
+Legal Research
+Legal Technology
+Librarian Resources
+Legal Marketing
+Submit an Article
+Subscribe
+beSpacific Blog
+About LLRX
+LLRX Awards and Press
+Advertise on LLRX
+Contact LLRX
+Home » Carter, Sarah 
+Features - Update to A Guide to the UK Legal System
+By Sarah Carter, Published on August 1, 2001 
+ Printer-Friendly Version
+ 
+Sarah Carter  
+is Law Librarian at the University of
+Kent at Canterbury, UK. She has been
+active in organising electronic legal information since it became available,
+and especially since the growth of the internet. She has written extensively on the subject in the Law Librarian
+and other publications. She was on the
+editorial committee of Moys Classification for Legal Materials and contributed to the 3rd
+edition, published in 1992. Her website  
+LAWLINKS 
+is internationally recognised and has received several awards, 
+  including the Wallace Breem Memorial Award from 
+BIALL 
+(British &
+Irish Association of Law Librarians) in 2000. At the same time she published a book based on LAWLINKS (Carter, S.
+Lawlinks. Cavendish, 2000). In an earlier librarianship role she wrote
+on the subject of women’s studies.
+Editor's note 
+  (SP):  This article is 
+  another update to A Guide to the UK Legal System, 
+  (published August 1, 2001).  There are numerous additions, changes for 
+  some Web site addresses, as well as some deletions.  The
+  additions and changes are indicated by       
+   (yellow background color) for easy identification.
+Table of Contents
+The UK Legal System
+Background and Constitution
+The Court System
+Primary Sources of Law:
+  Introduction
+Legislation
+Primary
+                  Legislation: Acts of Parliament
+Subordinate
+                  Legislation: Statutory Instruments
+Electronic Sources for Legislation
+Case Law
+Law Reports
+Citations
+Electronic Sources for Case Law
+Public Domain Services
+Subscription Services
+Indexes and Digests
+Legislation and Case Law Indexes
+Periodical Indexes
+Parliamentary Information
+Debates
+Bills
+United Kingdom Government
+Official Publications
+Law Reform
+Scotland
+Background
+Legislation
+Case Law
+Wales
+Northern Ireland
+Background
+Legislation
+Case Law
+The Legal Profession
+Legal Education
+Legal Publishers
+Legal News & Current Awareness
+Standard Texts
+The UK Legal System
+Background
+and Constitution
+The United Kingdom of Great Britain and Northern
+Ireland consists of four countries forming three distinct jurisdictions each
+having its own court system and legal profession: England & Wales,
+Scotland, and Northern Ireland. The
+United Kingdom was established in 1801 with the union of Great Britain and Ireland, but only achieved its present form
+in 1922 with the partition of Ireland and the establishment of the independent
+Irish Free State (later the Republic of Ireland).
+The UK joined the European Economic Community (now the
+European Union) in 1973, since when it has been a requirement to incorporate
+European legislation into UK law, and to recognise the jurisdiction of the
+European Court of Justice in matters of EU law.
+There have been significant constitutional reforms
+since the Labour Government came into power in 1997, which make any description
+of the UK legal system before then out of date. The Labour Government immediately
+instituted a process of devolution, i.e., devolving certain areas of government
+to the component countries of the UK: a separate 
+  Scottish Parliament and a
+  Welsh Assembly 
+  were established following referendums in the countries concerned. Ireland 
+  already had its Assembly, although this was not in operation (see below under 
+  Northern Ireland). In the context of these new
+legislatures the English Parliament is often referred to as ‘Westminster’. These devolved governments are dealt with in
+separate sections.
+The UK is a signatory of the 
+European Convention of
+Human Rights, and this has recently been incorporated into UK law with the
+passing of the  Human Rights Act
+  1998. This allows for the provisions of the Convention to be applied
+directly by the UK courts.
+There is no written constitution. The Queen is the Head of State, although in
+practice the supreme authority of the Crown is carried by the government of the
+day. The legislature is a bicameral Parliament. The House of Commons consists of 659 Members of Parliament (MPs),
+elected by simple majority vote in a general election every five years,
+although the Government has the right to call an election at any time before
+then, and in practice usually brings the date forward to secure electoral
+advantage. The House of Lords until
+recently consisted of life peers, awarded peerages for public service, and a
+large number of hereditary peers whose membership of the House of Lords
+depended on their aristocratic birth. The Labour Government began the 
+  long-overdue process of reform of the House of Lords by abolishing the voting 
+  rights of all the hereditary peers apart from ninety-two who remain until the 
+  House is fully reformed. Proposals put forward by the
+  Royal Commission on the Reform of the 
+  House of Lords were published in 2000 as a command paper:
+  A 
+  House for the Future (Cm 4534). This proposed a predominantly appointed 
+  second chamber with a minority of elected members representing regions of the 
+  UK. Links to documents on Lords Reform are on the
+  Lord 
+  Chancellor's Department Lords Reform page and on the
+  Cabinet Office 
+  Constitution Secretariat page.
+The Government is made up of the Prime Minister,
+formally appointed by the Queen, and who is normally the leader of the majority
+party in the House of Commons, and ministers with departmental
+responsibilities, of whom the Ministers of State form the Cabinet. The ministerial posts are the choice of the
+Prime Minister.
+The constitutional law of the UK is regarded as consisting
+of statute law on the one hand and case law on the other, whereby judicial
+precedent is applied in the courts by judges interpreting statute law. A third
+element consists of constitutional conventions which do not have statutory
+authority but nevertheless have binding force. Much of the relationship between
+the Sovereign and Parliament is conventional rather than statutory.
+<Table
+of Contents>
+The
+  Court System
+The lowest criminal courts are the Magistrates Courts, which deal with 
+  minor offences. More serious cases are heard in the Crown Court, in
+front of judge and jury. The Crown Court also hears cases appealed from the
+Magistrates Courts on factual points. Cases are appealed on points of law to
+the High Court (Queen’s Bench Division). Appeals against conviction and
+sentence are to the Court of Appeal (Criminal Division).
+Civil cases at first instance are heard in the County
+Courts (for minor claims) or the High Court, which is divided into three
+divisions: Queen’s Bench, Family and Chancery. Cases may be appealed to the Court of Appeal (Civil Division). Cases may be appealed from the County Court
+to the High Court.
+The House of Lords is the supreme court of appeal. Its judicial functions are quite separate
+from its legislative work, and cases are heard by up to 13 senior judges known
+as Law Lords. The judicial work of the
+House of Lords is described on its  web pages.
+The  Court Service web pages provide information on the other courts.
+In addition to the courts there are specialised
+Tribunals, which hear appeals on decisions made by various public bodies and
+Government departments, in areas such as employment, immigration, social
+security, tax and land. The Court
+Service also contains information on these.
+There has been extensive reform of civil procedure in
+recent years. Following on the
+publication of a major report on Access to Justice by Lord Woolf in 1996, a
+completely new set of civil procedure rules were put into operation in 1999, as
+well as new legislation for modernising the courts and legal services. 
+  A Review of the Criminal Courts by Sir 
+  Robin Auld was published in 2001. The various reports, the new Civil Procedure
+Rules and much else can be found on the 
+Lord Chancellor’s Department website.
+<Table
+of Contents>
+Primary
+  Sources of Law: Introduction
+Web-based
+sources for primary law have been made available officially since 1996. However, while they offer valuable texts
+they are limited by the fact that they are not annotated, amended or
+hyperlinked. Consequently it is
+necessary to use commercial subscription services in order to get reliable up
+to date information. Early in 2000, a
+new initiative to put up hyperlinked texts of UK legislation and case law was
+launched. Known as  BAILII (British and Irish Legal Information
+Institute), it is based on the Australian model  AustLII. It uses its
+own system of citation for cases and there are links other cases and
+legislation where they are loaded on the database. The site is under development, and coverage is patchy at present.
+For regularly-updated details of all resources see
+  LAWLINKS.
+The major encyclopaedia is Halsbury’s Laws of
+England. 4th ed. Butterworths, 1973. It is the starting point for any research on
+English law. It is also available as an 
+  online subscription service known as  Halsbury’s Laws Direct.
+Legislation
+Legislation since devolution forms several separate
+entities:
+United Kingdom legislation: applying to the whole UK
+Scottish legislation
+Welsh legislation (Statutory Instruments only)
+Northern Irish legislation
+For details of these categories see under the devolved
+governments below. Legislation
+published on the web can be accessed from the official
+Legislation website, also from
+ BAILII.
+<Table
+of Contents>
+Primary
+  Legislation: Acts of Parliament
+There are two main forms of primary legislation: Public
+General Acts and Local and Personal
+Acts. The latter are of specific
+and limited application only. For the
+purposes of this survey I will concentrate on PGAs. Depending on the legislative programme of the government, some
+40-70 Acts are passed each year. The
+sequential numbering of each Act within each year is known as a chapter number.
+Public General Acts appear in individual paper-covered
+volumes, cumulating into three or four annual volumes. From 1996 they have been published on the
+  
+Acts of the UK Parliament 
+  website, and their coverage now 
+  extends back to 1988. Many recent Acts have useful
+  
+  Explanatory Notes. They are
+also on  BAILII, and the texts here contain hyperlinks to
+other legislation on the BAILII database.
+Unamended legislation is of limited value, however,
+and it is always necessary to consult up to date sources. The principal printed source for statutes is
+Halsbury’s Statutes, published by 
+  Butterworths. This is arranged
+by subject in 50 volumes and contains the amended text of all Acts in force
+with extensive annotations. It is
+updated by means of an annual Cumulative Supplement and a loose leaf Noter-up,
+both arranged like miniature versions of the work itself. There is no electronic version of Halsbury’s
+Statutes.
+Current Law Statutes, published by 
+  Sweet & Maxwell, are a chronologically-arranged
+printed source. The texts of Acts are
+therefore unamended, but are annotated. This source is of particular value for finding the background to
+legislation, and tracing the documents (reports, white papers, etc.) and
+debates which preceded the Act. Some of 
+  this material has been incorporated into Westlaw (see below under 
+  Electronic Sources).
+<Table
+of Contents>
+Subordinate Legislation: Statutory Instruments
+Statutory Instruments, or SIs, are regulations made under the authority of 
+  an Act of Parliament. There are up to 3500 of these published annually, and 
+  they are numbered sequentially within each year. They are important documents, 
+  which often provide the detail required for the application of the Statute, 
+  and some contain provisions for the commencement of an Act (when it comes into 
+  force). 
+Statutory Instruments are 
+  available on the Web from 1987 and also available in the
+electronic services listed below.
+<Table
+of Contents>
+Electronic
+  Sources for Legislation
+As well as the public domain sources for legislation
+on the Web listed above there are several subscription services.
+Butterworths Legislation Direct
+    contains all UK legislation in force. including
+Statutes and SIs, and Scottish Statutes and SIs. It is updated by Stop Press, 
+  and includes Is It In Force? and Progress of Legislation databases.
+  Butterworths also includes digests of 
+  Acts with details of their status on their free
+  Law Direct service.
+Justis UK Statutes contains the
+full text of Statutes as enacted with cross referencing between amended and
+amending legislation, and is the only 
+service to include all repealed statutes as well as those in force. Justis UK
+Statutory Instruments contain SIs from 1987,
+with a separate database containing an 
+archive of pre-1987 SIs.
+Westlaw UK (www.westlaw.co.uk or www.westlaw.com)
+  contains Statutes
+and SIs in force, though at the time of writing not fully loaded, with
+commentary (Analysis). It also has historical
+versions of statutes.
+Lexis (lexis-nexis.co.uk 
+or lexis-nexis.com) also contains the
+texts of Statutes and SIs in force.
+Lawtel contains links to the official 
+version of Acts and statutory status tables giving details of amending and 
+amended legislation with links.
+<Table
+of Contents>
+Case
+  Law
+Law
+  Reports
+Cases in the courts are reported in numerous series of
+law reports. Until 1865 case reporting was done by private court reporters, and
+the resultant publications are known as the nominate reports, because they are
+usually known by the name of the reporter. These have been gathered together in
+a collection called the English Reports which makes them relatively easy to
+find. The English Reports have also been published on CD-ROM
+and the web by
+Jutastat, but this is not
+widely held. For a list of citations to 
+the nominate reports contained in the English Reports see
+Citations for the English Reports. In 1865 the reporting of
+cases was systematised by the 
+Incorporated Council of Law Reporting, which
+started publishing series of reports organised according to the court,
+collectively known as The Law Reports.
+The main general series currently published are:
+The Law Reports, 1865- which is in four separate
+series at the present day. For a list
+of the citations to all the series within The Law Reports see
+  the
+  guide Citations for The Law Reports.
+Weekly Law Reports, 1954- 
+All England Law Reports, 1936- 
+In addition there is a large number of specialised
+reports, covering different areas of law. There is a recognised hierarchy of
+reports, the most authoritative being The Law Reports, but of course many cases
+are only reported in specialised series.
+Citations
+Lists of citations can be found in many of the
+published works, but the most comprehensive guide is Raistrick, Donald: Index to legal citations and abbreviations,
+2nd ed, Bowker Saur 1993, which has world wide coverage.
+  Most of the commoner citations can be 
+  found online in
+  Legal 
+  Abbreviations.
+<Table
+of Contents>
+Electronic
+  Sources for Case Law
+A distinction here has to be made between law reports
+and transcripts. In recent years there has been a growth in the provision of
+electronic transcripts of cases on the web, many available free. Many, though not all of these will
+subsequently be reported.
+Public Domain Services
+BAILII contains an easily 
+    searchable and growing number of case law databases,
+    gathering together all the public 
+    domain sources. 
+House of Lords judgments
+  are
+available on the web from 1996, and within 2 hours of the decision.
+The Court Service contains a database of selected recent cases from the Court of Appeal and the
+High Court.
+Other sources can be checked on  LAWLINKS.
+Subscription Services
+Justis Law Reports, 1865- . The electronic version of The Law Reports,
+on CD-ROM and online. Justis also
+produce electronic versions of several other major series of reports.
+Westlaw contains The Law Reports back to
+  1865 and several other series as well (www.westlaw.co.uk or
+    www.westlaw.com.)
+Lexis provides The Law Reports 
+  from 1865, other reports 1945 and unreported cases (transcripts) from 1980 (www.lexis-nexis.co.uk or
+    www.lexis-nexis.com.)
+Butterworths All England 
+  Direct contains the All England Law Reports 1936- and the All England Reporter 
+  – a digest of recent cases with transcripts, not all of which will eventually 
+  be reported in All ER. Butterworths 
+  has also recently launched The Law Reports as a separate service.
+Lawtel contains a wide-ranging database 
+  of full text case transcripts from about 1980.
+There
+are numerous other services offering access to more specialised series of reports.
+<Table
+of Contents>
+Indexes and Digests
+Legislation and Case Law Indexes
+The two major printed indexes to UK law are the
+Digest, published by Butterworths, and Current Law, 
+  published by Sweet & Maxwell. Both contain digests of
+cases with references to cited cases and legislation, and both contain
+invaluable indexes to cases which will tell you where they have been reported.
+Current Law is available electronically as Current
+Legal Information, on CD-ROM and 
+online. This is in fact a family of databases. The Current Law Case Citator enables you to check the judicial history
+of a case and to see where it has been reported, and to trace case commentaries
+in journals, and links to the digest of the case in Current Law Cases. The Current Law Legislation Citator enables
+you to find cases interpreting a piece of legislation, and commentary in
+articles. The Current Law databases are 
+  all now available on Westlaw, though in a somewhat altered form, and it is 
+  expected that the CLI service will eventually cease to be available 
+  separately.
+Butterworths CaseSearch is a new 
+  service which is in effect the electronic version of the Digest, allowing you 
+  to search by case citation, case name and subject area.  It includes 
+  annotations to cases from 1502.
+Periodical
+  Indexes
+The Legal Journals Index is the major British source
+for tracing articles in legal journals, and covers 
+  over 400 UK and European
+English-language publications. It
+started publication in 1986 and is no longer available in hard copy. 
+  It is available on Westlaw and is also 
+  part of the Current Legal Information service, on CD-ROM and online. It is 
+  expected that CLI will cease as a separate service in due course.
+Index to Legal Periodicals has good coverage of the
+more academic-orientated UK legal journals.
+  Lawtel also includes an articles index for about 60 law journals from 
+  around 1998.
+Butterworths Law Direct is 
+  a freely-available service which includes an articles index for about 80 law 
+  journals from 1995.
+<Table
+of Contents>
+Parliamentary
+  Information
+The 
+Parliament website gives
+access to information on the business of the two Houses of Parliament,
+including a good deal of general material on the parliamentary system. You can
+also find details of the composition of Parliament and of the government of the
+day and links to official publications on the web, including white papers and
+green papers, reports of committees, House business and the Weekly Information
+Bulletin.
+Debates
+The debates of Parliament are published in Hansard.
+There are separate series for the House of Commons and the House of Lords and
+for Standing Committee debates. Hansard is also available on the web on the Parliament website, and
+there are archives of the Commons Hansard back to 1988/89 The House of Lords Hansard database is from
+1996.
+Bills
+Bills are published on the web with amendments where
+available, and explanatory notes for major 
+  public Bills introduced into Parliament by
+a government minister. The progress of
+legislation can be checked in the House of Commons Weekly Information Bulletin
+on the Parliament website.
+<Table
+of Contents>
+United Kingdom Government
+The government’s website
+  UK online includes an A-Z index to all government departments,
+agencies and other public or quasi-governmental bodies and is the gateway to a 
+  rich resource of material in the departmental websites.
+Official Publications
+Until 1996 all government publishing was in the hands
+of Her Majesty’s Stationery Office when it was privatised. The trading business was sold off to a
+company now known as The Stationery Office.  HMSO
+  remains as a body handling the statutory
+functions of official publishing, with responsibility for publishing
+legislation and administering crown and parliamentary copyright.
+The
+  Stationery Office is now mainly useful for its online
+catalogue and bookstore.
+The major online subscription services for official
+publications is  UKOP, which has authoritative
+bibliographic information.  BOPCAS 
+  (British Official Publications Current Awareness Service) is a subscription 
+  service with a certain amount of free information on recent publications. 
+  There is a public domain site for
+  Official Documents.
+BOPCRIS is a valuable free index to 
+  official publications from 1688 to 1995.
+<Table
+of Contents>
+Law Reform
+The Law Commission is an
+independent body set up in 1965 to keep the law of England and Wales under
+review and recommend reform where needed. Its projects are 
+  described on the website, and you can 
+  access the valuable Law Commission Reports and Consultation Papers in its 
+  online Library. The
+valuable Law Commission Reports and Consultation Papers are 
+  in its online
+  Library.
+The
+  Scottish Law Commission is the 
+  equivalent body for Scotland.
+Recent
+constitutional reforms are dealt with under Background and Constitution
+above. Reform of civil and criminal procedure is under The Court System
+above.
+<Table
+of Contents>
+Scotland
+Background
+The Scottish legal system is in part separate from
+that of England and Wales. It has its
+own court system and legal profession. Scotland lost its independent legislative powers under the Treaty of
+Union 1707, when Scotland became part of Great Britain. In 1997 the new Labour Government carried
+through proposals for devolution, and the Scottish Parliament was set up
+following a referendum in the Scotland Act 1998. Elections were held in 1999. The
+  
+Scottish Parliament can
+legislate in areas of domestic policy, but excluding foreign affairs, defence
+and national security, economic and monetary policy, employment and social
+security. The  Scottish Executive is the official
+government website.
+The court system is separate and different from
+  that of England and Wales, and uses different terminology. The principal law officer is the Lord Advocate. The Court of Session is the supreme civil
+court, subject to appeal to the House of Lords, with most civil jurisdiction
+being dealt with in the sheriff courts. The supreme criminal court is the High Court of Justiciary, 
+  the lower courts are the sheriff courts and district courts. The
+  Scottish Courts website
+  contains information on the court 
+  system and links to judgments.
+The Laws of Scotland: Stair Memorial Encyclopaedia,
+Butterworths 1987- is the definitive Scottish legal encyclopaedia. 
+It is available as a web-based 
+subscription service called Scotland Direct from
+Butterworths.
+Legislation
+Until the
+establishment of the Scottish Parliament, Acts of Parliament with specific
+application to Scotland were made in the Westminster Parliament. The first Act of the Scottish Parliament was
+passed in 1999, and they are on the  Scottish Legislation website. This site also includes links to Scottish Statutory Instruments and
+other material.
+Case Law
+Session Cases 1822- is the main series, reporting not
+only cases heard in the Court of Session, but also in the House of Lords and
+the High Court of Justiciary.
+Scots Law Times 1893- is a weekly publication
+containing law reports. There are also
+other series, and some significant Scottish judgments may be reported in the
+Weekly Law Reports and the All England Law Reports.
+BAILII publishes all the
+Scottish cases in the public domain with links to legislation and cases cited.
+The  Scottish Courts Web Site contains the same cases, though without links.
+<Table
+of Contents>
+Wales
+Wales has been united with England administratively,
+politically and legally since the 16th century. Under arrangements for devolution a new
+Welsh Assembly was established in 1999 following a referendum (The Government of Wales Act 1998), giving powers
+legislate in domestic areas but excluding foreign affairs and defence,
+taxation, overall economic policy, social security and broadcasting. However, the
+   National Assembly for Wales is restricted to passing subordinate legislation only.
+Welsh Statutory Instruments can be found on the  Wales
+Legislation site and on  BAILII.
+There
+is no separate Welsh case law.
+<Table
+of Contents>
+Northern Ireland
+Background
+Northern Ireland was created in 1922
+  from the six protestant-dominated 
+  counties of the Irish province of Ulster (the remaining three Ulster counties 
+  being catholic).  After centuries of conflict with Britain, in which the 'Irish question' was a major political issue, demands for home
+  rule for Ireland were met by establishing two separate parliaments subordinate to Westminster (the Government of Ireland Act 1920: text on BAILII). This proved unacceptable to the South and after negotiations leading to the Anglo-Irish Treaty of 1921 (on the National Archives of Ireland
+  website), the 26 counties of Southern Ireland left to form the Irish Free State, now known as the Republic of Ireland.  The six predominantly Protestant  counties of the province of Ulster retained their own parliament under Westminster jurisdiction.
+The present civil unrest between the Unionists (protestant) and the nationalists (catholic) began in the 1960s, and the British government assumed
+  direct responsibility for law and order in 1972.  The Northern Ireland Parliament was abolished, and replaced by a unicameral Northern Ireland
+  Assembly, with a Secretary of State appointed by the British Government and serving as a member of the British Cabinet. The constitutional authority
+  of this lies in the Northern Ireland Constitution Act 1973.  This only lasted until 1974, when the British government took over direct rule of Northern
+  Ireland (the Northern Ireland Act 1974).  In 1998, following extensive negotiations, the
+  
+Good Friday Agreement was reached and endorsed by
+  referendum.  A new Northern Ireland Assembly was created and legislation to implement the settlement (The 
+  
+Northern Ireland Act 1998: text 
+  also on
+  
+BAILII) was passed.
+The
+  Northern Ireland Office 
+  includes background and current information.
+A valuable website for information and documents on the Northern Ireland conflict is
+  CAIN (Conflict Archive on the Internet).
+Legislation
+Legislation applying to the whole of the UK can be assumed to apply in its entirety to Northern Ireland unless this is made explicit within the Act.  Some Acts apply primarily or exclusively to Northern Ireland.  Northern Ireland Orders in Council are Statutory Instruments applying exclusively to Northern Ireland under the Northern Ireland Act 1974, and which equate to primary legislation.  These are collected together in annual volumes: Northern Ireland Statutes, 1921-.  Statutory Rules of Northern Ireland are Statutory Instruments relating exclusively to Northern Ireland and are on the web from 1998. Statutes Revised Northern Ireland,
+2nd. ed. (HMSO,1982) includes Acts passed before Northern Ireland came into existence.  These are also on
+BAILII.
+As well as BAILII  the official  Northern Ireland Legislation
+website provides access to full text Northern Irish legislation.
+Case Law
+Northern Ireland has its own court structure, replicating that of England and Wales. The
+Northern Ireland Court Service describes this.  The decisions from 1998 are available on BAILII.
+<Table
+of Contents>
+The
+  Legal Profession
+The legal profession in England and Wales has two
+branches, solicitors and barristers. There are some 67,000 solicitors in England
+and Wales, and only 8,500 practising barristers. Barristers represent clients in
+the courts on the instruction of solicitors, although their exclusive rights of
+audience in the higher courts have been eroded in recent years. Barristers are
+organised into sets of Chambers, but are essentially self-employed. Their
+professional organisation is called the Bar. Solicitors are organised into firms
+of varying size from sole practitioner to large 
+multinational practices. They
+provide all legal services and instruct barristers.
+The 
+Bar Council is the governing body for 
+Barristers.
+The 
+Law Society is the governing body for 
+solicitors. There is a separate 
+Law Society of Scotland.
+A valuable portal for the legal profession is
+  
+  Legal Resources in the UK and Ireland.
+<Table
+of Contents>
+Legal Education
+Law degrees in the UK are at undergraduate level.  Professional training is provided at postgraduate level by means of the Bar Vocational Course (BVC) for would-be barristers, and the Legal Practice Course (LPC) for solicitors.  Students with a first degree in a subject other than Law must follow a one-year qualifying course (known as the CPE, or Common Professional Examination) in the core subjects of law before being eligible for the qualifying courses.  In order to enter the profession student solicitors must find a post as a trainee solicitor, and barristers must obtain a pupillage in a set of barristers’ chambers.  Entry to both branches of the profession is extremely competitive.
+<Table
+of Contents>
+Legal Publishers
+The major legal publishers are 
+Butterworths and
+Sweet & Maxwell, who between them publish most of the principal reference works of law.  The Incorporated Council of Law Reporting publish The Law Reports  (see 
+above).  However there are a large number of important publishers with large legal publishing programmes.  A list of these can be found on LAWLINKS.
+<Table
+of Contents>
+Legal News & Current Awareness
+There are many websites which provide free current awareness services.  Many of the major publishers do so, including
+Butterworths, which offers 
+Law Direct. 
+There is also a growing number of legal 
+portals, of which some examples can be found on
+LAWLINKS.  See
+Legal Resources in the UK and Ireland for lists of these and of law firms with current awareness and news on their websites, or offering free email newsletters.
+Several legal newspapers also have websites.  The Lawyer,
+Legal 
+Week and the Law Society Gazette
+are all useful current awareness sources.
+<Table
+of Contents>
+Standard Texts
+This is inevitably a rather ad hoc list.  I have omitted loose leaf publications, though in recent years many standard texts have changed to this form of publication.
+A good place to search for UK law books is
+Hammicks Legal Bookshops Online.
+Banking Law
+Cranston, R. Principles of banking law.
+  Oxford University Press, 2002.
+Hapgood, M.  Paget’s law of banking. 
+12th ed. Butterworths 2002.
+Commercial Law
+Borrie, J. & Brown, I.   Commercial law.  7th ed.  Butterworths, 2000.
+Goode, R.  Commercial law.  2nd ed. Butterworths,
+1998.
+Company Law
+Farrar, J.H.  Farrar’s company law.  4th ed. Butterworths, 1998.
+Morse, G.  Charlesworth & Morse: Company law.  16th ed.  Sweet & Maxwell, 1999.
+Competition Law
+Furse, M. Competition law of the 
+  UK and EC. 3rd. ed. Oxford University Press, 2002.
+Whish, R.  Competition law.  4th. ed. Butterworths,
+2001.
+Constitutional and Administrative Law
+Bradley, A.W. & Ewing, K. Constitutional and administrative law.
+  13th ed. Longman, 2002.
+De Smith, S. & Brazier, R.  Constitutional and administrative law.  
+8th ed.  Penguin Books, 1998.
+McEldowney, J.F. Public law. 3rd ed. 
+Sweet & Maxwell, 2002.
+Consumer Law
+Harvey, B.W. & Parry, D.  Law of consumer protection and fair trading.   
+6th. ed. Butterworths,
+2000.
+Lowe, R. & Woodroffe, G. Consumer 
+law and practice. 5th ed. Sweet & Maxwell, 1999.
+Contract Law
+Beale, H. (ed.)   Chitty on contracts.  2 vols.  28th ed.  Sweet & Maxwell, 1999,
+  plus supplements.
+Furmston, M.P.   Cheshire, Fifoot and Furmston’s law of contract.  
+14th ed. Butterworths,
+2001.
+Goff, R.  Law of restitution.  5th ed. Sweet & Maxwell, 1998.
+Criminal Law
+Ashworth, A.  Principles of criminal law.  3rd ed.  Clarendon Press, 1999.
+Smith, J.C. & Hogan, B.  Criminal law.  
+2002 ed., Butterworths,
+2002.
+Employment Law
+Pitt, G.  Employment law.  4th ed.  Sweet & Maxwell, 2000.
+Selwyn, N.   Selwyn’s law of employment.  
+11th ed. Butterworths,
+2000.
+Smith, I. & Thomas, G.  Industrial law.  7th ed.  Butterworths, 2000.
+English Legal System
+Elliott, C. & Quinn, F. English 
+  legal system. Longman, 2002.Ward, R.  Walker and Walker’s English legal system.  8th ed.  Butterworths, 1998.
+Slapper, G. et al, The English legal 
+  system. 5th ed. Cavendish, 2001.
+Environmental Law
+Wolf, S. & White, A.H. 
+  Principles of environment law. Cavendish, 2001.Hawke, N.  Environmental health law.  Sweet & Maxwell, 1995.
+Hughes, D.  Environmental law.  4th ed. Butterworths,
+2000.
+Woolley, D. et al Environmental law. 
+Oxford University Press, 2000.
+Equity and Trusts
+Burn, E.H.  Maudsley and Burn’s Trusts and trustees.  5th ed.  Butterworths, 1996.
+Martin, J.  Hanbury and Martin: Modern equity.  
+16th ed. Sweet & Maxwell,
+2001.
+Pettit, P. Equity and the law of 
+trusts. 9th ed. Butterworths, 2001.
+Evidence
+Keane, C. Modern law of 
+  evidence. 5th ed. Butterworths, 2000. Murphy, P.  Murphy on evidence.  
+  7th ed. Blackstone, 2000.
+Tapper, C.  Cross and Tapper on evidence.  9th ed.  Butterworths, 1999.
+Family Law
+Cretney, S.  Principles of
+  Family law.  7th ed. 
+  Sweet & Maxwell, 2002.
+Lowe, N.  Bromley’s Family law.  9th ed.  Butterworths, 1998.
+Shannon, G. Children and the law. 
+Sweet & Maxwell, 2001.
+Human Rights
+Clayton, R. et al  The law of human rights.  Oxford University Press, 2000.
+Feldman, D. Civil liberties and human 
+  rights in England and Wales. Oxford University Press, 2002.
+Lester, A. and Pannick, D.  Human rights law and practice. Butterworths, 1999.
+Immigration Law
+Jackson, D. Immigration - law and practice. Sweet & Maxwell,
+  2001.
+Macdonald, I.A.  Macdonald’s Immigration law and practice.  
+5th ed. Butterworths,
+2001.
+Reed, C. & Angel, J. Computer law. 
+4th ed. Blackstone, 2000.
+Information Technology Law
+Lloyd, I.  Information technology law.  
+  3rd ed. Butterworths,
+  2002.
+Macdonald, E.  Information technology law.   2nd  ed.   Cavendish, 2000.
+Insolvency Law
+Fletcher, I.  Law of insolvency.  
+  3rd ed.  Sweet & Maxwell, 2000.
+Pennington,  R. Pennington’s 
+Corporate Insolvency law.  2nd  ed. Butterworths, 1997.
+Insurance Law
+Birds, J & Hird, N. Birds' 
+  Modern insurance law. 5th ed. Sweet & Macwell, 2001.Ivamy, E.R.H.  General principles of insurance law.  6th ed.  Butterworths, 1993.
+McGee, A. The modern law of insurance. 
+  Butterworths, 2001.
+Legh-Jones, N. et al   Macgillivray on insurance law.  9th ed.  Sweet & Maxwell, 1997.
+Intellectual Property
+Bainbridge, D.I. Intellectual 
+  property. 5th ed. Longman, 2002.Cornish, W.R.  Intellectual property.  4th ed.  Sweet & Maxwell, 1999.
+Garnett, K. et al  Copinger and Skone James on copyright.  14th ed.  Sweet & Maxwell, 1998.
+Legal dictionaries
+Stroud’s judicial dictionary of words and phrases. 
+  6th ed. Sweet & Maxwell, 2001.
+Words and phrases legally defined.  3rd ed. Butterworths, 1998-.
+Legal Skills
+Clinch, P. Using a law library.  
+  2nd ed. Blackstone, 2001.
+Holborn, G.  Butterworths legal research guide.  
+2nd ed. Butterworths,
+2001.
+Medical Law
+Jones, M. Medical negligence. 
+  3rd ed. Sweet & Maxwell, 2002.
+Kennedy, I. & Grubb, A.  Medical law.  
+3rd ed. Butterworths,
+2000.
+McLean, S. Medical law and ethics. 
+Dartmouth, 2002.
+Planning Law
+Duxbury, R.M.C.  Telling and Duxbury: Planning 
+  law and procedure.  12th ed. Butterworths,
+  2002.
+Grant, M. Planning law. 2nd ed. 
+Sweet & Maxwell, 2003.
+Heap, D.  An outline of planning law.  11th ed. Sweet & Maxwell, 1996.
+Property Law
+Brennan, G. Landlord and tenant 
+  law. 2nd ed. Oxford University Press, 2002.Burn, E.H.   Cheshire and Burn: Modern law of real property.  16th ed.  Butterworths, 2000.
+Furber, J.   Hill & Redman’s Guide to landlord and tenant law.  Butterworths, 1999.
+Gray, K.   Elements of land law.  3rd ed.  Butterworths,
+2000.
+Scots Law
+Walker, D.M. The Scottish legal 
+  system. 8th ed. W. Green, 2001.Marshall, E.A.  General principles of Scots law.  W. Green, 1999.
+White, R.M. & Willock, I.D.   The Scottish legal system.  2nd.ed.  Butterworths, 1999.
+Tax Law
+Morse, G.   Davies: Principles of tax law.  
+  4th ed. Sweet & Maxwell,
+  2000.
+Whitehouse, C.   et al Revenue law – principles and practice.  
+20th ed., Butterworths, 2002.
+Torts
+Cane, P.   Atiyah’s Accidents, compensation and the law.  6th ed.  Butterworths, 1999.
+Jones, M. Textbook on torts. 8th 
+ed., 2002.
+Murphy, J. Street on tort. 11th ed. 
+Butterworths, 2003.
+<Table
+of Contents>
+ 
+ 
+Founder, Editor, Publisher:
+Sabrina I. Pacifici
+Follow LLRX and beSpacific on Twitter
+Legal Research
+Federal Legislative Research
+Foreign & Comparative Law
+Legislative Research Guide
+United States Law
+Librarian Resources
+Competitive Intelligence
+Government Resources
+Information Management
+Law Library Management
+Presentation Skills
+9/11 News & Legal Resources
+Legal Technology
+E-Discovery
+Gadgets & Gizmos
+Intranets
+Knowledge Management
+Websites, Blogs, & Wikis
+From beSpacific.com 
+Daily Law & Technology News
+beSpacific
+Investigation of a Multi-state Outbreak of Salmonella Infantis Linked to Dry Dog Food
+TRAC: Recent Rise in Federal Suits to Recover Student Loans
+FEMA - The National Preparedness Report
+Ethical and Scientific Issues in Studying the Safety of Approved Drugs
+New GAO Reports - Defense Inventory,  Defense Logistics, Federal Land Management
+FAS: Counterintelligence Surveillance Under FISA Grew in 2011
+Documents Captured During Bin Laden Raid Released by U.S. Military
+Human Rights Watch Report on Syria - War Crimes in Northern Idlib during Peace Plan Negotiations
+New GAO Reports: Defense Infrastructure, Climate Change, Tactical Aircraftwepgmail
+Metropolitan Area Employment and Unemployment Summary
+more
+Copyright© 1996-2012 LLRX®
+Home
+About LLRX
+Advertise
+Privacy Policy
+Linking
+Contact Us
+Find a Lawyer
+ Justia Legal WebSite Design 
+   

@@ -1,0 +1,189 @@
+Template:Infobox website - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+huna
+Papa aratohu
+Whārangi matuaTomokanga haporiWikipedia:KōreroNgā huringa houTūpono haereWhakamāramaTakoha
+Reo
+Language links are at the top of the page across from the title.
+Rapu
+Rapu
+Create accountTakiuru
+Personal tools
+ Create account Takiuru
+Pages for logged out editors learn more
+ContributionsKarere mō tēnei IP
+Contents
+move to sidebar
+huna
+Beginning
+1Usage
+Toggle Usage subsection
+1.1Full version
+2Parameters
+3Example
+Toggle Example subsection
+3.1References
+4Tracking categories
+5See also
+Toggle the table of contents
+Toggle the table of contents
+Template:Infobox website
+146 languages
+Afrikaansak:Nhwɛsode:Infobox websiteAlemannischالعربيةمصرىঅসমীয়াAsturianuАварAzərbaycancaتۆرکجهБашҡортсаBasa BaliBoarischBikol CentralБеларускаяБеларуская (тарашкевіца)БългарскиभोजपुरीBanjarবাংলাBrezhonegBosanskiBasa UgiCatalà閩東語 / Mìng-dĕ̤ng-ngṳ̄НохчийнCebuanoکوردیČeštinaЧӑвашлаCymraegDanskDeutschडोटेलीދިވެހިބަސްΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiNa Vosa VakavitiFrançaisArpetanGaeilgeGalegoگیلکیગુજરાતીHausaעבריתहिन्दीFiji HindiHrvatskiMagyarՀայերենԱրեւմտահայերէնInterlinguaBahasa IndonesiaInterlingueIgboIlokanoГӀалгӀайÍslenskaItaliano日本語JawaქართულიQaraqalpaqshaTaqbaylitҚазақшаភាសាខ្មែរ한국어कॉशुर / کٲشُرKurdîКыргызчаLatinaLadinoລາວLietuviųLatviešuमैथिलीBasa BanyumasanMinangkabauМакедонскиമലയാളംМонголဘာသာ မန်मराठीBahasa MelayuMaltiမြန်မာဘာသာمازِرونیनेपालीNederlandsNorsk nynorskNorsk bokmålଓଡ଼ିଆИронਪੰਜਾਬੀPolskiپښتوPortuguêsRomânăTarandíneРусскийसंस्कृतम्ᱥᱟᱱᱛᱟᱲᱤScotsسنڌيSrpskohrvatski / српскохрватскиၽႃႇသႃႇတႆး සිංහලSimple EnglishSlovenčinaSlovenščinaAnarâškielâSoomaaligaShqipСрпски / srpskiSundaSvenskaKiswahiliதமிழ்తెలుగుТоҷикӣไทยትግርኛTagalogTok PisinTürkçeXitsongaТатарча / tatarçaУкраїнськаاردوOʻzbekcha / ўзбекчаVènetoTiếng Việt吴语მარგალურიYorùbá中文Bân-lâm-gú粵語IsiZulu
+Takatā hononga
+TātauiraKōrerohia
+Māori
+PānuiTakatā pūtakeView history
+Papa taputapu
+Tools
+move to sidebar
+huna
+Actions
+PānuiTakatā pūtakeView history
+General
+Ngā hoto ki koneiHuringa pūtahi - pouaka utautaTuku akeWhārangi motuhakeHoto toitūPage informationWikidata item
+Print/export
+Download as PDFTiro tānga
+Nō Wikipedia Māori
+ Template documentation[view] [edit] [history] [purge]
+This template  uses Lua:
+Module:InfoboxModule:InfoboxImageModule:Check for clobbered parametersModule:Check for unknown parameters
+Usage[takatā pūtake]
+{{{name}}}[[File:{{{logo}}}|{{{logo_size}}}|alt={{{logo_alt}}}|upright=1]]{{{logo_caption}}}{{{collapsetext}}}
+[[File:{{{screenshot}}}|{{{screenshot_size}}}|alt={{{screenshot_alt}}}]]{{{caption}}}Type of business{{{company_type}}}Type of site{{{type}}}Available in{{{language_count}}} languages{{{language_footnote}}}List of languages{{{language}}}Traded as{{{traded_as}}}Founded{{{founded}}}Dissolved{{{dissolved}}}Predecessor(s){{{predecessor}}}Successor(s){{{successor}}}Headquarters{{{headquarters}}}, {{{location_city}}}, {{{location_country}}}Country of origin{{{country_of_origin}}}No. of locations{{{locations}}}Area served{{{area_served}}}Owner{{{owner}}}Created by{{{author}}}Founder(s){{{founder}}}Editor{{{editor}}}Chairman{{{chairman}}}Chairperson{{{chairperson}}}President{{{president}}}CEO{{{CEO}}}Managing director{{{MD}}}General manager{{{GM}}}Key people{{{key_people}}}Industry{{{industry}}}Products{{{products}}}Services{{{services}}}Revenue{{{revenue}}}Operating income{{{operating_income}}}Net income{{{net_income}}}Total assets{{{assets}}}Total equity{{{equity}}}Employees{{{employees}}}Parent{{{parent}}}Divisions{{{divisions}}}Subsidiaries{{{subsidiaries}}}URLexample.comIPv6 support{{{ipv6}}}Advertising{{{advertising}}}Commercial{{{commercial}}}Registration{{{registration}}}Users{{{num_users}}}Launched{{Start date and age|df=yes/no|YYYY|MM|DD}}Current status{{{current_status}}}Native client(s) on{{{native_clients}}}Content license{{{content_license}}}Written in{{{programming_language}}}ISSN{{{issn}}} (print)Template:Please check ISSN {{{eissn}}} (web)Template:Please check ISSNOCLC numberTemplate:OCLC search link{{{footnotes}}}
+Full version[takatā pūtake]
+Please remove any unused parameters when copying to an article page.
+{{Infobox website
+| name = 
+| logo = 
+| logo_size = 
+| logo_alt = 
+| logo_caption = 
+| screenshot = 
+| screenshot_size = 
+| screenshot_alt = 
+| collapsible = <!-- set as "on", "y", etc, otherwise omit/leave blank. Does nothing for mobile users. -->
+| collapsetext = <!-- collapsible area's heading (default "Screenshot"); omit/leave blank if collapsible not set -->
+| background = <!-- for collapsetext heading; default grey (gainsboro) -->
+| caption = 
+| company_type = 
+| type = <!-- or: | website_type = -->
+| language = 
+| language_count = 
+| language_footnote = 
+| traded_as = 
+| founded = <!-- or: | foundation = -->
+| dissolved = 
+| predecessor = 
+| successor = 
+| headquarters = <!-- or: | location = -->
+| location_city = 
+| location_country = <!-- or: | country = -->
+| country_of_origin = 
+| locations = 
+| area_served = 
+| owner = <!-- or: | owners = -->
+| author = <!-- or: | authors / creator / creators -->
+| founder = 
+| editor = <!-- or: | editors = -->
+| chairman = 
+| chairperson = 
+| president = 
+| CEO = 
+| MD = 
+| GM = 
+| key_people = 
+| industry = 
+| products = 
+| services = 
+| revenue = <!-- or: | rev = -->
+| operating_income = 
+| international = <!-- or: | intl = -->
+| net_income = 
+| assets = 
+| equity = 
+| employees = <!-- or: | num_employees = -->
+| parent = 
+| divisions = 
+| subsidiaries = <!-- or: | subsid = -->
+| url = <!-- {{URL|example.com}} -->
+| ipv6 = 
+| advertising = 
+| commercial = <!-- "Yes", "No" or leave blank -->
+| registration = <!-- or: | reg = -->
+| num_users = <!-- or: | users = -->
+| launch_date = <!-- {{Start date and age|df=yes/no|YYYY|MM|DD}} -->
+| current_status = 
+| native_clients = 
+| content_license = <!-- or: | content_licence = -->
+| programming_language = 
+| issn = <!-- ISSN, e.g. 1085-6706 (automatically linked to https://www.WorldCat.org) -->
+| eissn = <!-- eISSN, e.g. 1085-6706 (automatically linked to https://www.WorldCat.org) -->
+| oclc = <!-- OCLC number, useful where an ISSN has not been allocated (automatically linked to https://www.WorldCat.org) -->
+| footnotes = 
+}}
+Parameters[takatā pūtake]
+All parameters are optional. Avoid linking to an article more than once within the infobox.
+This is the TemplateData for this template used by TemplateWizard, VisualEditor and other tools. Click here to see a monthly parameter usage report for this template based on this TemplateData.
+TemplateData for Infobox website
+An infobox for articles about company[Edit template data]Template parametersThis template prefers block formatting of parameters.ParameterDescriptionTypeStatusNamename websitenameTitle of the website. Sometimes, it is the same as the domain name.Default{{PAGENAMEBASE}}ExampleArs TechnicaStringrequiredLogologo websitelogoThe website logoFileoptionalLogo sizelogo_sizeSize of the logo. See Wikipedia image tutorial to find out about valid size values. The default is 250px.Default250pxStringoptionalLogo's captionlogo_caption logocaptionCaption for the logo. Most logos need none. But this field can be used to insert mandatory deletion notices.UnknownoptionalLogo's alternative textlogo_altAlternative text for the logo. Alternative text is displayed when the logo itself cannot be displayed or when a screen reader reads the article for the blind people.StringoptionalScreenshotscreenshotA screenshot of the homepageFileoptionalScreenshot's sizescreenshot_sizeScreenshot size. The default is 300px. Usually, changing the default is unnecessary.Example300pxStringoptionalScreenshot's captioncaptionA caption for the screenshot. Should contain the date the screenshot was taken.ExampleScreenshot of Wikipedia on 11 September 2014.StringoptionalScreenshot's alternative textscreenshot_altAlternative text for the screenshot. Alternative text is displayed when the screenshot itself cannot be displayed or when a screen reader reads the article for the blind people.StringoptionalIs screenshot collapsible?collapsibleWhether the screenshot should be collapsed or visible at page load. (Yes / No). Does nothing for mobile users (see [[phab:T111565]]).DefaultNoExampleyesBooleanoptionalCollapsed screenshot headercollapsetextText for the header of the collapsed section, defaults to ''Screenshot''.StringoptionalTypetype website_typeThe type of websiteExampleDigital advertising, mobile video advertisingStringoptionalTypes of business entitycompany_typeno descriptionLineoptionalLanguagelanguageThe language(s) in which the website is availableStringoptionalLanguage countlanguage_countThe number of languages in which the website is availableNumberoptionalLanguage footnotelanguage_footnoteThe footnote text containing citation for the source that says what languages are availableUnbalanced wikitextoptionalTraded astraded_asno descriptionLineoptionalFoundedfounded foundationno descriptionDateoptionalDissolveddissolvedno descriptionDateoptionalPredecessorpredecessorno descriptionStringoptionalSuccessorsuccessorno descriptionStringoptionalCountry of origincountry_of_originno descriptionStringoptionalNo. of locationslocationsno descriptionNumberoptionalArea servedarea_servedno descriptionStringoptionalOwner(s)owner ownersThe current owner(s); should be a company name, persons name, alias, etc.StringoptionalAuthor(s)author creator authors creatorsThe person or entity that writes for the website.StringoptionalFounder(s)founderno descriptionStringoptionalEditor(s)editor editorsThe person or entity that serves as the website's editorStringoptionalChairmanchairmanno descriptionStringoptionalChairperson chairpersonno descriptionStringoptionalPresidentpresidentno descriptionStringoptionalCEOCEOno descriptionStringoptionalManaging directorMDno descriptionStringoptionalGeneral managerGMno descriptionStringoptionalKey peoplekey_peopleno descriptionStringoptionalIndustryindustryno descriptionStringoptionalProductsproductsno descriptionStringoptionalServicesservicesno descriptionStringoptionalRevenuerevenue revThe approximate revenue of the siteStringoptionalOperating incomeoperating_incomeno descriptionStringoptionalNet incomenet_incomeno descriptionStringoptionalTotal assetsassetsno descriptionStringoptionalTotal equityequityno descriptionStringoptionalTotal employeesemployees num_employeesno descriptionStringoptionalHolding companyparentno descriptionStringoptionalDivisionsdivisionsno descriptionStringoptionalSubsidiariessubsidiaries subsidno descriptionStringoptionalWebsiteurl website homepageThe canonical URL of the website's home page meeting [[WP:ELOFFICIAL]]. If the website is primarily accessed through its IP address, the IP address may be listed instead.StringoptionalIPv6 supportipv6no descriptionStringoptionalAdvertisingadvertisingno descriptionStringoptionalIs commercial?commercialIs the site commercially run / owned? (Yes / No)BooleanoptionalRegistrationregistration regIs there registration? (None / Optional / Required)StringoptionalUsersusers num_usersThe number of registered users the website hasNumberoptionalLaunch datelaunch_date date_of_launchWhen the website was launched; check the Whois database, if neededDateoptionalCurrent statuscurrent_statusThe website's current statusStringoptionalNative clientsnative_clientsno descriptionStringoptionalContent licensecontent_licenseThe license of the content of the site. Use "Content licence" for British English spelling.StringoptionalContent licencecontent_licenceThe license of the content of the site. Use "Content license" for American English spelling.StringoptionalProgramming languageprogramming_languageThe programming language(s) by which the website is developedStringoptionalISSNissn ISSNThe website's ISSN, e.g. 1085-6706 (automatically linked to https://www.WorldCat.org)StringoptionaleISSNeissn eISSNThe website's eISSN, e.g. 1085-6706 (automatically linked to https://www.WorldCat.org)StringoptionalOCLCoclcThe website's OCLC numberStringoptionalFootnotesfootnotesFootnotes displayed at the bottom of infoboxUnbalanced wikitextoptionalembedembedno descriptionUnknownoptionalCompany namecompany_nameno descriptionUnknownoptionalCompany logocompany_logono descriptionUnknownoptionalUprightimage_uprightno descriptionNumberoptionalbackgroundbackgroundno descriptionUnknownoptionalheadquartersheadquartersno descriptionUnknownoptionallocationlocationno descriptionUnknownoptionallocation_citylocation_cityno descriptionUnknownoptionalcountrycountry location_countryno descriptionUnknownoptionalinternationalinternational intlno descriptionUnknownoptionallaunchedlaunchedno descriptionUnknownoptionallicenselicense licenceno descriptionUnknownoptional
+Example[takatā pūtake]
+WikipediaThe logo of Wikipedia, a globe featuring glyphs from various writing systemsScreenshot
+Main Page of the English Wikipedia on July 19, 2020Type of siteOnline encyclopediaAvailable in285 languagesCountry of originUnited StatesOwnerWikimedia FoundationCreated byJimmy WalesLarry Sanger[1]URLwikipedia.orgCommercialNoRegistrationOptional but required for certain tasks, such as editing protected pages, creating pages on the English Wikipedia, and uploading filesUsers90.6 millionaLaunchedJanuary 15, 2001; 22 years ago (2001-01-15)Current statusActiveContent licenseCC Attribution / Share-Alike 3.0Most text is also dual-licensed under GFDL; media licensing variesWritten inLAMP platformOCLC numberTemplate:OCLC search link
+a Total registration across all editions (July 2020).[2]
+{{Infobox website
+| name = Wikipedia
+| logo = [[File:Wikipedia-v2-logo.svg|150px|frameless|An incomplete sphere made of large, white, jigsaw puzzle pieces. Each puzzle piece contains one glyph from a different writing system, with each glyph written in black.]]<br />[[File:Wikipedia wordmark.svg|200px|The Wikipedia wordmark which displays the name Wikipedia, written in all caps. The{{nbsp}}''W'' and the{{nbsp}}''A'' are the same height and both are taller than the other letters which are also all the same height.]]
+| logo_caption = The [[Wikipedia logo|logo of Wikipedia]], a globe featuring [[glyph]]s from various [[writing system]]s
+| screenshot = Wikipedia Main Page.png{{!}}border
+| screenshot_alt = Main page of the English Wikipedia
+| caption = [[Main Page]] of the English Wikipedia on July 19, 2020
+| collapsible = yes
+| url = {{URL|https://www.wikipedia.org/|wikipedia.org}}
+| commercial = No
+| type = [[Online encyclopedia]]
+| registration = {{nowrap|Optional but required for certain}} tasks, such as editing protected pages, creating pages on the English Wikipedia, and uploading files
+| language = 285 languages
+| num_users = 90.6&nbsp;million{{padlsup|a}}
+| country_of_origin = United States
+| owner = [[Wikimedia Foundation]]
+| author = {{Unbulleted list|[[Jimmy Wales]]|[[Larry Sanger]]<ref name="Sidener">{{Cite news |url=http://www.signonsandiego.com/uniontrib/20041206/news_mz1b6encyclo.html |title=Everyone's Encyclopedia |last=Sidener |first=Jonathan |work=[[The San Diego Union-Tribune]] |date=6 December 2004 |archive-url=https://web.archive.org/web/20160114101809/http://www.sandiegouniontribune.com/uniontrib/20041206/news_mz1b6encyclo.html |archive-date=14 January 2016 |access-date=22 July 2020}}</ref>}}
+| launch_date = {{Start date and age|mf=yes|2001|1|15}}
+| oclc = 52075003
+| current_status = Active
+| programming_language = [[LAMP (software bundle)|LAMP]] platform
+| content_license = {{Nowrap|[[Creative Commons licenses|CC Attribution / Share-Alike]] 3.0}}<br />Most text is also dual-licensed under [[GFDL]]; media licensing varies
+| footnotes = <div class="plainlist" style="border-top:1px solid #aaa;padding-top:0.3em;text-align:left;">
+* {{nowrap |{{sup|a}} Total registration across all editions (July 2020).<ref>[[meta:List of Wikipedias#Grand Total|Grand Total]]. Wikimedia. 22 July 2020. Retrieved 22 July 2020.</ref>}}
+</div>
+}}
+References[takatā pūtake]
+↑ Sidener, Jonathan (6 December 2004). "Everyone's Encyclopedia". The San Diego Union-Tribune. Archived from the original on 14 January 2016. Retrieved 22 July 2020.
+↑ Grand Total. Wikimedia. 22 July 2020. Retrieved 22 July 2020.
+Tracking categories[takatā pūtake]
+Invalid, and requires correction
+Category:Pages using infobox website with unknown parameters (0)
+Category:Pages using infobox website with redundant parameters (0) – only one is visible in the infobox output
+See also[takatā pūtake]
+Wikipedia:Notability (web)
+Wikipedia:WikiProject Websites
+Template:Organization infoboxes
+The above documentation is transcluded from Template:Infobox website/doc. (edit | history)Editors can experiment in this template's sandbox (create | mirror) and testcases (create) pages.Add categories to the /doc subpage. Subpages of this template.
+Retrieved from "https://mi.wikipedia.org/w/index.php?title=Template:Infobox_website&oldid=163263"
+Wāhanga: Infobox templatesLua-based templatesNon-articles using infobox website with unknown parametersTemplates using TemplateDataWebsites templatesComputing infobox templatesEmbeddable templatesTemplates that add a tracking category
+ Nō te 15:17, 25 Hune 2023 te huringa whakamutunga o tēnei whārangi.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Tikanga tūmataiti
+Mō Wikipedia
+Whakakapenga
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

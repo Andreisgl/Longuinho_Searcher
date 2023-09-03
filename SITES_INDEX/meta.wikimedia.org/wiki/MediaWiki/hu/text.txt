@@ -1,0 +1,184 @@
+MediaWiki - Meta
+MediaWiki
+From Meta, a Wikimedia project coordination wiki
+Jump to navigation
+Jump to search
+This page is a translated version of the page MediaWiki and the translation is 100% complete.Other languages:Bahasa Indonesia
+Bahasa Melayu
+Bân-lâm-gú
+Cymraeg
+Deutsch
+English
+Esperanto
+Runa Simi
+Tiếng Việt
+Türkçe
+azərbaycanca
+dansk
+español
+français
+italiano
+lietuvių
+magyar
+occitan
+polski
+português
+português do Brasil
+română
+svenska
+Ελληνικά
+български
+кыргызча
+македонски
+русский
+тоҷикӣ
+українська
+اردو
+العربية
+سنڌي
+فارسی
+مصرى
+پښتو
+کوردی
+अंगिका
+नेपाली
+भोजपुरी
+हिन्दी
+বাংলা
+ਪੰਜਾਬੀ
+ગુજરાતી
+മലയാളം
+မြန်မာဘာသာ
+ᱥᱟᱱᱛᱟᱲᱤ
+中文
+日本語
+ꯃꯤꯇꯩ ꯂꯣꯟ
+한국어
+Wikimédia-projektek
+MediaWiki
+Meta-Wiki
+Wikikönyvek
+Wikidata
+Wikifunctions
+Wikimédia Commons
+Wikihírek
+Wikidézet
+Wikipédia
+Wikiforrás
+Wikifajok
+Wikiszótár
+Wikiegyetem
+Wikivoyage
+Wikimédia-projektek teljes listája — Wikimédia-projektek méret szerint
++/-
+MediaWiki Handbook: Contents, Readers, Editors, Moderators, System admins, Researchers
++/-
+MediaWiki:
+Features
+Handbook
+Sources
+Bug/Feature Submissions
+The team
+Versions:
+Ganso
+1.1
+1.2
+…
+1.31
+1.32
+1.33
+1.40.0(News)
+|( release )
+MediaWiki — MediaWiki.org
+Software
+Features
+Requirements
+Download
+Installation
+Handbook
+Extensions
+Development
+Developers
+Bug/Feature Submissions
+Hacking/Contributing
+Wikimedia's Set-Up
+Servers
+Status
+Toolserver
+Server log
+1.41.0-wmf.24 (cc7c637)
+edit links
+Megjegyzés: A(z) „MediaWiki” név gyakran összekeverhető más hasonló nevekkel; magyarázatukért lásd a szójegyzéket.
+A MediaWiki egy GPL szerint közzétett wikiszoftver a Wikimédia és egyéb weboldalak számára. Ez a wiki egy változata, Egy tartalomgyűjtő, amit bárki szabadon szerkeszthet. A Phabricator segítségével lett fejlesztve, ami a Phacility's Phabricatorra épül.
+A legutolsó stabil verzió az 1.40.0; harmadik felek számára ennek használatát javasoljuk; a saját szervert futtatóknak biztonsági okokból ajánljuk a frissítést. A MediaWiki-verzió a Speciális:Névjegy oldalon kérhető le. Tesztelésre a homokozót használhatod.
+A MediaWiki 1.40.0 a szoftver dokumentációját is tartalmazó MediaWiki.orgról tölthető le. A Wikimédia-projektek az 1.41.0-wmf.24 (cc7c637) verziót futtatják; az alfa és béta verziók használatát végfelhasználók számára nem javasoljuk.
+Leírás
+Bemutatás
+Kézikönyv (Hogyan használjuk a Mediawikit)
+Technikai fejlesztők részlege
+Levelező listák, különösen wikitech-l
+#mediawikikapcsolódás
+Részletek
+Funkciók
+Telepítés és beállítás
+Útmutató képernyőképekkel a telepítéshez és beállításhoz, a felület módosításához és kiterjesztések telepítéséhez
+Technikai
+Felépítés
+Történet
+Ütemterv
+Verziók
+Lásd a mw:Version lifecycle/hu lapot a jelenleg támogatott MediaWiki-verziókért.
+Adatbázis
+A letölthető Wikipedia adatbázis-dumpokért lásd a Wikipedia:Adatbázis letöltése. A adatbázis formátumának és mezőinek leírásáért lásd a adatbázis-elrendezés.
+A saját MediaWiki-webhelyedről készíthetsz dumpot a dumpBackup.php szkript segítségével, amely a MediaWiki-telepítés karbantartási könyvtárában található.
+Egy teljes biztonsági mentés parancsának példája így nézhet ki:
+ php maintenance/dumpBackup.php --full > full.xml
+A dumpBackup.php parancssori funkciói paraméterek nélkül futtatva érhetők el, vagyis így:
+ php maintenance/dumpBackup.php
+A forráskódban további, nem dokumentált beállítások is megtalálhatóak.
+Lásd még
+A MediaWiki.org további információkat tartalmaz a témában:
+MediaWiki
+Wikipedia has more about this subject:MediaWiki/hu
+Kézikönyv:Biztonság
+Szoftverváltoztatások időrendben
+GYIK
+MediaWikit használó oldalak
+Wikidata
+Kézikönyv:Mi a MediaWiki?
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=MediaWiki/hu&oldid=25435143"
+Category: MediaWiki/hu
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Content pageDiscussion
+magyar
+Views
+ReadTranslateView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+In other languages
+Add links
+ This page was last edited on 10 August 2023, at 10:32.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

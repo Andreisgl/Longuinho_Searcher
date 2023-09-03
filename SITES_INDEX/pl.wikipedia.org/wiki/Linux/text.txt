@@ -1,0 +1,290 @@
+Linux – Wikipedia, wolna encyklopedia
+Przejdź do zawartości
+Menu główne
+Menu główne
+przypnij
+ukryj
+Nawigacja
+Strona głównaLosuj artykułKategorie artykułówNajlepsze artykułyCzęste pytania (FAQ)
+Dla czytelników
+O WikipediiZgłoś błądZgłoś błąd w plikuKontaktWspomóż Wikipedię
+Dla wikipedystów
+Pierwsze krokiPortal wikipedystówOgłoszeniaZasadyPomocOstatnie zmiany
+Języki
+Linki pomiędzy różnymi wersjami językowymi znajdują się na górze strony, naprzeciw jej tytułu.
+Szukaj
+Szukaj
+Utwórz kontoZaloguj się
+Narzędzia osobiste
+ Utwórz konto Zaloguj się
+Strony dla anonimowych edytorów dowiedz się więcej
+EdycjeDyskusja
+Spis treści
+przypnij
+ukryj
+Początek
+1Historia rozwoju
+2Nazwa
+Przełącz podsekcję Nazwa
+2.1Etymologia
+2.2Nazwa Linux w języku polskim
+2.3Linux a GNU/Linux
+3Maskotka
+4Zastosowanie
+Przełącz podsekcję Zastosowanie
+4.1System dla zwykłego użytkownika
+4.2NASA i stabilizacja
+4.3Domy maklerskie i GPW
+5Oprogramowanie
+Przełącz podsekcję Oprogramowanie
+5.1Gry a Linux
+6Kwestie prawne
+7Interfejs
+Przełącz podsekcję Interfejs
+7.1Interfejs wiersza poleceń
+7.2Interfejs graficzny
+7.2.1Małe menedżery okien
+7.2.2Środowiska graficzne
+8Dystrybucje
+Przełącz podsekcję Dystrybucje
+8.1Binarne
+8.2Niebinarne (kompilowane)
+9Zobacz też
+10Przypisy
+11Linki zewnętrzne
+Przełącz stan spisu treści
+Przełącz stan spisu treści
+Linux
+154 języki
+AcèhAfrikaansAlemannischአማርኛअंगिकाالعربيةAragonésܐܪܡܝܐԱրեւմտահայերէնঅসমীয়াAsturianuAzərbaycancaتۆرکجهবাংলাBân-lâm-gúBasa BanyumasanБашҡортсаБеларускаяБеларуская (тарашкевіца)भोजपुरीБългарскиBoarischBosanskiBrezhonegCatalàCebuanoČeštinaCorsuCymraegDanskالدارجةDeutschDolnoserbskiEestiΕλληνικάEnglishEspañolEsperantoEuskaraفارسیFrançaisGaeilgeGalego客家語/Hak-kâ-ngî한국어Հայերենहिन्दीHornjoserbsceHrvatskiIdoBahasa IndonesiaInterlinguaИронÍslenskaItalianoעבריתJawaಕನ್ನಡქართულიKaszëbscziҚазақшаKiswahiliКомиKreyòl ayisyenKurdîКыргызчаລາວLatinaLatviešuLëtzebuergeschLietuviųLigureLingálaLingua Franca NovaLa .lojban.LombardMagyarМакедонскиMalagasyमराठीმარგალურიمصرىBahasa Melayu閩東語 / Mìng-dĕ̤ng-ngṳ̄Монголမြန်မာဘာသာNederlandsNedersaksiesनेपालीनेपाल भाषा日本語Norsk bokmålNorsk nynorskOccitanଓଡ଼ିଆOʻzbekcha / ўзбекчаਪੰਜਾਬੀپنجابیភាសាខ្មែរPlattdüütschPortuguêsQaraqalpaqshaRipoarischRomânăRuna SimiРусиньскыйРусскийСаха тылаSarduScotsSeelterskShqipSicilianuසිංහලSimple EnglishسنڌيSlovenčinaSlovenščinaŚlůnskiSoomaaligaکوردیСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaTagalogதமிழ்TaqbaylitТатарча / tatarçaతెలుగుTetunไทยTürkçeУдмуртBasa UgiУкраїнськаاردوVahcuenghVènetoVepsän kel’Tiếng ViệtVõroWalon文言West-VlamsWinarayWolof吴语ייִדישYorùbá粵語ZeêuwsŽemaitėška中文
+Edytuj linki
+ArtykułDyskusja
+polski
+CzytajOczekuje na przejrzenieEdytujEdytuj kod źródłowyWyświetl historię
+Narzędzia
+Narzędzia
+przypnij
+ukryj
+Działania
+CzytajOczekuje na przejrzenieEdytujEdytuj kod źródłowyWyświetl historię
+Ogólne
+LinkująceZmiany w linkowanychPrześlij plikStrony specjalneLink do tej wersjiInformacje o tej stronieCytowanie tego artykułuElement Wikidanych
+Drukuj lub eksportuj
+Utwórz książkęPobierz jako PDFWersja do druku
+Drukuj lub eksportuj
+W innych projektach
+Wikimedia CommonsWikibooksWikinewsWikicytaty
+Z Wikipedii, wolnej encyklopedii
+To jest najnowsza wersja przejrzana, która została oznaczona 24 cze 2023.
+Od tego czasu wykonano 8 zmian, które oczekują na przejrzenie.
+Linux
+Rodzina systemów operacyjnych uniksopodobne
+Producent
+Społeczność
+Architektura
+IA-32, MIPS, x86-64, SPARC, DEC Alpha, Itanium, PowerPC, ARM, m68k, PA-RISC, s390, SuperH, M32R, RISC-V i inne
+Pierwsze wydanie
+wrzesień 1991
+Aktualna wersja
+6.2.11[1][2](13 kwietnia 2023; ponad 4 miesiące temu)
+Aktualna wersja testowa
+6.2-rc3[1][3](8 stycznia 2023; ponad 7 miesięcy temu)
+Jądro
+monolityczne
+Środowisko pracy
+KDE, GNOME, Cinnamon, MATE, LXQt, XFCE, LXDE, Budgie, Deepin  i inne
+Licencja
+różne, jak na przykład GNU General Public License, BSDL, Apache License, X11 i inne
+Typ pakietów
+RPM, deb, TGZ
+Wersja Live
+ dostępna
+Multimedia w Wikimedia Commons
+Strona internetowa
+Linux ( /ˈlɪnəks/ i) – rodzina uniksopodobnych systemów operacyjnych opartych na jądrze Linux. Linux jest jednym z przykładów wolnego i otwartego oprogramowania (FLOSS): jego kod źródłowy może być dowolnie wykorzystywany, modyfikowany i rozpowszechniany[4]. Od kwietnia 2017 roku Android (z zaadaptowanym jądrem Linuxa) oficjalnie jest najpopularniejszym systemem operacyjnym na świecie[5][6].
+Pierwsza wersja jądra Linux została udostępniona publicznie 17 września 1991 dla architektury komputera PC, wykorzystującego mikroprocesor o architekturze IA-32. Do jądra dołączono narzędzia systemowe zwane też „Development Kit” oraz biblioteki z projektu GNU, aby otrzymać nadający się do użytku system operacyjny. Z tego powodu powstała też alternatywna nazwa kompletnego systemu: GNU/Linux[7]. Jest udostępniany w formie dystrybucji Linuksa, składających się z jądra (niekiedy zmodyfikowanego w stosunku do oficjalnej wersji) i zestawu pakietów oprogramowania dobranego do różnorodnych wymagań. Dystrybucje zawierają głównie oprogramowanie na licencjach FLOSS, jednak najczęściej zawierają też lub pozwalają na doinstalowanie pewnej liczby programów na licencjach własnościowych.
+Jednym z zastosowań Linuksa są środowiska serwerowe, dla których komercyjne wsparcie oferują firmy komputerowe, jak IBM, Oracle, Dell, Microsoft, Hewlett-Packard, Red Hat i Novell. Linux instalowany jest na różnorodnym sprzęcie komputerowym, np. komputerach biurkowych, superkomputerach i systemach wbudowanych, jak telefony komórkowe, routery oraz telewizory (np. LG[8], Samsung).
+Historia rozwoju[edytuj | edytuj kod]
+Linus Torvalds, twórca jądra Linuksa
+Historia Linuksa rozpoczęła się w 1991 roku, kiedy to fiński programista, Linus Torvalds poinformował na grupie dyskusyjnej Miniksa o hobbystycznym tworzeniu przez siebie niedużego, wolnego systemu operacyjnego, przeznaczonego dla procesorów z rodzin i386 oraz i486[9].
+Tworzę (darmowy) system operacyjny (tylko hobby, nie będzie wielki i profesjonalny jak gnu) dla klonów AT na 386(486).
+Linus Torvalds, https://groups.google.com/forum/#!msg/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ
+{{Cytat}} Gołe linki: "źródło".
+Linus stworzył jednak tylko jądro, pełny system operacyjny potrzebował jeszcze powłoki systemowej, kompilatora, bibliotek itp. W roli większości z tych narzędzi użyto oprogramowania GNU[10], co jednak w przypadku niektórych komponentów systemu wymagało poważnych zmian, niekiedy finansowanych przez Projekt GNU[11], niekiedy dokonanych już wcześniej przez Linusa Torvaldsa[12].
+Dużo pracy wymagało także zintegrowanie systemu do postaci dystrybucji[13], które umożliwiały zainstalowanie go w stosunkowo prosty sposób. Jednymi z pierwszych były opublikowany 16 lipca 1993 Slackware Linux[14] czy założony miesiąc później Debian[15], nazywający siebie GNU/Linux[16].
+Nazwa[edytuj | edytuj kod]
+Etymologia[edytuj | edytuj kod]
+Sama nazwa pochodzi ze zbitka słów Linus (będącego imieniem twórcy) i Unix. Później pojawiło się też rozwinięcie nazwy Linux w akronim rekurencyjny Linux Is Not UniX (pol. Linux To Nie Jest UniX)[17].
+Twórcą nazwy Linux jest Ari Lemmke, administrator serwera ftp://ftp.funet.fi/, na którym umożliwił Torvaldsowi publiczne udostępnienie kodu źródłowego jego systemu. Nie podobała mu się jednak proponowana początkowo przez Linusa nazwa „Freax” (Freax = free + freak + [uni]X) i zaproponował właśnie znaną dziś powszechnie nazwę „Linux”. W lutym 1992 założył on również grupę dyskusyjną comp.os.linux[18] w głównej hierarchii Usenetu, która miała przejąć ruch z grupy alt.os.linux działającej od stycznia 1992 w hierarchii alternatywnej. Obie grupy istnieją do tej pory.
+Nazwa Linux w języku polskim[edytuj | edytuj kod]
+Rada Języka Polskiego proponuje dwojaką pisownię nazwy „Linux” przy odmianie przez przypadki. Rozróżnienie to polega albo na zastąpieniu -x polskim -ks (sposób I), albo na zachowaniu końcówki -x (sposób II)[19]:
+I sposób: M: Linux, D: Linuksa, C: Linuksowi, B: Linuksa, N: Linuksem, Msc: Linuksie, W: Linuksie!
+II sposób: M: Linux, D: Linuxa, C: Linuxowi, B: Linuxa, N: Linuxem, Msc: Linuxie, W: Linuxie!
+Linux a GNU/Linux[edytuj | edytuj kod]
+ Osobny artykuł: GNU/Linux.
+Część osób preferuje nazwę „GNU/Linux” zamiast samego „Linux”. Ta pierwsza jest promowana przez Free Software Foundation i Projekt GNU, gdyż sam Linux nie tworzy systemu operacyjnego – do tego potrzebne jest również tzw. środowisko userspace, które zapewnia właśnie Projekt GNU.
+Maskotka[edytuj | edytuj kod]
+Tux Maskotka Linuksa
+ Osobny artykuł: Tux.
+Maskotką i oficjalnym logo Linuksa jest uśmiechnięty pingwin Tux.
+Zastosowanie[edytuj | edytuj kod]
+Linux stosowany jest jako podstawowy system operacyjny serwerów (w tym WWW, FTP, pocztowych, baz danych), zapór sieciowych, routerów, a także w systemach osadzonych oraz w niektórych odtwarzaczach DVD i tunerach DVB.
+Ze względu na powstanie i rozwój dystrybucji o łatwej instalacji i dużych zasobach oprogramowania, Linux znajduje również zastosowanie na rynku komputerów biurowych i domowych. Rządy kilku państw europejskich prowadzą wdrożenia Linuksa na komputerach administracji państwowej. Ponadto ze względu na bezpieczeństwo, stabilność, możliwość audytu i łatwość modyfikacji kodu źródłowego, z Linuksa korzystają agencje wywiadowcze, kontrwywiad i wojsko.
+Linux wykorzystywany jest przez niektóre banki i instytucje finansowe. Przykładowo, system notowań Wall Street oparty jest na tym systemie operacyjnym, jak i również Londyńska Giełda.
+Linux jest używany we wszystkich superkomputerach z listy TOP500[20][21]. Znalazł również zastosowanie w przemyśle filmowym – zarówno na serwerach, jak i stacjach roboczych. Jest najpopularniejszym systemem na komputerach wykorzystywanym do tworzenia animacji i efektów specjalnych. Z jego możliwości korzystają między innymi studia Dreamworks, Pixar czy Industrial Light & Magic.
+Również aparatura medyczna, np. tomografy komputerowe firmy GE, korzysta z systemu operacyjnego Linux. Popularne punkty dostępu sygnału Wi-Fi również opierają się na uproszczonym jądrze Linuksa i procesorach ARM, coraz częściej pojawiają się też telefony komórkowe z tym systemem.
+System Linux ma również zastosowanie w nawigacji GPS, np. firma TomTom opiera działanie swoich urządzeń na tym oprogramowaniu.
+Wiele dekoderów telewizji satelitarnej i naziemnej działa pod kontrolą systemu Linux.
+Zasadniczo obecnie (2013) sprzedaż smartfonów z Androidem (opartym na Linuksie) dominuje na rynku wobec innych, a co najmniej co trzeci zaawansowany telefon na świecie posiada system oparty na Linuksie[22]. Liczba urządzeń (tylko telefony i tablety) z samym Androidem to ponad 608 milionów, podczas gdy liczba wszystkich urządzeń pod kontrolą Microsoft Windows to ok. 1,5 miliarda[23]. Do urządzeń z Linuksem trzeba dodać serwery, komputery osobiste oraz zapowiedziane i wykonane migracje szkół i administracji – np. w Federacji Rosyjskiej[24].
+System dla zwykłego użytkownika[edytuj | edytuj kod]
+Zrzut ekranu z dystrybucji Ubuntu ze zmodyfikowanym interfejsem GNOME.
+Największy udziałowiec rynku systemów operacyjnych od kwietnia 2017 r., gdy pozycję tę objął Android (oparty na Linuxie)[25][26][27][28][5][6].
+Linux jest także najpopularniejszym systemem operacyjnym używanym na serwerach w Internecie, co oznacza, że komputer użytkownika, nawet jeśli pracuje pod innym systemem operacyjnym, to z dużym prawdopodobieństwem łączy się z serwerem opartym na systemie Linux[29][30].
+NASA i stabilizacja[edytuj | edytuj kod]
+„Migrujemy z Windowsa na Linuxa, ponieważ potrzebny jest nam stabilny i niezawodny system operacyjny.” – Keith Chuvala, zarządca systemów komputerowych NASA.
+W 2013 roku NASA (agencja USA, dotychczas korzystająca z komercyjnego, amerykańskiego Microsoft Windows na maszynach używanych przez astronautów) ogłosiła zainstalowanie we wszystkich komputerach znajdujących się na Międzynarodowej Stacji Kosmicznej Linuksa. Powodem są problemy ze stabilnością Microsoft Windows oraz chęć większej kontroli nad systemem[31].
+Domy maklerskie i GPW[edytuj | edytuj kod]
+W 2013 roku Giełda Papierów Wartościowych w Warszawie przeszła na system UTP (na bazie Red Hat Enterprise Linux). Oznacza to dodatkowo, że nie tylko największe giełdy (system UTP wykorzystuje m.in. NYSE) na świecie, ale również wszystkie domy maklerskie w Polsce używają systemu Linux[32].
+Oprogramowanie[edytuj | edytuj kod]
+Programy dystrybuowane są zazwyczaj w formie gotowych (skompilowanych) pakietów binarnych dla danej dystrybucji (np. RPM i deb) lub jako pakiety źródłowe (spakowany kod źródłowy, w takich formatach jak tar.bz2, tar.gz, SRPM), które należy przed skompilować, a następnie zainstalować. W niektórych dystrybucjach (np. Gentoo) proces kompilacji źródeł jest wysoce zautomatyzowany. Sama forma dystrybuowanego oprogramowania zwykle są związane z określoną formą dystrybucji. Najprostsza forma to gotowe pakiety binarne pochodzące z repozytorium.
+Gry a Linux[edytuj | edytuj kod]
+Obecnie na tylko jednego z Linuxów, w jednym sklepie jest ponad 192 187 aplikacji, z czego 15,5% to gry (Linux Android). Sama liczba pobrań aplikacji przekracza 34 294 603 185[33]. Jeśli chodzi o pozostałe dystrybucje Linuxa to przykładowo 10 na 25 gier w „Popularnych” („Popular”) serwisu GOG.com ma wersję na Linuxa[34]. W serwisie Steam jest 2970 gier z potwierdzonym działaniem na Linuksie[35]. Istnieją także inne katalogi gier[36]. Popularne silniki gier bądź biblioteki multimedialne do tworzenia gier pozwalają tworzyć duże i mniejsze produkcje na Linuxa – jak np. Unity[37] czy SDL[38].
+Zdecydowanie większość gier jest wydana na systemy operacyjne Windows, lecz istnieją projekty pozwalające uruchamiać gry z systemu Microsoftu na Linuksie. Są to m.in. Lutris, PlayOnLinux, Wine, oraz ogólnodostępną dystrybucję Linuksa stworzonego przez Valve Software, czyli SteamOS. Firma Valve ogłosiła również wspomożenie wolnościowych systemów operacyjnych, z tego powodu wszystkie produkty ich firmy obsługują systemy GNU/Linux.
+Najstarsza uniwersalna wyszukiwarka opisów gier, w rankingu liczby gier na lata 2010–2018 podaje dla Linuxa 11 369 tytułów, podczas gdy dla konkurencyjnych platform jest ich co najmniej kilkakrotnie mniej[39].
+Linux współcześnie obsługuje też bez dodatków zazwyczaj więcej kontrolerów niż wiele znanych systemów. Nie tylko nadal wspiera tzw. GamePort[40], ale również najnowsze kontrolery Sony[41]. Dzieje się tak dlatego, że większość sterowników jest już wbudowanych w jądro, użytkownicy, którzy chcą oszczędzać na zasobach mogą usunąć, lub zmodyfikować nieprzydatne dla nich funkcjonalności.
+Kwestie prawne[edytuj | edytuj kod]
+Oprogramowanie dla Linuksa jest najczęściej otwarte i wolne. Duża część kodu typowej dystrybucji jest objęta takimi licencjami jak GPL, LGPL, BSD i podobnymi.
+Linux jest zastrzeżonym znakiem towarowym należącym do Linusa Torvaldsa. Prawa do niego są udzielane przez Linux Foundation.
+Interfejs[edytuj | edytuj kod]
+Interfejs wiersza poleceń[edytuj | edytuj kod]
+Interfejs wiersza poleceń
+Linux zawiera interfejs wiersza poleceń (CLI) jako część funkcji przejętych z Uniksa. Dystrybucje wyspecjalizowane na serwery lub administrację mogą używać wiersza poleceń jako jedynego interfejsu. Nieobecność interfejsu graficznego (GUI) pozwala na zminimalizowanie wykorzystywanych zasobów systemowych. Maszyny z Linuksem mogą równie dobrze działać bez podłączonego monitora. Aby administrator mógł się na nich zalogować, potrzeba albo zdalnego X11, albo terminal musi być uruchomiony z protokołu takiego, jak SSH lub telnet. W sieciach lokalnych zdalne używanie X11 jest przeważnie akceptowalne, ale na dłuższe dystanse operacje te mogą zajmować za dużo czasu. Innym sposobem na zarządzanie systemem bez urządzeń HID (Human Interface Device) i sieci jest terminal podłączany przez port szeregowy – głównie służący do debugowania i diagnostyki urządzeń wbudowanych.
+Na początku wiele operacji wykonywanych w Linuksie wymagało użycia wiersza poleceń. Rozwój dystrybucji przeznaczonych na komputery biurkowe i domowe zmienił ten stan rzeczy. Mimo wszystko, wiele podręczników i tutoriali często podaje możliwość rozwiązania problemu z wiersza poleceń, nawet gdy można to zrobić, używając aplikacji graficznej. Wiersz poleceń jest uniwersalny w świecie Linuksa, gdzie graficzny interfejs na każdej maszynie może być inny. To również ułatwia współpracę między Linuksem i innymi maszynami, które również używają wiersza poleceń, np. MacOS X. Łatwiej jest również udzielić pomocy, gdy operacja ta sprowadza się do napisania/skopiowania tego, co należy wkleić do terminala.
+Dobrze zaprojektowane GUI jest łatwiejsze w użyciu dla większości zadań, lecz bardziej doświadczeni użytkownicy mogą wciąż preferować linię komend; naukowcy, inżynierowie i twórcy oprogramowania najczęściej używają właśnie terminala. Wiele ważnych programów nie ma GUI. Wiersz poleceń jest wyposażony w automat, pozwalający na kilkukrotne lub opóźnione wypełnianie zadań i naturalnym procesem jest to, że komenda wykonująca pewne zadanie jest wpierw wydawana bezpośrednio, a potem używana ponownie w skrypcie zapewniając automatyzację.
+Graficzny i tekstowy interfejs mogą również nawzajem się uzupełniać. Jest wiele graficznych emulatorów terminali, np. xterm, rxvt, aterm, gnome-terminal i konsole. X11 potrafi zapewnić komunikację między tymi programami a wierszem poleceń. Co więcej, XFCE, KDE oraz GNOME oferują narzędzie D-BUS, które zapewnia większą integrację aplikacji graficznych z terminalem.
+Interfejs graficzny[edytuj | edytuj kod]
+Interfejs użytkownika środowiska GNOME
+Graficzny interfejs użytkownika GUI nie jest w Linuksie integralną częścią systemu operacyjnego, lecz dodatkowym zbiorem programów. W zależności od stopnia zaawansowania i integracji użytych rozwiązań, dostępne GUI możemy podzielić na małe menedżery okien oraz duże środowiska graficzne.
+Małe menedżery okien[edytuj | edytuj kod]
+Jedna z opcji GUI dla Linuksa jest osobnym menedżerem okien, takim jak Fluxbox, dwm, awesome i te menedżery mogą mieć zestaw najróżniejszych aplikacji, uruchamianych za pomocą Menedżera Okien bądź dmenu. Menedżer okien pozwala na kontrolowanie położenia i wyglądu okien indywidualnych aplikacji oraz na interakcję z X Window System.
+Wadą niezależnych menedżerów okien jest trudność w uzyskaniu spójnych i jednolitych interfejsów różnych aplikacji. Przedstawione zrzuty ekranów przedstawiają XMMS, RealPlayer, Mozilla Firefox, xterm, gaim i Konqueror; każdy z nich prezentuje się inaczej, ponadto, aplikacje te korzystają z odrębnych skrótów klawiszowych, inaczej organizują swoje menu, posiadają inne mechanizmy kopiowania i wklejania. Nawet jeśli każda aplikacja z osobna jest dobrze dopracowana, to używanie ich wszystkich w grupie jest utrudnione, gdyż zachowania, których nauczymy się w jednej aplikacji, zazwyczaj dają się zastosować tylko w niej.
+Zaletą korzystania z niezależnego menedżera okien jest prostota (z punktu widzenia programistów i doświadczonych użytkowników) oraz szybkość i niezawodność ich działania. Ponadto w porównaniu z dużymi środowiskami graficznymi takimi jak GNOME lub KDE, niezależne menedżery w mniejszym stopniu angażują zasoby takie jak procesor, pamięć i miejsce na dysku twardym. Użytkownicy, którzy preferują pracę w terminalu, chętnie pracują w minimalistycznych środowiskach graficznych; menedżer okien, sam w sobie, ma im przede wszystkim zapewnić możliwość otwierania okien emulatorów terminali komputerowych.
+Są też menedżery okien bazowane na wl-roots które oparte są na Waylandzie, takie jak: Sway, dwl (dwm dla wayland), Qtile (też dostępne na X).
+Środowiska graficzne[edytuj | edytuj kod]
+GNOME 3.22.2 z uruchomionym menedżerem plików Nautilus, edytorem tekstu gedit i przeglądarką Firefox
+Interfejs użytkownika programu cinnamon, domyślnie zainstalowanym w dystrybucji Linux Mint
+Używanie małych menedżerów okien staje się coraz mniej popularne wraz ze wzrostem większych środowisk graficznych. Są to zintegrowane sposoby na wygodną pracę, które starają się zapewnić interfejs równie łatwy w obsłudze, jak ten z MacOS X lub Microsoft Windows. Łączą one menedżer okien z pakietem standardowych aplikacji, które są łatwe w obsłudze nawet z punktu widzenia początkujących użytkowników.
+Jednym z pierwszych rozpowszechnionych środowisk graficznych było CDE, które nie stało się popularne na Linuksie ze względu na koszty i ograniczenia licencyjne. W 1996 powstało KDE, a po nim, w 1997 roku, GNOME. Xfce jest trochę mniejszym projektem, który również powstał w 1997 i skupia się na szybkości i możliwości konfiguracji.
+Obecnie rozwiązaniami dominującymi są GNOME i KDE, zazwyczaj instaluje się je standardowo na systemach linuksowych. Każde z nich oferuje:
+dla programistów m.in. zestaw standardowych API oraz środowisko programistyczne,
+dostępność w wielu językach i wsparcie dla tłumaczy,
+kompletne środowisko graficzne z zestawem potrzebnych aplikacji, takich jak menedżer plików, przeglądarka internetowa, odtwarzacz multimediów, klient poczty elektronicznej, książka adresowa, przeglądarka dokumentów PDF, menedżer fotografii,
+możliwość dostosowania systemu do swoich potrzeb.
+Mimo iż oba te środowiska graficzne mają podobne cele, radzą sobie z nimi całkiem inaczej. KDE stara się, aby aplikacje były jak najbardziej konfigurowalne, aby można było w nie ingerować i aby mogły ze sobą w łatwy sposób kooperować. GNOME z drugiej strony, koncentrując się na kluczowych zadaniach (zgodnie z filozofią making things just work), stara się, aby całość była jak najprostsza w obsłudze. Każde z tych środowisk przyciąga inny rodzaj użytkowników i tworzy inną społeczność deweloperów.
+Na początku XXI wieku oba te środowiska są już dojrzałe[42]. Projekty Appeal[43] i ToPaZ[44] skupiają się na opracowywaniu nowych możliwości dla kolejnych edycji KDE i GNOME.
+Jak chodzi o Wayland, to te duże środowiska są z nim kompatybilne:
+GNOME
+KDE
+xfce (są prace nad wsparciem Wayland)
+Dystrybucje[edytuj | edytuj kod]
+Binarne[edytuj | edytuj kod]
+Arch Linux
+Ubuntu
+Debian
+Fedora
+Void Linux
+Manjaro
+Raspberry Pi OS
+Niebinarne (kompilowane)[edytuj | edytuj kod]
+Gentoo
+KISS Linux
+Linux From Scratch (użytkownik sam robi z tego dystrybucję, czy to binarną czy niebinarną)
+Zobacz też[edytuj | edytuj kod]
+Informacje w projektach siostrzanych
+  Multimedia w Wikimedia Commons
+  Teksty źródłowe w Wikiźródłach
+  Cytaty w Wikicytatach
+  Wiadomości w Wikinews
+  Podręczniki w Wikibooks
+  Definicje słownikowe w Wikisłowniku
+Ubuntu
+Linux Mint
+Debian
+GNOME
+KDE
+Arch Linux
+porównanie dystrybucji Linuksa
+Device Filesystem
+Exec Shield
+Grsecurity
+Polska Grupa Użytkowników Linuxa (PLUG).
+(9885) Linux
+Przypisy[edytuj | edytuj kod]
+↑ a b The Linux Kernel Archives, kernel.org [dostęp 2023-04-13] .strona główna serwisu
+↑ LinusL. Torvalds LinusL., Linux 6.1.8, Linux Kernel Mailing List [dostęp 2022-10-07] .
+↑ LinusL. Torvalds LinusL., Linux  6.2-rc3, Linux Kernel Mailing List [dostęp 2023-01-08] .
+↑ Linux.org: Linux Online ─ About the Linux Operating System. 2007-07-02. [dostęp 2007-07-06]. [zarchiwizowane z tego adresu (2010-05-27)]. (ang.).
+↑ a b Android overtakes Windows for first time | StatCounter Global Stats, gs.statcounter.com [dostęp 2017-11-25]  (ang.).
+↑ a b Android najpopularniejszym system na świecie. To koniec pewnej ery – PC World – Testy i Ceny sprzętu PC, RTV, Foto, Porady IT, Download, Aktualności, www.pcworld.pl [dostęp 2017-11-25]  (pol.).
+↑ 1.1. W: Lars Wirzenius, Joanna Oja, Stephen Stafford, Alex Weeks: Linux System Administrator’s Guide. 2004.brak strony w książce
+↑ Open LG TV. [dostęp 2013-05-11]. [zarchiwizowane z tego adresu (2013-05-04)]. (ang.).
+↑ Wiadomość Linusa Torvaldsa na grupie dyskusyjnej comp.os.minix zatytułowana „What would you like to see most in minix?”, I’m doing a (free) operating system (just a hobby, won’t be big and professional like gnu) for 386(486) AT clones.
+↑ Linus Torvalds, „Notes for linux release 0.01”, Sadly, a kernel by itself gets you nowhere. To get a working system you need a shell, compilers, a library etc. These are separate parts and may be under a stricter (or even looser) copyright. Most of the tools used with linux are GNU software and are under the GNU copyleft. These tools aren’t in the distribution – ask me (or GNU) for more info.
+↑ Richard Stallman, „Linux a Projekt GNU”, Przystosowanie niektórych komponentów GNU do działania z Linuksem wymagało poważnych zmian. [...] Projekt GNU wspomaga systemy GNU/Linux tak samo, jak system GNU – nawet finansowo. Sfinansowaliśmy przepisanie rozszerzeń biblioteki GNU C związanych z Linuksem, tak że są teraz dobrze zintegrowane, a najnowsze systemy GNU/Linux korzystają z aktualnego wydania biblioteki bez żadnych zmian.
+↑ Wiadomość Linusa Torvaldsa na grupie dyskusyjnej comp.os.minix zatytułowana „What would you like to see most in minix?”, I’ve currently ported bash(1.08) and gcc(1.40).
+↑ Richard Stallman, „Linux a Projekt GNU”, Wielką pracą było też zintegrowanie kompletnego systemu jako dystrybucji, która działałaby po „wyjęciu z pudełka”. Wymagało zajęcia się sprawą sposobu instalacji i uruchamiania systemu – problemem, z którym wówczas nie próbowaliśmy się zmierzyć, gdyż jeszcze nie osiągnęliśmy tego punktu. Znaczny wkład wnieśli ludzie, którzy rozwinęli rozmaite dystrybucje systemu.
+↑ Wiadomość Patricka Volkerdinga na grupie dyskusyjnej comp.os.linux zatytułowana „ANNOUNCE: Slackware Linux 1.00”, The Slackware Linux distribution (v. 1.00) is now available for anonymous FTP.
+↑ Wiadomość Iana Murdocka na grupie dyskusyjnej comp.os.linux.development zatytułowana „New release under development; suggestions requested”, This is just to announce the imminent completion of a brand-new Linux release, which I’m calling the Debian Linux Release.
+↑ O Debianie, Systemy Debian używają obecnie jądra Linux. Jest to oprogramowanie, które zaczął tworzyć Linus Torvalds, a którym obecnie zajmują się tysiące programistów z całego świata. [...] Duża część podstawowych programów narzędziowych tworzących system operacyjny pochodzi z projektu GNU; stąd nazwy: GNU/Linux oraz GNU/Hurd.
+↑ The Free Dictionary – Linux Is Not Unix. [dostęp 2013-05-11]. (ang.).
+↑ Linux Timeline.
+↑ Uchwała ortograficzna nr 17 Rady Języka Polskiego w sprawie zapisu wyrazów zakończonych literą -x (z 8 XII 2008 r.). [dostęp 2009-04-11].
+↑ Linux Runs all of the Top 500 Fastest Supercomputers [2019], itsfoss.com [dostęp 2019-07-19]  (ang.).
+↑ Sublist Generator | TOP500 Supercomputer Sites, www.top500.org [dostęp 2019-07-19] .
+↑ Wyborcza.pl, wyborcza.biz [dostęp 2017-11-25] .
+↑ Android najpopularniejszym systemem operacyjnym na świecie. Kiedy?, www.tablety.pl [dostęp 2017-11-25]  (pol.).
+↑ Wiadomości z kraju i ze świata – wszystko co ważne – WP, media.wp.pl [dostęp 2017-12-03]  (pol.).
+↑ Why is Android built on Linux Kernel? | Unixmen, www.unixmen.com [dostęp 2017-11-25]  (ang.).
+↑ 2 Answers – What is meant by a Linux-based OS? How is Android OS Linux based?, www.quora.com [dostęp 2017-11-25]  (ang.).
+↑ 3 Answers – If Android is based on Linux, then what is iOS based on?, www.quora.com [dostęp 2017-11-25]  (ang.).
+↑ https://archive.is/20170516151915/http://www.infoworld.com/article/2708206/is-android-really-a-linux-distribution.html
+↑ Server technologies Web Usage Statistics, trends.builtwith.com [dostęp 2017-11-25]  (ang.).
+↑ Idea Open Source – Komentarze – PC Format, www.pcformat.pl [dostęp 2017-11-25]  (pol.).
+↑ Technologie.gazeta.pl/internet/1,104530,13875034,NASA_rezygnuje_z_Windows__W_kosmosie_bedzie_dzialal.html.
+↑ grzesiek.log: GPW podało datę przejścia na nowy system notowań UTP, grzesieklog.blogspot.com [dostęp 2017-11-25] .
+↑ Distribution of Apps and Games in Android Market, Androlib, Android Applications and Games directory, www.androlib.com [dostęp 2018-05-23] .
+↑ Lista TOP10 na stronie https://www.gog.com/ wg stanu na 23 maja 2018.
+↑ SteamOS & Linux Games · Steam Database, steamdb.info [dostęp 2018-09-25] [zarchiwizowane z adresu 2017-06-22]  (ang.).
+↑ Linux.pl – Katalog Gier, www.linux.pl [dostęp 2018-11-05] [zarchiwizowane z adresu 2015-08-24]  (pol.).
+↑ Products – Unity, unity3d.com [dostęp 2018-05-23]  (ang.).
+↑ Simple DirectMedia Layer – Homepage, www.libsdl.org [dostęp 2018-05-23] .strona główna serwisu
+↑ Universal Videogames List, www.uvlist.net [dostęp 2018-12-09]  (ang.).strona główna serwisu
+↑ Alsa Opensrc Org – Independent ALSA and linux audio support site, alsa.opensrc.org [dostęp 2019-05-05] [zarchiwizowane z adresu 2017-10-25] .
+↑ bluetooth – How do I use the DUALSHOCK 4 with Ubuntu 14.10? – Ask Ubuntu, askubuntu.com [dostęp 2018-12-09] .
+↑ Raport Użyteczności Linuksa v1.01. linux-usability.de. [zarchiwizowane z tego adresu (2013-01-18)]..
+↑ Oficjalna strona Appeal.
+↑ Oficjalna strona ToPaZ.
+Linki zewnętrzne[edytuj | edytuj kod]
+List Linusa na grupę dyskusyjną o Miniksie (groups.google.pl) (ang.)
+Kontrola autorytatywna (projekt):VIAF: 185985901LCCN: n94087892GND: 4337730-0BnF: 124906479SUDOC: 034116125NKC: ph117043J9U: 987007289819405171Encyklopedia internetowa:
+Britannica: technology/Linux
+NE.se: linux
+Uppslagsverket Finland: Linux
+SNL: Linux
+Catalana: 0263202
+DSDE: Linux
+Hrvatska enciklopedija: 68101
+Źródło: „https://pl.wikipedia.org/w/index.php?title=Linux&oldid=70584990”
+Kategorie: LinuxSystemy operacyjneUkryte kategorie: Szablony cytowania – problemy – cytuj – strona głównaSzablon cytowania książki – brak numeru stronySzablon cytat do sprawdzenia
+ Tę stronę ostatnio edytowano 12 cze 2023, 21:03.
+Tekst udostępniany na licencji Creative Commons: uznanie autorstwa, na tych samych warunkach, z możliwością obowiązywania dodatkowych ograniczeń.
+Zobacz szczegółowe informacje o warunkach korzystania.
+Polityka prywatności
+O Wikipedii
+Korzystasz z Wikipedii tylko na własną odpowiedzialność
+Powszechne Zasady Postępowania
+Wersja mobilna
+Dla deweloperów
+Statystyki
+Komunikat na temat ciasteczek
+Przełącz ograniczenie szerokości strony

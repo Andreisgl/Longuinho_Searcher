@@ -1,0 +1,416 @@
+Smwcon fall 2019 - semantic-mediawiki.org
+Toggle navigation
+General 
+Semantic MediaWiki
+Introduction
+Getting support
+Community portal
+Open Semantic Data Association
+SMWCon
+Recent changes
+Users 
+Manual
+Getting started
+Report a bug
+Sandbox wiki
+MediaWiki
+Admini­strators 
+Manual
+Store and search environment
+Features and supplementary functions
+Installation
+Configuration
+Maintenance
+Report a bug
+Sandbox wiki
+MediaWiki
+Devel­opers 
+Manual
+Source code
+Code documentation
+Report a bug
+Sandbox wiki
+MediaWiki
+? 
+Getting support
+Frequent questions
+Missing content
+Missing translation
+Found an error
+...
+Discussion
+View source
+History
+Log in
+Request account
+ 
+Smwcon fall 2019
+From semantic-mediawiki.org
+SMWCon Fall 2019A list of contributions to SMWCon Fall 2019Jump to:navigation, search
+SMWCon Fall 2019
+The 16th conference on Semantic MediaWiki (SMWCon) brings together developers, users and organizations from the semantic wiki community around the world.
+Conference details
+Start:
+2019-09-25
+Finish:
+2019-09-27
+General Chair:
+Airy Magnien
+Local Chair:
+Clément Flipo
+Program Chair:
+Lex Sulzer
+Feed:
+RSS feed, Atom feed
+Wikidata-ID:
+A <code>unique_value_constraint</code> constraint is assigend to the the "Has Wikidata item ID" property which only permits unique value assignments and the Q63323597 value annotation was already found to be annotated in the "SMWCon Fall 2019" subject.
+DOI:
+not yet provided
+Address
+Loading map...{"minzoom":false,"maxzoom":false,"mappingservice":"leaflet","width":"auto","height":"260px","centre":false,"title":"","label":"","icon":"","lines":[],"polygons":[],"circles":[],"rectangles":[],"copycoords":false,"static":false,"zoom":false,"defzoom":14,"layers":["OpenStreetMap"],"image layers":[],"overlays":[],"resizable":false,"fullscreen":false,"scrollwheelzoom":true,"cluster":false,"clustermaxzoom":20,"clusterzoomonclick":true,"clustermaxradius":80,"clusterspiderfy":true,"geojson":"","clicktarget":"","imageLayers":[],"locations":[{"text":"","title":"","link":"","lat":48.855106,"lon":2.2918907963695974,"icon":""}],"imageoverlays":null}International Union of Railways,16 Rue Jean Rey, 75015 Paris, France
+International Union of Railways
+Table of Contents
+Contents
+1 Conference audience and mission
+2 Program
+3 Live Streaming
+4 Schedule
+5 Wishlist
+6 Going to a pub after Day 1 (September 25th)
+7 Conference dinner
+8 Registration
+9 Sponsors
+10 Participants
+11 Hotels/accommodation and Getting There and Around
+11.1 Getting There
+11.1.1 Air Travel
+11.1.2 Train
+11.2 Getting Around
+11.3 Hotels
+12 Coworking spaces
+A <code>unique_value_constraint</code> constraint is assigend to the the "Has Wikidata item ID" property which only permits unique value assignments and the Q63323597 value annotation was already found to be annotated in the "SMWCon Fall 2019" subject.
+SMWCon Fall 2019 - the 16th Semantic MediaWiki Conference:
+September 25 - 27, 2019, Paris, France
+Location: International Union of Railways next to the Eiffel Tower in central Paris
+Social Media: The hashtag on  Twitter is #SMWCon
+Facebook event
+Meetup event
+Conference audience and mission[edit]
+This conference is addressing everybody interested in wikis and open knowledge, especially in Semantic MediaWiki, e.g. users, developers, consultants, business or government representatives, and researchers.
+This conference shall:
+inspire/onboard new users,
+inform on where and how MediaWiki is used,
+convey and consolidate best practices,
+initiate/foster/integrate application and development and
+strengthen the community of stakeholders and its service portfolio.
+Learn how to "do" MediaWiki in order to assume your responsibilities regarding your organization's knowledge management.
+ 
+Program[edit]
+25 September – 26 September: Conference days
+27 September: Workshop day
+A pre-conference will be held as of 15:00 on Tuesday, September 24th in the lounge of the YOOMA urban lodge hotel at 51 quai de Grenelle, 75015 Paris (on the banks of the Seine river, not far from the Eiffel Tower, opposite the Maison de la Radio).
+The pre-conference is an unstructured gathering to give an opportunity for conference attendees to meet up ahead of the conference and exchange ideas.
+Add your ideas and wishes!
+Please use Suggest/Request Conference Contribution for suggesting a (lightning) talk, tutorial, workshop, create camp or poster presentation that you want to contribute or that you would like to have addressed by someone else.
+In any case you may always contact us at smwconmwstake.org.
+Alternative program facets: Slots | Map | Group-level Aspects
+Live Streaming[edit]
+Live stream: Look for the LIVE NOW icon at https://www.youtube.com/channel/UCXvzIQAkZQixyBRz2dn4-sw
+September 25, morning 1: https://www.youtube.com/watch?v=lM7IA2No_XQ
+September 25, morning 2: https://www.youtube.com/watch?v=GfJQ41gQ1l4
+September 25, morning 3: https://www.youtube.com/watch?v=K8QmeQWBrbk
+September 25, afternoon 1: https://www.youtube.com/watch?v=kCNXZYjLPeI
+September 25, afternoon 2: https://www.youtube.com/watch?v=ZtEhol022wQ
+September 25, afternoon 3: https://www.youtube.com/watch?v=ThY4McuvCVg
+September 26, morning 1: https://youtu.be/fKmzgh6iXNA
+September 26, morning 2: https://youtu.be/wyQf3kFOE_A
+September 26, afternoon 1: https://youtu.be/MfGq9AVdVYk
+September 26, afternoon 2: https://youtu.be/_GvoQRVj0LQ
+Note that each talk will be cut into one video (So there will be one Youtube video per talk).
+Schedule[edit]
+Lightning Talks and Unconference
+Conference Day 1 –
+Wednesday, September 25th 2019
+{{{LeftTitle}}}
+{{{RightTitle}}}
+08:3045 min.
+ Registration and Breakfast
+ 
+Breakfast will be in the coffee lounge on the first floor. Please bring your printed registration confirmation to the registration desk. You will receive a badge holder and lanyard. Thank you. 
+09:1515 min.
+ Conference Program Keynote
+Lex Sulzer (Knowledge Management Solutions Architect at dataspects GmbH) 
+ 
+09:3030 min.
+ ontorail.org - a shared Railway Digital Knowledge Vault
+Lucian Anghel (Developer at UIC)
+Alain Jeanmaire (UIC) 
+Use Semantic MediaWiki to support the sectorial initiatives for a shared Railway Digital Knowledge Vault. This talk will address the underlying use case, the implementation and pending issues. 
+10:0030 min.
+ Leveraging Semantic Mediawiki and Mediawiki in a user friendly way
+Clément Flipo (Product Manager at dokit) 
+I'll show how Dokit extensions help Administrators who are not familiar with Wikis:
+Creating and managing their Semantic Properties
+Creating and managing their Categories
+Managing users rights and permissions 
+11:10
+11:2540 min.
+ The WMF Core Platform Team: Roadmap Update and Q&A
+Cindy Cicalese (Principal Engineer at Wikimedia Foundation) 
+This will be an introduction to the Wikimedia Foundation's Core Platform Team, including the structure, process, current roadmap, and ways to communicate to and interact with the team. There will be time for a Q&A. 
+12:1530 min.
+ A MediaWiki news channel!
+Richard Heigl (CEO at Hallo Welt!) 
+Let's join forces to promote features, developments, events and field reports. 
+12:45
+13:5515 min.
+ SMW Social Media Activities
+Bernhard Krabina (Partner at KMA Knowledge Management Austria) 
+The SMW social media channels (twitter, facebook, youtube) could need some more love and strategy. This is something where non-developers can help out. 
+Join a discussion about what social media channels should be offered, how they should be managed. Help out to spread the word about SMW! 
+14:1020 min.
+ FINA Wiki - SMW supporting numismatic research
+Bernhard Krabina (Partner at KMA Knowledge Management Austria) 
+The FINA Wiki brings together evidence primarily about numismatic correspondence that was exchanged before 1800. In a project for the Austrian Academy of Sciences a SMW powered wiki shows how manuscript sources can be managed to support numismatic research. 
+14:3030 min.
+ Business Process Management (BPM) with MediaWiki
+Yaron Koren (Founder/CEO of WikiWorks) 
+Learn about a planned dedicated extension supporting BPM with MediaWiki 
+15:0030 min.
+ Identifying your Users
+Mark Hershberger (Owner NicheWork LLC) 
+An overview of the available methods for identifying users to MediaWiki 
+15:30
+16:0015 min.
+ Connections between SMW and Wikibase
+Sébastien Beyou (General Director at Wiki Valley) 
+Semantic MediaWiki and Wikibase are two implementations of the idea of semantic Web inside MediaWiki. The first one is basically semantic annotations inside a text, and the second one is very structured data without surrounding text. Both have advantages and different uses. This lightning talk will explore these different approaches and open the discussion about the opportunity of linking together these two tools in order to use both ecosystems in a coherent perspective. 
+16:1515 min.
+ Navigation in the new Electrical Installation Guide Wiki
+Laurent Mischler (Technical Communication Manager at Schneider Electric)
+Emmanuel Touvier (Knowledge Management Applications Manager at Schneider Electric) 
+The next version of the Electrical Installation Guide wiki uses a navigation and a chapter TOC creation based on the SMW "has parent page" property. One can browse this book-like wiki with chapter pages, a side menu, breadcrumb links and previous/next links. 
+Conference Day 2 –
+Thursday, September 26th 2019
+{{{LeftTitle}}}
+{{{RightTitle}}}
+08:3030 min.
+ Breakfast
+ 
+Breakfast will be in the coffee lounge on the first floor. 
+09:0030 min.
+ User-friendly wikis
+Ad Strack van Schijndel (Co-owner of wikibase solutions) 
+Wikibase Solutions creates MediaWiki sites that don't look or feel like wikis. Then what do they look and feel like? That question will be answered. Also will be shown what the ingredients are to accomplish some appealing wikis. 
+09:3030 min.
+ Smart iconography on your wiki
+Cindy Cicalese (Principal Engineer at Wikimedia Foundation) 
+Learn how to use icons from a variety of sources within your wiki to increase comprehension, navigation, and findability. 
+10:0030 min.
+ Yearly Semantic MediaWiki overview
+Karsten Hoffmeyer (Director of Professional Wiki including ProWiki and The Wikibase Consultancy) 
+An overview of what happened in Semantic MediaWiki land during the last year, including the 3.1 release. 
+10:30
+10:4530 min.
+ Cargo and Page Forms: state of the extensions
+Yaron Koren (Founder/CEO of WikiWorks) 
+This talk will cover  some of the recent improvements and new features in the Cargo and Page Forms extensions, and show how the two can work closely alongside one another. (Note: this talk can be split up into two if necessary.) 
+11:1530 min.
+ Fundamental MW security/safety considerations for 3rd party users
+Robert Vogel (Software Developer at Hallo Welt!) 
+A quick overview of "Server / Network security", "Application / Code security" and "Content security" 
+11:4530 min.
+ Exploiting and empowering semantic data with 2 new semantic extension: Sparql Result Format and Semantic Auth/Profiling
+Matteo Busanelli (IT Consultant and KM at imola informatica)
+Gabriele Cornacchia (IT Consultant at imola informatica) 
+Knowledge Management is a cross domain discipline and we (Imola Informatica) apply it on many different areas: EKM, Document Management, Enterprise Architecture, IT Service Management and Governance, IT Security, Normative Compliance etc.... 
+12:30
+14:0030 min.
+ Design/configure templates for optimal use with VisualEditor
+Robert Vogel (Software Developer at Hallo Welt!) 
+Learn about how to use TemplateData in order to facilitate using your templates through Visual Editor 
+14:3015 min.
+ How we hacked Visual Editor to add an edit images feature
+Pierre Boutet (Tech at dokit) 
+How we hacked Visual Editor to enable users to insert, crop and edit images directly into VE modal. 
+14:4515 min.
+ Creating a wiki-farm with automated new instance deployment with Ansible scripts: challenges and learnings
+Pierre Boutet (Tech at dokit) 
+Creating a wiki-farm with automated new instance deployment with Ansible scripts: challenges and learnings 
+15:0060 min.
+ Lightning Talks, Open Mic, Unconference Moderation I
+Lex Sulzer (Knowledge Management Solutions Architect at dataspects GmbH) 
+Let's gather a first set of unconference ideas collected throughout the first two conference days. 
+15:45
+16:0030 min.
+ FabMob, a Wiki to empower mobility communities working on open source
+Simon Sarazin (Innovation at La Fabrique des mobilités) 
+Our wiki index majors resources such as people, company, common, community but also event, knowledge, thesis and formation. 
+16:3015 min.
+ A SMW  referatory for qualitative Research Software, Workflows and Projects
+Cornelia Veja (Research Fellow at DIPF, Franfurt am Main, Germany) 
+ 
+16:4515 min.
+ OpenResearch - Find your scientific conference
+ () 
+This semantic wiki at Openresearch aims at making the world of science more visible and accessible. Everybody can add his favorite events (e.g. conferences and workshops), co-workers, tools/datasets, community fora or journals. Pooled together these pieces of information constitute a vast knowledge base about who and what moves science forward. 
+17:0015 min.
+ Host's Keynote
+François Davenne (Director General UIC) 
+ 
+19:30
+Unconference Day –
+Friday, September 27th 2019
+{{{LeftTitle}}}
+{{{RightTitle}}}
+09:0030 min.
+ Unconference Moderation II
+Lex Sulzer (Knowledge Management Solutions Architect at dataspects GmbH) 
+Let's review our first unconference ideas and concretize working groups. 
+Ideas:Best practices for creating extensions using BoilerPlate and ExampleEasy MediaWiki setup/installation management with MezaExtension "WSForm" hands-onLinking inside and into your wikiWSArrays - an easy way to use complex arrays in your wikiWays to implement main end user use cases12:30
+Lightning Talks and Unconference
+Wishlist[edit]
+The following is a collection of aspects that people are interested in and which could be addressed at the conference.
+The main areas I am interested in at the moment is using SMW in a Enterprise Architecture environment. Importing BiZZdesign models into the Wiki and vice versa. We have attempted to import XML files that BiZZdesign produce, but so far it has not worked. I'm currently also looking at ways to archive the Wiki using Heritrix. I have so far used Httrack to convert the Wiki into HTML, but would prefer something like Heritix that just does it and makes it available for users to view the Wiki at certain points in time. As a added part, I am also looking at converting the HTML files, or even the Wiki into a PDF book. I have been having issues with the latter getting the dependencies working.by Gary Foster, ICT Architecture Support, Publication of Policy/Strategies and Web Development
+Going to a pub after Day 1 (September 25th)[edit]
+After the first day of the conference (September 25th), we can all meet up at Plan B, 28 Rue de Lourmel, 75015 Paris.
+It is a Pub at 13 minutes walking distance from the venue.
+Conference dinner[edit]
+The conference dinner will be on Thursday evening at 19:30 at Bistro des Champs, 122 avenue des Champs-Élysées, 75008 Paris.
+Registration[edit]
+Registration has been closed. Please contact smwcon@mwstake.org in case of any question.
+Sponsors[edit]
+Smart semantic solutions that fullfill your needs. Trainings for Software Architecture and Requirements Management. Specialists for software engineering in a systems engineering context. Initiators of #11Dollar4Climate.
+dataspects is about finding and learning knowledge. It is based on a search engine that can index any kind of information and a wiki used as the primary platform to manage knowledge as connected entities.
+Dokit is the easiest way to create and share digital user guides, work instructions and best practices.
+The International Union of Railways promotes rail transport at world level and manages the challenges of mobility and sustainable development.
+Wikibase Solutions builds B2B customized solutions with an enthusiastic team of 15+ developers. We have a global client base with ambitious customers relying on the MediaWiki platform. We are an active member in the MW and SMW community. Feel free to surf to wikibase-solutions.com.
+Wiki Valley provides consulting, training on MediaWiki and many of its extensions like Semantic MediaWiki, Wikibase and hosts private and public wikis on its wiki farm.
+Participants[edit]
+ 
+To let others know that you will be attending, please add your name below:
+Lex Sulzer
+Karsten Hoffmeyer
+Clément Flipo
+Stephan Gambke
+Nicolas Nallet
+Cindy Cicalese
+Bernhard Krabina
+Wolfgang Fahl
+Lia Veja
+Airy Magnien
+Richard Heigl
+Yaron Koren
+Ad Strack van Schijndel
+Matteo Busanelli
+Philippos Papadopoulos
+Viktor Schelling
+Charlot Cobben
+Sébastien Beyou
+Maria Fahl
+Tobias Oetterer
+Emmanuel Touvier
+Laurent Mischler
+Robert Vogel
+Pierre Boutet
+Gary Foster
+Billy Coffield
+Gabriele Cornacchia
+Wazed Ali
+Simon Sarazin
+Laurel Zuckerman
+Lucian Anghel
+Lucian Emanuel Anghel
+Sabine Melnickiwas not here
+Hotels/accommodation and Getting There and Around[edit]
+ Map of locations (hotels, coworking spaces) in Paris on Google Maps
+Getting There[edit]
+Air Travel[edit]
+There are many options to go from the Airports to Paris' city center.
+From Orly Airport to Paris: Read this
+From Charles de Gaules Airport (AkA Roissy) to Paris: Read this
+RER B (+ Orlyval) is the cheapest and fastest option. Except during off-peak hours when taxis can be faster.
+Train[edit]
+Thalys fast train e.g. Cologne-Paris from 70 EUR return
+Getting Around[edit]
+Métro line 6 : station Bir-Hakeim
+RER C : station Champ de Mars / Tour Eiffel
+Lines are bidirectional. On the panels, the name of the last station tells the direction. 
+The best way to get around Paris is on the Metro and the Paris Visite travel pass provides unlimited travel. Instead of buying tickets every time you ride the Metro, you have a transportation card in your pocket that allows you to hop on the Metro, the RER, city buses, tramways, even the Montmartre funicular — whenever you want, wherever you are.
+The Paris Visite travel pass also allows you to use airport connections.
+Number of journeys: unlimited
+Availability: between 1 to 5 days
+Cost: between 12,00€ to 38,35 €
+For more information, check this page.
+Hotels[edit]
+First bookings have been made by participants at this hotel:
+YOOMA Urban Lodge
+51 Quai de Grenelle, 75015 Paris
+0,9 kilometer away - 11 minutes walk
+~ 120€/night
+Further options that are not too far from the conference site:
+Hotel Villa Nicolo
+3 Rue Nicolo, 75116 Paris
+1,1 kilometer away - 18 minutes walk
+~ 145€/night
+Hôtel de l'Avre
+21 Rue de l'Avre, 75015 Paris
+1,4 kilometer away - 18 minutes walk
+~ 120€/night
+Le Hameau de Passy
+48 Rue de Passy, 75016 Paris
+1,2 kilometer away - 17 minutes walk
+~ 90€/night
+Floride-Etoile
+14 Rue Saint-Didier, 75116 Paris
+1,7 kilometer away - 22 minutes walk
+~ 155€/night
+Hôtel Palais De Chaillot
+35 Avenue Raymond Poincaré, 75116 Paris
+1,7 kilometer away - 22 minutes walk
+~ 160€/night
+Paris Hôtel Gavarni
+5 Rue Gavarni, 75116 Paris
+1,0 kilometer away - 14 minutes walk
+~ 160€/night
+Beaugrenelle St-Charles Tour Eiffel
+82 Rue Saint-Charles, 75015 Paris
+1,2 kilometer away - 16 minutes walk
+~ 90€/night
+Prices may vary depending on season and availability.
+As you probably know, room availability and prices changes very quickly, so you might want to look by yourself for the accommodation that best suit you on Booking.com and/or Airbnb.com.
+A few tips when you consider booking a room in Paris:
+Check the customers feedback! Try to get a place with high (and many) ratings.
+Check which floor the apartment is on and if there is an elevator.
+If you like a quiet place, try to avoid busy streets (Boulevard or Avenue) and try to check that there is no bar nearby.
+It's ok to stay in an area that is not close to the venue since the metro (subway) system is one of the best in the world. Considering that, try to get a hotel on the same Metro line than the one next to the venue (Bir Hakeim, Champ de mars, Tour Eiffel or Ecole Militaire). Indeed, avoiding changing metro lines will save you lots of time.
+Coworking spaces[edit]
+Coffee shops have become more and more popular over the last three years in Paris. Most of them are located in the 10th Arrondissement of Paris, but you can probably find one near your place of residence.
+Here are our advices:
+Anticafé is a popular chain and has one location near the venue.
+Address: Anticafé Louvres - 10 Rue de Richelieu
+Cost: 5€ an hour / 24€ per day
+Offer: Wifi + unlimited hot and cold beverages, salty and sweet snacks
+A little further from the conference venue, there are many coworking places that also charge by the hour. Most of them are located around the Jacques Bonsergent Metro Station. Here are a few places that we recommend:
+Café Craft - 24 Rue des Vinaigriers, 75010 Paris
+HUBSY République - 9bis Rue Lucien Sampaix, 75010 Paris
+Närmare coworking café - 34-36 Rue du Château d'Eau, 75010 Paris
+Coworkshop - 32 Rue des Vinaigriers, 75010 Paris
+Onzième Lieu - 91 bis Rue Jean-Pierre Timbaud, 75011 Paris
+Last, the following place is located next to Chevaleret Metro station (a station on the same line than Bir Hakeim, the closest station from the venue). That makes it a good option.
+Anticafé Station F - 55 Boulevard Vincent Auriol 75013 Paris
+Retrieved from "https://www.semantic-mediawiki.org/w/index.php?title=SMWCon_Fall_2019&oldid=72810"
+Categories: EventSMWConSMWCon Fall 2019
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+Cite this page
+Browse properties
+ This page was last edited on 23 October 2019, at 10:29.
+Content is available under "Attribution 3.0 Germany" (CC BY 3.0 DE) unless otherwise noted.
+Privacy policy
+About <semantic-mediawiki.org> (Imprint)
+Disclaimers

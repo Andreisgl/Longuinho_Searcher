@@ -1,0 +1,117 @@
+Manual:Article count - MediaWiki
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageGet MediaWikiGet extensionsTech blogContribute
+Support
+User helpFAQTechnical manualSupport deskCommunication
+Development
+Developer portalCode statistics
+MediaWiki.org
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+In other languages
+Add links
+Search
+Search
+ EnglishCreate accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+Beginning
+1Changing the MediaWiki article count settings
+Toggle Changing the MediaWiki article count settings subsection
+1.1MW 1.18 and after
+1.2MW 1.17 and before
+2Updating article count statistics
+3See also
+Toggle the table of contents
+Toggle the table of contents
+Manual:Article count
+ManualDiscussion
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+From mediawiki.org
+Translate this pageLanguages:Deutsch
+English
+Esperanto
+Tiếng Việt
+Türkçe
+español
+français
+italiano
+polski
+čeština
+русский
+中文
+日本語
+The article count is the number of content pages on a wiki.
+It is available from the wiki's Special:Statistics page, from the {{NUMBEROFARTICLES}} magic word, and through a "siteinfo " query via the MediaWiki API.
+By default, a page is counted as an article when:
+it's in the main namespace (meaning its title doesn't have a prefix like "User:" or "Talk:"),
+it contains at least one internal wikilink (e.g. the text "[[Main Page]]" creates a wikilink to the page titled "Main Page"), and
+it isn't a redirect.
+The first criterion can be expanded to consider other namespaces through the use of the $wgContentNamespaces  variable.
+(Note that some Extensions  do this when they are installed.)
+The second criterion can be overridden if the $wgArticleCountMethod  variable is set to the value "any", in which case all non-redirects in content namespaces are counted as articles.
+However, when the value "link" is used — which is the default as defined in DefaultSettings.php  — only pages containing a wikilink are considered.
+This includes both stubs and disambiguation pages, provided they contain links.
+There is no way to change the third criterion.
+Redirects are never counted as articles.
+Changing the MediaWiki article count settings[edit]
+Initially MediaWiki counted a page as an article if it contained at least one comma.
+That method proved to be unreliable in many languages where the comma does not have much or any significance. (See Article count reform for the process which led to this outcome.)
+Before MediaWiki 1.18 , the method used to count articles was determined by the configuration variable $wgUseCommaCount , which was at the same time deprecated and ultimately removed in MediaWiki 1.24 .
+Since 1.18, the variable $wgArticleCountMethod  has been used.
+While article counting based on commas is still relatively common in the wiki world (see, e.g., MeatBall:BiggestWiki), the ability for MediaWiki to do this was completely removed in MediaWiki 1.31 .
+In recent versions of MediaWiki, the existence of links is checked by consulting the pagelinks  database table, so it includes links provided by the transclusion of templates or other pages. Special links such as category links (which place pages into categories) and file links (which display files) do not count when determining the article status of a page, because those links affect different database tables.
+To change to a different method, use one of the following approaches:
+MediaWiki version:
+≥ 1.18
+MW 1.18 and after[edit]
+Define the article count method with the variable $wgArticleCountMethod .
+MW 1.17 and before[edit]
+MediaWiki version:
+≤ 1.17
+If you want to count articles only if they contain a comma, you can set the variable $wgUseCommaCount  to true in LocalSettings.php .
+Updating article count statistics[edit]
+Following a change in article count method you will almost certainly want to recount your wiki to reflect that change (this does not happen automatically). To do so, run updateArticleCount.php  from the command line.
+If you only have access to the database, you can get an approximation to the article count by using a query similar to the following, which only checks page links (similar to the "link" method) in the main namespace:
+SELECT count(distinct(page_id))
+FROM pagelinks
+INNER JOIN page ON pl_from = page_id
+WHERE page_namespace = 0
+AND page_is_redirect = 0;
+See also[edit]
+meta:Article counts revisited (2015)
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Manual:Article_count&oldid=5904602"
+Category: Article
+ This page was last edited on 30 April 2023, at 17:24.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About MediaWiki.org
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

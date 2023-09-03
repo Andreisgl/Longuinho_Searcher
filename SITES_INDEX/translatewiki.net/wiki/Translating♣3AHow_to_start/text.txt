@@ -1,0 +1,62 @@
+Translating:How to start - translatewiki.net
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Translators
+Translation toolProofreadPortal for EnglishTranslations in EnglishNew and changed messages
+Navigation
+NewsSupportFAQDocumentationSite changesActive languages
+Languages
+Language links are at the top of the page across from the title.
+translatewiki.net
+Search
+Search
+ EnglishLog in
+Personal tools
+ Log in
+Translating:How to start
+176 languages
+AfrikaansAlemannischAnarâškielâAsturianuAvañe'ẽAzərbaycancaBahasa IndonesiaBahasa MelayuBikol CentralBoarischBosanskiBrezhonegBritish EnglishBân-lâm-gúCatalàCymraegDanskDavvisámegiellaDeitschDeutschDeutsch (Sie-Form)DolnoserbskiDusun Bundu-liwanEestiEmiliàn e rumagnòlEnglishEspañolEsperantoEuskaraFrançaisFryskFøroysktGaeilgeGalegoHawaiʻiHornjoserbsceHrvatskiHunsrikIdoIkinyarwandaInterlinguaItalianoKarjalKernowekKongoKreyòl ayisyenKriyòl gwiyannenKurdî (latînî)LatinaLatviešuLietuviųLivvinkarjalaLombardLëtzebuergeschMagyarMalagasyMizo ţawngNapulitanoNederlandsNhẽẽgatúNordfriiskNorsk bokmålNorsk nynorskOccitanOromooPiemontèisPolskiPortuguêsPortuguês do BrasilPälzischRipoarischRomânăRumantschScotsShqipSicilianuSlovenčinaSlovenščinaSoomaaligaSrpski (latinica)Srpskohrvatski / српскохрватскиSundaSuomiSvenskaTagalogTaqbaylitTarandíneTiếng ViệtTolışiTûnsîTürkmençeTürkçeVepsän kel’ZazakiÆngliscÍslenskaČeštinaΕλληνικάАварБашҡортсаБеларускаяБеларуская (тарашкевіца)БуряадБългарскиГӀалгӀайКъарачай-малкъарКыргызчаМакедонскиМонголНохчийнРусиньскыйРусскийСаха тылаСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟСрпски (ћирилица)ТатарчаТоҷикӣТыва дылУдмуртУкраїнськаЭрзяньҚазақша (кирил)ԱրեւմտահայերէնՀայերենייִדישעבריתئۇيغۇرچەاردوالعربيةتونسي / Tûnsîتۆرکجهسرائیکیسنڌيفارسیلئری دوٙمینیلۊری شومالیلەکیپنجابیپښتوکوردیދިވެހިބަސްߒߞߏडोटेलीनेपालीभोजपुरीमराठीहिन्दीঅসমীয়াবাংলাਪੰਜਾਬੀગુજરાતીଓଡ଼ିଆதமிழ்తెలుగుಕನ್ನಡತುಳುമലയാളംසිංහලไทยລາວབོད་ཡིགဖၠုံလိက်ဘာသာ မန်မြန်မာဘာသာმარგალურიქართულიភាសាខ្មែរⵜⴰⵎⴰⵣⵉⵖⵜ中文（简体）中文（繁體）客家語/Hak-kâ-ngî日本語湘语ꯃꯤꯇꯩ ꯂꯣꯟ조선말한국어
+TranslatingDiscussion
+English
+ReadView sourceView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadView sourceView history
+General
+What links hereRelated changesSpecial pagesPrintable versionPermanent linkPage information
+From translatewiki.net
+translatewiki.net
+Introduction
+Getting started
+Translation tutorial
+How to start
+See also
+Localisation guidelines
+Translating offline
+FAQ
+Support
+How to start
+Get an account on translatewiki.net
+To get started, the first thing you need is a user account. Creating an account is done in less than a minute and is used to keep track of what you have worked on.
+When creating an account, you go through some test translations to make sure that you have a basic understanding of the languages. These translations are not actually published, but are instead compared to older translations by trusted users before giving you the rights to start translating live messages. That means that the messages you translate will be used in the next update of the program/website!
+Keep in touch
+Support is where you can ask or propose anything.
+The portal in your user interface language (e.g. Portal:en for English) is a central place where you can see some information and activity statistics about the language community. It is also the place to communicate with other translators of the same language and discuss terminology and so on. 
+Special:WebChat allows you to connect to our IRC channel using your web-browser. More help about IRC at m:IRC. In short, you can discuss in real time with the developers and staff of translatewiki.net, assuming we are active there at that time.
+Start translating
+After you have been given permission to translate, your entry point is most likely going to be the translation tool. It lists all the available groups of messages that we have. Most of the translations happen using this tool, see the tutorial.
+Do also check the project page for the software you are translating, as there might be important instructions and tips there. The project pages are linked in the short summary shown on top of the translation interface.
+Retrieved from "https://translatewiki.net/w/i.php?title=Translating:How_to_start&oldid=10746519"
+Categories: HelpFixme
+ This page was last edited on 8 June 2022, at 20:31.
+Privacy policy
+About translatewiki.net
+Disclaimers
+Powered by netcup - netcup.de – Webhosting, vServer, Servermanagement
+Toggle limited content width

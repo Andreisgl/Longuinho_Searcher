@@ -1,0 +1,10 @@
+http://releases.wikimedia.org
+https://releases.wikimedia.org/mediawiki/1.32/mediawiki-1.32.0.tar.gz
+https://releases.wikimedia.org/mediawiki/1.32/mediawiki-core-1.32.0.tar.gz
+https://releases.wikimedia.org/mediawiki/1.32/mediawiki-1.32.0.patch.gz
+https://releases.wikimedia.org/mediawiki/1.32/mediawiki-core-1.32.0.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.32/mediawiki-1.32.0.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.32/mediawiki-1.32.0.patch.gz.sig
+https://www.mediawiki.org/keys/keys.html
+https://www.mediawiki.org/wiki/Release_notes/1.32
+http://hyperkitty.readthedocs.org

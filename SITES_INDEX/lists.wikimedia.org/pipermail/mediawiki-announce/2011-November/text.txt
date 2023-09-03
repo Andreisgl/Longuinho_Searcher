@@ -1,0 +1,188 @@
+ [MediaWiki-announce] MediaWiki Release Candidate 1.18.0rc 1
+   
+[MediaWiki-announce] MediaWiki Release Candidate 1.18.0rc 1
+Sam Reed
+reedy at wikimedia.org
+       
+Fri Nov 18 01:21:18 UTC 2011
+Previous message: [MediaWiki-announce] MediaWiki 1.18 beta 1
+Next message: [MediaWiki-announce] MediaWiki security release 1.17.1
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+I'm happy to announce the availability of the first release candidate of the
+new MediaWiki 1.18 release series.
+Please try it out and let us know what you think. Don't run it on any wikis
+that you really care about, unless you are both very brave and very
+confident in your MediaWiki administration skills.
+MediaWiki 1.18 is a large release that contains many new features and bug
+fixes. This is a summary of the major changes of interest to users. You can
+consult the RELEASE-NOTES file for the full list of changes in this version.
+*********************************************************************
+                             What's new?
+*********************************************************************
+MediaWiki 1.18 brings the usual host of various bugfixes and new features.
+jQuery 1.6.4 is now included as standard, along with numerous more jQuery
+plugins.
+Breaking changes:
+    * action=watch / action=unwatch now requires a token
+As of 1.18, some extensions are now being bundled with the released tarball.
+The following extensions are bundled with MediaWiki as of 1.18. All are
+currently in use on Wikimedia sites.
+* ConfirmEdit - Various CAPTCHA techniques to try to prevent spambots and
+  other automated tools from editing your wiki.
+* Gadgets - A system to allow users to enable or disable JavaScript or
+  CSS tools made available to users site-wide.
+* Nuke - A special page allowing administrators to mass-delete content
+  added by a spammer or vandal.
+* ParserFunctions - Additional parser functions (like #if and #switch to
+  supplement the "magic words" present in MediaWiki.
+* Renameuser - A special page which allows authorized users to rename
+  user accounts.
+* Vector - Enhancements to the Vector skin.
+* WikiEditor - An improved and customizable editing toolbar developed
+  along the Vector skin.
+Major features
+- --------------
+Better gender support
+-- ---------------------
+Until version 1.17, MediaWiki used neutral nouns to address and identify
+users on their user page.
+In English, this was not an issue since "User" matches both genders, but in
+some languages the neutral gender is always masculine; for example, this
+would cause French-speaking female Wikipedia users to be referred to as
+"Utilisateur" (male user) instead of "Utilisatrice" (female user).
+With version 1.18, user pages reflect the user's gender, if they have
+specified it in their preferences.
+More gender support (for instance in logs and user lists) will be available
+in MediaWiki 1.19.
+Improved file metadata support
+-- -----------------------------
+MediaWiki   now detects the camera orientation from Exif metadata, and
+rotates the picture
+preview accordingly. The original file remains  unchanged.
+The   overall metadata support in MediaWiki has been greatly extended.
+Previously, MediaWiki could only
+extract limited Exif metadata, and   showed a subset of it on file
+description pages. Since 1.18, MediaWiki can extract IPTC and XMP metadata
+from uploaded files, and  more Exif information. This includes an embedded
+description, author  information,  GPS coordinates, or copyright statement.
+Improved directionality support
+-- -------------------------------
+A lot of work has been done to fix directionality bugs (Left-To-Right,
+Right-To-Left). Most notably bug 6100 is fixed, which allows to display an
+RTL interface on an LTR wiki properly (and vice versa). This was developed
+under $wgBetterDirectionality, which is now no longer used because the
+improvements are merged with the core code.
+A positive consequence is that the page content on wikis with multiple
+scripts is aligned according to the direction of the selected variant. For
+example, on a Kazakh language wiki, selecting the Arabic script variant will
+align the text as RTL, while selecting the Latin or Cyrillic variant will
+align it as LTR.
+Easily find where to customize interface messages
+-- ---------------------------------------------
+MediaWiki allows you to customize the user interface by editing pages in the
+MediaWiki namespace.
+However, even though they can be viewed at Special:AllMessages] the sheer
+number of these messages makes it difficult to find which one needs to be
+customized. In MediaWiki 1.18, a new pseudo-language is introduced (qqx) to
+help people find such messages, by displaying the messages' key instead of
+the actual messages. All one has to do is append ?uselang=qqx to the page's
+index.php/ URL (see
+https://www.mediawiki.org/w/index.php?title=MediaWiki_1.18&uselang=qqx as an
+example).
+New plugin for collapsible elements
+-- -----------------------------------
+The new jQuery.makeCollapsible allows you to create collapsible tables,
+lists and so on, by adding the class mw-collapsible to the elements.
+See the manual for details:
+https://www.mediawiki.org/wiki/Manual:Collapsible_elements
+Protocol-relative URLs
+-- ----------------------
+MediaWiki now supports protocol- relative URLs in links, interwiki targets
+and $wgServer.
+Protocol-relative URLs look like //example.com/wiki/Foo ; the browser will
+recognize this as http://example.com/wiki/Foo when following a link from an
+HTTP page, and https://example.com/wiki/Foo when following a link from an
+HTTPS page.
+This way, protocol-relative URLs enable a wiki to support HTTP and HTTPS
+while serving the same HTML for both, which means the parser cache doesn't
+have to be split.
+More personalisable styles and scripts
+-- --------------------------------------
+MediaWiki now automatically loads javascript and stylesheets more specific
+to each user.
+There is a separate CSS and JS file for each usergroup
+(MediaWiki:Group-sysop.css, MediaWiki:Group-autoconfirmed.js, etc), and also
+a CSS file for users viewing without JavaScript (MediaWiki:Noscript.css).
+Other changes
+-- -------------
+$wgEnableDublinCoreRdf and $wgEnableCreativeCommonsRdf no longer work in
+core, and the functionality has been moved to the relevant extensions.
+See http://www.mediawiki.org/wiki/Extension:DublinCoreRdf and
+http://www.mediawiki.org/wiki/Extension:CreativeCoreRdf as appropriate
+Math
+-  ----
+$wgUseTeX has been superseded by the Math extension. To re-enable math
+conversion after upgrading, obtain the Math extension from SVN or from
+http://www.mediawiki.org/wiki/Extension:Math and add to LocalSettings.php:
+require_once "$IP/extensions/Math/Math.php";
+Language support
+- ----------------
+As with every release, MediaWiki 1.18 brings improved support for languages
+in MediaWiki, with improved translation and features for the many supported
+languages.
+New languages:
+* Angika (anp)
+* Brahui (brh)
+* Central Dusun (dtp)
+* Jamaican Creole English (jam)
+* Khowar (khw)
+* Liv (liv)
+* Kichwa (qug)
+API
+- ---
+API bug fixes and new features have been added to 1.18, providing more
+options for input and output.
+    * API modules were added to access QueryPage based special
+      pages, to Compare pages, Revert files, and to be able to access
+      other special pages such as Special:UnwatchedPages,
+      Special:MimeSearch and Special:ActiveUsers
+    * The output of the generated help page has been improved
+The API contains a breaking changes against previous releases:
+    * action=watch now requires POST and token.
+Other
+- -----
+Our thanks go to everyone who helped to improve MediaWiki by testing the
+beta release and submitting bug reports and patches.
+Release notes
+- -------------
+Complete release notes are at
+http://www.mediawiki.org/wiki/Release_notes/1.18
+**********************************************************************
+Download:
+http://download.wikimedia.org/mediawiki/1.18/mediawiki-1.18.0rc1.tar.gz
+Patch to previous version (1.18.0beta1), without interface text:
+http://download.wikimedia.org/mediawiki/1.18/mediawiki-1.18.0rc1.patch.gz
+Interface text changes:
+http://download.wikimedia.org/mediawiki/1.18/mediawiki-i18n-1.18.0rc1.patch.
+gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.18/mediawiki-1.18.0rc1.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.18/mediawiki-1.18.0rc1.patch.gz.si
+g
+http://download.wikimedia.org/mediawiki/1.18/mediawiki-i18n-1.18.0rc1.patch.
+gz.sig
+Public keys:
+https://secure.wikimedia.org/keys.html
+Previous message: [MediaWiki-announce] MediaWiki 1.18 beta 1
+Next message: [MediaWiki-announce] MediaWiki security release 1.17.1
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+More information about the MediaWiki-announce
+mailing list

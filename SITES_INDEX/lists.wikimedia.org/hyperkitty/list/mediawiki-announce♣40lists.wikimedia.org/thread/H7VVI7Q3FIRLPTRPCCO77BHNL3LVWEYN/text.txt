@@ -1,0 +1,405 @@
+Announcing MediaWiki 1.36.0 - MediaWiki-announce - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+            List overview
+       All Threads
+ Download
+newer
+Announcing MediaWiki 1.36.0
+older
+Security pre-release announcement:...
+MediaWiki 1.31 will soon be...
+ 
+First Post
+Replies
+Stats
+Threads by month 
+----- 2023 -----
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2022 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2021 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2020 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2019 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2018 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2017 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2016 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2015 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2014 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2013 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2012 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2011 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2010 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2009 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2008 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2007 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2006 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2005 -----
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+----- 2004 -----
+December
+ 
+Sam Reed
+                28 May
+                
+                    2021
+                
+            
+                28 May
+                
+                '21
+                
+            
+3:22 a.m.
+ 
+I am happy to announce the availability of the general release of MediaWiki
+1.36!
+
+Tarballs have already been uploaded, and the git tag has been pushed.
+
+Please note that MediaWiki 1.36 now requires the PHP internationalization
+extension, commonly referred to as Intl, ext-intl, or php-intl.
+
+As a reminder, 1.31 (the old LTS) is due to become end of life in June
+2021. 1.35 (the new LTS) is supported until September 2023. However, to try
+and meet our LTS-LTS overlap commitments (1.35 was late due to COVID), 1.31
+will get best-efforts extra support until the end of September 2021.
+Practically, this will mean 1.31 is only tested on PHP 7.2, removing the
+burden of testing on PHP 7.0 and 7.1 which both became EOL in 2019.
+
+It is also noted that the patch from MediaWiki 1.36.0-rc.0 to MediaWiki
+1.36.0 (mediawiki-1.36.0.patch.gz/mediawiki-1.36.0.patch.zip) is larger
+than expected due to an issue with the initial importing of skins and
+extensions as submodules into the REL1_36 branch. A bug has been filed for
+this issue, but doesn't cause any practical issues otherwise.
+
+MediaWiki 1.36 will be supported until May 2022.
+
+MediaWiki 1.37 is due to be released in November 2021.
+
+=== Changes since MediaWiki 1.36.0-rc.0 ===
+* (T248481) rdbms: Use server time in
+DatabaseMysqlBase::getLagFromPtHeartbeat().
+* (T281549) WebInstaller: Don't show the announce-l subscribe checkbox for
+now.
+* (T264214) Follow-ups for UserGroupManager.
+* (T282280) resourceloader: Fix path-only URLs in wiki modules when script
+path is docroot.
+* (T281972) UserIdentityValue: Introduce convenience static factory methods.
+* (T230428) Make page_is_redirect and page_is_new unsigned.
+* (T280292) Legacy feature should not load thumbnail style rules (only
+layout).
+* (T283247) Freenode -> Libera per wikimedia moving from freenode to libera.
+* (T280270) composer: Lock Parsoid version to specific 0.13.0 release.
+* (T142663) Add extension.json merge strategy "provide_default".
+* (T283540) HookContainer: Fix normalization of callback for static handler.
+* (T283464) registration: Fix array order for array_replace_recursive merge
+strategy.
+* (T283539) Interwiki: Fix calling "onInterwikiLoadPrefix" hook.
+* (T282594) Timeless: Re-branch to 40eb3dad1for REL1_36.
+
+Open Bugs:
+[1] https://phabricator.wikimedia.org/project/board/4555/
+
+Bug report form:
+[2]
+https://phabricator.wikimedia.org/maniphest/task/edit/form/1/?tags=MW-1.36-…
+
+**********************************************************************
+Download:
+https://releases.wikimedia.org/mediawiki/1.36/mediawiki-1.36.0.tar.gz
+https://releases.wikimedia.org/mediawiki/1.36/mediawiki-1.36.0.zip
+
+Download without bundled extensions:
+https://releases.wikimedia.org/mediawiki/1.36/mediawiki-core-1.36.0.tar.gz
+https://releases.wikimedia.org/mediawiki/1.36/mediawiki-core-1.36.0.zip
+
+Patch to previous version (1.36.0-rc.0):
+https://releases.wikimedia.org/mediawiki/1.36/mediawiki-1.36.0.patch.gz
+https://releases.wikimedia.org/mediawiki/1.36/mediawiki-1.36.0.patch.zip
+
+GPG signatures:
+https://releases.wikimedia.org/mediawiki/1.36/mediawiki-core-1.36.0.tar.gz.…
+https://releases.wikimedia.org/mediawiki/1.36/mediawiki-core-1.36.0.zip.sig
+https://releases.wikimedia.org/mediawiki/1.36/mediawiki-1.36.0.zip.sig
+https://releases.wikimedia.org/mediawiki/1.36/mediawiki-1.36.0.patch.zip.sig
+
+Public keys:
+https://www.mediawiki.org/keys/keys.html
+
+Release Notes
+https://www.mediawiki.org/wiki/Release_notes/1.36
+ 1
+ 0
+            Reply
+        
+Show replies by date
+828
+                days inactive
+            
+828
+                days old
+            
+ 
+            mediawiki-announce@lists.wikimedia.org
+        
+        Manage subscription
+        0 comments
+    
+        1 participants
+    
+Add to favorites
+Remove from favorites
+tags (0)
+        
+    
+participants (1)
+        
+Sam Reed
+ 
+            Powered by HyperKitty version 1.3.4.
+        

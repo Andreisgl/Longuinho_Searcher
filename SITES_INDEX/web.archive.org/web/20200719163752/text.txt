@@ -1,0 +1,218 @@
+Language choice, education and community identity | SIL International
+13 captures
+06 Dec 2015 - 09 Jul 2023
+Dec
+JUL
+Mar
+19
+2015
+2020
+2022
+success
+fail
+ About this capture
+COLLECTED BY
+Organization: Archive Team
+ Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+The main site for Archive Team is at archiveteam.org and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the Wayback Machine, providing a path back to lost websites and work. 
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+The Archive Team Panic Downloads are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+Collection: ArchiveBot: The Archive Team Crowdsourced Crawler
+  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+There is a dashboard running for the archivebot process at http://www.archivebot.com.
+ArchiveBot's source code can be found at https://github.com/ArchiveTeam/ArchiveBot.
+TIMESTAMPS
+The Wayback Machine - http://web.archive.org/web/20200719163752/https://www.sil.org/resources/archives/5099
+Skip to main content
+ 
+SIL International
+Search form
+Search 
+ 
+ 
+Home
+Shopping cart (0 items)
+Contact Us
+DonateOnline
+Check
+Matching Gifts
+Sign In
+ 
+ 
+Language DevelopmentLanguage DevelopmentCommunities developing resources and competencies for using their languagesDomains:Dictionaries & Lexicography
+Language Assessment
+Language Programs Management
+Language Technology
+Literacy & Education
+Media Development
+Orthography
+Translation
+Language & CultureLanguage & CultureFoundational understanding for language development work of all kindsDomains:Anthropology
+Arts & Ethnomusicology
+Language & Culture Documentation
+Language & Culture Learning
+Linguistics
+Sign Languages
+Sociolinguistics
+ResourcesResourcesPublications, fonts and computer tools for language development, translation and researchResources:Glossaries of Linguistic Terms
+Language & Culture Archives
+SIL International Publications
+Software & Fonts
+TrainingTrainingSIL offers training in disciplines relevant to sustainable language development.Training:About Training
+For Specialties
+Online Training
+Programs
+WorldwideWorldwideOver 7,000 languages are spoken or signed. CLICK for map of world languages & regional websites.On Location
+Why Languages Matter
+Endangered Languages
+International Relations
+Sign Languages
+About SILAboutSIL's commitment to see people flourishing using the languages they value most.Discover SIL
+Administration
+Senior Consultants
+Our History
+Annual Updates
+FAQ
+Financial Information
+Media Center
+News
+ 
+  
+ 
+ 
+Language choice, education and community identity
+ 
+Files:
+AttachmentSize 
+ BTrudell_Language_choice_education_and_community_identity_2005_preprint.pdf386.37 KB 
+Statement of Responsibility:
+Trudell, Barbara
+Authors:
+Trudell, Barbara
+Series:
+International Journal of Educational Development
+Issue Date:
+2005
+Is Part Of Series:
+International Journal of Educational Development 25
+Extent:
+pages 237-251
+Abstract:
+This paper is an examination of the pedagogical and cultural impact of the PROPELCA (Operational Research Project for the Teaching of Cameroonian Languages) mother-tongue education program being implemented in the Bafut,Kom and Nso’ language communities of the Northwest Province of Cameroon. Using research carried out in 2002–2003,the author compares the instructional quality and cultural relevance of the PROPELCA program with those of the standard English-medium primary classroom as found in those communities. The author argues that mother-tongue education can play a vital role in broader movements aimed at minority language development and improved educational effectiveness.
+Publication Status:
+Published
+Country:
+Cameroon
+Subject Languages:
+Bafut [bfd]
+Kom (Cameroon) [bkm]
+Lamnso' [lns]
+Content Language:
+English [eng]
+Field:
+Language Program Management
+Literacy and Education
+Sociolinguistics
+Work Type:
+Journal article
+Subject:
+Literacy programs
+Language programs
+Language policy
+Nature of Work:
+Text
+Entry Number:
+5099
+ 
+ 
+Register on SIL.org
+To enable us to better serve you, we invite you to create an account on SIL.org. Registration is fast and secure. Please log in or register.
+ 
+Register on SIL
+ 
+ 
+ 
+Language Development
+Dict & Lexicography
+Lang Assessment
+Lang Programs Mgt.
+Lang Technology
+Literacy & Education
+Media Development
+Orthography
+Translation
+ 
+ 
+Language & Culture
+Anthropology
+Arts & Ethnomusicology
+L & C Documentation
+L & C Learning
+Linguistics
+Sign Languages
+Sociolinguistics
+ 
+ 
+Resources
+Glossaries Ling Terms
+L & C Archives
+Publications
+Software & Fonts
+Related Sites
+Ethnologue
+ScriptSource
+Webonary
+ISO 639-3
+Pike Center
+ 
+ 
+Training
+About SIL Training
+For Specialists
+Programs
+Worldwide
+On Location
+Why Languages Matter
+Endangered Languages
+International Relations
+Sign Languages
+ 
+ 
+About SIL
+Discover SIL
+Administration
+Consultants
+Our History
+Annual Updates
+FAQs
+Financial Information
+Media Center
+News
+ 
+ 
+SIL International Publications
+About SIL Publications
+FAQs
+Contact SIL Publications
+Get Involved
+Donate Online
+Donate by Check
+Matching Gifts
+Contact Us
+ 
+ 
+Facebook
+Twitter
+YouTube
+ 
+Copyright © 2020 SIL International
+Terms of Use   |   Privacy Policy   |   External Links Disclaimer
+ 
+ 
+ 
+ 
+ 
+ 

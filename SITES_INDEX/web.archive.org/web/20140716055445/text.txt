@@ -1,0 +1,95 @@
+It's Time to Talk About Free Software Again
+167 captures
+03 Aug 2004 - 24 Jun 2023
+Sep
+JUL
+Mar
+16
+2013
+2014
+2015
+success
+fail
+ About this capture
+COLLECTED BY
+Organization: Internet Archive
+  The Internet Archive discovers and captures web pages through many different web crawls.
+
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+
+View the web archive through the Wayback Machine.
+Collection: Wide Crawl started June 2014
+  Web wide crawl with initial seedlist and crawler configuration from June 2014.
+TIMESTAMPS
+The Wayback Machine - http://web.archive.org/web/20140716055445/https://lists.debian.org/debian-devel/1999/02/msg01641.html
+[Date Prev][Date Next]
+[Thread Prev][Thread Next]
+[Date Index]
+[Thread Index]
+It's Time to Talk About Free Software Again
+To: debian-devel@lists.debian.org
+Subject: It's Time to Talk About Free Software Again
+From: Bruce Perens <bruce@k6bp.hams.com>
+Date: Wed, 17 Feb 1999 19:29:15 -0800
+Message-id: <199902180329.TAA09774@k6bp.hams.com>
+It's Time to Talk about Free Software Again
+I'm Bruce Perens. You may know me as the primary author of the Debian Free
+Software Guidelines and the Open Source Definition. I wrote the Electric
+Fence malloc() debugger, and some pieces of Debian. And you may remember
+me for having brought the TIGER map database to free software. If you want
+copies of that, you can get them through Dale Scheetz <dwarf@polaris.net>.
+About a year ago, I sent out a message announcing "Open Source". Eric Raymond
+and I founded the Open Source Initiative as a way of introducing the non-hacker
+world to Free Software. Well, thanks to Eric, the world noticed. And now it's
+time for the second stage: Now that the world is watching, it's time for us
+to start teaching them about Free Software. Notice, I said Free Software,
+_not_ Open Source.
+Most hackers know that Free Software and Open Source are just two words for
+the same thing. Unfortunately, though, Open Source has de-emphasized the
+importance of the freedoms involved in Free Software. It's time for us to
+fix that. We must make it clear to the world that those freedoms are still
+important, and that software such as Linux would not be around without them.
+One of the unfortunate things about Open Source is that it overshadowed the
+Free Software Foundation's efforts. This was never fair - although some
+disapprove of Richard Stallman's rhetoric and disagree with his belief that
+_all_ software should be free, the Open Source Definition is entirely
+compatible with the Free Software Foundation's goals, and a schism between
+the two groups should never have been allowed to develop. I objected to that
+schism, but was not able to get the two parties together. Another unfortunate
+fact is the certification mark dispute which has gone on between Software in
+the Public Interest and the Open Source Initiative for a whole year. That was
+entirely my fault.
+Sadly, as I've tended toward promotion of Free Software rather than Open
+Source, Eric Raymond seems to be losing his free software focus. The Open
+Source certification mark has already been abused in ways I find
+unconscionable and that I will not abide. I fear that the Open Source
+Initiative is drifting away from the Free Sofware values with which we
+originally created it. It's ironic, but I've found myself again siding with
+Software in the Public Interest and the Free Software Foundation, much as I
+did in 1995. I feel that the Open Source Definition, which was copied from
+the Debian Free Software Guidelines, should still be our touchstone, and I'll
+be working to promote software that fits that definition.
+Thanks
+Bruce Perens
+Reply to:
+debian-devel@lists.debian.org
+Bruce Perens (on-list)
+Bruce Perens (off-list)
+Follow-Ups:
+RE: It's Time to Talk About Free Software Again
+From: Shaleh <shaleh@livenet.net>
+Re: It's Time to Talk About Free Software Again
+From: Ben Pfaff <pfaffben@pilot.msu.edu>
+Re: It's Time to Talk About Free Software Again
+From: Tor Slettnes <tor@slett.net>
+Prev by Date:
+Re: Debian/GNU Freebsd
+Next by Date:
+Re: Debian/GNU Freebsd
+Previous by thread:
+Re: Thread-safe X11 libs? (fwd)
+Next by thread:
+RE: It's Time to Talk About Free Software Again
+Index(es):
+Date
+Thread

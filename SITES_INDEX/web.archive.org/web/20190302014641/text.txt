@@ -1,0 +1,158 @@
+福州语罗马字拍字法（macOS版） - 顯字拍字 -  海墘閩語論壇 守護閩語 中興閩文
+10 captures
+02 Mar 2019 - 26 Mar 2023
+Feb
+MAR
+Jun
+02
+2018
+2019
+2020
+success
+fail
+ About this capture
+TIMESTAMPS
+The Wayback Machine - http://web.archive.org/web/20190302014641/https://www.ispeakmin.com/bbs/viewthread.php?tid=8970
+註冊
+登錄
+海墘闽语论坛QQ群：22827077
+論壇搜索幫助導航
+海墘閩語論壇 » 顯字拍字 » 福州语罗马字拍字法（macOS版）
+返回列表
+回復
+發帖
+發新話題發佈投票發佈懸賞發佈辯論發佈活動發佈視頻發佈商品
+GnuDoyng
+發短消息
+加為好友
+GnuDoyng
+(牛寒知)當前離線
+GnuDoyng reborn...
+UID3 帖子4384 精華2 積分5059 閱讀權限200 來自Canada 在線時間1104 小時 註冊時間2007-6-18 最後登錄2019-2-16 
+管理員
+母語Foochow 來自Canada 
+1#
+打印
+字體大小: tT
+發表於 2016-8-1 14:45
+ | 只看該作者
+福州语罗马字拍字法（macOS版）
+本拍字法基于Ukelele软件开发（http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele），操作系统为macOS Sierra。
+鉴于macOS和Windows系统对于Unicode字符处理之间的差异性，本拍字法在新兆熙版Windows输入法的基础上做了若干简化调整。安装方法如下：
+一、下载附件
+ foochow_romanized.keylayout (23.54 KB)
+下載次數: 12
+2016-8-1 14:45
+，并复制到目录“/Library/Keyboard Layouts/”下。如图。
+2016-8-1 14:45
+（通过spotlight search定位该目录）
+2016-8-1 14:56
+（系统目录下文件的增删改变动需要验证管理员密码）
+二、登出再重新登入系统。
+三、进入系统的键盘设置，从others中选择Foochow Romanized输入法，如图。
+2016-8-1 14:56
+四、在右上方状态栏的语言输入法中勾选Foochow Romanized，即可使用，如图。
+2016-8-1 14:56
+收藏
+分享
+評分
+Three C's define me: Chinese by birth; Canadian by choice; Christian by grace.
+回復
+引用
+訂閱
+TOP
+GnuDoyng
+發短消息
+加為好友
+GnuDoyng
+(牛寒知)當前離線
+GnuDoyng reborn...
+UID3 帖子4384 精華2 積分5059 閱讀權限200 來自Canada 在線時間1104 小時 註冊時間2007-6-18 最後登錄2019-2-16 
+管理員
+母語Foochow 來自Canada 
+2#
+發表於 2016-8-1 15:52
+ | 只看該作者
+拍字方法
+福州语的元音及声调丰富，因此与其他汉语系罗马字相比，福州语罗马字包含丰富的声调符号及变元音屎点的特殊元音字母。拍字原则是：永远先输入dead key，再输入对应字母，两步完成，直接得到相应的特殊元音字母。
+针对平话字的五个声调符号外加一对屎点，键盘上共设计了六个dead key，对应如下。
+阴平／阳入（˘），对应dead key“]”，。
+上声（¯），对应dead key“\”。
+阴去／阴入（ˊ），对应dead key“/”。
+阳平（`），对应dead key“`”。
+阳去（ˆ），对应dead key“[”。
+变元音（¨），符号为字母下方的屎点（Mac系统无法单独处理该字符），对应dead key“=”。注意⚠️：此dead key仅用于输入不带声调符号的屎点字母（如“a̤”）。
+综上所述，所有dead key都是直接从键盘激活，不需要使用shift或其他附加按键。除阳平符号“`”的dead key位于左上角、由左手小拇指激活外，其他所有dead key都分布于键盘最右侧，可由右手小拇指激活。阳平符号“`”的dead key同左上角键盘字符“`”，阴去、阴入符号“ˊ”在形状上类似右下角“/”字符。阳去（ˆ）、阴平／阳入（˘）、上声（¯）这三个声调号对应的dead key的上方字符分别是“{”、“}”、和“|”，把它们顺时针旋转90度，可得到类似“ˆ”、“˘”、和“¯”的符号。双屎点形同“等号”。结合图形，这六个dead key非常便于使用者记忆上手。
+对于带声调符号的屎点字母（如“ò̤”）的处理方法和Windows新兆熙输入法差异较大。此类字符在本拍字法中视为“声调符号+屎点字母”（` + o̤），屎点字母直接从键盘上借用对应元音字母相邻的辅音字母，从而大幅简化输入方案。具体如下：
+a̤，借用字母a相邻的字母s。
+e̤，借用字母e相邻的字母r。
+o̤，借用字母o相邻的字母p。
+ṳ，借用字母u相邻的字母y。
+举例，欲输入带符号的屎点字母“ê̤”，先按下“[”激活dead key，再按下e附近的辅音字母r，即可。
+Three C's define me: Chinese by birth; Canadian by choice; Christian by grace.
+回復
+引用
+TOP
+GnuDoyng
+發短消息
+加為好友
+GnuDoyng
+(牛寒知)當前離線
+GnuDoyng reborn...
+UID3 帖子4384 精華2 積分5059 閱讀權限200 來自Canada 在線時間1104 小時 註冊時間2007-6-18 最後登錄2019-2-16 
+管理員
+母語Foochow 來自Canada 
+3#
+發表於 2016-8-1 15:58
+ | 只看該作者
+以下为dead key的键盘布局，以小写字母为例，大写字母的规则完全相同，恕不赘述。请用户结合上一贴仔细体会，记忆。尤其关注dead key的位置以及屎点字母的替代辅音字母。
+2016-8-1 15:58
+阴平阳入
+2016-8-1 15:58
+上声
+2016-8-1 15:58
+阴去阴入
+2016-8-1 15:58
+阳平
+2016-8-1 15:58
+阳去
+2016-8-1 15:58
+变元音，仅用于输入不带声调符号的屎点字母。读者可能已注意到，此键盘布局下的元音和相邻辅音所输出的屎点字母是完全相同的。牛某人如此设计乃是有意为之，便于用户加深对屎点字母替代辅音字母的记忆。
+Three C's define me: Chinese by birth; Canadian by choice; Christian by grace.
+回復
+引用
+TOP
+GnuDoyng
+發短消息
+加為好友
+GnuDoyng
+(牛寒知)當前離線
+GnuDoyng reborn...
+UID3 帖子4384 精華2 積分5059 閱讀權限200 來自Canada 在線時間1104 小時 註冊時間2007-6-18 最後登錄2019-2-16 
+管理員
+母語Foochow 來自Canada 
+4#
+發表於 2016-8-1 16:12
+ | 只看該作者
+其他特殊字符的键盘布局
+shift⇧功能键和美式键盘基本雷同，仅作一处修改，即把美元符号$换成中国更常用的人民币符号¥。如图。
+2016-8-1 16:12
+option⌥功能键用于切换至其他字符，布局如图。
+2016-8-1 16:12
+⌥ + 4 = $
+⌥ + 任何一个dead key = dead key对应的声调号
+⌥ + c = Č
+⌥ + n = Ŋ
+最后两个特殊字符仅为福州语维基百科的编辑而设计。出于简化考虑，未引入国际音标等其他语言学常用字符。
+使用者可在此拍字法基础上任意修改、扩展、再发布，但不可用作商业目的。
+Three C's define me: Chinese by birth; Canadian by choice; Christian by grace.
+回復
+引用
+TOP
+返回列表
+海墘閩語論壇
+|聯繫我們
+|Archiver|WAP
+GMT+8, 2019-3-2 09:46, Processed in 0.052566 second(s), 6 queries.
+Powered by Discuz! 7.0.0
+© 2001-2009 Comsenz Inc.

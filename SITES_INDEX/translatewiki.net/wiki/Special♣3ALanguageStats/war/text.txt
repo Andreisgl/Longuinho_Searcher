@@ -1,0 +1,13264 @@
+Language statistics - translatewiki.net
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Translators
+Translation toolProofreadPortal for EnglishTranslations in EnglishNew and changed messages
+Navigation
+NewsSupportFAQDocumentationSite changesActive languages
+translatewiki.net
+Search
+Search
+ EnglishLog in
+Personal tools
+ Log in
+Language statistics
+Help
+Translate
+English
+Language statisticsMessage group statisticsExport
+Tools
+Tools
+move to sidebar
+hide
+Actions
+Language statisticsMessage group statisticsExport
+General
+Special pagesPrintable version
+This page shows translation statistics for all message groups for a language.
+Display preferencesLanguage code:Suppress completely translated message groupsSuppress completely untranslated message groups
+Show statistics
+Translation statistics for Waray (recent translations).
+Message group
+Messages
+Untranslated
+Completion
+Reviewed
+Outdated
+Ajapaik
+1,039
+1,039
+0%
+0%
+0%
+Ajapaik Android app
+109
+109
+0%
+0%
+0%
+Ajapaik Flutter Application
+30
+30
+0%
+0%
+0%
+Ajapaik Web app
+605
+605
+0%
+0%
+0%
+Ajapaik Web app - JavaScript
+285
+285
+0%
+0%
+0%
+Anvesha
+22
+22
+0%
+0%
+0%
+Blockly
+576
+576
+0%
+0%
+0%
+Blockly Core
+317
+317
+0%
+0%
+0%
+Blockly Games
+259
+259
+0%
+0%
+0%
+BookReader
+107
+107
+0%
+0%
+0%
+Cita
+232
+232
+0%
+0%
+0%
+CitationHunt
+51
+51
+0%
+0%
+0%
+CodevTT
+1,381
+1,381
+0%
+0%
+0%
+Colorless echo JavaScript kit
+1,275
+1,275
+0%
+0%
+0%
+Commons Android App
+676
+676
+0%
+0%
+0%
+Commons Android App (errors)
+4
+4
+0%
+0%
+0%
+Commons Android App (interface)
+672
+672
+0%
+0%
+0%
+Commons Mass Description
+30
+30
+0%
+0%
+0%
+Convenient Discussions
+396
+396
+0%
+0%
+0%
+CopyPatrol
+95
+95
+0%
+0%
+0%
+DiscordWikiBot
+77
+77
+0%
+0%
+0%
+Dissemin
+713
+713
+0%
+0%
+0%
+Dissemin papers
+20
+20
+0%
+0%
+0%
+Dissemin website
+693
+693
+0%
+0%
+0%
+Encyclopedia of Life
+3,133
+3,133
+0%
+0%
+0%
+Encyclopedia of Life - Devise (Authentication)
+53
+53
+0%
+0%
+0%
+Encyclopedia of Life - Website
+3,080
+3,080
+0%
+0%
+0%
+Etherpad lite
+270
+270
+0%
+0%
+0%
+Etherpad lite core
+160
+160
+0%
+0%
+0%
+Etherpad lite plugin Administrate pads
+20
+20
+0%
+0%
+0%
+Etherpad lite plugin Align text
+5
+5
+0%
+0%
+0%
+Etherpad lite plugin Author follow
+2
+2
+0%
+0%
+0%
+Etherpad lite plugin Author hover
+3
+3
+0%
+0%
+0%
+Etherpad lite plugin Comments and annotations
+24
+24
+0%
+0%
+0%
+Etherpad lite plugin Desktop notifications
+1
+1
+0%
+0%
+0%
+Etherpad lite plugin Embed Media
+4
+4
+0%
+0%
+0%
+Etherpad lite plugin Font color
+7
+7
+0%
+0%
+0%
+Etherpad lite plugin Font size
+1
+1
+0%
+0%
+0%
+Etherpad lite plugin Guest
+2
+2
+0%
+0%
+0%
+Etherpad lite plugin Headings
+7
+7
+0%
+0%
+0%
+Etherpad lite plugin Image Upload
+4
+4
+0%
+0%
+0%
+Etherpad lite plugin Markdown
+1
+1
+0%
+0%
+0%
+Etherpad lite plugin Pad list
+4
+4
+0%
+0%
+0%
+Etherpad lite plugin Set title
+2
+2
+0%
+0%
+0%
+Etherpad lite plugin Spellcheck
+1
+1
+0%
+0%
+0%
+Etherpad lite plugin Subscript and superscript
+2
+2
+0%
+0%
+0%
+Etherpad lite plugin Table of contents
+2
+2
+0%
+0%
+0%
+Etherpad lite plugin WebRTC
+14
+14
+0%
+0%
+0%
+Etherpad lite plugin What have I missed
+3
+3
+0%
+0%
+0%
+Etherpad lite plugin Who did what
+1
+1
+0%
+0%
+0%
+FreeCol
+3,221
+3,221
+0%
+0%
+0%
+FUDforum
+1,155
+1,155
+0%
+0%
+0%
+GapFinder
+35
+35
+0%
+0%
+0%
+Global Search
+50
+50
+0%
+0%
+0%
+Global user contributions
+15
+15
+0%
+0%
+0%
+Glossary pages
+480
+480
+0%
+0%
+0%
+Project:Terminology gadget
+39
+39
+0%
+0%
+0%
+Translating:MediaWiki/Basic glossary
+381
+381
+0%
+0%
+0%
+Translating:MediaWiki/Basic glossary: Preface
+18
+18
+0%
+0%
+0%
+Translating:MediaWiki/Basic glossary: Tips for maintainers
+10
+10
+0%
+0%
+0%
+Translating:MediaWiki/Basic glossary: Tips for translators
+32
+32
+0%
+0%
+0%
+Grant Metrics
+205
+205
+0%
+0%
+0%
+Huggle
+890
+890
+0%
+0%
+0%
+ia-upload
+53
+53
+0%
+0%
+0%
+Interaction Timeline
+36
+36
+0%
+0%
+0%
+Internet Archive Bot
+810
+810
+0%
+0%
+0%
+Intuition
+596
+596
+0%
+0%
+0%
+CommunityTechBot
+14
+14
+0%
+0%
+0%
+DCAT-AP
+7
+7
+0%
+0%
+0%
+Intuition - Catdown
+23
+23
+0%
+0%
+0%
+Intuition - CommonsHelper 2
+44
+44
+0%
+0%
+0%
+Intuition - Cvn Overlay
+6
+6
+0%
+0%
+0%
+Intuition - General
+18
+18
+0%
+0%
+0%
+Intuition - GetWikiAPI
+6
+6
+0%
+0%
+0%
+Intuition - Grep
+14
+14
+0%
+0%
+0%
+Intuition - Intuition - Core
+7
+7
+0%
+0%
+0%
+Intuition - Jarry
+5
+5
+0%
+0%
+0%
+Intuition - Krinkle
+5
+5
+0%
+0%
+0%
+Intuition - Rtrc
+57
+57
+0%
+0%
+0%
+Intuition - Template transclusion check
+22
+22
+0%
+0%
+0%
+Intuition - Templatecount
+9
+9
+0%
+0%
+0%
+Intuition - Toolserver status
+14
+14
+0%
+0%
+0%
+Intuition - Ts Reports
+39
+39
+0%
+0%
+0%
+Intuition - User Dashboard
+15
+15
+0%
+0%
+0%
+Intuition - Voiceintro
+12
+12
+0%
+0%
+0%
+Intuition - What leaves here
+20
+20
+0%
+0%
+0%
+Intuition - Wikiviewstats
+127
+127
+0%
+0%
+0%
+OrphanTalk
+21
+21
+0%
+0%
+0%
+Raun
+33
+33
+0%
+0%
+0%
+reFill
+78
+78
+0%
+0%
+0%
+ISA
+316
+316
+0%
+0%
+0%
+jQuery.ULS
+15
+5
+66%
+0%
+20%
+Kiwix
+605
+605
+0%
+0%
+0%
+Kiwix Android
+315
+315
+0%
+0%
+0%
+Kiwix Android (app)
+7
+7
+0%
+0%
+0%
+Kiwix Android (custom)
+2
+2
+0%
+0%
+0%
+Kiwix Desktop
+152
+152
+0%
+0%
+0%
+Kiwix Serve
+48
+48
+0%
+0%
+0%
+MWoffliner MediaWiki scraper
+3
+3
+0%
+0%
+0%
+PhET Interactive Simulations
+78
+78
+0%
+0%
+0%
+lib.reviews
+518
+518
+0%
+0%
+0%
+LibreMesh
+180
+180
+0%
+0%
+0%
+LibreMesh - Booklet 1: Networks
+39
+39
+0%
+0%
+0%
+LibreMesh - Booklet 2: Planning
+33
+33
+0%
+0%
+0%
+LibreMesh - Lime App
+38
+38
+0%
+0%
+0%
+LibreMesh - Web UI
+70
+70
+0%
+0%
+0%
+Lingua Libre SignIt
+30
+30
+0%
+0%
+0%
+MantisBT
+1,464
+1,464
+0%
+0%
+0%
+MantisBT - Core
+1,383
+1,383
+0%
+0%
+0%
+MantisBT - Gravatar
+2
+2
+0%
+0%
+0%
+MantisBT - Mantis Core Formatting
+12
+12
+0%
+0%
+0%
+MantisBT - Mantis Graph
+45
+45
+0%
+0%
+0%
+MantisBT - Xml Import Export
+22
+22
+0%
+0%
+0%
+Map of Monuments
+17
+17
+0%
+0%
+0%
+MassMailer
+21
+21
+0%
+0%
+0%
+MathJax
+199
+199
+0%
+0%
+0%
+MathJax core
+11
+11
+0%
+0%
+0%
+MathJax Font Warnings
+7
+7
+0%
+0%
+0%
+MathJax Help Dialog
+11
+11
+0%
+0%
+0%
+MathJax HTML-CSS
+5
+5
+0%
+0%
+0%
+MathJax MathMenu
+84
+84
+0%
+0%
+0%
+MathJax MathML
+10
+10
+0%
+0%
+0%
+MathJax TeX
+71
+71
+0%
+0%
+0%
+MediaWiki
+46,129
+43,190
+6%
+0%
+1%
+Installer
+304
+211
+30%
+0%
+1%
+MediaWiki Action API
+1,910
+1,904
+0%
+0%
+0%
+MediaWiki core
+4,064
+1,965
+51%
+0%
+2%
+MediaWiki core - EXIF tags
+378
+241
+36%
+0%
+0%
+MediaWiki extensions
+41,128
+40,384
+1%
+0%
+1%
+3D
+4
+4
+0%
+0%
+0%
+Abuse Filter
+648
+561
+13%
+0%
+1%
+Abuse Filter - API
+49
+49
+0%
+0%
+0%
+Abuse Filter - User interface
+599
+512
+14%
+0%
+1%
+Abuse Filter - API
+49
+49
+0%
+0%
+0%
+Abuse Filter - User interface
+599
+512
+14%
+0%
+1%
+Abuse Filter Bypass
+3
+3
+0%
+0%
+0%
+Access Control
+4
+4
+0%
+0%
+0%
+Account Info
+8
+8
+0%
+0%
+0%
+AchievementBadges
+123
+123
+0%
+0%
+0%
+Acrolinx
+1
+1
+0%
+0%
+0%
+Active Abstract
+1
+1
+0%
+0%
+0%
+Ad Manager
+27
+23
+14%
+0%
+0%
+Add HTML Meta And Title
+2
+2
+0%
+0%
+0%
+Add Messages
+1
+1
+0%
+0%
+0%
+Add Personal Urls
+11
+11
+0%
+0%
+0%
+Admin Links
+13
+12
+7%
+0%
+0%
+Advanced Meta
+18
+15
+16%
+0%
+0%
+Advanced Search
+70
+70
+0%
+0%
+0%
+AJAX Poll
+28
+28
+0%
+0%
+0%
+Ajax Show Editors
+10
+5
+50%
+0%
+10%
+Akismet Klik
+1
+1
+0%
+0%
+100%
+AJAX Poll
+28
+28
+0%
+0%
+0%
+Social Profile - System Gifts
+70
+70
+0%
+0%
+0%
+Social Profile - User Activity
+18
+18
+0%
+0%
+0%
+Social Profile - User Board
+58
+58
+0%
+0%
+0%
+Social Profile - User Gifts
+83
+83
+0%
+0%
+0%
+Social Profile - User Profile
+217
+217
+0%
+0%
+0%
+Social Profile - User Relationship
+96
+96
+0%
+0%
+0%
+Social Profile - User Stats
+79
+79
+0%
+0%
+0%
+Social Profile - User Welcome
+13
+13
+0%
+0%
+0%
+Blog Page
+58
+58
+0%
+0%
+0%
+Challenge
+179
+179
+0%
+0%
+0%
+Fan Boxes
+78
+78
+0%
+0%
+0%
+Image Rating
+27
+27
+0%
+0%
+0%
+Link Filter
+67
+67
+0%
+0%
+0%
+Mini Invite
+31
+31
+0%
+0%
+0%
+NewSignupPage
+6
+6
+0%
+0%
+0%
+Picture Game
+111
+111
+0%
+0%
+0%
+Poll NY
+109
+109
+0%
+0%
+0%
+Quiz Game
+147
+147
+0%
+0%
+0%
+Random Game Unit
+4
+4
+0%
+0%
+0%
+Site Metrics
+101
+99
+1%
+0%
+0%
+Sports Teams
+139
+139
+0%
+0%
+0%
+User Status
+48
+48
+0%
+0%
+0%
+Video
+42
+41
+2%
+0%
+0%
+Vote NY
+22
+22
+0%
+0%
+0%
+Wiki Forum
+107
+107
+0%
+0%
+0%
+Wiki Text Logged In Out
+1
+1
+0%
+0%
+0%
+Social Profile - System Gifts
+70
+70
+0%
+0%
+0%
+Social Profile - User Activity
+18
+18
+0%
+0%
+0%
+Social Profile - User Board
+58
+58
+0%
+0%
+0%
+Social Profile - User Gifts
+83
+83
+0%
+0%
+0%
+Social Profile - User Profile
+217
+217
+0%
+0%
+0%
+Social Profile - User Relationship
+96
+96
+0%
+0%
+0%
+Social Profile - User Stats
+79
+79
+0%
+0%
+0%
+Social Profile - User Welcome
+13
+13
+0%
+0%
+0%
+Anchor Handler
+1
+1
+0%
+0%
+0%
+Anon Privacy
+4
+4
+0%
+0%
+0%
+Anti Spoof - API
+4
+4
+0%
+0%
+0%
+Anti Spoof - User interface
+17
+16
+5%
+0%
+0%
+Anti Spoof - API
+4
+4
+0%
+0%
+0%
+Anti Spoof - User interface
+17
+16
+5%
+0%
+0%
+Api Feature Usage - API
+7
+7
+0%
+0%
+0%
+Api Feature Usage - User interface
+15
+15
+0%
+0%
+0%
+Api Feature Usage - API
+7
+7
+0%
+0%
+0%
+Api Feature Usage - User interface
+15
+15
+0%
+0%
+0%
+Appropedia
+67
+67
+0%
+0%
+0%
+Approved Revs
+51
+51
+0%
+0%
+0%
+Array Functions
+13
+13
+0%
+0%
+0%
+Arrays
+1
+1
+0%
+0%
+0%
+Article Creation Workflow
+3
+3
+0%
+0%
+0%
+Article Feedback v5
+627
+613
+2%
+0%
+0%
+Article Meta Description
+1
+1
+0%
+0%
+0%
+Article Placeholder
+26
+26
+0%
+0%
+0%
+Article To Category 2
+9
+9
+0%
+0%
+0%
+Auth_remoteuser
+1
+1
+0%
+0%
+0%
+Author Protect
+14
+14
+0%
+0%
+0%
+Auto Categorise Uploads
+1
+1
+0%
+0%
+0%
+Auto Create Category Pages
+4
+4
+0%
+0%
+0%
+Auto Gallery
+1
+1
+0%
+0%
+0%
+AutoCreatePage
+1
+1
+0%
+0%
+0%
+Automated Values
+3
+3
+0%
+0%
+0%
+Babel - API
+3
+3
+0%
+0%
+0%
+Babel - API
+3
+3
+0%
+0%
+0%
+Batch User Rights
+10
+10
+0%
+0%
+0%
+BCmath
+24
+24
+0%
+0%
+0%
+Beta Features - API
+3
+3
+0%
+0%
+0%
+Beta Features - User interface
+17
+13
+23%
+0%
+0%
+Beta Features - API
+3
+3
+0%
+0%
+0%
+Beta Features - User interface
+17
+13
+23%
+0%
+0%
+Biblio Plus
+8
+8
+0%
+0%
+0%
+Block Inactive
+20
+20
+0%
+0%
+0%
+BlockASN
+4
+4
+0%
+0%
+0%
+Blog Page
+58
+58
+0%
+0%
+0%
+Blue Spice
+97
+97
+0%
+0%
+0%
+Blue Spice - API
+61
+61
+0%
+0%
+0%
+Blue Spice - Credits
+7
+7
+0%
+0%
+0%
+Blue Spice - Deferred
+16
+16
+0%
+0%
+0%
+Blue Spice - Diagnostics
+1
+1
+0%
+0%
+0%
+Blue Spice - ExtJS
+76
+76
+0%
+0%
+0%
+Blue Spice - ExtJS - Portal
+8
+8
+0%
+0%
+0%
+Blue Spice - Filerepo
+17
+17
+0%
+0%
+0%
+Blue Spice - Installer
+1
+1
+0%
+0%
+0%
+Blue Spice - OOUI
+10
+10
+0%
+0%
+0%
+Blue Spice - Settings
+15
+15
+0%
+0%
+0%
+Blue Spice - Upload
+22
+22
+0%
+0%
+0%
+Blue Spice - Validator
+18
+18
+0%
+0%
+0%
+Blue Spice About
+5
+5
+0%
+0%
+0%
+Blue Spice Article Info
+18
+18
+0%
+0%
+0%
+Blue Spice Article Preview Capture
+1
+1
+0%
+0%
+0%
+Blue Spice Authors
+16
+16
+0%
+0%
+0%
+Blue Spice Avatars
+23
+23
+0%
+0%
+0%
+Blue Spice Bookshelf
+85
+85
+0%
+0%
+0%
+Blue Spice Bookshelf - UI
+92
+92
+0%
+0%
+0%
+Blue Spice Category Check
+6
+6
+0%
+0%
+0%
+Blue Spice Category Manager
+25
+25
+0%
+0%
+0%
+Blue Spice Checklist
+61
+61
+0%
+0%
+0%
+Blue Spice Config Manager
+15
+15
+0%
+0%
+0%
+Blue Spice Context Menu
+18
+18
+0%
+0%
+0%
+Blue Spice Count Things
+34
+34
+0%
+0%
+0%
+Blue Spice Custom Menu
+5
+5
+0%
+0%
+0%
+Blue Spice Dashboards
+19
+19
+0%
+0%
+0%
+Blue Spice Distribution Connector
+192
+192
+0%
+0%
+0%
+Blue Spice Echo Connector
+11
+11
+0%
+0%
+0%
+Blue Spice Echo Connector - Notifications
+31
+31
+0%
+0%
+0%
+Blue Spice Emoticons
+4
+4
+0%
+0%
+0%
+Blue Spice Expiry
+89
+89
+0%
+0%
+0%
+Blue Spice Export Tables
+7
+7
+0%
+0%
+0%
+Blue Spice Extended Filelist
+3
+3
+0%
+0%
+0%
+Blue Spice Extended Search
+171
+171
+0%
+0%
+0%
+Blue Spice Extended Statistics
+110
+110
+0%
+0%
+0%
+Blue Spice extensions
+3,377
+3,377
+0%
+0%
+0%
+Blue Spice - API
+61
+61
+0%
+0%
+0%
+Blue Spice - Credits
+7
+7
+0%
+0%
+0%
+Blue Spice - Deferred
+16
+16
+0%
+0%
+0%
+Blue Spice - Diagnostics
+1
+1
+0%
+0%
+0%
+Blue Spice - ExtJS
+76
+76
+0%
+0%
+0%
+Blue Spice - ExtJS - Portal
+8
+8
+0%
+0%
+0%
+Blue Spice - Filerepo
+17
+17
+0%
+0%
+0%
+Blue Spice - Installer
+1
+1
+0%
+0%
+0%
+Blue Spice - OOUI
+10
+10
+0%
+0%
+0%
+Blue Spice - Settings
+15
+15
+0%
+0%
+0%
+Blue Spice - Upload
+22
+22
+0%
+0%
+0%
+Blue Spice - Validator
+18
+18
+0%
+0%
+0%
+Blue Spice About
+5
+5
+0%
+0%
+0%
+Blue Spice Article Info
+18
+18
+0%
+0%
+0%
+Blue Spice Article Preview Capture
+1
+1
+0%
+0%
+0%
+Blue Spice Authors
+16
+16
+0%
+0%
+0%
+Blue Spice Avatars
+23
+23
+0%
+0%
+0%
+Blue Spice Bookshelf
+85
+85
+0%
+0%
+0%
+Blue Spice Bookshelf - UI
+92
+92
+0%
+0%
+0%
+Blue Spice Category Check
+6
+6
+0%
+0%
+0%
+Blue Spice Category Manager
+25
+25
+0%
+0%
+0%
+Blue Spice Checklist
+61
+61
+0%
+0%
+0%
+Blue Spice Config Manager
+15
+15
+0%
+0%
+0%
+Blue Spice Context Menu
+18
+18
+0%
+0%
+0%
+Blue Spice Count Things
+34
+34
+0%
+0%
+0%
+Blue Spice Custom Menu
+5
+5
+0%
+0%
+0%
+Blue Spice Dashboards
+19
+19
+0%
+0%
+0%
+Blue Spice Distribution Connector
+192
+192
+0%
+0%
+0%
+Blue Spice Echo Connector
+11
+11
+0%
+0%
+0%
+Blue Spice Echo Connector - Notifications
+31
+31
+0%
+0%
+0%
+Blue Spice Emoticons
+4
+4
+0%
+0%
+0%
+Blue Spice Expiry
+89
+89
+0%
+0%
+0%
+Blue Spice Export Tables
+7
+7
+0%
+0%
+0%
+Blue Spice Extended Filelist
+3
+3
+0%
+0%
+0%
+Blue Spice Extended Search
+171
+171
+0%
+0%
+0%
+Blue Spice Extended Statistics
+110
+110
+0%
+0%
+0%
+Blue Spice Filterable Tables
+2
+2
+0%
+0%
+0%
+Blue Spice Flagged Revs Connector
+130
+130
+0%
+0%
+0%
+Blue Spice Group Manager
+34
+34
+0%
+0%
+0%
+Blue Spice Hide Title
+5
+5
+0%
+0%
+0%
+Blue Spice Insert Category
+30
+30
+0%
+0%
+0%
+Blue Spice Insert File
+42
+42
+0%
+0%
+0%
+Blue Spice Insert Link
+29
+29
+0%
+0%
+0%
+Blue Spice Insert Magic
+65
+65
+0%
+0%
+0%
+Blue Spice Insert Template
+7
+7
+0%
+0%
+0%
+Blue Spice Instance Status
+11
+11
+0%
+0%
+0%
+Blue Spice Inter Wiki Links
+26
+26
+0%
+0%
+0%
+Blue Spice Multi Upload
+14
+14
+0%
+0%
+0%
+Blue Spice Namespace CSS
+6
+6
+0%
+0%
+0%
+Blue Spice Namespace Manager
+60
+60
+0%
+0%
+0%
+Blue Spice NS File Repo Connector
+7
+7
+0%
+0%
+0%
+Blue Spice Page Access
+24
+24
+0%
+0%
+0%
+Blue Spice Page Assignments
+86
+86
+0%
+0%
+0%
+Blue Spice Page Forms Connector
+1
+1
+0%
+0%
+0%
+Blue Spice Page Templates
+55
+55
+0%
+0%
+0%
+Blue Spice Page Version
+1
+1
+0%
+0%
+0%
+Blue Spice Pages Visited
+24
+24
+0%
+0%
+0%
+Blue Spice Permission Manager
+61
+61
+0%
+0%
+0%
+Blue Spice Player
+8
+8
+0%
+0%
+0%
+Blue Spice Privacy
+195
+195
+0%
+0%
+0%
+Blue Spice Pro Distribution Connector
+42
+42
+0%
+0%
+0%
+Blue Spice Qr Code
+31
+31
+0%
+0%
+0%
+Blue Spice Rating
+29
+29
+0%
+0%
+0%
+Blue Spice Read Confirmation
+55
+55
+0%
+0%
+0%
+Blue Spice Readers
+33
+33
+0%
+0%
+0%
+Blue Spice Reminder
+101
+101
+0%
+0%
+0%
+Blue Spice RSS Feeder
+33
+33
+0%
+0%
+0%
+Blue Spice Safer Edit
+7
+7
+0%
+0%
+0%
+Blue Spice Smart List
+47
+47
+0%
+0%
+0%
+Blue Spice Smart List - Inspector
+34
+34
+0%
+0%
+0%
+Blue Spice SMW Connector
+40
+40
+0%
+0%
+0%
+Blue Spice Social
+84
+84
+0%
+0%
+0%
+Blue Spice Social - Notifications
+16
+16
+0%
+0%
+0%
+Blue Spice Social Article Actions
+13
+13
+0%
+0%
+0%
+Blue Spice Social Blog
+32
+32
+0%
+0%
+0%
+Blue Spice Social Comments
+35
+35
+0%
+0%
+0%
+Blue Spice Social Micro Blog
+6
+6
+0%
+0%
+0%
+Blue Spice Social Profile
+37
+37
+0%
+0%
+0%
+Blue Spice Social Rating
+3
+3
+0%
+0%
+0%
+Blue Spice Social Resolve
+7
+7
+0%
+0%
+0%
+Blue Spice Social Tags
+9
+9
+0%
+0%
+0%
+Blue Spice Social Timeline Update
+2
+2
+0%
+0%
+0%
+Blue Spice Social Topics
+31
+31
+0%
+0%
+0%
+Blue Spice Social Watch
+5
+5
+0%
+0%
+0%
+Blue Spice Social Wiki Page
+21
+21
+0%
+0%
+0%
+Blue Spice Sub Page Tree
+1
+1
+0%
+0%
+0%
+Blue Spice Tag Cloud
+27
+27
+0%
+0%
+0%
+Blue Spice UE Module Book PDF
+16
+16
+0%
+0%
+0%
+Blue Spice UE Module DOCX
+16
+16
+0%
+0%
+0%
+Blue Spice UE Module HTML
+10
+10
+0%
+0%
+0%
+Blue Spice UE Module PDF
+31
+31
+0%
+0%
+0%
+Blue Spice UE Module PDF Recursive
+1
+1
+0%
+0%
+0%
+Blue Spice UE Module PDF Subpages
+1
+1
+0%
+0%
+0%
+Blue Spice UE Module Table 2 Excel
+4
+4
+0%
+0%
+0%
+Blue Spice Universal Export
+39
+39
+0%
+0%
+0%
+Blue Spice Usage Tracker
+17
+17
+0%
+0%
+0%
+Blue Spice User Info
+3
+3
+0%
+0%
+0%
+Blue Spice User Manager
+69
+69
+0%
+0%
+0%
+Blue Spice User Sidebar
+10
+10
+0%
+0%
+0%
+Blue Spice Visual Diff
+12
+12
+0%
+0%
+0%
+Blue Spice Visual Editor Connector
+80
+80
+0%
+0%
+0%
+Blue Spice Watch List
+27
+27
+0%
+0%
+0%
+Blue Spice Who Is Online
+28
+28
+0%
+0%
+0%
+Blue Spice Wiki Explorer
+16
+16
+0%
+0%
+0%
+Blue Spice Filterable Tables
+2
+2
+0%
+0%
+0%
+Blue Spice Flagged Revs Connector
+130
+130
+0%
+0%
+0%
+Blue Spice Group Manager
+34
+34
+0%
+0%
+0%
+Blue Spice Hide Title
+5
+5
+0%
+0%
+0%
+Blue Spice Insert Category
+30
+30
+0%
+0%
+0%
+Blue Spice Insert File
+42
+42
+0%
+0%
+0%
+Blue Spice Insert Link
+29
+29
+0%
+0%
+0%
+Blue Spice Insert Magic
+65
+65
+0%
+0%
+0%
+Blue Spice Insert Template
+7
+7
+0%
+0%
+0%
+Blue Spice Instance Status
+11
+11
+0%
+0%
+0%
+Blue Spice Inter Wiki Links
+26
+26
+0%
+0%
+0%
+Blue Spice Multi Upload
+14
+14
+0%
+0%
+0%
+Blue Spice Namespace CSS
+6
+6
+0%
+0%
+0%
+Blue Spice Namespace Manager
+60
+60
+0%
+0%
+0%
+Blue Spice NS File Repo Connector
+7
+7
+0%
+0%
+0%
+Blue Spice Page Access
+24
+24
+0%
+0%
+0%
+Blue Spice Page Assignments
+86
+86
+0%
+0%
+0%
+Blue Spice Page Forms Connector
+1
+1
+0%
+0%
+0%
+Blue Spice Page Templates
+55
+55
+0%
+0%
+0%
+Blue Spice Page Version
+1
+1
+0%
+0%
+0%
+Blue Spice Pages Visited
+24
+24
+0%
+0%
+0%
+Blue Spice Permission Manager
+61
+61
+0%
+0%
+0%
+Blue Spice Player
+8
+8
+0%
+0%
+0%
+Blue Spice Privacy
+195
+195
+0%
+0%
+0%
+Blue Spice Pro Distribution Connector
+42
+42
+0%
+0%
+0%
+Blue Spice Qr Code
+31
+31
+0%
+0%
+0%
+Blue Spice Rating
+29
+29
+0%
+0%
+0%
+Blue Spice Read Confirmation
+55
+55
+0%
+0%
+0%
+Blue Spice Readers
+33
+33
+0%
+0%
+0%
+Blue Spice Reminder
+101
+101
+0%
+0%
+0%
+Blue Spice RSS Feeder
+33
+33
+0%
+0%
+0%
+Blue Spice Safer Edit
+7
+7
+0%
+0%
+0%
+Blue Spice Smart List
+47
+47
+0%
+0%
+0%
+Blue Spice Smart List - Inspector
+34
+34
+0%
+0%
+0%
+Blue Spice SMW Connector
+40
+40
+0%
+0%
+0%
+Blue Spice Social
+84
+84
+0%
+0%
+0%
+Blue Spice Social - Notifications
+16
+16
+0%
+0%
+0%
+Blue Spice Social Article Actions
+13
+13
+0%
+0%
+0%
+Blue Spice Social Blog
+32
+32
+0%
+0%
+0%
+Blue Spice Social Comments
+35
+35
+0%
+0%
+0%
+Blue Spice Social Micro Blog
+6
+6
+0%
+0%
+0%
+Blue Spice Social Profile
+37
+37
+0%
+0%
+0%
+Blue Spice Social Rating
+3
+3
+0%
+0%
+0%
+Blue Spice Social Resolve
+7
+7
+0%
+0%
+0%
+Blue Spice Social Tags
+9
+9
+0%
+0%
+0%
+Blue Spice Social Timeline Update
+2
+2
+0%
+0%
+0%
+Blue Spice Social Topics
+31
+31
+0%
+0%
+0%
+Blue Spice Social Watch
+5
+5
+0%
+0%
+0%
+Blue Spice Social Wiki Page
+21
+21
+0%
+0%
+0%
+Blue Spice Sub Page Tree
+1
+1
+0%
+0%
+0%
+Blue Spice Tag Cloud
+27
+27
+0%
+0%
+0%
+Blue Spice UE Module Book PDF
+16
+16
+0%
+0%
+0%
+Blue Spice UE Module DOCX
+16
+16
+0%
+0%
+0%
+Blue Spice UE Module HTML
+10
+10
+0%
+0%
+0%
+Blue Spice UE Module PDF
+31
+31
+0%
+0%
+0%
+Blue Spice UE Module PDF Recursive
+1
+1
+0%
+0%
+0%
+Blue Spice UE Module PDF Subpages
+1
+1
+0%
+0%
+0%
+Blue Spice UE Module Table 2 Excel
+4
+4
+0%
+0%
+0%
+Blue Spice Universal Export
+39
+39
+0%
+0%
+0%
+Blue Spice Usage Tracker
+17
+17
+0%
+0%
+0%
+Blue Spice User Info
+3
+3
+0%
+0%
+0%
+Blue Spice User Manager
+69
+69
+0%
+0%
+0%
+Blue Spice User Sidebar
+10
+10
+0%
+0%
+0%
+Blue Spice Visual Diff
+12
+12
+0%
+0%
+0%
+Blue Spice Visual Editor Connector
+80
+80
+0%
+0%
+0%
+Blue Spice Watch List
+27
+27
+0%
+0%
+0%
+Blue Spice Who Is Online
+28
+28
+0%
+0%
+0%
+Blue Spice Wiki Explorer
+16
+16
+0%
+0%
+0%
+BootstrapComponents
+17
+17
+0%
+0%
+0%
+Bounce Handler - API
+4
+4
+0%
+0%
+0%
+Bounce Handler - User interface
+6
+6
+0%
+0%
+0%
+Bounce Handler - API
+4
+4
+0%
+0%
+0%
+Bounce Handler - User interface
+6
+6
+0%
+0%
+0%
+Bread Crumbs 2
+1
+1
+0%
+0%
+0%
+Bulk Block
+17
+17
+0%
+0%
+0%
+Campaign Events
+376
+376
+0%
+0%
+0%
+Campaign Events - Rest API
+12
+12
+0%
+0%
+0%
+Campaign Events - User interface
+364
+364
+0%
+0%
+0%
+Campaign Events - Rest API
+12
+12
+0%
+0%
+0%
+Campaign Events - User interface
+364
+364
+0%
+0%
+0%
+Campaigns
+3
+3
+0%
+0%
+0%
+Capiunto
+1
+1
+0%
+0%
+0%
+Cargo
+224
+224
+0%
+0%
+0%
+Cargo - API
+37
+37
+0%
+0%
+0%
+Cargo - User interface
+187
+187
+0%
+0%
+0%
+Cargo - API
+37
+37
+0%
+0%
+0%
+Cargo - User interface
+187
+187
+0%
+0%
+0%
+Category Lockdown
+2
+2
+0%
+0%
+0%
+Category Sort Headers
+1
+1
+0%
+0%
+0%
+Category Tag Sorter
+2
+2
+0%
+0%
+0%
+Category Tests
+1
+1
+0%
+0%
+0%
+Category Tree - API
+5
+5
+0%
+0%
+0%
+Category Tree - User interface
+28
+17
+39%
+0%
+0%
+Category Tree - API
+5
+5
+0%
+0%
+0%
+Category Tree - User interface
+28
+17
+39%
+0%
+0%
+Category Watch
+20
+20
+0%
+0%
+0%
+Central Auth
+561
+557
+0%
+0%
+0%
+Central Auth - API
+78
+78
+0%
+0%
+0%
+Central Auth - User interface
+483
+479
+0%
+0%
+0%
+Central Auth - API
+78
+78
+0%
+0%
+0%
+Central Auth - User interface
+483
+479
+0%
+0%
+0%
+Central Logging
+2
+2
+0%
+0%
+0%
+Central Notice - API
+35
+35
+0%
+0%
+0%
+Central Notice - User interface
+328
+327
+0%
+0%
+0%
+Central Notice - API
+35
+35
+0%
+0%
+0%
+Central Notice - User interface
+328
+327
+0%
+0%
+0%
+Challenge
+179
+179
+0%
+0%
+0%
+Change Author
+23
+23
+0%
+0%
+0%
+Char Insert
+1
+1
+0%
+0%
+0%
+Check User - API
+32
+32
+0%
+0%
+0%
+Check User - User interface
+226
+216
+4%
+0%
+0%
+Checkpoint
+4
+4
+0%
+0%
+0%
+CheckUser
+258
+248
+3%
+0%
+0%
+Check User - API
+32
+32
+0%
+0%
+0%
+Check User - User interface
+226
+216
+4%
+0%
+0%
+Chess Browser
+48
+48
+0%
+0%
+0%
+Cirrus Search
+94
+92
+2%
+0%
+0%
+Cirrus Search - API
+24
+24
+0%
+0%
+0%
+Cirrus Search - User interface
+70
+68
+2%
+0%
+0%
+Cirrus Search - API
+24
+24
+0%
+0%
+0%
+Cirrus Search - User interface
+70
+68
+2%
+0%
+0%
+Cite
+85
+76
+10%
+0%
+0%
+Cite - User interface
+38
+37
+2%
+0%
+0%
+Cite - VisualEditor
+47
+39
+17%
+0%
+0%
+Cite - User interface
+38
+37
+2%
+0%
+0%
+Cite - VisualEditor
+47
+39
+17%
+0%
+0%
+Cite Drawer
+1
+1
+0%
+0%
+0%
+Cite This Page
+8
+6
+25%
+0%
+0%
+Citizen
+39
+39
+0%
+0%
+0%
+Citoid
+28
+13
+53%
+0%
+4%
+cldr
+1
+1
+0%
+0%
+0%
+Clean Changes
+4
+4
+0%
+0%
+0%
+Clone Diff
+15
+15
+0%
+0%
+0%
+Close Wikis
+30
+30
+0%
+0%
+0%
+Code Editor
+14
+14
+0%
+0%
+0%
+Code Mirror
+5
+5
+0%
+0%
+0%
+Cognate
+1
+1
+0%
+0%
+0%
+Cognitive Process Designer
+65
+65
+0%
+0%
+0%
+Collaboration Kit
+126
+126
+0%
+0%
+0%
+Collapsible Sections
+1
+1
+0%
+0%
+0%
+Collapsible Vector
+5
+5
+0%
+0%
+0%
+Collection
+242
+238
+1%
+0%
+61%
+Collection - API
+64
+64
+0%
+0%
+0%
+Collection - User interface
+178
+174
+2%
+0%
+83%
+Collection - API
+64
+64
+0%
+0%
+0%
+Collection - User interface
+178
+174
+2%
+0%
+83%
+Comment Streams
+166
+166
+0%
+0%
+0%
+Commentbox
+12
+12
+0%
+0%
+0%
+Comments
+83
+83
+0%
+0%
+0%
+Common Messages
+1
+1
+0%
+0%
+0%
+Commons Metadata
+11
+11
+0%
+0%
+0%
+Config Manager
+9
+9
+0%
+0%
+0%
+Confirm Account
+9
+9
+0%
+0%
+0%
+Confirm Account - Page
+81
+81
+0%
+0%
+0%
+Confirm Account - Request Account
+40
+40
+0%
+0%
+0%
+Confirm Account - User Credentials
+20
+20
+0%
+0%
+0%
+Confirm Edit - API
+2
+2
+0%
+0%
+0%
+Confirm Edit - User interface
+28
+28
+0%
+0%
+0%
+Confirm Edit - API
+2
+2
+0%
+0%
+0%
+Confirm Edit - User interface
+28
+28
+0%
+0%
+0%
+Confirm Edit Fancy Captcha - API
+2
+2
+0%
+0%
+0%
+Confirm Edit Fancy Captcha - User interface
+10
+6
+40%
+0%
+0%
+Confirm Edit hCaptcha
+8
+8
+0%
+0%
+0%
+Confirm Edit Math Captcha
+1
+1
+0%
+0%
+0%
+Confirm Edit Questy Captcha
+8
+8
+0%
+0%
+0%
+Confirm Edit ReCaptcha NoCaptcha - API
+1
+1
+0%
+0%
+0%
+Confirm Edit ReCaptcha NoCaptcha - User interface
+9
+9
+0%
+0%
+0%
+Confirm Edit Fancy Captcha - API
+2
+2
+0%
+0%
+0%
+Confirm Edit Fancy Captcha - User interface
+10
+6
+40%
+0%
+0%
+Confirm Edit ReCaptcha NoCaptcha - API
+1
+1
+0%
+0%
+0%
+Confirm Edit ReCaptcha NoCaptcha - User interface
+9
+9
+0%
+0%
+0%
+Contact Page
+17
+16
+5%
+0%
+0%
+Container Filter
+6
+6
+0%
+0%
+0%
+Content Droplets
+38
+38
+0%
+0%
+0%
+Content Stabilization
+102
+102
+0%
+0%
+0%
+Content Transfer
+69
+69
+0%
+0%
+0%
+Content Translation
+608
+589
+3%
+0%
+0%
+Content Translation - API
+139
+139
+0%
+0%
+0%
+Content Translation - User interface
+469
+450
+4%
+0%
+0%
+Content Translation - API
+139
+139
+0%
+0%
+0%
+Content Translation - User interface
+469
+450
+4%
+0%
+0%
+Contribution Credits
+2
+2
+0%
+0%
+0%
+Contributions List
+1
+1
+0%
+0%
+0%
+Contributors
+16
+16
+0%
+0%
+0%
+Cookie Warning
+4
+4
+0%
+0%
+0%
+Count Down Clock
+7
+7
+0%
+0%
+0%
+Create A Page
+53
+53
+0%
+0%
+0%
+Create Page
+2
+2
+0%
+0%
+0%
+Create Redirect
+12
+12
+0%
+0%
+0%
+Create User Page
+1
+1
+0%
+0%
+0%
+Created Pages List
+6
+6
+0%
+0%
+0%
+CreateWiki
+94
+94
+0%
+0%
+0%
+Credits Source
+3
+3
+0%
+0%
+0%
+CSS
+1
+1
+0%
+0%
+0%
+CustomHeader
+1
+1
+0%
+0%
+0%
+Dark Mode
+5
+5
+0%
+0%
+0%
+Dashiki
+4
+4
+0%
+0%
+0%
+Data Transfer
+34
+34
+0%
+0%
+0%
+DataDump
+41
+41
+0%
+0%
+0%
+Date Diff
+1
+1
+0%
+0%
+0%
+Debounce
+5
+5
+0%
+0%
+0%
+Debug Mode
+1
+1
+0%
+0%
+0%
+Debug Templates
+41
+41
+0%
+0%
+0%
+Delete Batch
+27
+27
+0%
+0%
+0%
+Delete Own
+3
+3
+0%
+0%
+0%
+Delete Pages For Good
+9
+9
+0%
+0%
+0%
+Delete User Pages
+5
+5
+0%
+0%
+0%
+Description2
+1
+1
+0%
+0%
+0%
+Did You Know
+2
+2
+0%
+0%
+0%
+Disable Account
+10
+10
+0%
+0%
+0%
+Disambiguator
+11
+11
+0%
+0%
+0%
+Discord (mw-discord)
+30
+30
+0%
+0%
+0%
+DiscordNotifications
+47
+47
+0%
+0%
+0%
+DiscordNotifications (Universal-Omega)
+49
+49
+0%
+0%
+0%
+DiscordRCFeed
+5
+5
+0%
+0%
+0%
+Discourse
+6
+6
+0%
+0%
+0%
+Discussion Threading
+6
+6
+0%
+0%
+0%
+Discussion Tools
+218
+215
+1%
+0%
+1%
+Discussion Tools - API
+35
+35
+0%
+0%
+0%
+Discussion Tools - User interface
+183
+180
+1%
+0%
+2%
+Discussion Tools - API
+35
+35
+0%
+0%
+0%
+Discussion Tools - User interface
+183
+180
+1%
+0%
+2%
+Dismissable SiteNotice
+2
+2
+0%
+0%
+0%
+Display Title
+2
+2
+0%
+0%
+0%
+Disqus Tag
+1
+1
+0%
+0%
+0%
+Doc Book Export
+3
+3
+0%
+0%
+0%
+Donation Interface - Adyen Gateway
+2
+2
+0%
+0%
+0%
+Donation Interface - Amazon Gateway
+1
+1
+0%
+0%
+0%
+Donation Interface - Astro Gateway
+1
+1
+0%
+0%
+0%
+Donation Interface - Gateway Common
+438
+438
+0%
+0%
+0%
+Donation Interface - Gateway Common - API
+55
+55
+0%
+0%
+0%
+Donation Interface - Paypal Gateway
+1
+1
+0%
+0%
+0%
+Double Wiki
+1
+1
+0%
+0%
+0%
+DPL forum
+8
+8
+0%
+0%
+0%
+Drafts
+37
+37
+0%
+0%
+0%
+Drawio Editor
+16
+16
+0%
+0%
+0%
+Dumps On Demand
+23
+23
+0%
+0%
+0%
+Duplicator
+24
+24
+0%
+0%
+0%
+Dynamic Page List Engine
+6
+6
+0%
+0%
+0%
+Dynamic Sidebar
+1
+1
+0%
+0%
+0%
+DynamicPageList3
+46
+46
+0%
+0%
+0%
+Echo - API
+72
+72
+0%
+0%
+0%
+Echo - User interface
+227
+223
+1%
+0%
+0%
+Echo - API
+72
+72
+0%
+0%
+0%
+Echo - User interface
+227
+223
+1%
+0%
+0%
+Edit Similar
+6
+6
+0%
+0%
+0%
+Edit Subpages
+2
+2
+0%
+0%
+0%
+Edit User
+10
+10
+0%
+0%
+0%
+Editcount
+9
+9
+0%
+0%
+0%
+Editcount Additions
+1
+1
+0%
+0%
+0%
+EditCountNeue
+11
+11
+0%
+0%
+0%
+EditCountNeue - API
+4
+4
+0%
+0%
+0%
+EDTF
+85
+85
+0%
+0%
+0%
+Elastica
+1
+1
+0%
+0%
+0%
+Electron Pdf Service
+9
+9
+0%
+0%
+0%
+Email Auth
+8
+8
+0%
+0%
+0%
+Email Authorization
+70
+70
+0%
+0%
+0%
+Email Capture
+14
+14
+0%
+0%
+0%
+Email Diff
+4
+4
+0%
+0%
+0%
+EmbedVideo - StarCitizen
+36
+36
+0%
+0%
+0%
+Enhanced Upload
+81
+81
+0%
+0%
+0%
+Entity Schema
+81
+81
+0%
+0%
+0%
+Error Handler
+22
+22
+0%
+0%
+0%
+Etherpad Lite
+7
+7
+0%
+0%
+0%
+Event Bus
+1
+1
+0%
+0%
+0%
+Event Logging
+8
+8
+0%
+0%
+0%
+Event Logging - Json Schema
+12
+12
+0%
+0%
+0%
+Event Stream Config
+8
+8
+0%
+0%
+0%
+Expect
+1
+1
+0%
+0%
+0%
+Extension Distributor - API
+6
+6
+0%
+0%
+0%
+Extension Distributor - User interface
+31
+31
+0%
+0%
+0%
+Extension Distributor - API
+6
+6
+0%
+0%
+0%
+Extension Distributor - User interface
+31
+31
+0%
+0%
+0%
+Extensions used by Wikimedia
+21,859
+21,159
+3%
+0%
+1%
+Extensions used by Wikimedia - Advanced
+9,178
+8,969
+2%
+0%
+1%
+Abuse Filter - User interface
+599
+512
+14%
+0%
+1%
+Article Creation Workflow
+3
+3
+0%
+0%
+0%
+Article Placeholder
+26
+26
+0%
+0%
+0%
+Bounce Handler - User interface
+6
+6
+0%
+0%
+0%
+Campaign Events - User interface
+364
+364
+0%
+0%
+0%
+Central Auth - User interface
+483
+479
+0%
+0%
+0%
+Central Notice - User interface
+328
+327
+0%
+0%
+0%
+Char Insert
+1
+1
+0%
+0%
+0%
+Check User - User interface
+226
+216
+4%
+0%
+0%
+cldr
+1
+1
+0%
+0%
+0%
+Code Editor
+14
+14
+0%
+0%
+0%
+Code Mirror
+5
+5
+0%
+0%
+0%
+Cognate
+1
+1
+0%
+0%
+0%
+Contact Page
+17
+16
+5%
+0%
+0%
+Dashiki
+4
+4
+0%
+0%
+0%
+Double Wiki
+1
+1
+0%
+0%
+0%
+Elastica
+1
+1
+0%
+0%
+0%
+Entity Schema
+81
+81
+0%
+0%
+0%
+Event Bus
+1
+1
+0%
+0%
+0%
+Event Logging
+8
+8
+0%
+0%
+0%
+Extension Distributor - User interface
+31
+31
+0%
+0%
+0%
+External Guidance
+37
+37
+0%
+0%
+0%
+Featured Feeds - User interface
+42
+42
+0%
+0%
+0%
+Flow - User interface
+514
+514
+0%
+0%
+0%
+Geo Data - User interface
+23
+23
+0%
+0%
+0%
+Global Blocking - User interface
+117
+116
+0%
+0%
+0%
+Google News Sitemap
+4
+4
+0%
+0%
+0%
+Graph - User interface
+42
+42
+0%
+0%
+0%
+Growth Experiments - Confirm Email
+17
+17
+0%
+0%
+0%
+Growth Experiments - User interface
+93
+93
+0%
+0%
+0%
+Guided Tour
+27
+27
+0%
+0%
+0%
+Image Suggestions
+12
+12
+0%
+0%
+0%
+Intersection
+7
+7
+0%
+0%
+0%
+Interwiki
+59
+59
+0%
+0%
+0%
+Interwiki Sorting
+1
+1
+0%
+0%
+0%
+IP Info
+97
+97
+0%
+0%
+0%
+Josa
+1
+1
+0%
+0%
+0%
+Json Config - User interface
+57
+57
+0%
+0%
+0%
+Labeled Section Transclusion
+3
+3
+0%
+0%
+0%
+Ldap Authentication
+6
+6
+0%
+0%
+0%
+Linter - User interface
+92
+92
+0%
+0%
+0%
+Mass Message - User interface
+138
+138
+0%
+0%
+0%
+Mobile App
+8
+7
+12%
+0%
+0%
+Navigation Timing
+1
+1
+0%
+0%
+0%
+Newsletter - User
+151
+151
+0%
+0%
+0%
+Nuke
+26
+26
+0%
+0%
+0%
+OATH Auth - User interface
+90
+90
+0%
+0%
+0%
+OAuth
+343
+343
+0%
+0%
+0%
+Page Assessments - User interface
+11
+11
+0%
+0%
+0%
+Page Images - User interface
+2
+2
+0%
+0%
+0%
+Page View Info - User interface
+6
+6
+0%
+0%
+0%
+Poem
+1
+1
+0%
+0%
+0%
+ProofreadPage - User interface
+176
+92
+47%
+0%
+2%
+PropertySuggester - User interface
+1
+1
+0%
+0%
+0%
+Quick Surveys
+19
+19
+0%
+0%
+0%
+Quiz
+13
+13
+0%
+0%
+0%
+Reading Lists - User interface
+48
+48
+0%
+0%
+0%
+Real Me
+9
+9
+0%
+0%
+0%
+Revision Slider
+27
+27
+0%
+0%
+0%
+RSS
+12
+12
+0%
+0%
+0%
+Sandbox Link
+4
+4
+0%
+0%
+0%
+Score
+56
+56
+0%
+0%
+0%
+Scribunto - User interface
+57
+56
+1%
+0%
+0%
+Search Extra NS
+1
+1
+0%
+0%
+0%
+Search Vue
+29
+29
+0%
+0%
+0%
+Secure Link Fixer
+1
+1
+0%
+0%
+0%
+SecurePoll - User interface
+325
+325
+0%
+0%
+0%
+Site Matrix - User interface
+14
+14
+0%
+0%
+0%
+Sub Page List 3
+3
+3
+0%
+0%
+0%
+Subpage Sortkey
+1
+1
+0%
+0%
+0%
+Syntax Highlight GeSHi
+16
+16
+0%
+0%
+0%
+Template Data - User interface
+108
+108
+0%
+0%
+0%
+Template Sandbox - User interface
+32
+32
+0%
+0%
+0%
+Template Styles
+61
+61
+0%
+0%
+0%
+Template Wizard
+35
+35
+0%
+0%
+0%
+TextExtracts - User interface
+1
+1
+0%
+0%
+0%
+Timeless
+20
+20
+0%
+0%
+0%
+Translate - Core User interface
+450
+449
+0%
+0%
+0%
+Translate - Page translation
+258
+257
+0%
+0%
+0%
+Translate - Search
+26
+26
+0%
+0%
+0%
+Translation Notifications
+72
+72
+0%
+0%
+0%
+Trusted XFF
+1
+1
+0%
+0%
+0%
+Url Shortener - User interface
+51
+51
+0%
+0%
+0%
+Visual Editor (MediaWiki extension) - Language Variants
+38
+38
+0%
+0%
+0%
+Web Authn - User interface
+31
+31
+0%
+0%
+0%
+Wiki Lambda - User interface
+384
+384
+0%
+0%
+0%
+Wiki Love - User interface
+177
+175
+1%
+0%
+0%
+Wikibase Cirrus Search
+22
+22
+0%
+0%
+0%
+Wikibase Lexeme - Language names
+62
+62
+0%
+0%
+0%
+Wikibase Lexeme - User interface
+130
+130
+0%
+0%
+0%
+Wikibase Lexeme Cirrus Search
+2
+2
+0%
+0%
+0%
+Wikibase Quality Constraints - User interface
+139
+139
+0%
+0%
+0%
+Wikidata Page Banner
+3
+3
+0%
+0%
+0%
+Wikihiero
+47
+47
+0%
+0%
+0%
+Wikimedia Code of Conduct
+2
+2
+0%
+0%
+0%
+Wikimedia Contact Page Messages
+87
+87
+0%
+0%
+0%
+Wikimedia Editor Tasks - User interface
+3
+3
+0%
+0%
+0%
+Wikimedia Incubator - core
+87
+87
+0%
+0%
+0%
+Wikimedia Incubator - onwiki
+97
+97
+0%
+0%
+0%
+Wikimedia Interwiki Search Results
+325
+325
+0%
+0%
+0%
+Wikimedia Messages
+335
+320
+4%
+0%
+2%
+Wikimedia Project Names
+1,018
+1,018
+0%
+0%
+0%
+Wikisource
+32
+32
+0%
+0%
+0%
+X Analytics
+1
+1
+0%
+0%
+0%
+Extensions used by Wikimedia - Fundraising
+478
+478
+0%
+0%
+0%
+Donation Interface - Gateway Common
+438
+438
+0%
+0%
+0%
+Fundraiser Landing Page
+1
+1
+0%
+0%
+0%
+Fundraising Email Unsubscribe
+35
+35
+0%
+0%
+0%
+Fundraising Translate Workflow
+1
+1
+0%
+0%
+0%
+Landing Check
+3
+3
+0%
+0%
+0%
+Extensions used by Wikimedia - Legacy
+713
+696
+2%
+0%
+0%
+Cologne Blue
+17
+1
+94%
+0%
+0%
+Flagged Revisions - Configured Pages
+6
+6
+0%
+0%
+0%
+Flagged Revisions - Flagged Revs
+146
+145
+0%
+0%
+0%
+Flagged Revisions - Pending Changes
+15
+15
+0%
+0%
+0%
+Flagged Revisions - Revision Review
+58
+58
+0%
+0%
+0%
+Flagged Revisions - Stabilization
+31
+31
+0%
+0%
+0%
+Flagged Revisions - Stable Pages
+5
+5
+0%
+0%
+0%
+Flagged Revisions - Unreviewed Pages
+13
+13
+0%
+0%
+0%
+Flagged Revisions - Validation Statistics
+16
+16
+0%
+0%
+0%
+Liquid Threads - API
+60
+60
+0%
+0%
+0%
+Liquid Threads - User interface
+239
+239
+0%
+0%
+0%
+Modern
+1
+1
+0%
+0%
+0%
+Open Stack Manager
+34
+34
+0%
+0%
+0%
+ORES - API
+7
+7
+0%
+0%
+0%
+ORES - User interface
+52
+52
+0%
+0%
+0%
+Short Url
+6
+6
+0%
+0%
+0%
+Wikimedia Undeployed Placeholders
+7
+7
+0%
+0%
+0%
+Extensions used by Wikimedia - Main
+5,956
+5,645
+5%
+0%
+3%
+Advanced Search
+70
+70
+0%
+0%
+0%
+Anti Spoof - User interface
+17
+16
+5%
+0%
+0%
+Beta Features - User interface
+17
+13
+23%
+0%
+0%
+Campaigns
+3
+3
+0%
+0%
+0%
+Category Tree - User interface
+28
+17
+39%
+0%
+0%
+Cirrus Search - User interface
+70
+68
+2%
+0%
+0%
+Cite - User interface
+38
+37
+2%
+0%
+0%
+Cite - VisualEditor
+47
+39
+17%
+0%
+0%
+Cite This Page
+8
+6
+25%
+0%
+0%
+Citoid
+28
+13
+53%
+0%
+4%
+Collection - User interface
+178
+174
+2%
+0%
+83%
+Confirm Edit - User interface
+28
+28
+0%
+0%
+0%
+Confirm Edit Fancy Captcha - User interface
+10
+6
+40%
+0%
+0%
+Content Translation - User interface
+469
+450
+4%
+0%
+0%
+Disambiguator
+11
+11
+0%
+0%
+0%
+Discussion Tools - User interface
+183
+180
+1%
+0%
+2%
+Dismissable SiteNotice
+2
+2
+0%
+0%
+0%
+Echo - User interface
+227
+223
+1%
+0%
+0%
+Electron Pdf Service
+9
+9
+0%
+0%
+0%
+Gadgets - User interface
+38
+38
+0%
+0%
+0%
+Global Preferences - User interface
+14
+14
+0%
+0%
+0%
+Global Usage - User interface
+20
+16
+20%
+0%
+0%
+Global User Page
+4
+4
+0%
+0%
+0%
+Global Watchlist
+83
+81
+2%
+0%
+0%
+Growth Experiments - Help Panel
+185
+185
+0%
+0%
+0%
+Growth Experiments - Homepage
+616
+616
+0%
+0%
+1%
+Growth Experiments - Mentorship
+212
+212
+0%
+0%
+0%
+Growth Experiments - Welcome Survey
+53
+53
+0%
+0%
+0%
+Input Box
+10
+9
+10%
+0%
+0%
+Kartographer - User interface
+105
+105
+0%
+0%
+0%
+Login Notify
+12
+12
+0%
+0%
+0%
+Math - User interface
+100
+100
+0%
+0%
+0%
+MinervaNeue
+51
+39
+23%
+0%
+0%
+Mobile Frontend - User interface
+202
+191
+5%
+0%
+0%
+MonoBook
+12
+12
+0%
+0%
+0%
+Multimedia Viewer
+119
+119
+0%
+0%
+0%
+Nearby Pages
+17
+17
+0%
+0%
+0%
+New User Message
+2
+2
+0%
+0%
+0%
+OOjs UI (via VisualEditor)
+23
+11
+52%
+0%
+0%
+Parser Functions
+21
+15
+28%
+0%
+0%
+Popups
+33
+33
+0%
+0%
+0%
+Spam Blacklist - User interface
+16
+16
+0%
+0%
+0%
+Thanks - User interface
+55
+53
+3%
+0%
+0%
+The Wikipedia Library
+4
+4
+0%
+0%
+0%
+Timed Media Handler - User interface
+109
+107
+1%
+0%
+0%
+Timeline
+13
+13
+0%
+0%
+0%
+Title Blacklist - User interface
+20
+20
+0%
+0%
+0%
+Tor Block - API
+4
+4
+0%
+0%
+0%
+Tor Block - User
+8
+8
+0%
+0%
+0%
+Two Col Conflict
+67
+67
+0%
+0%
+0%
+Universal Language Selector - User interface
+69
+67
+2%
+0%
+0%
+Upload Wizard - User interface
+377
+377
+0%
+0%
+0%
+Vector
+58
+44
+24%
+0%
+0%
+Visual Editor (MediaWiki extension)
+354
+298
+15%
+0%
+1%
+Visual Editor (WMF)
+21
+20
+4%
+0%
+0%
+VisualEditor Core
+211
+162
+23%
+0%
+0%
+Wiki Editor
+171
+171
+0%
+0%
+0%
+Wikibase - Client - User interface
+169
+152
+10%
+0%
+0%
+Wikibase - Lib
+140
+139
+0%
+0%
+0%
+Wikibase - Repo - User interface
+509
+501
+1%
+0%
+0%
+Wikidata.org
+9
+9
+0%
+0%
+0%
+Wikimedia Badges
+1
+1
+0%
+0%
+0%
+Wikimedia License Texts
+82
+73
+10%
+0%
+0%
+Wikimedia Overrides
+49
+49
+0%
+0%
+0%
+Wikimedia Temporary Messages
+11
+9
+18%
+0%
+0%
+Wikisource
+32
+32
+0%
+0%
+0%
+Extensions used by Wikimedia - Media
+1,006
+857
+14%
+0%
+0%
+Commons Metadata
+11
+11
+0%
+0%
+0%
+File Exporter
+5
+5
+0%
+0%
+0%
+File Importer
+86
+86
+0%
+0%
+0%
+Image Map
+12
+12
+0%
+0%
+0%
+Machine Vision - User interface
+70
+70
+0%
+0%
+0%
+Media Search
+78
+78
+0%
+0%
+0%
+MediaWiki core - EXIF tags
+378
+241
+36%
+0%
+0%
+Pdf Handler
+11
+11
+0%
+0%
+0%
+Phonos
+25
+25
+0%
+0%
+0%
+Uploads Link
+5
+5
+0%
+0%
+0%
+Wikibase Media Info
+114
+114
+0%
+0%
+0%
+Wikimedia Creative Commons License Texts
+211
+199
+5%
+0%
+0%
+Extensions used by Wikimedia - Technical
+4,347
+4,334
+0%
+0%
+1%
+Abuse Filter - API
+49
+49
+0%
+0%
+0%
+Anti Spoof - API
+4
+4
+0%
+0%
+0%
+Api Feature Usage - API
+7
+7
+0%
+0%
+0%
+Api Feature Usage - User interface
+15
+15
+0%
+0%
+0%
+Babel - API
+3
+3
+0%
+0%
+0%
+Beta Features - API
+3
+3
+0%
+0%
+0%
+Bounce Handler - API
+4
+4
+0%
+0%
+0%
+Campaign Events - Rest API
+12
+12
+0%
+0%
+0%
+Category Tree - API
+5
+5
+0%
+0%
+0%
+Central Auth - API
+78
+78
+0%
+0%
+0%
+Central Notice - API
+35
+35
+0%
+0%
+0%
+Check User - API
+32
+32
+0%
+0%
+0%
+Cirrus Search - API
+24
+24
+0%
+0%
+0%
+Collection - API
+64
+64
+0%
+0%
+0%
+Confirm Edit - API
+2
+2
+0%
+0%
+0%
+Confirm Edit Fancy Captcha - API
+2
+2
+0%
+0%
+0%
+Content Translation - API
+139
+139
+0%
+0%
+0%
+Discussion Tools - API
+35
+35
+0%
+0%
+0%
+Donation Interface - Gateway Common - API
+55
+55
+0%
+0%
+0%
+Echo - API
+72
+72
+0%
+0%
+0%
+Event Stream Config
+8
+8
+0%
+0%
+0%
+Extension Distributor - API
+6
+6
+0%
+0%
+0%
+Featured Feeds - API
+5
+5
+0%
+0%
+0%
+Flagged Revisions - API
+65
+65
+0%
+0%
+0%
+Flow - API
+108
+108
+0%
+0%
+0%
+Gadgets - API
+22
+22
+0%
+0%
+0%
+Geo Data - API
+40
+40
+0%
+0%
+0%
+Global Blocking - API
+22
+22
+0%
+0%
+0%
+Global Preferences - API
+26
+26
+0%
+0%
+0%
+Global Usage - API
+10
+10
+0%
+0%
+0%
+Graph - API
+9
+9
+0%
+0%
+0%
+Growth Experiments - Help Panel API
+10
+10
+0%
+0%
+0%
+Growth Experiments - Homepage API
+19
+19
+0%
+0%
+0%
+Growth Experiments - Mentorship API
+31
+31
+0%
+0%
+0%
+Growth Experiments - Newcomer Tasks API
+40
+40
+0%
+0%
+0%
+Json Config - API
+17
+17
+0%
+0%
+0%
+Kartographer - API
+10
+10
+0%
+0%
+0%
+Linter - API
+11
+11
+0%
+0%
+0%
+Machine Vision - API
+32
+32
+0%
+0%
+0%
+Mass Message - API
+20
+20
+0%
+0%
+0%
+Math - API
+4
+4
+0%
+0%
+0%
+Media Moderation
+1
+1
+0%
+0%
+0%
+MediaWiki Action API
+1,910
+1,904
+0%
+0%
+0%
+MediaWiki Rest API
+43
+43
+0%
+0%
+0%
+Mobile Frontend - API
+4
+4
+0%
+0%
+0%
+Newsletter - API
+16
+16
+0%
+0%
+0%
+OATH Auth - API
+10
+10
+0%
+0%
+0%
+OAuth Rate Limiter
+1
+1
+0%
+0%
+0%
+Page Assessments - API
+19
+19
+0%
+0%
+0%
+Page Images - API
+12
+12
+0%
+0%
+0%
+Page View Info - API
+15
+15
+0%
+0%
+0%
+ProofreadPage - API
+27
+22
+18%
+0%
+4%
+PropertySuggester - API
+18
+18
+0%
+0%
+0%
+Reading Lists - API
+74
+74
+0%
+0%
+0%
+Scribunto - API
+6
+6
+0%
+0%
+0%
+SecurePoll - API
+14
+14
+0%
+0%
+0%
+Site Matrix - API
+10
+10
+0%
+0%
+0%
+Spam Blacklist - API
+3
+3
+0%
+0%
+0%
+Template Data - API
+8
+8
+0%
+0%
+0%
+Template Sandbox - API
+6
+6
+0%
+0%
+0%
+TextExtracts - API
+16
+16
+0%
+0%
+0%
+Thanks - API
+8
+8
+0%
+0%
+0%
+Timed Media Handler - API
+24
+24
+0%
+0%
+0%
+Title Blacklist - API
+7
+7
+0%
+0%
+0%
+Tor Block - API
+4
+4
+0%
+0%
+0%
+Translate - API
+171
+171
+0%
+0%
+0%
+Universal Language Selector - API
+13
+13
+0%
+0%
+0%
+Upload Wizard - API
+10
+10
+0%
+0%
+0%
+Url Shortener - API
+5
+5
+0%
+0%
+0%
+Visual Editor (MediaWiki extension) - API
+44
+42
+4%
+0%
+0%
+Vue Test
+9
+9
+0%
+0%
+0%
+Web Authn - API
+3
+3
+0%
+0%
+0%
+Wiki Lambda - API
+87
+87
+0%
+0%
+0%
+Wiki Love - API
+12
+12
+0%
+0%
+0%
+Wikibase - Client - API
+48
+48
+0%
+0%
+0%
+Wikibase - Repo - API
+302
+302
+0%
+0%
+0%
+Wikibase Lexeme - API
+69
+69
+0%
+0%
+0%
+Wikibase Quality Constraints - API
+23
+23
+0%
+0%
+0%
+Wikimedia Api Portal OAuth
+51
+51
+0%
+0%
+0%
+Wikimedia Editor Tasks - API
+14
+14
+0%
+0%
+0%
+Wikimedia Events
+5
+5
+0%
+0%
+0%
+Wikimedia ParamValidator library
+55
+55
+0%
+0%
+0%
+WikimediaApiPortal
+15
+15
+0%
+0%
+0%
+Extensions used by Wikimedia - Upcoming
+171
+171
+0%
+0%
+0%
+Capiunto
+1
+1
+0%
+0%
+0%
+Chess Browser
+48
+48
+0%
+0%
+0%
+Stop Forum Spam
+6
+6
+0%
+0%
+0%
+Wikistories - API
+1
+1
+0%
+0%
+0%
+Wikistories - User interface
+115
+115
+0%
+0%
+0%
+Credits Source
+3
+3
+0%
+0%
+0%
+Geo Crumbs
+1
+1
+0%
+0%
+0%
+Insider
+4
+4
+0%
+0%
+0%
+Kartographer - WV
+7
+7
+0%
+0%
+0%
+Listings
+9
+9
+0%
+0%
+0%
+Map Sources
+15
+15
+0%
+0%
+0%
+Related Articles
+2
+2
+0%
+0%
+0%
+Toc Tree
+4
+4
+0%
+0%
+0%
+External Articles
+2
+2
+0%
+0%
+0%
+External Content
+12
+12
+0%
+0%
+0%
+External Data
+62
+62
+0%
+0%
+0%
+External Guidance
+37
+37
+0%
+0%
+0%
+ExtJS Base
+4
+4
+0%
+0%
+0%
+Extra Language Link
+8
+8
+0%
+0%
+0%
+FacetedCategory
+8
+8
+0%
+0%
+0%
+Fan Boxes
+78
+78
+0%
+0%
+0%
+Featured Feeds - API
+5
+5
+0%
+0%
+0%
+Featured Feeds - User interface
+42
+42
+0%
+0%
+0%
+Featured Feeds - API
+5
+5
+0%
+0%
+0%
+Featured Feeds - User interface
+42
+42
+0%
+0%
+0%
+File Annotations
+11
+11
+0%
+0%
+0%
+File Exporter
+5
+5
+0%
+0%
+0%
+File Importer
+86
+86
+0%
+0%
+0%
+File System Image Server
+1
+1
+0%
+0%
+0%
+Filter List Users
+4
+4
+0%
+0%
+0%
+Filter Special Pages
+2
+2
+0%
+0%
+0%
+FinnFrameNet
+4
+4
+0%
+0%
+0%
+Fixed Header Table
+1
+1
+0%
+0%
+0%
+Flagged Revisions - API
+65
+65
+0%
+0%
+0%
+Flagged Revisions - Configured Pages
+6
+6
+0%
+0%
+0%
+Flagged Revisions - Flagged Revs
+146
+145
+0%
+0%
+0%
+Flagged Revisions - Pending Changes
+15
+15
+0%
+0%
+0%
+Flagged Revisions - Revision Review
+58
+58
+0%
+0%
+0%
+Flagged Revisions - Stabilization
+31
+31
+0%
+0%
+0%
+Flagged Revisions - Stable Pages
+5
+5
+0%
+0%
+0%
+Flagged Revisions - Unreviewed Pages
+13
+13
+0%
+0%
+0%
+Flagged Revisions - Validation Statistics
+16
+16
+0%
+0%
+0%
+Flagged Revs
+355
+354
+0%
+0%
+0%
+Flagged Revisions - API
+65
+65
+0%
+0%
+0%
+Flagged Revisions - Configured Pages
+6
+6
+0%
+0%
+0%
+Flagged Revisions - Flagged Revs
+146
+145
+0%
+0%
+0%
+Flagged Revisions - Pending Changes
+15
+15
+0%
+0%
+0%
+Flagged Revisions - Revision Review
+58
+58
+0%
+0%
+0%
+Flagged Revisions - Stabilization
+31
+31
+0%
+0%
+0%
+Flagged Revisions - Stable Pages
+5
+5
+0%
+0%
+0%
+Flagged Revisions - Unreviewed Pages
+13
+13
+0%
+0%
+0%
+Flagged Revisions - Validation Statistics
+16
+16
+0%
+0%
+0%
+Flex Diagrams
+15
+15
+0%
+0%
+0%
+Flexi Skin
+90
+90
+0%
+0%
+0%
+Flickr API
+1
+1
+0%
+0%
+0%
+Flow - API
+108
+108
+0%
+0%
+0%
+Flow - User interface
+514
+514
+0%
+0%
+0%
+Flow - API
+108
+108
+0%
+0%
+0%
+Flow - User interface
+514
+514
+0%
+0%
+0%
+Force Preview
+4
+4
+0%
+0%
+0%
+Form
+21
+21
+0%
+0%
+0%
+Form Wizard
+12
+12
+0%
+0%
+0%
+Format Dates
+1
+1
+0%
+0%
+0%
+Forms
+90
+90
+0%
+0%
+0%
+Fundraiser Landing Page
+1
+1
+0%
+0%
+0%
+Fundraising Email Unsubscribe
+35
+35
+0%
+0%
+0%
+Fundraising Translate Workflow
+1
+1
+0%
+0%
+0%
+Gadgets
+60
+60
+0%
+0%
+0%
+Gadgets - API
+22
+22
+0%
+0%
+0%
+Gadgets - User interface
+38
+38
+0%
+0%
+0%
+Gadgets - API
+22
+22
+0%
+0%
+0%
+Gadgets - User interface
+38
+38
+0%
+0%
+0%
+Genealogy
+14
+14
+0%
+0%
+0%
+Generate Mocha Config
+1
+1
+0%
+0%
+0%
+Geo Crumbs
+1
+1
+0%
+0%
+0%
+Geo Data - API
+40
+40
+0%
+0%
+0%
+Geo Data - User interface
+23
+23
+0%
+0%
+0%
+Geo Data - API
+40
+40
+0%
+0%
+0%
+Geo Data - User interface
+23
+23
+0%
+0%
+0%
+GeoGebra
+5
+5
+0%
+0%
+0%
+Getting Started - API
+5
+5
+0%
+0%
+0%
+Getting Started - User interface
+31
+31
+0%
+0%
+0%
+GettingStarted
+36
+36
+0%
+0%
+0%
+Getting Started - API
+5
+5
+0%
+0%
+0%
+Getting Started - User interface
+31
+31
+0%
+0%
+0%
+Git 2 Pages
+1
+1
+0%
+0%
+0%
+Git Gadgets
+1
+1
+0%
+0%
+0%
+Global Blocking - API
+22
+22
+0%
+0%
+0%
+Global Blocking - User interface
+117
+116
+0%
+0%
+0%
+Global Contributions
+5
+5
+0%
+0%
+0%
+Global Css Js - Core
+8
+8
+0%
+0%
+0%
+Global Notice
+1
+1
+0%
+0%
+0%
+Global Preferences - API
+26
+26
+0%
+0%
+0%
+Global Preferences - User interface
+14
+14
+0%
+0%
+0%
+Global Preferences - API
+26
+26
+0%
+0%
+0%
+Global Preferences - User interface
+14
+14
+0%
+0%
+0%
+Global Usage
+30
+26
+13%
+0%
+0%
+Global Usage - API
+10
+10
+0%
+0%
+0%
+Global Usage - User interface
+20
+16
+20%
+0%
+0%
+Global Usage - API
+10
+10
+0%
+0%
+0%
+Global Usage - User interface
+20
+16
+20%
+0%
+0%
+Global User Groups
+1
+1
+0%
+0%
+0%
+Global User Page
+4
+4
+0%
+0%
+0%
+Global Userrights
+8
+8
+0%
+0%
+0%
+Global Watchlist
+83
+81
+2%
+0%
+0%
+Global Blocking - API
+22
+22
+0%
+0%
+0%
+Global Blocking - User interface
+117
+116
+0%
+0%
+0%
+GlobalNewFiles
+4
+4
+0%
+0%
+0%
+Google AdSense
+2
+2
+0%
+0%
+0%
+google Analytics
+3
+3
+0%
+0%
+0%
+Google Analytics Metrics
+2
+2
+0%
+0%
+0%
+Google Analytics Top Pages
+3
+3
+0%
+0%
+0%
+Google Authenticator
+8
+8
+0%
+0%
+0%
+Google Custom Wiki Search
+2
+2
+0%
+0%
+0%
+Google Doc Tag
+2
+2
+0%
+0%
+0%
+Google Docs 4 MW
+1
+1
+0%
+0%
+0%
+Google Geocode
+1
+1
+0%
+0%
+0%
+Google Login
+72
+72
+0%
+0%
+0%
+Google News Sitemap
+4
+4
+0%
+0%
+0%
+Google Places
+1
+1
+0%
+0%
+0%
+Google Site Search
+4
+4
+0%
+0%
+0%
+GPG Mail
+5
+5
+0%
+0%
+0%
+Graph - API
+9
+9
+0%
+0%
+0%
+Graph - User interface
+42
+42
+0%
+0%
+0%
+Graph - API
+9
+9
+0%
+0%
+0%
+Graph - User interface
+42
+42
+0%
+0%
+0%
+Graph QL
+16
+16
+0%
+0%
+0%
+Graph Viz
+25
+25
+0%
+0%
+0%
+Gravatar
+5
+5
+0%
+0%
+0%
+Group Whitelist
+1
+1
+0%
+0%
+0%
+Groups Sidebar
+1
+1
+0%
+0%
+0%
+Growth Experiments
+1,276
+1,276
+0%
+0%
+1%
+Growth Experiments - Confirm Email
+17
+17
+0%
+0%
+0%
+Growth Experiments - Help Panel
+185
+185
+0%
+0%
+0%
+Growth Experiments - Help Panel API
+10
+10
+0%
+0%
+0%
+Growth Experiments - Homepage
+616
+616
+0%
+0%
+1%
+Growth Experiments - Homepage API
+19
+19
+0%
+0%
+0%
+Growth Experiments - Mentorship
+212
+212
+0%
+0%
+0%
+Growth Experiments - Mentorship API
+31
+31
+0%
+0%
+0%
+Growth Experiments - Newcomer Tasks API
+40
+40
+0%
+0%
+0%
+Growth Experiments - User interface
+93
+93
+0%
+0%
+0%
+Growth Experiments - Welcome Survey
+53
+53
+0%
+0%
+0%
+Growth Experiments - Confirm Email
+17
+17
+0%
+0%
+0%
+Growth Experiments - Help Panel
+185
+185
+0%
+0%
+0%
+Growth Experiments - Help Panel API
+10
+10
+0%
+0%
+0%
+Growth Experiments - Homepage
+616
+616
+0%
+0%
+1%
+Growth Experiments - Homepage API
+19
+19
+0%
+0%
+0%
+Growth Experiments - Mentorship
+212
+212
+0%
+0%
+0%
+Growth Experiments - Mentorship API
+31
+31
+0%
+0%
+0%
+Growth Experiments - Newcomer Tasks API
+40
+40
+0%
+0%
+0%
+Growth Experiments - User interface
+93
+93
+0%
+0%
+0%
+Growth Experiments - Welcome Survey
+53
+53
+0%
+0%
+0%
+GTag
+7
+7
+0%
+0%
+0%
+Guided Tour
+27
+27
+0%
+0%
+0%
+HA Welcome
+7
+7
+0%
+0%
+0%
+Hash Tables
+1
+1
+0%
+0%
+0%
+Head Script
+1
+1
+0%
+0%
+0%
+Header Tabs
+3
+3
+0%
+0%
+0%
+Help Commons
+5
+5
+0%
+0%
+0%
+Help Pages
+3
+3
+0%
+0%
+0%
+Hide Prefix
+1
+1
+0%
+0%
+0%
+Hierarchy Builder
+15
+15
+0%
+0%
+0%
+Hit Counters
+15
+14
+6%
+0%
+0%
+Host Stats
+5
+5
+0%
+0%
+0%
+HSTS
+5
+5
+0%
+0%
+0%
+Html 2 Wiki
+21
+21
+0%
+0%
+0%
+HTML Purifier
+1
+1
+0%
+0%
+0%
+HTML Tags
+3
+3
+0%
+0%
+0%
+HTML Templates
+3
+3
+0%
+0%
+0%
+HTMLets
+3
+3
+0%
+0%
+0%
+I18n Tags
+1
+1
+0%
+0%
+0%
+ID Generator
+1
+1
+0%
+0%
+0%
+Iframe Page
+3
+3
+0%
+0%
+0%
+Image Map
+12
+12
+0%
+0%
+0%
+Image Map Edit
+1
+1
+0%
+0%
+0%
+Image Rating
+27
+27
+0%
+0%
+0%
+Image Suggestions
+12
+12
+0%
+0%
+0%
+Image Tweaks
+22
+22
+0%
+0%
+0%
+Import Articles
+1
+1
+0%
+0%
+0%
+Import Free Images
+13
+13
+0%
+0%
+0%
+Import Office Files
+36
+36
+0%
+0%
+0%
+Import Users
+31
+31
+0%
+0%
+0%
+ImportDump
+119
+119
+0%
+0%
+0%
+IncidentReporting
+61
+61
+0%
+0%
+0%
+Inline Categorizer
+22
+22
+0%
+0%
+0%
+Input Box
+10
+9
+10%
+0%
+0%
+Insider
+4
+4
+0%
+0%
+0%
+Interactive Block Message
+1
+1
+0%
+0%
+0%
+Interlanguage
+3
+3
+0%
+0%
+0%
+Intersection
+7
+7
+0%
+0%
+0%
+Interwiki
+59
+59
+0%
+0%
+0%
+Interwiki Extracts
+6
+6
+0%
+0%
+0%
+Interwiki Sorting
+1
+1
+0%
+0%
+0%
+Invite Signup
+14
+14
+0%
+0%
+0%
+IP Info
+97
+97
+0%
+0%
+0%
+Josa
+1
+1
+0%
+0%
+0%
+JS Bread Crumbs
+12
+12
+0%
+0%
+0%
+Json Config - API
+17
+17
+0%
+0%
+0%
+Json Config - User interface
+57
+57
+0%
+0%
+0%
+JsonConfig
+74
+74
+0%
+0%
+0%
+Json Config - API
+17
+17
+0%
+0%
+0%
+Json Config - User interface
+57
+57
+0%
+0%
+0%
+Kartographer - API
+10
+10
+0%
+0%
+0%
+Kartographer - User interface
+105
+105
+0%
+0%
+0%
+Kartographer - WV
+7
+7
+0%
+0%
+0%
+Kartographer - API
+10
+10
+0%
+0%
+0%
+Kartographer - User interface
+105
+105
+0%
+0%
+0%
+Kartographer - WV
+7
+7
+0%
+0%
+0%
+Katsa
+5
+5
+0%
+0%
+0%
+Labeled Section Transclusion
+3
+3
+0%
+0%
+0%
+Lakeus
+132
+132
+0%
+0%
+0%
+Landing Check
+3
+3
+0%
+0%
+0%
+Language Selector
+3
+3
+0%
+0%
+0%
+Language Tag
+1
+1
+0%
+0%
+0%
+LanguageTool
+2
+2
+0%
+0%
+0%
+Last Modified
+9
+9
+0%
+0%
+0%
+Last User Login
+11
+11
+0%
+0%
+0%
+Ldap Authentication
+6
+6
+0%
+0%
+0%
+LDAP Authorization
+1
+1
+0%
+0%
+0%
+LDAP Groups
+1
+1
+0%
+0%
+0%
+LDAP Provider
+7
+7
+0%
+0%
+0%
+Legal Login
+30
+30
+0%
+0%
+0%
+Lingo
+7
+7
+0%
+0%
+0%
+Link Filter
+67
+67
+0%
+0%
+0%
+Link Suggest
+7
+7
+0%
+0%
+0%
+Link Suggest 2
+2
+2
+0%
+0%
+0%
+Link Target
+1
+1
+0%
+0%
+0%
+Link_Attributes
+1
+1
+0%
+0%
+0%
+Linked Wiki
+58
+58
+0%
+0%
+0%
+Linter
+103
+103
+0%
+0%
+0%
+Linter - API
+11
+11
+0%
+0%
+0%
+Linter - User interface
+92
+92
+0%
+0%
+0%
+Linter - API
+11
+11
+0%
+0%
+0%
+Linter - User interface
+92
+92
+0%
+0%
+0%
+Liquid Threads - API
+60
+60
+0%
+0%
+0%
+Liquid Threads - User interface
+239
+239
+0%
+0%
+0%
+Liquid Threads - API
+60
+60
+0%
+0%
+0%
+Liquid Threads - User interface
+239
+239
+0%
+0%
+0%
+Listings
+9
+9
+0%
+0%
+0%
+Localisation Update
+1
+1
+0%
+0%
+0%
+Lock Author
+3
+3
+0%
+0%
+0%
+Lock Down English Pages
+1
+1
+0%
+0%
+0%
+Lockdown
+1
+1
+0%
+0%
+0%
+Log Entry
+6
+6
+0%
+0%
+0%
+Login Notify
+12
+12
+0%
+0%
+0%
+Logo Functions
+2
+2
+0%
+0%
+0%
+Lookup User
+18
+18
+0%
+0%
+0%
+Loop Functions
+2
+2
+0%
+0%
+0%
+Loops
+6
+6
+0%
+0%
+0%
+Lüüdi
+21
+21
+0%
+0%
+0%
+Machine Vision
+102
+102
+0%
+0%
+0%
+Machine Vision - API
+32
+32
+0%
+0%
+0%
+Machine Vision - User interface
+70
+70
+0%
+0%
+0%
+Machine Vision - API
+32
+32
+0%
+0%
+0%
+Machine Vision - User interface
+70
+70
+0%
+0%
+0%
+Mad Lib
+1
+1
+0%
+0%
+0%
+Magic No Cache
+1
+1
+0%
+0%
+0%
+Magic Numbered Headings
+1
+1
+0%
+0%
+0%
+Mailgun
+1
+1
+0%
+0%
+0%
+Maintenance
+201
+200
+0%
+0%
+0%
+Maintenance Shell
+13
+13
+0%
+0%
+0%
+ManageWiki
+163
+163
+0%
+0%
+0%
+Map Sources
+15
+15
+0%
+0%
+0%
+Maps
+250
+250
+0%
+0%
+0%
+Mark As Helpful
+19
+19
+0%
+0%
+0%
+Mass Edit Regex
+47
+47
+0%
+0%
+0%
+Mass Message - API
+20
+20
+0%
+0%
+0%
+Mass Message - User interface
+138
+138
+0%
+0%
+0%
+Mass Message - API
+20
+20
+0%
+0%
+0%
+Mass Message - User interface
+138
+138
+0%
+0%
+0%
+Mass Message Email
+1
+1
+0%
+0%
+0%
+Math - API
+4
+4
+0%
+0%
+0%
+Math - User interface
+100
+100
+0%
+0%
+0%
+Math - API
+4
+4
+0%
+0%
+0%
+Math - User interface
+100
+100
+0%
+0%
+0%
+Math Search
+151
+151
+0%
+0%
+0%
+MatomoAnalytics
+20
+20
+0%
+0%
+0%
+Media Functions
+3
+3
+0%
+0%
+0%
+Media Moderation
+1
+1
+0%
+0%
+0%
+Media Search
+78
+78
+0%
+0%
+0%
+Media Uploader
+270
+270
+0%
+0%
+0%
+Media Uploader - API
+4
+4
+0%
+0%
+0%
+Media Uploader - License
+44
+44
+0%
+0%
+0%
+Media Uploader - User interface
+220
+220
+0%
+0%
+0%
+Media Uploader - API
+4
+4
+0%
+0%
+0%
+Media Uploader - License
+44
+44
+0%
+0%
+0%
+Media Uploader - User interface
+220
+220
+0%
+0%
+0%
+MediaWiki Auth
+18
+18
+0%
+0%
+0%
+MediaWiki Chat
+85
+85
+0%
+0%
+0%
+MediaWiki Farm
+1
+1
+0%
+0%
+0%
+Menu Editor
+32
+32
+0%
+0%
+0%
+Merge Articles
+70
+70
+0%
+0%
+0%
+Mermaid
+1
+1
+0%
+0%
+0%
+Meta Master
+1
+1
+0%
+0%
+0%
+Metadata
+1
+1
+0%
+0%
+0%
+Mini Invite
+31
+31
+0%
+0%
+0%
+Minimum Name Length
+2
+2
+0%
+0%
+0%
+Minty Docs
+41
+41
+0%
+0%
+0%
+Miraheze ErrorPages
+25
+25
+0%
+0%
+0%
+Miraheze Landing Page
+48
+48
+0%
+0%
+0%
+MirahezeMagic Custom
+182
+182
+0%
+0%
+0%
+MirahezeMagic Override
+21
+21
+0%
+0%
+0%
+Missed Pages
+20
+20
+0%
+0%
+0%
+Mobile App
+8
+7
+12%
+0%
+0%
+Mobile Detect
+1
+1
+0%
+0%
+0%
+Mobile Frontend
+206
+195
+5%
+0%
+0%
+Mobile Frontend - API
+4
+4
+0%
+0%
+0%
+Mobile Frontend - User interface
+202
+191
+5%
+0%
+0%
+Mobile Frontend - API
+4
+4
+0%
+0%
+0%
+Mobile Frontend - User interface
+202
+191
+5%
+0%
+0%
+ModDoc
+1
+1
+0%
+0%
+0%
+Model
+1
+1
+0%
+0%
+0%
+Moderation
+109
+109
+0%
+0%
+0%
+Modern Timeline
+15
+15
+0%
+0%
+0%
+Monaco
+11
+11
+0%
+0%
+0%
+Monaco - ContentRightSidebar
+1
+1
+0%
+0%
+0%
+Montserrat Font
+1
+1
+0%
+0%
+0%
+MP3 Media Handler
+1
+1
+0%
+0%
+0%
+Mpdf
+2
+2
+0%
+0%
+0%
+Ms Calendar
+21
+21
+0%
+0%
+0%
+Ms Cat Select
+10
+10
+0%
+0%
+0%
+Ms Insert
+2
+2
+0%
+0%
+0%
+Ms Links
+3
+3
+0%
+0%
+0%
+Ms Upload
+17
+17
+0%
+0%
+0%
+Ms Wiki Editor
+1
+1
+0%
+0%
+0%
+Multi Boilerplate
+9
+9
+0%
+0%
+0%
+Multi Language Manager
+27
+27
+0%
+0%
+0%
+Multi Mail
+71
+71
+0%
+0%
+0%
+Multi Maps
+32
+32
+0%
+0%
+0%
+Multimedia Player
+1
+1
+0%
+0%
+0%
+Multimedia Viewer
+119
+119
+0%
+0%
+0%
+MW Version Info
+4
+4
+0%
+0%
+0%
+My Variables
+1
+1
+0%
+0%
+0%
+Namespace HTML
+1
+1
+0%
+0%
+0%
+Namespace Paths
+1
+1
+0%
+0%
+0%
+Namespace Relations
+1
+1
+0%
+0%
+0%
+Namespace Sidebar
+1
+1
+0%
+0%
+0%
+Natural Language List
+2
+2
+0%
+0%
+0%
+Navigation Timing
+1
+1
+0%
+0%
+0%
+NCBI Taxonomy Lookup
+1
+1
+0%
+0%
+0%
+Nearby Pages
+17
+17
+0%
+0%
+0%
+Negref
+1
+1
+0%
+0%
+0%
+Network
+19
+19
+0%
+0%
+0%
+Network Auth
+1
+1
+0%
+0%
+0%
+New User Actions
+4
+4
+0%
+0%
+0%
+New User Message
+2
+2
+0%
+0%
+0%
+New User Notification
+3
+3
+0%
+0%
+0%
+Newest Pages
+11
+11
+0%
+0%
+0%
+News Ticker
+29
+29
+0%
+0%
+0%
+NewSignupPage
+6
+6
+0%
+0%
+0%
+Newsletter
+167
+167
+0%
+0%
+0%
+Newsletter - API
+16
+16
+0%
+0%
+0%
+Newsletter - User
+151
+151
+0%
+0%
+0%
+Newsletter - API
+16
+16
+0%
+0%
+0%
+Newsletter - User
+151
+151
+0%
+0%
+0%
+No Bogus Userpages
+4
+4
+0%
+0%
+0%
+No Cat
+2
+2
+0%
+0%
+0%
+No Title
+1
+1
+0%
+0%
+0%
+Notebook Viewer
+1
+1
+0%
+0%
+0%
+Notes Link
+1
+1
+0%
+0%
+0%
+NS File Repo
+10
+10
+0%
+0%
+0%
+Nuke
+26
+26
+0%
+0%
+0%
+Nuke DPL
+10
+10
+0%
+0%
+0%
+Number Format
+3
+3
+0%
+0%
+0%
+Numbertext
+1
+1
+0%
+0%
+0%
+Numer Alpha
+15
+15
+0%
+0%
+0%
+OATH Auth - API
+10
+10
+0%
+0%
+0%
+OATH Auth - User interface
+90
+90
+0%
+0%
+0%
+OATH Auth - API
+10
+10
+0%
+0%
+0%
+OATH Auth - User interface
+90
+90
+0%
+0%
+0%
+OAuth
+343
+343
+0%
+0%
+0%
+OAuth Rate Limiter
+1
+1
+0%
+0%
+0%
+OdbcDatabase
+9
+9
+0%
+0%
+0%
+Online Status
+14
+14
+0%
+0%
+0%
+Online Status Bar
+22
+22
+0%
+0%
+0%
+Only Recent Recent Changes
+2
+2
+0%
+0%
+0%
+OO JS Plus
+49
+49
+0%
+0%
+0%
+OO Js UI Ajax Login
+2
+2
+0%
+0%
+0%
+OOjs UI (via VisualEditor)
+23
+11
+52%
+0%
+0%
+Open Badges
+58
+58
+0%
+0%
+0%
+Open Graph Meta
+1
+1
+0%
+0%
+0%
+Open ID Connect
+2
+2
+0%
+0%
+0%
+Open Js Cad
+1
+1
+0%
+0%
+0%
+Open Layers
+1
+1
+0%
+0%
+0%
+Open Stack Manager
+34
+34
+0%
+0%
+0%
+ORES - API
+7
+7
+0%
+0%
+0%
+ORES - User interface
+52
+52
+0%
+0%
+0%
+ORES - API
+7
+7
+0%
+0%
+0%
+ORES - User interface
+52
+52
+0%
+0%
+0%
+Orphaned Talk Pages
+3
+3
+0%
+0%
+0%
+Our World In Data
+2
+2
+0%
+0%
+0%
+Page Assessments - API
+19
+19
+0%
+0%
+0%
+Page Assessments - User interface
+11
+11
+0%
+0%
+0%
+Page Authors
+1
+1
+0%
+0%
+0%
+Page Checkout
+27
+27
+0%
+0%
+0%
+Page Creation Notif
+4
+4
+0%
+0%
+0%
+Page Disqus
+4
+4
+0%
+0%
+0%
+Page Exchange
+50
+50
+0%
+0%
+0%
+Page Forms
+301
+301
+0%
+0%
+0%
+Page Images - API
+12
+12
+0%
+0%
+0%
+Page Images - User interface
+2
+2
+0%
+0%
+0%
+Page In Cat
+3
+3
+0%
+0%
+0%
+Page Magic
+1
+1
+0%
+0%
+0%
+Page Name Formula
+1
+1
+0%
+0%
+0%
+Page Notice
+1
+1
+0%
+0%
+0%
+Page Permissions
+15
+15
+0%
+0%
+0%
+Page Schemas
+41
+41
+0%
+0%
+0%
+Page Tools
+1
+1
+0%
+0%
+0%
+Page Triage
+406
+406
+0%
+0%
+0%
+Page View Info - API
+15
+15
+0%
+0%
+0%
+Page View Info - User interface
+6
+6
+0%
+0%
+0%
+Page View Info GA
+1
+1
+0%
+0%
+0%
+Page Assessments - API
+19
+19
+0%
+0%
+0%
+Page Assessments - User interface
+11
+11
+0%
+0%
+0%
+Paged Tiff Handler
+14
+14
+0%
+0%
+0%
+PageImages
+14
+14
+0%
+0%
+0%
+Page Images - API
+12
+12
+0%
+0%
+0%
+Page Images - User interface
+2
+2
+0%
+0%
+0%
+Pages List
+14
+14
+0%
+0%
+0%
+PageViewInfo
+21
+21
+0%
+0%
+0%
+Page View Info - API
+15
+15
+0%
+0%
+0%
+Page View Info - User interface
+6
+6
+0%
+0%
+0%
+Paginate Text
+1
+1
+0%
+0%
+0%
+Pan Scroll
+1
+1
+0%
+0%
+0%
+Parent Page
+2
+2
+0%
+0%
+0%
+Parser Functions
+21
+15
+28%
+0%
+0%
+Parser Hooks
+1
+1
+0%
+0%
+0%
+ParserMigration - API
+4
+4
+0%
+0%
+0%
+ParserMigration - User interface
+7
+7
+0%
+0%
+0%
+ParserMigration - API
+4
+4
+0%
+0%
+0%
+ParserMigration - User interface
+7
+7
+0%
+0%
+0%
+Passwordless Login
+22
+22
+0%
+0%
+0%
+PCR GUI Inserts
+1
+1
+0%
+0%
+0%
+Pdf Handler
+11
+11
+0%
+0%
+0%
+PDFEmbed
+7
+7
+0%
+0%
+0%
+Per Page Language
+2
+2
+0%
+0%
+0%
+Per Page License
+1
+1
+0%
+0%
+0%
+Petition
+22
+22
+0%
+0%
+0%
+PGF TikZ
+30
+30
+0%
+0%
+0%
+Phab Task Graph
+18
+18
+0%
+0%
+0%
+Phonos
+25
+25
+0%
+0%
+0%
+Php Highlight
+1
+1
+0%
+0%
+0%
+Php Tags
+7
+7
+0%
+0%
+0%
+Php Tags Functions
+4
+4
+0%
+0%
+0%
+Php Tags SMW
+3
+3
+0%
+0%
+0%
+Php Tags SPARQL
+1
+1
+0%
+0%
+0%
+Php Tags Storage
+1
+1
+0%
+0%
+0%
+Php Tags Widgets
+1
+1
+0%
+0%
+0%
+Php Tags Wiki
+1
+1
+0%
+0%
+0%
+Pickle
+110
+110
+0%
+0%
+0%
+Picture Game
+111
+111
+0%
+0%
+0%
+Pipe Escape
+1
+1
+0%
+0%
+0%
+Plausible
+5
+5
+0%
+0%
+0%
+Pluggable Auth
+8
+8
+0%
+0%
+0%
+Pluggable SSO
+3
+3
+0%
+0%
+0%
+Poem
+1
+1
+0%
+0%
+0%
+Poll NY
+109
+109
+0%
+0%
+0%
+Polyglot
+1
+1
+0%
+0%
+0%
+Popup Alerts
+2
+2
+0%
+0%
+0%
+Popups
+33
+33
+0%
+0%
+0%
+PortableInfobox
+42
+42
+0%
+0%
+0%
+Pre To Clip
+4
+4
+0%
+0%
+0%
+Preferences List
+8
+8
+0%
+0%
+0%
+Preloader
+1
+1
+0%
+0%
+0%
+Prezi
+3
+3
+0%
+0%
+0%
+Private Domains
+11
+11
+0%
+0%
+0%
+Pronunciation Recording
+17
+17
+0%
+0%
+0%
+ProofreadPage
+203
+114
+43%
+0%
+2%
+ProofreadPage - API
+27
+22
+18%
+0%
+4%
+ProofreadPage - User interface
+176
+92
+47%
+0%
+2%
+ProofreadPage - API
+27
+22
+18%
+0%
+4%
+ProofreadPage - User interface
+176
+92
+47%
+0%
+2%
+PropertySuggester - API
+18
+18
+0%
+0%
+0%
+PropertySuggester - User interface
+1
+1
+0%
+0%
+0%
+PropertySuggester - API
+18
+18
+0%
+0%
+0%
+PropertySuggester - User interface
+1
+1
+0%
+0%
+0%
+Protect Site
+36
+36
+0%
+0%
+0%
+Protection Indicator
+13
+13
+0%
+0%
+0%
+Purge
+3
+3
+0%
+0%
+0%
+Purge Click Through
+1
+1
+0%
+0%
+0%
+Push
+82
+82
+0%
+0%
+0%
+Push All
+99
+99
+0%
+0%
+0%
+Push To Watch
+8
+8
+0%
+0%
+0%
+Quantcast
+1
+1
+0%
+0%
+0%
+Quick Instant Commons
+4
+4
+0%
+0%
+0%
+Quick Response
+4
+4
+0%
+0%
+0%
+Quick Search Lookup
+3
+3
+0%
+0%
+0%
+Quick Surveys
+19
+19
+0%
+0%
+0%
+Quiz
+13
+13
+0%
+0%
+0%
+Quiz Game
+147
+147
+0%
+0%
+0%
+Random Area
+1
+1
+0%
+0%
+0%
+Random Game Unit
+4
+4
+0%
+0%
+0%
+Random Image
+1
+1
+0%
+0%
+0%
+Random Image By Category
+1
+1
+0%
+0%
+0%
+Random In Category
+6
+6
+0%
+0%
+0%
+Random Pages
+1
+1
+0%
+0%
+0%
+Random Selection
+1
+1
+0%
+0%
+0%
+Rate Page
+89
+89
+0%
+0%
+0%
+RatePage - API
+15
+15
+0%
+0%
+0%
+RatePage - User interface
+74
+74
+0%
+0%
+0%
+RatePage - API
+15
+15
+0%
+0%
+0%
+RatePage - User interface
+74
+74
+0%
+0%
+0%
+Reading Lists - API
+74
+74
+0%
+0%
+0%
+Reading Lists - User interface
+48
+48
+0%
+0%
+0%
+Reading Lists - API
+74
+74
+0%
+0%
+0%
+Reading Lists - User interface
+48
+48
+0%
+0%
+0%
+Real Me
+9
+9
+0%
+0%
+0%
+Reassign Edits
+12
+12
+0%
+0%
+0%
+Record Wizard
+155
+155
+0%
+0%
+0%
+Record Wizard - API
+7
+7
+0%
+0%
+0%
+Record Wizard - User interface
+148
+148
+0%
+0%
+0%
+Record Wizard - API
+7
+7
+0%
+0%
+0%
+Record Wizard - User interface
+148
+148
+0%
+0%
+0%
+Redirect Manager - API
+4
+4
+0%
+0%
+0%
+Redirect Manager - User Interface
+19
+19
+0%
+0%
+0%
+Redirect Manager - API
+4
+4
+0%
+0%
+0%
+Redirect Manager - User Interface
+19
+19
+0%
+0%
+0%
+Refresh Special
+22
+22
+0%
+0%
+0%
+Regex Block
+60
+60
+0%
+0%
+0%
+Regex Fun
+3
+3
+0%
+0%
+0%
+Regex Functions
+11
+11
+0%
+0%
+0%
+Related Articles
+2
+2
+0%
+0%
+0%
+Related Sites
+3
+3
+0%
+0%
+0%
+RemovePII
+22
+22
+0%
+0%
+0%
+Replace Set
+4
+4
+0%
+0%
+0%
+Replace Text
+40
+40
+0%
+0%
+0%
+Report
+40
+40
+0%
+0%
+0%
+Revision Comment Supplement
+129
+129
+0%
+0%
+0%
+Revision Slider
+27
+27
+0%
+0%
+0%
+Right Functions
+4
+4
+0%
+0%
+0%
+RottenLinks
+11
+11
+0%
+0%
+0%
+RSS
+12
+12
+0%
+0%
+0%
+S5 Slide Show
+7
+7
+0%
+0%
+0%
+Sacred Text
+1
+1
+0%
+0%
+0%
+Safe Delete
+6
+6
+0%
+0%
+0%
+Sanctions
+94
+94
+0%
+0%
+0%
+Sandbox Link
+4
+4
+0%
+0%
+0%
+Sarcasm
+1
+1
+0%
+0%
+0%
+Save Spinner
+1
+1
+0%
+0%
+0%
+Score
+56
+56
+0%
+0%
+0%
+Screenplay
+2
+2
+0%
+0%
+0%
+Scribunto - API
+6
+6
+0%
+0%
+0%
+Scribunto - User interface
+57
+56
+1%
+0%
+0%
+Scribunto - API
+6
+6
+0%
+0%
+0%
+Scribunto - User interface
+57
+56
+1%
+0%
+0%
+Scrollable Tables
+1
+1
+0%
+0%
+0%
+Search Extra NS
+1
+1
+0%
+0%
+0%
+Search Parser Function
+3
+3
+0%
+0%
+0%
+Search Stats
+2
+2
+0%
+0%
+0%
+Search Thumbs
+1
+1
+0%
+0%
+0%
+Search Vue
+29
+29
+0%
+0%
+0%
+Section Anchors
+4
+4
+0%
+0%
+0%
+Section Disqus
+1
+1
+0%
+0%
+0%
+Secure Auth
+8
+8
+0%
+0%
+0%
+Secure HTML
+14
+14
+0%
+0%
+0%
+Secure Link Fixer
+1
+1
+0%
+0%
+0%
+SecurePoll - API
+14
+14
+0%
+0%
+0%
+SecurePoll - User interface
+325
+325
+0%
+0%
+0%
+SecurePoll - API
+14
+14
+0%
+0%
+0%
+SecurePoll - User interface
+325
+325
+0%
+0%
+0%
+Select Category
+3
+3
+0%
+0%
+0%
+Select Tag
+2
+2
+0%
+0%
+0%
+Semantic ACL
+16
+16
+0%
+0%
+0%
+Semantic Approved Revs
+9
+9
+0%
+0%
+0%
+Semantic Breadcrumb Links
+8
+8
+0%
+0%
+0%
+Semantic Bundle
+1
+1
+0%
+0%
+0%
+Semantic Cite
+51
+51
+0%
+0%
+0%
+Semantic Compound Queries
+1
+1
+0%
+0%
+0%
+Semantic Drilldown
+29
+29
+0%
+0%
+0%
+Semantic External Query Lookup
+3
+3
+0%
+0%
+0%
+Semantic Extra Special Properties
+71
+71
+0%
+0%
+0%
+Semantic Forms Select
+1
+1
+0%
+0%
+0%
+Semantic Genealogy
+22
+22
+0%
+0%
+0%
+Semantic Glossary
+6
+6
+0%
+0%
+0%
+Semantic Image Annotator
+4
+4
+0%
+0%
+0%
+Semantic Image Caption
+3
+3
+0%
+0%
+0%
+Semantic Image Input
+2
+2
+0%
+0%
+0%
+Semantic Interlanguage Links
+24
+24
+0%
+0%
+0%
+Semantic Internal Objects
+4
+4
+0%
+0%
+0%
+Semantic MediaWiki
+1,074
+1,071
+0%
+0%
+0%
+Semantic MediaWiki extensions
+1,803
+1,800
+0%
+0%
+0%
+Semantic ACL
+16
+16
+0%
+0%
+0%
+Semantic Approved Revs
+9
+9
+0%
+0%
+0%
+Semantic Breadcrumb Links
+8
+8
+0%
+0%
+0%
+Semantic Bundle
+1
+1
+0%
+0%
+0%
+Semantic Cite
+51
+51
+0%
+0%
+0%
+Semantic Compound Queries
+1
+1
+0%
+0%
+0%
+Semantic Drilldown
+29
+29
+0%
+0%
+0%
+Semantic External Query Lookup
+3
+3
+0%
+0%
+0%
+Semantic Extra Special Properties
+71
+71
+0%
+0%
+0%
+Semantic Forms Select
+1
+1
+0%
+0%
+0%
+Semantic Genealogy
+22
+22
+0%
+0%
+0%
+Semantic Glossary
+6
+6
+0%
+0%
+0%
+Semantic Image Annotator
+4
+4
+0%
+0%
+0%
+Semantic Image Caption
+3
+3
+0%
+0%
+0%
+Semantic Image Input
+2
+2
+0%
+0%
+0%
+Semantic Interlanguage Links
+24
+24
+0%
+0%
+0%
+Semantic Internal Objects
+4
+4
+0%
+0%
+0%
+Semantic MediaWiki
+1,074
+1,071
+0%
+0%
+0%
+Semantic Meta Tags
+1
+1
+0%
+0%
+0%
+Semantic Page Series
+22
+22
+0%
+0%
+0%
+Semantic Rating
+2
+2
+0%
+0%
+0%
+Semantic REST API
+1
+1
+0%
+0%
+0%
+Semantic Result Formats
+359
+359
+0%
+0%
+0%
+Semantic Scribunto
+2
+2
+0%
+0%
+0%
+Semantic Sifter
+3
+3
+0%
+0%
+0%
+Semantic Signup
+11
+11
+0%
+0%
+0%
+Semantic Tasks
+15
+15
+0%
+0%
+0%
+Semantic Watchlist
+47
+47
+0%
+0%
+0%
+Semantic Web Browser
+11
+11
+0%
+0%
+0%
+Semantic Meta Tags
+1
+1
+0%
+0%
+0%
+Semantic Page Series
+22
+22
+0%
+0%
+0%
+Semantic Rating
+2
+2
+0%
+0%
+0%
+Semantic REST API
+1
+1
+0%
+0%
+0%
+Semantic Result Formats
+359
+359
+0%
+0%
+0%
+Semantic Scribunto
+2
+2
+0%
+0%
+0%
+Semantic Sifter
+3
+3
+0%
+0%
+0%
+Semantic Signup
+11
+11
+0%
+0%
+0%
+Semantic Tasks
+15
+15
+0%
+0%
+0%
+Semantic Watchlist
+47
+47
+0%
+0%
+0%
+Semantic Web Browser
+11
+11
+0%
+0%
+0%
+Send Grid
+2
+2
+0%
+0%
+0%
+Sentry
+1
+1
+0%
+0%
+0%
+Share
+28
+28
+0%
+0%
+0%
+Shibboleth
+7
+7
+0%
+0%
+0%
+Short Description
+5
+5
+0%
+0%
+0%
+Short Description - API
+2
+2
+0%
+0%
+0%
+Short Description - Main
+3
+3
+0%
+0%
+0%
+Short Description - API
+2
+2
+0%
+0%
+0%
+Short Description - Main
+3
+3
+0%
+0%
+0%
+Short Url
+6
+6
+0%
+0%
+0%
+Show Me
+1
+1
+0%
+0%
+0%
+Show Real Usernames
+3
+3
+0%
+0%
+0%
+Side Bar Menu
+8
+8
+0%
+0%
+0%
+Sidebar Donate Box
+2
+2
+0%
+0%
+0%
+Sign Writing MediaWiki Plugin
+1
+1
+0%
+0%
+0%
+Similar Editors
+27
+27
+0%
+0%
+0%
+Simple Changes
+4
+4
+0%
+0%
+0%
+Simple SAML php
+1
+1
+0%
+0%
+0%
+Simple Sort
+2
+2
+0%
+0%
+0%
+SimpleBatchUpload
+5
+5
+0%
+0%
+0%
+SimpleBlogPage
+60
+60
+0%
+0%
+0%
+SimpleTooltip
+1
+1
+0%
+0%
+0%
+Site Matrix
+24
+24
+0%
+0%
+0%
+Site Matrix - API
+10
+10
+0%
+0%
+0%
+Site Matrix - User interface
+14
+14
+0%
+0%
+0%
+Site Matrix - API
+10
+10
+0%
+0%
+0%
+Site Matrix - User interface
+14
+14
+0%
+0%
+0%
+Site Metrics
+101
+99
+1%
+0%
+0%
+Site Settings
+56
+56
+0%
+0%
+0%
+Skin Per Namespace
+1
+1
+0%
+0%
+0%
+Skin Per Page
+2
+2
+0%
+0%
+0%
+Slimbox Thumbs
+1
+1
+0%
+0%
+0%
+Smite Spam
+42
+42
+0%
+0%
+0%
+Social Profile
+6
+6
+0%
+0%
+0%
+Social Profile - System Gifts
+70
+70
+0%
+0%
+0%
+Social Profile - User Activity
+18
+18
+0%
+0%
+0%
+Social Profile - User Board
+58
+58
+0%
+0%
+0%
+Social Profile - User Gifts
+83
+83
+0%
+0%
+0%
+Social Profile - User Profile
+217
+217
+0%
+0%
+0%
+Social Profile - User Relationship
+96
+96
+0%
+0%
+0%
+Social Profile - User Stats
+79
+79
+0%
+0%
+0%
+Social Profile - User Welcome
+13
+13
+0%
+0%
+0%
+Sofa
+7
+7
+0%
+0%
+0%
+Software Version
+1
+1
+0%
+0%
+0%
+Sound Manager 2 Button
+2
+2
+0%
+0%
+0%
+Spam Blacklist - API
+3
+3
+0%
+0%
+0%
+Spam Blacklist - User interface
+16
+16
+0%
+0%
+0%
+Spam Blacklist - API
+3
+3
+0%
+0%
+0%
+Spam Blacklist - User interface
+16
+16
+0%
+0%
+0%
+Spam Diff Tool
+17
+17
+0%
+0%
+0%
+Spam Regex
+39
+39
+0%
+0%
+0%
+Spark
+2
+2
+0%
+0%
+0%
+Special 404
+3
+3
+0%
+0%
+0%
+Spelling Api
+4
+4
+0%
+0%
+0%
+Sphinx Search
+5
+5
+0%
+0%
+0%
+Split Private Wiki
+1
+1
+0%
+0%
+0%
+Sports Teams
+139
+139
+0%
+0%
+0%
+SpriteSheet
+58
+58
+0%
+0%
+0%
+Stalker Log
+7
+7
+0%
+0%
+0%
+Standard Dialogs
+49
+49
+0%
+0%
+0%
+Standard Wikitext
+2
+2
+0%
+0%
+0%
+Stat Counter
+2
+2
+0%
+0%
+0%
+Stick To That Language
+3
+3
+0%
+0%
+0%
+StickyTOC
+1
+1
+0%
+0%
+0%
+Stop Forum Spam
+6
+6
+0%
+0%
+0%
+Structured Navigation - API
+14
+14
+0%
+0%
+0%
+Structured Navigation - User interface
+21
+21
+0%
+0%
+0%
+Structured Navigation - API
+14
+14
+0%
+0%
+0%
+Structured Navigation - User interface
+21
+21
+0%
+0%
+0%
+Sub Page List
+21
+21
+0%
+0%
+0%
+Sub Page List 3
+3
+3
+0%
+0%
+0%
+Subpage Fun
+1
+1
+0%
+0%
+0%
+Subpage Sortkey
+1
+1
+0%
+0%
+0%
+Sudo
+22
+22
+0%
+0%
+0%
+Summary Cards
+5
+5
+0%
+0%
+0%
+Survey
+152
+152
+0%
+0%
+0%
+SVG Edit
+9
+9
+0%
+0%
+0%
+Swift Mailer
+3
+3
+0%
+0%
+0%
+Syntax Highlight GeSHi
+16
+16
+0%
+0%
+0%
+TabberNeue - StarCitizen
+7
+7
+0%
+0%
+0%
+Tabs
+5
+5
+0%
+0%
+0%
+TEI
+38
+38
+0%
+0%
+0%
+Template Data - API
+8
+8
+0%
+0%
+0%
+Template Data - User interface
+108
+108
+0%
+0%
+0%
+Template Data - API
+8
+8
+0%
+0%
+0%
+Template Data - User interface
+108
+108
+0%
+0%
+0%
+Template Sandbox - API
+6
+6
+0%
+0%
+0%
+Template Sandbox - User interface
+32
+32
+0%
+0%
+0%
+Template Sandbox - API
+6
+6
+0%
+0%
+0%
+Template Sandbox - User interface
+32
+32
+0%
+0%
+0%
+Template Styles
+61
+61
+0%
+0%
+0%
+Template Wizard
+35
+35
+0%
+0%
+0%
+Test Language Name Grammar
+5
+5
+0%
+0%
+0%
+Text Scroller
+1
+1
+0%
+0%
+0%
+TextExtracts
+17
+17
+0%
+0%
+0%
+TextExtracts - API
+16
+16
+0%
+0%
+0%
+TextExtracts - User interface
+1
+1
+0%
+0%
+0%
+TextExtracts - API
+16
+16
+0%
+0%
+0%
+TextExtracts - User interface
+1
+1
+0%
+0%
+0%
+Thanks - API
+8
+8
+0%
+0%
+0%
+Thanks - User interface
+55
+53
+3%
+0%
+0%
+Thanks - API
+8
+8
+0%
+0%
+0%
+Thanks - User interface
+55
+53
+3%
+0%
+0%
+The Wikipedia Library
+4
+4
+0%
+0%
+0%
+Theme
+6
+6
+0%
+0%
+0%
+Throttle Override
+44
+43
+2%
+0%
+0%
+Time Machine
+7
+7
+0%
+0%
+0%
+Timed Media Handler - API
+24
+24
+0%
+0%
+0%
+Timed Media Handler - User interface
+109
+107
+1%
+0%
+0%
+Timed Media Handler - API
+24
+24
+0%
+0%
+0%
+Timed Media Handler - User interface
+109
+107
+1%
+0%
+0%
+Timeline
+13
+13
+0%
+0%
+0%
+Timeline Table
+9
+9
+0%
+0%
+0%
+Tiny MCE
+156
+156
+0%
+0%
+0%
+Title Blacklist - API
+7
+7
+0%
+0%
+0%
+Title Blacklist - User interface
+20
+20
+0%
+0%
+0%
+Title Blacklist - API
+7
+7
+0%
+0%
+0%
+Title Blacklist - User interface
+20
+20
+0%
+0%
+0%
+Title Icon
+3
+3
+0%
+0%
+0%
+Title Key
+1
+1
+0%
+0%
+0%
+Toc Tree
+4
+4
+0%
+0%
+0%
+Top Ten Pages
+2
+2
+0%
+0%
+0%
+Tor Block - API
+4
+4
+0%
+0%
+0%
+Tor Block - User
+8
+8
+0%
+0%
+0%
+Tor Block - API
+4
+4
+0%
+0%
+0%
+Tor Block - User
+8
+8
+0%
+0%
+0%
+Translate
+950
+948
+0%
+0%
+0%
+Translate - API
+171
+171
+0%
+0%
+0%
+Translate - Core User interface
+450
+449
+0%
+0%
+0%
+Translate - Page translation
+258
+257
+0%
+0%
+0%
+Translate - Sandbox
+45
+45
+0%
+0%
+0%
+Translate - Search
+26
+26
+0%
+0%
+0%
+Translate - API
+171
+171
+0%
+0%
+0%
+Translate - Core User interface
+450
+449
+0%
+0%
+0%
+Translate - Page translation
+258
+257
+0%
+0%
+0%
+Translate - Sandbox
+45
+45
+0%
+0%
+0%
+Translate - Search
+26
+26
+0%
+0%
+0%
+Translate Svg
+46
+46
+0%
+0%
+0%
+Translation Notifications
+72
+72
+0%
+0%
+0%
+Trusted XFF
+1
+1
+0%
+0%
+0%
+Tuleap Integration
+5
+5
+0%
+0%
+0%
+Tuleap Wiki Farm
+3
+3
+0%
+0%
+0%
+Tweet A New
+15
+15
+0%
+0%
+0%
+Twitter Cards
+1
+1
+0%
+0%
+0%
+Twitter Login
+6
+6
+0%
+0%
+0%
+Twitter Tag
+5
+5
+0%
+0%
+0%
+Twn Main Page
+54
+54
+0%
+0%
+0%
+Two Col Conflict
+67
+67
+0%
+0%
+0%
+UI Lang Code
+1
+1
+0%
+0%
+0%
+Un Captcha
+4
+4
+0%
+0%
+0%
+Unicode Converter
+5
+5
+0%
+0%
+0%
+Unified Task Overview
+5
+5
+0%
+0%
+0%
+UnifiedExtensionForFemiwiki
+7
+7
+0%
+0%
+0%
+Universal Language Selector - API
+13
+13
+0%
+0%
+0%
+Universal Language Selector - User interface
+69
+67
+2%
+0%
+0%
+Universal Language Selector - API
+13
+13
+0%
+0%
+0%
+Universal Language Selector - User interface
+69
+67
+2%
+0%
+0%
+Unused Redirects
+2
+2
+0%
+0%
+0%
+Update MediaWiki
+15
+15
+0%
+0%
+0%
+Upload Blacklist
+1
+1
+0%
+0%
+0%
+Upload Wizard - API
+10
+10
+0%
+0%
+0%
+Upload Wizard - User interface
+377
+377
+0%
+0%
+0%
+Upload Wizard - API
+10
+10
+0%
+0%
+0%
+Upload Wizard - User interface
+377
+377
+0%
+0%
+0%
+Uploads Link
+5
+5
+0%
+0%
+0%
+Url Get Parameters
+1
+1
+0%
+0%
+0%
+Url Shortener - API
+5
+5
+0%
+0%
+0%
+Url Shortener - User interface
+51
+51
+0%
+0%
+0%
+Url Shortener - API
+5
+5
+0%
+0%
+0%
+Url Shortener - User interface
+51
+51
+0%
+0%
+0%
+Use Resource
+7
+7
+0%
+0%
+0%
+User Agreement
+3
+3
+0%
+0%
+0%
+User Export
+7
+7
+0%
+0%
+0%
+User Functions
+1
+1
+0%
+0%
+0%
+User Groups
+25
+25
+0%
+0%
+0%
+User Merge
+30
+30
+0%
+0%
+0%
+User Option Stats
+8
+8
+0%
+0%
+0%
+User Page Edit Protection
+3
+3
+0%
+0%
+0%
+User Page View Tracker
+2
+2
+0%
+0%
+0%
+User Protect
+8
+8
+0%
+0%
+0%
+User Status
+48
+48
+0%
+0%
+0%
+User Throttle
+2
+2
+0%
+0%
+0%
+Validator
+86
+86
+0%
+0%
+0%
+Value View
+36
+36
+0%
+0%
+0%
+Variables
+3
+3
+0%
+0%
+0%
+VE For All
+13
+13
+0%
+0%
+0%
+Version Compare
+14
+14
+0%
+0%
+0%
+Video
+42
+41
+2%
+0%
+0%
+VIKI
+12
+12
+0%
+0%
+0%
+Viki Semantic Title
+2
+2
+0%
+0%
+0%
+Viki Title Icon
+4
+4
+0%
+0%
+0%
+Vips Scaler
+22
+22
+0%
+0%
+0%
+Visual Editor (MediaWiki extension)
+354
+298
+15%
+0%
+1%
+Visual Editor (MediaWiki extension) - API
+44
+42
+4%
+0%
+0%
+Visual Editor (MediaWiki extension) - Language Variants
+38
+38
+0%
+0%
+0%
+Visual Editor (WMF)
+21
+20
+4%
+0%
+0%
+VisualEditor
+766
+623
+18%
+0%
+1%
+Cite - VisualEditor
+47
+39
+17%
+0%
+0%
+Citoid
+28
+13
+53%
+0%
+4%
+OOjs UI (via VisualEditor)
+23
+11
+52%
+0%
+0%
+Visual Editor (MediaWiki extension)
+354
+298
+15%
+0%
+1%
+Visual Editor (MediaWiki extension) - API
+44
+42
+4%
+0%
+0%
+Visual Editor (MediaWiki extension) - Language Variants
+38
+38
+0%
+0%
+0%
+Visual Editor (WMF)
+21
+20
+4%
+0%
+0%
+VisualEditor Core
+211
+162
+23%
+0%
+0%
+VisualEditor Core
+211
+162
+23%
+0%
+0%
+Vote NY
+22
+22
+0%
+0%
+0%
+Vue Test
+9
+9
+0%
+0%
+0%
+Wanted Pages From NS
+4
+4
+0%
+0%
+0%
+Warn Not Recently Updated
+1
+1
+0%
+0%
+0%
+Watch Analytics
+143
+143
+0%
+0%
+0%
+Watch Subpages
+12
+12
+0%
+0%
+0%
+Web Authn - API
+3
+3
+0%
+0%
+0%
+Web Authn - User interface
+31
+31
+0%
+0%
+0%
+Web Chat
+5
+5
+0%
+0%
+0%
+Web DAV
+8
+8
+0%
+0%
+0%
+Web Tools Manager
+25
+25
+0%
+0%
+0%
+Web Authn - API
+3
+3
+0%
+0%
+0%
+Web Authn - User interface
+31
+31
+0%
+0%
+0%
+What's Nearby
+15
+15
+0%
+0%
+0%
+White Space
+1
+1
+0%
+0%
+0%
+Whitelist Pages
+1
+1
+0%
+0%
+0%
+Who Is Watching
+32
+32
+0%
+0%
+0%
+Whos Online
+8
+8
+0%
+0%
+0%
+Widgets
+10
+10
+0%
+0%
+0%
+WikEd Diff
+10
+9
+10%
+0%
+0%
+Wiki Category Tag Cloud
+1
+1
+0%
+0%
+0%
+Wiki Editor
+171
+171
+0%
+0%
+0%
+Wiki Forum
+107
+107
+0%
+0%
+0%
+Wiki Lambda
+471
+471
+0%
+0%
+0%
+Wiki Lambda - API
+87
+87
+0%
+0%
+0%
+Wiki Lambda - User interface
+384
+384
+0%
+0%
+0%
+Wiki Lambda - API
+87
+87
+0%
+0%
+0%
+Wiki Lambda - User interface
+384
+384
+0%
+0%
+0%
+Wiki Lexical Data
+250
+250
+0%
+0%
+0%
+Wiki Lexical Data - Omega Wiki
+53
+53
+0%
+0%
+0%
+Wiki Love - API
+12
+12
+0%
+0%
+0%
+Wiki Love - User interface
+177
+175
+1%
+0%
+0%
+Wiki Love - API
+12
+12
+0%
+0%
+0%
+Wiki Love - User interface
+177
+175
+1%
+0%
+0%
+Wiki Loves Monuments
+19
+19
+0%
+0%
+0%
+Wiki SEO
+37
+37
+0%
+0%
+0%
+Wiki Share
+3
+3
+0%
+0%
+0%
+Wiki Text Logged In Out
+1
+1
+0%
+0%
+0%
+Wiki Videos
+2
+2
+0%
+0%
+0%
+Wikibase - Client - API
+48
+48
+0%
+0%
+0%
+Wikibase - Client - User interface
+169
+152
+10%
+0%
+0%
+Wikibase - Lib
+140
+139
+0%
+0%
+0%
+Wikibase - Repo - API
+302
+302
+0%
+0%
+0%
+Wikibase - Repo - User interface
+509
+501
+1%
+0%
+0%
+Wikibase Cirrus Search
+22
+22
+0%
+0%
+0%
+Wikibase Client
+217
+200
+7%
+0%
+0%
+Wikibase - Client - API
+48
+48
+0%
+0%
+0%
+Wikibase - Client - User interface
+169
+152
+10%
+0%
+0%
+Wikibase EDTF
+4
+4
+0%
+0%
+0%
+Wikibase Export
+26
+26
+0%
+0%
+0%
+Wikibase Lexeme - API
+69
+69
+0%
+0%
+0%
+Wikibase Lexeme - Language names
+62
+62
+0%
+0%
+0%
+Wikibase Lexeme - User interface
+130
+130
+0%
+0%
+0%
+Wikibase Lexeme - API
+69
+69
+0%
+0%
+0%
+Wikibase Lexeme - Language names
+62
+62
+0%
+0%
+0%
+Wikibase Lexeme - User interface
+130
+130
+0%
+0%
+0%
+Wikibase Lexeme Cirrus Search
+2
+2
+0%
+0%
+0%
+Wikibase Local Media
+2
+2
+0%
+0%
+0%
+Wikibase Manifest
+1
+1
+0%
+0%
+0%
+Wikibase Media Info
+114
+114
+0%
+0%
+0%
+Wikibase Quality Constraints - API
+23
+23
+0%
+0%
+0%
+Wikibase Quality Constraints - User interface
+139
+139
+0%
+0%
+0%
+Wikibase RDF
+21
+21
+0%
+0%
+0%
+Wikibase Repo
+811
+803
+0%
+0%
+0%
+Wikibase - Repo - API
+302
+302
+0%
+0%
+0%
+Wikibase - Repo - User interface
+509
+501
+1%
+0%
+0%
+Wikibase Statement Updater
+26
+26
+0%
+0%
+0%
+Wikibase Quality Constraints - API
+23
+23
+0%
+0%
+0%
+Wikibase Quality Constraints - User interface
+139
+139
+0%
+0%
+0%
+Wikidata Page Banner
+3
+3
+0%
+0%
+0%
+Wikidata.org
+9
+9
+0%
+0%
+0%
+WikiDiscover
+17
+17
+0%
+0%
+0%
+Wikihiero
+47
+47
+0%
+0%
+0%
+Wikimedia Api Portal OAuth
+51
+51
+0%
+0%
+0%
+Wikimedia Badges
+1
+1
+0%
+0%
+0%
+Wikimedia Code of Conduct
+2
+2
+0%
+0%
+0%
+Wikimedia Contact Page Messages
+87
+87
+0%
+0%
+0%
+Wikimedia Creative Commons License Texts
+211
+199
+5%
+0%
+0%
+Wikimedia Editor Tasks - API
+14
+14
+0%
+0%
+0%
+Wikimedia Editor Tasks - User interface
+3
+3
+0%
+0%
+0%
+Wikimedia Editor Tasks - API
+14
+14
+0%
+0%
+0%
+Wikimedia Editor Tasks - User interface
+3
+3
+0%
+0%
+0%
+Wikimedia Events
+5
+5
+0%
+0%
+0%
+Wikimedia Incubator - core
+87
+87
+0%
+0%
+0%
+Wikimedia Incubator - onwiki
+97
+97
+0%
+0%
+0%
+Wikimedia Incubator - core
+87
+87
+0%
+0%
+0%
+Wikimedia Incubator - onwiki
+97
+97
+0%
+0%
+0%
+Wikimedia Interwiki Search Results
+325
+325
+0%
+0%
+0%
+Wikimedia License Texts
+82
+73
+10%
+0%
+0%
+Wikimedia Messages
+335
+320
+4%
+0%
+2%
+Wikimedia Overrides
+49
+49
+0%
+0%
+0%
+Wikimedia Project Names
+1,018
+1,018
+0%
+0%
+0%
+Wikimedia Temporary Messages
+11
+9
+18%
+0%
+0%
+Wikimedia Undeployed Placeholders
+7
+7
+0%
+0%
+0%
+Wikisource
+32
+32
+0%
+0%
+0%
+Wikispeech - API
+30
+30
+0%
+0%
+0%
+Wikispeech - User interface
+35
+35
+0%
+0%
+0%
+Wikispeech Speech Data Collector - API
+8
+8
+0%
+0%
+0%
+Wikispeech Speech Data Collector - User interface
+15
+15
+0%
+0%
+0%
+Wikispeech - API
+30
+30
+0%
+0%
+0%
+Wikispeech - User interface
+35
+35
+0%
+0%
+0%
+Wikispeech Speech Data Collector - API
+8
+8
+0%
+0%
+0%
+Wikispeech Speech Data Collector - User interface
+15
+15
+0%
+0%
+0%
+Wikistories - API
+1
+1
+0%
+0%
+0%
+Wikistories - User interface
+115
+115
+0%
+0%
+0%
+Wikistories - API
+1
+1
+0%
+0%
+0%
+Wikistories - User interface
+115
+115
+0%
+0%
+0%
+Windows Azure Storage
+1
+1
+0%
+0%
+0%
+Workflows
+245
+245
+0%
+0%
+0%
+WS OAuth
+25
+25
+0%
+0%
+0%
+X Analytics
+1
+1
+0%
+0%
+0%
+XenForo Auth
+20
+20
+0%
+0%
+0%
+XSL
+1
+1
+0%
+0%
+0%
+Yet Another Keywords
+1
+1
+0%
+0%
+0%
+Yotpo Reviews
+1
+1
+0%
+0%
+0%
+MediaWiki Rest API
+43
+43
+0%
+0%
+0%
+MediaWiki skins
+807
+762
+5%
+0%
+0%
+Amethyst
+1
+1
+0%
+0%
+0%
+Anisa
+3
+3
+0%
+0%
+0%
+apex
+12
+12
+0%
+0%
+0%
+Blue LL
+3
+3
+0%
+0%
+0%
+Blue Sky
+29
+29
+0%
+0%
+0%
+Blue Spice Calumma
+115
+114
+0%
+0%
+0%
+Blue Spice Discovery
+162
+162
+0%
+0%
+0%
+Bouquet
+1
+1
+0%
+0%
+0%
+Chameleon
+8
+8
+0%
+0%
+0%
+Cologne Blue
+17
+1
+94%
+0%
+0%
+Cosmos
+53
+53
+0%
+0%
+0%
+Desk Mess Mirrored
+4
+4
+0%
+0%
+0%
+Dusk
+3
+3
+0%
+0%
+0%
+Dusk To Dawn
+5
+5
+0%
+0%
+0%
+erudite
+4
+4
+0%
+0%
+0%
+Femiwiki Skin
+8
+8
+0%
+0%
+0%
+Foreground
+4
+4
+0%
+0%
+0%
+Gamepress
+4
+4
+0%
+0%
+0%
+Grey Stuff
+7
+7
+0%
+0%
+0%
+Gu Max DD
+2
+2
+0%
+0%
+0%
+Liberty
+50
+50
+0%
+0%
+0%
+Mask
+8
+8
+0%
+0%
+0%
+Material
+2
+2
+0%
+0%
+0%
+MediaWiki Strapping
+1
+1
+0%
+0%
+0%
+Medik
+5
+5
+0%
+0%
+0%
+Metrolook
+5
+5
+0%
+0%
+0%
+MinervaNeue
+51
+39
+23%
+0%
+0%
+Mirage
+33
+33
+0%
+0%
+0%
+Modern
+1
+1
+0%
+0%
+0%
+MonoBook
+12
+12
+0%
+0%
+0%
+Nimbus
+18
+18
+0%
+0%
+0%
+Nostalgia
+12
+10
+16%
+0%
+0%
+Onyx skin
+16
+16
+0%
+0%
+0%
+Pivot
+4
+4
+0%
+0%
+0%
+Poncho
+9
+9
+0%
+0%
+0%
+Refreshed
+7
+7
+0%
+0%
+0%
+Splash
+11
+11
+0%
+0%
+0%
+Tempo
+9
+9
+0%
+0%
+0%
+Timeless
+20
+20
+0%
+0%
+0%
+Truglass
+3
+3
+0%
+0%
+0%
+Tuleap Skin
+6
+6
+0%
+0%
+0%
+Vector
+58
+44
+24%
+0%
+0%
+webplatform
+3
+3
+0%
+0%
+0%
+WikimediaApiPortal
+15
+15
+0%
+0%
+0%
+WPtouch
+3
+3
+0%
+0%
+0%
+Wikimedia ParamValidator library
+55
+55
+0%
+0%
+0%
+MediaWiki (most important messages)
+468
+25
+94%
+0%
+3%
+Mifos - X
+4,233
+4,233
+0%
+0%
+0%
+Miraheze
+897
+896
+0%
+0%
+0%
+CreateWiki
+94
+94
+0%
+0%
+0%
+CustomHeader
+1
+1
+0%
+0%
+0%
+DataDump
+41
+41
+0%
+0%
+0%
+GlobalNewFiles
+4
+4
+0%
+0%
+0%
+ImportDump
+119
+119
+0%
+0%
+0%
+IncidentReporting
+61
+61
+0%
+0%
+0%
+ManageWiki
+163
+163
+0%
+0%
+0%
+MatomoAnalytics
+20
+20
+0%
+0%
+0%
+Miraheze ErrorPages
+25
+25
+0%
+0%
+0%
+Miraheze Landing Page
+48
+48
+0%
+0%
+0%
+MirahezeMagic Custom
+182
+182
+0%
+0%
+0%
+MirahezeMagic Override
+21
+21
+0%
+0%
+0%
+PDFEmbed
+7
+7
+0%
+0%
+0%
+RemovePII
+22
+22
+0%
+0%
+0%
+RottenLinks
+11
+11
+0%
+0%
+0%
+SpriteSheet
+58
+58
+0%
+0%
+0%
+WikiDiscover
+17
+17
+0%
+0%
+0%
+Monuments API
+59
+59
+0%
+0%
+0%
+NFC Ring Control
+87
+87
+0%
+0%
+0%
+NOCC
+351
+351
+0%
+0%
+0%
+NOCC - Core
+236
+236
+0%
+0%
+0%
+NOCC - Site
+115
+115
+0%
+0%
+0%
+OpenHistoricalMap
+2,363
+2,363
+0%
+0%
+0%
+OpenStreetMap
+2,396
+2,377
+0%
+0%
+1%
+OpenStreetMap - Website
+2,396
+2,377
+0%
+0%
+1%
+Oppia
+1,489
+1,489
+0%
+0%
+0%
+Page Content Service
+25
+25
+0%
+0%
+0%
+Pageviews Analysis
+423
+423
+0%
+0%
+0%
+Phabricator
+20,077
+20,077
+0%
+0%
+0%
+Phabricator (arcanist > core)
+2,698
+2,698
+0%
+0%
+0%
+Phabricator (phabricator > almanac)
+352
+352
+0%
+0%
+0%
+Phabricator (phabricator > aphlict)
+44
+44
+0%
+0%
+0%
+Phabricator (phabricator > audit)
+94
+94
+0%
+0%
+0%
+Phabricator (phabricator > auth)
+928
+928
+0%
+0%
+0%
+Phabricator (phabricator > badges)
+129
+129
+0%
+0%
+0%
+Phabricator (phabricator > base)
+22
+22
+0%
+0%
+0%
+Phabricator (phabricator > cache)
+55
+55
+0%
+0%
+0%
+Phabricator (phabricator > calendar)
+512
+512
+0%
+0%
+0%
+Phabricator (phabricator > celerity)
+31
+31
+0%
+0%
+0%
+Phabricator (phabricator > chatlog)
+13
+13
+0%
+0%
+0%
+Phabricator (phabricator > conduit)
+195
+195
+0%
+0%
+0%
+Phabricator (phabricator > config)
+933
+933
+0%
+0%
+0%
+Phabricator (phabricator > conpherence)
+122
+122
+0%
+0%
+0%
+Phabricator (phabricator > console)
+41
+41
+0%
+0%
+0%
+Phabricator (phabricator > core)
+2,005
+2,005
+0%
+0%
+0%
+Phabricator (phabricator > countdown)
+56
+56
+0%
+0%
+0%
+Phabricator (phabricator > daemon)
+166
+166
+0%
+0%
+0%
+Phabricator (phabricator > dashboard)
+258
+258
+0%
+0%
+0%
+Phabricator (phabricator > differential)
+943
+943
+0%
+0%
+0%
+Phabricator (phabricator > diffusion)
+999
+999
+0%
+0%
+0%
+Phabricator (phabricator > diviner)
+98
+98
+0%
+0%
+0%
+Phabricator (phabricator > doorkeeper)
+50
+50
+0%
+0%
+0%
+Phabricator (phabricator > drydock)
+352
+352
+0%
+0%
+0%
+Phabricator (phabricator > fact)
+66
+66
+0%
+0%
+0%
+Phabricator (phabricator > favorites)
+2
+2
+0%
+0%
+0%
+Phabricator (phabricator > feed)
+40
+40
+0%
+0%
+0%
+Phabricator (phabricator > files)
+517
+517
+0%
+0%
+0%
+Phabricator (phabricator > flag)
+31
+31
+0%
+0%
+0%
+Phabricator (phabricator > fund)
+84
+84
+0%
+0%
+0%
+Phabricator (phabricator > guides)
+36
+36
+0%
+0%
+0%
+Phabricator (phabricator > harbormaster)
+678
+678
+0%
+0%
+0%
+Phabricator (phabricator > help)
+8
+8
+0%
+0%
+0%
+Phabricator (phabricator > herald)
+382
+382
+0%
+0%
+0%
+Phabricator (phabricator > home)
+3
+3
+0%
+0%
+0%
+Phabricator (phabricator > legalpad)
+154
+154
+0%
+0%
+0%
+Phabricator (phabricator > lipsum)
+20
+20
+0%
+0%
+0%
+Phabricator (phabricator > macro)
+97
+97
+0%
+0%
+0%
+Phabricator (phabricator > maniphest)
+472
+472
+0%
+0%
+0%
+Phabricator (phabricator > meta)
+60
+60
+0%
+0%
+0%
+Phabricator (phabricator > metamta)
+304
+304
+0%
+0%
+0%
+Phabricator (phabricator > multimeter)
+24
+24
+0%
+0%
+0%
+Phabricator (phabricator > notification)
+35
+35
+0%
+0%
+0%
+Phabricator (phabricator > nuance)
+167
+167
+0%
+0%
+0%
+Phabricator (phabricator > oauthserver)
+109
+109
+0%
+0%
+0%
+Phabricator (phabricator > owners)
+132
+132
+0%
+0%
+0%
+Phabricator (phabricator > packages)
+93
+93
+0%
+0%
+0%
+Phabricator (phabricator > passphrase)
+112
+112
+0%
+0%
+0%
+Phabricator (phabricator > paste)
+87
+87
+0%
+0%
+0%
+Phabricator (phabricator > people)
+348
+348
+0%
+0%
+0%
+Phabricator (phabricator > phame)
+239
+239
+0%
+0%
+0%
+Phabricator (phabricator > phid)
+23
+23
+0%
+0%
+0%
+Phabricator (phabricator > phlux)
+17
+17
+0%
+0%
+0%
+Phabricator (phabricator > pholio)
+83
+83
+0%
+0%
+0%
+Phabricator (phabricator > phortune)
+558
+558
+0%
+0%
+0%
+Phabricator (phabricator > phpast)
+8
+8
+0%
+0%
+0%
+Phabricator (phabricator > phragment)
+81
+81
+0%
+0%
+0%
+Phabricator (phabricator > phrequent)
+42
+42
+0%
+0%
+0%
+Phabricator (phabricator > phriction)
+156
+156
+0%
+0%
+0%
+Phabricator (phabricator > phurl)
+63
+63
+0%
+0%
+0%
+Phabricator (phabricator > policy)
+143
+143
+0%
+0%
+0%
+Phabricator (phabricator > ponder)
+110
+110
+0%
+0%
+0%
+Phabricator (phabricator > project)
+684
+684
+0%
+0%
+0%
+Phabricator (phabricator > releeph)
+226
+226
+0%
+0%
+0%
+Phabricator (phabricator > remarkup)
+3
+3
+0%
+0%
+0%
+Phabricator (phabricator > repository)
+619
+619
+0%
+0%
+0%
+Phabricator (phabricator > search)
+342
+342
+0%
+0%
+0%
+Phabricator (phabricator > settings)
+231
+231
+0%
+0%
+0%
+Phabricator (phabricator > slowvote)
+77
+77
+0%
+0%
+0%
+Phabricator (phabricator > spaces)
+59
+59
+0%
+0%
+0%
+Phabricator (phabricator > subscriptions)
+45
+45
+0%
+0%
+0%
+Phabricator (phabricator > support)
+1
+1
+0%
+0%
+0%
+Phabricator (phabricator > system)
+75
+75
+0%
+0%
+0%
+Phabricator (phabricator > tokens)
+50
+50
+0%
+0%
+0%
+Phabricator (phabricator > transactions)
+432
+432
+0%
+0%
+0%
+Phabricator (phabricator > typeahead)
+35
+35
+0%
+0%
+0%
+Phabricator (phabricator > uiexample)
+324
+324
+0%
+0%
+0%
+Phabricator (phabricator > xhprof)
+22
+22
+0%
+0%
+0%
+Phabricator (phabricator_ext > core)
+138
+138
+0%
+0%
+0%
+Phabricator (translatewiki > core)
+34
+34
+0%
+0%
+0%
+ProveIt
+33
+33
+0%
+0%
+0%
+Pywikibot
+156
+126
+19%
+0%
+2%
+Pywikibot Archive Bot
+4
+4
+0%
+0%
+0%
+Pywikibot Basic
+1
+1
+0%
+0%
+0%
+Pywikibot Blockpages Checker
+3
+3
+0%
+0%
+0%
+Pywikibot Category
+14
+13
+7%
+0%
+0%
+Pywikibot Category Redirect
+22
+21
+4%
+0%
+0%
+Pywikibot Check Images
+13
+13
+0%
+0%
+0%
+Pywikibot Clean Sandbox
+1
+1
+0%
+0%
+0%
+Pywikibot Commons Cat
+1
+1
+0%
+0%
+0%
+Pywikibot Delete
+5
+1
+80%
+0%
+20%
+Pywikibot Delinker
+1
+1
+0%
+0%
+0%
+Pywikibot Image
+2
+2
+0%
+0%
+0%
+Pywikibot Image Transfer
+2
+2
+0%
+0%
+0%
+Pywikibot Interwikidata
+1
+1
+0%
+0%
+0%
+Pywikibot List Pages
+1
+1
+0%
+0%
+0%
+Pywikibot Misspelling
+1
+1
+0%
+0%
+0%
+Pywikibot No References
+2
+1
+50%
+0%
+0%
+Pywikibot Page from File
+4
+4
+0%
+0%
+0%
+Pywikibot Protect
+5
+5
+0%
+0%
+0%
+Pywikibot Pywikibot
+14
+11
+21%
+0%
+0%
+Pywikibot Redirect
+6
+3
+50%
+0%
+34%
+Pywikibot Reflinks
+3
+3
+0%
+0%
+0%
+Pywikibot Replace
+1
+1
+0%
+0%
+0%
+Pywikibot Replicate Wiki
+5
+5
+0%
+0%
+0%
+Pywikibot Revert
+1
+1
+0%
+0%
+0%
+Pywikibot Solve Disambiguation
+7
+7
+0%
+0%
+0%
+Pywikibot Transferbot
+2
+2
+0%
+0%
+0%
+Pywikibot Undelete
+3
+3
+0%
+0%
+0%
+Pywikibot Unprotect
+5
+5
+0%
+0%
+0%
+Pywikibot Unused Files
+1
+1
+0%
+0%
+0%
+Pywikibot Web Link Checker
+5
+5
+0%
+0%
+0%
+Pywikibot Welcome
+3
+3
+0%
+0%
+0%
+QRCode_Generator
+24
+24
+0%
+0%
+0%
+QRmedia
+29
+29
+0%
+0%
+0%
+Revision scoring
+103
+103
+0%
+0%
+0%
+Wikilabels
+30
+30
+0%
+0%
+0%
+Wikilabels form: article quality
+8
+8
+0%
+0%
+0%
+Wikilabels form: damaging and good faith
+11
+11
+0%
+0%
+0%
+Wikilabels form: draft notability
+16
+16
+0%
+0%
+0%
+Wikilabels form: edit type
+38
+38
+0%
+0%
+0%
+SVG Translate
+78
+78
+0%
+0%
+0%
+SWViewer
+331
+331
+0%
+0%
+0%
+Terminology gadget
+58
+58
+0%
+0%
+0%
+Toolhub
+788
+788
+0%
+0%
+0%
+Toolhub - Backend
+365
+365
+0%
+0%
+0%
+Toolhub - Frontend
+423
+423
+0%
+0%
+0%
+Tracker
+673
+673
+0%
+0%
+0%
+Tracker - JavaScript
+6
+6
+0%
+0%
+0%
+Tracker - main
+667
+667
+0%
+0%
+0%
+Translatable pages
+1,108
+1,108
+0%
+0%
+0%
+Category:FAQ
+2
+2
+0%
+0%
+0%
+Category:Help
+2
+2
+0%
+0%
+0%
+Category:Projects
+2
+2
+0%
+0%
+0%
+Category:Supported projects
+5
+5
+0%
+0%
+0%
+Category:Translatewiki.net
+4
+4
+0%
+0%
+0%
+Group descriptions
+156
+156
+0%
+0%
+0%
+Help us
+5
+5
+0%
+0%
+0%
+Project:About
+52
+52
+0%
+0%
+0%
+Project:General disclaimer
+4
+4
+0%
+0%
+0%
+Project:Privacy policy
+67
+67
+0%
+0%
+0%
+Project:Terminology gadget
+39
+39
+0%
+0%
+0%
+Project:Transadmin
+5
+5
+0%
+0%
+0%
+Project:Translator
+5
+5
+0%
+0%
+0%
+Technology
+23
+23
+0%
+0%
+0%
+Template:Optional
+2
+2
+0%
+0%
+0%
+Template:Related
+4
+4
+0%
+0%
+0%
+Template:Welcome/i18n
+5
+5
+0%
+0%
+0%
+Translatewiki.net languages
+68
+68
+0%
+0%
+0%
+Translating:How to start
+11
+11
+0%
+0%
+0%
+Translating:Intro
+9
+9
+0%
+0%
+0%
+Translating:Joining the community
+17
+17
+0%
+0%
+0%
+Translating:Lib.reviews/FAQ
+31
+31
+0%
+0%
+0%
+Translating:Lib.reviews/Terms of use
+31
+31
+0%
+0%
+0%
+Translating:MediaWiki/Basic glossary
+381
+381
+0%
+0%
+0%
+Translating:MediaWiki/Basic glossary: Preface
+18
+18
+0%
+0%
+0%
+Translating:MediaWiki/Basic glossary: Tips for maintainers
+10
+10
+0%
+0%
+0%
+Translating:MediaWiki/Basic glossary: Tips for translators
+32
+32
+0%
+0%
+0%
+Translating:MediaWiki/Statistics in time
+9
+9
+0%
+0%
+0%
+Translating:New project
+27
+27
+0%
+0%
+0%
+Translating:Offline
+9
+9
+0%
+0%
+0%
+Translating:Process
+4
+4
+0%
+0%
+0%
+Translating:Proofreading the messages
+8
+8
+0%
+0%
+0%
+Translating:Statistics
+16
+16
+0%
+0%
+0%
+Translating:Translating the messages
+24
+24
+0%
+0%
+0%
+User:Amire80/глоссарий-standby
+19
+19
+0%
+0%
+0%
+User:FuzzyBot
+2
+2
+0%
+0%
+0%
+Translatable pages with additional content for supported projects
+62
+62
+0%
+0%
+0%
+Translating:Lib.reviews/FAQ
+31
+31
+0%
+0%
+0%
+Translating:Lib.reviews/Terms of use
+31
+31
+0%
+0%
+0%
+Translatewiki.net
+84
+29
+65%
+0%
+0%
+Translatewiki.net documentation
+459
+459
+0%
+0%
+0%
+Category:FAQ
+2
+2
+0%
+0%
+0%
+Category:Help
+2
+2
+0%
+0%
+0%
+Category:Projects
+2
+2
+0%
+0%
+0%
+Category:Supported projects
+5
+5
+0%
+0%
+0%
+Category:Translatewiki.net
+4
+4
+0%
+0%
+0%
+Group descriptions
+156
+156
+0%
+0%
+0%
+Project:About
+52
+52
+0%
+0%
+0%
+Project:General disclaimer
+4
+4
+0%
+0%
+0%
+Project:Privacy policy
+67
+67
+0%
+0%
+0%
+Project:Transadmin
+5
+5
+0%
+0%
+0%
+Project:Translator
+5
+5
+0%
+0%
+0%
+Technology
+23
+23
+0%
+0%
+0%
+Template:Welcome/i18n
+5
+5
+0%
+0%
+0%
+Translating:How to start
+11
+11
+0%
+0%
+0%
+Translating:Intro
+9
+9
+0%
+0%
+0%
+Translating:Joining the community
+17
+17
+0%
+0%
+0%
+Translating:New project
+27
+27
+0%
+0%
+0%
+Translating:Offline
+9
+9
+0%
+0%
+0%
+Translating:Process
+4
+4
+0%
+0%
+0%
+Translating:Proofreading the messages
+8
+8
+0%
+0%
+0%
+Translating:Statistics
+16
+16
+0%
+0%
+0%
+Translating:Translating the messages
+24
+24
+0%
+0%
+0%
+User:FuzzyBot
+2
+2
+0%
+0%
+0%
+Twinkle
+383
+383
+0%
+0%
+0%
+VicuñaUploader
+239
+239
+0%
+0%
+0%
+video2commons
+40
+40
+0%
+0%
+0%
+VideoCutTool
+107
+107
+0%
+0%
+0%
+WatchTranslations
+40
+40
+0%
+0%
+0%
+Waymarked Trails
+142
+142
+0%
+0%
+0%
+Waymarked Trails Help
+49
+49
+0%
+0%
+0%
+Waymarked Trails Website
+93
+93
+0%
+0%
+0%
+Weapon of Mass Description
+13
+13
+0%
+0%
+0%
+Web2Cit
+49
+49
+0%
+0%
+0%
+Web2Cit translation server
+49
+49
+0%
+0%
+0%
+WhoWroteThat?
+28
+28
+0%
+0%
+0%
+Wiki Ed Dashboard
+1,239
+1,238
+0%
+0%
+0%
+WikiAuthBot
+47
+47
+0%
+0%
+0%
+WikiBlame
+71
+71
+0%
+0%
+0%
+Wikidata
+352
+352
+0%
+0%
+0%
+Wikidata Lexeme Forms
+46
+46
+0%
+0%
+0%
+Wikidata Mismatch Finder
+88
+88
+0%
+0%
+0%
+Wikidata Query Builder
+88
+88
+0%
+0%
+0%
+Wikidata Query GUI
+130
+130
+0%
+0%
+0%
+Wikidocumentaries
+388
+388
+0%
+0%
+0%
+WikiEdit
+7
+7
+0%
+0%
+0%
+WikiLearn
+252
+252
+0%
+0%
+0%
+WikiLearn - Backend
+226
+226
+0%
+0%
+0%
+WikiLearn - Frontend
+26
+26
+0%
+0%
+0%
+Wikimedia Commons Wallpaper Gnome Extension
+30
+30
+0%
+0%
+0%
+Wikimedia Czech Republic's website
+72
+72
+0%
+0%
+0%
+Plugin
+26
+26
+0%
+0%
+0%
+Theme
+46
+46
+0%
+0%
+0%
+Wikimedia Developer Portal
+379
+379
+0%
+0%
+0%
+Wikimedia Grants Review
+229
+229
+0%
+0%
+0%
+Wikimedia Mobile Apps
+2,662
+2,661
+0%
+0%
+0%
+Wikipedia Android Mobile
+1,385
+1,384
+0%
+0%
+0%
+Wikipedia iOS Mobile
+1,168
+1,168
+0%
+0%
+0%
+Wikipedia iOS Mobile main
+1,167
+1,167
+0%
+0%
+0%
+Wikipedia iOS Mobile metadata
+1
+1
+0%
+0%
+0%
+Wikipedia KaiOS Mobile
+109
+109
+0%
+0%
+0%
+Wikimedia OCR
+63
+63
+0%
+0%
+0%
+Wikimedia Portals
+60
+57
+5%
+0%
+0%
+Wikimedia Server Connectivity Dashboard
+102
+102
+0%
+0%
+0%
+Wikinity
+67
+67
+0%
+0%
+0%
+Wikipedia Library Card Platform
+691
+691
+0%
+0%
+0%
+Wikipedia Library Card Platform - Partner Descriptions
+133
+133
+0%
+0%
+0%
+Wikipedia Library Card Platform - Tags
+16
+16
+0%
+0%
+0%
+Wikipedia Library Card Platform - Website
+542
+542
+0%
+0%
+0%
+Wikipedia Preview
+13
+13
+0%
+0%
+0%
+Wikisource Contest Tool
+62
+62
+0%
+0%
+0%
+Wikisource Export
+70
+70
+0%
+0%
+0%
+Wikistats 2.0
+332
+332
+0%
+0%
+0%
+WPCleaner
+1,187
+1,187
+0%
+0%
+0%
+XTools
+502
+502
+0%
+0%
+0%
+ 
+All message groups together
+111,930
+108,476
+3%
+0%
+1%
+Retrieved from "https://translatewiki.net/wiki/Special:LanguageStats/war"
+Privacy policy
+About translatewiki.net
+Disclaimers
+Powered by netcup - netcup.de – Webhosting, vServer, Servermanagement
+Toggle limited content width

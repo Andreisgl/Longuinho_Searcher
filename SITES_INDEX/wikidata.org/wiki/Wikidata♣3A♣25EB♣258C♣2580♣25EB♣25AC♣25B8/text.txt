@@ -1,0 +1,115 @@
+Wikidata:대문 - Wikidata
+Wikidata:대문
+From Wikidata
+Jump to navigation
+Jump to search
+위키데이터에 오신 것을 환영합니다
+누구나 참여 가능한 106,530,997개의 데이터 항목이 있는 우리 모두의 지식 베이스
+시작하기 • 사랑방 • 사용자 모임 • 도움말
+Want to help translate? Translate the missing messages.
+환영합니다!
+위키데이터는 인간과 기계가 모두 읽고 편집할 수 있는 구조화된 개방형 다국어 지식 서비스입니다. 
+위키데이터는 위키백과, 위키낱말사전 등 위키미디어 프로젝트들에 있는 구조화된 데이터들의 중앙 저장소 역할을 맡고 있습니다. 
+또한 위키데이터는 위키미디어 프로젝트들 외에도 수많은 사이트 및 서비스도 지원합니다! 위키데이터에 실린 내용은 [사용권 아래에서 사용]하거나 표준 규격을 이용해 내보낼 수 있으며 인터넷 상의 다른 공공 데이터셋들과도 연결할 수 있습니다.
+참여하기
+처음 오시는 분들을 위한 전체 지침을 보려면  공동체 포털을 방문하세요.
+위키데이터에 대해서 알아보기
+위키데이터란 무엇일까요? 위키데이터 소개글을 읽어보세요.
+잘 정리된 Douglas Adams (Q42)의 항목을 통해 위키데이터가 데이터를 어떻게 다루는지 살펴보세요.
+위키데이터의 SPARQL 쿼리 서비스로 데이터 탐험을 시작해보세요.
+위키데이터에 기여하기
+위키데이터에서 편집하는 방법을 길라잡이로 배워보세요.
+위키 프로젝트에 참여하여 다른 편집자들과 함께 관심 있는 주제들을 다룬 항목들을 만들거나 다듬어주세요.
+데이터를 보유한 개인·기관은 위키데이터에 데이터를 기부할 수도 있습니다.
+위키데이터 공동체와 함께하기
+사용자 모임에 방문하거나 위키데이터 이벤트에 참석하세요.
+아직 사용자 계정이 없다면 하나 만들어보세요.
+사랑방이나 실시간 IRC 채팅방연결에 질문 등을 남겨주세요.
+위키데이터의 데이터 사용하기
+어떻게 하면 위키데이터의 데이터를 가져다 쓸 수 있는지 알아보세요.
+더 알아보기...
+소식
+2023-07-21: Entity schema E400, about an archival resource in the Yale University Art Gallery, is created.
+2023-06-29: The Wikidata development team talk about what they've been working on in the office hours at 17:00 UTC on Telegram.
+2023-06-27: The one hundred and twenty millionth item, about a Turkish female given name Nazmiye, is created.
+2023-05-13: Wikidata tool QuickStatements (Q20084080) ran its batch 200000.
+더 많은 소식 보기 (편집 [영어]) 
+데이터에 대해 알아보기
+신비로운 데이터 세계엔 처음이신가요? 그럼 데이터가 무엇인지 긴 시간 들이지 않고도 쉽게 배울 수 있도록 작성된 이 문서를 읽어 보세요.
+Item: Earth (Q2)
+Property: highest point (P610)
+custom value: Mount Everest (Q513)
+최근 화제
+Bernhard Plesansky (Q24285937)
+Michael Anthony Perez (Q121891331)
+Tropical Storm Kirogi (Q122132991)
+Estonia in the Junior Eurovision Song Contest (Q121995504)
+Ali Boushaki (Q28936494) (pictured)
+Pax Ahimsa Gethen (Q121763432)
+2023 Johannesburg building fire (Q122146423)
+둘러보기
+아래는 위키데이터 커뮤니티에서 알려드리는 혁신적인 도구들과 기여 방법들입니다.
+추천하는 위키프로젝트:
+WikiProject Music
+Wikiproject Music is home to editors that help add data about artists, music releases, tracks, awards, and performances! Additionally, importing from and linking Wikidata with the many music databases and streaming services is another focus of the project. Read about our data model on our project page and come chat with us on Telegram.
+더 둘러보기:
+위키데이터의 사용 및 탐색에 도움이 될 만한 최고의 도구와 가젯들을 확인해 보세요.
+위키데이터 보도자료 및 위키데이터를 다룬 연구 자료들도 둘러보세요.
+흥미로운 프로젝트를 아시거나 위키데이터를 이용한 연구를 하시나요? 그 내용을 대문에 표시하고 싶으시면 이곳에 추천해주세요!
+문의하기
+위키데이터 메일링 리스트
+위키데이터 기술 메일링 리스트
+커뮤니티에 제안하기
+페이스북, [$quora Quora], 트위터
+사랑방에 글 남기기
+IRC 채팅방에 문의하기접속
+개발팀에게 문의하기
+이번 주의 주간 현황 보고서 보기
+위키데이터는 다언어적이며, 자유 콘텐츠를 지향하는 비영리 단체인 위키미디어 재단의 일원입니다.
+ 위키백과 – 백과사전   
+ 위키낱말사전 – 어휘 사전   
+ 위키책 – 교본 및 요리책   
+ 위키뉴스 – 뉴스   
+ 위키인용집 – 인용문집   
+ 위키문헌 – 도서관   
+ 위키배움터 – 학습 도구 및 활동들   
+ 위키여행 – 여행 안내서   
+ 위키생물종 – 생물 도감   
+ 위키미디어 공용 – 미디어 저장소   
+ 인큐베이터 – 새 언어판 준비 장소   
+ 메타 위키 – 위키미디어 프로젝트 관리   
+ 미디어위키 – 소프트웨어 개발 및 문서화   
+Retrieved from "https://www.wikidata.org/w/index.php?title=Wikidata:대문&oldid=1817601059"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Project pageDiscussion
+English
+Views
+ReadView sourceView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+Wikimedia CommonsMediaWikiMeta-WikiWikispecies
+In Wikipedia
+Add links
+ This page was last edited on 23 January 2023, at 12:03.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

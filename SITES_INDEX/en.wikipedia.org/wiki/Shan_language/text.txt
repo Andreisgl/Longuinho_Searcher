@@ -1,0 +1,722 @@
+Shan language - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Languages
+Language links are at the top of the page across from the title.
+Search
+Search
+Create accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1Names
+2Dialects
+3Phonology
+Toggle Phonology subsection
+3.1Consonants
+3.2Vowels and diphthongs
+3.3Tones
+3.3.1Contrastive tones in unchecked syllables
+3.3.2Contrastive tones in checked syllables
+3.4Syllable structure
+4Pronouns
+5Resources
+6References
+7Further reading
+8External links
+Toggle the table of contents
+Toggle the table of contents
+Shan language
+38 languages
+AfrikaansالعربيةBrezhonegDeutschΕλληνικάEspañolفارسیFiji HindiFrançaisGalego한국어हिन्दीBahasa IndonesiaҚазақшаKiswahiliКомиລາວLatinaLietuviųမြန်မာဘာသာNederlandsनेपाल भाषा日本語Oʻzbekcha / ўзбекчаPangasinanပအိုဝ်ႏဘာႏသာႏPiemontèisPolskiPortuguêsРусскийᱥᱟᱱᱛᱟᱲᱤScotsSuomiSvenskaၽႃႇသႃႇတႆး ไทยTiếng Việt中文
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Download as PDFPrintable version
+In other projects
+Wikimedia Commons
+From Wikipedia, the free encyclopedia
+Kra–Dai language of Myanmar
+"Tai Yai language" redirects here. Not to be confused with Tai Ya language or Tayal language.
+ShanTai Yaiၵႂၢမ်းတႆး (kwáam tái), လိၵ်ႈတႆး (līk tái)Pronunciation[kwáːm táj] (listeni)[lik táj] (listeni)Native toMyanmarRegionShan StateEthnicityShan, Dai, KulaNative speakers4.7 million (2017)[1]Language familyKra–Dai
+TaiSouthwesternNorthwestern (Shan)ShanDialects
+Standard (Eastern)
+Khün
+Tai Nuea
+Khamti
+Tai Laing
+Aiton
+Phake
+Khamyang
+Turung
+Writing systemMon–Burmese (Shan alphabet)Official statusRecognised minoritylanguage in MyanmarLanguage codesISO 639-2shnISO 639-3shnGlottologshan1277This article contains IPA phonetic symbols. Without proper rendering support, you may see question marks, boxes, or other symbols instead of Unicode characters. For an introductory guide on IPA symbols, see Help:IPA.
+This article contains Burmese script. Without proper rendering support, you may see question marks, boxes, or other symbols instead of Burmese script.
+The Shan language is the native language of the Shan people and is mostly spoken in Shan State, Myanmar. It is also spoken in pockets in other parts of Myanmar, in Northern Thailand, in Yunnan, in Laos, in Cambodia, in Vietnam and decreasingly in Assam and Meghalaya. Shan is a member of the Tai–Kadai language family and is related to Thai. It has five tones, which do not correspond exactly to Thai tones, plus a sixth tone used for emphasis. The term Shan is also used for related Northwestern Tai languages, and it is called Tai Yai or Tai Long in other Tai languages. Standard Shan, which is also known as Tachileik Shan, is based on the dialect of the city of Tachileik.[citation needed]
+The number of Shan speakers is not known in part because the Shan population is unknown. Estimates of Shan people range from four million to 30 million,[citation needed] with about half speaking the Shan language.[citation needed] Ethnologue estimates that there are 4.6 million Shan speakers in Myanmar; the Mahidol University Institute for Language and Culture gave the number of Shan speakers in Thailand as 95,000 in 2006,[1] though including refugees from Burma they now total about one million.[2] Many Shan speak local dialects as well as the language of their trading partners.
+Names[edit]
+The Shan language has a number of names in different Tai languages and Burmese. 
+In Shan, the spoken language is commonly called kwam tai (ၵႂၢမ်းတႆး, [kwáːm.táj], lit. 'Tai language'). The written language is called lik tai (လိၵ်ႈတႆး, [lik táj]).
+In Burmese, it is called hram: bhasa (ရှမ်းဘာသာ, [ʃáɰ̃ bàðà]), whence the English word "Shan". The term "Shan," which was formerly spelt hsyam: (သျှမ်း) in Burmese, is an exonym believed to be a Burmese derivative of "Siam" (an old term for Thailand).
+In Thai and Southern Thai, it is called phasa thai yai (ภาษาไทใหญ่, [pʰāː.sǎː.tʰāj.jàj], lit. 'big/great Tai language') or more informally or even vulgarly by some phasa ngiao (ภาษาเงี้ยว, [pʰāː.sǎː.ŋía̯w], an outdated term that now sounds like the word for "snake").
+In Northern Thai, it is called kam tai (กำไต, [kām.tāj], literally "Tai language") or more informally or even vulgarly by some kam ngiao (กำเงี้ยว, [kām.ŋíaw]), lit. 'Shan language').
+In Lao, it is called phasa tai yai (ພາສາໄທໃຫຍ່, [pʰáː.sǎː.tʰáj.ɲāj], lit. 'big/great Tai language') or more informally or even vulgarly by some phasa ngiao (ພາສາງ້ຽວ, [pʰáː.sǎː.ŋîaw]).
+In Tai Lü, it is called kam ngio (ᦅᧄᦇᦲᧁᧉ, [kâm.ŋìw]).
+Dialects[edit]
+The Shan dialects spoken in Shan State can be divided into three groups, roughly coinciding with geographical and modern administrative boundaries, namely the northern, southern, and eastern dialects. Dialects differ to a certain extent in vocabulary and pronunciation, but are generally mutually intelligible.
+While the southern dialect has borrowed more Burmese words, eastern Shan is somewhat closer to Northern Thai language and Lao in vocabulary and pronunciation, and the northern so-called "Chinese Shan" is much influenced by the Yunnan-Chinese dialect.[clarification needed]
+A number of words differ in initial consonants. In the north, initial /k/, /kʰ/ and /m/, when combined with certain vowels and final consonants, are pronounced /tʃ/ (written ky), /tʃʰ/ (written khy) and /mj/ (written my). In Chinese Shan, initial /n/ becomes /l/. In southwestern regions /m/ is often pronounced as /w/. Initial /f/ only appears in the east, while in the other two dialects it merges with /pʰ/.
+J. Marvin Brown divides the three dialects of Shan State as follows:[3]
+Northern — Lashio, Burma; contains more Chinese influences
+Southern — Taunggyi, Burma (capital of Shan State); contains more Burmese influences
+Eastern — Kengtung, Burma (in the Golden Triangle); closer to Northern Thai and Lao
+Prominent divergent dialects are considered separate languages, such as Khün (called Kon Shan by the Burmese), which is spoken in Kengtung valley. Chinese Shan is also called Tai Mao, referring to the old Shan State of Mong Mao. Tai Long is used to refer to the Southern Shan State dialect spoken in southern and central regions west of the Salween River,[4] the Northern Shan State dialect,[5] and the dialect spoken in Laos. There are also dialects still spoken by a small number of people in Kachin State, such as Tai Laing, and Khamti spoken in northern Sagaing Region.
+Phonology[edit]
+Consonants[edit]
+Shan has 19 consonants.
+Unlike Thai and Lao there are no voiced plosives [d] and [b].
+Labial
+Alveolar
+Palatal
+Velar
+Glottal
+Nasal
+/m/မ
+/n/ၼ
+/ɲ/ၺ
+/ŋ/င
+Plosive
+unaspirated
+/p/ပ
+/t/တ
+/tɕ/ၸ
+/k/ၵ
+/ʔ/[a]ဢ
+aspirated
+/pʰ/ၽ
+/tʰ/ထ
+/kʰ/ၶ
+Fricative
+(/f/)[b]ၾ
+/s/သ
+/h/ႁ
+Trill
+(/r/)[c]ရ
+Approximant
+/j/ယ
+/w/ဝ
+Lateral
+/l/လ
+^ The glottal plosive is implied after a short vowel without final, or the silent 'a' before a vowel.
+^ Initial [f] is only found in eastern dialects in words that are pronounced with [pʰ] elsewhere.
+^ The trill is very rare and mainly used in Pali and some English loan words, sometimes as a glide in initial consonant clusters.  Many Shans find it difficult to pronounce [r], often pronouncing it [l].
+Vowels and diphthongs[edit]
+Shan has ten vowels and 13 diphthongs:
+Front
+Central-Back
+Back
+/i/
+/ɨ/~/ɯ/
+/u/ 
+/e/
+/ə/~/ɤ/
+/o/ 
+/ɛ/
+/a//aː/
+/ɔ/
+[iu], [eu], [ɛu]; [ui], [oi], [ɯi], [ɔi], [əi]; [ai], [aɯ], [au]; [aːi], [aːu]
+Shan has less vowel complexity than Thai, and Shan people learning Thai have difficulties with sounds such as "ia," "ua," and "uea" [ɯa]. Triphthongs are absent. Shan has no systematic distinction between long and short vowels characteristic of Thai.
+Tones[edit]
+Shan has phonemic contrasts among the tones of syllables. There are five to six tonemes in Shan, depending on the dialect. The sixth tone is only spoken in the north; in other parts it is only used for emphasis.
+Contrastive tones in unchecked syllables[edit]
+The table below presents six phonemic tones in unchecked syllables, i.e. closed syllables ending in sonorant sounds such as [m], [n], [ŋ], [w], and [j] and open syllables.
+No.
+Description
+IPA
+Description
+Transcription*
+1
+rising (24)
+˨˦
+Starting rather low and rising pitch
+ǎ
+a (not marked)
+2
+low (11)
+˩
+Low, even pitch
+à
+a,
+3
+mid-falling (32)
+˧˨
+Medium level pitch, slightly falling in the end
+a (not marked)
+a;
+4
+high (55)
+˥
+High, even pitch
+á
+a:
+5
+high-falling and creaky (42)
+˦˨ˀ
+Short, creaky, strongly falling with lax final glottal stop
+âʔ, â̰
+a.
+6
+emphatic (343) or middle (33)
+˧˦˧ / ˧
+Starting mid level, then slightly rising, with a drop at the end (similar to tones 3 and 5)
+a᷈
+a-
+* The symbol in the first column corresponds to conventions used for other tonal languages; the second is derived from the Shan orthography.
+The following table shows an example of the phonemic tones:
+Tone
+Shan
+IPA
+Transliteration
+English
+rising
+ၼႃ
+/nǎː/
+na
+thick
+low
+ၼႃႇ
+/nàː/
+na,
+very
+mid-falling
+ၼႃႈ
+/nà̱ː/
+na;
+face
+high
+ၼႃး
+/náː/
+na:
+paddy field
+high-falling and creaky
+ၼႃႉ
+/nâ̰(ː)/
+na.
+aunt, uncle
+emphatic or middle
+ၼႃႊ
+/nāː/
+na-
+(for interjection / transcription)
+The Shan tones correspond to Thai tones as follows:
+The Shan rising tone is close to the Thai rising tone.
+The Shan low tone is equivalent to the Thai low tone.
+The Shan mid-tone is different from the Thai mid-tone. It falls in the end.
+The Shan high tone is close to the Thai high tone. But it is not rising.
+The Shan falling tone is different from the Thai falling tone. It is short, creaky and ends with a glottal stop.
+Contrastive tones in checked syllables[edit]
+The table below presents four phonemic tones in checked syllables, i.e. closed syllables ending in a glottal stop [ʔ] and obstruent sounds such as [p], [t], and [k].
+Tone
+Shan
+Phonemic
+Phonetic
+Transliteration
+English
+high
+လၵ်း
+/lák/
+[lak˥]
+lak:
+post
+creaky
+လၵ်ႉ
+/la̰k/
+[la̰k˦˨ˀ]
+lak.
+steal
+low
+လၢၵ်ႇ
+/làːk/
+[laːk˩]
+laak,
+differ from others
+mid
+လၢၵ်ႈ
+/lāːk/
+[laːk˧˨]
+laak;
+drag
+Syllable structure[edit]
+The syllable structure of Shan is C(G)V((V)/(C)), which is to say the onset consists of a consonant optionally followed by a glide, and the rhyme consists of a monophthong alone, a monophthong with a consonant, or a diphthong alone. (Only in some dialects, a diphthong may also be followed by a consonant.) 
+The glides are: -w-, -y- and -r-.
+There are seven possible final consonants: /ŋ/, /n/, /m/, /k/, /t/, /p/, and /ʔ/.
+Some representative words are:
+CV /kɔ/ also
+CVC /kàːt/ market
+CGV /kwàː/ to go
+CGVC /kwaːŋ/ broad
+CVV /kǎi/ far
+CGVV /kwáːi/ water buffalo
+Typical Shan words are monosyllabic. Multisyllabic words are mostly Pali loanwords, or Burmese words with the initial weak syllable /ə/.
+Pronouns[edit]
+Person
+Pronoun
+IPA
+Meaning[6]
+first
+ၵဝ်
+kǎw
+I/me (informal)
+တူ
+tǔ
+I/me (informal)
+ၶႃႈ
+kʰaː
+I/me (formal) "servant, slave"
+ႁႃး
+háː
+we/us two (familiar/dual)
+ႁဝ်း
+háw
+we/us (general)
+ႁဝ်းၶႃႈ
+háw.kʰaː
+we/us (formal)  "we servants, we slaves"
+second
+မႂ်း
+máɰ
+you (informal/familiar)
+ၸဝ်ႈ
+tsaw
+you (formal) "master, lord"
+ၶိူဝ်
+kʰə̌ə
+you two (familiar/dual)
+သူ
+sʰǔ
+you (formal/singular, general/plural)
+သူၸဝ်ႈ
+sʰǔ.tsaw
+you (formal/singular, general/plural) "you masters, you lords"
+third
+မၼ်း
+mán
+he/she/it (informal/familiar)
+ၶႃ
+kʰǎa
+they/them two (familiar/dual)
+ၶဝ်
+kʰǎw
+he/she/it (formal), or they/them (general)
+ၶဝ်ၸဝ်ႈ
+kʰǎw.tsaw
+he/she/it (formal), or they/them (formal) "they masters, they lords"
+ပိူၼ်ႈ
+pɤn
+they/them, others
+Resources[edit]
+Given the present instabilities in Burma, one choice for scholars is to study the Shan people and their language in Thailand, where estimates of Shan refugees run as high as two million, and Mae Hong Son Province is home to a Shan majority. The major source for information about the Shan language in English is Dunwoody Press's Shan for English Speakers. They also publish a Shan-English dictionary.  Aside from this, the language is almost completely undescribed in English.[citation needed]
+References[edit]
+^ a b Shan at Ethnologue (25th ed., 2022) 
+^ "Refugee Conundrum: Little movement in Myanmar's repatriation schemes".
+^ Brown, J. Marvin. 1965. From Ancient Thai To Modern Dialects and Other Writings on Historical Thai Linguistics. Bangkok: White Lotus Press, reprinted 1985.
+^ Jirattikorn, Amporn (April 2008). ""Pirated" Transnational Broadcasting: The Consumption of Thai Soap Operas among Shan Communities in Burma". Sojourn: Journal of Social Issues in Southeast Asia. 23 (1): 30–62. Retrieved 21 April 2023.
+^ Soh, Jyr Minn (2019). Serial verb constructions in Tai Long Shan (M.A. thesis). Nanyang Technological University. doi:10.32657/10220/47853. hdl:10356/106030.
+^ "SEAlang Library Shan Lexicography". sealang.net. Retrieved Apr 27, 2020.
+Further reading[edit]
+Sai Kam Mong. The History and Development of the Shan Scripts. Chiang Mai, Thailand: Silkworm Books, 2004. ISBN 974-9575-50-4
+The Major Languages of East and South-East Asia. Bernard Comrie (London, 1990).
+A Guide to the World's Languages. Merritt Ruhlen (Stanford, 1991).
+Shan for English Speakers. Irving I. Glick & Sao Tern Moeng (Dunwoody Press, Wheaton, 1991).
+Shan – English Dictionary. Sao Tern Moeng (Dunwoody Press, Kensington, 1995).
+Shan phonology and morphology. Aggasena Lengtai. (MA thesis, Mahidol University, 2009).
+An English and Shan Dictionary. H. W. Mix (American Baptist Mission Press, Rangoon, 1920; Revised edition by S.H.A.N., Chiang Mai, 2001).
+Grammar of the Shan Language. J. N. Cushing (American Baptist Mission Press, Rangoon, 1887).
+Myanmar – Unicode Consortium [1]
+External links[edit]
+ Shan  edition of Wikipedia, the free encyclopedia
+An English-Shan dictionary translator
+Shan-language Swadesh vocabulary list of basic words (from Wiktionary's Swadesh-list appendix)
+Shan Alphabet
+Basic Shan phrases
+SIL Padauk Font (Shan Unicode)
+SEAlang Library Shan Dictionary
+Titles of Shan-foreign language dictionaries
+vteLanguages of MyanmarOfficial language
+Burmese
+Semiofficial language
+English
+Indigenous languages(by state or region)ChinKuki-ChinNorthern
+Falam
+Siyin
+Tedim
+Thadou
+Zo
+Central
+Bawm
+Hakha Chin
+Mizo
+Ngawn
+Tawr
+Maraic
+Lautu
+Mara
+Senthang
+Zotung
+Zyphe
+Southern
+Daai
+Kaang
+Khumi
+Kʼchò
+Nga La
+Shö
+Songlai
+Sumtu
+Thaiphum
+Welaung
+Other
+Anu-Hkongso
+KachinSino-Tibetan
+Achang
+Drung
+Hpon
+Jingpho
+Lashi
+Lhao Vo
+Lisu
+Nusu
+Rawang
+Zaiwa
+Other
+Khamti
+Nùng
+Palaung
+Tai Laing
+Kayah
+Kayaw
+Karenni
+Kayin
+Bwe Karen
+Geba Karen
+Pwo
+Eastern
+Western
+S’gaw Karen
+Magway
+Rungtu (Taungtha)
+Mon
+Mon
+Rakhine
+Rakhine
+Chakma
+Laitu
+Mro-Khimi
+Mru
+Rohingya
+Sak
+SagaingSal
+Khiamniungan
+Konyak
+Leinong
+Makyam
+Ponyo
+Sak
+Tangsa
+Other
+Akyaung Ari
+Anal
+Koki
+Makury
+Long Phuri
+Para
+Tangkhul
+ShanAustroasiatic
+Blang
+Danau
+Palaung
+Riang
+Tai Loi
+Wa
+Sino-Tibetan
+Akeu
+Akha
+Danu
+Geko Karen
+Intha
+Lahta
+Lahu
+Pa’o
+Padaung
+Pyen
+Taungyo
+Southwestern Mandarin
+Kra–Dai
+Khün
+Tai Lue
+Shan
+Tai Nuea
+Hmong–Mien
+Hmong Njua
+Tanintharyi
+Malay
+Moken
+Moklen
+S’gaw
+Tavoyan
+Non-IndigenousImmigrant language
+Burmese
+Hindi
+Punjabi
+Russian
+Vietnamese
+Working language
+English
+Japanese
+Korean
+Sign languages
+Burmese sign language
+vte Languages of ThailandOfficial language
+Thai
+Other ThaisLao–Phutai
+Isan
+Phu Thai
+Chiang Saen
+Northern Thai
+Tai Lü
+Phuan
+Thai Song
+Sukhothai
+Southern Thai
+Northwestern
+Khün
+Shan
+Tai Nüa
+Minority ethnicsby languages groupsAustroasiatic
+Bru
+Chong
+Chung
+Jahai
+Kensiu
+Khmer
+Northern
+Western
+Kintaq
+Kuy
+Mlabri
+Mon
+Nyah Kur
+Palaung
+Ten'edn
+Thavung
+Vietnamese
+Austronesian
+Cham
+Malay
+Bangkok Malay
+Pattani Malay
+Satun Malay
+Moken
+Moklen
+Urak Lawoi’
+Hmong-Mien
+Hmong
+Iu Mien
+Sino-Tibetan
+Akha
+Cantonese
+Eastern Pwo
+Hakka
+Lisu
+Min
+Teochew
+Hokkien
+Hainanese
+Hokchew
+Nuosu
+Mpi
+Northern Pwo
+Phrae Pwo
+Red Karen (Eastern Kayah)
+S'gaw Karen
+Ugong
+Non-IndigenousImmigrant language
+Burmese
+Hindi
+Punjabi
+Russian
+Southwestern Mandarin
+Working language
+English
+Japanese
+Korean
+Sign languages
+Thai Sign Language
+Ban Khor Sign
+vteKra–Dai languagesKra
+Laha
+Lachi
+Paha
+Buyang
+En
+Qabiao
+Gelao
+Vandu
+A'ou
+Mulao
+Hagei
+Telue
+Qau
+Kam–Sui
+Mulam
+Kam (Dong)
+Cao Miao
+Nuoxi (Naxi Yao)
+Then
+Maonan
+Chadong
+Sui
+Mak
+Ai-Cham
+Biao
+Biao
+Lakkia
+Lakkia
+Hlai
+Bouhin
+Ha Em
+Lauhut
+Tongzha
+Zandui
+Baoting
+Cun
+Nadou
+Changjiang
+Moyfaw
+Baisha
+Yuanmen
+Jiamao
+Jiamao
+Be–Jizhao
+Be
+Jizhao
+Tai(Zhuang, etc.)Northern
+Standard Zhuang
+Bouyei
+Hezhang Buyi
+Yei Zhuang
+Longsang Zhuang
+E
+Saek
+Tai Yo (Nyaw)
+Yoy
+Tai Pao
+Central
+Nong Zhuang
+Dai Zhuang
+Min Zhuang
+Yang Zhuang
+Pyang Zhuang
+Myang Zhuang
+Nùng
+Tày
+Tsʻün-Lao
+Southwestern(Thai)Northwestern
+Shan
+Tai Ya
+Tai Nuea
+Tai Long
+Tai Hongjin
+Khamti
+Tai Laing
+Phake
+Aiton
+Khamyang
+Ahom
+Turung
+Lao–Phutai
+Lao
+Phu Thai
+Isan
+Tai Yo (Nyaw)
+Lao Nyo
+Kaloeng
+Chiang Saen
+Thai (Siamese)
+Northern Thai
+Tai Daeng
+Tai Meuay
+Tai Dón
+Tai Hang Tong
+Tai Lue
+Yong
+Tai Dam
+Khün
+Phuan
+Thai Song
+Tày Tac
+Southern
+Southern Thai
+(other)
+Sapa
+Pa Di
+Tai Muong Vat
+Tai Thanh
+Tai Khang
+Kuan
+(mixed)
+Cao Lan
+(mixed origins)
+Hezhang Buyi
+E
+Cao Lan
+Sanqiao
+Jiamao
+proposed groupings
+Kam–Tai
+Proto-languages
+Proto-Kra–Dai
+Proto-Kra
+Proto-Tai
+Proto-Kam–Sui
+Proto-Hlai
+Italics indicate extinct languages
+Authority control: National 
+Japan
+Czech Republic
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Shan_language&oldid=1172719310"
+Categories: Shan languageLanguages of MyanmarLanguages of ThailandSouthwestern Tai languagesTonal languagesHidden categories: Pages that use PhonosLanguage articles citing Ethnologue 25Articles with short descriptionShort description is different from WikidataArticles containing Shan-language textLanguages with ISO 639-2 codeAll articles with unsourced statementsArticles with unsourced statements from April 2023Articles with unsourced statements from August 2016Articles with unsourced statements from May 2020Articles containing Burmese-language textArticles containing Thai-language textArticles containing Northern Thai-language textArticles containing Lao-language textArticles containing Tai Lü-language textWikipedia articles needing clarification from April 2023Articles with unsourced statements from July 2010Articles with NDL identifiersArticles with NKC identifiers
+ This page was last edited on 28 August 2023, at 21:33 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

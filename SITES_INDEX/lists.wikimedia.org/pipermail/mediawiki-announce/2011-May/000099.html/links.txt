@@ -1,0 +1,6 @@
+http://www.mediawiki.org/wiki/Release_notes/1.17
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-1.17.0beta1.tar.gz
+http://download.wikimedia.org/mediawiki/1.17/mediawiki-1.17.0beta1.tar.gz.sig
+https://secure.wikimedia.org/keys.html
+http://enigmail.mozdev.org/
+https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce

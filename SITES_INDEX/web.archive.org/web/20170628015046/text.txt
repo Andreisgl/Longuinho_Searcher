@@ -1,0 +1,324 @@
+Microsoft's Software Is Malware
+- GNU Project - Free Software Foundation
+276 captures
+03 Jul 2015 - 24 Jul 2023
+May
+JUN
+Aug
+28
+2016
+2017
+2018
+success
+fail
+ About this capture
+COLLECTED BY
+Organization: Alexa Crawls
+  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+Collection: Alexa Crawls
+  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+TIMESTAMPS
+The Wayback Machine - http://web.archive.org/web/20170628015046/http://www.gnu.org:80/proprietary/malware-microsoft.en.html
+Skip to main text
+ Set language
+ 
+ 
+English [en]  
+Deutsch [de]  
+español [es]  
+français [fr]  
+italiano [it]  
+日本語 [ja]  
+русский [ru]  
+JOIN THE FSF
+Free Software Supporter
+GNU Operating System
+Sponsored by the Free Software Foundation
+ABOUT GNU
+PHILOSOPHY
+LICENSES
+EDUCATION
+SOFTWARE
+DOCUMENTATION
+HELP GNU
+Microsoft's Software is Malware
+Other examples of proprietary
+malware
+Malware means software designed to function in ways that
+mistreat or harm the user.  (This does not include accidental errors.)
+This page explains how Microsoft software is malware.
+Malware and nonfree software are two different issues.  The difference
+between free software and
+nonfree software is in
+whether the users have control of the program or vice versa.  It's
+not directly a question of what the program does when it
+runs.  However, in practice nonfree software is often malware,
+because the developer's awareness that the users would be powerless to fix
+any malicious functionalities tempts the developer to impose some.
+Type of malware
+Back doors
+Insecurity
+Sabotage
+Interference
+Surveillance
+Digital restrictions
+    management or “DRM” means functionalities designed
+    to restrict what users can do with the data in their computers.
+Jails—systems
+    that impose censorship on application programs.
+Tyrants—systems
+    that reject any operating system not “authorized” by the
+    manufacturer.
+Microsoft Back Doors
+  Microsoft has already backdoored its disk encryption.
+Microsoft Windows has a universal back door through which 
+  any change whatsoever can be imposed on the users.
+More information on when 
+  this was used.
+In Windows 10, the universal back door is no longer hidden; all “upgrades” will be
+  forcibly and immediately imposed.
+  Windows 8 also has a back door for remotely deleting apps.
+You might well decide to let a security service that you trust
+  remotely deactivate programs that it considers malicious.
+  But there is no excuse for deleting the programs, and you
+  should have the right to decide who (if anyone) to trust in this way.
+German government veers
+      away from Windows 8 computers with TPM 2.0 due to potential back
+      door capabilities of the TPM 2.0 chip.
+Users reported that 
+    Microsoft was forcing them to replace Windows 7 and 8 with all-spying 
+    Windows 10.
+Microsoft was in fact 
+    attacking computers that run Windows 7 and 8, switching on a flag 
+    that said whether to “upgrade” to Windows 10 when users 
+    had turned it off.
+Later on, Microsoft published instructions on 
+    how to permanently reject the downgrade to Windows 10.
+This seems to involve use of a back door in Windows 7 and 8.
+Microsoft Insecurity
+These bugs are/were not intentional, so unlike the rest of the file
+  they do not count as malware. We mention them to refute the
+  supposition that prestigious proprietary software doesn't have grave
+  bugs.
+Exploits of bugs in Windows, which were developed by the NSA
+and then leaked by the Shadowbrokers group, are now being used to
+attack a great number
+of Windows computers with ransomware.
+A flaw in Internet Explorer and Edge
+    allows an attacker to retrieve Microsoft account credentials, if
+    the user is tricked into visiting a malicious link.
+Point-of-sale terminals running Windows were taken over and turned
+into a botnet for the purpose of collecting customers' credit card
+numbers.
+Microsoft Sabotage
+The wrongs in this section are not precisely malware, since they do
+not involve making the program that runs in a way that hurts the user.
+But they are a lot like malware, since they are technical Microsoft
+actions that harm to the users of specific Microsoft software.
+ Microsoft
+      
+has dropped support for Windows 7 and 8 on recent processors
+      in a big hurry.
+It makes no difference what legitimate reasons Microsoft might
+      have for not doing work to support them. If it doesn't want to
+      do this work, it should let users do the work.
+Microsoft has made Windows 7 and 8 cease to function on certain
+      new computers,
+      effectively
+      forcing their owners to switch to Windows 10.
+Once Microsoft has tricked a user into accepting installation
+   of Windows
+   10, they
+   find that they are denied the option to cancel or even postpone the
+   imposed date of installation.
+   
+This demonstrates what we've said for years: using proprietary
+   software means letting someone have power over you, and you're
+   going to get screwed sooner or later.
+Microsoft
+  has desupported
+  all future Intel CPUs for Windows 7 and 8. Those machines will
+  be stuck with the nastier Windows 10.
+  
+  AMD and Qualcomm CPUs, too.
+  
+Of course, Windows 7 and 8 are unethical too, because they are
+  proprietary software.  But this example of Microsoft's wielding its
+  power demonstrates the power it holds.
+  
+Free software developers also stop maintaining old versions of
+  their programs, but this is not unfair to users because the
+  users of free software have control over it.  If it is important
+  enough to you, you and other users can hire someone to support
+  the old version on your future platforms.
+  
+Microsoft
+    is 
+    forcibly pushing Windows
+    update to its version 10, ignoring the flag on Windows 7 or 8
+    that you could set to not upgrade.  This reaffirms the presence of
+    a universal
+    back door in Windows 7 and 8.
+Windows 10 “upgrades” 
+      delete applications without asking permission.
+  Microsoft is 
+  repeatedly nagging many users to install Windows 10.
+  
+Microsoft was for months 
+tricking users into “upgrading” to Windows 10, if they
+failed to notice and say no.
+  Microsoft informs the NSA of bugs in Windows before fixing them.
+  Microsoft cut off security fixes for Windows XP, except to some big users
+  that pay exorbitantly.
+Microsoft is going to
+  
+  cut off support for some Internet Explorer versions in the same way.
+A person or company has the right to cease to work on a
+  particular program; the wrong here is Microsoft does this after having
+  made the users dependent on Microsoft, because they are not free to ask
+  anyone else to work on the program for them.
+Microsoft Interference
+Various proprietary programs often mess up the user's system. They are like sabotage, but they are not grave enough to qualify 
+for the word “sabotage”. Nonetheless, they are nasty and wrong. This section describes examples of Microsoft committing
+interference.
+Windows displays
+      
+intrusive ads for Microsoft products and its
+partners' products.
+The article's author starts from the premise that Microsoft
+      has a right to control what Windows does to users, as long as it
+      doesn't go “too far”. We disagree.
+Microsoft inserts 
+      annoying advertisements inside of the File Explorer to nag
+      users to buy subscriptions for the OneDrive service.
+In order to increase Windows 10's install base, Microsoft
+blatantly disregards user choice and privacy.
+Microsoft has
+started nagging
+users obnoxiously and repeatedly to install Windows 10.
+Microsoft
+      is
+        tricking
+        users 
+into replacing Windows 7 with Windows 10.
+Microsoft has made companies' Windows machines managed by the
+company's
+sysadmins harangue
+users to complain to the sysadmins about not “upgrading” to Windows
+10.
+Microsoft Surveillance
+Windows DRM
+files can
+be used to identify people browsing through Tor. The vulnerability
+exists only if you use Windows.
+By default, Windows 10 sends
+debugging information to Microsoft, including core dumps. Microsoft
+now distributes them to another company.
+It appears 
+Windows 10 sends data to Microsoft about what applications are 
+running.
+A downgrade to Windows 10 deleted surveillance-detection
+applications.  Then another downgrade inserted a general spying
+program.  Users noticed this and complained, so Microsoft
+renamed it 
+to give users the impression it was gone.
+To use proprietary software is to invite such treatment.
+  Windows 10 comes with 13 screens of snooping options, all enabled by default,
+  and turning them off would be daunting to most users.
+  Windows 10 
+  ships with default settings that show no regard for the
+  privacy of its users, giving Microsoft the “right”
+  to snoop on the users' files, text input, voice input,
+  location info, contacts, calendar records and web browsing
+  history, as well as automatically connecting the machines to open
+  hotspots and showing targeted ads.
+We can suppose Microsoft look at users' files for the US government on
+  demand, though the “privacy policy” does not explicit say so. Will it
+  look at users' files for the Chinese government on demand?
+  Windows 10 sends identifiable information to Microsoft, even if a user
+  turns off its Bing search and Cortana features, and activates the
+  privacy-protection settings.
+The unique “advertising ID” for each user enables other companies to
+  track the browsing of each specific user.
+Spyware in Windows 8: 
+  Windows Update snoops on the user.
+  Windows 8.1 snoops on local searches. And there's a
+  
+  secret NSA key in Windows, whose functions we don't know.
+  Microsoft SkyDrive allows the NSA to directly examine users' data.
+Spyware in Skype:
+      
+      http://www.forbes.com/sites/petercohan/2013/06/20/project-chess-how-u-s-snoops-on-your-skype/.
+      Microsoft changed Skype
+      
+      specifically for spying.
+  Microsoft uses Windows 10's “privacy policy” to overtly impose a
+  “right” to look at users' files at any time. Windows 10 full disk
+  encryption 
+  gives Microsoft a key.
+Thus, Windows is overt malware in regard to surveillance,
+  as in other issues.
+We can suppose Microsoft look at users' files for the US government on
+  demand, though the “privacy policy” does not explicit say so. Will it
+  look at users' files for the Chinese government on demand?
+The unique “advertising ID” for each user enables other companies to
+  track the browsing of each specific user.
+It's as if Microsoft has deliberately chosen to make Windows 10
+  maximally evil on every dimension; to make a grab for total power
+  over anyone that doesn't drop Windows now.
+Microsoft DRM
+  DRM (digital restrictions mechanisms) in Windows, introduced to
+  cater to Bluray disks.
+  (The article also talks about how the same malware would later be introduced
+  in MacOS.)
+Microsoft Jails
+Windows 10 S ought to be called Windows 10 J, for “Jail”:
+only programs from the Windows Store can be
+downloaded and executed.
+If the history of iOS as a jail is any indication, Windows 10 J
+will be no better.
+  Windows 8 on “mobile devices” is a jail: it censors the
+  user's choice of application programs.
+Microsoft Tyrants
+Microsoft accidentally left a way for users to install GNU/Linux
+on Windows RT tablets, but now it has 
+    “fixed” the “error”. They have the
+gall to call this “protecting” the users.  The article
+talks of installing “Linux”, but the context shows it is
+really GNU/Linux that users
+install.
+  Mobile devices that come with Windows 8 are tyrants: they block
+  users from installing other or modified operating systems.
+As this page shows, if you do want to clean your computer of malware,
+the first software to delete is Windows.
+BACK TO TOP
+FSF
+FREE SOFTWARE DIRECTORY
+HARDWARE
+GNU ART
+GNU'S WHO?
+SITE MAP
+“Our
+mission is to preserve, protect and promote the freedom to use, study,
+copy, modify, and redistribute computer software, and to defend the
+rights of Free Software users.”
+The Free Software Foundation is
+the principal organizational sponsor of the GNU Operating System.
+Support GNU and the FSF by buying manuals and gear, 
+joining the FSF as an associate member, or making
+a donation, either directly to the FSF or via
+Flattr.
+Please send general FSF & GNU inquiries to
+<gnu@gnu.org>.
+There are also other ways to contact
+the FSF.  Broken links and other corrections or suggestions can be sent
+to <webmasters@gnu.org>.
+Please see the Translations
+README for information on coordinating and submitting translations
+of this article.
+Copyright © 2014, 2015, 2016, 2017 Free Software Foundation, Inc.
+This page is licensed under a Creative
+Commons Attribution-NoDerivatives 4.0 International License.
+Copyright Infringement Notification
+Updated:
+$Date: 2017/05/18 04:02:33 $

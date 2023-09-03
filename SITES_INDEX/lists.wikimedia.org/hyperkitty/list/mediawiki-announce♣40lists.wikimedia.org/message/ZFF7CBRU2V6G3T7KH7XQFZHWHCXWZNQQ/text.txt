@@ -1,0 +1,352 @@
+[MediaWiki-announce] Maintenance release: MediaWiki 1.38.1 - MediaWiki-announce - lists.wikimedia.org
+ 
+lists.wikimedia.org
+ 
+ 
+                                Sign In
+                            
+                                Sign Up
+                            
+                            Sign In
+                        
+                            Sign Up
+                        
+                        Manage this list
+                    
+ 
+ 
+×
+Keyboard Shortcuts
+Thread View
+j: Next unread message 
+k: Previous unread message 
+j a: Jump to all threads
+               j l: Jump to MailingList overview
+             
+                            2023
+                        
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2022
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2021
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2020
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2019
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2018
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2017
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2016
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2015
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2014
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2013
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2012
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2011
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2010
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2009
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2008
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2007
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2006
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2005
+                        
+December
+November
+October
+September
+August
+July
+June
+May
+April
+March
+February
+January
+                            2004
+                        
+December
+            List overview
+ Download
+thread
+[MediaWiki-announce] Maintenance release: MediaWiki 1.38.1
+Sam Reed
+                6 Jun
+                
+                    2022
+                
+            
+                6 Jun
+                
+                '22
+                
+            
+5:29 p.m.
+ 
+I would like to announce the availability of MediaWiki 1.38.1.
+
+This fixes a couple of issues identified in the MediaWiki 1.38.0 release,
+and I apologise that they weren't caught in the release candidates. Thanks
+to all the people that reported the composer.lock issues relating to
+justinrainbow/json-schema not being in the bundled vendor folder.
+
+=== Changes since MediaWiki 1.38.0 ===
+* (T309860) Add justinrainbow/json-schema to vendor.
+* (T309933) Drop PHP 7.2 support in MediaWiki 1.38; require 7.3.19.
+
+**********************************************************************
+Download:
+https://releases.wikimedia.org/mediawiki/1.38/mediawiki-1.38.1.tar.gz
+https://releases.wikimedia.org/mediawiki/1.38/mediawiki-1.38.1.zip
+
+Download without bundled extensions:
+https://releases.wikimedia.org/mediawiki/1.38/mediawiki-core-1.38.1.tar.gz
+https://releases.wikimedia.org/mediawiki/1.38/mediawiki-core-1.38.1.zip
+
+Patch to previous version (1.38.0):
+https://releases.wikimedia.org/mediawiki/1.38/mediawiki-1.38.1.patch.gz
+https://releases.wikimedia.org/mediawiki/1.38/mediawiki-1.38.1.patch.zip
+
+GPG signatures:
+https://releases.wikimedia.org/mediawiki/1.38/mediawiki-core-1.38.1.tar.gz.…
+https://releases.wikimedia.org/mediawiki/1.38/mediawiki-core-1.38.1.zip.sig
+https://releases.wikimedia.org/mediawiki/1.38/mediawiki-1.38.1.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.38/mediawiki-1.38.1.zip.sig
+https://releases.wikimedia.org/mediawiki/1.38/mediawiki-1.38.1.patch.gz.sig
+https://releases.wikimedia.org/mediawiki/1.38/mediawiki-1.38.1.patch.zip.sig
+
+Public keys:
+https://www.mediawiki.org/keys/keys.html
+ 1
+ 0
+            Reply
+        
+Back to the thread
+            Back to the list
+        
+ 
+            Powered by HyperKitty version 1.3.4.
+        

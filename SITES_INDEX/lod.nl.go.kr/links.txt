@@ -1,0 +1,12 @@
+http://lod.nl.go.kr/home
+http://lod.nl.go.kr/resource/KAB202014144
+http://lod.nl.go.kr/data/KAB202014144
+http://lod.nl.go.kr/ontology/create
+http://lod.nl.go.kr/page/WMF000135906
+http://lod.nl.go.kr/sparql
+https://lod.nl.go.kr/data/KAB202014144?output=ttl
+https://lod.nl.go.kr/data/KAB202014144?output=rdfxml
+https://lod.nl.go.kr/data/KAB202014144?output=json
+https://lod.nl.go.kr/data/KAB202014144?output=n3
+https://lod.nl.go.kr/data/KAB202014144?output=nt
+http://li-st.com/products/ontobase.jsp

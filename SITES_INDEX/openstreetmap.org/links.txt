@@ -1,0 +1,73 @@
+https://wiki.openstreetmap.org/wiki/Key:ISO3166-1:alpha2?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:ISO3166-1:alpha3?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:admin level?uselang=en
+https://wiki.openstreetmap.org/wiki/Tag:admin level=2?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:boundary?uselang=en
+https://wiki.openstreetmap.org/wiki/Tag:boundary=administrative?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:default language?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:driving side?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:flag?uselang=en
+https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg
+https://wiki.openstreetmap.org/wiki/Key:name?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:ar?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:azb?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:be?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:be-tarask?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:br?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:cs?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:de?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:en?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:eo?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:es?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:fr?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:fy?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:gn?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:grc?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:hr?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:it?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:ja?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:ko?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:lt?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:nl?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:no?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:pa?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:pl?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:pt?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:ru?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:se?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:sk?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:sl?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:sr?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:sv?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:ta?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:tr?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:tzl?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:ug?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:uk?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:ur?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:vo?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:zh?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:zh-Hans?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:name:zh-Hant?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:official name:ar?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:official name:be?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:official name:de?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:official name:en?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:official name:es?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:official name:fr?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:official name:grc?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:official name:ru?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:source:name:br?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:timezone?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:type?uselang=en
+https://wiki.openstreetmap.org/wiki/Tag:type=boundary?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:wikidata?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:wikipedia?uselang=en
+https://en.wikipedia.org/wiki/en:Trinidad and Tobago?uselang=en
+https://wiki.openstreetmap.org/wiki/Key:wikipedia:es?uselang=en
+https://es.wikipedia.org/wiki/Trinidad y Tobago?uselang=en
+https://www.ucl.ac.uk
+https://www.fastly.com/
+https://www.bytemark.co.uk
+https://hardware.openstreetmap.org/thanks/
+https://supporting.openstreetmap.org/

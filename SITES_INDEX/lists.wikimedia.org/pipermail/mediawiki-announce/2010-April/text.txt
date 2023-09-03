@@ -1,0 +1,77 @@
+ [MediaWiki-announce] MediaWiki security update: 1.15.3 and1.16.0beta2
+   
+[MediaWiki-announce] MediaWiki security update: 1.15.3 and1.16.0beta2
+Tim Starling
+tstarling at wikimedia.org
+       
+Wed Apr  7 01:03:09 UTC 2010
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+This is a security and bugfix release of MediaWiki 1.15.3 and MediaWiki
+1.16.0beta2.
+MediaWiki was found to be vulnerable to login CSRF. An attacker who
+controls a user account on the target wiki can force the victim to log
+in as the attacker, via a script on an external website. If the wiki is
+configured to allow user scripts, say with "$wgAllowUserJs = true" in
+LocalSettings.php, then the attacker can proceed to mount a
+phishing-style attack against the victim to obtain their password.
+Even without user scripting, this attack is a potential nuisance, and so
+all public wikis should be upgraded if possible.
+Our fix includes a breaking change to the API login action. Any clients
+using it will need to be updated. We apologise for making such a
+disruptive change in a minor release, but we feel that security is
+paramount.
+For more details see https://bugzilla.wikimedia.org/show_bug.cgi?id=23076
+**********************************************************************
+  1.15.3
+**********************************************************************
+Full release notes:
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_15_3/phase3/RELEASE-NOTES
+Download:
+http://download.wikimedia.org/mediawiki/1.15/mediawiki-1.15.3.tar.gz
+Patch to previous version (1.15.2), without interface text:
+http://download.wikimedia.org/mediawiki/1.15/mediawiki-1.15.3.patch.gz
+Interface text changes:
+http://download.wikimedia.org/mediawiki/1.15/mediawiki-i18n-1.15.3.patch.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.15/mediawiki-1.15.3.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.15/mediawiki-1.15.3.patch.gz.sig
+http://download.wikimedia.org/mediawiki/1.15/mediawiki-i18n-1.15.3.patch.gz.sig
+Public keys:
+https://secure.wikimedia.org/keys.html
+**********************************************************************
+  1.16.0beta2
+**********************************************************************
+Full release notes:
+http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_16_0beta2/phase3/RELEASE-NOTES
+Download:
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.0beta2.tar.gz
+Patch to previous version (1.16.0beta1), without interface text:
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.0beta2.patch.gz
+Interface text changes:
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-i18n-1.16.0beta2.patch.gz
+GPG signatures:
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.0beta2.tar.gz.sig
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-1.16.0beta2.patch.gz.sig
+http://download.wikimedia.org/mediawiki/1.16/mediawiki-i18n-1.16.0beta2.patch.gz.sig
+Public keys:
+https://secure.wikimedia.org/keys.html
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+iEYEARECAAYFAku72c0ACgkQgkA+Wfn4zXmmywCgg93Qn9fFiBZmMjfFfRXtQAAY
+/2kAn3mnedysUErnHt59Va2rGHuSJUzf
+=Ytqc
+-----END PGP SIGNATURE-----
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+More information about the MediaWiki-announce
+mailing list

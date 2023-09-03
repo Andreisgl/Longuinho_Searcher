@@ -1,0 +1,320 @@
+Ethnologue report for Malaysia (Peninsular)
+93 captures
+28 Apr 2005 - 09 Jul 2023
+Sep
+MAY
+Jun
+10
+2008
+2011
+2012
+success
+fail
+ About this capture
+COLLECTED BY
+Organization: Internet Archive
+  The Internet Archive discovers and captures web pages through many different web crawls.
+
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+
+View the web archive through the Wayback Machine.
+Collection: Wide Crawl started March 2011
+Web wide crawl with initial seedlist and crawler configuration from March 2011.  This uses the new HQ software for distributed crawling by Kenji Nagahashi.
+What’s in the data set:
+Crawl start date: 09 March, 2011
+Crawl end date: 23 December, 2011
+Number of captures: 2,713,676,341
+Number of unique URLs: 2,273,840,159
+Number of hosts: 29,032,069
+The seed list for this crawl was a list of Alexa’s top 1 million web sites, retrieved close to the crawl start date.  We used Heritrix (3.1.1-SNAPSHOT) crawler software and respected robots.txt directives.  The scope of the crawl was not limited except for a few manually excluded sites.
+However this was a somewhat experimental crawl for us, as we were using newly minted software to feed URLs to the crawlers, and we know there were some operational issues with it.  For example, in many cases we may not have crawled all of the embedded and linked objects in a page since the URLs for these resources were added into queues that quickly grew bigger than the intended size of the crawl (and therefore we never got to them).  We also included repeated crawls of some Argentinian government sites, so looking at results by country will be somewhat skewed.
+We have made many changes to how we do these wide crawls since this particular example, but we wanted to make the data available “warts and all” for people to experiment with.  We have also done some further analysis of the content.
+If you would like access to this set of crawl data, please contact us at info at archive dot org and let us know who you are and what you’re hoping to do with it.  We may not be able to say “yes” to all requests, since we’re just figuring out whether this is a good idea, but everyone will be considered.
+TIMESTAMPS
+The Wayback Machine - http://web.archive.org/web/20110510095800/http://www.ethnologue.com/show_country.asp?name=MYP
+ 
+16th edition
+US$ 100.00
+Preview print edition
+Most RecentSIL Publications
+Reduced Price SIL Publications
+ABOUT SSL CERTIFICATES
+Ethnologue > Web version > Country index > Asia > Malaysia > Malaysia (Peninsular)
+Languages of Malaysia (Peninsular)
+   See language map.
+Malaysia (Peninsular). 26,640,000 (2004). 12,123,300 speakers of Austronesian languages, 3,399,000 speakers of Chinese languages, 44,610 speakers of Austro-Asiatic languages (Matisoff 1991), 1,090,000 speakers of Dravidian languages. Immigrant languages: Burmese, Chinese Sign Language, Eastern Panjabi (56,400), Malayalam (35,800), Sylheti, Telugu (39,000), Western Cham. Information mainly from A. Baxter 1988; B. Comrie 1987; R. Dentan 1968; I. Hancock 1969; J. Holm 1989; F. Lebar, G. Hickey, J. Musgrave 1964; S. Lim 1981; W. G. Shellabear 1913. Blind population: 22,300. The number of individual languages listed for Malaysia (Peninsular) is 41. Of those, all are living languages.
+Batek
+[btq]
+1,000 (2006), decreasing. North Pahang, Kelantan, Trengganu.
+Alternate names: Bateg, Bateq, Batok, Kleb, Nong, Tomo. 
+Dialects: Batek Teq (Teq), Batek De’ (Deq), Batek Iga, Batek Nong (Nong). Deq and Nong dialects may be separate languages. 
+Classification: Austro-Asiatic, Mon-Khmer, Aslian, North Aslian, Eastern 
+More information.
+Cheq Wong
+[cwg]
+660 (2003 COAC), increasing. Just south of Semai, Pahang.
+Alternate names: Beri, Che Wong, Chewong, Che’wong, Chuba, Siwang. 
+Classification: Austro-Asiatic, Mon-Khmer, Aslian, North Aslian, Chewong 
+More information.
+Chinese, Hakka
+[hak]
+1,090,000 in Malaysia (2000). 
+Classification: Sino-Tibetan, Chinese 
+More information.
+Chinese, Mandarin
+[cmn]
+ Peninsular Malaysia, Sabah, and Sarawak.
+Classification: Sino-Tibetan, Chinese 
+More information.
+Chinese, Min Dong
+[cdo]
+252,000 in Malaysia (2004). 
+Dialects: Foochow (Fuzhou). 
+Classification: Sino-Tibetan, Chinese 
+More information.
+Chinese, Min Nan
+[nan]
+2,660,000 in Malaysia (2000). 497,280 Teochew, 141,045 Hainanese, 2,020,868 Hokkien (2000). 
+Alternate names: Min Nan, Minnan. 
+Dialects: Fukienese (Amoy, Fujianese, Hokkien), Hainanese, Chaochow (Teochow, Teochew). 
+Classification: Sino-Tibetan, Chinese 
+More information.
+Chinese, Pu-Xian
+[cpx]
+24,700 in Malaysia (2000). Peninsular Malaysia and Sarawak.
+Dialects: Xinghua (Hsinghua, Hinghua). 
+Classification: Sino-Tibetan, Chinese 
+More information.
+Chinese, Yue
+[yue]
+1,070,000 in Malaysia (2000 census). 
+Alternate names: Cantonese, Yue, Yueh. 
+Dialects: Cantonese, Toishanese. 
+Classification: Sino-Tibetan, Chinese 
+More information.
+Duano
+[dup]
+500 in Malaysia (2007 SIL), decreasing. Ethnic population: 4,067. South coast, Pontian Kecil area, northwest; west coast of Johor, Muar, Batu Pahat, and Pontian districts, Lenga, Semerah, Minyak Beku, Senggarang, Rengit, Kuala Benut, Pontian Besar, and Sungai Layau settlements.
+Alternate names: Desin Dolak, Desin Duano, Orang Kuala, Orang Laut. 
+Classification: Austronesian, Malayo-Polynesian, Malayo-Sumbawan, North and East, Malayic, Malay 
+More information.
+English
+[eng]
+380,000 in Malaysia (Crystal 2005), increasing. 
+Classification: Indo-European, Germanic, West, English 
+More information.
+Jah Hut
+[jah]
+5,100 (2003 COAC), increasing. Ethnic population: 2,442 (2000 D. Bradley). Just south of main body of Semai [sea], Kuala Krau, Pahang [zlm].
+Alternate names: Jah Het. 
+Dialects: Kerdau, Krau, Ketiar Krau (Tengganu), Kuala Tembeling, Pulau Guai, Ulu Ceres (Cheres), Ulu Tembeling. 
+Classification: Austro-Asiatic, Mon-Khmer, Aslian, Jah Hut 
+More information.
+Jakun
+[jak]
+Ethnic population: 27,448. East coast and inland, Pairang River, Pekan to Sri Gading, east to Benut, northwest to middle Muat River area.
+Alternate names: Djakun, Jakoon, Jaku’d, Jakud’n, Orang Hulu. 
+Classification: Austronesian, Malayo-Polynesian, Malayo-Sumbawan, North and East, Malayic, Malay 
+More information.
+Jehai
+[jhi]
+1,000 (2006), increasing. Ethnic population: 1,843 (2003). Northeast Perak and west Kelantan.
+Alternate names: Jahai, Pangan. 
+Dialects: Jehai, Batek Teh. 
+Classification: Austro-Asiatic, Mon-Khmer, Aslian, North Aslian, Eastern 
+More information.
+Kensiu
+[kns]
+Population total all countries: 300. Ethnic population: 232 (2003). Northeast Kedah, near Thai border. Overlaps into south Yala Province, Thailand. Also in Thailand.
+Alternate names: Kenseu, Kensieu, Kensiw, Mendi, Monik, Moniq, Ngok Pa, Orang Bukit, Orang Liar. 
+Dialects: Ijoh (Ijok), Jarum, Jeher (Sakai Tanjong of Temongoh), Kedah (Quedah), Plus, Ulu Selama, Kensiu Batu, Kensiu Siong, Kentaq Nakil. 
+Classification: Austro-Asiatic, Mon-Khmer, Aslian, North Aslian, Western 
+More information.
+Kintaq
+[knq]
+160 in Malaysia (2003 COAC), decreasing. Kedah-Perak border area, Thai border. Overlaps into South Yala Province, Thailand. Also in Thailand.
+Alternate names: Bong, Kenta, Kintak, Kintaq Bong. 
+Classification: Austro-Asiatic, Mon-Khmer, Aslian, North Aslian, Western 
+More information.
+Lanoh
+[lnh]
+220 (2000 D. Bradley). Ethnic population: 224 (2000 D. Bradley). North central Perak.
+Alternate names: Jengjeng. 
+Classification: Austro-Asiatic, Mon-Khmer, Aslian, Senoic 
+More information.
+Mah Meri
+[mhe]
+2,990 (2003 COAC), increasing. Selangor coast, Malacca.
+Alternate names: Besisi, Cellate. 
+Dialects: Kuala Langot Besisi, Malakka Besisi, Ulu Langat Orang Bukit, Selangor Sakai, Betise’ (Betisek), Sisi. 
+Classification: Austro-Asiatic, Mon-Khmer, Aslian, South Aslian 
+More information.
+Malaccan Creole Malay
+[ccm]
+Ethnic population: 300. Malacca Straits.
+Alternate names: Chitties Creole Malay. 
+Dialects: May be historically related to Sri Lankan Creole Malay [sci]. 
+Classification: Creole, Malay based 
+More information.
+Malaccan Creole Portuguese
+[mcm]
+1,000. Ethnic population: 12,640. Trankera and Hilir, Melaka, Straits of Malacca. Related varieties in parts of Kuala Lumpur and Singapore.
+Alternate names: Bahasa Geragau, Bahasa Serani, Luso-Malay, Malaccan, Malaqueiro, Malaquenho, Malaquense, Malaquês, Malayo-Portuguese, Malaysian Creole Portuguese, Papia Kristang, Português de Malaca, Portuguese Patois, Serani. 
+Classification: Creole, Portuguese based 
+More information.
+Malay
+[msa]
+A macrolanguage. 
+Population total all countries: 39,144,949. 
+More information.
+Malay
+[zlm]
+8,880,000 in Malaysia. 10 million in Peninsular Malaysia, 505,800 in Sarawak, and 30,000 in Labuan. Population total all countries: 10,296,000. Widespread in Peninsular Malaysia, parts of Sarawak. Also in Canada, Indonesia (Sumatra), Myanmar, Singapore, United Arab Emirates, United States.
+Alternate names: Colloquial Malay, Local Malay, Malayu. 
+Dialects: Coastal Terengganu, Inland Terengganu, Kelantan, Pahang, Southeast Island, Orang Hulu, Orang Kuala, Jugra-Muar-Melaka-Johor, Sarawak (Sarawak Malay), Tamiang, Deli, Riau Mainland, Lubu, Akit, Sakai, Riau islands, coastal Jambi, Belitung, Northwestern Kalimantan, Upstream Western Kalimantan, Southwestern Coastal Kalimantan. Kedah Malay [meo], Negeri Sembilan Malay [zmi], Jakun [jak], Duano [dup], Orang Kanaq [orn], Orang Seletar [ors], Temuan [tmw], Sabah Malay [msi], and Burnei [kxd], are so closely related that they may one day be included as dialects of Malay [zlm]. 
+Classification: Austronesian, Malayo-Polynesian, Malayo-Sumbawan, North and East, Malayic, Malay 
+More information.
+Malay, Baba
+[mbf]
+Ethnic population: 5,000. Peninsular Malaysia, Melaka Tengah, Malacca Straits.
+Alternate names: Chinese Malay, Straits Malay. 
+Classification: Creole, Malay based 
+More information.
+Malay, Kedah
+[meo]
+2,600,000 in Malaysia (2004). Kedah, Penang, Perlis, and (north) Perak states. Also in Thailand.
+Alternate names: Satun Malay. 
+Dialects: Distinct from Pattani Malay [mfa], Standard Malay [zsm]. 
+Classification: Austronesian, Malayo-Polynesian, Malayo-Sumbawan, North and East, Malayic, Malay 
+More information.
+Malay, Standard
+[zsm]
+Some L1 speakers, but pervasive diglossia with local Malay varieties makes it difficult to estimate L1 population. Widespread Peninsular Malaysia, Sabah, and Sarawak. Also in Brunei, Singapore.
+Alternate names: Formal Malay, Malay, Malayu, Melayu, Melayu Baku. 
+Dialects: Over 80% cognate with Indonesian. 
+Classification: Austronesian, Malayo-Polynesian, Malayo-Sumbawan, North and East, Malayic, Malay 
+More information.
+Malaysian Sign Language
+[xml]
+24,000. 
+Alternate names: Bahasa Isyarat Malaysia. 
+Dialects: Variations are found in every state, but are mutually intelligible with the possible exception of some places in Terengganu state. The status of the sign language in Terengganu is not yet clear. 
+Classification: Deaf sign language 
+More information.
+Minriq
+[mnq]
+160 (2003 COAC). Southeast Kelantan.
+Alternate names: Mendriq, Menraq, Menrik, Menriq. 
+Classification: Austro-Asiatic, Mon-Khmer, Aslian, North Aslian, Eastern 
+More information.
+Mintil
+[mzt]
+40 (1975 SIL). Tamun River, Pahang.
+Alternate names: Mitil. 
+Classification: Austro-Asiatic, Mon-Khmer, Aslian, North Aslian, Eastern 
+Nearly extinct.
+More information.
+Negeri Sembilan Malay
+[zmi]
+Ethnic population: 507,500 (2004). Southeast of Kuala Lumpur, Ulu Muar District.
+Alternate names: Malaysian Minangkabau, Ulu Muar Malay. 
+Dialects: Related to Minangkabau [min] in Sumatra, Indonesia. 
+Classification: Austronesian, Malayo-Polynesian, Malayo-Sumbawan, North and East, Malayic, Malay 
+More information.
+Orang Kanaq
+[orn]
+Ethnic population: 83 (2003 census). Southeast and northeast of Mawai.
+Classification: Austronesian, Malayo-Polynesian, Malayo-Sumbawan, North and East, Malayic, Malay 
+More information.
+Orang Seletar
+[ors]
+Population total all countries: 880. Ethnic population: 1,407 (2003 census). Southeast coast around Kukuo, Jahore Bahru, east and north, and the north coast of Singapore. Also in Singapore.
+Classification: Austronesian, Malayo-Polynesian, Malayo-Sumbawan, North and East, Malayic, Malay 
+More information.
+Penang Sign Language
+[psg]
+1,000, decreasing. 150 monolinguals. Ethnic population: 2,000. Penang.
+Classification: Deaf sign language 
+More information.
+Sabüm
+[sbo]
+ North central Perak.
+Dialects: Most similar to Lanoh [lnh], Semnam [ssm]. 
+Classification: Austro-Asiatic, Mon-Khmer, Aslian, Senoic 
+More information.
+Selangor Sign Language
+[kgi]
+500, decreasing. Peninsular Malaysia, Selangor, elsewhere.
+Alternate names: KLSL, Kuala Lumpur Sign Language. 
+Classification: Deaf sign language 
+More information.
+Semai
+[sea]
+43,900 (2003). 2,000 monolinguals. Ethnic population: 40,000 (2000). Northwest Pahang and south Perak, Selangor, Negri Sembilan, central mountain area.
+Alternate names: “Central Sakai” , Seng’oi, Sengoi, Senoi. 
+Dialects: Jelai, Perak I, Perak II, Cameron, Telom, Bidor, Betau, Lipis, Bil, Ulu Kampar (Kampar), Gopeng, Tanjung Malim, Parit, Tapah (Jalan Pahang). 
+Classification: Austro-Asiatic, Mon-Khmer, Aslian, Senoic 
+More information.
+Semaq Beri
+[szc]
+Ethnic population: 3,545 (2003 COAC). Pahang, Trengganu, Kelantan.
+Alternate names: Semaq Bri, Semoq Beri. 
+Dialects: 2 dialects. 
+Classification: Austro-Asiatic, Mon-Khmer, Aslian, South Aslian 
+More information.
+Semelai
+[sza]
+Ethnic population: 6,418 (2003 COAC). Between Segamat (Johore) and Pahang rivers.
+Classification: Austro-Asiatic, Mon-Khmer, Aslian, South Aslian 
+More information.
+Semnam
+[ssm]
+670 (2000). North central Perak.
+Dialects: Similar to Lanoh [lnh], Sabüm [sbo]. 
+Classification: Austro-Asiatic, Mon-Khmer, Aslian, Senoic 
+More information.
+Tamil
+[tam]
+Ethnic population: 1,396,480 (2000). 
+Classification: Dravidian, Southern, Tamil-Kannada, Tamil-Kodagu, Tamil-Malayalam, Tamil 
+More information.
+Temiar
+[tea]
+Ethnic population: 25,725 (2003 COAC). Perak and Kelantan; Pahang.
+Alternate names: Northern Sakai, Pie, Seroq, Temer. 
+Dialects: Grik, Kenderong, Kenering, Po-Klo (Sakai Bukit of Temongoh), Sakai of Plus Korbu, Sungai Piah, Tanjong Rambutan, Tembe’ (Tembi), Ulu Kinta (Kinta Sakai), Lanoh Kobak. 
+Classification: Austro-Asiatic, Mon-Khmer, Aslian, Senoic 
+More information.
+Temoq
+[tmo]
+ Southeast Pahang, Jeram River.
+Classification: Austro-Asiatic, Mon-Khmer, Aslian, South Aslian 
+More information.
+Temuan
+[tmw]
+Ethnic population: 22,162 (2003 COAC). Southern extension of the main range, south half of the peninsula, Selangor, Pahang, Johore, Negri Sembilan, Kuala Langat, scattered settlements.
+Alternate names: Benua, Niap. 
+Dialects: Beduanda (Biduanda), Belanda (Belana, Blanda, Landa, Belanas, Belandas), Berembun (Birmun), Mantra (Mentera, Mintra), Temuan, Udai. 
+Classification: Austronesian, Malayo-Polynesian, Malayo-Sumbawan, North and East, Malayic, Malay 
+More information.
+Tonga
+[tnz]
+ Northwest tip north of Kaki.
+Alternate names: Mos Tean-ean. 
+Dialects: Satun. 
+Classification: Austro-Asiatic, Mon-Khmer, Aslian, North Aslian, Tonga 
+More information.
+This web edition of the Ethnologue contains all the content of the print edition and may be cited as:Lewis, M. Paul (ed.),  2009.  Ethnologue: Languages of the World, Sixteenth edition. Dallas, Tex.: SIL International. Online version: http://www.ethnologue.com/.
+  Ethnologue: Web  | 
+Ethnologue: Print  | 
+Bibliography  | 
+Publications Catalog  | 
+Software   
+Who we are  | 
+Shopping cart  | 
+Site search  | 
+Site map  | 
+Home  
+Contact us
+Terms of Use | Privacy Policy | External links
+Copyright © 2011 SIL International (formerly known as the Summer Institute of Linguistics)

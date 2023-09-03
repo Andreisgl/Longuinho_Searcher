@@ -1,0 +1,394 @@
+Licenze Creative Commons - Wikipedia
+Licenze Creative Commons
+Da Wikipedia, l'enciclopedia libera.
+Vai alla navigazione
+Vai alla ricerca
+Logo di Creative Commons.
+Le licenze Creative Commons (a cui ci si può riferire anche come le Creative Commons[1]) sono delle licenze di diritto d'autore, e si possono applicare a qualsiasi opera da esso tutelata. Una licenza Creative Commons è un contratto ed il presupposto fondamentale per poterla utilizzare  è di essere titolari di tutti i diritti o di avere una esplicita autorizzazione/richiesta dal titolare dei diritti (ad esempio l'editore). 
+L’autore, in un modo semplice e standardizzato, può utilizzare le Licenze CC (Creative Common) nel momento in cui vuole concedere ad altri il diritto di usare o modificare un’opera che lui stesso (l’autore) ha creato. CC permette all'autore di scegliere le modalità di utilizzo (per esempio può permettere solo un uso non commerciale di una determinata opera) e protegge le persone che usano o diffondono un’opera di altri dalla preoccupazione di infrangere il diritto d’autore, purché siano rispettate le condizioni specificate dall'autore stesso nella licenza.[2][3][4][5]
+Vi sono diversi tipi di Creative Commons. Le licenze differiscono per numerose combinazioni che condizionano i termini per la loro distribuzione. Furono inizialmente messe in rete il 16 dicembre 2002 da Creative Commons (CC), un'organizzazione non a scopo di lucro statunitense fondata nel 2001 da Lawrence Lessig, professore di diritto all'Harvard University.
+Queste licenze si ispirano al modello copyleft già diffuso negli anni precedenti in ambito informatico e possono essere applicate a tutti i tipi di opere dell'ingegno. In sostanza rappresentano una via di mezzo tra copyright completo (full-copyright) e pubblico dominio (public domain): da una parte la protezione totale realizzata dal modello all rights reserved ("tutti i diritti riservati") e dall'altra no rights reserved ("assenza totale di diritti"), basandosi dunque sul concetto some rights reserved ("alcuni diritti riservati"): in questo senso è quindi l'autore di un'opera che decide quali diritti riservarsi e quali concedere liberamente.
+Indice
+1 Le licenze
+1.1 Le libertà
+1.2 Le condizioni di utilizzo dell'opera
+1.3 Combinazioni: le sei licenze CC
+1.4 CC0: pubblico dominio
+1.5 Public Domain Mark
+1.6 CC e Opera Culturale Libera
+1.7 Attribuzione
+1.8 Licenze ritirate
+2 Licenze "a tre livelli"
+3 Integrazione con altre licenze (CC+)
+3.1 Utilizzo di CC+
+4 Compatibilità con altre licenze
+4.1 CC BY-SA e GFDL
+5 Diritti morali
+6 Porting
+7 Applicabilità
+8 Compatibilità con le società di gestione collettiva
+8.1 SIAE
+9 Diffusione e utilizzo
+9.1 Università e ricerca
+9.2 Progetti a contenuto aperto
+9.3 Istituzioni pubbliche
+10 Note
+11 Bibliografia
+12 Voci correlate
+13 Altri progetti
+14 Collegamenti esterni
+Le licenze[modifica | modifica wikitesto]
+Le licenze Creative Commons, giunte nel novembre 2013 alla versione 4.0[6], sono idealmente strutturate in due parti: la prima parte indica le libertà concesse dall'autore per la propria opera; la seconda, invece, espone le condizioni di utilizzo dell'opera stessa.
+Le libertà[modifica | modifica wikitesto]
+Le licenze Creative Commons.
+Le due libertà sono:
+Simbolo
+Condizione
+Condizione (EN)
+Descrizione
+Condividere
+To Share
+Libertà di copiare, distribuire o trasmettere l'opera.
+Rielaborare
+To Remix
+Libertà di riadattare l'opera.
+Le condizioni di utilizzo dell'opera[modifica | modifica wikitesto]
+Le condizioni di utilizzo dell'opera, anche dette clausole, sono quattro e a ognuna è associato un simbolo grafico allo scopo di renderne più facile il riconoscimento:
+Simbolo
+Sigla
+Condizione
+Descrizione
+BY
+AttribuzioneAttribution
+Permette che altri copino, distribuiscano, mostrino ed eseguano copie dell'opera e dei lavori derivati da questa a patto che venga indicato l'autore dell'opera, con le modalità da questi specificate.
+Ad esempio, potrebbe essere richiesto a chi cita un'opera di indicare oltre all'autore anche il link al sito web dell'opera o dell'autore.
+NC
+Non commercialeNon-Commercial
+Permette che altri copino, distribuiscano, mostrino ed eseguano copie dell'opera e lavori derivati da essa o sue rielaborazioni, solo per scopi non commerciali.
+ND
+Non opere derivateNo Derivative Works
+Permette che altri copino, distribuiscano, mostrino ed eseguano soltanto copie identiche (verbatim) dell'opera; non sono ammesse opere derivate o sue rielaborazioni.
+SA
+Condividi allo stesso modoShare-Alike
+Permette che altri distribuiscano lavori derivati dall'opera solo con una licenza identica (non maggiormente restrittiva) o compatibile con quella concessa con l'opera originale (vedi anche copyleft).
+Combinazioni: le sei licenze CC[modifica | modifica wikitesto]
+Ognuna di queste quattro clausole individua una condizione particolare a cui il fruitore dell'opera deve sottostare per poterne usufruire liberamente. Combinandole si ottengono sedici possibili combinazioni, di cui undici sono licenze CC valide, mentre le altre cinque non lo sono. Di queste ultime, quattro includono sia la clausola ND (No Derivative Works) sia quella SA (Share-Alike) che sono mutuamente esclusive, mentre una non è valida perché non contiene né la ND né la SA.
+Delle undici combinazioni valide, le cinque che non presentano la clausola BY (Attribution) sono state ritirate perché richieste da meno del 3% degli utenti[7]; rimangono tuttavia disponibili per la consultazione sul sito di Creative Commons.
+Quindi le licenze Creative Commons in uso sono sei più la CC0 (o pubblico dominio)[8]:
+Simboli
+Sigla
+Descrizione
+CC BY
+Permette di distribuire, modificare, creare opere derivate dall'originale, anche a scopi commerciali, a condizione che venga riconosciuta una menzione di paternità adeguata, fornito un link alla licenza e indicato se sono state effettuate delle modifiche.[9]
+ 
+CC BY-SA
+Permette di distribuire, modificare, creare opere derivate dall'originale, anche a scopi commerciali, a condizione che venga riconosciuta una menzione di paternità adeguata, fornito un link alla licenza e indicato se sono state effettuate delle modifiche; e che alla nuova opera venga attribuita la stessa licenza dell'originale (quindi a ogni opera derivata verrà consentito l'uso commerciale).[10]
+Questa licenza, per certi versi, può essere ricondotta alle licenze "copyleft" del software libero e open source.
+ 
+CC BY-ND
+Permette di distribuire l'opera originale senza alcuna modifica, anche a scopi commerciali, a condizione che venga riconosciuta una menzione di paternità adeguata e venga fornito un link alla licenza.
+Quindi non consente la distribuzione di opere modificate, remixate o basate sull'opera soggetta a questa licenza.[11]
+ 
+CC BY-NC
+Permette di distribuire, modificare, creare opere derivate dall'originale, ma non a scopi commerciali, a condizione che venga: riconosciuta una menzione di paternità adeguata, fornito un link alla licenza e indicato se sono state effettuate delle modifiche.
+Chi modifica l'opera originale non è tenuto a utilizzare le stesse licenze per le opere derivate.[12]
+  
+CC BY-NC-SA
+Permette di distribuire, modificare, creare opere derivate dall'originale, ma non a scopi commerciali, a condizione che venga: riconosciuta una menzione di paternità adeguata, fornito un link alla licenza e indicato se sono state effettuate delle modifiche; e che alla nuova opera venga attribuita la stessa licenza dell'originale (quindi a ogni opera derivata non verrà consentito l'uso commerciale).[13]
+  
+CC BY-NC-ND
+Questa licenza è la più restrittiva: consente soltanto di scaricare e condividere i lavori originali a condizione che non vengano modificati né utilizzati a scopi commerciali, sempre attribuendo la paternità dell'opera all'autore.[14]
+I diritti di condividere e/o modificare l'opera non sono revocabili dal licenziante finché vengono rispettati i termini della licenza.[9]
+CC0: pubblico dominio[modifica | modifica wikitesto]
+Identificazione di CC0.
+CC0, anche detto CC Zero, annunciato nel corso del 2007 e reso disponibile al pubblico nel 2009[15][16], è uno strumento, definito anche protocollo[17], dotato di valore legale, per rinunciare al copyright sull'opera in tutto il mondo. Questo strumento, non è una licenza perché non riserva diritti nessun diritto all'autore e non impone nessuna limitazione all'utilizzatore, serve a collocare il materiale nel pubblico dominio nelle giurisdizioni in cui è possibile, definendo intendendo l'espressione "pubblico dominio" nel senso più ampio consentito dalla legge, perché vi sono alcune giurisdizioni dove il pubblico dominio non è definito, quindi per il riutilizzo di qualsiasi opera è necessaria l'esplicita autorizzazione; nelle altre giurisdizioni, dove il pubblico dominio è vietato, rinuncia al maggior numero di diritti possibile tramite una semplice licenza il più possibilmente permissiva compatibilmente con la sua natura di licenza.[18][19]
+A livello globale, poche giurisdizioni consentono l'attribuzione al pubblico dominio delle opere di coloro che intendono operare in favore dell'ampliamento del sapere pubblico. Spesso risulta complesso, se non impossibile, rinunciare ai propri diritti morali, in quanto automaticamente applicati dalla quasi totalità delle giurisdizioni nazionali. Rispetto al concetto di pubblico dominio, la licenza CC0 si propone di annullare le ambiguità dovute alle differenti legislature locali, con un'attribuzione che rappresenti su scala globale la rinuncia a qualsiasi tipo di diritto autoriale. Per tali scopi non è stata adattata a nessuna legislazione specifica.[20]
+Appare chiaro come il progetto CC Zero sia fortemente influenzato dal diritto anglosassone e ancor più da quello statunitense, in cui le possibilità di "rinunciare" ai diritti su un'opera sono decisamente maggiori - in numero e ampiezza - rispetto all'ordinamento giuridico italiano.[17][21]
+Nel 2011, la Free Software Foundation ha incluso CC0 nella lista delle free software licenses, ovvero nell'elenco delle licenze compatibili con la sua definizione di software libero.[22][23]
+Public Domain Mark[modifica | modifica wikitesto]
+Nel 2010, Creative Commons ha annunciato che sarebbe stato introdotto il Public Domain Mark, uno strumento che permette di segnalare opportunamente le opere che già sono nel pubblico dominio.[24] Insieme, CC0 e il Public Domain Mark (PDM) sostituiscono quello che precedentemente era noto come Public Domain Dedication and Certification, il cui approccio era basato sulla legge statunitense e che era usato per gestire insieme due casi differenti.[25][26] A differenza di CC0 e delle altre licenze Creative Commons, il PDM non è uno strumento legale; non è accompagnato da un testo legale o un accordo.[27][28]
+CC e Opera Culturale Libera[modifica | modifica wikitesto]
+Approved for free cultural works logo
+Nel 2008 la Creative Commons rende disponibile il marchio Approved for free cultural works[29] per due tra le sue licenze, la CC BY e la CC BY-SA, che sono compatibili con la definizione di opera culturale libera, nonché successivamente anche per quelle di Pubblico dominio, non in quanto oggetto di licenza, ma in quanto tipo di copyright anch'esso coerente con la definizione di opera culturale libera.
+Tale definizione, introdotta da E. Möller[30], si ispira a quella di software libero, con cui condivide l’incompatibilità con le licenze contenenti le clausole non-commercial e no derivative works: come nelle licenze di software libero, infatti, l’utente può fare qualsiasi uso, commerciale e non, dell’opera distribuita con licenza di opera culturale libera ed inoltre è sempre possibile apportare modifiche.
+Nel 2014 la Open Knowledge Foundation approvò le licenze Creative Commons CC BY, CC BY-SA e CC0 come conformi alla "Open Definition"[31] e definì ulteriori tre licenze libere per dati e metadati, precedentemente non disponibili: la Open Data Commons Public Domain Dedication and Licence (PDDL), la Open Data Commons Attribution License (ODC-BY) e la Open Data Commons Open Database License (ODbL).[32]
+Attribuzione[modifica | modifica wikitesto]
+Dal 2004 tutte le licenze richiedono l'attribuzione dell'autore originale. L'attribuzione deve essere data da "il meglio della [propria] capacità di utilizzare le informazioni disponibili".[33] In genere, questo comporta quanto segue:
+Includere gli avvisi di copyright (se disponibili). Se l'opera originale contiene degli avvisi di copyright inseriti dal detentore dello stesso, tali avvisi devono essere lasciati intatti o riprodotti in modo ragionevole sul mezzo su cui il lavoro è stato ripubblicato.
+Citare il nome dell'autore, il nickname, o l'ID utente, ecc. Inoltre, se il lavoro viene pubblicato su Internet, si consiglia di collegare tramite link il nome dell'autore alla pagina del suo profilo, se tale pagina esiste.
+Citare il titolo dell'opera o il nome (se disponibile). Inoltre, se l'opera viene pubblicata su Internet, si consiglia che il nome o il titolo dell'opera faccia da collegamento ipertestuale che punta all'opera originale.
+Citare la specifica licenza CC con la quale è pubblicato il lavoro originale. Inoltre, se l'opera viene pubblicata su Internet, si consiglia di inserire un link al sito della licenza CC.
+Indicare se il lavoro è derivato o se è un adattamento. Se l'opera è un lavoro derivato, è necessario[34] renderlo evidente, ad esempio scrivendo "Questa è una traduzione in finlandese dell'opera [originale] realizzata da [autore]." o "Sceneggiatura sulla base del lavoro [originale] di [autore]".
+Tutte le licenze Creative Commons richiedono l`attribuzione dell`opera anche nelle versioni modificate o ridistribuite. La combinazione delle opzioni Attribuzione, Non commerciale, Non opere derivate, Condividi allo stesso modo rende possibili 6 modelli di licenze[35], le Creative Commons Public Licenses. Esse sono pensate ad offrire la possibilità di scegliere il modello più adatto ai propri scopi. Le Creative Commons Public Licenses sono disponibili in diversi formati, anche a seconda del destinatario:
+Human-Readable: formato sintetico, per l’utente comune.
+Lawyer-Readable: resoconto dettagliato delle regole per avvocati e giuristi.
+Machine-Readable: che contiene i metadati necessari per identificare le licenze.
+Le licenze Creative Commons Attribuzione e Creative Commons Attribuzione-Condividi allo stesso modo si sono dimostrate utili alla generazione dei beni comuni digitali ( ad esempio la licenza Creative Commons Attribuzione-Condividi  è attualmente utilizzata in Wikipedia).
+Inoltre, è bene controllare se l'autore stesso ha indicato esplicitamente le modalità con le quali desidera che l'attribuzione sia effettuata.[36]
+Licenze ritirate[modifica | modifica wikitesto]
+Alcune licenze sono state ritirate perché richieste da un numero ridotto di utenti o per ragioni legali. Creative Commons mantiene intatti i testi legali legati ai rispettivi indirizzi web, così da garantire che il materiale già pubblicato resti ancora pubblicato con tali licenze, e, sebbene sia tecnicamente possibile usarle per pubblicare nuovo materiale, ne sconsiglia l'uso.[37]
+Tra queste rientrano, oltre a tutte le licenze prive del CC0 e dell'elemento dell'Attribuzione, le seguenti:
+Developing Nations License: licenza che permette di copiare e modificare l'opera, ma che si applica ai soli paesi in via di sviluppo, le cui economie sono considerate "non-high-income economies" dalla World Bank. Tutte le restrizioni sul copyright si applicano invece agli altri paesi.[38]
+Sampling: una parte del lavoro può essere utilizzato con fini diversi dalla pubblicità, ma l'opera intera non può essere copiata o modificata.[39]
+Sampling plus: una parte del lavoro può essere copiata o modificata per scopi non pubblicitari e l'intera opera può essere copiata a scopi non commerciali.[40]
+NonCommercial Sampling Plus: l'intera opera o parte della stessa può essere copiata o modificata a scopi non commerciali.[41]
+EvoluzioneContenuti pubblicati con licenze Creative Commons: some rights reserved (alcuni diritti riservati).
+Tra le caratteristiche introdotte con le licenze versione 2.0:[7]
+l'abbandono delle licenze 1.0 che mancavano della clausola BY (Attribution), in quanto poco usate;
+ora l'autore può chiedere che l'attribuzione sia effettuata tramite un link diretto, da lui stabilito;
+incompatibilità tra CC BY-SA e CC BY-NC-SA.
+La versione 3.0 delle licenze ha introdotto diverse modifiche, tra le quali correzioni alla versione "unported" delle licenze per renderla meno orientata al sistema legale statunitense e l'introduzione di una clausola di "No Endorsement".[42][43]
+Alcune modifiche sono state sottoposte alla comunità e ai gruppi di lavoro delle singole giurisdizioni, affinché fossero analizzate e prese in considerazione, e sono state respinte; tra queste, la possibilità di eliminare o modificare la clausola anti-TPM, che proibisce a un licenziatario di produrre un'opera derivata che sia sottoposta alle cosiddette Technological Protection Measures, ma non impedisce all'autore dell'opera originaria di concedere a parte questa autorizzazione con una seconda licenza non CC.[44]
+Il 25 novembre 2013, dopo una fase di discussione pubblica in cui chiunque, incoraggiato da Creative Commons, ha potuto dare il proprio contributo, sono state ufficialmente lanciate le licenze Creative Commons 4.0, definite come "le licenze più globali, legalmente robuste prodotte da CC a ora".[45] Tra le caratteristiche introdotte:
+maggior leggibilità e organizzazione del testo delle licenze;
+un nuovo meccanismo che permette a chi violi la licenza inavvertitamente di riguadagnare automaticamente i propri diritti se la violazione è sanata in modo tempestivo (entro 30 giorni);
+un'attribuzione di "buon senso", consentendo esplicitamente agli utilizzatori dell'opera licenziata di soddisfare il requisito dell'attribuzione con un link a una pagina separata, per le informazioni di attribuzione;
+Licenze "a tre livelli"[modifica | modifica wikitesto]
+L'aspetto che attribuisce un vantaggio in più alle licenze Creative Commons, rispetto ad altre licenze free content, è la struttura a tre livelli.[46]
+Ogni licenza CC è un unico strumento giuridico che però si manifesta in tre forme differenti:[47]
+I tre "livelli" delle licenze Creative Commons.
+il Legal code, la licenza vera e propria, cioè quel documento, dotato di valore legale, in cui si disciplina la distribuzione dell'opera e l'applicazione della licenza;
+il Commons deed, un testo destinato all'utente medio che vuole pubblicare o riutilizzare un'opera con licenza CC, che non è una vera e propria licenza e non è dotato di valore legale, ma riassume nel modo più semplice possibile il contenuto della licenza;
+il Digital code, una serie di metadati che rendono la licenza facilmente rintracciabile dai motori di ricerca e/o macchine e strumenti automatici; il suo scopo è che la licenza e le relative informazioni (attribuzione, ecc.) possano essere identificate e catalogate in automatico.
+I metadati sono scritti in un formato chiamato RDF. Il Creative Commons Rights Expression Language (CC REL) è una specifica tecnica che definisce come esprimere le informazioni della licenza in formato RDF e come integrare i metadati nell'opera.[48]
+Tra le applicazioni pratiche di questo livello ci sono la possibilità di inserire le informazioni della licenza direttamente nel file, se l'opera è in formato digitale, e la possibilità di filtrare i risultati di una ricerca svolta su Internet o sul computer locale.[49]
+Integrazione con altre licenze (CC+)[modifica | modifica wikitesto]
+Annunciato nel corso del 2007, il programma CC+, anche detto CC Plus, è un protocollo finalizzato a estendere le licenze standard del progetto Creative Commons attraverso l'aggiunta di un ulteriore accordo.[50] CC Plus non è una licenza di per sé, ma un sistema semplificato che permette agli utilizzatori di un'opera di ottenere ulteriori diritti oltre a quelli concessi dalle sei licenze Creative Commons.[51]
+Il protocollo prevede l'integrazione di una seconda licenza (di natura non necessariamente commerciale), agli eventuali e già presenti attributi standard.
+Ad esempio, una licenza Creative Commons, può impedire l'utilizzo di un'opera a fini commerciali. Con CC+, la licenza fornisce un link attraverso il quale un utilizzatore possa vedersi concessi ulteriori diritti, questi possono essere generalmente commerciali o di altra natura (vincolati ad esempio a una società di distribuzione), ma anche autorizzazioni o servizi aggiuntivi, come garanzie, concessioni di utilizzo senza attribuzione della paternità dell'opera o anche l'accesso alla comunicazione, rappresentazione, esecuzione o recitazione dell'opera, o ancora alla disponibilità su mezzi fisici.
+La struttura di CC+ fornisce alle aziende un sistema per muoversi tra economie commerciali e di condivisione libera, nonché uno standard flessibile per queste forme di sfruttamento dell'opera.[51]
+Estensione di una licenza Creative Commons (CC+).
+Utilizzo di CC+[modifica | modifica wikitesto]
+[51]
+È possibile impedire usi commerciali di un'opera, adottando una licenza Creative Commons con condizione "Attribuzione-Non Commerciale" e in seguito stipulare un accordo separato con una controparte (autore stesso o terzi) per negoziare diritti commerciali sull'opera in oggetto (ad es. licenze, vendite, riproduzioni, ecc).
+Tra le opzioni è concesso richiedere che le opere derivate vengano condivise in modo conforme alle condizioni della licenza originaria, adottando una licenza Creative Commons con condizione BY-SA (Attribuzione-Condividi allo stesso modo), ma offrire un accordo separato (come concesso per la casistica precedente), a quelle parti che non intendono pubblicare le opere derivate con un'identica licenza. Sono inoltre contemplati modi d'impiego simili, ad esempio offrire un accordo a quelle parti che preferiscono evitare di dover osservare le condizioni BY (Attribuzione) o ND (Non opere derivate) previste dalle licenze Creative Commons applicabili.
+Offrire un accordo privato a quelle parti che lo richiedono (ad es. a norma di policy istitutiva o per ragioni di garanzia), anche qualora l'uso dell'opera da parte di queste sia conforme alle finalità accordate dalla licenza pubblica.
+Utilizzare CC Plus per implementare alcune tipologie di sistemi Street Performer Protocol al fine di far ricadere le opere in pubblico dominio, o di pubblicarle con un'altra licenza, preferibilmente più aperta e nell'interesse divulgativo della collettività.
+Compatibilità con altre licenze[modifica | modifica wikitesto]
+Il materiale pubblicato con licenze CC può includere anche materiale pubblicato con licenze differenti, scelte tra quelle approvate da Creative Commons. Sono dichiarate come compatibili quelle licenze che, come minimo, abbiano lo stesso scopo, significato ed effetto di una certa licenza CC, e che consentano esplicitamente la pubblicazione delle opere derivate con licenza CC.[52]
+Nel 2014 è stata inserita nell'elenco delle licenze compatibili[53] con la CC BY-SA 4.0 la versione 1.3 della Free Art License (FAL)[54], mentre nel 2015 è stata aggiunta la GPL 3[55].
+Le licenze con clausola SA (Share-Alike) consentono la pubblicazione delle opere derivate con la stessa licenza, oppure con una licenza scelta in tale elenco.[56]
+CC BY-SA e GFDL[modifica | modifica wikitesto]
+Queste licenze richiedono che un'opera derivata sia pubblicata con la stessa licenza dell'opera originaria. In altre parole, le opere derivate di un'opera pubblicata con licenza CC BY-SA devono essere pubblicate necessariamente con CC BY-SA; analogamente per quelle opere pubblicate con la licenza GFDL.
+Ciò preclude ai riutilizzatori la possibilità di pubblicare un lavoro che includa insieme contenuto GFDL e CC BY-SA, in quanto il risultato finale non può essere pubblicato con alcuna delle due licenze, a meno di ricevere l'autorizzazione scritta del detentore dei diritti dell'opera originaria pubblicata con l'altra licenza. In alcuni progetti, come i wiki, può essere impossibile ottenere l'autorizzazione di ciascuno dei detentori del copyright; questo si traduce in una limitazione della libera riutilizzazione del materiale, pur essendo entrambe licenze copyleft.
+Nel 2008, su richiesta della Wikimedia Foundation, la Free Software Foundation ha pubblicato una versione specifica della GFDL (v1.3) per consentire ai siti a contenuto aperto e modificabili da chiunque, che tradizionalmente pubblicavano contenuto sotto GFDL, di ripubblicare il proprio contenuto con doppia licenza GFDL + CC BY-SA (3.0).[57] Ciò è stato possibile in quanto la versione precedente della GFDL consentiva espressamente l'uso seguendo i termini e le condizioni di quella versione specifica o di qualunque versione successiva.[58] L'operazione ha interessato solo il contenuto pubblicato prima del 1º novembre 2008 ed è stata possibile solo fino a luglio 2009, in quanto è stata concepita come uno strumento temporaneo per il passaggio di licenza.[59][60]
+Diritti morali[modifica | modifica wikitesto]
+ Lo stesso argomento in dettaglio: Diritto d'autore italiano.
+In Italia, ai sensi dell'articolo 20 della legge sul diritto d'autore, i diritti morali relativi a un'opera dell'ingegno creativo sono inalienabili e possono essere fatti valere, senza alcuna limitazione temporale, dal coniuge o dai discendenti dell'autore defunto. Tra questi diritti si evidenziano il diritto di paternità e il diritto all'integrità dell'opera che restano di fatto non cedibili in nessun caso e a discapito dei quali non è possibile adottare nessun tipo di licenza.
+«Indipendentemente dai diritti esclusivi di utilizzazione economica dell'opera, previsti nelle disposizioni della sezione precedente, ed anche dopo la cessione dei diritti stessi, l'autore conserva il diritto di rivendicare la paternità dell'opera e di opporsi a qualsiasi deformazione, mutilazione od altra modificazione, ed a ogni atto a danno dell'opera stessa, che possano essere di pregiudizio al suo onore o alla sua reputazione.»
+(Articolo 20, comma 1, legge n. 633 sul diritto d'autore del 22 aprile 1941)
+Tutte le licenze previste dal progetto Creative Commons con l'eccezione dell'opzione CC0, garantiscono il riconoscimento dell'autore attraverso l'apposizione dell'attributo BY (Attribuzione).
+La legislazione in materia di rinuncia ai diritti morali varia in base alla nazione e, nello specifico, al modello giuridico che la caratterizza. Alcuni paesi con ordinamento giuridico conforme al modello civil law, come la Francia, impongono un divieto praticamente assoluto di trasferimento o rinuncia a tali diritti. Alcuni tra i paesi con legislazione ispirata al modello giuridico del common law invece, consentono liberamente la rinuncia ai diritti morali. In questo senso, l'adozione di una "licenza" CC0 assume effetti differenti in base alle legislazioni locali.
+Negli Stati Uniti, il termine diritto morale è comunemente riferito al diritto di un autore di prevenire la revisione, alterazione o distorsione del proprio lavoro, indipendentemente da chi ne sia proprietario o goda dei diritti di utilizzazione economica. I diritti morali come indicato nella Visual Artists Rights Act del 1990 impediscono all'autore di un'opera visiva di essere associato a opere che non sono di sua creazione, e al contempo vietano la denigrazione delle sue stesse opere. La legge statunitense prevede, per quanto concerne la rinuncia ai diritti morali, la stipulazione di un accordo scritto in cui siano specificati il lavoro e le finalità cui si applica la suddetta rinuncia.
+Porting[modifica | modifica wikitesto]
+Relazione tra una licenza unported e le sue versioni ported.
+Le licenze Creative Commons erano state stilate inizialmente (2002) sulla base del sistema legale statunitense ed erano indicate come generic, perché non prendevano come riferimento un'unica legge o giurisdizione rispetto alla quale interpretare il testo della licenza. Pertanto le licenze potevano risultare incompatibili con la legislazione locale dei singoli stati e quindi essere inapplicabili in alcune giurisdizioni.
+     Esiste una versione ported della licenza      Stesura di una versione ported in corso      Stesura di una versione ported programmata
+Nel 2003, Creative Commons lanciò un progetto per la localizzazione delle licenze, ovvero la realizzazione di una versione di ogni licenza specifica per ogni giurisdizione. Ciascuna di queste versioni venne indicata con il termine ported.
+Le licenze generic, inizialmente coincidenti con le versioni ported statunitensi, furono riformulate in modo neutrale, sulla base del linguaggio giuridico dei trattati internazionali sul copyright, e il loro nome venne cambiato definitivamente in unported.[61]
+A dicembre 2016, esistono versioni ported delle licenze CC per un totale di 59 giurisdizioni.[62] I testi delle licenze unported e ported sono resi disponibili in un apposito database.[63]
+Per rendere possibile la discussione e lo sviluppo delle versioni ported, Creative Commons ha organizzato dei gruppi di lavoro specifici per le singole giurisdizioni, i country teams.[64]
+Applicabilità[modifica | modifica wikitesto]
+Le licenze Creative Commons sono basate sul diritto d'autore e si applicano a tutte quelle opere che per legge sono considerate tutelabili.[21] Di conseguenza, le licenze possono essere applicate a qualunque opera su cui il copyright sia applicabile: libri, scritti, appunti, blog e siti web, articoli, filmati e fotografie, videogame, composizioni musicali, registrazioni sonore e altre opere audio. Le licenze CC non si applicano invece a idee, informazioni di fatto o altri elementi non protetti da copyright.[65]
+Se un'opera è protetta da più di una licenza Creative Commons, l'utilizzatore può scegliere quella che preferisce.
+Sebbene il software rientri tra quelle opere tutelabili dal diritto d'autore[66] Creative Commons sconsiglia l'uso delle sue licenze per i programmi per l'elaboratore, consigliando invece l'uso di altre licenze libere come la GPL.[37][67] La stessa Free Software Foundation indica le licenze CC BY e CC BY-SA come adatte per lavori di arte e spettacolo e lavori educativi, e la CC BY-ND per lavori di opinione e commenti, sconsigliandole invece per il software e la documentazione.[68]
+Le licenze possono essere applicate anche ai database, dei quali però preservano solo il copyright e non i diritti caratteristici delle banche di dati, eventualmente previsti dalle leggi dei singoli stati, come dalla legge sul diritto d'autore italiano.[21][69]
+Compatibilità con le società di gestione collettiva[modifica | modifica wikitesto]
+L'adesione a una società per la riscossione dei compensi potrebbe essere compatibile o meno con l'uso di licenze CC per le proprie opere, a seconda della società. Ad esempio, in Australia, Finlandia, Francia, Germania, Italia, Lussemburgo, Paesi Bassi, Spagna e Taiwan,[70] l'artista, aderendo a una collecting society, concede a quest'ultima tutti i diritti per le opere presenti e future: pertanto, non essendo più il detentore dei diritti delle proprie opere, non può distribuirle a condizioni diverse da quelle consentite dalla società di riscossione.[71]
+Creative Commons sta collaborando con le società per la riscossione dei compensi nelle giurisdizioni dove questo problema è presente, al fine di trovare una soluzione che permetta agli artisti di trarre beneficio da entrambi i sistemi:[72]
+nei Paesi Bassi è in corso un progetto sperimentale, lanciato il 23 agosto 2007, tra CC Netherlands e Buma/Stemra, la società collettiva per i compositori e autori di canzoni.[73]
+in Danimarca la società di gestione collettiva danese, KODA, dal 31 gennaio 2008 ha incominciato a dare la possibilità alle opere dei suoi membri di essere rilasciate con licenze Creative Commons NC (Non-Commercial).[74]
+in Francia è stato svolto un progetto sperimentale, firmato il 9 gennaio 2012 e durato 18 mesi, tra CC France e Sacem (Société des auteurs, compositeurs et éditeurs de musique).[75] A seguito di questo progetto è stato stipulato un accordo tra Creative Commons e Sacem che prevede la possibilità dei membri di quest'ultima di pubblicare opere con licenze Creative Commons NC (Non-Commercial).
+in Italia non sono stati stipulati accordi tra Creative Commons e SIAE. Nel 2008 è stato però costituito un tavolo giuridico misto tra Creative Commons Italia e SIAE per lo studio di un nuovo mandato per gli autori ancora non associati. Il mandato doveva regolare il rapporto tra gli autori che utilizzano le licenze Creative Commons, con attributo Non Commerciale, per la condivisione delle proprie opere, al fine di affidare alla SIAE l'intermediazione per gli utilizzi commerciali. Al termine del lavoro del tavolo giuridico misto, in cui è stata approfondito l'esame delle varie fattispecie che si pongono al confine tra utilizzo commerciale e non commerciale (sia in ambiente on line, sia off line), la SIAE non ha mai comunicato nulla circa l'esito del procedimento di approvazione, a cui il testo contrattuale avrebbe dovuto essere sottoposto, facendo così naufragare l'opportunità del superamento dell'incompatibilità tra il sistema di gestione collettiva esclusiva e di gestione indipendente del diritto d'autore.
+Il 4 febbraio 2014 il Parlamento europeo ha approvato il testo "Diritti d'autore e diritti connessi e concessione di licenze multiterritoriali per i diritti su opere musicali per l'uso online", diventato direttiva il 24 febbraio dello stesso anno.[76] L'obiettivo principale della direttiva 2014/26/UE è quello di facilitare il licenziamento della musica nell'Unione Europea e di aumentare la trasparenza e la responsabilità delle società di gestione collettiva che operano nell'UE. Quando la direttiva sarà adottata dagli Stati appartenenti all'Unione Europea, i membri delle società di gestione collettiva europee avranno il diritto di usare licenze non commerciali per le proprie opere, aprendo le porte all'uso delle tre licenze Creative Commons che permettono un uso non commerciale dell'opera licenziata.[77]
+SIAE[modifica | modifica wikitesto]
+ Lo stesso argomento in dettaglio: Società Italiana degli Autori ed Editori § SIAE e Creative Commons.
+Per l'articolo 2576 del codice civile italiano e l'articolo 6 della Legge 22 aprile 1941, n. 633 sul diritto d'autore, l'acquisizione del diritto d'autore è data dalla creazione stessa dell'opera. In Italia, gli artisti sono tutelati dalla legge sul diritto d'autore; né la SIAE né le licenze Creative Commons creano diritti.[21]
+La SIAE è un ente di gestione collettiva e ha il compito di tutelare gli artisti che depositano volontariamente le loro opere; l'autore che si rivolge alla gestione collettiva presso la SIAE accetta di non concedere libertà a terzi e si affida alla SIAE sia per la concessione di licenze e utilizzazioni delle proprie opere sia per riscossione e distribuzione dei compensi. Di conseguenza, fino al sopraggiungere di modifiche allo statuto e al regolamento SIAE, la gestione collettiva tradizionale effettuata dalla SIAE non può convivere con la gestione fatta in autonomia dall'autore che sceglie di applicare una licenza CC.
+Creative Commons non è un ente di gestione dei diritti d'autore alternativo alla SIAE, attualmente lavorano infatti su due piani diversi, soprattutto per quanto riguarda le politiche di diffusione commerciale delle opere. Le licenze Creative Commons vanno a collocarsi in un'ottica intermedia tra il copyright, con le prescrizioni normative a esso legate, e il pubblico dominio, per il quale non è previsto nessun diritto riservato. A differenza delle normative della Società Italiana Autori e Editori (SIAE), le licenze Creative Commons non prevedono limitazioni relative ai supporti di incorporamento delle opere poste in circolazione; per qualsiasi supporto tutelato da Creative Commons potrebbe essere necessario applicare le prescrizioni del "bollino SIAE" secondo le norme vigenti in materia di tutela del copyright.
+La categorizzazione degli oggetti per i quali è imposta l'applicazione del "bollino SIAE" è conforme alle specifiche delle licenze Creative Commons; le tipologie di opere per le quali è necessaria la tutela della Società Italiana Autori e Editori (SIAE) costituiscono infatti un sottoinsieme ridotto delle categorie contemplate dal progetto Creative Commons.
+Relativamente al fine per il quale l'esemplare dell'opera è messo in circolazione, la regolamentazione SIAE norma la diffusione finalizzata al commercio e a ogni altro genere di attività lucrativa. Le licenze CC d'altro canto non pregiudicano l'utilizzo commerciale, esplicitando chiaramente la possibilità di sfruttare l'opera in tal senso attraverso l'attribuzione o meno dell'apposita clausola NC (Non commerciale) prevista dalle CC Public Licenses. Ciò significa che, all'atto pratico, le opere sprovviste di tale licenza richiedano quasi certamente l'applicazione del "bollino SIAE", qualora anche gli altri requisiti per tale apposizione siano soddisfatti o lo rendano necessario.
+L'art. 181 bis della legge sul diritto d'autore, relativamente alla definizione di attività lucrativa, non esamina dettagliatamente quali azioni rientrino nella regolamentazione: non è escludibile in tal senso la necessità di apporre il bollino SIAE anche su opere registrate con licenza CC "non commerciale". A titolo d'esempio valgono le distribuzioni di copie promozionali gratuite di opere per le quali non si riscontra un vantaggio commerciale diretto ma che costituiscono un'attività dichiaratamente finalizzata al lucro.[78]
+Diffusione e utilizzo[modifica | modifica wikitesto]
+Ristorante a Granada nel quale viene riprodotta solo musica coperta da licenza CC.
+Le licenze Creative Commons sono state usate con successo per difendere il diritto d'autore in molti casi in tutto il mondo.[79] Anche numerosi enti e organizzazioni pubblicano con licenze Creative Commons i dati prodotti o il materiale pubblicato sui rispettivi siti Internet.
+Università e ricerca[modifica | modifica wikitesto]
+Il progetto OpenCourseWare del Massachusetts Institute of Technology raccoglie materiale per la didattica universitaria disponibile pubblicamente e riutilizzabile con licenza non commerciale.[80]
+Le licenze CC sono spesso usate per la pubblicazione dei contenuti in ambito Open access.
+Il CERN pubblica materiale con varie licenze Creative Commons, giudicandole inoltre come lo strumento perfetto per pubblicare i risultati degli esperimenti svolti tramite il Large Hadron Collider.[81]
+Progetti a contenuto aperto[modifica | modifica wikitesto]
+I progetti della Wikimedia Foundation pubblicano il proprio contenuto con licenza CC BY-SA, con l'eccezione di Wikinews, che invece usa la CC BY,[82] e Wikimedia Commons, che ospita anche materiale nel pubblico dominio o pubblicato con licenze libere non CC.[83] In particolare, da giugno 2009, Wikipedia pubblica contenuto con doppia licenza CC BY-SA e GFDL.
+La cartografia contenuta nelle tavole, e la documentazione, di OpenStreetMap sono rilasciate con licenza CC BY-SA.[84]
+I file audio caricati sulla piattaforma Freesound.org sono coperti da licenze Creative Commons, a scelta dell'utente tra CC0, CC BY e CC BY-NC.[85]
+Le TED Talks sono distribuite con licenza CC BY-NC-ND.[86]
+Istituzioni pubbliche[modifica | modifica wikitesto]
+Alcuni Ministeri di alcuni Stati, tra cui Brasile, Bulgaria, Ecuador, Georgia, Grecia, Israele, Paesi Bassi, Nuova Zelanda, Polonia, Serbia, Spagna, e Thailandia, pubblicano con licenze Creative Commons materiale vario e/o il contenuto dei rispettivi siti Internet.[87]
+Parte dei contenuti pubblicati sul sito Internet della Casa Bianca sono pubblicati con licenza CC BY-SA, dove non è specificato diversamente.[88]
+La Camera dei deputati, nell'ambito del progetto dati.camera.it, pubblica i dati relativi ai deputati, agli organi e ai lavori parlamentari, con licenza CC BY.[89]
+La Pubblica Amministrazione pubblica parte della documentazione e dei dataset con licenze Creative Commons.[90]
+L'ISTAT pubblica tutti i dati con licenza CC BY.[91]
+Note[modifica | modifica wikitesto]
+^  Aliprandi, Creative Commons: manuale operativo, Bologna, Ledizioni, 2013,  p. 20, ISBN 978-88-6705-134-2.
+^ "What are Creative Commons licenses?". Wageningen University & Research. June 16, 2015. Archived from the original on March 15, 2018. Retrieved March 15, 2018.
+^ Shergill, Sanjeet (May 6, 2017). "The teacher's guide to Creative Commons licenses". Open Education Europa. Archived from the original on June 26, 2018. Retrieved March 15, 2018.
+^ "Creative Commons licenses". University of Michigan Library. Archived from the original on November 21, 2018. Retrieved March 15, 2018.
+^ "The Creative Commons licenses". UNESCO. Archived from the original on March 15, 2018. Retrieved March 15, 2018.
+^ .La nuova generazione di licenze Creative Commons: benvenuta Versione 4.0!: http://www.creativecommons.it/cc4
+^ a b  Announcing (and explaining) our new 2.0 licenses, su creativecommons.org. URL consultato il 31 dicembre 2011.
+^ (EN) About The Licenses - Creative Commons, su creativecommons.org. URL consultato il 29 gennaio 2022.
+^ a b  Creative Commons — Attribuzione 3.0 Italia — CC BY 3.0 IT, su creativecommons.org. URL consultato l'8 dicembre 2016.
+^  Creative Commons — Attribuzione - Condividi allo stesso modo 3.0 Italia — CC BY-SA 3.0 IT, su creativecommons.org. URL consultato l'8 dicembre 2016.
+^  Creative Commons — Attribuzione - Non opere derivate 3.0 Italia — CC BY-ND 3.0 IT, su creativecommons.org. URL consultato l'8 dicembre 2016.
+^  Creative Commons — Attribuzione - Non commerciale 3.0 Italia — CC BY-NC 3.0 IT, su creativecommons.org. URL consultato l'8 dicembre 2016.
+^  Creative Commons — Attribuzione - Non commerciale - Condividi allo stesso modo 3.0 Italia — CC BY-NC-SA 3.0 IT, su creativecommons.org. URL consultato l'8 dicembre 2016.
+^  Creative Commons — Attribuzione - Non commerciale - Non opere derivate 3.0 Italia — CC BY-NC-ND 3.0 IT, su creativecommons.org. URL consultato l'8 dicembre 2016.
+^  Report from CC board meeting, su earlham.edu. URL consultato il 31 dicembre 2011 (archiviato dall'url originale il 19 settembre 2010).
+^  Expanding the Public Domain: Part Zero, su creativecommons.org. URL consultato il 31 dicembre 2011.
+^ a b  Creative Commons annuncia due nuovi progetti: CC Plus e CC Zero | CreativeCommons.it, su creativecommons.it. URL consultato il 9 dicembre 2016.
+^ CC0 1.0
+^  CC0, su creativecommons.org. URL consultato il 2 ottobre 2011.
+^ (EN) CC0 - Creative Commons, in Creative Commons. URL consultato l'8 dicembre 2016.
+^ a b c d  Legge italiana sul diritto d'autore 633/1941, su interlex.it. URL consultato l'8 dicembre 2016.
+^  Creative Commons, Using CC0 for public domain software, su creativecommons.org. URL consultato il 31 dicembre 2011.
+^  Licenze varie e commenti relativi (Licenze di software libero compatibili con la GPL), su gnu.org. URL consultato il 31 dicembre 2011.
+^  Marking and Tagging the Public Domain: An Invitation to Comment, su creativecommons.org. URL consultato il 31 dicembre 2011.
+^  Creative Commons, Copyright-Only Dedication* (based on United States law) or Public Domain Certification, su creativecommons.org. URL consultato il 31 dicembre 2011.
+^  Creative Commons, Retired Legal Tools, su creativecommons.org. URL consultato il 31 dicembre 2011.
+^  PDM FAQ - Creative Commons, su wiki.creativecommons.org. URL consultato il 9 dicembre 2016.
+^  Creative Commons — Public Domain Mark 1.0, su creativecommons.org. URL consultato il 9 dicembre 2016.
+^  Creative Commons - freeworks, su creativecommons.org.
+^  Definition of Free Cultural Works by Erik Möller, su intelligentdesigns.net. URL consultato il 14 giugno 2020 (archiviato dall'url originale il 27 settembre 2011).
+^  Open Definition, su opendefinition.org.
+^  Open Knowledge Foundation, su okfn.org.
+^  Creative Commons, Frequently Frequently Asked Questions, su wiki.creativecommons.org. URL consultato il 31 dicembre 2011.
+^  Creative Commons FAQ, su wiki.creativecommons.org.
+^ (EN) About The Licenses - Creative Commons, su creativecommons.org. URL consultato il 19 maggio 2021.
+^  Creative Commons Australia, Attributing Creative Commons Materials (PDF), su creativecommons.org.au, Australian Research Council Centre of Excellence for Creative Industries and Innovation,  p. 3. URL consultato il 31 dicembre 2011.
+^ a b  Retired Legal Tools, su creativecommons.org. URL consultato il 31 dicembre 2011.
+^  Creative Commons — Developing Nations License, su creativecommons.org. URL consultato il 23 gennaio 2017.
+^  Creative Commons — Sampling 1.0, su creativecommons.org. URL consultato il 23 gennaio 2017.
+^  Creative Commons — Sampling Plus 1.0, su creativecommons.org. URL consultato il 23 gennaio 2017.
+^  Creative Commons — NonCommercial Sampling Plus 1.0, su creativecommons.org. URL consultato il 23 gennaio 2017.
+^  Version 3.0 Launched - Creative Commons, su creativecommons.org. URL consultato l'11 gennaio 2012.
+^  Creative Commons Version 3.0 Licenses — A Brief Explanation, su wiki.creativecommons.org. URL consultato il 31 dicembre 2011.
+^  Version 3 - CC Wiki, su wiki.creativecommons.org. URL consultato il 10 gennaio 2012.
+^  La nuova generazione di licenze Creative Commons: benvenuta Versione 4.0!, su creativecommons.it. URL consultato il 16 dicembre 2013.
+^  A proposito delle Licenze - Creative Commons, su creativecommons.org. URL consultato il 7 dicembre 2016.
+^  Aliprandi, Creative commons: manuale operativo, Bologna, Ledizioni, 2013,  pp. 37-41, ISBN 978-88-6705-134-2.
+^  CC REL, su wiki.creativecommons.org. URL consultato il 10 gennaio 2012.
+^  CC Search, su wiki.creativecommons.org. URL consultato il 10 gennaio 2012.
+^  Creative Commons Launches CC+ and CC0 Programs, su Creative Commons, 17 dicembre 2007. URL consultato il 9 dicembre 2016.
+^ a b c  Licenza aggiuntiva CCPlus, su wiki.creativecommons.org. URL consultato l'11 febbraio 2013.
+^ Compatible Licenses - Creative Commons
+^ (EN) Compatible Licenses - Creative Commons, in Creative Commons. URL consultato il 7 dicembre 2016.
+^  ShareAlike compatibility analysis: FAL - Creative Commons, su wiki.creativecommons.org. URL consultato il 7 dicembre 2016.
+^  ShareAlike compatibility analysis: GPL - Creative Commons, su wiki.creativecommons.org. URL consultato il 7 dicembre 2016.
+^ Creative Commons License, CC BY-SA 3.0.
+^  Free Software Foundation, GNU Free Documentation License, section 11 - Relicensing, su gnu.org. URL consultato il 3 gennaio 2012.
+^  GNU Free Documentation License, punto 10, Future revisions of this license, su gnu.org. URL consultato il 3 gennaio 2012.
+^  Free Software Foundation, GFDL v1.3 FAQ, su gnu.org. URL consultato il 3 gennaio 2012.
+^  Licensing update/Questions and Answers, su meta.wikimedia.org. URL consultato il 1º gennaio 2012.
+^  Creative Commons Version 3.0 Licenses — A Brief Explanation, su wiki.creativecommons.org. URL consultato il 31 dicembre 2011.
+^  Ported Licenses around the world, su wiki.creativecommons.org. URL consultato il 9 dicembre 2016.
+^  Jurisdiction Database, su wiki.creativecommons.org. URL consultato il 31 dicembre 2011.
+^  CC Affiliate Network - Creative Commons, su wiki.creativecommons.org. URL consultato il 9 dicembre 2016.
+^  Aliprandi, Creative Commons: manuale operativo, Bologna, Ledizioni, 2013,  pp. 69-70, ISBN 978-88-6705-134-2.
+^  Articolo 1, comma 2, della legge sul diritto d'autore italiano 633/1941, su interlex.it. URL consultato l'8 dicembre 2016.
+^ Creative Commons FAQ: Can I use a Creative Commons license for software?
+^  Licenze varie e commenti relativi, su gnu.org. URL consultato il 31 dicembre 2011.
+^  Frequently Asked Questions - Can I apply a Creative Commons license to data or a database?, su wiki.creativecommons.org.
+^  Can I use a Creative Commons license if I am a member of a collecting society?, su creativecommons.org. URL consultato l'8 dicembre 2016.
+^  Collecting Society Projects, su wiki.creativecommons.org. URL consultato il 10 gennaio 2012.
+^  Aliprandi, Creative Commons: manuale operativo, Bologna, Ledizioni, 2013,  p. 74, ISBN 978-88-6705-134-2.
+^  Collecting Society Projects/Netherlands - Creative Commons, su wiki.creativecommons.org. URL consultato l'8 dicembre 2016.
+^  Danish Collecting Society KODA teams up with CC Denmark, su Creative Commons, 31 gennaio 2008. URL consultato l'8 dicembre 2016.
+^  Collecting Society Projects/France - Creative Commons, su wiki.creativecommons.org. URL consultato l'8 dicembre 2016.
+^  Direttiva 2014/26/UE del Parlamento Europeo e del Consiglio, su eur-lex.europa.eu. URL consultato l'8 dicembre 2016.
+^  European directive on collective rights management: Collecting societies must allow use of CC licenses, su Creative Commons, 26 novembre 2013. URL consultato l'8 dicembre 2016.
+^  Appunti di lavoro: Creative Commons e SIAE, su creativecommons.it. URL consultato il 9 dicembre 2016.
+^  Case Law - CC Wiki, su wiki.creativecommons.org. URL consultato il 10 gennaio 2012.
+^  Privacy and Terms of Use, su ocw.mit.edu. URL consultato il 1º gennaio 2012.
+^  CERN, su wiki.creativecommons.org. URL consultato il 2 ottobre 2011.
+^  The Wikinews Licensure Poll is closed, su lists.wikimedia.org. URL consultato il 1º gennaio 2012.
+^  Licensing, su commons.wikimedia.org. URL consultato il 1º gennaio 2012.
+^  OpenStreetMap Copyright, su OpenStreetMap. URL consultato il 9 dicembre 2016.
+^  Freesound.org - help - Frequently Asked Questions, su freesound.org. URL consultato il 9 dicembre 2016.
+^  TED Talks Usage Policy, su ted.com. URL consultato il 1º gennaio 2012.
+^  Government Use of Creative Commons, su wiki.creativecommons.org. URL consultato il 2 ottobre 2011.
+^  Copyright Policy | The White House, su whitehouse.gov. URL consultato il 2 ottobre 2011.
+^  Camera dei deputati: Open Data, su dati.camera.it. URL consultato il 1º gennaio 2012.
+^  Note legali, su dati.gov.it. URL consultato il 1º gennaio 2012.
+^  Istat.it - note legali, su istat.it. URL consultato il 2 ottobre 2011.
+Bibliografia[modifica | modifica wikitesto]
+Testi delle licenze e degli strumenti legali Creative Commons
+ Creative Commons, CC BY 3.0 - Attribution 3.0 [IT], su creativecommons.org. URL consultato il 9 dicembre 2016.
+ Creative Commons, CC BY-SA 3.0 - Attribution Share-Alike 3.0 [IT], su creativecommons.org. URL consultato il 9 dicembre 2016.
+ Creative Commons, CC BY-ND 3.0 - Attribution NoDerivatives 3.0 [IT], su creativecommons.org. URL consultato il 9 dicembre 2016.
+ Creative Commons, CC BY-NC 3.0 - Attribution NonCommercial 3.0 [IT], su creativecommons.org. URL consultato il 9 dicembre 2016.
+ Creative Commons, CC BY-NC-SA 3.0 - Attribution NonCommercial Share-Alike 3.0 [IT], su creativecommons.org. URL consultato il 9 dicembre 2016.
+ Creative Commons, CC BY-NC-ND 3.0 - Attribution NonCommercial NoDerivatives 3.0 [IT], su creativecommons.org. URL consultato il 9 dicembre 2016.
+ Creative Commons, CC0 1.0 - Public Domain Dedication Universal 1.0 [IT], su creativecommons.org. URL consultato il 9 dicembre 2016.
+Altre fonti
+Aliprandi, Creative Commons: manuale operativo. Guida all'uso delle licenze e degli altri strumenti CC, ed. Stampa Alternativa, 2008
+Aliprandi, Creative Commons: manuale operativo, ed. Ledizioni, 2013
+Aliprandi, Teoria e pratica del copyleft - Guida all'uso delle licenze opencontent Archiviato il 5 maggio 2011 in Internet Archive., ed. NDA press, 2006
+Aliprandi, Compendio di libertà informatica e cultura open Archiviato il 15 ottobre 2011 in Internet Archive., ed. PrimaOra, 2006
+Lessig, Cultura libera. Un equilibrio fra anarchia e controllo, contro l'estremismo della proprietà intellettuale Archiviato il 27 gennaio 2007 in Internet Archive., ed. Apogeo, 2005
+ Simone Aliprandi, Creative Commons: a User Guide, Lulu Enterprises Inc., 2011, ISBN 978-1-4461-6557-7.
+Voci correlate[modifica | modifica wikitesto]
+Creative Commons
+Copyright
+Copyleft
+Licenza libera
+Licenze BSD
+Pubblico dominio
+Diritto d'autore italiano
+Musica libera
+Altri progetti[modifica | modifica wikitesto]
+Altri progetti
+Wikimedia Commons
+ Wikimedia Commons contiene immagini o altri file sulle licenze Creative Commons
+ Wikinotizie contiene l'articolo Lanciata la versione 3.0 delle licenze Creative Commons, 27 febbraio 2007
+Collegamenti esterni[modifica | modifica wikitesto]
+(EN) Sito ufficiale, su creativecommons.org. 
+ Licenze Creative Commons, su creativecommons.org.
+ Testi ufficiali delle licenze, su creativecommons.it.
+ Tool di Creative Commons per la scelta della licenza più adatta, su creativecommons.org.
+ Prospetto riassuntivo delle licenze Creative Commons, su copyleft-italia.it. URL consultato il 25 luglio 2016 (archiviato dall'url originale il 17 agosto 2016).
+ Brochure divulgativa su Creative Commons, su copyleft-italia.it. URL consultato il 25 luglio 2016 (archiviato dall'url originale il 16 agosto 2016).
+ Portale Diritto Portale Software libero
+Estratto da "https://it.wikipedia.org/w/index.php?title=Licenze_Creative_Commons&oldid=134855273"
+Categoria: Licenze Creative CommonsCategorie nascoste: Voci con modulo citazione e parametro paginaTemplate Webarchive - collegamenti all'Internet ArchiveP856 letta da Wikidata
+Menu di navigazione
+Strumenti personali
+Accesso non effettuatodiscussionicontributiregistratientra
+Namespace
+VoceDiscussione
+italiano
+Visite
+LeggiModificaModifica wikitestoCronologia
+Altro
+Ricerca
+Navigazione
+Pagina principaleUltime modificheUna voce a casoNelle vicinanzeVetrinaAiutoSportello informazioni
+Comunità
+Portale ComunitàBarIl WikipedianoFai una donazioneContatti
+Strumenti
+Puntano quiModifiche correlatePagine specialiLink permanenteInformazioni paginaCita questa voceElemento Wikidata
+Stampa/esporta
+Crea un libroScarica come PDFVersione stampabile
+In altri progetti
+Wikimedia Commons
+In altre lingue
+AfrikaansالعربيةAzərbaycancaБеларускаяБеларуская (тарашкевіца)БългарскиবাংলাBosanskiCatalàکوردیDeutschΕλληνικάEnglishEsperantoEspañolفارسیSuomiFrançaisGalegoעבריתहिन्दीՀայերենInterlinguaBahasa IndonesiaÍslenska日本語Jawaქართულიಕನ್ನಡ한국어LietuviųമലയാളംBahasa MelayuMaltiမြန်မာဘာသာNederlandsPolskiPortuguêsРусскийسنڌيSrpskohrvatski / српскохрватскиසිංහලSimple EnglishShqipСрпски / srpskiSvenskaதமிழ்తెలుగుไทยTürkçeТатарча / tatarçaУкраїнськаاردوTiếng Việt中文文言Bân-lâm-gú
+Modifica collegamenti
+ Questa pagina è stata modificata per l'ultima volta il 7 ago 2023 alle 14:44.
+Il testo è disponibile secondo la licenza Creative Commons Attribuzione-Condividi allo stesso modo; possono applicarsi condizioni ulteriori. Vedi le condizioni d'uso per i dettagli.
+Informativa sulla privacy
+Informazioni su Wikipedia
+Avvertenze
+Codice di condotta
+Versione mobile
+Sviluppatori
+Statistiche
+Dichiarazione sui cookie

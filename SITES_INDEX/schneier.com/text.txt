@@ -1,0 +1,113 @@
+Microsoft Accidentally Leaks Key to Windows Backdoor - Schneier on Security
+Schneier on Security
+Menu
+Blog
+Newsletter
+Books
+Essays
+News
+Talks
+Academic
+About Me
+ 
+Search
+Powered by DuckDuckGo
+Blog
+Essays
+Whole site
+Subscribe
+ 
+HomeBlog 
+Microsoft Accidentally Leaks Key to Windows Backdoor
+In a cautionary tale to those who favor government-mandated backdoors to security systems, Microsoft accidentally leaked the key protecting its UEFI Secure boot feature.
+As we all know, the problems with backdoors are less the cryptography and more the systems surrounding the cryptography.
+Tags: backdoors, cryptography, keys, leaks, Microsoft 
+Posted on August 15, 2016 at 6:27 AM•
+9 Comments 
+Comments
+Steinar H. Gunderson •
+August 15, 2016 7:26 AM
+They didn’t really leak a key, though. It’s more subtle, and it’s possible that it doesn’t affect x86. See Matthew Garrett’s explanation at https://mjg59.dreamwidth.org/44223.html for more information.
+ole man •
+August 15, 2016 9:24 AM
+I can still remember a time when the ability to install any software on your very own computer wasn’t considered to be a “bug” or a “vulnerability”.
+Aaah, those were the days…
+Couldn'tPossiblyComment •
+August 15, 2016 9:30 AM
+I nearly said that I see the spambots are getting smarter, but I think the above from Industrial computers is a legit reply & link 😉 I’m so unused to the use of the URL form entry.
+As an aside, the apparent original source at https://rol.im/securegoldenkeyboot/ is possibly the most annoying web page I’ve opened since I last found myself on Geocities. Recommend text only.
+The link provided by Steinar does indeed highlight that this isn’t quite a leak of a key, but it’s not far off. More precisely, it’s a leaked signed supplementary policy that pre-Anniversary ARM bootloaders will load as though it’s a full policy, and said policy says ‘ignore loader security’. So if I’m reading right, the security defect is that the older devices will load a policy without a match on the device ID, and then MS created dev policies that can be loaded without an ID that turn loader security off which got leaked.
+Had a key been leaked, they really would have been screwed. Had the Anniversary Edition’s new supplementary policies been invalid to older bootloaders, this would have been avoided. As the article finishes off ‘Adding new features can break old assumptions, and your design needs to take that into account’.
+I also recall there used to be devices that you had to to put into ‘dev’ mode in hardware before it would allow this sort of thing to be done. Shame that didn’t persist.
+Doesn’t change the pertinence of the failure of backdoors to remain perfectly secret.
+ianf •
+August 15, 2016 9:46 AM
+@ MODERATOR :: this
+https://www.schneier.com/blog/archives/2006/03/mozilla_bug_cau.html#c6731401
+and this:
+https://www.schneier.com/blog/archives/2016/08/microsoft_accid.html#c6731397
+look like SPAM,
+smell like SPAM,
+they’re SPAM
+hawk •
+August 15, 2016 12:00 PM
+“As we all know, the problems with backdoors are less the cryptography and more the systems surrounding the cryptography.”
+Cryptography does not exist apart from a system in which it is implemented.
+uh, Mike •
+August 15, 2016 12:28 PM
+uSoft didn’t put in a backdoor for the NSA, but it did put in a backdoor for developer convenience.
+“You’re not from the government, are you?  Okay, you can come in.”
+Chuck •
+August 15, 2016 6:49 PM
+The links have information about the leak, but where do we actually get the data?
+vas pup •
+August 16, 2016 8:48 AM
+China has successfully launched the world’s first quantum-enabled satellite, state media said.
+http://www.bbc.com/news/world-asia-china-37091833
+“If it works, it will solve the central problem of encrypted communications – how to distribute keys without interception – promising hack-proof communications. The encrypted message itself can be transmitted normally after the key exchange”
+“Quantum computing is largely seen as the next big thing in communications,” says Marc Einstein, Director of the Information Communications Technology (ICT) practice of Frost and Sullivan, Japan, citing secure transmission of credit card data as a likely early application.”
+MisterNo •
+August 20, 2016 2:54 PM
+I’m with the ole man on this one.
+Hated the idea from the get-go, but if you buy the right machine to install Linux, no big deal. It was a conspiracy to push away Linux from the OEM pre-built market. Don’t tell me it was really some security thing.
+The article said Windows Phone: since when does Nokia have this option? It is important to not “jailbreak” your main phone for development. You suck it up and buy a second phone you can jack with. The SD card is encrypted, albeit with a law enforcement backdoor. Is there any proof of hacking into live Windows phones? Really, all it takes is a CALEA order to watch someone’s traffic, if the govt is what you are scared of.
+I think for people that don’t use a Windows Phone, you should know that the Windows Phone server stuff is scary. If you BYOD, the admin can have total control over your device… and it’s your phone! If Blackberry did one thing right, it was dual profiling. There’s no BYOD in my life.
+Windows RT: care. I don’t. And Microsoft has vaguely picked up the ball on kiosk/thin client imaging. Custom imaging is a really arduous task and Assigned Access is not all that.
+My opinion has always been analyze your physical security issue properly. Is it real? Paranoid about who? Law Enforcement? Did you pop up on the radar?
+About the mobile paranoid business man issue:
+I see the fragility in encrypted containers and TPM. You just stack problems.
+**If someone has your mobile device, you have other problems… mostly behavioral.
+It’s all sort of disingenuous given how easy it is to hack into a non-live system. Even Tim Cook has feds crawling in his cubicles now.
+Subscribe to comments on this entry
+Leave a comment Cancel replyLoginName 
+Email 
+URL: 
+ Remember personal info?
+Fill in the blank: the name of this blog is Schneier on ___________ (required):
+Comments:
+Allowed HTML
+<a href="URL"> • <em> <cite> <i> • <strong> <b> • <sub> <sup> • <ul> <ol> <li> • <blockquote> <pre>
+Markdown Extra syntax via https://michelf.ca/projects/php-markdown/extra/
+ 
+Δ 
+← Friday Squid Blogging: Squid Not Killing New Zealand Sea Lions Yet Another Government-Sponsored Malware → 
+Sidebar photo of Bruce Schneier by Joe MacInnis.
+Powered by WordPress Hosted by Pressable
+About Bruce SchneierI am a public-interest technologist, working at the intersection of security, technology, and people. I've been writing about security issues on my blog since 2004, and in my monthly newsletter since 1998. I'm a fellow and lecturer at Harvard's Kennedy School, a board member of EFF, and the Chief of Security Architecture at Inrupt, Inc. This personal website expresses the opinions of none of those organizations.
+Related Entries
+Cryptographic Flaw in Libbitcoin Explorer Cryptocurrency WalletYou Can't Rush Post-Quantum-Computing Cryptography StandardsMicrosoft Signing Key Stolen by ChineseBackdoor in TETRA Police RadiosThe US Is Spying on the UN Secretary GeneralRedacting Documents with a Black Sharpie Doesn't Work
+Featured Essays
+The Value of EncryptionData Is a Toxic Asset, So Why Not Throw It Out?How the NSA Threatens National SecurityTerrorists May Use Google Earth, But Fear Is No Reason to Ban ItIn Praise of Security TheaterRefuse to be TerrorizedThe Eternal Value of PrivacyTerrorists Don't Do Movie Plots 
+More EssaysBlog Archives
+Archive by Month100 Latest Comments
+Blog Tags3d printers9/11A Hacker's MindAaron Swartzacademicacademic papersaccountabilityACLUactivismAdobeadvanced persistent threatsadwareAESAfghanistanair marshalsair travelairgapsal QaedaalarmsalgorithmsalibisAmazonAndroidanonymityAnonymousantivirusApacheAppleApplied Cryptographyartificial intelligenceMore TagsLatest BookMore Books
+ 
+Blog
+Newsletter
+Books
+Essays
+News
+Talks
+Academic
+About Me
+ 

@@ -1,0 +1,105 @@
+Wikipedia:Wikipedia Signpost/2013-01-28/Technology report - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Languages
+Language links are at the top of the page across from the title.
+Search
+Search
+Create accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Wikipedia:Wikipedia Signpost/2013-01-28/Technology report
+Add languages
+Add links
+Project pageTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+Print/export
+Download as PDFPrintable version
+From Wikipedia, the free encyclopedia
+< Wikipedia:Wikipedia Signpost‎ | 2013-01-28
+← Back to ContentsView Latest Issue28 January 2013
+Technology report
+Developers get ready for FOSDEM amid caching problems
+Contribute  —  
+Share this
+ E-mail
+ Facebook
+ Twitter
+ LinkedIn
+ Reddit
+ Digg
+By Jarry1250 and Federico Leva
+Data centre migration and caching problems
+As reported in last week's "Technology Report", the WMF's data centre in Ashburn, Virginia ("eqiad") took over responsibility for almost all of the remaining functions that had previously been handled by their old facility in Tampa, Florida ("pmtpa") on 22 January. The Signpost reported then that few problems had arisen since handover. Unfortunately that was not to remain the case, with reports of caching problems (which typically only affect anonymous users) starting to come in.
+The main bug driving anonymous users' difficulties, bug #44391 ("old revisions of pages are shown when not logged in and also revision history is outdated"), was finally declared fixed at around 05:00 UTC on 28 January, although only time will tell if further fixes will be needed. After the migration, other miscellaneous problems with the cache for images and other uploads (both originals and thumbnails) appear to worsen and new ones emerge, mixed up with them. WMF Director of Platform Engineering Rob Lanphier shared an update on the current situation.
+The data centre in Tampa will continue to be maintained as a "hot failover", with servers in standby mode, ready to take over should the primary site experience an outage. Additionally, the Signpost understands that the Tampa data centre will continue to be used for image scaling in the short term, before that too is migrated to Ashburn.
+MediaWiki and Wikimedia developers prepare for conference
+A pensive moment of the last Wikimedia visit to India (Bangalore): from the right, Niklas Laxström and Amir Aharoni; in the background, Brion Vibber. (We hope that FOSDEM photo coverage on Commons will be better this year.)
+At least a dozen volunteer and staff developers and technically-inclined Wikimedians are making their way to European conference FOSDEM this weekend, records show. The Belgian-led conference brings together open-source developers and advocates from around the world.
+Right after that, the WMF Language engineering team will be flying to India for a two-week marathon of MediaWiki development and internationalization outreach, including attendance at the 2013 GNUnify conference. WMF developers will also be staging their own workshops at the Quark '13 conference on February 1 and 2 and at the Pune LanguageSummit on February 12 and 13, aiming to better take advantage of the rapidly growing Indian software development scene, which is already one of the largest in the world.
+In brief
+Not all fixes may have gone live to WMF sites at the time of writing; some may not be scheduled to go live for several weeks.
+SVN set to read-only: Most of the WMF-operated Subversion (SVN) was set to read-only this week, marking the penultimate step in the switchover to Git initiated in March last year. Internationalisation support for the extensions which used the repository had already been discontinued; virtually all extension developers have now switched over to Git or found alternative hosting, though a number of unmaintained extensions, none of which are deployed on Wikimedia wikis, are yet to be transferred. Some areas targeting non-extension-related projects such as pywikipedia remain writeable and there are no plans to delete any files for the foreseeable future (wikitech-l, server admin log).
+Re-enabling of disabled SpecialPages trialled: As of time of writing, tests are being run to evaluate the feasibility of the various solutions for bug #15434 ("Periodical run of currently disabled special pages"). Particularly observant readers may therefore come across occasional updates to reports, the data for which was previously between 4 and 9 years out of date.
+Job queue still imperfect: After weeks of wild variation, the job queue (which handles the processing of low priority tasks – "jobs" – such as updating category membership lists) grew once this week, up to a few million jobs for all wikis (rather than the usual few thousand), but may be getting better. Unfortunately no data can be shown because access to the site tracking portal ganglia.wikimedia.org is restricted for security reasons.
+← Previous "Technology report"Next "Technology report" →
+In this issue28 January 2013In the media
+News and notes
+Recent research
+Featured content
+WikiProject report
+Discussion report
+Arbitration report
+Technology report
++ Add a commentDiscuss this story
+These comments are automatically transcluded from this article's talk page. To follow comments, add the page to your watchlist. If your comment has not appeared here, you can try purging the cache.
+Readers interested in FOSDEM, see also mw:Events/FOSDEM.--Qgil (talk) 00:34, 31 January 2013 (UTC)Reply[reply]
+Job queue - Note, the api can still return an estimate (emphasis on estimate, its known to be wildly inaccurate in some cases). Currently it shows enwikipedia has about 30000 jobs. Bawolff (talk) 15:36, 31 January 2013 (UTC)Reply[reply]
+Sure, but it's not possible to see trends (unless one is very careful and notes down the numbers, of course). Ganglia was made public five minutes ago, here's the graph again.[1] :-) --Nemo 20:53, 31 January 2013 (UTC)Reply[reply]
+Thanks Nemo. Welcome back, Ganglia!
+The Ganglia data would be a little more useful if it showed the maximum and minimum values for each aggregated period, instead of only the value for an arbitrary point in time in each hour/day/week/month.
+It would be more helpful for a log to show also the timestamp of the oldest job as well as the number of entries over time. Better still, a breakdown for each type of job – something like: SELECT job_cmd, COUNT(*), MIN(job_timestamp) FROM job GROUP BY job_cmd;
+ I don't think the job tables are replicated to the toolserver, so Ganglia would probably be the easiest way to make this information available.
+— Richardguk (talk) 23:36, 31 January 2013 (UTC)Reply[reply]
+got to say its really nice to see ganglia back.Bawolff (talk) 23:38, 31 January 2013 (UTC)Reply[reply]
+Richardguk, I agree with you but we don't even have a ganglia graph for all wikis (gerrit:37441)... Maybe you could propose some patch to ganglia, or to gdash [2] (where we have [3])? --Nemo 10:07, 1 February 2013 (UTC)Reply[reply]
+Want the latest Signpost delivered to your talk page each month?
+Home
+About
+Archives
+Newsroom
+Subscribe
+Suggestions
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipedia_Signpost/2013-01-28/Technology_report&oldid=1136522880"
+Category: Wikipedia Signpost archives 2013-01
+ This page was last edited on 30 January 2023, at 19:20 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

@@ -1,0 +1,16 @@
+https://phabricator.wikimedia.org/project/board/6139/
+https://phabricator.wikimedia.org/maniphest/task/edit/form/1/?tags=MW-1.40-Release
+https://releases.wikimedia.org/mediawiki/1.40/mediawiki-1.40.0.tar.gz
+https://releases.wikimedia.org/mediawiki/1.40/mediawiki-1.40.0.zip
+https://releases.wikimedia.org/mediawiki/1.40/mediawiki-core-1.40.0.tar.gz
+https://releases.wikimedia.org/mediawiki/1.40/mediawiki-core-1.40.0.zip
+https://releases.wikimedia.org/mediawiki/1.40/mediawiki-1.40.0.patch.gz
+https://releases.wikimedia.org/mediawiki/1.40/mediawiki-1.40.0.patch.zip
+https://releases.wikimedia.org/mediawiki/1.40/mediawiki-core-1.40.0.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.40/mediawiki-core-1.40.0.zip.sig
+https://releases.wikimedia.org/mediawiki/1.40/mediawiki-1.40.0.tar.gz.sig
+https://releases.wikimedia.org/mediawiki/1.40/mediawiki-1.40.0.zip.sig
+https://releases.wikimedia.org/mediawiki/1.40/mediawiki-1.40.0.patch.gz.sig
+https://releases.wikimedia.org/mediawiki/1.40/mediawiki-1.40.0.patch.zip.sig
+https://www.mediawiki.org/keys/keys.html
+http://hyperkitty.readthedocs.org
