@@ -167,23 +167,42 @@ def search_list_in_page(search_term, path):
     data = site_saver.load_list_from_file(path)
     return search_term_in_list(search_term, data)
 
+def full_search_in_page(search_term, path):
+    # Returns more complete data for a search in a page.
+    # Bases search by meta_file, not text_file
+    # It can accept any of the page's files as a valid path.
+    
+    # Get info from page
+    page_base_dir = os.path.dirname(path)
+    meta_path = os.path.join(page_base_dir, META_LIST_FILENAME)
+    text_path = os.path.join(page_base_dir, TEXT_LIST_FILENAME)
+    url = (site_saver.load_list_from_file(meta_path)[0]).split('\\')[1]
+
+    # Search for term in text file
+    aux = [search_list_in_page(search_term, text_path), url, meta_path]
+    return aux
+
 def search_term_in_ranked_database(search_term):
     # Search depending on relevance
-    #search_term = ' Combat '
     global ranked_url_list
 
     results = []
-    for page in ranked_url_list:
-        page_base_dir = os.path.dirname(page[1])
 
-        meta_path = page[1]
-        text_path = os.path.join(page_base_dir, TEXT_LIST_FILENAME)
-        url = page[0]
+    sample = ranked_url_list
+    # Prepare sample list with correct arguments
+    # Since 'search_term' is an argument, it must appear in all items.
+    # That's how 'pool.starmap()' works!
+    sample = [[search_term, x[1]] for x in sample]
 
-        aux = [search_list_in_page(search_term, text_path), url, meta_path]
-        if aux[0] != []:
-            results.append(aux)
-    return results
+    # Search all pages with multiprocessing.
+    data_pack_bundle = []
+    with Pool() as pool:
+        data_pack_bundle = pool.starmap(full_search_in_page, sample, chunksize=5)
+    # Rid bundle from instances with no results
+    data_pack_bundle = [x for x in data_pack_bundle if x[0] != []]
+
+    
+    return data_pack_bundle
 
 # RANKED_URL_LIST
 def get_url_ranking_from_database():
@@ -207,6 +226,7 @@ def get_url_ranking_from_database():
         page_link = (site_saver.load_list_from_file(meta_path)[0]).split('\\')[1]
         pages_work_set.append([page_link, meta_path])
     
+    # Collect the contents of all link files with multiprocessing
     data_pack_bundle = []
     with Pool() as pool:
         data_pack_bundle = pool.map(site_saver.load_list_from_file, link_list_paths, chunksize=5)
