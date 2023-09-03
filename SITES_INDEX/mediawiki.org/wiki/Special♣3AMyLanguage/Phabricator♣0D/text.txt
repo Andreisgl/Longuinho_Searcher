@@ -1,0 +1,134 @@
+Phabricator - MediaWiki
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageGet MediaWikiGet extensionsTech blogContribute
+Support
+User helpFAQTechnical manualSupport deskCommunication
+Development
+Developer portalCode statistics
+MediaWiki.org
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+In other languages
+Add links
+Search
+Search
+ EnglishCreate accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+Beginning
+1Get started
+2Weekly update / maintenance window
+3See also
+Toggle the table of contents
+Toggle the table of contents
+Phabricator
+Issue tracker: #Phabricator
+PageDiscussion
+English
+ReadView sourceView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadView sourceView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+Meta-Wiki
+From mediawiki.org
+Translate this pageLanguages:Bahasa Indonesia
+Deutsch
+English
+Nederlands
+Tiếng Việt
+Türkçe
+asturianu
+dansk
+español
+français
+hrvatski
+italiano
+lietuvių
+norsk bokmål
+polski
+português
+português do Brasil
+română
+suomi
+svenska
+čeština
+нохчийн
+русский
+српски / srpski
+українська
+العربية
+سنڌي
+فارسی
+پښتو
+हिन्दी
+বাংলা
+ತುಳು
+ไทย
+ဖၠုံလိက်
+中文
+日本語
+粵語
+ꯃꯤꯇꯩ ꯂꯣꯟ
+한국어
+Phabricator is an open-source software development platform.
+It is used for tracking issues and project management of Wikimedia and related software.
+Go to Wikimedia Phabricator
+Get started
+Phabricator is for software bug reports, feature requests, and planning work.
+To ask technical questions about Wikimedia projects, see m:Tech
+To ask technical questions about MediaWiki in non-WMF installations, see Project:Support desk
+To see an overview of how Phabricator works, how to use it, or ask questions, please see the Help page. Your questions are very welcome.
+Common first actions are:
+Creating your account
+Creating a task
+If you maintain projects: Creating a project and learning about project management in Phabricator.
+Etiquette
+Learn to use Phabricator. Play and test in our Cloud Services instance as much as you want (the test instance is unfortunately not always online). Check out the documentation and short videos on Phabricator/Help .
+Weekly update / maintenance window
+Phabricator doesn't have releases, and therefore it is up to us to decide how close do we want to follow the upstream version.
+There is a weekly window for updates and other maintenance tasks on Wednesdays at 5:00PM Pacific (Thursday Midnight, 0:00 UTC) (check your timezone) and users will get redirected to Phabricator/Maintenance.
+We don't necessarily update Phabricator every week, but we reserve this window to use as needed, usually twice per month, depending on the urgency of outstanding bugs fixed upstream.
+The expected downtime during this window is between 0 and 30 minutes.
+For specific bugs and changes, query for resolved tasks of the latest update date under "Milestones" and check the corresponding latest upstream Changelog items.
+See also
+Test instance of Phabricator
+wikitech:Phabricator — technical information for administrators of Wikimedia Phabricator
+All subpages
+You can use the phabricator: interwiki prefix to link tasks on Phabricator.
+Important subpages
+Help 
+Project management 
+phabricator.wikimedia.org permissions 
+Bots 
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Phabricator&oldid=5609642"
+Category: Phabricator
+ This page was last edited on 23 November 2022, at 01:52.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About MediaWiki.org
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

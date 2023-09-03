@@ -1,0 +1,265 @@
+Communication - MediaWiki
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageGet MediaWikiGet extensionsTech blogContribute
+Support
+User helpFAQTechnical manualSupport deskCommunication
+Development
+Developer portalCode statistics
+MediaWiki.org
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+In other languages
+Add links
+Search
+Search
+ EnglishCreate accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+Beginning
+1Get help or support
+Toggle Get help or support subsection
+1.1Forums
+1.2Chat
+1.3Mailing lists
+2Report software bugs and feature requests
+3Contact software maintainers
+4Learn, explore, and follow
+Toggle Learn, explore, and follow subsection
+4.1Mailing lists
+4.2Join groups with shared interests
+4.3Social Media
+4.4Blogs
+4.5Newsletters
+5Share your knowledge
+Toggle the table of contents
+Toggle the table of contents
+Communication
+PageDiscussion
+English
+ReadView sourceView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadView sourceView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+From mediawiki.org
+Translate this pageLanguages:Afrikaans
+Bahasa Indonesia
+Bahasa Melayu
+Boarisch
+British English
+Cymraeg
+Deutsch
+Deutsch (Sie-Form)
+English
+Esperanto
+Frysk
+Hausa
+Hawaiʻi
+Interlingue
+Jawa
+Kreyòl ayisyen
+Latina
+Lëtzebuergesch
+Napulitano
+Nederlands
+Oromoo
+Scots
+Sunda
+Taqbaylit
+Tiếng Việt
+Twi
+Türkçe
+Zazaki
+aragonés
+asturianu
+bosanski
+brezhoneg
+català
+dansk
+eesti
+español
+euskara
+français
+galego
+hrvatski
+interlingua
+italiano
+kurdî
+lietuvių
+magyar
+norsk bokmål
+norsk nynorsk
+occitan
+polski
+português
+português do Brasil
+română
+sicilianu
+slovenčina
+srpskohrvatski / српскохрватски
+suomi
+svenska
+tatarça
+čeština
+Ελληνικά
+беларуская (тарашкевіца)
+български
+русиньскый
+русский
+татарча / tatarça
+українська
+ייִדיש
+עברית
+ئۇيغۇرچە
+اردو
+العربية
+سنڌي
+فارسی
+مصرى
+پښتو
+کوردی
+अंगिका
+अवधी
+नेपाली
+भोजपुरी
+मराठी
+मैथिली
+हिन्दी
+অসমীয়া
+বাংলা
+ਪੰਜਾਬੀ
+ଓଡ଼ିଆ
+தமிழ்
+తెలుగు
+ಕನ್ನಡ
+മലയാളം
+සිංහල
+ไทย
+བོད་ཡིག
+ქართული
+ភាសាខ្មែរ
+中文
+日本語
+粵語
+한국어
+Get in contact with other MediaWiki users and developers, or follow Wikimedia and MediaWiki related news and stories.
+Get help or support
+Forums
+Get help both with using MediaWiki and setting up MediaWiki:
+Project:Support desk
+Ask any questions related to MediaWiki installations.
+meta:Tech
+Get help as a Wikimedia community member on technical questions related to your Wikimedia wiki.
+mwusers.org
+MediaWiki users forum. (unofficial)
+StackExchange
+Posts on Stackexchange.com tagged with #mediawiki. (unofficial)
+MediaWiki subreddit
+Reddit's MediaWiki group. (unofficial)
+Chat
+Find help in real time on chat servers.
+They are sorted by their activity.
+MediaWiki Discord server
+Discuss wiki installation, operation, skinning, custom developments. (unofficial)
+Find out more. 
+Hackathon Telegram group
+Ask Hackathon related questions in Telegram @wmhack group. Find out more. 
+IRC channels
+Ask technical questions about MediaWiki in the #mediawiki connect channel on libera.chat.
+For MediaWiki software development questions, ask in #wikimedia-dev connect.
+For technical and software development questions about Wikimedia websites, ask in #wikimedia-tech connect.
+Find out more. 
+Wikimedia Mattermost Chat
+For movement-wide discussions, not just technical matters.
+Find out more.
+Outreach Programs Zulip chat
+Get help and discuss as an applicant or participant of Wikimedia's Outreach programs .
+Find out more. 
+Mailing lists
+Post on mailing lists:
+mediawiki-l
+Ask for help with using or setting up MediaWiki on the high-traffic list mediawiki-l.
+wikitech-l
+Discuss MediaWiki and Wikimedia software development on the medium-traffic list wikitech-l.
+There are more Mailing lists  available.
+Report software bugs and feature requests
+Report and browse bugs and feature requests  for most Wikimedia software in Phabricator .
+Contact software maintainers
+A list of maintainers of Wikimedia software is available at Developers/Maintainers .
+You can leave a note on their talk page or send them an email to contact them.
+If you cannot find the maintainers of a project you are looking for at Developers/Maintainers , try finding the maintainers on the project page of the software on mediawiki.org, the project owners of the project on Phabricator , or the contributors to the project on Gerrit .
+Learn, explore, and follow
+Stay informed about news and changes.
+Mailing lists
+Subscribe to mailing lists:
+mediawiki-announce
+mediawiki-announce is a low-traffic list for announcements of new MediaWiki releases and security updates (all messages also go to mediawiki-l).
+wikitech-ambassadors
+wikitech-ambassadors announces the most important technical changes happening on Wikimedia websites. This list is aimed at end users of Wikimedia wikis, not MediaWiki software in general. You can also follow these announcements on Wikimedia wikis via Tech News.
+Join groups with shared interests
+MediaWiki Stakeholders' Group 
+The MediaWiki Stakeholders' Group  aims to advocate the needs of MediaWiki users.
+MediaWiki Farmers user group
+The MediaWiki Farmers user group is a group of developers who work on wiki farms.
+meta:Wikimedia user groups
+User Groups are open groups organized by themes and areas of interest.
+Special Interest Groups
+Special Interest Groups  are smaller organized groups focused on shared technical concerns.
+Social Media
+Follow our accounts:
+@mediawiki@wikis.world on Mastodon
+News from MediaWiki community members (details).
+@MediaWiki on Twitter
+News from the MediaWiki project.
+MediaWiki on Facebook
+News from the MediaWiki project.
+@WikimediaTech on Twitter
+News from the Wikimedia technical movement.
+@watchmediawiki on YouTube
+Videos and event streams related to MediaWiki and Wikimedia technology.
+Blogs
+Read stories:
+Wikimedia Tech Blog
+The Wikimedia Tech Blog shares stories from Wikimedia's technical community across and beyond Wikimedia technology.
+Blogs on Phabricator
+Read technical blogs hosted on Wikimedia Phabricator .
+Planet Wikimedia
+The English Wikimedia planet blog aggregator contains technical posts mixed with posts about non-technical aspects of Wikimedia projects.
+Newsletters
+Subscribe to Wikimedia newsletters which cover certain areas of technical interest.
+You may want to first check their archives to see how active a newsletter is.
+Share your knowledge
+Wikimedia Tech Blog
+Publish your technical story on the Wikimedia Tech Blog.
+Wikimedia Technical Talks
+Give a Technical Talk video presentation. (currently on pause)
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Communication&oldid=5820928"
+Categories: MediaWiki IntroductionMediaWiki CommunicationNew contributors
+ This page was last edited on 12 March 2023, at 06:31.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About MediaWiki.org
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

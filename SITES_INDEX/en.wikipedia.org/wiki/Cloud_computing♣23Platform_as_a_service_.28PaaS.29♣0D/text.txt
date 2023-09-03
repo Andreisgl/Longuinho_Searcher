@@ -1,0 +1,648 @@
+Cloud computing - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Languages
+Language links are at the top of the page across from the title.
+Search
+Search
+Create accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1Definition
+2History
+3Value proposition
+4Challenges and limitations
+5Service models
+Toggle Service models subsection
+5.1Infrastructure as a service (IaaS)
+5.2Platform as a service (PaaS)
+5.3Software as a service (SaaS)
+5.4Mobile "backend" as a service (MBaaS)
+5.5Serverless computing or Function-as-a-Service (FaaS)
+6Deployment models
+Toggle Deployment models subsection
+6.1Private
+6.2Public
+6.3Hybrid
+6.4Others
+6.4.1Community
+6.4.2Distributed
+6.4.3Multi
+6.4.4Poly
+6.4.5Big data
+6.4.6HPC
+7Architecture
+Toggle Architecture subsection
+7.1Cloud engineering
+8Security and privacy
+9Market
+10Similar concepts
+11See also
+12References
+13Further reading
+14External links
+Toggle the table of contents
+Toggle the table of contents
+Cloud computing
+77 languages
+AfrikaansالعربيةAzərbaycancaবাংলাBasa BanyumasanБеларускаяभोजपुरीБългарскиBosanskiCatalàČeštinaDanskDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisFryskGaeilge客家語/Hak-kâ-ngî한국어हिन्दीHrvatskiBahasa IndonesiaÍslenskaItalianoעבריתಕನ್ನಡქართულიҚазақшаKiswahiliLatinaLatviešuLietuviųMagyarМакедонскиമലയാളംमराठीBahasa MelayuМонголမြန်မာဘာသာNederlands日本語Norsk bokmålଓଡ଼ିଆOʻzbekcha / ўзбекчаپنجابیPolskiPortuguêsRomânăRuna SimiРусскийسرائیکیScotsShqipසිංහලSimple EnglishSlovenčinaSlovenščinaСрпски / srpskiSuomiSvenskaதமிழ்ไทยТоҷикӣTürkçeУкраїнськаاردوئۇيغۇرچە / UyghurcheTiếng ViệtWinaray吴语粵語中文
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Download as PDFPrintable version
+In other projects
+Wikimedia CommonsWikiquote
+From Wikipedia, the free encyclopedia
+Form of shared Internet-based computing
+"Cloud Computing" redirects here. For the horse, see Cloud Computing (horse).
+Cloud computing metaphor: the group of networked elements providing services does not need to be addressed or managed individually by users; instead, the entire provider-managed suite of hardware and software can be thought of as an amorphous cloud.
+Cloud computing[1] is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user.[2] Large clouds often have functions distributed over multiple locations, each of which is a data center. Cloud computing relies on sharing of resources to achieve coherence and typically uses a pay-as-you-go model, which can help in reducing capital expenses but may also lead to unexpected operating expenses for users.[3]
+Definition[edit]
+The United States National Institute of Standards and Technology's definition of cloud computing identifies "five essential characteristics":
+On-demand self-service. A consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without requiring human interaction with each service provider.
+Broad network access. Capabilities are available over the network and accessed through standard mechanisms that promote use by heterogeneous thin or thick client platforms (e.g., mobile phones, tablets, laptops, and workstations).
+Resource pooling. The provider's computing resources are pooled to serve multiple consumers using a multi-tenant model, with different physical and virtual resources dynamically assigned and reassigned according to consumer demand. 
+Rapid elasticity. Capabilities can be elastically provisioned and released, in some cases automatically, to scale rapidly outward and inward commensurate with demand. To the consumer, the capabilities available for provisioning often appear unlimited and can be appropriated in any quantity at any time.
+Measured service. Cloud systems automatically control and optimize resource use by leveraging a metering capability at some level of abstraction appropriate to the type of service (e.g., storage, processing, bandwidth, and active user accounts). Resource usage can be monitored, controlled, and reported, providing transparency for both the provider and consumer of the utilized service.[4]
+History[edit]
+Main article: History of cloud computing
+Cloud computing has a rich history that extends back to the 1960s, with the initial concepts of time-sharing becoming popularized via Remote Job Entry (RJE). The "data center" model, where users submitted jobs to operators to run on mainframes, was predominantly used during this era. This was a time of exploration and experimentation with ways to make large-scale computing power available to more users through time-sharing, optimizing the infrastructure, platform, and applications, and increasing efficiency for end users.[5]
+The use of the "cloud" metaphor to denote virtualized services traces back to 1994, when it was used by General Magic to describe the universe of "places" that mobile agents in the Telescript environment could go. This metaphor is credited to David Hoffman, a General Magic communications employee, based on its long-standing use in networking and telecom.[6] The expression cloud computing became more widely known in 1996 when the Compaq Computer Corporation drew up a business plan for future computing and the Internet. The company's ambition was to supercharge sales with "cloud computing-enabled applications". The business plan foresaw that online consumer file storage would most likely be commercially successful. As a result, Compaq decided to sell server hardware to internet service providers.[7]
+In the 2000s, the application of cloud computing began to take shape with the establishment of Amazon Web Services in 2002, which allowed developers to build applications independently. In 2006 the beta version of Google Docs was released, Amazon Simple Storage Service, known as Amazon S3, and the Amazon Elastic Compute Cloud (EC2), in 2008 NASA's development of the first open-source software for deploying private and hybrid clouds.[8][9]
+The following decade saw the launch of various cloud services. In 2010, Microsoft launched Microsoft Azure, and Rackspace Hosting and NASA initiated an open-source cloud-software project, OpenStack. IBM introduced the IBM SmartCloud framework in 2011, and Oracle announced the Oracle Cloud in 2012. In December 2019, Amazon launched AWS Outposts, a service that extends AWS infrastructure, services, APIs, and tools to customer data centers, co-location spaces, or on-premises facilities.[10][11]
+Since the global pandemic of 2020, cloud technology has surged in popularity due to the level of data security it offers and the flexibility of working options it provides for all employees, notably remote workers.[12]
+Value proposition[edit]
+Advocates of public and hybrid clouds claim that cloud computing allows companies to avoid or minimize up-front IT infrastructure costs. Proponents also claim that cloud computing allows enterprises to get their applications up and running faster, with improved manageability and less maintenance, and that it enables IT teams to more rapidly adjust resources to meet fluctuating and unpredictable demand,[13][14][15] providing burst computing capability: high computing power at certain periods of peak demand.[16]
+Additional value propositions of cloud computing include:
+Topic
+Description
+Cost reductions
+A public-cloud delivery model converts capital expenditures (e.g., buying servers) to operational expenditure.[17] This purportedly lowers barriers to entry, as infrastructure is typically provided by a third party and need not be purchased for one-time or infrequent intensive computing tasks. Pricing on a utility computing basis is "fine-grained", with usage-based billing options. As well, less in-house IT skills are required for implementation of projects that use cloud computing.[18] The e-FISCAL project's state-of-the-art repository[19] contains several articles looking into cost aspects in more detail, most of them concluding that costs savings depend on the type of activities supported and the type of infrastructure available in-house.
+Device independence
+Device and location independence[20] enable users to access systems using a web browser regardless of their location or what device they use (e.g., PC, mobile phone). As infrastructure is off-site (typically provided by a third-party) and accessed via the Internet, users can connect to it from anywhere.[18]
+Maintenance
+Maintenance of cloud environment is easier because the data is hosted on an outside server maintained by a provider without the need to invest in data center hardware. IT maintenance of cloud computing is managed and updated by the cloud provider's IT maintenance team which reduces cloud computing costs compared with on-premises data centers.
+Multitenancy
+Multitenancy enables sharing of resources and costs across a large pool of users thus allowing for:
+centralization of infrastructure in locations with lower costs (such as real estate, electricity, etc.)
+peak-load capacity increases (users need not engineer and pay for the resources and equipment to meet their highest possible load-levels)
+utilization and efficiency improvements for systems that are often only 10–20% utilized.[21][22]
+Performance
+Performance is monitored by IT experts from the service provider, and consistent and loosely coupled architectures are constructed using web services as the system interface.[18][23]
+Productivity
+Productivity may be increased when multiple users can work on the same data simultaneously, rather than waiting for it to be saved and emailed. Time may be saved as information does not need to be re-entered when fields are matched, nor do users need to install application software upgrades to their computer.
+Availability
+Availability improves with the use of multiple redundant sites, which makes well-designed cloud computing suitable for business continuity and disaster recovery.[24]
+Scalability and Elasticity
+Scalability and elasticity via dynamic ("on-demand") provisioning of resources on a fine-grained, self-service basis in near real-time[25][26] (Note, the VM startup time varies by VM type, location, OS and cloud providers[25]), without users having to engineer for peak loads.[27][28][29] This gives the ability to scale up when the usage need increases or down if resources are not being used.[30] The time-efficient benefit of cloud scalability also means faster time to market, more business flexibility, and adaptability, as adding new resources does not take as much time as it used to.[31] Emerging approaches for managing elasticity include the use of machine learning techniques to propose efficient elasticity models.[32]
+Security
+Security can improve due to centralization of data, increased security-focused resources, etc., but concerns can persist about loss of control over certain sensitive data, and the lack of security for stored kernels. Security is often as good as or better than other traditional systems, in part because service providers are able to devote resources to solving security issues that many customers cannot afford to tackle or which they lack the technical skills to address.[33] However, the complexity of security is greatly increased when data is distributed over a wider area or over a greater number of devices, as well as in multi-tenant systems shared by unrelated users. In addition, user access to security audit logs may be difficult or impossible. Private cloud installations are in part motivated by users' desire to retain control over the infrastructure and avoid losing control of information security.
+Challenges and limitations[edit]
+One of the main challenges of cloud computing, in comparison to more traditional on-premises computing, is data security and privacy. Cloud users entrust their sensitive data to third-party providers, who may not have adequate measures to protect it from unauthorized access, breaches, or leaks. Cloud users also face compliance risks if they have to adhere to certain regulations or standards regarding data protection, such as GDPR or HIPAA.[34]
+Another challenge of cloud computing is reduced visibility and control. Cloud users may not have full insight into how their cloud resources are managed, configured, or optimized by their providers. They may also have limited ability to customize or modify their cloud services according to their specific needs or preferences.[34] Complete understanding of all technology may be impossible, especially given the scale, complexity, and deliberate opacity of contemporary systems; however, there is a need for understanding complex technologies and their interconnections to have power and agency within them.[35] The metaphor of the cloud can be seen as problematic as cloud computing retains the aura of something noumenal and numinous; it is something experienced without precisely understanding what it is or how it works.[36]
+In addition, cloud migration is a significant issue. Cloud migration is the process of moving data, applications, or workloads from one cloud environment to another or from on-premises to the cloud. Cloud migration can be complex, time-consuming, and costly, especially if there are incompatibility issues between different cloud platforms or architectures. Cloud migration can also cause downtime, performance degradation, or data loss if not planned and executed properly.[37]
+Service models[edit]
+Cloud computing service models arranged as layers in a stack
+The service-oriented architecture (SOA) promotes the idea of "Everything as a Service" (EaaS or XaaS, or simply aAsS).[38] This concept is operationalized in cloud computing through several service models as defined by the National Institute of Standards and Technology (NIST). The three standard service models are Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).[4] They are commonly depicted as layers in a stack, providing different levels of abstraction. However, these layers are not necessarily interdependent. For instance, SaaS can be delivered on bare metal, bypassing PaaS and IaaS, and a program can run directly on IaaS without being packaged as SaaS.
+Infrastructure as a service (IaaS)[edit]
+Main article: Infrastructure as a service
+"Infrastructure as a service" (IaaS) refers to online services that provide high-level APIs used to abstract various low-level details of underlying network infrastructure like physical computing resources, location, data partitioning, scaling, security, backup, etc. A hypervisor runs the virtual machines as guests. Pools of hypervisors within the cloud operational system can support large numbers of virtual machines and the ability to scale services up and down according to customers' varying requirements. Linux containers run in isolated partitions of a single Linux kernel running directly on the physical hardware. Linux cgroups and namespaces are the underlying Linux kernel technologies used to isolate, secure and manage the containers. Containerisation offers higher performance than virtualization because there is no hypervisor overhead. IaaS clouds often offer additional resources such as a virtual-machine disk-image library, raw block storage, file or object storage, firewalls, load balancers, IP addresses, virtual local area networks (VLANs), and software bundles.[39]
+The NIST's definition of cloud computing describes IaaS as "where the consumer is able to deploy and run arbitrary software, which can include operating systems and applications. The consumer does not manage or control the underlying cloud infrastructure but has control over operating systems, storage, and deployed applications; and possibly limited control of select networking components (e.g., host firewalls)."[4]
+IaaS-cloud providers supply these resources on-demand from their large pools of equipment installed in data centers. For wide-area connectivity, customers can use either the Internet or carrier clouds (dedicated virtual private networks). To deploy their applications, cloud users install operating-system images and their application software on the cloud infrastructure. In this model, the cloud user patches and maintains the operating systems and the application software. Cloud providers typically bill IaaS services on a utility computing basis: cost reflects the number of resources allocated and consumed.[40]
+Platform as a service (PaaS)[edit]
+Main article: Platform as a service
+The NIST's definition of cloud computing defines Platform as a Service as:[4]
+The capability provided to the consumer is to deploy onto the cloud infrastructure consumer-created or acquired applications created using programming languages, libraries, services, and tools supported by the provider. The consumer does not manage or control the underlying cloud infrastructure including network, servers, operating systems, or storage, but has control over the deployed applications and possibly configuration settings for the application-hosting environment.
+PaaS vendors offer a development environment to application developers. The provider typically develops toolkit and standards for development and channels for distribution and payment. In the PaaS models, cloud providers deliver a computing platform, typically including an operating system, programming-language execution environment, database, and the web server. Application developers develop and run their software on a cloud platform instead of directly buying and managing the underlying hardware and software layers. With some PaaS, the underlying computer and storage resources scale automatically to match application demand so that the cloud user does not have to allocate resources manually.[41][need quotation to verify]
+Some integration and data management providers also use specialized applications of PaaS as delivery models for data. Examples include iPaaS (Integration Platform as a Service) and dPaaS (Data Platform as a Service). iPaaS enables customers to develop, execute and govern integration flows.[42] Under the iPaaS integration model, customers drive the development and deployment of integrations without installing or managing any hardware or middleware.[43] dPaaS delivers integration—and data-management—products as a fully managed service.[44] Under the dPaaS model, the PaaS provider, not the customer, manages the development and execution of programs by building data applications for the customer. dPaaS users access data through data-visualization tools.[45]
+Software as a service (SaaS)[edit]
+Main article: Software as a service
+The NIST's definition of cloud computing defines Software as a Service as:[4]
+The capability provided to the consumer is to use the provider's applications running on a cloud infrastructure. The applications are accessible from various client devices through either a thin client interface, such as a web browser (e.g., web-based email), or a program interface. The consumer does not manage or control the underlying cloud infrastructure including network, servers, operating systems, storage, or even individual application capabilities, with the possible exception of limited user-specific application configuration settings.
+In the software as a service (SaaS) model, users gain access to application software and databases. Cloud providers manage the infrastructure and platforms that run the applications. SaaS is sometimes referred to as "on-demand software" and is usually priced on a pay-per-use basis or using a subscription fee.[46] In the SaaS model, cloud providers install and operate application software in the cloud and cloud users access the software from cloud clients. Cloud users do not manage the cloud infrastructure and platform where the application runs. This eliminates the need to install and run the application on the cloud user's own computers, which simplifies maintenance and support. Cloud applications differ from other applications in their scalability—which can be achieved by cloning tasks onto multiple virtual machines at run-time to meet changing work demand.[47] Load balancers distribute the work over the set of virtual machines. This process is transparent to the cloud user, who sees only a single access-point. To accommodate a large number of cloud users, cloud applications can be multitenant, meaning that any machine may serve more than one cloud-user organization.
+The pricing model for SaaS applications is typically a monthly or yearly flat fee per user,[48] so prices become scalable and adjustable if users are added or removed at any point. It may also be free.[49] Proponents claim that SaaS gives a business the potential to reduce IT operational costs by outsourcing hardware and software maintenance and support to the cloud provider. This enables the business to reallocate IT operations costs away from hardware/software spending and from personnel expenses, towards meeting other goals. In addition, with applications hosted centrally, updates can be released without the need for users to install new software. One drawback of SaaS comes with storing the users' data on the cloud provider's server. As a result,[citation needed] there could be unauthorized access to the data.[50] Examples of applications offered as SaaS are games and productivity software like Google Docs and Office Online. SaaS applications may be integrated with cloud storage or File hosting services, which is the case with Google Docs being integrated with Google Drive, and Office Online being integrated with OneDrive.[51]
+Mobile "backend" as a service (MBaaS)[edit]
+Main article: Mobile backend as a service
+In the mobile "backend" as a service (m) model, also known as "backend as a service" (BaaS), web app and mobile app developers are provided with a way to link their applications to cloud storage and cloud computing services with application programming interfaces (APIs) exposed to their applications and custom software development kits (SDKs). Services include user management, push notifications, integration with social networking services[52] and more. This is a relatively recent model in cloud computing,[53] with most BaaS startups dating from 2011 or later[54][55][56] but trends indicate that these services are gaining significant mainstream traction with enterprise consumers.[57]
+Serverless computing or Function-as-a-Service (FaaS)[edit]
+Main article: Serverless computing
+Serverless computing is a cloud computing code execution model in which the cloud provider fully manages starting and stopping virtual machines as necessary to serve requests. Requests are billed by an abstract measure of the resources required to satisfy the request, rather than per virtual machine per hour.[58] Despite the name, serverless computing does not actually involve running code without servers.[58] The business or person using the system does not have to purchase, rent or provide servers or virtual machines for the back-end code to run on.
+Function as a service (FaaS) is a service-hosted remote procedure call that utilizes serverless computing to enable deploying individual functions in the cloud to run in response to events.[59] Some consider FaaS to fall under the umbrella of serverless computing, while others use the terms interchangeably.[60]
+Deployment models[edit]
+Cloud computing types
+Private[edit]
+Private cloud is cloud infrastructure operated solely for a single organization, whether managed internally or by a third party, and hosted either internally or externally.[4] Undertaking a private cloud project requires significant engagement to virtualize the business environment, and requires the organization to reevaluate decisions about existing resources. It can improve business, but every step in the project raises security issues that must be addressed to prevent serious vulnerabilities. Self-run data centers[61] are generally capital intensive. They have a significant physical footprint, requiring allocations of space, hardware, and environmental controls. These assets have to be refreshed periodically, resulting in additional capital expenditures. They have attracted criticism because users "still have to buy, build, and manage them" and thus do not benefit from less hands-on management,[62] essentially "[lacking] the economic model that makes cloud computing such an intriguing concept".[63][64]
+Public[edit]
+For a comparison of cloud-computing software and providers, see Cloud-computing comparison
+Cloud services are considered "public" when they are delivered over the public Internet, and they may be offered as a paid subscription, or free of charge.[65] Architecturally, there are few differences between public- and private-cloud services, but security concerns increase substantially when services (applications, storage, and other resources) are shared by multiple customers. Most public-cloud providers offer direct-connection services that allow customers to securely link their legacy data centers to their cloud-resident applications.[18][66]
+Several factors like the functionality of the solutions, cost, integrational and organizational aspects as well as safety & security are influencing the decision of enterprises and organizations to choose a public cloud or on-premises solution.[67]
+Hybrid[edit]
+See also: Hybrid cloud storage
+Hybrid cloud is a composition of a public cloud and a private environment, such as a private cloud or on-premises resources,[68][69] that remain distinct entities but are bound together, offering the benefits of multiple deployment models. Hybrid cloud can also mean the ability to connect collocation, managed and/or dedicated services with cloud resources.[4] Gartner defines a hybrid cloud service as a cloud computing service that is composed of some combination of private, public and community cloud services, from different service providers.[70] A hybrid cloud service crosses isolation and provider boundaries so that it cannot be simply put in one category of private, public, or community cloud service. It allows one to extend either the capacity or the capability of a cloud service, by aggregation, integration or customization with another cloud service.
+Varied use cases for hybrid cloud composition exist. For example, an organization may store sensitive client data in house on a private cloud application, but interconnect that application to a business intelligence application provided on a public cloud as a software service.[71] This example of hybrid cloud extends the capabilities of the enterprise to deliver a specific business service through the addition of externally available public cloud services. Hybrid cloud adoption depends on a number of factors such as data security and compliance requirements, level of control needed over data, and the applications an organization uses.[72]
+Another example of hybrid cloud is one where IT organizations use public cloud computing resources to meet temporary capacity needs that can not be met by the private cloud.[73] This capability enables hybrid clouds to employ cloud bursting for scaling across clouds.[4] Cloud bursting is an application deployment model in which an application runs in a private cloud or data center and "bursts" to a public cloud when the demand for computing capacity increases. A primary advantage of cloud bursting and a hybrid cloud model is that an organization pays for extra compute resources only when they are needed.[74] Cloud bursting enables data centers to create an in-house IT infrastructure that supports average workloads, and use cloud resources from public or private clouds, during spikes in processing demands.[75]
+Others[edit]
+Community[edit]
+Community cloud shares infrastructure between several organizations from a specific community with common concerns (security, compliance, jurisdiction, etc.), whether managed internally or by a third-party, and either hosted internally or externally. The costs are spread over fewer users than a public cloud (but more than a private cloud), so only some of the cost savings potential of cloud computing are realized.[4]
+Distributed[edit]
+A cloud computing platform can be assembled from a distributed set of machines in different locations, connected to a single network or hub service. It is possible to distinguish between two types of distributed clouds: public-resource computing and volunteer cloud.
+Public-resource computing – This type of distributed cloud results from an expansive definition of cloud computing, because they are more akin to distributed computing than cloud computing. Nonetheless, it is considered a sub-class of cloud computing.
+Volunteer cloud – Volunteer cloud computing is characterized as the intersection of public-resource computing and cloud computing, where a cloud computing infrastructure is built using volunteered resources. Many challenges arise from this type of infrastructure, because of the volatility of the resources used to build it and the dynamic environment it operates in. It can also be called peer-to-peer clouds, or ad-hoc clouds. An interesting effort in such direction is Cloud@Home, it aims to implement a cloud computing infrastructure using volunteered resources providing a business-model to incentivize contributions through financial restitution.[76]
+Multi[edit]
+Main article: Multicloud
+Multicloud is the use of multiple cloud computing services in a single heterogeneous architecture to reduce reliance on single vendors, increase flexibility through choice, mitigate against disasters, etc. It differs from hybrid cloud in that it refers to multiple cloud services, rather than multiple deployment modes (public, private, legacy).[77][78][79]
+Poly[edit]
+Poly cloud refers to the use of multiple public clouds for the purpose of leveraging specific services that each provider offers. It differs from Multi cloud in that it is not designed to increase flexibility or mitigate against failures but is rather used to allow an organization to achieve more that could be done with a single provider.[80]
+Big data[edit]
+The issues of transferring large amounts of data to the cloud as well as data security once the data is in the cloud initially hampered adoption of cloud for big data, but now that much data originates in the cloud and with the advent of bare-metal servers, the cloud has become[81] a solution for use cases including business analytics and geospatial analysis.[82]
+HPC[edit]
+HPC cloud refers to the use of cloud computing services and infrastructure to execute high-performance computing (HPC) applications.[83] These applications consume a considerable amount of computing power and memory and are traditionally executed on clusters of computers. In 2016 a handful of companies, including R-HPC, Amazon Web Services, Univa, Silicon Graphics International, Sabalcore, Gomput, and Penguin Computing offered a high-performance computing cloud. The Penguin On Demand (POD) cloud was one of the first non-virtualized remote HPC services offered on a pay-as-you-go basis.[84][85] Penguin Computing launched its HPC cloud in 2016 as an alternative to Amazon's EC2 Elastic Compute Cloud, which uses virtualized computing nodes.[86][87]
+Architecture[edit]
+Cloud computing sample architecture
+Cloud architecture,[88] the systems architecture of the software systems involved in the delivery of cloud computing, typically involves multiple cloud components communicating with each other over a loose coupling mechanism such as a messaging queue. Elastic provision implies intelligence in the use of tight or loose coupling as applied to mechanisms such as these and others.
+Cloud engineering[edit]
+Cloud engineering is the application of engineering disciplines of cloud computing. It brings a systematic approach to the high-level concerns of commercialization, standardization and governance in conceiving, developing, operating and maintaining cloud computing systems. It is a multidisciplinary method encompassing contributions from diverse areas such as systems, software, web, performance, information technology engineering, security, platform, risk, and quality engineering.
+Security and privacy[edit]
+Cloud suppliers security and privacy agreements must be aligned to the demand(s) requirements and requlations.
+Main article: Cloud computing security
+Cloud computing poses privacy concerns because the service provider can access the data that is in the cloud at any time.  It could accidentally or deliberately alter or delete information.[89] Many cloud providers can share information with third parties if necessary for purposes of law and order without a warrant. That is permitted in their privacy policies, which users must agree to before they start using cloud services. Solutions to privacy include policy and legislation as well as end-users' choices for how data is stored.[89] Users can encrypt data that is processed or stored within the cloud to prevent unauthorized access.[89] Identity management systems can also provide practical solutions to privacy concerns in cloud computing. These systems distinguish between authorized and unauthorized users and determine the amount of data that is accessible to each entity.[90] The systems work by creating and describing identities, recording activities, and getting rid of unused identities.
+According to the Cloud Security Alliance, the top three threats in the cloud are Insecure Interfaces and APIs, Data Loss & Leakage, and Hardware Failure—which accounted for 29%, 25% and 10% of all cloud security outages respectively. Together, these form shared technology vulnerabilities. In a cloud provider platform being shared by different users, there may be a possibility that information belonging to different customers resides on the same data server. Additionally, Eugene Schultz, chief technology officer at Emagined Security, said that hackers are spending substantial time and effort looking for ways to penetrate the cloud. "There are some real Achilles' heels in the cloud infrastructure that are making big holes for the bad guys to get into". Because data from hundreds or thousands of companies can be stored on large cloud servers, hackers can theoretically gain control of huge stores of information through a single attack—a process he called "hyperjacking". Some examples of this include the Dropbox security breach, and iCloud 2014 leak.[91] Dropbox had been breached in October 2014, having over 7 million of its users passwords stolen by hackers in an effort to get monetary value from it by Bitcoins (BTC). By having these passwords, they are able to read private data as well as have this data be indexed by search engines (making the information public).[91]
+There is the problem of legal ownership of the data (If a user stores some data in the cloud, can the cloud provider profit from it?). Many Terms of Service agreements are silent on the question of ownership.[92] Physical control of the computer equipment (private cloud) is more secure than having the equipment off-site and under someone else's control (public cloud). This delivers great incentive to public cloud computing service providers to prioritize building and maintaining strong management of secure services.[93] Some small businesses that do not have expertise in IT security could find that it is more secure for them to use a public cloud. There is the risk that end users do not understand the issues involved when signing on to a cloud service (persons sometimes do not read the many pages of the terms of service agreement, and just click "Accept" without reading). This is important now that cloud computing is common and required for some services to work, for example for an intelligent personal assistant (Apple's Siri or Google Assistant). Fundamentally, private cloud is seen as more secure with higher levels of control for the owner, however public cloud is seen to be more flexible and requires less time and money investment from the user.[94]
+Market[edit]
+According to International Data Corporation (IDC), global spending on cloud computing services has reached $706 billion and expected to reach $1.3 trillion by 2025.[95] While Gartner estimated that global public cloud services end-user spending would reach $600 billion by 2023.[96] As per a McKinsey & Company report, cloud cost-optimization levers and value-oriented business use cases foresee more than $1 trillion in run-rate EBITDA across Fortune 500 companies as up for grabs in 2030.[97] In 2022, more than $1.3 trillion in enterprise IT spending was at stake from the shift to the cloud, growing to almost $1.8 trillion in 2025, according to Gartner.[98]
+Similar concepts[edit]
+The goal of cloud computing is to allow users to take benefit from all of these technologies, without the need for deep knowledge about or expertise with each one of them. The cloud aims to cut costs and helps the users focus on their core business instead of being impeded by IT obstacles.[99] The main enabling technology for cloud computing is virtualization. Virtualization software separates a physical computing device into one or more "virtual" devices, each of which can be easily used and managed to perform computing tasks. With operating system–level virtualization essentially creating a scalable system of multiple independent computing devices, idle computing resources can be allocated and used more efficiently. Virtualization provides the agility required to speed up IT operations and reduces cost by increasing infrastructure utilization. Autonomic computing automates the process through which the user can provision resources on-demand. By minimizing user involvement, automation speeds up the process, reduces labor costs and reduces the possibility of human errors.[99]
+Cloud computing uses concepts from utility computing to provide metrics for the services used. Cloud computing attempts to address QoS (quality of service) and reliability problems of other grid computing models.[99]
+Cloud computing shares characteristics with:
+Client–server model – Client–server computing refers broadly to any distributed application that distinguishes between service providers (servers) and service requestors (clients).[100]
+Computer bureau – A service bureau providing computer services, particularly from the 1960s to 1980s.
+Grid computing – A form of distributed and parallel computing, whereby a 'super and virtual computer' is composed of a cluster of networked, loosely coupled computers acting in concert to perform very large tasks.
+Fog computing – Distributed computing paradigm that provides data, compute, storage and application services closer to the client or near-user edge devices, such as network routers. Furthermore, fog computing handles data at the network level, on smart devices and on the end-user client-side (e.g. mobile devices), instead of sending data to a remote location for processing.
+Utility computing – The "packaging of computing resources, such as computation and storage, as a metered service similar to a traditional public utility, such as electricity."[101][102]
+Peer-to-peer – A distributed architecture without the need for central coordination. Participants are both suppliers and consumers of resources (in contrast to the traditional client-server model).
+Cloud sandbox – A live, isolated computer environment in which a program, code or file can run without affecting the application in which it runs.
+See also[edit]
+Block-level storage
+Browser-based computing
+Category:Cloud computing providers
+Category:Cloud platforms
+Communication protocol
+Communications system
+Cloud collaboration
+Cloud-native computing
+Cloud-native processor
+Cloud computing security
+Cloud-computing comparison
+Cloud management
+Cloud research
+Cloud robotics
+Cloud gaming
+Cloud storage
+Cloudlet
+Computer cluster
+Cooperative storage cloud
+Decentralized computing
+Desktop virtualization
+Dew computing
+Directory
+Distributed data store
+Distributed database
+Distributed computing
+Distributed networking
+Edge computing
+Edge device
+e-Science
+File system
+Clustered file system
+Distributed file system
+Distributed file system for cloud
+Fog computing
+Fog robotics
+Green computing (environmentally sustainable computing)
+Grid computing
+In-memory database
+In-memory processing
+Internet of things
+IoT security device
+Microservices
+Mobile cloud computing
+Multi-access edge computing
+Peer-to-peer
+Personal cloud
+Robot as a service
+As a service
+Service-oriented architecture
+Time-sharing
+Ubiquitous computing
+Virtual private cloud
+Private cloud computing infrastructure
+References[edit]
+^ Ray, Partha Pratim (2018). "An Introduction to Dew Computing: Definition, Concept and Implications - IEEE Journals & Magazine". IEEE Access. 6: 723–737. doi:10.1109/ACCESS.2017.2775042. S2CID 3324933. Archived from the original on 2021-02-10. Retrieved 2021-02-12.
+^ Montazerolghaem, Ahmadreza; Yaghmaee, Mohammad Hossein; Leon-Garcia, Alberto (September 2020). "Green Cloud Multimedia Networking: NFV/SDN Based Energy-Efficient Resource Allocation". IEEE Transactions on Green Communications and Networking. 4 (3): 873–889. doi:10.1109/TGCN.2020.2982821. ISSN 2473-2400. S2CID 216188024. Archived from the original on 2020-12-09. Retrieved 2020-12-06.
+^ Wray, Jared (2014-02-27). "Where's The Rub: Cloud Computing's Hidden Costs". Forbes. Archived from the original on 2014-07-14. Retrieved 2014-07-14.
+^ a b c d e f g h i Mell, Peter; Timothy Grance (September 2011). The NIST Definition of Cloud Computing (Technical report). National Institute of Standards and Technology: U.S. Department of Commerce. doi:10.6028/NIST.SP.800-145. Special publication 800-145.
+^ White, J. E. (1971). "Network Specifications for Remote Job Entry and Remote Job Output Retrieval at UCSB". tools.ietf.org. doi:10.17487/RFC0105. Archived from the original on 2016-03-30. Retrieved 2016-03-21.
+^ Levy, Steven (April 1994). "Bill and Andy's Excellent Adventure II" Archived 2015-10-02 at the Wayback Machine. Wired.
+^ Mosco, Vincent (2015). To the Cloud: Big Data in a Turbulent World. Taylor & Francis. p. 15. ISBN 9781317250388.
+^ "Announcing Amazon Elastic Compute Cloud (Amazon EC2) – beta". 24 August 2006. Archived from the original on 13 August 2014. Retrieved 31 May 2014.
+^ Qian, Ling; Lou, Zhigou; Du, Yujian; Gou, Leitao. "Cloud Computing: An Overview". Retrieved 19 April 2021.
+^ "Windows Azure General Availability". The Official Microsoft Blog. Microsoft. 2010-02-01. Archived from the original on 2014-05-11. Retrieved 2015-05-03.
+^ "Announcing General Availability of AWS Outposts". Amazon Web Services, Inc. Archived from the original on 2021-01-21. Retrieved 2021-02-04.
+^ "Remote work helps Zoom grow 169% in one year, posting $328.2M in Q1 revenue". TechCrunch. Archived from the original on 2023-01-17. Retrieved 2021-04-27.
+^ "What is Cloud Computing?". Amazon Web Services. 2013-03-19. Archived from the original on 2013-03-22. Retrieved 2013-03-20.
+^ Baburajan, Rajani (2011-08-24). "The Rising Cloud Storage Market Opportunity Strengthens Vendors". It.tmcnet.com. Archived from the original on 2012-06-17. Retrieved 2011-12-02.
+^ Oestreich, Ken (2010-11-15). "Converged Infrastructure". CTO Forum. Thectoforum.com. Archived from the original on 2012-01-13. Retrieved 2011-12-02.
+^ Simpson, Ted; Jason Novak, Hands on Virtual Computing, 2017, ISBN 1337515744, p. 451. Archived 2023-01-17 at the Wayback Machine
+^ "Recession Is Good For Cloud Computing – Microsoft Agrees". CloudAve. 2009-02-12. Archived from the original on 2010-08-14. Retrieved 2010-08-22.
+^ a b c d "Defining 'Cloud Services' and "Cloud Computing"". IDC. 2008-09-23. Archived from the original on 2010-07-22. Retrieved 2010-08-22.
+^ "State of the Art | e-FISCAL project". www.efiscal.eu. Archived from the original on 2013-01-27. Retrieved 2012-04-19.
+^ Farber, Dan (2008-06-25). "The new geek chic: Data centers". CNET News. Archived from the original on 2013-11-04. Retrieved 2010-08-22.
+^ "Jeff Bezos' Risky Bet". Business Week. Archived from the original on 2012-06-27. Retrieved 2008-08-21.
+^ He, Sijin; Guo, L.; Guo, Y.; Ghanem, M. (June 2012). "Improving Resource Utilisation in the Cloud Environment Using Multivariate Probabilistic Models". 2012 IEEE Fifth International Conference on Cloud Computing. 2012 2012 IEEE 5th International Conference on Cloud Computing (CLOUD). pp. 574–581. doi:10.1109/CLOUD.2012.66. ISBN 978-1-4673-2892-0. S2CID 15374752.
+^ He, Qiang, et al. "Formulating Cost-Effective Monitoring Strategies for Service-based Systems." (2013): 1–1.
+^ King, Rachael (2008-08-04). "Cloud Computing: Small Companies Take Flight". Bloomberg BusinessWeek. Archived from the original on 2010-08-07. Retrieved 2010-08-22.
+^ a b Mao, Ming; M. Humphrey (2012). "A Performance Study on the VM Startup Time in the Cloud". 2012 IEEE Fifth International Conference on Cloud Computing. p. 423. doi:10.1109/CLOUD.2012.103. ISBN 978-1-4673-2892-0. S2CID 1285357.
+^ Bruneo, Dario; Distefano, Salvatore; Longo, Francesco; Puliafito, Antonio; Scarpa, Marco (2013). "Workload-Based Software Rejuvenation in Cloud Systems". IEEE Transactions on Computers. 62 (6): 1072–1085. doi:10.1109/TC.2013.30. S2CID 23981532.
+^ Kuperberg, Michael; Herbst, Nikolas; Kistowski, Joakim Von; Reussner, Ralf (2011). "Defining and Measuring Cloud Elasticity". KIT Software Quality Departement. doi:10.5445/IR/1000023476. Archived from the original on 6 April 2013. Retrieved 13 August 2011. {{cite journal}}: Cite journal requires |journal= (help)
+^ "Economies of Cloud Scale Infrastructure". Cloud Slam 2011. Archived from the original on 2021-10-27. Retrieved 13 May 2011.
+^ He, Sijin; L. Guo; Y. Guo; C. Wu; M. Ghanem (March 2012). "Elastic Application Container: A Lightweight Approach for Cloud Resource Provisioning". 2012 IEEE 26th International Conference on Advanced Information Networking and Applications. 2012 IEEE 26th International Conference on Advanced Information Networking and Applications (AINA). pp. 15–22. doi:10.1109/AINA.2012.74. ISBN 978-1-4673-0714-7. S2CID 4863927.
+^ Marston, Sean; Li, Zhi; Bandyopadhyay, Subhajyoti; Zhang, Juheng; Ghalsasi, Anand (2011-04-01). "Cloud computing – The business perspective". Decision Support Systems. 51 (1): 176–189. doi:10.1016/j.dss.2010.12.006.
+^ Why Cloud computing scalability matters for business growth Archived 2021-07-09 at the Wayback Machine, Symphony Solutions, 2021
+^ Nouri, Seyed; Han, Li; Srikumar, Venugopal; Wenxia, Guo; MingYun, He; Wenhong, Tian (2019). "Autonomic decentralized elasticity based on a reinforcement learning controller for cloud applications". Future Generation Computer Systems. 94: 765–780. doi:10.1016/j.future.2018.11.049. S2CID 59284268.
+^ Mills, Elinor (2009-01-27). "Cloud computing security forecast: Clear skies". CNET News. Archived from the original on 2020-01-28. Retrieved 2019-09-19.
+^ a b Marko, Kurt; Bigelow, Stephen J. (10 Nov 2022). "The pros and cons of cloud computing explained". TechTarget.
+^ Bratton, Benjamin H. (2015). The stack: on software and sovereignty. Software studies. Cambridge, Mass. London: MIT press. ISBN 978-0-262-02957-5.
+^ Bridle, James (2019). New dark age: technology and the end of the future. Verso.
+^ Shurma, Ramesh (8 Mar 2023). "The Hidden Costs Of Cloud Migration". Forbes.
+^ Duan, Yucong; Fu, Guohua; Zhou, Nianjun; Sun, Xiaobing; Narendra, Nanjangud; Hu, Bo (2015). "Everything as a Service (XaaS) on the Cloud: Origins, Current and Future Trends". 2015 IEEE 8th International Conference on Cloud Computing. IEEE. pp. 621–628. doi:10.1109/CLOUD.2015.88. ISBN 978-1-4673-7287-9. S2CID 8201466.
+^ Amies, Alex; Sluiman, Harm; Tong, Qiang Guo; Liu, Guo Ning (July 2012). "Infrastructure as a Service Cloud Concepts". Developing and Hosting Applications on the Cloud. IBM Press. ISBN 978-0-13-306684-5. Archived from the original on 2012-09-15. Retrieved 2012-07-19.
+^ Nelson, Michael R. (2009). "The Cloud, the Crowd, and Public Policy". Issues in Science and Technology. 25 (4): 71–76. JSTOR 43314918. Archived from the original on 2022-09-10. Retrieved 2022-09-10.
+^ Boniface, M.; et al. (2010). Platform-as-a-Service Architecture for Real-Time Quality of Service Management in Clouds. 5th International Conference on Internet and Web Applications and Services (ICIW). Barcelona, Spain: IEEE. pp. 155–160. doi:10.1109/ICIW.2010.91.
+^ "Integration Platform as a Service (iPaaS)". Gartner IT Glossary. Gartner. Archived from the original on 2015-07-29. Retrieved 2015-07-20.
+^ Gartner; Massimo Pezzini; Paolo Malinverno; Eric Thoo. "Gartner Reference Model for Integration PaaS". Archived from the original on 1 July 2013. Retrieved 16 January 2013.
+^ Loraine Lawson (3 April 2015). "IT Business Edge". Archived from the original on 7 July 2015. Retrieved 6 July 2015.
+^ Enterprise CIO Forum; Gabriel Lowy. "The Value of Data Platform-as-a-Service (dPaaS)". Archived from the original on 19 April 2015. Retrieved 6 July 2015.
+^ "Definition of: SaaS". PC Magazine Encyclopedia. Ziff Davis. Archived from the original on 14 July 2014. Retrieved 14 May 2014.
+^ Hamdaqa, Mohammad. A Reference Model for Developing Cloud Applications (PDF). Archived (PDF) from the original on 2012-10-05. Retrieved 2012-05-23.
+^ Chou, Timothy. Introduction to Cloud Computing: Business & Technology. Archived from the original on 2016-05-05. Retrieved 2017-09-09.
+^ "HVD: the cloud's silver lining" (PDF). Intrinsic Technology. Archived from the original (PDF) on 2 October 2012. Retrieved 30 August 2012.
+^ Sun, Yunchuan; Zhang, Junsheng; Xiong, Yongping; Zhu, Guangyu (2014-07-01). "Data Security and Privacy in Cloud Computing". International Journal of Distributed Sensor Networks. 10 (7): 190903. doi:10.1155/2014/190903. ISSN 1550-1477. S2CID 13213544.
+^ "Use OneDrive with Office". support.microsoft.com. Archived from the original on 2022-10-15. Retrieved 2022-10-15.
+^ Carney, Michael (2013-06-24). "AnyPresence partners with Heroku to beef up its enterprise mBaaS offering". PandoDaily. Archived from the original on 2013-06-27. Retrieved 24 June 2013.
+^ Alex Williams (11 October 2012). "Kii Cloud Opens Doors For Mobile Developer Platform With 25 Million End Users". TechCrunch. Archived from the original on 15 October 2012. Retrieved 16 October 2012.
+^ Aaron Tan (30 September 2012). "FatFractal ups the ante in backend-as-a-service market". Techgoondu.com. Archived from the original on 10 October 2012. Retrieved 16 October 2012.
+^ Dan Rowinski (9 November 2011). "Mobile Backend As A Service Parse Raises $5.5 Million in Series A Funding". ReadWrite. Archived from the original on 1 November 2012. Retrieved 23 October 2012.
+^ Pankaj Mishra (7 January 2014). "MobStac Raises $2 Million in Series B To Help Brands Leverage Mobile Commerce". TechCrunch. Archived from the original on 15 May 2014. Retrieved 22 May 2014.
+^ "built.io Is Building an Enterprise MBaas Platform for IoT". programmableweb. 2014-03-03. Archived from the original on 2014-03-06. Retrieved 3 March 2014.
+^ a b Miller, Ron (24 Nov 2015). "AWS Lambda Makes Serverless Applications A Reality". TechCrunch. Archived from the original on 23 May 2019. Retrieved 10 July 2016.
+^ "bliki: Serverless". martinfowler.com. Archived from the original on 2018-05-05. Retrieved 2018-05-04.
+^ Sbarski, Peter (2017-05-04). Serverless Architectures on AWS: With examples using AWS Lambda (1st ed.). Manning Publications. ISBN 9781617293825.
+^ "Self-Run Private Cloud Computing Solution – GovConnection". govconnection.com. 2014. Archived from the original on April 6, 2014. Retrieved April 15, 2014.
+^ "Private Clouds Take Shape – Services – Business services – Informationweek". 2012-09-09. Archived from the original on 2012-09-09.
+^ Haff, Gordon (2009-01-27). "Just don't call them private clouds". CNET News. Archived from the original on 2014-12-27. Retrieved 2010-08-22.
+^ "There's No Such Thing As A Private Cloud – Cloud-computing -". 2013-01-26. Archived from the original on 2013-01-26.
+^ Rouse, Margaret. "What is public cloud?". Definition from Whatis.com. Archived from the original on 16 October 2014. Retrieved 12 October 2014.
+^ "FastConnect | Oracle Cloud Infrastructure". cloud.oracle.com. Archived from the original on 2017-11-15. Retrieved 2017-11-15.
+^ Schmidt, Rainer; Möhring, Michael; Keller, Barbara (2017). "Customer Relationship Management in a Public Cloud environment - Key influencing factors for European enterprises". HICSS. Proceedings of the 50th Hawaii International Conference on System Sciences (2017). doi:10.24251/HICSS.2017.513. hdl:10125/41673. ISBN 9780998133102.
+^ "What is hybrid cloud? - Definition from WhatIs.com". SearchCloudComputing. Archived from the original on 2019-07-16. Retrieved 2019-08-10.
+^ Butler, Brandon (2017-10-17). "What is hybrid cloud computing? The benefits of mixing private and public cloud services". Network World. Archived from the original on 2019-08-11. Retrieved 2019-08-11.
+^ "Mind the Gap: Here Comes Hybrid Cloud – Thomas Bittman". Thomas Bittman. 24 September 2012. Archived from the original on 17 April 2015. Retrieved 22 April 2015.
+^ "Business Intelligence Takes to Cloud for Small Businesses". CIO.com. 2014-06-04. Archived from the original on 2014-06-07. Retrieved 2014-06-04.
+^ Désiré Athow (24 August 2014). "Hybrid cloud: is it right for your business?". TechRadar. Archived from the original on 7 July 2017. Retrieved 22 April 2015.
+^ Metzler, Jim; Taylor, Steve. (2010-08-23) "Cloud computing: Reality vs. fiction" Archived 2013-06-19 at the Wayback Machine, Network World.
+^ Rouse, Margaret. "Definition: Cloudbursting" Archived 2013-03-19 at the Wayback Machine, May 2011. SearchCloudComputing.com.
+^ "How Cloudbursting "Rightsizes" the Data Center". 2012-06-22. Archived from the original on 2016-10-19. Retrieved 2016-10-19.
+^ Cunsolo, Vincenzo D.; Distefano, Salvatore; Puliafito, Antonio; Scarpa, Marco (2009). "Volunteer Computing and Desktop Cloud: The Cloud@Home Paradigm". 2009 Eighth IEEE International Symposium on Network Computing and Applications. pp. 134–139. doi:10.1109/NCA.2009.41. S2CID 15848602.
+^ Rouse, Margaret. "What is a multi-cloud strategy". SearchCloudApplications. Archived from the original on 5 July 2014. Retrieved 3 July 2014.
+^ King, Rachel. "Pivotal's head of products: We're moving to a multi-cloud world". ZDnet. Archived from the original on 4 July 2014. Retrieved 3 July 2014.
+^ Multcloud manage multiple cloud accounts Archived 2023-01-17 at the Wayback Machine. Retrieved on 06 August 2014
+^ Gall, Richard (2018-05-16). "Polycloud: a better alternative to cloud agnosticism". Packt Hub. Archived from the original on 2019-11-11. Retrieved 2019-11-11.
+^ Roh, Lucas (31 August 2016). "Is the Cloud Finally Ready for Big Data?". dataconomy.com. Archived from the original on 30 January 2018. Retrieved 29 January 2018.
+^ Yang, C.; Huang, Q.; Li, Z.; Liu, K.; Hu, F. (2017). "Big Data and cloud computing: innovation opportunities and challenges". International Journal of Digital Earth. 10 (1): 13–53. Bibcode:2017IJDE...10...13Y. doi:10.1080/17538947.2016.1239771. S2CID 8053067.
+^ Netto, M.; Calheiros, R.; Rodrigues, E.; Cunha, R.; Buyya, R. (2018). "HPC Cloud for Scientific and Business Applications: Taxonomy, Vision, and Research Challenges". ACM Computing Surveys. 51 (1): 8:1–8:29. arXiv:1710.08731. doi:10.1145/3150224. S2CID 3604131.
+^ Eadline, Douglas. "Moving HPC to the Cloud". Admin Magazine. Archived from the original on 30 March 2019. Retrieved 30 March 2019.
+^ "Penguin Computing On Demand (POD)". Archived from the original on 9 March 2018. Retrieved 23 January 2018.
+^ Niccolai, James (11 August 2009). "Penguin Puts High-performance Computing in the Cloud". PCWorld. IDG Consumer & SMB. Archived from the original on 19 August 2016. Retrieved 6 June 2016.
+^ "HPC in AWS". Archived from the original on 1 December 2017. Retrieved 23 January 2018.
+^ "Building GrepTheWeb in the Cloud, Part 1: Cloud Architectures". Developer.amazonwebservices.com. Archived from the original on 5 May 2009. Retrieved 22 August 2010.
+^ a b c Ryan, Mark D. "Cloud Computing Privacy Concerns on Our Doorstep". cacm.acm.org. Archived from the original on 2021-12-28. Retrieved 2021-05-21.
+^ Indu, I.; Anand, P.M. Rubesh; Bhaskar, Vidhyacharan (August 1, 2018). "Identity and access management in cloud environment: Mechanisms and challenges". Engineering Science and Technology. 21 (4): 574–588. doi:10.1016/j.jestch.2018.05.010. Archived from the original on December 28, 2021. Retrieved July 29, 2020 – via www.sciencedirect.com.
+^ a b "Google Drive, Dropbox, Box and iCloud Reach the Top 5 Cloud Storage Security Breaches List". psg.hitachi-solutions.com. Archived from the original on 2015-11-23. Retrieved 2015-11-22.
+^ Maltais, Michelle (26 April 2012). "Who owns your stuff in the cloud?". Los Angeles Times. Archived from the original on 2013-01-20. Retrieved 2012-12-14.
+^ "Security of virtualization, cloud computing divides IT and security pros". Network World. 2010-02-22. Archived from the original on 2014-07-02. Retrieved 2010-08-22.
+^ "The Bumpy Road to Private Clouds". 2010-12-20. Archived from the original on 2014-10-15. Retrieved 8 October 2014.
+^ "IDC Forecasts Worldwide "Whole Cloud" Spending to Reach $1.3 Trillion by 2025". Idc.com. 2021-09-14. Archived from the original on 2022-07-29. Retrieved 2022-07-30.
+^ "Gartner Forecasts Worldwide Public Cloud End-User Spending to Reach Nearly $500 Billion in 2022". Archived from the original on 2022-07-25. Retrieved 2022-07-25.
+^ "Cloud's trillion-dollar prize is up for grabs". McKinsey. Archived from the original on 2022-07-25. Retrieved 2022-07-30.
+^ "Gartner Says More Than Half of Enterprise IT Spending in Key Market Segments Will Shift to the Cloud by 2025". Archived from the original on 2022-07-25. Retrieved 2022-07-25.
+^ a b c HAMDAQA, Mohammad (2012). Cloud Computing Uncovered: A Research Landscape (PDF). Elsevier Press. pp. 41–85. ISBN 978-0-12-396535-6. Archived (PDF) from the original on 2013-06-19. Retrieved 2013-03-19.
+^ "Distributed Application Architecture" (PDF). Sun Microsystem. Archived (PDF) from the original on 2011-04-06. Retrieved 2009-06-16.
+^ Vaquero, Luis M.; Rodero-Merino, Luis; Caceres, Juan; Lindner, Maik (December 2008). "It's probable that you've misunderstood 'Cloud Computing' until now". Sigcomm Comput. Commun. Rev. TechPluto. 39 (1): 50–55. doi:10.1145/1496091.1496100. S2CID 207171174.
+^ Danielson, Krissi (2008-03-26). "Distinguishing Cloud Computing from Utility Computing". Ebizq.net. Archived from the original on 2017-11-10. Retrieved 2010-08-22.
+Further reading[edit]
+Millard, Christopher (2013). Cloud Computing Law. Oxford University Press. ISBN 978-0-19-967168-7.
+Weisser, Alexander (2020). International Taxation of Cloud Computing. Editions Juridiques Libres, ISBN 978-2-88954-030-3.
+Singh, Jatinder; Powles, Julia; Pasquier, Thomas; Bacon, Jean (July 2015). "Data Flow Management and Compliance in Cloud Computing". IEEE Cloud Computing. 2 (4): 24–32. doi:10.1109/MCC.2015.69. S2CID 9812531.
+Armbrust, Michael; Stoica, Ion; Zaharia, Matei; Fox, Armando; Griffith, Rean; Joseph, Anthony D.; Katz, Randy; Konwinski, Andy; Lee, Gunho; Patterson, David; Rabkin, Ariel (1 April 2010). "A view of cloud computing". Communications of the ACM. 53 (4): 50. doi:10.1145/1721654.1721672. S2CID 1673644.
+Hu, Tung-Hui (2015). A Prehistory of the Cloud. MIT Press. ISBN 978-0-262-02951-3.
+Mell, P. (2011, September). The NIST Definition of Cloud Computing. Retrieved November 1, 2015, from National Institute of Standards and Technology website
+External links[edit]
+ Media related to Cloud computing at Wikimedia Commons
+Wikiquote has quotations related to Cloud computing.
+vteCloud computingAs a service
+Content as a service
+Data as a service
+Desktop as a service
+Function as a service
+Infrastructure as a service
+Integration platform as a service
+Backend as a service
+Network as a service
+Platform as a service
+Security as a service
+Software as a service
+Technologies
+Cloud database
+Cloud storage
+Data centers
+Distributed file system for cloud
+Hardware virtualization
+Internet
+Native cloud application
+Networking
+Security
+Structured storage
+Virtual appliance
+Web APIs
+Virtual private cloud
+Applications
+Box
+Cloud-native processor
+Dropbox
+Google
+Workspace
+Drive
+HP Cloud (closed)
+IBM Cloud
+Microsoft
+Office 365
+OneDrive
+Nextcloud
+Oracle Cloud
+Rackspace
+Salesforce
+Workday
+Zoho
+Platforms
+Alibaba Cloud
+Amazon Web Services
+AppScale
+Box
+CloudBolt
+Cloud Foundry
+Cloud-native processor
+Cocaine (PaaS)
+Creatio
+Engine Yard
+Helion
+GE Predix
+Google App Engine
+GreenQloud
+Heroku
+IBM Cloud
+Inktank
+Jelastic
+Microsoft Azure
+MindSphere
+Netlify
+Oracle Cloud
+OutSystems
+openQRM
+OpenShift
+PythonAnywhere
+RightScale
+Scalr
+Force.com
+SAP Cloud Platform
+Splunk
+Vercel
+vCloud Air
+WaveMaker
+Infrastructure
+Alibaba Cloud
+Amazon Web Services
+Abiquo Enterprise Edition
+CloudStack
+Citrix Cloud
+Deft
+DigitalOcean
+EMC Atmos
+Eucalyptus
+Fujitsu
+Google Cloud Platform
+GreenButton
+GreenQloud
+IBM Cloud
+iland
+Joyent
+Linode
+Lunacloud
+Microsoft Azure
+Mirantis
+Netlify
+Nimbula
+Nimbus
+OpenIO
+OpenNebula
+OpenStack
+Oracle Cloud
+OrionVM
+Rackspace Cloud
+Safe Swiss Cloud
+Zadara
+libvirt
+libguestfs
+OVirt
+Virtual Machine Manager
+Wakame-vdc
+Vercel
+Virtual Private Cloud OnDemand
+ Category
+ Commons
+vteParallel computingGeneral
+Distributed computing
+Parallel computing
+Massively parallel
+Cloud computing
+High-performance computing
+Multiprocessing
+Manycore processor
+GPGPU
+Computer network
+Systolic array
+Levels
+Bit
+Instruction
+Thread
+Task
+Data
+Memory
+Loop
+Pipeline
+Multithreading
+Temporal
+Simultaneous (SMT)
+Speculative (SpMT)
+Preemptive
+Cooperative
+Clustered multi-thread (CMT)
+Hardware scout
+Theory
+PRAM model
+PEM model
+Analysis of parallel algorithms
+Amdahl's law
+Gustafson's law
+Cost efficiency
+Karp–Flatt metric
+Slowdown
+Speedup
+Elements
+Process
+Thread
+Fiber
+Instruction window
+Array
+Coordination
+Multiprocessing
+Memory coherence
+Cache coherence
+Cache invalidation
+Barrier
+Synchronization
+Application checkpointing
+Programming
+Stream processing
+Dataflow programming
+Models
+Implicit parallelism
+Explicit parallelism
+Concurrency
+Non-blocking algorithm
+Hardware
+Flynn's taxonomy
+SISD
+SIMD
+Array processing (SIMT)
+Pipelined processing
+Associative processing
+MISD
+MIMD
+Dataflow architecture
+Pipelined processor
+Superscalar processor
+Vector processor
+Multiprocessor
+symmetric
+asymmetric
+Memory
+shared
+distributed
+distributed shared
+UMA
+NUMA
+COMA
+Massively parallel computer
+Computer cluster
+Beowulf cluster
+Grid computer
+Hardware acceleration
+APIs
+Ateji PX
+Boost
+Chapel
+HPX
+Charm++
+Cilk
+Coarray Fortran
+CUDA
+Dryad
+C++ AMP
+Global Arrays
+GPUOpen
+MPI
+OpenMP
+OpenCL
+OpenHMPP
+OpenACC
+Parallel Extensions
+PVM
+pthreads
+RaftLib
+ROCm
+UPC
+TBB
+ZPL
+Problems
+Automatic parallelization
+Deadlock
+Deterministic algorithm
+Embarrassingly parallel
+Parallel slowdown
+Race condition
+Software lockout
+Scalability
+Starvation
+ Category: Parallel computing
+Authority control International
+FAST
+National
+Spain
+France
+BnF data
+Germany
+Israel
+United States
+Japan
+Czech Republic
+Other
+IdRef
+2
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Cloud_computing&oldid=1172764180"
+Categories: Cloud computingCloud infrastructureHidden categories: Webarchive template wayback linksCS1 errors: missing periodicalArticles with short descriptionShort description is different from WikidataWikipedia indefinitely move-protected pagesArticles prone to spam from January 2017Use American English from April 2020All Wikipedia articles written in American EnglishWikipedia articles needing factual verification from July 2015All articles with unsourced statementsArticles with unsourced statements from July 2015Commons category link from WikidataArticles with FAST identifiersArticles with BNE identifiersArticles with BNF identifiersArticles with BNFdata identifiersArticles with GND identifiersArticles with J9U identifiersArticles with LCCN identifiersArticles with NDL identifiersArticles with NKC identifiersArticles with SUDOC identifiers
+ This page was last edited on 29 August 2023, at 04:42 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

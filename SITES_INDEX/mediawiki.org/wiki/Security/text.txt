@@ -1,0 +1,84 @@
+Security/SOP/Access to Phabricator Security Issues - MediaWiki
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageGet MediaWikiGet extensionsTech blogContribute
+Support
+User helpFAQTechnical manualSupport deskCommunication
+Development
+Developer portalCode statistics
+MediaWiki.org
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+In other languages
+Add links
+Search
+Search
+ EnglishCreate accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+Beginning
+1Purpose
+2Procedure
+3Access Review
+4Definitions
+Toggle the table of contents
+Toggle the table of contents
+Security/SOP/Access to Phabricator Security Issues
+PageDiscussion
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+From mediawiki.org
+< Security‎ | SOP
+SOP Name: WIKISEC-PHABSECACCESS-SOP
+SOP Description: Process to gain access to sensitive and nonpublic issues in Phabricator
+Authority: Director of Security
+Last reviewed on: 28 February 2019
+Author(s): Wikimedia Security Team
+Data Classification: Public
+Purpose[edit]
+Access to view and edit private Security issues in Phabricator by default is limited, and granted on an as-needed basis at the discretion of the Wikimedia Security Team. Access to individual tasks related to a particular issue or incident does not, by itself, constitute the need for access to all Security issues.
+Procedure[edit]
+Create a Phabricator account
+Sign a volunteer non-disclosure agreement or a WMF employee non-disclosure agreement. If you're already a working WMF employee, you have likely already signed an NDA as part of your Terms of Employment and can skip this.  Real names are required at this step for NDA/Legal purposes, but are only visible to required personnel.
+Set up Two-Factor Authentication for your Phabricator account under Settings → Authentication → Multi-Factor Auth.
+If you are a WMF employee then link your Staff SUL account that ends in (WMF) or -WMF to your Phabricator account. This should be created for you during the onboarding process by OIT.
+Submit an access request, supplying your Phabricator username, and the reason(s) you need access to private Security issues in Wikimedia Phabricator. Do not include private information in the access request.
+If you are a WMF employee then your manager and the Security Team will sign off on your access.  If you are not a WMF employee then access is granted at the discretion of the Security team.  Please note that in the latter case, there may be both a lengthier time period for approval and more onerous requirements for approval.
+Requests are reviewed on a weekly basis in the Security Team clinic meeting, which is usually on Monday of each week.
+Access Review[edit]
+On certain occasions, Phabricator security access may be reviewed by the Security Team and revoked if it is determined that an individual or entity has abused, been negligent with or no longer requires said security access.  These audits are meant to be performed annually at a minimum.
+Definitions[edit]
+Phabricator: Bug/Task tracking software used by Wikimedia Foundation and community
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Security/SOP/Access_to_Phabricator_Security_Issues&oldid=5982804"
+Categories: Wikimedia Security TeamSecurity
+ This page was last edited on 15 June 2023, at 11:06.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About MediaWiki.org
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

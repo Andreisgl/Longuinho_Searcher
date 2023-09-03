@@ -1,0 +1,144 @@
+Reporting security bugs - MediaWiki
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageGet MediaWikiGet extensionsTech blogContribute
+Support
+User helpFAQTechnical manualSupport deskCommunication
+Development
+Developer portalCode statistics
+MediaWiki.org
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+In other languages
+Add links
+Search
+Search
+ EnglishCreate accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+Beginning
+1What is considered a security issue
+2Reporting a security issue
+3What to include in a security issue report
+4What happens when security issues are reported
+5Crediting reporters
+6Tracking report remediation
+7Contributing patches
+8Related security content
+Toggle the table of contents
+Toggle the table of contents
+Reporting security bugs
+PageDiscussion
+English
+ReadView sourceView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadView sourceView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+From mediawiki.org
+Translate this pageLanguages:Bahasa Indonesia
+Deutsch
+English
+Nederlands
+Türkçe
+Zazaki
+brezhoneg
+español
+français
+italiano
+magyar
+português do Brasil
+čeština
+русский
+العربية
+हिन्दी
+বাংলা
+中文
+日本語
+This is the process for reporting security issues in software and services maintained or operated by Wikimedia Foundation. This includes MediaWiki and Wikimedia projects such as Wikipedia.
+We support responsible disclosure and we hope that anyone who finds a potential security issue in our ecosystem acts with discretion and forbearance.
+What is considered a security issue
+This is a general outline and not an exhaustive listing of the scope of this process.
+Issues that affect the availability of one of more services that are part of the Wikimedia ecosystem, but in particular when this is the result of a hostile set of actions or campaign.
+When the integrity of data hosted by the Wikimedia Foundation or affiliated entities is at risk of being corrupted, tampered with, or otherwise modified in an unauthorized manner.
+When the confidentiality of data owned by the Wikimedia Foundation or its affiliated entities is compromised, such that information meant to be restricted or private is leaked, revealed, stolen, or exfiltrated in an unauthorized manner.
+Reporting a security issue
+To report an issue, email security@wikimedia.org or use the Report Security Issue form on Phabricator.
+Such reports will not be publicly visible at the time of reporting. See below for further process once issues are resolved.
+What to include in a security issue report
+Step-by-step instructions to reproduce the issue
+If possible, proof-of-concept code demonstrating the issue is a best practice
+If the vulnerability can be reproduced on a Wikimedia project (such as Wikipedia or Wiktionary) please indicate which as site configurations vary
+If applicable, indicate if you are logged in or logged out when the issue occurs
+For XSS or vulnerabilities that require a specific browser or plugin, please indicate which browser and version you are using. The specific version of any software used will be helpful.
+OWASP vulnerability category (using OWASP Top 10 for 2017), or CWE id (using CWE By Research Concepts)
+CVE if assigned (using the NIST CVE database)
+Any other information needed to investigate and reproduce the issue
+If you report the vulnerability by email to security@wikimedia.org, let us know if you have a Wikimedia Phabricator account as we will add you to the bug we create, so you can track the status.
+Phabricator accounts can be created using an existing SUL Wiki account.
+What happens when security issues are reported
+We will:
+Determine whether we consider it to be a security issue
+Attempt to reproduce the issue, and assign a priority to the bug based on its impact.
+A patch will be added in Phabricator, and another person will review it.
+The patch should contain regression tests, whenever possible.
+The patch will be deployed on the Wikimedia cluster, and access to the patch will be given to a few trusted partners and distributors.[citation needed]
+If applicable, the patch will be included in the next release of MediaWiki. If the impact of the vulnerability is especially bad, or we have indication that it is being actively exploited, we will make a special security release of MediaWiki to ensure third parties are protected.
+Unless you explicitly indicate that certain information must not be published, we will make the Phabricator ticket public when the fix is released, and credit you in the release announcement. If you report the issue via email to securitywikimedia.org the email itself may be publicly released. This may include your email address and signature unless you request otherwise. The Phabricator tag PermanentlyPrivate will ensure reports are kept confidential in perpetuity.
+Crediting reporters
+Credit will be given to the reporter in the commit message fixing the issue
+Credit will be given to the reporter in the official announcement email going to the MediaWiki-announce mailing lists
+Credit will be given on Wikimedia Security Team/Thanks for vulnerabilities in MediaWiki core or a bundled library, skin, or extension.
+Currently, there is no budget for security reports. This means no bounties are paid by Wikimedia Foundation for discovering security bugs on these projects, either in money or in merchandise.
+Tracking report remediation
+When possible during the remediation process, the security bugs should have comments that include:
+Step-by-step instructions to reproduce further issues
+Links to the commits that introduced the bug
+Links to the Gerrit changesets that fixes the bug
+Reporter access to their own authored reports is standard, but to gain access to security protected issues generally there is a separate process
+Contributing patches
+If you would like to provide a patch for a security bug, please add it as an attachment to the Phabricator task. You can either drag-and-drop the patch into the comment area, or include a diff of the patch as a comment.
+Please do not submit patches to Gerrit. All Gerrit changes (including "drafts") are publicly accessible.
+See Creating a Security Patch section on wikitech for steps to create these patches, and Security patches section for how these patches are deployed.
+Related security content
+Project
+Use by Wikimedia Security Team
+mediawiki.org 
+General content for Policy, SOPs, etc. Official Security team page .
+wikitech.wikimedia.org
+Procedural or instructional material that is not training.
+meta.wikimedia.org
+Policy and other content for translation.
+office.wikimedia.org
+Sensitive or private content. Must have an NDA and appropriate access.
+foundation.wikimedia.org
+Canonical location for policies.
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Reporting_security_bugs&oldid=6022021"
+Categories: Wikimedia Security TeamSecurity
+ This page was last edited on 11 July 2023, at 10:41.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About MediaWiki.org
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

@@ -1,0 +1,275 @@
+Gerrit/Privilege policy - MediaWiki
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageGet MediaWikiGet extensionsTech blogContribute
+Support
+User helpFAQTechnical manualSupport deskCommunication
+Development
+Developer portalCode statistics
+MediaWiki.org
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+In other languages
+Add links
+Search
+Search
+ EnglishCreate accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+Beginning
+1Rights and responsibilities
+Toggle Rights and responsibilities subsection
+1.1Merging without review
+1.2Intra-team review and shared ownership
+1.3Must read for code reviewers
+2Requesting Gerrit privileges
+3Expedited process for trusted organisations
+4Revocation
+Toggle Revocation subsection
+4.1Requesting revocation
+5Amendments to this policy
+6Definitions
+Toggle the table of contents
+Toggle the table of contents
+Gerrit/Privilege policy
+shortcut: Gerrit/+2
+PageDiscussion
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+From mediawiki.org
+< Gerrit
+Translate this pageLanguages:Bân-lâm-gú
+Deutsch
+English
+Türkçe
+français
+čeština
+русский
+বাংলা
+中文
+日本語
+ Gerrit 
+How Gerrit works 
+Gerrit tutorial 
+Web tutorial 
+Advanced usage 
+Navigation 
+Code review guide 
+New repositories 
+Troubleshooting 
+Common questions (FAQ) 
+Privilege policy 
+more... »
+v · d · e
+This page documents an official Wikimedia development policy. There is no current mechanism to make changes, as the TechCom RFC process is defunct.
+Development policies
+Development policy 
+Architecture principles 
+Services policy 
+Support policy for PHP 
+Gerrit privilege policy 
+Stable interface policy 
+MediaWiki database policy 
+See also
+Development guidelines 
+v · d · e
+Rights and responsibilities[edit]
+Most Wikimedia Gerrit repositories are configured such that when a user gives a "+2" code review, Jenkins will automatically merge the change after running tests.
+So the right to give a +2 code review is restricted to people in particular Gerrit groups.
+Typically, there is a Gerrit group named after each repository which grants privileges on that repository.
+Also, some Gerrit groups grant privileges on multiple repositories.
+Most notably, the mediawiki group grants privileges on the MediaWiki core and all extensions and skins, as well as some other MediaWiki-related repositories.
+Gerrit groups can derive their members from LDAP groups.
+Most WMF employees are in the wmf group in LDAP, which automatically grants them membership of the mediawiki group.
+Gerrit administrators are able to add and remove members from Gerrit groups.
+Merging a change to the MediaWiki core or an extension deployed by Wikimedia is a big deal.
+The change will be automatically deployed to the Beta Cluster , a virtualised staging environment, as soon as it's been merged in Gerrit .
+It will also be automatically picked up in the next MediaWiki core deployment window (see Deployments) unless it is reverted before the release branch is cut.
+Your merge could cause Wikipedia or other sites to fail.
+It could create a security vulnerability that allows attackers to delete or corrupt data, or to gain access to private information.
+And in the more common case, it could cause Technical debt  to increase if the code doesn't have tests, is poorly implemented or poorly socialised.
+You should carefully read this document and all relevant policies before using +2.
++2 is a strong expression of trust, and trust is maintained through good judgement and careful action.
+In code review, design discussions, and bug comments, those with +2 power have a special responsibility to see from others' points of view.
+Merging without review[edit]
+Merging code without review is bad for code quality and bad for morale.
+The point of +2 rights is to separate development and code review.
+The purpose of merging a change in Gerrit is to tell the world that "Yes, I've ensured that this change follows MediaWiki conventions, good engineering practices and is sensible."
+(Cf. "Code Reviews: Just Do It" by Jeff Atwood.)
+Inline comments can be used to indicate issues with the code that should be addressed before it is merged.
+Merging your own code without approval from a reviewer may be grounds for revocation of privileges.
+This is not necessarily the same as giving +2 to a Gerrit change owned by yourself.
+For example:
+If a change receives +2 from a reviewer, but the Jenkins build fails, the owner might need to give it +2 to restart the build job.
+Reverts can generally be self-merged, as long as the commit it is reverting was recent. You are reverting to a version which was presumably reviewed at the time.
+In deployment branches and the Puppet repository, changes are merged by the person doing the deployment, who is often also the author. In these cases, code review is typically indicated by giving +1 to the change.
+A commit in Gerrit may have two authors: an owner, and a reviewer who uploads an amendment. Typically, the owner and reviewer each review the other's work. As long as all the changes have been reviewed and approved, the commit may be merged.
+Very few changes are trivial enough to self-merge.
+Self-merging is tolerated in some cases like trivial documentation changes or projects with only one maintainer.
+For extensions (and other projects) not deployed to the Wikimedia cluster, the code review policy is up to the maintainer or author of the extension.
+Some non-Wikimedia extensions follow Wikimedia's policy of prohibiting self-merges, but there is no requirement of that.
+If you are the only person writing the extension and have nobody to review your change, or if the extension is abandoned, it is acceptable to self-merge your changes.
+Intra-team review and shared ownership[edit]
+If you're working as part of a team, review by members of your team are not only permitted, but strongly encouraged.
+Having peers review your code on an ongoing basis is a great way to keep momentum of development going, and ensure that your reviewers are familiar with what you're doing.
+When you're doing intra-team review, be especially sensitive about blind spots, cognitive biases, and the need to get buy-in for large changes outside the group of people you're working in.
+Most open source projects, including MediaWiki, are full of abandoned efforts to create fancy new abstraction layers, skinning systems, testing frameworks, etc.
+Consider the impact of your changes on the ecosystem as a whole, and engage in conversations through requests for comment, wikitech-l, IRC and other venues.
+Shared ownership of code (to a greater or lesser degree) helps to ensure that what you're doing has lasting long term value.
+Must read for code reviewers[edit]
+Code review guide 
+Security for developers 
+Manual:Coding conventions  - and subpages
+Manual:Unit testing  - and related pages
+Localisation 
+Database optimization  - keep this in mind when making schema changes (which should be implemented following this process)
+Manual:How to debug 
+Requesting Gerrit privileges[edit]
+To request membership in the mediawiki group, create a new task under the MediaWiki-Gerrit-Group-Requests project in Phabricator.
+Then send an email to the wikitech-l mailing list.
+To request membership in another group,  create a new task under the Gerrit-Privilege-Requests project in Phabricator.
+In either case, the Phabricator task should specify:
+Gerrit username
+repository or repositories to which access is required
+reasoning, including links to patches written and reviewed
+Developers commenting on a privilege request should consider whether the applicant has contributed high quality patches, has exercised +1 rights well, and has demonstrated competence.
+Negative comments should be written with tact, they should not be overly strident.
+If there is a consensus of trusted developers on the Phabricator task, any of the Gerrit administrators can resolve the request.
+The task must remain open for at least a week, to allow interested developers to comment.
+Additional time should be allowed if the request is open during travel or holiday periods.
+If there is no consensus on a request in Phabricator, it may be referred to TechCom for adjudication.
+Previously, some extension maintainers were given ownership rights on the relevant project in Gerrit, so that they could add new group members without making a request in Phabricator.
+This model should not be used for new extensions.
+Gerrit administrators should not grant repository ownership to ordinary developers.
+Before an extension is deployed to the Wikimedia cluster for the first time, the rights should be audited, and legacy ownership privileges should be downgraded to +2 access.
+Expedited process for trusted organisations[edit]
+Gerrit administrators may immediately act on requests from the following trusted organisations for the granting and revocation of membership in their managed groups, specifically:
+Organisation
+Managed groups
+Wikimedia Deutschland
+wmde, wmde-mediawiki
+ShoutWiki
+ShoutWiki, Brickimedia
+Hallo Welt!
+bluespice
+WikiTeq
+WikiTeq
+It is not necessary to file a Phabricator task or demonstrate consensus.
+This facility is intended to allow these organisations to rapidly on-board staff members, who are assumed to be trusted by virtue of the hiring process.
+It also allows trusted organisations to grant access to volunteers who are well known and trusted by those organisations.
+WMF employees may be added to the wmf group in LDAP when they are hired.
+Wikimedia Deutschland employees may be added to the wmde group in LDAP when they are hired.
+TechCom, or the CTO in consultation with TechCom, may direct a Gerrit administrator to add any person to a Gerrit group.
+Revocation[edit]
+Revocation of Gerrit rights is permitted in the following circumstances:
+In an emergency, such as a compromised account, Gerrit administrators may revoke access immediately, at their discretion. Reversal of emergency revocation may be done at the administrator's discretion if the emergency is judged to have passed. TechCom, or the CTO in consultation with TechCom, may review an emergency revocation and direct its reversal.
+Revocation of privileges of a WMF employee may be directed by that employee's manager, in consultation with WMF Talent and Culture, as discussed in the Staff Handbook.
+Revocation of privileges from any person may be directed by TechCom, or by the CTO in consultation with TechCom.
+The reasons for revocation may include:
+Merging bad code
+Merging your own code without review
+Failing to socialise high impact changes within the development community
+Not following the guidelines above
+Inappropriate behaviour, in particular, violating the Code of Conduct
+Termination of employment or contract
+It is WMF policy to revoke all privileges when staff members depart, even if those privileges were granted prior to the beginning of employment by virtue of volunteer work.
+Consistent application of this policy helps to protect the privacy of departing staff members: no fault is implied.
+If departed staff members wish to continue to contribute in a volunteer capacity, they may reapply for access by the usual process.
+Requesting revocation[edit]
+Emergency revocation should be requested by directly contacting a Gerrit administrator, for example using IRC.
+Revocation for reasons of competence or behaviour should generally be handled in private, following a defined escalation path.
+For more details, refer to the following table:
+Scenario
+Action
+A developer uploads and self-merges plainly malicious code.
+Contact a Gerrit administrator for emergency revocation.
+A developer shows a pattern of merging flawed changes, without proper review.
+A developer repeatedly merges their own code, in violation of community norms.
+If the developer is an employee of WMF or a trusted organisation, report the problem to their manager.
+If the manager's response was unsatisfactory, or if the developer is not an employee, report the problem to TechCom.
+If TechCom's response is unsatisfactory, you may report the problem to the CTO.
+A developer uses their +2 access to bully or intimidate developers seeking review.
+Other behaviour issues or Code of Conduct violations.
+If the developer is an employee of WMF or a trusted organisation, and you feel comfortable doing so, report the problem to their manager.
+Otherwise, report the problem either to TechCom or to the Code of Conduct committee.
+If the committee's response is unsatisfactory, you may report the problem to the CTO.
+Amendments to this policy[edit]
+Amendments to this policy must be approved by the CTO, in consultation with TechCom.
+Definitions[edit]
+CTO
+The Chief Technology Officer of the Wikimedia Foundation.
+TechCom
+The Wikimedia Technical Committee. For TechCom to decide or direct something means that a meeting of the committee, by remote audio/video conference or in person, with the attendance of a quorum of at least half of TechCom's members, passes a resolution by simple majority or unanimous consent.
+vteDevelopment guidelines Policies
+Development policy 
+Architecture principles 
+Services policy 
+Support policy for PHP 
+Gerrit/Privilege policy 
+Stable interface policy 
+MediaWiki database policy 
+General guidelines
+Security for developers 
+Performance guidelines
+Commit message guidelines 
+Security checklist for developers 
+Localisation 
+Design style guide 
+Documentation/Style guide 
+Accessibility guide for developers 
+Inclusive language 
+Guidelines for a healthy code review culture 
+Collaborative programming 
+Best practices for extensions 
+Pre-commit checklist 
+Code conventions
+All languages 
+PHP 
+PHPUnit 
+JavaScript 
+CSS 
+Selenium 
+Lua 
+Python 
+Java 
+SVG 
+Vue 
+Database schemas 
+Analytics (Python, R, SQL) 
+API client code
+Standards for API client libraries 
+Drafts
+Code documentation 
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Gerrit/Privilege_policy&oldid=6074780"
+Categories: Development guidelinesGerrit
+ This page was last edited on 20 August 2023, at 02:34.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About MediaWiki.org
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

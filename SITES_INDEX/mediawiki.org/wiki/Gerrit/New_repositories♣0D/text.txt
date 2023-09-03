@@ -1,0 +1,130 @@
+Gerrit/New repositories - MediaWiki
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageGet MediaWikiGet extensionsTech blogContribute
+Support
+User helpFAQTechnical manualSupport deskCommunication
+Development
+Developer portalCode statistics
+MediaWiki.org
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+In other languages
+Add links
+Search
+Search
+ EnglishCreate accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+Beginning
+1Step 0: Evaluation
+2Step 1: Get Git access
+3Step 2: Request a Git repository
+4Step 3: Commit your files
+5Step 4: Publish an extension page
+Toggle Step 4: Publish an extension page subsection
+5.1Templates to use
+6Step 5: Continue development and enjoy!
+Toggle Step 5: Continue development and enjoy! subsection
+6.1Getting notified of changes in your repository
+7See also
+Toggle the table of contents
+Toggle the table of contents
+Gerrit/New repositories
+PageDiscussion
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+From mediawiki.org
+< Gerrit
+Translate this pageLanguages:British English
+Deutsch
+English
+français
+čeština
+日本語
+ Gerrit 
+How Gerrit works 
+Gerrit tutorial 
+Web tutorial 
+Advanced usage 
+Navigation 
+Code review guide 
+New repositories 
+Troubleshooting 
+Common questions (FAQ) 
+Privilege policy 
+more... »
+v · d · e
+This page is about requesting the creation of a new code repository.
+All new code repositories are Git repositories in Gerrit .
+If you want to be a project owner (to be able to review a patch as +2 and merge it) of an existing code repository in Gerrit, see Gerrit/Privilege policy .
+Step 0: Evaluation[edit]
+You may check if you are interested in Gerrit or if you may prefer GitLab  (available since 2021).
+Note that GitLab allows to create personal repositories without a formal request process.
+Step 1: Get Git access[edit]
+To commit and review Git commits, we use Gerrit. You can login to Gerrit using your Wikimedia developer account.
+Anybody can create a Wikimedia developer account if you don't have one yet.
+Step 2: Request a Git repository[edit]
+Main page: Gerrit/New repositories/Requests
+You'll need the following:
+Wikimedia developer account,
+Decide on an appropiate repository name (and by implication, its parent namespace in Gerrit), e.g. mediawiki/extensions/Example).
+Phabricator project, or see  creating new project to request a new one.
+Request new repository
+Step 3: Commit your files[edit]
+Main page: Gerrit/Tutorial#How to submit a patch
+Once you have some files, you can commit them and continue your work utilizing Git.
+Step 4: Publish an extension page[edit]
+Main page: Manual:Developing extensions#Publishing
+To autocategorize and standardize the documentation of your existing extension, please see Template:Extension .
+To add your new extension to this Wiki:
+Templates to use[edit]
+{{Extension}}
+{{WikimediaDownload}}
+{{ExtensionInstall}}
+{{Gitweb}}
+{{MW file}} - used in the Manual
+...
+Step 5: Continue development and enjoy![edit]
+You could also try to find a couple of established MediaWiki developers to look over your code and point out any flaws in it, for example by asking on the wikitech-l  mailing list.
+Getting notified of changes in your repository[edit]
+Other people may submit patches to your repository which you should review. 
+You can have new changes in your repository emailed to you by Gerrit.
+See Gerrit/watched projects .
+If you want to be automatically added as a reviewer to each new patchset (or a subset by regex), add yourself to the Gerrit reviewer bot.
+See also[edit]
+Manual:Extensions  - extension or library development guidelines (coding conventions, architecture, license, security, etc.)
+Git/Creating new repositories  - Technical instructions for Gerrit administrators who create repositories
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Gerrit/New_repositories&oldid=6084615"
+Category: Gerrit
+ This page was last edited on 28 August 2023, at 13:34.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About MediaWiki.org
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

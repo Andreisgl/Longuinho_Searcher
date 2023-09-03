@@ -1,0 +1,115 @@
+Developers - MediaWiki
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageGet MediaWikiGet extensionsTech blogContribute
+Support
+User helpFAQTechnical manualSupport deskCommunication
+Development
+Developer portalCode statistics
+MediaWiki.org
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+In other languages
+العربيةDeutschEnglishEspañolEestiItaliano日本語한국어LatviešuNederlandsPolskiРусскийУкраїнська
+Edit links
+Search
+Search
+ EnglishCreate accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+Beginning
+1Maintainers
+2History
+3See also
+Toggle the table of contents
+Toggle the table of contents
+Developers
+PageDiscussion
+English
+ReadView sourceView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadView sourceView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+Wikimedia CommonsMeta-WikiWikipedia
+From mediawiki.org
+Translate this pageLanguages:Bahasa Indonesia
+Bân-lâm-gú
+Deutsch
+English
+Nederlands
+Tiếng Việt
+Türkçe
+español
+euskara
+français
+italiano
+oʻzbekcha / ўзбекча
+polski
+português do Brasil
+suomi
+svenska
+čeština
+русский
+العربية
+বাংলা
+ไทย
+中文
+日本語
+Poster "sign-in" during the first conference for MediaWiki developers, which took place on December 29, 2004 in Berlin, Germany.
+Developers are the people contributing to the code of MediaWiki software.
+They commit changes to the central Git repository by pushing changes for review in Gerrit  where the latest copy of the software is stored.
+Developers include paid Wikimedia Foundation staff and volunteers.
+Anyone can submit a patch for review after creating a Developer account  (but only maintainers can merge it).
+For statistics or names, see Development statistics.
+Developers are not to be confused with system administrators, who are people having shell or root access to Wikimedia Foundation servers, where the code repository is stored.
+They might not really be developers; in many cases they rarely use their commit access, or if they do, only to maintain non-MediaWiki things in the repository.
+Maintainers
+A maintainer of a specific project (including MediaWiki core or an extension) has +2 access to the relevant Git repository, so that they can merge patches others submitted.
+They usually regularly respond to bug reports and changeset review requests.
+A list of maintainers are kept at Developers/Maintainers.
+History
+Historically, developers also managed Wikimedia Foundation servers (now managed by system administrators).
+Before bureaucrat and steward groups were created, developers were the only ones able to promote and demote sysops, and lock user accounts (before the "block" feature of MediaWiki existed).
+Thus they had an important role in the Wikimedia power structure.
+From April 2006 to March 2012, Subversion was used.
+Only people with Subversion commit access (which must be approved by SVN administrators) could submit code changes.
+Code changes submitted to Subversion was merged to MediaWiki codebase immediately (though they could only be manually deployed to Wikimedia wikis by a system administrator), and may have been reviewed by "coders" before they are deployed.
+In January 2013, the MediaWiki SVN repository was made read-only.
+All active projects have moved to Git.
+See also
+Developer account 
+Development policy 
+How to become a MediaWiki hacker 
+Gerrit's list of MediaWiki group members (core developers with +2 on all MediaWiki repositories).
+New Developers 
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Developers&oldid=5779227"
+Category: MediaWiki development
+ This page was last edited on 16 February 2023, at 21:53.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About MediaWiki.org
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

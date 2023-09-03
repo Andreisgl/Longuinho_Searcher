@@ -1,0 +1,16 @@
+https://developer.wikimedia.org/
+https://www.wikidata.org/wiki/Special:NewItem?site=mediawikiwiki&page=Security%2FSOP%2FAccess+to+Phabricator+Security+Issues
+https://phabricator.wikimedia.org/
+https://wikitech.wikimedia.org/wiki/Volunteer_NDA
+https://phabricator.wikimedia.org/settings/panel/multifactor/
+https://phabricator.wikimedia.org/maniphest/task/edit/form/1/?title=Security%20Issue%20Access%20Request%20for%20(Your%20Phabricator%20Username)&description=Phabricator%20Username:%0a%0aReasons%20For%20Request:&tags=security,security-team
+https://www.mediawiki.org/w/index.php?title=Security/SOP/Access_to_Phabricator_Security_Issues&oldid=5982804
+https://creativecommons.org/licenses/by-sa/4.0/deed.en
+https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct
+https://developer.wikimedia.org
+https://stats.wikimedia.org/#/www.mediawiki.org
+https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+https://wikimediafoundation.org/
+https://www.mediawiki.org/

@@ -1,0 +1,487 @@
+Phabricator/Help - MediaWiki
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageGet MediaWikiGet extensionsTech blogContribute
+Support
+User helpFAQTechnical manualSupport deskCommunication
+Development
+Developer portalCode statistics
+MediaWiki.org
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+In other languages
+Add links
+Search
+Search
+ EnglishCreate accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+Beginning
+1Creating your account
+Toggle Creating your account subsection
+1.1Using your global wiki account
+1.2Using your Wikimedia developer account
+1.3Multi-factor authentication
+1.4Troubleshooting
+1.4.1Accessing Phabricator
+1.4.2Email addresses
+1.4.3Changing accounts
+1.4.4Other issues
+2Receiving updates and notifications
+Toggle Receiving updates and notifications subsection
+2.1Troubleshooting
+2.2Creating more complex rules for notifications (Herald)
+3Creating a task
+Toggle Creating a task subsection
+3.1Selecting projects
+3.2Setting task priority
+3.3Using email
+3.4Passing certain values in the task creation URL
+4Task status and life cycle
+5Assigning yourself a task
+6Commenting and editing a task
+Toggle Commenting and editing a task subsection
+6.1Changing a task's subtype
+7Formatting and markup
+8Uploading file attachments
+Toggle Uploading file attachments subsection
+8.1File visibility
+8.2File management
+8.3File access security
+9Project management
+Toggle Project management subsection
+9.1Requesting a new project
+9.1.1When do you need a project?
+9.2Parent tasks and subtasks
+9.3Prioritization
+9.4Assignment
+9.5"Tracking" tasks
+10Searching for items
+Toggle Searching for items subsection
+10.1Search context (global vs advanced)
+10.2Search terms
+10.3Alternatives ways to find something
+10.4Selecting Dates and Date Ranges
+10.5Saving and Managing Searches/Queries
+10.6Finding the Maniphest task corresponding to a Bugzilla bug number
+11Advanced features
+Toggle Advanced features subsection
+11.1Using Dashboards
+11.2Batch edits
+11.3Favorites
+11.4Personal lists of items
+11.5Phabricator badges
+11.6Restricting access to tasks
+11.6.1New tasks
+11.6.2Security issues
+11.6.3Existing tasks
+11.6.4Displaying and using a Space
+11.7MediaWiki templates and links
+11.8Statistics
+11.9Exporting task data
+11.10Code browsing (Diffusion)
+11.11Default fields (Forms)
+11.12API (Conduit)
+11.13Phatality
+11.14Automated Regular Search Summaries
+11.15Get Notified about new UBN Tasks
+12Other links
+Toggle the table of contents
+Toggle the table of contents
+Phabricator/Help
+PageDiscussion
+English
+ReadView sourceView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadView sourceView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+From mediawiki.org
+< Phabricator
+Translate this pageLanguages:Bahasa Indonesia
+Deutsch
+English
+Lëtzebuergesch
+Nederlands
+dansk
+español
+français
+italiano
+magyar
+oʻzbekcha
+polski
+português
+português do Brasil
+suomi
+svenska
+čeština
+русский
+українська
+עברית
+اردو
+العربية
+سنڌي
+فارسی
+پښتو
+हिन्दी
+বাংলা
+ଓଡ଼ିଆ
+ไทย
+中文
+日本語
+ꯃꯤꯇꯩ ꯂꯣꯟ
+조선말
+한국어
+Phabricator is for software bug reports, feature requests, and planning work.
+To ask technical questions about Wikimedia projects, see m:Tech
+To ask technical questions about MediaWiki in non-WMF installations, see Project:Support desk
+Dear Phabricator user, if you have questions, please ask on the Discussion page. We improve our documentation based on the feedback received.
+If you want to test Phabricator, use the Cloud Services instance.
+(The test instance is unfortunately not always online.)
+For a basic overview what Phabricator is and can do, watch the tutorial videos on Wikimedia Commons:
+Basics and Environment
+Tasks
+Projects and Workboards
+Searching and Listing Tasks
+Individual Productivity
+There are also slides if you have a low bandwidth.
+Or keep reading this page to dive right in and get started.
+Creating your account
+You can connect your new Phabricator account to either your global Wikimedia wiki account or your Wikimedia developer account. In both cases, no separate password is needed.
+Using your global wiki account
+First, make sure you are logged in to Wikimedia. If you don't have a Wikimedia account yet, sign up for one.
+Go to the Phabricator login page.
+Click the button that says "Login or Register - MediaWiki".
+The MediaWiki.org site will ask you to approve connecting your account to Phabricator.
+Phabricator will ask you for a username. When in doubt, you can use your Wikimedia username, but note that Phabricator usernames cannot include non-ASCII characters such as العَرَبِيةُ or 中华民族 or Xï, nor spaces. Instead of a space, use an underscore "_". You will also need to provide a valid email address for verification, but your address will not be visible to other users.[1]
+Click on Manage in the navigation bar on the left or in the pop-down menu under your blank profile picture (in the upper bar, to the left of the search field).
+Click Edit Profile and fill in the "Also Known As" field (for example, with your full name) to make it easier for others to find you.
+Using your Wikimedia developer account
+If you have a Wikimedia developer account — also known as an LDAP account, Gerrit account or Wikitech account — you can use it to log in as well. A single Phabricator username can have both MediaWiki.org and LDAP connected. This can function as a backup in the unlikely event that Wikimedia SUL (your global wiki account) is not working. If you are WMF staff or contractor, please do also connect your Wikimedia SUL account (your global wiki account) created by WMF ITS.
+Connect your Wikimedia SUL and LDAP accounts only to a single Phabricator username! Otherwise you will end up creating two separate Phabricator accounts.
+Multi-factor authentication
+We discourage the use of multi-factor authentication on Wikimedia Phabricator, except for users who have access to Security tasks, tasks that require having an NDA in place, and administrators. If you still intend to use multi-factor authentication, please first read the multi-factor authentication guidelines and requirements, after which you can set it up if desired.
+Troubleshooting
+Accessing Phabricator
+Due to persistent abuse, some IPs from specific countries (such as Egypt) are blocked from accessing Phabricator. Some proxies, some VPNs and some Tor exit nodes are also blocked. When accessing Phabricator using these IPs, users will see an HTTP error (500 or 501). If your IP is blocked, and you cannot find a usable proxy to access Phabricator, you can contact securitywikimedia.org to request whitelisting your IP.
+If you find that your Phabricator account has been disabled, please add a note on Talk:Phabricator/Help.
+Email addresses
+If you can't verify your Phabricator account because you entered an incorrect email address, please add a note on Talk:Phabricator/Help. (If that's not possible, contact the Bugwrangler.) We can't correct your email address for you, but we can delete your account to allow you to register again.
+If you see the error "Email address already taken" when trying to create a Phabricator account on the page "Login or Register - MediaWiki", you have likely already registered a Phabricator account with such email address. You may recover that account using this link.
+Changing accounts
+To change your Phabricator username, please add a note on Talk:Phabricator/Help and include a link to your Phabricator profile.
+You can change the global wiki account or developer account connected to your Phabricator account via "refresh account" link.
+Other issues
+To claim your old Bugzilla and/or RT account(s), click this link.
+Receiving updates and notifications
+Phabricator notifies you about relevant activity, including your own actions.
+Phabricator offers several tools to receive the notifications you wish to receive.
+If you are interested in a single object (a task, a mockup…) just click Subscribe in its page. Adding a comment will subscribe you automatically.
+If you are interested in all the activity within a project, you can click Watch Project on the project summary page. There is more information in the Projects user guide under "Watching Projects".
+See Phabricator/Help/Managing mail  for reducing the amount of mail notifications and about filtering mail notifications.
+Troubleshooting
+If you receive unexpected mail notifications for a task:
+You might be subscribed to the task.
+You might be a member of a project or of a subproject associated to that task. A list of all projects that you are a member of is available.
+You might watch a project associated to that task. A list of all projects that you watch is available.
+In your email preferences under "Maniphest Tasks", you might have enabled "One of a task's subtasks changes status".
+You might have a personal Herald rule set up. Check the "X-Herald-Rules" message header field to see a list of all applied Herald rules.
+If nothing helps, check the "X-Phabricator-Stamps" message header field for further information. See Phabricator/Help/Managing mail .
+Creating more complex rules for notifications (Herald)
+You can create custom (personal) notification rules in Wikimedia Phabricator's Herald. This is a more advanced option and can be difficult to use and should be used carefully due to performance reasons.
+Creating a task
+One of the Task creation forms. This is the "Simple Form".
+Creating a task or reporting a bug can be tricky—for a step-by-step guide and particularly how to word it and give the most information, and therefore get the best outcome, see How to report a bug .
+There are several ways to create a task, depending on the information you want to carry:
+A new task: click the Bookmark button toward the right side of the top navigation bar.  From the dropdown menu, choose Create Task. You will get a blank form.
+A security problem: click the Bookmark button toward the right side of the top navigation bar. From the dropdown menu, choose Report Security Issue. You will get a form pre-tagged with Security, and with a link to special instructions for filing security bugs.
+A subtask of an existing task: click Edit Related Tasks… > Create Subtask located in the right column of the current task. The dependency between both tasks will be set, and some values of the parent task will be carried by default (Assigned To, Subscribers, Priority, Projects). The connection between two tasks will be shown in the "Task Graph". Please review and adjust the project tags and the subscribers before creating a subtask!
+Fill the form, leaving the fields you are not sure about unchanged.
+Phabricator supports some formatting in text areas. See #Formatting and markup.
+Use the live preview at the end of the page to check whether your text looks as you expect.
+Selecting projects
+In order to relate a task with a project (tag) that uses Phabricator, you just need to start typing its name in the Tags field and select the project from the list of matching projects (the list will only show five matching projects). You can search for projects and read short project descriptions by clicking the magnifier icon in the Tags field. You can add one or more projects to the Tags field. If you are unsure, you can also leave it empty — triagers will take care of tasks that have no project set. There is a (long) list of projects available. Press Edit Query to search for projects. (This list is also available at Phabricator/Projects.)
+Setting task priority
+Priority should normally be set by product managers, maintainers, or developers who plan to work on the task, or by the bugwrangler or experienced community members, not by the reporter filing the bug report or by outside observers. See Phabricator project management for details.
+Using email
+You can also create tasks by sending email to task@phabricator.wikimedia.org. The subject will be used as the task title, the body will be used directly as is, and attachments will be included on the task. To set a project, add the corresponding command "!projects" and its hashtag at the beginning of the body, e.g., !projects #mediawiki-general.
+Further commands to set the task assignee, priority or status via email are available.
+Note: if your email signature is not formatted following de facto standards (including "-- " to be separated from the body text) it will be posted as well. You are encouraged to remove private information from your signature in your first attempt, just to be sure.
+Passing certain values in the task creation URL
+"Report a bug in Phabricator" link can pass numerous values via URL parameters appended to the generic task creation link.
+This is a very advanced feature. Learn more here.
+Another option is to request a custom form for task creation which also supports setting a task subtype (e.g. "bug report" or "feature request"). See custom forms.
+Task status and life cycle
+See Bug report life cycle for the meaning of the Status field values.
+To close a task as a duplicate of another task, select "Edit Related Tasks… > Close As Duplicate" in the side bar.
+Assigning yourself a task
+To assign yourself a task:
+Go to the task
+Click "Edit Task" in the Actions sidebar on the right.
+Add your username to the "Assigned To" field
+Click "Save Changes" at the bottom
+Commenting and editing a task
+To reply, you need an account as well.
+Phabricator allows you to post and edit comments and descriptions using text formatting and inserting images or other files; see Uploading file attachments. You can use toolbar at the top of the input text area and you can use Phabricator's own formatting.
+Use the live preview at the end of the page to check whether your text looks as you expect.
+To edit the description of a task, select "Edit Task" in the side bar.
+Changing a task's subtype
+The subtype can be edited via the comment area's "actions" section:
+Example of changing Phabricator ticket subtype
+Formatting and markup
+Phabricator supports some formatting in text areas.
+Note that Phabricator's own markup language is different from MediaWiki's markup.
+Popular use of markup includes:
+Mentioning users as in @username will create a link to their profile and will subscribe them to the task.
+Adding a task number as in T123 will create a link to the task including a hover card. {T123} inserts the title of the task in your text.
+Adding a project name as in #Project will create a link to the project main page.
+If you want to quote text, you can simply add ">" at the beginning. If you want to reply a comment including it as a quote, click the drop down arrow at the right end of the comment you want to reply.
+If you want to display an uploaded mockup image file, e.g., like M123, embedded in your comment, write {M123}.
+If you want to create an external link, e.g. [https://www.mediawiki.org example] in wiki markup, use Markdown syntax in Phabricator: [example](https://www.mediawiki.org)
+If you want to add a web address (URL link) in a comment for example to provide a testcase, copy and paste the full web address from your web browser's address bar, e.g., https://www.mediawiki.org/wiki/Project:Support_desk. Do not use mw:Project:Support desk. Interwiki prefixes like mw: are not supported in Phabricator.
+If you want to paste lines of code, add a line with three backticks before and after the code: ```. You can also indent two spaces. Or create a Paste and link to the Paste from the task.
+Use [ ] item to define list items with checkboxes in the task description. Change it to [X] item to resolve a list item.
+Uploading file attachments
+ Warning: You should upload patches for review to Gerrit , unless it is a security patch.
+ Warning: Phabricator file uploads inherit permissions from the tasks to which they are posted, which often makes them publicly-viewable. See below for more details.
+There are several ways to upload files: You can add a file (for example a screen photo) to a comment or a task description via drag and drop with your mouse. Users can also copy and paste images via the clipboard functionality of their system.
+You can also click the "cloud" icon while editing / creating / commenting on a task and use the dialog. 
+If this is not available on your system you can use https://phabricator.wikimedia.org/file/upload/ and refer to the file number (like "123") that is shown after a successful upload by writing F123 in a comment. This will create a link to the file. To include the file in the comment, enclose the ID in braces: {F123}.
+Per default it's included as thumbnail.
+For more formatting options, see Formatting and markup.
+If you have to upload files frequently and consider the currently available options uncomfortable, you could also add a text panel to your homepage with a direct link.
+The size of the uploaded files is limited to ~4 MB.[2]
+File visibility
+Files uploaded through https://phabricator.wikimedia.org/file/upload/ always become public, visible to everyone.
+(Keep this in mind in case e.g. the file is related to a restricted security ticket.)
+Files uploaded while editing/creating/commenting on a task are private, and visible to no one except the file's uploader, until they are attached to the task (at which point those who can see the task can also see the file).
+Tracked in PhabricatorTask T310833
+Attaching the file to the task usually happens automatically when you save your changes, but it is possible to bypass this by accident – for example, by uploading the files on one task, then cutting-and-pasting the resulting {F...} markup into another task.
+When this happens, you (the uploader) will still be able to see the file, but no one else will see it.
+To resolve this problem, find the "Referenced Files" section in the task's sidebar, then click "File Not Attached" on the files marked in red and follow the scary prompts to attach it.
+Steps to fix file visibility
+Others can't view the file
+You can view the file
+Attaching dialog
+Grant permission dialog
+Confirmation on the task
+Others can view the file now!
+File management
+If you ever need to delete a file that you uploaded, open the list of files you authored, select the file and click "Delete File" in the sidebar.
+You can also change the visibility of a file by viewing its page (such as https://phabricator.wikimedia.org/F35287447), then clicking "Edit File" in the sidebar and changing the "Visible To" field.
+File access security
+Note that anyone with the full URL to a file (such as https://phab.wmfusercontent.org/file/data/svlzontonhy6xxdjxwga/PHID-FILE-zbgqfq7jqirt2s24y5e3/red.png, not https://phabricator.wikimedia.org/F35287447) can download the file or share the link with others.
+There is no authentication protecting these file URLs from being accessed.
+Phabricator files rely entirely on security through obscurity; guessing the (pseudo-random) URL for any given file would be very difficult, if not impossible.
+If you need more protection for particularly sensitive files then you should consider a more secure alternative.
+Project management
+Read Phabricator/Project management for essential information on maintaining and managing projects, e.g. on using project workboards, common practices, and agile workflows.
+In Phabricator projects are tags and tags are projects. A project can have a workboard. Hierarchy via sub-projects and milestones is available.[3] Tasks can be assigned to more than one project.
+Requesting a new project
+See Phabricator/Requesting a new project.
+When do you need a project?
+In general, you need a project…
+when you have an established team running one or several projects (start here, ask more only when you need more)
+when you need a workboard (i.e. a sprint)
+when you need a tag or keyword to organize a type of task that can be part of any project (for example "Accessibility")
+Parent tasks and subtasks
+Tasks can be a parent task or a subtask of any number of other tasks. If Task A cannot be solved until Task B is solved, then Task A is the parent task and Task B is the subtask. Such relations can be set via "Edit Related Tasks…". Parent tasks and subtasks are displayed under "Task Graph" in the task. This feature can be used to accomplish a few different things:
+Blockers and Subtasks. A (parent) task might simply be blocked by another (sub)task, representing a dependency (see how to add a subtask).
+Tracking. A "workless" (parent) task blocked by several (sub)tasks might be tracking a collection of (sub)tasks within a release or other time period. Note that "Tracking" here has a different meaning from the deprecated #Tracking tag in Phabricator.
+Approval. Several (parent) tasks (such as draft team goals) might be blocked by a single (sub)task which represents the draft tasks getting approved, after which those draft goals are now real goals.
+NOTE: There is an "Edit Related Tasks… > Create Subtask" feature. In addition to setting up the correct parent/subtask relationship, it also carries the CC (subscription) list into the new subtask; the downside of this is that it can create a lot of unwanted noise in other people's email, forcing them all to manually unsubscribe; it is sometimes better to manually create the new task, and then manually mark it as a subtask, thus letting other people subscribe if they want to.
+Prioritization
+See Phabricator/Project management#Setting task priorities
+Assignment
+See Phabricator/Project management#Assigning tasks
+"Tracking" tasks
+The term "tracking task" was brought over from Bugzilla, where it had a specific meaning: A task which was blocked on other tasks, but which itself did not represent any work, and which was not tied to a specific release/date. An example might be a task named "Clean up the documentation", which might then have a variety of subtasks, each of which would describe specific work to be done. These "tracking" tasks tended to stick around for a long time (or forever), as their subtasks would get resolved but new ones would get created. In Phabricator, projects are favored over 'tracking tasks' with dependencies.
+Note, however, that there are other types of work-less umbrella tasks which do still make sense in Phabricator. Notably, "Release" tasks. An upcoming release could be represented by a task, which lists as subtasks all the actual work tasks which are targeted for that release. Once the release goes out, it can be resolved. A similar use would be to have a task which represents a teams overall goals for the quarter, and then each goal might (or might not) be a blocking subtask.
+Searching for items
+Search context (global vs advanced)
+Phabricator consists of several applications (task management in "Maniphest" being one of them, or Diffusion for code browsing).
+There are 2 different search forms:
+The global search at https://phabricator.wikimedia.org/search/query/advanced/, confusingly labeled "advanced search". This one is fairly simple. It is in the upper right corner. By default, it searches across all applications and hence all types of documents (open tasks, closed tasks, code commits, etc…). You can change the default context using the arrow menu to the left of the search bar. For example, select "Open Tasks" to only show results in open tasks from the Maniphest issue tracker. Or select "Current Application" to search Maniphest in Maniphest, Diffusion in Diffusion etc. Tags specified are unioned (OR'd).
+Advanced, application specific search, for example at https://phabricator.wikimedia.org/maniphest/query/advanced/ for Maniphest. This one has more fields, and auto-completion that includes "Not in:..." (equivalent to NOT) and "In any:..." (equivalent to OR) (for example, type "echo" in the "Tags" field). There is also an advanced search for most other applications (e.g. phab:file/query/advanced for Files). To only search for tasks / bug reports, use the Maniphest advanced search. Tags specified are intersected (AND'd).
+Inside Maniphest, custom, saved searches and advanced search options are listed in the navigation bar on the left.
+Search terms
+Special care needs to be put in choosing correct search terms.
+Some locally-valid properties for the "Query" field:
+Case insensitive: Edit is the same as eDIt
+phrase search works: "fatal error"
+basic tokenization is performed, e.g. to strip punctuation
+Stemming is performed: "edited" is also found when searching for edit. However, "edited" does not match edit as quoted text does not stem.
+Substring search is supported: ~amp matches example, but amp does not.
+~"an examp" matches an example as quoted and substring-operator text uses substring search.
+Boolean queries to exclude certain terms are possible by using the - symbol before the unwanted term. E.g. use -non fatal error to exclude "non-fatal" errors from results.
+To only search in a task title but not in the task description or comments, use title:quick ferret which is the same as title:quick title:ferret. To search for one term in the task title and other terms anywhere in a task, use ferret title:quick or title:quick all:ferret. See https://secure.phabricator.com/book/phabricator/article/search/ for more information.
+The advanced search forms are not explicit about the logic but in general use AND between different fields.
+You can exclude specific projects from the results by entering not(projectname) (equivalent to NOT) and combine several projects via any(projectname) (equivalent to OR) via the auto-completion suggestions.
+There's a limit of 5 items in the maniphest autocomplete.
+To increase this limit, see these userscripts for Chrome and for Firefox.
+You can search for specific task IDs by leveraging a hidden "IDs" field, revealed when a search URL takes the following format:
+https://phabricator.wikimedia.org/maniphest/?ids=1,2,3,4#R
+After the field is revealed, while you can still get results by manipulating the URL directly, you can also input directly into the field.
+The format is the number of the task only (removing the typical "T" prefix), comma-separated.
+This can be useful if you are pasting tasks from another place, such as a spreadsheet or database.
+Another way to reveal the "IDs" field on various search forms is by enabling the "Expert Mode" checkbox in your phabricator user settings.
+To enable expert mode, first visit https://phabricator.wikimedia.org/settings/ and then click the "Developer Settings" menu on the left sidebar.
+Alternatives ways to find something
+If you don't remember the exact words used in an item you are looking for you can follow one of these paths:
+use the activity feed and edit the query to be restricted to certain projects or timeframes
+use the activity feed to list all actions that you performed in a certain timeframe at phab:feed/query/EW2FwdAi.Kfz/
+use an external search engine;
+remove all search terms, refine the search only by project etc. and then scan all the possible results manually or use Ctrl+F to search specific strings (this might require setting "Page Size" to a high value to display more than only 100 results);
+file a new task, mentioning that a past report exists as well, and wait for someone to merge the new report to the old.
+Selecting Dates and Date Ranges
+This is only available in the Advanced Search.
+Using the Date fields like "Created After" and "Created Before" allow entering absolute and relative dates. Note that Maniphest uses UTC. 
+To get a list of tasks which were created in the last 24 hours, set the "Created After" field to "-24 hours" or "-1 day". Note that "Updated Before" actually means "Last updated before" and that absolute date values like "2014-11-26" refer to UTC time while your time zone setting might be different.
+The "Updated After" and "Updated Before" fields return any and all changes to a task.
+For example, when a task is moved to another column in a board it registers as "updated". This may add noise to your search results.
+Examples of how Maniphest interprets searches:
+"02/25/2015" - interpreted as "00:01 on February 25th, 2015" (UTC)
+"5 days ago" - interpreted as "00:01 on the fourth calendar day before today" (UTC)
+"2:45 AM 5 days ago" - interpreted as "02:45 on the fourth calendar day before today" (UTC)
+The "X days ago" range can be confusing. Phabricator interprets today as part of any data set. Even if it is 12:30 UTC, Phabricator will interpret that as a potential day in the range.
+Saving and Managing Searches/Queries
+Queries can be saved and managed inside Maniphest.
+Maniphest offers links to some predefined search queries in the navigation bar on the left. For example, click authored to get a list of tasks that you have created.
+Search query addresses (URL) are stable so you can save and reuse them. You can share the address in your web browser's address bar with other people, e.g. via posting the link on a wikipage.
+If you want to save a search, select the "Save Query" button at the bottom of the Advanced Search UI. 
+When looking at the navigation bar on the left in Maniphest, click on the "Edit Queries…" link. You will see a list of your saved queries. All users have a default set which can be deleted in this UI.
+Some options in this UI:
+Use the line elements on the left to drag queries up and down in the list.
+The "x" will permanently delete a Query.
+The Pencil icon allows a user to edit the name of a query
+Clicking on the name of a Query will bring up the search options and results of that query
+Once you save a query, you cannot change its parameters, but you can change its name. To edit a query, click on it's name, change parameters and save it as a new query. Also, Phabricator allows users to save multiple queries with the same name.
+To make the user name dynamic (e.g. for "Tasks assigned to the person running this query") in searches that you'd like to share with others, select Authors > Magnify glass icon > Browse Users > "Current viewer".
+Note that some common queries are also available in the "Activity" tabs on the Phabricator frontpage.
+Finding the Maniphest task corresponding to a Bugzilla bug number
+This is only available in the Advanced Search.
+All Phabricator tasks migrated in 2014 from Bugzilla have a Reference field that contains a value "bz" followed by the number of the equivalent report in Bugzilla.
+If you want to search the task corresponding to a specific Bugzilla report, use the Reference field in the advanced search or just add 2000.
+Advanced features
+Using Dashboards
+Dashboards are specially designed home pages which can display a wide range of custom information.  They can be created, managed and shared between users. 
+Click here for a detailed Dashboard walkthrough.
+Batch edits
+Phabricator offers the possibility to perform mass/bulk edits for tasks.
+At the end of any Maniphest search query you will find a "Batch Edit Selected" to edit all the tasks you have selected using Shift-click.
+Users willing to use this feature need to join the Triagers group.
+Note: to see more than 100 tasks at a time, you can update Page Size in the query.
+Batch editing can be reversed by noting the "Bulk Job" ID that is generated at the start of a Batch Edit. This can be accessed by clicking "Details" before or after executing. On the following page, there will be a "Continue" menu item to the right, which will generate a Maniphest query of all the affected tasks.
+If you have to perform the very same 'uninteresting' action on a lot of tasks (cleanup or reorganizing project structures) and you do not want to trigger notifications, ask someone with CLI server access (people listed under "phabricator-admin" or "phabricator-roots") to silence that specific batch edit before running it, so no notifications will be triggered for that batch edit. Silent batch-moves of tasks from one column to another column (via "Move tasks to column…" in the column header dropdown) on the same workboard are not supported as of July 2020.
+Please be mindful about silencing a batch edit.
+For example, silencing is usually not appropriate for closing tasks as task subscribers would expect to get a notification.
+Favorites
+The Bookmark menu toward the right side of the top navigation bar can be customized with links to your preferred forms and actions.
+See the Profile Menu instructions for more information.
+Personal lists of items
+The "Flag For Later" functionality offers marking objects (like tasks or revisions) which "you want to remember to look at later". Eight flag colors are available. Flags are personal and private so your lists cannot be shared with others. Your flagged objects are listed on flag. They can be searched by color or object type, in contrast to tokens.
+Phabricator badges
+Badges are awarded to users to distinguish certain people or people in a particular group.
+Currently all active badges can only be awarded by administrators.
+Restricting access to tasks
+New tasks
+Access to a task that you plan to create can be restricted to a list of specific users by changing the "Visible To" field to something else than "Public".
+Note that setting "All Users" on a task will not restrict access to a task, as everybody can simply create an account and then still access a task with that visibility.
+To avoid vandalism, this "Visible To" field is only available to users who are members of some ACL projects or WMF-NDA. A list of all projects that you are a member of is available.
+If you are a member of the #WMF-NDA project tag, then access to a task that you plan to create can be restricted to members of the #WMF-NDA project by clicking the Bookmark dropdown in the top bar and selecting "NDA Protected Task".
+Security issues
+If you want to file a new Security issue, you must follow Reporting security bugs to make sure that the initial task is not public!
+An existing task can be converted into a Security issue via "Protect as security issue" in the side bar.
+Existing tasks
+Access to an existing task can be changed via "Edit Task" and then changing the "Visible To" field to something else than "Public".
+Note that setting "All Users" on a task will not restrict access to a task, as everybody can simply create an account and then still access a task with that visibility.
+To avoid vandalism, this "Visible To" field is only available to users who are members of some ACL projects or WMF-NDA. A list of all projects that you are a member of is available.
+Displaying and using a Space
+Spaces (upstream documentation) allow restricting access to groups of objects (like tasks) to members of a specific group only. See Restricting access via Space policies for setting up.
+If you can access at least two spaces, you see an additional Spaces dropdown under "Visible To" when creating and editing an object. Users with access to only one space will not see this control.
+In Maniphest's task view, the Space will also be displayed in front of the task summary. You can batch-edit tasks to move them to a different Space.
+Note that you will still have to associate the corresponding "public" project (if existing) to a task to make a task in a restricted Space (which you have access to) to show up in search queries and the workboard of the project. The "public" project could be automatically added via requesting a global Herald rule.
+When creating tasks in Spaces, use the "Create Advanced Task" option in the "Create Task" dropdown.
+This option will display an additional Spaces dropdown under "Visible To" in the task creation UI that will allow you to set visibility to the Space for which this task should be visible.
+If you instead create a task via the "Create Simple Task" option in the "Create Task" dropdown, then after you create it, you will have to edit the task to restrict visibility to members of the Space.
+Before this edit, the task will be visible to anyone and notifications about your task might have been sent to public logged IRC channels and other subscribed individuals.
+Task creation view when having access to at least two Spaces
+Task view when the task is in a non-public Space
+Workboard view of two tasks in a non-public Space
+MediaWiki templates and links
+Main page: Help:Interwiki linking
+Tracked in PhabricatorTask T177Resolved
+You can link to Phabricator tasks from wiki pages (via interwiki linking) using phabricator: and its shorter version phab:, for instance [[phab:T454|example]] generates example.
+Template:Tracked has been updated to include links to Phabricator objects — see at the right how {{Tracked|T177|resolved}} is rendered.
+Template:Phabricator is also available; {{Phabricator|T176}} generates task T176.
+Existing Bugzilla links and templates will still work, because those links will continue to point to bugzilla.wikimedia.org which will redirect them to the converted Phabricator task.
+Statistics
+On every project page you find a "Reports" link in the sidebar.
+This is mostly useful for team projects.
+It offers information on task throughput, age of tasks, workload per assignee, distribution of open tasks per workboard column, a burndown chart, and an  activity chart.
+You can also filter the data for a certain time period.
+Apart from that, Phabricator doesn't support further statistics, metrics, charts, reports (e.g. over time) or however you may call them, whether built-in or via an API.[4]
+Phabricator also offers tables showing the open tasks by priority and by either user or project.
+Some additional overall statistics can be found in the "Phabricator monthly statistics" emails sent to wikitech-l.
+Exporting task data
+The results of an Advanced Search query on phab:maniphest/query/advanced/ can be exported to CSV and JSON formats. Use the "Use Results ▶  Export Data" in the upper right corner. If you are on the workboard of a project, the column header dropdown menu allows you to "View Tasks as Query" per column.
+Code browsing (Diffusion)
+Further information: Phabricator/Diffusion
+Diffusion is the Phabricator repository browser[5]. Another option is using gitiles at https://gerrit.wikimedia.org/r/plugins/gitiles/?format=HTML for repository read-only mirroring. Right now, we're mirroring some of our Git repositories to Phabricator for demonstration purposes.
+To request and set up a new code repository, see Gerrit/New repositories/Requests.
+Default fields (Forms)
+Further information: Phabricator/Help/Forms
+Phabricator allows some customization of the fields shown for a given task, prefilled values for fields, and setting a task subtype (e.g. "bug report" or "feature request"). These are handled via the Forms feature.
+API (Conduit)
+Conduit is the name of the web API. https://phabricator.wikimedia.org/conduit/ offers some explanation and examples. See the Conduit upstream documentation.
+See also Phabricator/Bots .
+Phatality
+Phatality is a plugin for the Wikimedia production Logstash installation which makes it easier to create Phabricator tasks for production errors.
+See Introducing Phatality.
+Automated Regular Search Summaries
+You can get a regular email with the results of a saved Phabricator query.
+The emails are currently delivered by the PhabSearchEmail tool maintained by RhinosF1 on a weekly or monthly basis although, more frequenices can easily be added.
+To request a summary email, fill out this form and let RhinosF1  know your email.
+Get Notified about new UBN Tasks
+See Setup UBN Notifications
+Other links
+↑ However, if you have made commits to any repositories mirrored in Phabricator (regardless of whether the commit was in Gerrit or elsewhere), other users will be able to see the connection between the account  and the email address.
+↑ 
+phab:T243113#5814392
+↑ T3670 (subprojects), on the upstream Phabricator instance
+↑ 
+T13279 (statistics), on the upstream Phabricator instance
+↑ Diffusion repository browser user guide, on the upstream Phabricator instance
+Other subpages
+OAuth consumer phabricator-production, use Special:OAuthManageMyGrants to manage connected apps
+Phabricator etiquette
+How to report a bug 
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Phabricator/Help&oldid=6087439"
+Category: Phabricator
+ This page was last edited on 30 August 2023, at 16:10.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About MediaWiki.org
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

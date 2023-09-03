@@ -1,0 +1,91 @@
+Bug management/Bug report life cycle - MediaWiki
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageGet MediaWikiGet extensionsTech blogContribute
+Support
+User helpFAQTechnical manualSupport deskCommunication
+Development
+Developer portalCode statistics
+MediaWiki.org
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+In other languages
+Add links
+Search
+Search
+ EnglishCreate accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+Beginning
+1Completing tasks
+2When can I use the fix
+Toggle the table of contents
+Toggle the table of contents
+Bug management/Bug report life cycle
+PageDiscussion
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+From mediawiki.org
+< Bug management
+Translate this pageLanguages:Bahasa Indonesia
+Bân-lâm-gú
+Deutsch
+English
+español
+français
+čeština
+中文
+日本語
+This page describes the life of a task (bug report, feature requests, etc.) in Phabricator .
+When a task is first created, it is given the Open status.
+When a task is actively being worked on, it can be given the In Progress status.
+When a specific developer plans to work or works on a task, ideally the specific developer is set as assignee on the task.
+If an initial patch for a task has been put into the Gerrit code review tool, the project Patch-For-Review is automatically added to the task. (See Gerrit/Commit message guidelines .)
+Closing a task:
+A task is given the Resolved status when a code change that fixes the task has been merged in Gerrit. This does not mean that the fix is immediately available on a Wikimedia website as it can take up to two weeks.
+A task is given the Declined status when the problem can not be reproduced, when missing information has not been provided, or when an acceptable workaround exists to achieve a similar outcome as requested. This status is also set when there's a consensus that implementing a particular task would be a bad idea. For example, when a task contradicts a particular project's scope or the principles of the project and fixing would be barred from approval by the project's maintainers (or product managers, if existing). Depending on the specifics, a user preference, a global configuration variable, a re-implementation, or forking the code can be alternatives to marking a task as declined.
+A task is given the Invalid status when the task does not describe an actual wrong behavior, or when it is a change that is outside the power of the component's developers. For example, tasks proposing changes to third-party software or third-party website settings are INVALID, as well as requests contrary to legal or contractual obligations.
+A task is given the Duplicate status when the task has been reported before and has been merged into another task, no matter if the other task has been already resolved or not.
+Optionally the keyword Verified is set if a QA tester or the task author confirmed the merged fix in Gerrit after it had been deployed.
+If a task was marked as Resolved and it turns out that this was incorrect, the task's status can be changed back to Open.
+If a task is waiting for further input (e.g. from the task author or a third party like upstream) and can currently not be acted on, the Stalled status is temporarily given. The Stalled status can also be given when a task is waiting for its subtask(s) to be resolved first.
+Completing tasks[edit]
+Different teams complete the work on tasks differently, see Phabricator/Project management .
+Some move it to a Done column on a project workboard after QA and product management have reviewed the change, and only change the task status to Resolved when they complete the current "sprint" or when the code is available in production.
+Others change the task status to Resolved the moment a code change that completes a task is merged, leaving its tags and workboard column unchanged.
+When can I use the fix[edit]
+The short answer for Wikimedia websites is: Somewhere between a week and three weeks after the task has been closed as Resolved.
+For details, see wikitech:Deployments.
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Bug_management/Bug_report_life_cycle&oldid=5995831"
+Categories: BugzillaPhabricator
+ This page was last edited on 21 June 2023, at 06:24.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About MediaWiki.org
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width
