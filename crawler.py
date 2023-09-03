@@ -262,10 +262,14 @@ def pathfinder(ammount_to_search):
     # appends them to the 'incoming_url_list',
     # and does the same to the following URLs in the list
     # Searches the ammount of links defined in 'ammount_to_search'
+    # Pages are handled in parallel, thanks to multi-core processing
+    # from the 'multiprocessing' library. This one is a life-changer!
 
-    # For every valid link visited, its data pack will be saved to a list
-    # so it can be indexed without having to extract the data again.
-    # 'page_saver()' will gather the data of this list and index it.
+    # Every valid link visited is automatically indexed as it is tapped into.
+    # This does not mean all crawled pages will be indexed, as
+    # there are many errors that can happen along the way that can keep them
+    # from being properly saved. When possible, the links inside them
+    # will still be extracted and used for the crawling.
 
     global seed_list
 
