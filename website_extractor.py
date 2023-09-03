@@ -57,7 +57,11 @@ def page_extractor(search_url):
 # URLs
 def parse_urls(raw_data):
     # Returns all URLs from a page's raw data
-    url_soup = BeautifulSoup(raw_data, 'html.parser')
+    try:
+        url_soup = BeautifulSoup(raw_data, 'html.parser')
+    except:
+        print('URL Parser Error: Unable to parse URLs')
+        return []
     aux = url_soup.find_all('a')
     link_list = []
     for item in aux:
@@ -78,7 +82,11 @@ def parse_urls(raw_data):
     return clean_list
 # TEXT
 def parse_text(raw_data):
-    text_soup = BeautifulSoup(raw_data, 'html.parser')
+    try:
+        text_soup = BeautifulSoup(raw_data, 'html.parser')
+    except:
+        print('Text Parser Error: Unable to parse text')
+        return []
     text = text_soup.get_text()
 
     text = text.split('\n') # Split into lines
