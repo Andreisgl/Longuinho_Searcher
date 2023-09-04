@@ -1,6 +1,7 @@
 # This module extracts data from websites. It also parses it by text and links.
 
 import os
+import time
 
 import urllib.request
 from bs4 import BeautifulSoup
@@ -10,6 +11,11 @@ import urllib.parse as urlparse
 # EXTRACTION
 def page_extractor(search_url):
     success_flag = True
+
+    retry_flag = True
+    retry_counter = 0
+    retry_cooldown_secs = 2
+
     data_returned = []
     was_redirected = False
 
@@ -21,19 +27,48 @@ def page_extractor(search_url):
     search_url = urllib.parse.quote(sanitize_url_to_name(search_url))
     search_url = 'http://' + search_url
 
-    try: # Gets the url
-        with urllib.request.urlopen(search_url, timeout = 20.0) as response:
-            raw_data = response.read()
-        final_url = response.url # Gets the final page, if redirected
-        http_code = response.status
+    while retry_flag:
+        retry_flag = False
+        try: # Gets the url
+            with urllib.request.urlopen(search_url, timeout = 20.0) as response:
+                raw_data = response.read()
+            final_url = response.url # Gets the final page, if redirected
+            http_code = response.status
 
-        if final_url != search_url: # This means there was a redirection
-            was_redirected = True
+            if final_url != search_url: # This means there was a redirection
+                was_redirected = True
+        except urllib.error.URLError as e:
+            response = e.reason # Could not connect.
+            if type(response) != str:
+                if response.errno == 11001:
+                    connection_status = connection_check()
+                    if not connection_status: # If there is no internet
+                        # Retry
+                        print('No internet connection! Retrying...')
+                        time.sleep(retry_cooldown_secs)
+                        
+                        connection_status = connection_check()
+                        if connection_status: # If connection comes back
+                            print('Connection Reestabilished!')
+                            time.sleep(10) # Wait for connection to stabilize
+                        retry_flag = True
+                        continue
+                    else: # If there is a connection, the problem is the URL
+                        print('Can\'t reach URL!')
+                        success_flag = False
+                else:
+                    print('Unhandled Error!')
+                    success_flag = False
+            else:
+                if response == 'Not Found':
+                    print('URL Not Found!')
+                    success_flag = False
+                    pass
 
-    except:
-        success_flag = False
-        error_code = '?'
-        print('UNKNOWN ERROR')
+        except:
+            success_flag = False
+            error_code = '?'
+            print('UNKNOWN ERROR')
             
 
     if success_flag:
@@ -167,5 +202,17 @@ def get_data_from_url(search_url):
     # Lots of data, yes, but it is necessary to stramline the upcoming processes
     return raw_data, was_redirected, search_url, final_url, website_name, http_code, success_flag, url_list, text_list
 
+# CONNECTION CHECK
+def connection_check():
+    # Pings a trusted URL to determine if there is a internet connection.
+    # Returns 'True' if there is a connection, 'False' if not.
+    global connection_check_url
+    try:
+        urllib.request.urlopen(connection_check_url, timeout = 20.0)
+        return True
+    except:
+        return False
 
+# The trusted URL that will be pinged to determine if there is an internet connection
+connection_check_url = 'http://google.com'
 pass
