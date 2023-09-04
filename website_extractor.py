@@ -28,7 +28,7 @@ def page_extractor(search_url):
     search_url = 'http://' + search_url
 
     while True:
-        print('loop')
+        #print('loop')
         #retry_flag = False
         try: # Gets the url
             with urllib.request.urlopen(search_url, timeout = 20.0) as response:
