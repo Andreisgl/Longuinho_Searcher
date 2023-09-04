@@ -438,7 +438,7 @@ def expand_index(number_to_expand):
     number_currently_found = 0
 
     # Limits each pathfinding so progress gets saved every x pages
-    max_number_per_run = 1000
+    max_number_per_run = 500
     to_search  = 0
 
     start_time = time.perf_counter()
