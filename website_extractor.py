@@ -14,7 +14,7 @@ def page_extractor(search_url):
 
     retry_flag = True
     retry_counter = 0
-    retry_cooldown_secs = 2
+    retry_cooldown_secs = 10
 
     data_returned = []
     was_redirected = False
@@ -27,8 +27,9 @@ def page_extractor(search_url):
     search_url = urllib.parse.quote(sanitize_url_to_name(search_url))
     search_url = 'http://' + search_url
 
-    while retry_flag:
-        retry_flag = False
+    while True:
+        print('loop')
+        #retry_flag = False
         try: # Gets the url
             with urllib.request.urlopen(search_url, timeout = 20.0) as response:
                 raw_data = response.read()
@@ -37,6 +38,7 @@ def page_extractor(search_url):
 
             if final_url != search_url: # This means there was a redirection
                 was_redirected = True
+            break
         except urllib.error.URLError as e:
             response = e.reason # Could not connect.
             if type(response) != str:
@@ -51,19 +53,21 @@ def page_extractor(search_url):
                         if connection_status: # If connection comes back
                             print('Connection Reestabilished!')
                             time.sleep(10) # Wait for connection to stabilize
-                        retry_flag = True
+                        #retry_flag = True
                         continue
                     else: # If there is a connection, the problem is the URL
                         print('Can\'t reach URL!')
                         success_flag = False
+                        break
                 else:
                     print('Unhandled Error!')
                     success_flag = False
+                    break
             else:
                 if response == 'Not Found':
                     print('URL Not Found!')
                     success_flag = False
-                    pass
+                    break
 
         except:
             success_flag = False
