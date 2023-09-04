@@ -1,0 +1,73 @@
+  
+Python’s founder resigns—what’s next for Python and Guido van Rossum | InfoWorld
+Close Ad
+infoworld
+UNITED STATES 
+United States 
+United Kingdom 
+More from the Foundry Network
+About Us |
+Contact |
+Republication Permissions |
+Privacy Policy |
+Cookie Policy |
+European Privacy Settings |
+Member Preferences |
+Advertising |
+Foundry Careers |
+Ad Choices |
+E-commerce Links |
+California: Do Not Sell My Personal Info |
+Follow Us
+×
+Close
+Home
+Software Development
+Python
+Guido van Rossum resigns: What’s next for Python
+Python’s designer explains why he stepped down as “benevolent dictator for life”—and how he’ll stay involved with the language
+By Paul Krill
+Editor at Large, 
+InfoWorld |
+Dan Stroud
+(CC BY-SA 4.0)
+Python inventor Guido van Rossum shocked the Python world on July 12 when he stepped down as the language’s so-called BDFL (benevolent dictator for life). At the time, he cited acrimony over a recent Python enhancement proposal for a language expressions capability as motivating his exit.But van Rossum, who invented Python in 1990, remains confident that the language will continue on just fine without his leadership. A principal engineer at Dropbox in his day job, the 62-year-old van Rossum spoke about his decision to move on with InfoWorld Editor at Large Paul Krill.InfoWorld: Why did you resign as BDFL?
+van Rossum: The for-life part was always a joke, of course, as certainly the dictatorship part was also. I’ve been toying with the thought of retirement probably for the larger part of a decade. I’ve had a few health issues, some of which I thought were exacerbated by the continuous threat of always being the most-responsible person in the Python community and having to tell people how to do stuff and stay quiet and be reasonable and explain the philosophy of the language for the umpteenth time.The straw that broke the camel’s back was a very contentious Python enhancement proposal, where after I had accepted it, people went to social media like Twitter and said things that really hurt me personally. And some of the people who said hurtful things were actually core Python developers, so I felt that I didn’t quite have the trust of the Python core developer team anymore.InfoWorld: That proposal was PEP (Python Enhancement Proposal) 572. Can you talk about the benefits of that proposal and why it was so controversial? van Rossum:  The proposal is about a new syntax that lets assignments occur as part of the expression evaluation. It is, all in all, a pretty minor addition to the language. It lets people, when they feel the need, put assignments in the middle of an expression. There are many other languages that have that as a minor feature. I’m familiar with C and C++. As far as I know, Java and JavaScript also support it. It’s a fairly niche piece of syntax but it can in certain situations make code easier to write and also easier to read by removing redundancy.
+A lot of people felt that they knew what Python’s design philosophy was and that this proposal did not follow Python’s design principles. Another problem with the proposal was somewhat self-inflicted by the proposal authors. The first few versions had some serious problems. Those problems then became the reason for people, even people who were sympathetic to the basic idea, to vote against this particular version of the proposal. It is a minor syntactic change. There is nothing radical about it.  InfoWorld: What version of Python will this feature be in?van Rossum: It will be in Python 3.8, [which is due] out in a year and a half.InfoWorld: Will there be another BDFL? What will be the governance model for Python be going forward?van Rossum:  Unfortunately, I cannot tell you that because I gave the core developer group—some 100 or 200 people who have commit rights or in the recent past had commit rights—the homework of figuring what the new governance model will be and which people will be in charge. And they immediately started tackling that problem as they tackle any other problem in the Python world, which is with a long discussion where different sides can’t immediately come to an agreement. The only good news that I have at this point is that they agreed—I think they agreed—on a schedule for coming to a conclusion here. The deadline for those proposals is October 1, 2018. Then, I believe, by November 1, 2018, they are committed to having selected a proposal for a governance structure. Then by January 1, 2019, they’re committed to actually having elected or appointed or however their governance document says, the people who are going to be in charge.If one of the proposals is there is going to be a single BDFL, that proposal would have to be written up in detail, like how the BDFL is selected and how long the person stays in charge and how he or she can be impeached and all that, by October 1.  Maybe by January 1, they will have an actual person appointed.InfoWorld: Who are some of the people involved with Python’s development?van Rossum:  There are a number of core developers who are more vocal than others. One of the nicest guys with a really long track record is Brett Cannon. Another person who has been a mentor to me is a guy named Tim Peters. He is also the author of “The Zen of Python,” which is an informal set of guidelines for Python development. Barry Warsaw is also one of the core developers. InfoWorld: What will your involvement in the project be going forward? van Rossum: I will leap into the role of a regular contributor or a regular core developer. I will occasionally write some code and review code. I will try to focus on mentoring core developers, especially new core developers, especially women and minorities because diversity in the core developer group is one of my goals.InfoWorld: Are you concerned that your departure as the BDFL might scare away some Python devotees?van Rossum: I don’t think so. Python has a very healthy community. The core team has a very healthy dynamic. I wouldn’t have resigned if I thought that they wouldn’t get over this and be able to guide the language forward for decades to come. I would say that this is a minor hiccup despite appearances, and we’re looking forward to very successful future releases and an appropriate gradual evolution of the development process.InfoWorld: How has the Python development process evolved in the past few years? How do you see it evolving in the future?van Rossum: The language obviously changes. We add some new features to the language, we add some new features to the library. The big thing that has changed is probably the popularity of the language. Until maybe five years ago, Python felt like a pretty minor player.Since then—probably mostly through the incredible popularity of data science and Python as the major tool for that—the pressure on the core developers to have perfect decisions might have gone up, but the way that things in general are done, the way we develop, and the way we release the language has been very stable.We have release managers. The releases are about a year and a half apart for major releases. For bug fix releases, they’re a few months to maybe three quarters of a year apart as the need arises.We have the very stable Python enhancement proposals process. Maybe the way that PEPs are turned into points of major disagreement has changed somewhat with increased news of social media but in general, apart from switching from Mercurial to Git a few years ago, it’s been a very stable process and there is nothing particularly wrong with it.
+Next read this:
+Cloud computing is no longer a slam dunk
+What is generative AI? Artificial intelligence that creates
+Coding with AI: Tips and best practices from developers
+Python moves to remove the GIL and boost concurrency
+7 reasons Java is still great
+The open source licensing war is over
+ 
+Related: 
+Python
+Software Development
+Paul Krill is an editor at large at InfoWorld, whose coverage focuses on application development.
+Follow
+Copyright © 2018 IDG Communications, Inc.
+ How to choose a low-code development platform
+InfoWorld
+ 
+Follow us
+About Us
+Contact
+Republication Permissions
+Privacy Policy
+Cookie Policy
+European Privacy Settings
+Member Preferences
+Advertising
+Foundry Careers
+Ad Choices
+E-commerce Links
+California: Do Not Sell My Personal Info
+Copyright © 2023 IDG Communications, Inc.
+Explore the Foundry Network descend
+CIO
+Computerworld
+CSO Online
+InfoWorld
+Network World

@@ -1,0 +1,406 @@
+Wikipedia:GLAM/ARKive - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Languages
+Language links are at the top of the page across from the title.
+Search
+Search
+Create accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1Background
+2The project
+3Events
+4Templates and categories
+5How to take part
+Toggle How to take part subsection
+5.1How to transfer content
+5.2Inter-wiki
+6Articles
+3 comments
+Toggle Articles subsection
+6.1Donated texts
+6.1.1Mammals
+6.1.2Fish
+6.1.3Birds
+7Reptiles
+2 comments
+Toggle Reptiles subsection
+7.1Amphibians
+7.2Terrestrial + fresh water invertebrates
+7.3Marine invertebrates
+7.4Plants
+7.5Fungi
+7.6Work done
+7.6.1Mammals
+7.6.2Fishes
+7.6.3Birds
+7.6.4Reptiles
+7.6.5Amphibians
+7.6.6Terrestrial + fresh water invertebrates
+7.6.7Marine invertebrates
+7.6.8Plants
+7.6.9Fungi
+7.6.10Other
+7.6.10.1Edited
+7.6.10.2Created
+7.6.11Nominated
+7.6.11.1Did You Know
+7.6.11.2Peer review
+8Coverage elsewhere
+Toggle the table of contents
+Toggle the table of contents
+Wikipedia:GLAM/ARKive
+Add languages
+Add links
+Project pageTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+Print/export
+Download as PDFPrintable version
+From Wikipedia, the free encyclopedia
+< Wikipedia:GLAM
+In the Summer of 2011, Wikimedia UK and ARKive are collaborating on a project to improve Wikipedia's articles on threatened species. This will involve sharing some of ARKive's text content with Wikipedia, and community outreach through online and offline events. This will involve a fixed-period in-residence role that we are calling Wikipedia Outreach Ambassador. Andy Mabbett, known on Wikipedia as User:Pigsonthewing, has been appointed to this role, starting on 11 July. He's written a blog post about the role.
+Background[edit]
+For background and contacts, please see the Wikimedia UK page for the project.
+The project[edit]
+The project will involve internal tasks of improving content and liaising with the Wikipedia and Wikiproject communities. Internal tasks will include:
+Improving the target articles using text and references from an agreed selection of ARKive's fact-files. This includes both extending and improving the content of the articles and increasing the number of helpful wiki-links between articles.
+Adding external links from target articles to relevant ARKive pages, on a wide range of specific species.
+Informing other language Wikipedias of relevant articles in English, where this is not already being done by Wikipedia's processes.
+Keeping relevant Wikiprojects informed of the improvement work.
+Events[edit]
+We held two events, on the afternoon, and again in the evening of 15 September, in Bristol, using the hashtag #GLAMARKive on Twitter.
+You can read more about the events.
+Templates and categories[edit]
+{{ARKive attribute}} - for giving attribution (use in references section). Adds articles to the hidden category Wikipedia articles incorporating text from ARKive.
+{{ARKive}} - for adding external links to articles. Adds articles to the hidden category ARKive links.
+{{GLAMARKive}} - for talk pages of articles incorporating text donated by Wildscreen. Adds articles to the hidden category ARKive texts.
+Category:Wikipedia-ARKive collaboration
+How to take part[edit]
+As part of this collaboration Wildscreen have kindly agreed to release the text (note: not images or other media) of 200 of their ARKive articles (listed below) under a CC-BY-SA 3.0 License and the GFDL. 
+Those agreed to date are listed below, together with some suggested article sections for expansion.
+How to transfer content[edit]
+This is a detailed list; don't worry if you can only complete some of the steps.
+Search ARKive to get to the appropriate page.
+Click on the icon for "print fact sheet". (It is a little icon to the right of the "A"s, in the upperish right.)  This will give you all the text on one page, useful for cut and pasting.  You can also scroll through the individual tabs (same content though).
+Decide which sections of text are helpful and transfer them to the Wiki article.  Some articles may only need a small update. Others that are stubby, can get a huge head start. Some can just use isolated sections. Make sure to transfer the list of Arkive references as well. (Easiest is just to transfer as a set into the Wiki article references section.)
+Add {{ARKive}} in the external links section if appropriate. (Note the template instructions are helpful for understanding how to fill in the fields. Or compare how African elephant or other completed improvements do it.)
+Format the refs, wikilink text, do any other quick edits to integrate.
+To show attribution, insert {{ARKive attribute}} between the references header and the first reference.
+Consider using this edit summary: Text from [[ARKive]] donated by [[Wildscreen]] under CC-BY-SA 3.0 & GFDL; see [[Wikipedia:GLAM/ARKive]]
+Add {{GLAMARKive}} to the article's talk page.
+Return to this page and strike-through the relevant item, below, so that we can keep track of progress.
+Also, copy the link for the improved article to the relevant Work done section; please feel free to sign, so everyone can see how hard you're working ;-)
+If additions were substantial, and eligible, investigate getting a WP:DYK award - you can ask on this project's talk page if you need help, or a nominator. Or seek Peer review with a view to obtaining good article or  featured article status.
+For an example of how ARKive text can be incorporated into a Wikipedia article, please see this change to the African Elephant article.
+Inter-wiki[edit]
+Once articles are improved using the donated texts, editors are invited to:
+translate them into other languages (or tell other people who might do so, about this project)
+re-write them in simple English
+Articles[edit]
+Donated texts[edit]
+Wildscreen have agreed to release their ARKive text about the following species (more to follow). Struck through titles have been improved, and moved to the section below.
+Mammals[edit]
+Arabian oryx: Biology
+Aye-aye: Biology - reproduction
+Bornean orang-utan: Description/Biology
+Red-shanked douc: Threats/Conservation
+European bison: Biology - diet/Conservation
+Ganges river dolphin: Biology/Conservation
+Giant anteater: Description/Biology
+Indri: Description/Biology
+Lion-tailed macaque: Biology
+Proboscis monkey: Biology - reproduction
+Red wolf: Biology
+African elephant: Description/Range/Conservation
+Asian elephant: Diet/Effect of their diet on environment
+Western gorilla: Description
+African wild dog: Biology/Conservation
+African forest elephant: Biology
+Amur leopard I'll work on this one Maxgecko (talk) 21:58, 15 September 2011 (UTC): BiologyReply[reply]
+Giant armadillo: Description/Biology/Threats/Conservation
+Argali
+Beluga whale: threats
+Black rhinoceros: conservation
+Bush dog
+Chimpanzee: threats and conservation
+Forest elephant
+Golden lion tamarin
+Iberian lynx: threats and conservation
+Mandrill: threats and conservation
+Okapi: reproduction
+Pygmy hog
+Quokka
+Spectacled bear
+Takin
+Yangtze river dolphin: biology
+Kouprey
+Narwhal: repro and conservation
+Banteng
+Fishing cat
+Kit fox
+Maned wolf
+Mountain gazelle
+Hippopotamus: threats and conservation
+Saola
+Mountain zebra
+Pygmy marmoset
+Gemsbok
+Mouflon
+Vaquita - Currently working on this Liabet (talk) 15:00, 15 September 2011 (UTC)Reply[reply]
+Aardvark
+Fish[edit]
+Southern stingray: Description/Biology
+Pygmy seahorse: Description/Biology
+Knysna seahorse: Description/Biology
+Common seahorse: Description/Biology
+Weedy seadragon: Description
+Yellowfin tuna: Biology
+Southern bluefin tuna: Biology
+Manta ray: Biology
+Scalloped hammerhead: Description/Biology
+Humphead wrasse: Biology/Habitat/Range
+Beluga: Description/Biology
+Swordfish: Biology
+Sand tiger shark: Description/Biology
+Black sea bass (Stereolepis gigas): Description/Biology
+Bull shark I'll edit this one angharad84 (UTC)]]: Biology
+Nurse shark: Biology
+Rainbow parrotfish: Description/Biology/Habitat
+Atlantic halibut: Description/Biology/Habitat
+Danube salmon: Description/Biology/Habitat
+Giant guitarfish: Description/Biology/Habitat
+Lemon shark: Description/Biology/Habitat
+Birds[edit]
+Galapagos penguin - has very few references in current Wikipedia article
+Kakapo our article is an FA and would not benefit from incorporation of arkive content Calliopejen1 (talk) 00:22, 29 August 2011 (UTC)Reply[reply]
+Hyacinth macaw:
+Great spotted kiwi:
+whooping crane:
+saker falcon
+Andean flamingo
+Bali starling
+black-browed albatross
+Black-necked crane
+North Island Brown Kiwi
+Japanese crane
+African penguin
+Fiordland crested penguin
+Humboldt penguin
+Maleo
+royal penguin
+takahe
+Great snipe
+Tawny eagle
+Galapagos hawk
+Great bustard
+Southern rockhopper penguin
+Swan goose
+Blue bird of paradise
+Imperial eagle
+Blue swallow
+Indian vulture
+Red junglefowl
+Gentoo penguinReptiles[edit]African rock python
+Hawksbill turtle
+Green iguana
+Hermann's tortoise
+Nile crocodile
+Gila monster
+Egyptian tortoise
+Green anaconda
+Rosy boa
+Nile monitor
+Common box turtle
+tiger chameleon
+Galapagos marine iguana
+Greek tortoise
+Chinese alligator
+Black caiman
+Dwarf crocodile
+King ratsnake
+Dwarf chameleon
+African burrowing python
+Rhinoceros iguana
+Wood turtle
+Alligator snapping turtle
+Ornate box turtle
+Cuban crocodile
+Woma python
+Pancake tortoise
+Satanic leaf-tailed gecko
+Brown leaf chameleon (Brookesia superciliaris) - new articleAmphibians[edit]Chinese giant salamander
+Golden toad
+Goliath frog
+Japanese giant salamander
+Dyscophus antongilii - basically replaced the few-line stub that was there
+Darwin's frog
+Western leopard toad
+Waterfall frog
+Mountain chicken
+African giant toad
+Mallorcan midwife toad
+Sunset frog
+Water frog - new articleTerrestrial + fresh water invertebrates[edit]Apollo butterfly
+Coconut crab
+Giant freshwater crayfish
+Yabbie crayfish
+Noble crayfish
+Curlyhair Tarantula
+Mexican Fireleg
+Mexican redknee tarantula
+Emperor Scorpion
+Dracula ants
+Stag beetle (Lucanus cervus)
+Freshwater pearl mussel
+Aldabra banded snail
+Cook Strait giant wetaMarine invertebrates[edit]Giant clam
+Horseshoe crab
+Black abalone
+Small giant clam
+Southern giant clam
+Fire corals (general page)Plants[edit]African blackwood
+Boreal Felt Lichen
+Bristlecone pine
+coco de mer
+Forest Coconut
+Giant sequoia
+Green pitcher plant
+Jellyfish Tree
+Maidenhair tree
+Monkey puzzle
+Pau brasil
+Thief palm
+Titan arum
+Venus Fly trap
+Wollemi Pine
+Dracula vampira
+Dragon Tree (Dracaena draco)
+Baku (Tieghemella heckelii)
+Olulu
+Cretan dittany - I'll work on this. Jezhotwells (talk) 18:52, 15 September 2011 (UTC)Reply[reply]
+Cretan date palm
+Rafflesia (general page)
+Fairy slipper orchid
+Sapele
+White mahogany
+African walnut (Lovoa trichilioides)
+Grandidier’s baobab  
+lava cactus
+Azobe
+Lawson's cypress
+Underground orchid (Rhizanthella gardneri)
+Star cactus (Astrophytum asterias)
+Eastern Cape dwarf cycad (Encephalartos caffer) - new articleFungi[edit]Bloxam's entoloma (Entoloma bloxamii) - new article
+Pig's ear
+Violet crown-cupour article would not benefit from incorporation of arkive content
+Pepper pot our article would not benefit from incorporation of arkive content
+Golden gilled boleteWork done[edit]Mammals[edit]African elephant - Andy Mabbett (User:Pigsonthewing)
+Giant Armadillo - Aurous One
+European bison - Aurous One
+Bornean orangutan - Aurous One
+Ganges river dolphin - Aurous One
+Takin: (Diff) Expanded considerably. User:MartinPoulterFishes[edit]Southern stingray: (Diff) Expanded from a stub - Aurous
+Atlantic halibut: (Diff)  Expanded somewhat - Cwmhiraeth
+Manta ray: (Diff) Added description and part of biology. Cwmhiraeth
+Knysna seahorse: (Diff) Added Description and Biology. Cwmhiraeth
+Pygmy seahorse: (Diff)Added Description and Biology. Cwmhiraeth
+Weedy seadragon: (Diff) LewiscjBirds[edit]Hyacinth macaw (diff) - Andy Mabbett (User:Pigsonthewing)
+Blue Swallow (Diff) - Added description and biology. User:Cwmhiraeth
+Gentoo penguin (diff) Bs5er (talk) 15:34, 15 September 2011 (UTC)Reply[reply]Reptiles[edit]Common box turtle: For this one, was able to quickly get from a stub to maybe a B class article in content.  Very helpful! TCO
+Hawksbill turtle: No text transferred.  Could not find any gap that they help us with.  We have a featured article and it is pretty integrated.TCO
+African rock python (Diff): xferred all ARKIVE text.  We had a C article, but takes us to B.  They have more length and a lot of our text was unreferenced.TCO
+Brown leaf chameleon - new article (anon)
+Pancake tortoise (Diff) - Calliopejen1
+Satanic leaf-tailed gecko (448582170)  - added a couple of new sections and generally expanded and added references to others. Wikisamia
+Hermann's tortoise (Diff) - Hula-Hoop
+tiger chameleon (Diff)- Able to transfer almost directly a lot of the text to add sections and expand article. Also added image from commons - WikisamiaAmphibians[edit]Mountain chicken - anon
+Water frog - new article - Andy Mabbett (User:Pigsonthewing)Terrestrial + fresh water invertebrates[edit]Apollo butterfly: Added several sections and linked refs. Dger
+Curlyhair Tarantula - Bugboy52.40
+Mexican Fireleg - Bugboy52.40
+Freshwater pearl mussel done! Calliopejen1
+Cook Strait giant weta (Diff)- Expanded from stub - Cwmhiraeth
+Tasmanian giant freshwater crayfish (Diff)  - vastly expanded Andy Mabbett (Pigsonthewing)Marine invertebrates[edit]Maxima clam (small giant clam) (Diff) - No longer a stub.  Cwmhiraeth
+Black abalone (Diff)
+Fire corals (Diff) - CwmhiraethPlants[edit]Dracula vampira (Diff) expanded from a few line stub. SmartSE
+Erioderma pedicellatum expanded conservation efforts. Graeme Bartlett
+coco de mer threats conservation and habitat used. Graeme Bartlett
+Bristlecone pine Tried to incorporate what I could but the ARKive article is pretty short and has at least one inaccuracy ("Bristlecone pines inhabit the harsh environments of the western Sierra Nevada Mountains, where there is very little moisture" - in fact the western Sierras are wetter than the eastern Sierras and these pines are more to the east, with many not even in the Sierras - see http://ucjeps.berkeley.edu/cgi-bin/get_JM_treatment.pl?195,210,225 and http://ucjeps.berkeley.edu/cgi-bin/get_JM_treatment.pl?195,210,213 ). More added there (Diff); and to Pinus longaeva (Diff).
+Underground orchid (Diff) - Andy Mabbett (User:Pigsonthewing)
+Jellyfish Tree redirects to Medusagyne (Diff) About doubled in size, no longer a stub. Graeme Bartlett
+Star cactus (Astrophytum asterias) (Diff) Over 50% increase - Andy Mabbett (User:Pigsonthewing)
+Encephalartos caffer new article Graeme Bartlett
+Thief palm (Diff) - added description to stub article - Cwmhiraeth
+Pau brasil (Diff) - Added description - Cwmhiraeth
+Azobe (Diff) - Added description and biology. No longer a stub. - Cwmhiraeth
+Green pitcher plant (Diff) - Elefunkie
+Fungi[edit]
+Bloxam's entoloma - new article (Diff) - Andy Mabbett (User:Pigsonthewing) + another
+Golden-gilled bolete  (Diff) - improved from a one-sentence stub.
+Pig's ear (Diff) - edited threats and conservation section (User:Inthefieldnews)
+Other[edit]
+Edited[edit]
+The following articles have also been edited as part of this project:
+ARKive
+Wildscreen
+Wildscreen Festival
+Parnassius autocrator
+Andrew Bloxam
+Other articles had {{ARKive}} added
+Various disambiguation pages
+Relevant project talk/ to-do pages
+Created[edit]
+The following articles have been created as part of this project:
+George McGavin (Wildscreen patron)
+A great many redirects (differing capitalisations, common names to scientific names, alternative common names, etc.)
+Nominated[edit]
+Did You Know[edit]
+On 31 July 2011, Did you know? was updated with a fact from the article Common box turtle, which GLAM/ARKive improved. The fact was ... that the male common box turtle (pictured) has to lean back past the vertical to mate with the female? If you know of an interesting fact from another recently created article, then please suggest it on the Did you know? talk page.
+On 6 August 2011, Did you know? was updated with a fact from the article George McGavin, which you created or substantially expanded. The fact was ... that TV presenter George McGavin cooks and eat insects? You are welcome to check how many hits the article got while on the front page (here's how, quick check) and add it to DYKSTATS if it got over 5,000. If you know of another interesting fact from a recently created article, then please suggest it on the Did you know? talk page.
+On 9 August 2011, Did you know? was updated with a fact from the article Encephalartos caffer, which you recently nominated. The fact was ... that the Eastern Cape dwarf cycad was one of the first three Cape cycads to be declared endangered by the Cape provincial nature conservation authorities? The nomination discussion and review may be seen at Template talk:Did you know/Encephalartos caffer. If you know of an interesting fact from another recently created article, then please suggest it on the Did you know? talk page.
+On 16 August 2011, Did you know? was updated with a fact from the article Entoloma bloxamii, which you created or substantially expanded. The fact was ... that the fungus Bloxam's entoloma was named after an English clergyman? The nomination discussion and review may be seen at Template talk:Did you know/Entoloma bloxamii.You are welcome to check how many hits the article got while on the front page (here's how, quick check) and add it to DYKSTATS if it got over 5,000. If you know of another interesting fact from a recently created article, then please suggest it on the Did you know? talk page.
+On 27 August 2011, Did you know? was updated with a fact from the article Deinacrida rugosa, which you recently nominated. The fact was ... that the male Cook Strait giant weta attracts mates using the aroma of its feces? The nomination discussion and review may be seen at Template:Did you know nominations/Deinacrida rugosa. If you know of an interesting fact from another recently created article, then please suggest it on the Did you know? talk page.
+Peer review[edit]
+African elephant
+Coverage elsewhere[edit]
+Fatbirder- 22 July 2011
+Connecting Bristol - 8 September 2011
+Bristol 24/7 - 16 September 2011
+Life’s wild editing Wikipedia  - 16 September 2011
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:GLAM/ARKive&oldid=470509628"
+Category: Wikipedia-ARKive collaboration
+ This page was last edited on 9 January 2012, at 22:11 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

@@ -1,0 +1,412 @@
+Sensory nervous system - Wikidata
+Sensory nervous system
+(Q11101)
+From Wikidata
+Jump to navigation
+Jump to search
+part of the nervous system responsible for processing sensory informationsense organ system
+edit
+Language
+Label
+Description
+Also known as
+English
+Sensory nervous system
+part of the nervous system responsible for processing sensory information
+sense organ system
+Statements
+instance of
+anatomical structure
+0 references
+class of anatomical entity
+0 references
+subclass of
+nervous system
+0 references
+set of organ system subdivisions
+1 reference
+Foundational Model of Anatomy ID
+75259
+stated in
+Foundational Model of Anatomy
+retrieved
+1 August 2019
+heterogeneous anatomical cluster
+1 reference
+Foundational Model of Anatomy ID
+78499
+stated in
+Foundational Model of Anatomy
+retrieved
+1 August 2019
+particular anatomical entity
+0 references
+part of
+nervous system
+0 references
+development of anatomical structure
+sensory system development
+0 references
+described by source
+Armenian Soviet Encyclopedia
+volume
+1
+page(s)
+358-359
+0 references
+on focus list of Wikimedia project
+Wikipedia:List of articles all languages should have
+0 references
+Wikipedia:Vital articles/Level/4
+point in time
+31 October 2022
+0 references
+has part(s)
+sensory organ
+0 references
+Commons category
+Sensory system
+0 references
+topic's main template
+Template:Sensory system
+1 reference
+inferred from
+Template:Sensory system
+topic's main category
+Category:Sensory systems
+0 references
+Identifiers
+Colon Classification
+S:21
+has edition or translation
+CC 6
+0 references
+All-Science Journal Classification Codes
+2809
+0 references
+Australian Educational Vocabulary ID
+scot/1352
+0 references
+BabelNet ID
+00070522n
+1 reference
+stated in
+BabelNet
+Foundational Model of Anatomy ID
+75259
+subject named as
+Set of sense organs
+1 reference
+stated in
+Foundational Model of Anatomy
+retrieved
+1 August 2019
+78499
+subject named as
+Sense organ system
+0 references
+Freebase ID
+/m/021ctt
+1 reference
+stated in
+Freebase Data Dumps
+publication date
+28 October 2013
+Google Knowledge Graph ID
+/g/120n2l56
+0 references
+Iconclass notation
+49G618
+0 references
+JSTOR topic ID
+sensory-system
+0 references
+KBpedia ID
+SensorySystem
+1 reference
+stated in
+KBpedia
+retrieved
+9 July 2020
+Microsoft Academic ID
+94487597
+0 references
+Online PWN Encyclopedia ID
+4001919
+0 references
+OpenAlex ID
+C94487597
+1 reference
+stated in
+OpenAlex
+retrieved
+26 January 2022
+reference URL
+https://docs.openalex.org/download-snapshot/snapshot-data-format
+PACTOLS thesaurus ID
+pcrtkbxqz3KWIe
+0 references
+Quora topic ID
+Sensory-System
+0 references
+TA2 ID
+6729
+0 references
+Terminologia Anatomica 98 ID
+A15.0.00.000
+0 references
+UBERON ID
+0001032
+0 references
+UMLS CUI
+C0682647
+subject named as
+Sensory Systems
+0 references
+C2339537
+author name string
+Sense organ system
+0 references
+WordNet 3.1 Synset ID
+05518353-n
+0 references
+Xenopus Anatomical Ontology ID
+XAO_0003194
+0 references
+YSO ID
+3020
+subject named as
+aistimet
+sinnesorgan
+sense organs
+1 reference
+stated in
+YSO-Wikidata mapping project
+retrieved
+9 February 2022
+ 
+Sitelinks
+Wikipedia(88 entries)
+edit
+afwiki
+Sensoriese senuweestelsel
+anwiki
+Sistema sensorial
+arwiki
+جهاز إحساس
+astwiki
+Sistema sensorial
+aswiki
+সংবেদন তন্ত্ৰ
+bawiki
+Сенсор системаһы
+be_x_oldwiki
+Сэнсорная сыстэма
+bewiki
+Сэнсорная сістэма
+bgwiki
+Сетивна система
+bnwiki
+সংবেদী স্নায়ুতন্ত্র
+bswiki
+Čulni sistem
+cawiki
+Sistema sensorial
+cewiki
+Сенсорийн система
+ckbwiki
+کۆئەندامی ھەست
+cswiki
+Smyslová soustava
+cywiki
+System y synhwyrau
+dawiki
+Sansesystemet
+dewiki
+Sinnessystem
+dvwiki
+ސެންސަރީ ސިސްޓަމް
+elwiki
+Αισθητικό σύστημα
+enwiki
+Sensory nervous system
+eowiki
+Sensa sistemo
+eswiki
+Sistema sensorial
+euwiki
+Zentzumen-sistema
+fawiki
+دستگاه حسی
+fiwiki
+Aistinelin
+frwiki
+Système sensoriel
+gawiki
+Córas céadfach
+glwiki
+Sistema sensorial
+hewiki
+מערכות חישה
+hiwiki
+ज्ञानेन्द्रिय
+hrwiki
+Osjetilni sustav
+huwiki
+Érzékszerv
+hywiki
+Զգայական համակարգ
+idwiki
+Sistem indera
+ilowiki
+Sistema ti panagrikna
+iswiki
+Athygli
+itwiki
+Sensibilità (fisiologia)
+jawiki
+感覚器
+jvwiki
+Sistem indriya
+kkwiki
+Сенсорлық жүйе
+kuwiki
+Koendama hestê
+kwwiki
+Kevreyth an sensys
+lawiki
+Systema sensorium
+ltwiki
+Sensorinė sistema
+lvwiki
+Maņu orgānu sistēma
+mkwiki
+Сетилен систем
+mlwiki
+സംവേദക നാഡീവ്യൂഹം
+mswiki
+Sistem deria
+newiki
+ज्ञानेन्द्रिय
+newwiki
+ज्ञानेन्द्रिय
+nlwiki
+Zintuigstelsel
+nnwiki
+Sansesystem
+nowiki
+Sansesystem
+ocwiki
+Sistèma sensitiu
+pamwiki
+Sistema ning pamamau
+pawiki
+ਸੰਵੇਦਨਾ-ਪ੍ਰਣਾਲੀ
+plwiki
+Narządy zmysłów
+pnbwiki
+سینسری پربندھ
+pswiki
+حسي وسیله
+ptwiki
+Sistema sensorial
+quwiki
+Musyana yawri
+rowiki
+Sistem senzorial
+ruwiki
+Сенсорная система
+sawiki
+इन्द्रियाणि
+shwiki
+Senzorni sistem
+simplewiki
+Sensory system
+skwiki
+Zmyslové orgány
+slwiki
+Čutilo
+sqwiki
+Sistemi nervor ndijor
+srwiki
+Чулни орган
+swwiki
+Milango ya fahamu
+tawiki
+உணர்வுத் தொகுதி
+tgwiki
+Дастгоҳи ҳиссӣ
+thwiki
+ระบบประสาทรับความรู้สึก
+tlwiki
+Sistemang pandama
+trwiki
+Duyu sistemi
+ttwiki
+Сенсорлы система
+ukwiki
+Сенсорна система
+urwiki
+حسّی نظام
+viwiki
+Hệ giác quan
+warwiki
+Sistema pangabat
+wuuwiki
+感觉系统
+yiwiki
+חוש-סיסטעם
+zh_min_nanwiki
+Ti-kak hē-thóng
+zh_yuewiki
+感覺系統
+zhwiki
+感觉系统
+zuwiki
+Izinzwa Zomuntu
+Wikibooks(0 entries)
+edit
+Wikinews(0 entries)
+edit
+Wikiquote(0 entries)
+edit
+Wikisource(0 entries)
+edit
+Wikiversity(0 entries)
+edit
+Wikivoyage(0 entries)
+edit
+Wiktionary(0 entries)
+edit
+Multilingual sites(0 entries)
+edit
+Retrieved from "https://www.wikidata.org/w/index.php?title=Q11101&oldid=1928556136"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+ItemDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 3 July 2023, at 20:58.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

@@ -1,0 +1,520 @@
+measurement - Wikidata
+measurement
+(Q12453)
+From Wikidata
+Jump to navigation
+Jump to search
+process of assigning quantities to objects or events
+Language
+Label
+Description
+Also known as
+English
+measurement
+process of assigning quantities to objects or events
+Statements
+instance of
+academic major
+0 references
+subclass of
+estimation
+0 references
+part of
+metrology
+0 references
+image
+Taking measurements.jpg5,184 × 3,456; 6.27 MB
+0 references
+has quality
+measurement uncertainty
+0 references
+measurement error
+0 references
+described by source
+Brockhaus and Efron Encyclopedic Dictionary
+statement is subject of
+Q24425812
+0 references
+International Vocabulary of Metrology (3rd edition, 2012)
+section, verse, paragraph, or clause
+2.1
+subject named as
+measurement
+0 references
+ISO 3534-2:2006(en) Statistics — Vocabulary and symbols — Part 2: Applied statistics
+section, verse, paragraph, or clause
+3.2.1
+subject named as
+measurement
+0 references
+on focus list of Wikimedia project
+Wikipedia:List of articles all languages should have
+0 references
+Wikipedia:Vital articles/Level/4
+point in time
+31 October 2022
+0 references
+narrower external class
+http://purl.obolibrary.org/obo/IAO_0000414
+0 references
+exact match
+http://www.ebi.ac.uk/efo/EFO_0001444
+0 references
+http://erlangen-crm.org/current/E16_Measurement
+0 references
+Commons category
+Measurement
+0 references
+topic's main category
+Category:Measurement
+1 reference
+inferred from
+Category:Measurement
+Wikidata property
+measures
+0 references
+Identifiers
+GND ID
+4038852-9
+1 reference
+imported from Wikimedia project
+German Wikipedia
+NL CR AUT ID
+ph123123
+subject named as
+měření
+0 references
+IUPAC Gold Book ID
+M03794
+0 references
+Art & Architecture Thesaurus ID
+300266037
+0 references
+300053578
+0 references
+Australian Educational Vocabulary ID
+scot/1056
+0 references
+Australian Thesaurus of Education Descriptors ID
+747
+0 references
+BabelNet ID
+00054019n
+1 reference
+stated in
+BabelNet
+BNCF Thesaurus ID
+17094
+1 reference
+stated in
+National Central Library of Florence
+Den Store Danske ID
+måling
+0 references
+Encyclopædia Britannica Online ID
+technology/measurement
+0 references
+Encyclopedia of China (Third Edition) ID
+209902
+subject named as
+测量
+of
+metrology
+0 references
+210920
+subject named as
+测量
+of
+pedagogy
+0 references
+Freebase ID
+/m/04t14
+1 reference
+stated in
+Freebase Data Dumps
+publication date
+28 October 2013
+Golden ID
+Measurement-9ZBM
+1 reference
+retrieved
+10 September 2022
+reference URL
+https://golden.com/wiki/Measurement-9ZBM
+Great Russian Encyclopedia Online ID (old version)
+2002152
+subject named as
+ИЗМЕРЕНИЕ
+0 references
+IEV number
+112-04-01
+0 references
+KBpedia ID
+Measurement
+1 reference
+stated in
+KBpedia
+retrieved
+9 July 2020
+Krugosvet article
+nauka_i_tehnika/fizika/IZMERENIYA_I_VZVESHIVANIE.html
+0 references
+MetaSat ID
+measurement
+0 references
+nLab ID
+measurement
+0 references
+PSH ID
+8023
+0 references
+Quora topic ID
+Measurements
+0 references
+RKD thesaurus ID
+64454
+0 references
+Store norske leksikon ID
+måling
+0 references
+Thesaurus for Graphic Materials ID
+tgm006368
+0 references
+U.S. National Archives Identifier
+10639531
+0 references
+UK Parliament thesaurus ID
+91963
+subject named as
+Measurement
+0 references
+UNESCO Thesaurus ID
+concept5899
+0 references
+WordNet 3.1 Synset ID
+00998911-n
+1 reference
+stated in
+GF WordNet
+YSO ID
+4794
+subject named as
+mittaus
+mätning
+measurement
+1 reference
+stated in
+YSO-Wikidata mapping project
+retrieved
+29 March 2022
+ 
+Sitelinks
+Wikipedia(128 entries)
+afwiki
+Mate
+alswiki
+Messung
+anwiki
+Mesura
+arwiki
+قياس (فيزياء)
+arywiki
+عبار
+astwiki
+Midición
+aswiki
+প্ৰমিতি
+azbwiki
+اؤلچمک
+azwiki
+Ölçü
+barwiki
+Messung
+bat_smgwiki
+Mieravėms
+bawiki
+Үлсәү
+bclwiki
+Pagsukol
+be_x_oldwiki
+Вымярэньне
+bewiki
+Вымярэнне
+bgwiki
+Измерване
+bhwiki
+नाप
+bnwiki
+পরিমাপ
+brwiki
+Muzul
+bswiki
+Mjerenje
+bxrwiki
+Хэмжүүр
+cawiki
+Mesura
+cebwiki
+Pagsukod
+ckbwiki
+پێوان
+cswiki
+Měření
+cvwiki
+Виçев
+cywiki
+Mesuriad
+dawiki
+Måling
+dewiki
+Messung
+elwiki
+Μέτρηση
+enwiki
+Measurement
+eowiki
+Mezuro
+eswiki
+Medición
+etwiki
+Mõõtmine
+euwiki
+Neurketa
+extwiki
+Meyición
+fawiki
+اندازه‌گیری
+fiwiki
+Mittaaminen
+fjwiki
+Ivakarau
+frrwiki
+Meeden
+frwiki
+Mesure physique
+ganwiki
+度量
+gawiki
+Tomhas
+gcrwiki
+Mizour fizik
+glwiki
+Medición
+gnwiki
+Ta'ã
+hewiki
+מדידה
+hiwiki
+मापन
+hrwiki
+Mjerenje
+htwiki
+Mezi
+huwiki
+Mérés
+hywiki
+Չափումներ
+iawiki
+Mesuration
+idwiki
+Pengukuran
+ilowiki
+Panagrukod
+iowiki
+Mezuro
+iswiki
+Mæling
+itwiki
+Misurazione
+jamwiki
+Mejament
+jawiki
+測定
+jvwiki
+Pangukuran
+kkwiki
+Өлшеу
+knwiki
+ಅಳತೆಗಳು
+kowiki
+측정
+krcwiki
+Ёлчем
+kwwiki
+Musurans
+kywiki
+Өлчөө
+lawiki
+Mensura
+lmowiki
+Misura
+lnwiki
+Lomeko
+ltwiki
+Matavimas
+lvwiki
+Mērīšana
+mkwiki
+Мерење
+mlwiki
+അളവ്
+mnwiki
+Хэмжилт
+mswiki
+Pengukuran
+mwlwiki
+Mediçon
+mywiki
+အတိုင်းအတာ
+newiki
+नाप
+nlwiki
+Meten
+nnwiki
+Målevitskap
+nowiki
+Måling
+nrmwiki
+M'suthe
+ocwiki
+Mesura fisica
+pawiki
+ਨਾਪ-ਤੋਲ
+plwiki
+Pomiar
+pmswiki
+Mzurassion
+pnbwiki
+ناپ تول
+pswiki
+اندازه کول
+ptwiki
+Medição
+rowiki
+Măsurare
+ruewiki
+Міряня
+ruwiki
+Измерение
+sahwiki
+Кээмэйдээhин
+sawiki
+मापनप्रविधिः
+scowiki
+Meisurement
+sdwiki
+پيمائش
+shwiki
+Mjerenje
+simplewiki
+Measurement
+siwiki
+මිණුම
+skwiki
+Meranie
+slwiki
+Meritev
+snwiki
+Upimo
+sqwiki
+Matja
+srwiki
+Мерење
+svwiki
+Mätning
+swwiki
+Upimaji
+szywiki
+ditek
+tawiki
+அளவீடு
+tewiki
+కొలత
+thwiki
+การวัด
+tlwiki
+Kasukatan
+trwiki
+Ölçme
+tswiki
+Mpimo
+ukwiki
+Вимірювання
+urwiki
+پیمائش
+uzwiki
+Oʻlchovlar
+viwiki
+Đo lường
+vowiki
+Mafam
+warwiki
+Sukól
+wuuwiki
+量度
+xhwiki
+Umlinganiselo
+yiwiki
+מאס
+zh_classicalwiki
+度量衡
+zh_min_nanwiki
+Chhek-tēng
+zh_yuewiki
+量度
+zhwiki
+度量
+zuwiki
+Isilinganiso
+Wikibooks(0 entries)
+Wikinews(0 entries)
+Wikiquote(5 entries)
+enwikiquote
+Measurement
+eowikiquote
+Mezuro
+eswikiquote
+Medida
+hiwikiquote
+मापन
+skwikiquote
+Meranie
+Wikisource(0 entries)
+Wikiversity(2 entries)
+enwikiversity
+Measurement
+frwikiversity
+Mesure en chimie
+Wikivoyage(0 entries)
+Wiktionary(0 entries)
+Multilingual sites(0 entries)
+Retrieved from "https://www.wikidata.org/w/index.php?title=Q12453&oldid=1960947367"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+ItemDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 25 August 2023, at 12:44.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

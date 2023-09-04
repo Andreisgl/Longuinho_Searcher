@@ -1,0 +1,846 @@
+Esperanto - Wikipedia
+Esperanto
+Da Wikipedia, l'enciclopedia libera.
+Vai alla navigazione
+Vai alla ricerca
+ Disambiguazione – Se stai cercando altri significati, vedi Esperanto (disambigua).
+EsperantoEsperantoCreato daL. L. Zamenhof nel 1887
+Parlato inEsperantujo (120 paesi)
+LocutoriTotaleStimato:
+2 000 000[1]
+2 000 000 - 3 000 000[2]
+500 000 - 2 000 000[3](soprattutto come seconda lingua)
+ClassificaNon tra le prime 100
+Altre informazioniTipoSVO (ordine non obbligatorio), lingua agglutinante
+TassonomiaFilogenesiLingue pianificate Lingue ausiliarie (LAI)  Lingue a posteriori   Lingue schematiche    Esperanto
+Statuto ufficialeUfficiale inProposta per il Moresnet ed è stata usata come lingua dall'Isola delle Rose
+Codici di classificazioneISO 639-1eo
+ISO 639-2epo
+ISO 639-3epo (EN)
+Linguist Listepo (EN)
+Glottologespe1235 (EN)
+Linguasphere51-AAB-da
+Estratto in linguaDichiarazione universale dei diritti umani, art. 1Ĉiuj homoj estas denaske liberaj kaj egalaj laŭ digno kaj rajtoj. Ili posedas racion kaj konsciencon, kaj devus konduti unu al alia en spirito de frateco.Nomi · Aggettivi · Avverbi · Verbi · Plurale · Accusativo
+La bandiera dell'esperanto
+ Manuale
+L'esperanto è una lingua artificiale, sviluppata tra il 1872 e il 1887 dall'oculista polacco di origini ebraiche Ludwik Lejzer Zamenhof. È la più conosciuta e utilizzata tra le lingue ausiliarie internazionali (LAI)[4]. Presentata nel Primo Libro (Unua libro - Varsavia, 1887) come Lingvo Internacia ("lingua internazionale")[5], prese in seguito il nome esperanto ("colui che spera", "sperante") dallo pseudonimo di "Doktoro Esperanto", utilizzato dal suo inventore. 
+Scopo della lingua è di far dialogare i diversi popoli cercando di creare tra di essi comprensione e pace con una seconda lingua semplice, ma espressiva, appartenente all'umanità e non a un popolo. Un effetto di ciò sarebbe quello di proteggere gli idiomi "minori", altrimenti condannati all'estinzione dalla forza delle lingue delle nazioni più forti. Per questo motivo l'esperanto è stato ed è spesso protagonista di dibattiti riguardanti la cosiddetta democrazia linguistica.
+Le regole della grammatica dell'esperanto sono state scelte da quelle di varie lingue studiate da Zamenhof, affinché fossero semplici da imparare e nel contempo potessero dare a questa lingua la stessa espressività di una lingua etnica; esse non prevedono eccezioni. Anche i vocaboli derivano da idiomi preesistenti, alcuni (specie quelli introdotti di recente) da lingue non indoeuropee come il giapponese, ma in gran parte da latino, lingue romanze (in particolare italiano e francese), lingue germaniche (tedesco e inglese) e lingue slave (russo e polacco).
+Vari studi hanno dimostrato che si tratta di una lingua semplice da imparare anche da autodidatti e in età adulta, per via delle forme regolari[6], mentre altri dimostrano come dei ragazzi che hanno studiato l'esperanto apprendano più facilmente un'altra lingua straniera. Lo studio di due anni di esperanto nelle scuole come propedeutico a una lingua straniera viene detto "metodo Paderborn" perché la sua efficacia è stata dimostrata nell'università tedesca di Paderborn[7][8].
+L'espressività dell'esperanto, simile a quella delle lingue naturali, è dimostrata dalla traduzione di opere di notevole spessore letterario[9]. La cultura originale esperantista ha prodotto e produce in tutte le arti: dalla poesia alla prosa fino al teatro e alla musica. La logica con cui è stata creata minimizza l'ambiguità, per cui si presta a essere usata in informatica, nel ramo della linguistica computazionale, per il riconoscimento automatico del linguaggio[10].
+La tradizione dell'esperanto in Polonia e in Croazia è stata dichiarata patrimonio culturale immateriale[11][12].
+Ci sono proposte per usare l'esperanto come lingua franca per i lavori nel Parlamento europeo, principalmente per motivi economici o per evitare che si vada verso una o più lingue nazionali[13][14]. Tuttavia finora l'Unione europea giustifica l'attuale politica multilinguista che prevede l'uso di 24 lingue ufficiali, per motivi di trasparenza[15][16], non senza critiche da parte di chi sospetta che tale politica stia in realtà portando verso il solo inglese o, al più, al trilinguismo[17][18].
+Indice
+1 Ideali
+2 Simboli
+3 Storia
+3.1 Origine: il lavoro del giovane Lejzer
+3.2 Diffusione: la comunità esperantista
+3.3 L'esperantismo oggi
+4 Fonologia, alfabeto e ortografia
+4.1 Problemi delle lettere speciali al computer e loro soluzioni
+4.2 Cirillizzazione
+5 Grammatica
+5.1 Articolo, preposizioni e congiunzioni
+5.2 Parti ricavate da radice: sostantivi, aggettivi, verbi e avverbi
+5.3 Pronomi
+5.4 Esclamazioni
+5.5 Ordine delle parole
+6 Provenienza del lessico
+7 Classificazione
+8 Usi pratici della lingua
+8.1 Uso in sperimentazioni didattiche
+8.2 Usi e riconoscimenti da enti nazionali e internazionali
+8.3 Mondo accademico, scienza e nuove tecnologie
+8.4 L'esperanto nel cinema
+8.5 La lingua parlata
+8.6 Lingua dei segni internazionale
+8.7 Esempi di testo in lingua
+8.8 Frasi semplici
+9 Critiche e discussioni
+9.1 Critiche generali sulle lingue ausiliarie internazionali (LAI)
+9.2 Critiche e dibattiti che riguardano direttamente l'esperanto
+10 Esperantisti e simpatizzanti famosi
+11 L'esperanto nella cultura di massa
+11.1 Cinema
+11.2 Musica
+11.3 Televisione
+12 Letteratura
+13 Note
+14 Bibliografia
+14.1 Generale
+14.2 Sulla grammatica e il lessico
+14.3 Sull'insegnamento dell'esperanto nelle scuole
+15 Voci correlate
+16 Altri progetti
+17 Collegamenti esterni
+Ideali[modifica | modifica wikitesto]
+ Lo stesso argomento in dettaglio: Dichiarazione di Boulogne e Manifesto di Praga.
+L'assunto di Zamenhof è che l'assenza o difficoltà di dialogo dovuta alle differenze linguistiche crea incomprensioni, ed è stata causa di violenza più volte nel corso della storia. Egli chiamò l'esperanto dapprima Lingvo Internacia (pronunciata /'liŋgvo interna'tsi:a/), poiché aveva come scopo quello di essere usata come lingua tra le diverse nazioni che così avrebbero potuto dialogare e comprendersi a vicenda, proteggendo le lingue minori e quindi la differenza linguistica. Rispetto alla nazione che "presta" o impone la propria lingua per le comunicazioni internazionali si ha in genere sudditanza culturale e differenze di capacità espressiva tra i nativi di tale lingua e tutti gli altri. Il livello dei non nativi varia in base soprattutto allo sforzo economico e alla quantità di tempo effettuato per l'apprendimento che solo pochi possono permettersi (ad esempio corsi o viaggi all'estero per perfezionare le lingue apprese) causando maggiori disagi alle parti più povere della popolazione. È per questo che la sua principale caratteristica dal punto di vista ideologico è la neutralità, in quanto dovrebbe essere imparata come seconda lingua (e non in sostituzione alla propria) per il contatto e la comprensione reciproca solo tra genti di lingue diverse e, contrariamente a quanto ancora oggi alcuni pensano, non ha mai voluto imporsi come lingua unica mondiale sopprimendo le altre[19][20]. Inoltre, il suo uso esclusivamente come seconda lingua è necessario, perché un uso come prima lingua in diverse regioni geografiche porterebbe a diverse varianti (dovute alla naturale evoluzione del parlato[21]) compromettendo a lungo andare la comprensione reciproca internazionale, fine primo dell'esperanto.
+Gli ideali del movimento sono riassunti nella Dichiarazione di Boulogne[22] e il Manifesto di Praga[23], nei quali viene posto l'accento sulla neutralità del movimento rispetto a ogni tipo di organizzazione o corrente (politica, religiosa o di altro tipo) e ribadita l'indipendenza di ogni esperantista dal movimento. Infatti è definito esperantista semplicemente chi impara la lingua, a prescindere dagli usi fatti, dalla condivisione degli ideali o dall'aderenza al movimento.
+Simboli[modifica | modifica wikitesto]
+ Lo stesso argomento in dettaglio: Simboli dell'esperanto.
+Simboli dell'esperanto
+La bandiera Verda Stelo.
+La bandiera Jubilea.
+Un riassunto abbastanza chiaro sul carattere della lingua è dato dalla bandiera dell'esperanto, che è formata da un fondo verde che sull'angolo superiore sinistro presenta un riquadro bianco nel quale sta una stella verde a 5 punte (la bandiera per questo è anche detta verda stelo, stella verde). La stella a cinque punte rappresenta i cinque continenti abitati, il colore verde la speranza di un futuro migliore, mentre il bianco rappresenta la neutralità e la pace.
+Tra vari simboli di limitato successo, un'altra bandiera ideata da un esperantista brasiliano nel 1987 è invece ampiamente conosciuta.[24] È detta Jubilea, e rappresenta due "e" verdi disposte simmetricamente su fondo bianco a rappresentare il mondo. I colori sono anche qui il bianco e il verde, con i medesimi significati della bandiera più tradizionale.
+A parte alcune preferenze entrambe le bandiere sono riconosciute dagli esperantisti, anche se la più nota e usata è la tradizionale verda stelo[25].
+Storia[modifica | modifica wikitesto]
+ Lo stesso argomento in dettaglio: Storia dell'esperanto.
+«Non ricordo quando, ma in ogni caso abbastanza presto, cominciai a rendermi conto che l'unica lingua [soddisfacente per il mondo intero] avrebbe dovuto essere neutra, non appartenente a nessuna delle nazioni ora esistenti...Per qualche tempo fui sedotto dalle lingue antiche e sognavo che un giorno avrei potuto viaggiare per il mondo e con discorsi ardenti avrei convinto gli uomini a riesumare una di queste lingue per uso comune. In seguito, non ricordo più come, giunsi alla precisa conclusione che questo era impossibile e cominciai a sognare nebulosamente di una NUOVA lingua artificiale.»
+(L.L. Zamenhof nella sua lettera a Nikolai Afrikanovich Borovko)
+La genesi dell'esperanto non può che essere legata alla storia di Zamenhof. Egli passò la sua infanzia a Białystok, attualmente in Polonia ma che a quei tempi era nella provincia baltica della Lituania e quindi appartenente all'Impero russo, dove convivevano diversi gruppi etnici. Queste divisioni etniche e culturali che sfociavano spesso in violenza erano quindi fonti di dolore per lui sin da bambino, portandolo all'idea che una lingua condivisa potesse aiutare i vari gruppi a comunicare. Affinché le diverse minoranze fossero messe alla pari, la lingua con cui avrebbero dovuto comunicare non avrebbe dovuto sostituire le varie lingue, né sarebbe dovuta appartenere a nessuno dei gruppi in discordia (il più forte), ma avrebbe dovuto essere neutra[26][27]. Per capire meglio la situazione basta leggere quanto lo stesso Zamenhof scriveva[28]:
+«Questo luogo della mia nascita e degli anni della mia fanciullezza ha impresso il primo corso a tutte le mie aspirazioni successive. La popolazione di Białystok è formata da quattro elementi: russi, polacchi, tedeschi, ebrei. Ciascuno di questi gruppi parla una lingua diversa e ha relazioni non amichevoli con gli altri gruppi. In tale città, più che altrove, una natura sensibile percepisce la pesante infelicità della diversità linguistica e si convince a ogni passo che la diversità di lingue è la sola causa o almeno la principale che allontana la famiglia umana e la divide in fazioni nemiche. Sono stato educato all'idealismo; mi hanno insegnato che tutti gli uomini sono fratelli e intanto sulla strada e nel cortile tutto a ogni passo mi ha fatto sentire che non esistono uomini, esistono soltanto russi, polacchi, tedeschi, ebrei, ecc. Questo ha sempre tormentato il mio animo infantile, anche se molti sorrideranno su questo dolore per il mondo da parte di un bambino. Poiché a me allora sembrava che i "grandi" fossero onnipotenti, mi ripetevo che quando sarei stato grande io senz'altro avrei eliminato questo male.»
+(L.L. Zamenhof nella sua lettera a Nikolai Afrikanovich Borovko)
+Origine: il lavoro del giovane Lejzer[modifica | modifica wikitesto]
+ Lo stesso argomento in dettaglio: Protoesperanto.
+Zamenhof conosceva la difficoltà che ha l'apprendimento di una lingua straniera, egli stesso usava quotidianamente russo e polacco, conosceva l'ebraico insegnatogli dal padre e infine studiò greco e latino, tedesco, francese e inglese in quanto studente di ginnasio (che frequentò a Varsavia, dove nel frattempo si era trasferito). Egli quindi usò il suo bagaglio linguistico per creare una lingua semplice che richiedesse un impiego di risorse economiche alla portata di tutti. Quindi, dopo aver lavorato per alcuni anni e aver creato diversi stadi di evoluzione della lingua (protoesperanto) dei quali poco ci resta, arrivò per due volte a un completamento della sua lingua internazionale. La prima volta che festeggiò la fine del suo lavoro fu nel 1878 in occasione del suo diciannovesimo compleanno, giorno in cui lesse ai suoi compagni di scuola una breve poesia scritta nella sua nuova lingua. Poiché i suoi appunti vennero bruciati dal padre, che vedeva la passione del figlio come una distrazione dagli studi di medicina, dovette riprendere il lavoro in seguito, giungendo alla lingua definitiva nel 1887. In questo anno pubblicò, inizialmente in russo, con lo pseudonimo “Doktoro Esperanto” (Dottor Sperante) l'Internacia lingvo, un'opera che segnò l'inizio della diffusione della lingua internazionale (lo pseudonimo usato per la firma dell'opera diede poi il nome alla lingua stessa pubblicata)[29]. L'opera, comunemente nota come Unua libro, è menzionata nella Cronologia Generale degli eventi più importanti della storia del mondo e fu stampata in 3000 esemplari. Si tratta di un volume oggi rarissimo. Le copie conosciute sono solo quattro, tre delle quali presenti nelle seguenti istituzioni: Biblioteca Nazionale Austriaca, Biblioteca dell’Università di Varsavia, Biblioteca di stato russa. L’unica copia conosciuta in possesso di un cittadino privato, è quella del bibliofilo italiano Paolo Barbieri. Una quinta copia, un tempo presente in Germania, venne trasferita durante il periodo nazista dalla Royal Saxony Library alla Biblioteca di Stato di Berlino. Nonostante sia menzionata nel catalogo della biblioteca, questa copia non è fisicamente presente e probabilmente fu perduta durante la seconda guerra mondiale.
+Grazie alla diffusione di quest'opera e di altre grammatiche, alla sua semplicità ma soprattutto ai suoi ideali, la lingua internazionale cominciò a diffondersi in tutta Europa tra intellettuali e persone comuni, che diedero vita al movimento esperantista. La comunità fu fondamentale per l'evoluzione della lingua che, grazie all'uso, acquistò naturalezza e cominciò ad avere tratti più definiti e un carattere proprio[26]. Anche se non si può dirlo con certezza, il primo esperantista italiano è considerato Daniele Marignoni, il quale imparò la lingua internazionale circa un anno dopo la nascita dell'esperanto (fra il 1888 e il 1889) e già nel 1890 pubblicò la prima grammatica di esperanto in italiano[30].
+Diffusione: la comunità esperantista[modifica | modifica wikitesto]
+ Lo stesso argomento in dettaglio: Esperantujo, Unione Europea d'Esperanto, Movimento esperantista e Movimento esperantista italiano.
+Un'immagine dell'uscita dei partecipanti al Congresso Universale di Esperanto del 1905, a Boulogne-sur-Mer, in Francia.
+Nel 1905 a Boulogne-sur-Mer in Francia esperantisti provenienti da 20 Paesi si riunirono per trattare alcuni problemi e usarono esclusivamente l'esperanto, dimostrandone per la prima volta l'efficacia. Da questo momento in poi la storia dell'esperanto è passata da Zamenhof alla comunità degli esperantisti, che hanno fatto evolvere la lingua a patto di non modificare i punti essenziali fissati nel Fundamento de Esperanto, presentato in occasione del congresso per evitare la divisione della lingua. Alla fine di tale congresso fu anche redatta la Dichiarazione di Boulogne (o Dichiarazione sull'essenza dell'esperantismo) in cui si ribadisce che l'esperanto è proprietà del mondo intero e che inoltre deve essere libero da ogni tipo di strumentalizzazione o ideologia politica, religiosa o di altro genere.
+La rapidità dell'espansione del movimento subì vari duri colpi nel corso della prima guerra mondiale, ma soprattutto nella seconda guerra mondiale a causa di Hitler, che riteneva l'esperanto la lingua degli ebrei[31] (infatti Zamenhof era ebreo), ma anche nella Russia di Stalin (e più recentemente, nell'Iraq di Saddam Hussein)[32]. Nel secondo dopoguerra (eccetto dove gli esperantisti erano ancora perseguitati) il movimento riprese vigore, ma subendo la forza a livello internazionale del francese prima e soprattutto dell'inglese poi, data la forza e l'influenza degli Stati Uniti d'America sulla scena internazionale.
+Nel 1954 l'UNESCO alla sua Conferenza Generale che si tenne a Montevideo, considerando i risultati raggiunti dall'esperanto nel campo degli interscambi intellettuali internazionali e per l'avvicinamento dei popoli del mondo, riconosceva che tali risultati rispondono ai suoi scopi e ideali. Nella stessa risoluzione l'UNESCO incarica il Direttore Generale di seguire l'evoluzione dell'utilizzo dell'esperanto nella scienza, nell'educazione e nella cultura, e a questo scopo di collaborare con l'Universala Esperanto-Asocio (la principale associazione che riconosce gli esperantisti) negli ambiti che interessano entrambe le associazioni[33]. Sempre l'UNESCO si riespresse a favore dell'esperanto nel 1985 a Sofia, dove a differenza di quanto dichiarato a Montevideo il testo raccomandava anche a organizzazioni non governative e agli Stati Membri di curare la diffusione della lingua internazionale[34].
+Nel 1996 a Praga fu pubblicato l'omonimo Manifesto, che pone l'accento sui diritti linguistici che le politiche internazionali non rispetterebbero.
+L'esperantismo oggi[modifica | modifica wikitesto]
+Pietra posta a memoria di un convegno giovanile a Danzica in Polonia. La scritta recita: «1.8.1927 - durante il Congresso Universale di Esperanto [19º Congresso Universale di Esperanto] fu piantata qui una QUERCIA GIUBILARE, che poi il regime fascista distrusse. Quercia ripiantata durante il 15º Convegno Giovanile Internazionale della T.E.J.O. - 26.7.1959».
+Si stima che siano presenti esperantofoni in almeno 120 paesi nel mondo, principalmente in Europa, Brasile e Cina. Secondo le ricerche del prof. Sidney Spence Culbert dell'Università di Washington, 1,6 milioni di persone parlano l'esperanto a "livello 3 di lingua straniera". Questo livello designa una competenza linguistica in cui si sia in grado di sostenere una conversazione in lingua che vada al di là delle frasi di circostanza[35][36]. Ethnologue afferma inoltre che tra 200 e 2000 persone parlano l'esperanto come madrelingua (in esperanto: denaskaj Esperanto-parolantoj)[37]. Le stime sembrano confermate dai dati statistici sull'uso di alcuni siti web esperantisti. Ad esempio statistiche di un noto corso autodidattico (Kurso de Esperanto) relative al mese di settembre 2009 contano che il corso è stato scaricato circa 6.900 volte, ma non è possibile sapere quante persone effettivamente lo hanno concluso. Il 28 maggio 2015 è stata lanciata la versione per l'esperanto di Duolingo, un corso di lingue in rete pensato per i dispositivi mobili. Nonostante la prima versione fosse solo in inglese (i progetti per la traduzione in spagnolo e altre lingue sono partiti alcuni mesi dopo), il 21 agosto 2015 c'è stata l'iscrizione del 100 000esimo corsista, mentre ad un anno dal lancio gli iscritti (attivi e non) erano più di 400 000.[38]
+Grazie alle associazioni esperantiste, alla diffusione delle grammatiche e recentemente anche per opera di Internet il numero di esperantisti è in aumento. La regolarità, la semplicità e la forte produttività dell'esperanto permettono al discente (anche autodidatta) di raggiungere un livello di competenza linguistica soddisfacente in un tempo molto minore rispetto a qualsiasi lingua etnica; si stima che siano necessari meno di sei mesi di studio per avere una buona padronanza dell'esperanto, contro gli anni di studio di altre lingue per raggiungere lo stesso livello[39].
+Allo scopo di sviluppare e diffondere la cultura della lingua, ogni anno l'Associazione universale esperanto organizza in una diversa località il Congresso universale di esperanto, cui partecipano solitamente tra i 1 500 e i 2 500 esperantisti dei diversi angoli del pianeta. A tale appuntamento si sommano una serie di congressi e incontri di minore rilievo, organizzati da associazioni esperantiste di vario ordine e grado, e talvolta riservati a categorie specifiche: ad esempio, l'Internacia Junulara Kongreso è il principale evento rivolto principalmente ai giovani esperantofoni; l'IKUE-Kongreso è un incontro a tema cattolico; e così via.
+Anche in Italia vengono organizzati annualmente molti incontri in cui viene utilizzata la lingua esperanto. I più importanti sono il Congresso di esperanto in Italia, organizzato dalla Federazione esperantista italiana, e il Festival giovanile internazionale organizzato dalla Gioventù esperantista italiana.
+Gli incontri, nazionali e non, creano quella che è anche un'attrattiva non ufficiale della lingua. Per facilitare gli spostamenti, servizi come Pasporta Servo raccolgono gli indirizzi di tutti gli esperantisti che sono disposti a ospitare gratuitamente coloro che conoscono la lingua internazionale.
+Nel mondo esistono specifiche comunità locali che hanno adottato l'esperanto come lingua di comunicazione. Famose per i loro scopi umanitari sono la comunità Bona Espero in Brasile e l'ONLUS Changamano in Africa[40].
+Tra le organizzazioni esperantiste, recentemente è emersa la Civitas esperantica (Esperanta civito), in contrasto con le organizzazioni esperantiste tradizionali poiché si propone come scopo il riconoscimento della comunità esperantofona come identità culturale transnazionale[41].
+Fonologia, alfabeto e ortografia[modifica | modifica wikitesto]
+ Lo stesso argomento in dettaglio: Alfabeto dell'esperanto e Fonologia della lingua esperanto.
+Ludwik Lejzer Zamenhof nel 1908, dopo circa 20 anni dalla pubblicazione dell'esperanto
+L'esperanto possiede 23 consonanti e cinque vocali; a ciascun fonema della lingua corrisponde una lettera, così da avere la massima trasparenza fonologica possibile ed evitare ambiguità. Tra le consonanti, due sono approssimanti o semivocali, ossia la "j" e la "ŭ", presenti esclusivamente nei dittonghi. La variabilità nella pronuncia è molto ristretta, tuttavia è possibile che si realizzino delle varianti combinatorie come quando la "n" (pronunciata di solito come la [n] dell'alfabeto fonetico internazionale), è seguita da consonante velare e spontaneamente si assimila ad essa, con realizzazione [ŋ]. In ogni caso è opportuno evitare la confusione con altri fonemi. La presenza di sole cinque vocali garantisce la reciproca comprensione anche se queste sono pronunciate in modo più aperto o più chiuso (rispetto ai fonemi di riferimento) da parlanti di diversa provenienza.
+L'accento tonico nelle parole plurisillabiche è posto sempre sulla penultima sillaba, quindi non è necessario ricorrere a segni grafici per gli accenti.
+La scrittura dell'esperanto è perfettamente monogrammatica: a ogni grafema corrisponde un fonema e viceversa. Poiché lo spazio fonetico dell'esperanto (cioè l'insieme dei suoni usati nella sua fonetica) è composto da 28 elementi, Zamenhof introdusse due segni diacritici. Il primo è il circonflesso (^) presente nelle tastiere delle macchine per scrivere del suo tempo, basate sull'alfabeto del francese, per creare nuove lettere: "ĉ, ĝ, ĥ, ĵ, ŝ". Il secondo è il segno di breve, impiegato per creare la lettera "ŭ" che indica una "u semiconsonantica" (come la "u" di uomo /'wɔmo/). Le lettere "q, w, x, y" sono utilizzate solo nelle espressioni matematiche (in particolare la "x" viene usata nel sistema di scrittura "cx" descritto in seguito).
+Lettere dell'esperanto e relativi suoni(trascritti nell'alfabeto fonetico internazionale)
+A a
+B b
+C c
+Ĉ ĉ
+D d
+E e
+F f
+/a/
+/b/
+/ʦ/
+/ʧ/
+/d/
+/e,ɛ/
+/f/
+G g
+Ĝ ĝ
+H h
+Ĥ ĥ
+I i
+J j
+Ĵ ĵ
+/g/
+/ʤ/
+/h/
+/x/
+/i/
+/j/
+/ʒ/
+K k
+L l
+M m
+N n
+O o
+P p
+R r
+/k/
+/l/
+/m/
+/n/
+/o,ɔ/
+/p/
+/r/
+S s
+Ŝ ŝ
+T t
+U u
+Ŭ ŭ
+V v
+Z z
+/s/
+/ʃ/
+/t/
+/u/
+/w/
+/v/
+/z/
+Problemi delle lettere speciali al computer e loro soluzioni[modifica | modifica wikitesto]
+ Lo stesso argomento in dettaglio: Nova Help-Alfabeto.
+Le lettere con segni diacritici hanno dato alcuni problemi pratici per la loro rappresentazione. Dapprima il problema si pose per le macchine per scrivere che non sempre erano fornite di tali segni, mentre più di recente con i computer fu ereditata la problematicità della scrittura e dell'invio di queste informazioni con sistemi non tutti atti a poterle scrivere o visualizzare. Il problema sussiste ancora oggi per i vecchi sistemi informatici che non adottano Unicode[42]. Le soluzioni adottate e ancora diffuse prevedono la traslitterazione delle lettere con cappellino con dei digrammi (due lettere lette come una sola) sacrificando la biunivocità suono-lettera. Ogni digramma è formato dalla lettera senza segno diacritico e una data lettera che la segue, la quale indica che la lettera precedente avrebbe dovuto avere un segno in testa; di solito la lettera usata per i digrammi è la "x", perché non fa parte dell'alfabeto esperanto ("X-sistemo" o "Ikso-sistemo" traducibile in "sistema X"[43]) oppure la "h", che è esteticamente più gradevole ("H-sistemo" o "sistemo-H"), inventato dallo stesso Zamenhof; apparve nel Fundamento de Esperanto e fu adottato sin dal primo Congresso Universale di Esperanto[43]).
+Di recente grazie alla diffusione di Unicode altre soluzioni permettono la scrittura e l'invio delle lettere tradizionali dell'alfabeto esperantista anche al computer, per cui si può prevedere una drastica riduzione dell'uso dei sistemi cx e ch entro non molti anni. È il caso di programmi che sostituiscono automaticamente i digrammi del sistema "cx" e/o "ch" con le lettere tradizionali con segno grafico, o permettono di personalizzare la mappatura della tastiera, a seconda dei vari sistemi operativi (vedere nota[44]). Quasi ogni distribuzione Linux recente permette addirittura la localizzazione completa dell'interfaccia utente del sistema operativo in esperanto come per altre lingue, ad esempio per le versioni basate su Debian[45] o Ubuntu[46].
+Cirillizzazione[modifica | modifica wikitesto]
+Durante l'epoca sovietica, gli esperantisti dell'Est scrivevano frequentemente nella lingua internazionale usando i caratteri cirillici, giacché le macchine per scrivere provviste di lettere latine erano poco comuni. Ai giorni nostri, l'alfabeto cirillico non è più necessario per scrivere in esperanto. Può essere usato, tuttavia, per trascrivere i testi dei manuali di esperanto destinati ai popoli le cui lingue usano questo sistema (cioè la metà delle lingue slave, in quanto l'altra metà usa l'alfabeto latino, ad eccezione del serbocroato che usa entrambi gli alfabeti).
+Il sistema qui descritto ha origine bielorusse, russe e serbe.
+Lettera latina
+Lettera cirillica
+Pronuncia AFI
+A a
+А а
+/a/
+B b
+Б б
+/b/
+C c
+Ц ц
+/ʦ/
+Ĉ ĉ
+Ч ч
+/ʧ/
+D d
+Д д
+/d/
+E e
+Е е
+/e/
+F f
+Ф ф
+/f/
+G g
+Г г
+/g/
+Ĝ ĝ
+Џ џ
+/ʤ/
+H h
+Ћ ћ
+/h/
+Ĥ ĥ
+Х х
+/x/
+I i
+И и
+/i/
+J j
+Й й
+/j/
+Ĵ ĵ
+Ж ж
+/ʒ/
+K k
+К к
+/k/
+L l
+Л л
+/l/
+M m
+М м
+/m/
+N n
+Н н
+/n/
+O o
+О о
+/o/
+P p
+П п
+/p/
+R r
+Р р
+/r/
+S s
+С с
+/s/
+Ŝ ŝ
+Ш ш
+/ʃ/
+T t
+Т т
+/t/
+U u
+У у
+/u/
+Ŭ ŭ
+Ў ў
+/w/
+V v
+В в
+/v/
+Z z
+З з
+/z/
+Grammatica[modifica | modifica wikitesto]
+ Lo stesso argomento in dettaglio: Grammatica dell'esperanto e 16 regole dell'esperanto.
+La prima grammatica di esperanto per gli italiani, scritta da Daniele Marignoni nel 1890, appena tre anni dopo la nascita della lingua
+Unua libro. Por Rusoj, un'edizione dell'Unua libro per parlanti russi, pubblicata a Varsavia nel 1887
+Come detto in precedenza, Zamenhof creò una grammatica minimale basandosi su lingue etniche parlate quotidianamente, dalle quali ricavò il lessico e le regole di grammatica. È per tale motivo che molti preferiscono definirla lingua "pianificata" piuttosto che artificiale: ogni regola esiste in una qualche lingua naturale. Era probabilmente affascinato dalla povertà di flessione della lingua inglese, che influenzò specie i verbi. Di seguito sono dati brevi cenni di grammatica[47].
+Articolo, preposizioni e congiunzioni[modifica | modifica wikitesto]
+Sono parti sintattiche del discorso in esperanto, cioè relativi alla struttura logica e sintattica della frase:
+Articolo: esiste un solo articolo, sia per il plurale sia per il singolare, cioè la. Non esistono gli articoli indeterminativi: se qualcosa è indeterminato, semplicemente non si pone l'articolo. Perciò, "floro" significa "fiore", "un fiore", mentre "la floro" significa "il fiore".
+Preposizioni: ogni preposizione viene usata in modo logico per formare un certo numero di complementi logicamente affini.
+Congiunzioni: si comportano in modo simile alle congiunzioni italiane.
+Parti ricavate da radice: sostantivi, aggettivi, verbi e avverbi[modifica | modifica wikitesto]
+Le parti semantiche del discorso sono quelle che sono ricavate da una radice lessicale che contiene un significato generico che di per sé non è né nome, né aggettivo, avverbio o verbo, ma dalla quale si possono ricavare dette parti del discorso. Contrariamente alla maggior parte delle lingue esistenti, la marcatura sintattica delle parole, cioè la possibilità di capire l'appartenenza delle parole stesse a una categoria grammaticale è trasparente e viene data dall'ultima vocale della parola stessa. Si considerino, ad esempio, le parti derivate dalla radice "muzik-", contenente l'idea generale di musica:
+muziko = musica (sostantivo)
+muzika = musicale (aggettivo)
+muzike = musicalmente (avverbio)
+muziki = far musica (verbo all'infinito)
+Verbi: i modi e tempi dei verbi si distinguono dalle desinenze, che non cambiano in base alla persona ma solo per modo e tempo, senza bisogno di ausiliari. Questo è stato ottenuto semplificando l'inglese, che a differenza dell'esperanto cambia la voce verbale per adattarla alla terza persona singolare, e usa alcuni ausiliari per cambiare modo verbale e per comporre le forme negativa e interrogativa (do, would, let, shall/will...), anch'essi eventualmente adattati alla terza persona. Di conseguenza vige anche in esperanto l'obbligo di indicare il soggetto (a meno che il verbo non sia impersonale, come i verbi meteorologici: "pluvas" = "piove", anche se, in certi casi, è possibile usare il pronome impersonale "oni"). Esiste anche la coniugazione composta, ma si forma logicamente conoscendo il significato dei participi (aggettivi derivati dai verbi) e combinandoli con il verbo essere ("esti"). Non esistono verbi irregolari.
+Sostantivi e aggettivi: come in italiano, gli aggettivi si accordano ai sostantivi per numero, ma lo stesso non vale per il genere (che in esperanto si applica solo per i sostantivi che indicano cose sessuate). Il plurale si forma per entrambi aggiungendo una "-j" alla fine della parola (muzikoj = musiche; muzikaj = musicali) e l'aggettivo può indifferentemente precedere o seguire il sostantivo. Entrambi vengono marcati con una "-n" finale se sono complemento oggetto (aŭskulti bonan muzikon = ascoltare buona musica; havi la samajn muzikajn gustojn = avere gli stessi gusti musicali): tale marcatura è definita caso accusativo e permette di permutare l'ordine delle parole nella frase senza perderne il senso.
+Avverbi: si comportano in modo simile agli avverbi in italiano e quindi non possono variare né per genere né per numero.
+Pronomi[modifica | modifica wikitesto]
+Anche i pronomi prendono la desinenza dell'accusativo. Nel caso dei pronomi personali, se sono marcati dall'accusativo equivalgono ai nostri pronomi complemento (mi = io; min = me), mentre se si aggiunge la desinenza dell'aggettivo "-a", si ottengono gli aggettivi possessivi (mia = mio).
+I pronomi sono:
+mi, io
+ci, tu (sostituito da vi nell'uso corrente[48])
+li, egli
+ŝi, ella
+ĝi, esso (riferito a cose, animali, ma talvolta anche a bambini piccoli)
+ni, noi
+vi, voi
+ili, essi
+Esistono anche due pronomi particolari che non hanno nessuna corrispondenza nella lingua italiana:
+oni, derivato dall'"on" francese e simile al "si" impersonale dell'italiano;
+si, usato per indicare che la persona che compie l'azione è la stessa che la subisce; per esempio "Li lavas lin" e "Li lavas sin" si traducono rispettivamente con "lui lava lui" (un altro uomo) e "lui si lava" (lava sé stesso).
+Esclamazioni[modifica | modifica wikitesto]
+Le esclamazioni (o interiezioni) sono espressioni che indicano stati d'animo in genere improvvisi. Non esiste una terminazione specifica che le distingua, ma possono essere agglutinate per formare altre parole. Ad esempio "Fi!" esclamazione che si traduce in italiano con esclamazioni tipo: "Vergogna!", "È uno scandalo!" è usato anche come prefisso in senso negativo per parole che indicano cose moralmente discutibili: "fidomo" (casa di malaffare), "fivorto" (parolaccia).
+Ordine delle parole[modifica | modifica wikitesto]
+L'ordine delle parole dell'esperanto è piuttosto libero, grazie all'accusativo e alla libertà di porre gli aggettivi prima o dopo i nomi. Esso dipende in genere dalle origini del parlante o, più in particolare, dall'enfasi che si vuole dare alle componenti di una frase variandone l'ordine senza comprometterne la comprensibilità. Sebbene vi sia tale libertà l'ordine delle componenti usato prevalentemente è Soggetto-Verbo-Oggetto. Per quanto riguarda l'ordine di sostantivi e aggettivi, statisticamente c'è più spesso che in passato l'anteposizione dell'aggettivo determinante (o più aggettivi determinanti) al sostantivo determinato. Ad esempio, Zamenhof scriveva "lingvo internacia" (ordine Sostantivo-Aggettivo), mentre oggi nella comunità esperantofona si tende più che in passato a dire "internacia lingvo" (ordine Aggettivo-Sostantivo), forse per l'aumentare di esperantisti provenienti da Paesi con lingue germaniche.
+Provenienza del lessico[modifica | modifica wikitesto]
+ Lo stesso argomento in dettaglio: Lessico dell'esperanto.
+La torre di Babele, simbolo della divisione linguistica umana (Pieter Bruegel, 1563)
+Le radici lessicali dell'esperanto sono scelte in base al principio della massima internazionalità[49].
+I parlanti o coloro che hanno studiato una lingua europea tra quelle usate per ricavare il lessico, troveranno vari riferimenti:
+dal latino e dalle lingue romanze:
+dal latino: abio; facila; sed; tamen; okulo; peti (abete; facile; ma; eppure; occhio; chiedere per avere)
+dal francese: dimanĉo; fermi; ĉe; frapi; ĉevalo (domenica; chiudere; presso; percuotere; cavallo)
+dall'italiano: ĉielo; fari; voĉo; amiko; ankaŭ (cielo; fare; voce; amico; anche)
+dallo spagnolo: esperi, gaŭĉo, sombrero, toreadoro (sperare, gaucho, sombrero, torero)
+dal portoghese: saŭdado (saudade)
+dalle lingue germaniche:
+dal tedesco: hundo; biero; jaro; monato; nur; vorto (cane; birra; anno; mese; semplicemente; parola)
+dall'inglese: suno; birdo; fiŝo; ŝipo; blua; ofta (sole; uccello; pesce; nave; blu; frequente)
+dalle lingue slave:
+dal polacco: barĉo; celo; ĉu; luti; moŝto (minestra tipica slava; scopo; congiunzione e particella avverbiale interrogativa; saldare; "don" onorifico)
+dal russo: barakti; krom; vosto (dibattersi; fuorché; coda)
+da altre lingue indoeuropee:
+dal greco: apoteko; hepato; kaj; politiko (farmacia; fegato; e; politica)
+dal lituano: du; ju; tuj (due; ovviamente; adesso)
+dal sanscrito: budho; nirvano; pado (Budda; nirvana; mulattiera)
+dalle lingue ugrofinniche:
+dalle lingue sami: boaco; jojko (renna; tradizionale canto lappone)
+dal finlandese: lirli; saŭno (scrosciare lievemente; sauna)
+dall'ungherese: ĉako; ĉardo; ĉardaŝo (sciaccò[non chiaro]; ciarda; csárdás)
+dalle lingue semitiche:
+ebraico: kabalo (cabala)
+dall'arabo: kadio; kaido; aŭ; magazeno; matraco; admiralo (cadì; caid; oppure; deposito; materasso; ammiraglio)
+da altre lingue:
+dal giapponese: animeo; cunamo; zeno; katano; hajko; haŝio; hibakŝo; samurajo (anime; tsunami; Zen; katana; haiku; bacchette-posata; samurai)
+dal cinese: kungfuo, maĝango, toŭfuo (kung fu, Mah Jong, tōfu).
+Come si può notare dall'elenco, l'esperanto preferisce i calchi piuttosto che i prestiti, cioè si preferisce l'adattamento delle parole straniere alla sua morfologia (per esempio gli aggettivi sono adattati per finire in -a), fonologia e alfabeto. Nel suo periodo di vita il lessico si è arricchito anche di parole provenienti da lingue non indoeuropee, come il giapponese o lo swahili. Infatti il lessico deve essere aggiornato nel caso in cui sorge il bisogno di un termine nuovo che esprima un significato ancora non presente. Se possibile si fa uso di combinazioni di radici esistenti, ad esempio "internet" si è tradotto letteralmente: "interreto", ovvero rete in mezzo (inter reto), in altri casi si calca la parola dalla lingua d'origine come è successo ad esempio, per i concetti nuovi necessari per la terminologia di filosofie orientali. Le parole sono poi ufficializzate e pubblicate nei dizionari (attualmente su internet, in precedenza su carta).
+Non tutte le parole nell'esperanto hanno un significato direttamente deducibile da altre lingue. Alcune di esse sono idiomismi nativi dell'esperanto, nate nell'"Esperantujo" (la comunità esperantista), per proposta di Zamenhof o per la naturale evoluzione della lingua tra i parlanti dell'esperanto:
+edzo = marito
+ĝi = esso/a (per indicare cose asessuate, o anche qualcuno il cui sesso è irrilevante/sconosciuto)
+kabei = comportarsi come Kabe (Kazimierz Bein): abiurare l'esperantismo
+NIFO (Ne-Identigita Flug-Objekto) = UFO
+I punti dai quali la grammatica della lingua internazionale non può prescindere vennero fissati da Zamenhof nell'Unua Libro sotto forma di 16 regole. Tutti coloro che escono da queste regole - salvo per quanto riguarda l'aspetto grafemico, cioè l'uso di alfabeti non appartenenti al Fundamento - escono dalla collettività esperantica, e hanno portato a esperanti riformati (cosiddetti esperantidi), dei quali oggi sopravvive soltanto l'Ido. La morfologia e la sintassi furono desunte dai primi testi del fondatore e sono state poi sviluppate dalla comunità dei parlanti.
+Classificazione[modifica | modifica wikitesto]
+Non è semplice dare una classificazione linguistica per le lingue pianificate come l'esperanto, che prendono caratteristiche da lingue diverse. In quanto lingua artificiale con lo scopo di facilitare la comprensione internazionale fa parte delle lingue ausiliarie internazionali. Considerandola come lingua in quanto tale, la sua struttura e il lessico la fanno collocare nel gruppo delle lingue indoeuropee, ma la sua morfologia prevalentemente agglutinante[50] la porta ai margini di questo gruppo, avvicinandola a lingue come l'ungherese, il turco o il giapponese.
+Essendo modellato quasi esclusivamente su lingue europee dà un certo vantaggio a coloro che hanno studiato o parlano una lingua indoeuropea per l'apprendimento del lessico, viceversa la morfologia può aiutare i parlanti di alcune lingue non indoeuropee.
+Usi pratici della lingua[modifica | modifica wikitesto]
+Cattedrale dell'Esperanto (la esperanto-katedralo): chiesa di San Giuliano Mare (Rimini - Lido Esperanto). Paroho de la Sanktaj Johano kaj Paŭlo.
+L'esperanto ha avuto usi anche al di fuori della comunità esperantista in diverse circostanze. In passato ci sono state anche proposte per usarlo come lingua di stato, ad esempio nel Moresnet, inoltre è stato effettivamente usato nella brevissima vita della Repubblica dell'Isola delle Rose.
+Uso in sperimentazioni didattiche[modifica | modifica wikitesto]
+ Lo stesso argomento in dettaglio: Metodo Paderborn e Apprendimento della seconda lingua.
+L'esperanto si è rivelato un ottimo strumento didattico per l'apprendimento delle lingue straniere nonché della grammatica della propria lingua madre. Ripetuti esperimenti[8] sono stati fatti per usare l'esperanto come lingua propedeutica per una seconda lingua straniera sotto l'intuizione di persone che lo avevano imparato e hanno cominciato a comprendere meglio argomenti di grammatica e le lingue straniere. Il metodo di far studiare ai bambini o ragazzi l'esperanto per un paio d'anni prima di apprendere un'altra lingua, guadagnando tempo anche rispetto a chi inizia a studiare la lingua straniera sin dall'inizio è però detto Metodo Paderborn dal nome dell'università dove lavorava il professor Helmar Frank che condusse un esperimento più rigoroso rispetto ai precedenti.
+Usi e riconoscimenti da enti nazionali e internazionali[modifica | modifica wikitesto]
+ Lo stesso argomento in dettaglio: Esperanto e Organizzazione delle Nazioni Unite, Esperanto ed Unione Europea ed Esperanto e Chiesa cattolica.
+Bandiera dell'UNESCO, che più volte si è espressa a favore della lingua internazionale, come si può leggere nei Records of the General Conference.
+A partire dagli anni novanta nella CEE e attualmente nell'UE si discute per l'uso dell'esperanto negli organi europei, per risparmiare ingenti spese in traduzione, diminuire l'ambiguità delle leggi europee e non favorire i legali o i cittadini di alcun Paese discriminandone altri[51]. Il problema dal punto di vista prettamente economico verte sul fatto che con l'attuale sistema si spende il 40% di bilancio in traduzioni per 23 lingue ufficiali, infatti un documento può essere redatto in una lingua qualsiasi e poi deve essere tradotto in tutte; una lingua di lavoro consentirebbe a ogni Paese di avere solo traduttori specializzati in tale lingua per la traduzione nella lingua locale. L'ultimo dei rapporti economici a proposito è dell'economista François Grin (tradotto in italiano col titolo L'insegnamento delle lingue straniere come politica pubblica)[52], docente all'Accademia di Ginevra, che quantifica in 25 miliardi di Euro il risparmio annuale se l'esperanto fosse usato come lingua di lavoro, del quale si avvantaggerebbero anche Gran Bretagna e Irlanda (nonostante la sola Gran Bretagna guadagni grazie alla sua egemonia qualcosa come il 3% del P. I.L. dell'UE[53]). Il cosiddetto rapporto Grin è giunto a una conclusione favorevole all'esperanto confrontando tre scenari di lingue ufficiali: trilinguismo (supponendo francese, inglese e tedesco), tutto inglese, e l'esperanto; i punti presi in considerazione sono stati principalmente i risvolti economici, a seguire quelli didattici e le eventuali discriminazioni degli europei non parlanti la lingua o le lingue ufficiali. D'altra parte, l'Unione europea «non ritiene necessaria l'introduzione di un'unica lingua franca o un numero ridotto di lingue scelte arbitrariamente e incomprensibili alla maggioranza dei cittadini dell'Unione»[15] giustificando la mole di lavoro dovuta alle traduzioni considerando giusto che ogni Paese membro possa prendere conoscenza degli atti legislativi nella propria lingua direttamente tradotti dagli organi europei[54] piuttosto che ottenerli nell'unica o poche lingue di lavoro e tradurli nella propria. Altri invece criticano tale multilinguismo sostenendo che sia solo di facciata e nasconderebbe una politica che in realtà porterebbe al solo inglese o poche lingue[17].
+Nel febbraio 2010 otto parlamentari britannici propongono l'Associazione Mondiale di Esperanto come candidata al Premio Nobel per la pace[55], fatto ritenuto molto incoraggiante proprio per la nazione dal quale proviene. Già nel 2007 dei parlamentari svizzeri avevano candidato l'Associazione Universale Esperanto (UEA) al premio Nobel per la pace, per le iniziative umanitarie[56].
+Nel 1993 fu istituita una commissione per l'esperanto nelle scuole italiane, affinché i giovani, dopo uno studio di questa lingua, potessero imparare con maggiore dimestichezza le lingue straniere. Nel 1995 una circolare fu mandata attraverso il Bollettino Ufficiale della Pubblica Istruzione, con la diffusione del documento conclusivo della Commissione sull'esperanto, contenente i risultati di numerosi studi, italiani e stranieri sulla valenza propedeutica dell'esperanto nell'apprendimento delle lingue straniere[8].
+Le varie associazioni esperantiste organizzano spesso convegni e incontri ludico-culturali di vario genere. I viaggi per partecipare a tali attività all'estero possono avvantaggiarsi della possibilità di essere ospitati da altri esperantisti, minimizzando le spese di vitto e alloggio[57].
+La Chiesa cattolica ha tradotto il messale in esperanto. Inoltre da anni i papi danno gli auguri di Natale e Pasqua in esperanto, come penultima lingua prima del latino in occasione del tradizionale Urbi et orbi[58]. Una volta al mese viene inoltre celebrata la Santa Messa in esperanto presso la Chiesa di San Tomaso di Milano.[59].
+L'esperanto è presente nei totem per prenotare il turno di accesso agli sportelli della Agenzia delle Entrate insieme all'italiano e a 4 altre lingue (francese, inglese, sloveno e tedesco)[60]
+Il 20 novembre 2014, il ministro polacco della cultura Małgorzata Omilanowska ha approvato l'inserimento della lingua esperanto nel patrimonio culturale immateriale della Polonia[11].
+L'11 febbraio 2019, il Ministero della Cultura croato ha riconosciuto la tradizione dell'esperanto come eredità culturale immateriale della Croazia[12].
+Mondo accademico, scienza e nuove tecnologie[modifica | modifica wikitesto]
+Pacchetti di localizzazione in esperanto per la distribuzione Ubuntu, installabili tramite il gestore di pacchetti software Synaptic.
+L'Universala Esperanto-Asocio tiene aggiornato il lessico dell'esperanto con i nuovi termini che la scienza richiede, specie nel campo delle tecnologie informatiche, per poter continuare a pubblicare ricerche in tale lingua[61].
+L'esperanto è anche la lingua di apprendimento in un'università, l'Accademia Internazionale delle Scienze (Akademio Internacia de la Sciencoj) di San Marino[62], che di recente ha organizzato sessioni di studio in Romania (Sibiu), Bulgaria (Karlov) e Slovacchia (Komárno)[63]. L'Università degli studi di Milano ha attivato una rivista di interlinguistica e filosofia dei linguaggi artificiali, chiamata InKoj, che prevede l'esperanto come lingua obbligatoria a fronte di tutti gli articoli pubblicati[64].
+Per quanto riguarda la lingua dell'interfaccia grafica del computer, ci sono numerosi sistemi operativi GNU/Linux che danno il supporto a questa lingua.[45] Ad esempio, esistono localizzazioni in esperanto per software libero di uso comune, come OpenOffice[65] e LibreOffice[66] o il browser Mozilla Firefox[67][68]. Per quanto riguarda la localizzazione in ambito proprietario, per il sistema operativo Windows Vista è stata creata una localizzazione non ufficiale[69], e nell'ambito del freeware collegato a questo sistema operativo c'è anche il programma di compressione dei dati IZArc che ne è provvisto[70]. Il motore di ricerca Google offre la possibilità di effettuare ricerche localizzate in lingua esperanto[71] mentre il progetto Dmoz contiene un elenco aggiornato di categorie di collegamenti in lingua esperanto[72]. A partire dal 23 febbraio 2012 Google ha implementato il suo prodotto Google Translate aggiungendo l'esperanto, che diventa la 64° lingua supportata dal traduttore automatico[73].
+Esiste almeno un progetto di creazione di un'ontologia informatica (fondamentale per l'introduzione della semantica nel web semantico) contenente il lessico dell'esperanto in linguaggio OWL, che permetterà di fare ricerche in internet anche in esperanto usando un linguaggio più "naturale"[74].
+I progetti della Fondazione Wikimedia in esperanto, tra cui Wikipedia (nella quale è contenuto questo articolo) sono qualitativamente i più ricchi tra tutti i progetti analoghi di altre lingue artificiali, superando per quantità anche molte lingue nazionali[75].
+Grazie a internet, l'Esperanto ha potuto usufruire di nuove possibilità per la sua diffusione e la fruizione. Oltre ai corsi in rete (KIREK, Lernu!, Kurso de Esperanto e simili), oltre ai siti dedicati alla letteratura e alla sua storia, oltre ai portali delle associazioni nazionali e internazionali, oggi si è visto un fiorire di radio, sia come web radio (Muzaiko, la Muse Dancejo) sia come podcast (es: Radio Verda) interamente in lingua Esperanto, svincolandosi così dalla condizione di semplice programma di palinsesto nelle emittenti internazionali e guadagnando una propria identità.
+L'esperanto nel cinema[modifica | modifica wikitesto]
+ Lo stesso argomento in dettaglio: Film in esperanto.
+Angoroj (foto di Jacques Mahe)
+Sinora sono stati realizzati due lungometraggi in esperanto. Il primo è un film poliziesco di produzione francese del 1964: Angoroj (Angosce), diretto da Jacques-Louis Mahé. In seguito al fiasco commerciale del film, Mahé cadde in depressione e ne distrusse quasi tutte le copie. Se ne salvarono solo due, oggi detenute da due associazioni esperantiste, e l'originale recuperata dalla cooperativa culturale esperantista LF-koop che ha riedito il filmato nel 1991[76]. Il secondo lungometraggio è Incubus, un film d'orrore americano del 1965 realizzato da Leslie Stevens e interpretato, tra gli altri, da William Shatner. Anche questo rischiò di andare perduto in seguito a un incendio che ne distrusse anche l'originale. Ne fu trovata una copia sottotitolata in francese alla cinémathèque française, che ne permise la redistribuzione. La scelta dell'esperanto per questo film è stata squisitamente artistica, perché il regista voleva creare un'atmosfera particolare, e ne ha proibito qualsiasi doppiaggio.
+Nel 2011 esce il documentario sull'esperanto The Universal Language (La universala lingvo) del documentarista statunitense candidato al Premio Oscar Sam Green, con interviste in inglese ed esperanto e sottotitoli in ben 16 lingue[77].
+In modo meno evidente si è fatto uso dell'esperanto anche in altre pellicole[78]. Ad esempio nel film Il grande dittatore di Charlie Chaplin (1940), tra le iscrizioni con nomi di fantasia dei negozi del ghetto ebraico molte sono chiaramente in esperanto[79]. Più di recente nel film di fantascienza Gattaca del 1997, gli annunci all'interno del centro spaziale omonimo sono in esperanto, per non dare riferimenti geografico-culturali. Anche in Blade: Trinity l'esperanto appare un certo numero di volte nel film, specie nelle insegne, e in una scena in cui viene visto il film Incubus[80]. Nel film Street Fighter - Sfida finale, nel paese di Shadaloo si usa l'esperanto come lingua madre, mentre una canzone è cantata in questa lingua da un gruppo di soldati del generale Bison[81]. Poche frasi in esperanto sono state pronunziate anche in una scena del film Captain Fantastic del 2016, quando due delle figlie del protagonista (Ben Cash) interpretato da Viggo Mortensen discutono tra loro.
+Una scritta in esperanto (mi prenos vin kun mi: ti prenderò con me) è inoltre presente su di uno striscione nel video ufficiale della canzone Ti porto via con me di Lorenzo Jovanotti[82]. Ne El Secreto de Puente Viejo appare il personaggio di Regalado (puntate 942-945), un esperantista che tenterà di insegnare a Puente Viejo la lingua.
+La lingua parlata[modifica | modifica wikitesto]
+L'uso quotidiano dei parlanti ha portato all'inserimento nel vocabolario di alcune parolacce. Inoltre modi di dire sono stati sviluppati naturalmente e poi sono stati riconosciuti ufficialmente. Ad esempio, un modo di dire non derivato da altre lingue è l'uso del verbo krokodili, che letteralmente significa "coccodrillare", ma che in esperanto indica l'azione compiuta da coloro che, trovandosi in un gruppo composto da persone di nazionalità diversa, ma dove tutti capiscono e parlano una certa lingua (in genere l'esperanto), passano alla propria lingua nazionale privando gli altri del piacere di seguire il loro discorso[83]. Inoltre il linguaggio scientifico-matematico in esperanto è praticamente equivalente a quello delle altre lingue[84].
+Lingua dei segni internazionale[modifica | modifica wikitesto]
+ Lo stesso argomento in dettaglio: Lingua dei segni internazionale.
+Il problema di comunicazione da parte di persone sorde è notoriamente risolto mediante lingue dei segni, cioè linguaggi creati appositamente per chi non sa parlare ma può usare le mani per esprimere pensieri complessi. Come per le lingue etniche ci sono varie lingue dei segni, e anche queste spesso non sono intelligibili reciprocamente. Una soluzione proposta di lingua dei segni internazionale viene dal mondo esperantista, ed è il signuno, lingua dei segni basata sulle radici lessicali dell'esperanto[85].
+Esempi di testo in lingua[modifica | modifica wikitesto]
+Prenu kaj manĝu - Cattedrale dell'Esperanto (la esperanto-katedralo). Chiesa di San Giuliano Mare (Rimini - Lido Esperanto). Paroho de la Sanktaj Johano kaj Paŭlo.
+Come estratto di lingua qui di seguito vi sono il Padre nostro e l'inizio di Le avventure di Pinocchio di Carlo Collodi, nelle versioni in esperanto e in italiano:
+(EO) 
+«Patro nia, Kiu estas en la ĉielo,sanktigata estu Via nomo.Venu Via regno,fariĝu Via volo,kiel en la ĉielo tiel ankaŭ sur la tero.Nian panon ĉiutagan donu al ni hodiaŭkaj pardonu al ni niajn ŝuldojn,kiel ankaŭ ni pardonas al niaj ŝuldantoj.Kaj ne konduku nin en tenton,sed liberigu nin de la malbono.(Ĉar Via estas la regno kaj la potencokaj la gloro eterne.)Amen»
+(IT) 
+«Padre nostro, che sei nei cieli,sia santificato il Tuo nome.Venga il tuo regno,sia fatta la Tua volontà,come in cielo, così in terra.Dacci oggi il nostro pane quotidianoe rimetti a noi i nostri debiti,come noi li rimettiamo ai nostri debitori.E non indurci in tentazione,ma liberaci dal male.(Poiché Tuo è il regno, la potenzae la gloria in eterno.)Amen»
+(Padre Nostro: Patro Niai)
+Il Padre nostro è un brano molto significativo poiché mette in evidenza varie caratteristiche della lingua, come i correlativi, modi verbali come l'indicativo e il volitivo, e la derivazione di parole mediante l'agglutinazione di affissi, ad esempio da ŝuldo (debito) deriva ŝuldanto ("debitante", debitore)[86]; dall'aggettivo libera (libero/a) deriva il verbo liberigi (rendere liberi, liberare)[87]; oppure come si ottiene il contrario di bono (bene) aggiungendo il prefisso mal-, ottenendo malbono (male)[88].
+Un altro pezzo può far capire l'aspetto della lingua anche nella prosa, quindi di seguito si presenta l'inizio di Le avventure di Pinocchio:
+(EO) 
+«Estis iam...!- Reĝo! - certe tuj diros miaj malgrandaj legantoj.- Ne, geknaboj, vi eraris. Estis iam lignopeco.Ĝi ne estis ligno luksa, sed simpla peco el stako, tia, kian vintre oni metas en la fornon aŭ kamenon, por bruligi fajron kaj varmigi la ĉambron.Mi ne scias, kiel okazis, sed fakto estas, ke iun tagon ĉi tiu lignopeco venis en la laborejon de maljuna lignaĵisto, kies nomo estis majstro Antono, kvankam ĉiuj nomis lin nur Ĉerizo pro la nazopinto, ĉiam brila kaj ruĝa, simile al matura ĉerizo.»
+(IT) 
+«C'era una volta...- Un re! - diranno subito i miei piccoli lettori.- No, ragazzi, avete sbagliato. C'era una volta un pezzo di legno.Non era un legno di lusso, ma un semplice pezzo da catasta, di quelli che d'inverno si mettono nelle stufe e nei caminetti per accendere il fuoco e per riscaldare le stanze.Non so come andasse [come accadde], ma il fatto gli è che un bel giorno questo pezzo di legno capitò nella bottega di un vecchio falegname, il quale aveva nome mastr'Antonio, se non che tutti lo chiamavano maestro Ciliegia, per via della punta del suo naso, che era sempre lustra e paonazza, come una ciliegia matura.»
+(da "Le avventure di Pinocchio" di Carlo Collodi, e la traduzione in esperanto di Giuseppe Croatini.)
+La prima cosa a risaltare anche per chi non conosce la lingua è forse il diverso uso dell'articolo (in esperanto non esiste quello indeterminativo). Si noti anche la traduzione della parola "ragazzi" che in esperanto non diventa "knaboj" ("ragazzi" in senso letterale, cioè solo maschi) ma geknaboj ("ragazzi e ragazze": il prefisso ge- indica che il gruppo è di ambosessi).
+Frasi semplici[modifica | modifica wikitesto]
+Italiano
+Esperanto
+IPA
+Ciao
+Saluton[?·info]
+[sa.ˈlu.ton]
+Sì
+Jes[?·info]
+[ˈjes]
+No
+Ne[?·info]
+[ˈne]
+Buongiorno
+Bonan matenon[?·info]
+[ˈbo.nan ma.ˈte.non]
+Buonasera
+Bonan vesperon[?·info]
+[ˈbo.nan ves.ˈpe.ron]
+Buonanotte
+Bonan nokton[?·info]
+[ˈbo.nan ˈnok.ton]
+Arrivederci
+Ĝis (la) revido[?·info]
+[ˈdʒis (la) re.ˈvi.do]
+Qual è il tuo nome?
+Kio estas via nomo?[?·info]
+[ˈki.o ˌes.tas ˌvi.a ˈno.mo]
+Il mio nome è Marco
+Mia nomo estas Marko[?·info]
+[ˌmi.a ˈno.mo ˌes.tas ˈmar.ko]
+Come stai?
+Kiel vi fartas?[?·info]
+[ˈki.el vi ˈfar.tas]
+Sto bene
+Mi fartas bone[?·info]
+[mi ˈfar.tas ˈbo.ne]
+Parli Esperanto?
+Ĉu vi parolas Esperante? / Ĉu vi parolas la Esperantan?[?·info]
+[ˈtʃu vi pa.ˈro.las ˌes.pe.ˈran.te] / [ˈtʃu vi pa.ˈro.las ˌ la ˌ es.pe.ˈran.tan]
+Non ti capisco
+Mi ne komprenas vin[?·info]
+[mi ˌne kom.ˈpre.nas ˌvin]
+Bene (avverbio)
+Bone[?·info]
+[ˈbo.ne]
+Giusto (avverbio)
+Ĝuste[?·info]
+[ˈdʒus.te]
+Grazie
+Dankon[?·info]
+[ˈdan.kon]
+Di niente
+Ne dankinde[?·info]
+[ˌne.dan.ˈkin.de]
+Per favore
+Bonvolu[?·info]
+[bon.ˈvo.lu]
+Scusami
+Pardonu (min)[?·info]
+[par.ˈdo.nu (ˈmin)]
+Salute!
+Sanon![?·info]
+[ˈsa.non]
+Complimenti!
+Gratulon[?·info]
+[ɡra.ˈtu.lon]
+Ti amo
+Mi amas vin[?·info]
+[mi ˈa.mas ˌvin]
+Una birra, per favore
+Unu bieron, mi petas[?·info]
+[ˈu.nu bi.ˈe.ron, mi ˈpe.tas]
+Dov'è il bagno?
+Kie estas la necesejo?[?·info]
+[ˈki.e ˈes.tas ˈla ˌne.tse.ˈse.jo]
+Cos'è quello?
+Kio estas tio?[?·info]
+[ˈki.o ˌes.tas ˈti.o]
+Quello è un cane
+Tio estas hundo[?·info]
+[ˈti.o ˌes.tas ˈhun.do]
+Noi ameremo!
+Ni amos![?·info]
+[ni ˈa.mos]
+Pace!
+Pacon![?·info]
+[ˈpa.tson]
+Sono un principiante in Esperanto
+Mi estas komencanto de Esperanto[?·info]
+[mi ˈes.tas ˌko.men.ˈtsan.to de ˌes.pe.ˈran.to]
+Critiche e discussioni[modifica | modifica wikitesto]
+Oltre che lingua più famosa, l'esperanto è la lingua ausiliaria internazionale (in seguito LAI) che più ha fatto e fa discutere sia esperantisti che non. In seguito sono riportate le discussioni più comuni riguardanti le LAI in generale, o direttamente l'esperanto. Se l'esperanto di oggi è praticamente quello di Zamenhof, alcune critiche hanno invece causato veri e propri scismi, che hanno dato vita ai cosiddetti esperantidi[89]. Di seguito ci sono le critiche più importanti sull'argomento[90][91][92].
+Critiche generali sulle lingue ausiliarie internazionali (LAI)[modifica | modifica wikitesto]
+Molte persone ritengono che una lingua sia qualcosa di vivo, ed effettivamente essa si evolve, può cambiare o estinguersi ed è paragonabile a una specie vivente (non un essere vivente). A causa di tale paragone, alcuni ritengono impossibile "dar vita" a una lingua artificiale. L'esperienza con varie LAI invece ha dimostrato che quando sono state effettivamente usate si sono evolute e hanno talvolta trovato nuovi mezzi espressivi con l'espandersi della comunità[93], e analizzando i 4 significati del termine "naturale" in linguistica, non si trova alcuna definizione che potrebbe scientificamente creare una distinzione tra l'esperanto e un'altra lingua[94] e per estensione, le altre LAI adottabili da una comunità dopo la loro creazione e uso. La fase iniziale per la "vita" di una LAI, ovvero il pieno apprendimento di essa da parte dei bambini madrelingua, è ben documentata[95]. Inoltre, la teoria della grammatica universale[96] sulla quale si basano le teorie linguistiche di Noam Chomsky, sostiene che una qualsiasi lingua possa essere appresa e usata se contiene:
+un insieme di parole (lessico)
+una grammatica (regole assimilabili dal cervello umano) che permetta di usare il lessico per esprimere concetti.
+Se ha tali caratteristiche, una LAI è psicolinguisticamente simile alle lingue naturali e quindi dovrebbe comportarsi come esse. Tuttavia, una conseguenza dell'evoluzione di una LAI sarebbe la separazione in dialetti che col tempo pregiudicherebbero la comprensione, per cui si auspica solo l'uso della LAI come seconda lingua internazionale (comunicazione tra parlanti di lingue diverse), affiancandola alle lingue storico-naturali (comunicazione tra locutori dello stesso idioma), cosa che dovrebbe mantenerla stabile in modo simile a come successo per secoli alla lingua italiana.
+Gli oppositori alle LAI contestano spesso che una lingua ausiliaria internazionale non ha un popolo, e quindi una cultura[97]. Coloro che le sostengono affermano che una lingua del genere debba far dialogare, e non necessariamente imporre una cultura[23]. Riferendosi alla letteratura invece, può valere per molte lingue artificiali l'essere rimaste inutilizzate, ma esiste una letteratura per le lingue ausiliarie che hanno avuto più successo, talvolta anche di notevole valore artistico[98][99][100].
+Altre discussioni in generale sono dovute al fatto che la tolleranza nei confronti delle imperfezioni presenti nelle lingue ausiliarie internazionali è minore rispetto a quella nei confronti delle imperfezioni e irregolarità presenti nelle lingue etniche (come verbi irregolari, in genere evitati nelle lingue artificiali). Le risposte a questo genere di critiche sono generalmente basate sul fatto che nessuna lingua internazionale può essere perfetta e accettata da tutti indistintamente, quindi è inevitabile dover giungere a compromessi su alcuni punti[101][102].
+Critiche e dibattiti che riguardano direttamente l'esperanto[modifica | modifica wikitesto]
+Fundamento de Esperanto, edizione italiana, 1907.
+Solitamente facendo riferimento soprattutto al latino e alle lingue romanze, i sostenitori delle lingue naturalizzate sostengono che l'esperanto non è direttamente conforme alle grandi lingue europee. Ad esempio, i vocaboli o parole derivate come "malsanulejo" potrebbero essere sostituite con un più europeo "hospitalo" (per la parola "ospedale"). Di contro, la modifica verso una maggiore europeizzazione renderebbe l'esperanto più facile per gli europei da un punto di vista lessicale, ma allo stesso tempo più difficile per i non europei, i quali dovrebbero imparare molte forme "europee" separatamente invece di ricavarle logicamente dalla radice[103][104][105].
+Dall'altra parte l'esperanto viene spesso criticato perché troppo europeo. Le sue radici lessicali provengono principalmente dalle lingue europee parlate o studiate da Zamenhof (vedi sopra); ciò secondo i critici ne sminuirebbe la neutralità. Secondo gli esperantisti l'esperanto, dal punto di vista morfologico e grammaticale, si avvicina più al giapponese, al turco o alle lingue bantu che a molte delle lingue europee, in quanto ha una struttura agglutinante; quanto al lessico, era praticamente impossibile, ai tempi di Zamenhof, avere accesso al lessico di altre lingue lontane, oppure creare una lingua basata sulle migliaia di idiomi esistenti[106]. In più, l'esperanto non appartiene a nessuna potenza politica o economica, e questo è -almeno dal punto di vista economico e politico- una garanzia di neutralità nel pratico, dal momento che nessuna potenza si avvantaggia da esso nel senso che nessuno può beneficiare di turismo linguistico, o vantare l'accento "perfetto" per cui viene favorito nell'insegnamento o nell'assunzione in posti di lavoro che richiedono l'uso della lingua internazionale.
+Karl Brugmann e August Leskien hanno polemizzato sulla presenza di due parole in esperanto per "chiesa": Eklezio (Chiesa, istituzione) e preĝejo (chiesa, luogo di culto[107]), mentre altre lingue come l'italiano e l'inglese hanno un solo termine. A detta degli esperantisti, la presenza del binomio mostra l'attenzione alla filantropia propria dell'esperanto, infatti, preĝejo può indicare un luogo di culto di ogni religione indipendentemente dall'ideologia e dal credo del parlante.
+L'indicazione del genere in esperanto non è simmetrica, ed è quindi considerata talvolta come sessismo linguistico da chi lo critica. Alcune radici hanno origine maschile e sono rese femminili[108], mentre le varianti maschili sono usate anche per indicare cose o esseri il cui sesso non è noto; anche dall'altro lato c'è la presenza di radici femminili (anche se in numero minore rispetto a quelle maschili). A difesa, la maggiore simmetria nei pronomi rispetto ad altre lingue che lo renderebbero più "politicamente corretto": l'uso del pronome "ĝi" per le persone il cui sesso è sconosciuto/nascosto; o l'uso del prefisso "ge-" per i sostantivi che indicano gruppi composti da ambosessi. Resta l'asimmetria per i sostantivi, per la quale sono state proposte delle riforme per la formazione del genere, alcune abbastanza note, sebbene nessuna sia stata ancora ufficializzata (attualmente vengono osservate le tendenze dei parlanti)[109][110].
+Oggetto di critiche è la presenza di un caso per indicare il complemento oggetto, cioè si sostiene che la desinenza dell'accusativo "-n" si sarebbe potuta evitare, stabilendo un ordine fisso dei costituenti, ad esempio l'ordine Soggetto Verbo Oggetto, che è il più tipico delle lingue europee. Ma a difesa di ciò, l'accusativo è ritenuto necessario per dare la grande libertà nell'ordine delle parole tipica di questa lingua, che quindi può anche non seguire un ordine prefissato (secondo l'enfasi o le tendenze naturali della propria lingua madre) senza perdere chiarezza[111].
+Si criticano i segni diacritici su alcune lettere dell'alfabeto dell'esperanto, non facili da scrivere al computer (problema parecchio sentito specie da quando la posta elettronica ha un uso massiccio). Tuttavia, 26 lettere non erano sufficienti per rappresentare i 28 fonemi dell'esperanto così da poter mantenere il paradigma: "a ogni suono una lettera, a ogni lettera un suono". Sono stati ideati quindi sistemi di scrittura che prevedono particolari coppie di lettere invece delle singole lettere esperantiste. Questo punto cessa di essere critico man mano che vengono sostituiti i nodi di internet che non usano sistemi operativi con codifica Unicode, uno dei fondamenti per il futuro Web semantico[112], e con la diffusione dell'uso di programmi che permettono la scrittura dell'esperanto con una qualsiasi tastiera[44].
+Esperantisti e simpatizzanti famosi[modifica | modifica wikitesto]
+L'esperanto ha come patrona santa Ildegarda di Bingen, una mistica medievale tedesca proclamata Dottore della Chiesa nell'ottobre 2012; ella infatti creò la lingua ignota, lingua artificiale che a differenza dell'esperanto doveva avere usi mistici[113]. Tra i personaggi più famosi che si sono espressi a favore dell'esperanto, o sono stati effettivamente esperantisti, si possono ricordare[114]:
+Albert Einstein[115]
+Lev Nikolaevič Tolstoj[116][117]
+Oscar Luigi Scalfaro[118][119]
+Enzo Biagi
+Stefano La Colla, paleografo ed esperantista
+Umberto Eco[120][121]
+Edmondo De Amicis
+Alessandro Bausani, islamista italiano.
+Itamar Ben Avi, primo parlante nativo dell'ebraico in epoca moderna
+Bruno Migliorini, a lungo presidente dell'Accademia della Crusca[122]
+Elio Migliorini, geografo, fratello di Bruno Migliorini
+Tullio De Mauro, linguista[123][124]
+Romain Rolland, scrittore, premio Nobel per la letteratura.
+Franz Jonas, Presidente dell'Austria nel periodo 1965-1974.
+J. R. R. Tolkien[125]
+Antoine de Maximy[126]
+I papi Giovanni XXIII, Pio X, Paolo VI, Giovanni Paolo II[117]
+Padre Kolbe[117]
+Carlo Minnaja
+Jules Verne
+Rudolf Diesel[127]
+Reinhard Selten, premio Nobel per l'economia[117][128]
+Eugenio Bennato[53]
+Robert Baden-Powell, fondatore dello scautismo[129]
+Ebenezer Howard, urbanista inglese, creatore della città giardino[130]
+Enrico Carlo Noë, insegnante e stenografo ceco vissuto in Italia
+L'esperanto nella cultura di massa[modifica | modifica wikitesto]
+ Lo stesso argomento in dettaglio: Cultura esperantista.
+Cinema[modifica | modifica wikitesto]
+Il film horror Incubus (1965) è girato interamente in lingua esperanto. La pellicola ha come attore protagonista William Shatner, noto al grande pubblico per il ruolo di Capitano Kirk nella saga di Star Trek.
+In una scena del film Captain Fantastic (2016) è presente un dialogo in lingua esperanto.
+Il regista messicano Alfonso Cuarón simpatizza per l'esperanto[131][132] e ha chiamato la sua casa di produzione Esperanto Filmoj. Nei titoli di testa del film Roma (2018) appare a schermo intero una dicitura in lingua: “Filmo produktita de Esperanto Filmoj” ("film prodotto da Esperanto Filmoj").
+Nella stagione 25, episodio 12, de I Simpson, il preside Skinner rivolge alcune frasi in esperanto al giardiniere Willie.
+Nel film d'animazione Patema Inverted, l'ending nei titoli di coda è cantata da Estelle Micheau in esperanto.
+Il film L'incredibile storia dell'Isola delle Rose tratta della storia vera dell'Isola delle Rose, la piattaforma artificiale creata dall'ingegnere Giorgio Rosa, che le diede come lingua ufficiale l'esperanto.
+In tutta la durata del film Gattaca, gli annunci riportati dagli altoparlanti, per esempio allo spazioporto, sono in lingua esperanto[133].
+Musica[modifica | modifica wikitesto]
+La canzone Rumore di niente di Francesco De Gregori inizia con un riferimento alla lingua esperanto.
+Nel video ufficiale di Ti porto via con me (Jovanotti) appare uno striscione col titolo tradotto in esperanto (Mi prenos vin kun mi).
+Il celebre brano Con te partirò è stato tradotto ed eseguito anche in esperanto. La versione è stata accolta con entusiasmo da Andrea Bocelli[134].
+Televisione[modifica | modifica wikitesto]
+Internacia Televido, primo, e fino ad ora, unico canale televisivo dedicato interamente alle trasmissioni in lingua esperanto
+Letteratura[modifica | modifica wikitesto]
+ Lo stesso argomento in dettaglio: Letteratura in esperanto.
+Tra gli scrittori e poeti più noti che hanno scritto in esperanto[135]:
+William Auld
+Julio Baghy
+Kazimierz Bein (detto "Kabe")
+Clarence Bicknell
+Marjorie Boulton
+Jorge Camacho
+Fernando de Diego
+Antoni Grabowski
+Kálmán Kalocsay
+Li Shijun (pseudonimo: "Laŭlum")
+Miyamoto Masao
+Abel Montagut
+István Nemere
+Claude Piron
+Edmond Privat
+Reto Rossetti
+Raymond Schwartz
+Giorgio Silfer
+Spomenka Štimec
+Gaston Waringhien
+Ludwik Lejzer Zamenhof
+Tra di essi, William Auld, poeta scozzese, dal 1999 al 2006 è stato candidato al Premio Nobel per la letteratura[136]. Dal 2007 al 2018 il candidato al Premio Nobel per la letteratura è stato Baldur Ragnarsson, poeta islandese, nominato dall'Associazione degli Scrittori Esperantofoni (Esperantlingva Verkista Asocio)[137]. Alla morte di quest'ultimo (2018) il "PEN Club Esperanto" ha nominato candidato l'italo-svizzero Giorgio Silfer.
+Tra gli scrittori italiani[138] possiamo ricordare:
+Clelia Conterno
+Enrico Dondi
+Lina Gabrielli
+Luigi Giambene
+Giovanni Peterlongo, che ha tradotto la Divina Commedia in esperanto (nel 1963 la prima pubblicazione)[139].
+Giorgio Silfer, attuale candidato al Premio Nobel per la letteratura.
+Note[modifica | modifica wikitesto]
+^ (IT) Emanuele Cerreti, In due milioni parlano esperanto la lingua del paese che non c'è - Repubblica.it, su repubblica.it, La Repubblica, 15 dicembre 2009. URL consultato il 16 dicembre 2009.
+^ (EN) David Powell, Appeal to find Esperanto speakers, su dailypost.co.uk, Daily Post, 13 luglio 2011. URL consultato il 14 luglio 2011.
+^ (EN) Why does anyone learn Esperanto?, su news.bbc.co.uk, 16 luglio 2008. URL consultato il 29 settembre 2011.
+^  Michael Byram, Routledge Encyclopedia of Language Teaching and Learning.«L'esperanto è l'unica lingua artificiale ad aver conseguito un uso relativamente ampio; si stima tra cinque e quindici milioni il numero di persone ad averlo studiato, anche se coloro che ne fanno un uso regolare probabilmente non superano l'uno per cento di tale numero.»
+^ Irene Galigaris (2016), Una lingua per tutti, una lingua di nessun paese (una ricerca sul campo sulle identità esperantiste) - prefazione di Federico Gobbo, p.85, 106, Aracne Editrice, ISBN 978-88-548-8864-7
+^ È quanto viene confermato da numerosi studi scientifici, tra i quali si cita " Claude Piron, Comunicazione linguistica: studio comparativo sul campo, su claudepiron.free.fr. URL consultato il 15 maggio 2008." riportante uno studio del linguista e psicologo belga C. Piron
+^ Helen S. EATON, An experiment in Language Learning, High Points in the work of the High School of New York City, Oct. 1934 and May 1935, annual report 1934-1935, p. 27-30
+^ a b c BOLLETTINO UFFICIALE. MINISTERO DELLA PUBBLICA ISTRUZIONE ANNO 122°, ROMA, 25 MAGGIO - 1° GIUGNO 1995, N. 21-22. Contiene vari studi ed esperimenti
+^  12 risposte a chi vuole saperne di più sull'esperanto, su it.lernu.net. URL consultato il 22 luglio 08 (archiviato dall'url originale il 16 giugno 2008).
+^  Antonio Toral, Sergio Ferrández, Andrés Montoyo, EAGLES compliant tagset for the morphosyntactic tagging of Esperanto, settembre 2005 (archiviato dall'url originale il 10 marzo 2008).
+^ a b  L'esperanto patrimonio della cultura polacca, su Disvastigo, 24 novembre 2014. URL consultato il 16 maggio 2022.
+^ a b Repubblica di Croazia, Ministero della Cultura, Decisione scritta in data 11 febbraio 2019, versione ufficiale in croato Archiviato il 3 marzo 2019 in Internet Archive. e traduzione in esperanto Archiviato il 13 maggio 2019 in Internet Archive.. Classe: UP lI-612-081 1 8-06/0150. Reg.: 532-04-0 1 -03-02 12-19 -2.
+^  Corriere del Web.it, su comunicatostampa.blogspot.com.. Ad esempio, la parlamentare europea slovena Ljudmila Novak ha presentato una proposta alla Commissione per la Cultura dell'europarlamento il 21 gennaio 2009
+^ Il sito del Comitato Nazionale di Difesa delle Lingue e delle Culture (accesso=20 maggio 2008). Il sito ormai abbandonato conteneva molti documenti ufficiali di politica nazionale ed europea riguardo al problema linguistico
+^ a b  Portale Lingue di Europa, su europa.eu. URL consultato il 12 dicembre 2009.
+^  Renato Corsetti, "Occitano, italiano ed esperanto: stessa lotta!", su allarmelingua.it (archiviato dall'url originale il 22 maggio 2011).
+^ a b  L'italiano escluso dall'Europa «L'oligarchia di inglese, francese, tedesco discrimina la nostra lingua», su archiviostorico.corriere.it (archiviato dall'url originale il 6 maggio 2010).
+^  Italia ricorre contro 'trilinguismo' concorsi funzionari, su apcom.net (archiviato dall'url originale il 10 aprile 2010).
+^  Un mondo in cui tutti si capiscono è un mondo migliore, di Hans Malv, su 2-2.se. URL consultato il 13 ottobre 2008 (archiviato dall'url originale il 29 ottobre 2008).
+^  Perché la lingua esperanto, di Piermichele Giordano [collegamento interrotto], su disvastigo.it. URL consultato il 13 ottobre 2008.
+^ Come è accaduto in Europa con il latino e il greco che hanno dato vita a vere e proprie lingue diverse (come francese, italiano, spagnolo, o greco moderno e grecanico...), e come tuttora accade alle lingue coloniali europee (inglese, francese, spagnolo e portoghese in primis), che nonostante i potenti mezzi di comunicazione di massa attuali che favoriscono l'unità, si stanno lentamente separando
+^ Il testo completo della Dichiarazione di Boulogne su wikisource
+^ a b Il testo completo del Manifesto di Praga su wikisource
+^ A mia memoria invece l'autore fu Antonjie Sekelj, fratello di Tibor Sekelj, sulla rivista Esperanto dell'UEA ricordo di aver visto, allora, l'attribuzione. Bruĉjo Kasini
+^ (EN) Flags of the World (FOTW), su fotw.net. URL consultato il 13 ottobre 2008 (archiviato dall'url originale il 31 agosto 2007).
+^ a b EBRAISMO ED ESPERANTO NELL'EUROPA DELL'EST, Carlo Minnaja
+^  Pietro Dao, Lingvolerno laŭ naturmetodo, Calliano, Manfrini editori, 1993,  p. 10, ISBN 88-7024-488-1.
+^ (EO) Estratto dalla lettera di Zamenhof a Borovko, in cui si parla anche della condizione nella città di Białystok (Traduzione dal russo di Vladimir Gernet) (TXT), su ftp.stack.nl. URL consultato il 13 ottobre 2008 (archiviato dall'url originale il 19 agosto 2014).
+^ Edmond Privat, Vivo de Zamenhof (Vita di Zamenhof), ELibro, 2001. ISBN 91-7303-127-5.
+^  Esperanto, cento anni nella Capitale. Archivio storico del Corriere della sera, su archiviostorico.corriere.it. URL consultato il 20 giugno 2008.
+^ In Mein Kampf, Adolf Hitler lo descrisse come uno strumento degli ebrei per sottomettere gli altri popoli, e quindi da sopprimere
+^  Sentieri in libertà, su sentierinliberta.it. URL consultato il 18 giugno 2008 (archiviato dall'url originale il 21 giugno 2008).
+^  Che cos'è l'esperanto?, su satesperanto.org. URL consultato il 17 giugno 2008 (archiviato dall'url originale il 21 agosto 2007). e in (EN) Sito dell'Universala Esperanto-Asocio, su uea.org. URL consultato il 15 giugno 2008 (archiviato dall'url originale il 27 maggio 2012).
+^  Records of the General Conference. Twenty-third Session (PDF), su unesdoc.unesco.org. URL consultato il 24 giugno 08. Lo stesso documento è stato stampato da Imprimerie des Presses Universitaires de France, Vendôme, 1986. ISBN 92-3-102403-5
+^ Il numero di Culbert viene citato nel Almanac World Book of Facts e da Ethnologue (arrotondato a 2 milioni). Si tratta comunque di una statistica di alcuni decenni fa, per cui si stima che tale numero dovrebbe essere corretto in eccesso, per la recente possibilità di apprendere da internet anche se dove si vive non c'è un'associazione esperantista.
+^  Ricerche e metodologia di Culbert, su panix.com.
+^ (EN) Pagina di Ethnologue con le statistiche sull'esperanto, su ethnologue.com. URL consultato il 15 giugno 2008.
+^ Pagina sul sito del corso col numero di iscritti attuale
+^ (EN) English people, su english.people.com.cn. URL consultato il 15 giugno 08.
+^  Sito dell'organizzazione Changamano, su changamano.org. URL consultato il 27 dicembre 2008 (archiviato dall'url originale il 23 dicembre 2008)., che usa l'esperanto per coordinare le attività di microcredito e di miglioramenti del territorio
+^  Contributi lombardi alla letteratura esperanto (PDF), su math.unipd.it. URL consultato il 19 ottobre 08., Carlo Minnaja, Accademia Internazionale delle Scienze di San Marino ed Università di Padova - Milano, Museo di storia contemporanea
+^ Un sistema di codifica elettronica dei caratteri nei computer che permette di scrivere in tutte le lingue vive (cinese compreso), e in parte anche in lingue morte
+^ a b (EO) Bertilo Wennergren, Surogataj sistemoj, su bertilow.com, 17 maggio 2011. URL consultato il 26 settembre 2011.
+^ a b Tra i vari sistemi di localizzazione:  Esperanta klavaro, su esperanto.mv.ru. URL consultato il 12 giugno 2009. o Microsoft Keyboard Layout Creator per Windows, Ukelele per Mac OS X, SCIM o Scrivere l'esperanto al computer per Linux. Altri sono elencati sulla voce Archiviato il 26 luglio 2011 in Internet Archive.
+^ a b (EN) Debian-esperanto mailing list, su lists.debian.org.
+^  Sito ufficiale di Ubuntu in esperanto, su ubuntu-eo.org. URL consultato il 29 settembre 2011.
+^ Tra le tante grammatiche e manuali in italiano: Bruno Migliorini. Manuale di esperanto. Cooperativa Editoriale Esperanto, Milano, 1995. ISBN 88-85872-04-2
+^ B. MIGLIORINI, Manuale di Esperanto Archiviato il 22 gennaio 2019 in Internet Archive., CoEdEs, Milano, 1995, pag. 36
+^ Voce "Esperanto" dell'Enciclopedia Treccani
+^ René de Saussure. Fundamentaj reguloj de la vort-teorio en esperanto (Regole fondamentali della teoria lessicale in esperanto). ELibro. 2003 ISBN 91-7303-191-7. A pag. 9-10 l'introduzione al meccanismo agglutinante che accompagna tutto il libro
+^  Istituita una commissione di esperanto nelle scuole. Repubblica — 6 maggio 1993, pag. 24, sezione: CRONACA, su ricerca.repubblica.it. URL consultato il 17 maggio 2008.
+^  François Grin, Il rapporto Grin (in francese) (PDF), su cisad.adc.education.fr (archiviato dall'url originale il 10 ottobre 2006)., edito in Italia con il titolo  L'insegnamento delle lingue straniere come politica pubblica, E.R.A., ISBN 978-88-87595-00-0. confronta i tre scenari: trilinguismo (supponendo francese, inglese e tedesco), tutto inglese, e l'esperanto, evidenziando e motivando i vantaggi della terza scelta dal punto di vista economico (favorevole anche a Inghilterra e Irlanda), culturale e di uguaglianza
+^ a b  10' di - puntata del 04 dic. 2009, su rai.tv.
+^  Portale Lingue di Europa-Interpretazione, su europa.eu. URL consultato il 12 dicembre 2009.
+^  Premio Nobel per la Pace all'Associazione Mondiale di Esperanto secondo otto parlamentari britannici [collegamento interrotto], su blogpolitica.it. URL consultato il 19 febbraio 2010.
+^  Parlamentari svizzeri propongono il Premio Nobel per la Pace per la Associazione Universale di Esperanto (UEA), su kontakto.info. URL consultato il 19 febbraio 2010 (archiviato dall'url originale il 27 agosto 2008).
+^  Il quotidiano.it, su ilquotidiano.it. URL consultato il 18 maggio 2008.
+^  Toscana oggi, su toscanaoggi.it. URL consultato il 23 ottobre 2008.
+^  Santa Messa mensile, su wwt-agenzia-traduzioni.it (archiviato dall'url originale il 21 luglio 2015).
+^  NSiR, su iej.esperanto.it.
+^ (EO) Terminologia Esperanto-Centro, su esperanto.net. URL consultato il 2 aprile 2009 (archiviato dall'url originale il 29 settembre 2011).
+^  Sito dell'Accademia Internazionale delle Scienze di San Marino, su ais-sanmarino.org. URL consultato il 15 maggio 2008. (AIS, Akademio Internacia de la sciencoj)
+^  L'Esperanto nella scienza all'epoca di internet, Amri Wandel, Eccademia di Esperanto (Membro del consiglio dell'UEA per le questioni scientifiche e tecniche) (DOC), su host.uniroma3.it. URL consultato il 2 aprile 2009 (archiviato dall'url originale il 19 gennaio 2012).
+^ (IT, EN) Inkoj, su riviste.unimi.it.
+^ (EO) Sito ufficiale di OpenOffice.org in esperanto, su eo.openoffice.org. URL consultato il 2 agosto 2010.
+^ (EO) Sito ufficiale di LibreOffice in esperanto, su eo.libreoffice.org. URL consultato il 29 settembre 2010.
+^ (EO) Sito ufficiale di Mozilla Firefox in esperanto, su mozilla.org. URL consultato il 29 settembre 2011.
+^ (EO) sito di traduzione di Firefox in esperanto, su tradukado.esperanto.org.uy. URL consultato il 25 giugno 2008 (archiviato dall'url originale il 26 giugno 2008).
+^ (EN) Custom Locales for Windows Vista/2008, su code.msdn.microsoft.com. URL consultato il 21 novembre 2008.
+^ (EN) programma di zip "Izarc", su izarc.org. URL consultato il 14 novembre 2008.
+^ (EO) Versione di Google in esperanto, su google.com. URL consultato il 2 agosto 2010.
+^  Elenco aggiornato di categorie di collegamenti in lingua esperanto, su dmoz.org.
+^ (EN) Thorsten Brants, Tutmonda helplingvo por ĉiuj homoj, su googletranslate.blogspot.com, Blog di Google Translate su Blogspot, 23 febbraio 2012. URL consultato il 23 febbraio 2012.
+^ Descrizione dell'ontologia scaricabile liberamente (formato OWL). Pubblicazione accessibile dal sito di Epistematica  Ontologia dell'esperanto, su epistematica.org. URL consultato il 16 maggio 2008 (archiviato dall'url originale il 6 gennaio 2009)..
+^  Classifica di tutte le versioni linguistiche di Wikipedia, ordinate per numero di articoli, su meta.wikimedia.org.
+^  Estratto su YouTube con l'introduzione e la sigla del film "Angosce", su youtube.com. - su concessione della LF-koop
+^ Sito di Sam Green, in inglese[collegamento interrotto] e in esperanto[collegamento interrotto]
+^  Disvastigo [collegamento interrotto], su disvastigo.it.
+^ Nel ghetto del film sono visibili varie parole; nella sola scena in cui il protagonista lotta con due tedeschi aiutato da Hannah (che li colpisce con una padella) si leggono "Ĉambroj" (Camere) e "Vestaĵoj malnovaj" (Abiti vecchi), mentre altre parole sono adattate per sembrare tedesche o polacche, come "Restauraciz" per "Ristorante" (Restoracio in esperanto).
+^  Internet Movie Database, su imdb.com.
+^  Discogs - Scheda del film Street fighter - la sfida finale, su discogs.com.
+^ Ti porto via con me - Lorenzo Jovanotti - (Official Video) - YouTube
+^  Intervista a Claude Piron, su claudepiron.free.fr. URL consultato il 15 giugno 2008.
+^  Ricco dizionario matematico-statistico in esperanto (PDF), su math.uu.se. URL consultato il 16 maggio 2008.
+^  Signuno (linguaggio gestuale per l'esperanto), su geocities.com. URL consultato il 5 luglio 2008 (archiviato dall'url originale il 25 dicembre 2007).
+^ Secondo il Plena ilustrita vortaro, il significato di questa radice si ottiene partendo dal verbo ŝuldi (essere in debito), il quale trasformato in sostantivo (desinenza in -o) diventa ŝuldo (debito) e poi da questo deriva ŝuldanto (un sostantivo che termina in -anto indica colui che compie un'azione, come l'italiano -ante)
+^ Il suffisso -igi indica in esperanto l'azione di "rendere, far diventare"; nel caso di liberigi quindi, far diventare liberi, liberare
+^ Aggiungento mal- a una parola, si ottiene il suo significato contrario
+^ Il primo scisma fu l'ido, nato dalle critiche di Louis de Beaufront, dapprima esperantista, che ha poi dato vita a varie critiche che additano alcune caratteristiche dell'esperanto, a parte quella di essere troppo europeo (l'ido infatti usa consanguinei tra le lingue europee maggiori)
+^  2-2, su 2-2.se. URL consultato il 18 giugno 2008 (archiviato dall'url originale il 2 ottobre 2008). sito multilingue contenente notizie e varie discussioni qui trattate
+^ (EN) New English Review, su newenglishreview.org. URL consultato il 21 novembre 2008 (archiviato dall'url originale l'8 gennaio 2009). Anche contenente varie discussioni su aspetti e critiche
+^ Varie discussioni disponibili nel sito di Claude Piron, noto per aver contribuito a fornire dati scientifici sulla lingua esperanto. Per le specifiche problematiche, di seguito altri riferimenti indicheranno l'articolo esatto, possibilmente con traduzione in italiano (il sito contiene articoli in 25 lingue)
+^ Ad esempio, in esperanto la creazione delle parole sul lessico esistente in opposizione agli iniziali calchi; l'abitudine di porre l'aggettivo davanti al nome nonostante non sia una regola e inizialmente l'ordine fosse inverso; la formazione di verbi partendo da aggettivi: "La floro estas bela" (Il fiore è bello) può essere oggi sostituito con "La floro belas" (lett. Il fiore è "belleggia"), forse introdotta da esperantisti asiatici
+^ Lyons, John (1991) Natural Language and Universal Grammar. Essays in Linguistic Theory 1. Cambridge: Cambridge University Press.
+^ Vedere Jouko Lindstedt: Native Esperanto as a Test Case for Natural Language e bibliografia
+^ Si tratta di un'ipotesi: le lingue seguirebbero tale grammatica generale per essere assimilabili dal cervello, quindi se una lingua artificiale la dovesse violare, il cervello non riuscirebbe ad apprenderla
+^ Claude Piron, Psikologiaj reagoj al Esperanto (Reazioni psicologiche all'Esperanto) (saggio 1988)
+^  elenco di lingue artificiali, su geocities.com. URL consultato il 25 giugno 2008 (archiviato dall'url originale il 26 agosto 2009).
+^  Alcuni dei più grandi scrittori e letterati contemporanei in esperanto citati dalla FEI, e le maggiori opere tradotte, su esperanto.it. URL consultato il 20 giugno 2008 (archiviato dall'url originale il 22 febbraio 2008).
+^  Premiazione del poeta burundi Hasano Ntahonsigaye, su babyloncafe.eu. URL consultato il 20 giugno 2008 (archiviato dall'url originale il 18 gennaio 2012).
+^  Elenco di critiche all'esperanto e alle lingue ausiliarie in generale, su parracomumangi.altervista.org.
+^  Resistenza psicologica alle lingue internazionali (C. Piron), su claudepiron.free.fr. URL consultato il 20 giugno 2008.
+^ Questa critica ha portato vari simpatizzanti delle lingue artificiali verso altre lingue più europee, come l'ido, o ancora più vicini alle lingue romanze come l'interlingua, il latino sine flexione e altre affini
+^ Claude Piron, La bona lingvo (La lingua buona) trattato sulla lingua, 1989
+^  Federico Gobbo, Il dilemma dell'esperanto. Tra vocazione ausiliaria e naturalizzazione (PDF) [collegamento interrotto], su lnx.internacialingvo.org. URL consultato il 25 maggio 2008.
+^  Claude Piron, L'esperanto, lingua occidentale?, su claudepiron.free.fr. URL consultato il 25 maggio 2008.
+^ da preĝi = pregare, ejo = edificio
+^ In esperanto il genere è applicato solo per titoli e nomi di persone o animali, per motivi pratico-sociali
+^ L'icismo, il più noto e usato anche da scrittori noti come Jorge Camacho, prevede di usare come neutre le radici attualmente maschili, e quindi renderle sessuate usando due affissi, uno maschile e uno femminile, trattando così alla pari i due generi.
+^  Seksaj vortoj, su bertilow.com. URL consultato il 25 giugno 2008.
+^ Questa discussione è stata una delle cause di scissione che ha dato via ad altre lingue artificiali, che pongono l'accusativo solo se l'ordine non è Soggetto Verbo Oggetto. Ad esempio, l'ido, che fu nei primi anni del Novecento il più grande concorrente dell'esperanto geocities.com,  https://web.archive.org/web/20090826193043/http://www.geocities.com/gataspus/ling-art.htm#internazionali Titolo mancante per url urlarchivio (aiuto). URL consultato il 25 giugno 08 (archiviato dall'url originale il 26 agosto 2009).
+^  Character Model for the World Wide Web 1.0: Fundamentals, su w3.org. URL consultato il 25 maggio 2008.
+^  Andrea Tornielli, La Sibilla del Reno dottore della Chiesa [collegamento interrotto], su www3.lastampa.it, La Repubblica, 15 dicembre 2011.
+^ Babilon cafe Archiviato l'8 gennaio 2008 in Internet Archive. (URL consultato il 16 maggio 2008) contiene delle citazioni di vari personaggi.
+^ Una citazione del giornalista Leopold Einstein ("L'esperanto è la migliore soluzione dell'idea di lingua internazionale") viene spesso erroneamente attribuita ad Albert Einstein, che fu comunque eletto presidente onorario di SAT (Sennacieca Asocio Tutmonda) nel SAT-Kongreso del 1923. Sito di SAT che tratta l'equivoco Archiviato il 6 settembre 2008 in Internet Archive..
+^ Tolstoj scrisse (nel 1894): «La facilità del suo studio è così grande che, avendo ricevuto sei anni fa una grammatica, un vocabolario e gli articoli scritti in questa lingua, dopo poco più di due ore potevo, se non scrivere, almeno leggere liberamente in questa lingua». Citazione riportata da: Roman Dobrzyński, Via Zamenhof, creatore dell'Esperanto. Conversazione con Louis Christophe Zaleski-Zamenhof, Giuntina. (dettagli in bibliografia)
+^ a b c d  Poletti Filippo, Ghezzi Marta, Esperanto «Jes, dankon» (sì, grazie) Chi vuole una lingua per tutti?, su archiviostorico.corriere.it, Corriere.it, 27 novembre 2004,  p. 57. URL consultato l'11 luglio 2011 (archiviato dall'url originale il 22 settembre 2011).
+^ Nell'VIII Legislatura, Scalfaro è stato firmatario del progetto di legge C. 2693, 1º luglio 1981, avente ad oggetto: "Istituzione dell'insegnamento della lingua internazionale esperanto nelle scuole secondarie". Il documento è consultabile all'indirizzo: PISONI ed altri: Istituzione dell'insegnamento della lingua internazionale esperanto nelle scuole secondarie / Documenti /  Camera dei deputati - Portale storico
+^ Prefazione a F. PENNACCHIETTI, Due vite, due lingue. Trentennale del Gruppo Esperantista Vercellese. Centenario dell'Esperanto. Vercelli, 1987. Consultabile all'indirizzo: https://www.accademiadellescienze.it/media/1213/download
+^ La ricerca della lingua perfetta nella cultura europea, Umberto Eco. Ed. Laterza, Roma-Bari, 1993, Fare l'Europa, ISBN 88-420-4287-0
+^ Intervista a Umberto Eco alla rivista "L'esperanto" 9/1993, pagg. 22, 23 dichiarò: «Si è insegnato l'esperanto in pessime condizioni durante qualche decennio, ed ecco che degli esseri umani si amano in esperanto. Si è insegnato il latino per secoli, in modo molto intensivo, ma potete essere certi che anche un prete e una religiosa, se fanno l'amore, non l'useranno in tale circostanza. Tirate voi stessi le conclusioni!»
+^ Uno dei linguisti più autorevoli al mondo del XX secolo, fu presidente dell'Accademia della Crusca dal 1949 al 1963.
+^ T. DE MAURO, Introduzione a B. MIGLIORINI, "Manuale di Esperanto", CoEdEs, Milano, 1995
+^ T. DE MAURO (testo orale raccolto da F. GOBBO), "Democrazia linguistica ed esperanto", Università di Amsterdam, 2017
+^ "Un filologo sull'Esperanto" articolo di Tolkien, pubblicato sul sito del Comitato Nazionale di Difesa delle Lingue e delle Culture, ormai abbandonato.
+^ ÉPISODE 8 - Antoine de Maximy - Vidéo Dailymotion
+^ Das Esperanto ein Kulturfaktor, R. Ledermann, Arder & Borel, 1913
+^  Premio Nobel per l'economia nel 1994 assieme a John Harsanyi e a John Nash, su nobelprize.org., esperantista come racconta nella sua  autobiografia su Nobel Prize, su nobelprize.org., sito dedicato ai premi Nobel
+^ 
+«Also if you want to use a secret language in your patrol, you should all set to work to learn "Esperanto". It is not difficult, and is taught in a little book costing one penny. This language is being used in all countries so that you would be able to get on it abroad now.»
+(Robert Baden-Powell, Scouting for Boys, Londra, edizione 1908, pagina 202)
+^ (EN) The creation of Esperanto Association of Britain, su esperanto-gb.org. URL consultato il 13 ottobre 2021.
+^ Intervista a Sam Green, 17 gennaio 2013 (EN)
+^ Comunicato stampa della Federazione Esperantista Italiana, 27 febbraio 2019
+^ Video intervista su YouTube al traduttore Miko Sloper della Lega Esperantista Nord Americana parla dell'uso della lingua Esperanto nel film Gattaca.
+^ Dichiarazione di Andrea Bocelli su Artisti Online e Disvastigo.
+^  Sito della FEI coi nomi più noti, su esperanto.it. URL consultato il 20 giugno 2008 (archiviato dall'url originale il 22 febbraio 2008).
+^  Zoomedia (quotidiano in rete), su zoomedia.it. URL consultato il 15 maggio 2008.
+^ (EO) Esperantlingva Verkista Asocio, su everk.it. URL consultato il 16 maggio 2008.
+^ Valerio Ari, Il contributo italiano alla letteratura originale in esperanto, tesi di laurea in materie letterarie, Università di Genova, anno accademico 1985-86, anno di pubblicazione 1987
+^ Dante Alighieri, La Divina Commedia-La dia komedio. Testo esperanto a fronte (traduzione di Giovanni Peterlongo), SIEI, 1980
+Bibliografia[modifica | modifica wikitesto]
+Generale[modifica | modifica wikitesto]
+Umberto Eco, La ricerca della lingua perfetta nella cultura europea. Ed. Laterza, Roma-Bari, 1993, Fare l'Europa, ISBN 88-420-4287-0
+Roman Dobrzyński, Via Zamenhof, creatore dell'Esperanto. Conversazione con Louis Christophe Zaleski-Zamenhof, Traduz. Michela Lipari e Filippo Franceschi, prefazione Davide Astori, Firenze, Giuntina, ISBN 978-88-8057-350-0
+Pierre Janton. Esperanto. Lingua, letteratura, movimento. Cooperativa Ed. Esperanto. 1996. ISBN 88-85872-07-7
+Francesco Amerio; G. Bonvecchiato; Gian Carlo Fighiera. Esperanto: dati e fatti. FEI Fondo Marelli. 2002. ISBN 88-85872-11-5
+Giordano Formizzi, Le radici culturali dell'esperanto. La pedagogia di Giovanni Amos Comenio. Gabrielli Editori. 2006. ISBN 88-6099-007-6
+Carlo Minnaja. L'esperanto in Italia. Alla ricerca della democrazia linguistica. Il Poligrafo. 2007. ISBN 88-7115-546-7
+Ulrich Lins. La lingua pericolosa. Storia delle persecuzioni contro l'esperanto sotto Hitler e Stalin. Traccedizioni. 1990. ISBN 88-7205-000-6. Distribuito da Edistudio.
+Irene Bignardi. Le piccole utopie, Feltrinelli 2003 ISBN 88-07-17083-3
+(EO)  Ludwik Lejzer Zamenhof. Letero al N. Borovko ("Lettera a N. Borovko"), 1895. (Tra le numerose ripubblicazioni, la Esperanto Association of North America la ripubblicò nel 1931 con codice ASIN B000891FP2)
+(EO)  William Auld. La fenomeno Esperanto ("Il fenomeno esperanto"). Rotterdam. UEA. 1988
+(EO)  Claude Piron. La bona lingvo (La lingua buona) trattato sull'uso corretto del lessico esperantista e altre buone abitudini, Paperback, 1989. ISBN 978-963-571-294-6
+(EO)  Claude Piron. Psikologiaj reagoj al Esperanto (Reazioni psicologiche all'Esperanto) (saggio 1988)
+(EO)  Edmond Privat. Vivo de Zamenhof (Vita di Zamenhof), ELibro, 2001. ISBN 91-7303-127-5
+Sulla grammatica e il lessico[modifica | modifica wikitesto]
+(EO)  Ludwik Lejzer Zamenhof. Internacia lingvo, 1887 (Tra le ripubblicazioni, quella della Universala Esperanto-Asocio del 1954 ha codice ASIN B0000CJ1VA)
+(EO)  L.L. Zamenhof. Unua Libro (Primo libro), 1905 (Le ristampe dell'Unua Libro non hanno codice ISBN)
+(EO)  L.L. Zamenhof. Fundamento de Esperanto. Edistudio. 1991. ISBN 88-7036-046-6
+(EO)  René de Saussure. Fundamentaj reguloj de la vort-teorio en esperanto (Regole fondamentali della teoria lessicale in esperanto). ELibro. 2003 ISBN 91-7303-191-7
+Roger Imbert; Tibor Sekelj; Ivica Spoliarek. Esperanto. Introduzione alla lingua internazionale. Cooperativa Ed. Esperanto. 1993. ISBN 88-85872-03-4
+Carlo Minnaja. Vocabolario italiano-esperanto. Cooperativa Ed. Esperanto. 1996. ISBN 88-85872-05-0
+Katalin Smidéliusz. Analisi comparativa del lessico italiano-esperanto-ungherese. Cooperativa Ed. Esperanto. 1997. ISBN 88-85872-09-3
+Bruno Migliorini, Manuale di esperanto, San Vito al Tagliamento, Edizioni Paolet, 1922
+Sull'insegnamento dell'esperanto nelle scuole[modifica | modifica wikitesto]
+The League of Nations and Esperanto - 1921-1922, British Esperanto Association, Londra, 1922, pag. 12.
+Ippolito Piatti, La Conferenza di Ginevra e il problema della introduzione dell'Esperanto nelle Scuole, edizione Società Esperantiste Milanesi, Milano, 1922, pag. 8 (interessante in particolar modo per i riassunti statistici).
+La Conferenza Internazionale per l'insegnamento dell'Esperanto nelle scuole, ne L'esperanto, anno 9, n. 5, pagg. 98-106, Verona - San Vito al Tagliamento, aprile 1922.
+Ecole des Sciences de l'Education (Institut Jean-Jacques Rousseau), Conférence Internazionale pour l'Enseignement de l'Espéranto dans les Ecoles - réunie au Secrétariat de la Société des Nations - du 18 au 20 Avril 1922 - Compie-rendu sommaire en francais, Ginevra, 1922.
+Schroeter, Esperanto und weltliche Schule, in Die freie Schule, anno 111 n. 30, Herne, luglio 1923, pagg. 127-128.
+Amedeo Benedetti, I libri per l'infanzia in Esperanto, in LG Argomenti, a. XLV, n. 3, lug.-sett. 2009, pp. 56–60.
+Voci correlate[modifica | modifica wikitesto]
+Akademio de Esperanto
+Amikeca Reto
+Biblioteca Nazionale di Esperanto
+Biblioteche di esperanto
+Edistudio
+ESP-Disk
+Esperantido
+Lega Internazionale Insegnanti di Esperanto (ILEI)
+Esperantologia
+Esperanto Radikala Asocio
+Europa Democrazia Esperanto
+Federazione Esperantista Italiana
+Interlinguistica
+Museo dell'Esperanto a Svitavy (Repubblica ceca)
+Museo di esperanto a Vienna
+Sennacieca Asocio Tutmonda
+Tutmonda Esperantista Junulara Organizo
+Dizionario italiano-esperanto
+Plena Ilustrita Vortaro de Esperanto
+Altri progetti[modifica | modifica wikitesto]
+Altri progetti
+Wikiquote
+Wikibooks
+Wikizionario
+Wikinotizie
+Wikimedia Commons
+ Wikiquote contiene citazioni sull'esperanto
+ Wikibooks contiene un corso di esperanto
+ Wikizionario contiene il lemma di dizionario «esperanto»
+ Wikinotizie contiene notizie di attualità sull'esperanto
+ Wikimedia Commons contiene immagini o altri file sull'esperanto
+ Wikipedia dispone di un'edizione in esperanto (eo.wikipedia.org)
+Collegamenti esterni[modifica | modifica wikitesto]
+ esperanto, su Treccani.it – Enciclopedie on line, Istituto dell'Enciclopedia Italiana. 
+(IT, DE, FR) Esperanto, su hls-dhs-dss.ch, Dizionario storico della Svizzera. 
+(EN) Esperanto, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+(EN) Opere riguardanti Esperanto, su Open Library, Internet Archive. 
+(EN) Esperanto, su Ethnologue: Languages of the World, Ethnologue. 
+(EO) Universala Esperanto-Asocio, l'associazione esperantista mondiale
+(EO) Federazione Esperantista Italiana, l'associazione esperantista italiana
+Corso gratuito KIREK di lingua esperanto
+Corso internazionale gratuito Saluton!
+(EO, EN, DE) Museo dell'Esperanto e Raccolta delle lingue pianificate, su onb.ac.at. URL consultato il 14 marzo 2007 (archiviato dall'url originale il 12 ottobre 2006).
+L'esperanto nella scienza all'epoca di internet Archiviato il 19 gennaio 2012 in Internet Archive. del Prof. Amri Wandel
+ Canzoni italiane tradotte in esperanto, su cinquantini.it.
+Versione adattata per il web del dizionario italiano-esperanto di Carlo Minnaja, e versione scaricabile (scritta nel linguaggio multipiattaforma Tcl: hVortaro)
+Corso gratuito di Esperanto dalla lingua inglese (c'è anche da Spagnolo, Francese e Portoghese) sul sito Duolingo
+V · D · MEsperantoLingua ausiliaria internazionale creata da Ludwik Lejzer Zamenhof (1859–1917)Opere di ZamenhofFundamento de Esperanto · Ho, mia kor' · La Espero · Proverbaro Esperanta · Unua LibroStoriaCongresso universale di esperanto del 1905 · Dichiarazione di Boulogne · Esperanto riformato · Lingva Komitato · Manifesto di Praga (Finvenkismo) · Manifesto di Rauma (Raumismo) · Protoesperanto · Scisma del movimento esperantistaLa linguaFonologia dell'esperanto · Grammatica dell'esperanto · Lessico dell'esperanto · 16 regole dell'esperantoQuadro d'insiemeCultura esperantista (Giorno di Zamenhof) · Esperantismo · Esperantologia · Esperantujo · Cinema in esperanto · Letteratura in esperanto · Movimento esperantista (In Italia) · Storia dell'esperanto · Simboli dell'esperantoRelazioni fral'esperantoe altroEsperanto e Chiesa cattolica · Esperanto ed Unione europea · Esperanto e Organizzazione delle Nazioni UniteAssociazionie istituzioniAkademio de Esperanto (Membri famosi) · Associazione universale esperanto (Congresso universale di esperanto · Presidenti dell'Associazione universale esperanto) · Esperanto Radikala Asocio · Europa Democrazia Esperanto · Federazione Esperantista Italiana · Istituto italiano di esperanto · Unione esperantista cattolica internazionale · Unione Europea d'Esperanto · Sennacieca Asocio Tutmonda · Altre associazioniMusei ebibliotecheBiblioteca Montagu Christie Butler · Biblioteca Hector Hodler · Biblioteca Nazionale di Esperanto · Casa museo Luigi Capuana · CDELI · Germana Esperanto-Biblioteko · Museo dell'Esperanto a Svitavy · Museo dell'esperanto a ViennaPersonalitàWilliam Auld · Théophile Cart · Andrea Chiti-Batelli · Renato Corsetti · Helmar Frank · Antoni Grabowski · Bruno Migliorini · Carlo Minnaja · Claude Piron · Reinhard Selten · Gaston Waringhien · Bertilo Wennergren · Altri esperantistiPrincipalivocabolarie grammaticheDizionario italiano-esperanto · Plena Ilustrita Vortaro de Esperanto · Plena Manlibro de Esperanta Gramatiko · Vortaro de EsperantoAltroEsperantido · Interlinguistica · Isola delle Rose · Metodo di Paderborn · Rapporto GrinCategoria · Portale · Progetto
+Controllo di autoritàThesaurus BNCF 16274 · LCCN (EN) sh85044883 · GND (DE) 4015543-2 · BNE (ES) XX527298 (data) · BNF (FR) cb11941391w (data) · J9U (EN, HE) 987007553176405171 · NDL (EN, JA) 00562049
+ Portale Esperanto Portale Linguistica
+Estratto da "https://it.wikipedia.org/w/index.php?title=Esperanto&oldid=135219475"
+Categorie: EsperantoLingue SVOCategorie nascoste: Pagine che utilizzano PhonosTemplate Webarchive - collegamenti all'Internet ArchivePagine con collegamenti non funzionantiErrori del modulo citazione - citazioni con URL nudiPagine che utilizzano collegamenti magici ISBNSinottici con immagini formattate a manoChiarireP3365 letta da WikidataP902 letta da WikidataP1417 letta da WikidataP3847 letta da WikidataP1627 letta da WikidataVoci con codice Thesaurus BNCFVoci con codice LCCNVoci con codice GNDVoci con codice BNEVoci con codice BNFVoci con codice J9UVoci con codice NDLVoci non biografiche con codici di controllo di autorità
+Menu di navigazione
+Strumenti personali
+Accesso non effettuatodiscussionicontributiregistratientra
+Namespace
+VoceDiscussione
+italiano
+Visite
+LeggiModificaModifica wikitestoCronologia
+Altro
+Ricerca
+Navigazione
+Pagina principaleUltime modificheUna voce a casoNelle vicinanzeVetrinaAiutoSportello informazioni
+Comunità
+Portale ComunitàBarIl WikipedianoFai una donazioneContatti
+Strumenti
+Puntano quiModifiche correlatePagine specialiLink permanenteInformazioni paginaCita questa voceElemento Wikidata
+Stampa/esporta
+Crea un libroScarica come PDFVersione stampabile
+In altri progetti
+Wikimedia CommonsWikibooksWikinotizieWikiquote
+In altre lingue
+АԥсшәаАдыгабзэAfrikaansAlemannischАлтай тилአማርኛAragonésÆngliscअंगिकाالعربيةالدارجةمصرىAsturianuKotavaAymar aruAzərbaycancaتۆرکجهБашҡортсаBoarischŽemaitėškaBikol CentralБеларускаяБеларуская (тарашкевіца)БългарскиBamanankanবাংলাBrezhonegBosanskiБуряадCatalàChavacano de Zamboanga閩東語 / Mìng-dĕ̤ng-ngṳ̄НохчийнCebuanoکوردیQırımtatarcaČeštinaKaszëbscziСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟЧӑвашлаCymraegDanskDeutschZazakiDolnoserbskiΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraفارسیFulfuldeSuomiVõroFøroysktFrançaisArpetanNordfriiskFryskGaeilgeGàidhligGalegoAvañe'ẽ𐌲𐌿𐍄𐌹𐍃𐌺Hausa客家語/Hak-kâ-ngîHawaiʻiעבריתहिन्दीFiji HindiHrvatskiHornjoserbsceKreyòl ayisyenMagyarՀայերենInterlinguaBahasa IndonesiaInterlingueIñupiatunIlokanoIdoÍslenskaᐃᓄᒃᑎᑐᑦ / inuktitut日本語La .lojban.JawaქართულიQaraqalpaqshaKabɩyɛGĩkũyũҚазақшаKalaallisutಕನ್ನಡ한국어RipoarischKurdîКомиKernowekКыргызчаLatinaLadinoLëtzebuergeschЛезгиLingua Franca NovaLimburgsLigureLombardLingálaLietuviųLatviešuМокшеньMalagasyMinangkabauМакедонскиമലയാളംМонголꯃꯤꯇꯩ ꯂꯣꯟमराठीBahasa MelayuMaltiMirandésမြန်မာဘာသာЭрзяньمازِرونیPlattdüütschNedersaksiesनेपालीनेपाल भाषाNederlandsNorsk nynorskNorsk bokmålNovialNouormandOccitanLivvinkarjalaИронਪੰਜਾਬੀPapiamentuPicardPälzischPolskiPiemontèisپنجابیپښتوPortuguêsRuna SimiRumantschIkirundiRomânăРусскийРусиньскыйIkinyarwandaसंस्कृतम्Саха тылаᱥᱟᱱᱛᱟᱲᱤSarduSicilianuScotsDavvisámegiellaSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaChiShonaSoomaaligaShqipСрпски / srpskiSiSwatiSeelterskSundaSvenskaKiswahiliŚlůnskiதமிழ்తెలుగుТоҷикӣไทยTagalogTok PisinTürkçeТатарча / tatarçaУдмуртئۇيغۇرچە / UyghurcheУкраїнськаاردوOʻzbekcha / ўзбекчаVènetoVepsän kel’Tiếng ViệtWest-VlamsVolapükWalonWinarayWolof吴语ХальмгIsiXhosaმარგალურიייִדישYorùbáVahcuenghZeêuws中文文言Bân-lâm-gú粵語IsiZulu
+Modifica collegamenti
+ Questa pagina è stata modificata per l'ultima volta il 31 ago 2023 alle 17:29.
+Il testo è disponibile secondo la licenza Creative Commons Attribuzione-Condividi allo stesso modo; possono applicarsi condizioni ulteriori. Vedi le condizioni d'uso per i dettagli.
+Informativa sulla privacy
+Informazioni su Wikipedia
+Avvertenze
+Codice di condotta
+Versione mobile
+Sviluppatori
+Statistiche
+Dichiarazione sui cookie

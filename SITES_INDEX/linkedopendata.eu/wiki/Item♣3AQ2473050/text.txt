@@ -1,0 +1,467 @@
+Zulu - EU Knowledge Graph
+Zulu
+(Q2473050)
+From EU Knowledge Graph
+Jump to navigation
+Jump to search
+Nguni language of eastern South Africa and neighbouring countriesisiZuluZulu languagezuzul
+Language
+Label
+Description
+Also known as
+English
+Zulu
+Nguni language of eastern South Africa and neighbouring countries
+isiZuluZulu languagezuzul
+Statements
+instance of
+language
+1 reference
+stated in
+Ethnologue
+modern language
+1 reference
+reference URL
+https://iso639-3.sil.org/code/zul
+subclass of
+Nguni
+0 references
+Zunda
+0 references
+country
+Lesotho
+3 references
+reference URL
+https://scriptsource.org/country/LS
+title
+ScriptSource - Lesotho (English)
+retrieved
+21 August 2023
+Mozambique
+3 references
+reference URL
+https://scriptsource.org/country/MZ
+title
+ScriptSource - Mozambique (English)
+retrieved
+21 August 2023
+South Africa
+3 references
+reference URL
+https://scriptsource.org/country/ZA
+title
+ScriptSource - South Africa (English)
+retrieved
+21 August 2023
+coordinate location
+30°0'0.000"S, 30°0'0.000"E
+1 reference
+WALS lect code
+zul
+28°0'0.000"S, 31°0'0.000"E
+1 reference
+WALS lect code
+zno
+31°0'0.000"S, 30°0'0.000"E
+1 reference
+WALS lect code
+zso
+Wikimedia language code
+zu
+0 references
+Commons category
+Zulu language
+1 reference
+imported from Wikimedia project
+English Wikipedia
+topic's main category
+Category:Zulu language
+0 references
+writing system
+Latin script
+0 references
+native label
+isiZulu (Zulu)
+0 references
+number of speakers
+11,969,100
+applies to part
+first language
+point in time
+2011
+1 reference
+stated in
+Ethnologue
+15,700,000
+applies to part
+second language
+point in time
+2011
+1 reference
+stated in
+Ethnologue
+12,100,000
+applies to part
+first language
+point in time
+2019
+3 references
+stated in
+Ethnologue
+inferred from
+list of languages by number of the native speakers
+retrieved
+23 April 2022
+linguistic typology
+subject–verb–object
+0 references
+agglutinative language
+1 reference
+imported from Wikimedia project
+English Wikipedia
+noun-adjective
+0 references
+stress
+0 references
+Meeussen's rule
+0 references
+synthetic language
+0 references
+pitch accent
+0 references
+pro-drop language
+0 references
+tonal language
+0 references
+pronunciation audio
+LL-Q33890 (nso)-Mohau-Sezulu.wav; 113 KB
+language of work or name
+Northern Sotho
+1 reference
+reference URL
+https://lingualibre.fr/wiki/Q21206
+category for films in this language
+Category:Zulu-language films
+0 references
+page banner
+Zulu phrasebook banner.jpg3,295 × 470; 1.83 MB
+2 references
+imported from Wikimedia project
+English Wikivoyage
+Wikimedia import URL
+https://en.wikivoyage.org/wiki/Zulu_phrasebook
+Ethnologue language status
+1 National
+3 references
+stated in
+Ethnologue
+retrieved
+10 May 2019
+reference URL
+https://www.ethnologue.com/language/zul
+located in the administrative territorial entity
+KwaZulu-Natal
+2 references
+imported from Wikimedia project
+Russian Wikipedia
+Wikimedia import URL
+https://ru.wikipedia.org/?oldid=97349960
+Gauteng
+2 references
+imported from Wikimedia project
+Russian Wikipedia
+Wikimedia import URL
+https://ru.wikipedia.org/?oldid=97349960
+Mpumalanga
+2 references
+imported from Wikimedia project
+Russian Wikipedia
+Wikimedia import URL
+https://ru.wikipedia.org/?oldid=97349960
+language regulatory body
+Pan South African Language Board
+0 references
+exact match
+http://publications.europa.eu/resource/authority/language/ZUL
+2 references
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+distribution map
+South Africa 2011 Zulu speakers proportion map.svg809 × 709; 534 KB
+0 references
+schematic
+Zulu vowel chart.svg923 × 702; 17 KB
+0 references
+icon
+ISO 639 Icon zu.svg400 × 180; 602 bytes
+0 references
+image
+Potgietersrus, South Africa - panoramio (14).jpg4,752 × 3,168; 6.02 MB
+0 references
+on focus list of Wikimedia project
+Wikipedia:Airlangga Yudhoyono Tni-ad.Mil.id
+point in time
+31 October 2022
+0 references
+has tense
+present tense
+0 references
+past tense
+0 references
+future tense
+0 references
+has grammatical case
+vocative case
+0 references
+locative case
+0 references
+indigenous to
+Gauteng
+2 references
+imported from Wikimedia project
+Russian Wikipedia
+Wikimedia import URL
+https://ru.wikipedia.org/?oldid=97349960
+Mpumalanga
+2 references
+imported from Wikimedia project
+Russian Wikipedia
+Wikimedia import URL
+https://ru.wikipedia.org/?oldid=97349960
+KwaZulu-Natal
+2 references
+imported from Wikimedia project
+Russian Wikipedia
+Wikimedia import URL
+https://ru.wikipedia.org/?oldid=97349960
+ISOCAT id
+1003
+0 references
+Linguasphere code
+99-AUT-fg
+0 references
+Identifiers
+Wikidata QID
+Q10179
+0 references
+ISO 639-1 code
+zu
+3 references
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+imported from Wikimedia project
+English Wikipedia
+ISO 639-2 code
+zul
+applies to part
+terminology
+bibliography
+3 references
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+imported from Wikimedia project
+English Wikipedia
+ISO 639-3 code
+zul
+3 references
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+imported from Wikimedia project
+English Wikipedia
+Freebase ID
+/m/0gndv
+2 references
+stated in
+Freebase Data Dumps
+publication date
+28 October 2013
+IETF language tag
+zu
+1 reference
+imported from Wikimedia project
+French Wikipedia
+Ethnologue.com language code
+zul
+0 references
+IdRef ID
+029684730
+1 reference
+imported from Wikimedia project
+French Wikipedia
+Glottolog code
+zulu1248
+1 reference
+imported from Wikimedia project
+English Wikipedia
+Quora topic ID
+Zulu
+0 references
+GOST 7.75–97 code
+зул 195
+1 reference
+imported from Wikimedia project
+Russian Wikipedia
+GND ID
+4120405-0
+1 reference
+imported from Wikimedia project
+German Wikipedia
+Getty AAT ID
+300389637
+0 references
+Encyclopædia Britannica Online ID
+topic/Zulu-language
+0 references
+WALS lect code
+zul
+0 references
+ASC Leiden Thesaurus ID
+294945644
+0 references
+IAB code
+1214
+0 references
+LoC and MARC vocabularies ID
+languages/zul
+0 references
+iso639-2/zul
+0 references
+iso639-1/zu
+0 references
+ABS ASCL 2011 code
+9213
+0 references
+Gran Enciclopèdia Catalana ID
+0218747
+0 references
+French Vikidia ID
+Zoulou
+0 references
+Microsoft Academic ID
+2778105672
+0 references
+KBpedia ID
+ZuluLanguage
+2 references
+stated in
+KBpedia
+retrieved
+9 July 2020
+UNBIS Thesaurus ID
+1007138
+0 references
+GitHub topic
+zulu
+0 references
+Guthrie code
+S42
+0 references
+Wikidata language code
+zu
+0 references
+Library of Congress Children's Subject Headings ID
+sj97001136
+0 references
+Library of Congress authority ID
+sh85150044
+0 references
+FAST ID
+1184918
+0 references
+Bibliothèque nationale de France ID
+121255923
+0 references
+YSO ID
+29124
+0 references
+POSIX locale identifier
+zu
+0 references
+LNB ID
+000312347
+0 references
+Krugosvet article
+gumanitarnye_nauki/lingvistika/ZULU.html
+0 references
+National Library of Israel J9U ID
+987007536538205171
+1 reference
+stated in
+National Library of Israel
+Open Library subject ID
+zulu_language
+0 references
+Store norske leksikon ID
+zulu_-_språk
+0 references
+Lingua Libre ID
+Q143
+0 references
+Den Store Danske ID
+zulu
+0 references
+Encyclopedia of China ID (Third Edition)
+27949
+0 references
+Online PWN Encyclopedia
+4002205
+0 references
+EU Knowledge Graph item ID
+Q2473050
+0 references
+NKCR AUT ID
+ph241116
+named as
+zuluština
+0 references
+WordNet 3.1 Synset ID
+07007452-n
+0 references
+Great Russian Encyclopedia Online ID
+1996929
+named as
+ЗУЛУ
+0 references
+OpenAlex ID
+C2778105672
+5 references
+stated in
+OpenAlex
+retrieved
+26 January 2022
+reference URL
+https://docs.openalex.org/download-snapshot/snapshot-data-format
+archive URL
+https://web.archive.org/web/20220125070108/https://docs.openalex.org/download-snapshot/snapshot-data-format
+archive date
+25 January 2022
+ 
+Retrieved from "https://linkedopendata.eu/w/index.php?title=Item:Q2473050&oldid=38743085"
+Navigation menu
+Personal tools
+EnglishLog inEU Login
+Namespaces
+ItemDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageRecent changesRandom pageCreate a new ItemQuery ServiceQA ServiceHelp about MediaWiki
+Tools
+What links hereRelated changesSpecial pagesPrintable versionPermanent linkPage informationConcept URI
+In other languages
+Add links
+ This page was last edited on 28 August 2023, at 07:06.
+Privacy policy
+About EU Knowledge Graph
+Disclaimers

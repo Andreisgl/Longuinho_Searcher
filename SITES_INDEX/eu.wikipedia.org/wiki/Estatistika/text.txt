@@ -1,0 +1,281 @@
+Estatistika - Wikipedia, entziklopedia askea.
+Edukira joan
+Menu nagusia
+Menu nagusia
+mugitu alboko barrara
+ezkutatu
+Nabigazioa
+AzalaTxikipediaTxokoaAlbisteakAldaketa berriakAusazko orriaLaguntzaDohaintza egin
+Hizkuntzak
+Wikipedia honetan hizkuntzen loturak orriaren goiko aldean daude, artikuluaren izenburuaren eskuinaldean. Joan gora.
+Bilatu
+Bilatu
+Sortu kontuaHasi saioa
+Tresna pertsonalak
+ Sortu kontua Hasi saioa
+Izena eman gabeko erabiltzaileentzako orrialdeak gehiago ikasi
+EkarpenakEztabaida
+Edukiak
+mugitu alboko barrara
+ezkutatu
+⇑ Gora
+1Historia
+2Estatistika zientzian
+3Estatistikaren metodologia
+4Estatistikaren adarrak
+Erakutsi/ezkutatu Estatistikaren adarrak azpiatal
+4.1Estatistika deskribatzailea, probabilitate-teoria eta inferentzia estatistikoa
+4.2Korrelazio eta erregresio teknikak
+4.3Bariantza-analisia eta esperimentuen diseinua
+4.4Aldagai anitzeko analisia
+4.5Laginketa
+4.6Denbora serieen analisia
+4.7Data mining edo datu-meatzaritza
+5Estatistikaren erabilera okerra
+6Estatistika aplikatua
+Erakutsi/ezkutatu Estatistika aplikatua azpiatal
+6.1Ekonometria
+6.2Demografia
+6.3Epidemiologia
+6.4Psikometria
+6.5Bioestatistika
+6.6Geoestatistika
+6.7Astroestatistika
+6.8Merkatu-ikerketa
+7Estatistika ofiziala
+Erakutsi/ezkutatu Estatistika ofiziala azpiatal
+7.1Estatistika erakunde ofizial zenbait
+8Estatistika hezkuntza eta ikerkuntza
+9Ariketak
+10Erreferentziak
+11Ikus, gainera
+12Kanpo estekak
+Erakutsi/ezkutatu Kanpo estekak azpiatal
+12.1Estatistika erakunde ofizialak
+12.2Datu estatistikoen bildumak
+Eduki taularen ikusgarritasuna aldatu
+Eduki taularen ikusgarritasuna aldatu
+Estatistika
+147 hizkuntza
+AfrikaansAlemannischአማርኛAragonésالعربيةঅসমীয়াAsturianuAzərbaycancaتۆرکجهБашҡортсаŽemaitėškaBikol CentralБеларускаяБеларуская (тарашкевіца)БългарскиBislamaবাংলাBrezhonegBosanskiCatalàکوردیCorsuČeštinaЧӑвашлаCymraegDanskDeutschZazakiދިވެހިބަސްΕλληνικάEnglishEsperantoEspañolEestiEstremeñuفارسیSuomiVõroFøroysktFrançaisNordfriiskFurlanFryskGaeilge贛語Kriyòl gwiyannenGàidhligGalegoGaelgHawaiʻiעבריתहिन्दीHrvatskiMagyarՀայերենInterlinguaBahasa IndonesiaIdoÍslenskaItalianoᐃᓄᒃᑎᑐᑦ / inuktitut日本語PatoisJawaქართულიTaqbaylitKabɩyɛҚазақшаಕನ್ನಡ한국어KurdîKernowekКыргызчаLatinaLadinoLëtzebuergeschLingua Franca NovaLimburgsLigureLombardລາວLietuviųLatviešuMadhurâMalagasyМакедонскиമലയാളംमराठीBahasa MelayuMirandésမြန်မာဘာသာनेपालीनेपाल भाषाNederlandsNorsk nynorskNorsk bokmålOccitanOromooଓଡ଼ିଆਪੰਜਾਬੀNorfuk / PitkernPolskiPiemontèisپنجابیپښتوPortuguêsRuna SimiRomânăРусскийРусиньскыйSicilianuScotsسنڌيSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaShqipСрпски / srpskiSeelterskSundaSvenskaKiswahiliதமிழ்ತುಳುTetunТоҷикӣไทยTürkmençeTagalogTürkçeТатарча / tatarçaУкраїнськаاردوOʻzbekcha / ўзбекчаVènetoVepsän kel’Tiếng ViệtWinaray吴语ייִדישYorùbá中文Bân-lâm-gú粵語IsiZulu
+Aldatu loturak
+ArtikuluaEztabaida
+euskara
+IrakurriAldatuAldatu iturburu kodeaIkusi historia
+Tresnak
+Tresnak
+mugitu alboko barrara
+ezkutatu
+Ekintzak
+IrakurriAldatuAldatu iturburu kodeaIkusi historia
+Orokorra
+Honanzko esteka duten orriakLotutako orrietako aldaketakFitxategia igoOrri bereziakLotura iraunkorraOrri honen datuakArtikulu hau aipatuWikidata itema
+Inprimatu/esportatu
+Liburu bat sortuDeskargatu PDF formatuanInprimatzeko bertsioa
+Beste proiektuetan
+Wikimedia CommonsWikiesanak
+Wikipedia, Entziklopedia askea
+Estatistikak datuetan dauden joerak eta erregulartasunak bilatzen eta zehazten ditu, natura eta giza fenomenoak argitze aldera. Irudian, errealitatetik jasotako datu multzo bati estatistika-teknika batez egokitutako lerroa.
+Estatistika matematikaren adar bat da, datuak biltzeaz, sailkatzeaz, aztertzeaz, interpretatzeaz eta aurkezteaz arduratzen dena.[1][2] Helburutzat du datu horien baitan dauden erregulartasunak eta erlazioak hautematea, horietarako ereduak eratzea, iragarpenak egitea, konklusio zehatzak ematea, eta erabaki egokiak hartzea. Labur, estatistikaren helburua da jasotako datuetatik informazio baliagarria eskuratzeko teknikak garatu eta aplikatzea. Horretarako, matematika, probabilitate teoria eta erabaki-teoria oinarritzat hartzen ditu. Estatistikaren teknikak maila bitan erabiltzen dira: estatistika deskribatzailean teknika sinple eta errazak erabiltzen dira datuak irudikatu eta laburtzeko; inferentzia estatistikoak, berriz, azterketa konplexuago eta zorrotzagoa egiten du, datuak eredu matematiko batera egokitu eta berarekin duten errore estatistikoa neurtuz, probabilitate kontzeptuan oinarrituz horretarako. Egun funtsezko metodologia da ikerketa zientifikoan eta alor guztietan zabaltzen da bere erabilera, hala nola ekonomian, medikuntzan, soziologian eta meteorologian. Hala ere, erabilera oker batengatik estatistika manipulazio eta erroreen iturburua izan da sarri; hori dela eta, estatistikaren emaitzak behar bezala interpretatzeko garrantzitsutzat jotzen dira estatistikaren jendarteratzea eta estatistika-hezkuntza zorrotza, estatistika teknikak eta horietarako programa informatikoen aukerak tentuz baliatzeko.
+Beste alde batetik, estatistikak terminoa edonolako datu multzoak, baina gehienetan erakunde publikoek argitaratutako datu ofizialak, adierazteko ere erabili ohi da (langabetuen estatistikak eta osasun estatistikak, esaterako). Estatistika ez da, ordea, datuak jasotzera mugatzen, harago doa eta datuen azterketarako metodologia ere hartzen du bere baitan.
+Historia[aldatu | aldatu iturburu kodea]
+Sakontzeko, irakurri: «Estatistikaren historia»
+XVII. eta XVIII. mendeetan estatistika terminoa sortu eta oinarrizko metodologia zientifiko bilakatu aurretik, anitzetan burutzen ziren datu bilketak. Antzinako Egipton eta beste zibilizazio zaharretan ohizkoak ziren zentsuak. Erdi Aroan ere ezagunak dira egindako datu bilketa batzuk, Ingalaterran egindako Domesday Book delakoa esaterako. Estatistika datuen azterketa moduan ikusi zuen lehenengo bidegilea John Graunt ingelesa izan zen XVII. mendean; Londresko datu demografikoak erabiliz, aurresanak eta beste ondorioak ateratzen ditu datuetatik. Demografiari buruzko ikerketak eta estatuei buruzko datu ekonomiko eta politikoen bilketa eta azterketa ugaldu ziren XVIII. mendean, Alemanian sortu berria zen statistik arloaren, datu-bilketa hutsa zena, eta, datuak biltzeaz gainera, horiek aztertu ere egiten zituen aritmetika politikoa delakoaren baitan, William Petty ingeles zientza gizonak garatu zuena. XVIII. mendean probabilitate teoria garatu zen eta horrela XIX. mendearen hasierarako estatistika probabilitate teoriarekin uztartzeko teoria osaturik zegoen, Pierre-Simon Laplace zientzia gizonari esker, besteak beste, banaketa normalean eta beste kontzeptu batzuetan oinarrituz. XIX. mendea aplikazioak zientzia anitzetara hedatu ziren. Adolphe Quételet izan zen mende horretan estatistikaren erabileraren zabalkuntza bultzatzen dutenetako bat. XX. mendean, Ronald Fisher estatistikariak inferentzia estatistikoaren teoria garatu eta Andrei Kolmogorov sobietar matematikoak probabilitatearen axiomatika eratu zuen. Bayestar estatistika izeneko adarra ere mendean zehar garatutako erabaki-teorian oinarritzen da. Hainbat aldagai batera aztertzen duen aldagai anitzeko analisiko teknikak ere garatzen dira. Horiei guztiei eske, estatistikaren eraikin kontzeptuala osatu eta teknika eta eredu berrietarako oinarria finkaturik geratzen da XX. mendeko erdialderako. Hala ere, informatikaren garapenak aukera berriak zabaltzen ditu datu-multzo itzelak jaso eta aztertzeko, aldagai anitzeko analisiaren aplikazio masiborako bidea zabalduz eta datu-meatzaritza izeneko teknikak baliatuz.
+Estatistika zientzian[aldatu | aldatu iturburu kodea]
+Errealitatea ezagutzeko eta zientziaren garapenerako enpirismo eta positibismo korronte epistemologikoak dira estatistika tresna zientifiko moduan balioesten dutenak. Korronte horien arabera ezaguera zentzumenezko esperientzian oinarritu behar da eta esperientzia horren analisia da, logika induktibo batean oinarritua, errealitatearen fenomenoak ulertzen ahalbidetzen duena. Logika induktiboan gertaeren errepikapenak ezaguera sendoak eratzeko balio du, maiz azaldu den gertaera batek etorkizunean ere gertatzeko aukera handiak baititu, kondizio berdinak gauzatzen badira; hain zuzen ere, estatistikaren oinarria gertaeren maiztasun eta probabilitateetan datza, eta horrela, logika induktibozko teknika moduan, hartzen du metodo zientifikoaren funtsezko osagaia izateko zilegitasuna.
+Estatistikari egin zaizkion kritikak gizarte zientzietan egiten den erabilerarekin daude loturik. Zehatzago, giza eta gizarte fenomenoak zenbakiz eta estatistikaz aztertzen direnean, modu murriztaile batez jokatzen dela argudiatu izan da, fenomenoa isolatuz eta neurtuz. Beste aldetik, ordea, giza eta gizarte fenomenoak modu teorikoan soilik aztertzeak ikerketari zientifikotasuna kentzen diola aipatzen da. Horrela, estatistikaren erabilerak ekar dezakeen alborapena saihesteko, jasotzen diren datuen ingurua eta eremua kontuan hartzea, salbuespenak baztertuz banakoak biltzen dituen agregatuak edo multzoak aztertzea eta ikertzaileak berak fenomenoan nahiz datuak jaso eta interpretatzean izan dezakeen eragina eta joera deuseztatzea proposatu dira azterketa estatistiko zuzen baterako ildo nagusi moduan.
+Estatistikaren metodologia[aldatu | aldatu iturburu kodea]
+Estatistikan, datuak jasotzeko ohiko metodo bat inkesta da (irudian). Jasotako datuak populazio osoaren adierazgarri izan daitezen, inkestarako aukeratzen diren pertsonak, lagina osatzen dutenak hain zuzen, zoriz aukeratu behar dira.
+Estatistika ikerketa bat populazio bat eta bertan jasoko diren aldagaiak zehatz definituz abiatzen da, ikergai den eremua zehaztuko dutena. Erabili beharreko estatistika teknikak zehazterakoan, aldagaiak kuantitatiboak edo kualitatiboak diren hartu behar da kontuan. Populazio horren gainean datuak jasotzerakoan bi prozedura izaten dira aukeran: zentsua, non populazioko elementu guztien datuak biltzen diren; eta laginketa, non populazioko elementu batzuk soilik jasotzen diren, lagin bat osatzeko. Datuek populazio bateko lagina osatzen dutenean, lagina populazioaren adierazgarria izan dadila saiatu behar da; horretarako lagina osatzen duten elementuak zoriz aukeratu behar dira, ikerketan izan daitezkeen alborapenak baztertuz. Datuak saiakuntzaz nahiz behaketaz (inkesta bat burutuz, adibidez) jaso daitezke. Saiakuntzaren kasuan, aldagaiak eta errore esperimentala kontrolatzeko teknika estatistiko bereziak daude; behaketazko ikerketetan, berriz, inkesta eta datu-bilketa zorrotz diseinatu eta planifikatu behar dira, datu bilketak zenbatespen estatistikoetan alborapenik ez sorrarazteko. Adibidez, etxez etxeko inkestak egiten badira etxe bakoitzean bizi den pertsona kopuruaz galdezka, pertsona asko bizi diren etxeetan atea zabaltzeko probabilitatea handiagoa da eta txikiagoa pertsona bakarra bizi den etxeetan; erantzunik jaso ez den etxeak baztertzen badira, etxeko pertsona kopurua gehiegiz zenbatesteko joera izango da.
+Nolanahi ere, datu bilketa zeharkako datuak (une jakin batean multzo bateko elementuen gainean datuak jasotzen direnean) nahiz luzetarako datuak (elementu berdinen gainean, datuak denboran zehar jasotzen direnean) osatuz egin daiteke; sailkapen horrek ere teknika estatistiko bereiziak ekartzen ditu. Beste irizpide baten arabera, azterketa estatistiko baterako hartzen diren datuak lehen mailakoak (estatistikaren erabiltzaileak berariaz jaso dituenak) nahiz bigarren mailakoak (beste ikerketa batean jasotakoak) izan daitezke: lehen mailako datuak ikertzaileak zehazturiko helburuei jarraiki jasotzen diren bitartean, bigarren mailako datuetara eta horiek jasotzeko erabili den metodologiara moldatu beharra dago, estatistikaren erabiltzailearen zeregina kondizionatuz horrela.[3]
+Datuak bildu ondoren, horiek maiztasun-taula batean azaldu nahiz modu grafikoan irudikatu behar dira, datuak modu ulergarri batez plazaratu nahiz ondorengo azterketa zorrotz baterako esplorazio-tresna moduan. Horrekin batera eta helburu berdinez, ohikoa da datuak laburbiltzeko neurri, koefiziente eta teknika estatistiko sinpleak erabiltzea.
+Datuak plazaratu eta azterketa sinple bat egiteaz haraindi, azterketa zorrotza burutu nahi bada, jasotako aldagaien arteko erlazio konplexuak bilatuz edota datuak probabilitatezko eredu batera egokituz, teknika estatistiko eta matematiko konplexuagoak baliatu beharko dira, aldagai anitzeko analisiaren edo inferentzia estatistikoaren baitan. Sarri, datuei egokitu beharreko eredua zehaztea da helburua, parametroak zenbatetsiz edo balio jakin zenbaitetarako kontrastatuz, ereduaren propietate eta ondorioak datuek islatzen duten fenomenora zabaltzeko. Teknika horiek aplikatzerakoan, maiz ezartzen dira datuei buruzko aldez aurretiko suposizio eta hipotesiak, hala nola datuak zoriz jaso direla eta populazio homogeneo batetik eratorritakoak direla; erabilitako tekniken bitartez eskuratutako emaitzak balioztatzeko, baldintza haiek ere egiaztatu egin behar dira.
+Nolanahi ere, datu multzo baten azterketa estatistikorako teknika anitz izaten da aukeran eta zaila izaten da erabakitzea zein den egokiena. Beti hartu behar da kontuan prozedura estatistiko asko lortu behar diren aplikagarritasuna baldintzatzen duten emaitzen froga matematikoetan oinarritzen direla; froga matematiko horietako pausoak ezagutu gabe, azkenean emaitzak eskuratuko dira, baina ez dira fidagarriak izango. Azkenik, emaitza estatistikoak heldu nahi den hipotesi edo helburu zientifikoaren ikuspuntutik baloratu behar da eta ez emaitza soil moduan.
+Estatistikaren adarrak[aldatu | aldatu iturburu kodea]
+Estatistika deskribatzailea, probabilitate-teoria eta inferentzia estatistikoa[aldatu | aldatu iturburu kodea]
+Estatistikaren eraketa teorikoa hiru hiru mailatan zatitu ohi da: estatistika deskribatzailea, probabilitate-teoria eta inferentzia estatistikoa. Zatiketa hori izaten da, gainera, estatistikaren irakaskuntzan modu ordenatuan jarraitzen dena, estatistika deskribatzailea estatistikaren sarrera moduan baliatuz. Probabilitate-teoria eta inferentzia estatistikoaren teknikak garatu eta horien baliozkotasuna frogatzeko matematika erabiltzen da. Hori dela eta, arlo horietako oinarri, kontzeptu eta teoremen multzoari estatistika matematiko deitu izan zaio.
+Estatistika deskribatzaileak datuen deskribapen hutsa egiten du, teknika sinpleak erabiliz, datuak irudikatu eta laburtzeko. Aplikazio askotan ez da beharrezkoa zehaztasun handia eta datuen ezaugarri nagusienak lortu eta sinpletasunez erakusteko nahikoa izaten da. Datu diagramak, maiztasun-banaketak, batezbestekoen eta bariantzaren kalkulua (banaketen zentroa eta sakabanatzea neurtzeko, hurrenik hurren) eta bestelako estatistiko edo neurriak biltzen ditu estatistika deskribatzaileak. Aldagaien arteko erlazioak ere modu deskribatzaile batez azter daitezke, diagramak baliatuz nahiz korrelazio-koefizienteak kalkulatuz.
+Estatistikak tresna sinpleak ere eskaintzen ditu datuak aztertzeko: batzuetan nahikoak dira datuen tabulazioa eta batezbestekoaren kalkulua datuak laburbiltzeko.
+Adibidez, ikasgela bateko 25 haurren matematika-kalifikazioak jaso dira: 6-7-8-7-6-5-5-6-5-9-7-8-9-7-8-7-8-7-8-7-7-6-6-8-7; datuak maiztasun-taula batean bilduz gehien agertzen den kalifikazioa 7 dela ikus daiteke; barra diagraman ere ikus daitekeenez. Batezbesteko aritmetiko sinplearen emaitzak ere notak 6.96 balioaren inguruan biltzen direla erakusten du.
+Kalifikazioa
+Haurrak
+5
+3
+6
+5
+7
+9
+8
+6
+9
+2
+x
+¯
+=
+5
+×
+3
++
+6
+×
+5
++
+7
+×
+9
++
+8
+×
+6
++
+9
+×
+2
+25
+=
+6.96
+{\displaystyle {\overline {x}}={\frac {5\times 3+6\times 5+7\times 9+8\times 6+9\times 2}{25}}=6.96}
+Estatistikaren ohiko metodologia da datuetara egokitzen diren ereduak eratzea (irudian, histograma batez irudikatutako banaketa normala.
+Deskribapenaz haraindi doa estatistika: datuen aldakortasunaren iturburua zorizkotasuna denez, probabilitate-teoriak datuak eta populazioak matematika eta probabilitate kontzeptua erabiliz islatzen dituzten ereduak zehazten ditu. Eredu hauek zehaztu gabeko parametroak izaten dituzte, datuak aztertuz kuantifikatuko direnak. Probabilitate-teoriak eredu hauen propietateak, ondorioak eta beraien arteko erlazioak ere aztertzen ditu. Probabilitatearen eta datuen arteko lotura maiztasuna da: adibidez, ikasgela batean maila bat gainditu dutenak %70 badira, maila gainditzeko probabilitatea 0.7 dela zenbatesten da.
+Horrela, inferentzia estatistikoaren xedea datuak aukeratutako probabilitate-eredura doitzea da. Horretarako, ereduaren parametroak zenbatetsi egin behar dira datuek osatzen duten laginean oinarrituz. Adibidez, 15 urteko mutilen altuerak eta pisuak, kartesiar diagrama batean jarrita, ez dira guztiz egokitzen zuzen batera, baina zuzena eredu onargarria eta erosoa izan daiteke datu multzoa deskribatu eta sakonago aztertzeko; zuzenaren ekuazioa, zuzenaren parametroak alegia, datuetan oinarrituz zenbatetsi behar dira. Parametroen zenbatespenek errorerik badute, noski, datuen zorizkotasunak eta populazio batetik eratorritako lagina izateak eragindakoa. Errorearen neurria izateko, konfiantza-tarteak erabiltzen dira. Parametro ezezagunak kuantifikatzeko beste modu bat horien balioa finkatu eta datuak balio horrekin bat datozen aztertzea da, hipotesi-kontraste baten bitartez. Parametroetan zentraturiko estatistikaren aukera moduan, estatistika ez parametriko izeneko arloa dago, datuei eredurik egotzi gabe, populazioen ezaugarriei buruzko hipotesiak egiaztatzen dituena.
+Ikerketa zientifikoetan inferentzia estatistikoak eskaintzen dituen teknikak erabiltzen dira egun, zehatzagoak eta zorrotzagoak baitira, eta estatistika deskribatzailea datuak esploratu, zein eredu mota izan daitekeen egokiena erabakitzeko, edota publikora zabaltzeko soilik erabiltzen da. Esplorazio-helburua nabarmenduz, datuen azterketa esploratzaile izeneko teknika multzoa garatu zen XX. mendearen mendean, ereduen zurruntasuna kritikatu eta bereziki tresna grafikoak proposatzen dituena, ereduetan muturreko datuek duten eragina nabarmenduz eta horiek hautemateko prozedurak ezarriz.
+Korrelazio eta erregresio teknikak[aldatu | aldatu iturburu kodea]
+Kartesiar diagraman irudikatzen diren bi aldagaiek (datuak gorriz adierazten dira) korrelazio positiboa dute: batak gora egitean, besteak ere gora egiten du. Urdinez datuetara egokitu den erregresio- zuzen bat agertzen da.
+Korrelazioaren azterketaz bi aldagai kuantitatiboen arteko erlazio estatistikoaren norabidea eta sendotasuna ikertzen dira: batak gora egitean, besteak ere gora edo behera egiten duen eta erlazio hau oso argia den, alegia. Erregresio tekniken bitartez, bi aldagaien arteko erlazio estatistikoa zehazten da, bata bestearen mendean utziz. Kasu bietan, oinarritzat hartu ohi den erlazio mota lineala edo zuzen erakoa da; nahiz eta bestelako lerroak ere azter daitezkeen bertatik abiaturik. Erregresio eredu orokorretan, aldagai independentetzat aldagai anitz har daitezke, aldagai bat beste batzuen mendean utziz. Lerro horien egokitzapenaren kalitatea (menpeko aldagaiaren balio errealen eta egindako aurresanen gertutasuna) ere aztertzen da erregresio-tekniketan. Nolanahi ere, korrelazio- eta erregresio-analisietan tentuz jokatu behar izaten da beste aldagaien eragina eta datuetan izan daitezkeen aparteko joerak kontrolatzen.
+Bariantza-analisia eta esperimentuen diseinua[aldatu | aldatu iturburu kodea]
+Bariantza-analisia, nazioartean ANOVA izenez ezagutu ohi dena, aldagai baten aldakortasuna, bariantzaren bitartez neurtzen dena, faktore edo eragile zenbaiten efektuengatiko osagaietan zatitzen du. Hipotesi-kontraste baten bitartez, faktore bakoitza eragingarritzat jo edota hautemandako aldakortasuna zoriari egotzi behar zaion erabakitzen da. Bariantza analisia esperimentu-diseinuan erabiltzen da bereziki, non aztergai den aldagai bat kontrolatzen diren beste aldagai batzuen mendean aztertzen den. Kontrolatzen diren aldagaiak, elementuak eta beraien arteko erlazioak zein diren, esperimentu-diseinu mota asko daude, ordea; esperimentu-egoera bakoitzean, bariantza-analisiak azterketa estatistiko egokiena zehaztuko du.
+Aldagai anitzeko analisia[aldatu | aldatu iturburu kodea]
+Aldagai anitzeko analisiak aldagai kopuru handia (nahiz eta teorian aldagai bi eta bakarreko datu multzoetarako ere aplika daitekeen) jasotzen duten datu multzoak aztertzen dituzten teknika estatistikoak biltzen ditu. Helburua datu multzoak duen aldagai edo dimentsio-kopurua murriztea da, datu multzo osoa laburbiltzen duten faktoreak zehaztuz. Bide batez, datu multzoetan jaso diren elementuak (herriak, non aldagai sozioekonomikoen kopuru handia jaso diren, adibidez) modu sinplean irudikatu ere egiten dira, antzekoak diren elementuak hautemanez. Horretarako teknikak dira analisi faktoriala eta osagai nagusien analisia. Beste teknika batzuetan, dependentzia-erlazioak bilatzen dira, hala nola erregresio eredu orokorra, bi aldagai soilik lotzeaz haraindi aldagai independentetzat aldagai multzo bat hartzen duena eta MANOVA eta MANCOVA analisi motak, bariantza-analisiaren menpeko aldagai anitzeko bertsio direnak. Beste alde batetik, clustering edo multzokatze izeneko teknikan jasotako aldagai guztiei buruz antzekoak diren elementuak multzoetan sailkatzen ditu. Analisi diskriminatzailearen bitartez, berriz, elementu batera aurrez ezarritako multzoetako batera bilduko den aurresaten da. Eskalatze multidimensionalean elementuak bi dimentsioetako mapa batean kokatzen dira, hainbat aldagaitan hartzen dituzten balioak eta distantziak ahalik eta modu fidagarrienean azaltzeko. Korrespondentzia-analisian kontingentzia tauletan bildutako aldagai kategorikoak laburbildu eta irudikatzen ditu. Oro har, teknika hauek guztiek aljebra lineala modu intentsiboan erabiltzen dute, datuak euren matrize bidezko adierazpenetik aztertzen badira.
+Laginketa[aldatu | aldatu iturburu kodea]
+Populazio baten adierazgarri den lagin bat osatzeko, elementuak zorizko laginketaz jaso behar direla jakina da. Baldintza horrek datuak jasotzeko modu anitz uzten ditu zabalik. Laginketa-teoriak modu horiek garatu egiten dituen estatistikaren arloa da. Populazioaren ezaugarriak zein diren, laginketa geruzatua, konglomeratuzko laginketa, etapa anitzeko laginketa eta laginketa sistematikoa izeneko prozedurak asmatu eta aztertu dira. Baliatu beharreko laginketa prozeduraz gainera, laginketak errore eta zehaztasun jakin bateko zenbatespenetarako osatu beharreko lagin tamainaren kalkulua ere aztertzen du. Horren aplikazioak zabalak dira demoskopia eta beste ikerketa soziologiko eta demografikoetan, baina baita natura zientzietan ere (adibidez, biologian espezie bateko laginak osatzerakoan).
+Denbora serieen analisia[aldatu | aldatu iturburu kodea]
+Denbora serieak denboran zehar aldagai bat edo batzuen bilakaera adierazten duten datu multzoak dira. Estatistikak denbora serieen bilakaera aurresateko teknikak garatzen ditu bereziki, iraganeko bilakaeran oinarrituta. Horietan, ARIMA izeneko eredu konplexuak dira zientzia arloan gehien erabiltzen direnak baina azterketa sinpleagoak egiteko prozedura sinpleak ere badaude. Nola nahi ere, azterketarako denbora serie bat joera, zikloa eta urtarokotasun osagaiek zehazten dutela pentsatzen da, aurresanezina den zorizko osagai batekin batera.
+Data mining edo datu-meatzaritza[aldatu | aldatu iturburu kodea]
+Datu-meatzaritza XX. mendearen bigarren erdian garatu den diziplina arteko arloa da, estatistika, adimen artifiziala eta erabaki-teoria uztartuz. Bere helburua datu-base handien azterketarako metodo eraginkorrak bilatzea da, modu azkar batez datuetan egon daitezkeen egiturak hautemateko.[4]
+Estatistikaren erabilera okerra[aldatu | aldatu iturburu kodea]
+Bi urtetan zehar izandako 40 eta 50eko salmentak irudikatzean, jatorria 40tik gertu jartzen bada, gehikuntza askoz ere handiagoa dela erakusten da, modu engainagarrian (ezkerrean). Gehikuntza erreala erakusteko, zutabeak jatorritik altxatu behar dira (eskuinean). Erreferentziaren aldaketa nahiz aipamen eza emaitza eta interpretazio okerren iturburua izaten da.
+Ezjakintasunez, estatistika manipulazio tresna moduan erabiltzeagatik nahiz modu egokian interpretatzen ez direlako, estatistikaren emaitzak mesfidantzaz hartu ohi dira publikoaren artean. Estatistikaren metodoak matematikoak dira, modu zientifikoan garatu dira eta erabat fidagarriak dira, ordea; horrela, estatistikaren erabilera okerra da, eta ez estatistika bera, zuzenak ez diren emaitzak eta konklusioak azaltzera eramaten duena. Ikerketetan eta hedabideetan agertzen diren akats estatistikoak saihesteko, bereziki estatistikan trebatutako adituen laguntza gomendatzen da, estatistikaren metodoak erabili nahiz horiek modu egokian plazaratzeko.[5]
+Hainbat dira estatistika gaizki erabili eta horren emaitzak gaizki interpretatzen direneko egoerak. Ohiko okerrak dira honako hauek:
+batezbestekoak populazio osora zabaltzea; izan ere, pertsonen batezbesteko soldata 1500 eurokoa denean, ez da ulertu behar pertsona guztiek edo gehienek 1500 euro jasotzen dutenik; izan ere, batezbestekoak populazioko elementuak zein balioren inguruan biltzen diren adierazten du eta inguru hori zabalagoa edo estuagoa izan daiteke egoera batetik bestera; hori guztia dela eta, batezbestekoekin batera sakabanatze neurriren bat erabiltzea gomendatzen da;
+[6]
+korrelaziotik kausa ondorioztatzea; izan ere, estatistikoki bi aldagai loturik egoteak ez dakar besterik gabe bata bestearen kausa izatea, lotura hori halabeharrezkoa edo bi aldagaiekin loturik dagoen beste hirugarren aldagai batek eragindakoa izan daitekeelako;
+X eta Y-k korrelazio bat izateak ez du zertan esan nahi kausazko erlazio bat dutenik, hirugarren Z aldagai baten menpekoak direlako baizik.
+[7]
+aldaketa baten neurria kalkulatu edo irudikatu behar denean, aldaketa neurtzeko erabili den oinarria edo erreferentzia gisa balio normalak hartu behar dira; adibidez, enpresa bateko salmenten bilakaera adierazteko, hasierako balio edo oinarri moduan ez da aukeratu behar salmentak oso txikiak izan ziren urte bat, horrela datozen urteetako gehikuntzak puztuta agertuko baitira; beste alde batetik, oinarri eta erreferentzia moduan hartzen diren balioak adierazi behar dira beti, emaitzen perspektiba hobea izateko; adibidez, gazta jateagatik gaixotasun bat pairatzeko arriskua bikoiztu egiten dela baieztatzen bada, gazta jan gabe gaixotasun hori bizitza osoan pairatzeko probabilitatea 0.0001 eta, ondorioz, gazta janda probabilitatea 0.0002 dela ere aipatu egin behar da, gaixotzeko aukerak bi kasuetan murritzak direla argi uzteko;
+adierazgarritasun estatistikoa gaizki interpretatzea; izan ere, emaitza estatistikoak adierazgarriak izateak horiek ziurtasun handiz baiezta daitezkeela esan nahi du eta ez emaitzak beraiek adierazgarriak direnik; adibidez, gizonezkoak ataza bat burutzerakoan denbora laburragoa ematen dutela adierazgarritasun handiz frogatzeak ez dakar bi sexuen arteko alde hori handia izan behar denik, oso txikia eta garrantzirik gabekoa izan baitaiteke.[6]
+Estatistika aplikatua[aldatu | aldatu iturburu kodea]
+Estatistikak bi alde ditu: batetik, metodo estatistikoaren oinarriak eta teknikak garatzen dituen estatistika teorikoa edo estatistika matematikoa, jakintza arlo zientifiko bateratua dena; bestetik, metodo horiek egokitu eta aplikatu dituzten arloak, estatistika aplikatua. Aplikazioei dagokienean, estatistika metodo zientifikoa oinarritzen diren zientzia eta jakintza arlo guztietan erabiltzen da: datuak non, han baliatu behar da estatistika horien azterketa egiteko.
+Aplikazio arloa zein den, metodo estatistiko bereziak erabili behar dira eta sarri metodo orokorrak egokitu egin behar izaten dira. Hori dela eta, jakintza arlo bakoitzean, horretarako metodo estatistiko bereziak garatu eta aztertzen dituzten diziplinak daude, hala nola, ekonometria, ekonomian; epidemiologia, medikuntzan; psikometria, psikologian; bioestatistika, biologian; astroestatistika, astronomian; merkatu-ikerketa, marketinen; geoestatistika, lur-zientzietan; antropometria eta abar. Izen berezirik gabe, estatistikak rol garrantzitsua betetzen ditu beste zientzia eta diziplina askotan, hala nola soziologian (pertsonak hautatzeko laginketa-metodoak baliatuz, adibidez), enpresa (kalitate-kontrolean, besteak beste), finantzetan (denbora serieak aztertuz, aktiboen kotizazioen aurresanak egiteko) eta ingeniaritzan (sistemen fidagarritasunari buruzko datuak jaso eta aztertzeko, besteak beste). Estatistika-metodoak baliatu eta garatu egiten dituzten diziplina arteko arlo aplikatuak ere sortu dira, hala nola ilara-teoria.
+Ekonometria[aldatu | aldatu iturburu kodea]
+Ekonometria teoria ekonomikoa, matematika eta estatistika bateratzen dituen arloa da, teoria eta behaketak uztartuz. Ziklo ekonomikoa (denbora serieen azterketaren bitartez), aldagai makroekonomikoen arteko erlazioak (adibidez, eskariaren erta prezioaren artean, erregresio-ereduen bitartez) eta prezioen bilakaera azaltzen duten zenbaki indizeen eraketarako metodologia aztertzen ditu. Teoria ekonomikoak garatutako ereduetako parametroen zenbatespena, diagnostikoa (datuak bat datozen zehaztutako ereduarekin) eta eredu horiek erabiliz, aurresanak ere egiten ditu.
+Demografia[aldatu | aldatu iturburu kodea]
+Demografia giza-populazioen egitura eta bilakaera aztertzen dituen jakintza-arloa da. Horretarako, bereziki metodo estatistikoak erabiltzen ditu, hilkortasun-indizea, bizi itxaropena, jaiotza-tasa, ugalkortasun tasa eta populazioen dinamika azaltzen duten beste hainbat adierazle eratu eta aztertzeko.
+Epidemiologia[aldatu | aldatu iturburu kodea]
+Epidemiologia, medikuntzaren baitan, gaixotasunek eta osasunarekin loturiko gertaerek populazioetan duten banaketa, adina, elikadura, ohiturak eta beste arrisku-faktoreak kontuan hartuz, aztertzen duen jakintza-arloa da. Osasun publikoaren baitan garrantzi berezia du, arduradunei osasun-politika eta prebentzio-neurriak hartzeko oinarrian baitago.
+Psikometria[aldatu | aldatu iturburu kodea]
+Psikometria, psikologiaren baitan, nortasun eta portaera-ezaugarriak jaso eta neurtzeko teknika estatistikoak garatu eta aplikatzen ditu. Garrantzia berezia hartzen dute neurketa-eskalek, hala nola Thurstone eskala eta Likert eskala, eta ezaugarri horiek jasotzeko galde sortaren diseinua aztertzen duten testen teoria klasikoa eta itemaren erantzun-teoria.
+Bioestatistika[aldatu | aldatu iturburu kodea]
+Bioestatistikak biologian (eta inguruko arlo aplikatuetan, agronomian kasu) sarri burutzen diren saiakuntza-diseinu bereziak aztertzen ditu, zoriaren eta faktoreen eraginak kontrolatuz. Orobat, genetikan herentzia aztertzeko adibidez, probabilitate-eredu bereziak garatu behar ditu, ondoren jasoko diren datuekin alderatzeko. Organismo nahiz populazioetarako eratzen diren hazkunde-ereduak datuekin kontrastatu behar dira. Populazioen dinamika (adinak, biziraupena, ...) ere estatistikatik, zehatzago demografiatik, hartutako tresnen bitartez aztertzen da. Demografian ez bezala, ordea, zentsuak ez dira posible izaten eta laginketa metodo bereziak garatu behar dira (harrapatutako banakoak markatuz eta horien ondorengo jarraipena eginez, esaterako).[8]
+Geoestatistika[aldatu | aldatu iturburu kodea]
+Datu meteorologikoak estatistikaz aztertuz, berotze globalari buruzko aurresanak egin daitezke.
+Geoestatistikak geologia, ozeanografia, meteorologia, astronomia eta beste lur-zientzietan jasotzen diren datuak, gehienetan espazioan eta denboran zehar banaturik daudenak, aztertzen ditu. Horren baitan garatu den berariazko teknika bat kriging izenekoa da, datuak jaso diren puntuen arteko interpolazioak burutzen dituena. Datu horiek jasotzean izaten diren neurketa-erroreen azterketaz ere arduratzen da geoestatistika.
+Astroestatistika[aldatu | aldatu iturburu kodea]
+Aitzinean, behaketa astronomikoetan gertatzen ziren erroreak batezbestekoak eta beste zentro-neurriak erabiliz kontrolatzen ziren. Egun, astroestatistikak teleskopio eta beste behaketa-gailuek sortzen dituzten datu multzo itzelak aztertzeko teknikak, datu-meatzaritzaren baitan esaterako, baliatu behar ditu, unibertsoko objektuak fidagarritasunez aurkitu eta behar bezala sailkatzeko; orobat, estatistikaren altzotik asmatu diren irudien analisirako tresnak ere baliatu behar ditu.[9]
+Merkatu-ikerketa[aldatu | aldatu iturburu kodea]
+Merkatu-ikerketan kontsumitzaileek profilak osatu eta lehiakideen analisia egiten da. Horretarako, inkesta bidez eta behaketa zuzenaz jasotzen diren datuak aztertzen dira, produktuen eta kontsumitzaileen arteko ezberdintasunak azalerazteko.
+Estatistika ofiziala[aldatu | aldatu iturburu kodea]
+Estatistikaren zeregina ere bada estatu bateko informazio ekonomiko, administratibo, demografiko eta ingurumenari buruzkoa, estatistikak alegia, jaso eta hedatzea. Horretarako, gobernuek estatistika-erakunde ofizialak kudeatzen dituzte, udal eta beste gobernu erakundeek ere euren estatistika-datuak plazaratzen dituzten arren. Nazioarteko erakundeek ere estatistiken hornitzaile nabarmenak dira. Informazio horren hartzaileak hiritarrak, euren informazio-eskubidea bermatuz, enpresak eta beste erakundeak, erabakiak hartzeko oinarri moduan, eta ikertzaileak dira. Historian zehar, zentsuak eta erroldak izan dira informazio hori biltzeko tresnak; egun laginketaren bitartez herri, eskualde nahiz herrialde bateko informazio fidagarria osatzen da. Horretaz gainera, estatistika ofizialaren jarduerak zenbait printzipio jarraitu behar ditu, hala nola pertsonen datuen konfidentzialtasuna atxikitzea; herrialde ezberdinetako alderagarriak izan daitezen, datuak nazioartean adostutako irizpide komunei jarraiki bildu eta plazaratzea eta datu bilketa eta estatistiken eraketa onartutako irizpide zientifikoetan oinarrituta burutzea, edonolako manipulazio politiko baztertuz.[10]
+Estatistika ofizialek honako hauek hartzen dituzte, besteak beste, bere baitan: biztanleria datuak (herri, sexu eta adinaren arabera), bizi-itxaropenak, BPG hazkundea, langabeziari buruzko datuak, ekoizpen eta prezioen bilakaerari buruzko datuak (Kontsumorako Prezioen Indizea, kasu) sektore ekonomikoaren eta produktu motaren arabera, enpresa-kopuruak eta horien tamaina sektorearen arabera, osasun arloko estatistikak (heriotza-adinak, gaixotasunen prebalentzia) eta hezkuntzari buruzko datuak (maila eta ikastegi-motaren arabera).
+Estatistika erakunde ofizial zenbait[aldatu | aldatu iturburu kodea]
+Euskal Herrian eta Europan
+Eurostat, Europar Batasunean;
+Eustat, Euskal Autonomia Erkidegoan;
+Nafarroako Estatistika Institutua, Nafarroako Foru Erkidegoan;
+Espainiako Estatistika Institutua (INE), Espainian;
+INSEE, Institut National de la Statistique et des Études Économiques, Frantzian;
+Statistisches Bundesamt, labur Destatis, Alemanian;
+Office for National Statistics, Erresuma Batuan.
+Mundu zabalean
+United Nations Statistics Division, Nazio Batuen estatistika erakundea;
+Ameriketako Estatu Batuetako Zentsu Bulegoa, Estatu Batuetan;
+Txinako Estatistika Bulego Nagusia, Txinan;
+Goskomstat, Errusian;
+Instituto Brasileiro de Geografia e Estatística, IBGE, Brasilen;
+Indian Statistical Institute, Indian;
+Instituto Nacional de Estadística y Censos, INDEC, Argentinan.
+Estatistika hezkuntza eta ikerkuntza[aldatu | aldatu iturburu kodea]
+Estatistika baliatzen den arloen aniztasuna eta hedabideetan izaten duen presentzia trinkoa direla eta, garrantzitsutzat jotzen da haur eta gazteei oinarrizko probabilitate eta estatistika kontzeptuak erakustea. Gehienetan, estatistikari buruzko hezkuntza-edukiak matematika irakasgaiaren baitan integratu dira: batzuen ustez, ordea, estatistika arlo bakoitzaren baitan, tresna moduan eta testuinguru jakin batean, landu beharko litzateke. Bi helbururekin osa daiteke, gainera, estatistikaren curriculuma: estatistikaren tresnak baliatzea eta estatistikak eskaintzen duen informazioa modu egokian interpretatu ahal izatea.[11] Nolanahi ere, estatistika eduki gehienak bigarren hezkuntzan irakasten dira eta datuen taularaketak eta adierazpide grafikoak, batezbestekoaren kalkulua eta probabilitateen kalkulu sinplea biltzen dituzte.
+Aurrerago, unibertsitateko zientzia gradu guztietan jasotzen da estatistika irakasgai moduan; tresna estatistiko orokorrez gainera, arlo bakoitzeko aplikaziorako teknika bereziak ere irakasten dira. Ildo horretatik, unibertsitateetan estatistikaren irakaskuntzak duen aplikaziorako alborapena (probabilitate-teoria baztertuz, besteak beste) kritikatu egin da, gerora ikerketak egingo dituzten pertsonek metodo estatistikoaren oinarriak baztertuta aplikazio okerrak egingo dituztelakoan.[12] Aldi berean, estatistikako gradu bereziak ere badaude unibertsitate askotan, estatistikariak prestatzeko, non estatistikaren oinarri matematiko eta aplikazioez gainera, datuen tratamendurako informatika, matematika eta estatistikaren osagarriak diren beste arloak ere biltzen diren.
+Badira estatistikaren erabiltzaileak nahiz ikertzaileak biltzen dituzten hainbat erakunde. Nazioartean, erakunde zabalena International Statistical Institute (ISI) delakoa da, XIX. mendean sortu eta gehienbat izaera profesionala duena; bere baitan estatistika erakunde berezituagoak hartzen ditu, besteak beste ingurumen, informatika, industria eta administrazio gaietarako estatistikaz arduratzen direnak. Institute of Mathematical Statistics izeneko erakundeak izaera akademikoa du eta hainbat aldizkari plazaratzen ditu estatistika gaietan. Badira estatu eremuko estatistika erakundeak ere, hala nola Ameriketako Estatu Batuetako American Statistical Association eta Erresuma Batuko Royal Statistical Society.
+ Ariketak[aldatu | aldatu iturburu kodea]
+Probabilitatea
+Probabilitatea gertaerak eta erlazioak.
+Probabilitatea gertaerak eta erlazioak.
+Probabilitatea ariketa.
+Probabilitatea ariketa II.
+Probabilitatea ariketa III.
+Erreferentziak[aldatu | aldatu iturburu kodea]
+↑ (Ingelesez) Dodge, Y. (2006) The Oxford Dictionary of Statistical Terms, Oxford University Press. ISBN 0-19-920613-9
+↑  (Ingelesez) Romijn, Jan-Willem.  (2014). Philosophy of statistics.  Stanford Encyclopedia of Philosophy.
+↑  (Ingelesez) Glass, Gene V..  (1976). «Primary, Secondary and Meta-Analysis of Research» Educational Researcher..
+↑  (Ingelesez) Hand, David J..  (1998). «Data Mining: Statistics and More?» The American Statistician..
+↑  (Ingelesez) Bruce, Christopher.  (2004). «The Reliability of Statistical Evidence Concerning the Impact of Disability» Expert Witness.[Betiko hautsitako esteka].
+↑ a b (Ingelesez) Dodhia, Rahul (2007): Misuse of Statistics[Betiko hautsitako esteka], www.ravenanalytics.com, 2012-03-06an kontsultatua.
+↑  (Ingelesez) Simon, Herbert A..  (1954). «Spurious correlation: a causal interpretation» Journal of the American Statistical Association..
+↑ (Ingelesez) Graduate Group in Biostatistics[Betiko hautsitako esteka], University of California, 2012-02-20an kontsultatua.
+↑  (Ingelesez) Freeman, Peter; Richards, Joseph; Ann Lee, Chad Schafer. «Astrostatistics: The Final Frontier» Chance..
+↑ (Ingelesez) Fundamental Principles of Official Statistics[Betiko hautsitako esteka], United Nations Statistics Division, 2012-02-21ean kontsultatua.
+↑  (Ingelesez) Gal, I.; Garfield, J. B.. The Assessment Challenge in Statistics Education. , 1-13 or..
+↑  (Ingelesez) Hotelling, H..  (1949). The Place of Statistics in the University. ..
+Ikus, gainera[aldatu | aldatu iturburu kodea]
+Anjeles Iztueta Azkue
+Kanpo estekak[aldatu | aldatu iturburu kodea]
+(Ingelesez) StatSoft, estatistika testuliburu elektronikoa.
+(Ingelesez) HyperStat, estatistika testuliburu elektronikoa.
+(Ingelesez) StatsRef, estatistika testuliburu elektronikoa.
+(Ingelesez) Stat Trek, estatistika norbere kabuz ikasteko webgunea.
+Estatistika erakunde ofizialak[aldatu | aldatu iturburu kodea]
+Eustat, Euskal Autonomia Erkidegoko estatistika-erakunde ofiziala.
+(Gaztelaniaz) Nafarroako Estatistika Erakundea, Nafarroako Erkidegoko estatistika-erakunde ofiziala.
+(Gaztelaniaz) Instituto Nacional de Estadística, Espainiako estatistika-erakunde ofiziala.
+(Frantsesez) INSEE, Frantziako estatistika-erakunde ofiziala.
+(Gaztelaniaz) Eurostat, Europako estatistika-erakunde ofiziala.
+Datu estatistikoen bildumak[aldatu | aldatu iturburu kodea]
+(Ingelesez) Statista.
+Autoritate kontrola
+Wikimedia proiektuak
+ Datuak: Q12483
+ Multimedia: Statistics
+ Aipu famatuak: Estatistika
+Identifikadoreak
+BNF: 11938470p (data)
+GND: 4056995-0
+LCCN: sh85127580
+NDL: 00573173
+NKC: ph116273
+NARA: 10659134
+AAT: 300026924
+Hiztegiak eta entziklopediak
+HDS: 013798
+Britannica: url
+Medikuntzako identifikadoreak
+MeSH: D020500
+ Datuak: Q12483
+ Multimedia: Statistics
+ Aipu famatuak: Estatistika
+ieaEstatistikaEstatistika deskribatzaileaDatu-diagramak (sektore-diagrama, barra-diagrama, histograma) - Zentro neurriak (batezbesteko aritmetiko sinplea, mediana, moda) - Sakabanatze neurriak (bariantza, desbidazio estandarra, ibiltartea, kuartil arteko ibiltartea) - Kuantilak - Korrelazioa eta erregresioa (korrelazio-koefizientea, karratu txikienen erregresio zuzena)Probabilitate-teoriaProbabilitatea - Zorizko aldagaia - Itxaropen matematikoa - Probabilitate banaketak (banaketa binomiala, banaketa normala)Inferentzia estatistikoaLagina - Parametro - Zenbatesle - Hipotesi-kontraste - Konfiantza-tarteEstatistika teknikakErregresioa - Bariantza-analisia - Aldagai anitzeko analisia (osagai nagusien analisia, korrespondentzia-analisia)Aplikazio-arloakDemografia - Ekonometria - Epidemiologia - Psikometria - Merkatu-ikerketaEstatistika ofizialaEustat - Espainiako Estatistika Erakundea - INSEE
+"https://eu.wikipedia.org/w/index.php?title=Estatistika&oldid=9288149"(e)tik eskuratuta
+Kategoriak: EstatistikaIkerketa metodoakJakindunen bideoak dituzten artikuluakEzkutuko kategoriak: Wikipedia:Kanpo esteka hautsiak dituzten orri guztiakWikipedia:Kanpo esteka hautsiak dituzten orriak from otsaila 2021Txantiloi batean data parametro ez-egokia duten artikuluakBetiko hautsitako kanpo estekak dituzten artikuluakWikipedia guztiek izan beharreko artikuluakHezkuntza Programako artikuluakHezkuntza Programa/MatematikaTestuan alemana duten artikuluakTestuan ingelesa duten artikuluakWikipedia:BNF identifikatzailea duten artikuluakWikipedia:GND identifikatzailea duten artikuluakWikipedia:LCCN identifikatzailea duten artikuluakWikipedia:AAT identifikatzailea duten artikuluakArtikulu nabarmenduak
+ Orriaren azken aldaketa: 11 maiatza 2023, 00:54.
+Testua Creative Commons Aitortu-PartekatuBerdin 4.0 lizentziari jarraituz erabil daiteke;
+baliteke beste klausularen batzuk ere aplikatu behar izatea.
+Xehetasunen berri izateko, ikus erabilera-baldintzak.
+Pribazitate politika
+Wikipediari buruz
+Lege oharra
+Code of Conduct
+Mugikorreko bista
+Garatzaileak
+Estatistikak
+Cookie adierazpena
+Aldatu edukiaren zabalera mugatua

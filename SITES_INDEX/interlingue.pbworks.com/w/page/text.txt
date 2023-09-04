@@ -1,0 +1,804 @@
+Interlingue Occidental / Grammatica de Interlingue (English)
+Interlingue Occidental
+log inhelp
+Get a free wiki
+         | 
+        Try our free business product
+WikiPages & Files 
+View
+Edit
+                                  To edit this page,
+request access to the workspace.                
+Already have an account? Log in!
+ 
+      Grammatica de Interlingue (English)
+  
+      Page history
+    
+        last edited
+    by Valdemar 13 years, 9 months ago
+ 
+Grammatica de Interlingue in English
+Dr. F. Haas
+Digitalisat de S. Belitzky ex edition de
+Interlingue-Servicie Winterthur (Svissia) 1956
+Adaptet a HTML 4.01 de Sebastian Hartwig (2009)
+ 
+CONTENETE
+Alphabet (§§ 1 – 2)
+Pronunciation (§§ 3 – 7)
+Accentuation (§§ 8 – 9)
+Ortografie (§§ 10 – 14)
+Articul (§§ 15 – 20)
+Substantive (§§ 21 – 28)
+Adjective (§§ 29 – 37)
+Pronómines (§§ 38 – 55)
+Numerales (§§ 56 – 64)
+Verb (§§ 65 – 87)
+Adverbies (§§ 88 – 98)
+Prepositiones (§§ 99 – 103)
+Conjunctiones (§§ 104 – 106)
+Interjectiones (§ 107)
+Sintax (§§ 108 – 117)
+Interpunction (§§ 118 – 123)
+Parolformation (§§ 124 – 143)
+Desinenties (§§ 125 – 126)
+Prefixes (§§ 127 – 130)
+Sufixes (§§ 131 – 142)
+Parol-Composition (§ 143)
+Frases sistematic
+Li lingue vermen international
+ 
+ 
+ 
+FPREWORD
+This grammar is complete in the sense that it contains all essential rules used in the texts of Cosmoglotta, the official organ of the Interlingue Union, and in the "Complet Curse de Interlingue" (Complete Course of Interlingue) by A. Matejka. Moreover*, all decisions by the Interlingue Academy are considered.
+In contrast to all national languages, one can say of Interlingue: Who applies the rules of this grammar and uses the proper (adequate) words, speaks and writes Interlingue correctly. He does not have to fear hearing: "Yes, I see no grammatical errors in your letter, but no English people would express their thoughts with these words or these sentence constructions!" And that constitutes the great easy of Interlingue: Each nation can express their thoughts in the frame of few grammatical rules in the accustomed manner, and only needs to pay attention toward not using idiomatic expressions incomprehensible to other nations through using certain words in another sense than the general one. But the grammatical rules are very simple and without exceptions, so that one can truly master them in a very short time. In addition* a large part of the rules simply confirm that the already-known rules in one's mother tongue work (avail) also in Interlingue.
+One can therefore say without exaggeration, that Interlingue is much easier than the preceding international language projects and incomparably simpler than all national languages, even in simplified form. That works not only for comprehension, but also for the study and also for the application of the language.
+ 
+Winterthur (Switzerland), October 1956.
+ 
+The name Occidental of the international language created by Edgar von Wahl was in 1949 changed to the name Interlingue, without changing the language itself, to avoid the political aspect of the name “Occidental-Union”.
+ 
+ALPHABET
+ 
+§ 1. Interlingue is written through 26 latin letters: a, b, c, d, e, f, g, h, i, j, k, I, m, n, o, p, q, r, s, t, u, v, w, x, y, z.
+ 
+§ 2. The alphabet is pronounced: a, be, ce, de, e, ef, ge, ha, i, jot, ka, el, em, en, o, pe, qu, er, es, te, u, ve, duplic ve, ix, ypsilon, zet.
+ 
+PRONUNCIATION
+ 
+§ 3. The vowels are always clearly pronounced as follows:
+"a" as in F (French), or G (German), or S (Spanish), or I (Italian), or E (English): father. vase, batte, batter.
+e open or closed, as GSI, E: bed, yes, F: é or è. pena, mensu, pelle, venir.
+i as FGSI, E: machine. nive, six, minute.
+o open or closed, as FGSI, A: door, hot. modic, póndere, porta, ponderar.
+u as GSI, A: rule, pull, F: ou; after q very short, almost consonantal (w). brun, mult, sudar, quar.
+y after a vowel, and in the beginning of a word or before a vowel is a consonant, otherwise a vowel. vocalic y is pronounced as Int (Interlingué) i. physica.
+ 
+Of two or multiple following vowels each is pronounced. Unaccented i and u before vowels and in the combinations au and eu (u likewise a and e are short) is very short, almost like a consonant, and cannot form proper syllables.
+leôn *, creatôr, mêdie, mediôcri, mêdium, lìngue, linguâl, lìnguìstic, trottuôre, càude, neutrâl, arcâic, vîa, revûe. * Illustrative signs, not to be written: ê: long, è: short.
+ 
+Also, a strict rule on the long or short, closed or open pronounciation of the vowels does not exist. Pronounciations similar to FGSI are preferable.
+ 
+One who does not know some of these pronunciations can follow the indications in § 4 as a recommendation, but not as a strict or complete rule.
+ 
+§ 4. In general accented vowels are fairly long; but in front of a final c, ch, x, or in front of several consonants (excepting r or I with a preceding different consonant), and in the small grammatical words, are short. Unaccented vowels are more or less short.
+A, i, u always have a medial sonality quite distinct from other vowels. Accented e and o are closed, if they are long, and before m and n, open in all other cases. Unaccented e and o are more or less closed.
+marchâr*, vidêr, venîr, sonôri, constructôr, constructiôn, chèc, iràc, depèche, paradòx, pâtre, splìttre, câble, pèlle, dilëmma, cömma, mënte, mönte, atàcca, fòsse, transpòrt, idê, burô, cön, ë, li, më.
+*Illustrative signs, not to be written: ê: long and closed, ë: short and closed, è: short and open.
+ 
+§ 5. The consonants are pronounced as follows:
+b, d, f, I, m, n, p as in EFGI, S (b = b in boca). bon, editer, fratre, long, matre, null, pede. Of doubled consonants the second is pronounced only if it is pronounced differently from the first. acceptar, suggester.
+c before e, i, y = ts, otherwise as k. centre, reciver, cilindre, concert, acceptar, electric, electricitá. ch F, A: sh, G: sch, also permitted A: ch, H: ch, but not recommended; before consonantes as k. machine, marchar, chec; chloroform.
+g before e, i, y: EFI, G: soft sch as in generös, otherwise EFGSI (gn as much as possible g-n, not nye). gage, gigant, garage, gimnastica, guvernar, grisi, suggestion, magnific. gh in some rare words before e, i, y as g before a. ghetto.
+h always aspirated as EG. hom, adherer.
+j as F, E: vision, G: soft sch as Journal, thus as Int g before e. jurnalist, manjar, jokey.
+k e kh as hard c. kilogramm, Khedive. ph as f (in Greek words). telephon.
+qu as k, always followed by a very short u: EGI, F and S with u. quar, aqua.
+r FGSI. radie, merce. rh as r (in Greek words). rheumatisme.
+s sonorous between vowels, hard in all other cases. cose, position, pos, es, roses, altesse, divers, sospirar, posta.  ss as hard s. casse. sh, sch as E: sh, F: ch, G: sch (exists only in some words to conserve the natural aspect). shrapnell, schema.
+t is sibilant (as ts) before ia, ie, io, iu, if there is no preceding s, otherwise EFGSI. tolerantie, tentar, tentation, hostie. th as t (in Greek words). theosoph, lithograph.
+v as EFSI, G: w. venir, dever, nive. w is rare, as E, short Int: u. west. x hard or soft, as EFG, S: examinar. examinar, extra. y consonantal as E, F: yeux, G: j, S: ayustar. yes, rayon, antey. z soft (ds), if possible, otherwise hard (ts). zefir. zz hard (ts). plazza.
+ 
+§ 6. Experience proves that small variations in in pronunciation do not encumber comprehension. Because of this it is permitted to pronounce the vocalic y as F: u, G: ù, qu as kw, ch as tsch, j always g followed by e, i, y as dj. cylindre, quadre, marchar, chef, jurnal, gengive. Those with difficulty in the pronunciation of certain combinations of final consonent with the initial consonants of the following word can insert a semimute E, but without writing it.
+ 
+§ 7. Foreign words are pronounced as close as possible as in the language of origin. Champagne, cognac.
+ 
+STRESS
+ 
+§ 8. The primary stress is on the vowel before the last consonant, but not on the four syllables bil, ic, im, ul, which take the accent on the preceding syllable, even if this is bil, ic, im, ul. A simple s and the two syllables men and um at the end of the word do not change the stress of the preceding part of the word. If those rules are not applicable, one stresses the first vowel of the word.
+If the natural stress does not follow this rule, it is marked by a written accent (preferably as in é, also tolerated are è or ê). One can omit the written accent, except on final vowels, or also use it in other cases to guarantee the desired stress.
+In composed words (also standalone words with prefixes) the first part follows these rules, the others may receive a secondary accent.. Li pòríu *, familie, àvie, doctòr, formàr, li formàt, li formàte, formànt; duràbil, elèctric, lògic, li lògica, li lògico, pràctic, li práctíca, il práctica, il ìndica, il èxplica, dùplic, il dùplica, multìplic, il multìplica, centùplic, il centùplica, specìfic, il specìfica, felìci, ùltim, règul, hercùlic, li artìcul, il artìcula; mìnus, ìris, fòrmes, families, àvies, generàlmen, enèrgicmen, li fenòmen, màximum, ultimàtum, li legùme; il plìca, il rùla, dìe, dèo, tùi, vìa, il tràe, it flùe; qualitá, heróe, li logí, il logía, li fúlmine, it fúlmina, li córpor, il incórpora, li dúbit, il dúbita; micro-còsmo, anglosaxònic, agricultùra, centimètre, postcàrte, manuscrìte, genú-articulation, unifòrm, li unifòrme, il unifòrma, il internationalìsa, ínpracticàbil, índubitàbilmen, li fèrro-vìa, il ínvìa, it inflùe, il subtràe, hodíe, il contradí, il retrovèni. * In vocabularies and manuals the writing of the accute is obligatory, that of recommended importance* as a didactic method for non-written accents: ínscrit, il inscrí, ìris, ottùplic, il rèplica, il multìplica, specìfic, pacìfic, il artìcula, il inspùla, il ànima, li ferrovìa, li relvìa, il refá, it rèsta.
+ 
+§ 9. In fluent speech one does not stress each word according to the preceding rule, but only the most important words of the phrase. One can allways apply these rules according to need. If one wants to stress a certain vowel, one can even accent it against the grammatical rules; it esset un medicà, ne un medicò.
+ 
+ORTOGRAPHY
+ 
+§ 10. Interlingue conserves as much as possible the international appearance ofl the words; but it is recommended to change doubled consonantes to a single, except if it is pronounced differently or is necessary to indicate that the preceding vowel is short or that the s is not sonorous. Doubled consonantes in the root remain also in the derived forms. access, suggester, anates, annu, annales, asserfer, aromatic, bloc, arogant, can, canne, car, carre, present, pressent, li atacca, il atacca, ataccar, cellul, cellulose, rebell, rebellion.
+ 
+§11. The Greek consonant groops: th, chl, chr, ph are in general simplified to: t, cl, cr, f, and instead of a vocalic y one writes i. The historic orthography is also permitted, however. tema or thema, fonograf or phonograph, cloroform or chloroform, simpatic or sympatic or sympathic.
+ 
+§12. Syllabic separation is free; preferable is the separation used in speech or according to the word components.
+ 
+§13. Upper case is used only in the beginning of sentences, in prober names, in titles, and for distinguishing Vu, Vos, Vor as polite forms from vu, vos, vor, if one wishes to make the distinction. Paul, London, Pacifico, Anglia, Danubio, li Senior, su Majestie.
+ 
+§ 14. The most frequest abbreviations are:
+sr. or Sr. = senior (Mr.) sra. or Sra. = seniora (Mrs.) srta. or Srta. = senioretta (Ms.) dr. or Dr. = doctor etc. = etcétera PS. = pos-scripte (P.S.) v. = vide (see) pg. = págine (page) cf. = confronta (opposite?) sq. = e sequentes (and the following) nró. = numeró (number) conc. = concernent (concerning)
+resp. = respectivmen (respectively) p. ex. = por exemple (for example) i. e. = it es (i.e. -- that is) pl. = ples (please) pl. t. = ples tornar (please turn) h. = hora(s) (hours) am. = ante midí pm = pos midí a. c. = annu current (current year) m. c. = mensu current (current month) a. p. = annu passat (previous year) m. p. = mensu passat (previous month)
+ 
+ARTICLE
+ 
+§ 15. In there is a single definite article: li, for all nouns masculine, feminine and neuter, singular and plural. li patre, li matre, li table, li patres, li matres, li tables. (the father, the mother, the table, the fathers, the mothers, the tables.)
+ 
+§ 16. An indefinite article exists only for the singular: un. For the plural the noun is used without an article. Yo vide un avie. Yo vide avies. (I see a bird. I see birds)
+ 
+§ 17. The article li can take the plural, if no other word expresses it. On deve metter punctus sur lis i. Ma mult i ne havet punctus. (One needs to put dots on the i's. But many i's did not have dots.)
+ 
+§ 18. A li is contracted to al, de li to del. Il eat al scol. Li árbores del forest es alt. (He went to the school. The trees of the forest are old)
+ 
+§ 19. A partitive article does not exist. Il trinca aqua. Noi manja fructes. (He drinks water. We eat fruits.)
+ 
+§ 20. The definite article indicates something already mentioned or known, or the entire species, the indefinite article something unknown or still not dealt with. The dog that you know is faithful. Dogs are faithful. The dog is faithful = fidelity is a quality of the entire dog species. One dog of my brother's bites, but the others are not that way. Fidelity is a valorous quality. The fidelity of the dog (or of the dogs) is proven.
+ 
+NOUNS
+ 
+§ 21. Interlingue leaves words their natural terminations, and does not prescribe certain final vowels for certain classes of words. Cangurú, villa, radio, matre, midí.
+ 
+§ 22. The neutral final vowel -e is found in many nouns to fix establish the correct pronounciation of the final consonant, for euphony, or to distinguish the noun from a similar adjectival or verbal form. Pace, image, rose, libre, cable, altruisme, curve, centre, central, centrale, directiv, directive, marine, circulare, cantate, infinite, tangente.
+ 
+§ 23. A grammatical gender does not exist. All nouns are masculin, feminine or neutral according to their meaning.
+ 
+§ 24. One can indicate the gender in names for entities: -o indicates masculine, -a the feminine. Anglese, angleso, anglesa, cavall, cavallo, cavalla. Words such as patre, matre etc. do not require gender endings, because they are masculine or feminine on their own. In other nouns -o indicates one special, individual, singular, concrete, -a one general, extended, collective, common, as well as action, location and time. rosiero, rosiera, lago, aqua, promenada, plazza, pasca.
+ 
+§ 25. Some nouns form derivatives by adding u / at respectively* to the stem; they retain the u / a also in the non-derivative forms. manu, manual, sexu, sexual, sexualitá, gradu, gradual, graduation, sistema, sistematic, sistematico, sistematisar, sistematisation, dogma, dogmatic, dogmatisme, drama, dramatic, dramaturgo, aqua, aquatic, clima, climatic, climatolog, climatologie, climatologic.
+ 
+§ 26. To indicate the plural one adds -s, after consonants inserting a euphonic -e-, where it is possible without changing the pronunciation of the word. un líbre, du libres, un angul, tri angules, li person, li persones, li tric, li trics, li plug, li plugs, li album, pluri albums, li tram, du trams.
+ 
+§ 27. The noun remains unchanged in all grammatical cases. Only the genetive with the preposition de, and the dative with the preposition a are distinguished. Yo vide li sapates de mi fratre.Yo dat li sapates a mi fratre. (I see the boots of my brother. I gave the boots to my brother.)
+ 
+§ 28. Proper names are changed as little as possible. For the main geographic names are selected in Interlingue the most international word; otherwise one uses a writing as close to the original as possible. Goethe, Shakespeare; Alpes, Danubio, Germania; London, Berlin, Milano, Moskwa, Kharkow, Hoang-ho.
+ 
+ADJECTIVE
+ 
+§29. The characteristic vowel final -i is found in many adjectives, mainly to fix the correct pronunciation of the final consonant, and for distinction after typical noun and infinitive endings.  felici, sagi, porosi, organisatori, amari.
+ 
+§ 30. Many adjectives can easily become nouns through addition of the endings -e, -o, -a. yun, yune, yunes, yunos, yunas.
+ 
+§31. To form a noun expressing the general idea of a quality one adds the ending -um. li novum, li bellum.
+ 
+§ 32. Adjectives are invariable in gender and number. li grand filio, li grand filia, li grand filios, li grand filias.
+ 
+§ 33. When the adjective is used without a noun and one needs for certain reasons to indicate the plural, one adds an -s, after consonants adding a euphonic -i-, where that is possible without changing the pronunciation. Vi pomes, prende li maturis. (Here are apples, take the ripe ones)
+ 
+§ 34. For the comparative one indicates equality with tam - quam a greater amount with plu - quam a lesser amount with minu (min) - quam He is as large as his brother; he is larger than his brother; he is less large than his brother. He is larger than me. The largest book.
+ 
+§ 35. For the superlative one indicates the greatest amount with maxim (max) the least amount with minim. The largest of the books. The least large book.
+ 
+§ 36. For the absolut superlative one uses: tre, or the suffix: -issim. tre grand, grandissim. To compare three or more grades one uses: grand, plu grand, mem plu grand, plu grand ancor, mem plu grand ancor. (large, larger, even larger, still larger, even larger still)
+ 
+§ 37. In all comparisons one uses: quam.  egalmen quam, altrimen quam.
+ 
+PRONOUNS
+ 
+§ 38. Adjectival pronouns are those that stand before or after a noun to characterize it; they stay invariable as real adjectives. Noun pronouns exist instead of a noun; they can take the plural, as nouns, if necessary. Personal pronouns.
+ 
+§ 39. There are two forms, one for the subject (nominative), the other for the object (acusative or dative, oblique case).
+subject: yo tu il ella it noi vu ili (illos, ellas)
+object:  me te le la it nos vos les (los, las)
+The forms in parenthesis are used only in case of necessity.
+ 
+§40. The pronoun expressing politeness is: vu (cf. § 13). One uses it instead of tu, which expresses a certain intimacy or kinship*.
+ 
+§41. The indefinite pronoun is: on, the reflexive: se, the reciprocal: unaltru. On vide se. Ili vide se. Ili vide nos. Vu vide nos. Vu vide vos. Ili vide unaltru. Noi vide unaltru. (One sees oneself. They see themselves. They see them. You see them. You see you. They see each other. We see each other.)
+ 
+§ 42. After prepositions one uses the accusative, or the nominative except yo and tu. Veni con me! Yo veni con te. Noi ea con le (o il). Vu ea con ella (o la). Noi parla pri it. On parla pri nos. Yo veni pos vos. Yo labora por les (o ili'). (Come with me! I come with you. We go with him. You go with her. We talk about it. One talks about us. I come after you. I work for them.)
+ 
+Possessive pronouns.
+ 
+§ 43. The adjectival and noun forms are the same; but for the noun form one can use the articule, according to nuance or the rules of one's mother tongue, and they take the plural, if necessary.
+mi - my tui - your su - his/her/its nor - our vor - your lor - their
+To es mi. To es li mi. To es mi libres. To es li mis. To es tui. To es li tui. To es lor. To es li lor. To es li lores. Vi nor parapluvies; Li mi es plu grand quam vor, o: quam li vor. Vidente nor canes yo constata que li tuis súpera li mis in vìvacitá, o: que tuis súpera mís in vivacitá, etc. To es lores; to es li lores. Ples far lu tui. Ples da me tui libre. Il deve far li su.
+ 
+Demonstrative pronouns.
+ 
+§ 44. The adjectival and noun forms are the same; but the noun forms take the plural and can take a gender, if necessary in rare cases.
+ 
+§45. To indicate something one generally uses: ti. Only if one wishes to explicitly indicate the proximity or distance does one add the adverbs ci or ta with a dash. Ti libre es bell. Yo vide ti libres. Yo vide tís. Ti-ci table es solid. Ti-ci tables es solid. Tis-ci es solid, ma tis-ta ne es tal. Sex/gendar can be indicated in exceptional cases with the personal pronoun. il-ti, il-ci, ella-ti, illos-ci, ellas-ta.
+ 
+§ 46. Ti, tal e tant are the correlatives of quel, qual and quant. (Tant cannot take the plural, because it itself indicates the plural.) Quel libres vu prefere? Ti libres, queles anc vu ama. Qual libres vu prefere? Tal libres, queles raconta de viages. Yo ama tal homes. Yo ama tales. Il es sempre tal. Quant persones esset ci? Tant quam yer. Tant quant yer. (Which books to you prefer? These books that you also love. What kind of books do you prefer? Those books that tell of voyages. I like those people. I like them (those types). He is always like that. How many people were here? As many as yesterday. As many as yesterday.)
+ 
+§47. The neutral form for things and facts is: to, responding to the question: quo, from which one forms: to-ci and to-ta. To es mi libre. Yo save to (li facte, que to es tui líbre). That is my book. I know that (the fact that that is your book).
+ 
+§ 48. The pronoun or article lu serves to express what is impersonal, neutral or abstract. It generally signifies: that which is (the)... De lu sublim a lu comic es sovente solmen un passu. Lu nov de ti conception es . .. From the sublime to the comic is often only one step.What is new of this conception is...
+Relative and interrogative pronouns. § 49. One uses the same pronouns, relative and interrogative, adjectival and substantive.
+ 
+§ 50. The most general is: quel (plural: queles), used for things, facts and people. Which city is the largest? Which is the largest city? Which are the largest cities? Which cities are the largest? The most beautiful flower that I know is the rose. The largest cities that I know are New York and London. He doesn't know which large cities he will see.
+ 
+§ 51. For things and facts one uses: quo, for people: qui. What do you see? What do you want to do? I don't know what I want to do. I don't understand what he has said. Who is that? Whose (of who) is that chapel? To whom are you giving the money? Who do you salute? Who salutes you? The friend, to whom you gave the book, was content. Happy are those who do not see but believe. Our language makes a constant progress, which (the fact of which) much pleases me.
+ 
+§52. If multiple relationes of a relative pronoun are possible, the immediate* one counts*. If another should count, one indicates it with personal or demonstrative pronouns, or with a comma. I saw the brother of my friend which arrived yesterday. I saw the brother of my friend, he that arrived yesterday. That is the sister of my friend, she who arrived yesterday. Yesterday I saw the owner of the house, who (or he who, that who, he which, or that which) is in the city. Yesterday I saw the owner of the house which is in the city. Yesterday I saw the owner of the house, which is in the city.
+ 
+§53. To express quality one uses: qual, for quantity: quant. What sort of people here here? How is the water today, hot or cold? I don't know how it is. What a composer, that music. How much of an encore should he give you? I don't know how much he gave him. With life there is hope (lit. how much life, that much hope).
+Indefinite pronouns. §54. The prefix: al- gives ndicating* pronouns something indetermined, the prefix: ne- indicates the absence or negation and the suffix: -cunc makes definite pronouns relative indefined**. alquel, alqual, alquant, alquó, alquí, alcun, nequel, nequal, nequó, nequí, necos, necun, quelcunc, qualcunc, quantcunc, quocunc, quicunc. If some girl talks about something, she thinks about somebody. Whoever will come, I won't be at home. Whatever you say, please speak the truth! Whichever task you do, and in whatever manner and for whoever, please do it well! To whomever you give the money, give it only against a receipt.
+ 
+§55. Other indefinite pronouns are: On, self, li sam, quelc, null, chascun, omni, omnicos, ambi, altri, altricos, céteri, pluri, mult, poc, un poc, cert, un cert, mani, singul, tot. I prefer to do it myself. They returned in the same location. Each person is the forger of their own fortune. Please give me some books; I have some hours free for reading. One cannot please everyone, it's an art that no one knows. I have lived in the city for many years. He has little hope. He has a little hope. I know a certain Mr. Blanc; but I'm not sure if this is him. It's all the same whether you see the whole world or some parts of it.
+ 
+NUMERALS
+ 
+0 null 1 un 2 du 3 tri 4 quar 5 quin 6 six 7 sett 8 ott 9 nin 10 deci 11 deciun 12 decidu 13 decitri 14 deciquar 15 deciquin ... 19 decinin 20 duant 21 duantun 22 duantdu . .. 30 triant 40 quarant 50 quinant 60 sixant ... 90 ninant . . . 99 ninantnin 100 cent 101 cent un 102 centdu... 110 centdeci 111 cent deciun ... 119 cent decinin 120 cent duant 121 cent duantun ... 130 cent triant ... 199 cent niantnin 200 ducent 201 ducent un ... 210 ducent deci 300 tricent ... 999 nincent ninantnin 1000 mill 1001 mill un ... 1099 mill ninantnin 1100 mill cent 1101 mill cent un ... 1999 mill nincent ninantnin 2000 du mill 2001 du mill un . . . 2345 du mill tricent quarantquin . . . 99000 ninantnin mill ... 100 000 cent mill ... 100 999 cent mill nincent ninantnin 200000 ducent mill ... 201 000 ducent un mill . . . 299 999 ducent ninantnin mill nincent ninantnin . . . 456 789 quarcent quinantsix mill settcent ottantnin ... 1 000 000 un million 1000001 un million un . . . 2000000 du milliones ... mill milliones = un milliard un million milliones = un billion 1 000000 = un million 1 000 0002 = 1 000000000000 = un billion 1 000 0003 = un million billiones = un trillion 1 000 0004 = un million trilliones = un quadrillion
+ 
+§ 57. Ordinal numbers are formed by adding to the end: -esim. unesim (also prim), duesim (also secund), triesim, etc.
+ 
+§ 58. Fractional numbers are the same as ordinals, but ordinarily one replaces the first four with: un tot (whole), un demí (half), un ters (third), un quart (quarter). du ters, tri quart, quar quinesim, etc.
+ 
+§ 59. Decimal fractions are pronunced 3,78349 = tri comma sett ott tri quar nin, 0,25 = null comma du quin.
+ 
+§ 60. Multiple numbers are formed by adding the final -uplic (after vowels: -plic): unuplic (simplic), duplic, triplic, quaruplic (quadruplic), quinuplic (quintuplic), sixuplic, settuplic, ottuplic, ninuplic, deciplic, deciunuplic, deciduplic, duantuplic, centuplic, centunuplic, etc. (single, double, triple, quadruple, etc...)
+ 
+§ 61. Iterative numbers are formed with: vez. du vez o duvez, tri vez, centvez, mult vez o multvez o mult vezes. (two times, three times, etc...)
+ 
+§ 62. Collective numbers are formed with the final: -ene. li unité, pare, triene, quarene, quinene, decene, deciduene, centene. (pair, trio, dozen, etc.... most collective numbers do not exist in English however)
+ 
+§ 63. Other numeral expressions are for example: chascun triesim vez, tri e tri, quar e quar. Li soldates marcha quar e quar. (every third time, three and three, four and four. The soldiers march four and (by) four.)
+ 
+§ 64. Arithmetic. Addition: 12 + 10 = 22 decidu plus deci es duantdu. Subtraction: 21 - 3 = 18 duantun minus tri es deciott. Multiplication: 3 x 8 = 24 tri vez ott, or tri multiplicat per ott, or tri per ott es duantquar. Division: 69 : 3 = 23 sixantnin sur tri, or dividet per tri es duanttri.
+Powers: 62 = 36 six quadrat, or six in duesim potentie, or six in duesim es triantsix. 23 = 8 du in cub, or du in triesim potentie, or du in triesim es ott.
+Square root: sqrt (49) = 7 radica quadratic, or duesim radica ex quarantnin es sett.
+(cube root) 8 = 2 radica cubic, or triesim radica de ott es du.
+ 
+VERB
+ 
+§ 65. In Interlingue there is a single and unitary* conjugation for adding certain consonants to the present theme.
+ 
+§ 66. The present theme is formed by adding one of the three vowels (a, i, e) to the verbal theme (root plus prefixes and suffixes). This vowel is characteristic for each verb and remains unchanged in all forms of conjugation.
+Verbal theme: fabric exped construct
+Present theme: fabrica expedi constructe
+This characteristic vowel appears in all forms of conjucation; one can therefore base all conjugation on the present theme, and make distinctions only by final consonants, identical for the three groups of verbs.
+ 
+§67. The first, second and third person, singular and plural, are distinguished only by the pronoun; the verb itself remains unchanged.
+ 
+§68. The infinitive is formed by adding -r to the present theme: fabricar expedir constructer
+ 
+§ 69. The presente is equal to the present theme: yo fabrica tu expedi il constructe
+The verb esser has a special abbreviated form for the present: es, instead of esse, due to its large frequency.
+ 
+§ 70. The past participle (also passive participle) is formed by adding -t to the present theme: fabricat expedit constructet
+The past participle is also used as the simple past: noi fabricat vu expedit ili constructet
+ 
+§ 71. All composite past tense is formed by the auxiliary verb har. It indicates actions that have terminated.
+The composite past is: yo ha fabricat (I have made) tu ha expedit (you have sent) il ha constructet (he has constructed)
+The anterior past is: noi hat fabricat (we had made) vu hat expedit (you had sent) ili hat constructet (they had constructed)
+ 
+§ 72. The simple future is formed by the auxiliary va: il va fabricar (he will make) ella va expedir (she will send) on va constructer (one will construct)
+The anterior future is: yo va har fabricat (I will have made) tu va har expedit (you will have sent) il va har constructet (he will have constructed)
+ 
+§ 73. The simple conditional is formed by the auxiliary vell: noi vell laborar (we would work) vu vell expedir (you would send) ili vell constructer (they would construct)
+The past conditional is: il vell har fabricat (he would have made) il vell har expedit (he would have sent) ili vell har constructet (they would have constructed)
+ 
+§ 74. The present participle (also active participle) is formed by adding -nt to the present theme: fabricant expedient constructent
+Verbs with -i take -ent instead of -nt to recover* international forms, for example convenientie, provenientie.
+The adverbial form is used as a gerund (= while or by that) by adding -e: fabricante expediente constructente
+There are also progressive forms: il es fabricant (he is making) il es expedient (he is sending) il es constructent (he is constructing)
+ 
+§75. The imperative is the same as the present without the pronoun: fabrica! expedi! constructe!
+From the verb esser one takes the complete form: esse.
+There is a polite form with ples (from pleser) with the infinitive: ples fabricar ples expedir ples constructer
+ 
+§ 76. The optative is with mey with the infinitive: il mey fabricar (he may make) il mey expedir (he may send) il mey constructer (he may construct)
+The hortative with lass: lass nos fabricar lass nos expedir lass nos constructer
+ 
+§ 77. Passive forms are formed with the auxiliary verb esser: it es perlaborat (it is transformed*) ili esset perlaborat (they were transformed*) it ha esset perlaborat (it has been transformed*)  ili hat esset expedit (they had been sent) it va esser expedit (it will be sent) ili va har esset expedit (they will have been sent)  it vell esser constructet (it would be constructed) ili vell har esset constructet (they would have been constructed) it mey esser constructet (it may be constructed)
+This manner of forming the passive is common to most national languages. But sometimes it is necessary to distinguish if an action is still going or is finished. In those cases one uses other verbs, for example: Li dom ea constructet. (The house is being constructed) Li dom sta constructet. (The house stands/is constructed) Li libre eat printat. (The book was being printed) Li libre stat printat. (The book was (stood) printed.)
+In many cases the passive can be expressed by nouns or the reflexive form:
+Li dom es in construction. (The house is in/under construction) Li libre esset in printation. (The book was being printed) Li jurnal printa se rapid. (The journal prints quickly*) Li cose explica se simplicmen. (The thing explains itself simply (It's self-explanatory*))
+ 
+§ 78. In place of the subjuntive one in general uses the indicative. Only in rare exceptional cases (ex. in legal documents) one can use a form of the subjunctive by adding -ye to the present of the verb or the auxiliary verb: Il di que il la amaye. (He says that he would love* her) Il dit que il la haye amat. (He said that he would have* loved her)
+ 
+Verbal derivation
+ 
+§ 79. In all languages thousands of nouns and adjectives are formed from the verbal root by adding suffixes. Those words seem to be formed so irregularily that the most well-known international languages until now have renounced incorporating them in their system of derivation and have exchanged them with artificial constructions. The creator of Interlingue, Prof. Edgar de Wahl, has discovered how simple rules are for forming the known international words by adding international endings to international roots.
+ 
+§80. The suffixes: ion, or, ori, iv, ura are not added to the verbal theme or the present theme, but to the perfect theme. That first group of endings are added to verbs expressing an action or transformation, to the so-called dynamic verbs.
+The perfect theme is found by De Wahl's Rule, the key to the only language truly international and at the same time regular:
+One suppresses the r / er of the infinitive. If the remainder finishes with a vowel, one adds a t, if it finishes with d or r, one replaces the consonant with s; in all other cases the remainder itself is the perfect theme.
+crear - crea - creat expedir - expedi - expedit distribuer - distribu - distribut exploder - explod - explos adherer - adhed - adhes constructer - construct - construct
+One can also say that the suffixes: ion, or, ori, iv and ura are added to the verbs with ar and ir as passive participle, and to the verbs with er as the root, adding a t after the vowel ending and mutating a final d to r to s.al radica, intercalante t pos vocal final e mutante un final d or r a s.
+crear creat creation creator creatori creativ creatura
+expedir expedit expedition expeditor expeditori expeditiv garnitura
+constructer construct construction constructor constructori constructiv structura
+distribuer distribut distribution distributor distributori distributiv scritura
+exploder explos explos revisor revisori explosiv tonsura
+adherer adhes adhesion precursor cursori adhesiv
+Five verbs form these derivatives a bit differently, using the international forms:  seder -- session -- instead of sesion ceder -- cession -- instead of cesion verter -- version -- instead of vertion venir -- vention -- instead of venition tener -- tention -- instead of tenion
+ 
+§ 81. In the three verbs: far, dir, scrir one can form the derivitives by the complete roots: fact, dict, script. With the verbs with the consonant group -nct- one can omit the c, mostly in nonderived forms. Contrafaction or contrafation, factor or fator, malediction or maledition, prescription or prescrition. Distincter or distinter, distinction or distintion, conjunction, conjunter.
+ 
+§ 82. The final -ntie is added to the present theme of verbs expressing a state, to the so-called static verbs.
+tolerar -- tolerantie provenir -- provenientie exister -- existentie
+As in the present participle one adds e after i of verbs in ir. This final is only a combination of the final of the present participle -nt with the suffix -ie.
+ 
+§83. In an analogous manner the suffix -nd is added to the present theme: demonstrand vendiend leend
+ 
+§84. The suffix -ment is also added to the present thema: fundar -- fundament experir -- experiment mover -- movement
+If the root of a verb with er finishes with a vowel, the e disappears: arguer -- argument compleer -- complement
+ 
+§ 85. Two suffixes add themselves to the verbal root in two different forms according to the characteristic vowel: -abil, -ada to a and -ibil, -ida to i or e:
+durar -- durabil promenar -- promenada audir -- audibil vomir -- vomida posser -- possibil currer -- currida
+ 
+§86. The other suffixes are added directly to the verbal root:
+criticar -- criticachar lavar -- lavera furter -- furtard spiar -- spion valer -- valore reservar -- reservuore rafinar -- rafinage viver -- vivaci
+ 
+§ 87. Direct noun creation: One can also use the verbal root as a noun with the noun endings, or the perfect theme with or without noun ending: li pense, li pensa (closer to the action), li vende, li crede, li response, li vise, li flut, lì resultat, li extracte, li tribut. The perfect theme without final is also used as an adjective: devot, apert, pervers.
+ 
+ADVERBS
+ 
+§ 88. To indicate a quality of a noun one uses an adjective, of other words an adverb. Un prudent mann acte prudentmen. (A prudent man acts prudently.)
+ 
+§89. In Interlingue one can use the adjective instead of the adverb, if the sense is clear. Il ha bon laborat. Noi serchat long. (He has worked well/good. We searched long.)
+ 
+§ 90. There exist primary adverbs with no special ending, and derived adverbs from adjectives by adding the unaccented final -men. tre, sempre, deman, natural, naturalmen, respectosi, respectosimen. (very, always, tomorrow, natural, naturally, respectful, respectfully)
+ 
+§91. Instead of special abverbs one often uses adverbial expressions, made by prepositions. ex memorie, in general, in fine, per hasard. (from memory, in general, in the end, by chance)
+ 
+§ 92. The comparative and superlative are formed in the same manner as with adjectives. Il parla li lingue fluentmen. Il scri in min elegant maniere. Il salutat le maxim respectosimen. Si vu es fatigat, vu labora min rapidmen quam si vu es reposat. (He speaks the language fluently. He writes in the least elegant manner. He saluted most respectfully. If you are tired, you work less rapidly than if you are rested.)
+ 
+§ 93. One can group adverbs according to sense in adverbs of manner, of quantity, of location, of time, and affirmative, negative and doubtful adverbs.
+ 
+§94. Adverbs of manner responde to the question: how? qualmen, quam, talmen, tam, alquam, nequam, solmen, apen, tot, totalmen, totmen, ne totmen, totmen ne, presc, poc, poc a poc, mem, precipue, junt, anc, denove, tamen, malgré to, dunc. I don't know how he can work as rapidly as a machine, because he works so fast that one can barely keep up. He said that like a king. He doesn't act like a king. It is impossible to do it that way. He has done it somehow (alquam) = in some manner (in alcun maniere). He cannot do it at all (nequam) = in no manner (in necun maniere). It is all the same whether you see the entire world or some parts of it. He has totally misunderstood that book. But however one shouldn't judge only her, because she doesn't completely understand the language, and that is entirely not her own fault. One can even say that that is mainly the fault of others.
+ 
+§95. Adverbs of quantity respond to the question: how many? quant, tant, sat, suficent, nequant, alquant, tre, tro, circa, mult, poc, un poc, quelcvez, multvez, sovente, plu, adplu, sempre, sempre plu, sempre plu mult, sempre plu mult ancor, min, plu o min, maxim, admaxim, minim, adminim, maxim possibil, minim possibil, maximal, minimal, proxim, ancor, plus, minus. How many people were here? As many as yesterday. Around twenty people sat around the table, at least three people too many, because the table had places only for at most 17 people. Gradually they will see somewhat, that they work with a method hardly* apt for that scope.
+ 
+§96. Adverbs of location respond to the question: where, to where, from where? (The preposition a is in combinations replaced with ad.) u, ci, ta, alcú, necú, partú, ucunc, supra, infra, circum, éxter, extra, intra, ínter, detra, levul, dextri, proxim, lontan. A ci, a ta, adavan, retro, up = adsupra, a bass, adinfra, de infra, préter. Where have you bought that book? In a bookshop where one always finds the most recent books. Somewhere you will certainly find the flower so sought. But wherever you search, please never forget, that there are beautiful flowers everywhere. I hope that that is finally known well enough everywhere. In your recent letter you should write a bit more of the church close to your house. He came from below, passed by us, and went up. But perhaps he will soon go back into his basement.
+ 
+§97. Adverbs of time respond to the question: when? quande, unquande, alquande, nequande, quandecunc, alor, tande, ínterim, nu, strax, subitmen, just, justmen, bentost, tost, tard, temporan, solmen, ne ante, sovente, sempre, ne plu, antey, poy, depoy, desde, in ante, ja, ancor, ne ancor, adplu, ulteriori, hodíe, ho-annu, ho-témpor, deman, posdeman, yer, anteyer, unvez, durante, finalmen, in fine. When I visited him, he told me that once he had met her, but never again since then. Now he is old and meanwhile he has worked a lot. Just now you can do it, because you are early, but soon it would be too late. He is here almost always, only tomorrow he will depart and return not before ten o'clock at night, and maybe only tomorrow*. I can only tell you that beforehand, because it is still uncertain if he shouldn't suddenly change his plans.
+ 
+§98. The adverbs of affirmation, negation, and doubt are: yes, no, ne, ne plu, si, ya, fórsan, sin dúbite. Esque vu ne ha videt le? Yes, il esset ya in li scol e sin dúbit ne plu va retornar ante midí. (Haven't you seen him? Yes, he was in the school and certainly will not return before midday.)
+ 
+§ 99. All prepositions are located immediately in from of their complement. They are invariable. After prepositiones one uses the accusative of the pronouns, or the nominative except yo and tu.
+ 
+§ 100. The use of prepositions in natural languages is often contradictory.. Because of that one should always use prepositions according to their proper meaning. In cases where one cannot find a preposition with the exact sense to be expressed one uses the preposition ye, which indicates an indefinite relation. But very often one can use the prepositions a, de and in, which have multiple meanings.
+ 
+§ 101, Often the relation is clear even without a preposition. Verbs are for example used as much as possible without proposition, with an immediately following object, if the relation is clear, but the use of a preposition is always permitted. Il intrat li chambre. Il intrat in li chambre. Il montat li monte. Il montat sur li monte. Yo memora li cose. Yo memora pri li cose. Il prepara un viage. Il prepara se por un viage. (Lit. He entered the room. He entered in the room. He climbed the mountain. He climbed on the mountain. I remember the thing. I remember about the thing. I prepare a journey. I prepare myself for a journey.)
+ 
+§102. The most frequent prepositions are:
+a: (English to in combinationes also "ad".) He gave flowers to his lover. I gave a book to Paul. I gave him a book. I gave a book to him. An epistle (letter) to our company. I journey to New York. The steamship goes to Lisbon. Clear to depart. An error to regret. What say you about my firearm? I selectet it from three arms at 40 fr. I will wait for you at three hours at the north exit of the station. ad can be combined with other prepositions and adverbs to further clarify the sense: adavan, adsur, adin, ad-in, etc.
+along: Ili promenat along li rive del lago.  (They walked along the shore of the lake.)
+ante (temporal "before"): Il vivet ante Christ. Li sestra venit tri semanes ante su fratre, ante tri mensus (o tri mensus ante nu). Ella va departer ante fine de tri mensus. Felicitá veni ante richesse. Il incontrat le ante li dom. (He lived before Christ. The sister came three weeks before her brother, three months ago (or three months before now). She will depart before the end of three months. Happiness comes before wealth. He met him before the house.)
+apu (beside): Li dom sta proxim li eclesia, ma ne apu it. Li turre de nor eclesia sta apu li eclesia, ma ne al eclesia, proque it ne tucha li eclesia self, ma lassa un passage inter li du. Li dolore fisic es nequó apu li dolore mental. (The house stands close to the church, but not beside it. The tower of our church stands beside the church, but not towards the church, because it does not touch the church itself, but leaves a passage between the two. Physical pain is nothing beside mental pain.)
+avan (in front, before): Li patre promenat avan li dom. Li patre promenat a avan li dom. Li patre venit de avan li dom. Il incontrat le avan li dom. (The father walked in front of the house. The father walked to the front of the house. The father came from the front of the house. He met him before the house.)
+caus (because of): Caus vor intervention yo arivat ante minocte avan mi dom. Due to your intervention I arrived before midnight before my house.
+che (at, like French chez): Il logiat che su fratre. Durante long témpor il vivet che li germanes. Che li canes on distincte divers rasses. (He stayed at his brother's. For a long time he lived with the Germans. One distinguishes diverse races with dogs.)
+circum (around): Circum li eclesia stat alt árbores. Li terra torna circum li sole. (Around the church stand old trees. The earth turns around the sun.)
+cis (on this side): Francia es situat cis li Pirenés. (France is situated on this side of the Pyrennes.)
+con (with): Li filio ea con su patre along li fluvie. Ella stat con lacrimes in li ocules con su marito avan li station. (The son goes with his father along the river. She stood with tears in her eyes with her husband before the station.)
+contra (against): Li unes laborat contra li altres. Il exchangea su bicicle contra combustibiles. Li aeroplan aviat contra li gratta-ciel. (They worked against each other (lit. the ones worked against the others). He exchanges his bicycle for combustibles. The airplane flew against the skyscraper.)
+de (of, from): The house of my father. The dramas of Schiller. A gentleman from Paris. The largest of all. A vase of gold. These letters are written by a poet by a writing machine. The money of a poor widow has been taken by a prison breaker, born from rich parents. He lived far from his father, of which he never heard anything.
+desde (since, for): Desde du annus il neplu posse laborar. Il vendi chapeles desde frs. 20.—. Il prendet li tren de Roma desde Milano. (He hasn't worked any more for two years. He sells hats from 20 fr. He took the Rome train from Milano.)
+detra (behind): Detra li dom esset un grand corte. (Behind the house was a large court.)
+durante (during, while): Durante li estive li infantes ludet sur li plazza. Li un de su filios studiat medícina, durante que li altri ne volet studiar. (During the summer the children played in the square. One of his/her sons studied medicine, while the other didn't want to study.)
+ex (from, out of): Il venit ex su chambre. Yo trinca ex li glass. Traductet ex german a Interlingue. Li vestiment es fat ex pur lane. Noi audit in li radio un concert de Beethoven ex London. (He came out of his room. I drink from the glass. Translated from German to Interlingue. The clothing is made out of pure wool. We heard on the radio a concert by Beethoven from London.)
+extra (without, outside): Il vivet extra su patria. Soledí ili devet luder extra li audir-distantie. (He lived without his father. On Saturday they had to play outside of hearing distance.)
+in: Mult persones vive in li cité. Multís vell preferer viver in li rure. In omni ocasion il eat al forest vice al scol, adminim decivez in min quam un annu. (Many people live in the city. Many would prefer to live in the country. In every occasion he went to the forest instead of to school, at least ten times at least in a year.)
+ínfra (under, below): Li aviones vola infra li stratosfere. Il sedet intra li fable, e li patre supra. Sub li table esset un can. Súper li table esset li lampe e sur li table un libre. (Airplanes fly below the stratosphere. He sat under the table, and the father above. Under the table was a dog. On the table was the lamp and on the table a book.)
+inter (within, between): Ili esset li sol tranquil scoleros inter mult bruiosi. Inter New York e Paris. Inter du e tri horas. Un conversation inter du amicos. Divider un heredage inter li filios. Un guerre inter du nationes. (They were the only quiet pupils between many noisy ones. Between New York and Paris. Between two and three hours. A conversation between two friends. To divide an inheritance between the sons. A war between two nations.)
+intra (inside): Ili ne posset penetrar intra li mures del cité. Yo va retrovenir intra tri hores. (They couldn't penetrate inside the walls of the city. I will return inside three hours.)
+malgré (in spite of): Malgré su grand efortíes il ne posset perforar li mur. (In spite of his large efforts he couldn't break through the wall.
+per (by, with): Il defendet se per un gladíe. Il salvat se per natar. Li moné esset furtet per un ínconosset hom. (He defended himself with a sword. He saved himself by swimming. The money was stolen by an unknown man.)
+por (for): Un líbre por omnes e por nequí. On manja por viver, on ne vive por manjar. Yo comprat un líbre por frs. 10.—, grand por su precie. It sufice por long, ne solmen por deman. (A book for everyone and for none. One eats to live, one does not live to eat. I bought a book for 10 fr., large for its price. It suffices for a long time, not just for tomorrow.)
+pri (about): Noi parlat pri politica. Yo ha mult pensat pri vos. (We talked about politics. I have much thought about you.)
+pro (for, due to): Ella plorat pro joya. Yo mersía pro vor auxilie. (She cried for joy. I thank you for your help.)
+pos (after): Pos quelc dies ili tamen atinget lor scope. Li capitano vení pos li major. (After some days however, they attained their goal. The captain comes after the major.)
+préter (by): Ili passat préter li dom de mi patre. (They passed by the house of my father.)
+proxim (close to): Il habitat proxím li cité. (He lived close to the city.)
+secun (according to): Secun li prescription to ne es permisset. (According to the prescription, that is not permitted.)
+sin (without): Il fat to sín saver pro quo. (He did it without knowing why)
+sub (under): Sub li árbor on trovat mult fructes sur li table. Li carre vacilat sub li carga. Il havet plu quam 100 persones sub su autoritá. Il scrit sub un pseudonim, que mem sub Napoleon on ne devet laborar sub tal mal conditiones. (Under the tree were found many fruits under the table. The car faltered under the load. He had more than 100 people under his authority. He wrote under a pseudonym, that even under Napoleon one should not work under such bad condition.)
+súper (over): Súper li árbor volat un avie; quelc altris sedet sur it e celat se detra e sub su folies. (Over the tree flew a bird; some others sat on it and hid themselves behind and under the leaves.)
+sur (on): It venit de sub li table súper it e poy sedet sur it. (It came from under the table to the top of it and then sat on it.)
+til: Yo laborat til decidu horas. Til li extrem fine del munde, su influentie es sentibil, til que un altri va vicear le. (I worked until 12 o'clock. Until the extreme end of the world his influence is felt, until another will replace him.)
+tra (through): Yo ha videt le tra li fenestre promenante* tra li campes. (I have seen him through the window walking through the fields.)
+trans (through): Li tren ea tra li túnnel del Sanct Gotthard trans li Alpes. (The train goes through the tunnel of Saint Gotthard through the Alps.)
+ultra (besides): Ultra francesi e german il parla anc ínterlingue. (Besides French and German he also speaks Interlingue.)
+vers (toward): Li avie volat vers li sole. (The bird flew toward the school.)
+vice (instead of): Il venit vice su patre, ma solmen pos tri semanes vice intra du semanes. (He came instead of his father, but only three weeks after instead of within two weeks.)
+vis a vis (facing): Vis a vis li eclesia on vide li scola. (Vis a vis the church one sees the school.)
+ye is used exceptionally if no other preposition is apt: In (in) every occasion he went in the forest instead of to school. I will wait for you precisely at (a) three o'clock in the square of the school. I see her at (che, avan, al) the third house. They bet (per, de) five francs.
+ 
+§ 103. Many prepositional expressions are formed by adverbs and adjectives: Mersí vor auxilie, yo posset fìnir li labor ante li fixat termin, exceptet li ultim págines, queles ne es conform al programma. Concernent vor ultim question, yo posse solmen dir, que il esset in medie del chambre ínter su infantes. (Thank you for your help, I was able to finish the work before the fixed end date, except the last pages which do not conform to the program. Concerning your last question, I can only say that he was in the middle of the room with his children.)
+ 
+CONJUNCTIONS
+ 
+§104, Coordinative conjunctions are: e, e ... e, o, o ... o, ni, ni ... ni, sive ... sive, ma, nam, tamen, ergo, dunc, plu ... plu, nu, nu ... nu. Both the father and the mother became blind. Either he comes or we have to close the door. He certainly will not eat nor drink, because he neither eats meat nor drinks alcohol. Whether you consent or not we will still do it; but the more stubborn you act, the more isolated you will be. Well, you can do what you want. He is no longer normal in the head, because he laughs and then cries with no visible motive.
+ 
+§ 105. Subordinate conjunctions are: que, si, quam, esque, ca, quasi, benque, etsí. One cannot know if he comes or not, because though he's the husband, he is more or less his wife's slave. If he comes, one shouldn't question him about that, as if one would know nothing.* He can't say beforehand if he can come; because whether he can come or not, that depends on his wife.
+§ 106. Many conjunctions and conjunctional expressions are composed from prepositions or prepositional expressions or adverbs or adverbial expressions with que and quam. per que, por que, pro que, pos que, ante que, durante que, sam quam, desde que, sin que, tant que, suposit que, in condition que.
+ 
+INTERJECTIONS
+ 
+§107, As with interjections one can use all interjections of national languages, which are understandable by themself or internationally known. Halló! Holá! Hé! Huzza! Hurrá! Yuhé! Huhú! Hu, Hu! Ba! Ay! Uf! Via! Nu! Hopp! Hoppla! Ve! Ho ve! Sus! Psit! Pst! Shut! Sht! Crac! Paf! Plump! Hm! Hum! Fi! Words of other grammatical categories can also be used as interjections: for example: Bon! Ad-avan! Retro! For! A-bass! Ad-up! Halt! Auxilie! Adío! Silentie! Corage! Bravo! Vi! Vive! Mey viver! Salve! Salute! Huhú! Quant li vent ulula circum li dom! Hu, hu! fanfaron! Holá! veni che me! Ba! quo to fa, si il ne vole venir! Uf! finit ti desagreabil labor! Ay! quel dolore! Sus! Sus! al bestie! Subitmen yo audit, que un person dit pst! detra me. Ma ho ve! il ne atentet e plump! il cadet in li aqua. Shut (o shit!) vi li professor, silentie! Fi! quel malodore!
+ 
+SYNTAX
+ 
+§108. The position of words in a sentence is generally free to a certain extent. But the regular order of the parts of a sentence is:
+subject - predicate - acusativ object - dativ object.
+Li patre - da - li libre - al filio.
+ 
+§ 109. A phrase is easiest to understand if all words stand as close as possible to the word to which they relate. Because of that all parts of a sentence are immediately followed or preceded by their attributes. Li bon patre sovente voluntarimen da bell libres a su diligent filio. (The good father frequently voluntarily gives beautiful books to his diligent son.)
+ 
+§110. From that it follows that the adjective or adjectival attribute should immediately precede or follow the relative noun. In general it precedes, if it is short or characteristic, but follows if it is long or complementary. He prefers the delicate fruits of the South. That mann, clear in his thoughts and pure in his intentions. His/her father and mother had made all arrangements necessary for his/her voyage. I just now received the most recent approximate report on commodities, important in our land during that summer.
+ 
+§111. The adverbs: ne, tre, tro, solmen and anc should always immediately precede the concerning word, at times the auxiliary verb is ordinarily composed**; the other adverbs can immediately precede or follow the concerning word.. It was not I that took your book — but another person. I have not taken your book — but I will take it. I have not taken your book — but one has given it to me. I have taken not your book — but another. I as well love you. (others love you) I also love you (love + other verbs) I love you too (I love other people too)
+ 
+§112. Auxiliary verbs (anc: dever, posser, voler etc.) should always precede the participle immediately relative to the infinitive, or be separated only by related adverbs. Our friends have worked much, but couldn't completely finish their work. I should learn those words from memory. I should quickly learn those words from memory. I immediately should learn those words from memory.
+ 
+§113. Negative pronouns and adverbs receive the positive sense only if they do not stand immediately before them. So-called double negation is permitted, but not recommended. I saw no one. I didn't see no one. I didn't see no one, but just a few.
+ 
+§114. Also in relative phrases one uses the same order of the parts of phrases and the indicative as in principle phrases. The subjunctive is used only in rare cases where the distinction is important, for example in legal documents; in certain one can also use the optative. He said that he is sick. He thought that I had come. One hoped that he soon will come. She asked why I am so cheerful. He said that he would have loved her. I hope that he may come. To indicate a condition, one should always use: si. If she would have known what she knows today, she would have acted differently. If I were sick, I would stay at home. Indirect phrases are begun with: ca (often replaced with esque). I don't know if I understand you correctly. We will begin whether he comes or not. Do you know if he will come? If one were to know if he comes!* To change relative phrases one can often use the infinitive immediately after the verb. I believe that I have seen him. (all three are different ways of saying the same thing)
+ 
+§ 115. The accusative pronoun immediately follows the verb; the dative pronoun immediately erecedes it or follows the accusative pronoun, with or without the preposition a.  I saw him. I gave it to him. I gave it to him. I gave it to him. §116. The rules indicates for direct phrases apply also for interrogative phrases which are formed by esque or other interrogative words. With the "esque" one can form interrogative phrases by posing the subject after the predicate, relatively* after the auxiliary verb. Have you understood me? Have you understood me? How many people you believe you see? Do you believe you see many people? Whom do you see? Who sees you? Can you hear me? Are you thinking or sleeping?
+ 
+§ 117. Verbs are used transitively, personally and and actively as much as possible; but it is always permitted to use an indirect(?) preposition. I thank you. Please help the poor man. He humiliated his enemier. I remember the thing very well. He prepares for a voyage. He prepares himself for a voyage. That he only imagines.I am aware of that. I feel pain. I regret/am sorry. I am hot, I am cold. I succeeded in doing it. One danced and played. On the impersonal verbs the pronoun it can be omitted, if the sense permits it. I believe that it is raining. There are many exceptions. It's raining. It's raining. It becomes cold (the temperature or a certain thing).
+ 
+PUNCTUATION
+ 
+§118. Signs of punctuation should be used in a manner that makes it easier to understand the text. Because their use in national languages is often contradictory, one should use them according to natural principle, that is to indicate where one should stop in reading, relatively to separate the parts of a sentence.
+ 
+§119. The period (.) indicates a fairly large stop. It is used to separate complete phrases, expressing a completed thought.
+ 
+§120. The semi-colon (;) indicates a stop less large. It is used to separate complete phrases with jointed thoughts. For today he is content; because we worked from morning to the evening.
+ 
+§ 121. The comma (,) indicates the smallest stop. It is used to separate the diverse parts of a composite phrase, or diverse jointed phrases so many that one does not want to separate them with a period or semi-colon. For today he is content, but tomorrow we will certainly have to continue the work, if the weather will permit it. With the comma it is in many cases possible to make clear the sense of a phrase, indicating whether the words are to separate in a certain place or in another, or are not to be separated. In particular one needs to pay attention to what attributes are necessary to define a certain notion are added without a comma, and that those that simply describe are separated with a comma*. He has told me that which the others should not know. He has told me that, what the others should not know (that he has said it to me). He does not love the children which make noice if they are not controlled. He does not love the children, which make noise if they are not controlled. He does not love the children which make noise, if they are not controlled. He does not love the children, who make noise, if they are not controlled.
+ 
+§122. To indicate the most important words in a phrase one can use the written accent. I go with her (not you). I go with her (I do not do as the others, which do not go with her). I go with her (not with the others). Do you know from where he comes?
+ 
+§ 123. Other punctuational signs: Colon (:), punctus suspensiv (...), parentese ( ), crampones ([ ]), imbrassamentes({ }), strec ligant (-), strec separant (—), signes (hocos) de citation (" "), signe de exclamation (!), signe interrogativ (?) and apostrof (') are used more or less internationally. (! and ? are only found at the beginning of the phrase, not at the beginning as well.)
+ 
+WORD FORMATION
+ 
+§124. New words are formed by A. Addition of terminations. B. Addition of prefixes. C. Addition of suffixes. D. Composition of two or multiple words.
+ 
+A. TERMINATIONS
+ 
+§ 125. The addition of terminations is already dealt with in the concerning paragraphs of the grammar:
+1) Noun terminations: -e (§22, 30, 87) -a (§ 24, 30, 87) -o (§ 24, 30) -u (§ 25) -um (§31) 2) Adjectival terminations: -i (§29). 3) Adverbial terminations: -e (§74) -men (§ 90).
+ 
+§ 126. These terminations are a consequence of the caracteristic final vowels of Interlingue:
+-e is the general ending, without special meaning, used to fix the correct pronunciation of the preceding consonant, for euphony or to distinguish similar words (mostly of nouns from adjectives of the same form). Pace, image, rose, libre, cable, altruisme, curve, centre, central, centrale, directiv, directive, marine, circulare, cantate, infinite, tangente, adherente, manjante, denove.
+-a is found in words indicating activity, location or time, something prolonged, universal, collective, and with living things the feminine. dansa, dansada, plazza, imperia, era, pasca, rosiera, liga, secta, posta, americana, filia, studianta, cavalla.
+-o is found in words that indicate something concrete, material, special, individual, and with living entities the masculine. forso, humo, rosiero, posto, americano, filio, cavallo.
+-u indicates something abstract, neuter, a relativity, or is used to receive international derivatives. statu, casu, unaltru, manu, gradu.
+-i is the adjectival final, to fix the correct pronounciation of the final consonant, for euphony or for distinction of similar words. felici, sagi, porosi, organisatori, amari, curvi, vacui. e, a, o, u, i: rose, rosi, rosiero, rosiera; porte, porta, portu, portuari, portale; posta, posto.
+ 
+B. PREFIXES
+ 
+§127. In many international word formations the prefixes and prefixed expressions lose their last consonant or assimilate it into the following consonant; in that case doubled consonants are replaced according to § 10 by single ones, except after ín- (but other orthographies are permitted) adtracter — attracter — atracter, conlaborar — collaborar — colaborar, conoperativ — cooperativ, conposition — composition, disfuser — diffuser — difuser, exmigrar — emmigrar — emigrar, coneducation — coeducation, ínregulari — irregulari, ínlegal — illegal.
+ 
+§ 128. The prefixes are:
+bel-: kinship by marriage: belfratre (brother-in-law), belfilio (son-in-law).
+des-: cessation, contrary: desabonnar (unsubscribe), desinfecter (disinfect), desavantage (disadvantage). dis:- separation, dispersion: dismembrar (dismember), dissemar (disseminate).
+ex-: ex-, previous: expresidente (ex-president), eximperator (ex-emperor).
+ho-: same time: hodíe (today), hosemane (this week), hoannu (this year).
+ín-: negation in adjectives: ínoficial (unofficial), ínvisibil (invisible) (not to be confused with the unaccented preposition: in-: inpaccar, pack in).
+mi-: short form of demí (half): midí (midday), minocte (midnight), mihor (half-hour), mifratre (half-brother).
+mis-: false, inconvenient, failing: miscomprender (miscomprehend), misalliantie (misalliance), misdirecter (misdirect).
+non-: negation in substantives: nonsens (nonsense), nonfumator (non-smoker).
+per-: through, to the end: perforar (perforate), percurrer (run through, run all the way).
+pre-: before, in front: previder (preview), preparar (prepare), prehistorie (prehistory), presider (preside).
+pro-: to the front / outside: progression, producter (produce).
+re-: again, to the beginning: revider (review), revenir (return).
+step-: kinship by a second marriage: stepmatre (stepmother), stepfilio (stepson).
+ 
+§129. As prefixes one also uses prepositions, adverbs and the present of some verbs: adaptar, abreviar, atirar, antedatar, avanbrass, circumscription, consentir, coeducation, coroder, compresser, contrasignar, depender, excluder, expectar, extraordinari, forear, infiltrar, iluminar, importar, intervenir, preterpassar, retromarchar, retroactiv, selfconfidentie, submisser, transportar, transpirar, tradition, ultraclerical, vicepresidente, parapluvie, portamoné, tirabuton.
+ 
+§ 130. Many international words are formed by Greek prefixes: decametre, decilitre, hectolitre, hemisfere, hipermodern, kilometre, monoplan, panslavisme, pseudocrist, telefonar.
+ 
+C. SUFFIXES
+ 
+§ 131. Suffixes are added immediately to the root or with ligative vowels or consonants. Complete endings are indicated below, but without any facultative terminations. One can add multiple suffixes in the same word.
+ 
+§ 132. In many international word formations there is a contraction of two similar following sounds or groups of sounds into one. ex. minera(lo)logie, popular(i)isar, pacif(ic)isme, infanter(i)ist, ambiti(on)osi, religi(on)osi, ident(ic)itá, nu(tri)tresse, mum(i)ificar.
+ 
+§ 133. Rating* sufixes.
+-ett: diminutive, frequentative, small objects: filietto, statuette, cigarrette, pincette, inflammette, rosette, foliettar, volettar, saltettar.
+-illio, -innia: caressive: fratrillio, matrinnia, carinnia.
+-issim: highest grade: grandissim, bellissim.
+-ach: pejorative, condemning: cavallacho, linguache, criticachar.
+ 
+Verbal suffixes.
+ 
+§ 134. Final -ar. All modern verb formations finish with -ar, not with -ir and not with -er. Most verbs are derived from other words with indirect* derivation, i.e. through adding the -ar ending of the infinitive, without suffix. Those derived verbs have diverse meanings: 1) of objects, materials, abstracts: provide with: coronar (coronate), armar (arm), motivar (motivate). 2) of utensils, instruments: use, handle with: brossar (brush), martellar (hammer). 3) of organic products: secrete: lactar (lactate), ovar (lay eggs/spawn), sanguar (bleed). 4) of people and creatures: act as: dominar (dominate), serpentar (creep). 5) of adjectives and participles (frequently with prepositions): act in such a manner: plenar (fill), siccar (dry), exsiccar (wizen*), abellar (embellish), calentar (heat), sedentar (seat). In many cases there are other internationally-known relations: beson, besonar (need), cure, curar, (cure) risca, riscar (risk), don (gift), donar (give), matur, maturar (mature).
+ 
+§ 135. Other verbal endings. -isar: act in a manner / as: electrisar (electrify), idealisar (idealize), canalisar (canonize*), terrorisar (terrorize), rivalisar (rivalise), judeisar (judaize). -ificar: act in a manner*: verificar (verify), simplificar (simplify), mumificar (mummify), pacificar (pacify). Also forms adjectives:: pacific, magnific, specific. -ijar: become, make oneself: verdijar (turn green*), rubijar (blush). -ear: dynamic state of coming and going: flammear (blaze), verdear, undear (undulate).
+ 
+§ 136. Suffixes for verbal nouns. a) added to the perfect theme as with § 80: -ion: action, also result and location of it: administration, expedition, construction, distribution, explosion. -or: acting person, thing or factor: administrator, expeditor, distributor, constructor, ventilator, compressor, divisor. -ura: concrete action or its result: reparatura, garnitura, lectura, creatura.
+b) added to the present theme as with § 84: -ment: concrete action or its result, or serving to / serving as: fundament, nutriment, movement.
+c) added to the verbal root as with § 85: -ida (verbs in -ar: -ada): continuing action: promenada, perdida, currida.
+d) added to the present participle as with § 82: -ie: continuing state: tolerantie, provenientie, existentie.
+ 
+§ 137. Personal sufifxes. -er-: professional person: molinero, lavera, librero, vitrero. -ist: person occupying themself with, adherent of: calvinist, socialist, librist, telegrafista. -or: cp. § 136. -ari-: person characterized by something external, ex. a function: millionario, functionaria, bibliotecario, pensionaria. -on: person characterized by an internal or natural quality: dormon, savagion, spiona, pedon. -ard: people with a bad quality: falsard, dinamitard, mentard. -astr-: people with internal value: medicastro, poetastra. -es-: inhabitant (also adjectival): francese, franceso, francesa, francesi, borgeso. -ane, -ano, -ana: cp.
+ 
+§140. -essa: women with special dignity or function: princessa, diaconessa, actressa, imperatressa. -ell: young animal: agnell, leonello.
+ 
+§ 138. Qualitative suffixes. -ie: abstract nouns, state (cp. § 82, 136): anatomie, maladie, elegantie, existentie, furie, tirannie. -itá (-etá, if the root ends with i): quality: homanitá, yunitá, quantitá, proprietá, ebrietá. -ore: of verbs: state, of adjectives: measurable quality: amore, terrore, calore, longore, grandore. -esse: pregnant quality or state: altesse, grandesse, finesse, yunesse, delicatesse.
+ 
+§ 139. Local and colective suffixes. -ia: location, land: dormitoria, Germania, dominia, abatia. -eríe: profession and its products (-er + -ie), metaphorically also manner of an actor, character: vitreríe, potteríe, bigotteríe, diaboleríe. -ería: location of a profession (-er + -ia): librería, juvelería, vitrería. -iera: vast location containing something: torfiera, pisciera, rosiera. -iere: vase etc. containing something: incriere, tabaciere, butoniere. -iero: carrying something: rosiero, candeliero, pomiero. -atu: institution or situation social or legal, dignity, also its location, time or domain: viduatu, proletariatu, secretariatu, califatu, episcopatu. -uore: location utensil: trottuore, lavuore, reservuore, tiruore. -ade: multitude, series, content: colonade, boccade, olimpiade. -allia: collectives without order, or depreciative: antiquallia, ferrallia, canallia. -age: collectives with order, things made by: foliage, plumage, boscage, tonnage, plantage, lanage, linage. of verbs: activity, mainly industrial or professional, also its result, location or time, also its expenses*: rafinage, abordage, luage, viage, doanage. -arium: ordered collection, mostly scientific or technical: herbarium, planetarium, aquarium, rosarium. -ité (-eté, if the root finishes with i); totality of people or things: homanité, yunité, societé. -un: single example: grelun, sablun, scalun.
+ 
+§ 140. Adjectival suffixes. (The concerned nouns formed by noun finals are indicated in parenthesis) -al: general adjectival relation: musical, cordial, central (centrale), ideal (ideale). -ic: being that way: metallic, fanatic (fanatico), fantastic, scientic. Greek nouns ending with -ma add a -t-, those ending with -se (x = cs) mute the s into t: problematic, dramatic, elipse, eliptic, hipnose, hipnotic, sintax, sintactic (sintactico). With -ica one indicates sciences or arts, with -ico those that do them: fisic, fisica, fisico, aviatica, aviatico, politic, politica, politico.
+-an: pertaining to: american (americano, americana, americanes), homan. -at (after nouns): provided by: barbat, foliat, talentat (talentate). -ut: very rich in, exuberant: barbut (barbute), armut, sandut. -osi: rich in, having: famosi, musculosi, respectosi, spinosi. -aci: inclined to: mordaci, tenaci, vivaci. -ari: conforming to, convenient* with: populari, regulari, militari (militare). -atri: similar to: spongiatri, verdatri.
+-esc: reminding of, in the manner of: infantesc (infantesco), gigantesc. -in: consisting of, parentage of: argentin, alpin, matrin, svinin (svinine). -iv (added to the perfect theme as wel § 80): acting as, able: decorativ, obligativ, consolativ, definitiv, constructiv, ofensiv (ofensive), directiv (directive), alternativ (alternative). -ori (added to the perfect theme as with § 80): destined toward, should act as (adjective of -or): decoratori, obligatori, consolatori, ilusori, preparatori, instructori. -ibil (verbs in -ar: -abil, cp. § 85): of transitive verbs: what one can do, of intransitive verbs: what can do: formabil, audibil, íncredibil, visibil, explosibil, combustibil (combustibile). -nd (verbs in -ir: -end) added to the present theme: to do: leend, dividend (dividende).
+ 
+§141. Many international words contain greek and latin affixes:  ab-: afar: abducter.  anti-: against: anticrist, antisocial. arch(i)-: highest grade: archangel, archiepiscop, archifripon. auto-: self: automobile, autodidacte. pseudo-: false, seeming: pseudoscientie, pseudocrist, pseudomala-die. -isme: doctrine, system, movement: catolicisme, centralisme, socialisme. -oid: similar: negroid (negroide), elipsoid.
+ 
+§142. Beyond the productive affixes exist some nonproductive affixes, which do not form new words, but explain existing international words. Ex: -id, -ore. friger, frigid, frigore, valer, valid, valore, riger, rigid, rigore, rigiditá, rigorosí, rigorositá.
+ 
+D. WORD COMPOSITION
+ 
+§ 143. Most frequent is the method of placing the complement without a preposition in front of the noun relating to the verb, with or without a dash. scri-table = table for writing, vent-moline = mill moved by the wind, chapel-bux, nota-librette, postcarte, scrimachine, tippmachine, mult-lateral, circumnavigar, contraproposition.
+In new formations it is recommended to link the two words with a hyphen. In compositions already international the two words are often joined with an o or i. ferrovia, agricultura, uníform, li uniforme, aeroplan, electromotor.
+For simplicity or more comprehensability and clarity it is recommended in many cases to use attributes instead of compositions. animale domestic, premie de assecurantie, comunication per vapornaves.
+ 
+SYSTEMATIC PHRASES FOR ALL ESSENTIAL GRAMMATICAL RULES
+ 
+The following unique page of phrases in Interlingue contain for every essential rule of the grammar of interlingue, including syntax, a specimen phrase. The mechanism of this international is so simple that a much larger circle of people is capable of really mastering this simple mechanism without exceptions, than it would be possible in any national language with its much more complicated rules and with all the exceptions and the mass of special manners of expression.s However Interlingue possesses the full expressivity of national languages; because it does not renounce certain possibilities of expression, it only selects in every point the most simple or most well known form of expression.
+ 
+ 
+Yo manja un pom.
+Li pom es un fructe.
+Tu manja un pir.
+It anc es un fructe.
+Noi manja du bon fructes.
+Mi fratre manja prunes; il manja tri prunes.
+Mi sestra manja cereses; ella manja mult cereses. lli manja prunes e cereses.
+Vu manja pires, prunes e cereses.
+On manja li mult bon fructes.
+Yo prefere li dulcis.
+A mi patre yo di “tu”, ma tu di “vu” a mi patre.
+ 
+Li patre es grand e li matre anc es grand; ili es grand.
+I eat an apple.
+The apple is a fruit.
+You eat a pear.
+It also is a fruit.
+We eat two good fruits.
+My brother eats prunes; he eats three prunes.
+My sister eats cherries; she eats many cherries. They eat prunes and cherries.
+You eat pears, prunes and cherries.
+One eats the best fruits.
+I prefer the sweet ones.
+To my father I say "tu", but you say "vu" to my father.
+The father is big and the mother also is big; they are big.
+Yo vide te.
+Yo da te un pir.
+Yo da li pir a te.
+Li pir es de me.
+Li patre da un pom al filia.
+Ella es li sestra del filio.
+I see you.
+I give you a pear.
+I give the pear to you.
+The pear is mine.
+The father gives an apple to the daughter.
+She is the sister of the son.
+Yo lava me.
+Yo lava te.
+Tu lava me.
+Tu lava te.
+Tu lava le.
+Il lava se.
+Il lava le.
+Il lava la.
+Il lava it.
+Il lava nos.
+Ella lava se.
+It lava se.
+It lava it.
+On lava se.
+Noi lava nos.
+Vu lava vos.
+Vu lava nos.
+lli lava se.
+lli lava les.
+Yo da mi pom a te.
+Tu da tui pir a nos.
+Vu da vor fructes a les.
+lli da lor fructes a le.
+Yo da te mi pom, etc.
+I wash me.
+I wash you.
+You wash me.
+You wash you.
+You wash him.
+He washes himself.
+He washes him.
+He washes her.
+He washes it.
+He washes us.
+She washes herself.
+It washes itself.
+It washes it.
+One washes oneself.
+We wash us.
+You wash you.
+You wash us.
+They wash themselves.
+They wash them.
+I give my apple to you.
+You give your pear to us.
+You give your fruits to them.
+They give their fruits to them.
+I give you my apple, etc.
+Mi pom es plu grand quam su prunes, ma it es min grand quam tui pir.
+Li maxim grand de vor fructes es tui pir, li minim grand su cereses.
+Nor pom e pir es tam bell quam lor prunes e cereses.
+Nor fructes es tam bell quam li lores.
+Lu maxim bell es li bellissim composition del colores.
+My apple is larger than your prunes, but it is smaller than your pear.
+The largest of your fruits is your pear, the least big its cherries.
+Our apple and pear is as beautiful as their prunes and cherries.
+Our fruits are as beautiful as theirs.
+What is most beautiful is the very beautiful composition of colours.
+Yo es ci.
+Tu anc es ci.
+Ma il es ta.
+Ti fructes es bell.
+Ti-ci pom es verd.
+Ma ti-ta pir es yelb.
+Ti-ci cereses es rubi, tis-ta es nigri.
+To es bell colores.
+I am here.
+You also are here.
+But he is there.
+Those fruits are beautiful.
+This apple here is green.
+But that pear there is yellow.
+These cherries here are red, those there are black. Those are beautiful colours.
+Qui veni?
+Li filia.
+Quel filia?
+Li filia del vicino.
+Qual es li dom del vicino?
+Su dom es grand.
+Quo li filia vole?
+Ella aporta fructes por li infantes queles ama les. Yo ne save quo far, nam omnes ama les.
+Tis qui ha laborat maxim mult, recive li maxim grand fructes; tis queles ha laborat poc, recive li min grand fructes.
+Talmen on save tre rapidmen qualmen distribuer li fructes.
+Ti metode functiona bon; it es corect.
+Who comes?
+The daughter.
+Which daughter?
+The neighbor's daughter.
+Which is the house of the neighbor?
+His/her house is large.
+What does the daughter want?
+She brings fruits for the children that love them.
+I don't know what to do, because all love them. Those which have worked the most receive the largest fruits; those which have worked little receive the smallest fruits.
+That way one knows very quickly how to distribute the fruits.
+That method functions well; it is correct.
+Hodíe yo labora ci.
+Yer yo ha arivat.
+Yo arivat per li tren de Paris, u yo hat laborat antey.
+Deman yo va departer per auto pos har finit mi labor.
+Yo vell restar plu long, ma on telegrafat me: Veni tam bentost quam possibil! Dunc lass nos finir nor maxim urgent labores.
+Li altri labores queles yo ancor vell har devet far, yo va dever far plu tard; ples excusar to.
+Quande yo fa bon mi labores, yo es estimat e yo va esser bon payat.
+In Paris yo hat esset honorat per un special premie. To mey suficer.
+Today I work here.
+Yesterday I have arrived.
+I arrived by the train from Paris, where I had worked before.
+Tomorrow I will depart by car after having finished my work.
+I would rest longer, but one telegraphed me: Come as quick as possible! So let us finish our most urgent work.
+The other work that I still would have done, I will have to do later; please excuse that.
+When I do my work well I am appreciated and I will be well-paid.
+In Paris I had been honoured by a special prize. That may suffice.
+Li patre da li libre al filio.
+Li bon patre sovente voluntarimen da bell libres a su diligent filio.
+Il da ne li fructe, ma li libre.
+Ne il da li libre, ma ella.
+Anc yo ama vos.
+Yo ama solmen vos.
+Yo videt le.
+Yo te dat it.
+Yo dat it te.
+Yo dat it a te.
+A te yo dat it.
+The father gives the book to the son.
+The good father often voluntarily gives beautiful books to his diligent son.
+He gives not the fruit, but the book.
+It's not him that gives the book, but her.
+I also love you.
+I love only you.
+I saw him.
+I gave it to you.
+I gave it to you.
+I gave it to you.
+To you I gave it.
+Esque vu hat comprendet me?
+Ha vu comprendet me?
+Quant persones tu crede vider?
+Crede tu vider mult persones?
+Qui tu vide?
+Qui vide te?
+Il di que il es malad.
+Il pensat que yo ha venit.
+Ella questionat, proquo yo es tam felici.
+Yo desira que il mey venir.
+Si yo vell esser malad, yo vell restar in hem.
+Yo ne save, ca yo comprende vos corect.
+Ca il veni o ne, noi va comensar.
+Si on vell saver, ca il veni!
+Yo crede que yo ha videt le.
+Yo crede har videt le.
+Yo crede vider le.
+Had you understood me ?
+Have you understood me?
+How many people do you believe you can see? Do you believe you can see many people?
+Whom do you see?
+Who sees you?
+He says that he is sick.
+He thought that I have come.
+She asked why I am so happy.
+I hope that he may come.
+If I would be sick I would stay at home.
+I don't know if I understand you correctly.
+We will start whether he comes or not.
+If one would know whether he comes!*
+I believe that I have seen him.
+I believe I have seen him.
+I believe I have seen him.
+ 
+Stress: Li poc articules del grammatica e li vocabularium de Interlingue es facilissim e representa índubitabilmen li maximum de simplicitá.
+ 
+THE REAL INTERNATIONAL LANGUAGE
+ 
+Text of a grammophone disk available from Interlingue-Central
+ 
+Dear listeners!
+ 
+I speak to you in the international language Interlingue. The centre of the International Interlingue Union has made the edition of this grammophone disk to demonstrate to all interested that Interlingue does not sound like an artificial or constructed language, but as a language completely natural and similar to national languages. And if you study a text in Interlingue, you will confirm, that printed and written, the aspect of that language is the same as those of the large cultural languages of the Occident written with Latin letters. Those Latin letters are used in the accustomed manner to the largest number of Europeans and Americans, and the unified pronounciation is guaranteed, because everyone now has the opportunity to get used to the normal pronounciation through grammophone disks. And certainly after a short time one will also hear in radio broadcasts always more and more discourses and news spoken in the international language Interlingue.
+ 
+If we speak to a person in Interlingue, they always ask us: but there already exist other languages that call themselves the world language. Yes, there has been much advertising for those languages, and many people with immense enthusiasm have sacrificed much work and enormous amounts over more than sixty years for the ideal of a common language for all peoples of the Earth. But regretably all these efforts have not been able to have success, because the world does not accept an artificial language, a language which makes it necessary to think in a manner contrary to the habit of all nations. Because of that it was necessary from the beginning to find a language that contains the real international words, but in their natural forms, not deformed by artificially added vowels and consonants and syllables. And also the grammar needs to be as simple as possible. It should not contain complicated rules which do not even exist in the majority of national languages, which proves that those rules are not necessary for the clear expression and comprehension of thoughts.
+ 
+Because of that Edgar de Wahl, a professor in Tallinn, Estonia, removed himself from the artificial language projects and searched for the solution to the problem in another direction. He studied national languages once again himself, and searched out the words and the grammatical rules already existing in most cultural languages. With the discovery of the so-called "de Wahl's Rule" he regularized thousands of extremely frequent words, which the preceding international language projects had to exclude and change with artificial word constructions. This de Wahl's Rule is the miraculous key to the only language really international and regular at the same time. Edgar de Wahl has studied exact sciences, linguistics and the fine arts. Maybe just that mixture of interests and knowledges made it possible for him to find a language unattackable from the scientific viewpoint and at the same time not disagreeable for linguistic sentiment. Interlingue is an autonomous and harmonic language, and contains all essential elements of the principal languages of Europe and America. It is much easier than the precedent international language projects and incomparably easier than all national languages. A letter written in Interlingue is already today understood by all people in the world in international relations. And because none will search for words more international than the international words themselves, no one will make a proposition for a new international language project, after serious study of Interlingue, the only truly international language.
+ 
+Grammatica de Interlingue (English)
+Page Tools
+Insert links
+Insert links to other pages or uploaded files.
+Pages
+Images and files
+Insert a link to a new page
+ Loading...
+ No images or files uploaded yet.
+Insert image from URL
+Tip: To turn text into a link, highlight the text, then click on a page or file from the list above.
+        
+    Comments (0)
+      
+You don't have permission to comment on this page.
+Printable version
+ 
+PBworks  / Help
+Terms of use / Privacy policy / GDPR
+About this workspace
+Contact the owner /         RSS feed /     This workspace is public
+ 
+Join this workspace
+                          To join this workspace,
+              request access.            
+Already have an account? Log in!
+Navigator  
+Loading…
+ 
+ 
+SideBar  
+This is your Sidebar, which you can edit like any other page in your workspace.
+ 
+This Sidebar appears everywhere on your workspace. Add to it whatever you like -- a navigation section, a link to your favorite web sites, or anything else. 
+ 
+ 
+Recent Activity  
+      Show 0 new items
+Loading…
+ 
+ 

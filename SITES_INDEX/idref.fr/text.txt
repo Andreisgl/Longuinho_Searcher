@@ -1,0 +1,81 @@
+ 
+
+Ganda (langue)
+paprika.idref.fr
+data.idref.fr
+Documentation
+
+Bonjour ,
+Bienvenue sur IdRef, Identifiants et référentiels pour l'Enseignement supérieur et la Recherche.
+Ganda (langue)
+data.idref
+Export biblio
+Export XML
+Export RDF
+Améliorer la notice
+Signaler une erreur
+                  Identifiant pérenne de la notice : 027310884
+                     URI de l'entité :
+                     http://www.idref.fr/027310884/id
+Notice de type Rameau
+Point d'accès autorisé
+Ganda (langue)
+Variantes de point d'accès
+Louganda (langue)[Nom commun]
+Luganda (langue)[Nom commun]
+Oluganda (langue)[Nom commun]
+Informations
+Note publique d''information : Langue de l'OugandaNote générale sur le champ d'application : L'adjectif de langue correspondant est "ganda". Il est invariable
+Notices d'autorité liées 
+                         
+                         Langues bantoues
+Autre
+                         
+                         Chansons ganda - Voir aussi
+Autre
+                         
+                         Littérature ganda - Voir aussi
+Source
+Atlas of the world's languages / C. Moseley, R. E. Asher, 1994 : (Lu)ganda
+Ethnologue (15th ed.) - http://www.ethnologue.com (2007-05-15)
+Les langues dans le monde ancien et moderne / J. Perrot, 1981 : oluGanda
+Les langues du monde / A. Meillet, M. Cohen, 1981 : louganda
+Les langues du monde / M. Sala, I. Vintila-Radulescu, 1984
+Identifiants externes
+ Identifiant ARK BNF : http://catalogue.bnf.fr/ark:/12148/cb119380817
+Utilisation dans Rameau
+Le point d'accès ne peut être employé que dans un point d'accès sujet
+Le point d'accès ne peut s'employer qu'en élément initial
+Equivalent dans un autre référentiel
+Terme équivalent dans un autre système : Ganda (langue)
+Terme équivalent dans un autre système : Ganda language
+Informations sur la notice
+Identifiant de la notice : 027310884
+RCR créateur de la notice : 0004
+Date de création : 19-05-1983
+RCR dernier modificateur de la notice : 1999
+Date de dernière modification : 27-02-2020 à 11 h 31
+... Références liées : ...
+IdRef - Identifiants et Référentiels pour l'ESR
+L'interface publique IdRef permet la consultation des notices d'autorités produites par les établissements membres des réseaux documentaires de l'ESR (Sudoc, Calames, Star). 
+
+IdRef est à la disposition des usagers professionnels habilités à créer/corriger/enrichir les notices d'autorité (authentification requise). 
+A partir d'IdRef, une gamme de services (triple store data.idref.fr, entrepôt OAI-PMH, APIs) est disponible en accès libre pour faciliter la réutilisation des données.
+Pour les développeurs
+Documentation IdRef
+APIs et web services
+data.idref.fr
+OAI-PMH IdRef
+GitHub Abes
+Utilisation des données
+Libre et gratuite sous licence Etalab
+
+GitHub Etalab
+Assistance
+Guichet AbesSTP
+A propos |
+Partenaires |
+Données Personnelles |
+CGU |
+Mentions Légales |
+Accessibilité numérique

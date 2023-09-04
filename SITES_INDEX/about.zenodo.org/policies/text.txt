@@ -1,0 +1,82 @@
+Zenodo
+About
+About
+Blog
+Help
+Projects
+Developers
+About
+Privacy Policy
+Terms of Use
+General Policies
+Infrastructure
+Principles
+Roadmap
+Contact
+General Policies v1.0
+Content
+Scope: All fields of research.
+All types of research artifacts.
+Content must not violate privacy or copyright, or breach confidentiality or non-disclosure agreements for data collected from human subjects.
+Status of research data: Any status is accepted, from any stage of the research lifecycle.
+Eligible depositors: Anyone may register as user of Zenodo.
+All users are allowed to deposit content for which they possess the appropriate rights.
+Ownership: By uploading content, no change of ownership is implied and no property rights are transferred to CERN.
+All uploaded content remains the property of the parties prior to submission.
+Data file formats: All formats are allowed - even preservation unfriendly.
+We are working on guidelines and features that will help people deposit in preservation friendly formats.
+Volume and size limitations: Total files size limit per record is 50GB.
+Higher quotas can be requested and granted on a case-by-case basis.
+Data quality: All information is provided “as-is”, and the user shall hold Zenodo and information providers supplying data to Zenodo free and harmless in connection with the use of such information.
+Metadata types and sources: All metadata is stored internally in JSON-format according to a defined JSON schema. Metadata is exported in several standard formats such as MARCXML, Dublin Core, and DataCite Metadata Schema (according to the OpenAIRE Guidelines).
+Language: For textual items, English is preferred but all languages are accepted.
+Licenses: Users must specify a license for all publicly available files. Licenses for closed access files may be specified in the description field.
+Access and Reuse
+Access to data objects: Files may be deposited under closed, open, or embargoed access. Files deposited under closed access are protected against unauthorized access at all levels. Access to metadata and data files is provided over standard protocols such as HTTP and OAI-PMH.
+Use and re-use of data objects: Use and re-use is subject to the license under which the data objects were deposited.
+Embargo status: Users may deposit content under an embargo status and provide and end date for the embargo. The repository will restrict access to the data until the end of the embargo period; at which time, the content will become publically available automatically.
+Restricted Access: Users may deposit restricted files with the ability to share access with others if certain requirements are met.  These files will not be made publicly available and sharing will be made possible only by the approval of depositor of the original file.
+Metadata access and reuse: Metadata is licensed under CC0, except for email addresses. All metadata is exported via OAI-PMH and can be harvested.
+Removal
+Revocation: Content not considered to fall under the scope of the repository will be removed and associated DOIs issued by Zenodo revoked. Please signal promptly, ideally no later than 24 hours from upload, any suspected policy violation. Alternatively, content found to already have an external DOI will have the Zenodo DOI invalidated and the record updated to indicate the original external DOI. User access may be revoked on violation of Terms of Use.
+Withdrawal: If the uploaded research object must later be withdrawn, the reason for the withdrawal will be indicated on a tombstone page, which will henceforth be served in its place. Withdrawal is considered an exceptional action, which normally should be requested and fully justified by the original uploader. In any other circumstance reasonable attempts will be made to contact the original uploader to obtain consent. The DOI and the URL of the original object are retained.
+Longevity
+Versions: Data files are versioned.
+Records are not versioned.
+The uploaded data is archived as a Submission Information Package.
+Derivatives of data files are generated, but original content is never modified.
+Records can be retracted from public view; however, the data files and record are preserved.
+Replicas: All data files are stored in CERN Data Centres, primarily Geneva, with replicas in Budapest.
+Data files are kept in multiple replicas in a distributed file system, which is backed up to tape on a nightly basis.
+Retention period: Items will be retained for the lifetime of the repository. This is currently the lifetime of the host laboratory CERN, which currently has an experimental programme defined for the next 20 years at least.
+Functional preservation: Zenodo makes no promises of usability and understandability of deposited objects over time.
+File preservation: Data files and metadata are backed up nightly and replicated into multiple copies in the online system.
+Fixity and authenticity: All data files are stored along with a MD5 checksum of the file content. Files are regularly checked against their checksums to assure that file content remains constant.
+Succession plans: In case of closure of the repository, best efforts will be made to integrate all content into suitable alternative institutional and/or subject based repositories.
+About
+About
+Policies
+Infrastructure
+Principles
+Roadmap
+Projects
+Contract
+Blog
+Blog
+Help
+Overview
+FAQ
+Guides
+Support
+Developers
+REST API
+OAI-PMH
+Contribute
+ GitHub
+ Donate
+Funded by
+Status
+Privacy policy
+Terms of Use
+Support
+  Powered by CERN Data Centre & Invenio.

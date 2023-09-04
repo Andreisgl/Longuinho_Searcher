@@ -1,0 +1,422 @@
+            Glottolog 4.8 -
+            Danish
+        
+      Glottolog
+  
+Languages
+Families
+Language Search
+References
+Reference Search
+GlottoScope
+About
+htmlJSONRDF serialized as n3Newick formatRDF serialized as ntPhyloXMLRDF serialized as xmlSVG Classification TreeRDF serialized as turtle
+            Spoken L1 Language: Danish
+                Classification
+            
+open Danish
+expand all
+collapse all
+Comments on subclassification
+Oscar Bandle 1973: 110-111 
+                Endangerment
+            
+AES status:
+not endangered
+Source:
+David M. Eberhard and Gary F. Simons and Charles D. Fennig 2023
+Comment:
+Danish (dan-dan) = 1 (National). De facto national language.
+                    Glottocode:
+                     dani1285
+                    ISO 639-3:
+                     dan
+ 
+show big map
+                Links
+            
+ [dan] at ISO 639-3 [dan] at OLAC [dan] at IMTVault Danish at WALS Wikipedia PHOIBLE Wikidata
+                Alternative names
+            
+lexvo:
+                                An Danmhairgis
+                                    [ga]
+                            
+                                Bahasa Denmark
+                                    [id]
+                            
+                                Dan simi
+                                    [qu]
+                            
+                                Dan tili
+                                    [crh]
+                            
+                                Dana lingvo
+                                    [eo]
+                            
+                                Danca
+                                    [tr]
+                            
+                                Daneg
+                                    [br]
+                            
+                                Danek
+                                    [kw]
+                            
+                                Daniana linguo
+                                    [io]
+                            
+                                Daniera
+                                    [eu]
+                            
+                                Danimarka dili
+                                    [az]
+                            
+                                Danish
+                                    [en]
+                            
+                                Danish language
+                                    [en]
+                            
+                                Danois
+                                    [fr]
+                            
+                                Danouès
+                                    [frp]
+                            
+                                Dansk
+                                    [da]
+                            
+                                Dansk språk
+                                    [nn]
+                            
+                                Danska
+                                    [is]
+                            
+                                Danski jezik
+                                    [bs]
+                            
+                                Danskt mál
+                                    [fo]
+                            
+                                Danu kalba
+                                    [lt]
+                            
+                                Danvargish
+                                    [gv]
+                            
+                                Danès
+                                    [ca]
+                            
+                                Danés
+                                    [ast]
+                            
+                                Danšćina
+                                    [hsb]
+                            
+                                Danščina
+                                    [sl]
+                            
+                                Danų kalba
+                                    [lt]
+                            
+                                Deens
+                                    [af]
+                            
+                                Deensk
+                                    [fy]
+                            
+                                Denisc sprǣc
+                                    [ang]
+                            
+                                Dens leid
+                                    [sco]
+                            
+                                Dán nyelv
+                                    [hu]
+                            
+                                Dánskkagiella
+                                    [se]
+                            
+                                Dánčina
+                                    [sk]
+                            
+                                Dánština
+                                    [cs]
+                            
+                                Dänische Sprache
+                                    [de]
+                            
+                                Dänisk
+                                    [stq]
+                            
+                                Däänsche Spraak
+                                    [nds]
+                            
+                                Dāņu valoda
+                                    [lv]
+                            
+                                Gjuha daneze
+                                    [sq]
+                            
+                                Idioma danés
+                                    [an]
+                            
+                                IsiDenishi
+                                    [zu]
+                            
+                                Język duński
+                                    [pl]
+                            
+                                Kidenmark
+                                    [sw]
+                            
+                                Lenga danèisa
+                                    [pms]
+                            
+                                Limba daneză
+                                    [ro]
+                            
+                                Lingua Danica
+                                    [la]
+                            
+                                Lingua danese
+                                    [co]
+                            
+                                Lingua dinamarquesa
+                                    [gl]
+                            
+                                Lèngoa daneïse
+                                    [lij]
+                            
+                                Língua dinamarquesa
+                                    [pt]
+                            
+                                Qallunaatut
+                                    [kl]
+                            
+                                Taani keel
+                                    [et]
+                            
+                                Tanskan kieli
+                                    [fi]
+                            
+                                Tiếng Đan Mạch
+                                    [vi]
+                            
+                                Tok Denmak
+                                    [tpi]
+                            
+                                Zimanê danîmarkî
+                                    [ku]
+                            
+                                danois
+                                    [fr]
+                            
+                                Łéngua danéxe
+                                    [vec]
+                            
+                                Δανική γλώσσα
+                                    [el]
+                            
+                                Даниаг æвзаг
+                                    [os]
+                            
+                                Данмудн келн
+                                    [xal]
+                            
+                                Данонь кяль
+                                    [mdf]
+                            
+                                Дански јазик
+                                    [mk]
+                            
+                                Дански језик
+                                    [sr]
+                            
+                                Данська мова
+                                    [uk]
+                            
+                                Датски език
+                                    [bg]
+                            
+                                Датский язык
+                                    [ru]
+                            
+                                Датчан йылме
+                                    [mhr]
+                            
+                                Дацкая мова
+                                    [be]
+                            
+                                Забони даниягӣ
+                                    [tg]
+                            
+                                Դանիերեն
+                                    [hy]
+                            
+                                דנית
+                                    [he]
+                            
+                                دانىش تىلى
+                                    [ug]
+                            
+                                زبان دانمارکی
+                                    [fa]
+                            
+                                لغة دنماركية
+                                    [ar]
+                            
+                                डॅनिश भाषा
+                                    [mr]
+                            
+                                डेनिश भाषा
+                                    [hi]
+                            
+                                ডেনীয় ভাষা
+                                    [bn]
+                            
+                                டேனிய மொழி
+                                    [ta]
+                            
+                                ภาษาเดนมาร์ก
+                                    [th]
+                            
+                                დანიური ენა
+                                    [ka]
+                            
+                                デンマーク語
+                                    [ja]
+                            
+                                丹麦语
+                                    [zh]
+                            
+                                덴마크어
+                                    [ko]
+                            
+moseley & asher (1994):
+                                Danish
+                            
+multitree:
+                                Central Danish
+                            
+                                Danish
+                            
+                                Dansk
+                            
+                                Dänisch
+                            
+                                Sjaelland
+                            
+ruhlen (1987):
+                                Danish
+                            
+wals:
+                                Danish
+                            
+                Countries
+            
+                                    Germany [DE]
+                            
+                                    Denmark [DK]
+                            
+                                    Faroe Islands [FO]
+                            
+                                    Greenland [GL]
+                            
+            References
+            ⇫
+Details
+Name
+Title
+Any field
+ca
+Year
+Pages
+Doctype
+ca
+Provider
+da
+--any--
+unknown
+bibliographical
+ethnographic
+overview
+dialectology
+socling
+minimal
+comparative
+wordlist
+new_testament
+text
+phonology
+specific_feature
+dictionary
+grammar_sketch
+grammar
+--any--
+anla
+apics
+asjp2010
+autotyp
+bahasa
+benjamins
+bibliolux
+bowern
+degruyter
+dplace
+eballiso2009
+elcat
+elpub
+evobib
+fabreall2009ann
+gilbertese
+gj
+glossa
+goba
+grambank
+guldemann
+haspelmath
+hedvig-tirailleur
+hh
+iso6393
+jocp
+langsci
+lapolla-tibeto-burman
+ldh
+lewinmanx
+ludger-paschen-germanic
+marctang
+mpieva
+ofdn
+otomanguean
+ozbib
+phoible
+pulotu
+sala
+schikowski_chintang
+seifart
+sil16
+silpng
+sn
+stampe
+wals
+weball
+zorcpapers
+zurich
+Glottolog 4.8
+                            edited by
+                            
+                                Hammarström, Harald & Forkel, Robert & Haspelmath, Martin & Bank, Sebastian
+                           
+                            is licensed under a
+                            
+                                Creative Commons Attribution 4.0 International License.
+                        
+Privacy Policy
+Disclaimer
+ 
+                                Application source
+                                    (v4.6-12-g4773988)
+                                on
+×

@@ -1,0 +1,1397 @@
+instance of - Wikidata
+instance of
+(P31)
+From Wikidata
+Jump to navigation
+Jump to search
+that class of which this subject is a particular example and member; different from P279 (subclass of); for example: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)is ais anunique individual ofunitary element of classrdf:typetype∈example of
+Language
+Label
+Description
+Also known as
+English
+instance of
+that class of which this subject is a particular example and member; different from P279 (subclass of); for example: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)
+is ais anunique individual ofunitary element of classrdf:typetype∈example of
+Data type
+Item
+Statements
+instance of
+Wikidata property
+0 references
+Wikidata property for the relationship of the element to its class
+0 references
+fundamental Wikidata entity
+0 references
+value hierarchy property
+subclass of
+0 references
+Wikidata item of this property
+instance of
+0 references
+Wikidata usage instructions
+Usage instructions in English (English)
+quotation
+(subject typically an individual member with a proper name label); different from P279; using this property as a qualifier is deprecated—use P2868 or P3831 instead (English)
+described at URL
+https://www.wikidata.org/wiki/Help:Basic_membership_properties
+0 references
+以下のヘルプを参照してください (Japanese)
+described at URL
+https://www.wikidata.org/wiki/Help:Basic_membership_properties/ja
+0 references
+繁體中文用法說明 (Traditional Chinese)
+described at URL
+https://www.wikidata.org/wiki/Help:Basic_membership_properties/zh?uselang=zh-hant
+0 references
+Инструкции по использованию на русском языке (Russian)
+described at URL
+https://www.wikidata.org/wiki/Help:Basic_membership_properties/ru
+0 references
+简体中文用法说明 (Simplified Chinese)
+described at URL
+https://www.wikidata.org/wiki/Help:Basic_membership_properties/zh?uselang=zh-hans
+0 references
+Eigenschaften die Mitgliedschaft oder Teilhabe ausdrücken (German)
+described at URL
+https://www.wikidata.org/wiki/Help:Basic_membership_properties/de
+0 references
+Hướng dẫn sử dụng (Vietnamese)
+quotation
+(đối tượng thường là một thành viên có nhãn tên thích hợp); khác với P279; nhãn này không còn được dùng làm từ khu biệt nữa—hãy dùng P2868 hoặc P3831 (Vietnamese)
+0 references
+Wikidata property example
+Nelson Mandela
+instance of
+human
+0 references
+Gachalá Emerald
+instance of
+emerald
+0 references
+lists of communes of France
+instance of
+Wikimedia list article
+0 references
+electron
+instance of
+type of quantum particle
+0 references
+equivalent property
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+0 references
+http://d-nb.info/standards/elementset/gnd#broaderTermInstantial
+0 references
+inverse label item
+has instance
+0 references
+source website for the property
+http://www.w3.org/TR/rdf-schema/#ch_type
+language of work or name
+English
+0 references
+property usage tracking category
+Category:Pages using Wikidata property P31
+0 references
+category for value same as Wikidata
+Category tracking usage of P31 (instance of)
+0 references
+category for value not in Wikidata
+Q32764726
+0 references
+stability of property value
+sometimes changes / sometimes unstable identifier
+0 references
+related property
+subclass of
+0 references
+part of
+0 references
+property proposal discussion
+no value
+0 references
+DataTrek ID
+P14
+0 references
+FactGrid property ID
+P2
+0 references
+Wikibase World ID
+P3
+0 references
+Constraints
+property constraint
+allowed qualifiers constraint
+property
+of
+valid in period
+reason for deprecated rank
+criterion used
+end cause
+valid in place
+applies to part
+nature of statement
+quantity
+sourcing circumstances
+statement is subject of
+including
+statement disputed by
+statement supported by
+determination method
+object named as
+identity of subject in context
+relative to
+reason for preferred rank
+applies to jurisdiction
+applies to name of subject
+excluding
+statement is regarded as spoiler for
+point in time
+subject named as
+identity of object in context
+together with
+subject form
+subject sense
+country for sport
+start time
+end time
+start period
+end period
+latest date
+latest start date
+earliest date
+earliest end date
+definition domain
+codomain
+state of use
+series ordinal
+follows
+followed by
+replaces
+replaced by
+state of conservation
+object has role
+0 references
+none-of constraint
+item of property constraint
+art
+music
+replacement value
+work of art
+musical work
+0 references
+property scope constraint
+property scope
+as main value
+0 references
+contemporary constraint
+0 references
+one-of constraint
+item of property constraint
+human
+human settlement
+painting
+village
+family name
+film
+musical release
+building
+house
+taxon
+business
+scholarly article
+version, edition, or translation
+Wikimedia category
+individual animal
+media franchise
+musical work/composition
+literary work
+sculpture
+reason for deprecated rank
+constraint provides suggestions for manual input
+0 references
+allowed-entity-types constraint
+item of property constraint
+Wikibase item
+Wikibase property
+Wikibase lexeme
+Wikibase MediaInfo
+Wikibase form
+Wikibase sense
+constraint status
+mandatory constraint
+0 references
+none-of constraint
+item of property constraint
+property likely to be challenged
+property that may violate privacy
+constraint status
+mandatory constraint
+replacement property
+living people protection class
+constraint clarification
+Verwenden Sie P8274 anstelle von P31, um die Schutzklassen für lebende Personen für eine Eigenschaft festzulegen. (German)
+Use P8274 instead of P31 for specifying living people protection classes for a property. (English)
+0 references
+none-of constraint
+item of property constraint
+Wikimedia article page
+0 references
+none-of constraint
+item of property constraint
+Homo
+constraint status
+mandatory constraint
+replacement value
+human
+constraint clarification
+Nutze als Ersatz des Datenobjekts Q5 (Mensch). (German)
+Use Q5 (human) instead. (English)
+0 references
+none-of constraint
+item of property constraint
+woman
+female
+female character
+constraint status
+mandatory constraint
+replacement property
+sex or gender
+replacement value
+female
+constraint clarification
+Das Geschlecht wird über die Eigenschaft P21 spezifiziert. (German)
+Specify gender using P21 (sex or ender) (English)
+0 references
+none-of constraint
+item of property constraint
+man
+male
+male character
+constraint status
+mandatory constraint
+replacement property
+sex or gender
+replacement value
+male
+constraint clarification
+Das Geschlecht wird über die Eigenschaft P21 spezifiziert. (German)
+Specify gender using P21 (sex or ender) (English)
+0 references
+none-of constraint
+item of property constraint
+Commons category
+replacement value
+Wikimedia category
+constraint clarification
+Nutze stattdessen das Datenobjekt Q4167836 (Wikimedia-Kategorie). (German)
+Use Q4167836 (Wikimedia category) instead. (English)
+0 references
+none-of constraint
+item of property constraint
+item of collection or exhibition
+constraint clarification
+Weitere Informationen zu dieser Entscheidung sind auf der Diskussionsseite des Datenobjekt Q18593264 (Sammel- oder Ausstellungsstück) zu finden. (German)
+More information on this decision can be found on the talk page of the data object Q18593264 (item of collection or exhibition). (English)
+1 reference
+imported from Wikimedia project
+Wikidata
+Wikimedia import URL
+https://www.wikidata.org/wiki/Talk:Q18593264#instance_of_=_item_of_collection_or_exhibition
+retrieved
+10 May 2023
+none-of constraint
+item of property constraint
+Historical Monument
+monument historique classé
+monument historique inscrit
+constraint clarification
+Use heritage designation (P1435) instead (English)
+replacement property
+heritage designation
+0 references
+none-of constraint
+item of property constraint
+YouTuber
+video blogger
+podcaster
+Japanese idol
+replacement property
+occupation
+0 references
+none-of constraint
+item of property constraint
+video game developer
+replacement property
+occupation
+0 references
+none-of constraint
+item of property constraint
+VR video game
+console game
+PC game
+mobile game
+handheld video game
+fangame
+replacement value
+video game
+0 references
+none-of constraint
+item of property constraint
+audio podcast
+video podcast
+podcast
+podcasting
+replacement value
+podcast
+constraint clarification
+Use podcast (Q24634210) instead (English)
+0 references
+none-of constraint
+item of property constraint
+hero
+villain
+supervillain
+antihero
+superhero
+anti-villain
+replacement property
+character type
+0 references
+none-of constraint
+item of property constraint
+unseen character
+antagonist
+main antagonist
+protagonist
+supporting character
+main character
+minor character
+tritagonist
+replacement property
+narrative role
+0 references
+none-of constraint
+item of property constraint
+boss
+player character
+non-player character
+replacement property
+subject has role
+0 references
+none-of constraint
+item of property constraint
+pornographic film
+pornography
+replacement property
+genre
+0 references
+none-of constraint
+item of property constraint
+hentai
+visual novel
+eroge
+replacement property
+genre
+0 references
+none-of constraint
+item of property constraint
+josei
+shōjo
+children's anime and manga
+shōnen
+seinen
+replacement property
+intended public
+0 references
+none-of constraint
+item of property constraint
+entrepreneur
+digital marketer
+digital marketing consultant
+digital marketing expert
+0 references
+none-of constraint
+item of property constraint
+studio album
+compilation album
+soundtrack album
+live album
+compilation soundtrack album
+album musical
+cast album
+twofer compilation
+replacement property
+form of creative work
+replacement value
+album
+maintained by WikiProject
+WikiProject Music
+0 references
+none-of constraint
+item of property constraint
+mixtape
+street album
+remix album
+replacement property
+form of creative work
+replacement value
+album
+maintained by WikiProject
+WikiProject Music
+0 references
+none-of constraint
+item of property constraint
+Christmas-themed album
+debut album
+greatest hits album
+collaborative album
+B-sides compilation album
+double album
+tribute album
+instrumental album
+original soundtrack album
+concept album
+covers album
+replacement property
+has quality
+replacement value
+album
+maintained by WikiProject
+WikiProject Music
+0 references
+none-of constraint
+item of property constraint
+live video album
+music video compilation album
+visual album
+long-form video
+replacement property
+form of creative work
+replacement value
+video album
+maintained by WikiProject
+WikiProject Music
+0 references
+none-of constraint
+item of property constraint
+soundtrack
+film soundtrack
+television soundtrack
+film score
+cast recording
+replacement value
+musical work/composition
+maintained by WikiProject
+WikiProject Music
+0 references
+none-of constraint
+item of property constraint
+theme music
+film song
+replacement property
+has quality
+replacement value
+musical work/composition
+maintained by WikiProject
+WikiProject Music
+0 references
+none-of constraint
+item of property constraint
+prelude
+divertimento
+serenade
+rhapsody
+barcarolle
+oratorio
+chamber music
+symphonic poem
+fugue
+toccata
+romance
+music for the Requiem Mass
+canon
+contrafact
+fanfare
+polonaise
+fantasia
+prelude and fugue
+replacement property
+form of creative work
+replacement value
+musical work/composition
+maintained by WikiProject
+WikiProject Music
+constraint clarification
+Use musical work/composition (Q105543609) for P31, and use the value with P7937 (form of creative work) (English)
+0 references
+none-of constraint
+item of property constraint
+instrumental music
+instrumental solo piece
+replacement property
+form of creative work
+replacement value
+musical work/composition
+maintained by WikiProject
+WikiProject Music
+0 references
+none-of constraint
+item of property constraint
+madrigal
+recitative
+aria
+canticle
+replacement property
+form of creative work
+maintained by WikiProject
+WikiProject Music
+0 references
+none-of constraint
+item of property constraint
+duet
+trio
+quintet
+sextet
+septet
+octet
+nonet
+decet
+quartet
+replacement property
+form of creative work
+replacement value
+musical work/composition
+maintained by WikiProject
+WikiProject Music
+0 references
+none-of constraint
+item of property constraint
+cantata
+church cantata
+chorale cantata
+replacement property
+form of creative work
+replacement value
+musical work/composition
+maintained by WikiProject
+WikiProject Music
+0 references
+none-of constraint
+item of property constraint
+concerto
+double concerto
+bassoon concerto
+cello concerto
+violin concerto
+piano concerto
+viola concerto
+trumpet concerto
+horn concerto
+oboe concerto
+flute concerto
+concertino
+tuba concerto
+organ concerto
+concerto grosso
+concerto da Chiesa
+concerto da camera
+triple concerto
+concert piece
+solo concerto
+guitar concerto
+replacement property
+form of creative work
+replacement value
+musical work/composition
+maintained by WikiProject
+WikiProject Music
+constraint clarification
+Use musical work/composition (Q105543609) for P31, and use the specific concerto with P7937 (form of creative work) (English)
+0 references
+none-of constraint
+item of property constraint
+Lied
+art song
+mélodie
+replacement property
+form of creative work
+replacement value
+musical work/composition
+maintained by WikiProject
+WikiProject Music
+0 references
+none-of constraint
+item of property constraint
+visa
+replacement property
+genre
+replacement value
+musical work/composition
+0 references
+none-of constraint
+item of property constraint
+piano piece
+piano duet
+piano trio
+piano quartet
+piano solo
+piano quintet
+piano sextet
+replacement property
+form of creative work
+replacement value
+musical work/composition
+maintained by WikiProject
+WikiProject Music
+0 references
+none-of constraint
+item of property constraint
+sonata
+violin sonata
+piano sonata
+sonata da chiesa
+cello sonata
+clarinet sonata
+sonata for cello and piano
+trio sonata
+flute sonata
+sonatina
+replacement property
+form of creative work
+replacement value
+musical work/composition
+maintained by WikiProject
+WikiProject Music
+0 references
+none-of constraint
+item of property constraint
+overture
+concert overture
+replacement property
+form of creative work
+replacement value
+musical work/composition
+maintained by WikiProject
+WikiProject Music
+0 references
+none-of constraint
+item of property constraint
+string duo
+string trio
+string quartet
+string quintet
+string sextet
+string octet
+replacement property
+form of creative work
+replacement value
+musical work/composition
+maintained by WikiProject
+WikiProject Music
+0 references
+none-of constraint
+item of property constraint
+symphony
+choral symphony
+organ symphony
+sinfonietta
+replacement property
+form of creative work
+replacement value
+musical work/composition
+maintained by WikiProject
+WikiProject Music
+0 references
+none-of constraint
+item of property constraint
+suite
+orchestral suite
+partita
+replacement property
+form of creative work
+replacement value
+musical work/composition
+maintained by WikiProject
+WikiProject Music
+0 references
+none-of constraint
+item of property constraint
+waltz
+concert waltz
+replacement property
+form of creative work
+replacement value
+musical work/composition
+maintained by WikiProject
+WikiProject Music
+0 references
+none-of constraint
+item of property constraint
+march
+funeral march
+replacement property
+form of creative work
+replacement value
+musical work/composition
+maintained by WikiProject
+WikiProject Music
+0 references
+none-of constraint
+item of property constraint
+opera
+musical
+revue
+jukebox musical
+cabaret
+zarzuela
+Kabarett
+ballet
+replacement property
+form of creative work
+replacement value
+dramatico-musical work
+constraint clarification
+Use dramatico-musical work (Q58483083) for P31, and use the specific type with P7937 (form of creative work) (English)
+0 references
+none-of constraint
+item of property constraint
+rock musical
+opéra comique
+opéra bouffe
+opera buffa
+comic opera
+opéra bouffon
+pastoral opera
+singspiel
+Spieloper
+tragédie en musique
+opera seria
+vaudeville-opérette
+comédie en vaudevilles
+replacement property
+genre
+replacement value
+dramatico-musical work
+maintained by WikiProject
+WikiProject Music
+0 references
+none-of constraint
+item of property constraint
+Christmas-themed song
+jazz standard
+work song
+parody song
+protest song
+revolutionary song
+fight song
+anti-war song
+political song
+replacement property
+has quality
+replacement value
+musical work/composition
+maintained by WikiProject
+WikiProject Music
+0 references
+none-of constraint
+item of property constraint
+religious music
+choral music
+vocal music
+replacement property
+genre
+0 references
+none-of constraint
+item of property constraint
+official music video
+replacement property
+has quality
+0 references
+none-of constraint
+item of property constraint
+absence
+replacement property
+subclass of
+replacement value
+absence
+constraint clarification
+Use  P279 (subclass of) with qualifier P642 ("of"), or use P461 (opposite of) (English)
+0 references
+none-of constraint
+item of property constraint
+male
+female
+girl
+boy
+replacement property
+sex or gender
+0 references
+none-of constraint
+item of property constraint
+Holocaust victim
+replacement property
+significant event
+replacement value
+The Holocaust
+0 references
+none-of constraint
+item of property constraint
+radio edit
+replacement property
+has quality
+maintained by WikiProject
+WikiProject Music
+0 references
+none-of constraint
+item of property constraint
+remix
+replacement property
+has quality
+maintained by WikiProject
+WikiProject Music
+replacement value
+audio track
+0 references
+none-of constraint
+item of property constraint
+yaoi
+yuri
+replacement property
+genre
+0 references
+none-of constraint
+item of property constraint
+assault victim
+identity theft victim
+torture victim
+war crime victim
+terrorism victim
+cyber bullying victim
+hate crime victim
+sexual abuse victim
+rape victim
+kidnapping victim
+human trafficking victim
+homicide victim
+murder victim
+vigilantism victim
+arson victim
+hostage
+sex trafficking victim
+missing person
+crime victim
+replacement property
+significant event
+0 references
+none-of constraint
+item of property constraint
+Christian
+Catholic
+Muslim
+Jewish people
+Buddhist
+Hindu
+replacement property
+religion or worldview
+0 references
+none-of constraint
+item of property constraint
+encyclopedia
+replacement property
+genre
+0 references
+none-of constraint
+item of property constraint
+oil painting
+oil painting
+replacement value
+painting
+constraint clarification
+complete with value in property "made from material" (P186) (English)
+0 references
+none-of constraint
+constraint clarification
+for musicians, use P31=Q5 and P106=musician; for groups and bands, use applicable P31 (English)
+item of property constraint
+musician
+replacement property
+occupation
+0 references
+none-of constraint
+item of property constraint
+silent character
+replacement property
+narrative role
+0 references
+none-of constraint
+item of property constraint
+entity
+constraint clarification
+Bitte verwenden Sie eine spezifischere Klasse. (German)
+Please use a more-specific class (English)
+maintained by WikiProject
+WikiProject Ontology
+0 references
+none-of constraint
+item of property constraint
+fictional character
+fictional entity
+location in a fictional work
+fictional location
+constraint status
+mandatory constraint
+constraint clarification
+Dieses Datenobjekte sind zu weit gefasst, versuchen Sie daher, eine spezifischere Unterklasse zu finden. (German)
+Too broad, try and find a more specific subclass (English)
+Valores demasiado amplios. Trate de encontrar una subclase más específica. (Spanish)
+0 references
+none-of constraint
+item of property constraint
+dance
+folk dance
+replacement value
+type of dance
+0 references
+none-of constraint
+item of property constraint
+musical work
+composed musical work
+maintained by WikiProject
+WikiProject Music
+replacement value
+musical work/composition
+constraint clarification
+"musical work" and "musical composition" mean the same thing so we just use "musical work/composition". The reason they are still separate items is because we can't merge them due to some Wikipedias still having articles for each. (English)
+0 references
+none-of constraint
+item of property constraint
+county seat
+state or insular area capital of the United States
+state capital in Germany
+provincial or territorial capital city in Canada
+capital city
+maintained by WikiProject
+WikiProject Cities
+replacement property
+capital of
+0 references
+none-of constraint
+item of property constraint
+episode
+constraint clarification
+Too unspecific (English)
+0 references
+none-of constraint
+item of property constraint
+mass shooting in the United States
+replacement value
+mass shooting
+0 references
+none-of constraint
+item of property constraint
+terrorism
+replacement value
+terrorist attack
+0 references
+none-of constraint
+item of property constraint
+domestic terrorism
+replacement value
+domestic terrorist attack
+0 references
+none-of constraint
+item of property constraint
+video game company
+replacement value
+video game developer
+video game publisher
+0 references
+none-of constraint
+item of property constraint
+work
+constraint clarification
+Zu weit gefasst, versuchen Sie, eine spezifischere Unterklasse zu finden. (German)
+Too broad, try finding a more specific subclass. (English)
+Trop large, essayez de trouver une sous-classe plus spécifique. (French)
+0 references
+value-requires-statement constraint
+property
+subclass of
+exception to constraint
+entity
+0 references
+none-of constraint
+item of property constraint
+fictional animal character
+anthropomorphic animal
+anthropomorphic character
+0 references
+none-of constraint
+item of property constraint
+municipal monument in the Netherlands
+replacement property
+heritage designation
+0 references
+none-of constraint
+item of property constraint
+location
+replacement value
+physical location
+virtual place
+location in a fictional work
+0 references
+allowed qualifiers constraint
+property
+writing system
+constraint scope
+Wikibase form
+0 references
+none-of constraint
+item of property constraint
+fictional soldier
+replacement value
+soldier
+replacement property
+occupation
+constraint clarification
+Specify occupation using P106 (occupation) and use the item for the real occupation (English)
+0 references
+none-of constraint
+item of property constraint
+public art
+roundabout art
+replacement property
+genre
+constraint clarification
+"public art" is used with P136 (genre). Use artwork classes, e.g. sculpture, statue, painting, installation for P31. (English)
+0 references
+none-of constraint
+item of property constraint
+former commune of France
+constraint status
+mandatory constraint
+constraint clarification
+use qualifer "end time" (P582) on P31 value "commune of France" (English)
+0 references
+none-of constraint
+item of property constraint
+Pokémon species
+constraint clarification
+Pokémon should not be made direct instances of Q3966183 but should instead be instances of elemental type Pokémon (example: Q25930495) (English)
+0 references
+none-of constraint
+item of property constraint
+book
+constraint clarification
+use "literary work", "written work" or "edition" instead (English)
+replacement value
+literary work
+version, edition, or translation
+written work
+0 references
+none-of constraint
+item of property constraint
+transitive verb
+intransitive verb
+pseudo-transitive verb
+ergative verb
+ambitransitive verb
+replacement property
+transitivity
+0 references
+none-of constraint
+item of property constraint
+indie game
+platform game
+first-person shooter
+third-person shooter
+2D platform game
+3D platform game
+puzzle video game
+massively multiplayer online role-playing game
+advergame
+replacement property
+genre
+0 references
+none-of constraint
+item of property constraint
+twin
+sibling
+mother
+father
+child
+constraint clarification
+Please mark the relationship this person has with their twin using P3373 with qualifier P1039. (English)
+P3373 と修飾子 P1039 を使用して、この人と双子の関係をマークしてください。 (Japanese)
+0 references
+none-of constraint
+item of property constraint
+visual arts
+constraint clarification
+use a more specific class (English)
+より具体的なクラスを使用する (Japanese)
+constraint status
+suggestion constraint
+0 references
+none-of constraint
+item of property constraint
+dōjinshi
+replacement property
+genre
+0 references
+none-of constraint
+item of property constraint
+religious sculpture as genre
+replacement value
+religious sculpture as object
+0 references
+none-of constraint
+item of property constraint
+art
+art
+arts
+replacement value
+art genre
+art movement
+art style
+artistic technique
+artistic theme
+type of arts
+aspect in a geographic region
+aspect in a historical period
+aspect by ethnic group
+work of art
+0 references
+none-of constraint
+item of property constraint
+visual arts
+replacement value
+visual artwork
+0 references
+none-of constraint
+item of property constraint
+performing arts
+replacement value
+performance work
+0 references
+none-of constraint
+item of property constraint
+literature
+replacement value
+literary work
+0 references
+none-of constraint
+item of property constraint
+religious art
+replacement value
+religious work of art
+0 references
+none-of constraint
+item of property constraint
+textile art
+replacement value
+textile artwork
+0 references
+none-of constraint
+item of property constraint
+performance art
+replacement value
+performance artwork
+0 references
+none-of constraint
+item of property constraint
+video art
+replacement value
+video artwork
+0 references
+none-of constraint
+item of property constraint
+environmental art
+replacement value
+environmental artwork
+0 references
+none-of constraint
+item of property constraint
+photography
+replacement value
+photograph
+photographic work
+0 references
+none-of constraint
+item of property constraint
+interactive art
+replacement value
+interactive artwork
+0 references
+none-of constraint
+item of property constraint
+art of painting
+replacement value
+painting
+constraint clarification
+paintings are a product, not an activity (English)
+0 references
+none-of constraint
+item of property constraint
+art of sculpture
+sculpture
+replacement value
+sculpture
+0 references
+none-of constraint
+item of property constraint
+art of drawing
+replacement value
+drawing
+0 references
+none-of constraint
+item of property constraint
+album reissue
+replacement property
+has quality
+0 references
+none-of constraint
+item of property constraint
+remix single
+replacement property
+form of creative work
+0 references
+none-of constraint
+item of property constraint
+video game controversies
+replacement value
+controversy
+0 references
+none-of constraint
+item of property constraint
+Mario franchise enemy
+replacement value
+antagonist
+property
+narrative role
+0 references
+none-of constraint
+item of property constraint
+woodcarving
+replacement value
+woodwork
+0 references
+none-of constraint
+item of property constraint
+woodcarving
+replacement property
+genre
+0 references
+none-of constraint
+item of property constraint
+public street lighting‎
+replacement value
+streetlight
+0 references
+none-of constraint
+item of property constraint
+statement
+replacement value
+declarative sentence
+proposition
+message
+declaration
+declaration
+assertion
+saying
+constraint clarification
+Q2684591 (statement) is ambiguous. (English)
+constraint status
+suggestion constraint
+0 references
+none-of constraint
+item of property constraint
+system
+replacement value
+natural system
+technical system
+physical system
+conceptual system
+continuous system
+discrete system
+social system
+engineered physical system
+constraint status
+suggestion constraint
+constraint clarification
+Use a more specific class or classes if possible. (English)
+0 references
+none-of constraint
+item of property constraint
+tree
+replacement value
+remarkable tree
+constraint clarification
+Use Q811534 for individual trees instead. (English)
+0 references
+none-of constraint
+item of property constraint
+fictional empire
+fictional kingdom
+fictional republic
+fictional dictatorship
+replacement value
+fictional country
+constraint status
+suggestion constraint
+constraint clarification
+Use P122 for the form of government: monarchy, republic... (English)
+0 references
+none-of constraint
+item of property constraint
+color photography
+0 references
+none-of constraint
+item of property constraint
+coastal defence and fortification
+replacement value
+fort
+constraint clarification
+replaced item refers to operations and doctrine, not physical forts (English)
+0 references
+none-of constraint
+item of property constraint
+foundation
+stichting
+non-profit organisation
+replacement value
+organization
+constraint clarification
+Use Q43229 instead, and use foundation, etc. with P1454 (English)
+0 references
+Retrieved from "https://www.wikidata.org/w/index.php?title=Property:P31&oldid=1967539207"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+PropertyDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Download as PDFPrintable version
+ This page was last edited on 3 September 2023, at 18:11.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

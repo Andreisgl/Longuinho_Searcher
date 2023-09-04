@@ -1,0 +1,678 @@
+4 Vesta - Wikidata
+4 Vesta
+(Q3030)
+From Wikidata
+Jump to navigation
+Jump to search
+second largest asteroid of the main asteroid belt(4) VestaVestaasteroid Vesta
+edit
+Language
+Label
+Description
+Also known as
+English
+4 Vesta
+second largest asteroid of the main asteroid belt
+(4) VestaVestaasteroid Vesta
+Statements
+instance of
+asteroid
+1 reference
+stated in
+JPL Small-Body Database
+JPL Small-Body Database SPK-ID
+2000004
+retrieved
+21 January 2014
+image
+Dawn-image-070911.jpg400 × 400; 33 KB
+media legend
+4 Vesta o'r cerbyd ofod ''Dawn'' ar 9 Gorffennaf, 2011 (Welsh)
+0 references
+video
+Vesta Rotation.gif345 × 345; 5.34 MB
+0 references
+mass
+2,590.76±0.01 exagram
+1 reference
+DOI
+10.1126/SCIENCE.1219381
+named after
+Vesta
+2 references
+reference URL
+http://www.minorplanetcenter.net/iau/lists/MPNames.html
+language of work or name
+English
+publication date
+17 January 2014
+publisher
+Minor Planet Center
+title
+Minor Planet Names: Alphabetical List (English)
+stated in
+Dictionary of Minor Planet Names (Sixth Revised and Enlarged Edition)
+page(s)
+13
+follows
+3 Juno
+1 reference
+reference URL
+http://www.minorplanetcenter.net/iau/lists/MPNames.html
+language of work or name
+English
+publication date
+17 January 2014
+publisher
+Minor Planet Center
+title
+Minor Planet Names: Alphabetical List (English)
+followed by
+5 Astraea
+1 reference
+reference URL
+http://www.minorplanetcenter.net/iau/lists/MPNames.html
+language of work or name
+English
+publication date
+17 January 2014
+publisher
+Minor Planet Center
+title
+Minor Planet Names: Alphabetical List (English)
+significant event
+naming
+0 references
+discoverer or inventor
+Heinrich Wilhelm Olbers
+1 reference
+stated in
+JPL Small-Body Database
+JPL Small-Body Database SPK-ID
+2000004
+retrieved
+21 January 2014
+time of discovery or invention
+29 March 1807Gregorian
+2 references
+stated in
+JPL Small-Body Database
+JPL Small-Body Database SPK-ID
+2000004
+retrieved
+21 January 2014
+stated in
+JPL Small-Body Database
+site of astronomical discovery
+Bremen
+0 references
+minor planet group
+asteroid belt
+1 reference
+stated in
+JPL Small-Body Database
+JPL Small-Body Database SPK-ID
+2000004
+retrieved
+21 January 2014
+parent astronomical body
+Sun
+0 references
+apoapsis
+2.571730930812±0.000000001335 astronomical unit
+1 reference
+stated in
+JPL Small-Body Database
+JPL Small-Body Database SPK-ID
+2000004
+retrieved
+20 October 2015
+periapsis
+2.15209537061275±0.000000023879 astronomical unit
+1 reference
+stated in
+JPL Small-Body Database
+JPL Small-Body Database SPK-ID
+2000004
+retrieved
+20 October 2015
+argument of periapsis
+151.1885040095781±0.0000075781 degree
+1 reference
+stated in
+JPL Small-Body Database
+JPL Small-Body Database SPK-ID
+2000004
+retrieved
+22 October 2015
+orbital eccentricity
+0.08906673774017462±0.000000010292
+1 reference
+stated in
+JPL Small-Body Database
+JPL Small-Body Database SPK-ID
+2000004
+retrieved
+8 October 2016
+orbital inclination
+7.14009592261772±0.0000014092 degree
+relative to
+ecliptic
+1 reference
+stated in
+JPL Small-Body Database
+JPL Small-Body Database SPK-ID
+2000004
+retrieved
+20 October 2015
+5.56 degree
+relative to
+invariable plane
+1 reference
+imported from Wikimedia project
+English Wikipedia
+orbital period
+1,325.84975662254±0.0000010324 day
+1 reference
+stated in
+JPL Small-Body Database
+JPL Small-Body Database SPK-ID
+2000004
+retrieved
+20 October 2015
+rotation period
+5.342±0.001 hour
+1 reference
+stated in
+JPL Small-Body Database
+JPL Small-Body Database SPK-ID
+2000004
+retrieved
+20 October 2015
+semi-major axis of an orbit
+2.36191315071237±0.0000000012261 astronomical unit
+1 reference
+stated in
+JPL Small-Body Database
+JPL Small-Body Database SPK-ID
+2000004
+retrieved
+20 October 2015
+longitude of ascending node
+103.849635131052±0.0000027664 degree
+1 reference
+stated in
+JPL Small-Body Database
+JPL Small-Body Database SPK-ID
+2000004
+retrieved
+20 October 2015
+mean anomaly
+75.17267586111595±0.0000054951 degree
+point in time
+27 June 2015
+1 reference
+stated in
+JPL Small-Body Database
+JPL Small-Body Database SPK-ID
+2000004
+retrieved
+22 November 2015
+asteroid family
+Vesta family
+0 references
+asteroid spectral type
+V-type asteroid
+asteroid taxonomy
+Tholen classification
+SMASS classification
+1 reference
+stated in
+JPL Small-Body Database
+JPL Small-Body Database SPK-ID
+2000004
+retrieved
+21 January 2014
+apparent magnitude
+5.1
+astronomical filter
+V band
+1 reference
+ISBN-13
+978-0-395-34835-2
+absolute magnitude
+3.2
+1 reference
+stated in
+JPL Small-Body Database
+JPL Small-Body Database SPK-ID
+2000004
+retrieved
+20 October 2015
+albedo
+0.4228
+criterion used
+geometric albedo
+1 reference
+imported from Wikimedia project
+French Wikipedia
+Wikimedia import URL
+https://fr.wikipedia.org/w/index.php?title=(4)_Vesta&oldid=149259096
+density
+3.456±0.035 gram per cubic centimetre
+1 reference
+imported from Wikimedia project
+Russian Wikipedia
+temperature
+85 kelvin
+applies to part
+minimum
+1 reference
+reference URL
+http://www.esa.int/esapub/bulletin/bullet108/chapter4_bul108.pdf
+270 kelvin
+applies to part
+maximum
+1 reference
+reference URL
+http://www.esa.int/esapub/bulletin/bullet108/chapter4_bul108.pdf
+length
+572.6±0.2 kilometre
+1 reference
+DOI
+10.1126/SCIENCE.1219381
+width
+557.2±0.2 kilometre
+1 reference
+DOI
+10.1126/SCIENCE.1219381
+height
+446.4±0.2 kilometre
+1 reference
+DOI
+10.1126/SCIENCE.1219381
+area
+866,000±20,000 square kilometre
+1 reference
+imported from Wikimedia project
+English Wikipedia
+volume as quantity
+74,600,000±3,000,000 cubic kilometre
+1 reference
+imported from Wikimedia project
+English Wikipedia
+radius
+262.7±0.1 kilometre
+applies to part
+geometric mean
+1 reference
+imported from Wikimedia project
+English Wikipedia
+diameter
+525.4±0.2 kilometre
+1 reference
+reference URL
+https://dx.doi.org/10.1126%2Fscience.1219381
+astronomic symbol image
+Vesta symbol (fixed width).svg15 × 15; 3 KB
+1 reference
+stated in
+Effemeridi astronomiche di Milano per l'anno 1809
+page(s)
+100
+reference URL
+http://books.google.com/books?id=LPMNAAAAQAAJ&pg=PA100
+3D model
+Asteroid Vesta Globe-whole.stl5,120 × 2,880; 38.15 MB
+0 references
+described by source
+Ottův slovník naučný
+statement is subject of
+Vesta (planetoid)
+0 references
+Great Soviet Encyclopedia (1926–1947)
+statement is subject of
+Q29110137
+0 references
+Brockhaus and Efron Encyclopedic Dictionary
+statement is subject of
+Q24360853
+0 references
+surface gravity
+0.22 metre per square second
+determination method
+estimate
+1 reference
+imported from Wikimedia project
+French Wikipedia
+Unicode character
+⚶
+1 reference
+reference URL
+http://www.unicode.org/charts/PDF/U2600.pdf
+language of work or name
+English
+retrieved
+21 January 2014
+publisher
+Unicode Consortium
+page(s)
+6
+title
+The Unicode Standard, Version 6.3: Miscellaneous Symbols (English)
+Commons gallery
+(4) Vesta
+0 references
+Commons category
+Vesta (asteroid)
+0 references
+topic's main category
+Category:4 Vesta
+1 reference
+imported from Wikimedia project
+Swedish Wikipedia
+Identifiers
+VIAF ID
+131724020
+1 reference
+stated in
+Virtual International Authority File
+GND ID
+4707455-3
+1 reference
+stated in
+Gemeinsame Normdatei
+National Library of Israel J9U ID
+987007544525305171
+1 reference
+stated in
+National Library of Israel Names and Subjects Authority File
+Library of Congress authority ID
+sh2001006609
+1 reference
+reference URL
+https://github.com/JohnMarkOckerbloom/ftl/blob/master/data/wikimap
+retrieved
+3 April 2019
+BabelNet ID
+00079867n
+0 references
+Den Store Danske ID
+Vesta_-_asteroide
+0 references
+Encyclopædia Britannica Online ID
+place/Vesta-asteroid
+0 references
+Freebase ID
+/m/0cpzb
+1 reference
+stated in
+Freebase Data Dumps
+publication date
+28 October 2013
+Great Russian Encyclopedia Online ID (old version)
+1910644
+subject named as
+ВЕСТА
+0 references
+Interlingual Index ID
+i86390
+0 references
+JPL Small-Body Database SPK-ID
+2000004
+0 references
+Minor Planet Center body ID
+4
+0 references
+NAIF ID
+2000004
+1 reference
+reference URL
+https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/C/req/naif_ids.html
+ScienceDirect topic ID
+earth-and-planetary-sciences/vesta-asteroid
+0 references
+physics-and-astronomy/vesta-asteroid
+0 references
+Store norske leksikon ID
+Vesta_-_astronomi
+0 references
+Wolfram Language entity code
+Entity["MinorPlanet", "Vesta"]
+0 references
+ 
+Sitelinks
+Wikipedia(92 entries)
+edit
+afwiki
+4 Vesta
+alswiki
+(4) Vesta
+arwiki
+4 فيستا
+arzwiki
+4 فيستا (كويكب)
+astwiki
+4 Vesta
+azwiki
+(4) Vesta
+be_x_oldwiki
+Вэста (астэроід)
+bewiki
+(4) Веста
+bgwiki
+4 Веста
+brwiki
+(4) Vesta
+cawiki
+(4) Vesta
+cewiki
+(4) Веста
+ckbwiki
+ڤێستا ٤ (ھەسارۆکە)
+cswiki
+Vesta (planetka)
+cuwiki
+4 Вєста
+cywiki
+4 Vesta
+dawiki
+(4) Vesta
+dewiki
+(4) Vesta
+elwiki
+4 Εστία
+enwiki
+4 Vesta
+eowiki
+4 Vesta
+eswiki
+(4) Vesta
+etwiki
+4 Vesta
+euwiki
+4 Vesta
+fawiki
+۴ وستا
+fiwiki
+4 Vesta
+frwiki
+(4) Vesta
+gawiki
+Veiste
+glwiki
+4 Vesta
+hewiki
+וסטה (אסטרואיד)
+hiwiki
+वॅस्टा (क्षुद्रग्रह)
+hrwiki
+4 Vesta
+huwiki
+4 Vesta
+hywiki
+(4) Վեստա
+iawiki
+4 Vesta
+idwiki
+4 Vesta
+iowiki
+Vesta
+itwiki
+4 Vesta
+jawiki
+ベスタ (小惑星)
+jvwiki
+4 Vesta
+kawiki
+4 ვესტა
+kcgwiki
+Va̱si̱ta
+kkwiki
+(4) Веста
+kmwiki
+រិសថា
+kowiki
+4 베스타
+kvwiki
+Веста
+lawiki
+4 Vesta
+lbwiki
+(4) Vesta
+lfnwiki
+4 Vesta
+liwiki
+Vesta (planetoïde)
+lmowiki
+Vesta (corp celest)
+ltwiki
+Vesta (asteroidas)
+lvwiki
+4 Vesta
+mkwiki
+4 Веста
+mlwiki
+വെസ്റ്റ
+mznwiki
+سیارک ۴
+ndswiki
+(4) Vesta
+nlwiki
+Vesta (planetoïde)
+nnwiki
+4 Vesta
+nowiki
+4 Vesta
+ocwiki
+(4) Vesta
+plwiki
+(4) Westa
+pnbwiki
+4 ویسٹا
+ptwiki
+4 Vesta
+rowiki
+4 Vesta
+ruwiki
+(4) Веста
+scnwiki
+Vesta
+scowiki
+4 Vesta
+shwiki
+4 Vesta
+simplewiki
+4 Vesta
+skwiki
+4 Vesta
+slwiki
+4 Vesta
+sqwiki
+Asteroidi Vesta
+srwiki
+4 Веста
+suwiki
+4 Vesta
+svwiki
+4 Vesta
+tawiki
+4 வெஸ்டா
+tgwiki
+(4) Веста
+thwiki
+4 เวสตา
+tlwiki
+4 Vesta
+trwiki
+Vesta (asteroit)
+ttwiki
+(4) Веста
+ukwiki
+4 Веста
+uzwiki
+Vesta
+viwiki
+4 Vesta
+warwiki
+4 Vesta
+wuuwiki
+灶神星
+xmfwiki
+4 ვესტა
+zh_classicalwiki
+竈神星
+zh_min_nanwiki
+4 Vesta
+zh_yuewiki
+灶神星
+zhwiki
+灶神星
+Wikibooks(0 entries)
+edit
+Wikinews(0 entries)
+edit
+Wikiquote(0 entries)
+edit
+Wikisource(0 entries)
+edit
+Wikiversity(0 entries)
+edit
+Wikivoyage(0 entries)
+edit
+Wiktionary(0 entries)
+edit
+Multilingual sites(1 entry)
+edit
+commonswiki
+(4) Vesta
+Retrieved from "https://www.wikidata.org/w/index.php?title=Q3030&oldid=1965306221"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+ItemDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 31 August 2023, at 11:00.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

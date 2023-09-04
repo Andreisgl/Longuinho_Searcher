@@ -1,0 +1,573 @@
+Blog:FANDOM Staff Blog | Community Central | Fandom
+Community CentralWhether you're celebrating your passions in person or within the digital realm, there's something undeniably magical about sharing your fervor with others who harbor the same love. Learn more about the power of community and the joy of conventions! 
+READ MORE 
+Community Central
+ Explore
+ 
+ Main Page
+ Discuss
+All Pages
+Interactive Maps
+Recent Blog Posts
+Get Started With Fandom
+ 
+Your First Steps on Fandom
+ 
+Signing Up & Personalizing
+Contributing to Wikis
+Discussing Fandoms
+Latest Advice from Stars & Staff
+Your Next Steps on Fandom
+ 
+Contributors & Editors
+ 
+Basics: Formatting An Article
+Organize/Structure Articles
+Make Articles More Exciting
+Wiki Founders And Admins
+ 
+I founded a new wiki - what now?
+Content added, what now?
+Who Worked On What? Any Feeds?
+How To Make New Infoboxes?
+Latest Advice from Stars & Staff
+Becoming a Power User
+ 
+Contributors & Editors
+ 
+Learn the MediaWiki Markup - Wikitext!
+When Is It Enough Information?
+Thank Others You Work With!
+Wiki Founders And Admins
+ 
+My Wiki Is Not Gaining Any Views!
+Technical Matters
+ 
+DynamicPageLists On Fandom
+Using Lua On Fandom
+Contributing to Dev Wiki
+Guideline to Using Bots On Fandom
+Latest Advice from Stars & Staff
+Becoming a Comm. Mentor
+ 
+Essentials
+Supplement Advice (Very Advanced)
+Community Programs
+Fandom Discord Events
+I need help
+ 
+Connect with the community
+ 
+Join Our Wiki Contributor Discord
+Visit Community Forums
+ 
+Wiki Editor Advice & First Steps
+Technical Advice & Coding Help
+Wiki Design & SEO Advice
+Wiki & Community Managment Advice
+Wiki Introductions & Accomplishments
+I Want to Become An Admin
+ 
+I Want to Request Adopting A Wiki
+I Want to Extend My Adoption Trial
+Is There Advice For Admins?
+My Wiki Was Vandalized
+ 
+Report spam
+Report vandalism
+Report wikis
+Spam filter problems
+My Discussions Keep Getting Vandalized
+I Need Something For My Wiki
+ 
+Connect My Wiki to Other Languages
+Change features
+Account or User Problems
+ 
+Rename account
+User issues
+Using Fandom
+Why am I blocked?
+Feedback/Bug Reports
+ 
+Report bug
+Offer feedback
+I want to learn
+ 
+FAQ
+ 
+Changing my username
+Templates 
+Infoboxes
+Color
+Editing 
+Theme designer
+Browse All Topics
+Contributing / Editing
+Design & Accessibility
+Personalization & Mobile Apps
+Advanced Technical Documentation
+Community & Wiki Management
+Around Fandom
+ 
+Fandom News
+ 
+Product Updates
+Technical Updates
+Diversity, Equity, and Inclusion
+Fandom Program Updates
+Fandom Policy Updates
+Company Updates
+All Staff Blogs
+How to Engage With Others Here
+ 
+Learn About the Wiki Philosophy
+General Rules to Follow
+Forum Rules
+Profile Page Rules
+LGBTQIA+ Inclusion
+Explore Community Programs
+Meet the Staff
+ 
+Fandom Community Staff Team
+Wiki Team
+Community Volunteers
+ 
+ 
+ 
+ FANDOM
+ 
+Fan Central
+BETA
+Games
+Anime
+Movies
+TV
+Video
+Wikis
+Explore Wikis
+Community Central
+ 
+Start a Wiki
+ 
+Don't have an account?
+Register
+Sign In 
+Advertisement
+Sign In
+Register
+Community Central
+33,635pages 
+ 
+ 
+ 
+ Explore
+ 
+ Main Page
+ Discuss
+All Pages
+Interactive Maps
+Recent Blog Posts
+Get Started With Fandom
+ 
+Your First Steps on Fandom
+ 
+Signing Up & Personalizing
+Contributing to Wikis
+Discussing Fandoms
+Latest Advice from Stars & Staff
+Your Next Steps on Fandom
+ 
+Contributors & Editors
+ 
+Basics: Formatting An Article
+Organize/Structure Articles
+Make Articles More Exciting
+Wiki Founders And Admins
+ 
+I founded a new wiki - what now?
+Content added, what now?
+Who Worked On What? Any Feeds?
+How To Make New Infoboxes?
+Latest Advice from Stars & Staff
+Becoming a Power User
+ 
+Contributors & Editors
+ 
+Learn the MediaWiki Markup - Wikitext!
+When Is It Enough Information?
+Thank Others You Work With!
+Wiki Founders And Admins
+ 
+My Wiki Is Not Gaining Any Views!
+Technical Matters
+ 
+DynamicPageLists On Fandom
+Using Lua On Fandom
+Contributing to Dev Wiki
+Guideline to Using Bots On Fandom
+Latest Advice from Stars & Staff
+Becoming a Comm. Mentor
+ 
+Essentials
+Supplement Advice (Very Advanced)
+Community Programs
+Fandom Discord Events
+I need help
+ 
+Connect with the community
+ 
+Join Our Wiki Contributor Discord
+Visit Community Forums
+ 
+Wiki Editor Advice & First Steps
+Technical Advice & Coding Help
+Wiki Design & SEO Advice
+Wiki & Community Managment Advice
+Wiki Introductions & Accomplishments
+I Want to Become An Admin
+ 
+I Want to Request Adopting A Wiki
+I Want to Extend My Adoption Trial
+Is There Advice For Admins?
+My Wiki Was Vandalized
+ 
+Report spam
+Report vandalism
+Report wikis
+Spam filter problems
+My Discussions Keep Getting Vandalized
+I Need Something For My Wiki
+ 
+Connect My Wiki to Other Languages
+Change features
+Account or User Problems
+ 
+Rename account
+User issues
+Using Fandom
+Why am I blocked?
+Feedback/Bug Reports
+ 
+Report bug
+Offer feedback
+I want to learn
+ 
+FAQ
+ 
+Changing my username
+Templates 
+Infoboxes
+Color
+Editing 
+Theme designer
+Browse All Topics
+Contributing / Editing
+Design & Accessibility
+Personalization & Mobile Apps
+Advanced Technical Documentation
+Community & Wiki Management
+Around Fandom
+ 
+Fandom News
+ 
+Product Updates
+Technical Updates
+Diversity, Equity, and Inclusion
+Fandom Program Updates
+Fandom Policy Updates
+Company Updates
+All Staff Blogs
+How to Engage With Others Here
+ 
+Learn About the Wiki Philosophy
+General Rules to Follow
+Forum Rules
+Profile Page Rules
+LGBTQIA+ Inclusion
+Explore Community Programs
+Meet the Staff
+ 
+Fandom Community Staff Team
+Wiki Team
+Community Volunteers
+ 
+in:
+Blog posts 
+FANDOM Staff Blog
+Blog posts
+899 posts
+Brandon Rhea
+ • 
+9 days ago
+ 60
+Technical Updates: August 25, 2023
+Hey everyone! Check out the latest Technical Updates since
+August 11th. We’ll continue to update the editor community on bug
+fixes and product development updates on a bi-weekly basis!
+In this update, we go into a couple of deep dives – the first
+one is about an upcoming change to the global navigation colors,
+and the second is about a feature we’ve been working on called
+Quick Answers. Be sure to check them out!
+1 Notable
+Changes
+2 Known Issues
+3 Development
+Updates
+3.1 User-Generated Content
+(UGC) team
+3.2 User Experience (UX)
+team
+3.3 Traffic
+team
+3.4 Performance Task
+Force
+In the edit window, when a wiki editor tried to add or remove
+text at the cursor position, text that was added or removed shifted
+at least one character to the left or right. This i…
+Read Full Post 
+Pikushi
+ • 
+10 days ago
+ 4
+Creating Magic at Conventions
+One of the aspects I cherish most about this platform is
+witnessing communities grow and flourish. People from diverse
+backgrounds unite to celebrate their fandom, document intricate
+lore, discuss theories, and simply have fun. When this all comes
+together to create a healthy, welcoming environment, it’s a
+culinary masterpiece -- *chef’s kiss* -- of digital
+togetherness.
+Anime communities, in particular, hold a special place in my
+heart. My initiation into the world of fandom began with Digimon
+and Pilot Candidate (if that rings a bell, congratulations, you're
+officially my friend!) When I was younger, I didn’t really
+participate in communities much. I mostly stayed in my own corner
+of the internet and took in content by myself.
+My first exp…
+Read Full Post 
+Jpearson
+ • 
+19 days ago
+ 0
+Celebrating Diversity, Equity, and Inclusion in Entertainment: A Win for All
+The entertainment industry, with its rich tapestry of stories,
+characters, and narratives, holds an influential position in
+shaping cultural dialogue and societal norms. Over the years, it
+has become increasingly clear that the industry's true power lies
+in its ability to foster an inclusive space that reflects the
+diverse world we live in. Diversity, Equity, and Inclusion (DEI)
+are not just buzzwords but integral values that can enrich our
+entertainment landscape and society at large.
+Here are some compelling reasons why fans should celebrate and
+acknowledge DEI in entertainment:
+Representation Matters: When entertainment mirrors the
+diverse realities of our global society, it makes everyone feel
+seen, acknowledged, and validated. Viewing a…
+Read Full Post 
+Jpearson
+ • 
+22 days ago
+ 50
+Technical Updates: August 11, 2023
+Hey everyone! Check out the latest Technical Updates since July
+28th. We’ll continue to update the editor community on bug fixes
+and product development updates on a bi-weekly basis!
+1 Notable
+Changes
+2 Known Issues
+3 Development
+Updates
+3.1 User-Generated Content
+(UGC) team
+3.2 User Experience (UX)
+team
+3.3 Traffic
+team
+3.4 Platform
+team
+When editors created an infobox and set row labels, it failed
+to update the source variable name. We’re happy to share that this
+has been fixed!
+Users will no longer experience issues when they open the
+mobile editor on pages where tabber is present. When using source
+editor mode and trying to switch between VisualEditor and
+SourceEditor pages, editors won’t be stuck on a loading state on
+the page as they edit.
+Trying to …
+Read Full Post 
+Hypsoline
+ • 
+2 August
+ 15
+Let’s talk about fanon wikis
+We need to talk about… fanon wikis! We have decided to start a
+series of blogs about the lesser-known and misunderstood wikis of
+Fandom, and I chose fanon wikis to kick it off! Fanon can be
+ill-perceived by certain individuals or entities for reasons such
+as: violation of canon, quality concerns, misrepresentation of
+characters, shipping wars, copyright and legal concerns… But it's
+essential to remember that fanon is also very diverse and rich.
+Fanon is a reflection of fans' passion, creativity, and love for
+the source material, and for many, it enhances their enjoyment of
+the original works. Let’s dive into the topic now! And don’t
+hesitate to share your love for fanon wikis in the comments!
+"Fanon" refers to the ideas, stories, and interp…
+Read Full Post 
+Jpearson
+ • 
+29 July
+ 40
+Technical Updates: July 28, 2023
+Hey everyone! Check out the latest Technical Updates since July
+14th. We’ll continue to update the editor community on bug fixes
+and product development updates on a bi-weekly basis!
+1 Notable
+Changes
+2 Known Issues
+3 Development
+Updates
+3.1 User-Generated Content
+(UGC) team
+Some wikis experienced issues as the “Special:BrowseData” Page
+no longer functioned and only returned a white screen after going
+to the page. We’re happy to share that this issue has been
+resolved!
+There was an issue with the Light Theme background not
+appearing properly for some users after uploading a new version
+through the Theme Designer. The Light Theme background now appears
+in the Theme Designer.
+When infobox CodeEditor is enabled, editors can now access the
+TemplateData! …
+Read Full Post 
+Jpearson
+ • 
+28 July
+ 3
+Disability Pride Month: Making Room and Taking Up Space
+We’re celebrating Disability Pride Month, highlighting the
+resilience and contributions of the disabled community through the
+theme Making Room and Taking Up Space. In the context of
+inclusivity, "making room" and "taking up space" refer to creating
+an environment where individuals from diverse backgrounds feel
+welcome, valued, and empowered to participate fully. This month is
+not only about raising awareness but also about fostering an
+environment of acceptance and inclusion. And what better way to do
+this than through one of the most powerful mediums of our time –
+entertainment?
+The entertainment industry often serves as a mirror, reflecting
+the diverse experiences and perspectives that make up our world.
+Unfortunately, the reflection of …
+Read Full Post 
+Spongebob456
+ • 
+24 July
+ 34
+Disability Pride Month: Going Through the (E)motions
+Hey folks!
+I'm Chris, back with my second ever Community Central blog -
+practice makes perfect!
+It's Disability Pride Month, a time where we highlight
+how people with disabilities should feel empowered by their
+differences and take pride in them. It's about reflecting on how
+society sees disability and what we all can do to improve this.
+I'll be honest, I had no idea what Disability Pride Month was up
+until recently, even though I have been using a wheelchair since I
+was a child. I remember when I was younger, I wasn't exactly proud
+of my disability and focused on how limiting it could be. Over time
+though, I learned that any limitations there are don't have to
+limit how I live and that I can and should be proud of who I
+am.
+So for those who ju…
+Read Full Post 
+Marphimon
+ • 
+18 July
+ 2
+Editor-Oriented Upgrade for Community Central Live Today
+Hello everyone!
+As you are reading this blog post, you are currently on
+Community Central, and you will have noticed some things have
+changed - these are part of the work we did to make Community
+Central more useful for all kinds of editors and users on
+Fandom!
+Earlier this year, we set out on a simple mission on what
+Central should evolve towards:
+Community Central is the landing page for our contributors
+and those who wish to become one - anyone will be able to learn
+about editing topics at their skill level with skill-level-tailored
+help or advice, be able to find help on editing matters in our
+editor forums, learn about new product updates and more
+initiatives, and from there they can deep dive into our community
+programming offerings tha…
+Read Full Post 
+Marphimon
+ • 
+18 July
+ 0
+Improving Inclusiveness: New Ways For Beginners to Join the Community
+Hello everyone!
+We have heard your message clearly that you want us to do more
+to bring new editors to Fandom. Recently, on the product front, we
+already have communicated some of the great success we've found,
+and to complement these efforts on the social side of things, we
+have set out to make it easier for newcomers to become first-time
+editors, do their next few edits and finally join the users who
+feel confident enough to explore around the network and wikis on
+their own.
+Presenting the new Advice Section of our help documentation:
+We have been working internally and in collaboration with our
+Fandom Stars group to bring custom advice and opinion blogs for new
+users to explore and dive into. For people who are not yet
+comfortable with edi…
+Read Full Post 
+ 
+1
+2
+3
+4
+...
+90
+ 
+ 
+Categories 
+Category: Blog postsHidden category: BlogListingPage 
+Community content is available under CC-BY-SA unless otherwise noted.
+Advertisement
+Explore properties
+Fandom
+Muthead
+Futhead
+Fanatical
+Follow Us
+ 
+ 
+ 
+ 
+ 
+Overview
+What is Fandom?
+About
+Careers
+Press
+Contact
+Terms of Use
+Privacy Policy
+Global Sitemap
+Local Sitemap
+Community
+Community Central
+Support
+Help
+Do Not Sell or Share My Personal Information
+Advertise
+Media Kit
+Contact
+Fandom Apps
+Take your favorite fandoms with you and never miss a beat.
+Community Central is a FANDOM Lifestyle Community.
+View Mobile Site
+Follow on IG
+TikTok
+Join Fan Lab
+ 

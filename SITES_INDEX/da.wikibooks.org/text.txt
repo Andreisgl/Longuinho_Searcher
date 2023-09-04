@@ -1,0 +1,147 @@
+Wikipedia - Wikibooks
+Wikipedia
+Fra Wikibooks, den frie samling af lærebøger
+Spring til navigation
+Spring til søgning
+Bogen om Wikipedia
+Hvad er Wikipedia? Hvordan kan man bruge Wikipedia? og hvordan kan man evt. hjælpe Wikipedia? det er nogle af de centrale spørgsmål som denne bog vil besvare for dig, der ikke har nogen tidligere erfaring med den frie encyklopædi.
+Bogen kan læses fra ende til anden, eller du kan nøjes med at kigge på de kapitler som du finder interessante.
+Indholdsfortegnelse
+1 Indledning
+2 WikiWiki
+3 Wikipedias historie og målsætning
+4 Wikipedianerene
+5 Brug af Wikipedia
+5.1 Sådan finder du informationer på Wikipedia
+5.2 Troværdighed
+5.3 Citering af Wikipedia
+6 Sådan deltager du selv
+6.1 Opret en brugerkonto
+6.2 Tilføj indhold
+6.3 Vedligeholdelsesopgaver
+6.4 Tjek informationer og kilder
+6.5 Bekæmpelse af vandalisme
+6.6 Deltagelse i fællesskabet
+7 Alt det andet
+7.1 Wikinews
+7.2 Wiktionary
+7.3 Wikiquote
+7.4 Wikibooks
+7.5 Wikisource
+7.6 Wikispecies
+7.7 Wikiversity
+7.8 Commons
+7.9 Meta-Wiki
+Indledning[redigér]
+Wikipedia er et fantastisk projekt, der går ud på at samle summen af al viden i en fri encyclopædi. Selvom det måske lyder umuligt og der er lang vej endnu, så kan man tydeligt se at mange tusinder af mennesker har taget ideen seriøst når der foretages et utal af tilføjelser og ændringer hvert eneste minut. Og at endnu flere finder Wikipedia umådelig nyttig ses også tydeligt når Wikipedia af Alexa.com bliver rangeret som det 6. mest besøgte websted i verden, der hver måned bliver besøgt af hver 10. internetbruger.
+I bund og grund er Wikipedia en wiki, en webside hvor alt indholdet kan ændres af enhver besøgende, men hvem er det overhovedet der skriver indholdet på Wikipedia? Hvordan lader det sig så gøre at undgå at tilfældige besøgende ikke bare ødelægger alle artiklerne på Wikipedia? Hvordan kan man lettest og mest praktisk gøre brug af Wikipedia? Og hvordan kan du evt. selv være med til at forbedre Wikipedia? Det er nogle af de spørgsmål som denne bog skal forsøge at besvare.
+WikiWiki[redigér]
+Wiki er en kort form af det hawaiianske udtryk wiki wiki der betyder hurtig. På dansk udtales det som "viki."
+Når man taler IT og internet er en wiki en side som lader sidens brugere selv skrive sidens indhold.
+På normal hjemmeside er det sidens ophavsmand som suverænt bestemmer hvad der skal stå på den, men på en wiki har den besøgende på siden mulighed for selv at redigere i indholdet. Denne bog på Wikibooks som du læser i lige nu er f.eks. en wiki, og hvis du trykker på knappen "redigér" øverst på side kan du få lov til selv at redigere i bogens indhold. Hvis du trykkede på "rediger"-knappen, ændrede teksten og trykkede på "Gem side" i bunden ville din ændring straks blive gemt, og andre besøgende der læser bogen ville se teksten sådan som du havde skrevet.
+Muligheden for at brugerene selv kan være med til at danne indholdet kan være enormt praktisk til at samarbejde om at samle viden fra mange mennesker som ligeledes kan tilgås af mange mennesker. Derfor kan wikier med fordel benyttes når man skal samarbejde, f.eks. har mange virksomheder deres egne wikier hvor deres ansatte kan dele viden. Således er der forskel på hvilke brugere der kan få lov til at se og ændre wikiens indhold, nogen steder skal man være registreret bruger for at kunne deltage, og andre steder, som på Wikipedia, kan alle ændre i indholdet.
+For at lave en wiki, hvor sidens indhold kan ændres af brugerene, skal man have en platform, der kan gemme og vise indholdet via hjemmesiden når det er nødvendigt. Der findes flere forskellige programmer til at tage hånd om dette. Wikipedia og dens søsterprojekter bruger Mediawiki, der er udviklet specielt til hurtigt og stabilt at håndtere de tusindvis af forespørgsler som Wikipedia hvert minut modtager fra brugerne. Der findes også andre wikiplatforme med andre fokusområder, som f.eks. MoinMoin og TWiki, og med TiddlyWiki kan man endda få en personlig wiki som man kan have liggende på sin egen computer eller en USB-nøgle, men de fleste wikier er altså lavet til internettet.
+En anden ting som wikiplatformene ofte håndterer er wikisyntaksen. Normalt bruger man HTML til at strukturere indholdet på en hjemmeside, men for at alle skal kunne skrive på wikier, også selvom man ikke kender til HTML, sørger de fleste wikiplatforme for at omskrive wikisyntaksen til HTML, så brugeren ikke behøver at bekymre sig om det.
+Her er et eksempel på hvilken form for wikisyntaks man skal bruge på Wikipedia og her på Wikibooks:
+Net er nemt at lave '''fed''', ''kursiv'' og '''''fed-og-kursiv''''' skrift.<br />
+Det er også meget let at lave [[wikilinks]] som f.eks. dette til [[forside]]n.
+Nyt tekstafsnit laves nemt med en blank linje imellem afsnitene.
+Den ovenstående wikitekst vil se således ud:
+Net er nemt at lave fed, kursiv og fed-og-kursiv skrift.
+Det er også meget let at lave wikilinks som f.eks. dette til forsiden.
+Nyt tekstafsnit laves nemt med en blank linje imellem afsnitene.
+Du kan også selv se på kilden til forskellige artikler på wikipedia ved at trykke på redigér-knappen, eller du kan prøve at se på kilden til denne wikibog.
+Ud over at lade brugere uden kendskab til HTML redigere siderne sørger wikisyntaksen også for at siderne bliver konsistente, så de ligner hinanden, og det øger sikkerheden på siderne at brugerene ikke har mulighed for at indsætte scripts direkte på siden.
+Wikipedias historie og målsætning[redigér]
+Der var tale om og forsøg på at samle menneskehedens viden allerede længe før Wikipedia blev skabt. Sammen med internettets udbredelse i 90erne var der også flere forsøg på at udnytte internettet  til dette, i 1999 omtalte Richard Stallman, som er kendt fortaler for fri software, behovet for en fri encyklopædi. I marts 2000 grundlagde Jimmy Wales onlineencyklopædien Nupedia som var en gratis encyklopædi hvor indholdet skulle bekræftes af eksperter før det blev frigivet. På trods af flere interesserede bidragydere og Larry Sanger som var fastansat redaktør blev der ikke skrevet mere end 12 artikler i løbet af det første år.
+På grund af den langsomme hastighed hvormed artiklerne på Nupedia blev forfattet, besluttede Jimmy Wales efter idé af Larry Sanger at grundlægge Wikipedia hvor brugerne kunne skrive artikler, som eksperter så kunne gennemse og skrive rent på Nupedia. Wikipedia blev altså lanceret d. 15. januar 2001 på wikipedia.com, og allerede 7. februar blev artikel nr. 1000 oprettet. Wikipedias besøgstal steg gradvist sammen med omtale i større og mindre medier, og i løbet af det første år nåede projektet 20.000 artikler, hvilket svarer til over 1.500 artikler om måneden. Den 30. august 2002 nået antallet af artikler op på 40.000, og væksten er steget lige siden, kun med undtagelse af nogle få perioder med soft- og hardwaremæssige problemer.
+Det er allerede i løbet af de første måneder (marts-maj) at de første internationale wikisider åbner, også den danske udgave af Wikipedia lanceres i 2001, men siden ligger hen uden nogen nævneværdige bidrag.
+2002
+da.wikipedia får aktivitet med Christian List der får Brian Hansen (der har lexopen) med på projektet.
+en.wikipedia Bomis finansiering ophører og Larry Sanger forlader organisationen
+2003
+da.wikipedia artikler blev overført fra Lexopen
+en.wikipedia runder 100.000 artikler
+Wikipedianerene[redigér]
+Wikipedianere kaldes de brugere som er med til at skrive indholdet på Wikipedia, enhver kan frit oprette en bruger og begynde at tilføje indhold til Wikipedia. Når man opretter sig som bruger får man nogle privilegier:
+Et fast brugernavn så andre wikipedianere kan genkende en.
+En brugerside hvor man kan skrive lidt om sig selv, gemme nyttige noter eller bare lege tilfældigt.
+En diskussionsside hvor man kan modtage henvendelser og beskeder fra andre wikipedianere.
+Det giver også med tiden større troværdighed når man opretter eller ændrer i artikler.
+Brug af Wikipedia[redigér]
+Sådan finder du informationer på Wikipedia[redigér]
+Direkte adgang hvis du kender artiklens navn
+Hvis du i forvejen kender navnet på den artikel du gerne vil læse, eller har en god formodning om hvad den hedder, så er det en triviel opgave at finde siden med artiklen. Alle artikler på den danske Wikipedia kan findes med adressen http://da.wikipedia.org/wiki/Artikelnavn hvor Artikelnavn er navnet på den artikel man gerne vil læse. Hvis der er mellemrum i artiklens navn bruges underscore (_) i stedet, så hvis man f.eks. søger artiklen om Kronprins Frederik skal man bruge adressen http://da.wikipedia.org/wiki/Kronprins_Frederik.
+Hvert sprog har sin egen sprogkode, så det er de to første bogstaver i adressen der angiver hvilket sprog Wikipedia man åbner. Dansk har da, engelsk har en, så den engelske side om Danmark kan findes på adressen http://en.wikipedia.org/wiki/Denmark. Du kan selv besøge andre sprogudgaver af Wikipedia for at se deres sprogkode.
+En anden mulighed hvis du kender artiklens navn, er at åbne Wikipedia's forside, eller en hvilken som helst anden side på Wikipedia, og så bare skrive artiklens navn i søgefeltet i menuen i venstre side, og trykke på "Gå til"-knappen. Fordelen ved denne fremgangsmåde er, at der vil blive vist forslag til artikler der starter med det som du har skrevet i søgefeltet, hvilket kan være praktisk hvis man er usikker på hvordan artiklens navn staves. Desuden vil man blive automatisk blive ført til en søgning på Wikipedia hvis artiklen ikke findes.
+Søgning på Wikipedia
+Du kan søge på Wikipedia via. søgeboksen i menuen til venstre. søgning skulle være rimelig ligetil, da den er lavet så den ligner en google-søgning.
+Troværdighed[redigér]
+Citering af Wikipedia[redigér]
+På trods af at indholdet af at en artikel på Wikipedia kan ændre sig med voldsom hastighed, så er det ikke noget problem at citere artikler på Wikipedia. Hver gang nogen ændrer på en side bliver der gemt en ny version af siden sammen med alle de tidligere versioner. Derfor kan man altid kigge på en sides historik, og se alt hvad der har stået på den tidligere. Hver version af hver side på Wikipedia har sit eget unikke revisionsnummer som gør at man let kan finde en given udgave af en side.
+Her er et link til artiklen om Tim Christensens som den ser ud i skrivende stund:
+http://da.wikipedia.org/w/index.php?title=Tim_Christensen&oldid=3308965
+Husk på, at indholdet af siden på denne adresse aldrig vil ændre sig, uanset hvad der sker med indholdet af artiklen på http://da.wikipedia.org/wiki/Tim_Christensen
+Når du skal citere en artikel på Wikipedia, anbefales det at du bruger Citér denne artikel under værktøjer i menuen til venstre, på en hvilken som helst artikel på Wikipedia. Så vil du blive ført til en side, der indeholder diverse info, som man normalt skal bruge når man henviser til eksterne kilder, samt et link til den aktuelle udgave af artiklen. Her er citationssiden for artiklen om Tim Christensen: http://da.wikipedia.org/w/index.php?title=Speciel:Citer&page=Tim_Christensen
+Sådan deltager du selv[redigér]
+Opret en brugerkonto[redigér]
+Tilføj indhold[redigér]
+Vedligeholdelsesopgaver[redigér]
+Tjek informationer og kilder[redigér]
+Bekæmpelse af vandalisme[redigér]
+Deltagelse i fællesskabet[redigér]
+Alt det andet[redigér]
+Wikipedia hører som sagt ind under paraplyorganisationen Wikimedia Foundation som, ud over Wikipedia på alverdens sprog, også har mange andre wikiprojekter, som alle findes på mange forskellige sprog. Alle projekterne benytter den samme MediaWiki-software, og sidernes overordnede design ligner derfor hinandens til forveksling, desuden er der for nylig implementeret et system, der gør det muligt at bruge samme login på tværs af alle projekterne.
+Wikinews[redigér]
+Wikinews er en nyhedsside som indsamler nyheder fra forskellige kilder nogenlunde samtidig med at de sker. Der findes i skrivende stund ikke rigtig nogen dansk udgave af Wikinews, men der er nogen aktivitet på både den svenske og den norske udgave, samt selvfølgelig den engelske.
+Wiktionary[redigér]
+Wiktionary er et forsøg på i samarbejde at lave en ordbog, der både beskriver ords betydning og oversættelse til og fra alverdens andre sprog. Den engelske udgave, der blev startet allerede i 2002, er nu en glimrende ordbog for visse sprog, med definitioner på over 5 millioner ord. På danske udgave, der blev startet i 2004, er der kun godt 38 tusind ord.
+Wikiquote[redigér]
+Wikiquote er en online citatsamling fra alverdens mennesker. Den engelske udgave, der blev startet i 2004 rummer i dag over 16.000 artikler, der generelt dækker én person hver. Den danske udgave indeholder i skrivende stund 131 artikler.
+Wikibooks[redigér]
+Wikibooks projektet, som du besøger lige nu, går ud på at samle og skrive bøger med frit indhold. Den danske Wikibooks indeholder i skrivende stund 62 wikibøger. Projektet findes selvfølgelig også på engelsk, hvor man arbejder på omkring 37.000 moduler, der, lidt groft, kan sammenlignes med kapitler.
+Wikisource[redigér]
+Wikisource indeholder kildetekster med frit indhold, hvilket for det meste er tekster, som sange og digte, som der ikke længere er copyright på. Den danske udgave af Wikisource indeholder små 700 kildetekster, og i den engelske udgave arbejdes der med over 120.000 tekster.
+Wikispecies[redigér]
+Wikispecies har som mål at samle frit tilgængelige beskrivelser af alle jordens arter. Der arbejdes lige nu på næsten 190.000 arter.
+Wikiversity[redigér]
+Wikiversity projektet er en samling af ressourcer til undervisning samt andre ressourcer der har til formål at hjælpe med indlæring eller tilegnelse af ny viden.
+Commons[redigér]
+Commons formål er at samle og kategorisere frit tilgængelige billeder til brug på tværs af Wikimedias projekter. Billeder der er uploadet til Commons kan uden videre bruges på alle andre projekter.
+Meta-Wiki[redigér]
+Metawiki er en wiki der samler diskussion og information om alle Wikimedias projekter. Meta-wiki danner grundlag for deling af viden, ekspertise og kompetencer på tværs af projekterne, og er også stedet hvor man skal kigge efter politiker på tværs af projekter.
+Hentet fra "https://da.wikibooks.org/w/index.php?title=Wikipedia&oldid=26845"
+Kategori: Bøger
+Navigationsmenu
+Personlige værktøjer
+Ikke logget påDiskussionsside for denne IP-adresseBidragOpret kontoLog på
+Navnerum
+ArtikelDiskussion
+dansk
+Visninger
+LæsRedigérSe historik
+Mere
+Søg
+Navigation
+ForsideFællesskabsportalAktuelle begivenhederSeneste ændringerTilfældig sideHjælpDonér
+Værktøjer
+Hvad henviser hertilBeslægtede ændringerUpload filSpecialsiderPermanent linkSideinformationReferer til denne sideWikidata-element
+Udskriv/eksportér
+Lav en bogDownload som PDFUdskriftsvenlig udgave
+I andre projekter
+Wikimedia CommonsMeta-WikiWikipediaWikiquote
+På andre sprog
+AzərbaycancaCatalàDeutschEnglishFrançais日本語NederlandsShqipTiếng Việt中文
+Redigér links
+ Denne side blev senest redigeret d. 5. oktober 2017 kl. 15:56.
+Tekst er tilgængelig under licensen Creative Commons Kreditering-Del på samme vilkår;
+yderligere betingelser kan være gældende.
+Se vores Brugsbetingelserne for flere oplysninger.
+Privatlivspolitik
+Om Wikibooks
+Forbehold
+Code of Conduct
+Mobilvisning
+Udviklere
+Statistik
+Cookie-erklæring

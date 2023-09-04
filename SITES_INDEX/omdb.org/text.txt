@@ -1,0 +1,25 @@
+403 @ omdb
+omdb
+zu einem zufälligen Film
+Neuen Film anlegen
+Deutsch
+Über
+Hilfe
+Impressum
+Kontakt
+Filme
+Serien
+Personen
+Enzyklopädie
+ 
+403: Forbidden
+ 
+Forbidden
+The requested operation could not be performed.
+                  You probably get this error message because you tried to scrape or otherwise download data in a way
+                  or frequency that would harm the performance of the server.
+                
+                  The way to download data from omdb is explained at
+                  Help:DataDownload
+            All Information on this page is licensed under the terms of the Creative Commons Attribution-ShareAlike 2.0 License. See Copyright for more information.
+        

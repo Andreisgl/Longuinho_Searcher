@@ -1,0 +1,237 @@
+Aiuto:Interwiki - Wikipedia
+Aiuto:Interwiki
+Da Wikipedia, l'enciclopedia libera.
+Vai alla navigazione
+Vai alla ricerca
+ Disambiguazione – Se stai cercando la pagina specifica per i collegamenti a Wikipedie in altre lingue, vedi Aiuto:Interlink.
+Indice
+1 Creare un interwiki
+2 I progetti Wikimedia
+3 Dove e come mettere gli interwiki
+4 Altri siti
+5 Note
+6 Pagine correlate
+ – Sportello informazioni
+Prendono il nome di interwiki gli speciali wikilink che collegano tra loro due progetti della fondazione Wikimedia o anche un progetto della fondazione Wikimedia con alcuni altri siti. Vedere in proposito Aiuto:Namespace#Progetti esterni.
+Creare un interwiki[modifica | modifica wikitesto]
+La sintassi di un interwiki è la seguente:
+[[Progetto:Lingua:Namespace:Pagina]]
+Dove:
+Progetto è il nome esteso o abbreviato del progetto di destinazione (vedi sotto).
+Lingua è il codice della lingua di destinazione (qui si trova la lista dei codici, e quali progetti sono presenti in quali lingue).
+Namespace è il nome del namespace di destinazione.
+Pagina è il nome della pagina.
+Ad esempio il seguente è un interwiki alla pagina principale di aiuto di Wikisource in inglese: s:en:Help:Contents.
+Il parametro progetto oppure il parametro lingua possono essere omessi, ed allora si ha un link allo stesso progetto in un'altra lingua, oppure ad un altro progetto nella stessa lingua. Nel caso entrambi i parametri vengano omessi, si ha un normale wikilink.
+Esempi:
+b:Pagina principale porta alla pagina principale di Wikibooks in italiano.
+w:es:wikipedia:Portada (scritto [[w:es:wikipedia:Portada]]) porta alla pagina principale di Wikipedia in spagnolo.
+Los nueve libros de la Historia (scritto [[wikisource:es:Los nueve libros de la Historia|Los nueve libros de la Historia]], con l'indicazione del progetto e della lingua) porta alla specifica pagina di Wikisource in spagnolo.
+Nel caso in cui vengano omessi Namespace e Pagina, il link avviene con la pagina principale del progetto di destinazione:
+wikt: porta alla pagina principale del Wikizionario in italiano.
+pl: (scritto [[:pl:]]) porta alla pagina principale della Wikipedia in polacco.
+Nel caso in cui il parametro Progetto venga omesso, è importante mantenere i due punti prima della lingua, altrimenti il link viene interpretato come un interlink (collegamento alla stessa voce in un'altra lingua), e scompare dalla pagina per essere aggiunto nella sidebar a lato del testo.
+I progetti Wikimedia[modifica | modifica wikitesto]
+Questa è la tabella dei vari progetti wikimedia collegabili attraverso interwiki, con i relativi nomi di progetto e nomi abbreviati.
+N.B. per i progetti multilingue, se non viene specificata la lingua, la forma abbreviata rimanda alla versione in italiano e la forma estesa alla versione in inglese.
+Progetto
+Forma estesa
+Forma abbreviata
+Wikipedia
+[[wikipedia:]]
+[[w:]][1]
+Wikibooks
+[[wikibooks:]]
+[[b:]]
+Wikinotizie
+[[wikinews:]]
+[[n:]]
+Wikiquote
+[[wikiquote:]]
+[[q:]]
+Wikisource
+[[wikisource:]]
+[[s:]]
+Wikiversità
+[[wikiversity:]]
+[[v:]]
+Wikivoyage
+[[wikivoyage:]]
+[[voy:]]
+Wikizionario
+[[wiktionary:]]
+[[wikt:]]
+Wikidata
+[[wikidata:]]
+[[d:]]
+Wikispecies
+[[species:]] [[wikispecies:]]
+Wikimedia Commons
+[[commons:]]
+[[c:]]
+Wikimedia Foundation
+[[wikimedia:]][[foundation:]]
+[[wmf:]]
+Wikimedia Meta-Wiki
+[[meta:]][[metawiki:]][[metawikipedia:]][[metawikimedia:]]
+[[m:]]
+Strategic Planning
+[[strategy:]]
+Outreach Wiki
+[[outreach:]]
+Wikimania
+[[wmania:]]
+Wikimedia Incubator
+[[incubator:]]
+MediaWiki
+[[mediawikiwiki:]]
+[[mw:]]
+MediaWiki OTRS ticket con TicketID ticket con TicketNumber
+[[otrswiki:]] [[otrs:000000]] [[ticket:0000000000000000]]
+Phabricator
+[[phabricator:]]
+[[phab:]]
+Translatewiki.net[2]
+[[translatewiki:]]
+Wikimedia Tool Labs
+[[toollabs:]]
+Wikitech
+[[wikitech:]]
+Test Wiki / beta
+[[testwiki:]][[test2wiki:]][[testwikidata:]][[betawikiversity:]]
+Progetti locali di Wikimedia
+Collegamento
+Argentina
+[[wmar:]]
+Australia
+[[wmau:]]
+Bangladesh
+[[wmbd:]]
+Belgio
+[[wmbe:]]
+Canada
+[[wmca:]]
+Cile
+[[wmcl:]]
+Danimarca
+[[wmdk:]]
+Estonia
+[[wmee:]] [[wmet:]]
+Filippine
+[[wmph:]]
+Finlandia
+[[wmfi:]]
+Francia
+[[wmfr:]]
+Germania
+[[wmde:]]
+Hong Kong (Cina)
+[[wmhk:]]
+India
+[[wmin:]]
+Indonesia
+[[wmid:]]
+Israele
+[[wmil:]]
+Italia
+[[wmit:]]
+Macedonia
+[[wmmk:]]
+Messico
+[[wmmx:]]
+Norvegia
+[[wmno:]]
+Paesi Bassi
+[[wmnl:]]
+Polonia
+[[wmpl:]]
+Portogallo
+[[wmpt:]]
+Regno Unito
+[[wmuk:]]
+Repubblica Ceca
+[[wmcz:]]
+Russia
+[[wmru:]]
+Serbia
+[[wmrs:]]
+Stati Uniti d'America
+[[wmnyc:]] [[wmdc:]]
+Spagna
+[[wmes:]]
+Sudafrica
+[[wmza:]]
+Svezia
+[[wmse:]]
+Svizzera
+[[wmch:]]
+Taiwan
+[[wmtw:]]
+Ucraina
+[[wmua:]]
+Ungheria
+[[wmhu:]]
+Venezuela
+[[wmve:]]
+Altri interwiki obsoleti: [[tenwiki:]] (Wikipedia 10), [[bugzilla:]] e [[mediazilla:]] (reindirizzano a Phabricator), [[donate:]] (reindirizza alla WMF), [[quality:]] (Quality Wiki, spostata su Meta), [[usability:]]] (Wikipedia Usability Initiative e Multimedia Usability Project, chiusi nel 2011), [[nost:]] e [[nostalgia:]] (vedi meta:Nostalgia wiki), [[tools:]] (Toolserver, spostato in Wikimedia Tool Labs).
+Dove e come mettere gli interwiki[modifica | modifica wikitesto]
+ Lo stesso argomento in dettaglio: Aiuto:Interprogetto.
+Normalmente, la sintassi [[:codiceProgetto:NomePagina]] (che va a generare un collegamento interwiki cliccabile in un determinato punto della pagina) non va usata nel corpo della voce. Può invece essere utile nelle discussioni oppure nel testo delle pagine di servizio.
+Per collegare una voce di enciclopedia a dei contenuti presenti in altri progetti (ad esempio una galleria di immagini su Commons, oppure un testo su Wikisource) è previsto l'uso del template {{Interprogetto}}. 
+Il template compie due azioni:
+Inserisce un menu a sinistra in stile interwiki, chiamato "In altri progetti".
+Inserisce i collegamenti anche nel testo della pagina. Il template va inserito in un'apposita sezione "Altri progetti", posta dopo le voci correlate, ma prima dei collegamenti esterni.
+Va usato un solo template per collegare tutti i progetti (usando diversi parametri, vedere la guida nella pagina del template).
+A partire dal 30 gennaio 2013, la gestione di gran parte degli interwiki (come per gli interlink) viene fatta tramite Wikidata. Da allora, il template funziona anche automaticamente, ricavando tutti i collegamenti (tranne il Wikizionario) dall'elemento di Wikidata corrispondente alla voce. Tuttavia, se i parametri del template vengono compilati, questi avranno maggiore priorità rispetto ai collegamenti presenti su Wikidata. Nota: i soli collegamenti situati nel riquadro "In altri progetti" vengono generati automaticamente tramite Wikidata anche se non si usa alcun template.
+Per evitare incoerenze fra i collegamenti presenti su Wikipedia e Wikidata, a meno di casi eccezionali è preferibile usare il template Interprogetto senza parametri e di aggiungere gli interwiki direttamente su Wikidata, in maniera simile a come si fa con gli interlink.[3]
+Altri siti[modifica | modifica wikitesto]
+Allo stesso modo degli altri progetti Wikimedia è possibile linkare tramite un prefisso numerosi siti esterni di possibile interesse wikipediano. Ad esempio inserendo [[scores:bach]] si ottiene rapidamente il link scores:bach alla pagina su Bach dell'International Music Score Library Project. L'elenco completo e aggiornato di questi prefissi si trova in meta:Interwiki map. La colonna di sinistra elenca i prefissi, quella di destra l'URL che verrà prodotto; al posto di $1 viene inserito ciò che segue i ":" nel wikilink. Nuovi prefissi possono essere proposti, in inglese, nella pagina di discussione.
+Si noti comunque che link come scores:bach sono poco comprensibili, e sebbene comodi nelle discussioni, quando si inseriscono come collegamenti esterni nelle voci è bene fornire dei titoli più descrittivi (es. [[scores:bach|Composizioni di Bach...]]).
+In modo simile funzionano anche le parole magiche RFC e PMID per ottenere link rispettivamente a Request for Comments e PubMed. In questo caso non serve neppure il wikilink: RFC 666 genera RFC 666.
+Note[modifica | modifica wikitesto]
+^ La forma abbreviata rimanda dalla Wikipedia in italiano a quella in inglese, e dagli altri progetti in italiano rimanda alla Wikipedia in italiano.
+^ Non fa parte dei progetti della Wikimedia Foundation.
+^ Vedi Aiuto:Interlink#Interlink mediante Wikidata
+Pagine correlate[modifica | modifica wikitesto]
+m:Help:Interwiki linking/it: pagina di riferimento per gli interwiki su Meta, con approfondimenti sul concetto di interwiki.
+Aiuto:Interlink
+Aiuto:Link
+Template:Interprogetto
+Aiuto:Namespace
+Speciale:Interwiki: mappa degli interwiki
+Un utile tool:Wikipedia Interwiki-Link-Checker
+Estratto da "https://it.wikipedia.org/w/index.php?title=Aiuto:Interwiki&oldid=121355647"
+Categoria: Aiuto linkCategoria nascosta: Pagine che utilizzano collegamenti magici RFC
+Menu di navigazione
+Strumenti personali
+Accesso non effettuatodiscussionicontributiregistratientra
+Namespace
+AiutoDiscussione
+italiano
+Visite
+LeggiModificaModifica wikitestoCronologia
+Altro
+Ricerca
+Navigazione
+Pagina principaleUltime modificheUna voce a casoNelle vicinanzeVetrinaAiutoSportello informazioni
+Comunità
+Portale ComunitàBarIl WikipedianoFai una donazioneContatti
+Strumenti
+Puntano quiModifiche correlatePagine specialiLink permanenteInformazioni paginaElemento Wikidata
+Stampa/esporta
+Crea un libroScarica come PDFVersione stampabile
+In altri progetti
+Wikimedia CommonsMeta-WikiWikiquoteWikisourceWikizionario
+In altre lingue
+العربيةتۆرکجهবাংলাCatalàČeštinaDeutschEnglishEspañolفارسیFrançaisעבריתHrvatskiMagyarBahasa IndonesiaJawaМакедонскиമലയാളംBahasa MelayuNorsk bokmålРусскийسنڌيSimple EnglishSlovenščinaSvenskaไทยTürkçeТатарча / tatarçaاردوTiếng Việtייִדיש中文
+Modifica collegamenti
+ Questa pagina è stata modificata per l'ultima volta il 17 giu 2021 alle 01:54.
+Il testo è disponibile secondo la licenza Creative Commons Attribuzione-Condividi allo stesso modo; possono applicarsi condizioni ulteriori. Vedi le condizioni d'uso per i dettagli.
+Informativa sulla privacy
+Informazioni su Wikipedia
+Avvertenze
+Codice di condotta
+Versione mobile
+Sviluppatori
+Statistiche
+Dichiarazione sui cookie

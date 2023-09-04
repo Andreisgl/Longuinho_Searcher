@@ -1,0 +1,250 @@
+Help:Export - MediaWiki
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageGet MediaWikiGet extensionsTech blogContribute
+Support
+User helpFAQTechnical manualSupport deskCommunication
+Development
+Developer portalCode statistics
+MediaWiki.org
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+In other languages
+Add links
+Search
+Search
+ EnglishCreate accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+Beginning
+1How to export
+Toggle How to export subsection
+1.1Using 'Special:Export'
+1.1.1Get the names of pages to export
+1.1.2Perform the export
+1.1.3Exporting the full history
+2Export format
+Toggle Export format subsection
+2.1Example
+2.2DTD
+2.3Processing XML export
+2.4Details and practical advice
+3Why to export
+4See also
+Toggle the table of contents
+Toggle the table of contents
+Help:Export
+HelpDiscussion
+English
+ReadView sourceView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadView sourceView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage information
+Print/export
+Create a bookDownload as PDFPrintable version
+From mediawiki.org
+Translate this pageLanguages:Deutsch
+English
+Tiếng Việt
+Türkçe
+dansk
+español
+français
+polski
+português
+čeština
+русский
+فارسی
+中文
+日本語
+Note: When you edit this page, you agree to release your contribution under the CC0. See Public Domain Help Pages for more info. Some old revisions for this page were imported under CC BY-SA license. Only new contributions are PD.
+Translate
+Wiki pages can be exported in a special XML format to upload import into another MediaWiki installation (if this function is enabled on the destination wiki, and the user is a sysop there) or use it elsewise for instance for analysing the content.
+See also m:Syndication feeds for exporting other information but pages and Help:Import  on importing pages.
+How to export
+There are at least four ways to export pages:
+Paste the name of the articles in the box in Special:Export or use //www.mediawiki.org/wiki/Special:Export/FULLPAGENAME.
+The backup script dumpBackup.php dumps all the wiki pages into an XML file. dumpBackup.php only works on MediaWiki 1.5 or newer. You need to have direct access to the server to run this script. Dumps of Wikimedia projects are regularly made available at https://dumps.wikimedia.org/.
+Note: you might need to configure AdminSettings.php in order to run dumpBackup.php successfully. See m:MediaWiki for more information.
+There is a OAI-PMH-interface to regularly fetch pages that have been modified since a specific time. For Wikimedia projects this interface is not publicly available; see Wikimedia update feed service . OAI-PMH contains a wrapper format around the actual exported articles.
+Use the Pywikibot framework. This won't be explained here.
+By default only the current version of a page is included.
+Optionally you can get all versions with date, time, user name and edit summary.
+Optionally the latest version of all templates called directly or indirectly are also exported.
+Additionally you can copy the SQL database.
+This is how dumps of the database were made available before MediaWiki 1.5 and it won't be explained here further.
+Using 'Special:Export'
+To export all pages of a namespace, for example.
+Get the names of pages to export
+I feel an example is better because the description below feels quite unclear.
+Go to Special:Allpages and choose the desired article/file.
+Copy the list of page names to a text editor
+Put all page names on separate lines
+You can achieve that relatively quickly if you copy the part of the rendered page with the desired names, and paste this into say MS Word - use paste special as unformatted text - then open the replace function (CTRL+h), entering ^t in Find what, entering ^p in Replace with and then hitting Replace All button. (This relies on tabs between the page names; these are typically the result of the fact that the page names are inside td-tags in the html-source.)
+The text editor Vim also allows for a quick way to fix line breaks: after pasting the whole list, run the command :1,$s/\t/\r/g to replace all tabs by carriage returns and then :1,$s/^\n//g to remove every line containing only a newline character.
+Another approach is to copy the formatted text into any editor exposing the html. Remove all ‎<tr> and ‎</tr> tags and replace all ‎<td> tags to <tr><td> and ‎<td> tags to </td></tr> the html will then be parsed into the needed format.
+If you have shell and mysql access to your server, you can use this script:
+#
+mysql -umike -pmikespassword -hlocalhost wikidbname 
+select page_title from wiki_page where page_namespace=0
+EOF
+Note, replace mike and mikespassword with your own.  Also, this example shows tables with the prefix wiki_
+Prefix the namespace to the page names (e.g. 'Help:Contents'), unless the selected namespace is the main namespace.
+Repeat the steps above for other namespaces (e.g. Category:, Template:, etc.)
+A similar script for PostgreSQL databases looks like this:
+$ psql -At -U wikiuser -h localhost wikidb -c "select page_title from mediawiki.page"
+Note, replace wikiuser with your own, the database will prompt you for a password. This example shows tables without the prefix wiki_ and with the namespace specified as part of the table name.
+Alternatively, a quick approach for those with access to a machine with Python installed:
+Go to Special:Allpages and choose the desired namespace.
+Save the entire webpage as index.php.htm. Some wikis may have more pages than will fit on one screen of AllPages; you will need to save each of those pages.
+Run export_all_helper.py in the same directory as the saved file. You may wish to pipe the output to a file; e.g. python export_all_helper.py > main to send it to a file named "main".
+Save the page names output by the script.
+Perform the export
+Go to Special:Export and paste all your page names into the textbox, making sure there are no empty lines.
+Click 'Submit query'
+Save the resulting XML to a file using your browser's save facility.
+and finally...
+Open the XML file in a text editor. Scroll to the bottom to check for error messages.
+Now you can use this XML file to perform an import.
+Exporting the full history
+Exporting the revision history may be desirable to retain authorship information and attribution.
+A checkbox in the Special:Export interface selects whether to export the full history (all versions of an article) or the most recent version of articles.
+A maximum of 100 revisions are returned; other revisions can be requested as detailed in Parameters to Special:Export .
+Export format
+The format of the XML file you receive is the same in all ways.
+It is codified in XML Schema at https://www.mediawiki.org/xml/export-0.10.xsd
+This format is not intended for viewing in a web browser.
+Some browsers show you pretty-printed XML with "+" and "-" links to view or hide selected parts.
+Alternatively the XML-source can be viewed using the "view source" feature of the browser, or after saving the XML file locally, with a program of choice.
+If you directly read the XML source it won't be difficult to find the actual wikitext.
+If you don't use a special XML editor "<" and ">" appear as &lt; and &gt;, to avoid a conflict with XML tags; to avoid ambiguity, "&" is coded as "&amp;".
+In the current version the export format does not contain an XML replacement of wiki markup (see Wikipedia DTD for an older proposal).
+You only get the wikitext as you get when editing the article.
+Example
+  <mediawiki xml:lang="en">
+    <page>
+      <title>Page title</title>
+      <restrictions>edit=sysop:move=sysop</restrictions>
+      <revision>
+        <timestamp>2001-01-15T13:15:00Z</timestamp>
+        <contributor><username>Foobar</username></contributor>
+        <comment>I have just one thing to say!</comment>
+        <text>A bunch of [[Special:MyLanguage/text|text]] here.</text>
+        <minor />
+      </revision>
+      <revision>
+        <timestamp>2001-01-15T13:10:27Z</timestamp>
+        <contributor><ip>10.0.0.2</ip></contributor>
+        <comment>new!</comment>
+        <text>An earlier [[Special:MyLanguage/revision|revision]].</text>
+      </revision>
+    </page>
+    
+    <page>
+      <title>Talk:Page title</title>
+      <revision>
+        <timestamp>2001-01-15T14:03:00Z</timestamp>
+        <contributor><ip>10.0.0.2</ip></contributor>
+        <comment>hey</comment>
+        <text>WHYD YOU LOCK PAGE??!!! i was editing that jerk</text>
+      </revision>
+    </page>
+  </mediawiki>
+DTD
+Here is an unofficial, short Document Type Definition version of the format.
+If you don't know what a DTD is just ignore it.
+<!ELEMENT mediawiki (siteinfo,page*)>
+<!-- version contains the version number of the format (currently 0.3) -->
+<!ATTLIST mediawiki
+  version  CDATA  #REQUIRED 
+  xmlns CDATA #FIXED "https://www.mediawiki.org/xml/export-0.3/"
+  xmlns:xsi CDATA #FIXED "http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation CDATA #FIXED
+    "https://www.mediawiki.org/xml/export-0.3/ https://www.mediawiki.org/xml/export-0.3.xsd"
+  xml:lang  CDATA #IMPLIED
+>
+<!ELEMENT siteinfo (sitename,base,generator,case,namespaces)>
+<!ELEMENT sitename (#PCDATA)>      <!-- name of the wiki -->
+<!ELEMENT base (#PCDATA)>          <!-- url of the main page -->
+<!ELEMENT generator (#PCDATA)>     <!-- MediaWiki version string -->
+<!ELEMENT case (#PCDATA)>          <!-- how cases in page names are handled -->
+   <!-- possible values: 'first-letter' | 'case-sensitive'
+        'case-insensitive' option is reserved for future -->
+<!ELEMENT namespaces (namespace+)> <!-- list of namespaces and prefixes -->
+  <!ELEMENT namespace (#PCDATA)>     <!-- contains namespace prefix -->
+  <!ATTLIST namespace key CDATA #REQUIRED> <!-- internal namespace number -->
+<!ELEMENT page (title,id?,restrictions?,(revision|upload)*)>
+  <!ELEMENT title (#PCDATA)>         <!-- Title with namespace prefix -->
+  <!ELEMENT id (#PCDATA)> 
+  <!ELEMENT restrictions (#PCDATA)>  <!-- optional page restrictions -->
+<!ELEMENT revision (id?,timestamp,contributor,minor?,comment?,text)>
+  <!ELEMENT timestamp (#PCDATA)>     <!-- according to ISO8601 -->
+  <!ELEMENT minor EMPTY>             <!-- minor flag -->
+  <!ELEMENT comment (#PCDATA)> 
+  <!ELEMENT text (#PCDATA)>          <!-- Wikisyntax -->
+  <!ATTLIST text xml:space CDATA  #FIXED "preserve">
+<!ELEMENT contributor ((username,id) | ip)>
+  <!ELEMENT username (#PCDATA)>
+  <!ELEMENT ip (#PCDATA)>
+<!ELEMENT upload (timestamp,contributor,comment?,filename,src,size)>
+  <!ELEMENT filename (#PCDATA)>
+  <!ELEMENT src (#PCDATA)>
+  <!ELEMENT size (#PCDATA)>
+Processing XML export
+Many tools can process the exported XML.
+If you process a large number of pages (for instance a whole dump) you probably won't be able to get the document in main memory so you will need a parser based on SAX or other event-driven methods.
+You can also use regular expressions to directly process parts of the XML code.
+This may be faster than other methods but not recommended because it's difficult to maintain.
+Please list methods and tools for processing XML export here:
+Parse MediaWiki Dump (crates.io) is a Rust crate to parse XML dumps.
+Parse Wiki Text (crates.io) is a Rust crate to parse wiki text into a tree of elements.
+Parse::MediaWikiDump is a perl module for processing the XML dump file.
+m:Processing MediaWiki XML with STX - Stream based XML transformation
+The m:IBM History flow project can read it after applying a small Python program, export-historyflow-expand.py.
+Details and practical advice
+To determine the namespace of a page you have to match its title to the prefixes defined in
+/mediawiki/siteinfo/namespaces/namespace
+Possible restrictions are
+sysop - protected pages
+Why to export
+Why not just use a dynamic database download?
+Suppose you are building a piece of software that at certain points displays information that came from Wikipedia.
+If you want your program to display the information in a different way than can be seen in the live version, you'll probably need the wikicode that is used to enter it, instead of the finished html.
+Also if you want to get all of the data, you'll probably want to transfer it in the most efficient way that's possible.
+The Wikimedia servers need to do quite a bit of work to convert the wikicode into html.
+That's time consuming both for you and for the Wikimedia servers, so simply spidering all pages is not the way to go.
+To access any article in XML, one at a time, link to:
+Special:Export/Title_of_the_article
+See also
+Parameters to Special:Export 
+Manual:Moving a wiki 
+Exporting all the files of a wiki 
+Data portability on English Wikipedia
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Help:Export&oldid=6000430"
+Category: Help
+ This page was last edited on 23 June 2023, at 23:32.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About MediaWiki.org
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

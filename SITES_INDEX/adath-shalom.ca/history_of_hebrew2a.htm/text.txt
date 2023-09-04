@@ -1,0 +1,2781 @@
+History of the Hebrew Language by David Steinberg
+Edition 1.3
+26 January 2012
+ 
+ 
+To print use PDF file here 
+ 
+Return to Table of
+Contents
+History of the Ancient and Modern Hebrew Language
+By David Steinberg
+David.Steinberg@houseofdavid.ca
+Home
+page http://www.houseofdavid.ca/
+http://www.adath-shalom.ca/history_of_hebrewtoc.htm
+ 
+Excursus
+1
+Phonemic Structure of Hebrew[1]
+(part 2)
+d.
+Vowel Phonemes
+N.b. a convenient way to learn to hear and articulate
+vowel length is to listen carefully to: (a) recordings of a couple of spoken
+Arabic dialects; or, (b) recordings
+of Akkadian poetry.
+ 
+d.1 Diachronic Development of the Biblical Hebrew Vowel System 
+ 
+ 
+Box
+   15 - Distinctive Features of Hebrew Vowels
+"A distinctive feature ... is a
+  phonetic property that distinguishes groups of sounds in a given language.
+  And by applying these features to Hebrew, it should be possible to divide the
+  Hebrew vowels into phonetic groups, or classes of sounds.
+In ... (Hebrew) three features
+  distinguish the vowels one from another. Two of these features reflect the
+  position of the tongue. On a vertical axis, the degree to which the tongue is
+  raised above or lowered below its neutral position characterizes vowel height.... When
+  the tongue is raised, the vowel is high, when lowered it is low; the
+  intermediate zone produces mid vowels.... On a horizontal axis, the presence
+  of absence of lingual backward movement is also distinctive.... In retracted position, the
+  vowel is back; without retraction, the phone is nonback....
+The lips are responsible for the
+  third distinctive vocalic feature. A sound produced by articulating the upper
+  and lower lips (lip
+  rounding) is labial. Without articulation, the sound is non-labial....
+  Thus, the articulation of lips, tongue height, and tongue
+  retraction/non-retraction converge to differentiate Hebrew vowels one from
+  another....
+Quoted
+  from Garr 1991 §2.0.
+See -
+- IPA Chart With Audio
+- Height
+  and Backness of the vowel Systems of Proto-Hebrew, Secunda Hebrew, Tiberian,
+  Babylonian, and Palestinian Hebrew and Samaritan Hebrew
+ 
+Table 15
+Proto-Semitic to Tiberian Hebrew
+Vowel Phonemes[2] with Probable and Possible
+Allophones 
+PS[3]
+*/PS/ 
+(c. 3000 BCE)
+*PH
+(c. 1200 BCE)
+EBHP
+*/EBHP/+ *[EBHP] 
+(c. 850-550 BCE)
+PTH
+*/PTH/+
+  *[PTH]
+(c. 400 CE)
+TH 
+/TH/+ *[TH]
+(c. 850 CE)
+Short Vowel 
+Long Vowel
+Short Vowel 
+Long Vowel
+Short Vowel
+Long Vowel
+Ultra-short Vowel
+Short Vowel
+Long Vowel
+/TH/+
+*Ultra-short Vowel
+*[TH]
+Short Vowel
+*[TH]
+Long Vowel
+/i/
+[i] [ɪ]
+  [ẹ]
+  
+ῑ /iː/
+/i/
+[i] [ɪ] [ẹ]
+ῑ, î /iː/
+/i/
+[i] [ɪ]
+  [ẹ/ɛ]
+ῑ, î /iː/
+  [iː]
+/ә/[4]
+[ĭ], [ă], [ĕ], [ŏ], [ŭ]
+/i/
+[i] [ɪ]
+ῑ, î /iː/
+/i/
+ḥîreq
+/ә/
+[ɐ̆] [ɛ̆] [ĕ] [ĭ] [ɔ̆]
+  [ŏ] [ŭ]
+ 
+[i]
+[iː]
+ē /eː/[5]
+ē ê 
+eː
+/eː/
+[ẹː][ɛː]
+/e/
+[ẹ] [ɛ]
+ē, ê 
+  /eː/
+[ẹː][ɛː]
+/ẹ/
+Ṣērê
+[ɛ]
+[ẹː]
+/a/
+[ɛ],
+  [a] [ɐ] [ɔ]?
+[ɔ̝]?
+ā /aː/
+  [aː], 
+  [ɐː]
+/a/
+[ɛ], [a] [ɐ]
+  [ɔ]? [ɔ̝]?
+/a/
+[ɛ]
+  [a] [ɐ] [ɔ]?
+[ɔ̝]?
+/ɛ/[6]
+Sĕgōl
+[ɛː]
+ā /aː/?
+[aː] 
+  [ɐː]
+â, ā?, aː /aː/
+[aː], 
+  [ɐː]
+/a/
+[a] [ɐ] [ɔ]? [ɔ̝]?
+/aː/
+[aː] 
+  [ɐː]
+/a/
+Pataḥ
+[ɐ]
+[ɐː]
+å, ɔ /ɔ/[7]
+Qāmeṣ
+[ɔ]
+[ɔː]
+/u/
+[o̞]?
+  [o]
+  [ʊ]
+  [u]
+ū /u:/
+/u/
+[o̞]? [o] [ʊ] [u]
+ō /oː/
+/u/
+[o̞]
+  [o]
+  [ʊ]
+  [u]
+ō, ô,
+  oː 
+  /oː/[8] [oː]
+/o/
+[o̞] [o]
+ō, ô 
+  /oː/
+/o/
+Ḥōlem
+[oː]
+ū û /u:/
+ū, û /u:/
+/u/
+[ʊ]
+  [u]
+ū, û /u:/
+/u/
+Qibbuṣ-Šûreq
+[u]
+[u:]
+Šwa
+  and Ḥatef Vowels
+Note
+- probable allophones are unmarked; possible allophones are marked with
+"?"
+ 
+Box
+   16 - Semitic Vowels and their Actualization
+"Common
+  Semitic or Proto-Semitic has three short vowels (§ 10.5): low/open back velar
+  a, high/close front palatal i, and high/close back velar u
+  with strongly rounded lips. It also possesses the three corresponding long
+  vowels ā,
+  ī, ū. Although additional vocalic
+  phonemes have arisen in various Semitic languages, there are no sufficient
+  grounds to suppose that other vowels belong to the original core of the
+  Semitic phonemic system.... However, the
+  realization of the Semitic vowels a, i, u in actual speech can produce
+  other vocalic sounds, mainly in the case of short vowels (cf. §10.11).
+  There is a widespread tendency in Semitic to pronounce high and low vowels,
+  especially when they are unstressed, as mid vowels [e], [ә], [o]....  Thus short [i] and [u] tend to become [ә], as in Ethiopic (§21.30), and the same can happen with [a].... Besides,
+  [i] can easily become [e] by lowering the tongue, [u] becomes then [o]. The
+  lack of appropriate vocalic signs, especially for [ә] and [o], does often not allow determining the presence of these
+  vowels in an accurate way, and "e" will then stand for [ә] and "u" for [o] (§21.3). On the other
+  side, a stressed short vowel tends to
+  become long, and its articulation may at the same time be lowered (e.g. i
+  > ī > ē) or raised (e.g. a
+  > ā > ō)[9]. Some of these new vowels may
+  acquire a phonemic status in a determined language."
+Quoted
+  from Lipinski 1997
+  §21.1.
+ 
+"The short vowels (in
+  Colloquial Arabic) are found in an unsystermatizable multiplicity of
+  qualities; many if not all of them were probably already present in Classical
+  Arabic and only hidden by the orthography, which is limited to three sort
+  vowels a i u. This limitation is
+  legitimate to the extent that, as in fact seems also to be the case in the
+  modern dialects, all that matters for the meaning of the word is whether the
+  vowel belongs to the a-, i- or u-group, while the gradation within the groups depends on
+  accent, syllable structure, neighboring consonants. and also the vowels of
+  adjacent syllables. [Note - Bergsträsser here applies the phonemic
+  principle in the analysis of the minute phonetic detail recorded in his
+  sources.] The a-group stretches from e to o, thus
+  bordering the i- and u- groups on the two sides, and has
+  borderline cases in common, which must especially kept in  mind 
+  in the e direction. Even the opposition i : u,
+which for us is established by the contrary natures of the two vowels and
+  in fact appears to be thoroughly realized in Classical Arabic, holds for the
+  dialects only with qualifications: in part 
+  they have a full-fledged scale of transitions from i to u,
+  within which the exact placement of the vowel is influenced by accent, syllable
+  structure, and phonetic environment; but in part they make the
+  DISTINCTION BETWEEN i and u  dependant on such features. Colloquial
+  Arabic thus reflects the proto-Semitic situation in this regard rather
+  accurately, - Beyond fluctuations within the same quality group, switches
+  from one group to another are common. The direction is usually from the a-group
+  to the i/u-group "
+Quoted from Bergstärsser 1928/83
+  p. 188-189.
+ 
+"In numerous Lebanese dialects
+  both vowel quality and quantity are affected by pause, i, u, and a
+  becoming ē, ō and ā (or ä); thus,
+  e.g., in Bišmizzin, contextual byínzil, "he goes down", byúktub
+  "he writes", byíftaḥ  "he opens" appear in pause as byínzēl,
+  byúktōb, byíftāḥ."
+Quoted
+  from Morag 1989 (p. 102)
+ 
+ 
+In reconstructing the early
+Semitic and subsequent Hebrew vowel systems it is essential to keep in mind:
+1.
+the distinction at every stage between the probable phonemic structure of the
+vowel system and the bundle of phones likely to have made up each phoneme. It is probable that the full natural
+scale of the principal vowel qualities[10] - i, e, a, o, u - would
+have been heard in the speech of Semitic speakers throughout the centuries though the specific qualities of these vowels is mostly unrecoverable
+and would, in any case, have varied with time, dialect etc. 
+2. that Proto-Semitic is thought to have had a similar vowel and
+stress system to that of Classical Arabic. The written vowel tradition of
+Classical Arabic recognizes 3 phonemic qualities of vowel each of which has 2
+phonemic lengths- i/ī, a/ā, u/ū[11], However, early Greek transcriptions[12] of Arabic names show that Arabic of the
+period possessed the following vowels i, e, ə, a, o, u.
+3. that
+ancient Semitic languages, and most modern Arabic dialects,
+phonemically distinguished between short and long vowels. The long vowels were
+usually quite distinct but the short vowels easily interchanged. To give an
+example from Egyptian Arabic[13], a language
+that parallels Ancient Hebrew in numerous ways, there are three short vowels i, a, u and 5 long
+vowels ī, ē, ā, ō, ū [14]. However, the actualization of /a/ includes [a] and [ɔ]; that of /i/ includes [i] and [e]; that
+of /u/ includes [u] and [o]. The allophone
+pronounced depends on such factors as: the nature of the surrounding
+consonants; whether the syllable is long or short, closed or open; stress;
+dialect; speed of speaking and even the sex of the speaker[15]. In Palestinian Arabic /u/ is pronounced
+[o] and /i/ [e] before the (non-geminated) final consonant of words[16]. Thus /ʾuktub/ is
+pronounced [ʔuktob] and /kātib/ is pronounced [kāteb]. It is
+interesting to note the similarity of result, regarding the final vowel, to the
+qal imperfect יקטל (TH יִקְטֹל;
+EBHP /yiqˈtul/ [yɪqˈtʊl] or [yɪqˈto̞l]), and SC כבד (TH כָּבֵד; EBHP /kaˈbid/ [kɐˈbɪd]
+or [kɐˈbɛd]) and the qal active participle קטל (TH קֹטֵל; EBHP (constr.) [qoːˈtɪl] or [qoːˈtɛl]).
+Unlike
+the living Arabic dialects, we can never recapture the rich reality of the
+sound of EBHP. A possible indication of the missing dimensions is given by Rice
+and Sa'id in their book Eastern Arabic (p. 5) -
+In addition to word stress, Arabic also has another system
+of prominence that works independently of stress. We call this vowel
+prominence. Like stress, it too is automatic. A long vowel has more sonority (amplitude,
+loudness) than a short vowel .... 
+A short vowel immediately followed by a double consonant is
+more tense than a short
+vowel elsewhere.... This tenseness is preserved even when the double consonant
+is not followed immediately by a vowel...
+As a result of these three features of word stress,
+sonority, and tenseness, the acoustic impression of Arabic is quite different
+from that of English.
+ 
+Table 16 - Long Vowels in EBHP by Origin
+ 
+Irreducible Long Vowels
+ 
+Long
+Vowel
+Primitive Long Vowel
+Vowel
+   Lengthened Through Contraction
+Vowel
+   Lengthened
+   Through Stress
+Homogeneous Diphthong
+  Contraction
+Heterogeneous Diphthong
+  Contraction
+[iː]
+ῑ
+íwy >úːy >íyy >î [íː] e.g
+e.g. */ˈkiwyu/ > */ˈkûy/ > */ˈkiyy/ > */ˈkiy/
+  > /ˈkî/
+(TH כִּי) 'burning'
+ 
+íy > î [íː]  e.g
+e.g. */ˈyíybašu/ > */ˈyîbašu/ > /yîˈbaš/ 
+(TH יִיבַשׁ) 'it will be dry'.
+ 
+Word-final iy > î  e.g
+*/ˈkalyu/ > */ˈkaly/ (/EBHP?/) > */ˈkaliy/ (/EBHP?/) > */ˈkalî/ (/EBHP?/) (TH  כְּלִי *[kәˈliː]
+  (contextual) or כֶּלִי *[ˈkɛːli] (pausal) [17] 'tool'
+*/ˈyihyay/ > */ˈyihy/ (/EBHP?/)  > */ˈyihiy/
+  (/EBHP?/) > */ˈyihî/ (/EBHP?/) > (TH /yˈhi/)  "may he
+  be"
+ 
+úy > î  e.g. /wayˈyúyśam/ >
+  /wayˈyîśim/
+  (TH  וַיִּשֶֺם ) 'he put'.
+ 
+ 
+[eː]
+TH מֵת - see next column.
+Word-final
+  áyu > ê [éː] e.g.
+*/šamōˈnayu/
+(PH) →
+(/EBHP/+) */šạmōˈnê/ >  (TH) /šmōˈnê/
+ 
+Word-final
+  íyu > ê [éː] e.g.
+*/bāˈniyu/ → */bōˈnê/ ('building' qal a.p. ms.)
+ 
+מת (TH מֵת) 'dead' (adj.) - the origin of the long eː is unclear i.e. it might have been */ˈmêt/ or */ˈmēt/. In either case we should see מֵת the 3ms. SC as having a stress lengthened, and hence reducible,
+  vowel i.e. */ˈmeːt/. 
+In transcriptions of EBHP I will use */ˈmêt/
+ 
+*qiʾl >* qệl
+  > qʾệl
+Unstressed
+  diphthong contracts ay > ê [eː] e.g.
+*/bayt/ > /bêt/
+(TH בֵּית) 'house of-'
+*/kaˈbidu/ > */kaˈbeːd/
+(TH כָּבֵד)  'heavy' (adj.)
+[aː]
+TH קָם - see next column.
+Word-final
+  áya > [áː] e.g.
+/baˈnaya/ (PH)
+  > /baˈnay/
+  > /baˈnâ/
+  (/EBHP/+)
+ 
+קם (TH קָם) 'standing' (qal ms. ap.) as an example of the large class of II-w and II-y roots.
+The origin of the long aː is unclear i.e. it might have been */ˈqâm/ or */ˈqām/. In either case we should see קָם the 3ms. SC as having a stress lengthened, and hence reducible,
+  vowel i.e. */ˈqaːm/.
+In transcriptions of EBHP I will use */ˈqâm/ for the participle and 
+*/ˈqaːm/ for the 3ms. SC.
+ 
+*/ˈyadu/ > */ˈyaːd/
+(TH יָד)  'hand'
+[oː]
+ō (ō < ā)
+  e.g.
+/ˈqāṭilu/ (PNWS) → /qōˈṭeːl/ (/EBHP/+)
+בוש (TH בּוֹש) 'ashamed' (adj.) - the origin of the long oː is unclear. */ˈbôš/
+ 
+áʾ not immediately followed by a vowel shifts to â [áː] e.g
+/ˈraʾšu/ > /ˈrâšu/ → /ˈrôš/ (/EBHP/+) 'head'.
+Unstressed
+  diphthong contracts aw > ô [oː] e.g.
+*/mawt/ > /môt/ 
+(TH מוֹת) 'death of-'
+*/gaˈdulu/ > */gaˈdoːl/
+(TH גָּדוֹל)  'big' (adj.)
+ 
+[uː]
+ū
+úw > û 
+  e.g. /ˈhúwšabtima/ → /hûšabˈtim/ e.g 
+(TH הושַבְתֶּם) 'you were made to
+  dwell'
+ 
+íw > û  e.g.
+/ˈyíwkalu/ > /ˈyûkalu/ → /yûˈkal/
+(TH יָכוֹל ) 'he will be
+  able'.
+ 
+ 
+ 
+4.
+that while there two phonological vowel lengths there often (always?) are at
+least 4 phonetic vowel lengths i.e. 
+o       
+short vowels are longer when stressed
+particularly in closed syllables. In addition word final short vowels, as often
+in Arabic[18], were probably shortened
+long vowels in quality rather than lengthened short vowels. Thus
+for /i/, the short vowel within the word was likely pronounced as the laxer
+vowel [ɪ]
+while the short vowel at end of word as the tenser vowel [i].
+Cf. to the parallel long vowel pronounced [iː].
+o       
+long vowels e.g. /iː/ are longer
+when stressed [iːˑ].
+In the
+history of Hebrew prior to the middle ages it seems to me that the appearance
+of new long phonemic vowels may have stimulated a reanalysis of the short
+vowels to parallel the long vowels[19].
+ 
+Table 17 - Shifts in Proto-Semitic
+   Vowels as Hebrew Developed
+PS
+*/PS/ 
+(c. 3000 BCE)
+*PH
+(c. 1200 BCE)
+EBHP
+*/EBHP/[20] *[EBHP] [21]
+(c. 850-550
+   BCE)
+PTH
+*/PTH/+
+(c. 400 CE)
+TH 
+/TH/+ *[TH]
+(c. 850 CE)
+IH 
+/IH/ [IH]
+(present)
+/a/
+/a/ - /šaˈlaːmu/
+“peace”
+/a/ - /šaˈlōm/
+  [ʃɐˈloːm] 
+/aː/ - /šaːˈlōm/ 
+/å/ -  שָׁלוֹם 
+  /šåˈlom/ [ʃɔːˈloːm]
+/a/ - /šaˈlom/ [ʃɐˈlom]
+/a/ - /qaˈtalat/ “she
+  killed”
+/aː/
+  - /qaˈtạlâ/
+[qɐˈtɐ̣lɐˑ]
+/aː/
+- /qaˈtalaː/ >
+/qaːˈtalaː/ > 
+/qaːtәˈlaː/
+/å/ - קָטְלָה
+/qåṭәˈlå/ [qɔːṭәˈlɔː]
+/a/ - /qaṭˈla/ [kɐtˈlɐ]
+/a/ - /ˈdabaru/
+/a/ - /daˈbaːr/
+[dɐˈbaːɾ]
+/aː/
+  - /daːˈbaːr/ 
+/å/ -  דָּבָר
+/dåˈbår/ [dɔːˈvɔːɾ]
+/a/ - /daˈbar/ 
+  [dɐˈvɐʁ̞]
+/a/ - /ˈqatalat/
+“she
+  killed”
+/a/
+  - /qaˈtạlâ/
+[qɐˈtɐ̣lɐˑ]
+/ә/
+  - /qaˈtalâ/ >
+/qaːˈtalâ/ > /qaːtәˈlaː/
+/ә/
+  - קָטְלָה
+/qåṭәˈlå/ [qɔːṭәˈlɔː]
+/∅/
+  - /qaṭˈla/ [kɐtˈlɐ]
+/a/
+  - /ˈkattaba/
+piel
+  SC 3ms.
+/i/ - /kitˈtib/
+[kɪtˈtɪb]
+/i/
+  - /kitˈtẹb/
+/i/
+  - כִּתֵּב
+/kitˈtẹb/ [kitˈtẹːv]
+/i/
+  - /kiˈteb/ [kɪˈtɛv]
+/a/ - /ˈkattaba/
+piel
+  perf. 3ms.
+/i/ - /kitˈtib/
+  
+[kɪtˈtɪb]
+/e/
+  - כִּתֵּב
+/kitˈteb/
+/ẹ/
+  - כִּתֵּב
+/kitˈtẹb/ [kitˈtẹːv]
+/e/
+  - /kiˈteb/ [kɪˈtɛv]
+ 
+particle
+  attached to the direct object
+/a/ -/ˌʾat/
+[ˌʔɐt]? [ˌʔɛt]?
+/e/
+  - /ˌʾat/ > /ˌʾet/
+/ẹ/
+  - אֵת /ˌʾẹt/
+  [ˌʔẹːθ]
+ /ʾet/
+  [ɛt]
+  or [t]
+/a/ - /ˌʾat/
+[ˌʔɐt]? [ˌʔɛt]?
+/e/
+  - /ʾat/ > /ʾet/
+/ɛ/ - אֶת־ /ʾɛt/
+  [ˌʔɛθ]
+/aː/
+/aː/ -
+/šaˈlaːmu/ “peace”
+/oː/ -
+/šaˈloːm/ [ʃɐˈloːm]  
+/oː/ -
+/šaːˈlōm/ 
+/oː/  שָׁלוֹם
+/šåˈlom/ [ʃɔːˈloːm]
+a - /šaˈlom/
+ [ʃɐˈlom]
+/aː/ - /ˈṭābu/
+  “good”
+/ō/ - /ˈṭōb/
+[ˈtob]
+/ō/ - /ˈṭōb/
+/o/ - /ˈṭob/  טוֹב
+[ˈṭoːv]
+/o/ - /ˈṭob/ [ˈtov]
+/i/
+/i/
+  - /ṣiˈrāru/
+“bag”
+/i/
+  - /ṣiˈrōr/
+[ṣɪˈɾoːɾ]
+/ә/?
+  /Ø/?- /ṣәˈrōr/
+/ә/
+  - צְרוֹר
+/ṣәˈror/ [ṣәˈɾoːɾ]
+/∅/
+  - /ṣ∅ˈror/ [tsˈʁ̞oʁ̞]
+/i/
+  - /ˈsiprahu/
+“his
+  book”
+/i/
+  - /sipˈrahu/
+  >
+/sipˈrô/ [sɪpˈɾoː]
+/i/
+  - /sipˈrô/
+/i/
+  - סִפרוֹ
+/sipˈro/ [sifˈɾoː]
+ 
+/i/
+  - /sipˈro/ [sifˈʁ̞o]
+/i/
+  - /i/ 
+/qitˈtil/ adjectives
+  of infirmities
+/i/
+  - /i/ - /ʾilˈleːm/
+[ʔɪlˈlẹːm]
+  "deaf"
+/i/
+  - /e/
+  -  /ʾilˈleːm/
+i
+  - ẹ
+  - אִלֵּם
+/ʾilˈlẹm/ [ʔilˈlẹːm]
+/i/
+  - /e/
+  - /ʾiˈlem/ 
+  [iˈlɛm]
+/ciwˈweːr/ 
+[cɪwˈwẹːɾ] "blind"
+/ciwˈweːr/
+עִוֵּר
+/ciwˈwẹr/ [ciwˈwẹːɾ]
+/ciˈver/ [iˈvɛʁ̞]
+/i/
+  - /ˈʾāsiru/ qal
+  a.p.
+“one who
+  ties”
+/i/ - /’ōˈseːr/
+[’oːˈsẹːɾ]
+/e/ - /’ōˈseːr/
+/ẹ/ - אֹסֵר
+/’oˈsẹr/ [’oːˈsẹːɾ] 
+/e/
+  - /’oˈser/ [oˈsɛʁ̞]
+/i/
+  - /ˈʾilu/ “god”
+/i/ - /ˈʾeːl/ [ˈʔẹːl]
+/e/ - /ˈʾeːl/
+/ẹ/ - אֵל /ˈʾẹl/ [ˈʔẹːl]
+/e/ - /ˈʾel/ [ˈɛl]
+/ī/
+/iː/ - /’aˈsīru/
+“prisoner”
+/iː/
+  - /’aˈsiːr/
+[’ɐˈsiːɾ]
+/iː/
+  - /’aːˈsiːr/
+/i/ - אָסִיר
+/’åˈsir/ [’ɔːˈsiːɾ] 
+/i/ - /’aˈsir/
+[ɐˈsiʁ̞]
+/ī/ - /ˈmīnu/
+“kind,
+  variety”
+/ī/ - /ˈmīn/
+[ˈmiːn]
+/ī/ - /ˈmīn/
+/i/ - מִין
+/ˈmin/ [ˈmiːn]
+/i/ - /ˈmin/ [ˈmin]
+/u/
+/u/
+  -
+/ˈdubbara/
+“it was
+  said”
+/u/
+  - /dubˈbar/
+[dʊbˈbɐɾ]
+/u/
+- /dubˈbar/
+/u/
+- דֻּבַּר
+/dubˈbar/ [dubˈbɐɾ]
+/u/
+- /duˈbar/ 
+  [dʊˈbɐʁ̞]
+/u/ - /ˈruḥābu/
+  > /ruˈḥōbu/
+"plaza
+  inside city gate"
+/u/
+- /rụˈḥōb/
+  [ɾʊ̣ˈħoːb]
+/ә/?
+  /Ø/?
+  - /rәˈḥōb/
+ә
+  - רְחוֹב
+/rәˈḥob/
+[ɾәˈħoːv]
+/ә/
+  - /rәˈḥob/
+ [ʁ̞әˈxov]
+/u/ -
+/ˈgudlahu/
+“his
+  greatness”
+/u/
+  - /gudˈlahu/ >
+  /gudˈlô/ [go̞dˈloː] 
+/o/
+  - /gudˈlô/
+/ɔ/ - גָּדלוֹ
+/gǫdˈlo/ [gɔðˈloː]
+/o/- /godˈlo/
+ [godˈlo] 
+/u/
+  - /ˈyaqum/
+“let him
+  stand”
+/u/
+  - /ˈyaqum/
+[ˈyɐqʊm]? [ˈyɐqo̞m]?
+/u/
+  - /yaːˈqum/
+/o/- יָקֹם
+/yåˈqom/ 
+*[yɔːˈqoːm]
+/o/
+  - /yaˈqom/ 
+ [yɐˈkom]
+ 
+/u/
+  - 
+/wayˈyaqum/
+“he
+  stood”
+/u/
+  - /wayˈyaqum/
+[wɐyˈyɐqʊm]?
+[wɐyˈyɐqo̞m]?
+/u/
+  - /wayˈyaːqum/
+/ɔ/
+  - 
+/wayˈyåqǫm/
+*[wayˈyɔːqɔm]
+/waˈyaqom/ 
+  [vɐˈyɐkom] or
+  /waˈyaqam/  
+  [vɐyɐˈkɐm]
+/ū/
+/ū/ -
+/yaˈqūmu/
+“he will
+  stand”
+/uː/
+  - /yaˈqūm/
+[yɐˈquːm]
+ 
+/uː/
+  - /yaːˈqūm/
+/u/
+  - יָקוּם
+/yåˈqum/
+*[yɔːˈquːm]
+/u/
+  - /yaˈqum/
+ [yɐˈkum]
+/uː/ - /ˈṭūbu/
+“goodness”
+/uː/ - /ˈṭūb/
+[ˈṭuːb]
+/uː/ - /ˈṭūb/
+/u/ - טוּב
+/ˈṭub/ [ˈṭuːv]
+  
+/u/ - /ˈṭub/ [ˈtuv]
+/aw/[22]
+/aw/ -
+/ˈmawtu/ “death”
+/aw/ - /ˈmawt/
+[ˈmɐwt] 
+/awe/ -- /ˈmaːwet/
+/åwɛ/ - מָוֶת
+/ˈmåwɛt/ [ˈmɔːwɛθ]
+/awe/ - /ˈmawet/
+  [ˈmɐvɛt]
+/aw/ - /mawt/
+“death
+  of”
+/aw/ - /ˌmawt/
+[ˌmɐwt]/[ˌmo̞wt]
+/ô/ - /ˌmôt/
+/o/
+  - מוֹת
+/ˌmot/ [ˌmoːθ]
+/o/
+  - /ˌmot/ [mot]
+/ay/
+/ay/ - /ˈbaytu/
+"house"
+/ay/ - /ˈbayt/
+[ˈbɐyt] 
+/ayi/ - /ˈbayit/
+/ayi/ -
+בַּיִת
+/ˈbayit/
+  [ˈbɐːyiθ]
+/ayi/ - /ˈbayit/ [ˈbɐyɪt]
+/ay/ - /bayt/
+"house
+  of"
+/ay/ - /ˌbayt/
+[ˌbɐyt]/[
+  ˌbɛyt]
+/ệ/
+  - /ˌbệt/
+/ẹ/
+  - בֵּית
+/ˌbẹt/
+  [ˌbẹːθ] 
+/e/ - /ˌbet/
+  [bɛt]
+ 
+ 
+Table
+   18 - Vowel Length Minimal
+   Pairs in EBHP and their
+   Transformation in Later Hebrew
+Consonantal Phonemes
+EBHP
+*/EBHP/+ [23] *[EBHP]
+(c. 850-550 BCE)
+PTH
+*/PTH/+
+(c. 400 CE)
+TH 
+/TH/+ *[TH]
+(c. 850 CE)
+IH
+[IH] = [BHIH]
+(Present)
+ 
+/a/
+   - /ā/
+גלה
+   /gaˈlâ/
+[gɐˈlɐː]
+"he went into exile". Qal
+   3ms. SC of √GLH
+)
+/gaːˈlaː/
+גָּלָה 
+/gåˈlå/
+[gɔːˈlɔː]
+[gɐˈlɐ]
+גלה
+/gāˈlâ/ [gaːˈlɐː]
+"she rejoices"
+Qal participle fs. SC of √GYL
+/gaːˈlaː/
+גָּלָה
+/gåˈlå/
+[gɔːˈlɔː]
+/u/
+   - /ū/
+תמת
+/ˈtamut/
+[ˈtɐmʊt]? [ˈtɐmo̞t]?
+   "may she die" Jussive)
+/taːˈmot/
+תָּמׁת
+/tåˈmot/
+[tɔːˈmoːθ] 
+Nu. 23:10
+[tɐˈmot]
+תמות
+/taˈmūt/ [tɐˈmuːt]
+"she
+   will die" Indicative
+/taːˈmuːt/
+תָּמוּת
+/tåˈmut/ [tɔːˈmuːθ] 
+Ex. 7:18
+[tɐˈmut]
+/i/
+   - /ῑ/
+מן
+/min/ [mɪn-]
+"from"
+/min/
+מִן־
+/min/ [min-]
+[min]
+מין
+/ˌmῑn/ [ˌmiːn]
+"kind
+   of, type of"
+/ˌmiːn/
+מִין
+/ˌmin/ [ˌmiːn]
+[ˌmin]
+בן
+/ˈbeːn/ [ˈbẹːn]
+"son"
+absolute
+   stressed form
+/ˈbẹːn/ 
+בֵּן
+/ˈbẹn/ [ˈbẹːn]
+[ˈbɛn]
+בן
+/bin/
+[bɪn-]? [bɛn-]?[1]
+"son
+   of-"
+/bɛn/
+constr.
+   unstressed form)
+בֶּן־
+/bɛn/ [bɛn-]
+[bɛn-]
+בין
+/bῑn/ [ˈbiːn] "understanding"
+   Qal inf. constr.
+/ˈbīn/
+בִּין
+/ˈbin/ [ˈbiːn]
+[ˈbin]
+/ῑ/
+   - /ay/
+סוסי
+/sūˈsiː/ [suːˈsiː]
+   "my horse"
+/sūˈsiː/
+סוּסִי
+/suˈsi/ [suːˈsiː]
+ 
+[suˈsi]
+סוסי 
+/sūˈsay/ [suːˈsɐy]
+   "my horses"
+/sūˈsay/
+סוּסַי
+/suˈsay/
+[suːˈsɐy]
+[suˈsɐy]
+/aː/ - /aw/
+שר 
+/ˈšār/ [ˈʃaːɾ]
+   'he sang'
+ֺ/ˈšaːr/
+ֺשָר
+/ˈšår/ 
+   [ˈʃɔːɾ]
+[ˈʃɐʁ̞]
+ 
+שור 
+/ˈšawr/ [ˈʃɔ̝wɾ]
+   'ox'
+/ˈšôr/
+שׁוֹר 
+/ˈšor/ [ˈʃoːɾ]
+[ˈʃoʁ̞]
+ 
+Table 19
+Vowel
+Phonemes Minimal Pairs */EBHP/
+(c. 700-600 BCE)
+a
+aː
+i
+iː
+u
+uː
+oː
+eː
+ay/aːy
+aw/aːw
+a
+/gāˈlâ/: /gaˈlâ/[24]
+/ˌʾil/: /ʾal/[25]
+/qaˈṣar/: /qaˈṣῑr/[26]
+/qaˈtal/:
+  /quˈtal/[27]
+/ˌcūl/:
+  /cal/[28]
+/ˌʾab/:
+/ˌʾōb/[29]
+ 
+ 
+ 
+ 
+aː
+/ˌbin/:
+/ˌbān/[30]
+/sūˈsâ/: /sūˈsῑ/[31]
+/ˌtār/:
+/ˌtur/[32]
+/qaˈtalâ/: /qaˈtalū/[33]
+/sūˈsâ/: /sūˈsō/[34]
+ 
+/sūˈsâ/:
+  /sūˈsay/[35]
+/sūˈsâ/: /sūˈsâw/[36]
+ 
+ 
+i
+/ˌbin/:
+/ˌbῑn/[37]
+ 
+ 
+/*kaˈbōd/:
+  /kaˈbid/[38]
+ 
+ 
+ 
+ 
+ 
+ 
+iː
+ 
+/ˈqūmῑ/:
+  /ˈqūmū/[39]
+/sūˈsῑ/:
+  /sūˈsō/[40]
+/yirˈṣê/: /yirˈṣū/[41]
+/sūˈsiː/: /sūˈsay/[42]
+/sūˈsῑ/:
+  /sūˈsāw/[43]
+ 
+ 
+ 
+ 
+u
+*/muˈtῑ/:
+  /mūˈtῑ/[44]
+/yaˈkōl/:
+  /yaˈkul/[45]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+uː
+/ˈqōm/:
+  /ˈqūm/[46]
+/raˈṣê/: /raˈṣū/[47]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+oː
+/raˈṣō/: /raˈṣê/[48]
+/sūˈsô/: /sūˈsay/[49]
+/sūˈsô/: /sūˈsâw/[50]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+eː
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ay/aːy
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+aw/aːw
+ 
+ 
+Box
+   17 - Distinctive Features of TH Vowels
+The .. (TH) vowel system is
+  primarily quality-sensitive, arranged in a four-tier structure of vowel
+  height. The upper three tiers contain pairs of vowels, internally
+  differentiated by backness and labiality. On the lowest tier lies the
+  nonlabial, back [ɑ].
+i                        u
+   
+  e                   o
+        ɛ                    ɔ
+                          ɑ
+Each vowel sign represents
+  a unique vowel quality.
+This system also accommodates
+  vowel length. Yet since length is not intrinsic to any one vowel, this
+  feature must be uncovered by grammatical investigation. Whereas vowel quality
+  is overt in ... (TH), vowel quantity is covert (GKB §10d ).
+Quoted
+  from Garr 1991 §10.
+See -
+- IPA Chart With Audio
+- Height
+  and Backness of the vowel Systems of Proto-Hebrew, Secunda Hebrew, Tiberian,
+  Babylonian, and Palestinian Hebrew and Samaritan Hebrew
+ 
+ 
+Table 20
+Vowel System Tiberian
+Hebrew (TH)
+[51] 
+1.
+Full Vowels
+(See Were there Long
+and short vowels in TH and, if so, were they Phonemic?)
+Tiberian Vowel
+  Sign
+Traditional
+  Name
+/TH/+
+(vowel
+  chart)
+*[TH][52]
+ 
+Short Vowel
+Stressed
+  and Open[53]
+  Unstressed Syllables
+בָּ
+Qāmeṣ gādôl [54]
+å (IPA [ɔ])
+ 
+åː (IPA
+  [ɔː])
+כָּל־
+Qāmeṣ ḥāṭûp/ qāmeṣ qāṭān
+ǫ (IPA [ɔ])
+ǫ (IPA [ɔ])
+ 
+בַּ
+Pataḥ
+a (IPA [ɐ])
+a (IPA [ɐ])
+aː/ā/â (IPA [ɐ:])
+בֶּ
+Sĕgōl
+Ɛ (IPA [ɛ])
+ɛ (IPA [ɛ])
+ 
+בֶּי,
+  בֶּה, בֶּא
+Sĕgōl mālê
+ 
+ɛː/ɛ̂ (IPA [ɛː])
+בֵּ
+Ṣērê 
+ẹ (IPA [e])
+ 
+ẹː/ẹ̄/ệ
+  (IPA [eː])
+בֵּי,
+  בֵּה, בֵּא
+Ṣērê mālê
+ 
+בִּ
+Ḥîreq
+i (IPA [i])
+i (IPA [i])
+ 
+בִּי
+Ḥîreq mālê
+ 
+ 
+iː/ῑ /î  (IPA [iː]).
+בֹּ
+Ḥōlem
+o (IPA [o])
+ 
+oː/ō/ô (IPA [oː])
+בּוֹ
+Ḥōlem mālê
+ 
+בֻּ
+Qibbuṣ
+u (IPA [u])
+u (IPA [u])
+ 
+בּוּ
+Šûreq
+ 
+uː/ū/û (IPA [uː])
+ 
+2. Šwa and Ḥaṭep
+or Ḥaṭaf Vowels
+(See What are the Šwa and Ḥatef Vowels and How
+were they Pronounced?)
+Tiberian Vowel
+  Sign
+Traditional
+  Name
+/TH/+
+*[TH]
+ 
+בְּ
+Mobile or Vocal Šwa 
+ә
+ә
+ 
+בְּ
+Silent or Quiescent Šwa
+∅
+∅
+בֲּ
+Ḥaṭep-pataḥ
+ă
+ă
+בֱּ
+Ḥaṭep-sĕgōl
+ɛ̆
+ɛ̆
+בֳּ
+Ḥaṭep-qāmeṣ
+ɔ̌
+ɔ̌
+ 
+ 
+Table 21 - Tiberian Vowels of the Same
+   Quality often Have Diverse Origins
+*/PH/
+(c. 1200 BCE) 
+EBHP
+*/EBHP/+ *[EBHP]
+(c. 850-550 BCE)
+PTH
+*/PTH/+
+(c. 400 CE)
+TH 
+/TH/+ *[TH]
+(c. 850 CE)
+BHIH
+[BHIH] = [IH]
+(present)
+/baytu/
+  > /bayt/
+/ˌbayt/
+  'house of'
+[ˌbayt]/[ˌbɛyt]
+[EBHisr] [ˌbệt]
+/ˌbệt/
+בֵּית
+/ˌbẹt/
+  [ˌbẹːt]
+ 
+[ˌbɛt]
+/ˈʾilu/
+/ˈʾeːl/ [ˈʔẹːl]
+“god”
+/ˈʾeːl/
+אֵל
+/ˈʾẹl/ [ˈʔẹːl]
+[ˈɛl]
+/qitˈtilu/
+/qitˈteːl/ 
+(adjectives
+  of infirmities) e.g.
+/ʾilˈlimu/
+/ʾilˈleːm/
+[ʔɪlˈlẹːm]
+"deaf"
+/ʾilˈleːm/
+אִלֵּם
+/ʾilˈlẹm/ [ʔilˈlẹːm]
+[iˈlɛm]
+/ciwˈwiru/
+/ciwˈweːr/ 
+[cɪwˈwẹːɾ]
+"blind"
+/ciwˈweːr/
+עִוֵּר
+/ciwˈwẹr/
+  [ciwˈwẹːɾ]
+[iˈvɛʁ̞]
+ 
+/ˌʾat/ [ˌʔɐt]? [ˌʔɛt]?
+(marker of
+  direct)
+  object
+/’et/
+אֵת
+/’ẹt/ [’ẹːθ]
+[ɛt]
+/mawt/
+/ˌmawt/
+  [ˌmɐwt]? [ˌmo̞wt]?
+  “death of”
+/ˌmôt/
+מוֹת
+/ˌmot/ [ˌmoːθ]
+[ˌmot]
+/gaˈdālu/[55]
+ 
+/gaˈdōl/ [gɐˈdoːl]
+(qal
+  inf. abs..) 'becoming great'
+/gaːˈdōl/
+גָּדוֹל[56]
+/gåˈdol/
+  [gɔːˈðoːl]
+[gaˈdol]
+/ˈgadulu/
+/gaˈdoːl/ [gɐˈdoːl]
+(adj.) “great”
+/gaːˈdoːl/
+גָּדוֹל
+/gåˈdol/
+  [gɔːˈðoːl]
+[gaˈdol]
+ 
+ 
+Box 18
+Vowel
+System Modern Israeli Hebrew (IH)[57]
+“The five vowels are close to cardinal
+  vowels in pronunciation: i, e, a, o, u. There
+  is no phonetic contrast between long and short (or tense verses lax) vowels
+  in Modern Hebrew…. There are three diphthongs,
+  uy, oy,
+  ay created
+  by a nonfront vowel followed by a front offglide, only in word-final
+  position, e.g. kanuy ‘bought’,
+  goy ‘gentile’, elay ‘to
+  me’.
+Quoted from Modern Hebrew  by
+  Ruth A. Berman in Hetzron 1997.
+Though it would more accurate to
+  transcribe /IH/
+  /a/ as [ɐ]
+  etc. the exact pronunciation of [IH] is
+  not germane to our topic and would add needless complications. Thus I will generally
+  use the following, admittedly imprecise, [IH] transcriptions of vowels - [i, ɛ,
+  a, o, u].
+We can assume that IH vowels are
+  longer than the short vowels of Ancient
+  Hebrew but much
+  shorter than Ancient
+  Hebrew's long vowels.
+ 
+d.2 Conventional Scholarly Transcription of the TH
+Vowel System (THCST)
+As Joϋon-Muraoka
+1991[58] correctly observes there are a "...
+bewilderingly large number of transliteration methods...." However,
+generally the transcription systems used in biblical scholarship follow -
+(t)he accepted rules of Hebrew grammar,
+including the current Sephardic pronunciation ... (as) laid down in medieval Spain by grammarians
+such as Judah ben David Hayyuj
+and Jonah
+ibn Janah. By then the Tiberian notation was universally
+used, though it was not always reflected in pronunciation. The Spanish
+grammarians accepted the rules laid down by the Tiberian Masoretes, with the
+following variations.
+1.      The traditional Sephardic pronunciation of the
+vowels (inherited, as it seems, from the old Palestinian system) was
+perpetuated. Their failure to fit the
+Tiberian notation was rationalized by the theory that the distinctions between
+Tiberian symbols represented differences of length rather than quality: thus patach
+was short a, qamatz was long a, segol was short e and tzere was long e.
+2.      The theory of long and short vowels was also
+used to adapt Hebrew to the rules of Arabic poetic metre. For example, in
+Arabic (and Persian) poetry, when a long vowel occurs in a closed syllable an
+extra (short) syllable is treated as present for metrical purposes, though not
+represented in pronunciation. Similarly in Sephardic Hebrew a sheva
+following a syllable with a long vowel is invariably treated as vocal. (In
+Tiberian Hebrew this is only true when the long vowel is marked with meteg.).[59]
+A widely used standard in this tradition is The Society
+of Biblical Literature (SBL) Academic Translation Style (THSBL)[60]. Under this system the following transliterations are
+prescribed -
+ 
+Table 22 - THSBL Transcription
+   of TH
+   Vowel System 
+Tiberian Vowel
+   Sign
+Name
+SBL
+Academic
+   Translation Style[61]
+Half-Vowel
+Short Vowel
+Long Vowel
+i vowels
+בִּ 
+short ḥîreq
+ 
+i
+ 
+בִּ 
+long ḥîreq
+ 
+ 
+ῑ
+בִּי
+ḥîreq yôd
+ 
+ 
+Î[62]
+(ִיּ = Îy)
+e vowels
+בֱּ בְּ
+ḥatep sĕgōl/vocal šĕwāʾ  
+ĕ
+ 
+ 
+בֶּ
+sĕgōl
+ 
+e
+ 
+בֶּי
+sĕgōl yôd
+ 
+ 
+ê
+(ֶיּ = êy)
+בֵּ
+ṣērê 
+ 
+ 
+ē
+בֵּי
+ṣērê yôd
+ 
+ 
+ê
+(ֵיּ = êy)
+a vowels
+בֲּ
+ḥatep
+  pataḥ
+ă
+ 
+ 
+בַּ
+pataḥ
+ 
+a
+ 
+בַּח, בַּע
+furtive pataḥ
+ 
+a
+ 
+בָּ
+qāmeṣ gādôl
+ 
+ 
+ā
+בָּה
+final qāmeṣ hê
+ 
+ 
+â
+ָיו
+3d ms. suffix
+ 
+ 
+āyw
+o vowels
+בֳּ
+ḥatep
+  qāmeṣ
+ɔ̆
+ 
+ 
+כָּל־
+qāmeṣ ḥāṭûp/ qāmeṣ qāṭān
+ 
+ɔ
+ 
+בֹּ 
+ḥōlem
+ 
+ 
+ō
+בּוֹ
+full ḥōlem
+ 
+ 
+ô
+u vowels
+בֻּ 
+short qibbuṣ
+ 
+u
+ 
+בֻּ 
+long qibbuṣ
+ 
+ 
+ū
+בּוּ
+šûreq
+ 
+ 
+û
+ 
+ 
+There are plusses and minuses
+inherent in the use of the SPL, or similar THCST,
+system. The following examples are based on illustrations using the SPL
+notation for THCST -
+Advantages:
+1. It is claimed to be
+"...fully reversible: that is, the
+system allows the reader to reproduce the Hebrew characters exactly
+(consonants and vowels). However this is only true if the scholar is fully
+conversant with the detailed grammatical rules and eccentricities of TH. For
+example: 
+-
+whereas dāgēš forte
+is indicated by doubling the consonant, a euphonic dāgēš[63]
+is not doubled
+in the SBL system;
+-
+both sĕgōl yôd and ṣērê yôd are transliterated as êy.
+2. It highlights the fact that vowel length was phonologically
+distinct, and audibly important in Ancient
+Hebrew as it is in most forms of
+Arabic. This
+is even more important if scholars actually pronounce, and hear in their mind,
+long vowels pronounced with at least twice the duration of short vowels (i.e.
+do not use modern
+Hebrew pronunciations which ignore historic vowel length). However, the distribution of long and short vowels produced
+mostly reflect the reconstructed reality of /PTH/+ which was systemically different
+from the /EBHP/
+system of over a millennium earlier and the /TH/+ system of half a millennium later.
+3. It provides a, more or less, common code for scholars. 
+Disadvantages:
+1. As a proxy
+for EBH:
+·                    
+The long vowels ofTHCST include many vowels lengthened after the extinction of Hebrew as a
+spoken language.  Put another way,
+many vowels which are long in THCST were short in EBH and LBH e.g.
+'word' /EBH/ */daˈbaːr/;
+TH
+דָּבָר;THCST  dābār;
+·                    
+Many short vowels in EBH and LBH have been reduced to ultra
+short vowels in THCST e.g. 'word of' /EBH/ */ˌdạbar/; TH דְבַּׅר;THCST dĕbar;
+·                    
+It most
+closely resembles my Proto-Tiberian Hebrew but does
+not represent what the Masoretes encoded in their graphemes (my /TH/+) and what the
+Masoretes almost certainly pronounced (my [TH] ). 
+"The
+Masoretic pointing distinguishes seven vowel qualities: a, ɔ, o, u, ɛ, e, i, as well as šĕwāʾ (ә).  Vowel length is not indicated explicitly. The
+assumption that vocalic length is part of the phonology although it is not
+distinguished graphically allows us to explain, for example, the conditions
+under which certain vowels (presumably short) reduce or elide when other vowels
+(presumably long) do not[64]. Students of Hebrew are misled by typical systems
+of transliteration such as those of the Society of Biblical Literature and various individuals[65], which employ phonological symbols such as the macron (which is meant to
+indicate vowel length) to
+represent graphemic distinctions (such as vowel quality). It would appear from
+such transcriptions that Masoretic qāmeṣ, transliterated ā, is simply a long pataḥ, and that ṣērê, transliterated ē,
+is a long sĕgōl. The usual corollary is
+that both pataḥ and sĕgōl
+are always short and that both qāmeṣ gādôl and ṣērê are always long.
+From a pholological point
+of view the system of only five vowels (excluding šĕwāʾ ), in which ṣērê is a long sĕgōl, etc., makes little
+sense. Why would the Masoretes employ a single symbol to render both qāmeṣ qāṭān - the realization of
+closed /o/- and a long ā ? It is
+much morel likely that the same symbol represents both short and long qāmeṣ, ɔ and ɔː [66]. Moreover, it stands to reason phonologically that pataḥ can be, and is,
+long in the initial open syllable of forms like laːdoːnɔːy 'to my lord'. Concerning ṣērê, there is no reason that it should always be long..... (I)t is
+surely unreasonable to analyze the open accented sĕgōl
+at the end of the unbound (absolute) form yɔːˈfɛː 'fair' as short but the ṣērê with only a secondary accent in the construct counterpart 
+yәˌfe  as long! The graphemic system should, it
+would seem, be interpreted in such a way that the phonology makes sense."[67]
+Some
+examples of the misleading readings inherent in the SBL system
+are:
+- Non-Tiberian vowels - TH דָּבָר /TH/+
+/dåˈbår/ [TH] *[dɔːˈvɔːr] is
+transliterated under the SBL system as  dābār.
+- begadkepat spirantization - this is only
+indicated when it is important to the discussion. See
+the preceding example.  
+- quiescent
+ʾālep is always
+transliterated by ʾ - three
+examples of the implications of this rule:
+לׁא 'no' is transcribed lōʾ even though it was
+almost certainly pronounced [loː] - i.e. no glottal stop - throughout the history of Ancient
+Hebrew;
+רֹאש is transcribed rōʾš although the spelling is
+historical as the glottal stop [ʾ] disappeared prior to the Canaanite
+shift i.e. in the first half of the second millennium BCE.
+מָצָא is transcribed māṣāʾ although this pronunciation never
+existed in the history of the language. The actual historical development of
+the word was probably - /PH/ */maˈṣaʾa/
+> /EBH/ */maˈṣaʾ/
+> /LBH/ */maˈṣâ/
+> /TH/+
+/måˈṣå/ [TH]
+*[mɔːˈṣɔː]
+ 
+2. The accents
+marking, both syntactical relations between words and stress are an
+integral part of the MT.
+However under the SPL transcription they are not marked
+unless it is relevant to the point under discussion. N.b. stress is phonological
+in TH.
+3. It does not represent any scientifically reconstructed pronunciation
+of Ancient Hebrew while it was
+a spoken language;
+4. It does not represent any traditional
+pronunciation of Hebrew which has survived to the present as these do not distinguish between long
+and short vowels.
+5. The transliteration, aiming primarily at representing
+Tiberian graphemes, has multiple signs
+for long vowels synchronically identical in pronunciation (e.g. â
+and ā both representing [aː]). These symbols are frequently unrelated
+to the (diachronic) origin of the sound (c.f. my own notation).
+It is clear
+to me that:
+·        
+For the study of biblical literature we should try to recapture what I
+have termed EBHP. Although
+there are many unknowns,
+using a balance of probability approach, we can come much closer than THCST. 
+·        
+THCST is not a suitable transliteration system for the study of the history
+of the Hebrew language as it does not distinguish the original quality
+of reduced short vowels and the origin of long vowels (primitive long, lengthened to
+contraction and assimilation, and lengthened
+due to stress).
+·        
+THCST is not a suitable transliteration system for the study of the Tiberian
+vocal system since it does not represent what the Masoretes encoded
+in their graphemes. 
+ 
+e. Ancient Hebrew Orthography[68] Provides
+Some, But Not Much, Guidance Regarding the Placement, and Nature of Vowels
+N.b. – Epigraphic
+Hebrew from the first Temple Period is of great importance as there can be no
+suspicion that later linguistic changes or writing conventions have influenced
+the spelling. 
+http://www.adath-shalom.ca/history_of_hebrew2a.htm
+- vow_qual 
+Biblical Skeleton, Changing Script and Orthography, Medieval
+Vowel Signs, Modern Pronunciation
+http://www.houseofdavid.ca/anc_heb_12.htm
+- Skeleton
+Note - When was
+Word-final hēʾ Consonantal in EBHP?
+ 
+ 
+Box 19
+Diphthongs
+ “Diphthongs are complex
+  sounds which change timbre during their emission as a speaker glides from the
+  position of one vowel to that of another in the same syllable …. They may he experienced
+  auricularly either as two vowels. e.g., English house [au], fine [ai],
+  or as a vowel
+  followed by a glide or semivowel e.g., English house [aw], fine [ay]. Bange 1971 suggests
+  that in the first linguistic and orthographic period, diphthongs were
+  experienced only as two vowels and were not, therefore, indicated in the
+  orthography which was purely consonantal. In the second period, they were
+  experienced as a vowel followed by a glide, an indefinite sound uttered as
+  the speech organs passed from the articulatory position of the first vowel to
+  that of the second, which was not felt to be vocalic, and was therefore
+  indicated in the orthography. Bange refers to these indefinite sounds as
+  semiconsonants and to their orthographic representation as
+  "off-glides"…. In the last stage diphthongs were contracted into
+  monophthongs, but the orthography of the preceding period was maintained,
+  despite the fact that the off-glides no longer indicated semiconsonants. They
+  came to be viewed as m.l. and were then extended to indicate vowels even in
+  positions which had never had diphthongs…. The expression “contraction of
+  diphthongs,” which is convenient and will he utilized in this study,
+  refers to the phonetic process of vocalic assimilation. In the case of the
+  diphthong [au] or [aw], the low throat vowel [a] assimilates to the high back
+  vowel [u] resulting in the mid- back vowel [o]: in the case of [ai] or [ay],
+  the low front vowel [a] assimilates to the high front vowel [i], resulting in
+  the mid front vowel [e]." Zevit 1980, p. 7
+ 
+ 
+Box  20 - Origin
+   of Matres Lectionis (Vowel
+   Letters)
+In
+  Ugaritic, the pronominal suffix of 1s., ῑ,  is sometimes indicated by yod[69] in the orthography …. The
+  Ugaritic data are relevant to the following discussions of 1st-millennium
+  orthography insofar as they demonstrate that an idea of m.l. was current in
+  the Canaanite cultural milieu prior to the end of the 2nd millennium. There
+  is not enough evidence to support a definitive statement concerning the
+  influence of this development in Ugaritic cuneiform on the chronologically
+  later linear alphabets. Despite this, the reduced Ugaritic alphabet, approximating
+  the Hebrew-Phoenician phonemic inventory, mirror written from right to left
+  like Hebrew, Phoenician, and Aramaic, may have been a mediating influence. P3
+Underlying the emergence of any system of m.l. is the
+  awareness that graphemes may be assigned more than one value, i.e., that they
+  may be polyphonous. Both
+  the Ugaritic and Phoenician alphabets were originally basically phonemic,
+  each grapheme corresponding to a single consonantal phoneme. Conservative
+  orthographic practices which did not keep pace with certain sound changes
+  gave rise to situations in which graphemes assumed more than one value. In
+  both Ugaritic and Phoenician, scribes employing this insight experimented
+  with using such graphemes as vocalic phonemes in positions where there could
+  be no danger of mistaking them for consonants, e.g., a final vowel. Where
+  historical circumstances did not give rise to enough suitable polyphonous
+  graphemes, scribes could invent new ones, as in the case of the three ’alep
+  signs in Ugaritic, a, i, u, or they could assign a second value to a
+  given grapheme in certain positions within a word. The employment of ’alep
+  signs in Ugaritic and of he in Ugaritic and Phoenician as m.l. may be due to
+  such an arbitrarily established scribal convention. P4
+Like their Aramean neighbors to the northeast, the
+  Hebrews employed the principle of polyphony when they adopted a Phoenician or
+  Phoenician-type alphabet to their language by the 12th-11th centuries. The grapheme šin
+  designated the phonemes ś
+  and š,
+  and in all likelihood, ḥet designated both ḥ and ḫ and cayin both c  and
+ġ p5
+Whether or not the Gezer
+  calendar of the 10th century B.C.E., the oldest comprehensible Hebrew
+  inscription, contains a m.l. remains disputed (Gibson 1971: 1-4). Discussion centers on the
+  status of the final waw in yrḥw, which occurs four times.
+  Following Albright (1943: 22-24: 1944: 209-11), Cross and Freedman (EHO59 [70]:
+  57) argue that the waw is consonantal, representing a 3 m.s. suffix attached
+  to a dual noun, and is to he pronounced ēw, that the orthography
+  of the calendar is completely defective, and that it is representative of
+  Hebrew scribal practices through the 10th century. Other interpretations,
+  however, are possible. It could he taken as an archaic nominative dual
+  construct ō (f.n. This was first suggested by H. L. Ginsberg
+  (1935a: 49). The article, unavailable to me, is cited in EHO: 46, n. 9. Cf.
+  Albright's criticisms (1943: 22) and those of Gibson (1971: 3) or aw
+  (Lemaire 1975b: 17), or as an archaic nominative plural construct ū
+  (Garbini 1954-56: 123-30; Gibson 1971: 3).
+Each
+  of these suggestions is open to serious criticism which undermines any
+  historical reconstruction of the use of in Hebrew orthography which relies on
+  it. It is therefore discreet to assume with EHO that the calendar is
+  Hebrew and that its orthography is defective without, however, opting for one
+  or the other of the problematic solutions. Should later research establish
+  that the waw is in fact a m.l.,it will be necessary to conclude that
+  the emergence of in Hebrew--if that is indeed the language of the inscription
+  — paralleled chronologically the same development in Aramaic. Pp. 5-6
+In examining epigraphic evidence for the development of
+  m.l. in Hebrew orthography, the following criteria are applied: 1) The
+  graphemes 'alep, he, waw, and yod are considered m.l. if they
+  do not represent etymological consonant phonemes. 2) If, however, they do
+  represent such phonemes, they are considered m.l. only when evidence
+  indicates that a sound change occurred and that the grapheme conforms to a
+  historical and not to a phonetic spelling.
+The second criterion assumes that the pronunciation of
+  Hebrew in the 9th-6th centuries B.C.E. was different than it is today, and it
+  presumes to know how it was different. The source of this knowledge is historical
+  reconstruction, drawing on comparative Semitic linguistics, based on the text
+  of the Hebrew Bible and on the linguistic traditions associated with it. The
+  function of a reconstruction is to explicate empirical evidence; in itself,
+  it does not constitute such evidence. The reconstruction, however, proceeds
+  from an empirical base and can never surmount the unreliability of this base.
+  For Hebrew the
+  question must be: how reliable are the text and linguistic traditions of the
+  Hebrew Bible as preserved, recorded, and transmitted by the Massoretes, i.e.,
+  the Massoretic Text (=MT)?
+Discoveries
+  at Qumran clearly indicate that proto-Massoretic (or proto-textus-receptus)
+  text types, with regard to contents and orthography, are well represented by
+  the 1st century B.C.E. These existed side by side with texts which differed
+  from them in readings and orthography (Cross 1966: 78-81, 94). Of the three
+  oldest biblical manuscripts, 4QExodf (ca. 250 B.C.E.), 4QSamb
+  (ca. 225 B.C.E.), and 4Q.Jera (ca. 200 B.C.E.), two, Exodf
+  and Jera, conform orthographically to the prevailing pattern of
+  the MT (Freedman 1962: 202, 205, 211). [71]
+  The MT, then, may be considered the stemmatic descendant of a text type which
+  evolved prior to the 3rd century B.C.E. when it is first attested (Goshen-Gottstein
+  1967: 245-49; Zevit 1977: 327-28). It is not a rabbinic or a massoretic
+  invention, but rather a type of text which was received by them as normative.
+  The antiquity of the text, however, does not assure the antiquity of the
+  linguistic traditions associated with it. Pp 8-9
+ 
+Quoted from Matres Lectionis in Ancient Hebrew
+  Epigraphs (Monograph series - American Schools of Oriental Research; no.
+  2) by Ziony Zevit , 1980,  ISBN:
+  0897574028 pp. 2-9
+ 
+ 
+Box 21
+   - Matres
+   Lectionis in Hebrew
+The use of
+  vowel letters in JEH, formed the basis, with some modification
+  and widening of use, for their use in the biblical text. Four
+  trends that influenced the institution and spread of vowel letters can be
+  identified:
+1. The practice of using a consonantal grapheme to
+  indicate a vowel was initiated by the Aramaean scribes at the time they
+  borrowed the Phoenician alphabet.  Specifically Aramaean scribes used waw to indicate [uː], yod to
+  indicate [iː], he to
+  indicate [aː]. At first vowel letters were used mainly to
+  indicate word-final vowels. The use of he
+  to indicate [aː]
+  always was always limited to the word-final position. Although the use of
+  vowel letters within words was initially sparing, they were more frequently
+  used in the case of borrowed words and foreign proper names whose sound
+  patterns would be foreign to Aramaean ears. 
+Aramaean
+  practice in the use of vowel letters spread to became the norm in the writing
+  of Hebrew and Moabite. In JEH the use
+  of final vowel letters and occasionally, e.g. <ʾrwr>,
+  internal vowel letters is clear.
+2.
+  Historical spelling made only a secondary, and later, contribution to the
+  development of vowel letters. Examples:
+-  he may
+  have come to indicate -[oː]
+  due to the shift in the 3ms. pronominal suffix *-[ahu] > *-[au] > -[oː][72];
+-  waw may
+  have come to indicate -[oː]
+  due to the heterogeneous
+  diphthong contraction *-[aw] > -[oː]
+  in words such as *šawr > šoːr and *hawlid
+  > hoːlid
+- a clear example of historical spelling is the aleph
+  in <rʾš> 'head' which was
+  written in the Siloam inscription at a time when it
+  certainly did not represent a consonantal glottal stop. 
+It is at
+  times difficult to decide whether an historical spelling is indicated. Thus the
+  spelling <byt> in construct in the Arad inscriptions can be explained
+  in any of 3 ways:
+a)      
+  the
+  original diphthong was maintained i.e. /bayt/;
+b)      
+  it
+  was a historical spelling i.e. the shift /bayt/ > /beːt/ had already taken place;
+c)      
+  it
+  was not so much an historical spelling as a tendency to retain the spelling
+  of a word in its declination.
+3. At a later date, the use of vowel letters may
+  have spread through the process of analogy. Thus the diphthong contraction [aw] > [oː]
+led to the use of waw to indicate [oː] even in cases where its origin was [aː]
+  > [oː] as in the fp. noun suffix -[oːt] and the active participle of
+  the qal. However, we should note
+  that this type of analogy is much more restricted in the case of [eː].
+  Generally [eː] is represented by yod only where it results from the diphthong contraction [aw] > [oː] and only rarely when it originates
+  from an earlier [iː]. From this it is clear that the
+  contraction of the diphthong [ay] > [eː] took place later than the contraction of the diphthong [aw] > [oː]. 
+  This sequence led to waw  being used to indicate [oː] long before yod
+  came into use to indicate [eː]. In fact the use of yod to
+  indicate [eː] might have commenced only after the Babylonian Exile[73]. 
+In addition, the letters waw and yod, which
+  originally indicated only long vowels, later were used in addition, at times,
+  to indicate short vowels.
+4. Over the centuries, vowel letters were
+  consistently and increasingly used to eliminate ambiguity in writing as is evidenced in LBH, QH and MH. though an opposite
+  "aesthetic" trend is seen regarding the biblical text, which
+  prevented the reiteration of a letter in the same word thus words such as טובות and ישמרוהו are
+  generally written with a single waw.
+Summarized from Sarfatti 1994
+  pp. 19-21.
+N.b. The common noun יום/ ים = “day” is commonly spelled ימ in epigraphic Hebrew representing a pronunciation yom or yōm.  See Joϋon-Muraoka
+1991 § 98 note 2.
+ 
+See
+also Table -
+Matres Lectionis in
+JEH
+ 
+Box 22[74] -
+   Matres Lectionis in the Biblical Text
+Quoted from Ziony Zevit’s review (Journal
+  of the American Oriental Society 111.3 1991pp. 647-50) of Barr 1989.
+Hebrew words in the Bible, particularly those with a long
+  o or i in a medial position, are often spelled more than one
+  way. Sometimes long o is indicated by a waw, and sometimes long
+  i is indicated by a yod. Sometimes, however, neither of these
+  vowel letters is used to indicate the vowel. Were the spelling differences
+  isolatable by specific words, or morphemes, or by etymological
+  considerations, explanations for the diverse spellings would be forthcoming;
+  but such is simply not the case. In fact, many words are spelled variously
+  with or without vowel letters in close proximity to each other in the same text
+  for no apparent reason….
+…Barr
+  draws a number of conclusions. 1) Spelling varies in the Bible because
+  scribes like it to vary. They had no systematic approach to spelling. They
+  could vary spellings arbitrarily or for some graphic, stylistic pleasure (p.
+  194). 2) Varied spellings do not preserve dialect differences, cf. Ju 1:11,
+  19, 27, 30, 31 ywšby, yšby, (dwellers) (p. 194). 3) The overall
+  picture appears to indicate a lack of conscious awareness in the use of vowel
+  letters. The few patterns revealing pre-masoretic Hebrew may be accidental
+  vestiges not blurred by scribal activity (pp. 195-96). 4) The consistent
+  spelling of certain personal names such as those of Moses, Aaron, and of
+  certain nouns such as khn (priest) may be indicative of certain
+  scribal conventions (p. 197). 5) Given these conclusions, nothing may
+  be learned from patterns of spelling about their pronunciation (p. 197). 6)
+  The spelling of a book depends not on when it was written but on when and how
+  often it was revised and what spelling conventions were applied by the
+  responsible scribes (pp. 199-201, 207). No Biblical book written in the
+  pre-exilic period retains the spellings characteristic of the time of
+  original composition (p. 207).
+These conclusions differ somewhat from those of F. I. Anderson
+  and A. D. Forbes, Spelling in the Hebrew Bible (Rome: Biblical
+  Institute Press, 1986), that appeared after Barr had completed his work but
+  before its publication. Barr, therefore, could only refer to this book
+  sporadically in his notes.
+Working
+  with a computer-generated data base, Anderson and Forbes concluded that 
+the
+  spelling rules and procedures which prevail in the masoretic texts combine
+  the conservation of old rules with the adoption of two new ones, along with a
+  certain drift towards phonetic spelling of long vowels with matres lectionis.
+  Uniformity was never achieved (p. 326).
+The
+  old rules to which they refer are the tendency towards defective writing
+  characteristic of the Iron Age as evidenced in Hebrew inscriptions with a
+  spare use of vowel letters to indicate originally long, word-final, vowels or
+  those derived from diphthongs. In the pre-exilic period, vowel letters were
+  also used to indicate other long vowels (pp. 32, 55-60), but in the
+  post-exilic period, the system was extended to indicate originally short
+  vowels lengthened under stress (pp. 32, 55-62). The two new ones, introduced
+  in the post-exilic period are the use of waw instead of he to
+  indicate a final long o and the use of yod to indicate
+  masculine plural noun stems (pp. 318-19, and cf. Z. Zevit, Matres Lectionis
+  in Ancient Hebrew Epigraphs [Cambridge, Mass.: ASOR, 1980], 33).
+For Anderson and Forbes, the mentality of the scribe and
+  the traditions of his craft made for a conservative tradition of copying. The
+  two new rules were almost universally applied to Biblical texts, the
+  extension of vowel letters to indicate originally short vowels less so.
+  Variation in this extension exists in the Bible and can be measured in
+  different parts of the text. They conclude, cautiously and with
+  qualifications, that the earlier a text was canonized, its form fixed,
+  scribal practice tended not to increase the use of post-exilic vowel letters.
+  Such a text is more defective. The later its fixing, the more prevalent
+  post-exilic types of vowel letters, the more plene the text (pp. 312-18).
+  They maintain that a relative scaling of texts from most defective to most
+  plene provides a guide for determining not the time a text was written but
+  the time that its very spelling became fixed, and hence the relative time of
+  its canonization. Orthographic differences thus correlate with chronology and
+  are not, in the final analysis, so anarchic as Barr's study would indicate
+ 
+f. Reading
+Traditions of Biblical Hebrew  
+ 
+Table 23 - EBHP, TH and
+   the Phonetic Realizations of BH in Key Modern Pronunciations[75]
+MT Graphemes
+*/EBHP/+
+(c. 850-550 BCE)
+BHSAM[76]
+(present)
+TH
+/TH/+ *[TH]
+(c. 850 CE)
+BHIH
+(present)
+BHAH[77]
+(present)
+BHMIZ
+(present)
+BHSEP
+(present)
+BHYEM[78]
+(present)
+ 
+Readings or recitations of CBH documents in late First Temple Jerusalem
+Samaritan Pentateuch
+Masoretic
+  Text
+Consonants
+א
+/ʾ/
+ʔ,
+  Ø
+/ʾ/ [ʔ, Ø]
+Ø when word or syllable final.
+[Ø]
+[Ø]
+[ʔ,
+  Ø]
+[Ø]
+[ʔ]
+בּ
+/b/
+b
+/b/ [b]
+[b]
+[b]
+[b]
+[b]
+[b]
+ב
+/b/ [v]
+[v]
+[v]
+[v]
+[v]
+גּ
+/ɡ/
+ɡ
+/g/ [ɡ][79]
+[ɡ]
+[ɡ]
+[ɡ]
+[ɡ]
+[ɡ]
+ג
+/g/ [ɣ]
+[ɣ]
+[ɣ]
+דּ
+/d/
+d
+/d/ [d][80]
+[d]
+[d]
+[d]
+[d]
+[d]
+ד
+/d/ [ð]
+[ð]
+[81]ה
+/h/
+ʔ,
+  Ø
+/h/ [h]
+Rarely [h], frequently [ʔ],
+  [Ø] 
+[h]
+[h]
+[h],
+  [Ø]
+[h]
+[h],
+  [Ø]
+הּ
+Ø
+/h/ [h][82]
+[Ø]
+[Ø]
+[Ø]
+ו [83]
+/w/
+b
+/w/ [w]
+[v]
+[v]
+[w], [v]
+[v]
+[w]
+ז
+/z/
+z
+/z/ [z]
+[z]
+[z]
+[z]
+[z]
+[z]
+ח
+ 
+/ħ/,  /ḫ/[84]
+ʔ,
+  Ø
+/ḥ/ [ħ]
+[x]
+[x]
+[ħ]
+[x]
+[ħ]
+ט
+/ṭ/
+ṭ, t
+/ṭ/ [t̪ˁ]
+[t]
+[t]
+[tˤ]
+[t]
+[t], [ḍ]
+י [85]
+ 
+/y/
+y
+[j] = [y]
+(I
+  will use [y] in transcriptions)
+[y] [86]
+[y]
+[y]
+[y]
+[y]
+כּ
+/k/
+k
+/k/ [k] [87]
+[k]
+[k]
+[k]
+[k]
+[k]
+כ
+/k/ [x]
+[x]
+[x]
+[x]
+[x]
+[x]
+ל
+/l/
+l
+/l/ [l]
+[l]
+[l]
+[l]
+[l]
+[l]
+מ
+/m/
+m
+/m/ [m]
+[m]
+[m]
+[m]
+[m]
+[m]
+נ
+/n/
+n
+/n/ [n]
+[n]
+[n]
+[n]
+[n]
+[n]
+ס 
+/s/
+s
+/s/ [s]
+[s]
+[s], [ʃ]
+[s]
+[s]
+[s]
+ע
+/c/ or /ġ/
+ʔ,
+  Ø, ʕ
+/c/
+[ʕ] or /ġ/ [ɣ] [88]
+[Ø]
+[Ø]
+[ʕ]
+[Ø]
+[ʕ]
+פּ
+/p/
+b,
+  f
+/p/ [p][89]
+[p]
+[p]
+[p], [f]
+[p]
+[p]
+פ
+/p/ [f]
+[f]
+[f]
+[f]
+[f]
+[f]
+צ
+/ṣ/
+ṣ, s
+/ṣ/
+[sˁ]
+[ ʦ͡]
+[ ʦ͡]
+[ṣ]
+[ ʦ͡]
+[ṣ]
+ק
+/q/[90]
+q, ʔ
+/q/ [kˁ]
+[k]
+[k]
+/q/, [ʔ] 
+[k]
+[ɡ], [ʁ̞]
+ר
+/r/
+r
+/r/ [ɾ]
+[ʁ̞][91]
+[r], [ʁ̞]
+[r]
+[r]
+[r]
+שׂ 
+/ś/[92]
+[ʃ]
+/ś/ [ɬ]
+[s]
+[s]
+[s]
+[s]
+[s]
+שׁ 
+/š/
+/š/ [ʃ]
+[ʃ]
+[ʃ]
+[ʃ]
+[ʃ]
+[ʃ]
+תּ 
+/t/
+t
+/t/ [t]
+[t]
+[t]
+[t]
+[t]
+[t]
+ת
+/t/ [θ]
+[s]
+[t], [θ]
+[θ]
+Gemination
+Dagesh forte
+CC
+CC
+CC
+C
+C
+CC
+C
+CC
+Vowels
+Ḥîreq
+/i/,
+  /ῑ/, /î/, /e/
+i
+/i/[93] [i]
+  [iː]
+[i]
+[i], [ə]
+[i]
+[i]
+[i], [ə]
+Ṣērê
+ɛ
+/e/ [ẹː]
+[ɛ]
+[ẹy], [ay]
+[ɛ]
+[ɛ]
+[ẹ]
+Sĕgōl
+/a/
+/ɛ/ [ɛ],
+  [ɛː]
+[ɛ], [ẹ], [ẹy]
+[a], [ɛ]
+Pataḥ
+a, ɔ
+/a/ [ɐ], [ɐː]
+[a]
+[a]
+[a]
+[a]
+Qāmeṣ
+/a/, /u/[94]
+/å/ [ɔ], [ɔː]
+[a] [o]
+[o]
+[a] [o]
+[a] [o]
+[ɔ]
+Ḥōlem
+/ō, ô/ /aw/
+u, o
+/o/ [oː]
+[o]
+[oy], [ẹy], [y]
+[o]
+[o]
+[ö], [ẹ]
+Šûreq- qibbuṣ
+/ū, û/ /u/
+/u/[95] [u][96], [uː][97]
+[u]
+[u], [i]
+[u]
+[u]
+[u]
+Mobile šwa
+/i/,
+  /a/, /u/
+ 
+/ə/ [ə]
+mostly [Ø] occasionally [ə], [ɛ] 
+[ẹ], [ə]
+[ẹ~ɛ]
+[ẹ~ɛ]
+[ă] or other short vowel depending on context.[98]
+Ḥaṭep-sĕgōl[99]
+/i/,
+  /a/
+ 
+/ɛ̆/
+  [ɛ̆]
+[ɛ]
+[ɛ], [ẹ], [ẹy]  
+[ă]
+Ḥaṭep-pataḥ
+/a/
+ 
+/ă/
+  [ɐ̆]
+[a]
+[a]
+[a]
+[a]
+Ḥaṭep-qāmeṣ
+/u/
+ɔ̆
+/ɔ̆/ [ɔ̆]
+[o], [u]
+[o], [u]
+[o]
+[o]
+[ɔ̆]
+Word Stress
+Masoretic cantillation
+  signs (MCS)
+see description
+See note[100]
+follows MCS
+mainly follows MCS
+generally
+  penultimate
+mainly
+  follows MCS
+mainly
+  follows MCS
+See note[101]
+ 
+ Return to Table of Contents
+[1] Choice of [bɪn-] or [bɛn-] will follow the form in the MT for the specific text.
+[1] See Joϋon-Muraoka
+1991
+§ 5-9.
+[2] Blau 2010 §3.5.7.6.2. 
+In Hebrew not only is a more stable than i/u (cf. §3.5.7.2.3n, p.
+122); differences also obtain between the more
+stable i and the less stable u.
+[3] From Blau 2010.
+3.5.5.1. From a diachronic point of view, it is likely that in
+Proto-Semitic (as in Classical Arabic) the phonemic system of vowels consisted
+of three vowel pairs, three short, a : i : u, and three long, ā : ī : ū.
+3.5.5.2. In the structure of the Proto-Semitic short vowels one can
+detect, it seems, an older binary system in which a was opposed to i/u,
+with i and u acting as mere variants. Traces of this ancient binary
+structure are reflected in Biblical Hebrew as well. In the qal
+suffix-tense (see §4.3.5.2.2.1, p. 220) of verbs denoting action, the second
+radical is followed by a (e.g., ֺשׇמַר  ‘he preserved’...), whereas in stative verbs
+it is vocalized with ṣere, ḥolam (< i, u, e.g., חָפֵץ ‘he wanted’; יָכֺל
+‘he was able’). In contrast, in the qal prefix-tense, it is a
+that is characteristic of stative verbs (e.g., יִיֺשַן
+‘he will sleep’; יוּכַל ‘he will be able’), whereas ṣere, ḥolam (< i, u)
+are typical of action verbs (e.g., יִתֵּן ‘he will give’; יִֺשְמֺר
+‘he will preserve’). This state of things, to be sure, is rather blurred, since
+a tends to prevail in the suffix-tense and o (< u) in
+the prefix-tense, yet its traces are clear enough to suggest an ancient binary
+opposition a: i/u.
+[4] A case can be made that the PTH reflex of the TH vocal šwa
+/ә/ is
+not phonemic (cf. Gibson 1965 pp.
+41-42). However, for clarity I will assume its phonemic status in PTH.
+[5] Rare e.g. /ˈmētu/
+dead see Gibson 1965 p. 37
+and Blau 2010 §4.3.8.7.2.3..
+[6] Regarding the phonemic status of sĕgōl see Blau 2010 §3.5.6.2
+[7] Gibson
+1965 p. 37 "One other Tiberian vowel phoneme is known not to have
+existed before about the fifth century A.D., namely /å/ (IPA , which is in origin a merger of a previous /aː/ and certain allophones of /u/"
+[8] Note Blau's explanation of the /oː/ in יָבוֹא
+- Blau 2010 §4.3.8.7.2.5.
+[9] For TH see Garr
+1991 pp. 57-66.
+[10] Cf. Joϋon-Muraoka
+1991 §6b
+[11] Al Ani 1970 (p. 75) states that in Iraqi read MSA "The relative
+duration of the short vowels is from 100-150 msec. With the long vowels it is
+from 225-350 msec. These durations do not apply for vowels when
+inisolation."
+[12] Lipinski 1997 §21.25 
+[13] "There are two
+sounds which have not as yet been mentioned, viz. e and o.... Phonetically they
+occur both as long and short vowels. Phonematically, however, things are
+different.... The two vowels have their origin in classical ay and aw and ought
+to be long in every case. In the colloquial they are shortened before two
+consonants and in every unstressed syllable. Consequently, this shortening is
+conditioned by the position and is of no relevance. We, therefore, still have
+only one e-phoneme and one o-phoneme. In the position where vowel quantity
+might be relevant, viz. in non-final open and stressed syllables, these two
+vowels are always long. Consequently any oppositions ē:ĕ and
+ō:ŏ does not exist.
+"But then we have to solve the problem whether a short
+e is a different phoneme from a short i, and a short o a different phoneme from
+a short u. The numerous inconsequences in transcriptions, in which i often
+alternates with e and u with o, even in the same syllable in the same word,
+seem to indicate that there are no phonematic oppositions i:e and u:o.
+The definite article il, el illustrates rather well the
+lack of any opposition between i and e. As a matter of fact, it is quite
+impossible to state such an opposition in any word at all: No word changes its
+cleaning when an i is replaced by an e and vice versa. Phonetically it is often
+hard to say whether to note i ore, especially in unstressed closed
+syllables....
+Just the same statement is to be made as to the relation
+between ŭ and ŏ.... It is
+completely indifferent whether ŭ or ŏ
+is used in transcriptions. The phonetic value may depend on the surroundings,
+so that a velarized consonant requires the more open o, but any opposition o:u
+is impossible....
+The conclusion must be drawn that the oppositions ī:ē and ū:ō do exist. They are,
+however, very little utilized. They are, indeed, so little utilized that as
+soon as the vowel is shortened they are nullified....
+The ultimate conclusion is:
+The
+Egyptian Arabic has only the three short vowel phonemes of the classical
+language, viz. a, i, u. But it has five long vowel phonemes, viz. oppositions
+ā, ē, ī, ō, ū. The short i has the two long
+correspondences ī and ē, the short u the two long correspondences
+ū and ō. If we had a linguistic system without any relevance of vowel
+quantity we would have five vowel phonemes, viz. a, e, i, o, u. In this system
+e and o, regarded as phonemes, would only occur as phonetically long vowels,
+the others both as short and long vowels. This may, indeed, be the correct way
+of interpreting the phonetics facts phonematically, since the relevance of
+vowel quantity is more than questionable." Birkeland 1952
+pp. 47-49.
+[14] Birkeland
+1952
+[15] Mitchel 1962 p. 23.
+[16] See Dabbēr
+carvīt by Moshe Piamenta< Maariv, Tel Aviv, 1968 p.14.
+[17] See Blau 2010 §3.5.13.
+[18] See, for example, Eastern Arabic with MP3 Files by Frank A. Rice, Majed
+F. Said, Georgetown University Press (2005) p. xxxiv.
+[19]
+The particular sounds which are phonemic in a language can change over time. At
+one time, [f] and [v] were
+allophones in English, but these
+later changed into separate phonemes. This is one of the main factors of
+historical change of languages as described in historical linguistics.
+[20] See Phones and Phonemes - http://www.houseofdavid.ca/anc_heb_6.htm#phone_phonym.
+[21] Note, in reconstructed [EBHP]
+transliterations and sound files - 
+1.there is no spirantization
+of the bgdkpt consonants -
+http://www.houseofdavid.ca/anc_heb_tequ.htm#bgdpt;
+2. vowel
+qualities are outlined here - http://www.houseofdavid.ca/anc_heb_6.htm#ebhp_vow_qual;
+3. I use the
+most probable form. Where no one form stands out as most probable, I select the
+one closest to the MT vocalization.
+4. when multiple forms are possible, the form used is underlined.
+[22] “When ו and י are
+not used as mater lectionis, they are pronounced. This is true in the
+following cases where the preceding vowel is heterogeneous …. In these
+combinations the ו and י probably have a consonantal value, e.g. ַי =ay,
+and not ai, ָו  = åw and not åu.”. From Joϋon-Muraoka
+1991
+§ 7d.
+[23] IN EBHP and LBHP
+THE JUSSIVE
+(PCjus),
+COHORTATIVE (PCcoh),
+IMPERFECT (PCimp) AND PRETERITE (PCpret_sim/PCpretWC)
+are, in some forms, distinguished by the placement
+of syllabic stress when not
+carrying object suffixes. See -
+-  http://www.adath-shalom.ca/history_of_hebrew3a.htm#indic_jus
+AND 
+-  http://www.adath-shalom.ca/history_of_hebrew3a.htm#Prefix_Conjugation
+[24] /gāˈlâ/ (TH גָּלָה) = "she
+rejoices" root gyl qal a.p.;
+/gaˈlâ/ (TH גָּלָה) = "he went into
+exile", 3rd
+MS passive qal SC root
+glh. Joϋon-Muraoka
+1991 §204b.
+[25] */ˌʾil/ (TH אֵל) = "god of"; /ˌʾal/ (TH אַל) = "don't, not"
+[26] */qaˈṣar/ (TH
+קָצַר) = "he harvested"
+3rd ms. qal SC; */qaˈṣῑr/ (TH
+קָצִיר) - "harvest (noun)".
+[27] */qaˈtal/
+(TH קָטַל) - 3ms. qal SC; */quˈtal/
+(TH קֻטַּל) - 3ms. passive qal SC.
+Joϋon-Muraoka 1991 §55b.
+[28] /cūl/ (TH עוּל) = "suckling child of"; /ˈcal/ (TH עַל) = "upon".
+[29] /ʾab/ (TH אַב) = "father of"; /ʾōb/ (TH אוֹב) = "familiar spirit
+of".
+[30] */ˌbin/ (TH בֵּן) = "son of"; */ˌbān/ (TH בָּן) = "
+understander of" - qal participle in constr..
+[31] /sūˈsâ/ (TH סוּסָה) = "female
+horse"; /sūˈsῑ/
+(TH סוּסִי) = "my (male) horse.
+[32] */tār/
+(TH תָּר) qal ms. a.p. in construct relationship = "investigator of":*/tur/
+(TH תּוֺר) - "dove of".
+[33] */qaˈtalâ/
+(TH קָטְלָה) - 3rd fs. qal perfect; */qaˈtalū/
+(TH קָטְלוּ) - 3rd pl. qal SC.
+Joϋon-Muraoka 1991 §55b.
+[34] /sūˈsâ/ (TH סוּסָה) = "female
+horse"; /sūˈsô / (TH סוּסוֹ) = "his (male)
+horse.
+[35]  /sūˈsâ/ (TH סוּסָה) = "female
+horse"; /sūˈsay(y)/ (TH סוּסַי) = "my (male)
+horses".
+[36]  /sūˈsâ/ (TH סוּסָה) = "female
+horse"; /sūˈsâw/ (TH סוּסָיו) = "his (male)
+horses".
+[37] /ˌbin/ (TH בֵּן) = "son of"; */ˌbῑn/
+(TH בִּין) = "understanding of"
+- qal inf. constr.
+in construct relationship.
+[38] /*kaˈbōd/ (TH כָּבוֹד) = "honor"; /kaˈbid/ (TH כָּבֵד) - qal 3ms. SC.
+[39] /ˈqūmῑ/ (TH קוּמִי) - qal
+fs. imperative root qwm; /ˈqūmū/
+(TH קוּמוּ) - qal
+mp. imperative root qwm.
+[40] /sūˈsῑ/ (TH סוּסִי) = "my (male)
+horse"; /sūˈsô/ (TH סוּסוֹ) = "his (male)
+horse".
+[41] /yirˈṣê/ (TH יִרְצֶה) - qal 3rd ms. PC indicative
+of root rṣh ; /yirˈṣū/
+(TH יִרְצוּ) - 3rd mp. of the same.
+[42] /sūˈsῑ/ (TH סוּסִי) = "my (male) horse";
+/sūˈsay(y)/ (TH סוּסַי) = "my (male)
+horses".
+[43] /sūˈsῑ/ (TH סוּסִי) = "my (male)
+horse"; /sūˈsâw/ (TH סוּסָיו) = "his (male)
+horses".
+[44] */muˈtῑ/ = "my
+man"; /mūˈtῑ /
+(TH מוּת) - inf. cstr. qal
+"my death".
+[45] */yaˈkul/ (TH יָכֹל) = "he was able"; */yaˈkōl/
+(TH יָכוֹל) - inf. abs. qal "to be able".
+[46] /ˈqōm/ (TH קוֹם) - qal inf. abs root qwm; /ˈqūm/
+(TH קוּם) - qal inf. constr. root qwm
+[47] /raˈṣê/ (TH רְצֵה) - qal MS imperative of root rṣh
+; /raˈṣū/
+(TH רְצוּ) - MP imperative of the same.
+[48] /raˈṣō/:/
+/ (TH רָצֹה) - qal inf. abs. of
+root rṣh ; /raˈṣê/ (TH רְצֵה) - qal MS imperative of the same.
+[49] /sūˈsô/ (TH סוּסוֹ) = "his (male)
+horse"; /sūˈsay(y)/ (TH סוּסַי) = "my (male)
+horses".
+[50] /sūˈsô/ (TH סוּסוֹ) = "his (male)
+horse"; /sūˈsâw/ (TH סוּסָיו) = "my (male)
+horses".
+[51] Blau 2010 §3.5; Blau 1976/93
+p.12.
+[52] Quoted from Khan
+1997a pp. 85-86.
+We must
+distinguish the Tiberian vocalization system from the
+original  Tiberian Hebrew pronunciation, which It was
+designed to represent. This was the pronunciation of Hebrew  which was used in the traditional reading of
+the Bible in the region of Tiberias during the seventh-ninth centuries A.D.
+Whereas the Tiberian vocalization tradition has survived in written form, the
+Tiberian pronunciation of Hebrew, which was orally transmitted, is extinct.
+None of the pronunciation traditions of the Hebrew Bible that are in use among
+Jewish communities today derive from the Tiberian pronunciation. 
+The
+original Tiberian pronunciation that lies behind the vocalization signs can be
+reconstructed from several sources. These include:
+1. Masoretic and grammatical texts. Of primary importance are the texts from
+Palestine, especially the work Hidāyat al-qāri. 'Guide
+for the reader'. Thed grammarians from medieval Spain sometimes describe the
+articulation of a
+sound in greater detail than the Eastern sources. Their descriptions have to be
+treated with caution, however, since they could in some cases reflect a local
+type of pronunciation that differed from the Tiberian. 
+2.
+Transcription of the Tiberian pronunciation tradition into Arabic script which
+are found in medieval manuscript written by Karaites (a medi­eval sect of
+Judaism). 
+3. The use of Hebrew letters and
+Tiberian vocalization signs to represent other languages. Of particular
+importance are medieval texts that represent Arabic in this way. 
+[53] Unaccented syllables in TH either are closed having a
+short vowel or open with a long vowel. The only two exceptions are /båtˈtîm/ [båːtˈtîm], 'houses' and
+/ʾånˈnå/ [ʾåːnˈnåː], 'please'.)
+[54] Blau 1972 p.190 points
+out that in the Tiberian qameṣ gadol developed from the
+pre-Tiberian ā which was simply the long vowel corresponding to the short
+vowel signified by the pataḥ.
+[55] Note the pattern
+Tiberian רֹגֶז (/ˈrogɛz/
+< EBH */ˈrugz/
+< */ˈrugzu/
+=
+"trembling, fear") vs. רֹגֵז
+(/roˈgẹz/
+< EBH */rōˈgiz/
+< */ˈrāgizu/
+(qal
+m. .s act. part.= "one who trembles")
+[56] E.g. 2 Samuel
+5:10.
+[57] Cf. Phonetic
+Diagram of modern Arabic and Hebrew vowels
+[58] p. 35 n. 7.
+[59] Quoted from http://en.wikipedia.org/wiki/Sephardic_Hebrew_dialect.
+[60] From The SBL
+Handbook of Style For Ancient Near Eastern, Biblical, and Early Christian
+Studies by Patrick H. Alexander, Hendrickson
+Publishers, 1999 sect. 5.1.1.
+[61] I have made explicit
+the division of vowels by length which is implied in THSBL.
+[62] "The consonants hê, wāw, and yôd, used to indicate long vowels (vowel letters, matres lectionis), are transliterated as
+a circumflex over the vowel (i.e., â, ê, î,
+ô, û).... Regarding a final hê, note the fem. sg. poss. ending (malkāh "her king") and
+the feminine ending -â (malkâ  "queen"). ָהּ (hệ with a mappîq) should be written as -āh."
+Ibid 5.1.1.4(1).
+[63] See GKC §20.
+[64] For a historical
+analysis of short vowel elision in ancient Hebrew, cf. Cantineau 1932
+[65] I single out here W.
+Weinberg, who has devoted entire publications to the topic of transliterating
+Hebrew, esp. "Transliteration and Transcription of Hebrew," HUCA 40-41 (1969-70) 1-32 with tables.
+Even what he calls the "narrow [i.e. scholarly, philological]
+transliteration" fails to distinguish the seven Masoretic vowels and mixes
+phonetic with graphemic phenomena.
+[66] For the remainder of
+this quote I am using the IPA length symbol ː in place of the macron.
+[67] "An Introduction to a Generative Phonology of Biblical
+Hebrew" by Edward L. Greenstein in Bodine 1992 pp.
+36-37.
+[68] According to the
+Encarta Dictionary, orthography is defined as:
+1. study
+of correct spelling: the study of established correct spelling
+2. study of how letters are arranged: the study of letters of an
+alphabet and how they occur sequentially in words
+3. relationship between sounds and letters: the way letters and
+diacritic symbols represent the sounds of a language in spelling
+[69] For the pairing of vowel letters with specific vowels see Hoffman (p.
+25).
+[70] Early Hebrew
+Orthography: A Study of the Epigraphic Evidence (American Oriental Series)
+by Frank M., Jr. Cross, David Noel Freeman, American Oriental Society (1952) 
+ISBN: 0940490366
+[71] “Anticipating
+conclusions in the final chapter, this sentence should be qualified to read as
+follows: conform orthographically to what is commonly believed to
+be the prevailing pattern of the MT."
+[72] Cross
+and Freedman 1952.
+[73] Andersen 1986 p.
+138.
+[74] I could also mention
+Saul Levin's view that the vowel letters represent consonantal off-glides i.e. וֹ = [ow] etc. The following quote is taken from Levin 1988 (p. 292) - the highlights in bold are my own.
+The analysis of English vowels [jy] and [ey] with
+and off-glide [y], and [uw] and [ow] with and
+off-glide [w], finally made linguists aware of an alternative to
+vowel-length. Physically the difference in sound between lengthening and
+off-glide may be quite small, especially between [iː] and [iy] or between [uː] and [uw]. In English both
+lengthening and an off-glide are often discernable in the very same syllable at
+the same time. but when we turn to the ancient Hebrew texts and examine the
+evidence, the only conclusion that makes sense is that the scribes could and did
+record off-glides. Vowels, whether lengthened or not, escaped their means of
+notation, a consonantal alphabet, just as accents and other supra-segmental
+features did.
+[75] In preparing this chart I have drawn on Morag 1970.
+[76] For details on the Samaritan traditions of
+Hebrew see Ben-Hayyim 2000.
+[77] From Kutscher
+1982 §37 -
+H. Yalon has
+shown that the so-called Sephardic pronunciation was that of medieval Jewery in
+Western and Central Europe, as we can see from the fact that prayer books that
+were vocalized in Germany ... continually mix up the qameṣ and pataḥ just as Sephardic Jews
+do.
+[78] For details on the Yemenite traditions of
+Hebrew see Morag 1963.
+[79] /g/ Two allophones in
+complementary distribution גּ = [ɡ] and ג = g, ġ [ʁ] or nearly identical [ɣ].
+[80] /d/ 2 allophones in complementary distribution
+דּ = [d] and ד = d [ð].
+[81] [h]
+when not vowel letter in word-final position; when word-final vowel letter [Ø].
+[82] Consonantal [h] at end of word..
+[83] Excluding its use as a vowel letter (Šûreq; ḥōlem mālê).
+[84] A polyphonic letter in BH representing
+/ḥ/ [ħ] or /ḫ/ [x] depending on its PS origin.
+[85] Excluding its use as a vowel letter (sĕgōl mālê; ṣērê mālê;
+ḥîreq mālê).
+[86] From http://en.wikipedia.org/wiki/Hebrew_phonology#Dropped_consonants
+In normal speech, /ʔ/ is dropped when occurring between vowels, and
+/j/ is dropped when occurring between vowels where the first is a front vowel
+(/e/ or /i/) or the second is /i/. /h/ between vowels may also be dropped,
+especially in fast speech. Hence, /ma ha-ʃaˈʔa/ "what's the
+time?" becomes [mahaʃaˈa] or [maaʃaˈa].
+Thus /y/ is no longer pronounced if at beginning of
+word followed by [i] e.g. ישמור pronounced [iʃˈmor]
+[87] 2 allophones in complementary
+distribution כּ
+= k [k] or [kʰ] and כ = k [x].
+[88] a polyphonic letter in BH
+representing /c/
+[ʕ] or /ġ/ [ɣ] depending
+on its PS origin. ([ɣ]is very close to [ʁ̞]).
+[89] /p/ 2 allophones in complementary distribution פּ = p [p] and פ = p [f].
+[90] Probable
+pronunciation [kˁ].
+[91] /r/ [ʁ̞] (this is very close to [ɣ]).
+[92] Probable
+pronunciation [ɬ].
+[93] See http://www.adath-shalom.ca/history_of_hebrew2a.htm#vowel_systemTH
+[94] EBHP
+[u]corresponds to BHSEP qameṣ qatan.
+[95] Unaccented syllables in TH
+either are closed having a short vowel or open with a long vowel. The only two
+exceptions are /båtˈtîm/ [båːtˈtîm], 'houses' and /ʾånˈnå/ [ʾåːnˈnåː], 'please'.)
+[96] Unstressed closed syllables.
+[97] Stressed and open unstressed syllables.
+[98] basic realization = ă; when preceding y = ǐ;
+when preceding ʔ, h, ħ, or ʕ = ultrashort vowel identical in
+quality to the vowel of the following consonant.
+[99] The phonemic status of
+the ḥaṭep  vowels are moot.
+[100] From Morag 1970 col. 1143.
+Samaritan Hebrew has as a rule, penultimate primary stress (with
+concomitant secondary stress on the second syllable preceding the one which has
+the primary stress; secondary stress may fall on the syllable directly
+preceding the syllable which has the primary stress - this is the case when the
+former syllable has a long vowel). It may be, however, proven that the ...
+stress patterns of Samaritan Hebrew are ... (of recent development), and that
+the stress patterns that Samaritan Hebrew formerly possessed were identical
+with those of Tiberian Hebrew (Z. Ben-Hayyim, Sefer Ḥanokh Yalon (1963),
+149-160)..
+[101] From Morag 1970 col. 1143.
+The Yemenite community generally maintains in reading the Bible the
+Tiberian rules of stress distribution in words which have disjunctive accents; words which have conjunctive accents, on the other hand, quite frequently have
+stress patterns differing from those of the Tiberian tradition.... (W)ords
+which in the Tiberian tradition have an ultimate stress ... have in the
+Yemenite pronunciation the stress on the penultimate syllable... and
+occasionally on the antepenultimate, when they come with a disjunctive accent.

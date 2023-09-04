@@ -1,0 +1,27 @@
+https://paprika.idref.fr
+https://data.idref.fr
+http://documentation.abes.fr/aideidref/accueil/fr/index.html
+https://data.idref.fr/describe/?url=http://www.idref.fr/027655415/id&sid=7330&urilookup=1
+https://www.idref.fr/027655415.xml
+https://www.idref.fr/027655415.rdf
+https://www.idref.fr/amelioration.jsp?ppn=027655415&titre=Moksa (langue)
+https://www.idref.fr/assistance.jsp?ppn=027655415&titre=Moksa (langue)
+http://www.idref.fr/027655415/id
+https://www.idref.fr/184625777
+https://www.idref.fr/027655423
+http://catalogue.bnf.fr/ark:/12148/cb11965097h
+http://documentation.abes.fr/aideidref/accueil/fr/index.html
+http://documentation.abes.fr/aideidrefdeveloppeur/index.html
+http://documentation.abes.fr/aideidrefdata/index.html
+http://documentation.abes.fr/aideidrefoai/index.html
+https://github.com/abes-esr/
+https://github.com/etalab
+https://www.etalab.gouv.fr/licence-ouverte-open-licence
+https://stp.abes.fr/node/3?origine=idref
+http://www.abes.fr
+http://www.enseignementsup-recherche.gouv.fr/
+https://abes.fr/reseaux-idref-orcid/outils-et-services-autorites/plateforme-idref
+https://abes.fr/reseaux-idref-orcid/le-reseau/etablissements-autorites
+https://abes.fr/pages-cgu/conditions-generales-utilisation-sites-abes.html
+https://abes.fr/pages-mentions-legales/idref.html
+https://abes.fr/pages-accessibilite/idref.html

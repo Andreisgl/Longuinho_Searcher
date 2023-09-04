@@ -1,0 +1,291 @@
+            Glottolog 4.8 -
+            Continental Southern Italian
+        
+      Glottolog
+  
+Languages
+Families
+Language Search
+References
+Reference Search
+GlottoScope
+About
+htmlJSONRDF serialized as n3Newick formatRDF serialized as ntPhyloXMLRDF serialized as xmlSVG Classification TreeRDF serialized as turtle
+            Spoken L1 Language: Continental Southern Italian
+                Classification
+            
+open Continental Southern Italian
+expand all
+collapse all
+Comments on subclassification
+Agard, Frederick B. 1984: 73-80 
+                Endangerment
+            
+AES status:
+threatened
+Source:
+Moseley, Christopher 2010
+Comment:
+South Italian (1022-nap) = Vulnerable
+                    Glottocode:
+                     neap1235
+                    ISO 639-3:
+                     nap
+ 
+show big map
+                Links
+            
+ [nap] at ISO 639-3 [nap] at OLAC [nap] at IMTVault Italian (Napolitanian) at WALS Wikipedia Wikidata
+                Alternative names
+            
+lexvo:
+                                Bahasa Napolitan
+                                    [id]
+                            
+                                Idioma napolitano
+                                    [es]
+                            
+                                Idioma napolitán
+                                    [an]
+                            
+                                Język neapolitański
+                                    [pl]
+                            
+                                Lengua napoletann-a
+                                    [lij]
+                            
+                                Lengua napulitana
+                                    [nap]
+                            
+                                Lingua Neapolitana
+                                    [la]
+                            
+                                Lingua napoletana
+                                    [it]
+                            
+                                Lingua napolitana
+                                    [gl]
+                            
+                                Lingua napulitana
+                                    [scn]
+                            
+                                Luenga napolitana
+                                    [ext]
+                            
+                                Língua napolitana
+                                    [pt]
+                            
+                                Naaplish
+                                    [gv]
+                            
+                                Napola lingvo
+                                    [eo]
+                            
+                                Napolice
+                                    [tr]
+                            
+                                Napoliera
+                                    [eu]
+                            
+                                Napolitaans
+                                    [af]
+                            
+                                Napolitain
+                                    [fr]
+                            
+                                Napolitansk
+                                    [da]
+                            
+                                Napolitansk-kalabresisk språk
+                                    [nn]
+                            
+                                Napolitansko-kalabrijski jezik
+                                    [hr]
+                            
+                                Napolità
+                                    [ca]
+                            
+                                Napulitano
+                                    [bar]
+                            
+                                Neapoliečių kalba
+                                    [lt]
+                            
+                                Neapolitan
+                                    [en]
+                            
+                                Neapolitan language
+                                    [en]
+                            
+                                Neapolitan tili
+                                    [crh]
+                            
+                                Neapolitanisch
+                                    [de]
+                            
+                                Neapolitanska
+                                    [sv]
+                            
+                                Neapolčina-kalábrijčina
+                                    [sk]
+                            
+                                Neapolština
+                                    [cs]
+                            
+                                Nápolyi nyelv
+                                    [hu]
+                            
+                                napolitain
+                                    [fr]
+                            
+                                Наполитански језик
+                                    [sr]
+                            
+                                Неаполитанаг æвзаг
+                                    [os]
+                            
+                                Неаполитански език
+                                    [bg]
+                            
+                                Неаполитанский язык
+                                    [ru]
+                            
+                                Нэапалітанская мова
+                                    [be]
+                            
+                                נפוליטנית
+                                    [he]
+                            
+                                نېئاپول تىلى
+                                    [ug]
+                            
+                                ნეაპოლური ენა
+                                    [ka]
+                            
+                                ナポリ語
+                                    [ja]
+                            
+                                那不勒斯语
+                                    [zh]
+                            
+                                나폴리어
+                                    [ko]
+                            
+moseley & asher (1994):
+                                Italian
+                            
+multitree:
+                                Italien du sud
+                            
+                                Napoletano-Calabrese
+                            
+                                Napolitano-calabrés
+                            
+                                Neapolitan-Calabrese
+                            
+ruhlen (1987):
+                                Italian
+                            
+wals:
+                                Italian (Napolitanian)
+                            
+                Countries
+            
+                                    Italy [IT]
+                            
+            References
+            ⇫
+Details
+Name
+Title
+Any field
+ca
+Year
+Pages
+Doctype
+ca
+Provider
+da
+--any--
+unknown
+bibliographical
+ethnographic
+overview
+dialectology
+socling
+minimal
+comparative
+wordlist
+new_testament
+text
+phonology
+specific_feature
+dictionary
+grammar_sketch
+grammar
+--any--
+anla
+apics
+asjp2010
+autotyp
+bahasa
+benjamins
+bibliolux
+bowern
+degruyter
+dplace
+eballiso2009
+elcat
+elpub
+evobib
+fabreall2009ann
+gilbertese
+gj
+glossa
+goba
+grambank
+guldemann
+haspelmath
+hedvig-tirailleur
+hh
+iso6393
+jocp
+langsci
+lapolla-tibeto-burman
+ldh
+lewinmanx
+ludger-paschen-germanic
+marctang
+mpieva
+ofdn
+otomanguean
+ozbib
+phoible
+pulotu
+sala
+schikowski_chintang
+seifart
+sil16
+silpng
+sn
+stampe
+wals
+weball
+zorcpapers
+zurich
+Glottolog 4.8
+                            edited by
+                            
+                                Hammarström, Harald & Forkel, Robert & Haspelmath, Martin & Bank, Sebastian
+                           
+                            is licensed under a
+                            
+                                Creative Commons Attribution 4.0 International License.
+                        
+Privacy Policy
+Disclaimer
+ 
+                                Application source
+                                    (v4.6-12-g4773988)
+                                on
+×

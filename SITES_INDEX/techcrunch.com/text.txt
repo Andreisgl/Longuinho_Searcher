@@ -1,0 +1,45 @@
+ 
+Automattic CEO Matt Mullenweg talks future of Tumblr, with algorithmic choice, AI enhancements and more | TechCrunch
+ 
+ 
+TechCrunch
+plus-bold
+TechCrunch
+Open Navigation
+TechCrunch
+Automattic CEO Matt Mullenweg talks future of Tumblr, with algorithmic choice, AI enhancements and more
+Sarah Perez
+@sarahintampa
+ / 
+2 weeks
+Matt Mullenweg, CEO of Automattic, the company behind WordPress.com and other online publishing tools, is offering a glimpse into Tumblr’s future — the blogging site Automattic acquired from Verizon in 2019. On the Evening Standard’s “How to be a CEO” podcast, the WordPress founder offered a vision of Tumblr’s future direction, including its embrace of open source, plans for algorithmic choice and use of AI technologies, among other things.
+The exec was enthusiastic about Tumblr’s ability to bring a younger user base into the broader Automattic community, noting that more than half its users are under the age of 25 and more women than men use the service. The site also has a vibrant LGBTQ+ community — over a quarter of its network, larger than any other social network, Mullenweg also claimed. Driving Tumblr’s community toward Automattic’s other tools, over time, is one of the company’s ultimate goals.
+Mullenweg says that users might start with just a Tumblr blog but then, over time, want to expand into something larger — an e-commerce store, a more customizable site, a newsletter or a membership site — and Automattic could direct users to other products it offers that allow those possibilities, like WordPress.com or WooCommerce, and others.
+“I’m excited about that on-ramp as well as to bring a younger demographic and young people into WordPress,” Mullenweg noted.
+Beyond catering to a younger demographic, the company also wants to bring its open source ethos to parts of Tumblr, the exec noted.
+For example, the company open sourced the algorithm that powers Tumblr, stream-builder, which is now available on GitHub. That means other developers can now submit a patch to it, change it or even create their own customized version, explains Mullenweg.
+But open sourcing the algorithm is only one step toward building a more open Tumblr.
+Mullenweg also foresees a future where users get to pick their own algorithm to control their Tumblr experience. He says other social networks haven’t typically offered this option in the past because what users say they want to see and how they actually behave often differs — they tend to be more engaged with the algorithm the network provides, that is.
+Still, Mullenweg believes there can be a balance between the main algorithm a network offers and user choice.
+“We’ll always have our defaults that maybe are the default thing you see, but then you can switch into your own mode if you want,” he explained.
+Other social networks have begun to do something similar, including Bluesky, a Twitter/X rival, which recently introduced the concept of custom feeds that let users filter the network’s posts in different ways.
+Image Credits: Bryce Durbin / TechCrunch
+Mullenweg also touched on the opportunities Tumblr has had in the face of changes at Twitter, which have benefited other social networks that mimic Twitter, including Bluesky, Mastodon and Threads. Shortly after Elon Musk took over Twitter, Mullenweg reported a 58% increase in iOS app downloads and a 57% increase in Android users during the first week of November.
+But in the new interview, the exec downplayed the impact of the Twitter exodus, saying that people would arrive in waves, but “if we’re being really honest, like less than you would think in the long-term.”
+Instead, he said shifts are more successful when entire communities choose to move over to Tumblr after becoming frustrated with their current platform host, as a Lego community recently did when leaving Instagram.
+“Get everyone coming over at the same time, teach each other how it works…follow each other…kind of like bootstrap the community on the new thing. And then also give us feedback,” said Mullenweg, adding that Tumblr wants to be responsive to communities’ feature requests as they make these moves.
+As for the matter of AI, Mullenweg said not to worry — there’s not going to be some Tumblr AI chatbot coming in the future.
+Instead, he believes AI will play a larger role behind the scenes at the company.
+“I am one of the people who will say that it’s almost impossible to overstate how big AI will impact society,” he began, but added that for Tumblr, its impact will be less obvious than in other places.
+“For Tumblr…I think it can make our developers a lot more productive…the code could be checked by AI or tested by AI or something like that. So that’ll allow us to do a lot more with the same or fewer developers, which is really exciting. So maybe our pace of development can increase,” he said.
+Plus, AI can be a help in moderation, flagging things before they’re even reported by Tumblr users. In addition, AI and machine learning could make the Tumblr feed better and more personalized to end users.
+“You can tweak it and it can really learn the things you want to see and the friends you want to follow,” he said.
+The exec was also generally bullish on generative AI as a tool for artists, which may benefit the community that uses Tumblr, but didn’t note that Tumblr itself would build gen AI tools.
+Mullenweg wrapped the interview by positioning Tumblr in a slightly different space than traditional social media.
+“You often hear people say they want to do less social media, but you almost never hear people say they want to blog less…What is it about blogging, that they feel like adds to their life or is a valuable task, or valuable use of time, that maybe they’re not getting from more traditional social media?,” he asked. “Like I said, we’re making Tumblr for art and artists. I haven’t heard anyone say I’d love less art in my life.”
+Image Credits: Tumblr
+That said, Tumblr — which now hosts half a billion blogs, Mullenweg noted — does seem to be chasing the Twitter crowd with its recent web redesign that moved the navigation bar to the left, similar to Twitter/X.
+Without directly addressing the Twitter-inspired revamp, Mullenweg did explain why so many social tools are starting to look alike.
+“I think what happens is that — the reality is that people use multiple social networks at the same time. And there’s sort of a baseline functionality that they just come to expect,” he said. “There’s certain things that you just probably don’t even realize that you expect until you are going to visit one of these social networks that doesn’t support it. And you’re like, ‘Oh, I really like that thing’,” he concluded.
+Tumblr is rolling out a new web interface, and it looks a lot like X (formerly Twitter)
+ 

@@ -1,0 +1,735 @@
+Relation: ‪ישראל‬ (‪1473946‬) | OpenStreetMap
+      OpenStreetMap
+    
+Where is this?
+Reverse Directions
+Loading...
+Edit
+Edit with iD (in-browser editor)
+Edit with Remote Control (JOSM, Potlatch, Merkaartor)
+History
+Export
+GPS Traces
+User Diaries
+Communities
+Copyright
+Help
+About
+More
+GPS Traces
+User Diaries
+Communities
+Copyright
+Help
+About
+Log In
+Sign Up
+Where is this?
+Reverse Directions
+Loading...
+Loading...
+Relation: ישראל (1473946)
+  Version
+  #286
+    Fixed borders
+    Edited about 1 month ago by ASMapper
+    Changeset
+    #139448809
+Tags
+ISO3166-1
+IL
+ISO3166-1:alpha2
+IL
+ISO3166-1:alpha3
+ISR
+ISO3166-1:numeric
+376
+admin_level
+2
+alt_name:vi
+Ixraen;Do Thái
+boundary
+administrative
+default_language
+he
+flag
+http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg
+int_name
+ישראל
+is_in:continent
+Asia
+name
+ישראל
+name:af
+Israel
+name:als
+Israel
+name:am
+እስራኤል
+name:an
+Israel
+name:ang
+Israhēl
+name:ar
+إسرائيل
+name:arc
+ܐܝܣܪܐܝܠ
+name:arz
+اسرائيل
+name:ast
+Israel
+name:av
+Гlизраил
+name:az
+İsrail
+name:ba
+Израиль
+name:bar
+Israel
+name:bat-smg
+Izraelis
+name:bcl
+Israel
+name:be
+Ізраіль
+name:be-tarask
+Ізраіль
+name:bg
+Израел
+name:bm
+Israil
+name:bn
+ইসরায়েল
+name:bo
+ཨི་སི་ར་ཨེལ།
+name:bpy
+ইসরাইল
+name:br
+Israel
+name:bs
+Izrael
+name:bxr
+Израиль
+name:ca
+Israel
+name:cdo
+Ī-sáik-liĕk
+name:ce
+Израиль
+name:ceb
+Israel
+name:ckb
+ئیسرائیل
+name:co
+Israele
+name:crh
+İsrail
+name:cs
+Izrael
+name:csb
+Izrael
+name:cu
+Їꙁдраил҄ь
+name:cv
+Израиль
+name:cy
+Israel
+name:da
+Israel
+name:de
+Israel
+name:diq
+İsrail
+name:dsb
+Israel
+name:dv
+އިސްރާއީލު
+name:dz
+ཨིཛ་རཱེལ་
+name:el
+Ισραήλ
+name:en
+Israel
+name:eo
+Israelo
+name:es
+Israel
+name:et
+Iisrael
+name:eu
+Israel
+name:ext
+Israel
+name:fa
+اسرائیل
+name:fi
+Israel
+name:fj
+Isireli
+name:fo
+Ísrael
+name:fr
+Israël
+name:frp
+Israyèl
+name:frr
+Israel
+name:fy
+Israel
+name:ga
+Iosrael
+name:gag
+İsrail
+name:gan
+以色列
+name:gd
+Iosrael
+name:gl
+Israel
+name:gn
+Israel
+name:gu
+ઈઝરાયલ
+name:gv
+Israel
+name:ha
+Isra'ila
+name:hak
+Yî-set-lie̍t
+name:haw
+ʻIseraʻela
+name:he
+ישראל
+name:hi
+इज़राइल
+name:hif
+Israel
+name:hr
+Izrael
+name:hsb
+Israel
+name:ht
+Izrayèl
+name:hu
+Izrael
+name:hy
+Իսրայել
+name:ia
+Israel
+name:id
+Israel
+name:ie
+Israel
+name:ig
+Israel
+name:ilo
+Israel
+name:io
+Israel
+name:is
+Ísrael
+name:it
+Israele
+name:ja
+イスラエル
+name:jbo
+brogu'e
+name:jv
+Israèl
+name:ka
+ისრაელი
+name:kab
+Israyil
+name:kbd
+Исраэл
+name:kg
+Israel
+name:kk
+Израиль
+name:kl
+Israel
+name:kn
+ಇಸ್ರೇಲ್
+name:ko
+이스라엘
+name:koi
+Исраэль
+name:ksh
+Israel
+name:ku
+Îsraêl
+name:kv
+Израиль
+name:kw
+Ysrael
+name:ky
+Израиль
+name:la
+Israel
+name:lad
+Medinat Yisrael
+name:lb
+Israel
+name:lez
+Израиль
+name:li
+Israël
+name:lij
+Isræ
+name:lmo
+Israel
+name:ln
+Israel
+name:lt
+Izraelis
+name:lv
+Izraēla
+name:mdf
+Израиль
+name:mi
+Iharaira
+name:mk
+Израел
+name:ml
+ഇസ്രയേൽ
+name:mn
+Израйль
+name:mr
+इस्रायल
+name:ms
+Israel
+name:mt
+Iżrael
+name:mwl
+Eisrael
+name:my
+အစ္စရေးနိုင်ငံ
+name:mzn
+اسرائیل
+name:na
+Iteraer
+name:nah
+Israel
+name:nan
+Í-sek-lia̍t
+name:nap
+Israele
+name:nds
+Israel
+name:nds-nl
+Israël
+name:ne
+इजरायल
+name:nl
+Israël
+name:nn
+Israel
+name:no
+Israel
+name:nov
+Israel
+name:nv
+Ízrel Bikéyah
+name:oc
+Israèl
+name:or
+ଇସ୍ରାଏଲ
+name:os
+Израиль
+name:pa
+ਇਜ਼ਰਾਇਲ
+name:pam
+Israel
+name:pap
+Israel
+name:pih
+Esrail
+name:pl
+Izrael
+name:pms
+Israel
+name:pnb
+اسرائیل
+name:pnt
+Ισραήλ
+name:ps
+اسرائيل
+name:pt
+Israel
+name:qu
+Israyil
+name:rmy
+Israel
+name:ro
+Israel
+name:roa-tara
+Israele
+name:ru
+Израиль
+name:rue
+Ізраіль
+name:rw
+Isirayeli
+name:sa
+इस्रेल
+name:sah
+Исраил
+name:sc
+Israele
+name:scn
+Israeli
+name:sco
+Israel
+name:se
+Israel
+name:sh
+Izrael
+name:si
+ඊශ්‍රායලය
+name:simple
+Israel
+name:sk
+Izrael
+name:sl
+Izrael
+name:sm
+Israel
+name:smn
+Israel
+name:sms
+Israel
+name:so
+Israaiil
+name:sq
+Izraeli
+name:sr
+Израел
+name:srn
+Israel
+name:ss
+Ka-Israyeli
+name:stq
+Israel
+name:sv
+Israel
+name:sw
+Israel
+name:szl
+Izrael
+name:ta
+இசுரேல்
+name:te
+ఇజ్రాయిల్
+name:tet
+Izraél
+name:tg
+Исроил
+name:th
+ประเทศอิสราเอล
+name:tk
+Ysraýyl
+name:tl
+Israel
+name:tok
+ma Isale
+name:tpi
+Israel
+name:tr
+İsrail
+name:tt
+Исраил
+name:tzl
+Israidia
+name:udm
+Израиль
+name:ug
+ئىسرائىلىيە
+name:uk
+Ізраїль
+name:ur
+اسرائیل
+name:uz
+Isroil
+name:vec
+Israełe
+name:vep
+Izrail'
+name:vi
+Israel
+name:vo
+Yisraelän
+name:vro
+Iisrael
+name:wa
+Israyel
+name:war
+Israel
+name:wo
+Israayil
+name:wuu
+以色列
+name:xal
+Изралмудин Орн
+name:xmf
+ისრაელი
+name:yi
+ישראל
+name:yo
+Ísráẹ́lì
+name:yue
+以色列
+name:zea
+Israël
+name:zh
+以色列
+name:zh-Hans
+以色列
+name:zh-Hant
+以色列
+name:zu
+Isreyili
+official_name
+מדינת ישראל
+official_name:ar
+دولة إسرائيل
+official_name:cs
+Stát Izrael
+official_name:en
+State of Israel
+official_name:eo
+Ŝtato Israelo
+official_name:fr
+État d’Israël
+official_name:pl
+Państwo Izrael
+official_name:ru
+Государство Израиль
+sqkm
+20770
+type
+boundary
+wikidata
+Q801
+wikipedia
+en:Israel
+Members
+205 members
+  Node ירושלים (29090735) as admin_centre
+  Node ישראל (424297647) as label
+  Way 1949 Armistice Line (41853309) as outer
+  Way 1949 Armistice Line (1182103644) as outer
+  Way 1949 Armistice Line (1182103647) as outer
+  Way 1949 Armistice Line (334997449) as outer
+  Way 1949 Armistice Line (299207391) as outer
+  Way 1949 Armistice Line (95459796) as outer
+  Way 1949 Armistice Line (95458491) as outer
+  Way 1949 Armistice Line (844583846) as outer
+  Way 1949 Armistice Line (95258495) as outer
+  Way 1949 Armistice Line (95258529) as outer
+  Way 1949 Armistice Line (95258528) as outer
+  Way 1949 Armistice Line (87237529) as outer
+  Way 1949 Armistice Line (95258446) as outer
+  Way 1949 Armistice Line (41851636) as outer
+  Way 1949 Armistice Line (334997452) as outer
+  Way 1949 Armistice Line (41852602) as outer
+  Way 1949 Armistice Line (41850573) as outer
+  Way إسرائيل - ישראל (221315899) as outer
+  Way إسرائيل - ישראל (996965161) as outer
+  Way إسرائيل - ישראל (221315901) as outer
+  Way إسرائيل - ישראל (996965022) as outer
+  Way إسرائيل - ישראל (199096305) as outer
+  Way إسرائيل - ישראל (996744301) as outer
+  Way إسرائيل - ישראל (996744300) as outer
+  Way إسرائيل - ישראל (221315900) as outer
+  Way إسرائيل - ישראל (316395389) as outer
+  Way إسرائيل - ישראל (996965083) as outer
+  Way Border Israel - Jordan (316234990) as outer
+  Way إسرائيل - ישראל (199096322) as outer
+  Way إسرائيل - ישראל (95258470) as outer
+  Way إسرائيل - ישראל (725997333) as outer
+  Way 151514016 as outer
+  Way 38346048 as outer
+  Way 38346033 as outer
+  Way ישראל - مصر (151513577) as outer
+  Way ישראל - مصر (228505625) as outer
+  Way ישראל - مصر (95260253) as outer
+  Way ישראל - مصر (95260257) as outer
+  Way ישראל - مصر (95211614) as outer
+  Way ישראל - مصر (737413343) as outer
+  Way قطاع غزة - ישראל (25057102) as outer
+  Way Border Gaza Strip - Israel (348002982) as outer
+  Way Border Gaza Strip - Israel (760023337) as outer
+  Way Border Gaza Strip - Israel (760016930) as outer
+  Way Border Gaza Strip - Israel (760016931) as outer
+  Way Border Gaza Strip - Israel (759996926) as outer
+  Way Border Gaza Strip - Israel (334890953) as outer
+  Way Border Gaza Strip - Israel (759979230) as outer
+  Way Border Gaza Strip - Israel (759979225) as outer
+  Way Border Gaza Strip - Israel (760010532) as outer
+  Way Border Gaza Strip - Israel (760010531) as outer
+  Way Border Gaza Strip - Israel (334890951) as outer
+  Way Border Gaza Strip - Israel (95211615) as outer
+  Way Border Gaza Strip - Israel (95211621) as outer
+  Way Border Gaza Strip - Israel (759915015) as outer
+  Way Border Gaza Strip - Israel (295939773) as outer
+  Way Border Gaza Strip - Israel (295939456) as outer
+  Way Border Gaza Strip - Israel (759904880) as outer
+  Way Border Gaza Strip - Israel (95211617) as outer
+  Way Border Gaza Strip - Israel (759904874) as outer
+  Way Border Gaza Strip - Israel (759904881) as outer
+  Way إسرائيل - فلسطين (725314359) as outer
+  Way إسرائيل - فلسطين (151498857) as outer
+  Way 176321347 as outer
+  Way 151498855 as outer
+  Way 96338327 as outer
+  Way لبنان - ישראל (809220318) as outer
+  Way لبنان - ישראל (705761711) as outer
+  Way لبنان - ישראל (809216992) as outer
+  Way لبنان - ישראל (727154583) as outer
+  Way لبنان - ישראל (121665455) as outer
+  Way لبنان - ישראל (842728831) as outer
+  Way لبنان - ישראל (809557092) as outer
+  Way لبنان - ישראל (843173726) as outer
+  Way لبنان - ישראל (843172556) as outer
+  Way لبنان - ישראל (843467411) as outer
+  Way لبنان - ישראל (843174838) as outer
+  Way لبنان - ישראל (705767183) as outer
+  Way لبنان - ישראל (843469482) as outer
+  Way لبنان - ישראל (705761714) as outer
+  Way لبنان - ישראל (843473372) as outer
+  Way لبنان - ישראל (843471670) as outer
+  Way لبنان - ישראל (843471669) as outer
+  Way لبنان - ישראל (705757472) as outer
+  Way لبنان - ישראל (844610158) as outer
+  Way لبنان - ישראל (705757471) as outer
+  Way لبنان - ישראל (705757470) as outer
+  Way لبنان - ישראל (844610719) as outer
+  Way لبنان - ישראל (705757473) as outer
+  Way لبنان - ישראל (844612006) as outer
+  Way لبنان - ישראל (705767181) as outer
+  Way لبنان - ישראל (705757469) as outer
+  Way لبنان - ישראל (705757468) as outer
+  Way لبنان - ישראל (842411533) as outer
+  Way لبنان - ישראל (705757467) as outer
+  Way لبنان - ישראל (846542353) as outer
+  Way لبنان - ישראל (734631233) as outer
+  Way لبنان - ישראל (846773516) as outer
+  Way لبنان - ישראל (846774321) as outer
+  Way لبنان - ישראל (705757465) as outer
+  Way لبنان - ישראל (762630940) as outer
+  Way لبنان - ישראל (977388213) as outer
+  Way لبنان - ישראל (95332414) as outer
+  Way لبنان - ישראל (762630935) as outer
+  Way لبنان - ישראל (977388821) as outer
+  Way لبنان - ישראל (973111015) as outer
+  Way لبنان - ישראל (762630936) as outer
+  Way لبنان - ישראל (705757463) as outer
+  Way لبنان - ישראל (705757464) as outer
+  Way لبنان - ישראל (705757474) as outer
+  Way لبنان - ישראל (705767185) as outer
+  Way لبنان - ישראל (1188316287) as outer
+  Way لبنان - ישראל (1188316285) as outer
+  Way لبنان - ישראל (775320300) as outer
+  Way لبنان - ישראל (726147609) as outer
+  Way لبنان - ישראל (705767182) as outer
+  Way لبنان - ישראל (775320301) as outer
+  Way لبنان - ישראל (842176370) as outer
+  Way لبنان - ישראל (830869382) as outer
+  Way ישראל - سوريا (95034190) as outer
+  Way ישראל - سوريا (793722585) as outer
+  Way ישראל - سوريا (793722588) as outer
+  Way ישראל - سوريا (1194778776) as outer
+  Way ישראל - سوريا (793722591) as outer
+  Way الأردن - ישראל (727771000) as outer
+  Way الأردن - ישראל (996965114) as outer
+  Way الأردن - ישראל (1193372980) as outer
+  Way الأردن - ישראל (733999333) as outer
+  Way Israel - الأردن (95940720) as outer
+  Way الأردن - ישראל (30183298) as outer
+  Way الأردن - ישראל (844627332) as outer
+  Way 1949 Armistice Line (232271743) as outer
+  Way 1949 Armistice Line (334997453) as outer
+  Way 1949 Armistice Line (87236950) as outer
+  Way 1949 Armistice Line (96205624) as outer
+  Way 1949 Armistice Line (87238345) as outer
+  Way 1949 Armistice Line (95533408) as outer
+  Way 1949 Armistice Line (88681787) as outer
+  Way 1949 Armistice Line (731991148) as outer
+  Way 1949 Armistice Line (731991158) as outer
+  Way 1949 Armistice Line (95065889) as outer
+  Way 1949 Armistice Line (96645255) as outer
+  Way 1949 Armistice Line (727849235) as outer
+  Way 1949 Armistice Line (96647156) as outer
+  Way 1949 Armistice Line (97194318) as outer
+  Way 1949 Armistice Line (87238573) as outer
+  Way 1949 Armistice Line (41848028) as outer
+  Way 1949 Armistice Line (97194069) as outer
+  Way 1949 Armistice Line (727826004) as outer
+  Way 1949 Armistice Line (727826003) as outer
+  Way 1949 Armistice Line (97193996) as outer
+  Way 1949 Armistice Line (97193995) as outer
+  Way 1949 Armistice Line (726563721) as outer
+  Way 1949 Armistice Line (97193949) as outer
+  Way 1949 Armistice Line (97193825) as outer
+  Way 1949 Armistice Line (887627432) as outer
+  Way 1949 Armistice Line (887627431) as outer
+  Way 1949 Armistice Line (97193774) as outer
+  Way 1949 Armistice Line (334997448) as outer
+  Way 1949 Armistice Line (96411999) as outer
+  Way 1949 Armistice Line (87236644) as outer
+  Way 1949 Armistice Line (96412005) as outer
+  Way 1949 Armistice Line (986219290) as outer
+  Way 1949 Armistice Line (882345388) as outer
+  Way 1949 Armistice Line (97947186) as outer
+  Way 1949 Armistice Line (97947187) as outer
+  Way 1949 Armistice Line (882345387) as outer
+  Way 1949 Armistice Line (882345389) as outer
+  Way 1949 Armistice Line (882345391) as outer
+  Way 1949 Armistice Line (97590098) as outer
+  Way 1949 Armistice Line (882345390) as outer
+  Way 1949 Armistice Line (728881433) as outer
+  Way 1949 Armistice Line (882345392) as outer
+  Way 1949 Armistice Line (507336645) as outer
+  Way 1949 Armistice Line (334997454) as outer
+  Way 1949 Armistice Line (97505980) as outer
+  Way 1949 Armistice Line (844720189) as outer
+  Way 1949 Armistice Line (444750635) as outer
+  Way 1949 Armistice Line (1042593027) as outer
+  Way 1949 Armistice Line (444750627) as outer
+  Way 1949 Armistice Line (444750599) as outer
+  Way 1949 Armistice Line (444750615) as outer
+  Way 1949 Armistice Line (444750582) as outer
+  Way 1949 Armistice Line (882477215) as outer
+  Way 1949 Armistice Line (1042593028) as outer
+  Way 1949 Armistice Line (882477219) as outer
+  Way 1949 Armistice Line (444750594) as outer
+  Way 1949 Armistice Line (444196255) as outer
+  Way 1949 Armistice Line (444194385) as outer
+  Way 745123102 as outer
+  Way Jerusalem City Municipal Boundary (745123101) as outer
+  Way Jerusalem City Municipal Boundary (725150812) as outer
+  Way Jerusalem City Municipal Boundary (725150822) as outer
+  Way Jerusalem City Municipal Boundary (725150815) as outer
+  Way Jerusalem City Municipal Boundary (725150814) as outer
+  Way גבול עיריית ירושלים (737409143) as outer
+  Way Jerusalem City Municipal Boundary (458028919) as outer
+  Way Jerusalem City Municipal Boundary (457956197) as outer
+  Way Jerusalem City Municipal Boundary (574231686) as outer
+  Way Jerusalem City Municipal Boundary (458053102) as outer
+  Way Jerusalem City Municipal Boundary (458053095) as outer
+  Way Jerusalem City Municipal Boundary (444194386) as outer
+  Way 1949 Armistice Line (444194387) as outer
+Download XML
+    ·
+  View History
+Welcome to OpenStreetMap!
+OpenStreetMap is a map of the world, created by people like you and free to use under an open license.
+Hosting is supported by UCL, Fastly, Bytemark Hosting, and other partners.
+          
+Learn More
+Start Mapping
+You are either using a browser that does not support JavaScript, or you have disabled JavaScript.
+OpenStreetMap uses JavaScript for its slippy map.
+https://openstreetmap.org/copyright
+https://openstreetmap.org
+Copyright OpenStreetMap and contributors, under an open license

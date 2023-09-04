@@ -1,0 +1,101 @@
+Wikivoyage - Wikipedia
+Wikivoyage
+Uit Wikipedia, de vrije encyclopedie
+Naar navigatie springen
+Naar zoeken springen
+Wikivoyage
+Type
+wiki, reisgids
+Taal
+Engels, Nederlands, Frans, Duits, Italiaans, Pools, Portugees, Roemeens, Russisch, Spaans en Zweeds
+Registratie
+optioneel
+Eigenaar
+Wikimedia Foundation
+Auteur(s)
+gebruikersgemeenschap
+Link
+www.wikivoyage.org
+Portaal    
+Media 
+Wikivoyage is een project van de Wikimedia Foundation in de vorm van een vrije reisgids op internet.  Het project omvat bestemmingen, reisgerelateerde onderwerpen en taalgidsen geschreven door onbetaalde vrijwilligers. 
+De naam van het project is een samenvoeging van de woorden "wiki", een softwaresysteem dat iedereen toestaat dingen te wijzigen en aan te vullen, en "voyage", het Franse en Engelse woord voor reizen. De inhoud wordt gepubliceerd onder de Creative Commons Naamsvermelding-GelijkDelen-licentie, een vrije licentie, net als bijvoorbeeld Wikipedia.
+Het project vindt zijn oorsprong in Wikitravel, een reisgids op internet met een vrije inhoud die in 2003 werd opgezet door Evan Prodromou en Michele Ann Jenkins. Toen deze site verkocht werd aan Internet Brands, startte Wikivoyage in september 2006 als een fork van de Duitstalige versie van Wikitravel met de specifieke intentie om commerciële belangen te vermijden. De website werd opgericht door de Duitse vereniging Wikivoyage e.V. en kwam beschikbaar voor het publiek op 10 december 2006. De Italiaanse versie, ook een fork van Wikitravel, werd geopend op 10 december 2007.
+In de eerste helft van 2012 onderzocht de Engelstalige Wikitravel-gemeenschap, waaronder vrijwel alle moderatoren, de mogelijkheden van een fork vanwege de toenemende onvrede over het slechte beheer door de commerciële eigenaar Internet Brands. Ze benaderden de Wikimedia Foundation om hun interesse in de hosting te verkennen. In de loop van het proces werd ook Wikivoyage e.V. erbij betrokken. In augustus 2012 sloten de Engelse, Franse, Nederlandse, Russische en Zweedse taalversies zich aan bij de site van Wikivoyage e.V. Er werd een succesvol reisgids-voorstel ingediend, dat door de Wikimedia Foundation werd goedgekeurd in oktober 2012. De bètaversie van de site, op de servers van de Wikimedia Foundation, begon op 10 november 2012. Op 15 januari 2013 werd de site officieel geopend.
+Inhoud
+1 Geschiedenis
+1.1 Migratie naar de Wikimedia Foundation
+2 Organisatie en werking
+2.1 Werking
+2.2 Licentie
+2.3 Informatiestructuur
+2.4 Talen
+3 Externe link
+Geschiedenis[bewerken | brontekst bewerken]
+De geschiedenis van Wikivoyage gaat terug tot 7 oktober 2004, toen veel van zijn auteurs en moderatoren verdergingen met het opbouwen van de Duitse aftakking van Wikitravel, in het bijzonder met betrekking tot de Duitse taal. Dit was het gevolg van de teleurstelling toen de overname van wikitravel.org door Internet Brands, een exploitant van media en e-commerce sites, werd aangekondigd op 20 april 2006. Extra onvrede met de managementstijl van het project leidde tot de beslissing door de meeste Duitse beheerders en auteurs om het project voort te zetten als een fork.
+Na een half jaar van voorbereiding werd de non-profit vereniging Wikivoyage eV opgericht en geregistreerd; zowel de eigenaar van de domeinnamen als de exploitant van de server. Op 10 december 2006 ging het project online met de database overgenomen van de Duitstalige Wikitravel. Na zeven maanden was 40% van de artikelen nieuw, oplopend tot 50% na 10 maanden. In dit stadium waren er nog een aantal belangrijke hiaten in de dekking, maar er waren diverse artikelen voor reisbestemmingen zoals Egypte, Thailand en Zwitserland en voor het reisonderwerp fietsen. De Italiaanse tak van Wikivoyage werd op 10 december 2007 gelanceerd. De organisatie van mediagegevens en het beheer van gebruikerstoegang was reeds toepasbaar voor gebruik in takken in andere talen.
+Het project was onderwerp van nieuwsberichten in met name de Zwitserse radio en pers. De krant Tages-Anzeiger van Zürich en het Zwitserse radiostation DRS1 berichtten in grote lijnen over het project zonder de bestaande tekortkomingen verbergen. Het project wordt voornamelijk ondersteund door de Duitse en Zwitserse auteurs.
+Migratie naar de Wikimedia Foundation[bewerken | brontekst bewerken]
+In 2012 werd na een lange geschiedenis van ontevredenheid met Wikitravel's beheerder en eigenaar Internet Brands, voorgesteld dat de gemeenschap van Wikitravel hun werk van Wikitravel zou forken met inbegrip van Wikitravel Shared. Samen met de bestaande sites bij Wikivoyage zou dit worden samengevoegd om een nieuwe reiswiki te creëren die werd gehost door de Wikimedia Foundation, de eigenaar van Wikipedia en een groot aantal andere non-profitreferentiesites op basis van een wikigemeenschap-cultuur. Na een lange discussie door gebruikers van de drie gemeenschappen, opmerkingen door hun respectievelijke gastheren en bevestiging door de Wikimedia Foundation dat het bereid was een reisproject te beheren als de gebruikers dat wilden, besloot de meerderheid van de moderatoren en bureaucraten op Wikitravel om hun bestaande werk inderdaad te forken naar Wikivoyage.
+De inhoud van Wikitravel en de bijbehorende 'Commons' (foto's, video en andere mediabestanden) in alle talen en van Wikitravel Commons werden gedownload als een databasedump ter voorbereiding van een dergelijke migratie op 2 augustus 2012 en als uitgangspunt voor de bestaande wiki. Forking is een normale of verwachte activiteit in wikigemeenschappen en wordt toegestaan door de Creative Commons-licentie die in gebruik is op sites zoals Wikitravel en ook in de wikisoftware die Wikitravel gebruikt is opgenomen als faciliteit. Internet Brands schakelde deze functie kort na deze datum uit als poging de datamigratie of forking te voorkomen. De gemeenschapdiscussie op Wikimedia eindigde op 23 augustus 2012 met 540 voor en 152 stemmen tegen de oprichting van het reisgidsproject bij de Wikimedia Foundation. De dubbele migratie naar de Wikimedia Foundation vond plaats gedurende oktober en november 2012.
+Als onderdeel van de migratie was het de bedoeling dat de huidige eigenaar en gebruikerslichaam "Wikivoyage eV" zou blijven bestaan als een geassocieerde organisatie die op organisatorisch niveau was aangesloten bij de Wikimedia Foundation. Wikivoyage verklaarde dat het, bevrijd van de noodzaak om de servers te onderhouden, zou kunnen profiteren door het vergroten van zijn werkzaamheden voor de outreach, steun aan de gemeenschap, ruimte voor discussie en informatie en technische verbeteringen aan de software van de site.
+In september 2012 diende Internet Brands rechtszaken in tegen twee moderatoren van Wikitravel die werden beschuldigd van inbreuk op het handelsmerk en commercieel wangedrag in de voorstellen met betrekking tot de site. De twee moderatoren en de Wikimedia Foundation wezen deze zaak af als een voorbeeld van een SLAPP-rechtszaak: een zaak zonder plausibele juridische gronden met de primaire bedoeling om af te schrikken, te overweldigen, of om personen in hun volledig legale acties te frustreren. In 2013 hebben de Wikimedia Foundation en Internet Brands de rechtszaken geschikt.[1]
+Na een stemming op Meta-Wiki kreeg Wikivoyage op 8 januari 2013 een nieuw logo.
+Organisatie en werking[bewerken | brontekst bewerken]
+Werking[bewerken | brontekst bewerken]
+Wikivoyage maakt gebruik van dezelfde vrije MediaWiki-software die wordt gebruikt door Wikipedia, om een op internet gebaseerd gebruik mogelijk te maken zonder registratie voor niet-bijdragende gebruikers. De kwaliteitsborging gebeurt op dezelfde wijze als op Wikipedia door onderlinge controle door de gebruikers. Door gebruik te maken van dezelfde software zijn nieuwe gebruikers vlug vertrouwd met Wikivoyage platform.
+Licentie[bewerken | brontekst bewerken]
+Wikivoyage maakt gebruik van de Creative Commons Naamsvermelding-GelijkDelen, maar niet de GNU Free Documentation License, zoals initieel bij Wikipedia het geval was. Vanuit een juridisch oogpunt is de productie van gedrukte reisgidsen mogelijk. Media-bestanden kunnen worden gepubliceerd in het publieke domein of onder meerdere vrije licenties (GNU, Creative Commons).
+Informatiestructuur[bewerken | brontekst bewerken]
+De informatie wordt opgebouwd op een meer gestructureerde manier dan gebruikelijk voor encyclopedieën. De artikelen die behoren tot een onderwerp zijn zowel gegroepeerd via categorieën bekend van de Mediawiki-software, als via de zogenaamde broodkruimelpaden die de geografische verbinding tussen de artikelen tonen.
+Er worden verschillende naamruimten gebruikt om verschillende onderwerpen te scheiden. De belangrijkste naamruimte bevat reisbestemmingen binnen hun geografische hiërarchie. Twee andere belangrijke naamruimten zijn voorbehouden voor reisonderwerpen en reisnieuws, met de bedoeling om een strakke verbinding tussen reisbestemmingen en onderwerpen toe te staan.
+Het inhoudelijke ontwerp wordt bepaald door consensus binnen de gemeenschap van auteurs en niet door de organisatie.
+Talen[bewerken | brontekst bewerken]
+De inhoud van Wikivoyage was al langer beschikbaar in het Duits, Engels, Frans, Italiaans, Nederlands, Russisch en Zweeds. In 2013 kwamen daar Grieks, Hebreeuws, Oekraïens, Pools, Portugees, Roemeens, Spaans en Vietnamees bij. Van 2014 t/m 2017 volgden Chinees, Fins, Hindi en Perzisch. In 2018 Bengaals en Pasjtoe. Totaal 21 talen.
+Externe link[bewerken | brontekst bewerken]
+Nederlandstalige website van Wikivoyage
+Algemene website van Wikivoyage
+Bronnen, noten en/of referenties
+Dit artikel of een eerdere versie ervan is een (gedeeltelijke) vertaling van het artikel Wikivoyage op de Engelstalige Wikipedia, dat onder de licentie Creative Commons Naamsvermelding/Gelijk delen valt. Zie de bewerkingsgeschiedenis aldaar.
+↑ Wikimedia and Internet Brands settle wikivoyage lawsuits
+Mediabestanden
+Zie de categorie Wikivoyage van Wikimedia Commons voor mediabestanden over dit onderwerp.
+WikiWoordenboek
+ ·  · 
+Wikimedia Foundation
+Projecten:Wikimedia Commons · Meta-Wiki · Wikibooks · Wikidata · Wikifuncties · Wikinieuws · Wikipedia · Wikiquote · Wikisource · Wikispecies · Wiktionary · Wikiversity · Wikivoyage · IncubatorWikipedia per taal:Afrikaans · Albanees · Arabisch · Armeens · Azerbeidzjaans · Baskisch · Bretons · Bulgaars · Catalaans · Cebuano · Chinees · Deens · Duits · Engels · Esperanto · Estisch · Fins · Frans · Fries · Georgisch · Grieks · Hebreeuws · Hindi · Hongaars · IJslands · Indonesisch · Italiaans · Jiddisch · Japans · Javaans · Kazachs · Koreaans · Kroatisch · Latijn · Lets · Limburgs · Litouws · Luxemburgs · Macedonisch · Maleis · Mongools · Napolitaans · Nederlands · Nedersaksisch · Noors · Oekraïens · Papiaments · Perzisch · Pools · Portugees · Roemeens · Russisch · Servisch · Schots · Siciliaans · simpel Engels · Sloveens · Slowaaks · Spaans · Thai · Tibetaans · Tsjechisch · Turks · Vietnamees · Waray-Waray · Welsh · Zeeuws · Zweeds — lijst van Wikipedia'sZie ook:Wikimedia België · Wikimedia Nederland · Wiki Loves Monuments · Wikimania · MediaWiki · wiki's · QRpedia · geschiedenis van Wikipedia
+Overgenomen van "https://nl.wikipedia.org/w/index.php?title=Wikivoyage&oldid=65535397"
+Categorieën: WikimediaReisgids
+Navigatiemenu
+Persoonlijke hulpmiddelen
+Niet aangemeldOverlegBijdragenAccount aanmakenInloggen
+Naamruimten
+ArtikelOverleg
+Nederlands
+Weergaven
+LezenBewerkenBrontekst bewerkenGeschiedenis
+Meer
+Zoeken
+Navigatie
+HoofdpaginaVind een artikelVandaagEtalageCategorieënRecente wijzigingenNieuwe artikelenWillekeurige pagina
+Informatie
+GebruikersportaalSnelcursusHulp en contactDoneren
+Hulpmiddelen
+Links naar deze paginaGerelateerde wijzigingenBestand uploadenSpeciale pagina'sPermanente koppelingPaginagegevensDeze pagina citerenWikidata-item
+Afdrukken/exporteren
+Boek aanmakenDownloaden als PDFAfdrukversie
+In andere projecten
+Wikimedia CommonsMeta-Wiki
+In andere talen
+AfrikaansAlemannischAragonésالعربيةAsturianuAzərbaycancaБългарскиবাংলাCatalà閩東語 / Mìng-dĕ̤ng-ngṳ̄ČeštinaDanskDeutschΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFrançaisGalego客家語/Hak-kâ-ngîעבריתहिन्दीHrvatskiMagyarՀայերենBahasa IndonesiaÍslenskaItaliano日本語ქართულიភាសាខ្មែរಕನ್ನಡ한국어KurdîLietuviųLatviešuМакедонскиമലയാളംBahasa MelayuनेपालीNorsk bokmålਪੰਜਾਬੀPolskiپښتوPortuguêsRomânăРусскийSrpskohrvatski / српскохрватскиၽႃႇသႃႇတႆး Simple EnglishSlovenčinaSlovenščinaSoomaaligaСрпски / srpskiSvenskaதமிழ்ТоҷикӣไทยTagalogTürkçeТатарча / tatarçaУкраїнськаاردوOʻzbekcha / ўзбекчаTiếng ViệtWinaray吴语Vahcuengh中文Bân-lâm-gú粵語
+Koppelingen bewerken
+ Deze pagina is voor het laatst bewerkt op 30 aug 2023 om 01:04.
+De tekst is beschikbaar onder de licentie Creative Commons Naamsvermelding/Gelijk delen, er kunnen aanvullende voorwaarden van toepassing zijn. Zie de gebruiksvoorwaarden voor meer informatie. Wikipedia® is een geregistreerd handelsmerk van de Wikimedia Foundation, Inc., een organisatie zonder winstoogmerk.
+Privacybeleid
+Over Wikipedia
+Disclaimers
+Gedragscode
+Mobiele weergave
+Ontwikkelaars
+Statistieken
+Cookieverklaring

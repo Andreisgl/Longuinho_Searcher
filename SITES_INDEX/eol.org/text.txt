@@ -1,0 +1,157 @@
+Chanterelle
+-
+Encyclopedia of Life
+About
+Education
+Discuss
+TraitBank
+Sign In
+Sign Up
+Language
+Deutsch
+English
+español
+français
+Nederlands
+Piemontèis
+Português do Brasil
+suomi
+Türkçe
+Ελληνικά
+Англійська
+македонски
+الإنجليزية
+简体中文
+繁體中文
+names in breadcrumbs
+vernacular
+scientific
+ 
+About
+Education
+Discuss
+TraitBank
+Sign In
+Sign Up
+ 
+en
+ 
+Deutsch
+English
+español
+français
+Nederlands
+Piemontèis
+Português do Brasil
+suomi
+Türkçe
+Ελληνικά
+Англійська
+македонски
+الإنجليزية
+简体中文
+繁體中文
+names in breadcrumbs
+vernacular
+scientific
+Creatures » … » Mushrooms, Lichens, Molds, Yeasts And Relatives » … » Basidiomycete Fungi » … » Cantharellaceae » …
+Creatures » Cellular Organisms » Eukaryotes » Opisthokonts » Nucletmycea » Mushrooms, Lichens, Molds, Yeasts And Relatives » Dikarya » Basidiomycete Fungi » Mushroom Forming Fungi » Cantharellales » Cantharellaceae » Chanterelles «
+Chanterelle
+Cantharellus cibarius Fr. 1821
+collect
+overview
+data
+media
+articles
+maps
+names
+Kari Pihlaviita
+ 
+cc-by-nc-2.0
+Cantharellus cibarius (Chanterelle) is a species of Fungi in the family Cantharellaceae.
+EOL has data for 6 attributes, including:
+is eaten by
+URI: http://purl.obolibrary.org/obo/RO_0002471
+show all records
+Entoloma parasiticum (Quél.) Kreisel 1984
+host of
+URI: http://purl.obolibrary.org/obo/RO_0002453
+Attribution: From OBO Relation Ontology
+show all records
+Hypomyces lactifluorum (Schwein.) Tul. & C. Tul. 1860
+eats
+URI: http://purl.obolibrary.org/obo/RO_0002470
+show all records
+Quercus robur L. (English oak)
+geographic distribution includes
+URI: http://eol.org/schema/terms/Present
+Definition: This organism is known to be present in this location or region. Not exclusive; other regions may also be reported.
+show all records
+North America
+URI: http://www.geonames.org/6255149
+show all records
+habitat
+URI: http://purl.obolibrary.org/obo/RO_0002303
+Definition: x has habitat y if: x is an organism, y is a habitat, and y can sustain and allow the growth of a population of x
+show all records
+dell
+URI: http://purl.obolibrary.org/obo/ENVO_00000439
+Definition: A small wooded valley, either U- or V-shaped.
+show all records
+has host
+URI: http://purl.obolibrary.org/obo/RO_0002454
+Attribution: From OBO Relation Ontology
+show all records
+null
+trophic guild
+URI: http://eol.org/schema/terms/TrophicGuild
+Definition: A group of species that exploit the same food resources, and/or use the same feeding or foraging methods. http://en.wikipedia.org/wiki/Guild_(ecology)
+show all records
+ectomycorrhizal fungus
+URI: https://www.wikidata.org/entity/Q109276107
+Definition: fungal symbiont found on the roots of host plants; often manifest themselves as mushrooms or truffles around the base of host plants
+show all records
+type specimen repository
+URI: http://eol.org/schema/terms/TypeSpecimenRepository
+Definition: The institution that holds a type specimen for a given species.  The recommended best practice is to use the identifier in a collections registry such as the Biodiversity Collections Index (http://www.biodiversitycollectionsindex.org/).
+show all records
+(NYS) - New York State Museum {http://collections.nysm.nysed.gov/mycology/index.html}
+Known occurrences, collected specimens and observations of Chanterelle. View this species on GBIF 
+Kari Pihlaviita
+ 
+cc-by-nc-2.0
+What is EOL?
+What's New?
+The EOL Forum
+Education
+Citing EOL
+Terms of Use
+Data Services
+Food Webs
+Language Support
+Donate
+Contact Us
+Animals
+Mammals
+Birds
+Amphibians
+Reptiles
+Fishes
+Invertebrates
+Crustaceans
+Mollusks
+Insects
+Spiders
+Worms
+Plants
+Flowering Plants
+Trees
+Fungi
+Mushrooms
+Molds
+Bacteria
+Algae
+Protists
+Archaea
+Viruses
+EOL is hosted by:

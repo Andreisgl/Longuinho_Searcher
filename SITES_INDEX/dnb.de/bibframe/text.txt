@@ -1,0 +1,133 @@
+DNB  -  BIBFRAME
+Navigation und Service
+Springe direkt zu:
+Inhalt
+Hauptmenü
+Suche
+  
+Servicemenü
+English
+ Gebärdensprache
+ Leichte Sprache
+ Hilfe und Kontakt
+Menü
+Hauptmenü
+Benutzung
+DNB Professionell
+Mein Konto
+Mehr
+Webseiten durchsuchen
+Suche. Finden. Entdecken
+Suchbegriff eingeben 
+Sie möchten in unseren Beständen recherchieren?
+                
+    Zur Katalog-Suche
+                
+  
+Häufig gesucht
+    Stellen­angebote
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sie sind hier:
+StartseiteDNB ProfessionellProjekteBIBFRAME
+empfehlen
+              BIBFRAME - Bibliographic Framework Initiative
+                Inhalt
+Pro­jekt­be­schrei­bung
+Pro­jek­t­rah­men
+Wei­ter­füh­ren­de Informationen
+Kon­takt
+Projektbeschreibung
+Die bisher bewährten bibliothekarischen Formate für den Datenaustausch, wie MARC 21 und MODS, können den Anforderungen nicht mehr gerecht werden, die durch die immer stärkere digitale Vernetzung der Informationswelt entstehen. 2011 rief die Library of Congress daher die „Bibliographic Framework Initiative“ (BIBFRAME) ins Leben mit dem Ziel, die vorhandenen Formate abzulösen. Dabei sollen die Möglichkeiten berücksichtigt werden, die Linked-Data- und Semantic-Web-Technologien mit sich bringen. In Zusammenarbeit mit Zepheira, OCLC und weiteren Partnern wurden Modellierungs- und Vokabular-Fragen diskutiert, die Entscheidungen jeweils dokumentiert und verschiedene Tools für die Erprobung zur Verfügung gestellt.
+Im Zuge der Internationalisierung der deutschsprachigen Standards begleitete die Deutsche Nationalbibliothek aktiv die Initiative als Mitglied der „Early Implementers Group“. Ziel der ersten Phase des DNB-BIBFRAME-Projekts war schwerpunktmäßig die Mitwirkung an den BIBFRAME Point Papers sowie der Erkenntnisgewinn aus einer prototypischen Konversion von Daten der Deutschen Nationalbibliothek aus dem Format Pica+ ins BIBFRAME-Format, die seit Februar 2014 über einen Link in den Titelanzeigen des Katalogs der Deutschen Nationalbibliothek zur Verfügung steht.
+Die Deutsche Nationalbibliothek sieht sich im deutschsprachigen Raum als Multiplikatorin und Ansprechpartnerin der Initiative und nutzt bestehende Strukturen und Gremien, um zu informieren und die hier vorhandene Expertise in die Initiative mit einzubringen. Durch die Mitarbeit in der PCC Task Group on URIs in MARC wird die Vorbereitung auf neue Lösungen verstärkt vorangetrieben.
+Die zweite Phase des BIBFRAME-Projekts der Deutschen Nationalbibliothek befindet sich in Planung. Sie hat die Aktualisierung und Erweiterung der prototypischen Abbildung von Daten der Deutschen Nationalbibliothek in BIBFRAME zum Ziel.
+Projektrahmen
+Laufzeit
+Oktober 2012 bis Februar 2014 (Phase 1) und fortlaufend weitergeführt
+Weiterführende Informationen
+Leitseite der Library of Congress zur Bibliographic Framework InitiativeBIBFRAME Vocabulary Navigator der Firma ZepheiraCommon Ground. A co-publication of the Library of Congress and OCLC ResearchPCC Task Group on URIs in MARC
+Stellungnahmen der Deutschen Nationalbibliothek
+Response of the German National Library to the Bibliographic Framework Transition Initiative General Plan announced by the Library of Congress in October 2011, [17.01.2012]Report by the German National Library's Office for Library Standards, Office for Data Formats to the Bibframe Early Implementers Group, December 10th, 2012Mapping Pica+ to BIBFRAME: First observations, June 20th, 2013German Feedback to the Point Paper on „BIBFRAME Use Cases and Requirements“, September 13th, 2013
+Artikel
+Julia Hauser, Reinhold Heuvelmann: BIBFRAME. Erste Schritte auf dem Weg zu einem neuen Standard. In: Dialog mit Bibliotheken (Bd. 25, 2013, Nr. 2: 37-41)Julia Hauser, Reinhold Heuvelmann: BIBFRAME: Was ist das, was hat das mit uns zu tun und wofür brauchen wir es? In: Interessengruppe Wissenschaftliche BibliothekarInnen Schweiz: Rundbrief (Rundbrief 63, September 2013 - Erschliessung: 20-22)
+Julia Hauser, Reinhold Heuvelmann, Stefanie Rühle, Jakob Voß: Interoperable Metadaten im Giant Global Graph.In: Dialog mit Bibliotheken (Bd. 26, 2014, Nr. 2: 41-46)Reinhold Heuvelmann: Bibframe, un nouveau modèle de données pour les bibliothèques. In: Arabesques (n° 83 - juillet - août - septembre 2016: 10-11)
+Vorträge
+Audio-Mitschnitt und Folien zum Vortrag „BIBFRAME“ im Rahmen des Berliner Bibliothekswissenschaftlichen Kolloquiums am 2. Februar 2016 https://www.ibi.hu-berlin.de/de/bbk/abstracts/ws1516/heuvelmannFolien zu Vorträgen von Reinhold Heuvelmann auf slideshare http://www.slideshare.net/sollbruchstelle
+Forschungsarbeiten zu BIBFRAME unter Beteiligung der Deutschen Nationalbibliothek
+Klára Rösslerová: Historie, současnost a budoucnost výměnných formátů bibliografických dat [History, Presence and Future of Exchangeable Formats of Bibliographic Data]. Praha, 2016Friedel Geeraert: From the library catalogue to the Semantic Web - The conversion process from MARC 21 to BIBFRAME 2.0
+Veranstaltungen
+European BIBFRAME Workshop 2018European BIBFRAME Workshop 2017
+Kontakt
+Reinhold Heuvelmann
+bibframe@dnb.de
+Letzte Änderung:
+18.08.2022
+Kurz-URL:
+https://www.dnb.de/bibframe
+Kontakt:
+r.heuvelmann@dnb.de
+            Unsere Newsletter
+            Aktuell und informativ – für Sie von unseren Newsletter-Redaktionen
+Mehr
+Seitenfunktionen und -Informationen
+empfehlen
+    Über den Katalog
+  
+                
+    Mein Konto
+                
+  
+    DNB-Glossar
+  
+    In­halt (Si­te­map)
+  
+    Im­pres­s­um
+  
+    Da­ten­schutz
+  
+    Bar­rie­re­frei­heit
+  
+    Pres­se 
+  
+                
+    Blog der DNB
+                
+  
+    Be­ruf und Kar­rie­re 
+  
+                
+    Kongresszentrum
+                
+  
+    Recht­li­ches und Grund­lagen
+  
+DNB Leipzig
+Deutscher Platz 1
+04103 Leipzig
++ 49 341 2271-0
++ 49 341 2271-0
+DNB Frankfurt
+Adickesallee 1
+60322 Frankfurt am Main
++ 49 69 1525-0
++ 49 69 1525-0
+    Hil­fe und Kon­takt
+  
+    Öff­nungs­zei­ten
+  
+    An­fahrt
+  
+Hinweis zur Verwendung von Cookies
+Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: Datenschutz
+OK

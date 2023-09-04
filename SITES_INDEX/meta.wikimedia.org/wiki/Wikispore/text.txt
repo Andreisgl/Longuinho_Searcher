@@ -1,0 +1,152 @@
+Wikispore - Meta
+Wikispore
+From Meta, a Wikimedia project coordination wiki
+Jump to navigation
+Jump to search
+This is a proposal for a new Wikimedia sister project.WikisporeStatus of the proposalStatusunder discussionDetails of the proposalProject descriptionA well-tended wiki farm for the exploration of new genres of free knowledgeIs it a multilingual wiki?Series of multlingual wikisPotential number of languagesMultilingualProposed taglineFree wiki germinationProposed URLwikispore.orgTechnical requirementsNew features to requireTo be determinedDevelopment wikihttps://wikispore.wmflabs.org/wiki/Main_PageInterested participants#Discussionvte
+First anniversary of Wikispore Day was marked with a mini-conference on July 19, 2020.
+Wikispore is a project to develop test wikis to fill out the rest of the reference shelf with new genres of free knowledge. It differs from Wikimedia Incubator in that it would support experimentation and diversification in new formats, as well as new languages.  Eventually, it should function similarly to the Community Wishlist Survey in that 10 test wikis would be selected each year for interim development, and, after a maturation phase, perhaps one or two a year might "graduate" to a full sister project.
+Wikispore could potentially support and provide an initial home for any of the Proposals for new projects that are consistent with the established copyright and NPOV principles of the Wikimedia movement, and that are compatible with our somewhat limited tech environment. This includes providing a narrative base for the wide range of Wikidata topics that don't fit inside current Wikimedia text-based projects.
+The idea was inspired by a recurring theme that came up at the New York City Wiknic / Strategy Salon, that expanding partnerships and diversity requires greater flexibility with the starting of new "spore" mini-projects to support new directions for the movement.
+Current status[edit]
+Wikispore is both a proposal for a new official Wikimedia sister project, and an ongoing unofficial project hosted on the Wikimedia Cloud Services platform. It can be found at wikispore.wmflabs.org. For technical information, see wikitech:Nova Resource:Wikispore and the #wikispore phabricator board. For policies and general information, see:
+Wikispore:Main_Page
+Wikispore:Help:FAQ
+Wikispore:Tripod
+Wikispore:Spores
+For occasional news about the project, see Wikisporadic and the wikispore mailing list. For discussions about the project, there is a Telegram channel.
+Further reading / watching[edit]
+Wikispore and Innovating Free Knowledge (Wikimania 2021 lightning talk)
+Sister project incubator - or, how to deal with knowledge gaps inherent in "What Wikipedia is not" (Wikimania 2018 talk)
+wikiconference:Submissions:2019/Wikispore: Wider than Wikipedia, Deeper than Wikidata
+2030 Movement Strategy: Innovate in Free Knowledge
+Etherpad for early Wikispore meetings
+Discussion[edit]
+Additional discussion at the talkpage
+ Support as initial proposer.--Pharos (talk) 19:22, 12 August 2019 (UTC)Reply[reply]
+Strongest possible  Support! –SJ talk  08:51, 13 August 2019 (UTC)Reply[reply]
+ Support, both hands! -Geraki TL 13:03, 13 August 2019 (UTC)Reply[reply]
+ Support, VIGNERON * discut. 13:18, 14 August 2019 (UTC)Reply[reply]
+ Support Tgr (talk) 14:35, 18 August 2019 (UTC)Reply[reply]
+  Support Gnangarra (talk) 04:34, 21 August 2019 (UTC)Reply[reply]
+ Support I think we need to start experimenting again. --Sannita - not just another it.wiki sysop 14:14, 21 August 2019 (UTC)Reply[reply]
+ Support We have an experimentation space for new languages of Wikipedias, but we need an experimentation space for various projects of other types. In Wikidata there will be countless variations on Wikibase instances, and for other sorts of projects we have many other odd pending proposals. Right now WikiCite and Structured Data on Commons seem like the most developed Wikibase'd projects and WikiJournal seems like the most developed non-Wikibase project which needs incubation.  Blue Rasberry (talk) 08:29, 22 August 2019 (UTC)Reply[reply]
+ Support Rosiestep (talk) 20:16, 22 August 2019 (UTC)Reply[reply]
+ Support A fascinating idea if you think about it...  Arep  Ticous                                                             17:34, 29 August 2019 (UTC)Reply[reply]
+ Support So this would be a place where new wikis could be created. I like it. SelfieCity (talk) 18:28, 31 August 2019 (UTC)Reply[reply]
+ Support This would likely be helpful in the creation and development of WikiLaw (3). –MJL ‐Talk‐☖ 06:14, 1 September 2019 (UTC)Reply[reply]
+ Support seems a very logical partner system to sit alongside the incubator. T.Shafee(Evo﹠Evo)talk 02:54, 4 September 2019 (UTC)Reply[reply]
+Support It would help a lot to have this kind of platform for testing new projects, which means more ideas become projects.
+ Support Battleofalma (talk) 11:21, 26 October 2019 (UTC)Reply[reply]
+ Support.  Ivanhercaz (talk) 01:54, 5 November 2019 (UTC)Reply[reply]
+ Support -- Daniel Mietchen (talk)  03:24, 8 November 2019 (UTC)Reply[reply]
+ Support I was skeptical, but Pharos convinced me this is valuable. stephen (talk) 20:46, 9 November 2019 (UTC)Reply[reply]
+ Support --Ragesoss (talk) 20:48, 9 November 2019 (UTC)Reply[reply]
+ Support More wikis! MahmoudHashemi (talk) 20:49, 9 November 2019 (UTC)Reply[reply]
+ Support Reify-tech (talk) 20:57, 9 November 2019 (UTC)Reply[reply]
+ Support, probably. Incubator handles languages, but overall new project prototyping definitely merits a platform for investigation and support. I don't know if we have the technical basis here to pull it off at this stage, but perhaps that is part of what simply requires further investigation. -— Isarra ༆ 21:18, 9 November 2019 (UTC)Reply[reply]
+ Support Emjackson42 (talk) 14:48, 2 December 2019 (UTC)Reply[reply]
+ Support ❀BlaueBlüte 💬 01:44, 9 December 2019 (UTC)Reply[reply]
+ Support ChristianSW (talk) 07:48, 31 December 2019 (UTC)Reply[reply]
+ Support (in my hat as a volunteer..) Shani Evenstein. 22:03, 2 January 2020 (UTC)Reply[reply]
+ Support Rajeeb (talk!) 14:53, 6 January 2020 (UTC)Reply[reply]
+ Support A great idea overall. InvalidOS (talk) 17:38, 7 January 2020 (UTC)Reply[reply]
+ Support Interesting concept.--A12n (talk) 17:12, 9 February 2020 (UTC)Reply[reply]
+ Strong support. BoldLuis (talk) 00:42, 2 May 2020 (UTC)Reply[reply]
+ Support --Tmv (talk) 00:36, 7 May 2020 (UTC)Reply[reply]
+ Support Excellent proposal! Zblace (talk) 18:45, 11 May 2020 (UTC)Reply[reply]
+ Support --denny (talk) 23:09, 17 May 2020 (UTC)Reply[reply]
+ Support -- Magioladitis (talk) 15:57, 24 May 2020 (UTC)Reply[reply]
+ Support Vermont (talk) 16:54, 24 May 2020 (UTC)Reply[reply]
+ Support - PKM (talk) 18:30, 24 May 2020 (UTC)Reply[reply]
+—M@sssly✉ 16:51, 27 May 2020 (UTC)Reply[reply]
+ Support --GiFontenelle (talk) 18:43, 29 May 2020 (UTC)Reply[reply]
+ Support A place for testing new project ideas is very much needed. DraconicDark (talk) 15:04, 30 May 2020 (UTC)Reply[reply]
+ Support -- econterms (talk) 22:46, 30 May 2020 (UTC) -- I'd be interest to have one for economics of covid and one for patents.Reply[reply]
+ Support -- Celestinesucess (talk) 20:13, 6 June 2020 (UTC)Reply[reply]
+ Strong support Absolutely. Wikimedia Foundation has an excess of financial resources, and providing an incubation wiki for potential new projects, modeled after the Incubator wiki for new language products is a great idea. If this passes, I would also like to suggest that we opt it in to Global Sysops wikiset for, at a minimum, aiding with counter vandalism and spam efforts by single-purpose accounts. I would also further suggest that it have the latest relatively stable extensions, including StructuredDiscussions and DiscussionTools as well as things the VisualEditor and New Wikitext Editor, to provide another production quality environment to test these extensions. It absolutely would be in keeping with the goals and aims of Wikimedia Foundation to encourage the sharing of knowledge in other ways that aren't within the scope of the existing projects. Moreover, the more wikis we're running gives us new and different avenues for potential new ideas for extensions and gadgets we may want to develop. Plus, it also aids with our outreach efforts to attract new editors, who, in turn, may become involved with other existing projects as well. Dmehus (talk) 02:23, 29 June 2020 (UTC)Reply[reply]
+Structured Discussions is currently not a stable extension installable in further wikis.--GZWDer (talk) 15:29, 4 July 2020 (UTC)Reply[reply]
+ Support --JuanToño (talk) 05:56, 15 July 2020 (UTC)Reply[reply]
+ Support Doctorxgc (talk) 17:11, 19 July 2020 (UTC)Reply[reply]
+ Support per what many others wrote. Yaron Koren (talk) 20:40, 24 July 2020 (UTC)Reply[reply]
+Strongest possible  Support! WikiSpore has great potential to showcase innovation in digital humanities, GIS, data visualization, and digital storytelling.  RachelWex (talk) 22:33, 24 July 2020 (UTC)Reply[reply]
+ Support Me too -Killarnee (C•T•U) 21:01, 25 July 2020 (UTC)Reply[reply]
+This could be used to develop an oral knowledge project that could feed additional knowledge to Wikimedia projects (recording knowledge previously only known orally) WhisperToMe (talk) 16:22, 26 July 2020 (UTC)Reply[reply]
+ Support. This is an excellent way to push forward the variety of wikis. --Csisc (talk) 17:05, 26 July 2020 (UTC)Reply[reply]
+ Support. Treetopz (talk) 17:49, 2 August 2020 (UTC)Reply[reply]
+ Support. I'm always up for trying new things, as long as the selection process is well-managed with lots of community input. It might be useful to look at StackExchange's Area 51 to get a sense of how many contributors might be needed to jump-start a new community. -- Gaurav (talk) 00:30, 10 August 2020 (UTC)Reply[reply]
+ Support Bumsowee (talk) 09:59, 10 August 2020 (UTC)Reply[reply]
+ Support Fantastic, I would especially love to see us diversify the format.  Color, poetry, things outside the current wikiverse!  Thanks for this initiative, Adamw (talk) 11:18, 10 August 2020 (UTC)Reply[reply]
+ Support--evrifaessa ❯❯❯ mesaj 14:48, 10 August 2020 (UTC)Reply[reply]
+ Support Sam Wilson 06:10, 11 August 2020 (UTC)Reply[reply]
+ Support The project's mission is perhaps the most promising among the Wikimedia projects. ミラP 22:15, 14 August 2020 (UTC)Reply[reply]
+ Support just for making the site faster. Idea is good also. --Zache (talk) 13:51, 3 October 2020 (UTC)Reply[reply]
+ Support Very good idea. Kizule (talk) 13:54, 3 October 2020 (UTC)Reply[reply]
+ Support This is a brilliant idea to grow the wikiverse in a way that doesn't create yet another parallel universe! ----ToniSant (talk) 18:29, 9 December 2020 (UTC)Reply[reply]
+ Support I would like to hear more about this, but so far it looks pretty good. Random Wikimedian (talk) —Preceding undated comment added 15:39, 25 February 2021.
+ Support per others. AnotherEditor144  t - c  12:34, 1 March 2021 (UTC)Reply[reply]
+ Support Always wanted this. Need multiple important Wikis to grow. Other wikifarms always have limiting barriers -Vis M (talk) 21:19, 16 April 2021 (UTC)Reply[reply]
+ Support Fantastic idea, this would really help new proposals actually show what they're suggesting. And, having a general test environment for people to "play" in, may actually see new ideas form. El Dubs (talk) 22:37, 14 June 2021 (UTC)Reply[reply]
+ Support Yes, it is needed! --Jucos (talk) 14:25, 12 July 2021 (UTC)Reply[reply]
+ Support --Camelia (talk) 22:20, 23 July 2021 (UTC)Reply[reply]
+ Support --Mozucat (talk) 17:59, 28 July 2021 (UTC)Reply[reply]
+ Support 𝓘𝓻𝓴𝓱𝓪𝓶𝒯𝒶𝓁𝓀 :) 06:35, 3 August 2021 (UTC)Reply[reply]
+ Support This sounds like a very smart way to allow experimentation and have a proof-of-concept space. Thank you to the proponents for their initiative. Al83tito (talk) 09:38, 13 August 2021 (UTC)Reply[reply]
+ Support —but let's not stop at 10 per year.  The introductory paragraph is bursting with potential, one sees a tension between different representations of Wikispore and its goals, all of which align but ask for a wide range of different technical and social approaches.  To me, this suggests a demand for what Wikispore offers.  Highlighting some of these different threads which come up in the introduction: "New genres of free knowledge" leads way beyond our modest catalog of sister projects and sounds like Whose Knowledge?, centering the knowledge of marginalized communities, perhaps to build "people's archives".  "New languages" shows that the current Incubator is not adequately serving its niche.  "Community Wishlist Survey" shows that governance of Wikispore can be populist and democratic.  "'Graduate' to full sister project" is interesting, this is a nice way of critiquing the canonical projects and showing that we can choose to expand the canon together.  I'm in favor of all of the above, and would love to see us adopt an even more ambitious scope, supporting open wiki farms such as Miraheze with grants, engineering, legal, safety and support resources.  Even from the narrower perspective of today's sister projects, we already know that we need to nurture such an ecosystem of secondary sources in order to ground new Wikipedias in solid references. —Adamw (talk) 23:52, 13 August 2021 (UTC)Reply[reply]
+ Support--Doctorxgc (talk) 18:56, 14 August 2021 (UTC)Reply[reply]
+ Support Rtnf (talk) 23:47, 14 August 2021 (UTC)Reply[reply]
+ Support This is certainly very promising and would very nicely complement Incubator. Sabon Harshe (talk) 06:43, 21 August 2021 (UTC)Reply[reply]
+ Support Srtq
+ Support This can give people the chance to show the potential that their wiki ideas may have. Jurtaa (talk) 12:04, 14 October 2021 (UTC)Reply[reply]
+ Support This is a great idea that would allow people to express their creativity & productivity. People are already using WikiSpore's demo to build their demo! SodaSoummelier (talk) 04:29, 18 November 2021 (UTC)Reply[reply]
+ Support Seems like a great idea. I am already participating in Czech Wikivoyage development on Incubator, but seeing a potential to help completely new projects being established is a great thing to me. — Polda18 (talk | My contributions) 12:28, 2 February 2022 (UTC)Reply[reply]
+ Support --KuboF Hromoslav (talk) 15:41, 12 April 2022 (UTC)Reply[reply]
+ Support AlPaD (talk) 14:14, 17 May 2022 (UTC)Reply[reply]
+ Support --Ameisenigel (talk) 12:59, 28 May 2022 (UTC)Reply[reply]
+ Support --ProtoplasmaKid (talk) 16:46, 14 June 2022 (UTC)Reply[reply]
+ Support —‍CX Zoom (A/अ/অ) (let's talk|contribs) 11:30, 1 August 2022 (UTC)Reply[reply]
+ Strong support Dnshitobu (talk) 05:57, 14 September 2022 (UTC)Reply[reply]
+ Strong support Tochiprecious (talk) 09:44 WAT, 14 September 2022 (UTC)
+ Support Bodhisattwa (talk) 03:22, 23 September 2022 (UTC)Reply[reply]
+ Support. As I understand, it's going to be an anologue to what Wikia and Miraheze provide, right? Would be glorious to have a project like those two within the WMF realm. And some projects like Incubator Plus 2.0 might be moved to WikiSpore, not being considered marginal. --Wolverène (talk) 10:00, 5 May 2023 (UTC)Reply[reply]
+ Strong support LuGusDeclanBibaElodieBarnaby 21:46, 5 June 2023 (UTC)Reply[reply]
+ Support --V0lkanic (talk) 22:39, 11 August 2023 (UTC)Reply[reply]
+ Support --Minorax«¦talk¦» 05:19, 19 August 2023 (UTC)Reply[reply]
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Wikispore&oldid=25483970"
+Categories: Open new project proposalsProposed projectsWikispore
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Content pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+Wikimedia Commons
+In other languages
+Add links
+ This page was last edited on 19 August 2023, at 05:19.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

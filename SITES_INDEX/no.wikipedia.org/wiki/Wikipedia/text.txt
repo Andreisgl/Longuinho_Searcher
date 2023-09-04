@@ -1,0 +1,904 @@
+Wikipedia – Wikipedia
+Wikipedia
+Fra Wikipedia, den frie encyklopedi
+Hopp til navigering
+Hopp til søk
+Denne artikkelen nevner Wikimedia eller et av Wikimedias prosjekter. Vær oppmerksom på at Wikipedia er et Wikimedia-prosjekt.
+Wikipedia 
+URLwikipedia.orgKommersielt?NeiType nettstedWikibasert encyklopedi Krever registreringfrivilligTilgjengelige språkFlerspråklig (323 språkutgaver)Eier(e)Wikimedia Foundation (2003–)[1]Jimmy Wales (–2003)[2]Utgitt avJimmy Wales, Larry Sanger, Wikimedia Community Lansert15. januar 2001[3] ProgrammeringsspråkPHP Alexa13 (4. november 2020)
+Wikipedia er en internasjonal internettbasert encyklopedi med fritt tilgjengelig innhold som skrives og vedlikeholdes av frivillige bidragsytere, gjennom det wiki-baserte redigeringssystemet. Individuelle bidragsytere omtales som wikipedianere. Wikipedia er det største og mest leste oppslagsverket i verden og blant de mest brukte på internett. Wikipedia har ikke reklame og innholdet er lagret og vises av den ideelle organisasjonen Wikimedia Foundation, med hovedsete i San Francisco i USA.
+Wikipedia ble lansert 15. januar 2001, av Jimmy Wales og Larry Sanger. Sanger foreslo navnet, som er en blanding av «wiki» og «encyclopedia». Opprinnelig var Wikipedia kun tilgjengelig på engelsk, men versjoner på andre språk ble raskt påbegynt. Wikipedias ulike språkversjoner har per 2021 over 57 millioner artikler, får besøk fra over 2 milliarder unike enheter, og har over 17 millioner redigeringer i måneden. I 2006 skrev det amerikanske tidsskriftet Time at regelen som tillot alle å redigere hadde gjort Wikipedia til det «største (og muligens beste) leksikon i verden», og er «et vitnesbyrd til visjonen til en mann, Jimmy Wales».
+Wikipedia har fått lovord for å bidra til demokratisering av kunnskap, bredden av dekning, unike struktur, kultur og redusert nivå av kommersiel skjevdekning, men kritikk for systematisk skjevdekning, særlig overfor kvinner og påstått ideologisk skjevdekning. Påliteligheten ble jevnlig kritisert, men har blitt bedre over tid og har i senere år fått god omtale. Dekning av kontroversielle emner som amerikansk politikk og større hendelser som COVID-19 har fått stor oppmerksomhet i media. Wikipedia har blitt utsatt for sensur av en rekke land, vedrørende alt fra enkelte artikler til hele nettstedet. Det har også blitt et element i populærkulturen, med omtale i bøker, filmer og akademiske studier. I 2018 kunngjorde Facebook og YouTube at de ville hjelpe brukere til å finne falske nyheter ved å foreslå lenker for faktasjekking på relevante artikler på Wikipedia.
+Innhold
+1 Historie
+1.1 Nupedia
+1.2 Lansering og tidlig vekst
+1.3 Milepæler
+2 2020-årene
+3 Åpenhet
+3.1 Restriksjoner
+3.2 Gjennomgang av redigeringer
+3.3 Vandalisme
+3.4 Redigeringskrig
+4 Regler og retningslinjer
+4.1 Regler og retningslinjer for innhold
+5 Styringsstruktur
+5.1 Administratorer
+5.2 Konfliktløsning
+5.2.1 Arbitration Committee
+6 Bidragsyterne
+6.1 Studier
+6.2 Mangfold
+7 Språkutgaver
+7.1 Antall bidragsytere til engelskspråklig Wikipedia
+8 Mottakelse - vurdering av Wikipedia
+8.1 Innholdets nøyaktighet
+8.2 Advarsler mot bruk i utdanning
+8.2.1 Medisinsk informasjon
+8.3 Tekstens kvalitet
+8.4 Dekning av emner og systematiske skjevheter
+8.4.1 Dekning av emner og skjevheter i utvalg
+8.4.2 Systematiske skjevheter
+8.5 Mulig støtende innhold
+8.6 Personvern
+8.7 Seksisme
+9 Driften av Wikipedia
+9.1 Wikimedia Foundation og tilknyttede organisasjoner
+9.2 Programvare og brukerstøtte
+9.3 Automatisert redigering
+9.4 Maskinvare og støtte
+9.5 Intern forskning og utvikling av tjenesten
+9.6 Interne nyhetskilder
+9.7 The Wikipedia Library
+10 Tilgang til innhold
+10.1 Lisenser for innholdet
+10.2 Tilgang til innholdet
+10.2.1 Mobil tilgang
+10.3 Tilgang fra Kina
+11 Kulturell påvirking
+11.1 Troverdig kilde mot falske nyheter
+11.2 Brukere
+11.2.1 Covid-19 pandemien
+11.3 Kulturell betydning
+11.3.1 Utmerkelser
+11.3.2 Satire
+11.4 Søsterprosjekter
+11.5 Publisering
+11.6 Bruk i forskning
+12 Relaterte prosjekter
+13 Se også
+14 Fotnoter
+15 Referanser
+16 Eksterne lenker
+Historie
+Nupedia
+Wikipedia ble opprinnelig utviklet fra et annet leksikonprosjekt, Nupedia.
+Andre nettbaserte leksikon ble forsøkt utviklet før Wikipedia, men ingen ble særlig suksessfulle.[4] Wikipedia begynte som et tilleggsprosjekt for Nupedia, et fritt tilgjenglig nettbasert leksikon på engelsk, hvor artiklene ble skrevet av eksperter og gjennomgått i en formell prosess, før de ble lagt ut.[5] Det ble startet 9. mars 2000, eid av Bomis, et selskap for nettportaler. De sentrale personene var direktøren for Bomis, Jimmy Wales og Larry Sanger, sjefsredaktør for Nupedia og senere for Wikipedia.[6][7] Nupedia ble opprinnelig utgitt under en egen fri lisens, men selv før Wikipedia, skiftet Nupedia til GNU fri dokumentasjonslisens etter oppfordring fra Richard Stallman.[8] Jimmy Wales har fått æren for å ha definert målet om et leksikon som kunne redigeres av publikum,[9][10] mens Sanger har fått æren for strategien med å bruke en wiki for å nå det målet.[11] 10. januar 2001 foreslo Sanger på Nupedias e-postliste å etablere en wiki som et tilleggsprosjekt for Nupedia.[12]
+Lansering og tidlig vekst
+Domenenavnet wikipedia.com (senere omdirigert til wikipedia.org) og wikipedia.org ble registrert 12. januar 2001,[13] og 13. januar 2001.[14] Wikipedia ble lansert 15. januar 2001[5] på engelsk, på adressen www.wikipedia.com,[15] og kunngjort av Sanger på Nupedias epostliste.[9] Regelen om nøytralt ståsted (engelsk: neutral point-of-view)[16] ble fastlagt i løpet av de første månedene. Bortsett fra det var det ganske få regler, og det fungerte uavhengig av Nupedia.[9] Bomis så Wikipedia først som noe selskapet kunne tjene penger på.[17]
+Wikipedias startside, 20. desember 2001
+Wikipedia fikk sine første bidragsytere fra Nupedia, innlegg på Slashdot, og fra websøkemotorer (noe mange norske brukere kjenner som søkemaskiner). Versjoner på flere språk ble også opprettet, med totalt 161 ulike språkversjoner av Wikipedia mot slutten av 2004.[18] Nupedia og Wikipedia eksisterte side om side, inntil førstnevnte ble lagt ned i 2003, og tekst derfra ble lagt inn i Wikipedia. Wikipedia på engelsk passerte 2 millioner artikler 9. september 2007, noe som gjorde det til det største leksikon noen gang, større enn Yongle Dadian som ble laget under Ming-dynastiet i 1408, og hadde holdt rekorden i nesten 600 år.[19]
+Grunnet bekymring for mulig bruk av leksikonet for visning av annonser, og manglende kontroll, etablerte bidragsytere til Wikipedia på spansk et nytt leksikon, Enciclopedia Libre, ved en såkalt fork (avskalling av prosjektet) i februar 2002.[20] Jimmy Wales kunngjorde da at Wikipedia ikke ville vise annonser, og endret Wikipedias domene fra wikipedia.com til wikipedia.org.[21][22]
+Mens engelskspråklig Wikipedia nådde tre millioner artikler i august 2009, synes utgavens vekst, i form av nye artikler og bidragsytere, å ha nådd sitt høydepunkt tidlig i 2007.[23] Rundt 1800 artikler ble daglig opprettet på leksikonet i 2006, i 2013 var det redusert til 800. En gruppe forskere ved PARC knyttet den reduserte veksten til prosjektets økende eksklusivitet og motstand mot endring.[24] Andre har antydet at veksten reduseres siden artikler som kan sees som lavthengende frukt allerede har blitt etablert og grundig utviklet.[25][26][27]
+I november 2009 rapporterte en forsker ved Universidad Rey Juan Carlos i Madrid at engelskspråklig Wikipedia hadde mistet 49 000 bidragsytere i løpet av de tre første månedene i 2009, mens leksikonet kun hadde mistet 4 900 bidragsytere i samme periode i 2008.[28][29] Den amerikanske avisen The Wall Street Journal viste til antallet regler knyttet til redigering og konflikter knyttet til slikt innhold, blant grunnene for trenden med færre bidragsytere.[30] Wikipedias Jimmy Wales imøtegikk disse påstandene i 2009, avviste nedgangen og stilte spørsmål ved studiens metodebruk.[31] To år senere, i 2011, vedsto han at det var en liten nedgang, og bemerket at det var en reduksjon fra «litt mer enn 36 000 bidragsytere» i juni 2010 til 35 800 i juni 2011. I det samme intervjuet hevdet han også at antallet bidragsytere var «stabilt og bærekraftig».[32] En artikkel i MIT Technology Review i 2013, «The Decline of Wikipedia», utfordret denne påstanden, og viste at siden 2007 hadde Wikipedia mistet en tredjedel av sine frivillige bidragsytere, og at de som var igjen hadde fokus på detaljer.[33] I juli 2012 skrev det amerikanske tidsskriftet The Atlantic at antallet administratorer også var på vei ned.[34] I tidsskriftet New York skrev Katherine Ward følgende, den 25. november 2013: «Wikipedia, det sjette mest brukte nettstedet, står overfor en intern krise.».[35]
+Milepæler
+Kartogram som viser antall artikler i Wikipedia i ulike språkversjoner i Europa (2019). En firkant representerer 10 000 artikler. Språk med mindre enn 10 000 artikler vises med én firkant. Språk er gruppert i språkfamilier og hver språkfamilie angis ved en egen farge.
+Resultat fra søk mot Googles kunnskapsgraf, selskapet omtaler det som kunnskapspanel, og anses av noen å bidra til færre lesere av Wikipedia.
+I januar 2007 ble Wikipedia for første gang en av de ti mest besøkte nettstedene i USA, ifølge firmaet Comscore Networks. Med 42,9 millioner unike besøkende, kom Wikipedia på en 9. plass, før avisen The New York Times og dataselskapet Apple (#11). Dette markerte en betydelig økning siden januar 2006, da Wikipedias plassering var 33. med rundt 18,3 millioner unike besøkende.[36] I mars 2020 var Wikipedia på 13. plass[37] ifølge Alexa Internet. I 2014 hadde Wikipedia 8 milliarder sidevisninger hver måned.[38] Den 9. februar 2014 meldte The New York Times at Wikipedia hadde 18 milliarder sidevisninger og nesten 500 millioner unike besøkende i måneden, «ifølge markedsanalyseselskapet ComScore».[39] Forskerne Loveland og Reagle hevdet at Wikipedia fulgte en lang tradisjon med historiske leksikon, som gradvis har akkumulert forbedringer gjennom «stigmergisk akkumulering» (indirekte koordinert akkumulering).[40][41]
+Den 18. januar 2012 deltok engelskspråklig Wikipedia i en rekke koordinerte protester mot to foreslåtte lover (Stop Online Piracy Act og PROTECT IP Act) ved å kun vise sort på sine sider i 24 timer.[42] Det var over 162 millioner visninger av det sorte skjermbildet som midlertidig erstattet innholdet.[43][44]
+Subodh Varma skrev i en artikkel 20. januar 2014 for den indiske avisen The Economic Times at Wikipedias vekst både hadde stoppet, og «hadde mistet nesten ti prosent av sidevisninger siste år. Det var en nedgang på om lag to milliarder mellom desember 2012 og desember 2013. Dets mest populære versjoner leder nedgangen: sidevisninger på den engelskspråklige utgaven av Wikipedia gikk ned med tolv prosent, den tyske med sytten prosent og den japanske mistet ni prosent.»[45] Varma la til følgende: «Mens Wikipedias ledere antar dette er regnefeil, mener andre eksperter at prosjektet Google Knowledge Graph lansert foregående år kan forsyne seg av brukere av Wikipedia.»[45] Da han ble kontaktet om dette spørsmålet sa Clay Shirky (associate professor ved New York University og fellow ved Harvards Berkman Klein Center for Internet & Society) at han antok mye av nedgangen i Wikipedias sidevisninger var knyttet til såkalte kunnskapsgrafer (engels: knowledge graph) og uttalte: «Dersom du kan få ditt spørsmål besvart fra en søkeside, trenger du ikke å klikke [deg videre].»[45] Ved utgangen av desember 2016 var Wikipedia rangert som det 5. mest populære nettstedet i verden.[46]
+I januar 2013 ble 274301 Wikipedia, en asteroide, oppkalt etter Wikipedia; i oktober 2014 ble Wikipedia hedret med Wikipedia-monumentet (en skulptur i Słubice i Polen), og i juli 2015 ble 106 av de 7 473 700-siders bindene av Wikipedia tilgjengelig som Print Wikipedia (et kunstprosjekt). I april 2019 kolliderte en israelsk romsonde, Beresheet, med Månens overflate, med en kopi av nesten alt innhold i engelskspråklig Wikipedia på tynne nikkelplater. Eksperter sa at platene antakeligvis var uskadet etter sammenstøtet.[47][48] I juni 2019 meldte forskere at all artikkeltekst (16 Gigabyte) fra engelskspråklig Wikipedia hadde blitt kodet i syntetisk DNA.[49]
+2020-årene
+Den 23. januar 2020 passerte engelskspråklig Wikipedia (den største språkversjonen) seks millioner artikler. 
+I oktober 2021 var Wikipedia nummer 13. i verden, ut fra trafikk på internett.[50] Under pandemien forårsaket av Covid-19, har Verdens helseorganisasjon samarbeidet med Wikipedia for å motvirke spredning av feilinformasjon.[51][52]
+Åpenhet
+Forskjeller mellom versjoner av en artikkel vist (tilgjengelig i fanen Vis historikk)
+Wikipedias tekstbaserte brukergrensesnitt for redigering, mange språkversjoner har også et grafisk (Word-lignende) redigeringsgrensesnitt
+Wikipedias grafiske redigeringsgrensesnitt, VisualEditor
+I motsetning til tradisjonelle leksikon følger Wikipedia prinsippet om prokrastinering (utsettelse)[note 1] når det gjelder sikkerheten til innholdet.[53]
+Restriksjoner
+Med bakgrunn i Wikipedias økende popularitet har noen språkutgaver (blant de den engelskspråklige) introdusert restriksjoner på redigering, som at kun registrerte bidragsytere kan opprette en ny artikkel.[54] På engelskspråklig Wikipedia har særlig kontroversielle, sensitive eller jevnlig vandaliserte artikler, i ulik grad blitt beskyttet.[55][56] En artikkel som ofte blir vandalisert kan bli såkalt semibeskyttet eller få en forlenget beskyttelse, hvilket fører til at bare bidragsytere som har rettighetene autobekreftet (engelsk: autoconfirmed) eller utvidet bekreftet (engelsk: extended confirmed) kan redigere den.[57] En særlig omstridt artikkel kan bli låst så kun Wikipedias administratorer kan gjøre endringer.[58]
+En artikkel i tidsskriftet Columbia Journalism Review i 2021 identifiserte artikkelbeskyttelse som «kanskje det aller viktigste» verktøy Wikipedia hadde tilgjengelig for å «regulere sitt marked av ideer».[59]
+I noen tilfeller kan alle bidragsytere legge inn endringer, men for noen bidragsytere må deres bidrag først kontrolleres av andre. For eksempel har Wikipedia på tysk en såkalt stabil versjon med artikler som har gjennomgått en vurdering.[60] Etter omfattende forsøk og diskusjon blant bidragsyterne innførte Wikipedia på engelsk såkalte avventende endringer (engelsk: pending changes) i desember 2012.[61] Med dette systemet blir nye og uregistrerte bidragsyteres bidrag til bestemte kontroversielle eller ofte vandaliserte artikler vurdert av etablerte bidragsytere før det blir publisert.[62]
+Gjennomgang av redigeringer
+Selv om bidragsyteres redigeringer ikke systematisk vurderes av andre, gir programvaren som driver Wikipedia (MediaWiki) mulighet for alle å vurdere endringer gjort av andre bidragsytere. Hver artikkels revideringshistorie (fanen Vis historikk) kobler til alle revideringer.[note 2][63] For så godt som alle artikler kan hvem som helst endre andre bidragsyteres redigering ved å trykke på en lenke på artikkelens fane for redigeringshistorie. Hvem som helst kan også se lenken for Siste endringer (nesten øverst, i menyen til venstre) i artikler og alle som er registrert kan vedlikeholde en liste over artikler som interesserer dem, så de informeres om endringer. Funksjonen patruljering av nye sider (engelsk: New pages patrol) er en prosess hvor nye artikler sjekkes for opplagte problemer av erfarne bidragsytere.[64]
+I 2003 hevdet doktorgradstudenten i økonomi, Andrea Ciffolilli, at den lave transaksjonskostnaden for å delta i en wiki skapte en katalysator for utvikling i fellesskap. Funksjoner som åpnet for enkel tilgang til foregående versjoner av en artikkel, favoriserte «kreativ konstruksjon» over «kreativ destruksjon».[65]
+Vandalisme
+En redigering som endrer innholdet på Wikipedia slik at det med hensikt skader nettstedet anses som vandalisme. Den vanligste og mest opplagte formen for vandalisme er å legge til ufine uttrykk, det kan også inkludere reklame.[66] Noen ganger utføres vandalisme ved at innhold fjernes, eller at en side tømmes helt for innhold. Mindre vanlige typer vandalisme, som bevisst innlegging av informasjon som synes korrekt, men som er falsk, kan være vanskeligere å finne. Vandaler kan også legge inn meningsløs formatering, modifisere en artikkels tittel eller kategorisering, manipulere den underliggende koden, eller bruke bilder på en ødeleggende måte.[67]
+Den amerikanske journalisten John Seigenthaler (1927–2014), som ble utsatt for den såkalte Seigenthaler-hendelsen (engelsk: Seigenthaler incident).
+Åpenbar vandalisme er generelt lett å fjerne fra artikler på Wikipedia, det går vanligvis på noen minutter.[68][69] Noen få tilfeller av vandalisme kan imidlertid ta lenger tid å oppdage og fjerne.[70]
+I den såkalte såkalte Seigenthaler-hendelsen (engelsk: Seigenthaler incident), var det en anonym bidragsyter som la inn falsk informasjon i den biografiske artikkelen om den amerikanske journalisten John Seigenthaler i mai 2005, hvor han ble fremstilt som en mistenkt i attentatet mot John F. Kennedy.[70] De falske opplysningene forble i artikkelen i fire måneder.[70] Seigenthaler (som var med å starte avisen USA Today og var grunnlegger av Freedom Forum, First Amendment Center, ved Vanderbilt University) tok kontakt med Jimmy Wales i Wikipedia og spurte om han visste hvem som hadde lagt inn de falske opplysningene. Wales sa at han ikke visste, men den som hadde gjort det ble etterhvert funnet.[71][72] Etter hendelsen beskrev Seigenthaler Wikipedia som «et defekt og uansvarlig forskningsverktøy».[70] Hendelsen ledet til endringer i Wikipedias retningslinjer for verifisering av biografiske artikler om levende personer.[73]
+I 2010 oppfordret den amerikanske komikeren Daniel Tosh seerne av showet hans, Tosh.0, til å besøke dets artikkel på Wikipedia og redigere den som de ville. I en etterfølgende episode av showet kommenterte han redigeringene på artiklene, de fleste av de fornærmende, som hadde blitt utført av publikum, og hadde ført til at artikkelen ble låst for redigering.[74][75]
+Redigeringskrig
+Bidragsytere til Wikipedia (omtalt som Wikipedianere) har ofte uenighet om innhold, og det kan føre til gjentatte endringer i en artikkel, kjent som redigeringskrig (engelsk: edit warring).[76][77] Det er sett som et ressurskrevende scenario, hvor ingen brukbar kunnskap blir lagt til,[78] kritisert for å skape en konkurransedrevet[79] og konflikt-basert[80] redigeringskultur, assosiert med en tradisjonell maskulin kjønnsrolle.[81]
+Regler og retningslinjer
+Innholdet på Wikipedia er underlagt lovene (især lover for opphavsrett) for USA, og den amerikanske delstaten Virginia, hvor flertallet av Wikipedias webservere av innhold er plassert. Utover juridiske forhold, er prinsippene for redigering av Wikipedia formulert i de fem søylene og i en rekke regler og retningslinjer som forsøker å skape innhold på en hensiktsmessig måte. Disse reglene og retningslinjene er også lagret innen Wikien, og bidragsytere til Wikipedia skriver og reviderer nettstedets regler og retningslinjer.[82] Bidragsytere kan gjennomføre disse reglene ved sletting av artikler, eller endring av materiale som ikke er i samsvar med regler og retningslinjer.[83] Opprinnelig var regler og retningslinjer på andre språkversjoner basert på oversettelse av reglene fra engelskspråklig Wikipedia, men de har nå i en viss grad begynt å avvike.[60]
+Regler og retningslinjer for innhold
+Ifølge reglene på engelskspråklig Wikipedia må hver artikkel omhandle et emne som er leksikalsk interessant (relevant for et leksikon) og ikke er et oppslagsord for en ordbok.[84] Et emne bør også tilfredsstille Wikipedias krav om notabilitet,[85] som generelt betyr at emnet må ha blitt dekket av allmenne media eller større akademiske tidsskrift, som er uavhengig av artikkelforfatter. Videre sikter Wikipedia mot å vise kunnskap som allerede er etablert og anerkjent.[86] Artikler må ikke presentere original forskning. En påstand som kan antas å bli utfordret krever en referanse til en pålitelig kilde. Blant bidragsytere til Wikipedia blir dette ofte formulert som «verifiserbart, ikke sant» (engelsk: verifiability, not truth) for å uttrykke ideen at leserne, ikke leksikonet, til sist er ansvarlig for å undersøke sannhetsgehalten i artikler og gjøre deres egne vurderinger.[87] Denne regelen kan tidvis føre til fjerning av informasjon, som selv om det er korrekt, ikke er godt nok belagt med kilder.[88] Til sist, så tar Wikipedia ikke side i konflikter, men har et nøytralt ståsted.[89]
+Styringsstruktur
+Wikipedias innledende anarki integrerte etterhvert demokratiske og hierarkiske elementer.[90][91] En artikkel anses ikke å tilhøre den som har opprettet den, eller noen annen bidragsytere, ei heller av den/det som artikkelen omtaler.[92]
+Administratorer
+Bidragsytere som har godt omdømme kan be om kan be om ekstra rettigheter,[93] noe som gir de mulighet for å utføre bestemte oppgaver. Bidragsytere kan blant annet be om å få bli administratorer,[94] noe som gir mulighet for å slette artikler (sider) eller beskytte dem fra å bli endret i tilfeller med ekstrem vandalisme eller uenighet om innhold. Administratorer har ingen spesielle privilegier i avgjørelser. Deres fullmakter er begrenset til å gjøre endringer som har virkning for hele prosjektet og følgelig ikke er tillatt for vanlige bidragsytere, og for å iverksette begrensninger for å hindre forstyrrende bidragsytere fra å gjøre uproduktive redigeringer.[95][96]
+I 2012 ble færre bidragsytere administratorer (på engelskspråklig Wikipedia), sammenlignet med foregående år, delvis fordi forhåndsgransking av mulige administratorer ble mer grundig.[97]
+Konfliktløsning
+Over tid har Wikipedia utviklet en semiformell prosess for behandling av konflikter. For å finne ut hva som er konsensus blant bidragsyterne kan en bidragsyter ta opp emner i ulike forum,[note 3] søke innspill utenfra ved kommentarer fra tredjepart, eller be om en mer generell diskusjon blant bidragsyterne, kjent som en forespørsel om kommentarer (engelsk: request for comment).
+Arbitration Committee
+The Arbitration Committee (norsk: meglingskomiteen, særegent for engelskspråklig Wikipedia, ikke noe tilsvarende organ på Wikipedia på bokmål) leder den endelige prosessen med å avgjøre uenigheter. Selv om uenigheter vanligvis kommer opp ved at det er to ulike syn på hvordan en artikkel skal utformes, avviser the Arbitration Committee eksplisitt å bestemme direkte hvordan det skal skje. Statistiske analyser antyder at komiteen ignorerer innholdet i uenigheter og i stedet fokuserer på hvordan uenighetene behandles,[98] slik at dens funksjon ikke er å avgjøre uenigheter og sørge for fred mellom stridende bidragsytere, men å isolere vanskelige bidragsytere mens potensielle produktive bidragsytere tillates å fortsette. Komiteens tiltak inkluderer advarsler og forbud mot bidrag til bestemte artikler, emner eller Wikipedia for involverte bidragsytere. Fullstendig blokkering fra Wikipedia er vanligvis begrenset til tilfeller av misbruk av brukeridentiteter (engelsk: impersonation) og antisosial oppførsel. Når oppførselen kun er mot konsensus, eller brudd på retningslinjer for redigering, pleier tiltak fra komiteen å være begrenset til advarsler.[99]
+Bidragsyterne
+Video fra Wikimania, en årlig konferanse for bidragsytere til Wikipedia og andre prosjekter støttet av stiftelsen Wikimedia Foundation, den ble arrangert i Frankfurt am Main, Tyskland, i august 2005
+Hver artikkel og hver registrert bidragsyter til Wikipedia har en tilknyttet side (fane i nettleseren) merket Diskusjon. Dette er den primære kanalen for bidragsytere for å diskutere og koordinere innsatsen.[100]
+Wikipedianere og kuratorer ved British Museum samarbeider om artikkelen om Hoxne-funnet (engelsk: Hoxne Hoard) i juni 2010
+Wikipedias gruppe av bidragsytere har blitt beskrevet som å ha likheter med en kult,[101] men ikke alltid med helt negative undertoner.[102] Preferansen for sammenheng, selv om det krever kompromiss som betyr å se bort fra formell utdanning, har blitt beskrevet som «anti-elitistisk».[note 4]
+Wikipedianere gir hverandre av og til utmerkelser (engelsk: virtual barnstars) for godt arbeid. Disse bevisene på anerkjennelse avslører et bredt felt av bidrag som blir verdsatt, langt forbi enkel redigering, til å inkludere sosial støtte, administrative tiltak, og annet.[103]
+Wikipedia krever ikke at dets bidragsytere skal identifisere seg.[104] Etterhvert som Wikipedia vokste ble spørsmålet «Hvem skriver Wikipedia?» ofte stilt.[105] Jimmy Wales hevdet en gang at bare «en gruppe bidragsytere;... en dedikert gruppe av noen få hundre frivillige» gjør hoveddelen av bidrag til Wikipedia og prosjektet derfor er «ganske likt hvilken som helst tradisjonell organisasjon».[106] 
+En artikkel i det amerikanske tidsskriftet Slate i 2008 rapporterte følgende: «Ifølge forskere i Palo Alto er én prosent av bidragsyterne til Wikipedia, ansvarlig for om lag halvparten av nettstedets redigeringer».[107] Denne fremgangsmåten for å evaluere bidrag ble senere bestridt av Aaron Swartz, som bemerket at mange av artiklene han vurderte hadde store deler av innholdet (målt i antall tegn) fra bidragsytere med få redigeringer.[108]
+Bidragsytere som ikke følger Wikipedias ulike regler, som å signere kommentarer på diskusjonssider, kan derved vise at de er lite kjent med Wikipedia og således øke sannsynligheten for at mer erfarne bidragsytere kan overse deres bidrag. Å bli en erfaren bidragsyter krever en del, vedkommende forventes å lære spesielle koder som kun brukes på prosjektet, underkaste seg en noen ganger lite oversiktlig prosess for konfliktløsning, og lære en «kultur som er rik på interne vitser og referanser».[109] Bidragsytere som ikke logger inn er på en måte ansett som andre klasses på Wikipedia,[109] siden «bidragsytere er anerkjent av medlemmer av wiki-gruppen, som har en egeninteresse i å bevare kvaliteten i produktet, på basis av deres pågående bidrag»,[110] men redigeringshistorikken til uregistrerte bidragsytere, kjent kun ved deres IP-adresse, kan ikke med sikkerhet tilskrives en bestemt bidragsyter.
+Studier
+En studie fra 2007 av forskere fra Dartmouth College, i delstaten New Hampshire i USA, fant at «anonyme og sporadiske bidragsytere til Wikipedia;... er en like pålitelig kilde for kunnskap som de bidragsyterne som registrerer seg på nettstedet».[111] Jimmy Wales uttalte i 2009 at «Det viser seg at over 50 % av alle redigeringer blir gjort av bare 0,7 % av bidragsyterne... 524 mennesker... Og faktisk, de mest aktive 2 %, som er 1 400 mennesker, har gjort 73,4 % av alle redigeringene.».[106] 
+Redaktør og journalist Henry Blodget i det amerikanske tidsskriftet Business Insider viste imidlertid at i et tilfeldig utvalg av artikler, var mesteparten av innholdet i Wikipedia (målt i mengden tilført tekst som overlever til den siste innsamlede redigeringen) skapt av «utenforstående», mens mest formatering ble gjort av «innsidere».[106]
+En undersøkelse fra 2008 fant at Wikipedianere var mindre joviale, åpne og samvittighetsfulle enn andre,[112][113] selv om en senere kommentar pekte på alvorlige feil i undersøkelsen, blant de at data viste større åpenhet, og at forskjellen mellom kontrollgruppen og utvalget var liten.[114] Ifølge en studie fra 2009 er det «bevis for økende motstand fra bidragsyterne på Wikipedia overfor nytt innhold».[115]
+Mangfold
+En rekke studier har vist at de fleste bidragsyterne til Wikipedia er menn. Resultatene fra en studie fra Wikimedia Foundation i 2008 viste at bare 13 % av Wikipedias bidragsytere var kvinner.[116] På grunn av dette har universiteter i USA forsøkt å oppmuntre kvinner til å begynne å bidra til Wikipedia. Tilsvarende ga mange av disse universitetene, blant de Yale og Brown, poeng (engelsk: college credit) til studenter som opprettet eller redigerte en artikkel knyttet til kvinner i vitenskap eller teknologi.[117] Professoren og vitenskapsmannen Andrew Lih, skrev i den amerikanske avisen The New York Times at han antok grunnen til at mannlige bidragsytere var langt flere enn kvinnelige var fordi å identifisere seg som kvinne på Wikipedia kunne utsette en for «stygg, skremmende oppførsel».[118] Data har vist at afrikanere er underrepresentert blant bidragsytere til Wikipedia.[119]
+Språkutgaver
+Utdypende artikkel: Liste over Wikipediaer
+Per oktober 2021 er det 323 språkutgaver av Wikipedia. De seks største, målt i antall artikler, er engelsk, cebuano, svensk, tysk, fransk og nederlandsk. Versjonene i cebuano og svensk er store grunnet utstrakt produksjon av artikler med bot (en form for automatisering). I tillegg til de seks største har følgende språkversjoner av Wikipedia over én million artikler: russisk, spansk, italiensk, polsk, egyptisk, arabisk, japansk, vietnamesisk, waray, kinesisk, arabisk, ukrainsk og portugisisk. Syv språkversjoner har over 500 tusen artikler: persisk, katalansk, serbisk, indonesisk, norsk bokmål, koreansk og finsk. Videre har 44 språkversjoner over 100 tusen artikler og ytterligere 82 har over 10 tusen artikler.[120][121] Den største språkversjonen, engelsk, har over 6,3 millioner artikler. Per januar 2021 mottar Wikipedia på engelsk 48 % av Wikipedia-prosjektets totale trafikk, og de 10 største språkversjonene mottar om lag 85 % av den totale trafikken.[122]
+Siden Wikipedia er opprettet på verdensveven (engelsk: World Wide Web) kan bidragsytere til samme språkversjon benytte ulike dialekter, eller komme fra ulike land (som er tilfelle for Wikipedia på engelsk). Disse forskjellene kan lede til uenigheter, som forskjeller i staving på britisk engelsk og amerikansk engelsk (som colour versus color)[123] eller ulike syn på emner.[124]
+Selv om de ulike språkversjonene har samme globale retningslinjer som «nøytralt synspunkt» (engelsk: neutral point of view), har de på noen punkter ulike retningslinjer og praksis. Mest utpreget er det vedrørende illustrasjoner som ikke er fritt lisensiert, og på engelskspråklig Wikipedia kan benyttes under et krav om såkalt rimelig bruk (engelsk: Fair use).[125][126][127]
+Jimmy Wales har beskrevet Wikipedia som «en anstrengelse for å skape og distribuere et fritt leksikon med den høyest mulige kvalitet til hver eneste person på planeten, på deres eget språk».[128] Selv om hver språkversjon fungerer mer eller mindre uavhengig, blir det tatt noen tiltak for å følge opp alle. De blir dels koordinert via Meta-Wiki, Wikimedia Foundations wiki for vedlikehold av alle sine prosjekter (Wikipedias språkversjoner og andre).[129] Meta-Wiki fremskaffer for eksempel viktig statistikk over alle språkutgaver av Wikipeda,[130] og vedlikeholder en liste over artikler som alle versjoner av Wikipedia bør ha.[131] Listen omhandler grunnleggende innhold etter emner: biografi, historie, geografi, samfunn, kultur, vitenskap, teknologi og matematikk. Det er ikke uvanlig for artikler som er sterkt knyttet til ett språk å ikke ha tilsvarende artikler i andre språkversjoner av Wikipedia. For eksempel kan artikler om små byer i USA være tilgjengelig kun på engelsk, selv om de tilfredsstiller kravene til notabilitet i andre språkversjoner av Wikipedia. Artikler som er tilgjengelig i mer enn ett språk tilbyr som regel lenker til andre språkversjoner (engelsk: interwiki links), styrt gjennom prosjektet Wikidata.
+En studie offentliggjort av PLOS One i 2012 anslo andelen av bidrag til ulike språkversjoner av Wikipedia fra ulike regioner i verden. Studien anslo at redigeringer fra Nord-Amerika sto for 51 % til engelskspråklig Wikipedia, og 25 % til enkel engelskspråklig Wikipedia.[132]
+Mest populære språkutgaver av Wikipedia i januar 2021.
+Mest sette utgaver av Wikipedia, over tid.
+Mest redigerte utgaver av Wikipedia over tid.
+Diagram over sidevisninger på Wikipedia på tyrkisk, den viser en nedgang på om lag 80 % etter Wikipedia ble blokkert i Tyrkia i 2017.
+Anslag over bridragsyternes andel fra ulike regioner i verden, til forskjellige språkversjoner av Wikipedia.[132] større kart)
+Antall bidragsytere til Wikipedia på engelsk, over tid.
+Antall bidragsytere til engelskspråklig Wikipedia
+Den 1. mars 2014 hadde det britiske tidsskriftet The Economist en artikkel med tittelen «The Future of Wikipedia», hvor det ble vist til en analyse fra Wikimedia Foundation som slo fast at «antallet bidragsytere for engelskspråklig Wikipedia har gått ned med en tredjedel i løpet av syv år.»[133] Antallet bidragsytere på Wikipedias språkversjon på engelsk som sluttet, ble av The Economist oppgitt som betydelig, i kontrast til andre språkversjoner. The Economist rapporterte at antallet bidragsytere med fem eller flere redigeringer i måneden var relativt konstant for andre språkversjoner, på rundt 42 000, med variasjon på rundt 2 000 opp eller ned innenfor sesonger. Antallet bidragsytere på engelskspråklig Wikipedia, i sterk motsetning, ble oppgitt å ha nådd sitt maksimum i 2007 med rundt 50 000, og hadde så gått ned til 30 000 i begynnelsen av 2014.[133]
+I kontrast så viste analysen i The Economist at Wikipedias andre språkversjoner klarte å beholde sine bidragsytere, relativt konstant på rundt 42 000.[133] Ingen kommentar ble gitt om forskjellene i regler på ulike språkversjoner var et mulig alternativ for å forklare forskjellene, og hvorvidt det kunne være noe Wikipedia på engelsk kunne benytte for å holde på sine bidragsytere.[134]
+Mottakelse - vurdering av Wikipedia
+Ulike bidragsytere til Wikipedia (særlig på Wikipedia på engelsk) har kritisert store, og økende, mengde med regler, som omfatter mer enn femti retningslinjer og over 150 tusen ord (per 2014).[135][136]
+Teorien jeg finner mest troverdig som en forklaring på nedgangen i antall bidragsytere siden 2007 er slutten på 'SåFiksDet'-kulturen, og dets erstatning av en mal-kultur, som noen anser som plaging av nybegynnere, og som har ledet til at hundretusenvis av artikler er vansiret av grelle maler, som viser til problemer noen håper noen andre vil forstå og ordne.
+[note 5]
+Av bidragsyteren WereSpielChequers, fra diskusjonen Fwd: surveys by community members
+Kritikere har uttalt at Wikipedia viser systematiske skjevheter (engelsk: systemic bias). Den amerikanske journalisten Edwin Black beskrev i 2010 Wikipedia som en blanding av «sannhet, halvsannhet og noen falsknerier».[137] Artikler i de amerikanske tidsskriftene The Chronicle of Higher Education og The Journal of Academic Librarianship har kritisert Wikipedias retningslinje om Undue Weight. De konkluderte med det faktum at Wikipedia eksplisitt ikke er konstruert for å gi korrekt informasjon om et emne, men heller vise alle ulike synspunkt, gi mindre oppmerksomhet for det som ikke er sentralt, fører til unnlatelser som kan lede til falske forestillinger basert på ufullstendig informasjon.[138][139][140]
+Journalistene Oliver Kamm og Edwin Black hevdet (i henholdsvis 2010 og 2011) at artikler på Wikipedia domineres av de mest høylytte og utholdende bidragsyterne, ofte en gruppe med en mening de vil fremme (engelsk: ax to grind) om emnet.[137][141] En artikkel i det amerikanske tidsskriftet Education Next i 2008 konkluderte med at som en kilde til kontroversielle emner, var Wikipedia utsatt for manipulering og fordreining (såkalt spinn).[142]
+I 2020 bemerket Omer Benjakob og Stephen Harrison at «mediadekning av Wikipedia har endret seg radikalt over de to siste tiårene, mens det tidligere ble fremstilt som en intellektuell frivolitet, blir det nå hyllet som den 'siste bastion av delt virkelighet' på nettet.»[143]
+I 2006 hadde nettstedet Wikipedia Watch liste over dusinvis av eksempler på plagiat i engelskspråklig Wikipedia.[144]
+Innholdets nøyaktighet
+Artikler i tradisjonelle leksikon, som Encyclopædia Britannica, er skrevet av eksperter, noe som gir slike leksikon et renomme for nøyaktighet.[145] En fagfellevurdering i 2005 av 42 artikler om vitenskap, på både Wikipedia og Encyclopædia Britannica, av vitenskapstidsskriftet Nature, fant få forskjeller i nøyaktighet, og konkluderte at «gjennomsnittlig hadde hver artikkel om vitenskap i Wikipedia om lag fire unøyaktigheter; Britannica, om lag tre.»[note 6][146] Joseph Reagle antydet at siden studien omfattet «en styrke innenfor emneområde av Wikipedias bidragsytere» i artikler om vitenskap, «hadde Wikipedia kanskje ikke kommet så godt ut med et tilfeldig utvalg artikler, eller om emner i humaniora.»[147] Andre hadde tilsvarende kritikk.[148] Resultatene i Nature ble imøtegått av Encyclopædia Britannica,[149][150] og i repons tilbakeviste Nature punktene som Britannica hadde tatt opp.[151] I tillegg til punkt-for-punkt uenigheten mellom disse to partene, har andre sett på utvalgets størrelse og metode for utvalg brukt av Nature, og antydet en forfeilet studie (engelsk: flawed study design). Dels i Natures manuelle seleksjon av artikler, helt eller delvis, for sammenligning, manglende statistisk analyse, og en manglende statistisk styrke (grunnet lite utvalg artikler).[152]
+Grunnet nettstedets åpne struktur, gir Wikipedia «ingen garanti for påliteligheten av innholdet» (sitat fra fanen Forbehold, nederst på hver eneste side), siden ingen er endelig ansvarlig for utsagn som fremkommer i leksikonet.[153][154] Det amerikanske tidsskriftet PC World tok i 2009 opp spørsmålet om manglende ansvar for innholdet på Wikipedia, som er resultatet av bidragsyternes anonymitet,[155] innlegging av falsk informasjon,[156] vandalisme og tilsvarende problemer.
+Den amerikanske professoren i økonomi, Tyler Cowen, skrev følgende: «Om jeg måtte gjette hvorvidt Wikipedia eller en gjennomsnittlig referert artikkel om økonomi i et tidsskrift, ved en rask vurdering var mest sannsynlig riktig, ville jeg valgt Wikipedia.»[note 7] Han kommenterer at noen tradisjonelle kilder for sakprosa lider av systematiske skjevheter (engelsk: systemic biases) og uventede resultater, er i hans oppfatning, over-rapportert i artikler i fagtidsskrifter, så vel som relevant informasjon som utelates fra nyhetsmeldinger. Han advarer imidlertid også mot feil som jevnlig kan finnes på nettsteder og at akademikere og eksperter må være årvåkne ved å korrigere de.[157] Professor Amy Bruckman har hevdet at grunnet antall revisjoner er «innholdet på en popular artikkel i Wikipedia faktisk den mest pålitelige form for informasjon noen gang skapt».[note 8][158]
+Kritikere hevder at Wikipedias åpne natur, og mangel på gode kilder for det meste av informasjonen, gjør det upålitelig.[159] Noen kommentatorer mener at Wikipedia kan være pålitelig, men at påliteligheten til en tilfeldig artikkel ikke er sikker.[160] Bidragsytere til tradisjonelle oppslagsverk, som Encyclopædia Britannica, har stilt spørsmål ved hvor nyttig Wikipedia er, og dets posisjon som et leksikon.[161] Wikipedias Jimmy Wales har påstått at Wikipedia stort sett har unngått problemet med falske nyheter, fordi bidragsyterne jevnlig diskuterer kvaliteten på artiklenes kilder.[162]
+Wikipedias åpne struktur gjør det uomgjengelig et lett mål for nett-troll, søppelpost, og ulike former for betalt fremming av saker, som står i motstrid til vedlikeholdet av et nøytralt og verifiserbart nettleksikon.[63][163] I respons til betalt redigering for å fremme synspunkt rapporterte den amerikanske avisen The Wall Street Journal at Wikipedia hadde innskjerpet sine regler og retningslinjer mot slik redigering, når den ikke var åpen.[164] Artikkelen fastslo at: «Med start fra mandag [fra artikkelens dato, 16. juni 2014], vil endringer i Wikipedias brukerregler kreve at enhver som er betalt for å redigere artikler oppgir det. Katherine Maher, den ideelle stiftelsen Wikimedia Foundations chief communications officer, sa at endringene følger opp en følelse blant frivillige bidragsytere at; 'vi er ingen annonsetjeneste, vi er et leksikon.'»
+[note 9][164][165][166][167][168] Disse temaene, blant andre, hadde blitt parodiert siden Wikipedias første dekade, blant annet av den amerikanske komikeren Stephen Colbert i The Colbert Report.[169]
+En juridisk lærebok fra det amerikanske universitetet Harvard, Legal Research in a Nutshell (2011), viser til Wikipedia som en «generell kilde» som «kan være et virkelig kupp» i å «raskt få et grep om loven i en gitt situasjon» og «samtidig, som den ikke er autoritativ, kan gi grunnleggende fakta så vel som lede til utvidede ressurser».[170]
+Advarsler mot bruk i utdanning
+De fleste som underviser på universiteter fraråder studenter fra å sitere leksikon i akademiske arbeider, og foretrekker primærkilder;[171] mens noen konkret forbyr å bruke Wikipedia som kilde.[172][173] Wikipedias Jimmy Wales understreker at leksikon av enhver type vanligvis ikke er passende som kilder, og ikke skal baseres på som autoritative.[174] Wales uttalte en gang (2006 eller før) at han mottok rundt ti eposter i uken fra studenter som sa de hadde fått refusert sine arbeider fordi de hadde sitert Wikipedia; han sa at han fortalte studentene at de hadde fått det de fortjente. «For Guds skyld, du er i college, ikke siter leksikonet», sa han.[175]
+Wikipedia, leksikonenes svar på Big Mac, ifølge en amerikansk bibliotekar
+En artikkel i den amerikanske universitetsavisen The Harvard Crimson meldte i februar 2007 at noen av professorene ved Harvard University inkluderte artikler fra Wikipedia i sitt pensum, samtidig som de ikke var klar over at artiklenes innhold kunne endres.[176] I juni 2007 fordømte den forhenværende presidenten for the American Library Association, Michael Gorman, både Wikipedia og Google,[177] og uttalte at akademikere som anbefalte bruken av Wikipedia er «den intellektuelle motsvarigheten til en dietetiker som anbefaler en fast diett med Big Mac med alt»[note 10]
+I kontrast til det over har akademisk skriving i Wikipedia utviklet seg over årene og har vist seg å øke studentenes interesse, forhold til leksikonet, kreativitet i behandling av materialet og internasjonalt samarbeid i læringsprosessen.[178]
+Medisinsk informasjon
+Den 5. mars 2014 skrev Julie Beck en artikkel i det amerikanske tidsskriftet The Atlantic, med tittelen «Doctors' #1 Source for Healthcare Information: Wikipedia». I artikkelen fastslo hun at «Femti prosent av leger sjekker forhold på [Wikipedia] nettstedet, og noen redigerer selv artikler for å forbedre kvaliteten av tilgjengelig informasjon.»[note 11][179] Beck fortsatte med å beskrive programmer av Amin Azzam ved University of San Francisco for å tilby kurs ved medisinske studier for å lære å redigere og forbedre artikler på Wikipedia knyttet til helse. Hun omtalte også kvalitetskontrollprogrammer innen Wikipedia organisert av James Heilman. Hensikten var å forbedre en samling av 200 sentrale helserelaterte artikler opp til Wikipedias høyeste standard, med fagfellevurdering i såkalt anbefalte- og utmerkede artikler.[179] I en oppfølgende artikkel i mai 2014 i The Atlantic, med tittelen «Can Wikipedia Ever Be a Definitive Medical Text», siterte hun James Heilman i WikiProject Medicines som uttalte: «Bare fordi en kilde er fagfellevurdert, betyr ikke at den er en god kilde.»[note 12][180] Julie Beck la til følgende: «Wikipedia har sin egen fagfellevurdering før artikler kan klassifiseres som anbefalt eller utmerket. Heilman, som har deltatt i den prosessen tidligere, sier at 'mindre enn én prosent' av Wikipedias artikler om helse har blitt godtatt [som anbefalt eller utmerket].» 
+[note 13][180]
+Tekstens kvalitet
+Skjermdump av engelskspråklig Wikipedias artikkel om Jorden, vurdert som såkalt utmerket artikkel
+I en uttalelse fra 2006 av Jimmy Wales uttrykte det amerikanske tidsskriftet Time at retningslinjene om å tillate hvem som helst å bidra hadde gjort Wikipedia til det «største (og muligens beste) leksikon i verden».[181]
+Forskere ved det amerikanske Carnegie Mellon University fant i 2008 at kvaliteten på en artikkel på Wikipedia ville gå ned - i stedet for å bli bedre - ved at flere bidro, når artikkelen manglet passende koordinering.[182] For eksempel vil innhold med høy- og lav kvalitet bli blandet når bidragsytere omskriver en mindre del av en artikkel, i stedet for å gjennomgå hele. Den amerikanske professoren i historie, Roy Rosenzweig, fastslo at American National Biography Online var bedre enn Wikipedia når det gjaldt «klar og engasjerende prosa», som, han hevdet, var en viktig side av gode tekster om historie.[183] I kontrast til engelskspråklig Wikipedias omtale av den amerikanske presidenten Abraham Lincoln, til artikkelen av den amerikanske historikeren James M. McPherson, spesialist i den amerikanske borgerkrigen, i American National Biography Online, uttalte Rosenzweig at artiklene om Lincoln begge steder var grunnleggende korrekte, og dekket de viktigste hendelsene i Lincolns liv, men hyllet «McPherson's rikere kontekst ... hans kunstferdige bruk av sitater for å fange Lincolns stemme ... og ... hans evne til å få frem et ektefølt budskap med en håndfull ord.»
+[note 14] I kontrast ga han et eksempel på prosa fra Wikipedia som han fant «ordrik og kjedelig». Rosenzweig kritiserte også «vingling-oppmuntret av retningslinjen om nøytralitet [som] betyr at det er vanskelig å finne et gjennomgående ståsted for tolkning i historieartikler i Wikipedia».
+[note 15] Mens han generelt var positiv til artikkelen på engelskspråklig Wikipedia om William Quantrill, viste han til konklusjonen i artikkelen som et eksempel på slik «vingling», som så uttrykte: «Noen historikere ... minnes ham som en opportunistisk, blodtørstig fredløs, mens andre fortsetter å se ham som en modig soldat og lokal folkehelt»
+[note 16][183]
+Andre kritikere av Wikipedia har kommet med tilsvarende anklager, at selv om artikler på Wikipedia er innholdsmessig korrekte, er de ofte skrevet i et dårlig, nærmest uleselig språk. Den britiske journalisten Andrew Orlowski skrev følgende: «Selv når en artikkel på Wikipedia er 100 % korrekt i fakta, og de har blitt nøye utvalgt, så fremstår det alt for ofte som det har blitt oversatt fra ett språk til et annet, så over til et tredje, gjennom en ukyndig oversetter på hvert nivå.»
+[note 17][184] En studie av artikler om kreft på Wikipedia på engelsk ble utført i 2010 av Yaacov Lawrence ved the Kimmel Cancer Center, på Thomas Jefferson University i USA. Studien ble begrenset til de artiklene som kunne finnes i Physician Data Query, og utelot de som var merket som såkalte spirer (engelsk: start or stub class). Lawrence fant at artiklene var presise, men ikke særlig lesbare, og mente at «Wikipedias manglende lesbarhet (for lesere uten college-utdanning) kan reflektere tekstenes blandede opprinnelse og tilfeldige/målløse redigering».
+[note 18][185] Det britiske tidsskriftet The Economist hevdet at artikler med bedre språk tenderte til å være mer pålitelige: «Lite elegant eller høylytt prosa reflekterer vanligvis uklare tanker og ukomplett informasjon».
+[note 19][186]
+Dekning av emner og systematiske skjevheter
+Wikipedia forsøker å skape et sammendrag av all verdens menneskelig kunnskap, i form av et nettbasert leksikon, med hvert emne leksikalsk beskrevet. Siden Wikipedia har tilnærmet ubegrenset lagringsplass, kan det dekke mange flere emner enn et leksikon trykket på papir.[187] Hvordan emner omhandles er under stadig diskusjon av Wikipedias bidragsytere, og uenigheter er vanlig (se for eksempel artikkel om diskusjonene om sletting eller inkludering på engelskspråklig Wikipedia («Deletionism and inclusionism in Wikipedia»).[188][189] Wikipedia inneholder materiale som noen reagerer på, finner støtende eller pornografisk. Retningslinjen «Wikipedia sensureres ikke» har noen ganger vært kontroversiell: i 2008 avviste Wikipedia en nettbasert appell mot å vise tegninger av den islamske lederen Muhammed i artikkelen om ham. Wikipedias innhold av politisk, religiøst eller pornografisk sensitivt materiale har ført til sensur, av myndighetene i blant annet Kina[190] og Pakistan.[191]
+Diagram over innhold på Wikipedia, etter emne (per 2008)[192]
+En undersøkelse gjort av forskere ved Carnegie Mellon University og Palo Alto Research Center i 2008, ga følgende fordeling av emner (første prosentandel), så vel som vekst (andre prosentandel), i tidsrommet fra juli 2006 til januar 2008, innen ulike områder:[192]
+Kultur: 30 % (210 %)
+Biografier: 15 % (97 %)
+Geografi: 14 % (52 %)
+Samfunn: 12 % (83 %)
+Historie: 11 % (143 %)
+Naturvitenskap: 9 % (213 %)
+Teknologi: 4 % (−6 %)
+Religion: 2 % (38 %)
+Helse: 2 % (42 %)
+Matematikk: 1 % (146 %)
+Filosofi: 1 % (160 %)
+Antall viser kun til artikler. Det er mulig for et emne å ha et stort antall korte artikler og et annet å ha et mindre antall med større artikler. Gjennom programmet «Wikipedia elsker biblioteker» har Wikipedia samarbeid med større offentlige bibliotek som New York Public Library for the Performing Arts for å øke dekningen av emner som er lite omtalt..[193]
+En studie som forskere ved University of Minnesota utførte i 2011 indikerte at kvinnelige og mannlige bidragsytere var interessert i ulike emner. Det var flere kvinner som skrev om kategorien mennesker og kunst, mens menn var mer opptatt av kategoriene geografi og vitenskap.[194]
+Dekning av emner og skjevheter i utvalg
+Forskning av Mark Graham ved Oxford Internet Institute i 2009 viste at den geografiske fordelingen av emner i artikler er svært ulik. Afrika er det området som er dårligst representert.[195] Gjennom i alt 30 språkversjoner av Wikipedia er historiske artikler og seksjoner generelt sentrert om Europa og nylige hendelser.[196]
+En lederartikkel i den britiske avisen The Guardian i 2014 hevdet at mer tid ble brukt til å legge inn kilder for en liste over kvinnelige pornoskuespillere, enn for en liste over kvinnelige forfattere.[197] Data om Wikipedias innhold har også vist at artikler om Afrika ofte mangler innhold, et kunnskapsgap som en Wikipedia-konferanse i juli 2018 i Cape Town i Sør-Afrika forsøkte å gjøre noe med.[119]
+Systematiske skjevheter
+Når flere bidragsytere tilfører tekst til et emne, eller en gruppe emner, kan systematiske skjevheter oppstå, grunnet bidragsyternes demografiske bakgrunn. I 2011 hevdet Wikipedias Jimmy Wales at ulikheten i dekning reflekterte bidragsyternes demografi, og nevnte blant annet «biografier om berømte kvinner gjennom historien og forhold rundt barnepass for småbarn».[note 20][32] Et essay av Tom Simonite, 22. oktober 2013, i MITs Technology Review, med tittelen «The Decline of Wikipedia», diskuterte effekten av systematiske skjevheter og økende antall regler og retningslinjer, på den nedadgående trenden i bidragsytere til engelskspråklig Wikipedia.[33]
+Systematiske skjevheter på Wikipedia kan følge kulturen generelt, som ved å favorisere bestemte nasjonaliteter, etniske grupper eller majoritetsreligioner.[198] Mer konkret kan det følge skjevheter i kulturen på Internett, hvor deltakerne kan være unge, menn, engelsktalende, utdannet, teknologibevisste, og ha nok penger til at de har tid til overs for å bidra. Skjevheter kan bestå i en for stor vektlegging av emner som populærkultur, teknologi og nåtidige hendelser.[198]
+Taha Yasseri ved University of Oxford, studerte i 2013 statistiske trender ved systematiske skjevheter i Wikipedia, introdusert ved redigeringskonflikter og deres løsning.[199][200] Hans forskning gransket den negative effekten på prosjektet, fra redigeringskonflikter. Yasseri gikk ut fra at enkle tilbakestillinger ikke var det mest betydningsfulle tiltaket ved slike negative effekter, og baserte seg i stedet på statistisk beregning av å oppdage doble tilbakestillinger. Slike skjer når én bidragsyter tilbakestiller en annen bidragsyters redigering, som da igjen tilbakestiller den førstes redigering. Resultatet ble beregnet for flere språkversjoner av Wikipedia. Artiklene med de høyeste konfliktratene på engelskspråklig Wikipedia var om George W. Bush, anarkisme, og Muhammed.[200] I sammenligning var artiklene med de tre høyeste konfliktratene på tyskspråklig Wikipedia de om Kroatia, Scientologi, og konspirasjonsteorier om 11. september.[200]
+Forskere ved Washington University utviklet en statistisk modell for å måle systematiske skjevheter i redigeringene til Wikipedias bidragsytere ved kontroversielle emner. Forfatterne fokuserte på adferdsendringer hos administratorer på leksikonet, etter de fikk rettighetene, og skrev at systematiske skjevheter fremkom etter så skjedde.[201][202]
+Mulig støtende innhold
+Utdypende artikkel: Wikipedia:Hva Wikipedia ikke er
+Wikipedia har blitt kritisert for å tillate mulig støtende innhold (engelsk: graphic content, explicit content). Artikler som har innhold som noen betegner som støtende (som avføring, lik, kjønnsorganer og nakenhet) inneholder fotografier og detaljert informasjon, lett tilgjengelig for enhver som har tilgang til internett, blant de barn.
+Nettstedet har også innhold som dekker seksualitet, som fotografier og videoer av masturbering og ejakuklering, illustrasjoner av dyresex, og fotografier fra pornografiske filmer. Wikipedia har også ikke-seksuelle fotografier av nakne barn.
+Engelskspråklig Wikipedias artikkel om Virgin Killer, et musikkalbum fra 1976 fra den tyske rockegruppen Scorpions, hadde et fotografi på forsiden, med en naken mindreårig pike. Det originale omslagsbildet var kontroversielt, og ble erstattet i en del land. I desember 2008 ble tilgang til artikkelen blokkert av de fleste internettleverandører i Storbritannia etter stiftelsen Internet Watch Foundation hadde vurdert omslaget å inneholde et mulig ulovlig bilde, og lagt artikkelens adresse til en liste over forbudte nettsider britiske internettleverandører brukte.[203]
+I april 2010 skrev Larry Sanger et brev til USAs Federal Bureau of Investigation, hvor han la frem sin bekymring over at to kategorier av fotografier på Wikipedias mediatjener, Wikimedia Commons, inneholdt barnepornografi, og derfor brøt med amerikansk lovgiving.[204][205] Sanger presiserte senere at bildene, som var knyttet til pedofili ikke var virkelige barn, men sa at de fremstilte «obskøn visuell fremstilling av seksuelt misbruk av barn»,[note 21] i henhold til amerikansk lov.[206] De lovene forbyr fotografisk barnepornografi, og tegninger av barn som er ansett obskønt under amerikansk lov.[206] Sanger uttrykte også bekymring om tilgang til slike bilder på Wikipedia, fra skoler.[207] Wikimedia Foundations talsperson Jay Walsh avviste på det sterkeste Sangers anklager,[208] og uttalte at Wikipedia ikke hadde «materiale vi ville ansett å være ulovlig. Om vi hadde, så ville vi fjernet det.»
+[note 22][208] Etter anklagen fra Sanger, sørget Wikipedias Jimmy Wales for å få slettet innhold av seksuell karakter, uten å konsultere bidragsyterne. Etter noen bidragsytere hevdet at slettingen hadde blitt utført unødig raskt, ga Wales frivillig opp en del av de fullmaktene han inntil da hadde hatt som stifter av Wikipedia. Han skrev i en melding på Wikimedia Foundations epost-liste at det var «i forsøket på å oppmuntre denne diskusjonen til å være om virkelige filosofiske/innholds spørsmål, i stedet for å være om meg, og hvor raskt jeg handlet»
+[note 23][209] Kritikere, blant annet fra nettstedet Wikipediocracy (nettadresse: wikipediocracy.com), bemerket at mange av de pornografiske bildene som ble slettet fra Wikipedia rundt 2010, siden har kommet tilbake.[210]
+Personvern
+En bekymring vedrørende personvern når det gjelder Wikipedia, er retten en privatperson har til å forbli uten omtale (engelsk: private citizen), i stedet for å bli en offentlig person (engelsk: public figure) når det gjelder loven.[211][note 24] Det er en kamp mellom retten til å være anonym i kyberrommet (engelsk: cyberspace) og retten til å være anonym i det virkelige livet. Et særlig problem oppstår i de tilfeller hvor en relativt ukjent person får en artikkel om seg opprettet på Wikipedia.
+I januar 2006 beordret en tysk domstol at tyskspråklig Wikipedia skulle stenges innenfor Tysklands grenser, siden det oppga virkelig navn for en en avdød datasnok (engelsk: hacker). Den 9. februar 2006 ble kjennelsen mot støtteforeningen Wikimedia Deutschland endret, siden retten avviste påstanden om at vedkommendes rett til privatliv ble krenket.[212]
+Wikipedia har en gruppe for behandling av spørsmål om personvern (engelsk: Volunteer Response Team), uten å måtte avsløres de involvertes identitet. Dette blir blant annet brukt for å at ulike bilder kan lastes opp på prosjektets medietjener Wikimedia Commons.[213]
+Seksisme
+Utdypende artikkel: Kjønnsforskjellene på Wikipedia
+Deltakere i et edit-a-thon i Washington DC i 2013, hvor tema var kvinner i kunst  Foto: Gerald Shields  
+I 2015 ble Wikipedia beskyldt for å ha en kultur med seksisme og trakassering.[214][215]
+De antatte giftige holdningene og toleransen for voldelig og krenkende språk var årsaker som ble lagt frem i 2013 for kjønnsgapet i antall bidragsytere til Wikipedia.[216]
+Såkalte redigeringssamlinger (engelsk: Edit-a-thon) har blitt holdt for å oppmuntre kvinner til å bidra, og for å øke dekningen av emner om kvinner.[217]
+En omfattende undersøkelse fra 2008, offentliggjort i 2016, viste betydelige kjønnsforskjeller i følgende: tiltro til egen kunnskap, ubehag ved redigering, og respons til kritisk tilbakemelding. «Kvinner rapporterte mindre tiltro til egen ekspertise, uttrykte større ubehag ved å redigere (som typisk involverte konflikt), og rapporterte mer negativ repons til kritiske tilbakemeldinger, sammenlignet med menn.»
+[note 25][218]
+Driften av Wikipedia
+Wikimedia Foundation og tilknyttede organisasjoner
+Utdypende artikkel: Wikimedia Foundation
+Katherine Maher ble den tredje administrerende direktøren for stiftelsen Wikimedia Foundation i 2016, etter Lila Tretikov, som overtok etter Sue Gardner i 2014.
+Wikipedias nettsider blir hentet fra webservere drevet av den amerikanske ideelle stiftelsen Wikimedia Foundation (WMF), den støtter også prosjekter som Wiktionary og Wikibooks. WMF baserer seg på bidrag fra støttespillere for å finansiere driften av stiftelsen.[219] Finansiell rapport fra 2020 viser at WMF har totalt om lag 180 millioner amerikanske dollar i nettoverdier (engelsk: total net assets), rundt 1,5 milliarder norske kroner, opp fra om lag 166 millioner dollar i 2019.[220]
+I mai 2014 utnevnte WMF Lila Tretikov som sin andre administrerende direktør, hun tok over etter Sue Gardner.[221] Den amerikanske avisen The Wall Street Journal skrev den 1. mai 2014 at Tretikovs bakgrunn innen informasjonsteknologi fra årene ved University of California ga Wikipedia en anledning til å bli utviklet i mer konsentrerte retninger, støttet av hennes ofte gjentatt motto: «Informasjon, som luft, ønsker å være fri»
+[note 26][222][223] Den samme artikkelen i The Wall Street Journal beskrev disse retningene i utvikling, i samsvar med et intervju med Wikipedias talsperson Jay Walsh, som «sa Tretikov ville følge opp den saken (betalte bidrag på Wikipedia) som en prioritet. 'Vi arbeider hardt for større transparens... Vi understreker at betalte bidrag ikke er ønsket.' Initiativ for å få større mangfold blant bidragsytere, bedre mobil støtte for Wikipedia, nye verktøy for geo-lokalisering for å lettere finne lokalt innhold, og flere verktøy for brukere i den andre og tredje verden er også prioritert,»
+[note 27].[222]
+Etter Tretikovs avgang fra WMF, knyttet til spørsmål rundt bruk av såkalt superbeskyttelse (engelsk: superprotection), ble Katherine Maher den tredje administrerende direktøren for WMF i juni 2016.[224] Maher har uttrykt at en av hennes prioriterte saker ville være spørsmålet om trakassering av bidragsytere på Wikipedia, og sa følgende etter et styremøte om saken i desember 2016: «Det etablerer en erkjennelse blant bidragsyterne at dette er en prioritet... [og at korrigering krever at] det må være mer enn ord.»
+[note 28][225]
+Wikipedia støttes også av mange organisasjoner og grupper som er tilknyttet WMF, men uavhengig organisert. Disse inkluderer en rekke støtteorganisasjoner (engelsk: Wikimedia chapters), som er nasjonale organisasjoner, som Wikimedia Norge, tematiske organisasjoner (som Amical Wikimedia, for språket Katalansk) og brukergrupper. Disse tilknyttede organisasjonene deltar i å fremme, utvikle og finansiere Wikipedia.
+Programvare og brukerstøtte
+Utdypende artikkel: MediaWiki
+Driften av Wikipedia (i form av visning av sider) avhenger av MediaWiki, en egenutviklet, wiki basert på fri programvare og åpen kildekode som er skrevet i PHP, og benytter seg av databasen MySQL.[226] Programvaren har funksjoner som et makrospråk, variabler, et system for transklusjon av maler og redirigering av URLer. 
+MediaWiki er lisensiert under the GNU General Public License (GPL) og benyttes av alle Wikimedias prosjekter, så vel som mange andre wiki prosjekter. Opprinnelig ble Wikipedias sider levert med UseModWiki, skrevet i programmeringsspråket Perl, av Clifford Adams (Phase I), som var avhengig av CamelCase for å lage hyperlenker; det nåværende systemet med doble parenteser ble innført senere. I januar 2002 (Phase II), begynte Wikipedia å kjøres fra en PHP wiki, med en MySQL database; denne programvaren var skreddersydd for Wikipedia av Magnus Manske. Programvaren i fase to ble stadig modifisert for å klare den eksponentielle veksten. I i juli 2002 skiftet Wikipedia til tredje generasjons programvare (Phase III), MediaWiki, opprinnelig skrevet av Lee Daniel Crocker.
+MediaWiki gir en relativt enkel kode for visning av sider, se sammenligning under med HTML og resultat som tekst:
+MediaWiki syntaks (koden som er «bak scenen» benyttet for å gi formatering til tekst)
+Tilsvarende i HTML(en annen type «bak scenen» kode brukt for å formatere tekst)
+Formatert tekst(tekst vist på skjermen for en leser)
+====A dialogue====
+"Take some more [[tea]]," the March Hare said to Alice, very earnestly.
+"I've had nothing yet," Alice replied in an offended tone: "so I can't take more."
+"You mean you can't take ''less''," said the Hatter: "it's '''very''' easy to take ''more'' than nothing."
+<h4>A dialogue</h4>
+<p>"Take some more <a href="/wiki/Tea" title="Tea">tea</a>," the March Hare said to Alice, very earnestly.</p>
+<p>"I've had nothing yet," Alice replied in an offended tone: "so I can't take more."</p>
+<p>"You mean you can't take <i>less</i>," said the Hatter: "it's <b>very</b> easy to take <i>more</i> than nothing."</p>
+A dialogue
+"Take some more tea," the March Hare said to Alice, very earnestly.
+"I've had nothing yet," Alice replied in an offended tone: "so I can't take more."
+"You mean you can't take less," said the Hatter: "it's very easy to take more than nothing."
+(Tekst over er fra Alice i Eventyrland av Lewis Carroll)
+Flere utvidelser av MediaWiki er installert[227] for å utvide programsystemets funksjonalitet.
+I april 2005, ble en Lucene-utvidelse[228][229] lagt til MediaWikis innebygde søkesystem og Wikipedia skiftet fra MySQL til Lucene for søk. Lucene ble senere skiftet ut med CirrusSearch, som er basert på Elasticsearch.[230]
+I juli 2013 ble, etter omfattende testing, en WYSIWYG (engelsk: What You See Is What You Get) utvidelse, VisualEditor, tilgjengelig for vanlig bruk.[231][232][233][234] Den ble møtt med mye avvisning, og kritikk, og ble beskrevet som «langsom og full av feil».[235] Bruken av den ble endret fra å være standard, til å bli et mulig valg.
+Automatisert redigering
+Utdypende artikkel: Bot (dataprogram)
+Dataprogrammer betegnet som bot (forkortelse for botter, roboter, etter det slaviske ordet for arbeid, robot) blir ofte brukt for å utføre enkle og gjentatte oppgaver, som å korrigere vanlige feilstavinger, og formatfeil, eller for å starte artikler innen for eksempel geografi, i et standard format, fra statistiske data.[236][237][238] En bidragsyter på svenskspråklig Wikipedia sto for en bot som etablerte opp mot 10 tusen artikler om dagen.[239] Det er også boter som automatisk gir beskjed til bidragsytere ved vanlige feil (som parenteser som ikke lukkes).[240] Redigeringer som feilaktig identifiseres av en bot som bidrag fra en som har blitt blokkert, kan tilbakestilles av andre bidragsytere. En anti-vandal bot er programmert for å oppdage og tilbakestille vandalisme raskt.[237] Botter kan identifisere redigeringer fra bestemte kontoer eller IP-adresser, som ved nedskytingen av Malaysia Airlines Flight 17 i juli 2014, da det ble meldt at redigeringer ble gjort fra IPer kontrollert av den russiske staten.[241] Botter på Wikipedia må godkjennes før de kan aktiviseres.[242]
+Ifølge Andrew Lih er Wikipedia ekspansjon til flere millioner artikler vanskelig å tenke seg uten bruk av botter.[243]
+Maskinvare og støtte
+Wikipedias servere mottar rundt 100 tusen forespørsler (engelsk: requests) i sekundet, per 2016,[244] det har økt fra mellom 25–60 tusen i 2008.[245] Per 2021 blir sideforespørsler først sendt til en server med programmet Varnish (hvor kopier av sider lagres) og ytterligere lagring skjer med Apache Traffic Server (fra Apache Software Foundation).[246] Statistikk, basert på offentlig tilgjengelig 3 måneders sporing, er tilgjengelig.[247] Forespørsler som ikke kan leveres av lageret (engelsk: cache) på Varnish blir sendt til last-balanserte servere som bruker programvaren Linux Virtual Server, som igjen gir forespørselen til Apache webservere for å vise informasjonen, fra en database. Webserverne leverer sider, som forespurt, og foretar beskrivelse av sider (engelsk: page rendering) for alle språkversjoner av Wikipedia. For å øke hastigheten ytterligere, blir beskrevne sider mellomlagret i distribuert minne, inntil de er utgått, noen som gjør at beskrivelse av sider stort sett unngås for de fleste vanlige sideforespørsler.
+Oversikt over Wikipedias systemarkitektur, per april 2020
+Wikipedias programvare går for tiden (per 2021) på regneklynger (engelsk: computer clusters) med distribusjonen Debian av operativsystemet Linux.[248] Per 2009 var det 300 servere i Florida, USA og 44 i Amsterdam i Nederland.[249] I januar 2013 flyttet Wikipedia sitt primære datasenter til et anlegg hos leverandøren Equinix i Ashburn, delstaten Virginia i USA.[250][251] I 2017 installerte Wikipedia en regneklynge i et av Equinix' anlegg i Singapore, det første i sitt slag for stiftelsen i Asia.[252]
+Intern forskning og utvikling av tjenesten
+Med økende donasjoner (i 2013 passerte de én million dollar),[33] har Wikimedia Foundation (WMF) nådd en terskel med hensyn til økonomiske midler som gir grunnlag for å bruke ressurser på intern forskning og utvikling.[253] To av prosjektene som har kommet ut av dette er VisualEditor for grafisk redigering av Wikipedias sider, og en takkefane.[33][235] Anslag for reinvesteringer av industrielle organisasjoner i intern forskning og utvikling ble studert av Adam Jaffe, som registrerte at området 4 % til 25 % årlig var å anbefale, med høyteknologi krevdes et høyt nivå for reinvestering.[254] Ved bidragsnivået til Wikimedia Foundation i 2013, på om lag 45 million dollar, ble anbefalt nivå av Jaffe og Caballero for reinvestering i intern forskning og utvikling mellom 1,8 millioner og 11,3 millioner amerikanske dollar årlig.[254] I 2016 var nivået på bidrag til stiftelsen, ifølge Bloomberg News, på rundt $77 million årlig, noe som høynet anslagene fra Jaffe til mellom $3,08 millioner og $19,2 millioner årlig.[254]
+Interne nyhetskilder
+Regulære nyhetskilder produsert av bidragsyterne inkluderer The Signpost på engelskspråklig Wikipedia, etablert i 2005 av Michael Snow, advokat, Wikipedia administrator, og forhenværende medlem av Wikimedia Foundation board of trustees.[255] The Signpost dekker nyheter og hendelser på nettstedet, så vel som større hendelser på andre prosjekter under stiftelsen Wikimedia Foundation, så som mediatjeneren Wikimedia Commons. Tilsvarende regulære nyhetskilder er den tyskspråklige Kurier, og Correio da Wikipédia på portugisisk. Andre forhenværende og nåværende nyhetskilder inkluderer Wikiworld webcomic, the Wikipedia Weekly podcast, og nyhetsbrev for wikiprosjekter, som The Bugle fra WikiProject Military History, og det månedlige nyhetsbrevet fra The Guild of Copy Editors. Det er også flere publikasjoner fra Wikimedia Foundation og flerspråklige publikasjoner, som Wikimedia Diff og This Month in Education.
+The Wikipedia Library
+Utdypende artikkel: Wikipedia:Biblioteket
+The Wikipedia Library er en ressurs for bidragsytere til engelskspråklig Wikipedia som gir fri tilgang til en rekke digitale publikasjoner, så bidragsyterne kan undersøke og sitere disse kildene i artikler på leksikonet.[256][257] Over 60 utgivere har samarbeid med The Wikipedia Library for å gi tilgang til deres ressurser. Da ICE Publishing sluttet seg til samarbeidet i 2020 uttalte en talsperson følgende: «Ved å gi fri tilgang til vårt innhold for bidragsytere til Wikipedia, håper vi å øke deres ressurser for å finne kilder - skape og oppdatere artikler på Wikipedia om ingeniørarbeid, som leses av tusener av månedlige lesere.»
+[note 29][258]
+Tilgang til innhold
+Lisenser for innholdet
+Da Wikipedia startet i 2001 ble all tekst dekket av GNU Free Documentation License (GFDL), en copyleft lisens som tillot redistribusjon, å lage avledede verk, og kommersiell bruk av innhold, mens bidragsyterne beholdt opphavsrett til sitt arbeid.[259] Lisensen GFDL ble utviklet for programvarehåndbøker som kommer med fri programvare, og er lisensiert under GNU General Public License (GPL). Det gjorde den til et dårlig valg for et generelt referanseverk som et leksikon, for eksempel krever GFDL at gjengivelser av materiale fra Wikipedia kommer med en full kopi av GFDLs tekst. I desember 2002 ble Creative Commons license utgitt, den var spesifikt utviklet for kreativt arbeid generelt, ikke bare for programvarehåndbøker. Lisensen ble populær blant bloggere og andre som distribuerte kreative verk på nettet. Wikipedia ønsket å bytte til lisensen fra Creative Commons.[260] Fordi de to lisensene, GFDL og Creative Commons, ikke er kompatible, utga Free Software Foundation (FSF) i november 2008 en ny versjon av GFDL, beregnet på å la Wikipedia endre lisens på sitt innhold til CC BY-SA innen 1. august 2009 (en ny versjon av GFDL dekker innhold fra Wikipedia).[261] I april 2009 holdt Wikipedia og dets søsterprosjekter en avstemning som avgjorde at lisensendringen skulle skje i juni 2009.[262][263][264][265]
+Hvordan mediafiler (som fotografier) behandles, varierer mellom ulike språkversjoner. Engelskspråklig Wikipedia tillater bruk av media under lisenser som ikke er frie, såkalt fair use, mens de andre språkversjonene stort sett ikke benytter dette. Mediafiler dekket av lisenser for fritt innhold (som Creative Commons' CC BY-SA) deles av de ulike språkversjonene ved mediatjeneren Wikimedia Commons, et prosjekt som drives av den ideelle stiftelsen Wikimedia Foundation (WMF). Wikipedias tilpasning til ulike internasjonale regler for opphavsrett, har når det gjelder fotografier, fått noen til hevde at dets billedmessige dekning av emner står tilbake for kvaliteten i leksikonets tekst.[266]
+WMF lisensierer ikke selv innhold, men tilbyr lagring og visning av innholdet via webserverere, for bidragsyterne (og de som har opphavsrettslig lisens til innhold) til Wikipedia, og tilhørende prosjekter. Denne juridiske posisjonen har med suksess blitt forsvart rettslig.[267][268]
+Tilgang til innholdet
+Skjema over prosjektet Wikidatas datamodell
+Fordi Wikipedias innhold er tilgjengelig under en åpen lisens, kan hvem som helst bruke eller videreformidle det, uten å betale. Innholdet fra Wikipedia har vært publisert i mange former, både på nett og eller, utenfor selve nettstedet wikipedia.org.
+Nettsteder: Tusenvis av «speilsider» finnes (engelsk: mirror sites), hvor deler av innholdet i noen språkversjoner av Wikipedia gjengis. To av de mest kjente er reference.com og answers.com - et annet eksempel er wapedia - sistnevnte begynte å vise innhold fra Wikipedia, tilpasset mobiltelefoner, før Wikipedia selv gjorde det.
+Mobilapplikasjoner: En rekke mobilapplikasjoner (såkalte apper) gir tilgang til Wikipedia på håndholdte enheter (engelsk: hand-held devices), inkludert både for operativsystemene Android og iOS.
+Websøkemotor: Noen websøkemotorer gjør bruk av innhold fra Wikipedia når søkeresultater vises. Eksempler inkluderer Microsoft Bing (gjennom teknologi fra selskapet Powerset)[269] og DuckDuckGo.
+CD og DVD-er: Samlinger av artikler fra Wikipedia har blitt publisert på såkalte optiske disker (engelsk: optical discs). En versjon med artikler fra engelskspråklig Wikipedia, 2006 Wikipedia CD Selection, inneholdt om lag 2 000 artikler.[270][271] Den polsk-språklige versjonen hadde rundt 240 000 artikler.[272] Det er også utgaver på tysk og spansk.[273][274] Wikipedia for Schools, CD-er og DVD-er produsert av wikipedianere og SOS Children's Villages UK, er en fri, håndsjekket (engelsk: hand-checked), ikke kommersiell utvalg fra engelskspråklig Wikipedia, rettet mot National Curriculum for England og beregnet for å bruk i det meste av den engelsk-talende verden.[275] Prosjektet er tilgjengelig på internett, et tilsvarende leksikon trykket på papir ville omfatte rundt 20 bind.
+Bøker: Det blir arbeidet med å få trykket et utvalg av Wikipedias artikler i bokform.[276][277] Siden 2009, har titusenvis av bøker med artikler fra Wikipedia på fransk, russisk, tysk og engelsspråklig Wikipedia blitt produsert med trykk på forespørsel fra det amerikanske firmaet Books LLC og av tre datterselskap på Mauritius av det tyske firmaet VDM.[278]
+Semantisk web: Nettstedet DBpedia ble opprettet i 2007, og henter data fra såkalte infobokser og kategorier på engelskspråklig Wikipedia. Den ideelle amerikanske stiftelsen Wikimedia Foundation (WMF) har etablert prosjektet Wikidata. Begge har et mål om lagre grunnleggende informasjon fra hver artikkel av Wikipedia og andre av WMFs nettsteder, for å gjøre det tilgjengelig for utspørringer, som med et såkalt Resource Description Framework. Per oktober 2021 har Wikidata over 95 millioner såkalte dataelementer.
+Det å få tak i Wikipedias fulle innhold for gjenbruk er imidlertid i praksis en utfordring, siden direkte kopi ved hjelp av en søkerobot ikke anbefales.[279] WMF lager nedlastbare versjoner av innholdet, men de er kun tekst, per 2007 var det ingen tilgjengelig samlet nedlasting som inkluderte media.[280] Stiftelsen Wikimedia Foundation har i 2021 lansert tjenesten Wikimedia Enterprise som er en betalt tjeneste for dette.[281]
+Flere språkversjoner av Wikipedia har også spørretjenester, hvor frivillige svarer på spørsmål fra allmenheten. Ifølge en undersøkelse av Pnina Shachaf i det britiske fagtidsskriftet Journal of Documentation, er kvaliteten på Wikipedias spørretjeneste sammenlignbar med et vanlig bibliotek, med en nøyaktighet på rundt 55 %.[282]
+Mobil tilgang
+Skjermdump av den mobile versjonen av forsiden på engelskspråklig Wikipedia, fra 3. august 2019
+Wikipedias opprinnelige medium som brukere og bidragsytere benyttet for å lese og redigere innhold var å bruke en nettleser gjennom en fast forbindelse til internett. Selv om innhold på Wikipedia har vært tilgjengelig gjennom mobilnettet siden juli 2013, siterte den amerikanske avisen The New York Times den 9. februar 2014 Erik Möller, visedirektør i Wikimedia Foundation, hvor han uttalte at overgangen av trafikk fra stasjonære PC-er til mobile enheter var betydelig, og ga grunn til bekymring.[39] Artikkelen i The New York Times rapporterte sammenlignende statistikk for mobile redigeringer, og skrev at «bare 20 prosent av leserne av den engelskspråklige versjonen av Wikipedia kommer fra mobile enheter, et antall som er betydelig lavere enn prosentandelen mobiltrafikk for andre medianettsteder, mange som nærmer seg 50 prosent. Og skiftet til mobil redigering ligger enda lenger tilbake.»[note 30][39] The New York Times meldte videre at Möller hadde avsatt «en gruppe på 10 programvareutviklere for å fokusere på mobil»,[note 31] av totalt om lag 200 ansatte i Wikimedia Foundation. En sentral bekymring i stiftelsen, sitert av The New York Times, var å kunne demme opp for frafall blant bidragsytere som nettleksikonet trekker til seg (de som redigerer og vedlikeholder dets innhold), i et miljø med mobil tilgang.[39]
+Det amerikanske økonomitidsskriftet Bloomberg Businessweek skrev i juli 2014 at Googles mobile applikasjoner på operativsystemet Android hadde dominert i 2013, med 78,6 % markedsandel, mens neste konkurrent, Apple med operativsystemet iOS hadde 15,2 %.[283] På tidspunktet for Tretikovs utnevnelse som ny leder for Wikimedia Foundation, og hennes intervju med avtroppende Sue Gardner i mai 2014, ga representanter for stiftelsen Wikimedia Foundation (WMF) en teknisk uttalelse om antall mobile enheter i markedet, som hentet informasjon fra Wikipedia. Rett etter intervjuet uttalte representantene for WMF at de ville iverksette en inkluderende tilnærming til mobile enheter. WMF ville forsøke å støtte så mange systemer som mulig i sitt arbeid for å øke mobiltilgangen til Wikipedia, blant de BlackBerry og Windows Phone system, derved anse markedsandel som en sekundær utfordring.[223] 
+Den nyeste versjonen av mobilappen for Android for Wikipedia ble lansert 23. juli 2014, og mottok generelt positive omtaler, med fire av fem mulige i en undersøkelse av om lag 200 tusen brukere som lastet ned fra Google.[284] Den nyeste versjonen av iOS ble lansert 3. april 2013, med tilsvarende positiv omtale.[285]
+Tilgang til Wikipedia fra mobiltelefoner var mulig allerede fra 2004, med WAP via tjenesten Wapedia. I juni 2007 lanserte Wikipedia en.mobile.wikipedia.org, en offisiell adresse for mobile enheter. I 2009 ble en oppdatert mobil tjeneste lansert,[286] på adressen en.m.wikipedia.org, som støttet mer avanserte mobile enheter som iPhone, Android og WebOS. Flere andre metoder for mobil tilknytning til Wikipedia har blitt lansert. Mange enheter og applikasjoner tilpasser Wikipedias innhold for mobile enheter, mens de også bruker Wikipedias metadata, som geografisk posisjon.[287][288]
+Wikipedia Zero var et initiativ stiftelsen Wikimedia Foundation tok for å øke tilgang til leksikonet i utviklingsland.[289] Det ble lagt ned i februar 2018.[290]
+Den amerikanske mediaforskeren Andrew Lih, og den britiske forfatteren og journalisten Andrew Brown hevder begge at å redigere innhold på Wikipedia med smarttelefon er vanskelig, og dette avskrekker nye mulige bidragsytere. Antallet bidragsytere til Wikipedia har gått nedover, og Tom Simonite i det amerikanske tidsskriftet MIT Technology Review påsto at nettstedets byråkratiske struktur og regler er en faktor i dette. Simonite hevdet at noen Wikipedianere brukte de intrikate reglene og retningslinjene for å dominere andre, og at disse bidragsyterne har en egeninteresse i å beholde reglene som de er.[33] Andrew Lih mener det er en stor uenighet mellom eksisterende bidragsytere i hvordan dette skal løses. Lih frykter for Wikipedias posisjon, mens Brown er redd for at Wikipedias problemer vil bestå, og at ingen konkurrenter kan erstatte det.[291][292]
+Tilgang fra Kina
+Tilgang til Wikipedias versjon på kinesisk i Fastlands-Kina har vært blokkert siden mai 2015.[293][294][295] Dette skjedde etter Wikipedia begynte å bruke kryptering med HTTPS, noe som gjorde selektiv sensur vanskeligere for myndighetene i Kina.[296]
+I 2017 rapporterte det amerikanske tidsskriftet Quartz at den kinesiske regjeringen hadde begynt etableringen av en uoffisiell versjon av Wikipedia. Men i motsetning til Wikipedia kunne nettstedets innhold kun redigeres fra statlige kinesiske institusjoner. Artikkelen hevdet at dette hadde blitt godkjent av Folkerepublikken Kinas statsråd i 2011.[297]
+Kulturell påvirking
+Troverdig kilde mot falske nyheter
+Utdypende artikkel: Falsk nyhet
+I årene 2017–2018, etter en flom av falske nyhetsmeldinger, kunngjorde både Facebook og YouTube at de ville basere seg på Wikipedia for å hjelpe sine brukere å bedre evaluere rapporter og avvise falske nyheter. Den amerikanske journalisten Noam Cohen skrev følgende i avisen The Washington Post:«YouTubes avhengighet av Wikipedia for å få frem fakta bygger på tenkningen til en annen plattform hvor fakta er utfordret, det sosiale nettverket Facebook, som kunngjorde forrige år at Wikipedia ville hjelpe dets brukere å renske ut 'falske nyheter'.» 
+[note 32][298] Per november 2020 rapporterte medieovervåkingstjenesten Alexa Internet at daglig antall sidevisninger per besøkende på Wikipedia var 3,03, og at gjennomsnittlig daglig brukt tid var 3:46 minutter.[37]
+Brukere
+Sidevisninger til nettleksika. Besøk fra IP'er i Norge (wikimedia-prosjekt) og sidevisninger totalt (SNL)
+I februar 2014 meldte den amerikanske avisen The New York Times at Wikipedia lå på femteplass, blant verdens mest brukte nettsteder, og skrev at «Med 18 milliarder sidevisninger og nesten 500 millioner unike besøkende i måneden ... Wikipedia er kun slått av Yahoo, Facebook, Microsoft og Google, den største med 1,2 milliarder unike besøkende.»
+[note 33][39] Wikipedias plassering gikk ned til 13. plass i verden i juni 2020, grunnet økt popularitet for kinesiske nettsteder for netthandel,[299] og fordi Wikipedia er blokkert for hundrevis av millioner av nettbrukere i Kina.[300]
+I tillegg til logistisk vekst i antallet artikler,[301] har Wikipedia siden oppstarten i 2001, gjennom årene fått en stadig høyere status som et generelt oppslagsverk.[302] Om lag 50 % av søkemaskiners trafikk til Wikipedia kommer fra Google,[303] og en god del av det er knyttet til akademisk søk.[304] Antallet brukere av Wikipedia i verden nådde 365 millioner ved utgangen av 2009.[305] Et forskningsprosjekt av Pew Research Center og American Life fant at en tredjedel av nettbrukere i USA konsulterte Wikipedia.[306] I 2011 vurderte det amerikanske nettstedet Business Insider Wikipedias verdi til å være rundt 4 milliarder dollar, om det begynte med annonser.[307]
+Ifølge rapporten «Wikipedia Readership Survey 2011» var gjennomsnittlig alder for lesere av Wikipedia 36, omtrent likt fordelt mellom kjønnene. Nesten halvparten av brukerne besøkte nettstedet mer enn fem ganger i måneden, og et tilsvarende antall så særskilt etter Wikipedia ved bruk av søkemaskiner (som Google og Microsoft Bing). Om lag 47 % av Wikipedias brukere var ikke klar over at nettstedet drives av den ideelle amerikanske stiftelsen Wikimedia Foundation (WMF).[308]
+Covid-19 pandemien
+Under Koronaviruspandemien (2019–) fikk Wikipedias dekning omtale av internasjonale medier, og ga en økning i antallet besøkende til nettstedet.[309]
+Kulturell betydning
+«Wikipedia-monumentet» i byen Słubice, Polen (2014, av den armenske kunstneren Mihran Hakobyan)  Foto: משתמש  
+Wikipedias innhold har blitt brukt i akademiske studier, bøker, som underlag for konferanser og for rettssaker.[310][311][312] Canadas parlament viser til artikkel på engelskspråklig Wikipedia om likekjønnet ekteskap (engelsk: same-sex marriage) i seksjonen «tilhørende lenker» (engelsk: related links), i sin liste over «videre lesing» for loven Civil Marriage Act.[313] Leksikonets påstander blir i økende grad brukt som en kilde, av blant annet føderale domstoler i USA og Den internasjonale opphavsrettsorganisasjonen,[314] men hovedsakelig for informasjon for å støtte, enn å avgjøre saker.[315] Innhold på Wikipedia har også blitt brukt som kilde, og vist til i noen rapporter fra USAs etterretningsfellesskap.[316] I desember 2008 lanserte det vitenskapelige tidsskrifte RNA Biology en ny seksjon for beskrivelse av familier av RNA molekyler, og påla bidragsytere til seksjonen å samtidig levere et utkast til en artikkel for publisering i Wikipedia.[317]
+Wikipedia har også blitt brukt som en kilde for journalister,[318][319] ofte uten å ha blitt nevnt, og en rekke journalister har mistet sine stillinger etter plagiering av artikler på Wikipedia.[320][321][322]
+I 2006 anerkjente det amerikanske tidsskriftet Time magazine Wikipedias bidrag (sammen med YouTube, Reddit, MySpace, og Facebook)[323] i den raske veksten i samarbeid og kontakt på nettet, blant millioner av mennesker verden over.
+ Wikipedia er bedre enn sitt rykte. Det skal man egentlig ikke si hvis man er akademiker. Men jeg bruker Wikipedia uhemmet.[324]
+Gudmund Hernes, forsker, professor og kirke-, utdannings- og forskningsminister 1990–1995
+I juli 2007 var Wikipedia tema for en halvtimes dokumentar på BBC Radio 4.[325] I programmet ble det hevdet at med økt bruk og oppmerksomhet, var antallet referanser til Wikipedia så høyt, at ordet er et av noen få utvalgte i det 21. århundre som er så kjent (som Google, Facebook og YouTube) at de ikke lenger trenger noen forklaring.
+Den 28. september 2007, reiste den italienske politikeren Franco Grillini et spørsmål til den italienske kulturministeren om behovet for panoramafrihet (mulighet for å ta bilder av bygg og skulpturer). Han sa at mangelen på slik frihet tvang Wikipedia, «det syvende mest brukte nettstedet» å forby alle fotografier av moderne italienske bygninger og kunst, og hevdet at dette var til stor skade for inntektene fra turistindustrien.[326]
+Wikipedia, en introduksjon, foredrag ved mottakelse av Erasmusprisen i 2015
+Wikipedias Jimmy Wales mottar i 2008 utmerkelsen Quadriga, A Mission of Enlightenment, på vegne av Wikipedia
+Den 16. september 2007 skrev den amerikanske avisen The Washington Post at Wikipedia hadde blitt et brennpunkt for presidentvalget i USA 2008: «Skriv navnet på en kandidat i Google, og blant de første resultatene er en side fra Wikipedia, noe som gjør de oppslagene like viktig som et reklameinnslag i å definere en kandidat. Artikler om presidentkandidater blir redigert, vurdert og debattert utallige ganger hver dag.»
+[note 34][327] En artikkel hos nyhetsbyrået Reuters i oktober 2007, med tittelen «Wikipediaside som det siste statussymbol», rapporterte om det nye fenomenet om hvordan det å ha en artikkel om seg på Wikipedia bekreftet at man var allmen kjent.[328]
+Å være bidragsyter til Wikipedia har også en effekt. Juss-studenter har fått i oppgave å skrive artikler på Wikipedia, som en øvelse i klar og kortfattet skriving for en lesergruppe som ikke er innsatt i emnet.[329]
+En arbeidsgruppe under den amerikanske professoren Peter Stone (formet som en del av Stanford Universitys prosjekt One Hundred Year Study on Artificial Intelligence) omtalte Wikipedia i en rapport som «det best kjente eksemplet på nettdugnad ... som klart går forbi tradisjonelt samlede informasjonsressurser, som leksikon og ordbøker, i skala og dybde.»
+[note 35][330]
+Den iransk-canadiske journalisten Hossein Derakhshan beskrev i en kommentar for det amerikanske tidsskriftet Wired i 2017 Wikipedia som «en av de siste gjenværende pilarene av det åpne og desentraliserte nettet»
+[note 36] og satte dets eksistens som en tekstbasert kilde til kunnskap, opp mot sosiale medier som har «kolonisert nettet for fjernsynets verdier»
+[note 37]. For Derakhshan representerer Wikipedias mål som et leksikon opplysningstidens tradisjon med rasjonalitet som triumferer over følelser, en trend som han anser som «truet», grunnet den «gradvise endring fra en typografisk kultur til en fotografisk, som igjen fører til en endring fra rasjonalitet til følelser, utstilling til underholdning».
+[note 38] I stedet for en kultur med «sapere aude» (våg å vite), leder sosiale nettverk til en kultur med «våg å ikke bry deg om å vite». Dette mens Wikipedia står overfor en større utfordring enn finansiering, nemlig en «redusert vekstrate i antallet bidragsytere til nettstedet». Følgelig er utfordringen for Wikipedia og de som bruker det å «redde Wikipedia og dets løfte om en fri og åpen samling av all menneskelig kunnskap blant erobringen av gammelt og nytt fjernsyn, hvordan samle og bevare kunnskap når ingen bryr seg om å vite.»
+[note 39][331]
+Utmerkelser
+Representanter for Wikipedia besøker parlamentet i den autonome regionen Asturias i Spania  Foto: Sarmad Yaseen  
+Treff for Wikipedianere etter tildeling av utmerkelse i Asturias i 2015  Foto: Sarmad Yaseen  
+Wikipedia vant to store utmerkelser i mai 2004.[332] Den første var en gylden Nica for digitale samfunn i den årlige konkurransen Prix Ars Electronica. Med utmerkelsen fulgte en pengepremie på €10 000 (£6 588; $12 700), og en invitasjon til å stille ved PAE Cyberarts Festival i Østerrike senere samme år. Den andre var dommernes Webby Award for kategorien «samfunn».[333]
+I 2007 stemte lesere av nettstedet brandchannel.com på Wikipedia som det fjerde høyest rangerte varemerke (engelsk: brand), og fikk 15 % av stemmene som svar på spørsmålet «Hvilket varemerke har hatt størst betydning for våre liv i 2006?»[334]
+I september 2008 mottok Wikipedia utmerkelsen Quadriga, A Mission of Enlightenment, fra Werkstatt Deutschland, sammen med Boris Tadić, Eckart Höfling, og Peter Gabriel. Utmerkelsen ble overrakt Wikipedias Jimmy Wales av David Weinberger.[335]
+I 2015 ble Wikipedia tildelt den årlige Erasmusprisen, som hedrer eksepsjonelle bidrag til kultur, samfunn eller samfunnsvitenskapene,[336] og en av de spanske Fyrstinnen av Asturias-prisene, nemlig Fyrstinnen av Asturias’ pris for internasjonalt samarbeid.[337] I en tale ved parlamentet i Asturias, i Oviedo, byen hvor prisen utdeles, hyllet Wikipedias Jimmy Wales arbeidet til bidragsytere på språkversjonen asturiansk.[338]
+Satire
+Det har vært en rekke parodier på Wikipedias åpenhet og leksikonets sårbarhet for innlagte unøyaktigheter, med ulike karakterer som har vandalisert eller modifisert nettleksikonets artikler.
+Den amerikanske komikeren Stephen Colbert har parodiert eller vist til Wikipedia en rekke ganger i sitt show The Colbert Report, og konstruert det relaterte begrepet wikialitet (engelsk:wikiality). Ifølge Cobert betyr det følgende: «sammen kan vi skape en virkelighet vi alle kan være enige om - den virkeligheten vi alle nettopp ble enige om».
+[note 40][169] Et annet eksempel finnes i «Wikipedia feirer 750 år med amerikansk uavhengighet», en forsideartikkel i det amerikanske satiriske tidsskriftet The Onion i juli 2006,[339] så vel som overskriften på en artikkel i The Onion fra 2010: «L.A. Law' Wikipedia Page Viewed 874 Times Today».[340]
+I en episode i 2007 fra det amerikanske komiske showet på fjernsyn, Kontoret (engelsk: The Office) er kontorsjefen Michael Scott vist mens han stoler på en hypotetisk artikkel i Wikipedia for informasjon om forhandlingstaktikk, som hjelp for å diskutere lønnsreduksjon for en ansatt.[341] Noen av seerne forsøkte å legge til episodens omtale av siden, som en seksjon i den faktiske artikkelen på engelskspråklig Wikipedia, men dette ble hindret av andre bidragsytere.[342]
+I den amerikanske fjernsynskomedien Scrubs er det i episoden «My Number One Doctor» fra 2007 spilt på at Wikipedia er en kilde for informasjon man ikke kan stole på. Legen Perry Cox reagerer på en pasient som sier at en artikkel i Wikipedia indikerer at en diett med råkost helbreder benvevskreft og sier at samme bidragsyter skrev listen over episoder i fjernsynsserien Battlestar Galactica.[343]
+I den komiske tegneserien Dilbert fra 8. mai 2009, er det en person som underbygger en usannsynlig påstand ved å si følgende: «Gi meg ti minutter og så kan du sjekke Wikipedia.»[344]
+Søsterprosjekter
+Wikipedia har flere søsterprosjekter, som også er wikier, støttet og drevet av den ideelle amerikanske stiftelsen Wikimedia Foundation (WMF). De inkluderer Wiktionary, en ordbok som ble lansert i 2002,[345] Wikiquote, en samling med sitater, lansert én uke etter Wikimedia, Wikibooks, en samling av bøker og tekst skrevet av samarbeidende bidragsytere, Wikimedia Commons, mediatjener for de andre prosjektene og andre som søker fritt tilgjengelige mediafiler, Wikinews, for nyheter, og Wikiversity, et prosjekt for å skape fritt tilgjengelig læremateriale og mulighet for nettstudier.[346] Nok et av Wikipedias søsterprosjekter, er Wikispecies, en katalog over arter. I 2012 ble Wikivoyage, et nettsted for reisende lagt til, og Wikidata, hvor kunnskap lagres i en database.
+Publisering
+En samling Wikimedianere i brukergruppen Wikimedia DC chapter, ved 2013 DC Wikimedia annual meeting, foran hyller med leksikonet Encyclopædia Britannica i US National Archives
+Den mest iøynefallende økonomiske effekt av Wikipedias fremvekst er at leksikon på papir, som det amerikanske Encyclopædia Britannica, ikke lenger produseres, siden de ikke kan konkurrere med noe som er gratis.[347][348][349]
+Den amerikanske forfatteren Nicholas Carr skrev et essay i 2005, med tittelen «Det amoralske ved Web 2.0» (engelsk: The amorality of Web 2.0), som kritiserte nettsteder med brukergenerert innhold, blant de Wikipedia, for å lede til at profesjonelt produsert (og i hans oppfatning, bedre) innhold ikke lenger var regningssvarende, fordi «gratis alltid slår kvalitet». Carr skrev videre: «Implisitt i de ekstatiske visjonene om web 2.0 er amatørens hegemoni. For min del kan jeg ikke forestille meg noe mer skremmende.»
+[note 41][350] Andre avviste påstanden at Wikipedia, eller tilsvarende tiltak, ville fullstendig utrydde tradisjonelle publikasjoner. Den amerikanske forfatteren og entreprenøren Chris Anderson, sjefsredaktør av det amerikanske tidsskriftet Wired, skrev i det engelske naturvitenskapelige tidsskriftet Nature at «gruppens visdom» (engelsk: wisdom of the crowd), som i Wikipedia, ikke ville erstatte gode vitenskapelige tidsskrift, med sin rigorøse fagfellevurdering.[351]
+Det er også en pågående debatt om Wikipedias innflytelse på lønnsomheten ved publisering av biografier. «Bekymringen er den, at om du kan få en mengde informasjon fra Wikipedia, hva er da igjen for en trykket biografi?», sa Kathryn Hughes, britisk professor ved University of East Anglia, og forfatter av boken The Short Life and Long Times of Mrs Beeton og George Eliot: the Last Victorian.[352]
+Bruk i forskning
+Wikipedias tekstkorpus har blitt bredt brukt for forskning i databasert lingvistikk (engelsk: Computational linguistics), informasjonsgjenfinning og prosessering av naturlige språk (engelsk: Natural language processing). Wikipedias tekst blir særlig brukt som en kunnskapsbase for problemet med kobling av navn (engelsk: entity linking) - at Paris betyr byen i Frankrike, og ikke kvinnen Paris Hilton, eller noe annet - som da kalles «wikifisering»,[353] og til det relaterte problemet med Word-sense disambiguation.[354] Metoder som tilsvarer wikifisering kan igjen bli brukt for å finne «manglende» lenker i Wikipedia.[355]
+I 2015 publiserte de franske forskerne, José Lages ved Université de Franche-Comté i Besançon, og Dima Shepelyansky ved Université Toulouse-III-Paul-Sabatier i Toulouse, en global rangering av universiteter, basert på faglige sitater i Wikipedia.[356][357][358] De benyttet PageRank, CheiRank og tilsvarende algoritmer «fulgt av antallet forekomster i de 24 forskjellige språkversjonene av Wikipedia (synkende rekkefølge) og århundret når de ble funnet (stigende rekkefølge).
+[note 42][358][359] Undersøkelsen ble oppdatert i 2019.[360]
+En studie fra det amerikanske universitetet Massachusetts Institute of Technology i 2017 antyder at ord brukt i artikler på Wikipedia, ender opp i vitenskapelige publikasjoner.[361][362]
+Undersøkelser knyttet til Wikipedia har brukt maskinlæring og kunstig intelligens for å støtte ulike operasjoner. En av de viktigste områdene er automatisk oppdagelse av vandalisme,[363][364] og vurdering av datakvalitet i Wikipedia.[365]
+Relaterte prosjekter
+Flere interaktive leksikon med multimedia, som inneholdt artikler skrevet av leserne, eksisterte lenge før Wikipedia ble opprettet. Det første av disse var det britiske kringkastingsselskapet BBCs Domesday Project i 1986, som inkluderte tekst skrevet på datamaskinen BBC Micro. Prosjektet hadde fotografier fra mer enn én million bidragsytere i Storbritannia, og dekket geografi, kunst og kultur i Storbritannia. Dette var det første interaktive multimedia leksikon. Det var også det første store multimedia dokumentet internt koblet med lenker, med flertallet av artiklene tilgjengelig gjennom et interaktivt kart over Storbritannia. Brukergrensesnittet og deler av innholdet ble etterlignet på et nettsted inntil 2008.[366]
+Flere leksikon med fritt tilgjengelig innhold ble etablert i den samme tidsperioden som Wikipedia (som Everything2),[367] mens mange senere ble slått sammen med Wikipedia (som GNUPedia, kortform GNE).[368] En av de mest suksessfulle tidlige nettbaserte leksikon var h2g2, som ble opprettet av den amerikanske forfatteren Douglas Adams i 1999. Leksikonet h2g2 er relativt lettlest, og fokuserte på artikler som både var morsomme og informative.
+Etterfølgende nettleksikon har tatt inspirasjon fra Wikipedia. Andre bruker mer tradisjonell fagfellevurdering, som Encyclopedia of Life og wikiene Scholarpedia og Citizendium. Sistnevnte ble etablert av Larry Sanger i et forsøk på å lage et troverdig alternativ til Wikipedia.[369][370]
+Se også
+Nettverkseffekt
+QRpedia
+Fotnoter
+^ Prinsippet om prokrastinering dikterer at du bør vente til problemer oppstår før du forsøker å løse de.
+^ Bidrag som kan være injurierende, kriminelle trusler, eller brudd på opphavsrett kan (og blir som regel) fjernet fullstendig.
+^ Se for eksempel «Wikipedia:Biographies of living persons/Noticeboard» eller «Wikipedia:Neutral point of view/Noticeboard», etablert for å ta hånd om innhold som kommer inn under de respektive områdene.
+^ Sanger, Larry (31. desember 2004). «Why Wikipedia Must Jettison Its Anti-Elitism». Kuro5hin, Op–Ed. Arkivert fra originalen 1. november 2021. Besøkt 24. oktober 2021. «There is a certain mindset associated with unmoderated Usenet groups [...] that infects the collectively-managed Wikipedia project: if you react strongly to trolling, that reflects poorly on you, not (necessarily) on the troll. If you [...] demand that something be done about constant disruption by trollish behavior, the other listmembers will cry "censorship", attack you, and even come to the defense of the troll. [...] The root problem: anti-elitism, or lack of respect for expertise. There is a deeper problem [...] which explains both of the above-elaborated problems. Namely, as a community, Wikipedia lacks the habit or tradition of respect for expertise. As a community, far from being elitist, it is anti-elitist (which, in this context, means that expertise is not accorded any special respect, and snubs and disrespect of expertise are tolerated). This is one of my failures: a policy that I attempted to institute in Wikipedia's first year, but for which I did not muster adequate support, was the policy of respecting and deferring politely to experts. (Those who were there will, I hope, remember that I tried very hard.)» 
+^ The theory that I find most credible as an explanation of the decline of the community since 2007 is the end of the "SoFixIt" culture and its replacement by the templating culture which some consider newbie biting and which has lead to hundreds of thousands of articles disfigured by garish templates calling attention to problems that somebody hopes someone else will understand and fix.
+^ "the average science entry in Wikipedia contained around four inaccuracies; Britannica, about three."
+^ "If I had to guess whether Wikipedia or the median refereed journal article on economics was more likely to be true after a not so long think I would opt for Wikipedia."
+^ "the content of a popular Wikipedia page is actually the most reliable form of information ever created".
+^ 
+"Beginning Monday [from the date of the article, June 16, 2014], changes in Wikipedia's terms of use will require anyone paid to edit articles to disclose that arrangement. Katherine Maher, the nonprofit Wikimedia Foundation's chief communications officer, said the changes address a sentiment among volunteer editors that, 'we're not an advertising service; we're an encyclopedia.'"
+^ 
+stating that academics who endorse the use of Wikipedia are "the intellectual equivalent of a dietitian who recommends a steady diet of Big Macs with everything".
+^ "Fifty percent of physicians look up conditions on the (Wikipedia) site, and some are editing articles themselves to improve the quality of available information."
+^ "Just because a reference is peer-reviewed doesn't mean it's a high-quality reference."
+^ "Wikipedia has its own peer review process before articles can be classified as 'good' or 'featured'. Heilman, who has participated in that process before, says 'less than one percent' of Wikipedia's medical articles have passed."
+^ "McPherson's richer contextualization ... his artful use of quotations to capture Lincoln's voice ... and ... his ability to convey a profound message in a handful of words."
+^ "waffling—encouraged by the NPOV policy—[which] means that it is hard to discern any overall interpretive stance in Wikipedia history".
+^ 
+"Some historians ... remember him as an opportunistic, bloodthirsty outlaw, while others continue to view him as a daring soldier and local folk hero."
+^ "Even when a Wikipedia entry is 100 percent factually correct, and those facts have been carefully chosen, it all too often reads as if it has been translated from one language to another then into a third, passing an illiterate translator at each stage."
+^ "Wikipedia's lack of readability (to non-college readers) may reflect its varied origins and haphazard editing".
+^ "inelegant or ranting prose usually reflects muddled thoughts and incomplete information".
+^ 
+"biographies of famous women through history and issues surrounding early childcare".
+^ "obscene visual representations of the sexual abuse of children"
+^ "material we would deem to be illegal. If we did, we would remove it."
+^ "in the interest of encouraging this discussion to be about real philosophical/content issues, rather than be about me and how quickly I acted".
+^ See "Libel" by David McHam for the legal distinction.
+^ "Women reported less confidence in their expertise, expressed greater discomfort with editing (which typically involves conflict), and reported more negative responses to critical feedback compared to men."
+^ "Information, like air, wants to be free."
+^ "said Tretikov would address that issue (paid advocacy) as a priority. 'We are really pushing toward more transparency ... We are reinforcing that paid advocacy is not welcome.' Initiatives to involve greater diversity of contributors, better mobile support of Wikipedia, new geo-location tools to find local content more easily, and more tools for users in the second and third world are also priorities,"
+^ "It establishes a sense within the community that this is a priority ... (and that correction requires that) it has to be more than words."
+^ "By enabling free access to our content for Wikipedia editors, we hope to further the research community's resources - creating and updating Wikipedia entries on civil engineering which are read by thousands of monthly readers."
+^ "Only 20 percent of the readership of the English-language Wikipedia comes via mobile devices, a figure substantially lower than the percentage of mobile traffic for other media sites, many of which approach 50 percent. And the shift to mobile editing has lagged even more."
+^ "a team of 10 software developers focused on mobile"
+^ "YouTube's reliance on Wikipedia to set the record straight builds on the thinking of another fact-challenged platform, the Facebook social network, which announced last year that Wikipedia would help its users root out 'fake news'."
+^ "With 18 billion page views and nearly 500 million unique visitors a month ... Wikipedia trails just Yahoo, Facebook, Microsoft and Google, the largest with 1.2 billion unique visitors."
+^ "Type a candidate's name into Google, and among the first results is a Wikipedia page, making those entries arguably as important as any ad in defining a candidate. Already, the presidential entries are being edited, dissected and debated countless times each day."
+^ "the best-known example of crowdsourcing ... that far exceeds traditionally-compiled information sources, such as encyclopedias and dictionaries, in scale and depth."
+^ "one of the last remaining pillars of the open and decentralized web"
+^ "since colonized the web for television's values"
+^ "gradual shift from a typographic culture to a photographic one, which in turn mean[s] a shift from rationality to emotions, exposition to entertainment".
+^ "save Wikipedia and its promise of a free and open collection of all human knowledge amid the conquest of new and old television—how to collect and preserve knowledge when nobody cares to know."
+^ "together we can create a reality that we all agree on—the reality we just agreed on".
+^ "Implicit in the ecstatic visions of Web 2.0 is the hegemony of the amateur. I for one can't imagine anything more frightening."
+^ "followed by the number of appearances in the 24 different language editions of Wikipedia (descending order) and the century in which they were founded (ascending order)".
+Referanser
+^   arkiveringsdato 26. desember 2020,   arkiv-URL web.archive.org,   www.dmagazine.com[Hentet fra Wikidata]
+^  www.dmagazine.com[Hentet fra Wikidata]
+^  «Democracy Dies in Darkness»,   arkiveringsdato 31. oktober 2020,   arkiv-URL web.archive.org[Hentet fra Wikidata]
+^ «The contribution conundrum: Why did Wikipedia succeed while other encyclopedias failed?». Nieman Lab. Besøkt 5. juni 2016. 
+^ a b Kock, Ned; Jung, Yusun; Syn, Thant (2016). «Wikipedia and e-Collaboration Research: Opportunities and Challenges» (PDF). International Journal of e-Collaboration. IGI Global. 12 (2): 1–8. doi:10.4018/IJeC.2016040101. 
+^ Sidener, Jonathan (6. desember 2004). «Everyone's Encyclopedia». U-T San Diego. Arkivert fra originalen 4. februar 2012. Besøkt 30. oktober 2021. 
+^ Meyers, Peter (20. september 2001). «Fact-Driven? Collegial? This Site Wants You». The New York Times. «'I can start an article that will consist of one paragraph, and then a real expert will come along and add three paragraphs and clean up my one paragraph,' said Larry Sanger of Las Vegas, who founded Wikipedia with Mr. Wales.» 
+^ Stallman, Richard M. (20. juni 2007). «The Free Encyclopedia Project». Free Software Foundation. Besøkt 4. januar 2008. 
+^ a b c Sanger, Larry (18. april 2005). «The Early History of Nupedia and Wikipedia: A Memoir». Slashdot. 
+^ Sanger, Larry (17. januar 2001). «Wikipedia Is Up!». Arkivert fra originalen 11. juli 2003. Besøkt 30. oktober 2021. 
+^ «Wikipedia-l: LinkBacks?». Besøkt 20. februar 2007. 
+^ Sanger, Larry (10. januar 2001). «Let's Make a Wiki». Internet Archive. Arkivert fra originalen 14. april 2003. Besøkt 22. oktober 2021. 
+^ «WHOIS domain registration information results for wikipedia.com from Network Solutions». 27. september 2007. Arkivert fra originalen 27. september 2007. Besøkt 31. august 2018. 
+^ «WHOIS domain registration information results for wikipedia.org from Network Solutions». 27. september 2007. Arkivert fra originalen 27. september 2007. Besøkt 31. august 2018. 
+^ «Wikipedia: HomePage». Arkivert fra originalen 31. mars 2001. Besøkt 31. mars 2001. 
+^ "Wikipedia:Neutral point of view, Wikipedia (21. januar 2007).
+^ Finkelstein, Seth (25. september 2008). «Read me first: Wikipedia isn't about human potential, whatever Wales says». The Guardian. London. 
+^ «Multilingual statistics». Wikipedia. 30. mars 2005. Besøkt 26. desember 2008. 
+^ «Encyclopedias and Dictionaries». Encyclopædia Britannica. 18 (15th utg.). 2007. s. 257–286. 
+^ «[long] Enciclopedia Libre: msg#00008». Osdir. Arkivert fra originalen 6. oktober 2008. Besøkt 26. desember 2008.  «Arkivert kopi». Archived from the original on 6. oktober 2008. Besøkt 22. oktober 2021. CS1-vedlikehold: Uheldig URL (link)
+^ Shirky, Clay (28. februar 2008). Here Comes Everybody: The Power of Organizing Without Organizations. The Penguin Press via Amazon Online Reader. s. 273. ISBN 978-1-59420-153-0. Besøkt 26. desember 2008. 
+^ Vibber, Brion (16. august 2002). «Brion VIBBER at pobox.com». Wikimedia. Arkivert fra originalen 20. juni 2014. Besøkt 8. desember 2020. 
+^ Johnson, Bobbie (12. august 2009). «Wikipedia approaches its limits». The Guardian. London. 
+^ The Singularity is Not Near: Slowing Growth of Wikipedia (PDF). The International Symposium on Wikis. Orlando, Florida. 2009. Arkivert fra originalen (PDF) 11. mai 2011. Besøkt 22. oktober 2021. 
+^ Evgeny Morozov (5. november 2009). «Edit This Page». Boston Review. Archived from the original on 11. desember 2019. Besøkt 23. oktober 2021. CS1-vedlikehold: Uheldig URL (link)
+^ Cohen, Noam (28. mars 2009). «Wikipedia – Exploring Fact City». The New York Times. 
+^ Gibbons, Austin; Vetrano, David; Biancani, Susan (2012). «Wikipedia: Nowhere to grow» (PDF).  
+^ Kleeman, Jenny (26. november 2009). «Wikipedia falling victim to a war of words». The Guardian. London. 
+^ «Wikipedia: A quantitative analysis». Arkivert fra originalen (PDF) 3. april 2012. Besøkt 22. oktober 2021. 
+^ Volunteers Log Off as Wikipedia Ages, The Wall Street Journal, 27. november 2009.
+^ Barnett, Emma (26. november 2009). «Wikipedia's Jimmy Wales denies site is 'losing' thousands of volunteer editors». The Daily Telegraph. London. 
+^ a b Rawlinson, Kevin (8. august 2011). «Wikipedia seeks women to balance its 'geeky' editors». The Independent. 
+^ a b c d e Simonite, Tom (22. oktober 2013). «The Decline of Wikipedia». MIT Technology Review. 
+^ «3 Charts That Show How Wikipedia Is Running Out of Admins». The Atlantic. 16. juli 2012. 
+^ Ward, Katherine. New York Magazine, 25. november 2013, s. 18.
+^ «"Wikipedia Breaks Into US Top 10 Sites".». PCWorld. 17. februar 2007. Arkivert fra originalen 19. mars 2012. Besøkt 23. oktober 2021. 
+^ a b «Wikipedia.org Traffic, Demographics and Competitors». Alexa Internet. Arkivert fra originalen 25. august 2020. Besøkt 1. oktober 2019. 
+^ «Wikimedia Traffic Analysis Report – Wikipedia Page Views Per Country». Wikimedia Foundation. Besøkt 8. mars 2015. 
+^ a b c d e Cohen, Noam (9. februar 2014). «Wikipedia vs. the Small Screen». The New York Times. 
+^ Loveland, Jeff; Reagle, Joseph (15. januar 2013). «Wikipedia and encyclopedic production». New Media & Society. 15 (8): 1294. doi:10.1177/1461444812470428. 
+^ Rosen, Rebecca J. (30. januar 2013). «What If the Great Wikipedia 'Revolution' Was Actually a Reversion? • The Atlantic». Besøkt 9. februar 2013. 
+^ Netburn, Deborah (19. januar 2012). «Wikipedia: SOPA protest led eight million to look up reps in Congress». Los Angeles Times. 
+^ «Wikipedia joins blackout protest at US anti-piracy moves». BBC News. 18. januar 2012. 
+^ «SOPA/Blackoutpage». Wikimedia Foundation. Arkivert fra originalen 22. juni 2018. Besøkt 19. januar 2012.  «Arkivert kopi». Arkivert fra originalen 22. juni 2018. Besøkt 23. oktober 2021. 
+^ a b c Varma, Subodh (20. januar 2014). «Google eating into Wikipedia page views?». The Economic Times. 
+^ «Alexa Top 500 Global Sites». Alexa Internet. Arkivert fra originalen 3. februar 2021. Besøkt 28. desember 2016. 
+^ Oberhaus, Daniel (5. august 2019). «A Crashed Israeli Lunar Lander Spilled Tardigrades On The Moon». Wired. 
+^ Resnick, Brian (6. august 2019). «Tardigrades, the toughest animals on Earth, have crash-landed on the moon – The tardigrade conquest of the solar system has begun.». Vox. 
+^ Shankland, Stephen (29. juni 2019). «Startup packs all 16GB of Wikipedia onto DNA strands to demonstrate new storage tech – Biological molecules will last a lot longer than the latest computer storage technology, Catalog believes.». CNET. 
+^ wikipedia.org Arkivert 25. august 2020 hos Wayback Machine., fra nettsidene til Alexa Internet
+^ Matt, Chase (9 January 2021). «Wikipedia is 20, and its reputation has never been higher». The Economist. lest 9. januar 2021
+^ McNeil, Donald G. (22. oktober 2020). «Wikipedia and W.H.O. Join to Combat Covid-19 Misinformation». The New York Times., arkivert fra originalen den 27. desember 2020. Hentet 25. oktober 2020
+^ Zittrain, Jonathan (2008). The Future of the Internet and How to Stop It – Chapter 6: The Lessons of Wikipedia. Yale University Press. ISBN 978-0-300-12487-3. Besøkt 26. desember 2008. 
+^ «Wikipedia:Why create an account?». Wikipedia. Besøkt 23. oktober 2021. «Once you have had an account for about 4 days and have made at least 10 edits, you will be allowed to: [...] Start new articles, rename pages, or upload images.» 
+^ «Wikipedia:Protection policy». Wikipedia. Besøkt 23. oktober 2021. «In some circumstances, pages may need to be protected from modification by certain groups of editors. Pages are protected when a specific damaging event has been identified that can not be prevented through other means such as a block. Otherwise, Wikipedia is built on the principle that anyone can edit it, and it therefore aims to have as many of its pages as possible open for public editing so that anyone can add material and correct errors. [...] Protection is a technical restriction applied only by administrators, although any user may request protection. Protection can be indefinite or expire after a specified time. The various levels of protection are detailed below, and they can be applied to the page edit, page move, page create, and file upload actions. Even when a page is protected from editing, the source code (wikitext) of the page can still be viewed and copied by anyone. A protected page is marked at its top right by a padlock icon, usually added by the pp-protected template.» 
+^ Hafner, Katie (17. juni 2006). «Growing Wikipedia Refines Its 'Anyone Can Edit' Policy». The New York Times. 
+^ «Wikipedia:Protection policy». Wikipedia. Besøkt 23. oktober 2021. «Semi-protection prevents the action by unregistered editors and editors with accounts that are not confirmed.» 
+^ «Wikipedia:Protection policy». Wikipedia. Besøkt 23. oktober 2021. «A fully protected page cannot be edited or moved by anyone except administrators. The protection may be for a specified time or may be indefinite.» 
+^ Harrison, Stephen; Benjakob, Omer (14. januar 2021). «Wikipedia is twenty. It's time to start covering it better.». Columbia Journalism Review (engelsk). New York, USA. Besøkt 15. januar 2021. 
+^ a b Birken, P. (14. desember 2008). «Bericht Gesichtete Versionen» (tysk). Wikimedia Foundation. 
+^ Henderson, William (10. desember 2012). «Wikipedia Has Figured Out A New Way To Stop Vandals In Their Tracks». Business Insider. 
+^ Frewin, Jonathan (15. juni 2010). «Wikipedia unlocks divisive pages for editing». BBC News. 
+^ a b Kleinz, Torsten (februar 2005). «World of Knowledge» (PDF). Linux Magazine. Arkivert fra originalen (PDF) 25. september 2007. Besøkt 30. oktober 2021. «The Wikipedia's open structure makes it a target for trolls and vandals who malevolently add incorrect information to articles, get other people tied up in endless discussions, and generally do everything to draw attention to themselves.» 
+^ «Wikipedia:New pages patrol». Wikipedia. Besøkt 23. oktober 2021. 
+^ Ciffolilli, Andrea (desember 2003). «Phantom authority, self-selective recruitment and retention of members in virtual communities: The case of Wikipedia». First Monday. 8 (12). doi:10.5210/fm.v8i12.1108. 
+^ Link Spamming Wikipedia for Profit. 8th Annual Collaboration, Electronic Messaging, Anti-Abuse, and Spam Conference. 2011. doi:10.1145/2030376.2030394. 
+^ «Wikipedia:Vandalisme». Wikipedia. Besøkt 23. oktober 2021. «De vi kaller vandaler er personer som ødelegger artikler eller legger inn ødeleggende tøyseartikler. Som regel regnes ikke personer som «eksperimenterer» med redigeringsknappen (f.eks. ved å legger inn «hei» på slutten av en artikkel) som vandaler, selv om eksperimentet bør fjernes og eksperimentering etter at man har fått advarsel om å gjøre slikt i sandkassen kan regnes som vandalisme.» 
+^ Viégas, Fernanda B.; Wattenberg, Martin; Dave, Kushal (2004). Studying Cooperation and Conflict between Authors with History Flow Visualizations (PDF). Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI). s. 575–582. ISBN 978-1-58113-702-6. doi:10.1145/985921.985953. Arkivert fra originalen (PDF) 25. januar 2006. Besøkt 24. januar 2007. 
+^ Priedhorsky, Reid; Chen, Jilin; Shyong (Tony) K. Lam; Panciera, Katherine; Terveen, Loren; Riedl, John (4. november 2007). «Creating, Destroying, and Restoring Value in Wikipedia» (PDF). Association for Computing Machinery GROUP '07 Conference Proceedings; GroupLens Research, Department of Computer Science and Engineering, University of Minnesota. 
+^ a b c d Seigenthaler, John (29. november 2005). «A False Wikipedia 'biography'». USA Today. 
+^ Friedman, Thomas L. (2007). The World is Flat. Farrar, Straus & Giroux. s. 124. ISBN 978-0-374-29278-2. 
+^ Buchanan, Brian (17. november 2006). «Founder shares cautionary tale of libel in cyberspace». archive.firstamendmentcenter.org. Arkivert fra originalen 21. desember 2012. Besøkt 17. november 2012.  «Arkivert kopi». Arkivert fra originalen 21. desember 2012. Besøkt 23. oktober 2021. 
+^ Helm, Burt (13. desember 2005). «Wikipedia: "A Work in Progress"». BusinessWeek. 
+^ «Your Wikipedia Entries». Tosh.0. 3. februar 2010. Besøkt 9. september 2014. 
+^ «Wikipedia Updates». Tosh.0. 3. februar 2010. Besøkt 9. september 2014. 
+^ «Wikipedia:Dispute resolution». Wikipedia. Besøkt 23. oktober 2021. «If discussion stalemates, editors may seek outside input to help resolve the dispute. Discussions can be advertised to noticeboards and WikiProjects to receive participation from interested uninvolved editors. Mediation can also help in finding a compromise solution. As content decisions on Wikipedia are made through consensus, the final stage in content dispute resolution is a request for comments, where a discussion is advertised to uninvolved editors to receive broad input on the issue.» 
+^ Coldewey, Devin (21. juni 2012). «Wikipedia is editorial warzone, says study». Technology. NBC News. Arkivert fra originalen 22. august 2014. Besøkt 23. oktober 2021. 
+^ Kalyanasundaram, Arun; Wei, Wei; Carley, Kathleen M.; Herbsleb, James D. (desember 2015). «An agent-based model of edit wars in Wikipedia: How and when is consensus reached». 2015 Winter Simulation Conference (WSC). Huntington Beach, CA, USA: IEEE: 276–287. doi:10.1109/WSC.2015.7408171. 
+^ Suh, Bongwon; Convertino, Gregorio; Chi, Ed H.; Pirolli, Peter (2009). «The singularity is not near: slowing growth of Wikipedia». Proceedings of the 5th International Symposium on Wikis and Open Collaboration – WikiSym '09. Orlando, Florida: ACM Press: 1–10. doi:10.1145/1641309.1641322. 
+^ Torres, Nicole (2. juni 2016). «Why Do So Few Women Edit Wikipedia?». Harvard Business Review. ISSN 0017-8012. 
+^ Bear, Julia B.; Collier, Benjamin (mars 2016). «Where are the Women in Wikipedia? Understanding the Different Psychological Experiences of Men and Women in Wikipedia». Sex Roles. 74 (5–6): 254–265. doi:10.1007/s11199-015-0573-y. 
+^ «Who's behind Wikipedia?». PC World. 6. februar 2008. Arkivert fra originalen 9. februar 2008. Besøkt 7. februar 2008. 
+^ «Wikipedia:Policies and guidelines». Wikipedia. Besøkt 24. oktober 2021. 
+^ «Wikipedia:Hva Wikipedia ikke er», hentet 24. oktober 2021. «Wikipedia er ikke en ordbok, eller en språkveileder. Til det har vi søsterprosjektet Wiktionary, som er felles for nynorsk og bokmål.»
+^ «Wikipedia:Notability», hentet 24. oktober 202|. «A topic is presumed to merit an article if: It meets either the general notability guideline (GNG) below, or the criteria outlined in a subject-specific notability guideline (SNG) listed in the box on the right; and It is not excluded under the What Wikipedia is not policy.»
+^ «Wikipedia:No original research». 13. februar 2008. "Wikipedia does not publish original thought."
+^ «Wikipedia:Verifiability», 24. oktober 2021. «All material in Wikipedia mainspace, including everything in articles, lists and captions, must be verifiable. All quotations, and any material whose verifiability has been challenged or is likely to be challenged, must include an inline citation to a reliable source that directly supports the material. Any material that needs a source but does not have one may be removed.»
+^ Cohen, Noam (9. august 2011). «For inclusive mission, Wikipedia is told that written word goes only so far». International Herald Tribune. s. 18.  (Abonnement påkrevet)
+^ «Wikipedia:Nøytralt ståsted». Wikipedia. Besøkt 24. oktober 2021. «En politikk om nøytralt ståsted betyr at alle artikler skal representere alle synspunkt på en rettferdig, proporsjonal og upartisk måte. Nøytralt ståsted blir ofte misforstått. Politikken betyr ikke at man tror det er mulig å skrive en enkel upartisk artikkel, men at man skal følge rettferdig alle partene i en diskusjon, og ikke lage en artikkel som bare taler én sides sak. Rettferdig vil også si at hver side av en sak får omtale som står i sammenheng med utbredelsen av synet. Et syn som kun en liten minoritet hevder, skal ikke ha like stor omtale som majoritetssynet.» 
+^ Sanger, Larry (18. april 2005). «The Early History of Nupedia and Wikipedia: A Memoir». Slashdot. Dice. 
+^ Kostakis, Vasilis (mars 2010). «Identifying and understanding the problems of Wikipedia's peer governance: The case of inclusionists versus deletionists». First Monday. 15 (3). 
+^ «Wikipedia:Ownership of content». Wikipedia. Besøkt 24. oktober 2021. «All Wikipedia pages and articles are edited collaboratively by a community of volunteer contributors. Individual contributors, also called editors, are known as Wikipedians. No one, no matter what, has the right to act as though they are the owner of a particular article (or any part of it). Even a subject of an article, be that a person or organization, does not own the article, nor has any right to dictate what the article may or may not say.» 
+^ «Wikipedia:Brukertyper». Wikipedia. Besøkt 24. oktober 2021. «En bidragsyters tilgang til å utføre visse oppgaver i Wikipedia er definert ved diverse «flagg» knyttet til brukerkontoen. Noen av disse er automatisk tildelt mens andre må gis manuelt. En bruker med et visst flagg blir beskrevet som å være et medlem av det flaggets «brukergruppe», noe som gir dem visse «rettigheter» og tilgang til bruk av visse egenskaper i MediaWiki programvaren.» 
+^ «Wikipedia administrators», fra engelskspråklig Wikipedia, lest 24. oktober 2021
+^ «Wikipedia:Administrators». 3. oktober 2018. Besøkt 12. juli 2009. 
+^ «Wikipedia:RfA_Review/Reflect». 22. januar 2017. Besøkt 24. september 2009. 
+^ Meyer, Robinson (16. juli 2012). «3 Charts That Show How Wikipedia Is Running Out of Admins». The Atlantic. Besøkt 2. september 2012. 
+^ Hoffman, David A.; Mehra, Salil K. (2009). «Wikitruth through Wikiorder». Emory Law Journal. 59 (1): 181. 
+^ Hoffman, David A.; Mehra, Salil K. (2009). «Wikitruth through Wikiorder». Emory Law Journal. 59 (1): 151–210. 
+^ Viégas, Fernanda B.; Wattenberg, Martin M.; Kriss, Jesse; van Ham, Frank (3. januar 2007). «Talk Before You Type: Coordination in Wikipedia» (PDF). Visual Communication Lab, IBM Research. Besøkt 27. juni 2008. 
+^ Arthur, Charles (15. desember 2005). «Log on and join in, but beware the web cults». The Guardian. London. 
+^ Lu Stout, Kristie (4. august 2003). «Wikipedia: The know-it-all Web site». CNN. 
+^ Kriplean, Travis Kriplean; Beschastnikh, Ivan; McDonald, David W. (2008). «Articulations of wikiwork». Articulations of wikiwork: uncovering valued work in Wikipedia through barnstars. Proceedings of the ACM. s. 47. ISBN 978-1-60558-007-4. doi:10.1145/1460563.1460573. 
+^ Goodwin, Jean (2009). «The Authority of Wikipedia» (PDF). Arkivert fra originalen (PDF) 22. november 2009. Besøkt 31. januar 2011. «Wikipedia's commitment to anonymity/pseudonymity thus imposes a sort of epistemic agnosticism on its readers»  «Arkivert kopi» (PDF). Archived from the original on 30. april 2011. Besøkt 30. oktober 2021. CS1-vedlikehold: Uheldig URL (link)
+^ Kittur, Aniket (2007). «Power of the Few vs. Wisdom of the Crowd: Wikipedia and the Rise of the Bourgeoisie». CHI '07: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. Viktoria Institute. 
+^ a b c Blodget, Henry (3. januar 2009). «Who The Hell Writes Wikipedia, Anyway?». Business Insider. 
+^ Wilson, Chris (22. februar 2008). «The Wisdom of the Chaperones». Slate. 
+^ Swartz, Aaron (4. september 2006). «Raw Thought: Who Writes Wikipedia?». Arkivert fra originalen 3. august 2014. Besøkt 23. februar 2008.  «Arkivert kopi». Arkivert fra originalen 3. august 2014. Besøkt 24. oktober 2021. 
+^ a b Goldman, Eric. «Wikipedia's Labor Squeeze and its Consequences». Journal on Telecommunications and High Technology Law. 8. 
+^ Noveck, Beth Simone. «Wikipedia and the Future of Legal Education». Journal of Legal Education. 57. 
+^ «Wikipedia "Good Samaritans" Are on the Money». Scientific American. 19. oktober 2007. 
+^ Amichai-Hamburger, Yair; Lamdan, Naama; Madiel, Rinat; Hayat, Tsahi (2008). «Personality Characteristics of Wikipedia Members». CyberPsychology & Behavior. 11 (6): 679–681. PMID 18954273. doi:10.1089/cpb.2007.0225. 
+^ «Wikipedians are 'closed' and 'disagreeable'». New Scientist. Besøkt 13. juli 2010.  (Abonnement påkrevet)
+^ «The Misunderstood Personality Profile of Wikipedia Members». psychologytoday.com. Besøkt 5. juni 2016. 
+^ Giles, Jim (4. august 2009). «After the boom, is Wikipedia heading for bust?». New Scientist. 
+^ Cohen, Noam. «Define Gender Gap? Look Up Wikipedia's Contributor List». The New York Times. 
+^ «OCAD to 'Storm Wikipedia' this fall». CBC News. 27. august 2013. 
+^ Dimitra Kessenides (26. desember 2017). Bloomberg News Weekly, "Is Wikipedia 'Woke'". s. 73.
+^ a b «The startling numbers behind Africa's Wikipedia knowledge gaps». memeburn.com. 21. juni 2018. 
+^ «Statistics». English Wikipedia. 4. oktober 2018. Besøkt 21. juni 2008. 
+^ «Wikipedia:List of Wikipedias». English Wikipedia. Besøkt 31. oktober 2021. 
+^ Wikipedia page views by language over time (PNG). 8. februar 2021. 
+^ «Spelling». Manual of Style. Wikipedia. 26. september 2018. Besøkt 19. mai 2007. 
+^ «Countering systemic bias». 15. juli 2018. Besøkt 19. mai 2007. 
+^ «Fair use». Meta-Wiki. Besøkt 14. juli 2007. 
+^ «Images on Wikipedia». Besøkt 14. juli 2007. 
+^ Viégas, Fernanda B. (3. januar 2007). «The Visual Side of Wikipedia» (PDF). Visual Communication Lab, IBM Research. 
+^ Jimmy Wales, "Wikipedia is an encyclopedia", 8. mars 2005, <Wikipedia-l@wikimedia.org>
+^ «Meta-Wiki». Wikimedia Foundation. Besøkt 24. mars 2009. 
+^ «Meta-Wiki Statistics». Wikimedia Foundation. Besøkt 24. mars 2008. 
+^ «List of articles every Wikipedia should have». Wikimedia Foundation. Besøkt 24. mars 2008. 
+^ a b Yasseri, Taha; Sumi, Robert; Kertész, János (17. januar 2012). «Circadian Patterns of Wikipedia Editorial Activity: A Demographic Analysis». PLOS One. 7 (1): e30091. Bibcode:2012PLoSO...730091Y. PMC 3260192 . PMID 22272279. arXiv:1109.1746 . doi:10.1371/journal.pone.0030091. 
+^ a b c «The future of Wikipedia: WikiPeaks?». The Economist. 1. mars 2014. 
+^ Andrew Lih. Wikipedia. Alternative edit policies at Wikipedia in other languages.
+^ Jemielniak, Dariusz (22. juni 2014). «The Unbearable Bureaucracy of Wikipedia». Slate. 
+^ Jemielniak, Dariusz (2014). Common Knowledge?: An Ethnography of Wikipedia. Stanford, CA: Stanford University Press. ISBN 9780804791205. 
+^ a b Black, Edwin (19. april 2010). «Wikipedia—The Dumbing Down of World Knowledge». History News Network. Columbian College of Arts and Sciences. 
+^ Messer-Krusse, Timothy (12. februar 2012). «The 'Undue Weight' of Truth on Wikipedia». The Chronicle of Higher Education. 
+^ Colón Aguirre, Mónica; Fleming-May, Rachel A. (november 2012). «"You Just Type in What You Are Looking For": Undergraduates' Use of Library Resources vs. Wikipedia» (PDF). The Journal of Academic Librarianship. Elsevier. 38 (6): 392. doi:10.1016/j.acalib.2012.09.013. 
+^ «Wikipedia experience sparks national debate». BGSU News. Bowling Green State University. 27. februar 2012. 
+^ Kamm, Oliver (16. august 2007). «Wisdom? More like dumbness of the crowds». The Times. Arkivert fra originalen 14. august 2011. Besøkt 24. oktober 2021. 
+^ Petrilli, Michael J. (2008). «Wikipedia or Wickedpedia?». What Next. Education Next. Hoover Institution. 8 (2). 
+^ Benjakob, Omer; Harrison, Stephen (13. oktober 2020). «From Anarchy to Wikiality, Glaring Bias to Good Cop: Press Coverage of Wikipedia's First Two Decades». Wikipedia @ 20: Stories of an Incomplete Revolution (engelsk). MIT Press. ISBN 9780262360593. doi:10.7551/mitpress/12366.003.0005. 
+^ «Plagiarism by Wikipedia editors». Wikipedia Watch. 27. oktober 2006. Arkivert fra originalen 25. november 2009.  Arkivert 20091125064411 hos WebCite
+^ «Wikipedia, Britannica: A Toss-Up». Wired. Associated Press. 15. desember 2005. 
+^ Giles, Jim (desember 2005). «Internet encyclopedias go head to head». Nature. 438 (7070): 900–901. Bibcode:2005Natur.438..900G. PMID 16355180. doi:10.1038/438900a. 
+Note: The study was cited in several news articles; e.g.:
+«Wikipedia survives research test». BBC News. 15. desember 2005. 
+^ Reagle, s. 165–166.
+^ Orlowski, Andrew (16. desember 2005). «Wikipedia science 31% more cronky than Britannica's Excellent for Klingon science, though». The Register. 
+^ Encyclopædia Britannica (mars 2006). «Fatally Flawed: Refuting the recent study on encyclopedic accuracy by the journal Nature» (PDF). 
+^ «Encyclopaedia Britannica and Nature: a response» (PDF). Besøkt 13. juli 2010. 
+^ «Nature's responses to Encyclopaedia Britannica». Nature. 30. mars 2006. Arkivert fra originalen 15. mai 2017. Besøkt 25. februar 2018. 
+^ See author acknowledged comments in response to the citation of the Nature study, at PLoS ONE, 2014, "Citation of fundamentally flawed Nature quality 'study' ", In response to T. Yasseri et al. (2012) Dynamics of Conflicts in Wikipedia, publisert 20. juni 2012, doi:10.1371/journal.pone.0038869, see «Dynamics of Conflicts in Wikipedia». Arkivert fra originalen 16. januar 2016. Besøkt 22. juli 2014.  «Arkivert kopi». Archived from the original on 16. januar 2016. Besøkt 24. oktober 2021. CS1-vedlikehold: Uheldig URL (link), accessed 21. juli 2014.
+^ «Wikipedia:General disclaimer». English Wikipedia. 18. september 2018. Besøkt 22. april 2008. 
+^ «Wikipedia:Generelle forbehold». Wikipedia. Besøkt 25. oktober 2021. «WIKIPEDIA GIR INGEN GARANTI FOR PÅLITELIGHETEN AV INNHOLDET» 
+^ Public Information Research, Wikipedia Watch
+^ Raphel, JR (26. august 2009). «The 15 Biggest Wikipedia Blunders». PC World. Besøkt 2. september 2009. 
+^ Cowen, Tyler (14. mars 2008). «Cooked Books». The New Republic. Arkivert fra originalen 18. mars 2008. Besøkt 24. oktober 2021. 
+^ Stuart, S.C. (3. juni 2021). «Wikipedia: The Most Reliable Source on the Internet?». PCMag (engelsk). 
+^ Schiff, Stacy (31. juli 2006). «Know It All». The New Yorker. 
+^ Boyd, Danah (4. januar 2005). «Academia and Wikipedia». Many 2 Many: A Group Weblog on Social Software. Corante. Arkivert fra originalen 16. mars 2006. Besøkt 18. desember 2008. «[The author, Danah Boyd, describes herself as] an expert on social media[,] [...] a doctoral student in the School of Information at the University of California, Berkeley [,] and a fellow at the Harvard University Berkman Center for Internet & Society [at Harvard Law School.]» 
+^ McHenry, Robert (15. november 2004). «The Faith-Based Encyclopedia». Tech Central Station. Arkivert fra originalen 7. januar 2006. Besøkt 30. oktober 2021. 
+^ «Wikipedia Founder Says Internet Users Are Adrift In The 'Fake News' Era». NPR.org. 
+^ «Toward a New Compendium of Knowledge (longer version)». Citizendium. Arkivert fra originalen 11. oktober 2006. Besøkt 10. oktober 2006. 
+^ a b Elder, Jeff (16. juni 2014). «Wikipedia Strengthens Rules Against Undisclosed Editing». The Wall Street Journal. 
+^ Ahrens, Frank (9. juli 2006). «Death by Wikipedia: The Kenneth Lay Chronicles». The Washington Post. 
+^ Kane, Margaret (30. januar 2006). «Politicians notice Wikipedia». CNET. Arkivert fra originalen 30. juli 2009. Besøkt 28. januar 2007. 
+^ Bergstein, Brian (23. januar 2007). «Microsoft offers cash for Wikipedia edit». NBC News. Besøkt 1. februar 2007. 
+^ Hafner, Katie (19. august 2007). «Lifting Corporate Fingerprints From the Editing of Wikipedia». The New York Times. s. 1. 
+^ a b Colbert, Stephen (30. juli 2006). «Wikiality». 
+^ Cohen, Morris (2010). Legal Research in a Nutshell (10th utg.). St. Paul, Minnesota: Thomson Reuters. s. 32–34. ISBN 978-0-314-26408-4. 
+^ «Wide World of Wikipedia». The Emory Wheel. 21. april 2006. Arkivert fra originalen 13. august 2012. Besøkt 31. oktober 2021. 
+^ Waters, N.L. (2007). «Why you can't cite Wikipedia in my class». Communications of the ACM. 50 (9): 15. doi:10.1145/1284621.1284635. 
+^ Jaschik, Scott (26. januar 2007). «A Stand Against Wikipedia». Inside Higher Ed. Besøkt 27. januar 2007. 
+^ Helm, Burt (14. desember 2005). «Wikipedia: 'A Work in Progress'». Bloomberg BusinessWeek. 
+^ "Jimmy Wales", Biography Resource Center Online. (Gale, 2006.)
+^ Child, Maxwell L. (26. februar 2007). «Professors Split on Wiki Debate». The Harvard Crimson. Cambridge, MA. Arkivert fra originalen 20. desember 2008. Besøkt 24. oktober 2021. 
+^ Chloe Stothart. "Web threatens learning ethos" Arkivert 2012-12-21 hos Wayback Machine The Times Higher Education Supplement, 2007, 1799 (22. juni), s. 2.
+^ «Wikishtetl: Commemorating Jewish Communities that Perished in the Holocaust through the Wikipedia Platform :: Quest CDEC journal». www.quest-cdecjournal.it. 31. juli 2018. Besøkt 15. januar 2020. 
+^ a b Julie Beck. "Doctors' #1 Source for Healthcare Information: Wikipedia". The Atlantic, 5. mars 2014.
+^ a b Beck, Julie (7. mai 2014). «Can Wikipedia Ever Be a Definitive Medical Text?». The Atlantic. 
+^ Anderson, Chris (8. mai 2006). «Jimmy Wales – The 2006 Time 100». Time. 
+^ Kittur, Aniket; Kraut, Robert E. (2008). «Harnessing the wisdom of crowds in Wikipedia: quality through coordination». Proceedings of the 2008 ACM conference on Computer supported cooperative work. New York: ACM. s. 37–46. ISBN 978-1-60558-007-4. doi:10.1145/1460563.1460572. 
+^ a b Rosenzweig, Roy (juni 2006). «Can History be Open Source? Wikipedia and the Future of the Past». The Journal of American History. 93 (1): 117–146. JSTOR 4486062. doi:10.2307/4486062.  (Center for History and New Media.)
+^ Orlowski, Andrew (18. oktober 2005). «Wikipedia founder admits to serious quality problems». The Register. Besøkt 30. september 2007. 
+^ «Cancer information on Wikipedia is accurate, but not very readable, study finds». Science Daily. 2. juni 2010. 
+^ «Fact or fiction? Wikipedia's variety of contributors is not only a strength». The Economist. 10. mars 2007. 
+^ «Wikipedia:Hva Wikipedia ikke er». Wikipedia. Besøkt 25. oktober 2021. 
+^ «The battle for Wikipedia's soul». The Economist. 6. mars 2008. ISSN 0013-0613. 
+^ Douglas, Ian (10. november 2007). «Wikipedia: an online encyclopedia torn apart». The Daily Telegraph. London. 
+^ Taylor, Sophie (5. april 2008). «China allows access to English Wikipedia». Reuters. 
+^ Bruilliard, Karin (21. mai 2010). «Pakistan blocks YouTube a day after shutdown of Facebook over Muhammad issue». The Washington Post. 
+^ a b What's in Wikipedia?: mapping topics and conflict using socially annotated category structure (PDF). CHI. Boston, MA; New York City, NY: Association for Computing Machinery. april 2009. ISBN 978-1-60558-246-7. doi:10.1145/1518701.1518930. 
+^ Petrusich, Amanda (20. oktober 2011). «Wikipedia's Deep Dive Into a Library Collection». The New York Times. 
+^ Lam, Shyong (Tony) K.; Uduwage, Anuradha; Dong, Zhenhua; Sen, Shilad; Musicant, David R.; Terveen, Loren; Riedl, John (3. oktober 2011). «WP: Clubhouse? An Exploration of Wikipedia's Gender Imbalance» (PDF). WikiSym 2011: 4. 
+^ Graham, Mark. «Mapping the Geographies of Wikipedia Content». Zerogeography. Arkivert fra originalen 2. oktober 2016.  «Arkivert kopi». Archived from the original on 2. oktober 2016. Besøkt 24. oktober 2021. CS1-vedlikehold: Uheldig URL (link)
+^ Strohmaier, Markus (6. mars 2017). «KAT50 Society, Culture». Multilingual historical narratives on Wikipedia. GESIS Data Archive. doi:10.7802/1411. «Wikipedia narratives about national histories (i) are skewed towards more recent events (recency bias) and (ii) are distributed unevenly across the continents with significant focus on the history of European countries (Eurocentric bias).» 
+^ «The Guardian view on Wikipedia: evolving truth». The Guardian. 7. august 2014. 
+^ a b Quilter, Laura (24. oktober 2012). «Systemic Bias in Wikipedia: What It Looks Like, and How to Deal with It». University of Massachusetts–Amherst. Besøkt 26. november 2012. 
+^ «Edit Wars Reveal The 10 Most Controversial Topics on Wikipedia». MIT Technology Review. Cambridge, MA: Massachusetts Institute of Technology. 17. juli 2013. 
+^ a b c Yasseri, Taha; Spoerri, Anselm; Graham, Mark; Kertész, János (2014). The Most Controversial Topics in Wikipedia: A Multilingual and Geographical Analysis. Scarecrow Press. arXiv:1305.5566 . doi:10.2139/SSRN.2269392. 
+^ 
+Manipulation among the arbiters of collective intelligence: How Wikipedia administrators mold public opinion. San Francisco, California: ACM. 1. november 2013. ISBN 978-1-4503-2263-8. doi:10.1145/2505515.2505566. 
+^ Das, Sanmay; Allen, Lavoie; Malik, Magdon-Ismail (24. desember 2016). «Manipulation among the arbiters of collective intelligence: How Wikipedia administrators mold public opinion». ACM Transactions on the Web. 10 (4): 24. doi:10.1145/3001937. 
+^ Metz, Cade (7. desember 2008). «Brit ISPs censor Wikipedia over 'child porn' album cover». The Register. 
+^ «Wikipedia rejects child porn accusation». The Sydney Morning Herald. 29. april 2010. 
+^ Farrell, Nick (29. april 2010). «Wikipedia denies child abuse allegations: Co-founder grassed the outfit to the FBI». The Inquirer. Arkivert fra originalen 1. mai 2010. Besøkt 24. oktober 2021. 
+^ a b Metz, Cade (9. april 2010). «Wikifounder reports Wikiparent to FBI over 'child porn'». The Register. 
+^ «Wikipedia blasts co-founder's accusations of child porn on website». The Economic Times. India. 29. april 2010. 
+^ a b Agence France-Presse (29. april 2010). «Wikipedia rejects child porn accusation». The Sydney Morning Herald. 
+^ «Wikimedia pornography row deepens as Wales cedes rights». BBC News. 10. mai 2010. 
+^ Gray, Lila (17. september 2013). «Wikipedia Gives Porn a Break». XBIZ.com. Arkivert fra originalen 16. juni 2017. Besøkt 24. oktober 2021. 
+^ McStay, Andrew (2014). Privacy and Philosophy: New Media and Affective Protocol. Digital Formation. 86. Peter Lang. ISBN 978-1-4541-9163-6. doi:10.3726/978-1-4539-1336-9. 
+^ Kleinz, Torsten (2. september 2006). «Gericht weist einstweilige Verfügung gegen Wikimedia Deutschland ab [Update]». Heise Online (tysk). Heinz Heise. 
+^ «IT Service Management Software». OTRS.com. Arkivert fra originalen 30. oktober 2013. Besøkt 9. juni 2012. 
+^ Paling, Emma (21. oktober 2015). «Wikipedia's Hostility to Women». The Atlantic. Besøkt 24. oktober 2015. 
+^ Auerbach, David (11. desember 2014). «Encyclopedia Frown». Slate. 
+^ «In UK, rising chorus of outrage over online misogyny». Christian Science Monitor. august 2013. 
+^ Kueppers, Courtney; Journal-Constitution, The Atlanta. «High Museum to host virtual Wikipedia edit-a-thon to boost entries about women». ajc (engelsk). Besøkt 24. oktober 2020. 
+^ Julia B. Bear & Benjamin Collier (4. januar 2016). «Where are the Women in Wikipedia ? - Understanding the Different Psychological Experiences of Men and Women in Wikipedia». Sex Roles. Springer Science. 74 (5–6): 254–265. doi:10.1007/s11199-015-0573-y. 
+^ «Wikimedia Foundation – Financial Statements – June 30, 2011 and 2010» (PDF). Wikimedia Foundation. Besøkt 5. juni 2016. 
+^ «Full year financial statements (Audited by KPMG)» (PDF). Wikimedia Foundation. Besøkt 28. oktober 2021. 
+^ «Press releases/WMF announces new ED Lila Tretikov». Wikimedia Foundation. 31. mai 2018. Besøkt 14. juni 2014. 
+^ a b Jeff Elder, The Wall Street Journal, 1. mai 2014, "Wikipedia's New Chief: From Soviet Union to World's Sixth-Largest Site".
+^ a b Cohen, Noam (1. mai 2014). «Media: Open-Source Software Specialist Selected as Executive Director of Wikipedia». The New York Times. 
+^ Dimitra Kessenides. Bloomberg News Weekly. 26. desember 2016. "Is Wikipedia 'Woke'".
+^ Dimitra Kessenides. Bloomberg News Weekly. 26. desember 2016, s. 74. "Is Wikipedia 'Woke'".
+^ Bergsma, Mark. «Wikimedia Architecture» (PDF). Wikimedia Foundation. Arkivert fra originalen (PDF) 3. mars 2009. Besøkt 27. juni 2008.  «Arkivert kopi» (PDF). Arkivert fra originalen (PDF) 3. mars 2009. Besøkt 28. oktober 2021. 
+^ «Version: Installed extensions». 18. september 2018. Besøkt 18. august 2014. 
+^ Snow, Michael (29. desember 2016). «Lucene search: Internal search function returns to service». Wikimedia Foundation. Besøkt 26. februar 2009. 
+^ Vibber, Brion. «[Wikitech-l] Lucene search». Besøkt 26. februar 2009. 
+^ «Extension:CirrusSearch - MediaWiki». MediaWiki.org (engelsk). Besøkt 10. april 2021. 
+^ Protalinski, Emil (2. juli 2013). «Wikimedia rolls out WYSIWYG visual editor for logged-in users accessing Wikipedia articles in English». TNW | Insider. 
+^ Curtis, Sophie (23. juli 2013). «Wikipedia introduces new features to entice editors». The Daily Telegraph. 
+^ L. M. (13. desember 2011). «Changes at Wikipedia: Seeing things». The Economist. 
+^ Parfeni, Lucian (2. juli 2013). «Wikipedia's New VisualEditor Is the Best Update in Years and You Can Make It Better». Softpedia. Besøkt 30. juli 2013. 
+^ a b Orlowski, Andrew (1. august 2013). «Wikipedians say no to Jimmy's 'buggy' WYSIWYG editor». The Register. Besøkt 18. august 2013. 
+^ «Wikipedia:Roboter». Wikipedia. Besøkt 28. oktober 2021. 
+^ a b Nasaw, Daniel (24. juli 2012). «Meet the 'bots' that edit Wikipedia». BBC News. 
+^ Halliday, Josh (26. juli 2012). «Boot up: The Wikipedia vandalism police, Apple analysts, and more». The Guardian. 
+^ Jervell, Ellen Emmerentze (13. juli 2014). «For This Author, 10,000 Wikipedia Articles Is a Good Day's Work». The Wall Street Journal. 
+^ «Wikipedia signpost: Abuse Filter is enabled». English Wikipedia. 23. mars 2009. Besøkt 13. juli 2010. 
+^ «MH17 Wikipedia entry edited from Russian government IP address». Al Jazeera. 21. juli 2014. Arkivert fra originalen 16. november 2016. Besøkt 22. juli 2014.  «Arkivert kopi». Archived from the original on 16. november 2016. Besøkt 28. oktober 2021. CS1-vedlikehold: Uheldig URL (link)
+^ «Wikipedia:Roboter», fra Wikipedia, offisiell retningslinje
+^ Andrew Lih (2009). The Wikipedia Revolution, kapittelet «Then came the Bots», s. 99–106.
+^ «Varnish at Wikipedia», «Basically, Wikipedia has a multitiered Varnish stack to handle on average 100,000 incoming requests per second.»
+^ "Monthly request statistics", Wikimedia. Retrieved October 31, 2008.
+^ «Varnish – Wikitech». wikitech.wikimedia.org. Besøkt 12. mai 2019. 
+^ Guido Urdaneta, Guillaume Pierre and Maarten van Steen. «Wikipedia Workload Analysis for Decentralized Hosting». Elsevier Computer Networks 53 (11), pp. 1830–1845, juni 2009. Arkivert fra originalen 6. mai 2016. Besøkt 5. juni 2016. 
+^ «Debian - Wikitech». wikitech.wikimedia.org (engelsk). Besøkt 9. april 2021. 
+^ «Server roles at wikitech.wikimedia.org». Arkivert fra originalen 16. januar 2013. Besøkt 8. desember 2009. 
+^ Palmier, Guillaume (19. januar 2013). «Wikimedia sites to move to primary data center in Ashburn, Virginia». WMF. Besøkt 5. juni 2016. 
+^ Verge, Jason (14. januar 2013). «It's Official: Ashburn is Wikipedia's New Home». Data Center Knowledge. Besøkt 5. juni 2016. 
+^ «⚓ T156028 Name Asia Cache DC site». Wikimedia Phabricator. Besøkt 12. mai 2019. 
+^ Scherer, Frederic M. (2009). Industrial Market Structure and Economic Performance. Academy for Entrepreneurial Leadership Historical Research Reference in Entrepreneurship, University of Illinois at Urbana–Champaign. 
+^ a b c Patents, Citations, and Innovations, by Adam B. Jaffe, Manuel Trajtenberg, pp. 89–153.
+^ Cohen, Noam (5. mars 2007). «A Contributor to Wikipedia Has His Fictional Side». The New York Times. 
+^ Orlowitz, Jake (2018). «The Wikipedia Library : the biggest encyclopedia needs a digital library and we are building it». JLIS.IT. 9 (3). doi:10.4403/jlis.it-12505. 
+^ The British Newspaper Archive (18. juli 2014). «Working with Wikipedia to bring history facts to light». blog.britishnewspaperarchive.co.uk. 
+^ Hall, Sam (24. januar 2020). «ICE Publishing partners with The Wikipedia Library». ICE Virtual LIbrary (engelsk). Besøkt 26. oktober 2021. 
+^ «Wikipedia:Copyrights». Wikipedia. Besøkt 31. oktober 2021. 
+^ Vermeir, Walter (2007). «Resolution:License update». Wikizine. Besøkt 4. desember 2007. 
+^ «Wikipedia:Licensing update». Wikipedia. Besøkt 29. oktober 2021. 
+^ Wikimedia
+^ «Licensing update/Questions and Answers». Wikimedia Meta. Wikimedia Foundation. Besøkt 15. februar 2009. 
+^ «Licensing_update/Timeline». Wikimedia Meta. Wikimedia Foundation. Besøkt 5. april 2009. 
+^ «Wikimedia community approves license migration». Wikimedia Foundation. Besøkt 21. mai 2009. 
+^ Cohen, Noam (19. juli 2009). «Wikipedia May Be a Font of Facts, but It's a Desert for Photos». The New York Times. 
+^ «Wikipedia cleared in French defamation case». Reuters. 2. november 2007. 
+^ Anderson, Nate (2. mai 2008). «Dumb idea: suing Wikipedia for calling you "dumb"». Ars Technica. Besøkt 4. mai 2008. 
+^ «Researching With Bing Reference». Arkivert fra originalen 23. oktober 2010. Besøkt 9. september 2014. 
+^ "Wikipedia on DVD" Arkivert 3. juni 2013 hos Wayback Machine. Arkivert 2013-06-03 hos Wayback Machine Linterweb. hentet 1. juni 2007. "Linterweb is authorized to make a commercial use of the Wikipedia trademark restricted to the selling of the Encyclopedia CDs and DVDs".
+^ "Wikipedia 0.5 Available on a CD-ROM" Arkivert 3. mai 2013 hos Wayback Machine. Arkivert 2013-05-03 hos Wayback Machine Wikipedia on DVD. Linterweb. "The DVD or CD-ROM version 0.5 was commercially available for purchase." hentet 1. juni 2007.
+^ «Polish Wikipedia on DVD». Besøkt 26. desember 2008. 
+^ «Wikipedia:DVD». 31. juli 2018. Besøkt 26. desember 2008. 
+^ «CDPedia (Python Argentina)». Arkivert fra originalen 2. juli 2011. Besøkt 7. juli 2011. 
+^ «Wikipedia:Wikipedia CD Selection». Wikipedia. Besøkt 31. oktober 2021. 
+^ «Wikipedia turned into book». The Daily Telegraph. London. 16. juni 2009. 
+^ «Wikipedia Selection for Schools». Arkivert fra originalen 4. august 2012. Besøkt 14. juli 2012. 
+^ Thiel, Thomas (27. september 2010). «Wikipedia und Amazon: Der Marketplace soll es richten». Frankfurter Allgemeine Zeitung (tysk). Frankfurter Allgemeine Zeitung. Arkivert fra originalen 26. november 2010. Besøkt 6. desember 2010. 
+^ «Wikipedia:Database download». Wikipedia. Besøkt 31. oktober 2021. 
+^ Data dumps: Downloading Images, Meta-Wiki
+^ Harald Brombach (18. mars 2021). «Vil at storbrukerne skal betale for Wikipedia-innholdet». digi.no. Besøkt 29. oktober 2021. «Nå planlegger WMF å kreve betaling fra noen, nemlig de store kommersielle selskapene, som gjenbruker blant annet Wikipedia-innholdet i sine egne tjenester. Facebook, Google, Apple og Amazon er blant disse. I løpet av året skal WMF lansere Wikimedia Enterprise, som mot betaling skal tilby utviklerverktøy og tjenester som skal gjøre det enklere for virksomheter å bruke eller gjenbruke stiftelsens data. Dette vil være et supplement til det Wikimedia tilbyr av dataeksporttjenester i dag.» 
+^ «Wikipedia Reference Desk». Besøkt 9. september 2014. 
+^ Stone, Brad (27. juni 2014). «How Google's Android chief, Sundar Pichai, became the most powerful man in mobile». Bloomberg BusinessWeek (30. juni 2014). New York City. s. 47–51. 
+^ «Wikipedia – Android Apps on Google Play». Play.Google.com. Besøkt 21. august 2014. 
+^ «Wikipedia Mobile on the App Store on iTunes». iTunes.Apple.com. 4. august 2014. Besøkt 21. august 2014. 
+^ «Wikimedia Mobile is Officially Launched». Wikimedia Technical Blog. 30. juni 2009. Arkivert fra originalen 9. juli 2009. Besøkt 22. juli 2009. 
+^ «Local Points Of Interest In Wikipedia». 15. mai 2011. Arkivert fra originalen 1. juni 2011. Besøkt 15. mai 2011. 
+^ «iPhone Gems: Wikipedia Apps». 30. november 2008. Besøkt 22. juli 2008. 
+^ Ellis, Justin (17. januar 2013). «Wikipedia plans to expand mobile access around the globe with new funding». NiemanLab. Nieman Journalism Lab. Besøkt 22. april 2013. 
+^ «Building for the future of Wikimedia with a new approach to partnerships – Wikimedia Diff». Wikimedia Foundation. 16. februar 2018. Besøkt 12. mai 2019. 
+^ Lih, Andrew (20. juni 2015). «Can Wikipedia Survive?». 
+^ Brown, Andrew (25. juni 2015). «Wikipedia editors are a dying breed. The reason? Mobile». The Guardian. 
+^ Skipper, Ben (7. desember 2015). «China's government has blocked Wikipedia in its entirety again». International Business Times UK. 
+^ Fox-Brewster, Thomas (22. mai 2015). «Wikipedia Disturbed Over Fresh China Censorship». Forbes. 
+^ «Chinese Wikipedia Blocked by Great Firewall». China Digital Times (CDT). 20. mai 2015. Arkivert fra originalen 4. mai 2017. Besøkt 4. mai 2017. 
+^ «The Wikimedia Foundation Turns On HTTPS By Default Across All Sites, Including Wikipedia». TechCrunch (engelsk). Arkivert fra originalen 24. august 2020. Besøkt 3. juni 2020. 
+^ Huang, Echo. «China is making an official version of Wikipedia» (engelsk). 
+^ Cohen, Noam (7. april 2018). «Conspiracy videos? Fake news? Enter Wikipedia, the 'good cop' of the Internet». The Washington Post. 
+^ «The top 500 sites on the web». Alexa. Arkivert fra originalen 3. februar 2021. Besøkt 13. juni 2020. 
+^ «Why China Blocked Wikipedia in All Languages». Slate. 21. mai 2019. Besøkt 30. oktober 2021. «The Chinese government has long been suspicious of Wikipedia. It’s been blocked in China intermittently since 2004, and the Chinese-language version has been blocked since June 2015. Now the government has gone even further. The Wikimedia Foundation released a statement on Friday announcing that it had determined that China blocked all versions of Wikipedia.» 
+^ «Wikipedia:Modelling Wikipedia's growth». 31. juli 2018. Besøkt 22. desember 2007. 
+^ «694 Million People Currently Use the Internet Worldwide According To comScore Networks». comScore. 4. mai 2006. Arkivert fra originalen 30. juli 2008. Besøkt 16. desember 2007. «Wikipedia has emerged as a site that continues to increase in popularity, both globally and in the US» 
+^ «Google Traffic To Wikipedia up 166% Year over Year». Hitwise. 16. februar 2007. Arkivert fra originalen 14. desember 2007. Besøkt 22. desember 2007. 
+^ «Wikipedia and Academic Research». Hitwise. 17. oktober 2006. Arkivert fra originalen 29. oktober 2006. Besøkt 6. februar 2008.  «Arkivert kopi». Arkivert fra originalen 29. oktober 2006. Besøkt 31. oktober 2021. 
+^ West, Stuart. «Wikipedia's Evolving Impact: slideshow presentation at TED2010» (PDF). Besøkt 23. oktober 2015. 
+^ Rainie, Lee; Tancer, Bill (15. desember 2007). «Wikipedia users» (PDF). Pew Internet & American Life Project. Pew Research Center. Arkivert fra originalen (PDF) 6. mars 2008. Besøkt 15. desember 2007. «36% of online American adults consult Wikipedia. It is particularly popular with the well-educated and current college-age students.»  «Arkivert kopi» (PDF). Arkivert fra originalen (PDF) 6. mars 2008. Besøkt 31. oktober 2021. 
+^ SAI (7. oktober 2011). «The World's Most Valuable Startups». Business Insider. Besøkt 14. juni 2014. 
+^ «Research: Wikipedia Readership Survey 2011/Results – Meta». Wikimedia. 6. februar 2012. Besøkt 16. april 2014. 
+^ Jahangir, Ramsha (23. april 2020). «Wikipedia breaks five-year record with high traffic in pandemic» (engelsk). 
+^ «Wikipedia:Wikipedia in the media». Wikipedia. 4. juli 2018. Besøkt 26. desember 2008. 
+^ «Bourgeois et al. v. Peters et al.» (PDF). Arkivert fra originalen (PDF) 3. februar 2007. Besøkt 6. februar 2007. 
+^ Sharma, Raghav (8. februar 2009). «Wikipedian Justice». doi:10.2139/ssrn.1346311. 
+^ «House Government Bill C-38 (38–1)». LEGISinfo. Arkivert fra originalen 8. november 2014. Besøkt 9. september 2014. 
+^ Arias, Martha L. (29. januar 2007). «Wikipedia: The Free Online Encyclopedia and its Use as Court Source». Internet Business Law Services. Arkivert fra originalen 20. mai 2012. Besøkt 31. oktober 2021.  (The name "World Intellectual Property Office" should however read "World Intellectual Property Organization" in this source.)
+^ Cohen, Noam (29. januar 2007). «Courts Turn to Wikipedia, but Selectively». The New York Times. 
+^ Aftergood, Steven (21. mars 2007). «The Wikipedia Factor in US Intelligence». Federation of American Scientists Project on Government Secrecy. Besøkt 14. april 2007. 
+^ Butler, Declan (16. desember 2008). «Publish in Wikipedia or perish». Nature News. doi:10.1038/news.2008.1312. 
+^ Shaw, Donna (februar–mars 2008). «Wikipedia in the Newsroom». American Journalism Review. Arkivert fra originalen 5. august 2012. Besøkt 29. oktober 2021. 
+^ Lexington (24. september 2011). «Classlessness in America: The uses and abuses of an enduring myth». The Economist. «Socialist Labour Party of America [...] though it can trace its history as far back as 1876, when it was known as the Workingmen's Party, no less an authority than Wikipedia pronounces it "moribund".» 
+^ «Shizuoka newspaper plagiarized Wikipedia article». Japan News Review. 5. juli 2007. Arkivert fra originalen 12. mars 2014. Besøkt 29. oktober 2021. 
+^ «Express-News staffer resigns after plagiarism in column is discovered». Arkivert fra originalen 15. oktober 2007. Besøkt 31. januar 2007.  «Arkivert kopi». Archived from the original on 15. oktober 2007. Besøkt 29. oktober 2021. CS1-vedlikehold: Uheldig URL (link), San Antonio Express-News, 9. januar 2007.
+^ Bridgewater, Frank. «Inquiry prompts reporter's dismissal». Honolulu Star-Bulletin. Besøkt 9. september 2014. 
+^ Grossman, Lev (13. desember 2006). «Time's Person of the Year: You». Time. 
+^ Hugo Lauritz Jenssen (11. februar 2022). «Gudmund Hernes: – Er jeg en angrende synder? Nei, det er jeg ikke». Dagens Næringsliv, Magasinet. Besøkt 14. februar 2022. «Wikipedia er bedre enn sitt rykte. Det skal man egentlig ikke si hvis man er akademiker. Men jeg bruker Wikipedia uhemmet.» 
+^ «Radio 4 documentary, BBC». 2007. Arkivert fra originalen 4. september 2017. Besøkt 24. april 2016. 
+^ «Comunicato Stampa. On. Franco Grillini. Wikipedia. Interrogazione a Rutelli. Con "diritto di panorama" promuovere arte e architettura contemporanea italiana. Rivedere con urgenza legge copyright» (italiensk). 12. oktober 2007. Arkivert fra originalen 30. mars 2009. Besøkt 26. desember 2008.  «Arkivert kopi». Archived from the original on 30. mars 2009. Besøkt 29. oktober 2021. CS1-vedlikehold: Uheldig URL (link)
+^ Jose Antonio Vargas (17. september 2007). «On Wikipedia, Debating 2008 Hopefuls' Every Facet». The Washington Post. 
+^ Ablan, Jennifer (22. oktober 2007). «Wikipedia page the latest status symbol». Reuters. 
+^ Witzleb, Normann (2009). «Engaging with the World: Students of Comparative Law Write for Wikipedia». Legal Education Review. 19 (1 and 2): 83–98. 
+^ «AI Research Trends». One Hundred Year Study on Artificial Intelligence (AI100). Stanford University. Besøkt 3. september 2016. 
+^ Derakhshan, Hossein (19. oktober 2017). «How Social Media Endangers Knowledge». Business. Wired. Condé Nast. ISSN 1059-1028. 
+^ «Trophy shelf». Wikipedia. Besøkt 31. oktober 2021. 
+^ «Webby Awards 2004». The International Academy of Digital Arts and Sciences. 2004. Arkivert fra originalen 22. juli 2011. Besøkt 29. oktober 2021. 
+^ Zumpano, Anthony (29. januar 2007). «Similar Search Results: Google Wins». Interbrand. Arkivert fra originalen 20. februar 2007. Besøkt 29. oktober 2021. 
+^ «Die Quadriga – Award 2008». Arkivert fra originalen 15. september 2008. Besøkt 26. desember 2008.  «Arkivert kopi». Arkivert fra originalen 15. september 2008. Besøkt 29. oktober 2021. 
+^ «Erasmus Prize – Praemium Erasmianum». Praemium Erasmianum Foundation. Besøkt 15. januar 2015. 
+^ «Premio Princesa de Asturias de Cooperación Internacional 2015». Fundación Princesa de Asturias. Besøkt 17. juni 2015. 
+^ «Los fundadores de Wikipedia destacan la versión en asturiano». La Nueva España (spansk). 
+^ «Wikipedia Celebrates 750 Years Of American Independence». The Onion. 26. juli 2006. Besøkt 15. oktober 2006. 
+^ «'L.A. Law' Wikipedia Page Viewed 874 Times Today». The Onion. 24. november 2010. 
+^ «The Office: The Negotiation, 3.19». 5. april 2007. Besøkt 27. desember 2014. 
+^ «'Office' fans, inspired by Michael Scott, flock to edit Wikipedia». USA Today. 12. april 2007. 
+^ Bakken, Janae. "My Number One Doctor"; Scrubs; American Broadcasting Company; 6. desember 2007.
+^ «Dilbert comic strip for 05/08/2009 from the official Dilbert comic strips archive». Universal Uclick. 8. mai 2009. Besøkt 10. mars 2013. 
+^ «Announcement of Wiktionary's creation». meta.wikimedia.org. Besøkt 14. juli 2012. 
+^ «Wikimedia Projects». Wikimedia. Besøkt 31. oktober 2021. 
+^ Bosman, Julie (13. mars 2012). «After 244 Years, Encyclopaedia Britannica Stops the Presses». The New York Times. Besøkt 26. januar 2015. 
+^ «Encyclopedia Britannica Dies At The Hands Of Wikipedia, Gizmocrazed.com (with statista infographic from NYTimes.com)». Gizmocrazed.com. 20. mars 2012. Besøkt 14. juni 2014. 
+^ Christopher Caldwell (journalist) (14. juni 2013). «A chapter in the Enlightenment closes». ft.com. «Bertelsmann did not resort to euphemism this week when it announced the end of the Brockhaus encyclopedia brand. Brockhaus had been publishing reference books for two centuries when the media group bought it in 2008. [...] The internet has finished off Brockhaus altogether. [...] What Germans like is Wikipedia.» 
+^ «The amorality of Web 2.0». Rough Type. 2. oktober 2005. Besøkt 15. juli 2006. 
+^ «Technical solutions: Wisdom of the crowds». Nature. Besøkt 10. oktober 2006. 
+^ Flood, Alison (7. februar 2013). «Alison Flood: Should traditional biography be buried alongside Shakespeare's breakfast?». The Guardian. 
+^ Wikify!: linking documents to encyclopedic knowledge (PDF). ACM Conference on Information and Knowledge Management. Lisbon; New York City, NY: Association for Computing Machinery. november 2007. ISBN 978-1-59593-803-9. doi:10.1145/1321440.1321475. 
+^ Learning to Link with Wikipedia (PDF). ACM Conference on Information and Knowledge Management. Napa Valley, CA; New York City, NY: Association for Computing Machinery. oktober 2008. ISBN 978-1-59593-991-3. doi:10.1145/1458082.1458150. 
+^ Discovering missing links in Wikipedia (PDF). ACM LinkKDD. Chicago, IL; New York City, NY: Association for Computing Machinery. august 2005. ISBN 978-1-59593-135-1. doi:10.1145/1134271.1134284. 
+^ «Wikipedia-Mining Algorithm Reveals World's Most Influential Universities: An algorithm's list of the most influential universities contains some surprising entries». MIT Technology Review. 7. desember 2015. Arkivert fra originalen 1. februar 2016. Besøkt 29. oktober 2021. 
+^ Marmow Shaw, Jessica (10. desember 2015). «Harvard is only the 3rd most influential university in the world, according to this list». MarketWatch. 
+^ a b Bothwell, Ellie (15. desember 2015). «Wikipedia Ranking of World Universities: the top 100. List ranks institutions by search engine results and Wikipedia appearances». Times Higher Education. 
+^ Lages, J.; Patt, A.; Shepelyansky, D. (2016). «Wikipedia ranking of world universities». Eur. Phys. J. B. 89 (69): 69. Bibcode:2016EPJB...89...69L. arXiv:1511.09021 . doi:10.1140/epjb/e2016-60922-0. 
+^ Coquidé, C.; Lages, J.; Shepelyansky, D.L. (2019). «World influence and interactions of universities from Wikipedia networks.». Eur. Phys. J. B. 92 (3): 3. Bibcode:2019EPJB...92....3C. arXiv:1809.00332 . doi:10.1140/epjb/e2018-90532-7. 
+^ Brookshire, Bethany (5. februar 2018). «Wikipedia has become a science reference source even though scientists don't cite it». SciCurious. ScienceNews. 
+^ Thompson, Neil C.; Hanley, Douglas (2017). «Science Is Shaped by Wikipedia: Evidence From a Randomized Control Trial». 
+^ Building automated vandalism detection tools for Wikidata. International Conference on World Wide Web Companion. Perth, Australia; New York City, NY: Association for Computing Machinery. april 2017. ISBN 978-1-4503-4914-7. doi:10.1145/3041021.3053366. 
+^ Automatic Vandalism Detection in Wikipedia. 30th ECIR. 4956. Glasgow, UK: Springer. 2008. ISBN 978-3-540-78645-0. doi:10.1007/978-3-540-78646-7_75. 
+^ Asthana, Sumit; Halfaker, Aaron (november 2018).  Lampe, Cliff, red. «With Few Eyes, All Hoaxes are Deep». Proceedings of the ACM on Human-Computer Interaction. New York City, NY: Association for Computing Machinery. 2 (CSCW). 21. doi:10.1145/3274290. 
+^ Heart Internet. «Website discussing the emulator of the Domesday Project User Interface». Arkivert fra originalen 17. mai 2014. Besøkt 9. september 2014. 
+^ Frauenfelder, Mark (21. november 2000). «The next generation of online encyclopedias». 
+^ The Free Encyclopedia Project gnu.org ( Arkivert 2012-01-03 hos WebCite)
+^ Orlowski, Andrew (18. september 2006). «Wikipedia founder forks Wikipedia, More experts, less fiddling?». The Register. «Larry Sanger describes the Citizendium project as a "progressive or gradual fork", with the major difference that experts have the final say over edits.» 
+^ Lyman, Jay (30. september 2006). «Wikipedia Co-Founder Planning New Expert-Authored Site». LinuxInsider. 
+Eksterne lenker
+(mul) Offisielt nettsted 
+(en) Wikipedia – kategori av bilder, video eller lyd på Commons 
+(en) Wikipedia – galleri av bilder, video eller lyd på Commons 
+«Wikipedia», fra den britiske avisen The Guardian
+vdrNorskspråklige leksikaKonversasjonsleksika
+Arbeidernes Leksikon (1932–1936)
+Aschehoug og Gyldendals Store norske leksikon (1978–2007)
+Allkunne (2009–2022)
+Aschehougs (1907–1975)
+Caplex (1990–2011)
+Gyldendals  (1933–1972)
+Hjemmets store leksikon (1985)
+Illustreret norsk konversationsleksikon (1907–1913)
+Media (1977–87)
+Norsk Allkunnebok (1948–1964)
+Norsk Haandlexikon for almennyttige Kundskaber (1881–1888)
+Norsk Lomme-Konversations-Lexikon (1891)
+Nyco konversasjonsleksikon (1935)
+Store norske leksikon (2000–)
+Tidens Leksikon (1975–1976)
+Wikipedia (2001–)
+Essayistiske leksika
+Familieboken (1937)
+PaxLeksikon (1976–1982)
+Fagleksika
+Litteraturvitenskapelig leksikon
+Matematikkleksikon
+Norsk biografisk leksikon
+Norsk historisk leksikon
+Norsk kunstnerleksikon
+Norsk stadnamnleksikon
+Cappelens musikkleksikon
+Arkitekturleksikon
+Lokale leksika
+Arendal byleksikon
+Asker og Bærum leksikon
+Bergen byleksikon
+Drammen byleksikon
+Fredrikstad byleksikon
+Molde byleksikon
+Moss byleksikon
+Oslo byleksikon
+Ringerike by- og bygdeleksikon
+Trondheim byleksikon
+vdrWikimedia-prosjekter
+Wikibøker
+Wikidata
+Wikifunctions
+Wikimedia Commons
+Wikinytt
+Wikipedia
+Wikiquote
+Wikikilden
+Wikispecies
+Wikiversity
+Wikivoyage
+Wiktionary
+Oppslagsverk/autoritetsdataStore norske leksikon · Store Danske Encyklopædi · Encyclopædia Britannica · Brockhaus Enzyklopädie · Nationalencyklopedin · BIBSYS · VIAF · VIAF · OCLC · GND · LCCN · ISNI · BNF · BNF · BNF (data) · BNF (data) · SUDOC · SUDOC · NKC · NKC · BBC Things
+Hentet fra «https://no.wikipedia.org/w/index.php?title=Wikipedia&oldid=23718326»
+Kategorier: WikiNettleksikaInformasjonssystemerWikimedia-prosjekterTeleskopordEtableringer i 2001Mottakere av Free Software Award for Projects of Social Benefit (FSF)ErasmusprisenSkjulte kategorier: CS1-vedlikehold: Uheldig URLSider med Webarchive-mal som lenker til Wayback MachineSider med Webarchive-mal som lenker til WebCiteWikipedia semibeskyttede siderSider med referanser fra utsagnArtikler med offisielle lenker fra WikidataArtikler med autoritetsdatalenker fra Wikidata
+Navigasjonsmeny
+Personlig
+Ikke logget innBrukerdiskusjonBidragOpprett kontoLogg inn
+Navnerom
+ArtikkelDiskusjon
+norsk bokmål
+Visninger
+LesVis kildeVis historikk
+Mer
+Søk
+Navigasjon
+ForsideSvaksynteUtmerkede artiklerHjelpSiste endringer
+Prosjekt
+StilmanualProsjektportalTingetTorgetNybegynnerforumNotiserKonkurranserTilfeldig side
+Wikipedia
+Kontakt WikipediaDonerWikimedia Norge
+Eksterne søk
+Lager
+På andre prosjekter
+Wikimedia CommonsMeta-Wiki
+Skriv ut/eksporter
+Last ned som PDFUtskriftsvennlig versjon
+Verktøy
+Lenker hitRelaterte endringerSpesialsiderPermanent lenkeSideinformasjonSiter denne sidenWikidata-element
+På andre språk
+Norsk nynorskDanskSvenskaFøroysktÍslenskaAcèhАдыгабзэAfrikaansAlemannischአማርኛAnarâškielâअंगिकाÆngliscАԥсшәаالعربيةAragonésܐܪܡܝܐԱրեւմտահայերէնArmãneashtiArpetanঅসমীয়াAsturianuAtikamekwअवधीAvañe'ẽАварAymar aruAzərbaycancaتۆرکجهBasa BaliBamanankanবাংলাBanjarBân-lâm-gúBasa BanyumasanБашҡортсаБеларускаяБеларуская (тарашкевіца)भोजपुरीBikol CentralBislamaБългарскиBoarischབོད་ཡིགBosanskiBrezhonegБуряадCatalàЧӑвашлаCebuanoČeštinaChamoruChavacano de ZamboangaChi-ChewaChiShonaChiTumbukaCorsuCymraegDagbanliالدارجةDavvisámegiellaDeitschDeutschދިވެހިބަސްDolnoserbskiडोटेलीEestiΕλληνικάEmiliàn e rumagnòlEnglishЭрзяньEspañolEsperantoEstremeñuEuskaraفارسیFrançaisFryskFulfuldeFurlanGaeilgeGaelgGagauzGàidhligGalegoГӀалгӀай贛語Gĩkũyũگیلکیગુજરાતી𐌲𐌿𐍄𐌹𐍃𐌺गोंयची कोंकणी / Gõychi KonknniGungbe客家語/Hak-kâ-ngîХальмг한국어HausaHawaiʻiՀայերենहिन्दीHornjoserbsceHrvatskiBahasa HulontaloIdoIgboIlokanoবিষ্ণুপ্রিয়া মণিপুরীBahasa IndonesiaInterlinguaInterlingueᐃᓄᒃᑎᑐᑦ / inuktitutIñupiatunИронIsiXhosaIsiZuluItalianoעבריתJawaKabɩyɛKalaallisutಕನ್ನಡKapampanganКъарачай-малкъарქართულიकॉशुर / کٲشُرKaszëbscziҚазақшаKernowekKiswahiliKreyòl ayisyenKriyòl gwiyannenKurdîКыргызчаКырык марыLadinLadinoЛаккуລາວLatgaļuLatinaLatviešuLëtzebuergeschЛезгиLietuviųLigureLimburgsLingálaLingua Franca NovaLivvinkarjalaLa .lojban.LugandaLombardMagyarMadhurâमैथिलीМакедонскиMalagasyമലയാളംMaltiMāoriमराठीმარგალურიمصرىဘာသာ မန်مازِرونیBahasa Melayuꯃꯤꯇꯩ ꯂꯣꯟMfantseMinangkabau閩東語 / Mìng-dĕ̤ng-ngṳ̄MirandésМокшеньМонголမြန်မာဘာသာNāhuatlNaijáNa Vosa VakavitiNederlandsNedersaksiesनेपालीनेपाल भाषा日本語NapulitanoߒߞߏНохчийнNordfriiskNorfuk / PitkernNouormandNovialOccitanОлык марийଓଡ଼ିଆOshiwamboOʻzbekcha / ўзбекчаਪੰਜਾਬੀपालिPälzischPangasinanپنجابیပအိုဝ်ႏဘာႏသာႏPapiamentuپښتوPatoisПерем комиភាសាខ្មែរPicardPiemontèisTok PisinPlattdüütschPolskiΠοντιακάPortuguêsQaraqalpaqshaQırımtatarcaReo tahitiRipoarischRomânăRomani čhibRumantschRuna SimiРусиньскыйРусскийСаха тылаSakizayaGagana Samoaसंस्कृतम्SängöᱥᱟᱱᱛᱟᱲᱤSarduScotsSeelterskSesotho sa LeboaSetswanaShqipSicilianuසිංහලSimple EnglishسنڌيSiSwatiSlovenčinaSlovenščinaСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟŚlůnskiSoomaaligaکوردیSranantongoСрпски / srpskiSrpskohrvatski / српскохрватскиSundaSuomiTagalogதமிழ்TaclḥitTaqbaylitTarandíneТатарча / tatarçaၽႃႇသႃႇတႆး తెలుగుTetunไทยትግርኛТоҷикӣᏣᎳᎩTsetsêhestâheseTshivendaತುಳುTürkçeTürkmençeTwiTyapТыва дылУдмуртBasa UgiУкраїнськаاردوئۇيغۇرچە / UyghurcheVahcuenghVènetoVepsän kel’Tiếng ViệtVolapükVõroWalonWayuunaiki文言West-VlamsWinarayWolof吴语XitsongaייִדישYorùbá粵語ZazakiZeêuwsŽemaitėška中文Ghanaian PidginTolışi
+Rediger lenker
+ Denne siden ble sist redigert 26. jul. 2023 kl. 13:41.
+Innholdet er tilgjengelig under Creative Commons-lisensen Navngivelse-DelPåSammeVilkår, men ytterligere betingelser kan gjelde. Se bruksvilkårene for detaljer.
+Personvern
+Om Wikipedia
+Forbehold
+Atferdsnorm
+Mobilvisning
+Utviklere
+Statistikk
+Erklæring om informasjonskapsler

@@ -1,0 +1,541 @@
+capital - Wikidata
+capital
+(Q8137)
+From Wikidata
+Jump to navigation
+Jump to search
+assets used for the production of goods and services
+edit
+Language
+Label
+Description
+Also known as
+English
+capital
+assets used for the production of goods and services
+Statements
+instance of
+economic concept
+0 references
+subclass of
+instrumental value
+0 references
+described by source
+Armenian Soviet Encyclopedia
+volume
+5
+page(s)
+254
+1 reference
+imported from Wikimedia project
+Armenian Wikipedia
+Brockhaus and Efron Encyclopedic Dictionary
+statement is subject of
+Q24434454
+0 references
+Brockhaus and Efron Encyclopedic Dictionary
+statement is subject of
+Q24434457
+0 references
+Lean Logic: A Dictionary for the Future and How to Survive It
+described at URL
+https://leanlogic.online/glossary/capital
+0 references
+Brockhaus and Efron Encyclopedic Dictionary
+statement is subject of
+Q24434438
+0 references
+Small Brockhaus and Efron Encyclopedic Dictionary
+statement is subject of
+Q24760322
+0 references
+Encyclopædia Britannica 11th edition
+statement is subject of
+1911 Encyclopædia Britannica/Capital
+0 references
+on focus list of Wikimedia project
+Wikipedia:List of articles all languages should have
+0 references
+Wikipedia:Vital articles/Level/4
+point in time
+31 October 2022
+0 references
+different from
+financial capital
+1 reference
+imported from Wikimedia project
+English Wikipedia
+Wikimedia import URL
+https://en.wikipedia.org/w/index.php?title=Capital_(economics)&oldid=948665926
+Commons category
+Capital (economics)
+1 reference
+inferred from
+Category:Capital (economics)
+topic's main template
+Template:Types of capital
+1 reference
+inferred from
+Template:Types of capital
+topic's main category
+Category:Capital (economics)
+1 reference
+imported from Wikimedia project
+Ukrainian Wikipedia
+Identifiers
+Biblioteca Nacional de España ID
+XX526039
+2 references
+reference URL
+http://datos.bne.es/tema/XX526039.html
+stated in
+Spain open data portal
+title
+Registros de autoridad de "Materia" de la Biblioteca Nacional de España (Spanish)
+reference URL
+https://www.bne.es/media/datosgob/catalogo-autoridades/materia/materia-UTF8.zip
+retrieved
+21 July 2023
+Bibliothèque nationale de France ID
+11976667p
+0 references
+GND ID
+4029560-6
+1 reference
+imported from Wikimedia project
+German Wikipedia
+National Library of Israel J9U ID
+987007283347705171
+1 reference
+stated in
+National Library of Israel
+Library of Congress authority ID
+sh85019929
+0 references
+NDL Authority ID
+00570915
+0 references
+NL CR AUT ID
+ph121445
+subject named as
+kapitál
+0 references
+Art & Architecture Thesaurus ID
+300138242
+0 references
+ASC Leiden Thesaurus ID
+294903399
+1 reference
+stated in
+ASC Leiden Thesaurus dataset of 5 June 2018
+retrieved
+13 June 2018
+Australian Educational Vocabulary ID
+scot/1845
+0 references
+BabelNet ID
+00015496n
+1 reference
+stated in
+BabelNet
+BNCF Thesaurus ID
+6729
+0 references
+Den Store Danske ID
+kapital
+0 references
+Encyclopædia Universalis ID
+capital-sociologie
+0 references
+Freebase ID
+/m/018s5w
+1 reference
+stated in
+Freebase Data Dumps
+publication date
+28 October 2013
+French Vikidia ID
+Capital
+0 references
+Google Knowledge Graph ID
+/g/1233863h
+0 references
+Gran Enciclopèdia Catalana ID
+0088201
+0 references
+Great Russian Encyclopedia Online ID (old version)
+2042974
+subject named as
+КАПИТАЛ
+0 references
+KBpedia ID
+Capital
+1 reference
+stated in
+KBpedia
+retrieved
+9 July 2020
+Krugosvet article
+gumanitarnye_nauki/ekonomika_i_pravo/KAPITAL.html
+0 references
+Microsoft Academic ID
+91760546
+0 references
+NALT ID
+21994
+0 references
+Online PWN Encyclopedia ID
+3920041
+0 references
+OpenAlex ID
+C2991741723
+1 reference
+stated in
+OpenAlex
+retrieved
+26 January 2022
+reference URL
+https://docs.openalex.org/download-snapshot/snapshot-data-format
+C2993232446
+1 reference
+stated in
+OpenAlex
+retrieved
+26 January 2022
+reference URL
+https://docs.openalex.org/download-snapshot/snapshot-data-format
+C2993879009
+1 reference
+stated in
+OpenAlex
+retrieved
+26 January 2022
+reference URL
+https://docs.openalex.org/download-snapshot/snapshot-data-format
+PSH ID
+1411
+0 references
+Quora topic ID
+Capital-economics
+1 reference
+stated in
+Quora
+Store norske leksikon ID
+kapital
+0 references
+STW Thesaurus for Economics ID
+10120-5
+mapping relation type
+exact match
+0 references
+UK Parliament thesaurus ID
+90436
+subject named as
+Capital
+0 references
+UNBIS Thesaurus ID
+1000798
+0 references
+UNESCO Thesaurus ID
+concept4616
+0 references
+YSO ID
+6249
+0 references
+Zhihu topic ID
+19587691
+subject named as
+资本
+0 references
+ 
+Sitelinks
+Wikipedia(111 entries)
+edit
+afwiki
+Kapitaal (ekonomie)
+alswiki
+Kapital
+amwiki
+ሙአለ ንዋይ
+anwiki
+Capital (economía)
+arwiki
+رأس مال
+arzwiki
+راس مال
+astwiki
+Capital (economía)
+aswiki
+মূলধন (অৰ্থনীতি)
+azbwiki
+سرمایه
+azwiki
+Sərmayə
+bat_smgwiki
+Kapėtals
+bawiki
+Капитал
+be_x_oldwiki
+Капітал
+bewiki
+Капітал
+bgwiki
+Капитал
+bnwiki
+পুঁজি
+brwiki
+Kevala
+bswiki
+Kapital
+cawiki
+Capital (economia)
+cewiki
+Капитал
+cswiki
+Kapitál
+cywiki
+Cyfalaf
+dawiki
+Kapital
+dewiki
+Kapital
+diqwiki
+Kapital
+elwiki
+Κεφάλαιο (οικονομικά)
+enwiki
+Capital (economics)
+eowiki
+Kapitalo
+eswiki
+Capital (economía)
+etwiki
+Kapital
+euwiki
+Kapital (ekoizpen-faktorea)
+fawiki
+سرمایه
+fiwiki
+Pääoma (taloustiede)
+frwiki
+Capital
+glwiki
+Capital (economía)
+hewiki
+הון
+hifwiki
+Punji
+hiwiki
+पूँजी
+hrwiki
+Kapital
+huwiki
+Tőke (közgazdaságtan)
+hywiki
+Կապիտալ
+idwiki
+Modal
+ilowiki
+Puonan (ekonomika)
+iowiki
+Kapitalo
+iswiki
+Höfuðstóll
+itwiki
+Capitale (economia)
+jawiki
+資本
+jvwiki
+Modal
+kawiki
+კაპიტალი (ეკონომიკა)
+kkwiki
+Капитал
+knwiki
+ಬಂಡವಾಳ
+kowiki
+자본
+krcwiki
+Капитал
+kuwiki
+Sermaye
+kywiki
+Капитал
+lawiki
+Capitale
+lbwiki
+Kapital
+liwiki
+Kapitaal
+lmowiki
+Capital (economia)
+lowiki
+ທຶນ
+ltwiki
+Kapitalas
+lvwiki
+Kapitāls
+mgwiki
+Mason-karena
+mkwiki
+Капитал
+mlwiki
+മൂലധനം
+mnwiki
+Капитал
+mrwiki
+भांडवल
+mswiki
+Modal
+mywiki
+အရင်းအနှီး
+nlwiki
+Kapitaal (economie)
+nnwiki
+Kapital
+nowiki
+Kapital
+ocwiki
+Capital (economia)
+pawiki
+ਸਰਮਾਇਆ
+plwiki
+Kapitał (ekonomia)
+pmswiki
+Capital
+pnbwiki
+کیپیٹل
+pswiki
+پانگه
+ptwiki
+Capital (economia)
+rowiki
+Capital (economie)
+ruewiki
+Капітал
+ruwiki
+Капитал
+sahwiki
+Капитал
+scnwiki
+Capitali (econumìa)
+shwiki
+Kapital
+simplewiki
+Capital (economics)
+skwiki
+Kapitál (výrobný faktor)
+slwiki
+Kapital
+sqwiki
+Kapitali
+srwiki
+Капитал
+suwiki
+Modal
+svwiki
+Kapital
+swwiki
+Rasilmali
+tawiki
+மூலதனம்
+tgwiki
+Сармоя
+thwiki
+ทุน
+tlwiki
+Kapital (ekonomika)
+trwiki
+Sermaye
+ttwiki
+Капитал
+ukwiki
+Капітал
+urwiki
+سرمایہ
+uzwiki
+Kapital
+vecwiki
+Capitałe (economia)
+viwiki
+Tư bản
+warwiki
+Kapital (ekonomika)
+wuuwiki
+资本
+yiwiki
+קאפיטאל
+zh_classicalwiki
+資本
+zh_min_nanwiki
+Chu-pún
+zh_yuewiki
+資本
+zhwiki
+资本
+Wikibooks(0 entries)
+edit
+Wikinews(0 entries)
+edit
+Wikiquote(10 entries)
+edit
+dewikiquote
+Kapital
+enwikiquote
+Capital
+eowikiquote
+Kapitalo
+etwikiquote
+Kapital
+frwikiquote
+Capital
+itwikiquote
+Capitale (economia)
+skwikiquote
+Kapitál
+trwikiquote
+Sermaye
+ukwikiquote
+Капітал
+zhwikiquote
+资本
+Wikisource(0 entries)
+edit
+Wikiversity(0 entries)
+edit
+Wikivoyage(0 entries)
+edit
+Wiktionary(0 entries)
+edit
+Multilingual sites(0 entries)
+edit
+Retrieved from "https://www.wikidata.org/w/index.php?title=Q8137&oldid=1942889375"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+ItemDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 30 July 2023, at 12:02.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

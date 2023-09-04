@@ -1,0 +1,765 @@
+ 
+        Sentences in Ido - Tatoeba    
+ 
+menu
+Tatoeba
+language
+Browse expand_more
+Show random sentence
+Browse by language
+Browse by list
+Browse by tag
+Browse audio
+Community expand_more
+Wall
+List of all members
+Languages of members
+Native speakers
+    Register    
+        Log in    
+ 
+language 
+    English 
+menu
+Tatoeba
+chevron_right
+                    Register                    
+chevron_right
+                    Log in                    
+Browse
+chevron_right
+                            Show random sentence                            
+chevron_right
+                            Browse by language                            
+chevron_right
+                            Browse by list                            
+chevron_right
+                            Browse by tag                            
+chevron_right
+                            Browse audio                            
+Community
+chevron_right
+                            Wall                            
+chevron_right
+                            List of all members                            
+chevron_right
+                            Languages of members                            
+chevron_right
+                            Native speakers                            
+search
+ 
+HelpAdvanced search 
+                                Search            
+clear
+From
+swap_horiz
+                                To            
+search
+Sentences in:
+Show translations in:
+            NOTE: Both direct and indirect translations will be shown.            
+Sentences in Ido (10,703 results)
+            Only the last 1,000 sentences are displayed here.            
+keyboard_arrow_left1234567…100keyboard_arrow_right 
+warning
+Your sentence was not added because the following already exists.
+unfold_more
+Show unreviewed transcriptions
+unfold_less
+Hide unreviewed transcriptions
+                    Sentence #{{vm.sentence.id}} — belongs to {{vm.sentence.user.username}} 
+                    Sentence #{{vm.sentence.id}} 
+{{vm.sentence.furigana.info_message}}
+{{vm.sentence.text}}
+                    star
+                    
+                        This sentence belongs to a native speaker.                    
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+ 
+Translations
+Unlink this translation
+link
+Make into direct translation
+chevron_right
+{{translation.furigana.info_message}}
+{{translation.text}}
+            Existing sentence #{{::translation.id}} has been added as a translation.        
+edit
+            Edit this translation        
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+Translations of translations
+Unlink this translation
+link
+Make into direct translation
+chevron_right
+{{translation.furigana.info_message}}
+{{translation.text}}
+            Existing sentence #{{::translation.id}} has been added as a translation.        
+edit
+            Edit this translation        
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+{{vm.expandableIcon}}
+                {{vm.sentence.expandLabel}}
+            
+                Fewer translations            
+warning
+Your sentence was not added because the following already exists.
+unfold_more
+Show unreviewed transcriptions
+unfold_less
+Hide unreviewed transcriptions
+                    Sentence #{{vm.sentence.id}} — belongs to {{vm.sentence.user.username}} 
+                    Sentence #{{vm.sentence.id}} 
+{{vm.sentence.furigana.info_message}}
+{{vm.sentence.text}}
+                    star
+                    
+                        This sentence belongs to a native speaker.                    
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+ 
+Translations
+Unlink this translation
+link
+Make into direct translation
+chevron_right
+{{translation.furigana.info_message}}
+{{translation.text}}
+            Existing sentence #{{::translation.id}} has been added as a translation.        
+edit
+            Edit this translation        
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+Translations of translations
+Unlink this translation
+link
+Make into direct translation
+chevron_right
+{{translation.furigana.info_message}}
+{{translation.text}}
+            Existing sentence #{{::translation.id}} has been added as a translation.        
+edit
+            Edit this translation        
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+{{vm.expandableIcon}}
+                {{vm.sentence.expandLabel}}
+            
+                Fewer translations            
+warning
+Your sentence was not added because the following already exists.
+unfold_more
+Show unreviewed transcriptions
+unfold_less
+Hide unreviewed transcriptions
+                    Sentence #{{vm.sentence.id}} — belongs to {{vm.sentence.user.username}} 
+                    Sentence #{{vm.sentence.id}} 
+{{vm.sentence.furigana.info_message}}
+{{vm.sentence.text}}
+                    star
+                    
+                        This sentence belongs to a native speaker.                    
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+ 
+Translations
+Unlink this translation
+link
+Make into direct translation
+chevron_right
+{{translation.furigana.info_message}}
+{{translation.text}}
+            Existing sentence #{{::translation.id}} has been added as a translation.        
+edit
+            Edit this translation        
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+Translations of translations
+Unlink this translation
+link
+Make into direct translation
+chevron_right
+{{translation.furigana.info_message}}
+{{translation.text}}
+            Existing sentence #{{::translation.id}} has been added as a translation.        
+edit
+            Edit this translation        
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+{{vm.expandableIcon}}
+                {{vm.sentence.expandLabel}}
+            
+                Fewer translations            
+warning
+Your sentence was not added because the following already exists.
+unfold_more
+Show unreviewed transcriptions
+unfold_less
+Hide unreviewed transcriptions
+                    Sentence #{{vm.sentence.id}} — belongs to {{vm.sentence.user.username}} 
+                    Sentence #{{vm.sentence.id}} 
+{{vm.sentence.furigana.info_message}}
+{{vm.sentence.text}}
+                    star
+                    
+                        This sentence belongs to a native speaker.                    
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+ 
+Translations
+Unlink this translation
+link
+Make into direct translation
+chevron_right
+{{translation.furigana.info_message}}
+{{translation.text}}
+            Existing sentence #{{::translation.id}} has been added as a translation.        
+edit
+            Edit this translation        
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+Translations of translations
+Unlink this translation
+link
+Make into direct translation
+chevron_right
+{{translation.furigana.info_message}}
+{{translation.text}}
+            Existing sentence #{{::translation.id}} has been added as a translation.        
+edit
+            Edit this translation        
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+{{vm.expandableIcon}}
+                {{vm.sentence.expandLabel}}
+            
+                Fewer translations            
+warning
+Your sentence was not added because the following already exists.
+unfold_more
+Show unreviewed transcriptions
+unfold_less
+Hide unreviewed transcriptions
+                    Sentence #{{vm.sentence.id}} — belongs to {{vm.sentence.user.username}} 
+                    Sentence #{{vm.sentence.id}} 
+{{vm.sentence.furigana.info_message}}
+{{vm.sentence.text}}
+                    star
+                    
+                        This sentence belongs to a native speaker.                    
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+ 
+Translations
+Unlink this translation
+link
+Make into direct translation
+chevron_right
+{{translation.furigana.info_message}}
+{{translation.text}}
+            Existing sentence #{{::translation.id}} has been added as a translation.        
+edit
+            Edit this translation        
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+Translations of translations
+Unlink this translation
+link
+Make into direct translation
+chevron_right
+{{translation.furigana.info_message}}
+{{translation.text}}
+            Existing sentence #{{::translation.id}} has been added as a translation.        
+edit
+            Edit this translation        
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+{{vm.expandableIcon}}
+                {{vm.sentence.expandLabel}}
+            
+                Fewer translations            
+warning
+Your sentence was not added because the following already exists.
+unfold_more
+Show unreviewed transcriptions
+unfold_less
+Hide unreviewed transcriptions
+                    Sentence #{{vm.sentence.id}} — belongs to {{vm.sentence.user.username}} 
+                    Sentence #{{vm.sentence.id}} 
+{{vm.sentence.furigana.info_message}}
+{{vm.sentence.text}}
+                    star
+                    
+                        This sentence belongs to a native speaker.                    
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+ 
+Translations
+Unlink this translation
+link
+Make into direct translation
+chevron_right
+{{translation.furigana.info_message}}
+{{translation.text}}
+            Existing sentence #{{::translation.id}} has been added as a translation.        
+edit
+            Edit this translation        
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+Translations of translations
+Unlink this translation
+link
+Make into direct translation
+chevron_right
+{{translation.furigana.info_message}}
+{{translation.text}}
+            Existing sentence #{{::translation.id}} has been added as a translation.        
+edit
+            Edit this translation        
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+{{vm.expandableIcon}}
+                {{vm.sentence.expandLabel}}
+            
+                Fewer translations            
+warning
+Your sentence was not added because the following already exists.
+unfold_more
+Show unreviewed transcriptions
+unfold_less
+Hide unreviewed transcriptions
+                    Sentence #{{vm.sentence.id}} — belongs to {{vm.sentence.user.username}} 
+                    Sentence #{{vm.sentence.id}} 
+{{vm.sentence.furigana.info_message}}
+{{vm.sentence.text}}
+                    star
+                    
+                        This sentence belongs to a native speaker.                    
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+ 
+Translations
+Unlink this translation
+link
+Make into direct translation
+chevron_right
+{{translation.furigana.info_message}}
+{{translation.text}}
+            Existing sentence #{{::translation.id}} has been added as a translation.        
+edit
+            Edit this translation        
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+Translations of translations
+Unlink this translation
+link
+Make into direct translation
+chevron_right
+{{translation.furigana.info_message}}
+{{translation.text}}
+            Existing sentence #{{::translation.id}} has been added as a translation.        
+edit
+            Edit this translation        
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+{{vm.expandableIcon}}
+                {{vm.sentence.expandLabel}}
+            
+                Fewer translations            
+warning
+Your sentence was not added because the following already exists.
+unfold_more
+Show unreviewed transcriptions
+unfold_less
+Hide unreviewed transcriptions
+                    Sentence #{{vm.sentence.id}} — belongs to {{vm.sentence.user.username}} 
+                    Sentence #{{vm.sentence.id}} 
+{{vm.sentence.furigana.info_message}}
+{{vm.sentence.text}}
+                    star
+                    
+                        This sentence belongs to a native speaker.                    
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+ 
+Translations
+Unlink this translation
+link
+Make into direct translation
+chevron_right
+{{translation.furigana.info_message}}
+{{translation.text}}
+            Existing sentence #{{::translation.id}} has been added as a translation.        
+edit
+            Edit this translation        
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+Translations of translations
+Unlink this translation
+link
+Make into direct translation
+chevron_right
+{{translation.furigana.info_message}}
+{{translation.text}}
+            Existing sentence #{{::translation.id}} has been added as a translation.        
+edit
+            Edit this translation        
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+{{vm.expandableIcon}}
+                {{vm.sentence.expandLabel}}
+            
+                Fewer translations            
+warning
+Your sentence was not added because the following already exists.
+unfold_more
+Show unreviewed transcriptions
+unfold_less
+Hide unreviewed transcriptions
+                    Sentence #{{vm.sentence.id}} — belongs to {{vm.sentence.user.username}} 
+                    Sentence #{{vm.sentence.id}} 
+{{vm.sentence.furigana.info_message}}
+{{vm.sentence.text}}
+                    star
+                    
+                        This sentence belongs to a native speaker.                    
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+ 
+Translations
+Unlink this translation
+link
+Make into direct translation
+chevron_right
+{{translation.furigana.info_message}}
+{{translation.text}}
+            Existing sentence #{{::translation.id}} has been added as a translation.        
+edit
+            Edit this translation        
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+Translations of translations
+Unlink this translation
+link
+Make into direct translation
+chevron_right
+{{translation.furigana.info_message}}
+{{translation.text}}
+            Existing sentence #{{::translation.id}} has been added as a translation.        
+edit
+            Edit this translation        
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+{{vm.expandableIcon}}
+                {{vm.sentence.expandLabel}}
+            
+                Fewer translations            
+warning
+Your sentence was not added because the following already exists.
+unfold_more
+Show unreviewed transcriptions
+unfold_less
+Hide unreviewed transcriptions
+                    Sentence #{{vm.sentence.id}} — belongs to {{vm.sentence.user.username}} 
+                    Sentence #{{vm.sentence.id}} 
+{{vm.sentence.furigana.info_message}}
+{{vm.sentence.text}}
+                    star
+                    
+                        This sentence belongs to a native speaker.                    
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+ 
+Translations
+Unlink this translation
+link
+Make into direct translation
+chevron_right
+{{translation.furigana.info_message}}
+{{translation.text}}
+            Existing sentence #{{::translation.id}} has been added as a translation.        
+edit
+            Edit this translation        
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+Translations of translations
+Unlink this translation
+link
+Make into direct translation
+chevron_right
+{{translation.furigana.info_message}}
+{{translation.text}}
+            Existing sentence #{{::translation.id}} has been added as a translation.        
+edit
+            Edit this translation        
+warning
+        This sentence is not reliable.    
+content_copy
+Copy sentence
+info
+Go to sentence page
+ 
+subdirectory_arrow_right
+warning
+{{transcription.info_message}}
+{{vm.expandableIcon}}
+                {{vm.sentence.expandLabel}}
+            
+                Fewer translations            
+keyboard_arrow_left1234567…100keyboard_arrow_right 
+language 
+    English 
+Need some help?
+Quick Start Guide 
+Tatoeba Wiki 
+FAQ 
+Help 
+Developers
+Downloads 
+GitHub 
+Google group 
+About
+What is Tatoeba? 
+Contact us 
+Status 
+Terms of use 
+Blog 
+Twitter 
+Facebook 
+            Our data is released under various Creative Commons licenses.More information 
+            If you love this content, please consider a donation.        

@@ -1,0 +1,120 @@
+Legal Entity Identifier - Wikidata
+Legal Entity Identifier
+(Q6517388)
+From Wikidata
+Jump to navigation
+Jump to search
+20-digit, alpha-numeric reference string to uniquely identify a legally distinct entityGlobal Legal Entity IdentifierLEILEI codeLEI number
+edit
+Language
+Label
+Description
+Also known as
+English
+Legal Entity Identifier
+20-digit, alpha-numeric reference string to uniquely identify a legally distinct entity
+Global Legal Entity IdentifierLEILEI codeLEI number
+Statements
+instance of
+organization identifier
+0 references
+unique identifier
+0 references
+short name
+LEI (English)
+0 references
+Wikidata property
+Legal Entity Identifier
+0 references
+format as a regular expression
+[0-9A-Z]{18}[0-9]{2}
+syntax clarification
+20-digit, alpha-numeric string (English)
+0 references
+Identifiers
+Freebase ID
+/m/0gj8p8x
+0 references
+Quora topic ID
+Legal-Entity
+0 references
+ 
+Sitelinks
+Wikipedia(15 entries)
+edit
+cswiki
+Legal Entity Identifier
+dewiki
+Legal Entity Identifier
+enwiki
+Legal Entity Identifier
+eswiki
+Identificador de Entidad Legal
+etwiki
+LEI kood
+fiwiki
+LEI-tunnus
+frwiki
+Legal entity identifier
+itwiki
+Legal Entity Identifier
+jawiki
+取引主体識別子
+nlwiki
+Legal Entity Identifier
+nowiki
+Global Legal Entity Identifier
+ptwiki
+Identificador de Entidade Jurídica
+ruwiki
+Код идентификации юридических лиц LEI
+slwiki
+Identifikator pravnih subjektov
+svwiki
+Legal Entity Identifier
+Wikibooks(0 entries)
+edit
+Wikinews(0 entries)
+edit
+Wikiquote(0 entries)
+edit
+Wikisource(0 entries)
+edit
+Wikiversity(0 entries)
+edit
+Wikivoyage(0 entries)
+edit
+Wiktionary(0 entries)
+edit
+Multilingual sites(0 entries)
+edit
+Retrieved from "https://www.wikidata.org/w/index.php?title=Q6517388&oldid=1934538591"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+ItemDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 14 July 2023, at 19:23.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

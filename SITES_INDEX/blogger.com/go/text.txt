@@ -1,0 +1,171 @@
+Introduction  |  Blogger  |  Google for Developers
+    
+          Blogger
+        
+  
+English
+Bahasa Indonesia
+Deutsch
+Español
+Español – América Latina
+Français
+Italiano
+Polski
+Português – Brasil
+Tiếng Việt
+Türkçe
+Русский
+עברית
+العربيّة
+فارسی
+हिंदी
+বাংলা
+ภาษาไทย
+中文 – 简体
+中文 – 繁體
+日本語
+한국어
+Sign in
+    Guides
+  
+    
+    Reference
+  
+    
+    Samples
+  
+    
+    
+          Blogger
+        
+  
+      Guides
+   
+      Reference
+   
+      Samples
+   
+Introduction
+API v3.0
+Getting StartedUsing the APIPerformance Tips
+API v2.0
+Developer's GuideProtocol.NETJavaReference Guide
+API v1.0
+Developer's GuideProtocol.NETJavaJavaScriptPHPPython
+    
+        Home
+      
+  
+    
+        Products
+      
+  
+    
+        Blogger
+      
+  
+Introduction
+          
+          Stay organized with collections
+        
+          
+          Save and categorize content based on your preferences.
+        
+The Blogger API v3 allows client applications to view and update Blogger
+      content. Your client application can use Blogger API v3 to create new
+      blog posts, edit or delete existing posts, and query for posts that match
+      particular criteria.
+Here are some of the things you can do with the Blogger API v3:
+Add a running list of blog posts, pages and comments to a non-Blogger
+        hosted site.
+Create browser based applications and mobile apps that enable people
+        to create and manage their posts from where ever they are.
+Create a desktop application or plugin that allows users to create and
+        edit posts from the desktop.
+How do I start?
+If you're new to the Blogger API v3, here's how we recommend you get
+      started:
+Read about getting started
+        with Blogger API v3.
+Read through using the Blogger API
+        v3.
+Refer to the Reference Guide
+        as needed.
+Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License, and code samples are licensed under the Apache 2.0 License. For details, see the Google Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
+Last updated 2022-11-04 UTC.
+          
+        
+        Blogger Buzz
+      
+The Official Buzz from Blogger at Google
+Tools
+            
+              
+              
+            
+          
+            Client Libraries
+          
+          
+Connect
+            
+          
+            Help Forum
+          
+          
+            
+              
+              
+            
+          
+            Developer Blog
+          
+          
+More
+            
+              
+              
+            
+          
+            Terms of Service
+          
+          
+          Android
+        
+          Chrome
+        
+          Firebase
+        
+          Google Cloud Platform
+        
+          All products
+        
+          Terms
+        
+          Privacy
+        
+Sign up for the Google for Developers newsletter
+          Subscribe
+        
+English
+Bahasa Indonesia
+Deutsch
+Español
+Español – América Latina
+Français
+Italiano
+Polski
+Português – Brasil
+Tiếng Việt
+Türkçe
+Русский
+עברית
+العربيّة
+فارسی
+हिंदी
+বাংলা
+ภาษาไทย
+中文 – 简体
+中文 – 繁體
+日本語
+한국어

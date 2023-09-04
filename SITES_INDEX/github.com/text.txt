@@ -1,0 +1,368 @@
+alpheios-project · GitHub
+Skip to content
+Toggle navigation
+            Sign up
+          
+ 
+alpheios-project
+        Product
+        
+Actions
+        Automate any workflow
+      
+Packages
+        Host and manage packages
+      
+Security
+        Find and fix vulnerabilities
+      
+Codespaces
+        Instant dev environments
+      
+Copilot
+        Write better code with AI
+      
+Code review
+        Manage code changes
+      
+Issues
+        Plan and track work
+      
+Discussions
+        Collaborate outside of code
+      
+Explore
+      All features
+    
+      Documentation
+    
+      GitHub Skills
+    
+      Blog
+    
+        Solutions
+        
+For
+      Enterprise
+    
+      Teams
+    
+      Startups
+    
+      Education
+    
+By Solution
+      CI/CD & Automation
+    
+      DevOps
+    
+      DevSecOps
+    
+Resources
+      Customer Stories
+    
+      White papers, Ebooks, Webinars
+    
+      Partners
+    
+        Open Source
+        
+GitHub Sponsors
+        Fund open source developers
+      
+The ReadME Project
+        GitHub community articles
+      
+Repositories
+      Topics
+    
+      Trending
+    
+      Collections
+    
+Pricing
+Search or jump to...
+Search code, repositories, users, issues, pull requests...
+ 
+        Search
+      
+Clear
+ 
+ 
+              Search syntax tips
+ 
+        Provide feedback
+      
+ 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+     Cancel
+    Submit feedback
+        Saved searches
+      
+Use saved searches to filter your results more quickly
+ 
+Name
+Query
+            To see all available qualifiers, see our documentation.
+          
+ 
+     Cancel
+    Create saved search
+              Sign in
+            
+              Sign up
+            
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.
+You switched accounts on another tab or window. Reload to refresh your session.
+ 
+ Dismiss alert
+          alpheios-project
+        
+9
+                    followers
+ 
+http://alpheios.net
+support@alpheios.net
+ 
+      Sponsor
+    
+    Overview
+  
+    Repositories
+      
+    Projects
+      
+    Packages
+  
+    People
+      
+ 
+More
+Overview
+Repositories
+Projects
+Packages
+People
+ 
+ 
+        Pinned
+    
+webextension
+Public
+        Alpheios Browser Extensions
+      
+JavaScript
+            6
+          
+            2
+          
+embed-lib
+Public
+        Alpheios Embedded Library
+      
+JavaScript
+            6
+          
+alpheios-core
+Public
+        Alpheios Core Javascript Packages and Libraries
+      
+JavaScript
+            15
+          
+            2
+          
+alpheios_nemo_ui
+Public
+        Alpheios Reader
+      
+Python
+            2
+          
+arethusa
+Public
+        Arethusa: Annotation Environment
+      
+JavaScript
+            35
+          
+            25
+          
+alignment-editor
+Public
+        Alpheios Alignment Editor
+      
+JavaScript
+            3
+          
+            2
+          
+        Repositories
+      
+ Type
+ 
+Select type
+All
+Public
+Sources
+Forks
+Archived
+Mirrors
+Templates
+ Language
+ 
+Select language
+All
+Ada
+C
+CSS
+HTML
+JavaScript
+Perl
+Python
+Ruby
+Shell
+Swift
+Vue
+XQuery
+XSLT
+ Sort
+ 
+Select order
+Last updated
+Name
+Stars
+Showing 10 of 126 repositories
+ 
+          alignment-editor-new
+          Public
+            The Alpheios Translation Alignment editor allows you to create word-by-word alignments between multiple texts.
+HTML
+          4
+0
+        39
+        2
+          Updated Aug 21, 2023
+ 
+          arethusa-configs
+          Public
+            Additional configuration files for Arethusa
+Ruby
+0
+          8
+        7
+        3
+          Updated Apr 11, 2023
+ 
+          paideia-glossary
+          Public
+            Data for the paidea glossary
+0
+          1
+        0
+        0
+          Updated Mar 14, 2023
+ 
+          embed-lib
+          Public
+            Alpheios Embedded Library
+JavaScript
+          6
+0
+        9
+        0
+          Updated Mar 12, 2023
+ 
+          puppet
+          Public
+            basic puppet repo for alpheios
+Perl
+0
+Apache-2.0
+0
+        2
+        12
+          Updated Feb 15, 2023
+ 
+          webextension
+          Public
+            Alpheios Browser Extensions
+JavaScript
+          6
+ISC
+          2
+        33
+        1
+          Updated Jan 11, 2023
+ 
+          alpheios-core
+          Public
+            Alpheios Core Javascript Packages and Libraries
+JavaScript
+          15
+          2
+        194
+        11
+          Updated Jan 8, 2023
+ 
+          alpheios-trees
+          Public
+            Alpheios Trees V3
+JavaScript
+          1
+MIT
+0
+        3
+        19
+          Updated Jan 6, 2023
+ 
+          fixtures
+          Public
+            Alpheios Fixtures for remote service
+JavaScript
+0
+0
+        0
+        18
+          Updated Jan 6, 2023
+ 
+          lexis-cs
+          Public
+            Lexical services for client side scripts
+JavaScript
+0
+0
+        4
+        18
+          Updated Jan 5, 2023
+  View all repositories
+ 
+People
+ 
+ 
+ 
+Sponsors
+Top languages
+Loading…
+Most used topics
+Loading…
+Footer
+ 
+        © 2023 GitHub, Inc.
+        
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+    You can’t perform that action at this time.
+  

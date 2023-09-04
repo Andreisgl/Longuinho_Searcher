@@ -1,0 +1,456 @@
+CNB - Nápověda k systému ALEPH
+ 
+Nápověda pro uživatele systému Aleph
+ 
+Základy
+Databáze a dílčí báze
+Vyhledávání
+Příkazový jazyk CCL
+ Rejstříky
+Zobrazení výsledků dotazu
+Práce s výsledky dotazu
+Ukládání a odesílání e-mailem 
+Schránka 
+Předchozí dotazy 
+Historie 
+ Úplné zobrazení záznamu
+ Služba Získejte s JIB
+ Knihovní jednotky 
+             a požadavky na výpůjčky
+Meziknihovní výpůjční služba
+ Čtenář (Uživatel)
+ ID a heslo
+ Prodlužování výpůjček, rušení požadavku na výpůjčku
+Nastavení
+Otázky/připomínky
+Ukončení relace
+Jak vytvářet záložky
+Základy 
+Navigace
+ 
+Obrazovku tvoří dva rámce. V horním se zobrazuje menu, které 
+ nabízí základní funkce/volby. Na hlavní části obrazovky ve spodním rámci se zobrazují různé možnosti vyhledávání, výsledky vyhledávání ap. 
+ V katalogu/databázi můžete k navigaci používat jak vlastní tlačítka na obrazovce, tak tlačítka  prohlížeče. 
+Přihlášení
+ Přihlášení je nutné, pokud chcete využívat možnosti dostupné pouze pro registrované uživatele (zadávání požadavků na výpůjčky, 
+ ukládání dotazů do Historie, trvalé úpravy individuálního nastavení). 
+Pro vyhledávání v bázích není třeba se přihlašovat. 
+ 
+Požadavky na WWW prohlížeč 
+ Doporučený je prohlížeč (Internet Explorer 5.x nebo vyšší, Netscape 
+6.2 nebo vyšší) konfigurovaný tak, aby podporoval znaky Unicode. Uživatelé 
+operačního systému Windows potřebují Windows 95 nebo vyšší 
+ s nainstalovanými příslušnými globálními editory pro ukládání dat. 
+Uživatelé systému Apple Macintosh potřebují OS9.x s instalovanými příslušnými 
+jazykovými balíčky nebo s OS X.  
+Pro bezplatné získání nejnovější verze Vašeho prohlížeče, klikněte prosím 
+na odpovídající odkaz:
+ Internet Explorer
+ Netscape
+ Opera
+ Mozilla Firefox
+Znakové sady a Unicode
+ Záznamy v katalogu jsou kódovány ve znakové sadě Unicode (UTF-8). 
+Unicode umožňuje zobrazení velkého rozsahu abecedních znaků i s diakritickými 
+znaménky a speciálními znaky. 
+Pokud uvidíte v některých záznamech podivné znaky, může za to pravděpodobně váš prohlížeč. 
+Obecně platí, že prohlížeč by měl podporovat zobrazení Unicode 
+a  mít k dispozici vhodný font.  Ve starších 
+verzích prohlížečů mohou být některé znaky zobrazeny jako skupina čtyř písmen a 
+číslic. 
+ Jak nastavit správné zobrazování speciálních znaků v prohlížeči: 
+Internet Explorer:  Z menu Zobrazit si vyberte volbu 
+Kódování a klikněte na Automatický výběr. 
+Netscape:  Z menu Zobrazit si vyberte volbu Kódování 
+znaků, potom Automatické zjištění a Všechno [pro Netscape 
+6.x] nebo Univerzální [pro Netscape 7.x].  
+ 
+Nejúplnější podporu pro znaky Unicode poskytuje font Arial Unicode MS. 
+ Pokud tento font nemáte instalovaný, můžete použít i jiné fonty. Seznam fontů podporujících Unicode je uveden na stránce Užitečné odkazy www.unicode.org. 
+ 
+Databáze a dílčí báze 
+    
+ 
+Ze základní obrazovky nebo volbou Databáze si můžete vybrat databázi, ve které chcete vyhledávat. 
+Pokud nechcete pracovat v celé bázi, můžete si také zvolit podmnožinu, dílčí bázi. 
+Vyhledávání 
+        
+ 
+      Tato funkce umožňuje nalezení záznamů po zadání slov nebo slovních spojení. K dispozici máte různé 
+      typy vyhledávání, které dávají možnost vyhledávat skutečně sofistikovaně. 
+       
+      V dolní části obrazovky pro vyhledávání najdete vždy základní nápovědu. 
+Další pravidla společná pro všechny typy vyhledávání: 
+Systém podporuje logické operátory 
+and, or, not. Není-li operátor uveden, 
+předpokládá se operátor and. Operátory můžete zapisovat 
+pomocí anglických slov nebo pomocí následujících konvencí: 
+AND = + (znaménko plus) nebo & (znak ampersand) 
+OR = | (pipe, dlouhá svislá čára) 
+NOT = ~ (vlnovka, tilda) 
+Pokud and, or, not potřebujete vyhledat jako skutečná slova, je třeba je zadat v uvozovkách (např. tajemství "and"). V CCL dotazu mohou být použita bez uvozovek, pokud jsou součástí slovního spojení (tl=tajemství and). 
+Symboly -> (pomlčka a znak pro větší než mohou být umístěny mezi dvěma slovy. Tím naznačíte, že chcete vyhledat záznamy, které obsahují slova od (a včetně) prvního slova až do slova druhého. Toto je zejména užitečné pro vyhledávání záznamů podle roků vydání. 
+(Příklad: 1993 -> 1996) 
+Znaky ? nebo 
+      * (hvězdička) mohou nahrazovat část slova (napravo, uprostřed, nebo vlevo) 
+      v rešerším dotazu. Nikdy však nemohou být v jednom textovém řetězci použity vícekrát. 
+Je-li počet termínů nalezený krácením (nikoli počet jim odpovídajících záznamů) vyšší než nastavený limit, dotaz se neprovede a je třeba ho formulovat jinak. 
+Znak # může být použit pro vyhledání slov v různých pravopisech v případě, 
+      kdy jedna verze slova má o jeden znak více, než druhá verze téhož slova. 
+      Například zadáním colo#r umožníte vyhledání záznamů, 
+      ve kterých je použito jak slovo color, tak colour. 
+       
+      Znak ! může být použit pro nalezení záznamů se slovem, v němž se může 
+      lišit jediný znak. Například filo!ofie nalezne záznamy 
+      obsahující jak slovo filosofie, tak filozofie. 
+       
+      Znak % následovaný číslem může být umístěn mezi dvěma slovy. Tím naznačujete, 
+      že chcete vyhledat záznamy, v nichž se zadaná slova objevují v určité vzdálenosti od sebe a na jejich 
+      pořadí vám nezáleží.  Například  
+      česká %3 republika nalezne  Republika Česká , 
+      Česká Republika a Česká a Slovenská federativní republika. 
+       
+      Znak ! následovaný číslem může být umístěn mezi dvěma slovy. Tím naznačujete, 
+že chtete vyhledat záznamy, v nichž se zadaná slova objevují v určité vzdálenosti od sebe ve stejném 
+pořadí, v jakém jste slova zadali.  Při zadání  
+česká !3 republika budou nalezeny jen záznamy, obsahující Česká Republika 
+a Česká a Slovenská federativní republika. 
+  Rozšířené vyhledávání 
+Na rozdíl od Základního vyhledávání se při tomto způsobu vyhledávání ("pro pokročilé") nabízí možnost širšího výběru přístupových souborů, které se vybírají z menu, a jejich kombinace. 
+Pro vztahy mezi těmito poli je nastaven logický operátor AND. 
+V některých bázích se nabízí  možnost vyhledávání dále omezit na 
+určitý jazyk, druh dokumentu, roky vydání apod. 
+Pro zobrazení výsledku hledání je třeba kliknout na odkaz ve sloupci Počet záznamů. 
+  Vyhledávání z více bází 
+ 
+Tato volba nabízí možnost provést rešeršní dotaz i ve více bázích najednou. Je třeba z menu vybrat druh hledaného údaje, zadat dotaz a označit báze, v nichž má vyhledávání proběhnout. 
+ Ve výsledcích dotazu se zobrazí počet záznamů vyhledaných v jednotlivých bázích. Kliknutím na jméno báze je pak možno pokračovat prohlížením záznamů. 
+Vyhledávání CCL 
+        
+ Pro vyhledávání slov v několika různých indexech zároveň 
+můžete použít příkazový jazyk CCL (Common Command Language). Musíte zadat kód 
+přístupového souboru a hledané slovo. V následující sekci 
+Kódy jayzka CCL jsou uvedeny zkratky, které můžete v konkrétní bázi použít. 
+ Příklad: 
+((wau=carlyle or ruskin or hegel) and (wti=kultur?)) not (wsu=uměn? or 
+wsu=uměl?)
+ Tento dotaz vyhledá všechny záznamy dokumentů, napsaných osobami se 
+jmény Carlyle nebo Ruskin nebo Hegel a zároveň obsahující v názvu slovo, které 
+začíná kultur (například kultura, kultury, 
+kulturní atd.) a které zároveň neobsahují v předmětu (předmětovém 
+heslu) slova začínající uměn nebo uměl, tedy například umění, 
+umělecký, umělec atd. 
+Kódy jazyka CCL - báze CNB:
+WRD
+ - 
+ 
+     Slova z většiny údajů záznamu (název, autor, předmět, místo vydání, 
+     nakladatel, rok vydání atd.) 
+    
+WTL
+ - 
+ 
+     Slova z názvových údajů (název, název části, edice, originál atd.) 
+WAU
+ - 
+Slova z údajů o autorech a korporacích/akcích (konferencích, seminářích atd.) v roli původce
+WPB
+ - 
+ 
+     Slova z názvu nakladatele 
+    
+WPP
+ - 
+ 
+     Slova z údajů o místě vydání 
+    
+WKW
+ - 
+ 
+     Slova z předmětových hesel a jiných podobných údajů 
+    
+WYR
+ - 
+ 
+     Rok vydání 
+    
+WPF
+ - 
+ 
+     Periodicita (seriálové dokumenty) 
+    
+WPV
+ - 
+ 
+     Kód země vydání (viz tabulka kódů zemí) 
+    
+WLN
+ - 
+ 
+     Kód jazyka dokumentu (viz tabulka kódů jazyků) 
+    
+WLO
+ - 
+ 
+     Kód jazyka originálu 
+    
+WTP
+ - 
+ 
+     Druh dokumentu (viz tabulka kódů druhů dokumentu) 
+    
+ 
+ISN
+ - 
+ 
+     ISBN / ISMN / ISSN 
+    
+FD
+ - 
+ 
+     Formální deskriptor 
+    
+OP
+ - 
+ 
+     Číslo oficiální publikace 
+    
+SG
+ - 
+ 
+     Signatura 
+    
+Kódy pro specifikaci druhu dokumentu - báze CNB:
+Knihy
+ - BK
+ 
+Seriály
+ - SE
+Kartografické dokumenty
+ - MP
+ 
+Elektronické zdroje
+ - ER
+Hudebniny (tištěné)
+ - MU
+ 
+Zvukové záznamy
+ - AM
+Grafika
+ - GP
+ 
+Obrazové dokumenty
+ - VM
+Výsledky dotazu / Seznam záznamů 
+    
+ 
+Seznam záznamů se zobrazí jako výsledek vyhledávání nebo kliknutím na podtrženou položku při 
+prohlížení rejstříku. Také můžete zvolit výsledek předchozího vyhledávání použítím volby Předchozí dotazy nebo Historie. 
+ 
+Z celkového počtu vyhledaných záznamů je možno zobrazit a setřídit až 1000 záznamů. Každý záznam je pořadově očíslován. 
+ Máte dvě možnosti, jak se rychle v seznamu přemístit na požadované záznamy: Přejít na text a Přejít na č. (poř.č.zázn.). 
+ 
+Výsledky dotazu je možné zobrazovat v řadě různých formátů. Implicitní formát je možno změnit pomocí funkce 
+Nastavení. Nezáleží na tom, jaký formát pro zobrazení seznamu zvolíte - vždy budete mít možnost zobrazit 
+celý záznam kliknutím na podtržené číslo záznamu nebo název v seznamu záznamů. 
+Obrazovka se seznamem výsledků dotazu dále umožňuje: 
+Seřadit soubor vyhledaných záznamů podle vybraného údaje (kliknutím na záhlaví příslušného sloupce). 
+Zobrazit celé záznamy v úplném zobrazení (všechny nebo vybrané). 
+Upravit soubor vyhledaných záznamů použitím dalšího selekčního termínu nebo filtrováním. 
+Označit záznamy pro další práci (zaškrtnutím v okénku nebo volbou Vybrat vše). 
+Uložit vybrané záznamy do schránky. 
+Setřídit vyhledané záznamy podle váhy (volba Ohodnotit se uplatňuje jen v některých bázích). 
+Odeslat e-mailem sobě nebo někomu jinému bibliografické údaje všech nebo vybraných záznamů ze souboru 
+vyhledaných záznamů. 
+Uložit soubor vyhledaných záznamů na lokální počítač. 
+Další práce s výsledky dotazu
+ 
+Z následujících možností nejsou u každé báze k dispozici všechny. 
+ Jak vytvořit podmnožinu
+Volba Vytvořit podmnožinu vám umožňuje pracovat se 
+skupinou záznamů, vybraných ze souboru vyhledaných záznamů. Označte záznamy ze 
+seznamu výsledků dotazu a klikněte na Vytvořit podmnožinu. V seznamu 
+výsledků se pak zobrazí pouze záznamy, které jste uložili do podmnožiny. S 
+podmnožinou můžete pracovat stejně jako se souborem výsledků: záznamy můžete 
+vybírat, přidávat do schránky, posílat e-mailem nebo z nich můžete vytvářet 
+jinou podmnožinu.  Nová podmnožina bude v obrazovce Předchozích dotazů 
+zachována, dokud se neodhlásíte. Jediným způsobem, jak můžete 
+rozlišit podmnožinu od úplného souboru záznamů je porovnání počtu záznamů - 
+není žádná změna v popisu rešeršního dotazu, protože originální vyhledávání se 
+nezměnilo. V rámci obrazovky Předchozí dotazy mohou být i podmnožiny kombinovány 
+s výsledky jiných dotazů nebo s jinými podmnožinami. 
+Filtrování výsledků dotazu
+ Díky filtrování výsledků pomocí různých filtrů (rok 
+vydání, dostupnost, rozmezí údajů-abecedních i číselných, datum vytvoření 
+záznamu) se můžete podívat na podmnožinu z výsledků vašeho aktuálního 
+vyhledávání. 
+Hodnocení (vážení) výsledků - volba Ohodnotit 
+ Výsledky vyhledávání je možné seřadit podle váhy (důležitosti). Můžete přidat další slova 
+ k rešeršním termínům, které jste použili při vyhledávání. Záznamy jsou hodnoceny podle vzorce, ve kterém se bere v úvahu 
+počet výskytů slova v záznamu a váha, která byla definována pro daný přístupový 
+soubor (například pokud se zadaná slova objevují v předmětových heslech nebo názvu, bude mít větší váhu). 
+Zpřesnění 
+ Zpřesnění slouží k rozšíření nebo k zúžení vaší rešeršní strategie tak, 
+že rozšíříte počet termínů, které jste použili pro vyhledávání. 
+Můžete přidat další rešeršní termíny z jakéhokoli souboru nabídnutého v menu. 
+Ukládání výsledků a odesílání e-mailem 
+ Vybrané (označené) záznamy si můžete uložit nebo 
+poslat e-mailem. Volba Uložit / odeslat se nabízí jak při zobrazení výsledků dotazu, tak při úplném zobrazení konkrétního záznamu nebo při otevření Schránky. 
+ 
+ Pokud nechcete použít implicitně nastavené hodnoty, máte možnost zvolit formát a znakovou sadu pro kódování diakritiky. Pro e-mail je doporučeno kódování ASCII (bez diakritických znamének). 
+ 
+Pro odeslání e-mailem je třeba vyplnit pole pro e-mailovou adresu. Údaje Předmět a Název jsou nepovinné, ale mohou být pro vás užitečné při zpracování zaslaného souboru. 
+ 
+  Pokud budete chtít záznam uložit na lokální počítač, nevyplňujte e-mailovou adresu. Po kliknutí na tlačítko OK se objeví obrazovka Uložení souboru na PC. 
+ Klikněte na Uložit vybrané. Systém vám pro kontrolu zobrazí vámi zadané údaje pro ukládání a pojmenování souboru. 
+Schránka 
+ 
+Schránka slouží nepřihlášenému uživateli k uschování záznamů po dobu probíhající relace, po opuštění stránek nebo odhlášení ze systému se vždy vyprázdní. 
+Pokud se uživatel před ukládáním záznamů do schránky přihlásil svým jménem a heslem, záznamy nebudou po odhlášení vymazány, ale uloženy do osobní složky pro použití v budoucnu. 
+Ukládat záznamy do schránky je možné buď z obrazovky Úplné zobrazení záznamu, nebo ze seznamu výsledků dotazu: po výběru záznamů (zaškrtnutím) klikněte na Přidat do schránky. 
+ 
+Volba Schránka (z horního menu) umožňuje prohlédnout si záznamy uložené v osobní složce (trvalé schránce) nebo ve schránce dočasné (sloužící nepřihlášeným uživatelům). 
+ 
+Každý uživatel může uložené záznamy ukládat na lokální počítač nebo odesílat e-mailem. Registrovaný uživatel může navíc vytvářet/přejmenovávat/mazat složky a v nich záznamy mazat či přesouvat. 
+ 
+Předchozí dotazy 
+    
+Tato funkce zobrazí seznam souborů vyhledaných záznamů z předchozích dotazů a umožňuje: 
+Vybrat soubor vyhledaných záznamů k zobrazení či další práci (viz Výsledky dotazu). 
+Zúžit nebo rozšířit vyhledávání pomocí kombinací souborů vyhledaných záznamů(operátory AND/OR lze použít i pro více souborů, operátor NOT pouze pro dva vybrané soubory). 
+ 
+Vymazat soubor(y) vyhledaných záznamů ze seznamu. 
+Uložit dotaz do Historie k opětovnému použití při některém z příštích přihlášení (jen pro registrované uživatele). 
+ 
+Historie (uložené dotazy) 
+ Funkce Historie je dostupná pouze registrovaným uživatelům. Umožňuje prohlížení vašich rešeršních 
+dotazů, které jste si uložili při předchozích návštěvách těchto stránek. 
+Své dotazy můžete uložit do vyrovnávací paměti z obrazovky Předchozí 
+dotazy - poté je můžete opakovaně použít jako záložky. 
+ Z uložených rešeršních dotazů v 
+obrazovce Historie můžete znovu spouštět své rešeršní dotazy tak, že kliknete 
+na Hledat, nebo je můžete z trvalé vyrovnávací paměti vymazat. Všimněte 
+si, že hodnota, zobrazená ve sloupci Počet záznamů, znamená počet záznamů, 
+které byly vyhledány v době, kdy daný rešeršní dotaz byl použit pro vyhledávání 
+poprvé. 
+ 
+      Rejstříky (prohlížení abecedních seznamů) 
+    
+ 
+        Funkce Rejstříky vám umožňuje listovat abecedním rejstříkem autorů, názvů, předmětových hesel atd., 
+        nebo jiným rejstříkem (i číselným), který je v příslušné bázi k dispozici. 
+ 
+        Zvolte rejstřík, který chcete prohlížet, a zadejte text, od kterého byste prohlížení rádi 
+        zahájili. 
+        Není nutné zadávat celá slova, postačí jakýkoliv řetězec 
+        znaků ze začátku slova nebo slovního spojení. 
+ 
+Zobrazí se abecední seznam hesel společně s počtem záznamů, které je obsahují. 
+Seznam začíná heslem, které bezprostředně předchází před zadaným textem. 
+Například zadáte-li jméno autora miller, zobrazí se rejstřík od hesla 
+millay a bude pokračovat heslem  miller. 
+U hesla může být informace, že je připojen autoritní záznam nebo že jde o odkazovanou formu. Kliknutím na podtržené heslo zobrazíte záznamy. 
+ 
+Jsou tři způsoby, jak se dostat k rejstříku: 
+Z horního menu volbou Vyhledávání + rejstříky a výběrem rejstříku (viz výše) 
+Při prohlížení vyhledaných záznamů (úplné zobrazení). Kliknutím na podtržený název pole a zavoláním příslušné "služby" se otevře rejstřík. 
+Při prohlížení autoritního záznamu. Pro přechod do rejstříku je třeba 
+ rovněž kliknout na podržený název pole. 
+Úplné zobrazení záznamu 
+    
+ 
+Při úplném zobrazení máte možnost prohlížet záznam v různých formátech, které používají číselné 
+označení polí, návěští, případně formát katalogizačního lístku s interpunkcí ISBD. 
+ 
+Úplné zobrazení ve standardním formátu má vazby, které umožňují: 
+Zobrazení knihovních jednotek (exemplářů) pro možnost výpůjčky (ikona v poli Exempláře) 
+Otevření připojeného externího souboru, www stránky ap. 
+Otevření rejstříku
+Vyhledání podobných nebo příbuzných záznamů (například v "rodině" vícesvazkových dokumentů) 
+Dále je možno zobrazený záznam uložit, odeslat e-mailem, přidat do schránky nebo vyhledat tentýž záznam v jiné bázi. 
+(Viz možnosti v nabídkové liště). 
+Služba Získejte s JIB 
+    
+ 
+Tlačítko "Získejte s JIB" u úplného zobrazení záznamu nabízí možnost prostřednictvím nástrojů Jednotné informační brány (SFX) získat další informace týkající se příslušného dokumentu mimo tuto databázi. 
+ V základní nabídce je obvykle ověření dostupnosti dokumentu ve vybraných knihovnách a Souborném katalogu ČR. Dále se nabízí vyhledávání na webu - recenze, reference, informace o autorovi, vyhledávání pomocí Google. 
+ Pokud je dostupný plný text dokumentu, objeví se i tato nabídka. 
+Knihovní jednotky a jejich objednávání (požadavky na výpůjčky) 
+    
+ 
+Ke knihovním jednotkám se dostanete kliknutím na ikonu exemplářů 
+ . 
+ 
+ Následně se zobrazí seznam knihovních jednotek. 
+Pokud nechcete zobrazit všechny jednotky, můžete pouižít několik filtrů: pro rok, ročník/svazek  či dílčí knihovnu. Je také možno skrýt vypůjčené jednotky. 
+ 
+Kliknutím na odkaz Objednat v seznamu jednotek můžete zadat požadavek na výpůjčku daného dokumentu. 
+ Odkaz Objednat se zobrazuje pouze u jednotek, jejichž status online objednávání umožňuje. 
+  Pokud je jednotka momentálně vypůjčena, předpokládané datum vrácení vidíte ve sloupci Půjčeno do; pokud i v tomto případě máte o výpůjčku zájem, kliknutím na Objednat vytvoříte rezervaci a až se dokument vrátí do knihovny, budet vyzváni (e-mailem nebo dopisem) k vyzvednutí. Aktuální počet požadavků na danou publikaci vidíte ve sloupci Požadavky. 
+ O stavu vyřizování své objednávky najdete informace ve svém čtenářském kontě (volba Čtenář, Požadavky na výpůjčky). Odtud také můžete objednávku/rezervaci zrušit, pokud právě není ve fázi zpracování. 
+ 
+Tato možnost se nenabízí v souborném katalogu (báze SKC). Zde se pouze dozvíte, která knihovna má příslušný dokument ve fondu. Pokud byste si chtěli dokument půjčit, je třeba se obrátit na danou knihovnu. Je-li uveden link na Lokální záznam, dostanete se touto cestou přímo do jejího online katalogu. 
+Meziknihovní výpůjční služba 
+    
+ Tato funkce umožňuje, abyste zadali požadavek na dokument 
+z jiné knihovny či na jeho kopii. Můžete si půjčit knihu nebo časopis, nebo 
+požádat o zhotovení kopie pro vás zajímavého dokumentu. V obrazovce 
+meziknihovní výpůjční služby zadejte co nejvíce informací. Pole, označená hvězdičkou, 
+jsou povinná. Tuto volbu můžete použít pouze tehdy, jste-li přihlášeni, máte platný 
+čtenářský průkat a další nezbytná oprávnění. Bližší informace včetně ceníku služeb 
+naleznete na oficiálních stránkách Národní knihovny ČR za rozcestníkem pro Meziknihovní služby  
+Čtenář (Uživatel) 
+    
+ 
+Do svého osobního konta vstoupíte pomocí ID a čárového kódu 
+čtenářského průkazu. Pokud jste si jako verifikační kód již místo čárového 
+kódu zadali vlastní heslo, systém vyžaduje při přihlašování kombinaci ID a 
+heslo. 
+Poté si můžete prohlížet informace o svých výpůjčních aktivitách v knihovně a online prodlužovat své výpůjčky. Zde se také nabízí možnost změnit přístupové heslo a aktualizovat e-mailovou adresu a telefon. Kromě toho si můžete trvale upravit nastavení jazyka a zobrazení seznamu výsledků dotazu vytvořením vlastního profilu. 
+ 
+ 
+ 
+Upozorňujeme, že v zájmu ochrany vašich osobních údajů brání systém používání 
+tlačítka Zpět na většině stránek pro funkci Čtenář. Místo toho, 
+aby vás systém přenesl do předchozí obrazovky, otevře stránku, 
+která byla otevřena před tím, než jste použili volbu Čtenář. 
+ 
+ID a heslo 
+    
+ 
+Registrovaní uživatelé mají ID na svém čtenářském průkazu. Je tvořeno písmenným označením knihovny (NK nebo SK) a vygenerovanou číselnou hodnotou. 
+ 
+Uživatelé registrovaní dříve mohou používat jako ID své rodné číslo bez lomítka. 
+ 
+ 
+Jako heslo pro první vstup do svého konta zadejte čárový kód svého čtenářského průkazu. 
+Poté doporučujeme z bezpečnostních důvodů tento přístupový kód změnit a zadat si své vlastní heslo. 
+Čárový kód přestane být funkční a systém bude pro přihlášení vždy vyžadovat kombinaci ID a hesla. 
+Prodlužování výpůjček a rušení požadavků na výpůjčku 
+    
+ 
+Ve svém uživatelském kontě (volba Čtenář) si můžete prohlížet a prodlužovat své výpůjčky. 
+Lze použít tlačítko Prodloužit vše (na horní liště), označit jednotky k prodloužení (zaškrtnutím) a poté použít tlačítko Prodloužit vybrané. 
+Konkrétní výpůjčku lze  prodloužit také kliknutím na číslo výpůjčky a 
+z následující obrazovky pomocí tlačítka Prodloužit. 
+Pokud některou výpůjčku nelze prodloužit, zobrazí se odpovídající hláška.. 
+Zde je také možné vymazat požadavek na výpůjčku, o který už nemáte zájem. Pouze však v případě, že se právě pro vás nezpracovává. 
+Otázky/připomínky 
+    
+ 
+Máte možnost dotázat se pracovníků knihovny na problémy spojené s využíváním katlaogu vaší knihovny 
+a případně vznést konstruktivní připomínky, které mohou pomoci vylepšit uživatelské prostředí nejen pro vás. 
+Nastavení 
+    
+ 
+Tato funkce vám umožňuje ovlivňovat zobrazení údajů na vaší obrazovce ať už jde o jazyk komunikace, nebo 
+řazení vyhledaných záznamů a formát, v němž bude seznam vyhledaných záznamů zobrazen. 
+Registrovaný uživatel si může vybrané nastavení uložit - vytvořit si osobní profil, který je možno dle potřeby měnit (volba Čtenář). V průběhu práce je možné adhoc volit řazení záznamů, formát a nastavení pro uložení záznamů či posílání e-mailem. 
+Ukončení relace 
+    
+ 
+Volba Konec provede odhlášení ze systému a návrat na základní obrazovku. 
+Vaše nastavení bude zapomenuto, stejně jako vaše rešeršní dotazy a obsah vaší schránky. Je to 
+velmi důležité opatření k zabránění zneužití vašich údajů, které vám důrazně doporučujeme 
+dodržovat.  
+ © 2014 Ex Libris, NK ČR

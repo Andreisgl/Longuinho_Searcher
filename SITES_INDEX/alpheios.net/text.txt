@@ -1,0 +1,90 @@
+Middleman
+The Alpheios Project
+Main Menu
+Home
+Our Tools
+Mobile Reader
+            About Us
+        
+Who We Are
+Our Governance
+In the Community
+            Resources
+        
+Release Notes
+Tutorials
+FAQ
+System Requirements
+Privacy Policy
+Recommended Resources
+Contact
+ 
+Welcome to Alpheios
+Your resource for open-source software for studying the world's classical languages and literatures, currently including Latin, Greek, Arabic and Persian.
+Alpheios in Two Minutes
+Read Classical Literature Online In Its Original Language
+With Reading and Learning Aids
+        From mobile devices or your desktop on our site.
+      
+Read Now
+        With a browser extension from your desktop on any site.
+      
+Install Now
+Add Alpheios To Your Site
+            The Alpheios Embedded Javascript Library can be
+            used by anyone to enable Alpheios in their web pages.
+          
+            Use of the Alpheios Embedded Library is governed by the API Terms of Service.
+Learn How
+Copy Embed Code
+Arma virumque cano, Troiae qui primus ab oris
+Italiam, fato profugus, Laviniaque venit
+litora, multum ille et terris iactatus et alto
+vi superum saevae memorem Iunonis ob iram;
+© Giuliano Del Gatto / Alamy Stock Photo
+A new bridge over an old bridge over the Alpheios river.
+About Alpheios
+The Alpheios Project, Ltd. is a 501(c)(3) non-profit organization.
+We aim to help people learn how to learn languages as efficiently and enjoyably as possible,
+                and in a way that best helps them understand their own literary heritage and culture, as
+                well as the literary heritage and culture of other peoples throughout history.
+              
+Our initial focus is on classical literature in languages no longer spoken, such as Latin and
+                ancient Greek. The influence of these classics, like the river Alpheios, still runs like a
+                subterranean stream deep beneath the contemporary world, as artists and thinkers
+                continue to draw inspiration from them.
+              
+Learn more about AlpheiosMore
+GitHub
+Facebook
+Twitter
+Email
+Main Menu
+Home
+Our Tools
+Mobile Reader
+            About Us
+        
+Who We Are
+Our Governance
+In the Community
+            Resources
+        
+Release Notes
+Tutorials
+FAQ
+System Requirements
+Privacy Policy
+Recommended Resources
+Contact
+ 
+GitHub
+Facebook
+Twitter
+Email
+Copyright © The Alpheios Project, Ltd. 2019. All Rights Reserved
+Site Identifier
+×
+Provide a unique identifier for the site in which Alpheios will be embedded. This can be any text but we recommend using the site's URL.
+include sample latin text
+Copy Embed Code

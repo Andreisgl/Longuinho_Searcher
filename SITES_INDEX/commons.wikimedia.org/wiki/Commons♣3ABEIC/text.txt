@@ -1,0 +1,140 @@
+Commons:BEIC - Wikimedia Commons
+Commons:BEIC
+From Wikimedia Commons, the free media repository
+Jump to navigation
+Jump to search
+The Coolest Projects of Wikimedia Chapters - Be Inspired. 13th August 2017, Wikimania 2017 Montreal. The Paolo Monti BEIC project is presented from 13.20 min.
+Presentation The Paolo Monti Archive on OpenStreetMap (March 2017)
+Ariosto, Orlando furioso, 1551
+«BEIC (Biblioteca Europea di Informazione e Cultura, European Library of Information and Culture) digital library aims to make available a large selection of the most important works of the European and world culture, from antiquity to the present day, in every main field of knowledge (from literatures to mathematics, from law to medicine, from economics to religion etc.). University specialists and library experts have selected and edited the records of each collection».[1]
+See all images we already uploaded with a free license at Category:Media from BEIC.
+BEIC as of 2016 has a Wikimedian in residence, Marco Chemello (previously in 2014-2015 Federico Leva, who is already helping).
+We uploaded an entire photo archive, 17.000 images. See below and help us!
+Contents
+1 Books
+2 One day, one paint
+3 The Paolo Monti Archive on Commons
+3.1 Work in progress
+3.1.1 Categories
+3.2 Rights
+4 Ex libris and typographic marks
+5 Templates
+6 Reports
+7 References
+8 See also
+Books[edit]
+De re anatomica libri, 1572
+We uploaded thousands books and book frontespieces from relevant works selected by field experts, mostly centuries old.
+See:
+Commons:Batch uploading/Internet Archive and BEIC
+Other books
+s:it:Wikisource:Collaborazioni/BEIC
+One day, one paint[edit]
+Commons:BEIC/One day one paint (for children)
+The Paolo Monti Archive on Commons[edit]
+Paolo Monti, Venice, 1971
+You can help!
+In April 2016 we uploaded almost the entire digital photo archive of an important Italian photographer, Paolo Monti, with nearly 17.000 images (the whole archive is owned by Fondazione BEIC).
+The photos represent various subjects (art, events, architecture, people, portraits, nature, artistic nudes, experimental) and were shot since 1940s to 1980s. Many of them are B/W, but there are also many colourful artistic/experimental pictures as well as the first contact sheet collection (with test prints etc.) of Commons and some photos of restricted objects, very hard to find under free license but available to BEIC because they were commissioned/authorised/waived to Paolo Monti by the rightsholders.
+This is the largest release of a photographer's collection ever, followed perhaps by Commons:BAnQ (with about 700 photos by Conrad Poirier, who died in 1968).
+The photos we uploaded were all selected and "tagged" manually by BEIC-commissioned cataloguers working according to the standards. To give Commons the best quality end result possible, we uploaded the highest resolution available with all available metadata in appropriate fields.
+The conversion from archival/library standards to Commons standards, especially as regards categories, is in our work plans for the coming months and will happen on Commons itself, to achieve multiple goals:
+show and teach BEIC librarians how to use the tools available on Commons, much more efficient than any offline or cataloguing software out there for this sort of file cleanup;
+be completely transparent about the process by keeping a log of every conversion, given there is no (published) standard for such metadata mapping;
+leave a trace of category redirects which will be useful in the future both for crosslinking (between Commons and various catalogues/ontologies) and for uploads of new material, which will be able to reuse our work instead of redoing everything from scratch.
+Work in progress[edit]
+Example of geo-referencing using Locator Tool on photos by Paolo Monti from BEIC digital library. Original photo showed: File:Paolo Monti - Servizio fotografico (Verona, 1972) - BEIC 6337285.jpg by Paolo Monti, 1972 (Fondo Paolo Monti, BEIC).
+We are now working - with your help! - on:
+using images inside Wikipedia articles, or other Wikimedia projects, in any language (and into Wikidata). We have 1 452 used images (8.6% of total) used 4148 times as of 2 August 2017.
+see it:Progetto:GLAM/BEIC/Artisti and it:Progetto:GLAM/BEIC/Architettura e design for examples of effort in specific fields (contemporary art, architecture and design)
+improving categories (often translating the original Italian categories into English, see top wanted categories) and providing a more specific categorization for the images - see Commons:BEIC/popular categories
+Identifying locations and buildings still unknown (1275 as of 2 August 2017).
+adding geographical coordinates to images (using Commons:Locator-tool). We have 8 133 images with locations (48.3% of total) as of 2 August 2017.
+selecting the best photos to candidate them as "featured pictures" (at least 2 megapixel of resolution needed) or "valued images" (any resolution).
+In the first 3 days, together with Commons editors, half of the "translation" work was already completed and files had each an average of 4 "blue" categories plus 4 "red" categories (65+75 thousands). As of June 2016, about 38 thousands red links remain, of which half will be addressed by a bot replacement and the rest will continue being fixed by BEIC users.
+Please help us, this is a big work!
+Photographs by Paolo Monti (details in Commons:BEIC/Photograph; license statement from the online metadata)
+See the Photographs by Paolo Monti used on Wikipedia articles and other Wikimedia sites
+Translate the BEIC source template in your language.
+Categories[edit]
+Every single image by Paolo Monti must be categorized:
+by year: see Category:Photographs by Paolo Monti by year
+by subject: see Category:Photographs by Paolo Monti by subject
+by media: see Category:Photographs by Paolo Monti by medium
+by city: see Category:Photographs by Paolo Monti by country
+All images are considered "historical", as they were shot from 1938 to 1982, and belog to an archive declared of notable historical interest[2][3].
+Rights[edit]
+Right statements for the images are provided directly on beic.it, where the images are marked with a free Creative Commons license further explained by the general copyright notice. Fondazione BEIC holds the relevant archive records.
+What Fondazione BEIC knows about the copyright status follows.
+The BEIC lawyer stated that «BEIC foundation owns all [attribution] copyrights» («Fondazione Beic è proprietaria di tutti i diritti di attribuzione»), in particular that «BEIC foundation is the only rightsholder» [italics added] («BEIC è il solo detentore dei diritti d'autore (copyright)»). This implies that any relevant third party rights over the images, where existing, have been acquired by BEIC.
+This statement is consistent with the story of the photos as we know of it: the artists commissioned the photos for inclusion in future publications authored by Paolo Monti, so they provided the necessary authorisations and transfer of rights. Paolo Monti was a professional photographer with a broad experience in taking photos of pieces of art, so it makes sense that he took care of acquiring the artists' rights.
+As for photos of 3D objects, the statement is also consistent (or non-inconsistent) with the judgement by the supreme court of Italy, which stated that photos of a piece of art may not be an infringement of the copyright of the artist, when deemed sufficiently creative, because the purpose of the diritto d'autore is to protect creativity and hence in such cases the author of the photo can have complete copyright on the photo itself. (Corte di Cassazione, Sezione 1 civile; Sentenza 12 marzo 2004, n. 5089.) There is some literature on international effects in case the author of the depicted work of art claimed ownership of some copyright on the photo, but the Court didn't impose such a restriction. There are no automatic universal ways to determine who holds rights on the photo of a work; lack of rights by the photographer may be established by a court or appeals court.
+The statement is also consistent with common sense: because a photo of a 3D object doesn't in any way enable the reuser to reproduce, as in rebuild, the original object, a cc-by-sa license on the photo doesn't affect the copyright of the original object. While the term "derivative work" is sometimes used creatively, the main relevant article of the Berne convention, i.e. 2(3), deals with «Translations, adaptations, arrangements of music and other alterations».
+Some policy references are provided for context.
+In multiple cases, for the Berne Convention a country has the power to make decisions that will then affect the use of a work in other countries as well. It's not irrelevant that a photo has been shot in Italy.
+Wikimedia Commons has its own tradition, especially Commons:De minimis. The extent of the reproduction of a work depicted in a photo matters.
+Wikimedia Commons has a tradition of accepting OTRS tickets for both a copyright release on the work at hand (a photo) and reassurances of various kinds on the rights of third parties, especially in the case of photographers for hire, such as 1a, 1b, 1c, 2, 3a, 3b, 3c, 3d. Every responsible photographer clears the rights underlying their work, so we're often able to get reliable reassurances in that regard.
+To consider invalid a release made by an entity, Wikimedia Commons generally requires some evidence (4a, 4b, 4c); it's not enough to speculate that the releaser might have ignored third party rights, though it's ok to ask on a case-by-case basis whether there was a mistake about a specific photo (4d).
+Ex libris and typographic marks[edit]
+See Category:Ex libris from BEIC and it:Progetto:GLAM/BEIC/Ex libris e marche tipografiche (Italian) for details
+Templates[edit]
+{{BEIC}}
+{{Monti by city}} to give a standard categorization per city to the Paolo Monti Archive images (uses {{Cityen-it}} to translate city names)
+{{Monti by year}} to give a standard categorization per year to the Paolo Monti Archive images
+{{Institution:BEIC}}
+{{Creator:Paolo Monti}}
+Reports[edit]
+Largest files
+Top 24 most edited file pages
+Top 100 most populated categories in use by these files
+Volunteers contributing to documentation of these files
+Top 24 most used files in Wikimedia projects
+Random selection of files most likely to have more potential reuse, or needing better categorization
+How to use these pages
+References[edit]
+http://www.beic.it/
+BEIC digital library brochure
+Main project page: it:Progetto:GLAM/BEIC
+↑ http://cat.inist.fr/?aModele=afficheN&cpsidt=27893199
+↑ http://www.beic.it/mostre/monti/archivio.html
+↑ http://www.beic.it/en/node/1969
+See also[edit]
+Paolo Monti image gallery on Commons
+Category:Paolo Monti
+Retrieved from "https://commons.wikimedia.org/w/index.php?title=Commons:BEIC&oldid=735330779"
+Categories: GLAM dashboard reportsBEICCommons batch uploadingCommons partnerships in ItalyGLAM in Italy
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Project pageDiscussion
+English
+Views
+ViewEditHistory
+More
+Search
+Navigate
+Main pageWelcomeCommunity portalVillage pumpHelp center
+Participate
+Upload fileRecent changesLatest filesRandom fileContact us
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+Meta-WikiWikidataWikipedia
+In Wikipedia
+EnglishItaliano
+Edit links
+ This page was last edited on 24 February 2023, at 14:56.
+Files are available under licenses specified on their description page. All structured data from the file namespace is available under the Creative Commons CC0 License; all unstructured text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+By using this site, you agree to the Terms of Use and the Privacy Policy.
+Privacy policy
+About Wikimedia Commons
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

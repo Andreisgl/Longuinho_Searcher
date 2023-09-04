@@ -1,0 +1,9 @@
+https://www.stackless.com
+https://www.stackless.com
+https://foss.heptapod.net/pypy/pypy/-/tree/branch/default/rpython/translator/c/src/stacklet/
+https://foss.heptapod.net/pypy/pypy/-/tree/branch/default/lib_pypy/greenlet.py
+https://greenlet.readthedocs.io/
+https://foss.heptapod.net/pypy/pypy/-/tree/branch/default/rpython/translator/c/src/stacklet/stacklet.h
+https://www.sphinx-doc.org/
+https://github.com/readthedocs/sphinx_rtd_theme
+https://readthedocs.org

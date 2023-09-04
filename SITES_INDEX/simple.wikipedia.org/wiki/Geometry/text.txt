@@ -1,0 +1,159 @@
+Geometry - Simple English Wikipedia, the free encyclopedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Getting around
+Main pageSimple startSimple talkNew changesShow any pageHelpContact usGive to WikipediaAbout Wikipedia
+Languages
+Language links are at the top of the page across from the title.
+Search
+Search
+Create accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+Beginning
+1Uses
+2Origins
+3Non-Euclidean geometry
+4Examples
+5Related pages
+6References
+Toggle the table of contents
+Toggle the table of contents
+Geometry
+176 languages
+АдыгэбзэAfrikaansAlemannischአማርኛअंगिकाالعربيةAragonésঅসমীয়াAsturianuAvañe'ẽAzərbaycancaتۆرکجهবাংলাBân-lâm-gúБашҡортсаБеларускаяБеларуская (тарашкевіца)भोजपुरीBikol CentralBislamaБългарскиབོད་ཡིགBosanskiBrezhonegБуряадCatalàЧӑвашлаČeštinaChiShonaCorsuCymraegDanskالدارجةDeutschEestiΕλληνικάEmiliàn e rumagnòlEnglishЭрзяньEspañolEsperantoEstremeñuEuskaraفارسیFiji HindiFøroysktFrançaisGaeilgeGaelgGàidhligGalego贛語Gĩkũyũગુજરાતી客家語/Hak-kâ-ngî한국어Հայերենहिन्दीHrvatskiIdoIlokanoBahasa IndonesiaInterlinguaInterlingueIsiZuluÍslenskaItalianoעבריתJawaKabɩyɛಕನ್ನಡქართულიҚазақшаKernowekKiswahiliKreyòl ayisyenKriyòl gwiyannenKurdîКыргызчаລາວLatinaLatviešuLëtzebuergeschLietuviųLi NihaLigureLimburgsLingálaLingua Franca NovaLugandaLombardMagyarМакедонскиMalagasyമലയാളംMaltiमराठीმარგალურიဘာသာ မန်Bahasa MelayuMirandésМокшеньМонголမြန်မာဘာသာNa Vosa VakavitiNederlandsनेपालीनेपाल भाषा日本語NordfriiskNorsk bokmålNorsk nynorskNovialOccitanОлык марийଓଡ଼ିଆOromooOʻzbekcha / ўзбекчаਪੰਜਾਬੀپنجابیپښتوPatoisភាសាខ្មែរPiemontèisPlattdüütschPolskiPortuguêsQaraqalpaqshaRomânăRuna SimiРусиньскыйРусскийСаха тылаScotsSeelterskShqipSicilianuසිංහලسنڌيSlovenčinaSlovenščinaŚlůnskiSoomaaligaکوردیСрпски / srpskiSrpskohrvatski / српскохрватскиSundaSuomiSvenskaTagalogதமிழ்TaqbaylitТатарча / tatarçaతెలుగుไทยТоҷикӣᏣᎳᎩTürkçeTürkmençeТыва дылУкраїнськаاردوVahcuenghVènetoVepsän kel’Tiếng ViệtVõro文言Winaray吴语Xitsongaייִדיש粵語ZazakiŽemaitėška中文
+Change links
+PageTalk
+English
+ReadChangeChange sourceView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadChangeChange sourceView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Make a bookDownload as PDFPage for printing
+In other projects
+Wikimedia Commons
+From Simple English Wikipedia, the free encyclopedia
+Axel Helsted, "Geometry"
+Geometry is the part of mathematics that studies the size, shapes, positions and dimensions of things. We can only see shapes that are flat (2D) or solid (3D), but mathematicians (people who study math) are able to study shapes that are 4D, 5D, 6D, and so on.
+Squares, circles and triangles are some of the simplest shapes in flat geometry. Cubes, cylinders, cones and spheres are simple shapes in solid geometry.
+Uses[change | change source]
+Plane geometry can be used to measure the area and perimeter of a flat shape. Solid geometry can measure a solid shape's volume and surface area.
+Geometry can be used to calculate the size and shape of many things. For example, geometry can help people find:
+the surface area of a house, so they can buy the right amount of paint
+the volume of a box, to see if it is big enough to hold a liter of food
+the area of a farm, so it can be divided into equal parts
+the distance around the edge of a pond, to know how much fencing to buy.
+Origins[change | change source]
+Geometry is one of the oldest branches of mathematics. Geometry began as the art of surveying of land so that it could be shared fairly between people. The word "geometry" is from a Greek word that means "to measure the land". It has grown from this to become one of the most important parts of mathematics. The Greek mathematician Euclid wrote the first book about geometry, a book called The Elements.
+Non-Euclidean geometry[change | change source]
+Plane and solid geometry, as described by Euclid in his textbook Elements, is called "Euclidean Geometry". This was simply called "geometry" for centuries. In the 19th century, mathematicians created several new kinds of geometry that changed the rules of Euclidean geometry. These and earlier kinds were called "non-Euclidean" (not created by Euclid). For example, hyperbolic geometry and elliptic geometry come from changing Euclid's parallel postulate.
+Non-Euclidean geometry is more complicated than Euclidean geometry but has many uses. Spherical geometry for example is used in astronomy and cartography.
+Examples[change | change source]
+Geometry starts with a few simple ideas that are thought to be true, called axioms. Such as:
+A point is shown on paper by touching it with a pencil or pen, without making any sideways movement. We know where the point is, but it has no size.
+A straight line is the shortest distance between two points. For example, Sophie pulls a piece of string from one point to another point. A straight line between the two points will follow the path of the tight string.
+A plane is a flat surface that does not stop in any direction. For example, imagine a wall that extends in all directions infinitely.
+Related pages[change | change source]
+Topology
+References[change | change source]
+vteMathematics (areas of mathematics)Foundations
+Category theory
+Information theory
+Mathematical logic
+Philosophy of mathematics
+Set theory
+Type theory
+Algebra
+Abstract
+Elementary
+Group theory
+Linear
+Commutative
+Multilinear
+Universal
+Homological
+Analysis
+Calculus
+Real analysis
+Complex analysis
+Differential equations
+Functional analysis
+Harmonic analysis
+Measure theory
+Discrete
+Combinatorics
+Graph theory
+Order theory
+Game theory
+Geometry
+Algebraic
+Analytic
+Differential
+Euclidean
+Discrete
+Finite
+Number theory
+Arithmetic
+Algebraic number theory
+Analytic number theory
+Diophantine geometry
+Topology
+Algebraic
+Geometric
+General
+Differential
+Homotopy theory
+Applied
+Control theory
+Mathematical physics
+Probability
+Statistics
+Engineering mathematics
+Mathematical biology
+Mathematical chemistry
+Mathematical economics
+Mathematical finance
+Mathematical psychology
+Mathematical sociology
+Mathematical statistics
+Operations research
+Computational
+Computer science
+Theory of computation
+Computational complexity theory
+Numerical analysis
+Optimization
+Computer algebra
+Related topics
+History of mathematics
+Recreational mathematics
+Mathematics and art
+Mathematics education
+Wikimedia Commons has media related to Geometry.
+Retrieved from "https://simple.wikipedia.org/w/index.php?title=Geometry&oldid=8970088"
+Category: GeometryHidden category: Commons category link from Wikidata
+ This page was last changed on 30 July 2023, at 06:00.
+Text is available under the Creative Commons Attribution-ShareAlike License and the GFDL; additional terms may apply. See Terms of Use for details.
+Privacy policy
+About Wikipedia
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

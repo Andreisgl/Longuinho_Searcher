@@ -1,0 +1,1456 @@
+iron - Wikidata
+iron
+(Q677)
+From Wikidata
+Jump to navigation
+Jump to search
+chemical element with symbol Fe and atomic number 26Feelement 2626Fe
+Language
+Label
+Description
+Also known as
+English
+iron
+chemical element with symbol Fe and atomic number 26
+Feelement 2626Fe
+Statements
+instance of
+chemical element
+follows
+manganese
+followed by
+cobalt
+0 references
+metal
+0 references
+subclass of
+medication
+1 reference
+stated in
+DrugBank
+DrugBank ID
+01592
+language of work or name
+English
+title
+Iron (English)
+publication date
+17 November 2015
+native element as a mineral
+0 references
+primary metabolite
+1 reference
+stated in
+Reactome
+reference URL
+https://reactome.org/PathwayBrowser/#/R-HSA-1430728&DTAB=MT
+part of
+period 4
+follows
+manganese
+followed by
+cobalt
+series ordinal
+8
+0 references
+group 8
+0 references
+image
+Iron electrolytic and 1cm3 cube.jpg5,135 × 3,197; 4.18 MB
+1 reference
+imported from Wikimedia project
+Dutch Wikipedia
+mass
+55.845±0.002 dalton
+1 reference
+stated in
+Pure and Applied Chemistry
+title
+Atomic weights of the elements 2013 (IUPAC Technical Report) (English)
+retrieved
+19 October 2020
+DOI
+10.1515/PAC-2015-0305177177
+discoverer or inventor
+unknown value
+0 references
+time of discovery or invention
+5. millennium BCE
+sourcing circumstances
+circa
+0 references
+element symbol
+Fe
+1 reference
+stated in
+Atomic weights of the elements 2009 (IUPAC Technical Report)
+chemical formula
+Fe
+1 reference
+stated in
+PubChem
+PubChem CID
+23925
+language of work or name
+English
+title
+IRON (English)
+retrieved
+18 November 2016
+canonical SMILES
+[Fe]
+1 reference
+stated in
+PubChem
+PubChem CID
+23925
+language of work or name
+English
+title
+IRON (English)
+retrieved
+18 November 2016
+atomic number
+26
+1 reference
+stated in
+Atomic weights of the elements 2009 (IUPAC Technical Report)
+electron configuration
+[Ar] 3d⁶ 4s²
+0 references
+electronegativity
+1.83
+1 reference
+imported from Wikimedia project
+Hebrew Wikipedia
+Wikimedia import URL
+https://he.wikipedia.org/w/index.php?title=ברזל&oldid=26236904
+ionic radius
+0.63 ångström
+charge number
+2
+coordination number
+4
+1 reference
+ISBN-10
+0-8493-0485-7
+0.61 ångström
+charge number
+2
+coordination number
+6
+1 reference
+ISBN-10
+0-8493-0485-7
+0.92 ångström
+charge number
+2
+coordination number
+8
+1 reference
+ISBN-10
+0-8493-0485-7
+0.49 ångström
+charge number
+3
+coordination number
+4
+1 reference
+ISBN-10
+0-8493-0485-7
+0.55 ångström
+charge number
+3
+coordination number
+6
+1 reference
+ISBN-10
+0-8493-0485-7
+0.78 ångström
+charge number
+3
+coordination number
+8
+1 reference
+ISBN-10
+0-8493-0485-7
+oxidation state
+−2
+1 reference
+imported from Wikimedia project
+English Wikipedia
+−1
+1 reference
+imported from Wikimedia project
+English Wikipedia
+1
+1 reference
+imported from Wikimedia project
+English Wikipedia
+2
+1 reference
+imported from Wikimedia project
+English Wikipedia
+3
+1 reference
+imported from Wikimedia project
+English Wikipedia
+4
+1 reference
+imported from Wikimedia project
+English Wikipedia
+5
+1 reference
+imported from Wikimedia project
+English Wikipedia
+6
+1 reference
+imported from Wikimedia project
+English Wikipedia
+magnetic ordering
+ferromagnetism
+0 references
+thermal conductivity
+84 watt per metre kelvin
+1 reference
+ISBN-13
+978-4-621-08292-8
+density
+7.874 gram per cubic centimetre
+temperature
+20 degree Celsius
+phase of matter
+solid
+1 reference
+imported from Wikimedia project
+French Wikipedia
+melting point
+1,811 kelvin
+0 references
+1,538 degree Celsius
+2 references
+title
+CRC Handbook of Chemistry and Physics. 81st Edition (English)
+publisher
+CRC Press
+place of publication
+Boca Raton
+publication date
+2000
+page(s)
+4-64
+editor
+David R. Lide, Jr.
+stated in
+CRC Handbook of Chemistry and Physics (95th edition)
+page(s)
+4-19
+boiling point
+2,861 degree Celsius
+1 reference
+title
+CRC Handbook of Chemistry and Physics. 81st Edition (English)
+publisher
+CRC Press
+place of publication
+Boca Raton
+publication date
+2000
+page(s)
+4-64
+editor
+David R. Lide, Jr.
+IMA Mineral Symbol
+Fe
+1 reference
+stated in
+IMA–CNMNC approved mineral symbols
+relative permeability
+200,000
+1 reference
+Wikimedia import URL
+https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/relative_permeability&oldid=729203103
+embodied energy
+25 megajoule per kilogram
+1 reference
+Wikimedia import URL
+https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/embodied_energy&oldid=781241770
+found in taxon
+fennel
+1 reference
+stated in
+Effect of oral administration of fennel (Foeniculum vulgare) on ciprofloxacin absorption and disposition in the rat
+Phytelephas aequatorialis
+1 reference
+stated in
+Phytelephas aequatorialis (arecaceae) in human and animal nutrition
+Adenia gummifera
+1 reference
+stated in
+Determination of iron content in different parts of herbs used traditionally for anaemia treatment in East Africa.
+Albizia versicolor
+1 reference
+stated in
+Determination of iron content in different parts of herbs used traditionally for anaemia treatment in East Africa.
+Allophylus rubifolius
+1 reference
+stated in
+Determination of iron content in different parts of herbs used traditionally for anaemia treatment in East Africa.
+Artemia salina
+2 references
+stated in
+Composition of San Francisco bay brine shrimp (Artemia salina)
+stated in
+Isolation and chemical evaluation of protein from shrimp cannery effluent.
+Brackenridgea zanguebarica
+1 reference
+stated in
+Determination of iron content in different parts of herbs used traditionally for anaemia treatment in East Africa.
+Bridelia cathartica
+1 reference
+stated in
+Determination of iron content in different parts of herbs used traditionally for anaemia treatment in East Africa.
+Commiphora africana
+1 reference
+stated in
+Determination of iron content in different parts of herbs used traditionally for anaemia treatment in East Africa.
+Euphorbia lancifolia
+2 references
+stated in
+A neglected Mayan galactagogue - ixbut (Euphorbia lancifolia).
+stated in
+A Neglected Mayan Galactagogue. Ixbut (Euphorbia lancifolia)
+Theobroma cacao
+1 reference
+stated in
+Constituents of Cocoa Husks
+Triumfetta rhomboidea
+1 reference
+stated in
+Determination of iron content in different parts of herbs used traditionally for anaemia treatment in East Africa.
+Adenia cissampeloides
+1 reference
+stated in
+Determination of iron content in different parts of herbs used traditionally for anaemia treatment in East Africa.
+Lannea schweinfurthii var. stuhlmannii
+1 reference
+stated in
+Determination of iron content in different parts of herbs used traditionally for anaemia treatment in East Africa.
+Isaria cicadae
+1 reference
+stated in
+Chemical Constituents of Cordyceps cicadae
+medical condition treated
+iron deficiency anemia
+1 reference
+stated in
+NDF-RT
+NDF-RT ID
+N0000146032
+language of work or name
+English
+retrieved
+13 December 2016
+hypochromic anemia
+1 reference
+stated in
+NDF-RT
+NDF-RT ID
+N0000146032
+language of work or name
+English
+retrieved
+13 December 2016
+has quality
+ferromagnetism
+0 references
+subject has role
+trace metal
+1 reference
+stated in
+Medical Subject Headings
+MeSH descriptor ID
+D007501
+retrieved
+15 March 2018
+described by source
+Bible Encyclopedia of Archimandrite Nicephorus
+statement is subject of
+Q21501657
+0 references
+Small Brockhaus and Efron Encyclopedic Dictionary
+statement is subject of
+Q21501656
+0 references
+Brockhaus and Efron Encyclopedic Dictionary
+statement is subject of
+Q21501664
+0 references
+Armenian Soviet Encyclopedia
+0 references
+Ottův slovník naučný
+statement is subject of
+Q23861299
+0 references
+Gujin Tushu Jicheng
+statement is subject of
+Q96600705
+0 references
+Iron
+publication date
+1911
+published in
+Encyclopædia Britannica
+language of work or name
+English
+0 references
+Encyclopædia Britannica 11th edition
+statement is subject of
+Iron
+0 references
+on focus list of Wikimedia project
+Wikipedia:List of articles all languages should have
+0 references
+Wikipedia:Vital articles/Level/4
+point in time
+31 October 2022
+0 references
+Unicode character
+鐵
+1 reference
+reference URL
+https://www.cns11643.gov.tw/wordView.jsp?ID=97079
+retrieved
+13 July 2019
+different from
+serum iron
+0 references
+Q20418737
+0 references
+permanent duplicated item
+Q22828608
+0 references
+Commons gallery
+Iron
+0 references
+Commons category
+Iron
+0 references
+topic's main category
+Category:Iron
+0 references
+Identifiers
+Biblioteca Nacional de España ID
+XX524497
+1 reference
+stated in
+Spain open data portal
+title
+Registros de autoridad de "Materia" de la Biblioteca Nacional de España (Spanish)
+reference URL
+https://www.bne.es/media/datosgob/catalogo-autoridades/materia/materia-UTF8.zip
+retrieved
+21 July 2023
+Bibliothèque nationale de France ID
+11975665r
+0 references
+GND ID
+4014002-7
+mapping relation type
+exact match
+1 reference
+imported from Wikimedia project
+German Wikipedia
+National Library of Israel J9U ID
+987007560416405171
+1 reference
+stated in
+National Library of Israel
+Library of Congress authority ID
+sh85068131
+1 reference
+imported from Wikimedia project
+German Wikipedia
+NDL Authority ID
+00572915
+0 references
+NL CR AUT ID
+ph127955
+subject named as
+železo
+0 references
+Dewey Decimal Classification
+672
+0 references
+InChI
+InChI=1S/Fe
+1 reference
+stated in
+PubChem
+PubChem CID
+23925
+language of work or name
+English
+title
+IRON (English)
+retrieved
+18 November 2016
+InChIKey
+XEEYBQQBJWHFJM-UHFFFAOYSA-N
+2 references
+stated in
+PubChem
+PubChem CID
+23925
+language of work or name
+English
+title
+IRON (English)
+retrieved
+18 November 2016
+stated in
+ChEBI release 2020-09-01
+CAS Registry Number
+7439-89-6
+1 reference
+stated in
+Global Substance Registration System
+UNII
+E1UOL152H7
+language of work or name
+English
+title
+iron (English)
+retrieved
+18 November 2016
+ChemSpider ID
+22368
+1 reference
+stated in
+ChemSpider
+ChemSpider ID
+22368
+language of work or name
+English
+title
+Iron (English)
+retrieved
+18 November 2016
+PubChem CID
+23925
+1 reference
+stated in
+PubChem
+PubChem CID
+23925
+language of work or name
+English
+title
+IRON (English)
+retrieved
+18 November 2016
+ChEBI ID
+18248
+mapping relation type
+exact match
+1 reference
+stated in
+DrugBank
+DrugBank ID
+01592
+language of work or name
+English
+title
+Iron (English)
+publication date
+17 November 2015
+CAMEO Chemicals ID
+11656
+0 references
+ZVG number
+8210
+0 references
+HSDB ID
+604
+1 reference
+stated in
+Hazardous Substances Data Bank
+HSDB ID
+604
+publication date
+28 October 2019
+title
+IRON, ELEMENTAL (English)
+retrieved
+10 May 2021
+DSSTox substance ID
+DTXSID5043710
+1 reference
+stated in
+Mapping file of InChIStrings, InChIKeys and DTXSIDs for the EPA CompTox Dashboard
+DSSTOX compound identifier
+DTXCID3023710
+0 references
+LiverTox ID
+Iron
+0 references
+EC number
+231-096-4
+1 reference
+stated in
+Global Substance Registration System
+UNII
+E1UOL152H7
+language of work or name
+English
+title
+iron (English)
+retrieved
+18 November 2016
+ECHA Substance Infocard ID
+100.028.270
+1 reference
+stated in
+ECHA Substance Infocard database
+ECHA Substance Infocard ID
+100.028.270
+retrieved
+27 December 2018
+title
+Iron (English)
+quotation
+CAS no.: 7439-89-6 (English)
+Open Food Facts ingredient ID
+iron
+0 references
+CosIng number
+83503
+1 reference
+stated in
+CosIng database
+CosIng number
+83503
+retrieved
+28 December 2019
+title
+IRON POWDER (English)
+quotation
+CAS no.: 7439-89-6 (English)
+PesticideInfo chemical ID
+PRI3683
+0 references
+AICS Chemical ID (BEING DELETED)
+10980
+0 references
+MeSH descriptor ID
+D007501
+subject named as
+Iron
+0 references
+MeSH concept ID
+M0011718
+0 references
+MeSH tree code
+D01.268.556.412
+0 references
+D01.268.956.287
+0 references
+D01.552.544.412
+0 references
+RxNorm ID
+90176
+1 reference
+stated in
+Global Substance Registration System
+UNII
+E1UOL152H7
+language of work or name
+English
+title
+iron (English)
+retrieved
+18 November 2016
+DrugBank ID
+01592
+1 reference
+stated in
+DrugBank
+DrugBank ID
+01592
+language of work or name
+English
+title
+Iron (English)
+retrieved
+18 November 2016
+Human Metabolome Database ID
+HMDB0015531
+0 references
+UNII
+E1UOL152H7
+1 reference
+stated in
+Global Substance Registration System
+UNII
+E1UOL152H7
+language of work or name
+English
+title
+iron (English)
+retrieved
+18 November 2016
+NDF-RT ID
+N0000146032
+1 reference
+stated in
+Global Substance Registration System
+UNII
+E1UOL152H7
+language of work or name
+English
+title
+iron (English)
+retrieved
+18 November 2016
+Probes And Drugs ID
+PD009463
+0 references
+KEGG ID
+C00023
+0 references
+AEDA subject keyword ID
+17568
+0 references
+Art & Architecture Thesaurus ID
+300011002
+mapping relation type
+exact match
+0 references
+Australian Educational Vocabulary ID
+scot/2214
+0 references
+BabelNet ID
+00006856n
+1 reference
+stated in
+BabelNet
+BBC Things ID
+ebc64e37-1658-4631-b694-dd5a184dda15
+1 reference
+stated in
+BBC Things
+BNCF Thesaurus ID
+474
+1 reference
+stated in
+National Central Library of Florence
+Brockhaus Enzyklopädie online ID
+Hola
+0 references
+eisen-20
+0 references
+Den Store Danske ID
+jern
+0 references
+Encyclopædia Britannica Online ID
+science/iron-chemical-element
+0 references
+Encyclopædia Universalis ID
+fer-l-element-metallique
+0 references
+fer-vue-d-ensemble
+0 references
+Encyclopedia of China (Third Edition) ID
+323874
+0 references
+Encyclopedia of Korean Culture ID
+E0031188
+0 references
+Encyclopedie berbere keyword ID
+2031
+0 references
+Europeana Fashion Vocabulary ID
+10552
+subject named as
+iron
+broader concept
+metal
+0 references
+EuroVoc ID
+981
+0 references
+Freebase ID
+/m/025rw19
+1 reference
+stated in
+Freebase Data Dumps
+publication date
+28 October 2013
+French Vikidia ID
+Fer
+0 references
+Golden ID
+Iron-RM8V
+1 reference
+retrieved
+10 September 2022
+reference URL
+https://golden.com/wiki/Iron-RM8V
+Great Aragonese Encyclopedia ID
+6825
+0 references
+Great Russian Encyclopedia Online ID (old version)
+2625019
+subject named as
+ЖЕЛЕЗО
+0 references
+Gujarati Vishwakosh entry
+આયર્ન-લોહ
+0 references
+HDS ID
+026231
+0 references
+Italian Vikidia ID
+Ferro
+0 references
+JSTOR topic ID
+iron-compounds
+0 references
+KBpedia ID
+Iron
+1 reference
+stated in
+KBpedia
+retrieved
+9 July 2020
+Klexikon article ID
+Eisen
+0 references
+Krugosvet article
+nauka_i_tehnika/himiya/ZHELEZO.html
+0 references
+Language of Bindings ID
+2416
+0 references
+Latvian National Encyclopedia Online ID
+149532
+0 references
+NALT ID
+33434
+0 references
+Namuwiki ID
+철(원소)
+0 references
+NE.se ID
+järn
+0 references
+NicoNicoPedia ID
+鉄
+0 references
+Nomisma ID
+fe
+0 references
+OmegaWiki Defined Meaning
+2024
+0 references
+PACTOLS thesaurus ID
+pcrtJWWucnutA0
+0 references
+PSH ID
+5775
+0 references
+Quora topic ID
+Iron
+0 references
+RKD thesaurus ID
+37450
+0 references
+Römpp online ID
+RD-05-00418
+1 reference
+imported from Wikimedia project
+German Wikipedia
+ScienceDirect topic ID
+chemistry/iron
+0 references
+engineering/iron
+0 references
+materials-science/iron
+0 references
+Spanish Cultural Heritage thesauri ID
+materias/1000924
+0 references
+Spanish Vikidia ID
+Hierro
+0 references
+Store norske leksikon ID
+jern
+mapping relation type
+exact match
+0 references
+STW Thesaurus for Economics ID
+14281-3
+mapping relation type
+exact match
+0 references
+Treccani ID
+ferro
+subject named as
+ferro
+0 references
+UK Archival Thesaurus ID
+f2/mt225/4347/3178
+subject named as
+Iron
+0 references
+UMLS CUI
+C0302583
+1 reference
+stated in
+Global Substance Registration System
+UNII
+E1UOL152H7
+language of work or name
+English
+title
+iron (English)
+retrieved
+18 November 2016
+UNESCO Thesaurus ID
+concept10788
+0 references
+UNSPSC Code
+11101713
+0 references
+USGS Thesaurus ID
+1483
+0 references
+WikiSkripta ID
+7294
+0 references
+Wolfram Language entity code
+Entity["Mineral", "Iron"]
+0 references
+WordNet 3.1 Synset ID
+14666595-n
+1 reference
+stated in
+GF WordNet
+YSO ID
+11738
+1 reference
+stated in
+YSO-Wikidata mapping project
+ 
+Sitelinks
+Wikipedia(216 entries)
+afwiki
+Yster
+alswiki
+Eisen
+amiwiki
+Marad
+amwiki
+ብረት
+angwiki
+Īsen
+anpwiki
+लोहा
+anwiki
+Fierro
+arcwiki
+ܦܪܙܠܐ
+arwiki
+حديد
+arywiki
+حديد
+arzwiki
+حديد
+astwiki
+Fierro
+aswiki
+লো
+avkwiki
+Azil
+awawiki
+आइरन
+azbwiki
+دمیر
+azwiki
+Dəmir
+banwiki
+Wesi
+bat_smgwiki
+Gelžės
+bawiki
+Тимер
+bclwiki
+Bakal
+be_x_oldwiki
+Жалеза
+bewiki
+Жалеза
+bgwiki
+Желязо
+bhwiki
+लोहा
+biwiki
+Aien
+bjnwiki
+Wasi
+blkwiki
+ပသီႏ
+bnwiki
+লোহা
+bowiki
+ལྕགས།
+brwiki
+Houarn
+bswiki
+Željezo
+bxrwiki
+Түмэр
+cawiki
+Ferro
+cdowiki
+Tiék
+cebwiki
+Yero
+chrwiki
+ᏔᎷᎩᏍᎩ
+ckbwiki
+ئاسن
+cowiki
+Ferru
+cswiki
+Železo
+cuwiki
+Жєлѣꙁо
+cvwiki
+Тимĕр
+cywiki
+Haearn
+dagwiki
+Kurugu
+dawiki
+Jern
+dewiki
+Eisen
+dinwiki
+Wëu
+diqwiki
+Asın
+dvwiki
+ދަގަނޑު
+elwiki
+Σίδηρος
+enwiki
+Iron
+eowiki
+Fero
+eswiki
+Hierro
+etwiki
+Raud
+euwiki
+Burdina
+extwiki
+Hierru
+fawiki
+آهن
+fiu_vrowiki
+Raud
+fiwiki
+Rauta
+fjwiki
+Aironi
+fowiki
+Jarn
+frrwiki
+Stälj
+frwiki
+Fer
+furwiki
+Fier
+fywiki
+Izer
+ganwiki
+鐵
+gawiki
+Iarann
+gcrwiki
+Fè
+gdwiki
+Iarann
+glwiki
+Ferro
+gnwiki
+Itakandua
+gomwiki
+लोखण
+gorwiki
+Wuwate
+guwiki
+લોખંડ
+gvwiki
+Yiarn
+hakwiki
+Thiet
+hewiki
+ברזל
+hifwiki
+Loha
+hiwiki
+लोहा
+hrwiki
+Željezo
+htwiki
+Fè (non)
+huwiki
+Vas
+hywiki
+Երկաթ
+iawiki
+Ferro
+idwiki
+Besi
+iewiki
+Ferre
+inhwiki
+Аьшк
+iowiki
+Fero
+iswiki
+Járn
+itwiki
+Ferro
+jamwiki
+Ayan
+jawiki
+鉄
+jbowiki
+tirse
+jvwiki
+Wesi
+kaawiki
+Temir
+kabwiki
+Uzzal
+kawiki
+რკინა
+kbpwiki
+Ñɩɣtʊ ñɩɣɖɛ
+kgwiki
+Kibende
+kiwiki
+Iron
+kkwiki
+Темір
+knwiki
+ಕಬ್ಬಿಣ
+koiwiki
+Кӧрт
+kowiki
+철
+kshwiki
+Eisen
+kuwiki
+Hesin
+kvwiki
+Кӧрт
+kwwiki
+Horn
+kywiki
+Темир
+lawiki
+Ferrum
+lbewiki
+Мах
+lbwiki
+Eisen
+lezwiki
+Ракь
+lfnwiki
+Fero
+lgwiki
+Kkalwe (Iron)
+lijwiki
+Færo
+liwiki
+Iezer
+lldwiki
+Fer
+lmowiki
+Fer
+lnwiki
+Ebendé
+ltwiki
+Geležis
+lvwiki
+Dzelzs
+maiwiki
+लोहा
+mdfwiki
+Кшни
+mgwiki
+Vy
+minwiki
+Basi
+miwiki
+Rino
+mkwiki
+Железо
+mlwiki
+ഇരുമ്പ്
+mniwiki
+ꯌꯣꯠ
+mnwiki
+Төмөр (химийн элемент)
+mrwiki
+लोखंड
+mswiki
+Besi
+mtwiki
+Ħadid
+myvwiki
+Кшни
+mywiki
+သံ (သတ္တု)
+nahwiki
+Tliltic tepoztli
+napwiki
+Fierro
+nds_nlwiki
+Iezer
+ndswiki
+Iesen
+newiki
+फलाम
+newwiki
+नँ
+nlwiki
+IJzer (element)
+nnwiki
+Jern
+nowiki
+Jern
+nrmwiki
+Fé
+nvwiki
+Béésh (Fe)
+ocwiki
+Fèrre
+olowiki
+Raudu
+omwiki
+Ayinanii
+orwiki
+ଲୁହା
+oswiki
+Æфсæйнаг
+papwiki
+Heru
+pawiki
+ਲੋਹਾ
+pihwiki
+Aiyen
+plwiki
+Żelazo
+pmswiki
+Fer
+pnbwiki
+لوہا
+pswiki
+وسپنه
+ptwiki
+Ferro
+quwiki
+Khillay
+roa_rupwiki
+Heru
+rowiki
+Fier
+ruewiki
+Желїзо
+ruwiki
+Железо
+sahwiki
+Тимир
+satwiki
+ᱢᱮᱬᱦᱮᱫ
+sawiki
+अयः
+scnwiki
+Ferru
+scowiki
+Airn
+scwiki
+Ferru
+sdwiki
+لوھ
+shwiki
+Željezo
+simplewiki
+Iron
+siwiki
+යකඩ
+skwiki
+Železo
+slwiki
+Železo
+smnwiki
+Ryevdi
+snwiki
+Utare
+sowiki
+Xadiid
+sqwiki
+Hekuri
+srwiki
+Гвожђе
+stqwiki
+Iersen
+suwiki
+Beusi
+svwiki
+Järn
+swwiki
+Chuma
+tawiki
+இரும்பு
+tcywiki
+ಕರ್ಬೊದ ಅದುರು
+tewiki
+ఇనుము
+tgwiki
+Оҳан
+thwiki
+เหล็ก
+tlwiki
+Bakal
+trwiki
+Demir
+ttwiki
+Тимер
+ugwiki
+تۆمۈر
+ukwiki
+Залізо
+urwiki
+لوہا
+uzwiki
+Temir
+vecwiki
+Fero
+vepwiki
+Raud
+viwiki
+Sắt
+vlswiki
+Yzer (element)
+vowiki
+Ferin
+warwiki
+Puthaw
+wawiki
+Fier
+wuuwiki
+铁
+xalwiki
+Төмр
+xmfwiki
+რკინა
+yiwiki
+אייזן
+yowiki
+Iron
+zawiki
+Diet
+zh_classicalwiki
+鐵
+zh_min_nanwiki
+Thih
+zh_yuewiki
+鐵
+zhwiki
+铁
+zuwiki
+Insimbi
+Wikibooks(0 entries)
+Wikinews(0 entries)
+Wikiquote(18 entries)
+azwikiquote
+Dəmir
+cswikiquote
+Železo
+dewikiquote
+Eisen
+enwikiquote
+Iron
+eowikiquote
+Fero
+eswikiquote
+Hierro
+etwikiquote
+Raud
+fawikiquote
+آهن
+hewikiquote
+ברזל
+itwikiquote
+Ferro
+jawikiquote
+鉄
+lawikiquote
+Ferrum
+ltwikiquote
+Geležis
+plwikiquote
+Żelazo
+ruwikiquote
+Железо
+skwikiquote
+Železo
+srwikiquote
+Гвожђе
+ukwikiquote
+Залізо
+Wikisource(0 entries)
+Wikiversity(1 entry)
+zhwikiversity
+铁
+Wikivoyage(0 entries)
+Wiktionary(0 entries)
+Multilingual sites(1 entry)
+commonswiki
+Iron
+Retrieved from "https://www.wikidata.org/w/index.php?title=Q677&oldid=1963369140"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+ItemDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 28 August 2023, at 20:36.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

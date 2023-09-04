@@ -1,0 +1,335 @@
+Expert Services | GitHub · GitHub
+Skip to content
+Toggle navigation
+            Sign up
+          
+ 
+        Product
+        
+Actions
+        Automate any workflow
+      
+Packages
+        Host and manage packages
+      
+Security
+        Find and fix vulnerabilities
+      
+Codespaces
+        Instant dev environments
+      
+Copilot
+        Write better code with AI
+      
+Code review
+        Manage code changes
+      
+Issues
+        Plan and track work
+      
+Discussions
+        Collaborate outside of code
+      
+Explore
+      All features
+    
+      Documentation
+    
+      GitHub Skills
+    
+      Blog
+    
+        Solutions
+        
+For
+      Enterprise
+    
+      Teams
+    
+      Startups
+    
+      Education
+    
+By Solution
+      CI/CD & Automation
+    
+      DevOps
+    
+      DevSecOps
+    
+Resources
+      Customer Stories
+    
+      White papers, Ebooks, Webinars
+    
+      Partners
+    
+        Open Source
+        
+GitHub Sponsors
+        Fund open source developers
+      
+The ReadME Project
+        GitHub community articles
+      
+Repositories
+      Topics
+    
+      Trending
+    
+      Collections
+    
+Pricing
+Search or jump to...
+Search code, repositories, users, issues, pull requests...
+ 
+        Search
+      
+Clear
+ 
+ 
+              Search syntax tips
+ 
+        Provide feedback
+      
+ 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+     Cancel
+    Submit feedback
+        Saved searches
+      
+Use saved searches to filter your results more quickly
+ 
+Name
+Query
+            To see all available qualifiers, see our documentation.
+          
+ 
+     Cancel
+    Create saved search
+              Sign in
+            
+              Sign up
+            
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.
+You switched accounts on another tab or window. Reload to refresh your session.
+ 
+ Dismiss alert
+Expert Services
+Introduction
+Our Process
+Services Catalog
+  Contact Experts
+  
+  
+Introduction
+The GitHub Expert Services Team
+  Contact Experts
+  
+  
+Hands-on consulting, guided workshops, and training for your teams.
+We’ll work alongside your developers to bring insights, best practices, and knowledge from across hundreds of organizations to help you adopt GitHub quickly and efficiently.
+          Companies we’ve trained 
+Why expert services?
+We tailor our services to suit your organization’s needs.
+There’s no such thing as a one-size-fits-all solution, which is why we work across your org, whether you’re looking to pick up DevSecOps best practices, dive into Innersource, or try out GitHub Administration.
+ 
+How we help customers
+We take a multifaceted approach to improving your GitHub adoption journey. Here’s what we do best.
+Transform culture
+We improve your visibility and attractiveness to developer communities by leveraging the best practices of InnerSource and open source.
+Streamline processes
+Our automations, workflow implementations, and API integrations make your day-to-day workflow seamless.
+Implement strategy
+Our Delivery Engineers work hand-in-hand with you to design a high-level strategy to achieve your goals.
+Empower people
+We provide developers and team leaders with trainings, workshops, and hackathons.
+Improve technology
+We build and develop tools to export code repositories and metadata.
+Provide support
+We’re available through a shared communication and collaboration channel to assist on day-to-day tasks.
+Our catalog of services
+Whether you use GitHub every day or you’re just getting started, we’ll provide you with the skills your organization needs to work smarter.
+GitHub Actions Training
+This training will enable your teams to start leveraging GitHub Actions in their own projects across a multitude of use cases.
+    Learn more 
+GitHub Admin Training (GitHub Enterprise Cloud)
+Prepare your GitHub Enterprise Cloud Administrators to maintain a healthy GitHub environment that supports the needs of your development team.
+    Learn more 
+GitHub Admin Training (GitHub Enterprise Server)
+Prepare your GitHub Enterprise Server Administrators to maintain a healthy, scalable GitHub environment that supports the needs of your development team.
+    Learn more 
+GitHub API Training
+GitHub’s extensive API allows you to extend the platform to accommodate most modern workflows and easily get the data you need.
+    Learn more 
+GitHub Advanced Security - Getting Started
+Supports you in "Getting Started" with GitHub Advanced Security (GHAS) and helps accelerate adoption in the critical first few weeks of deployment.
+    Learn more 
+CodeQL Query Customizations
+Commision GitHub to customize the existing CodeQL queries to provide better results for your organization.
+    Learn more 
+CodeQL Query Development
+Commision GitHub to develop CodeQL queries based on your unique business needs.
+    Learn more 
+CodeQL Query Writing Tailored Workshop
+This engagement creates a tailored 2 hour training course for using CodeQL to find a security vulnerbility or pattern of your choice.
+    Learn more 
+CodeQL Query Writing Training
+Learn how to write CodeQL to find new security vulnerabilities or customize the existing rules through our extensive catalog of 2 hour training courses.
+    Learn more 
+GitHub Copilot for Business Fundamentals Training
+GitHub Copilot is the world’s first at-scale AI developer tool. Sitting within the editor as a simple extension, GitHub Copilot draws context from a developer’s code to suggest new lines, entire functions, tests, and even complex algorithms.
+    Learn more 
+GitHub Advanced Security - Developer Training
+Allows you to have a "developer-first" approach to Application Security, recognizing that developers have a critical role to play in securing your applications.
+    Learn more 
+GitHub Advanced Security - Pilot Team Implementation
+In this engagement we will work with a pilot or lighthouse team to help them enable GitHub Advanced Security for one or more key repositories.
+    Learn more 
+GitHub Advanced Security - Rollout and Deployment Training
+Provides support during the planning phases by providing best practices, recommended rollout strategies and identifying common pitfalls and issues.
+    Learn more 
+GitHub Advanced Security - Security Advisory Services
+Identify your organization’s top priorities for improving your Secure Software Development Lifecycle with GitHub Advanced Security.
+    Learn more 
+GitHub Advanced Security - Results Review
+Allows you to have a “developer-first” approach to Application Security, recognizing that developers have a critical role to play in securing your applications.
+    Learn more 
+GitHub Advanced Security - Security Team Training
+Supports those who are responsible for reviewing, monitoring and driving remediation of security results across an enterprise.
+    Learn more 
+GitHub for Developers Training
+Give your developers confidence with Git and GitHub with hands-on, practical training from GitHub Expert Services.
+    Learn more 
+GitHub for Non-Developers
+Opening GitHub to a broad audience in your organization, gives your developers access to the expertise and diverse ways of thinking that represent your entire user population.
+    Learn more 
+Implementation (GitHub Enterprise Cloud)
+Equip your team with the knowledge they need to configure and manage your GitHub Enterprise Cloud account.
+    Learn more 
+Implementation (GitHub Enterprise Server)
+Equip your team with the knowledge they need to configure and manage your GitHub Enterprise Server account.
+    Learn more 
+Migrations to GitHub Enterprise (Standard)
+Ensure your Version Control System (VCS) data is migrated to your GitHub Enterprise platform account accurately and efficiently.
+    Learn more 
+Migrations to GitHub Enterprise (GitHub Enterprise Cloud to GitHub Enterprise Cloud EMU)
+Ensure your GitHub Enterprise Cloud data is migrated to your GitHub Enterprise Cloud plus Enterprise Managed Users (EMU) platform account accurately and efficiently.
+    Learn more 
+GitHub Technical Advisory Services
+Identify your organization's top priorities for improving software delivery and enabling a digital transformation.
+    Learn more 
+Workflow Consultation
+Equip your team with the knowledge they need to evaluate, implement, document, and design a workflow solution optimized for your branching and release management strategy.
+    Learn more 
+Our impact
+Learn how GitHub Expert Services has helped the world’s most innovative companies thrive.
+              How Stripe is changing financial technology on GitHub
+            
+    Read more 
+              Why Adobe is building its SaaS platform on GitHub
+            
+    Read more 
+Find out why the world’s most innovative companies use GitHub
+  Explore customer stories
+  
+  
+Frequently asked questions
+        Do you provide hands-on migration services?
+      
+Yes, we have providers who are able to assist our customers with hands-on migrations.
+        What is the lead time for the delivery of the services?
+      
+Delivery of our services range from 4 to 6 weeks.
+        What is the schedule like for each training?
+      
+Depending on the type of training, workshop or advisory services, the schedule can be anywhere between two days and an established cadence of follow ups with our delivery engineers.
+        Can the material be tailored and customized to our needs?
+      
+Yes. While our offerings consist of fixed materials for trainings, we can work with our customers to provide a more tailored solution, if needed.
+        Can the training be provided on-site?
+      
+Yes, we have on-site and remote trainings available.
+        What I’m after isn’t on your list. How do we get help with a specific project?
+      
+Our expert services team will work with you regarding your goals and propose a custom engagement where needed.
+How can we help?
+Let's build a customized solution that meets all of your needs.
+Full name
+Business email
+Company
+What can we help you with?
+Contact our team
+            For support questions, head to github.com/contact
+ 
+Subscribe to The GitHub Insider
+A newsletter for developers covering techniques, technical guides, and the latest product innovations coming from GitHub.
+  Subscribe
+  
+  
+                Yes please, I’d like GitHub and affiliates to use my information for personalized communications, targeted advertising and campaign effectiveness. See the GitHub Privacy Statement for more details.
+              
+  Subscribe
+  
+  
+ 
+Subscribe to The GitHub Insider
+Discover tips, technical guides, and best practices in our monthly newsletter for developers.
+  Subscribe
+  
+  
+          Product
+        
+Features
+Security
+Team
+Enterprise
+Customer stories
+The ReadME Project
+Pricing
+Resources
+Roadmap
+Compare GitHub
+          Platform
+        
+Developer API
+Partners
+Electron
+GitHub Desktop
+          Support
+        
+Docs
+Community Forum
+Professional Services
+Premium Support
+Skills
+Status
+Contact GitHub
+          Company
+        
+About
+Blog
+Careers
+Press
+Inclusion
+Social Impact
+Shop
+GitHub on Twitter
+GitHub on Facebook
+GitHub on LinkedIn
+GitHub on YouTube
+GitHub on Twitch
+GitHub on TikTok
+GitHub’s organization on GitHub
+          © 2023 GitHub, Inc.
+        
+Terms
+Privacy
+          (Updated 08/2022)
+        
+Sitemap
+What is Git?
+    You can’t perform that action at this time.
+  

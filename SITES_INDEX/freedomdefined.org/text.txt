@@ -1,0 +1,77 @@
+Definition of Free Cultural Works
+Version 1.1 of the definition has been released. Please help updating it, contribute translations, and help us with the design of logos and buttons to identify free cultural works and licenses!
+Definition
+From Definition of Free Cultural Works
+(Redirected from Definition/En)
+Jump to navigation
+Jump to search
+Original, v.1.1: English
+Translations, v.1.1: العربية • български • català • čeština • Deutsch • Ελληνικά • Esperanto • español • فارسی • français • galego • hrvatski • italiano • 한국어 • македонски • मराठी • norsk bokmål • Nederlands • norsk nynorsk • polski • português • română • русский • slovenčina • slovenščina • svenska • Tiếng Việt
+Translations, v.1.0 (update/review pending): suomi
+More in progress
+Stable versionThis is the stable version 1.1 of the definition. The version number will be updated as the definition develops. The editable version of the definition can be found at Definition/Unstable. See authoring process for more information, and see translations if you want to contribute a version in another language.
+version 1.0
+Summary
+This document defines "Free Cultural Works" as works or expressions which can be freely studied, applied, copied and/or modified, by anyone, for any purpose. It also describes certain permissible restrictions that respect or protect these essential freedoms. The definition distinguishes between free works, and free licenses which can be used to legally protect the status of a free work. The definition itself is not a license; it is a tool to determine whether a work or license should be considered "free."
+Preamble
+Social and technological advances make it possible for a growing part of humanity to access, create, modify, publish and distribute various kinds of works - artworks, scientific and educational materials, software, articles - in short: anything that can be represented in digital form. Many communities have formed to exercise those new possibilities and create a wealth of collectively re-usable works.
+Most authors, whatever their field of activity, whatever their amateur or professional status, have a genuine interest in favoring an ecosystem where works can be spread, re-used and derived in creative ways. The easier it is to re-use and derive works, the richer our cultures become. 
+To ensure the graceful functioning of this ecosystem, works of authorship should be free, and by freedom we mean:
+the freedom to use the work and enjoy the benefits of using it
+the freedom to study the work and to apply knowledge acquired from it
+the freedom to make and redistribute copies, in whole or in part, of the information or expression
+the freedom to make changes and improvements, and to distribute derivative works
+If authors do not take action, their works are covered by existing copyright laws, which severely limit what others can and cannot do. Authors can make their works free by choosing among a number of legal documents known as licenses. For an author, choosing to put their work under a free license does not mean that they lose all their rights, but it gives to anyone the freedoms listed above.
+It is important that any work that claims to be free provides, practically and without any risk, the aforementioned freedoms. This is why we hereafter give a precise definition of freedom for licenses and for works of authorship.
+Identifying Free Cultural Works
+This is the Definition of Free Cultural Works, and when describing your work, we encourage you to make reference to this definition, as in, "This is a freely licensed work, as explained in the Definition of Free Cultural Works."  If you do not like the term "Free Cultural Work," you can use the generic term "Free Content," or refer instead to one of the existing movements that express similar freedoms in more specific contexts. We also encourage you to use the Free Cultural Works logos and buttons, which are in the public domain.
+Please be advised that such identification does not actually confer the rights described in this definition; for your work to be truly free, it must use one of the Free Culture Licenses or be in the public domain.
+We discourage you to use other terms to identify Free Cultural Works which do not convey a clear definition of freedom, such as "Open Content" and "Open Access." These terms are often used to refer to content which is available under "less restrictive" terms than those of existing copyright laws, or even for works that are just "available on the Web".
+Defining Free Culture Licenses
+Licenses are legal instruments through which the owner of certain legal rights may transfer these rights to third parties. Free Culture Licenses do not take any rights away -- they are always optional to accept, and if accepted, they grant freedoms which copyright law alone does not provide. When accepted, they never limit or reduce existing exemptions in copyright laws.
+Essential freedoms
+In order to be recognized as "free" under this definition, a license must grant the following freedoms without limitation:
+The freedom to use and perform the work: The licensee must be allowed to make any use, private or public, of the work. For kinds of works where it is relevant, this freedom should include all derived uses ("related rights") such as performing or interpreting the work. There must be no exception regarding, for example, political or religious considerations.
+The freedom to study the work and apply the information: The licensee must be allowed to examine the work and to use the knowledge gained from the work in any way. The license may not, for example, restrict "reverse engineering".
+The freedom to redistribute copies: Copies may be sold, swapped or given away for free, as part of a larger work, a collection, or independently. There must be no limit on the amount of information that can be copied. There must also not be any limit on who can copy the information or on where the information can be copied.
+The freedom to distribute derivative works: In order to give everyone the ability to improve upon a work, the license must not limit the freedom to distribute a modified version (or, for physical works, a work somehow derived from the original),  regardless of the intent and purpose of such modifications. However, some restrictions may be applied to protect these essential freedoms or the attribution of authors (see below).
+Permissible restrictions
+Not all restrictions on the use or distribution of works impede essential freedoms. In particular, requirements for attribution, for symmetric collaboration (i.e., "copyleft"), and for the protection of essential freedom are considered permissible restrictions.
+Defining Free Cultural Works
+In order to be considered free, a work must be covered by a Free Culture License, or its legal status must provide the same essential freedoms enumerated above. It is not, however, a sufficient condition. Indeed, a specific work may be non-free in other ways that restrict the essential freedoms. These are the additional conditions in order for a work to be considered free:
+Availability of source data: Where a final work has been obtained through the compilation or processing of a source file or multiple source files, all underlying source data should be available alongside the work itself under the same conditions. This can be the score of a musical composition, the models used in a 3D scene, the data of a scientific publication, the source code of a computer application, or any other such information.
+Use of a free format: For digital files, the format in which the work is made available should not be protected by patents, unless a world-wide, unlimited and irrevocable royalty-free grant is given to make use of the patented technology. While non-free formats may sometimes be used for practical reasons, a free format copy must be available for the work to be considered free.
+No technical restrictions: The work must be available in a form where no technical measures are used to limit the freedoms enumerated above.
+No other restrictions or limitations: The work itself must not be covered by legal restrictions (patents, contracts, etc.) or limitations (such as privacy rights) which would impede the freedoms enumerated above. A work may make use of existing legal exemptions to copyright (in order to cite copyrighted works), though only the portions of it which are unambiguously free constitute a free work.
+In other words, whenever the user of a work cannot legally or practically exercise his or her basic freedoms, the work cannot be considered and should not be called "free."
+Further reading
+See Licenses for discussion of individual licenses, and whether they meet this definition or not.
+See History for acknowledgments and background on this definition.
+See the FAQ for some questions and answers.
+See Portal:Index for topic-specific pages about free cultural works.
+Versioning
+New versions of this definition shall be released as soon as a consensus (achieved directly or through a vote, as per the authoring process) has developed around suggested changes. Numbering shall be 0.x for initial draft releases, 1.x, 2.x .. for major releases, x.1, x.2 .. for minor releases. A minor release is made when the text is modified in ways which do not have an impact on the scope of existing or hypothetical licenses covered by this definition.
+Retrieved from "https://freedomdefined.org/index.php?title=Definition&oldid=19268"
+Navigation menu
+Personal tools
+Not logged inTalkContributionsCreate accountLog in
+Namespaces
+Main PageDiscussion
+English
+expanded
+collapsed
+Views
+ReadView sourceView history
+More
+expanded
+collapsed
+Search
+Navigation
+DefinitionFAQLicense listRecent changesPortalsAwareness
+Tools
+What links hereRelated changesSpecial pagesPrintable versionPermanent linkPage information
+ This page was last edited on 17 February 2015, at 18:57.
+Content is available under Attribution 2.5 unless otherwise noted.
+Privacy policy
+About Definition of Free Cultural Works
+Disclaimers

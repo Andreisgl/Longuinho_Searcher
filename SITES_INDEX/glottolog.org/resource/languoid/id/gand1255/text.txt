@@ -1,0 +1,206 @@
+            Glottolog 4.8 -
+            Ganda
+        
+      Glottolog
+  
+Languages
+Families
+Language Search
+References
+Reference Search
+GlottoScope
+About
+htmlJSONRDF serialized as n3Newick formatRDF serialized as ntPhyloXMLRDF serialized as xmlSVG Classification TreeRDF serialized as turtle
+            Spoken L1 Language: Ganda
+                Classification
+            
+open Ganda
+expand all
+collapse all
+Comments on subclassification
+Schoenbrun, David Lee 1997 ,  Schoenbrun, David L. 1994 
+                Endangerment
+            
+AES status:
+not endangered
+Source:
+David M. Eberhard and Gary F. Simons and Charles D. Fennig 2023
+Comment:
+Ganda (lug-lug) = 3 (Wider communication). De facto language of national identity. Became a language of wider communication in the 18th century when trade with Zanzibar flourished. Also used in religion with the arrival of Protestant, Catholic, and Muslim missionaries. Also used in literature.
+                    Glottocode:
+                     gand1255
+                    ISO 639-3:
+                     lug
+ 
+show big map
+                Links
+            
+ [lug] at ISO 639-3 [lug] at OLAC [lug] at IMTVault Luganda at WALS Wikipedia PHOIBLE Wikidata
+                Alternative names
+            
+lexvo:
+                                Bahasa Luganda
+                                    [id]
+                            
+                                Ganda
+                                    [ca]
+                            
+                                Ganda lingvo
+                                    [eo]
+                            
+                                Ganda simi
+                                    [qu]
+                            
+                                Gandaeg
+                                    [br]
+                            
+                                Gandan kieli
+                                    [fi]
+                            
+                                Idioma luganda
+                                    [es]
+                            
+                                Język luganda
+                                    [pl]
+                            
+                                Luganda
+                                    [de]
+                            
+                                Língua luganda
+                                    [pt]
+                            
+                                ganda
+                                    [fr]
+                            
+                                ganda language
+                                    [en]
+                            
+                                Луганда
+                                    [ru]
+                            
+                                לוגנדה
+                                    [he]
+                            
+                                ルガンダ語
+                                    [ja]
+                            
+                                卢干达语
+                                    [zh]
+                            
+moseley & asher (1994):
+                                Luganda
+                            
+multitree:
+                                Ganda
+                            
+                                Luganda
+                            
+ruhlen (1987):
+                                Luganda
+                            
+wals:
+                                Luganda
+                            
+wals other:
+                                Ganda
+                            
+                Countries
+            
+                                    Uganda [UG]
+                            
+            References
+            ⇫
+Details
+Name
+Title
+Any field
+ca
+Year
+Pages
+Doctype
+ca
+Provider
+da
+--any--
+unknown
+bibliographical
+ethnographic
+overview
+dialectology
+socling
+minimal
+comparative
+wordlist
+new_testament
+text
+phonology
+specific_feature
+dictionary
+grammar_sketch
+grammar
+--any--
+anla
+apics
+asjp2010
+autotyp
+bahasa
+benjamins
+bibliolux
+bowern
+degruyter
+dplace
+eballiso2009
+elcat
+elpub
+evobib
+fabreall2009ann
+gilbertese
+gj
+glossa
+goba
+grambank
+guldemann
+haspelmath
+hedvig-tirailleur
+hh
+iso6393
+jocp
+langsci
+lapolla-tibeto-burman
+ldh
+lewinmanx
+ludger-paschen-germanic
+marctang
+mpieva
+ofdn
+otomanguean
+ozbib
+phoible
+pulotu
+sala
+schikowski_chintang
+seifart
+sil16
+silpng
+sn
+stampe
+wals
+weball
+zorcpapers
+zurich
+Glottolog 4.8
+                            edited by
+                            
+                                Hammarström, Harald & Forkel, Robert & Haspelmath, Martin & Bank, Sebastian
+                           
+                            is licensed under a
+                            
+                                Creative Commons Attribution 4.0 International License.
+                        
+Privacy Policy
+Disclaimer
+ 
+                                Application source
+                                    (v4.6-12-g4773988)
+                                on
+×

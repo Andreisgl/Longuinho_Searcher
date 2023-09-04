@@ -1,0 +1,193 @@
+nitrogenfiksering – Store norske leksikon
+Hopp til hovedinnholdet
+Store
+norske
+leksikon
+Logg inn
+  nitrogenfiksering
+Store norske leksikon
+Medisin
+Diagnostikk og utredning
+Medisinsk mikrobiologi
+Nitrogens funksjoner i organismen
+Bakterier som fikserer nitrogen
+                    Frittlevende
+                  
+                    Symbiotiske
+                  
+Biokjemi
+Måling av aktiviteten til nitrogenase
+Genetikk
+Fysiologi og tilpasning
+                    Blågrønnbakterier
+                  
+                    Azotobacter
+                  
+                    Rhizobium
+                  
+Overføring av nitrogenfiksering til andre bakterier og planter
+Les mer i Store norske leksikon
+      Skrevet av
+    
+                professor emeritus
+              
+              Reidun Sirevåg
+            
+                  Universitetet i Oslo
+                
+Nitrogenfiksering eller nitrogenbinding betyr å omdanne nitrogengass direkte til det mer biologisk tilgjengelige stoffet ammoniakk, en egenskap som bare noen få bakterier har. Biologisk fiksering av molekylært nitrogen er en like viktig prosess for livet på jorda som fotosyntesen fordi dette grunnstoffet er en viktig bestanddel i livsnødvendige stoffer hos alle levende organismer.
+Nitrogengass, molekylært nitrogen, er lite reaktivt og må tilføres mye energi før det reagerer med andre forbindelser.Nitrogen fra luften kan også fikseres kunstig og industrielt, for eksempel i produksjon av kunstgjødsel. For å øke den biologiske nitrogefikseringen gjøres det også forsøk for å overføre genene for nitrogenfiksering til organismer som normalt ikke fikserer nitrogen.
+      Nitrogens funksjoner i organismen
+    
+Grunnstoffet nitrogen, N, inngår i viktige molekyler hos alt levende, blant annet i proteiner, i arvematerialet (DNA) og i klorofyll. Derfor må alle organismer ha tilgang på nitrogen. Mennesker og andre dyr får nitrogen gjennom proteinene i maten de spiser mens plantene tar opp nitrogen i form av nitrat NO3- fra jordsmonnet.
+Når organismene skiller ut avfallsstoffer eller dør, blir de nitrogenholdige forbindelsene brutt ned og kommer tilbake til jord og luft. Det største lageret av nitrogen på Jorda er nitrogengass, molekylært nitrogen, N2, i atmosfæren. Her utgjør denne gassen omkring 79 prosent. Nitrogengass er lite reaktivt og bare noen ganske få bakterier kan utnytte nitrogengass direkte. De omdanner N2 til ammoniakk, NH3, ved såkalt nitrogenfiksering (nitrogenbinding). Andre bakterier omdanner i sin tur ammoniakk til nitritt NO2- og nitrat NO3- som atter andre bakterier omdanner til N2. På den måten går nitrogenet gjennom et kretsløp hvor den biologiske nitrogenbindingen er den begrensende faktoren.
+I kretsløpet hører det også til at nitrogengass blir omdannet til ammonium og nitrat ved utladninger (lyn og torden) i atmosfæren.
+Nitrogenmolekylet er stabilt og lite reaktivt fordi de to nitrogenatomene i molekylet er bundet sammen med tre sterke kovalente bindinger i en trippelbinding (N≡N). For å bryte bindingene slik at det kan reagere med andre atomer, kreves det mye energi.
+Evnen til nitrogenfiksering finnes bare hos noen få arter av bakterier som ellers har lite til felles. Nitrogenfiksering skjer både hos frittlevende bakterier i jord og vann og hos bakterier som lever i symbiose med planter. Tabellen viser en liste av noen kjente arter som fikserer nitrogen.
+      Bakterier som fikserer nitrogen
+    
+          Frittlevende
+        
+Aerobe
+Fakultative
+Anaerobe
+Azotobacter
+Klebsiella
+Clostridium
+Blågrønnbakterier
+Grønne bakterier
+Purpurbakterier
+          Symbiotiske
+        
+Rhizobium i belgplanter
+Frankia i Or
+Lav (blågrønnbakterier og sopp)
+Azolla (blågrønnbakterier og vannbregne)
+      Biokjemi
+    
+Omdannelsen av N2 til NH3 hos bakterier er en reduksjon som er katalysert av enzymet nitrogenase. Enzymet er komplekst, og både syntesen og reguleringen av nitrogenase er avhengig av omkring 20 gener.
+Reaksjonen som enzymet katalyserer kan skrives slik:
+N2 + 16ATP + 8H+ +8e- -----------> 2NH3 + H2 +16 ADP + 16 Pi
+Nitrogenase består av to proteiner: dinitrogenase hvor nitrogenet er bundet under reaksjonen, og dinitrogenase-reduktase som deltar i overføringen av elektroner. Begge proteinene har bundet til seg til kofaktorer som inneholder jern, Fe. Dinitrogenase inneholder i tillegg en kofaktor med molybden, Mo. Kofaktorene deltar direkte i overføringen av elektroner i reaksjonen.
+Reduksjonen av N2 (N≡N) til NH3 foregår trinnvis på enzymet, men ingen mellomprodukter har vært isolert. Det overføres til sammen åtte elektroner i reaksjonen, hvorav to brukes til å produsere molekylært hydrogen H2. Reaksjonen krever også store mengder energi i form av ATP.
+Elektronene som er nødvendige i reaksjonen kommer fra redusert ferredoxin som i sin tur har mottatt dem fra andre forbindelser i cellene. Hva som forsyner ferredoxin med elektroner avhenger av hvilken nitrogenfikserende bakterie man har å gjøre med.
+Nitrogenase blir fullstendig inaktivert av oksygen og derfor skjer det ingen nitrogenfiksering i nærvær av O2. De bakteriene som kan fiksere nitrogen har imidlertid utviklet mekanismer som beskytter enzymsystemet mot oksygen.
+      Måling av aktiviteten til nitrogenase
+    
+Enzymet nitrogenase er uspesifikt og reduserer også andre molekyler med trippelbindinger, for eksempel acetylen HC≡CH som blir redusert til etylen H2C=CH2 . Reduksjon av acetylen til etylen er enkelt å måle i en gasskromatograf og derfor brukes denne metoden til å måle aktiviteten av nitrogenase i laboratoriet. Alternativt kan man bruke den tunge isotopen 15N for å finne ut om det blir omdannet til 15NH3. For å måle 15N kreves massespektroskopi som er relativt tungvint i forhold til gasskromatografi.
+      Genetikk
+    
+Omtrent 20 gener er involvert i syntesen og reguleringen av nitrogenase. Disse genene, nif-genene, ligger samlet i en operon på kromosomet hos alle bakterier med evne til nitrogenfiksering.
+I tillegg til strukturgenene som koder for enhetene i de to proteinene dinitrogenase og dinitrogenase-reduktase, er noen av genene involvert i syntesen av Fe- og Mo-kofaktorene, mens andre gener er reguleringsgener av ulikt slag. Fordi nitrogenfiksering er så energikrevende for organismene, er reaksjonen underlagt streng kontroll. Bakteriene fikserer nitrogen bare når det er absolutt nødvendig og de ikke har tilgang på annen nitrogenkilde, for eksempel NH3.
+      Fysiologi og tilpasning
+    
+Nitrogenase blir raskt inaktivert av oksygen O2 , og derfor er nitrogenfiksering ikke mulig i nærvær av oksygen.
+De ulike bakteriene som fikserer nitrogen har imidlertid utviklet egne strategier for å beskytte seg mot oksygen. For anaerobe bakterier som for eksempel Clostridium er dette ikke noe problem. Det er heller ikke noe problem for fotosyntetiske grønne bakterier og purpurbakterier. De lever også anaerobt og har en type fotosyntese som ikke produserer oksygen.
+          Blågrønnbakterier
+        
+Blågrønnbakterier har klorofyll og produserer oksygen, O2 i forbindelse med fotosyntesen. Likevel kan de fiksere nitrogen. Årsaken er at noen blågrønnbakterier bare fikserer nitrogen om natten eller i mørke når de ikke har fotosyntese.
+Andre blågrønnbakterier danner spesialiserte celler, heterocyster, hvor nitrogenfikseringen foregår. De har tykke vegger som hindrer oksygen i å komme inn. Heterocystene har den delen av det fotosyntetiske apparatet som produserer energi, men mangler den delen som produserer oksygen. Derfor er nitrogenfiksering mulig.
+          Azotobacter
+        
+En viktig nitrogenfikserende bakterie er Azotobakter som lever fritt i jord og vann. Den har aerob respirasjon samtidig som den fikserer nitrogen. Den har løst O2-problemet med å ha så høy respirasjon at oksygenet blir brukt opp straks det er tilstede.
+          Rhizobium
+        
+En viktig nitrogenfikserende gruppe av bakterier hører til slekten Rhizobium. De lever fritt i jord, men da fikserer de ikke nitrogen. Men de har evnen til å leve i symbiose med ulike belgplanter (Leguminoser) som erter, bønne og kløver, og da fikserer de nitrogen. Denne symbiosen er svært godt undersøkt.
+Samlivet begynner med at bakteriene skiller ut en forbindelse som i sin tur får planterøttene til å skille ut noen forbindelser som tiltrekker seg bakteriene. Når det oppstår kontakt mellom bakteriene og planterøttene, dannes det en infeksjonstråd som gjør at bakteriene kommer inn i roten. Planten produserer deretter en synlig knoll på røttene, og inne i knollen vokser bakteriene og begynner å fiksere nitrogen.
+For å hindre at oksygen kommer til inne i knollen, produserer plantene leghemoglobin, et protein som på samme måte som hemoglobin hos dyr og mennesker binder oksygen, O2. I denne symbiosen får bakteriene organiske forbindelser fra planten, mens planten får nitrogenforbindelser fra bakteriene.
+Mennesker har i årtusener, uten kjennskap verken til bakterier eller kjemi, utnyttet denne symbiosen gjennom vekselbruk. Folk visste at jorda ble forbedret når man år om annet dyrket belgplanter og ikke korn på åkeren.
+      Overføring av nitrogenfiksering til andre bakterier og planter
+    
+I tillegg til biologisk nitrogenfiksering kan luftas nitrogen bindes kunstig og industrielt slik det foregår når man produserer kunstgjødsel. Da kunstgjødsel kom på markedet for 100 år siden, revolusjonerte det jordbruket og dermed matproduksjonen på Jorda. Dessverre har det med tiden vist seg at bruk av kunstgjødsel skaper store problemer. Det er meget energikrevende å produsere, det er kostbart for mange bønder i fattige land, og det forurenser gjennom avrenning til elver og bekker.
+I 1972 viste noen forskere at et var mulig å overføre genene for nitrogenfiksering, nif-genene fra bakterien Klebsiella til E.coli. Senere har disse genene blitt overført til flere andre arter. I alle år har det vært store forventninger om at man engang skulle klare å manipulere organismene genetisk slik at man fikk nitrogenfikserende bakterier til å etablere symbioser med viktige kornplanter og mais. Dette har man hittil ikke lykkes med, men med de nye metodene i molekylærbiologi er det nå satt i gang flere prosjekter for å forsøke å få til dette.
+      Les mer i Store norske leksikon
+    
+nitrogen
+nitrogengjødsel
+kunstgjødsel
+fotosyntese
+        Skrevet av:
+      
+Reidun Sirevåg
+            (Universitetet i Oslo)
+        Sist oppdatert:
+      
+          29. mars 2023,
+        se alle endringer
+fri gjenbruk.
+  Sitere eller gjenbruke?
+    Vil du sitere denne artikkelen? Kopier denne teksten og lim den inn i litteraturlisten din:
+    
+      Sirevåg, Reidun: nitrogenfiksering i Store norske leksikon på snl.no.
+      Hentet  fra https://snl.no/nitrogenfiksering
+    Bidra
+  
+Foreslå endringer i artikkelen
+Foreslå bilder til artikkelen
+  Kommenter
+     eller still spørsmål
+Kommentarer
+              
+            
+      Kommentaren din publiseres her. Fagansvarlig eller redaktør svarer når de kan.
+    
+      Du må være logget inn for å kommentere.
+    
+Logg inn
+      eller
+      
+        registrer deg
+      
+Fagansvarlig for Medisinsk mikrobiologi
+        Eli Otterholt
+      
+Bunntekst
+    Sist oppdatert
+  
+          Joséphine:
+      bilde oppdatert av Odd Egil Hoprekstad
+        for 6 minutter siden
+      
+          Joséphine:
+      oppdatert av Odd Egil Hoprekstad
+        for 7 minutter siden
+      
+          Gennaris stripe:
+      oppdatert av Per Holck (UiO)
+        for 14 minutter siden
+      
+          Svalbard:
+      oppdatert av Susan Barr
+        for 22 minutter siden
+      
+    Se all aktivitet
+  
+Vil du skrive eller endre artikler?
+    Logg inn eller registrer deg
+  
+Om Store norske leksikon
+Store norske leksikon er et gratis og fritt tilgjengelig oppslagsverk skrevet av
+fagfolk på bokmål og nynorsk. Med opptil 3,4 millioner brukere i måneden og
+600 000 leste artikler hver dag er leksikonet Norges største nettsted
+for forskningsformidling. Leksikonet er eid av de norske universitetene og
+flere ideelle stiftelser/organisasjoner.
+            Om Store norske leksikon
+          
+            Hvem lager leksikonet?
+          
+            Slik skriver du leksikonartikler
+          
+            Kontakt oss!
+          
+            Personvernerklæring
+          
+            Tilgjengelighetserklæring
+          
+            Informasjonskapsler
+          
+Store norske leksikon er eid av de norske universitetene og flere andre ideelle organisasjoner:
+    Ansvarlig redaktør:
+    Erik Bolstad
+      Store norske leksikon
+    
+    © 2020

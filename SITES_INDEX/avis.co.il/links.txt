@@ -1,0 +1,6 @@
+https://agent.avis.co.il/Outgoing/Agents/Login?ReturnUrl=%2fOutgoing%3fnewReservation%3dTrue&isILRental=True&ln=en-US
+https://agent.avis.co.il/Outgoing/Agents/Login?ReturnUrl=%2fOutgoing%3fnewReservation%3dTrue&isILRental=False&ln=en-US
+https://member.avisworld.com/
+https://wa.me/972525073141
+https://www.umigroup.co.il/
+https://emalogic.com/

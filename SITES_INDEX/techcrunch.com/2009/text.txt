@@ -1,0 +1,28 @@
+ 
+Google's Go: A New Programming Language That's Python Meets C++ | TechCrunch
+ 
+ 
+TechCrunch
+plus-bold
+TechCrunch
+Open Navigation
+TechCrunch
+Google's Go: A New Programming Language That's Python Meets C++
+Jason Kincaid
+@jasonkincaid
+ / 
+14 years
+Big news for developers out there: Google has just announced the release of a new, open sourced programming language called Go.  The company says that Go is experimental, and that it combines the performance and security benefits associated with using a compiled language like C++ with the speed of a dynamic language like Python.  Go’s official mascot is Gordon the gopher, seen here.
+Here’s how Google describes Go in its blog post:
+Go attempts to combine the development speed of working in a dynamic language like Python with the performance and safety of a compiled language like C or C++. In our experiments with Go to date, typical builds feel instantaneous; even large binaries compile in just a few seconds. And the compiled code runs close to the speed of C. Go is designed to let you move fast.
+We’re hoping Go turns out to be a great language for systems programming with support for multi-processing and a fresh and lightweight take on object-oriented design, with some cool features like true closures and reflection.
+For more details check out Golang.org.
+To get things started the right way, here’s Go’s rendition of Hello World!:
+05   package main
+07   import fmt “fmt” // Package implementing formatted I/O.
+09   func main() {
+10   fmt.Printf(“Hello, world; or Καλημέρα κόσμε; or こんにちは 世界\n”);
+11   }
+CrunchBase Information
+Google
+Information provided by CrunchBase

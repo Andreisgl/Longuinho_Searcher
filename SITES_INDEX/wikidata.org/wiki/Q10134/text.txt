@@ -1,0 +1,620 @@
+Klingon - Wikidata
+Klingon
+(Q10134)
+From Wikidata
+Jump to navigation
+Jump to search
+constructed language created for Star TrektlhIngan HoltlhKlingon languageKlingonese
+edit
+Language
+Label
+Description
+Also known as
+English
+Klingon
+constructed language created for Star Trek
+tlhIngan HoltlhKlingon languageKlingonese
+Statements
+instance of
+fictional language
+0 references
+constructed language
+1 reference
+reference URL
+https://iso639-3.sil.org/code/tlh
+a priori language
+0 references
+image
+Qapla'.svg395 × 133; 7 KB
+subject lexeme
+/Qapla'
+0 references
+has use
+second language
+0 references
+native label
+tlhIngan Hol (unsupported language)
+language of work or name
+Klingon
+0 references
+  (unsupported language)
+language of work or name
+Klingon
+0 references
+creator
+Marc Okrand
+0 references
+present in work
+Broken Bow, Part I
+1 reference
+reference URL
+https://memory-alpha.fandom.com/de/wiki/Aufbruch_ins_Unbekannte,_Teil_I?oldid=717595#Verweise
+retrieved
+17 November 2019
+subject named as
+Klingonische Sprache
+section, verse, paragraph, or clause
+Verweise
+Nepenthe
+1 reference
+reference URL
+https://memory-alpha.fandom.com/wiki/Nepenthe_(episode)?oldid=2474935#References
+retrieved
+6 March 2020
+subject named as
+Klingon language
+section, verse, paragraph, or clause
+References
+Envoys
+1 reference
+reference URL
+https://memory-alpha.fandom.com/wiki/Envoys_(episode)?oldid=2547520#References
+title
+Envoys (episode) | Memory Alpha | Fandom (English)
+section, verse, paragraph, or clause
+References
+Crossroads
+1 reference
+reference URL
+https://memory-alpha.fandom.com/wiki/Crossroads_(episode)?oldid=2956761#References
+title
+Crossroads (episode) | Memory Alpha | Fandom (English)
+section, verse, paragraph, or clause
+References
+from narrative universe
+Star Trek universe
+0 references
+linguistic typology
+object–verb–subject
+0 references
+agglutinative language
+1 reference
+imported from Wikimedia project
+English Wikipedia
+writing system
+pIqaD
+statement is subject of
+Klingon in pIqaD
+0 references
+Okrand notation
+statement is subject of
+Klingon in Okrand notation
+0 references
+language regulatory body
+Klingon Language Institute
+0 references
+Marc Okrand
+0 references
+number of speakers, writers, or signers
+9,000±500
+point in time
+2016
+applies to part
+second language
+0 references
+0
+applies to part
+first language
+0 references
+described at URL
+https://database.conlang.org/view/?conlang=334
+0 references
+http://inthelandofinventedlanguages.com/index.php?page=languages&id=463
+0 references
+https://cals.info/language/klingon/
+0 references
+flag image
+Klingon Empire Flag.svg1,533 × 977; 5 KB
+used by
+Duolingo
+1 reference
+reference URL
+https://www.duolingo.com/course/tlh/en/Learn-Klingon
+retrieved
+30 May 2021
+described by source
+The Klingon Dictionary
+0 references
+Star Trek Fact Files
+title
+Klingon Alphabet and Language (English)
+follows
+Klingon
+chapter
+File 11, Card 3
+issue
+5
+page(s)
+4
+0 references
+category for films in this language
+Category:Klingon-language films
+0 references
+media franchise
+Star Trek
+0 references
+Stack Exchange tag
+https://conlang.stackexchange.com/tags/klingon
+0 references
+Wikimedia language code
+tlh
+0 references
+exact match
+http://publications.europa.eu/resource/authority/language/TLH
+1 reference
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+different from
+Klingon
+0 references
+Klingonaase
+0 references
+Commons category
+Klingon language
+0 references
+topic's main category
+Category:Klingon language
+0 references
+Identifiers
+ISO 639-2 code
+tlh
+applies to part
+terminology
+bibliography
+1 reference
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+ISO 639-3 code
+tlh
+1 reference
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+Bibliothèque nationale de France ID
+17867156b
+0 references
+GND ID
+4530535-3
+1 reference
+imported from Wikimedia project
+German Wikipedia
+Wikimedia import URL
+https://de.wikipedia.org/w/index.php?title=Klingonische_Sprache&oldid=181288528
+National Library of Israel J9U ID
+987007556365105171
+1 reference
+stated in
+National Library of Israel
+Library of Congress authority ID
+sh93002529
+1 reference
+reference URL
+https://github.com/JohnMarkOckerbloom/ftl/blob/master/data/wikimap
+retrieved
+3 April 2019
+NL CR AUT ID
+ph499650
+subject named as
+klingonština (fiktivní jazyk)
+0 references
+Fandom article ID
+de.memory-alpha:Klingonische_Sprache
+language of work or name
+German
+subject named as
+Klingonische Sprache
+MediaWiki page ID
+7169
+0 references
+sv.memory-alpha:Klingonska
+subject named as
+Klingonska
+language of work or name
+Swedish
+MediaWiki page ID
+1150
+0 references
+fr.memory-alpha:Klingon_(langue)
+language of work or name
+French
+subject named as
+Klingon (langue)
+MediaWiki page ID
+5680
+0 references
+es.memory-alpha:Diccionario_Klingon
+language of work or name
+Spanish
+subject named as
+Diccionario Klingon
+MediaWiki page ID
+1105
+0 references
+eo.memory-alpha:Klingonlingvo
+language of work or name
+Esperanto
+subject named as
+Klingonlingvo
+MediaWiki page ID
+1825
+0 references
+memory-alpha:Klingonese
+language of work or name
+English
+subject named as
+Klingonese
+MediaWiki page ID
+225610
+0 references
+ca.memory-alpha:Klingon_(idioma)
+language of work or name
+Catalan
+subject named as
+Klingon (idioma)
+MediaWiki page ID
+253
+0 references
+satoli:Klingon
+1 reference
+reference URL
+https://satoli.fandom.com/wiki/Klingon
+title
+Klingon | Sato Linguistics Institute Wiki | Fandom (English)
+retrieved
+5 June 2020
+klingon:tlhIngan_Hol
+language of work or name
+Klingon
+subject named as
+tlhIngan Hol
+MediaWiki page ID
+121
+0 references
+memory-beta:TlhIngan_Hol
+subject named as
+TlhIngan Hol
+language of work or name
+English
+MediaWiki page ID
+13239
+1 reference
+reference URL
+https://memory-beta.fandom.com/wiki/TlhIngan_Hol
+title
+tlhIngan Hol | Memory Beta, non-canon Star Trek Wiki | Fandom (English)
+retrieved
+29 July 2021
+memory-beta:Klingonese
+subject named as
+Klingonese
+language of work or name
+English
+MediaWiki page ID
+11378
+1 reference
+reference URL
+https://memory-beta.fandom.com/wiki/Klingonese?oldid=548759
+retrieved
+6 August 2021
+subject named as
+Klingonese
+duolingo:Klingon
+subject named as
+Klingon
+language of work or name
+English
+MediaWiki page ID
+5207
+1 reference
+reference URL
+https://duolingo.fandom.com/wiki/Klingon
+title
+Klingon | Duolingo Wiki | Fandom (English)
+retrieved
+29 October 2021
+linguistical:Klingon
+subject named as
+Klingon
+language of work or name
+English
+MediaWiki page ID
+224
+1 reference
+reference URL
+https://linguistical.fandom.com/wiki/Klingon?so=search
+title
+Klingon | The Language Wiki | Fandom (English)
+retrieved
+1 August 2022
+Fandom wiki ID
+klingon
+language of work or name
+Klingon
+0 references
+Freebase ID
+/m/049ph
+1 reference
+stated in
+Freebase Data Dumps
+publication date
+28 October 2013
+Glottolog code
+klin1234
+0 references
+IETF language tag
+tlh
+1 reference
+imported from Wikimedia project
+French Wikipedia
+i-klingon
+0 references
+KBpedia ID
+KlingonFictionalLanguage
+1 reference
+stated in
+KBpedia
+retrieved
+9 July 2020
+Lingua Libre ID
+Q399
+0 references
+LoC and MARC vocabularies ID
+languages/tlh
+0 references
+iso639-2/tlh
+0 references
+LyricsTranslate ID
+klingon-folk-lyrics.html
+0 references
+OmegaWiki Defined Meaning
+501280
+0 references
+POSIX locale identifier
+tlh
+0 references
+Quora topic ID
+Klingon-language-1
+0 references
+ 
+Sitelinks
+Wikipedia(74 entries)
+edit
+afwiki
+Klingon taal
+anwiki
+Idioma klingon
+arwiki
+لغة كلينغونية
+astwiki
+Klingon
+azwiki
+Klinqon dili
+barwiki
+Klingonische Sproch
+bewiki
+Клінганская мова
+bgwiki
+Клингонски език
+brwiki
+Klingoneg
+cawiki
+Klingon (idioma)
+cebwiki
+Klingon
+cswiki
+Klingonština
+cywiki
+Tllingoneg
+dawiki
+Klingon (sprog)
+dewiki
+Klingonische Sprache
+elwiki
+Γλώσσα Κλίνγκον
+enwiki
+Klingon language
+eowiki
+Klingona lingvo
+eswiki
+Idioma klingon
+etwiki
+Klingoni keel
+euwiki
+Klingon hizkuntza
+fawiki
+زبان کلینگان
+fiwiki
+Klingonin kieli
+frwiki
+Klingon (langue)
+gawiki
+Tliongáinis
+glwiki
+Lingua klingon
+hewiki
+קלינגונית
+hrwiki
+Klingonski jezik
+huwiki
+Klingon nyelv
+iawiki
+Lingua klingon
+idwiki
+Bahasa Klingon
+iowiki
+Klingon-linguo
+itwiki
+Lingua klingon
+jawiki
+クリンゴン語
+jbowiki
+bangrklingo
+kawiki
+კლინგონური ენა
+kkwiki
+Клиңон тілі
+kowiki
+클링온어
+kuwiki
+Zimanê klingonî
+kvwiki
+Клингон кыв
+lawiki
+Lingua Clingon
+lfnwiki
+Klingon (lingua)
+liwiki
+Klingon (taol)
+lowiki
+ພາສາກລິງກອງ
+lvwiki
+Klingoņu valoda
+mlwiki
+ക്ലിംഗോൺ ഭാഷ
+mswiki
+Bahasa Klingon
+mywiki
+ကလင်ဂွန်ဘာသာစကား
+nds_nlwiki
+Klingon (sproak)
+ndswiki
+Klingoonsche Spraak
+nlwiki
+Klingon (taal)
+nnwiki
+Klingon
+nowiki
+Klingon
+ocwiki
+Klingon
+plwiki
+Język klingoński
+ptwiki
+Língua klingon
+rowiki
+Limba klingoniană
+ruwiki
+Клингонский язык
+shwiki
+Klingonski jezik
+simplewiki
+Klingon language
+slwiki
+Klingonščina
+srwiki
+Клингонски језик
+svwiki
+Klingonska
+thwiki
+ภาษาคลิงงอน
+tlwiki
+Wikang Klingon
+trwiki
+Klingon dili
+ukwiki
+Клінгонська мова
+urwiki
+کلینگون زبان
+viwiki
+Tiếng Klingon
+vowiki
+Klingonapük
+wuuwiki
+克林贡语
+yiwiki
+קלינגאניש
+zh_yuewiki
+克林崗文
+zhwiki
+克林貢語
+Wikibooks(4 entries)
+edit
+enwikibooks
+Klingon
+eowikibooks
+Klingona
+hewikibooks
+קלינגונית
+zhwikibooks
+克林貢語
+Wikinews(0 entries)
+edit
+Wikiquote(0 entries)
+edit
+Wikisource(0 entries)
+edit
+Wikiversity(2 entries)
+edit
+enwikiversity
+Klingon
+jawikiversity
+クリンゴン語
+Wikivoyage(0 entries)
+edit
+Wiktionary(4 entries)
+edit
+cawiktionary
+Viccionari:Klingon
+enwiktionary
+Appendix:Klingon
+trwiktionary
+Ek:Klingonca
+viwiktionary
+Phụ lục:Tiếng Klingon
+Multilingual sites(0 entries)
+edit
+Retrieved from "https://www.wikidata.org/w/index.php?title=Q10134&oldid=1905643852"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+ItemDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 31 May 2023, at 12:57.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

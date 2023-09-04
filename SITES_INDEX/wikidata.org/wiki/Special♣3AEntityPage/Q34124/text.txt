@@ -1,0 +1,562 @@
+Tigrinya - Wikidata
+Tigrinya
+(Q34124)
+From Wikidata
+Jump to navigation
+Jump to search
+Semitic language spoken in Ethiopia and EritreaTigrinya languagetiTigrignaTigrinya alphabetTigrinja
+Language
+Label
+Description
+Also known as
+English
+Tigrinya
+Semitic language spoken in Ethiopia and Eritrea
+Tigrinya languagetiTigrignaTigrinya alphabetTigrinja
+Statements
+instance of
+language
+1 reference
+stated in
+Ethnologue
+modern language
+1 reference
+reference URL
+https://iso639-3.sil.org/code/tir
+subclass of
+Ethiopian Semitic
+0 references
+Semitic
+1 reference
+stated in
+The Cambridge Encyclopedia of Language
+page(s)
+316
+native label
+ትግርኛ (Tigrinya)
+0 references
+pronunciation audio
+Sv-tigrinska.oga2.8 s; 17 KB
+language of work or name
+Swedish
+0 references
+English Tigrinya.ogg2.4 s; 15 KB
+language of work or name
+English
+0 references
+Ti-ትግርኛ (2).oga2.3 s; 15 KB
+0 references
+country
+Ethiopia
+2 references
+stated in
+The Cambridge Encyclopedia of Language
+page(s)
+316
+reference URL
+https://scriptsource.org/country/ET
+title
+ScriptSource - Ethiopia (English)
+retrieved
+21 August 2023
+Eritrea
+1 reference
+reference URL
+https://scriptsource.org/country/ER
+title
+ScriptSource - Eritrea (English)
+retrieved
+21 August 2023
+audio
+Ti-ትግርኛ.oga1.2 s; 13 KB
+0 references
+linguistic typology
+subject–object–verb
+0 references
+fusional language
+0 references
+writing system
+Ethiopic
+0 references
+number of speakers, writers, or signers
+5,800,000
+0 references
+7,507,780
+applies to part
+first language
+point in time
+2019
+1 reference
+stated in
+Ethnologue
+archive URL
+https://web.archive.org/web/20190606055000/https://www.ethnologue.com/language/tir
+point in time
+6 June 2019
+152,000
+applies to part
+second language
+point in time
+2019
+1 reference
+stated in
+Ethnologue
+archive URL
+https://web.archive.org/web/20190606055000/https://www.ethnologue.com/language/tir
+point in time
+6 June 2019
+Ethnologue language status
+2 Provincial
+1 reference
+stated in
+Ethnologue
+retrieved
+10 May 2019
+reference URL
+https://www.ethnologue.com/language/tir
+page banner
+Tigrinya phrasebook banner Mountains.jpg4,418 × 634; 911 KB
+1 reference
+imported from Wikimedia project
+English Wikivoyage
+Wikimedia import URL
+https://en.wikivoyage.org/wiki/Tigrinya_phrasebook
+icon
+ISO 639 Icon ti.svg400 × 180; 602 bytes
+0 references
+indigenous to
+Eritrea
+0 references
+Afar Region
+0 references
+Amhara Region
+0 references
+Tigray Region
+0 references
+maintained by WikiProject
+WikiProject Intangible Cultural Heritage
+0 references
+Wikimedia language code
+ti
+0 references
+exact match
+http://publications.europa.eu/resource/authority/language/TIR
+1 reference
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+different from
+Tigre
+1 reference
+imported from Wikimedia project
+Hebrew Wikipedia
+Wikimedia import URL
+https://he.wikipedia.org/w/index.php?title=תיגרינית&oldid=33590710
+Commons category
+Tigrinya language
+0 references
+topic's main category
+Category:Tigrinya language
+1 reference
+imported from Wikimedia project
+Persian Wikipedia
+Identifiers
+ISO 639-1 code
+ti
+2 references
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+imported from Wikimedia project
+English Wikipedia
+ISO 639-2 code
+tir
+applies to part
+terminology
+bibliography
+2 references
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+imported from Wikimedia project
+English Wikipedia
+ISO 639-3 code
+tir
+2 references
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+imported from Wikimedia project
+English Wikipedia
+Bibliothèque nationale de France ID
+120490849
+0 references
+GND ID
+4366546-9
+subject named as
+Tigrinja-Sprache
+1 reference
+retrieved
+12 November 2021
+National Library of Israel J9U ID
+987007536388805171
+1 reference
+stated in
+National Library of Israel
+Library of Congress authority ID
+sh85135329
+0 references
+NDL Authority ID
+00871165
+0 references
+IdRef ID
+028710231
+1 reference
+imported from Wikimedia project
+French Wikipedia
+Dewey Decimal Classification
+492.83
+0 references
+ABS ASCL 2011 code
+9235
+0 references
+Art & Architecture Thesaurus ID
+300389414
+0 references
+ASC Leiden Thesaurus ID
+294940952
+0 references
+BBC Things ID
+18e050ba-1df7-429d-a303-58ecd18cc4db
+1 reference
+stated in
+BBC Things
+BNCF Thesaurus ID
+73438
+0 references
+Encyclopædia Britannica Online ID
+topic/Tigrinya-language
+0 references
+Ethnologue.com language code
+tir
+0 references
+EU Knowledge Graph item ID
+Q2472705
+0 references
+Freebase ID
+/m/0nj_3
+1 reference
+stated in
+Freebase Data Dumps
+publication date
+28 October 2013
+Glottolog code
+tigr1271
+1 reference
+imported from Wikimedia project
+English Wikipedia
+GOST 7.75–97 code
+тир 683
+1 reference
+imported from Wikimedia project
+Russian Wikipedia
+Great Russian Encyclopedia Online ID (old version)
+4191528
+subject named as
+ТИГРИНЬЯ
+0 references
+IAB code
+1190
+0 references
+IETF language tag
+ti
+1 reference
+imported from Wikimedia project
+French Wikipedia
+KBpedia ID
+TigrinyaLanguage
+1 reference
+stated in
+KBpedia
+retrieved
+9 July 2020
+Lingua Libre ID
+Q86
+0 references
+Linguasphere code
+12-ACA-c
+0 references
+LoC and MARC vocabularies ID
+languages/tir
+0 references
+iso639-2/tir
+0 references
+iso639-1/ti
+0 references
+OmegaWiki Defined Meaning
+849845
+0 references
+POSIX locale identifier
+ti
+0 references
+Quora topic ID
+Tigrinya
+1 reference
+stated in
+Quora
+Store norske leksikon ID
+tigrinja
+mapping relation type
+exact match
+0 references
+UNESCO Thesaurus ID
+concept17037
+0 references
+WALS lect code
+tig
+0 references
+YSA ID
+Y205280
+0 references
+YSO ID
+28239
+1 reference
+stated in
+YSO-Wikidata mapping project
+ 
+Sitelinks
+Wikipedia(90 entries)
+afwiki
+Tigrinya
+amwiki
+ትግርኛ
+anpwiki
+तिग्रीन्या भाषा
+anwiki
+Idioma tigrinya
+arwiki
+اللغة التغرينية
+arzwiki
+لغه تيجرينى
+astwiki
+Idioma tigriña
+be_x_oldwiki
+Тыгрынья
+bewiki
+Тыгрынья
+bgwiki
+Тигриня
+bnwiki
+তিগ্রিনিয়া ভাষা
+brwiki
+Tigrigneg
+cawiki
+Tigrinya
+ckbwiki
+زمانی تیگرینیا
+cswiki
+Tigrajština
+cuwiki
+Тигрин҄ьскъ ѩꙁꙑкъ
+dawiki
+Tigrinsk (sprog)
+dewiki
+Tigrinya (Sprache)
+elwiki
+Τιγκρινιακή γλώσσα
+enwiki
+Tigrinya language
+eowiki
+Tigraja lingvo
+eswiki
+Idioma tigriña
+etwiki
+Tigrinja keel
+euwiki
+Tigrinyera
+fawiki
+زبان تیگرینیا
+fiwiki
+Tigrinja
+frrwiki
+Tigrinya
+frwiki
+Tigrigna
+gawiki
+An Tigrinis
+glwiki
+Lingua tigriña
+hewiki
+תיגרינית
+hifwiki
+Tigrigna bhasa
+hiwiki
+तिग्रीन्या भाषा
+hrwiki
+Tigrinja jezik
+huwiki
+Tigrinya nyelv
+idwiki
+Bahasa Tigrinya
+igwiki
+Tigrinya language
+iswiki
+Tígrinja
+itwiki
+Lingua tigrina
+jawiki
+ティグリニャ語
+kowiki
+티그리냐어
+kuwiki
+Zimanê tigrînya
+kvwiki
+Тигринья (кыв)
+kywiki
+Тигринья тили
+lawiki
+Lingua Tigrinya
+lfnwiki
+Tigrinia (lingua)
+lijwiki
+Lengua tigrinn-a
+ltwiki
+Tigrajų kalba
+lvwiki
+Tigrinja
+mgwiki
+Fiteny tigrinia
+mkwiki
+Тигрињски јазик
+mlwiki
+ടിഗ്രീന്യ ഭാഷ
+mrwiki
+तिग्रिन्या भाषा
+mswiki
+Bahasa Tigrinya
+mznwiki
+تیگرینیا
+nlwiki
+Tigrinya (taal)
+nnwiki
+Tigrinja
+nowiki
+Tigrinja (språk)
+pawiki
+ਟਿਗਰੀਨਿਆ ਬੋਲੀ
+plwiki
+Język tigrinia
+pmswiki
+Lenga Tigrigna
+pnbwiki
+تیگرینیا زبان
+pswiki
+تګرینیایي ژبه
+ptwiki
+Língua tigrínia
+rowiki
+Limba tigrinya
+ruwiki
+Тигринья
+satwiki
+ᱛᱤᱜᱽᱨᱤᱱᱤᱭᱟ ᱯᱟᱹᱨᱥᱤ
+scowiki
+Tigrinya leid
+simplewiki
+Tigrinya language
+skwiki
+Tigriňa
+slwiki
+Tigrinjščina
+sowiki
+Af-Tigrinya
+srwiki
+Tigrinja (jezik)
+svwiki
+Tigrinska
+swwiki
+Kitigrinya
+tawiki
+திகுரிஞா மொழி
+thwiki
+ภาษาตึกรึญญา
+tiwiki
+ቋንቋ ትግርኛ
+tlwiki
+Wikang Tigrinya
+trwiki
+Tigrinya dili
+ttwiki
+Тигринья теле
+ugwiki
+تىگرىنىيەچە
+ukwiki
+Тигринья
+urwiki
+تیگرینیا زبان
+viwiki
+Tiếng Tigrinya
+wuuwiki
+提格雷尼亚语
+xmfwiki
+ტიგრინია
+zh_min_nanwiki
+Tigrinya-gí
+zh_yuewiki
+提格利尼亞文
+zhwiki
+提格利尼亞語
+Wikibooks(0 entries)
+Wikinews(0 entries)
+Wikiquote(0 entries)
+Wikisource(0 entries)
+Wikiversity(0 entries)
+Wikivoyage(3 entries)
+enwikivoyage
+Tigrinya phrasebook
+hewikivoyage
+שיחון תיגריני
+ruwikivoyage
+Тигринья разговорник
+Wiktionary(3 entries)
+dewiktionary
+Wiktionary:Tigrinya
+enwiktionary
+Wiktionary:About Tigrinya
+eowiktionary
+Aldono:Tigraja
+Multilingual sites(0 entries)
+Retrieved from "https://www.wikidata.org/w/index.php?title=Q34124&oldid=1961152178"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+ItemDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 25 August 2023, at 19:17.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

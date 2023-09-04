@@ -1,0 +1,12 @@
+https://www.python.org/
+https://github.com/python/cpython/blob/3.11/Doc/library/decimal.rst
+https://www.python.org/
+https://github.com/python/cpython/tree/3.11/Lib/decimal.py
+https://speleotrove.com/decimal/decarith.html
+https://www.bytereef.org/mpdecimal/doc/libmpdec/index.html
+https://en.wikipedia.org/wiki/Karatsuba_algorithm
+https://en.wikipedia.org/wiki/Discrete_Fourier_transform_(general)#Number-theoretic_transform
+https://github.com/python/cpython/blob/3.11/Doc/library/decimal.rst
+https://www.python.org/
+https://www.python.org/psf/donations/
+https://www.sphinx-doc.org/

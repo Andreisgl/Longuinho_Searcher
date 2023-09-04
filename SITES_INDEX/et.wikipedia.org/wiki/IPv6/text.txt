@@ -1,0 +1,83 @@
+IPv6 – Vikipeedia
+Mine sisu juurde
+Peamenüü
+Peamenüü
+vii külgpaanile
+peida
+Navigeerimine
+EsilehtÜldine aruteluSündmused maailmasViimased muudatusedJuhuslik lehekülgJuhendAnnetusedKontakt
+Trüki või ekspordi
+Koosta raamatLaadi alla PDF-failinaPrinditav versioon
+Keeled
+Keelelingid on lehekülje ülaosas pealkirja vastas.
+Otsing
+Otsi
+Loo kontoLogi sisse
+Isiklikud lehed
+ Loo konto Logi sisse
+Sisse logimata kasutaja leheküljed lisateave
+KaastööArutelu
+Sisukord
+vii külgpaanile
+peida
+Algus
+1IPv6-aadress
+2Mobiilsus
+3Turvalisus
+4Kokkuvõte
+5Viited
+Toggle the table of contents
+Toggle the table of contents
+IPv6
+58 keelt
+العربيةAzərbaycancaBahasa IndonesiaBahasa MelayuবাংলাBosanskiБългарскиCatalàČeštinaDanskDeutschΕλληνικάEnglishEspañolEuskaraفارسیFrançaisGalego한국어Հայերենहिन्दीHrvatskiÍslenskaItalianoעבריתLatinaLatviešuLietuviųLingálaMagyarМакедонскиമലയാളംमराठीМонголNederlands日本語Norsk bokmålNorsk nynorskPolskiPortuguêsRomânăРусскийSlovenčinaSlovenščinaСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaTagalogதமிழ்Tiếng ViệtТоҷикӣTürkçeУкраїнська吴语ייִדישYorùbá中文
+Muuda linke
+ArtikkelArutelu
+eesti
+VaataMuudaMuuda lähtetekstiNäita ajalugu
+Tööriistad
+Tööriistad
+vii külgpaanile
+peida
+Toimingud
+VaataMuudaMuuda lähtetekstiNäita ajalugu
+Üldine
+Lingid siiaSeotud muudatusedErileheküljedPüsilinkLehekülje teaveViita leheküljeleAndmeüksus
+Teistes projektides
+Commons
+Allikas: Vikipeedia
+IPv6 (Internetiprotokolli versioon 6) ehk "uue põlvkonna" Internetiprotokoll (inglise keeles IPng, Internet Protocol Next Generation) on andmesideprotokoll, mis on loodud praegusel ajal üldkasutatava Internetiprotokolli IPv4 asendamiseks.
+Põhjuseks uue internetiprotokolli väljatöötamiseks oli vajaduses suurema arvu IP-aadresside järele. Esialgu jagati aadresse pillavalt. IPv4-aadress on kaheastmeline (võrgu aadress ja hosti aadress) ning IPv4 32-bitine aadressiruum on hakanud ammenduma. 232 tähendab küll üle 4 miljardi aadressi, kuid nende ebatõhus kasutamine on viinud IP-aadresside lõppemisele. Mõeldi küll välja ajutisi lahendusi, millest levinuim on olnud NAT (Network Address Translation), kuid see toob kaasa teisi puudusi, millest suurim on võimaluse puudumine otse avalikust võrgust ühendus luua.
+IPv6 on nendest puudustest vaba. Selle aadressid on pikemad ja nende vorming on teine. Kasutatav 128-bitine aadress lubab teoreetiliselt anda aadresse 2128-le seadmele, mis on võrreldamatult rohkem kui näiteks isegi liivateri maailmas on (üle saja miljoni miljardi aadressi maakera iga ruutmillimeetri kohta). Nii suur hulk võib tunduda pillamisena, kuid nii näis see ka mitukümmend aastat tagasi 32-bitise aadressiga. Samuti lihtsustab uus protokoll mitmeid marsruutimise probleeme. Üks lihtsustumise põhjus on fikseeritud pikkusega IP-paketi päise kasutuselevõtt, mis kiirendab pakettide töötlemist ja parandab marsruuterite jõudlust.
+IPv6-aadress[muuda | muuda lähteteksti]
+Praegune IPv4 aadress koosneb neljast kümnendarvust vahemikus 0–255, mis on eraldatud punktidega (näiteks 195.10.0.213). IPv6-aadressid jagatakse kirjutamisel tavaliselt 16-bitisteks rühmadeks, eraldades need kooloniga. IPv6-aadresse kirjutatakse kuueteistkümnendarvudena (näiteks 2002:EF9A:1FFF:93:FEB0:0:0:2ADF). IPv6-aadresse saab lühendada: iga grupi eest võib nullid ära jätta ja suurema hulga nulle võib asendada topeltkooloniga (kuid seda ainult ühe korra, sest muidu pole võimalik enam esialgset aadressi taastada).
+IP-aadresside paremaks haldamiseks jagatakse aadress võrguosaks ja hosti osaks. Sisse tuleb uut tüüpi aadress, klastriaadress, et tähistada võrgu mingit topoloogilist piirkonda. IPv6 korral saab iga klient enda käsutusse terve 64-bitise võrgu. Väiksemateks osadeks seda enam ei jagata.
+IPv6 aadressi ei pea seadmele andma käsitsi, vaid seda saab tuletada näiteks Etherneti MAC aadressist. Vahendid selliseks IP-aadresside seadmiseks on juba IPv6 protokolli sisse ehitatud.
+Võrreldes IPv4-ga on IPv6 päise struktuur oluliselt lihtsustunud. Paljud väljad on tehtud mittekohustuslikuks ja osast isegi loobutud. Kuigi aadressi pikkus muutus, on IPv6-päise pikkus ainult poole suurem IPv4 omast. Mittekohustuslikud väljad on paigutatud eraldi päisesse, mis moodustatakse ainult vajaduse korral.
+Mobiilsus[muuda | muuda lähteteksti]
+Mobiilsus on peamine põhjus, miks mobiilitootjad eesotsas Nokiaga toetavad IPv6 kiiret kasutuselevõttu. Mobiilsus oli ühtlasi üks peamisi nõudeid uue protokolli väljatöötamisel. Varsti peaks igal mobiiltelefonil olema oma IP-aadress. Mobiilsete seadmete toetuseks vajaliku protokolli Mobile IP realiseerimine on kohustuslik igale IPv6 protokolli realisatsioonile. Seepärast on IPv6 protokollis kohe sees vahendid rändluseks võrkude vahel ja võimalus liikuda ühest võrgust teise.
+Turvalisus[muuda | muuda lähteteksti]
+IPv6 väljatöötamisel oli oluliseks nõudeks turvalisus. Algselt IPv4 toetas turvalisust ainult kõrgematel tasemetel (rakenduste vahel). IPv6 realisatsioonis on kohustuslik IPsec (IP Security). Tänapäeval on IPSec võimalus ka mõnedesse IPv4 implementatsioonidesse tekkinud. IPsec võimaldab turvalist sidet, tagades liikluse autentimise, krüpteerimise ja pakkimise. IPv6 rakendamise seisukohalt on oluline, et kõik rakendused saavad kasutada krüptimist, ilma et peaks midagi ümber programmeerima, ja reeglid saab paika panna juba hostidele, mitte konkreetsetele rakendustele. Autentimine tagab, et vastuvõetud pakett oli ikkagi saadetud selleltsamalt aadressilt, mis on kirjas päises, ega võimalda mujalt saabunud pakettide vastuvõtmist. Krüptimine tagab omakorda, et kõrvalised isikud ei saa sidet pealt kuulata või õigemini et sellest pole võimalik aru saada. Turvalisuse aspektid pannakse kirja lisapäisesse, mis järgneb IP-päise põhiosale.
+Kokkuvõte[muuda | muuda lähteteksti]
+Üleminek protokollile IPv6 ei ole lihtne ja võtab aega. IPv6 asendab IPv4 aegamööda, kuid mitmeks aastaks jäävad nad kõrvuti eksisteerima. Üleminekuperioodi jaoks on leiutatud erinevad tehnoloogiad, näiteks NAT64, mille puhul IPv6 aadressist ainult 32-bitist osa, et marsruuterid saaksid teha protokollidevahelisi teisendusi. 
+Praegu saavad tavainterneti kasutajad uue põlvkonna Internetti kasutada erineval moel: Elion pakub alates 2014. aasta novembrist IPv6 ühendust koduklientidele [1]. See võimalus on vaikimisi sisse lülitatud. Elisa mobiilses internetis on võimalik APNi seadetes sisse lülitada IPv6 tugi (vaikimisi välja lülitatud 2016 jaanuari seisuga)[2]. Kasutajad, kellel on avalik IPv4 aadress, said üksvahe IPv6 ühendust läbi tunneli. SixXS koostöös Linxtelecom'iga pakkusid tunneli teenust Eestis, aga Linxtelecom ei paku seda enam[3]. Võimalik, et SixXS pakuks Eesti kasutajatele tunneleid läbi teiste tunnelioperaatorite. Ka Eesti suurematel teenustepakkujatel on oma IPv6 testvõrgud olemas.[4]
+Viited[muuda | muuda lähteteksti]
+↑ "Arhiivikoopia". Originaali arhiivikoopia seisuga 20. juuli 2015. Vaadatud 12. jaanuaril 2016.{{netiviide}}:  CS1 hooldus: arhiivikoopia kasutusel pealkirjana (link)
+↑ "Arhiivikoopia". Originaali arhiivikoopia seisuga 9. august 2016. Vaadatud 12. jaanuaril 2016.{{netiviide}}:  CS1 hooldus: arhiivikoopia kasutusel pealkirjana (link)
+↑ https://www.sixxs.net/pops/linxtelecom/
+↑ http://www.aripaev.ee/1974/rubr_artiklid_197306.html
+Pärit leheküljelt "https://et.wikipedia.org/w/index.php?title=IPv6&oldid=6215651"
+Kategooria: InternetiprotokollidPeidetud kategooria: CS1 hooldus: arhiivikoopia kasutusel pealkirjana
+ Selle lehekülje viimane muutmine: 18:06, 11. oktoober 2022.
+Tekst on kasutatav vastavalt Creative Commonsi litsentsile "Autorile viitamine + jagamine samadel tingimustel";
+sellele võivad lisanduda täiendavad tingimused.
+Täpsemalt vaata Wikimedia kasutamistingimustest.
+Andmekaitsepõhimõtted
+Tiitelandmed
+Lahtiütlused
+Käitumisjuhis
+Mobiilivaade
+Arendajad
+Arvandmed
+Küpsiste avaldus
+Toggle limited content width

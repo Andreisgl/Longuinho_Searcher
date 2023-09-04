@@ -1,0 +1,856 @@
+statistics - Wikidata
+statistics
+(Q12483)
+From Wikidata
+Jump to navigation
+Jump to search
+study of the collection, analysis, interpretation, and presentation of data
+Language
+Label
+Description
+Also known as
+English
+statistics
+study of the collection, analysis, interpretation, and presentation of data
+Statements
+instance of
+academic discipline
+1 reference
+stated in
+Directory of Open Access Journals
+quotation
+Statistics (English)
+academic major
+0 references
+specialty
+0 references
+field of study
+0 references
+subclass of
+mathematics
+0 references
+formal science
+0 references
+part of
+mathematics
+0 references
+economics
+0 references
+image
+Standard Normal Distribution.png5,986 × 3,700; 752 KB
+0 references
+practiced by
+statistician
+0 references
+is the study of
+statistical data
+0 references
+probability distribution
+0 references
+history of topic
+history of statistics
+0 references
+described by source
+Armenian Soviet Encyclopedia
+volume
+11
+page(s)
+449
+1 reference
+imported from Wikimedia project
+Armenian Wikipedia
+Brockhaus and Efron Encyclopedic Dictionary
+statement is subject of
+Q24478244
+0 references
+Yuzhakov Big Encyclopedia
+statement is subject of
+Q77529325
+0 references
+Jewish Encyclopedia of Brockhaus and Efron
+statement is subject of
+Q24904662
+0 references
+Meyers Konversations-Lexikon, 4th edition (1885–1890)
+statement is subject of
+Q112803193
+0 references
+Small Brockhaus and Efron Encyclopedic Dictionary
+statement is subject of
+Q24751107
+0 references
+on focus list of Wikimedia project
+Wikipedia:List of articles all languages should have
+0 references
+Wikipedia:Vital articles/Level/4
+point in time
+31 October 2022
+0 references
+Wikimedia outline
+outline of statistics
+0 references
+maintained by WikiProject
+WikiProject Mathematics
+0 references
+social media followers
+535,016
+point in time
+24 May 2023
+subreddit
+statistics
+0 references
+Classification of Instructional Programs code
+27.05
+0 references
+27.0501
+0 references
+NCI Thesaurus ID
+C17167
+0 references
+Stack Exchange tag
+https://math.stackexchange.com/tags/statistics
+0 references
+has part(s)
+descriptive statistics
+0 references
+inferential statistics
+0 references
+different from
+statistic
+0 references
+Commons category
+Statistics
+1 reference
+imported from Wikimedia project
+Spanish Wikipedia
+topic's main Wikimedia portal
+Portal:Statistics
+0 references
+topic's main template
+Template:Statistics
+0 references
+topic's main category
+Category:Statistics
+0 references
+learning outcome
+probability concepts
+1 reference
+Wikimedia import URL
+https://www.wikidata.org/wiki/Wikidata:Property_proposal/learning_outcome
+Descriptive statistics concepts
+1 reference
+Wikimedia import URL
+https://www.wikidata.org/wiki/Wikidata:Property_proposal/learning_outcome
+Identifiers
+Bibliothèque nationale de France ID
+11938470p
+subject named as
+Statistique
+1 reference
+stated in
+Nuovo soggettario
+reference URL
+https://thes.bncf.firenze.sbn.it/termine.php?id=5101
+retrieved
+13 June 2021
+GND ID
+4056995-0
+1 reference
+imported from Wikimedia project
+German Wikipedia
+National Library of Israel J9U ID
+987007531886805171
+1 reference
+stated in
+National Library of Israel
+National Library of Korea ID
+KSH1998008399
+0 references
+Library of Congress authority ID
+sh85127580
+0 references
+National Library of Latvia ID
+000071111
+0 references
+NDL Authority ID
+00573173
+0 references
+NL CR AUT ID
+ph116273
+subject named as
+statistika
+0 references
+MeSH descriptor ID
+D020500
+subject named as
+Statistics
+0 references
+D013223
+subject named as
+Statistics as Topic
+0 references
+MeSH tree code
+V02.925
+0 references
+E05.318.740
+0 references
+H01.548.832
+0 references
+N05.715.360.750
+0 references
+N06.850.520.830
+0 references
+Analysis & Policy Observatory term ID
+21098
+0 references
+ANZSRC 2020 FoR ID
+4905
+subject named as
+Statistics
+1 reference
+reference URL
+https://vocabs.ardc.edu.au/viewById/316
+490599
+subject named as
+Statistics not elsewhere classified
+0 references
+Art & Architecture Thesaurus ID
+300026924
+0 references
+ASC Leiden Thesaurus ID
+294939180
+0 references
+Australian Thesaurus of Education Descriptors ID
+3126
+0 references
+BabelNet ID
+00074061n
+1 reference
+stated in
+BabelNet
+Banglapedia ID (Bengali)
+পরিসংখ্যান
+0 references
+Basque Vikidia ID
+Estatistika
+0 references
+BNCF Thesaurus ID
+5101
+1 reference
+stated in
+National Central Library of Florence
+Cultureel Woordenboek ID
+wiskunde/statistiek
+0 references
+Den Store Danske ID
+statistik
+0 references
+Encyclopædia Britannica Online ID
+science/statistics
+0 references
+Encyclopedia of China (Third Edition) ID
+208374
+subject named as
+统计学
+0 references
+EuroVoc ID
+4256
+0 references
+Fandom article ID
+math:Statistics
+subject named as
+Statistics
+language of work or name
+English
+MediaWiki page ID
+2373
+0 references
+Freebase ID
+/m/06mnr
+1 reference
+stated in
+Freebase Data Dumps
+publication date
+28 October 2013
+French Vikidia ID
+Statistique
+0 references
+GitHub topic
+statistics
+0 references
+Gran Enciclopèdia Catalana ID
+0106145
+0 references
+Great Russian Encyclopedia Online ID (old version)
+4163915
+subject named as
+СТАТИСТИКА
+0 references
+HDS ID
+013798
+0 references
+JSTOR topic ID
+statistics
+0 references
+KBpedia ID
+Statistics
+1 reference
+stated in
+KBpedia
+retrieved
+9 July 2020
+Mathematics Subject Classification ID
+62-XX
+0 references
+MathWorld ID
+Statistics
+0 references
+Microsoft Academic ID
+105795698
+0 references
+NALT ID
+8465
+0 references
+5478
+0 references
+Namuwiki ID
+통계학
+0 references
+OmegaWiki Defined Meaning
+3618
+0 references
+Open Library subject ID
+statistics
+0 references
+OpenAlex ID
+C105795698
+1 reference
+stated in
+OpenAlex
+retrieved
+26 January 2022
+reference URL
+https://docs.openalex.org/download-snapshot/snapshot-data-format
+PACTOLS thesaurus ID
+pcrtFJ1mxd5cGS
+0 references
+Personality Database profile ID
+256314
+0 references
+PSH ID
+8068
+0 references
+Quora topic ID
+Statistics-academic-discipline
+1 reference
+stated in
+Quora
+Statistics-college-major
+0 references
+Reddit topic ID
+statistics
+1 reference
+reference URL
+https://www.reddit.com/t/statistics/
+title
+Best Statistics Posts - Reddit (American English)
+retrieved
+1 November 2022
+ScienceDirect topic ID
+mathematics/statistics
+0 references
+Store norske leksikon ID
+statistikk
+0 references
+subreddit
+statistics
+language of work or name
+English
+subject named as
+statistics
+start time
+13 March 2008
+point in time
+24 May 2023
+0 references
+TED topic ID
+statistics
+0 references
+Treccani ID
+statistica
+subject named as
+statistica
+1 reference
+imported from Wikimedia project
+Italian Wikipedia
+Wikimedia import URL
+https://it.wikipedia.org/w/index.php?title=Statistica&oldid=99480866
+U.S. National Archives Identifier
+10659134
+0 references
+10643325
+0 references
+UK Parliament thesaurus ID
+93119
+subject named as
+Statistics
+0 references
+UMLS CUI
+C0038215
+0 references
+C0681932
+0 references
+UNESCO Thesaurus ID
+concept119
+0 references
+word in DPEJ of RAE ID
+estadística
+0 references
+WordNet 3.1 Synset ID
+06027814-n
+1 reference
+stated in
+GF WordNet
+YSO ID
+3591
+1 reference
+stated in
+YSO-Wikidata mapping project
+12053
+subject named as
+Statistix
+1 reference
+stated in
+YSO-Wikidata mapping project
+retrieved
+8 February 2022
+Zhihu topic ID
+19558740
+subject named as
+统计学
+0 references
+19641968
+subject named as
+Statistics
+0 references
+ 
+Sitelinks
+Wikipedia(148 entries)
+afwiki
+Statistiek
+alswiki
+Statistik
+amwiki
+የዝርዝር ሂሳብ (እስታቲስቲክስ)
+anwiki
+Estatistica
+arwiki
+إحصاء
+astwiki
+Estadística
+aswiki
+পৰিসংখ্যা
+azbwiki
+آمار
+azwiki
+Statistika
+bat_smgwiki
+Statėstėka
+bawiki
+Статистика
+bclwiki
+Estadistika
+be_x_oldwiki
+Статыстыка
+bewiki
+Статыстыка
+bgwiki
+Статистика
+biwiki
+Statistikis
+bnwiki
+পরিসংখ্যান
+brwiki
+Stadegouriezh
+bswiki
+Statistika
+cawiki
+Estadística
+ckbwiki
+ئامار
+cowiki
+Statistica
+cswiki
+Statistika
+cvwiki
+Статистика
+cywiki
+Ystadegaeth
+dawiki
+Statistik
+dewiki
+Statistik
+diqwiki
+İstatistik
+dvwiki
+ތަފާސް ހިސާބު
+elwiki
+Στατιστική
+enwiki
+Statistics
+eowiki
+Statistiko
+eswiki
+Estadística
+etwiki
+Statistika
+euwiki
+Estatistika
+extwiki
+Estaística
+fawiki
+آمار
+fiu_vrowiki
+Statistiga
+fiwiki
+Tilastotiede
+fowiki
+Hagfrøði
+frrwiki
+Statistik
+frwiki
+Statistique
+furwiki
+Statistiche
+fywiki
+Statistyk
+ganwiki
+統計學
+gawiki
+Staitistic
+gcrwiki
+Statistik
+gdwiki
+Staitistearachd
+glwiki
+Estatística
+gvwiki
+Staydraa
+hawwiki
+Kumuhana
+hewiki
+סטטיסטיקה
+hiwiki
+सांख्यिकी
+hrwiki
+Statistika
+huwiki
+Statisztika
+hywiki
+Վիճակագրություն
+iawiki
+Statistica
+idwiki
+Statistika
+iowiki
+Statistiko
+iswiki
+Tölfræði
+itwiki
+Statistica
+iuwiki
+ᑭᓯᑦᓯᓯᖕᖑᕐᓗᒋᑦ ᐹᓯᔅᓱᑎᔅᓴᑦ
+jamwiki
+Statistix
+jawiki
+統計学
+jvwiki
+Statistika
+kabwiki
+Addadan (tussna)
+kawiki
+სტატისტიკა
+kbpwiki
+Samaɣ ñʊʊ tɩlʊʊ
+kkwiki
+Статистика
+knwiki
+ಸಂಖ್ಯಾಶಾಸ್ತ್ರ
+kowiki
+통계학
+kuwiki
+Amar
+kwwiki
+Statystek
+kywiki
+Статистика
+ladwiki
+Estadistika
+lawiki
+Statistica
+lbwiki
+Statistik
+lfnwiki
+Statistica
+lijwiki
+Statistega
+liwiki
+Sjtatistiek
+lmowiki
+Statistega
+lowiki
+ສະຖິຕິສາດ
+ltwiki
+Statistika (mokslas)
+lvwiki
+Statistika
+madwiki
+Statistika
+mgwiki
+Statistika
+mkwiki
+Статистика
+mlwiki
+സ്ഥിതിഗണിതം
+mrwiki
+संख्याशास्त्र
+mswiki
+Perangkaan
+mwlwiki
+Statística
+mywiki
+စာရင်းအင်း ပညာ
+newiki
+तथ्याङ्क
+newwiki
+तथ्याङ्क
+nlwiki
+Statistiek
+nnwiki
+Statistikk
+nowiki
+Statistikk
+ocwiki
+Estatistica
+omwiki
+Istaatistiksii
+orwiki
+ପରିସଂଖ୍ୟାନ
+pawiki
+ਅੰਕੜਾ ਵਿਗਿਆਨ
+pihwiki
+Stetistiks
+plwiki
+Statystyka
+pmswiki
+Statìstica
+pnbwiki
+شماریات
+pswiki
+سرشمیرنه
+ptwiki
+Estatística
+quwiki
+Khipukamay
+rowiki
+Statistică
+ruewiki
+Штатістіка
+ruwiki
+Статистика
+scnwiki
+Statìstica
+scowiki
+Stateestics
+sdwiki
+شماريات
+shwiki
+Statistika
+simplewiki
+Statistics
+siwiki
+සංඛ්‍යානය
+skwiki
+Štatistika
+slwiki
+Statistika
+sqwiki
+Statistika
+srwiki
+Статистика
+stqwiki
+Statistik
+suwiki
+Statistika
+svwiki
+Statistik
+swwiki
+Takwimu
+tawiki
+புள்ளியியல்
+tcywiki
+ಸಂಖ್ಯಾಶಾಸ್ತ್ರ
+tetwiki
+Estatístika
+tgwiki
+Омор
+thwiki
+สถิติศาสตร์
+tkwiki
+Statistika
+tlwiki
+Estadistika
+trwiki
+İstatistik
+ttwiki
+Статистика
+ukwiki
+Статистика
+urwiki
+شماریات
+uzwiki
+Statistika
+vecwiki
+Statìstega
+vepwiki
+Statistik
+viwiki
+Thống kê
+warwiki
+Estadistiká
+wuuwiki
+统计学
+yiwiki
+סטאטיסטיק
+yowiki
+Ìsirò Statistiki
+zh_min_nanwiki
+Thóng-kè-ha̍k
+zh_yuewiki
+統計學
+zhwiki
+统计学
+zuwiki
+Izibalomininingo
+Wikibooks(13 entries)
+arwikibooks
+إحصاء
+dewikibooks
+Statistik
+enwikibooks
+Statistics
+eswikibooks
+Estadística
+fiwikibooks
+Tilastotiede
+frwikibooks
+Statistiques
+iswikibooks
+Tölfræði
+jawikibooks
+統計学
+plwikibooks
+Statystyka
+ptwikibooks
+Estatística
+ruwikibooks
+Математика случая
+ukwikibooks
+Статистика
+zhwikibooks
+統計學
+Wikinews(2 entries)
+nlwikinews
+Categorie:Statistiek
+ruwikinews
+Категория:Статистика
+Wikiquote(22 entries)
+azwikiquote
+Statistika
+bgwikiquote
+Статистика — Статистици
+bswikiquote
+Statistika
+cswikiquote
+Statistika
+dewikiquote
+Statistik
+elwikiquote
+Στατιστική
+enwikiquote
+Statistics
+eowikiquote
+Statistiko
+eswikiquote
+Estadística
+etwikiquote
+Statistika
+euwikiquote
+Estatistika
+hewikiquote
+סטטיסטיקה
+hiwikiquote
+सांख्यिकी
+itwikiquote
+Statistica
+jawikiquote
+統計
+ltwikiquote
+Statistika
+plwikiquote
+Statystyka
+ptwikiquote
+Estatística
+ruwikiquote
+Статистика
+skwikiquote
+Štatistika
+trwikiquote
+İstatistik
+ukwikiquote
+Статистика
+Wikisource(0 entries)
+Wikiversity(5 entries)
+cswikiversity
+Statistika
+enwikiversity
+Statistics/Introduction
+frwikiversity
+Initiation à la statistique
+itwikiversity
+Statistica nella ricerca
+kowikiversity
+통계학
+Wikivoyage(0 entries)
+Wiktionary(0 entries)
+Multilingual sites(0 entries)
+Retrieved from "https://www.wikidata.org/w/index.php?title=Q12483&oldid=1966043201"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+ItemDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 1 September 2023, at 14:19.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

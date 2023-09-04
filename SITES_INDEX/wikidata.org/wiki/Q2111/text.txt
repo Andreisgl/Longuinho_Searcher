@@ -1,0 +1,659 @@
+speed of light in vacuum - Wikidata
+speed of light in vacuum
+(Q2111)
+From Wikidata
+Jump to navigation
+Jump to search
+speed of electromagnetic waves in vacuumlightspeedPlanck speedlight speedspeed of electromagnetic waves in vacuumvacuum speed of lightspeed of light in a vacuumvelocity of lightluminal speedlight speed in vacuumspeed of light
+edit
+Language
+Label
+Description
+Also known as
+English
+speed of light in vacuum
+speed of electromagnetic waves in vacuum
+lightspeedPlanck speedlight speedspeed of electromagnetic waves in vacuumvacuum speed of lightspeed of light in a vacuumvelocity of lightluminal speedlight speed in vacuumspeed of light
+Statements
+instance of
+physical constant
+0 references
+unit of speed
+0 references
+fundamental limit
+0 references
+measured quantity value
+end time
+1960
+0 references
+constant
+start time
+1960
+statement is subject of
+Michelson–Morley experiment
+0 references
+UCUM constant
+0 references
+unit of measurement
+0 references
+scalar quantity
+0 references
+video
+Fizeau.ogv16 s, 800 × 600; 1.12 MB
+0 references
+facet of
+massless quantum particle
+0 references
+vacuum
+0 references
+special relativity
+0 references
+electromagnetism
+0 references
+pronunciation audio
+LL-Q9610 (ben)-Tahmid-আলোর গতিবেগ.wav1.5 s; 139 KB
+language of work or name
+Bengali
+1 reference
+reference URL
+https://lingualibre.org/wiki/Q788000
+spoken text audio
+Es-Velocidad de la luz-article-part1.ogg10 min 2 s; 5.28 MB
+language of work or name
+Spanish
+1 reference
+imported from Wikimedia project
+Spanish Wikipedia
+Wikimedia import URL
+https://es.wikipedia.org/w/index.php?title=Velocidad_de_la_luz&oldid=118604633
+discoverer or inventor
+Ole Rømer
+time of discovery or invention
+1675
+statement is subject of
+Rømer's determination of the speed of light
+1 reference
+stated in
+A Short History of Astronomy
+ISQ dimension
+L
+T
+−
+1
+{\displaystyle {\mathsf {L}}{\mathsf {T}}^{-1}}
+0 references
+unit symbol
+c (multiple languages)
+0 references
+numeric value
+299,792,458±0 metre per second
+start time
+1983
+2 references
+stated in
+2018 CODATA recommended values
+NIST/CODATA ID
+c
+stated in
+SI Brochure (9th edition): Concise summary
+220,000 kilometre per second
+publication date
+1676
+reason for deprecated rank
+item/value with less precision and/or accuracy
+discoverer or inventor
+Ole Rømer
+statement is subject of
+Rømer's determination of the speed of light
+0 references
+defining formula
+c
+0
+=
+299792458
+m
+/
+s
+{\displaystyle c_{0}=299792458\,\mathrm {m} /\mathrm {s} }
+1 reference
+stated in
+IEC 80000-6:2022 Quantities and units — Part 6: Electromagnetism
+section, verse, paragraph, or clause
+6-35.2
+in defining formula
+c
+0
+{\displaystyle c_{0}}
+symbol represents
+speed of light in vacuum
+0 references
+conversion to SI unit
+299,792,458.0147178 metre per second
+0 references
+conversion to standard unit
+1,079,252,848.8 kilometre per hour
+0 references
+670,616,629.384 mile per hour
+0 references
+quantity symbol (LaTeX)
+c
+0
+{\displaystyle c_{0}}
+1 reference
+stated in
+IEC 80000-6:2022 Quantities and units — Part 6: Electromagnetism
+section, verse, paragraph, or clause
+6-35.2
+c
+{\displaystyle c}
+0 references
+measured physical quantity
+speed
+0 references
+described by source
+ISO 80000-7:2008 Quantities and units—Part 7: Light
+section, verse, paragraph, or clause
+7-4.1
+0 references
+IEC 80000-6:2008 Quantities and units—Part 6: Electromagnetism
+section, verse, paragraph, or clause
+6-35.2
+subject named as
+speed of light
+light speed
+0 references
+IEC 80000-6:2022 Quantities and units — Part 6: Electromagnetism
+section, verse, paragraph, or clause
+6-35.2
+subject named as
+speed of light in vacuum
+light speed in vacuum
+luminal speed
+0 references
+recommended unit of measurement
+metre per second
+2 references
+stated in
+IEC 80000-6:2008 Quantities and units—Part 6: Electromagnetism
+section, verse, paragraph, or clause
+6-35.a
+stated in
+IEC 80000-6:2022 Quantities and units — Part 6: Electromagnetism
+section, verse, paragraph, or clause
+6-35.2
+on focus list of Wikimedia project
+Wikipedia:List of articles all languages should have
+0 references
+Wikipedia:Vital articles/Level/4
+point in time
+31 October 2022
+0 references
+maintained by WikiProject
+WikiProject Mathematics
+0 references
+different from
+speed of light in a medium
+0 references
+said to be the same as
+speed of gravity
+0 references
+Commons category
+Speed of light
+0 references
+Identifiers
+GND ID
+4167583-6
+1 reference
+imported from Wikimedia project
+German Wikipedia
+National Library of Israel J9U ID
+987007529354105171
+1 reference
+stated in
+National Library of Israel
+Library of Congress authority ID
+sh85076878
+subject named as
+Light--Speed
+1 reference
+stated in
+Gemeinsame Normdatei
+IUPAC Gold Book ID
+S05854
+0 references
+BabelNet ID
+00014374n
+1 reference
+stated in
+BabelNet
+BBC Things ID
+573a261c-9d77-4ab2-a0d9-fd8e789b7a48
+1 reference
+stated in
+BBC Things
+Cultureel Woordenboek ID
+natuurkunde-scheikunde-en-sterrenkunde/lichtsnelheid
+0 references
+Encyclopædia Britannica Online ID
+science/speed-of-light
+0 references
+Encyclopædia Universalis ID
+romer-demontre-que-la-vitesse-de-la-lumiere-n-est-pas-infinie
+0 references
+Encyclopedia of China (Third Edition) ID
+156845
+subject named as
+光速
+0 references
+Freebase ID
+/m/073n8
+1 reference
+stated in
+Freebase Data Dumps
+publication date
+28 October 2013
+French Vikidia ID
+Vitesse_de_la_lumière
+0 references
+Great Russian Encyclopedia Online ID (old version)
+3624162
+subject named as
+СКОРОСТЬ СВЕТА
+0 references
+Great Russian Encyclopedia portal ID
+skorost-sveta-a676e2
+0 references
+Hrvatska enciklopedija ID
+9885
+0 references
+IEV number
+113-01-34
+0 references
+881-04-13
+0 references
+JSTOR topic ID
+speed-of-light
+0 references
+KBpedia ID
+SpeedOfLight
+1 reference
+stated in
+KBpedia
+retrieved
+9 July 2020
+MetaSat ID
+speedOfLight
+0 references
+Microsoft Academic ID
+48388179
+0 references
+NIST/CODATA ID
+c
+0 references
+nLab ID
+speed of light
+0 references
+OmegaWiki Defined Meaning
+688281
+0 references
+PSH ID
+3168
+0 references
+Quora topic ID
+Speed-of-Light
+0 references
+RationalWiki ID
+Speed_of_light
+1 reference
+reference URL
+https://rationalwiki.org/wiki/Speed_of_light
+title
+Speed of light - RationalWiki (English)
+retrieved
+29 March 2022
+UCUM code
+[c]
+subject named as
+velocity of light
+0 references
+Wolfram Language entity code
+Entity["PhysicalConstant", "SpeedOfLight"]
+0 references
+Wolfram Language unit code
+"SpeedOfLight"
+0 references
+World of Physics ID
+SpeedofLight
+0 references
+YSO ID
+20763
+subject named as
+valonnopeus
+ljusets hastighet
+speed of light
+1 reference
+stated in
+YSO-Wikidata mapping project
+retrieved
+9 February 2022
+Zhihu topic ID
+19569486
+subject named as
+光速
+2 references
+reference URL
+https://www.zhihu.com/question/302420317/answer/531561402
+retrieved
+18 April 2019
+reference URL
+https://www.zhihu.com/search?q=%E9%80%83%E4%BA%A1%E4%B8%BB%E4%B9%89%20%E4%BA%8C%E5%90%91%E7%AE%94&type=content
+retrieved
+18 April 2019
+ 
+Sitelinks
+Wikipedia(126 entries)
+edit
+afwiki
+Ligsnelheid
+alswiki
+Lichtgeschwindigkeit
+amwiki
+የብርሃን ፍጥነት
+anwiki
+Velocidat d'a luz
+arwiki
+سرعة الضوء
+arzwiki
+سرعة النور
+astwiki
+Velocidá de la lluz
+aswiki
+পোহৰৰ বেগ
+azwiki
+İşıq sürəti
+bat_smgwiki
+Švėisas veikis
+bawiki
+Яҡтылыҡ тиҙлеге
+be_x_oldwiki
+Хуткасьць сьвятла
+bewiki
+Скорасць святла
+bgwiki
+Скорост на светлината
+bhwiki
+अँजोरिया के गतिवेग
+bnwiki
+আলোর দ্রুতি
+brwiki
+Tizh ar gouloù
+bswiki
+Brzina svjetlosti
+bxrwiki
+Гэрэлэй хурдан
+cawiki
+Velocitat de la llum
+cdowiki
+Guŏng-sók
+ckbwiki
+خێراییی ڕووناکی
+cswiki
+Rychlost světla
+cvwiki
+Çутă хăвăртлăхĕ
+cywiki
+Cyflymder golau
+dawiki
+Lysets hastighed
+dewiki
+Lichtgeschwindigkeit
+elwiki
+Ταχύτητα του φωτός
+enwiki
+Speed of light
+eowiki
+Lumrapido
+eswiki
+Velocidad de la luz
+etwiki
+Valguse kiirus
+euwiki
+Argiaren abiadura
+extwiki
+Velociá de la lus
+fawiki
+سرعت نور
+fiwiki
+Valonnopeus
+fjwiki
+Totolo ni rarama
+frrwiki
+Faard faan't laacht
+frwiki
+Vitesse de la lumière
+furwiki
+Velocitât de lûs
+fywiki
+Ljochtfaasje
+gawiki
+Luas an tsolais
+gcrwiki
+Vitès di limyè
+glwiki
+Velocidade da luz
+gnwiki
+Tesape pya'ekue
+guwiki
+પ્રકાશનો વેગ
+hewiki
+מהירות האור
+hiwiki
+प्रकाश का वेग
+hrwiki
+Brzina svjetlosti
+huwiki
+Fénysebesség
+hywiki
+Լույսի արագություն
+iawiki
+Velocitate de lumine
+idwiki
+Laju cahaya
+iswiki
+Ljóshraði
+itwiki
+Velocità della luce
+jamwiki
+Spiid a lait
+jawiki
+光速
+jbowiki
+nilsutra lo gusni
+kawiki
+სინათლის სიჩქარე
+kkwiki
+Жарық жылдамдығы
+kmwiki
+ល្បឿនពន្លឺ
+kowiki
+빛의 속력
+kwwiki
+Tooth golow
+kywiki
+Жарык ылдамдыгы
+lawiki
+Celeritas lucis
+lbwiki
+Liichtvitess
+lezwiki
+Экуьнин зарбвал
+lmowiki
+Velocità de la lus
+ltwiki
+Šviesos greitis
+lvwiki
+Gaismas ātrums
+minwiki
+Laju cahayo
+mkwiki
+Брзина на светлината
+mlwiki
+പ്രകാശവേഗം
+mnwiki
+Гэрлийн хурд
+mrwiki
+प्रकाशाचा वेग
+mswiki
+Kelajuan cahaya
+mywiki
+အလင်းအလျင်
+nlwiki
+Lichtsnelheid
+nnwiki
+Ljosfarten
+nowiki
+Lysets hastighet
+ocwiki
+Velocitat de la lutz
+omwiki
+Saffisa ifaa
+pawiki
+ਰੌਸ਼ਨੀ ਦੀ ਗਤੀ
+plwiki
+Prędkość światła
+pnbwiki
+روشنی دی رفتار
+pswiki
+د لمر سرعت
+ptwiki
+Velocidade da luz
+rowiki
+Viteza luminii
+ruewiki
+Швыдкость світла
+ruwiki
+Скорость света
+scnwiki
+Vilucitati dâ luci
+scowiki
+Speed o licht
+shwiki
+Brzina svjetlosti
+simplewiki
+Speed of light
+siwiki
+ආලෝකයේ වේගය
+skwiki
+Rýchlosť svetla vo vákuu
+slwiki
+Hitrost svetlobe
+smnwiki
+Čuovâliähtu
+sowiki
+Xawaaraha Ileyska
+sqwiki
+Shpejtësia e dritës
+srwiki
+Брзина светлости
+stqwiki
+Luchtgauegaid
+suwiki
+Laju cahaya
+svwiki
+Ljusets hastighet
+swwiki
+Kasi ya nuru
+tawiki
+ஒளியின் வேகம்
+tewiki
+కాంతి వేగం
+tgwiki
+Суръати рӯшноӣ
+thwiki
+อัตราเร็วของแสง
+tlwiki
+Bilis ng liwanag
+trwiki
+Işık hızı
+ttwiki
+Яктылык тизлеге
+udmwiki
+Югытлэн ӝоглыкез
+ukwiki
+Швидкість світла
+urwiki
+روشنی کی رفتار
+uzwiki
+Yorugʻlik tezligi
+vecwiki
+Vełosità de ła łuxe
+vepwiki
+Vauktusen piguz
+viwiki
+Tốc độ ánh sáng
+warwiki
+Kalaksi han lamrag
+wuuwiki
+光速
+yiwiki
+גיך פון ליכט
+zh_classicalwiki
+光速
+zh_min_nanwiki
+Kng-sok
+zh_yuewiki
+光速
+zhwiki
+光速
+Wikibooks(0 entries)
+edit
+Wikinews(0 entries)
+edit
+Wikiquote(2 entries)
+edit
+enwikiquote
+Speed of light
+itwikiquote
+Velocità della luce
+Wikisource(0 entries)
+edit
+Wikiversity(0 entries)
+edit
+Wikivoyage(0 entries)
+edit
+Wiktionary(0 entries)
+edit
+Multilingual sites(1 entry)
+edit
+commonswiki
+Category:Speed of light
+Retrieved from "https://www.wikidata.org/w/index.php?title=Q2111&oldid=1966672903"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+ItemDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 2 September 2023, at 14:34.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

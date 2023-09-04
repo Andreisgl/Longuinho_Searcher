@@ -1,0 +1,1060 @@
+Web Content Accessibility Guidelines - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Languages
+Language links are at the top of the page across from the title.
+Search
+Search
+Create accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1History
+Toggle History subsection
+1.1Earlier guidelines (1995–1998)
+1.2Version 1 (1999–2000)
+1.3Version 2 (2001–present)
+1.4Version 3 (under development)
+2Versions
+Toggle Versions subsection
+2.1Version 1
+2.2Version 2
+3WCAG referenced by law
+Toggle WCAG referenced by law subsection
+3.1United States
+3.2European Union
+3.3United Kingdom
+3.4Canada
+3.5Australia
+3.6Israel
+4References
+5External links
+Toggle the table of contents
+Toggle the table of contents
+Web Content Accessibility Guidelines
+21 languages
+العربيةCatalàČeštinaDeutschΕλληνικάEspañolفارسی한국어Bahasa IndonesiaÍslenskaItalianoNederlands日本語Norsk bokmålPolskiPortuguêsСрпски / srpskiSvenskaไทยTürkçe中文
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Download as PDFPrintable version
+From Wikipedia, the free encyclopedia
+Web accessibility guidelines
+WCAGWeb Content Accessibility GuidelinesWorld Wide Web Consortium (W3C) logoAbbreviationWCAGStatusW3C RecommendationYear startedJanuary 1995 (1995-01)First published9 May 1999 (1999-05-09)Latest version2.1June 5, 2018; 5 years ago (2018-06-05)[1]Preview version2.2August 11, 2020; 3 years ago (2020-08-11)[2]OrganizationW3C, ISO, IEC[3]CommitteeAccessibility Guidelines Working GroupEditors
+Andrew Kirkpatrick
+Joshue O Connor
+Alastair Campbell
+Ben Caldwell
+Michael Cooper
+Loretta Guarino Reid
+Gregg Vanderheiden
+Wendy Chisholm
+John Slatin
+Jason White
+[1]DomainWeb accessibilityCopyright© 2017–2018 W3C® (MIT, ERCIM, Keio, Beihang).Website
+W3C: www.w3.org/TR/WCAG21/
+ISO / IEC: www.iso.org/standard/58625.html
+The Web Content Accessibility Guidelines (WCAG) are part of a series of web accessibility guidelines published by the Web Accessibility Initiative (WAI) of the World Wide Web Consortium (W3C), the main international standards organization for the Internet. They are a set of recommendations for making Web content more accessible, primarily for people with disabilities—but also for all user agents, including highly limited devices, such as mobile phones. WCAG 2.0, were published in December 2008 and became an ISO standard, ISO/IEC 40500:2012 in October 2012.[3] WCAG 2.1 became a W3C Recommendation in June 2018.[1]
+History[edit]
+Earlier guidelines (1995–1998)[edit]
+The first web accessibility guideline was compiled by Gregg Vanderheiden and released in January 1995, just after the 1994 Second International Conference on the World-Wide Web (WWW II) in Chicago (where Tim Berners-Lee first mentioned disability access in a keynote speech after seeing a pre-conference workshop on accessibility led by Mike Paciello).[4]
+Over 38 different Web access guidelines followed from various authors and organizations over the next few years.[5] These were brought together in the Unified Web Site Accessibility Guidelines compiled at the University of Wisconsin–Madison.[6]
+Version 8 of the Unified Web Site Accessibility Guidelines, published in 1998, served as the starting point for the W3C's WCAG 1.0.[7]
+Version 1 (1999–2000)[edit]
+The WCAG 1.0 were published and became a W3C recommendation on 5 May 1999. In February 2008, The WCAG Samurai, a group of developers independent of the W3C, and led by Joe Clark, published corrections for, and extensions to, the WCAG 1.0.[8]
+Version 2 (2001–present)[edit]
+The first concept proposal of WCAG 2.0 was published on 25 January 2001. In the following years new versions were published intended to solicit feedback from accessibility experts and members of the disability community. On 27 April 2006 a "Last Call Working Draft" was published.[9] Due to the many amendments that were necessary, WCAG 2.0 were published again as a concept proposal on 17 May 2007, followed by a second "Last Call Working Draft" on 11 December 2007.[10][11] In April 2008 the guidelines became a "Candidate Recommendation".[12] On 3 November 2008 the guidelines became a "Proposed Recommendation". WCAG 2.0 were published as a W3C Recommendation on 11 December 2008.[13][14] In October 2012, WCAG 2.0 were accepted by the International Organization for Standardization as an ISO International Standard, ISO/IEC 40500:2012.[15][16][17][3] In early 2014, WCAG 2.0's Level A and Level AA success criteria were incorporated as references in clause 9.2 ("Web content requirements") of the European standard EN 301 549 published by ETSI.[18] EN 301 549 was produced in response to a mandate that the European Commission gave to the three official European standardisation bodies (CEN, CENELEC and ETSI) and is the first European standard for ICT products and services.[19][20]
+WCAG 2.1 became a W3C Recommendation on 5 June 2018.[1]
+As of May 2023, WCAG 2.2 is a W3C candidate recommendation snapshot,[2] and is scheduled to be finalized within 2023 Q3 (July, August, September).[21]
+Version 3 (under development)[edit]
+In early 2021, the Accessibility Guidelines Working Group presented the first public working draft (FPWD) of the future WCAG 3.0, intended to provide a range of recommendations for making web content more accessible. The 2021 FPWD introduced a new color contrast method as part of WCAG 3.0, as a candidate to replace the existing WCAG 2.x contrast specification, called the Accessible Perceptual Contrast Algorithm (APCA), which is currently being beta tested.[22] It should be made clear that no part of WCAG 3.0 is an official recommendation. WCAG 3.0 is a draft undergoing significant development efforts, and the expected release date as an official recommendation is not defined.
+Versions[edit]
+Version 1[edit]
+WCAG 1.0 consist of 14 guidelines—each of which describes a general principle of accessible design. Each guideline covers a basic theme of web accessibility and is associated with one or more checkpoints that describes how to apply that guideline to particular webpage features.
+Guideline 1: Provide equivalent alternatives to auditory and visual content
+Guideline 2: Don't rely on colour alone
+Guideline 3: Use markup and style sheets, and do so properly
+Guideline 4: Clarify natural language usage
+Guideline 5: Create tables that transform gracefully
+Guideline 6: Ensure that pages featuring new technologies transform gracefully
+Guideline 7: Ensure user control of time sensitive content changes
+Guideline 8: Ensure direct accessibility of embedded user interfaces
+Guideline 9: Design for device independence
+Guideline 10: User interim solutions
+Guideline 11: Use W3C technologies and guidelines
+Guideline 12: Provide context and orientation information
+Guideline 13: Provide clear navigation mechanisms
+Guideline 14: Ensure that documents are clear and simple
+Each of the in total 65 WCAG 1.0 checkpoints has an assigned priority level based on the checkpoint's impact on accessibility:
+Priority 1: Web developers must satisfy these requirements, otherwise it will be impossible for one or more groups to access the Web content. Conformance to this level is described as A.
+Priority 2: Web developers should satisfy these requirements, otherwise some groups will find it difficult to access the Web content. Conformance to this level is described as AA or Double-A.
+Priority 3: Web developers may satisfy these requirements to make it easier for some groups to access the Web content. Conformance to this level is described as AAA or Triple-A.
+Version 2[edit]
+WCAG 2.0 consist of twelve guidelines organized under four principles (websites must be perceivable, operable, understandable, and robust). Each guideline has testable success criteria (61 in all).[23] The W3C's Techniques for WCAG 2.0[24] is a list of techniques that help authors meet the guidelines and success criteria. The techniques are periodically updated whereas the principles, guidelines and success criteria are stable and do not change.[25] WCAG 2.0 uses the same three levels of conformance (A, AA, AAA) as WCAG 1.0, but has redefined them. The WCAG working group maintains an extensive list of web accessibility techniques and common failure cases for WCAG 2.0.[26]
+WCAG 2.1 is backwards-compatible with WCAG 2.0, which it extends with a further 17 success criteria.
+WCAG 2 Guidelines
+Principles
+Guidelines
+Success Criteria
+Conformance Level
+Revision
+1: Perceivable
+1.1 Text Alternatives
+1.1.1 Non-text Content
+A
+2.0
+1.2 Time-based Media
+1.2.1 Audio-only and Video-only (Prerecorded)
+A
+2.0
+1.2.2 Captions (Prerecorded)
+A
+2.0
+1.2.3 Audio Description or Media Alternative (Prerecorded)
+A
+2.0
+1.2.4 Captions (Live)
+AA
+2.0
+1.2.5 Audio Description (Prerecorded)
+AA
+2.0
+1.2.6 Sign Language (Prerecorded)
+AAA
+2.0
+1.2.7 Extended Audio Description (Prerecorded)
+AAA
+2.0
+1.2.8 Media Alternative (Prerecorded)
+AAA
+2.0
+1.2.9 Audio-only (Live)
+AAA
+2.0
+1.3 Adaptable
+1.3.1 Info and Relationships
+A
+2.0
+1.3.2 Meaningful Sequence
+A
+2.0
+1.3.3 Sensory Characteristics
+A
+2.0
+1.3.4 Orientation
+AA
+2.1
+1.3.5 Identify Input Purpose
+AA
+2.1
+1.3.6 Identify Purpose
+AAA
+2.1
+1.4 Distinguishable
+1.4.1 Use of Color
+A
+2.0
+1.4.2 Audio Control
+A
+2.0
+1.4.3 Contrast (Minimum)
+AA
+2.0
+1.4.4 Resize text
+AA
+2.0
+1.4.5 Images of Text
+AA
+2.0
+1.4.6 Contrast (Enhanced)
+AAA
+2.0
+1.4.7 Low or No Background Audio
+AAA
+2.0
+1.4.8 Visual Presentation
+AAA
+2.0
+1.4.9 Images of Text (No Exception)
+AAA
+2.0
+1.4.10 Reflow
+AA
+2.1
+1.4.11 Non-Text Contrast
+AA
+2.1
+1.4.12 Text Spacing
+AA
+2.1
+1.4.13 Content on Hover or Focus
+AA
+2.1
+2: Operable
+2.1 Keyboard Accessible
+2.1.1 Keyboard
+A
+2.0
+2.1.2 No Keyboard Trap
+A
+2.0
+2.1.3 Keyboard (No Exception)
+AAA
+2.0
+2.1.4 Character Key Shortcuts
+A
+2.1
+2.2 Enough Time
+2.2.1 Timing Adjustable
+A
+2.0
+2.2.2 Pause, Stop, Hide
+A
+2.0
+2.2.3 No Timing
+AAA
+2.0
+2.2.4 Interruptions
+AAA
+2.0
+2.2.5 Re-authenticating
+AAA
+2.0
+2.2.6 Timeouts
+A
+2.1
+2.3 Seizures
+2.3.1 Three Flashes or Below Threshold
+A
+2.0
+2.3.2 Three Flashes
+AAA
+2.0
+2.3.3 Animation from Interactions
+AAA
+2.1
+2.4 Navigable
+2.4.1 Bypass Blocks
+A
+2.0
+2.4.2 Page Titled
+A
+2.0
+2.4.3 Focus Order
+A
+2.0
+2.4.4 Link Purpose (In Context)
+A
+2.0
+2.4.5 Multiple Ways
+AA
+2.0
+2.4.6 Headings and Labels
+AA
+2.0
+2.4.7 Focus Visible
+AA
+2.0
+2.4.8 Location
+AAA
+2.0
+2.4.9 Link Purpose (Link Only)
+AAA
+2.0
+2.4.10 Section Headings
+AAA
+2.0
+2.4.11 Focus Appearance
+AA
+2.2
+2.4.12 Focus Not Obscured (Minimum)
+AA
+2.2
+2.4.13 Focus Not Obscured (Enhanced)
+AAA
+2.2
+2.5 Input Modalities
+2.5.1 Pointer Gestures
+A
+2.1
+2.5.2 Pointer Cancellation
+A
+2.1
+2.5.3 Label in Name
+A
+2.1
+2.5.4 Motion Actuation
+A
+2.1
+2.5.5 Target Size
+A
+2.1
+2.5.6 Concurrent Input Mechanisms
+A
+2.1
+2.5.7 Dragging Movements
+AA
+2.2
+2.5.8 Target Size (Minimum)
+AA
+2.2
+3: Understandable
+3.1 Readable
+3.1.1 Language of Page
+A
+2.0
+3.1.2 Language of Parts
+AA
+2.0
+3.1.3 Unusual Words
+AAA
+2.0
+3.1.4 Abbreviations
+AAA
+2.0
+3.1.5 Reading Level
+AAA
+2.0
+3.1.6 Pronunciation
+AAA
+2.0
+3.2 Predictable
+3.2.1 On Focus
+A
+2.0
+3.2.2 On Input
+A
+2.0
+3.2.3 Consistent Navigation
+AA
+2.0
+3.2.4 Consistent Identification
+AA
+2.0
+3.2.5 Change on Request
+AAA
+2.0
+3.2.6 Consistent Help
+A
+2.2
+3.3 Input Assistance
+3.3.1 Error Identification
+A
+2.0
+3.3.2 Labels or Instructions
+A
+2.0
+3.3.3 Error Suggestion
+AA
+2.0
+3.3.4 Error Prevention (Legal, Financial, Data)
+AA
+2.0
+3.3.5 Help
+AAA
+2.0
+3.3.6 Error Prevention (All)
+AAA
+2.0
+3.3.7 Accessible Authentication
+AA
+2.2
+3.3.8 Accessible Authentication (No Exception)
+AAA
+2.2
+3.3.9 Redundant Entry
+A
+2.2
+4: Robust
+4.1 Compatible
+4.1.1 Parsing
+A
+2.0
+4.1.2 Name, Role, Value
+A
+2.0
+4.1.3 Status Messages
+AA
+2.1
+WCAG referenced by law[edit]
+This section only refers to specific instances where WCAG, or a closely related derivative thereof, is specifically codified into law. There are many laws relating to accessibility in general and which may apply to websites, though they don't necessarily refer to WCAG. It is nevertheless considered prudent to follow WCAG guidelines to help protect against potential lawsuits relating to accessibility.[27]
+United States[edit]
+In 2013, the US Department of Transportation amended the Air Carrier Access Act (ACAA) to require Airlines make their Websites accessible, requiring conformance to WCAG 2.0, meeting Level AA Success Criteria.[28]
+In January 2017, the US Access Board approved a final rule to update Section 508 of the Rehabilitation Act of 1973. The new rule adopts seventeen WCAG 2.0 success criteria, but 22 of the 38 existing A-level and AA-level criteria were already covered by existing Section 508 guidelines. The rule requires adherence to the new standards twelve months from its date of publication in the federal register.[29][30]
+In December, 2021 the 11th circuit court vacated a sometimes-cited case from 2017, which had referred to the WCAG guidelines as "industry standard". The 11th circuit court's ruling rendered the 2017 case moot.[31] As such, the case is no longer citable as caselaw. On March 2, 2022, the 11th circuit court refused to rehear the case.
+European Union[edit]
+Directive 2016/2102[32] requires websites and mobile applications of public sector (i.e. government) bodies to conform to WCAG 2.1 Level AA.[33][34] As of June 2021, the directive covers websites and mobile apps.[35] The European Parliament approved the directive in October 2016,[32] the European Commission updated the WCAG reference from 2.0 to 2.1 in December 2018.[34]
+United Kingdom[edit]
+In September 2018, website and mobile app accessibility regulations for the public sector came into force, titled  the Public Sector Bodies (Websites and Mobile Applications) Accessibility Regulations 2018, which currently applies the WCAG 2.1 AA level to websites operated by the "public sector", which means government agencies or organizations funded by the government, with some exclusions. The UK government published Understanding accessibility requirements for public sector bodies[36] to guide compliance.
+Canada[edit]
+Regulations under the Accessibility for Ontarians with Disabilities Act, 2005 require that public web content of certain Ontario organizations complies with WCAG 2.0 Level AA.
+The 2010/2012 Jodhan decision[37] caused the Canadian federal government to require all online web pages, documents and videos available externally and internally to meet the accessibility requirements of WCAG 2.0.[38]
+Australia[edit]
+The Australian government has also mandated via the Disability Discrimination Act 1992 that all Australian government websites meet the WCAG 2.0 level A accessibility requirements.[39]
+Israel[edit]
+The Israeli Ministry of Justice published regulations in early 2014, requiring Internet websites to comply with Israeli Standard 5568, which is based on the W3C Web Content Accessibility Guidelines 2.0.
+The main differences between the Israeli standard and the W3C standard concern the requirements to provide captions and texts for audio and video media. The Israeli standards are somewhat more lenient, reflecting the current technical difficulties in providing such captions and texts in Hebrew.[40][41]
+References[edit]
+^ a b c d Kirkpatrick, Andrew; Connor, Joshue O; Campbell, Alastair; Cooper, Michael, eds. (5 June 2018). "Web Content Accessibility Guidelines (WCAG) 2.1". 2.1. W3C. Archived from the original on 1 May 2021. Retrieved 6 April 2021.
+^ a b Adams, Chuck; Campbell, Alastair; Montgomery, Rachael; Cooper, Michael; Kirkpatrick, Andrew, eds. (11 August 2020). "Web Content Accessibility Guidelines (WCAG) 2.2". W3C. 2.2. Accessibility Guidelines Working Group. Archived from the original on 13 March 2021. Retrieved 6 April 2021.
+^ a b c "ISO - ISO/IEC 40500:2012 - Information technology — W3C Web Content Accessibility Guidelines (WCAG) 2.0". ISO. ISO, IEC. 2012. Archived from the original on 7 December 2017. Retrieved 6 April 2021.
+^ Vanderheiden, Gregg C. (31 January 1995). "Design of HTML (Mosaic) Pages to Increase their Accessibility to Users with Disabilities; Strategies for Today and Tomorrow". Trace Center, University of Wisconsin–Madison. Archived from the original on 15 July 2012. Retrieved 22 September 2012.
+^ "References: Designing Accessible HTML Pages -- guidelines and overview documents". World Wide Web Consortium. Archived from the original on 2 March 2012. Retrieved 22 September 2012.
+^ "Trace Center". Trace Center, University of Wisconsin–Madison. Archived from the original on 19 September 2012. Retrieved 22 September 2012.
+^ Vanderheiden, Gregg C.; Chisholm, Wendy A., eds. (20 January 1998). "Unified Web Site Accessibility Guidelines". Trace Center, University of Wisconsin–Madison. Archived from the original on 2 March 2012. Retrieved 22 September 2012.
+^ "Home Page". WCAG Samurai. Archived from the original on 13 January 2013.
+^ Caldwell, Ben; Chisholm, Wendy; Slatin, John; Vanderheiden, Gregg, eds. (27 April 2006). "Web Content Accessibility Guidelines 2.0 – W3C Working Draft 27 April 2006". W3C. Archived from the original on 25 April 2014. Retrieved 6 April 2021.
+^ Caldwell, Ben; Cooper, Michael; Guarino Reid, Loretta; Vanderheiden, Gregg; Chisholm, Wendy; Slatin, John; White, Jason, eds. (17 May 2007). "Web Content Accessibility Guidelines 2.0 – W3C Working Draft 17 May 2007". W3C. Archived from the original on 23 June 2014. Retrieved 6 April 2021.
+^ Caldwell, Ben; Cooper, Michael; Guarino Reid, Loretta; Vanderheiden, Gregg; Chisholm, Wendy; Slatin, John; White, Jason, eds. (11 December 2017). "Web Content Accessibility Guidelines 2.0 – W3C Working Draft 11 December 2007". W3C. Archived from the original on 28 April 2014. Retrieved 6 April 2021.
+^ "WCAG 2.0 Candidate Recommendation Implementation Information". W3C. Archived from the original on 9 August 2022. Retrieved 21 April 2014.
+^ "Web Content Accessibility Guidelines (WCAG) 2.0 – W3C Recommendation 11 December 2008". W3.org. Archived from the original on 28 June 2018. Retrieved 27 July 2013.
+^ W3C: W3C Web Standard Defines Accessibility for Next Generation Web Archived 12 December 2008 at the Wayback Machine (press release, 11 December 2008).
+^ Henry, Shawn (15 October 2012). "WCAG 2.0 is now also ISO/IEC 40500!". World Wide Web Consortium. Archived from the original on 9 September 2013. Retrieved 23 October 2012.
+^ "W3C Web Content Accessibility Guidelines 2.0 approved as an ISO/IEC International Standard". World Wide Web Consortium. 15 October 2012. Archived from the original on 18 October 2012. Retrieved 23 October 2012.
+^ "ISO/IEC 40500:2012 - Information technology -- W3C Web Content Accessibility Guidelines (WCAG) 2.0". ISO. Archived from the original on 8 March 2013. Retrieved 23 October 2012.
+^ ETSI: EN 301 549  V1.1.1  (2014-02): Accessibility requirements suitable for public procurement of ICT products and services in Europe Archived 31 October 2015 at the Wayback Machine. Accessed 27 November 2015.
+^ CEN-CENELEC: New European Standard will help to make ICT products and services accessible for all Archived 8 December 2015 at the Wayback Machine. 19 February 2014. Accessed 27 November 2015.
+^ CEN-CENELEC: Mandate 376 Archived 10 March 2016 at the Wayback Machine. (No date). Accessed 27 November 2015.
+^ "Web Content Accessibility Guidelines (WCAG) Overview". Web Accessibility Initiative. World Wide Web Consortium. Archived from the original on 25 January 2022. Retrieved 25 January 2022.
+^ "Improving accessibility with the new APCA". Lightflows. 28 January 2022. Archived from the original on 4 August 2022. Retrieved 9 May 2022.
+^ "Web Content Accessibility Guidelines (WCAG) 2.0". W3C. Archived from the original on 18 February 2011. Retrieved 17 December 2014.
+^ "Techniques for WCAG 2.0". W3C. Archived from the original on 20 December 2014. Retrieved 17 December 2014.
+^ "Understanding Techniques for WCAG Success Criteria". W3C. Archived from the original on 18 December 2014. Retrieved 17 December 2014.
+^ "Techniques for WCAG 2.0". W3.org. Archived from the original on 27 July 2013. Retrieved 27 July 2013.
+^ "Disabled access to websites under UK law". Out-Law.com. October 2011. Archived from the original on 28 December 2014. Retrieved 15 January 2015.
+^ "Nondiscrimination on the Basis of Disability in Air Travel: Accessibility of Web Sites and Automated Kiosks at U.S. Airports" (PDF). transportation.gov. US Department of Transportation. Retrieved 21 December 2022.
+^ "Information and Communication Technology (ICT) Final Standards and Guidelines" (PDF). United States Access Board. 9 January 2017. Archived (PDF) from the original on 23 October 2020. Retrieved 10 January 2017.
+^ "Final Regulatory Impact Analysis: Final Rule to Update the Section 508 Standards and Section 255 Guidelines". United States Access Board. 5 January 2017. Archived from the original on 15 March 2020. Retrieved 10 January 2017.
+^ "Eleventh Circuit Vacates Gil v. Winn-Dixie Opinion Due to Mootness". Retrieved 7 December 2022.{{cite web}}:  CS1 maint: url-status (link)
+^ a b "Directive (EU) 2016/2102 of the European Parliament and of the Council of 26 October 2016 on the accessibility of the websites and mobile applications of public sector bodies (Text with EEA relevance)". Publications Office of the European Union. 26 October 2016. Archived from the original on 30 April 2019. Retrieved 30 April 2019.
+^ "COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT pursuant to Article 294(6) of the Treaty on the Functioning of the European Union concerning the position of the Council on the adoption of a Proposal for a Directive of the European Parliament and of the Council on the accessibility of the websites and mobile applications of public sector bodies". Publications Office of the European Union. 18 July 2016. Archived from the original on 9 June 2020. Retrieved 10 February 2017.
+^ a b "Commission Implementing Decision (EU) 2018/2048 of 20 December 2018 on the harmonised standard for websites and mobile applications drafted in support of Directive (EU) 2016/2102 of the European Parliament and of the Council". Publications Office of the European Union. 20 December 2018. Archived from the original on 12 April 2019. Retrieved 30 April 2019.
+^ "DIRECTIVE (EU) 2016/2102 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 26 October 2016 on the accessibility of the websites and mobile applications of public sector bodies, Article 12". Publications Office of the European Union. 26 October 2016. Archived from the original on 11 February 2017. Retrieved 10 February 2017.
+^ "Understanding accessibility requirements for public sector bodies". Central Digital & Data Office. 22 August 2022. Retrieved 20 December 2022.
+^ "Jodhan decision". Ccdonline.ca. 30 May 2012. Archived from the original on 28 July 2013. Retrieved 27 July 2013.
+^ "Canadian Treasury Board Secretariat Standard on Web Accessibility". Tbs-sct.gc.ca. 1 August 2011. Archived from the original on 23 July 2013. Retrieved 27 July 2013.
+^ "Accessibility". Web Guide. Retrieved 20 December 2022.{{cite web}}:  CS1 maint: url-status (link)
+^ "Making the web accessible". Commission for Equal Rights of Persons with Disabilities. State of Israel. Archived from the original on 22 June 2022. Retrieved 22 June 2022.
+^ "Website Accessibility Requirements". Israel Technology Law Blog. Archived from the original on 28 September 2014. Retrieved 22 June 2022.
+External links[edit]
+This article's use of external links may not follow Wikipedia's policies or guidelines. Please improve this article by removing excessive or inappropriate external links, and converting useful links where appropriate into footnote references. (September 2019) (Learn how and when to remove this template message)
+W3C – Web Content Accessibility Guidelines (WCAG) 2.1
+W3C – Web Accessibility Initiative (WAI) introduction to WCAG
+Mauve, an accessibility validator developed by HIIS Lab – ISTI of CNR of Pisa (Italy).
+WAVE – Online accessibility validator
+WCAG 2.0 checklist
+Achieving WCAG 2.0 with PDF/UA – Document published by the Association for Information and Image Management (AIIM)
+WCAG for eLearning - Training Accessibility Guidelines
+Digital Accessibility WCAG AA Checklist: 10 Critical Elements to Evaluate for Website Accessibility
+WCAG Samurai Errata
+The History of Digital Accessibility and Why it Matters
+vteWeb accessibilityGuidelines
+Web Content Accessibility Guidelines
+Software
+accessiBe
+Bobby
+Dragon NaturallySpeaking
+Easy Chirp
+ZAC Browser
+NonVisual Desktop Access
+VoiceOver
+ZoomText
+Organizations
+AnySurfer
+Deque Systems
+Disability Rights Education and Defense Fund
+International Association of Accessibility Professionals
+Knowbility
+Oswald Labs
+WebAIM
+Web Accessibility Initiative
+vteWorld Wide Web Consortium (W3C)Products andstandardsRecommendations
+ActivityPub
+Activity Streams
+ARIA
+Canonical XML
+CDF
+CSS
+Animations
+Flexbox
+Grid
+DOM
+Geolocation API
+HTML
+HTML5
+IndexedDB
+ITS
+JSON-LD
+Linked Data Notifications
+MathML
+Micropub
+OWL
+PLS
+RDF
+Schema
+SISR
+SKOS
+SMIL
+SOAP
+SRGS
+SRI
+SSML
+SVG
+Filter Effects
+SCXML
+SHACL
+SPARQL
+Timed text
+VoiceXML
+WoT
+TD
+Web storage
+WSDL
+Webmention
+WebSub
+XHTML
++RDFa
+XML
+Base
+Encryption
+Events
+Information Set
+Namespace
+Schema
+Signature
+XForms
+XInclude
+XLink
+XOP
+XPath
+2.0
+3.x
+XPointer
+XProc
+XQuery
+XSL
+XSL-FO
+XSLT
+elements
+Notes
+IndieAuth
+XAdES
+XBL
+XHTML+SMIL
+XUP
+Working drafts
+CCXML
+CURIE
+EME
+InkML
+MSE
+RIF
+SMIL Timesheets
+sXBL
+WebGPU
+WebXR
+XFDL
+XFrames
+XMLHttpRequest
+Guidelines
+Web Content Accessibility Guidelines
+Initiative
+Markup Validation Service
+Web Accessibility Initiative
+Web Components
+Deprecated
+C-HTML
+HDML
+JSSS
+PGML
+VML
+WebPlatform
+XHTML+MathML+SVG
+Obsoleted
+P3P
+Organizations
+World Wide Web Foundation
+Working groups
+TAG
+CSS
+SVG
+WebAssembly
+WebAuthn
+WHATWG
+Community & business groups
+Web Advertising BG
+WebAssembly CG
+Closed groups
+Device Description (DDWG)
+HTML
+Multimodal Interaction Activity (MMI)
+Software
+CERN httpd
+Libwww
+Browsers
+Line Mode (1990–)
+Arena (1993–98)
+Agora (1994–97)
+Argo (1994–97)
+Amaya (browser/editor, 1996–2012)
+Conferences
+International World Wide Web Conference (IW3C)
+Steering Committee (IW3C2)
+First conference ("WWW1", 1994)
+vteISO standards by standard numberList of ISO standards – ISO romanizations – IEC standards1–9999
+1
+2
+3
+4
+6
+7
+9
+16
+17
+31
+-0
+-1
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+-11
+-12
+-13
+68-1
+128
+216
+217
+226
+228
+233
+259
+261
+262
+302
+306
+361
+500
+518
+519
+639
+-1
+-2
+-3
+-5
+-6
+646
+657
+668
+690
+704
+732
+764
+838
+843
+860
+898
+965
+999
+1000
+1004
+1007
+1073-1
+1073-2
+1155
+1413
+1538
+1629
+1745
+1989
+2014
+2015
+2022
+2033
+2047
+2108
+2145
+2146
+2240
+2281
+2533
+2709
+2711
+2720
+2788
+2848
+2852
+3029
+3103
+3166
+-1
+-2
+-3
+3297
+3307
+3601
+3602
+3864
+3901
+3950
+3977
+4031
+4157
+4165
+4217
+4909
+5218
+5426
+5427
+5428
+5725
+5775
+5776
+5800
+5807
+5964
+6166
+6344
+6346
+6385
+6425
+6429
+6438
+6523
+6709
+6943
+7001
+7002
+7010
+7027
+7064
+7098
+7185
+7200
+7498
+-1
+7637
+7736
+7810
+7811
+7812
+7813
+7816
+7942
+8000
+8093
+8178
+8217
+8373
+8501-1
+8571
+8583
+8601
+8613
+8632
+8651
+8652
+8691
+8805/8806
+8807
+8820-5
+8859
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-8-I
+-9
+-10
+-11
+-12
+-13
+-14
+-15
+-16
+8879
+9000/9001
+9036
+9075
+9126
+9141
+9227
+9241
+9293
+9314
+9362
+9407
+9496
+9506
+9529
+9564
+9592/9593
+9594
+9660
+9797-1
+9897
+9899
+9945
+9984
+9985
+9995
+10000–19999
+10006
+10007
+10116
+10118-3
+10160
+10161
+10165
+10179
+10206
+10218
+10303
+-11
+-21
+-22
+-28
+-238
+10383
+10487
+10585
+10589
+10628
+10646
+10664
+10746
+10861
+10957
+10962
+10967
+11073
+11170
+11179
+11404
+11544
+11783
+11784
+11785
+11801
+11889
+11898
+11940 (-2)
+11941
+11941 (TR)
+11992
+12006
+12182
+12207
+12234-2
+12620
+13211
+-1
+-2
+13216
+13250
+13399
+13406-2
+13450
+13485
+13490
+13567
+13568
+13584
+13616
+13816
+14000
+14031
+14224
+14289
+14396
+14443
+14496
+-2
+-3
+-6
+-10
+-11
+-12
+-14
+-17
+-20
+14617
+14644
+14649
+14651
+14698
+14764
+14882
+14971
+15022
+15189
+15288
+15291
+15292
+15398
+15408
+15444
+-3
+15445
+15438
+15504
+15511
+15686
+15693
+15706
+-2
+15707
+15897
+15919
+15924
+15926
+15926 WIP
+15930
+16023
+16262
+16355-1
+16485
+16612-2
+16750
+16949 (TS)
+17024
+17025
+17100
+17203
+17369
+17442
+17506
+17799
+18004
+18014
+18245
+18629
+18916
+19005
+19011
+19092
+-1
+-2
+19114
+19115
+19125
+19136
+19407
+19439
+19500
+19501
+19502
+19503
+19505
+19506
+19507
+19508
+19509
+19510
+19600
+19752
+19757
+19770
+19775-1
+19794-5
+19831
+20000–29999
+20000
+20022
+20121
+20400
+20802
+21000
+21047
+21122
+21500
+21827
+22000
+22275
+22300
+22395
+23090-3
+23270
+23271
+23360
+24517
+24613
+24617
+24707
+25178
+25964
+26000
+26262
+26300
+26324
+27000 series
+27000
+27001
+27002
+27005
+27006
+27729
+28000
+29110
+29148
+29199-2
+29500
+30000+
+30170
+31000
+32000
+37001
+38500
+40500
+42010
+45001
+50001
+55000
+56000
+80000
+ Category
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Web_Content_Accessibility_Guidelines&oldid=1160227846"
+Categories: Web accessibilityGame accessibilityISO standardsHidden categories: Webarchive template wayback linksCS1 maint: url-statusArticles with short descriptionShort description matches WikidataUse dmy dates from December 2020Wikipedia external links cleanup from September 2019Wikipedia spam cleanup from September 2019
+ This page was last edited on 15 June 2023, at 05:32 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

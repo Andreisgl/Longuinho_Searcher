@@ -1,0 +1,187 @@
+                
+                    Sun, Yat-sen, 1866-1925 -
+                Bibliography of the History of the Czech Lands
+            
+                Skip to content
+            
+en
+Follow us on: 
+Sun, Yat-sen, 1866-1925
+Sun, Yat-sen, 1866-1925
+Edit
+Update record
+Copy
+Attached files
+Delete authority
+                                        Delete authority 
+z {{recordHolding.department | loc}}
+                            Documents for download
+                        
+{{file.name}}
+                            Detail
+                        
+                            MARC
+                        
+Field
+Ind
+Field content
+leader
+                                        -----nam-a22------i-4500
+                                    
+1
+                                        jn20000701744
+                                    
+3
+                                        CZ PrNK
+                                    
+5
+                                        20210527132350.6
+                                    
+8
+                                        000728|n|acnnnaabn           n a|a      
+                                    
+40
+##
+            $a
+                ABA001
+            $b
+                cze
+            $d
+                ABA001
+46
+ 
+            $f
+                1866
+            $g
+                1925
+100
+1#
+            $a
+                Sun, Yat-sen,
+            $d
+                1866-1925
+            $7
+                jn20000701744
+400
+0#
+            $a
+                Sunjatsen,
+            $d
+                1866-1925
+            $0
+                o
+            $7
+                jn20000701744
+400
+1#
+            $a
+                Sun, Zhongshan,
+            $d
+                1866-1925
+            $0
+                o
+400
+1#
+            $a
+                Sun, Čung-šan,
+            $d
+                1866-1925
+            $2
+                czecze
+            $0
+                o
+400
+1#
+            $a
+                Sun, Yixian,
+            $d
+                1866-1925
+            $0
+                o
+400
+1#
+            $a
+                Sun, I-sien,
+            $d
+                1866-1925
+            $2
+                czecze
+            $0
+                o
+400
+1#
+            $a
+                Sun, Wen,
+            $d
+                1866-1925
+            $0
+                o
+667
+ 
+            $a
+                Záznam neprošel revizí podle pravidel RDA.
+670
+ 
+            $a
+                NKC-PH
+670
+ 
+            $a
+                Li, Chuanxi (ed.): Yin xiang Sun Zhongshan. Di 1 ban. Hefei: Anhui wen yi chu ban she, 2010
+670
+ 
+            $a
+                www(Wikipedia, the free encyclopedia), cit. 7. 5. 2012
+670
+ 
+            $u
+                https://cs.wikipedia.org/wiki/Sunjatsen
+            $y
+                Sunjatsen
+670
+ 
+            $a
+                LC (Names), cit. 7. 5. 2012
+            $b
+                autoritní forma, data, odkazy viz
+678
+0#
+            $a
+                Čínský revolucionář a politický vůdce.
+906
+ 
+            $a
+                im20000101
+906
+ 
+            $a
+                oz20120507
+            $b
+                tone
+            $c
+                Záhlaví - změna na viz, viz - další výskyty, biografická poznámka - nově, zdroj - další výskyty, URL
+906
+ 
+            $a
+                co20120507
+            $b
+                tone
+997
+ 
+            $a
+                VH
+1500
+ 
+            $a
+                20120507120240.0
+                            Processing history
+                        
+            Permanent link
+            
+                                System developed by
+                                KP-SYS 
+                                System version {{$ctrl.portaroVersion.date | date:'d.M.yyyy H:mm:ss'}} ({{$ctrl.portaroVersion.branch}} {{$ctrl.portaroVersion.value}})
+                            
+RSS
+Česky
+Deutsch

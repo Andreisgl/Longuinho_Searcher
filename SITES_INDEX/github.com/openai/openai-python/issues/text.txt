@@ -1,0 +1,534 @@
+pip install openai==0.27.1 unable to install · Issue #294 · openai/openai-python · GitHub
+Skip to content
+Toggle navigation
+            Sign up
+          
+ 
+        Product
+        
+Actions
+        Automate any workflow
+      
+Packages
+        Host and manage packages
+      
+Security
+        Find and fix vulnerabilities
+      
+Codespaces
+        Instant dev environments
+      
+Copilot
+        Write better code with AI
+      
+Code review
+        Manage code changes
+      
+Issues
+        Plan and track work
+      
+Discussions
+        Collaborate outside of code
+      
+Explore
+      All features
+    
+      Documentation
+    
+      GitHub Skills
+    
+      Blog
+    
+        Solutions
+        
+For
+      Enterprise
+    
+      Teams
+    
+      Startups
+    
+      Education
+    
+By Solution
+      CI/CD & Automation
+    
+      DevOps
+    
+      DevSecOps
+    
+Resources
+      Customer Stories
+    
+      White papers, Ebooks, Webinars
+    
+      Partners
+    
+        Open Source
+        
+GitHub Sponsors
+        Fund open source developers
+      
+The ReadME Project
+        GitHub community articles
+      
+Repositories
+      Topics
+    
+      Trending
+    
+      Collections
+    
+Pricing
+Search or jump to...
+Search code, repositories, users, issues, pull requests...
+ 
+        Search
+      
+Clear
+ 
+ 
+              Search syntax tips
+ 
+        Provide feedback
+      
+ 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+     Cancel
+    Submit feedback
+        Saved searches
+      
+Use saved searches to filter your results more quickly
+ 
+Name
+Query
+            To see all available qualifiers, see our documentation.
+          
+ 
+     Cancel
+    Create saved search
+              Sign in
+            
+              Sign up
+            
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.
+You switched accounts on another tab or window. Reload to refresh your session.
+ 
+ Dismiss alert
+        openai
+ 
+/
+openai-python
+Public
+ 
+Notifications
+ 
+Fork
+    1.6k
+ 
+          Star
+ 11k
+  
+Code
+Issues
+143
+Pull requests
+55
+Actions
+Security
+Insights
+ 
+ 
+More
+                  Code
+ 
+                  Issues
+ 
+                  Pull requests
+ 
+                  Actions
+ 
+                  Security
+ 
+                  Insights
+ 
+    
+    New issue
+  
+ 
+ 
+Have a question about this project? Sign up for a free GitHub account to open an issue and contact its maintainers and the community.
+  
+ 
+Pick a username
+Email Address
+Password
+    Sign up for GitHub
+By clicking “Sign up for GitHub”, you agree to our terms of service and
+  privacy statement. We’ll occasionally send you account related emails.
+    Already on GitHub?
+    Sign in
+    to your account
+  
+Jump to bottom
+pip install openai==0.27.1 unable to install
+#294
+  Closed
+crbellis  opened this issue
+Mar 9, 2023
+· 10 comments
+  Closed
+    pip install openai==0.27.1 unable to install
+  
+#294
+crbellis  opened this issue
+Mar 9, 2023
+· 10 comments
+Labels
+bug
+Something isn't working
+ Comments
+ 
+    
+            Copy link
+ 
+crbellis
+      
+      commented
+        Mar 9, 2023
+Describe the bug
+Unable to install openai using pip for latest version. Works fine with pip3 install openai==0.27.0
+To Reproduce
+pip3 install openai
+Output:
+Looking in indexes: https://pypi.org/simple, https://us-python.pkg.dev/colab-wheels/public/simple/
+Collecting openai
+Using cached openai-0.27.1.tar.gz (57 kB)
+Installing build dependencies ... done
+error: subprocess-exited-with-error
+× Getting requirements to build wheel did not run successfully.
+│ exit code: 1
+╰─> See above for output.
+note: This error originates from a subprocess, and is likely not a problem with pip.
+Getting requirements to build wheel ... error
+error: subprocess-exited-with-error
+× Getting requirements to build wheel did not run successfully.
+│ exit code: 1
+╰─> See above for output.
+note: This error originates from a subprocess, and is likely not a problem with pip.
+Looking in indexes: https://pypi.org/simple, https://us-python.pkg.dev/colab-wheels/public/simple/
+Requirement already satisfied: python-dotenv in /usr/local/lib/python3.9/dist-packages (1.0.0)
+pip3 install openai==0.27.0
+Succesful
+Code snippets
+No response
+OS
+Linux
+Python version
+python 3.9.16
+Library version
+openai-python v0.27.1
+              The text was updated successfully, but these errors were encountered:
+            
+ 👍
+8
+ johnny-duo, ar-mccabe, hinaloe, mchequers-convictional, claytoncohn, EvanWiederspan, panozzaj, and SaliCalgarvi reacted with thumbs up emoji
+ ❤️
+1
+ HansamalDharmananda reacted with heart emoji
+ 
+All reactions
+👍
+8 reactions
+❤️
+1 reaction
+ 
+crbellis
+        added
+  the 
+  bug
+Something isn't working
+ label
+    Mar 9, 2023
+EvanWiederspan
+    mentioned this issue
+    
+Mar 9, 2023
+      openai==0.27.1 Python package fails to install in new Python 3.9 runtime (Getting requirements to build wheel did not run successfully.)
+      googlecolab/colabtools#3474
+ 
+  Closed
+ 
+    
+            Copy link
+ 
+ar-mccabe
+      
+      commented
+        Mar 9, 2023
+•
+          edited
+          
+        
+Bumping this; seeing the same issue (notebook in a Colab environment, Python 3.9). I had to revert to 0.27.0 as well in order to install.
+Edit: typo
+ 👍
+8
+ crbellis, rupeshs, korakot, TonyIndia3000, mchequers-convictional, userrand, shyamal-anadkat, and banerRana reacted with thumbs up emoji
+ 
+All reactions
+👍
+8 reactions
+    Sorry, something went wrong.
+  
+ 
+ 
+    
+            Copy link
+ 
+AlexGoiaDev
+      
+      commented
+        Mar 9, 2023
+Same problem here.
+ 
+All reactions
+    Sorry, something went wrong.
+  
+ 
+ 
+    
+            Copy link
+ 
+TonyIndia3000
+      
+      commented
+        Mar 10, 2023
+Same problem. Affecting installation of llama-index and gpt-index.
+Temporary solution: Reverted to 0.27.0
+ 
+All reactions
+    Sorry, something went wrong.
+  
+ 
+ 
+    
+            Copy link
+ 
+KoenLeemans
+      
+      commented
+        Mar 10, 2023
+Try installing pip install aiohttp
+ 👍
+4
+ userrand, zlwaterfield, panozzaj, and SaliCalgarvi reacted with thumbs up emoji
+ 
+All reactions
+👍
+4 reactions
+    Sorry, something went wrong.
+  
+ 
+ 
+    
+            Copy link
+ 
+sungkim11
+      
+      commented
+        Mar 10, 2023
+Same issue here in Google Colab. I am able to install aiohttp in Colab. Python:  3.9.16
+ 
+All reactions
+    Sorry, something went wrong.
+  
+ 
+ 
+    
+            Copy link
+ 
+sungkim11
+      
+      commented
+        Mar 10, 2023
+Can you add version to openai?
+ 
+All reactions
+    Sorry, something went wrong.
+  
+ 
+ 
+    
+            Copy link
+ 
+hauntsaninja
+      
+      commented
+        Mar 10, 2023
+•
+          edited
+          
+        
+Thanks everyone for reporting!
+You can work around by running pip install aiohttp requests tqdm typing_extensions before attempting to install openai
+The issue seems to be that we dynamically get the version for the package from 
+openai-python/setup.cfg
+         Line 3
+      in
+      9442840
+ version = attr: openai.version.VERSION 
+But in order to import openai.version, the runtime dependencies of openai need to be build dependencies of openai.
+We should fix by a) shipping wheels, b) maybe just hardcoding the version in setup.cfg.
+Here's a repro:
+λ rm -rf env
+λ python3.9 -m venv env
+λ env/bin/pip freeze --all                         
+pip==21.2.4
+setuptools==58.1.0
+λ env/bin/pip install openai==0.27.1 --no-cache-dir --no-build-isolation
+I haven't looked into why it works for me with build isolation. Edit: possibly due to different setuptools version
+ ❤️
+4
+ ar-mccabe, ssh-randy, smsilva, and ZirconCode reacted with heart emoji
+ 
+All reactions
+❤️
+4 reactions
+    Sorry, something went wrong.
+  
+ 
+ 
+    
+            Copy link
+ 
+luisrunge
+      
+      commented
+        Mar 11, 2023
+Same here:
+!pip install openai
+Result:
+Looking in indexes: https://pypi.org/simple, https://us-python.pkg.dev/colab-wheels/public/simple/
+Collecting openai
+Using cached openai-0.27.1.tar.gz (57 kB)
+Installing build dependencies ... done
+error: subprocess-exited-with-error
+× Getting requirements to build wheel did not run successfully.
+│ exit code: 1
+╰─> See above for output.
+note: This error originates from a subprocess, and is likely not a problem with pip.
+Getting requirements to build wheel ... error
+error: subprocess-exited-with-error
+× Getting requirements to build wheel did not run successfully.
+│ exit code: 1
+╰─> See above for output.
+note: This error originates from a subprocess, and is likely not a problem with pip.
+ 
+All reactions
+    Sorry, something went wrong.
+  
+ 
+ 
+    
+            Copy link
+ 
+WebforMike
+      
+      commented
+        Mar 11, 2023
+Seeing the same issue in Colab still. The recommended fix above worked for me.
+!pip3 install openai==0.27.0
+ 
+All reactions
+    Sorry, something went wrong.
+  
+ 
+hallacy
+    mentioned this issue
+    
+Mar 11, 2023
+      Create wheels
+      #297
+ 
+ Merged
+ 
+    
+            Copy link
+ 
+Collaborator
+hallacy
+      
+      commented
+        Mar 11, 2023
+v0.27.2 is out and passes @hauntsaninja 's replication. That should fix this issue
+ ❤️
+4
+ crbellis, ar-mccabe, Mawntee, and ZirconCode reacted with heart emoji
+ 
+All reactions
+❤️
+4 reactions
+    Sorry, something went wrong.
+  
+ 
+hallacy
+          closed this as completed
+Mar 11, 2023
+ 
+Sign up for free
+to join this conversation on GitHub.
+    Already have an account?
+    Sign in to comment
+ 
+    Assignees
+  
+    No one assigned
+    Labels
+  
+bug
+Something isn't working
+    Projects
+  
+    None yet
+ 
+    Milestone
+  
+      No milestone
+    Development
+  
+No branches or pull requests
+ 
+      10 participants
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Footer
+ 
+        © 2023 GitHub, Inc.
+        
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+    You can’t perform that action at this time.
+  

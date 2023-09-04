@@ -1,0 +1,623 @@
+wiki - Wikidata
+wiki
+(Q171)
+From Wikidata
+Jump to navigation
+Jump to search
+type of website that visitors can editwikis
+Language
+Label
+Description
+Also known as
+English
+wiki
+type of website that visitors can edit
+wikis
+Statements
+instance of
+infrastructure
+0 references
+subclass of
+website
+0 references
+community project
+0 references
+content management system
+0 references
+image
+Wiki dcci 2x.png217 × 79; 4 KB
+0 references
+pronunciation audio
+En-us-wiki.ogg0.5 s; 10 KB
+language of work or name
+English
+0 references
+named after
+Wiki Wiki Web
+0 references
+based on
+World Wide Web
+0 references
+start time
+25 March 1995
+0 references
+spoken text audio
+Nl-Wiki-article.ogg2 min 18 s; 939 KB
+language of work or name
+Dutch
+1 reference
+imported from Wikimedia project
+Dutch Wikipedia
+Wikimedia import URL
+https://nl.wikipedia.org/w/index.php?title=Wiki&oldid=53553115
+En-Wiki2.ogg15 min 36 s; 9.22 MB
+language of work or name
+English
+0 references
+discoverer or inventor
+Ward Cunningham
+0 references
+history of topic
+history of wikis
+0 references
+described by source
+Dictionary of Common Goods
+author
+Nicolas Jullien
+0 references
+on focus list of Wikimedia project
+Wikipedia:Vital articles/Level/4
+point in time
+31 October 2022
+0 references
+Mastodon instance URL
+https://wikis.world
+0 references
+ACM Classification Code (2012)
+10003301
+0 references
+Stack Exchange tag
+https://stackoverflow.com/tags/wiki
+0 references
+disjoint union of
+list of values as qualifiers
+list item
+open wiki
+closed wiki
+0 references
+different from
+Wikipedia
+0 references
+Wiki-Site
+0 references
+said to be the same as
+collaborative wiki software
+1 reference
+inferred from
+collaborative wiki software
+Commons gallery
+Wiki
+0 references
+Commons category
+Wiki
+0 references
+topic's main template
+Template:Wiki
+0 references
+Template:Wikis
+1 reference
+inferred from
+Template:Wikis
+topic's main category
+Category:Wikis
+0 references
+Identifiers
+Bibliothèque nationale de France ID
+14613334t
+subject named as
+Wikis
+1 reference
+stated in
+Nuovo soggettario
+reference URL
+https://thes.bncf.firenze.sbn.it/termine.php?id=26323
+retrieved
+15 June 2021
+GND ID
+4806885-8
+1 reference
+imported from Wikimedia project
+German Wikipedia
+FAST ID
+1175035
+0 references
+National Library of Israel J9U ID
+987007290952005171
+1 reference
+stated in
+National Library of Israel
+Library of Congress authority ID
+sh00004800
+1 reference
+reference URL
+https://github.com/JohnMarkOckerbloom/ftl/blob/master/data/wikimap
+retrieved
+3 April 2019
+NL CR AUT ID
+ph534677
+subject named as
+wiki
+0 references
+Dewey Decimal Classification
+006.75
+1 reference
+mapping relation type
+narrow match
+All the Tropes ID
+Wiki
+0 references
+Art & Architecture Thesaurus ID
+300266678
+0 references
+BabelNet ID
+02640462n
+1 reference
+stated in
+BabelNet
+BNCF Thesaurus ID
+26323
+1 reference
+stated in
+National Central Library of Florence
+Brockhaus Enzyklopädie online ID
+wiki
+0 references
+Cultureel Woordenboek ID
+media/wiki
+0 references
+Den Store Danske ID
+wiki
+0 references
+Encyclopædia Britannica Online ID
+topic/wiki
+0 references
+Encyclopedia of China (Third Edition) ID
+59790
+subject named as
+维基
+0 references
+548394
+0 references
+English Vikidia ID
+Wiki
+0 references
+Fandom wiki ID
+wikis
+language of work or name
+English
+0 references
+Freebase ID
+/m/081gf
+1 reference
+stated in
+Freebase Data Dumps
+publication date
+28 October 2013
+French Vikidia ID
+Wiki
+0 references
+GitHub topic
+wiki
+1 reference
+reference URL
+https://github.com/topics/wiki
+title
+wiki · GitHub Topics · GitHub (English)
+retrieved
+21 July 2021
+GSSO ID
+009399
+0 references
+JSTOR topic ID
+wikis
+0 references
+KBpedia ID
+WikiWiki
+1 reference
+stated in
+KBpedia
+retrieved
+9 July 2020
+Namuwiki ID
+위키
+0 references
+NE.se ID
+wiki
+0 references
+NicoNicoPedia ID
+wiki
+0 references
+OmegaWiki Defined Meaning
+7514
+0 references
+Quora topic ID
+Wikis
+0 references
+RationalWiki ID
+Wiki
+0 references
+Spanish Vikidia ID
+Wiki
+0 references
+TDKIV term ID
+000014547
+0 references
+TV Tropes ID
+Main/WikiTropes
+0 references
+UNBIS Thesaurus ID
+1007009
+0 references
+YSO ID
+22304
+0 references
+Zhihu topic ID
+19562968
+subject named as
+Wiki（网络系统）
+1 reference
+reference URL
+https://www.zhihu.com/topic/19562968/hot
+title
+Wiki (网络系统) - 知乎 (Chinese)
+retrieved
+22 February 2021
+ 
+Sitelinks
+Wikipedia(144 entries)
+abwiki
+Ашаблон:Interwiki redirect
+afwiki
+Wiki
+alswiki
+Wiki
+anwiki
+Wiki
+arwiki
+ويكي
+arzwiki
+ويكى
+astwiki
+Wiki
+aswiki
+ৱিকি
+azwiki
+Viki
+barwiki
+Wiki
+bat_smgwiki
+Wiki
+bawiki
+Вики
+be_x_oldwiki
+Вікі
+bewiki
+Вікі
+bgwiki
+Уики
+bjnwiki
+Wiki
+bmwiki
+Wiki
+bnwiki
+উইকি
+brwiki
+Wiki
+bswiki
+Wiki
+bxrwiki
+Вики
+cawiki
+Wiki
+cebwiki
+Wiki
+ckbwiki
+ویکی
+cowiki
+Wiki
+cswiki
+Wiki
+cvwiki
+Вики
+cywiki
+Wici
+dawiki
+Wiki
+dewiki
+Wiki
+diqwiki
+Wiki
+elwiki
+Wiki
+enwiki
+Wiki
+eowiki
+Vikio
+eswiki
+Wiki
+etwiki
+Viki
+euwiki
+Wiki
+fawiki
+ویکی
+fiu_vrowiki
+Viki
+fiwiki
+Wiki
+fjwiki
+Wiki
+fowiki
+Wiki
+frpwiki
+Vouiqui
+frwiki
+Wiki
+furwiki
+Wiki
+gawiki
+Vicí
+gcrwiki
+Wiki
+glwiki
+Wiki
+hawiki
+Wiki
+hewiki
+ויקי
+hiwiki
+विकि
+hrwiki
+Wiki
+htwiki
+Wiki
+huwiki
+Wiki
+hywiki
+Վիքի
+iawiki
+Wiki
+idwiki
+Wiki
+igwiki
+Wiki
+ilowiki
+Wiki
+inhwiki
+Вики
+iswiki
+Wiki
+itwiki
+Wiki
+iuwiki
+ᐅᐃᑭ
+jawiki
+ウィキ
+jbowiki
+uitki
+jvwiki
+Wiki
+kabwiki
+Wiki
+kawiki
+Wiki
+kkwiki
+Уики
+knwiki
+ವಿಕಿ
+kowiki
+위키
+kuwiki
+Wîkî
+kywiki
+Вики
+lawiki
+Vici
+lbwiki
+Wiki
+lfnwiki
+Vici
+liwiki
+Wiki
+lmowiki
+Wiki
+ltwiki
+Vikisvetainė
+lvwiki
+Vikivietne
+mgwiki
+Wiki
+minwiki
+Wiki
+mkwiki
+Вики
+mlwiki
+വിക്കി
+mnwiki
+Вики
+mrwiki
+विकी
+mswiki
+Wiki
+mtwiki
+Wiki
+mywiki
+ဝီကီ
+nahwiki
+Huiqui
+nds_nlwiki
+Wiki
+ndswiki
+Wiki
+newiki
+विकि
+nlwiki
+Wiki
+nnwiki
+Wiki
+nowiki
+Wiki
+nrmwiki
+Ouitchi
+ocwiki
+Wiki
+pagwiki
+Wiki
+pawiki
+ਵਿਕੀ
+plwiki
+Wiki
+pntwiki
+Βικι
+ptwiki
+Wiki
+quwiki
+Wiki
+rowiki
+Wiki
+ruewiki
+Вікі
+ruwiki
+Вики
+sawiki
+विकिः
+scnwiki
+Wiki
+scowiki
+Wiki
+scwiki
+Wiki
+shnwiki
+ဝီႇၶီႇ
+shwiki
+Wiki
+simplewiki
+Wiki
+siwiki
+විකි
+skwiki
+Wiki
+slwiki
+Wiki
+sowiki
+Wiki
+sqwiki
+Wiki
+srwiki
+Вики
+suwiki
+Wiki
+svwiki
+Wiki
+swwiki
+Wiki
+tawiki
+விக்கி
+tewiki
+వికీ
+tgwiki
+Вики
+thwiki
+วิกิ
+tlwiki
+Wiki
+trwiki
+Viki
+ttwiki
+Wiki
+ukwiki
+Вікі
+urwiki
+ویکی
+uzwiki
+Wiki
+viwiki
+Wiki
+warwiki
+Wiki
+wuuwiki
+Wiki
+xalwiki
+Вики
+xmfwiki
+ვიკი
+yiwiki
+וויקי
+yowiki
+Wiki
+zh_classicalwiki
+共筆
+zh_min_nanwiki
+Wiki
+zh_yuewiki
+Wiki
+zhwiki
+Wiki
+Wikibooks(3 entries)
+bewikibooks
+Вікі
+ruwikibooks
+Вики
+zhwikibooks
+Wiki
+Wikinews(2 entries)
+nowikinews
+Wiki
+ruwikinews
+Категория:Вики (технология)
+Wikiquote(1 entry)
+aswikiquote
+ৱিকি
+Wikisource(0 entries)
+Wikiversity(2 entries)
+dewikiversity
+Wiki
+enwikiversity
+Wiki
+Wikivoyage(0 entries)
+Wiktionary(0 entries)
+Multilingual sites(2 entries)
+commonswiki
+Wiki
+metawiki
+Wiki
+Retrieved from "https://www.wikidata.org/w/index.php?title=Q171&oldid=1965032299"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+ItemDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 31 August 2023, at 01:31.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

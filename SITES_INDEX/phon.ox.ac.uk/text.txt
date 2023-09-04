@@ -1,0 +1,465 @@
+Epenthetic vowels in Tashlhiyt Berber
+Variation in
+            the qualities of epenthetic vowels in Tashlhiyt Berber
+Many of the phonetic transcriptions given below are linked to sound clips
+      (.wav files). Except in transcriptions marked with an initial D, the
+      speaker is Mohamed Elmedlaoui. (Starred transcriptions were spoken by
+      Lahcen Damiri.) The examples follow the numbering of examples given in J.
+      Coleman (2000), The Phonetics and Phonology of Tashlhiyt Berber Syllabic
+      Consonants, in Transactions of the Philological Society, for which
+      this page was specifically composed. 
+A postscript version of an earlier (1999) paper of mine, The Nature of
+      Vocoids Associated with Syllabic Consonants in Tashlhiyt Berber. In J. J.
+      Ohala, Y. Hasegawa, M. Ohala, D. Granville and A. C. Bailey, eds. Proceedings
+of
+        The XIVth International Congress of Phonetic Sciences. Vol. 1.
+      735-8,  can be downloaded from here. 
+But
+      please note that the analysis given in the Transactions paper is different
+      from the ICPhS paper, as I have abandoned the idea that different
+      qualities of epenthetic vowels might be contrastive. 
+Examples of
+              Tashlhiyt syllabic consonants
+Some Tashlhiyt words
+          which, according to Dell and Elmedlaoui, consist entirely of
+          consonants: 
+       
+      
+(7) 
+/tf̩tk̩̩ts̩tt/
+`you sprained
+                  it'
+/tl̩di/
+`she
+                  pulls'
+/ts̩kr̩t/
+`you did'
+/tn̩ʃf̩t/
+`you grazed
+                  the skin'
+/tχ̩zn̩t/
+`you stored'
+Labialization of velar
+          and uvular obstruents is usually contrastive, e.g. D/ikti/ `hot' vs. D/ikwti/ `recall'. Consonants may
+          be contrastively geminate, even in word-initial position:
+       
+      
+(9a)
+/t̩tsχ̩χan/
+`dip (in
+                  sauce)'
+b)
+/t̩tbd̩dal/
+`exchange'
+c)
+/t̩ˁtˁaʒin/
+`plate'
+d)
+/s̩ʃ/
+`eat'
+e)
+/t̩ˁtˁaf/
+`hold'
+f)
+/t̩ˁtˁasˁ/
+`sleep'
+g)
+D/t̩tg̩wgwa/
+`be washing
+                  clothes'
+h)
+D/t̩tg̩ga/
+`be'
+                  [progressive]
+As in many other
+          Afroasiatic languages, many words are formed by intercalating
+          independent vowel and consonant melodies, e.g. singular D/aʃakwʃ/ 'pile of stones', plural D/iʃukaʃ/. 
+        
+        
+Phonetics of
+              Tashlhiyt syllabics
+The tap(s) of the
+          alveolar sonorant /r/ are almost always accompanied by short, central
+          vocoids of an [ə]-like
+          quality: 
+       
+      
+(14a)
+/afruχ/
+[afəruχ]
+`boy'
+                  (optional [ə])
+/tafruχt/
+[tɛfəɾʊχt]
+`girl'
+b)
+/aʁwrrˁaf/
+[aʁwrˁ:af]
+`bowl with
+                  handle'
+c)
+/aʁwrˁmi/
+[aʁwŏɾʊmɪ̆]
+`date-stone'
+/aggwrn/
+[ag:wʊɾə̆n]
+`flour'
+/aqwrˁnˁif/
+[aqwŏɾə̆nif]
+`palm bough'
+Dell and Elmedlaoui
+          (1985) analyzed CC-initial words such as /kdˁu/ `smell', /gbu/ `pierce' etc. as having complex onsets.
+          However, I analyse them as CəC-, so that e.g. [kdˁu] is phonological disyllabic
+        /kədˁu/. 
+(16a) /kwdˁiχ/ `he smelled' is realised as [kʊdˁiχ] (with 2 voicing intervals,
+        [ʊ] and [i])
+          in 9/10 tokens and as [kwdˁiχ] (with only [i] voiced) in 1 token out of 10.
+b) /ikwbar/ `squirrels' is realised as
+          D[ikʊbar] (with 3 voicing intervals, [i], [ʊ] and [a])
+          in 8/10 tokens and [ikwbar] (with 2 voicing intervals,
+        [i] and [a])
+          in 2/10 tokens. 
+c) /kdˁu/ `smell!' is realised as [kədˁu] in 8/10 tokens and as [kdˁu] in 2/10 tokens. 
+The longest tokens of
+          epenthetic [ʊ]
+          in my recordings of Elmedlaoui's speech occur in /ʃʃʁw[ʊ]rˁʃ/
+          `beat!' (duration of [ʊ] = 66 ms), /akw[ʊ]r/ `to steal' (54 ms), and /agw[ʊ]l/ `to hang' (58 ms). For
+          comparison, the shortest tokens of the lexical vowel /u/ are /jukrr/ `he drags', /jugl/ `he hung' ([u] duration = 44 ms), and /ugmn/ `they drew (water)' (39 ms). In
+          Elmedlaoui's pronunciation of [managu], [u] duration was 53 ms, whereas in [aggwrn], the vocoid before [r] has
+          a duration of 57 ms. 
+       
+      
+(17a)
+[managw]
+                  ~ [managu]
+`when'
+b)
+D[aggwrn] ~ D[aggurn]
+`flour'
+c)
+[aχwlil]
+                  ~ [aχlul]
+`snot'
+Some results of
+              the distribution analysis
+Epenthesis was never
+          observed between two voiceless consonants, except for one instance of
+        /qs/
+          in the word /lˁqsˁtˁtˁ/ `poem', but this phonemic
+          representation may be wrong. It is a nativized loan from the Arabic al
+            qasˁiida. Damiri considered the correct phonemic
+          transcription to be /lˁqsˁitˁtˁ/, which he pronounced with the vowel [i].
+          But Elmedlaoui amended this transcription to /lˁqsˁtˁtˁ/, pronounced with an
+          epenthetic [ɛ],
+        [lˁqɛsˁtˁtˁ]. 
+Pronunciations by
+          Elmedlaoui of two words in particular are highly problematic for Dell
+          and Elmedlaoui's account of epenthesis. First, /nʃfat/ `skin! (v. pl.)' was pronounced [ənʃfat], with an initial epenthetic [ə].
+          This is unsurprising if the initial /nʃ/ is a syllable coda preceded by an empty
+          nucleus (i.e. /(ə)nʃ.fat/).
+          Since the preceding word, /za/, ends in a vowel, it is possible that
+          the initial epenthetic [ə] of [ənʃfat] reflects the articulatory transition
+          from [ə]
+          to [n].
+          Second, both tokens of /tmzħ/ (token 1, token 2) `she jested' were
+          spoken with a final epenthetic [æ]. 
+        
+        
+Minimally
+              distinct diphones
+Each pair of words in
+          (20) has a common sequence of two consonants, listed in the second
+          column. According to Dell and Elmedlaoui's proposal, therefore, they
+          should have the same epenthetic vowel or secondary articulation
+          qualities. However, they do not. Those on the left have markedly
+          fronter qualities than those on the right. 
+       
+      
+(20)
+Fronter
+Backer
+a)
+gn
+/gn/[gɪnj] `to sleep'
+gnnu[gən] `sew' [v.impf.]
+b)
+ql
+/iqql/[qə̟l] `he waited'
+/ismuqql/[qʊl] `he waited'
+c)
+gl
+/trglt/[gɪlj] `you locked'
+/jugl/[gʊl] `he hung'
+In the word pairs
+          listed in (21), those on the left have rounded syllabic consonants,
+          whereas those on the right have unrounded consonants. 
+       
+      
+(21)
+Rounded
+Unrounded
+a)
+zn
+/uzˁnˁkwdˁ/[zʊ̟ŋ]`gazelle'
+/azn/[zə̠n] `send'
+b)
+drt
+/tudrt/[dɵɾət]`life' [n.f.]
+/tajdrt/[dəɾət]`ear of wheat'
+c)
+gl
+/jugl/[gʊl]`he hung'
+/trglt/[gɪlj] `you locked'
+In (21), rounded
+          epenthetic vowels are found in words containing /u/, and unrounded
+          epenthetic vowels in words lacking /u/. (22a) has a syllabic with a
+          closer secondary articulation than the corresponding syllabic in
+          (22b). In this example, it is unclear how the phonological environment
+          might affect the quality of the epenthetic vowel. 
+       
+      
+Closer
+More open
+22)
+bʁ
+a) D/abʁjus/[bɤʁ] `stupid person'
+b)
+                  D/tsbʁt/[bʌʁ] `you painted'
+In addition to these
+          binary contrasts, I have also found some ternary contrasts of
+          secondary articulation, such as: 
+       
+      
+23a)
+km
+Front,
+                    close:
+D/kmmi/[kɪm] `you' [f.2sg.]
+b)
+Central,
+                    open:
+D/uglχkm/[kəm]`I hung you' [f.2sg.]
+c)
+Close,
+                    back, rounded:
+D/akmmus/[kʊmw] `bundle' [n.sg.]
+In (23a) the secondary
+          articulation of the syllabic is clear, [ɪ]-like; in (23b), it is central, and
+          neither especially clear nor dark; and in (23c) it is labiovelarized.
+          This set of distinctions parallels the system of full vowels in
+          Tashlhiyt. The epenthetic vowel of (23a) may anticipate the subsequent
+          vowel /i/, and that of (23c) the subsequent /u/. However, the range of
+          phonetic distinctions in the secondary articulation of syllabic
+          consonants is not restricted to [ɪ]-like, [ʊ]-like and [ɐ]-like:
+          a few groups of words containing a syllabic consonant with a wide
+          variety of secondary articulations from the interior of the vowel
+          space is presented in (24). 
+       
+      
+Front
+Central
+Back
+24)
+kr
+a)
+/tskrt/[kə̟r]`do' [v.perf.2sg.]
+c)
+/jukr/[kʊr] `he stole'
+Close
+b)
+/ikrzawn/[kər]`he ploughed for you'
+Mid
+d)
+ /akrkur/[kʌr] `blackbird'
+Open
+        
+Variation in
+              quality of epenthetic vowels
+Although the existence
+          of variation can be demonstrated, it is not the case that epenthetic
+          vowels are always of a particular category for a given word. For
+          example, the epenthetic vowels [ɤ] and [ɐ] are both found after [k] in different tokens of /jukrr/ `he drags', [ʊ] and [ʏ] after [r] in /turmt/ `you tasted', [ʏ]and [ɐ] (again) after [dˁ] in /tsdˁrˁtˁ/ `you let fall', [ɪ],
+        [Ï]
+          or [ɐ]
+          after [k]
+          in /trkst/ `you hid', and [ɤ] or [ə] after [t] in /trksas/ `she hid him'. Many other such examples
+          could be given. Therefore, though the occurrence of epenthetic vowels
+          is best explained by the presence of a phonologically empty nuclei in
+          the syllabification of a word, their qualities are not given in the
+          lexicon, contrary to my proposal in Coleman (1996, 1999).
+        
+        
+Vowel-vowel
+              coarticulation?
+In many of the
+          examples presented above, local context appears to play a role in
+          determining these fine-grained details. However, the direction and
+          domain of coarticulation is not clear from the data currently
+          available. Disharmonious examples, such as D/lw[ə]r/ `run away' (not [lwʊr]), are problematic. 
+        
+        
+Phonology of
+              Tashlhiyt syllabics
+In (30) a Tashlhiyt
+          lexical vowel corresponds to a Tamazight lexical schwa; and in (31), a
+          syllabic consonant (optionally preceded by an epenthetic vowel) in
+          Tashlhiyt corresponds to a lexical schwa or another lexical vowel in
+          Tamazight. 
+       
+      
+(30)
+Tashlhiyt
+Tamazight,
+                    Kabyle
+a)
+/aʒʒ/
+/əddʒ/
+`leave,
+                  abandon'
+b)
+/izg[ə]r/
+/əzgər/
+`to cross'
+c)
+/inχarˁ/
+/inzər/
+`nose'
+(31)
+Tashlhiyt
+Tamazight
+a)
+/im[ə]q̩qurˁ/
+/aməqqwrˁan/
+`big'
+b)
+/im[ə]z̩ˁzˁi/
+/aməʒtˁuħ/ 
+`small'
+c)
+D/[ə]t̩ˁtˁaʒin/
+/adˁaʒin/ 
+`plate'
+d)
+D/[ə]s̩ʃ/
+/əʃʃ/
+`eat'
+e)
+D/[ə]t̩ˁtˁaf/
+/ətˁtˁəf/ 
+`hold'
+f)
+D/n[ə]k̩̩ki/
+/nəkki/ 
+`me'
+Epenthetic vowel
+              prediction
+(38)
+Dell and Elmedlaoui's transcriptions
+Parser
+                    input
+Parser
+                    output
+a)
+/i.sl̩m/
+[isləm]
+islm
+is.ləm 
+b)
+/tχz̩.nakkw/
+[tχ(ə)z̩nakkw]
+tχznakkw
+təχ.zə.nakkw
+c)
+/tbχ̩.lakkw/
+[təbχ̩lakkw]
+tbχlakkw
+təb.χə.lakkw
+d)
+/ma.ra.tg̩t/
+[maratəgt]
+maratgt
+ma.rat.gət 
+e)
+/it.bd̩.rin/
+[it.əb(ə)d̩.rin]
+itbdrin
+it.bəd.rin
+f)
+/tngdt/
+[tn̩(ə)gətt]
+tngtt
+təng.tət
+g)
+D/ts.bʁ`t/
+[ts(ə)bʁ`t]
+tsbʁt
+təsb.ʁət
+h)
+/r̩.gl̩χ/
+[r̩gl̩əχ]
+rglχ
+rəg.ləχ
+i)
+/iχn̩g/
+[iχn̩əg]
+iχng
+iχ.nəg
+j)
+/iχn̩gt/
+[iχn̩əgət]
+iχngt
+iχ.nəgt
+k)
+/iʃkd/
+[iʃkəd]
+iʃkd
+iʃ.kəd
+l)
+/i.ʃnn.qas/
+[iʃn̩nəqas]
+iʃnnqas 
+iʃ.nən.qas
+m)
+/aristajl̩qqajd/
+[-jɪl-]
+aristajlqqajd
+a.ris.taj.ləq.qajd
+n)
+/inawl̩mas/
+[-wʊl-]
+inawlmas
+i.nawl.mas
+In (38c) and (h), my
+          parser added epenthetic vowels in places where none were found in Dell
+          and Elmedlaoui's transcriptions. But in these two cases, close
+          examination of my recordings of Elmedlaoui's pronunciation (click
+            on each syllable of the following transcriptions separately)
+          shows that the second schwa in [təb.χə.lakkw] and the first schwa in [rəg.ləχ]
+        are empirically
+          attested epenthetic vowels. 
+A few final examples:
+lʁwrˁd
+          'hill' 
+xzr
+          'to give a look of anger or blame' 
+tzgr
+          'she crossed (e.g. the road)' 
+zʁwrˁ
+          'to grease' 
+zrˁ
+          'to watch' 
+gwmr
+          'to hunt or fish' 
+tˁnˁgdˁtˁ
+          'you drowned' 
+rgl
+          'lock!' 
+kʃm
+          'to enter' 
+nnqqwrˁtˁ
+          'silver' 
+gwdm
+          'to turn upside down' 
+ssrksxt
+          'I hid him' 
+        

@@ -1,0 +1,548 @@
+explosive chemicals - Wikidata
+explosive chemicals
+(Q12870)
+From Wikidata
+Jump to navigation
+Jump to search
+reactive substance that contains a great amount of potential energy that can produce an explosionexplosive compound
+edit
+Language
+Label
+Description
+Also known as
+English
+explosive chemicals
+reactive substance that contains a great amount of potential energy that can produce an explosion
+explosive compound
+Statements
+instance of
+class of chemical substances by use
+1 reference
+stated in
+Medical Subject Headings
+MeSH descriptor ID
+D053834
+retrieved
+13 March 2018
+subclass of
+chemical substance
+0 references
+energetic material
+0 references
+hazardous substances
+0 references
+image
+Eod2.jpg3,008 × 1,960; 4.09 MB
+0 references
+C4 plastic explosive.jpg1,152 × 1,728; 697 KB
+0 references
+US Navy 060115-M-7772K-058 Marines from 2nd Platoon, Lima Company, 3rd Battalion, 1st Marine and Sailors from Explosive Ordnance Disposal Mobile Unit Six (EODMU-6) destroy rockets, mortars and bags of repellant.jpg2,048 × 3,072; 818 KB
+0 references
+video
+17. Експлозивни својства на три различни типови експлозиви.webm38 s, 1,920 × 1,080; 34.82 MB
+0 references
+has use
+detonation
+0 references
+has effect
+detonation
+0 references
+explosion
+0 references
+has quality
+sensitivity
+0 references
+brisance
+0 references
+chemical stability
+0 references
+minimum explosive concentration
+0 references
+described by source
+Great Soviet Encyclopedia (1969–1978)
+section, verse, paragraph, or clause
+Взрывчатые вещества
+0 references
+Small Brockhaus and Efron Encyclopedic Dictionary
+statement is subject of
+Q24797414
+0 references
+Brockhaus and Efron Encyclopedic Dictionary
+statement is subject of
+Q24361701
+0 references
+Sytin Military Encyclopedia
+statement is subject of
+Q25373524
+0 references
+Ottův slovník naučný
+statement is subject of
+Q55097185
+1 reference
+inferred from
+Q55097185
+Encyclopædia Britannica 11th edition
+statement is subject of
+1911 Encyclopædia Britannica/Explosives
+0 references
+on focus list of Wikimedia project
+Wikipedia:List of articles all languages should have
+0 references
+Wikipedia:Vital articles/Level/4
+point in time
+31 October 2022
+0 references
+disjoint union of
+list of values as qualifiers
+list item
+primary explosive
+secondary explosive
+0 references
+different from
+Q11771346
+1 reference
+imported from Wikimedia project
+Polish Wikipedia
+Wikimedia import URL
+https://pl.wikipedia.org/w/index.php?title=Materiał_wybuchowy&oldid=63760073
+explosive
+0 references
+Commons category
+Explosives
+0 references
+topic's main category
+Category:Explosive chemicals
+0 references
+Identifiers
+Bibliothèque nationale de France ID
+13318566j
+subject named as
+Explosifs
+1 reference
+stated in
+Nuovo soggettario
+reference URL
+https://thes.bncf.firenze.sbn.it/termine.php?id=17229
+retrieved
+14 June 2021
+GND ID
+4056544-0
+0 references
+National Library of Israel J9U ID
+987007562811805171
+1 reference
+stated in
+National Library of Israel
+Library of Congress authority ID
+sh85046474
+1 reference
+reference URL
+https://github.com/JohnMarkOckerbloom/ftl/blob/master/data/wikimap
+retrieved
+3 April 2019
+NL CR AUT ID
+ph127407
+subject named as
+výbušniny
+0 references
+PLWABN ID
+9810546282805606
+0 references
+Colon Classification
+F5594
+has edition or translation
+CC 6
+1 reference
+stated in
+CC 6
+Dewey Decimal Classification
+662
+0 references
+MeSH descriptor ID
+D053834
+0 references
+MeSH tree code
+D27.720.317
+1 reference
+stated in
+Medical Subject Headings
+MeSH descriptor ID
+D053834
+retrieved
+13 March 2018
+Art & Architecture Thesaurus ID
+300015121
+0 references
+ASC Leiden Thesaurus ID
+294910948
+1 reference
+stated in
+ASC Leiden Thesaurus dataset of 5 June 2018
+retrieved
+13 June 2018
+BabelNet ID
+00044065n
+1 reference
+stated in
+BabelNet
+BBC Things ID
+7d54ccf4-68ea-492f-b3e8-66b50286960e
+1 reference
+stated in
+BBC Things
+BNCF Thesaurus ID
+17229
+1 reference
+stated in
+National Central Library of Florence
+Common Procurement Vocabulary
+24600000
+0 references
+Elhuyar ZTH ID
+007096
+0 references
+Encyclopædia Britannica Online ID
+technology/explosive
+0 references
+Encyclopedia of Modern Ukraine ID
+33919
+0 references
+ESCO skill ID
+1e3e0736-6d4a-4a65-8787-1fa16bff5660
+0 references
+Freebase ID
+/m/02ryw
+1 reference
+stated in
+Freebase Data Dumps
+publication date
+28 October 2013
+French Vikidia ID
+Explosif
+0 references
+Gran Enciclopèdia Catalana ID
+0107588
+1 reference
+imported from Wikimedia project
+Catalan Wikipedia
+Great Russian Encyclopedia Online ID (old version)
+1911938
+subject named as
+ВЗРЫВЧАТЫЕ ВЕЩЕСТВА
+0 references
+JSTOR topic ID
+explosives
+0 references
+KBpedia ID
+Explosive
+1 reference
+stated in
+KBpedia
+retrieved
+9 July 2020
+Krugosvet article
+nauka_i_tehnika/himiya/VZRIVCHATIE_VESHCHESTVA.html
+0 references
+Microsoft Academic ID
+154238967
+0 references
+NALT ID
+227
+0 references
+OmegaWiki Defined Meaning
+1386
+0 references
+OpenAlex ID
+C154238967
+1 reference
+stated in
+OpenAlex
+retrieved
+26 January 2022
+reference URL
+https://docs.openalex.org/download-snapshot/snapshot-data-format
+PSH ID
+6390
+0 references
+Quora topic ID
+Explosives
+0 references
+Spanish Cultural Heritage thesauri ID
+materias/1193120
+0 references
+U.S. National Archives Identifier
+10637807
+0 references
+UK Parliament thesaurus ID
+91204
+subject named as
+Explosives
+0 references
+UMLS CUI
+C1721090
+1 reference
+based on heuristic
+inferred by common MeSH mappings on source and on Wikidata
+stated in
+UMLS 2023AA release
+retrieved
+25 May 2023
+YSO ID
+539
+1 reference
+stated in
+YSO-Wikidata mapping project
+ 
+Sitelinks
+Wikipedia(99 entries)
+edit
+afwiki
+Springstof
+alswiki
+Sprengstoff
+angwiki
+Fȳrspringend
+anpwiki
+विस्फोटक
+anwiki
+Explosivo
+arwiki
+متفجرات
+arzwiki
+ماده متفجره
+astwiki
+Esplosivu
+azbwiki
+پارتلاییجی ماده‌لر
+azwiki
+Partlayıcı maddələr
+bawiki
+Шартлаусы матдәләр
+be_x_oldwiki
+Выбуховае рэчыва
+bewiki
+Выбуховае рэчыва
+bgwiki
+Взривно вещество
+bnwiki
+বিস্ফোরক
+brwiki
+Danvez-tarzh
+bswiki
+Eksploziv
+cawiki
+Explosiu
+cewiki
+Лелха хӀуманаш
+ckbwiki
+تەقەمەنی
+cswiki
+Výbušnina
+cywiki
+Ffrwydryn
+dawiki
+Sprængstof
+dewiki
+Sprengstoff
+elwiki
+Εκρηκτικές ύλες
+enwiki
+Explosive
+eowiki
+Eksplodaĵo
+eswiki
+Explosivo
+etwiki
+Lõhkeaine
+euwiki
+Lehergai
+fawiki
+مواد منفجره
+fiu_vrowiki
+Lahkja ollus
+fiwiki
+Räjähde
+frwiki
+Explosif
+fywiki
+Eksplosyf
+ganwiki
+炸藥
+gawiki
+Substaint phléascach
+glwiki
+Explosivo
+hewiki
+חומר נפץ
+hiwiki
+विस्फोटक
+hrwiki
+Eksploziv
+huwiki
+Robbanószer
+hywiki
+Պայթուցիկ նյութեր
+iawiki
+Explosivo
+idwiki
+Bahan peledak
+ilowiki
+Eksplosibo
+iswiki
+Sprengiefni
+itwiki
+Esplosivo
+jamwiki
+Expluosiv matiirial
+jawiki
+爆発物
+kawiki
+ფეთქებადი ნივთიერება
+kkwiki
+Жарылғыш заттар
+kowiki
+폭발물
+kwwiki
+Devnydh tardha
+kywiki
+Жарылуучу зат
+lawiki
+Materia displosiva
+ltwiki
+Sprogstamosios medžiagos
+lvwiki
+Sprāgstvielas
+mkwiki
+Експлозив
+mlwiki
+സ്ഫോടകവസ്തുക്കൾ
+mrwiki
+विस्फोटक सामग्री
+mswiki
+Bahan letupan
+newiki
+विस्फोटक
+newwiki
+विष्फोटक पदार्थ
+nlwiki
+Explosief
+nnwiki
+Sprengstoff
+nowiki
+Sprengstoff
+ocwiki
+Explosiu
+pawiki
+ਵਿਸਫੋਟਕ ਸਮੱਗਰੀ
+plwiki
+Materiał wybuchowy
+pnbwiki
+تماکے والا مواد
+pswiki
+چاوديدونکي توکي
+ptwiki
+Explosivo
+quwiki
+T'uqyaylla
+rowiki
+Exploziv (material)
+ruwiki
+Взрывчатые вещества
+scnwiki
+Esplusivu
+shwiki
+Eksploziv
+simplewiki
+Explosive material
+skwiki
+Výbušnina
+slwiki
+Eksploziv
+sqwiki
+Eksplozivi
+srwiki
+Експлозив
+svwiki
+Sprängämne
+swwiki
+Kilipukaji
+tawiki
+வெடிபொருள்
+thwiki
+วัตถุระเบิด
+tlwiki
+Pampasabog
+trwiki
+Patlayıcı madde
+ukwiki
+Вибухові речовини
+urwiki
+دھماکا خیز مواد
+uzwiki
+Portlovchi moddalar
+viwiki
+Thuốc nổ
+warwiki
+Bumuruto
+wuuwiki
+爆炸物
+yiwiki
+פליסיגע אויפרייס
+zh_min_nanwiki
+Po̍k-chà-bu̍t
+zh_yuewiki
+炸藥
+zhwiki
+爆炸物
+Wikibooks(1 entry)
+edit
+cswikibooks
+Výbušniny
+Wikinews(1 entry)
+edit
+ruwikinews
+Категория:Взрывчатые вещества
+Wikiquote(1 entry)
+edit
+etwikiquote
+Lõhkeaine
+Wikisource(0 entries)
+edit
+Wikiversity(0 entries)
+edit
+Wikivoyage(0 entries)
+edit
+Wiktionary(0 entries)
+edit
+Multilingual sites(0 entries)
+edit
+Retrieved from "https://www.wikidata.org/w/index.php?title=Q12870&oldid=1945891066"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+ItemDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 3 August 2023, at 23:05.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

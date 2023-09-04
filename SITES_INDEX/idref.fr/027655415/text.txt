@@ -1,0 +1,83 @@
+ 
+
+Moksa (langue)
+paprika.idref.fr
+data.idref.fr
+Documentation
+
+Bonjour ,
+Bienvenue sur IdRef, Identifiants et référentiels pour l'Enseignement supérieur et la Recherche.
+Moksa (langue)
+data.idref
+Export biblio
+Export XML
+Export RDF
+Améliorer la notice
+Signaler une erreur
+                  Identifiant pérenne de la notice : 027655415
+                     URI de l'entité :
+                     http://www.idref.fr/027655415/id
+Notice de type Rameau
+Point d'accès autorisé
+Moksa (langue)
+Variantes de point d'accès
+Mokcha (langue)[Nom commun]
+Moksa (dialecte)[Nom commun]
+Moksa-mordve (langue)[Nom commun]
+Moksha (langue)[Nom commun]
+Mokso (langue)[Nom commun]
+Mordoff (langue)[Nom commun]
+Mordov (langue)[Nom commun]
+Mordve-moksa (langue)[Nom commun]
+Informations
+Note publique d''information : Langue de Russie (Mordovie)Note générale sur le champ d'application : L'adjectif de langue correspondant est "moksa". Il est invariable
+Notices d'autorité liées 
+Autre
+                         
+                         Dictionnaires moksa - Voir aussi
+                         
+                         Langues mordves
+Source
+Atlas of the world's languages / C. Moseley, R. E. Asher, 1994 : Moksha Mordvin
+Encycl. universalis (art. : Mordve) : mokcha - http://www.universalis-edu.com (2009-07-29)
+Ethnologue (16th ed.) : Moksha - http://www.ethnologue.com (2009-07-29)
+Les langues du monde / A. Meillet, M. Cohen, 1981 : mokša ou mokšo
+Les langues du monde / M. Sala, I. Vintila-Radulescu, 1984 (art. : Mordve) : mokša
+Linguamón (art. : Mordovien) : mokša - http://www10.gencat.net (2009-07-29)
+Identifiants externes
+ Identifiant ARK BNF : http://catalogue.bnf.fr/ark:/12148/cb11965097h
+Utilisation dans Rameau
+Le point d'accès ne peut être employé que dans un point d'accès sujet
+Le point d'accès ne peut s'employer qu'en élément initial
+Equivalent dans un autre référentiel
+Terme équivalent dans un autre système : Moksha dialectDate de consultation du référentiel ou de la classification externe : 2017-02-09URI : http://id.loc.gov/authorities/subjects/sh85086537Code du système ou de la classification utilisé : LCSH
+Informations sur la notice
+Identifiant de la notice : 027655415
+RCR créateur de la notice : 0004
+Date de création : 21-08-1984
+RCR dernier modificateur de la notice : 341720001
+Date de dernière modification : 15-06-2021 à 18 h 33
+... Références liées : ...
+IdRef - Identifiants et Référentiels pour l'ESR
+L'interface publique IdRef permet la consultation des notices d'autorités produites par les établissements membres des réseaux documentaires de l'ESR (Sudoc, Calames, Star). 
+
+IdRef est à la disposition des usagers professionnels habilités à créer/corriger/enrichir les notices d'autorité (authentification requise). 
+A partir d'IdRef, une gamme de services (triple store data.idref.fr, entrepôt OAI-PMH, APIs) est disponible en accès libre pour faciliter la réutilisation des données.
+Pour les développeurs
+Documentation IdRef
+APIs et web services
+data.idref.fr
+OAI-PMH IdRef
+GitHub Abes
+Utilisation des données
+Libre et gratuite sous licence Etalab
+
+GitHub Etalab
+Assistance
+Guichet AbesSTP
+A propos |
+Partenaires |
+Données Personnelles |
+CGU |
+Mentions Légales |
+Accessibilité numérique

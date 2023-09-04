@@ -1,0 +1,167 @@
+Statistiek - Wikipedia
+Statistiek
+Uit Wikipedia, de vrije encyclopedie
+Naar navigatie springen
+Naar zoeken springen
+Deel van een serie artikelen overWiskunde
+Formules van een stochastisch proces
+–––  Kwantiteit –––
+Complex getal · Geheel getal · Natuurlijk getal · Oneindigheid · Reëel getal · Rekenkunde
+–––  Structuur en ruimte  –––
+Algebra · Functie · Getaltheorie · Goniometrie · Groepentheorie · Meetkunde · Topologie
+–––  Verandering  –––
+Analyse · Calculus · Chaostheorie · Dynamisch systeem · Vectoren
+–––  Toegepaste wiskunde  –––
+Discrete wiskunde · Grafentheorie · Informatietheorie · Kansrekening · Statistiek · Wiskundige fysica
+Portaal  Wiskunde
+Statistiek is de wetenschap en de techniek van het verzamelen, bewerken, interpreteren en presenteren van gegevens.[1] Statistische methoden worden gebruikt om grote hoeveelheden gegevens – zoals uit een geneeskundig, industrieel of sociaal onderzoek – om te zetten in bruikbare informatie. De principes van statistiek komen voort uit de regels van de wiskunde en de wetten van de logica.
+Statistici trachten informatie over een populatie te krijgen uit de waarneming van een meestal beperkt aantal elementen van die populatie, de steekproef. In het geval dat de steekproef de gehele populatie omvat, spreekt men van volledige telling (census, volkstelling). De verkregen informatie is echter bijna altijd onvolledig en daardoor onnauwkeurig. Een goede beheersing van deze onnauwkeurigheid is dan ook een essentieel onderdeel van de statistiek. De uitkomsten kunnen voor allerlei aspecten van de wetenschap, de politiek, de economie, de psychologie en sociologie, de media en de samenleving van belang zijn.
+Inhoud
+1 Benaming
+2 Geschiedenis
+3 Deelgebieden
+4 Populatie en steekproef
+5 Stromingen
+6 Stochastische variabelen en modelveronderstellingen
+7 Onderwerpen van de beschrijvende statistiek
+8 Onderwerpen op het gebied van toetsen
+9 Zie ook
+Benaming[bewerken | brontekst bewerken]
+Het woord "statistiek" is afkomstig van de moderne Latijnse zin statisticum collegium, wat 'les over staatszaken' betekent. Hiervan is het Italiaanse woord statista afgeleid, dat "staatsman" of "politicus" betekent – vergelijk het woord stand van zaken) – evenals het Duitse Statistik, dat oorspronkelijk de staathuishouding (analyse van staatsgegevens) betekende, opgezet door Hermann Conring en bekend geworden door Gottfried Achenwall.
+Geschiedenis[bewerken | brontekst bewerken]
+De statistiek als gespecialiseerd vakgebied is een 20ste-eeuws gegeven, maar specifieke activiteiten van wiskundig-statistische aard vonden plaats vanaf 1750, toen astronomen en landmeters verschillende waarnemingen begonnen te combineren om een nauwkeuriger resultaat te krijgen. Voor die tijd bestaan al voorbeelden van wetenschappers die een waarneming herhalen om de nauwkeurigheid te vergroten, maar zij zouden er steeds zorg voor dragen dat de opeenvolgende waarnemingen steeds in identieke omstandigheden plaatsvonden, en dus dezelfde intrinsieke nauwkeurigheid vertoonden; een minder nauwkeurige waarneming mocht de nauwkeuriger metingen niet "besmetten". Pas vanaf het midden van de 18de eeuw werden systematische methoden gebruikt om waarnemingen met verschillende nauwkeurigheid te combineren. Zo verkreeg men een gemiddelde waarvan de nauwkeurigheid alle afzonderlijke waarnemingen overtreft. Een vroeg voorbeeld is het onderzoek van Jacques Cassini naar de verandering van de hellingshoek van de evenaar ten opzichte van de ecliptica door het vergelijken van historische waarnemingen over 2000 jaar. Hij maakt gebruik van statistische argumenten om te concluderen dat die  verandering niet uniform verloopt.[2]
+Francis Galton introduceerde de termen correlatie en regressie.[3]
+De volgende stap in de ontwikkeling was de analyse van inferentie of het onderzoek naar de betrouwbaarheid van hypothesen. In het postume werk Ars conjectandi (1713) van Jakob Bernoulli werd dit omgekeerde waarschijnlijkheid genoemd: in de klassieke kansrekening zijn de kansen van elementaire gebeurtenissen bekend en tracht men de kansen van samengestelde gebeurtenissen te achterhalen; het omgekeerde probleem doet zich voor wanneer men door waarnemingen van complexe gebeurtenissen de (onbekende) onderliggende waarschijnlijkheden wil schatten. De eerste doorbraak op dit gebied kwam van Thomas Bayes in zijn eveneens postume verhandeling An Essay towards solving a problem in the Doctrine of Chances (1764), waar uitspraken mogelijk worden over de waarschijnlijkheid van een gebeurtenis aan de hand van wat later het theorema van Bayes zou heten. Een ander, gelijktijdig onderzoeksgebied was de analyse van fouten door onder meer Thomas Simpson, Daniel Bernoulli, Joseph-Louis Lagrange, Carl Friedrich Gauss en vooral Adrien-Marie Legendre, uitvinder van de kleinste-kwadratenmethode.[4]
+Karl Pearson, de grondlegger van wiskundige statistiek.
+Vanaf de 19de eeuw werden statistische methoden toegepast op sociale wetenschappen, meer bepaald op bevolkingsstatistieken en op prijsindices. Pioniers waren Adolphe Quetelet en William Stanley Jevons in de interpretatie van gemiddelden over verzamelingen van ongelijke individuen. Wilhelm Lexis, Francis Galton en Francis Ysidro Edgeworth confronteerden micro-modellen, waarin de variaties van individuele leden van de populatie worden opgeteld, met macro-modellen, waarin de populatie zelf wordt gekenmerkt door statistische parameters zoals een normale verdeling. Een dramatisch hoogtepunt van deze nieuwe toepassingen van de statistiek was het publieke debat, in persartikels in de jaren 1910-1911, over eugenetica, sociaal ongewenste eigenschappen en de invloed op kinderen van alcoholisme van hun ouders (dit was het startschot van het debat, in een artikel van Karl Pearson).[5]
+De moderne statistiek begint bij Ronald Aylmer Fisher. Hoewel opgeleid als sterrenkundige ging hij werken als bioloog bij een instituut voor landbouwkundig onderzoek. In 1925 publiceerde hij Statistical Methods for Research Workers, waarin hij een groot aantal wiskundige vraagstukken behandelde die in de statistische praktijk opduiken, met name in verband met de wiskundige analyse van genetische problemen. Ook nieuw was zijn analyse van de omstandigheden waarin een klein aantal metingen relatief betrouwbare conclusies kan opleveren. Hij was sterk geïnteresseerd in allerlei significantietesten en, nauw daarmee verbonden, het systematisch ontwerp van experimenten. Een bekende populaire publicatie van zijn hand over dit onderwerp is Mathematics of a Lady Tasting Tea, waarin hij met een zo klein mogelijk aantal waarnemingen wil nagaan of een persoon in staat is vast te stellen of de melk voor of na de thee in het kopje is gegoten.[6]
+Deelgebieden[bewerken | brontekst bewerken]
+Traditioneel onderscheidt men in de statistiek de volgende deelgebieden:
+Beschrijvende statistiek
+De beschrijvende statistiek houdt zich in principe bezig met de beschrijving van bepaalde gegevens van een populatie. Als voorbeeld kan men denken aan een volkstelling of productiestatistiek. De gegevens worden geordend en gereduceerd, indien gewenst tot relevante kengetallen. In overzichtelijke tabellen, grafieken en figuren en diagrammen, zoals histogrammen, staaf- en lijndiagrammen, worden ten slotte de gegevens gepresenteerd. Een belangrijk deel van het werk van het Centraal Bureau voor de Statistiek betreft dit deelgebied.
+Inductieve statistiek
+In de inductieve statistiek tracht men aan de hand van een steekproef informatie omtrent de gehele populatie te verkrijgen. Om allerlei redenen kan het ongewenst of onmogelijk zijn de hele populatie te onderzoeken. In plaats daarvan onderzoekt men een deel van de populatie: de steekproef. Men verkrijgt zo echter slechts beperkte informatie over de populatie. De inductieve statistiek geeft geschikte methoden en onderzoekt de kwaliteit daarvan. Bekende methoden zijn toetsen, schattingsmethoden en als combinatie van beide: betrouwbaarheidsintervallen.
+Daarnaast is een soort tussenvorm van beide bovenstaande deelgebieden ontstaan:
+Exploratieve statistiek
+Anders dan in de inductieve statistiek, waar uitgegaan wordt van goed gedefinieerde steekproeven, gaat men in de exploratieve statistiek uit van voorhanden zijnde data. Op deze data worden methoden van de beschrijvende statistiek alsook van de inductieve statistiek toegepast met als nadeel dat men over de verdelingen vaak weinig kan zeggen. Daarnaast worden speciale technieken voor dit onderzoeksterrein ontwikkeld.
+Populatie en steekproef[bewerken | brontekst bewerken]
+Een belangrijk begrippenpaar in de statistiek is populatie en steekproef. Men dient steeds goed te onderscheiden of men over de populatie (verdeling) spreekt dan wel over de steekproef. De populatie is over het algemeen slechts in formele zin gegeven in termen van een kansverdeling met enkele onbekende parameters. Het zijn deze parameters die men graag zou kennen, maar om uiteenlopende redenen niet kent. Een steekproef verschaft informatie over de parameters, door het geven van een schatting, het toetsen van een hypothese over een parameter, e.d. Zo is er het populatiegemiddelde, meestal onbekend, en als schatting daarvan het steekproefgemiddelde. Evenzo is de steekproefvariantie een schatting van de populatievariantie, enzovoorts.
+Doordat de uitkomst van een steekproef meestal sterk door het toeval bepaald wordt, maakt de statistiek veel gebruik van de kansrekening.
+Stromingen[bewerken | brontekst bewerken]
+Binnen de inductieve statistiek zijn er twee stromingen te onderscheiden:
+Klassieke statistiek
+Bayesiaanse statistiek
+Het essentiële verschil is dat de klassieke statistici ervan uitgaan dat de parameters van de verdelingen die onderzocht worden, een vaste, zij het onbekende, ware waarde hebben. Door middel van statistisch onderzoek probeert men deze waarde te benaderen via schattingen, toetsen en betrouwbaarheidsintervallen.
+De Bayesianen geloven niet in een "ware" waarde en staan toe dat de parameters zelf stochastische variabelen zijn, met een meestal onbekende verdeling. Wel wordt tevoren een veronderstelling over de verdeling gemaakt; de veronderstelde verdeling heet a-prioriverdeling. Hierdoor kan het theorema van Bayes toegepast worden. Gevolgen hiervan zijn onder meer dat informatie, ook subjectieve informatie, van buiten de steekproef ingebracht kan worden. Verder betekent het dat de interpretatie van de uitkomsten fundamenteel wijzigt.
+Stochastische variabelen en modelveronderstellingen[bewerken | brontekst bewerken]
+Een centraal begrip in de statistiek is dat van de stochastische variabele. Deze grootheid vertegenwoordigt in feite de populatieverdeling of de betrokken modelmatige kansverdeling. De steekproefuitkomsten vat men op als waarnemingen aan deze grootheid.
+De basisveronderstelling bij een statistische analyse over de betrokken verdeling, is daarmee een veronderstelling omtrent de verdeling van de betrokken stochastische variabele; de veronderstelde verdeling wordt het "model" genoemd.
+Als men bijvoorbeeld met een zuivere dobbelsteen gooit, veronderstelt men dat de waarden die men krijgt, metingen zijn van een stochastische veranderlijke die met kans 1/6 elk van de getallen 1 tot en met 6 aanneemt. Twijfelt men aan de zuiverheid van de dobbelsteen, dan neemt men aan dat een uitkomst i wordt aangenomen met kans 
+p
+i
+{\displaystyle p_{i}}
+. Deze onbekende kansen zijn de in het geding zijnde parameters.
+Onderwerpen van de beschrijvende statistiek[bewerken | brontekst bewerken]
+Steekproef
+kenmerken
+Kwalitatief kenmerk
+Kwantitatief kenmerk
+Gemiddelde, centrummaat
+Rekenkundig gemiddelde
+Meetkundig gemiddelde
+Harmonisch gemiddelde
+Modus
+Mediaan
+Wetten van de grote aantallen
+Spreiding
+Spreidingsbreedte
+Gemiddelde absolute afwijking
+Percentiel
+Variantie
+Standaardafwijking
+Onderwerpen op het gebied van toetsen[bewerken | brontekst bewerken]
+Statistische toetsen
+Verdelingsvrije of niet-parametrische toetsen
+Kolmogorov-Smirnov
+Kruskall-Wallis
+Wilcoxon
+Mann-Whitney
+Chi-kwadraattoets
+Parametrische toetsen
+t-toets
+F-toets
+p-waarde
+Significantie
+Correlatie
+Correlatiecoëfficiënt
+Punt-biseriële correlatiecoëfficiënt
+Spearmans rangcorrelatiecoëfficiënt
+Kendalls tau
+Cramérs V
+Regressie-analyse
+Lineaire regressie
+Robuuste regressie
+Niet-lineaire regressie
+Theorema van Bayes
+Hidden Markov Models
+Inferentie
+Schatting
+Kleinste-kwadratenmethode
+Meest aannemelijke schatter
+Betrouwbaarheidsinterval
+Variantie-analyse (ANOVA)
+Hoofdcomponentenanalyse
+Factoranalyse
+Statistische gegevens worden regelmatig op een onjuiste manier gebruikt, al dan niet opzettelijk. Zie Misbruik van statistische gegevens.
+Zie ook[bewerken | brontekst bewerken]
+Discriminantanalyse
+Referenties
+↑ (en) Romijn, Jan-Willem, Philosophy of statistics. Stanford Encyclopedia of Philosophy (2014). Gearchiveerd op 19 oktober 2021.
+↑ Inleiding tot Stephen M. Stigler, "The History of Statistics - The Measurement of Uncertainty Before 1900," Harvard University Press 1986.
+↑ Francis Galton. Figures from the History of Probability and Statistics. University of Southampton. Geraadpleegd op 27-12-2019.
+↑ Voorwoord tot Prakash Gorroochurn, "Classic Topics on the History of Modern Mathematical Statistics - From Laplace to More Recent Times," John Wiley & Sons 2016.
+↑ Inleiding tot Stephen M. Stigler, "Statistics on the Table - The History of Statistical Concepts and Methods," Harvard University Press 1999.
+↑ John Tabak, "Probability & Statistics - The Science of Uncertainty," Facts on File 2004.
+Externe links
+Statistics, Encyclopaedia Britannica
+Centraal Bureau voor de Statistiek (Nederland)
+Nationaal Instituut voor de Statistiek (België)
+Vereniging voor Statistiek en Operationele Research
+ ·  · 
+Wiskunde
+wiskunde · algebra · lineaire algebra · meetkunde · goniometrie · rekenkunde · integraalrekening · getaltheorie · speltheorie · groepentheorie · verzamelingenleer · statistiek · kansrekening · topologie
+Overgenomen van "https://nl.wikipedia.org/w/index.php?title=Statistiek&oldid=63395969"
+Categorie: Statistiek
+Navigatiemenu
+Persoonlijke hulpmiddelen
+Niet aangemeldOverlegBijdragenAccount aanmakenInloggen
+Naamruimten
+ArtikelOverleg
+Nederlands
+Weergaven
+LezenBewerkenBrontekst bewerkenGeschiedenis
+Meer
+Zoeken
+Navigatie
+HoofdpaginaVind een artikelVandaagEtalageCategorieënRecente wijzigingenNieuwe artikelenWillekeurige pagina
+Informatie
+GebruikersportaalSnelcursusHulp en contactDoneren
+Hulpmiddelen
+Links naar deze paginaGerelateerde wijzigingenBestand uploadenSpeciale pagina'sPermanente koppelingPaginagegevensDeze pagina citerenWikidata-item
+Afdrukken/exporteren
+Boek aanmakenDownloaden als PDFAfdrukversie
+In andere projecten
+Wikimedia CommonsWikinieuws
+In andere talen
+AfrikaansAlemannischአማርኛAragonésالعربيةঅসমীয়াAsturianuAzərbaycancaتۆرکجهБашҡортсаŽemaitėškaBikol CentralБеларускаяБеларуская (тарашкевіца)БългарскиBislamaবাংলাBrezhonegBosanskiCatalàکوردیCorsuČeštinaЧӑвашлаCymraegDanskDeutschZazakiދިވެހިބަސްΕλληνικάEnglishEsperantoEspañolEestiEuskaraEstremeñuفارسیSuomiVõroFøroysktFrançaisNordfriiskFurlanFryskGaeilge贛語Kriyòl gwiyannenGàidhligGalegoGaelgHawaiʻiעבריתहिन्दीHrvatskiMagyarՀայերենInterlinguaBahasa IndonesiaIdoÍslenskaItalianoᐃᓄᒃᑎᑐᑦ / inuktitut日本語PatoisJawaქართულიTaqbaylitKabɩyɛҚазақшаಕನ್ನಡ한국어KurdîKernowekКыргызчаLatinaLadinoLëtzebuergeschLingua Franca NovaLimburgsLigureLombardລາວLietuviųLatviešuMadhurâMalagasyМакедонскиമലയാളംमराठीBahasa MelayuMirandésမြန်မာဘာသာनेपालीनेपाल भाषाNorsk nynorskNorsk bokmålOccitanOromooଓଡ଼ିଆਪੰਜਾਬੀNorfuk / PitkernPolskiPiemontèisپنجابیپښتوPortuguêsRuna SimiRomânăРусскийРусиньскыйSicilianuScotsسنڌيSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaShqipСрпски / srpskiSeelterskSundaSvenskaKiswahiliதமிழ்ತುಳುTetunТоҷикӣไทยTürkmençeTagalogTürkçeТатарча / tatarçaУкраїнськаاردوOʻzbekcha / ўзбекчаVènetoVepsän kel’Tiếng ViệtWinaray吴语ייִדישYorùbá中文Bân-lâm-gú粵語IsiZulu
+Koppelingen bewerken
+ Deze pagina is voor het laatst bewerkt op 5 dec 2022 om 16:29.
+De tekst is beschikbaar onder de licentie Creative Commons Naamsvermelding/Gelijk delen, er kunnen aanvullende voorwaarden van toepassing zijn. Zie de gebruiksvoorwaarden voor meer informatie. Wikipedia® is een geregistreerd handelsmerk van de Wikimedia Foundation, Inc., een organisatie zonder winstoogmerk.
+Privacybeleid
+Over Wikipedia
+Disclaimers
+Gedragscode
+Mobiele weergave
+Ontwikkelaars
+Statistieken
+Cookieverklaring

@@ -1,0 +1,600 @@
+Legal Entity Identifier - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Languages
+Language links are at the top of the page across from the title.
+Search
+Search
+Create accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1History
+2Code structure
+3Information contained in LEI reference data (Level 1 and Level 2 data)
+4Global Operating System
+5Obtaining a Legal Entity Identifier
+6Validity of LEI
+7See also
+8References
+9External links
+Toggle the table of contents
+Toggle the table of contents
+Legal Entity Identifier
+14 languages
+ČeštinaDeutschEestiEspañolFrançaisItalianoNederlands日本語Norsk bokmålPortuguêsРусскийSlovenščinaSuomiSvenska
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Download as PDFPrintable version
+From Wikipedia, the free encyclopedia
+20-digit, alpha-numeric reference string to uniquely identify a legally distinct entity
+The Legal Entity Identifier (LEI) is a unique global identifier for legal entities participating in financial transactions.[1]  Also known as an LEI code or LEI number, its purpose is to help identify legal entities on a globally accessible database. Legal entities are organisations such as companies or government entities that participate in financial transactions. An individual person may not obtain an LEI.[2]  The identifier is used in regulatory reporting to financial regulators and all financial companies and funds are required to have an LEI.
+The identifier is formatted as a 20-character, alpha-numeric code based on the ISO 17442 standard developed by the International Organization for Standardization (ISO). It connects to key information that enables clear and unique identification of legal entities participating in financial transactions. Each LEI database entry contains information about an entity's ownership and thus answers the questions of 'who is who’ and ‘who owns whom’. Therefore the publicly available LEI data pool can be regarded as a global directory of non-individual participants in the financial market.
+There are a number of LEI issuers around the world that issue and maintain the identifiers and act as primary interfaces to the global directory, these are typically financial exchanges or financial data vendors.  These are accredited by the Global Legal Entity Identifier Foundation (GLEIF) to issue LEIs.
+History[edit]
+At the time of the financial crisis of 2007–2008, regulators realised that a single identification code unique to each financial institution was not available worldwide. It means that each country had different code systems to recognize the counterpart corporation of financial transactions. Accordingly, it was impossible to identify the transaction details of individual corporations, identify the counterpart of financial transactions, and calculate the total risk amount. This resulted in difficulties in estimating individual corporation's amount of risk exposure, analyzing risks across the market, and resolving the failing financial institutions. This is one of the factors that made it difficult for the early evolution of the financial crisis.[3]
+In response, the LEI system was developed by the 2011 G20[4] in response to this inability of financial institutions to identify organisations uniquely, so that their financial transactions in different national jurisdictions could be fully tracked.[5] Currently, the Legal Entity Identifier Regulatory Oversight Committee (LEI ROC), a coalition of financial regulators and central banks across the globe, is encouraging the expansion of the LEI. The U.S. and European countries require corporations to use the legal entity identifier when reporting the details of transactions with over-the-counter derivatives to financial authorities.[citation needed] Today, authorities of 45 jurisdictions mandate the use of LEI code to identify legal entities involved in different financial transactions.[citation needed]
+The first LEIs were issued in December 2012.[6] As of 3 January 2018, LEIs are mandatory for all companies who wish to continue trading in securities.[7]
+Code structure[edit]
+Structure of LEI codes
+1
+2
+3
+4
+5
+6
+7
+8
+9
+...
+18
+19
+20
+LOUcode
+Res-erved
+Entity-Identification
+Check-sum
+G.E. Financing GmbH
+5493
+00
+84UKLVMY22DS
+16
+Jaguar Land Rover Ltd
+2138
+00
+WSGIIZCXF1P5
+72
+British Broadcasting Corporation
+5493
+00
+0IBP32UQZ0KL
+24
+The technical specification for LEI is ISO 17442.[5] An LEI consists of a 20-character alphanumeric string, with the first four characters identifying the Local Operating Unit (LOU) that issued the LEI. Characters 5-18 are the unique alphanumeric string assigned to the organisation by the LOU. The final two characters are checksum digits.[8]
+Even if the LEI code of an entity follows the technical ISO specification, the LEI code by itself does not provide any valuable information – it is only used to uniquely identify each legal entity.
+Information contained in LEI reference data (Level 1 and Level 2 data)[edit]
+The LEI reference data contains basic 'business card' type information, also referred to a 'Level 1' data. It answers the question 'who is who?'.
+The other part of the reference data, the 'Level 2' data answers the question ‘who owns whom?'. If applicable, it will allow identification of direct and ultimate parents of any legal entity.
+Global Operating System[edit]
+Hierarchy of Regulatory Entities
+Regulatory Entity
+Description
+G-20
+An international organization consisting twenty major countries (ninety per cent of the world's GDP) comprising seven developed countries (G7), the chair countries of the European Union, and twelve rising nations.
+Financial Stability Board
+An organization founded to enhance the stability of the global financial system and to oversee international finance.
+LEI Regulatory Oversight Committee
+The decision-making organization for LEI Systems under FSB. The participating countries' financial authorities, the central bank, and the IMF are represented as members by international organizations.
+GLEIF Board of Directors
+Global LEI Foundation: Responsible for controlling the LOUs in each region as a practical operating organization within the LEI system.
+LOUs
+Local Operating Units: As the operating organization for issuing and maintaining the LEI code in each region, 39 LOUs are currently active worldwide.
+Obtaining a Legal Entity Identifier[edit]
+The Global Legal Entity Identifier Foundation (GLEIF) does not directly issue Legal Entity Identifiers, but instead delegates this responsibility to local operating units (LOUs). These LEI issuers supply different services. Local operating units can have different prices and LEI issuing speed for the registration services they offer. The LEI can be obtained from couple of hours to days or weeks, depending on the service provider. GLEIF is responsible for monitoring LEI data quality and integrity of the LEI system.[9][1]
+Validity of LEI[edit]
+The validity period for LEI is one year from the date that the Legal Entity Identifier is registered
+Annual renewal of LEI is a must for a company or organization that wants to continue to participate in regulated financial transactions
+Renewal can be done through any accredited LOU and the code remains unchanged even when transferring between different LOUs (local operating units)
+See also[edit]
+Business Entity Identifier (ISO 9362)
+Data Universal Numbering System (D.U.N.S Number)
+Reference data
+APA
+FIRDS
+Request for quote
+Other formal authority UID in legal context:
+Lex (URN) (syntax urn:lex:<jurisdiction>:<authority>)
+European Legislation Identifier (ELI)
+European Case Law Identifier (ECLI)
+References[edit]
+^ a b "Introducing the Legal Entity Identifier (LEI) – About LEI – GLEIF". www.gleif.org.
+^ "Questions and Answers – About LEI – GLEIF". www.gleif.org.
+^ Groenfeldt, Tom (August 24, 2011). "Legal Entity Identifier (LEI) ID Code for Banks and Subs Delayed Until 2012". Forbes.
+^ "What is the LEI system?". Open LEIs. Retrieved 26 May 2016.
+^ a b "The Legal Entity Identifier (LEI) Is Good News for Financial Technology Developers". Data.gov. 21 May 2014. Retrieved 26 May 2016.
+^ "Legal Entity Identifier Resource Center". Sifma. Retrieved 26 May 2016.
+^ "UK MiFIR – Legal Entity Identifiers". fca.org.uk. Financial Conduct Authority. December 31, 2020. Retrieved November 25, 2021.
+^ "The Structure of the LEI Code". GLEIF. Retrieved 26 May 2016.
+^ GLEIF. "How to Get an LEI: Find LEI Issuing Organizations – About LEI – GLEIF". www.gleif.org. Retrieved 2017-10-18.
+External links[edit]
+Official ISO standard
+LEI Regulatory Oversight Committee
+Get an LEI: Find LEI Issuing Organizations – About LEI – GLEIF
+vteISO standards by standard numberList of ISO standards – ISO romanizations – IEC standards1–9999
+1
+2
+3
+4
+6
+7
+9
+16
+17
+31
+-0
+-1
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+-11
+-12
+-13
+68-1
+128
+216
+217
+226
+228
+233
+259
+261
+262
+302
+306
+361
+500
+518
+519
+639
+-1
+-2
+-3
+-5
+-6
+646
+657
+668
+690
+704
+732
+764
+838
+843
+860
+898
+965
+999
+1000
+1004
+1007
+1073-1
+1073-2
+1155
+1413
+1538
+1629
+1745
+1989
+2014
+2015
+2022
+2033
+2047
+2108
+2145
+2146
+2240
+2281
+2533
+2709
+2711
+2720
+2788
+2848
+2852
+3029
+3103
+3166
+-1
+-2
+-3
+3297
+3307
+3601
+3602
+3864
+3901
+3950
+3977
+4031
+4157
+4165
+4217
+4909
+5218
+5426
+5427
+5428
+5725
+5775
+5776
+5800
+5807
+5964
+6166
+6344
+6346
+6385
+6425
+6429
+6438
+6523
+6709
+6943
+7001
+7002
+7010
+7027
+7064
+7098
+7185
+7200
+7498
+-1
+7637
+7736
+7810
+7811
+7812
+7813
+7816
+7942
+8000
+8093
+8178
+8217
+8373
+8501-1
+8571
+8583
+8601
+8613
+8632
+8651
+8652
+8691
+8805/8806
+8807
+8820-5
+8859
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-8-I
+-9
+-10
+-11
+-12
+-13
+-14
+-15
+-16
+8879
+9000/9001
+9036
+9075
+9126
+9141
+9227
+9241
+9293
+9314
+9362
+9407
+9496
+9506
+9529
+9564
+9592/9593
+9594
+9660
+9797-1
+9897
+9899
+9945
+9984
+9985
+9995
+10000–19999
+10006
+10007
+10116
+10118-3
+10160
+10161
+10165
+10179
+10206
+10218
+10303
+-11
+-21
+-22
+-28
+-238
+10383
+10487
+10585
+10589
+10628
+10646
+10664
+10746
+10861
+10957
+10962
+10967
+11073
+11170
+11179
+11404
+11544
+11783
+11784
+11785
+11801
+11889
+11898
+11940 (-2)
+11941
+11941 (TR)
+11992
+12006
+12182
+12207
+12234-2
+12620
+13211
+-1
+-2
+13216
+13250
+13399
+13406-2
+13450
+13485
+13490
+13567
+13568
+13584
+13616
+13816
+14000
+14031
+14224
+14289
+14396
+14443
+14496
+-2
+-3
+-6
+-10
+-11
+-12
+-14
+-17
+-20
+14617
+14644
+14649
+14651
+14698
+14764
+14882
+14971
+15022
+15189
+15288
+15291
+15292
+15398
+15408
+15444
+-3
+15445
+15438
+15504
+15511
+15686
+15693
+15706
+-2
+15707
+15897
+15919
+15924
+15926
+15926 WIP
+15930
+16023
+16262
+16355-1
+16485
+16612-2
+16750
+16949 (TS)
+17024
+17025
+17100
+17203
+17369
+17442
+17506
+17799
+18004
+18014
+18245
+18629
+18916
+19005
+19011
+19092
+-1
+-2
+19114
+19115
+19125
+19136
+19407
+19439
+19500
+19501
+19502
+19503
+19505
+19506
+19507
+19508
+19509
+19510
+19600
+19752
+19757
+19770
+19775-1
+19794-5
+19831
+20000–29999
+20000
+20022
+20121
+20400
+20802
+21000
+21047
+21122
+21500
+21827
+22000
+22275
+22300
+22395
+23090-3
+23270
+23271
+23360
+24517
+24613
+24617
+24707
+25178
+25964
+26000
+26262
+26300
+26324
+27000 series
+27000
+27001
+27002
+27005
+27006
+27729
+28000
+29110
+29148
+29199-2
+29500
+30000+
+30170
+31000
+32000
+37001
+38500
+40500
+42010
+45001
+50001
+55000
+56000
+80000
+ Category
+vteInternational numbering standardsStandards
+ISO 2108: International Standard Book Number (ISBN)
+ISO 3297: International Standard Serial Number (ISSN)
+ISO 3901: International Standard Recording Code (ISRC)
+ISO 6166: International Securities Identification Number (ISIN)
+ISO/IEC 7812: Issuer Identification Number (IIN)
+ISO 9362: Business Entity Identifier (BIC)
+ISO 10957: International Standard Music Number (ISMN)
+ISO 13616: International Bank Account Number (IBAN)
+ISO 15511: International Standard Identifier for Libraries... (ISIL)
+ISO 15706: International Standard Audiovisual Number (ISAN)
+ISO 15707: International Standard Musical Work Code (ISWC)
+ISO 17316: International Standard Link Identifier (ISLI)
+ISO 17442: Legal Entity Identifier (LEI)
+ISO 21047: International Standard Text Code (ISTC)
+ISO 26324: Digital Object Identifier System (DOI)
+ISO 27729: International Standard Name Identifier (ISNI)
+ISO 27730: International Standard Collection Identifier (ISCI)
+ CAE/IPI
+Virtual International Authority File (VIAF)
+This business-related article is a stub. You can help Wikipedia by expanding it.vte
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Legal_Entity_Identifier&oldid=1158054821"
+Categories: Company identification numbersFinancial metadataFinancial regulationInternational finance institutionsSystemic riskBusiness stubsHidden categories: Articles with short descriptionShort description matches WikidataAll articles with unsourced statementsArticles with unsourced statements from July 2020All stub articles
+ This page was last edited on 1 June 2023, at 18:00 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

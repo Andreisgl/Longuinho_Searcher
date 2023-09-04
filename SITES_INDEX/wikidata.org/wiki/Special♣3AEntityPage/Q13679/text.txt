@@ -1,0 +1,505 @@
+Wikispecies - Wikidata
+Wikispecies
+(Q13679)
+From Wikidata
+Jump to navigation
+Jump to search
+open online species directory that anyone can editWSSpecies.wikimedia.orgspecieswikiSW
+Language
+Label
+Description
+Also known as
+English
+Wikispecies
+open online species directory that anyone can edit
+WSSpecies.wikimedia.orgspecieswikiSW
+Statements
+instance of
+Wikimedia content project
+0 references
+wiki with script conversion
+applies to part
+Extension:Translate
+0 references
+logo image
+Wikispecies-logo.svg941 × 1,103; 3 KB
+0 references
+image
+Wikispecies screenshot.png1,903 × 2,528; 1.41 MB
+0 references
+inception
+14 September 2004
+0 references
+native label
+Wikispecies (English)
+1 reference
+imported from Wikimedia project
+Russian Wikipedia
+ဝီကီမျိုးစိတ် (Burmese)
+0 references
+founded by
+Benedikt Mandl
+1 reference
+reference URL
+https://foundation.wikimedia.org/wiki/Meetings/September_5,_2004
+language of work or name
+English
+retrieved
+28 February 2023
+Jimmy Wales
+1 reference
+reference URL
+https://foundation.wikimedia.org/wiki/Meetings/September_5,_2004
+language of work or name
+English
+retrieved
+28 February 2023
+Wikimedia Foundation
+1 reference
+reference URL
+https://foundation.wikimedia.org/wiki/Meetings/September_5,_2004
+language of work or name
+English
+retrieved
+28 February 2023
+location
+Miami
+1 reference
+imported from Wikimedia project
+Russian Wikipedia
+owned by
+Wikimedia Foundation
+1 reference
+reference URL
+https://foundation.wikimedia.org/wiki/Meetings/September_5,_2004
+language of work or name
+English
+retrieved
+28 February 2023
+main subject
+systematics
+0 references
+author
+Wikimedian
+0 references
+Jimmy Wales
+1 reference
+imported from Wikimedia project
+Azerbaijani Wikipedia
+Wikimedia import URL
+https://az.wikipedia.org/?oldid=5947708
+language of work or name
+multiple languages
+0 references
+distributed by
+Google Play
+1 reference
+inferred from
+Google Play
+Wikimedia import URL
+https://www.wikidata.org/wiki/Q13679#P3418
+https://www.wikidata.org/wiki/Property:P3418#P2302
+operator
+Wikimedia Foundation
+1 reference
+stated in
+Wikispecies
+reference URL
+https://species.wikimedia.org/wiki/Help:General_Wikispecies
+retrieved
+28 February 2023
+software engine
+MediaWiki
+1 reference
+stated in
+MediaWiki.org
+reference URL
+https://www.mediawiki.org/wiki/Sites_using_MediaWiki/Wikimedia
+language of work or name
+English
+retrieved
+28 February 2023
+official website
+https://species.wikimedia.org/
+language of work or name
+multiple languages
+0 references
+https://species.wikipedia.org/
+end time
+unknown value
+reason for deprecated rank
+URL redirection
+0 references
+https://wikispecies.org/
+reason for deprecated rank
+URL redirection
+0 references
+described at URL
+https://www.researchgate.net/project/Wikispecies-Global-Taxonomy-and-Nomenclature-of-Life
+subject named as
+Wikispecies - Global Taxonomy and Nomenclature of Life
+language of work or name
+English
+1 reference
+stated in
+ResearchGate
+retrieved
+28 February 2023
+https://www.definitions.net/definition/wikispecies
+subject named as
+Definitions for wikispecies
+language of work or name
+English
+1 reference
+stated in
+Definitions
+retrieved
+28 February 2023
+official symbol
+logo of Wikispecies
+0 references
+copyright license
+Creative Commons Attribution-ShareAlike 3.0 Unported
+0 references
+Alexa rank
+250
+point in time
+1 December 2017
+1 reference
+archive date
+1 December 2017
+archive URL
+https://web.archive.org/web/20171201171016/https://www.alexa.com/siteinfo/https://species.wikimedia.org/
+stated in
+Alexa Internet
+reference URL
+https://www.alexa.com/siteinfo/https://species.wikimedia.org/
+retrieved
+1 December 2017
+IRC channel URL
+irc://irc.freenode.net/wikispecies
+1 reference
+reference URL
+https://species.wikimedia.org/wiki/Main_Page
+API endpoint URL
+https://species.wikimedia.org/w/api.php
+protocol
+MediaWiki action API
+0 references
+permanent duplicated item
+Q22828859
+0 references
+Commons category
+Wikispecies
+0 references
+topic's main template
+Template:Wikispecies
+1 reference
+inferred from
+Template:Wikispecies
+topic's main category
+Category:Wikispecies
+1 reference
+imported from Wikimedia project
+Danish Wikipedia
+search formatter URL
+https://species.wikimedia.org/w/index.php?search=$1
+0 references
+Identifiers
+Datahub page
+wikispecies
+0 references
+English Vikidia ID
+Wikispecies
+0 references
+Freebase ID
+/m/03xzy4
+1 reference
+stated in
+Freebase Data Dumps
+publication date
+28 October 2013
+French Vikidia ID
+Wikispecies
+0 references
+Google Knowledge Graph ID
+/g/11j7pz46tv
+0 references
+Google Play Store app ID
+org.kiwix.kiwixcustomwikispecies
+1 reference
+reference URL
+https://species.wikimedia.org/wiki/Main_Page
+interwiki prefix at Wikimedia
+wikispecies
+formatter URL
+https://species.wikimedia.org/wiki/$1
+start time
+16 June 2006
+0 references
+species
+formatter URL
+https://species.wikimedia.org/wiki/$1
+start time
+11 December 2007
+0 references
+wikispecies
+formatter URL
+http://species.wikipedia.org/wiki/$1
+end time
+16 June 2006
+start time
+9 October 2004
+0 references
+Quora topic ID
+Wikispecies
+0 references
+Spanish Vikidia ID
+Wikispecies
+0 references
+Twitter username
+Wikispecies
+Twitter numeric user ID
+181646947
+point in time
+4 March 2020
+start time
+22 August 2010
+0 references
+Wikimedia database name
+specieswiki
+0 references
+Zhihu topic ID
+19651792
+subject named as
+维基物种
+0 references
+ 
+Sitelinks
+Wikipedia(90 entries)
+afwiki
+Wikispecies
+alswiki
+Wikispecies
+angwiki
+Wikicynn
+anwiki
+Wikispecies
+arwiki
+ويكي أنواع
+arzwiki
+ويكيسبپشيز
+astwiki
+Wikispecies
+aswiki
+ৱিকিস্পিচিজ
+azwiki
+Vikinövlər
+barwiki
+Wikispecies
+be_x_oldwiki
+Віківіды
+bewiki
+Віківіды
+bgwiki
+Уикивидове
+bnwiki
+উইকিপ্রজাতি
+bpywiki
+উইকিপ্রজাতি
+brwiki
+Wikispecies
+cawiki
+Viquiespècies
+cdowiki
+Wikispecies
+cswiki
+Wikidruhy
+cvwiki
+Викитĕссем
+cywiki
+Wicirywogaeth
+dawiki
+Wikispecies
+dewiki
+Wikispecies
+elwiki
+Wikispecies
+enwiki
+Wikispecies
+eowiki
+Vikispecioj
+eswiki
+Wikispecies
+euwiki
+Wikiespezieak
+extwiki
+Güiquiespéciis
+fawiki
+ویکی‌گونه
+fiwiki
+Wikispecies
+frwiki
+Wikispecies
+glwiki
+Wikispecies
+gnwiki
+Wikispecies
+hakwiki
+Wikispecies
+hewiki
+ויקימינים
+hiwiki
+विकिस्पीशीज़
+htwiki
+Wikispecies
+huwiki
+Wikifajok
+hywiki
+Վիքիցեղեր
+idwiki
+Wikispecies
+ilowiki
+Wikispecies
+iswiki
+Wikilífverur
+itwiki
+Wikispecies
+jawiki
+ウィキスピーシーズ
+jvwiki
+Wikispecies
+knwiki
+ವಿಕಿ ಸ್ಪೀಷೀಸ್
+kowiki
+위키생물종
+ltwiki
+Vikirūšys
+lvwiki
+Wikispecies
+mgwiki
+Wikispecies
+mkwiki
+Викивидови
+mlwiki
+വിക്കിസ്പീഷിസ്
+mswiki
+Wikispecies
+mtwiki
+Wikispeċi
+mywiki
+ဝီကီမျိုးစိတ်
+newiki
+विकिप्रजाति
+nlwiki
+Wikispecies
+nnwiki
+Wikispecies
+nowiki
+Wikispecies
+plwiki
+Wikispecies
+ptwiki
+Wikispecies
+quwiki
+Wikispecies
+rowiki
+Wikispecies
+ruewiki
+Віківиды
+ruwiki
+Викивиды
+scowiki
+Wikispecies
+shwiki
+Wikispecies
+simplewiki
+Wikispecies
+skwiki
+Wikidruhy
+slwiki
+Wikivrste
+sqwiki
+Wikispecies
+srwiki
+Vikivrste
+svwiki
+Wikispecies
+tawiki
+விக்கியினங்கள்
+tgwiki
+Викинамуд
+thwiki
+วิกิสปีชีส์
+tlwiki
+Wikispecies
+trwiki
+Vikitür
+ttwiki
+Wikitörlär
+ukwiki
+Віківиди
+urwiki
+ویکی انواع
+uzwiki
+Vikiturlar
+viwiki
+Wikispecies
+warwiki
+Wikispecies
+wuuwiki
+维基物种
+zawiki
+Veizgiek Vuzcungj
+zh_min_nanwiki
+Wikispecies
+zh_yuewiki
+維基物種
+zhwiki
+維基物種
+Wikibooks(1 entry)
+azwikibooks
+Vikimedia/Vikinövlər
+Wikinews(0 entries)
+Wikiquote(0 entries)
+Wikisource(0 entries)
+Wikiversity(2 entries)
+enwikiversity
+Wikispecies
+eswikiversity
+Wikiespecies
+Wikivoyage(0 entries)
+Wiktionary(0 entries)
+Multilingual sites(1 entry)
+metawiki
+Wikispecies
+Retrieved from "https://www.wikidata.org/w/index.php?title=Q13679&oldid=1963027142"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+ItemDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 28 August 2023, at 10:00.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

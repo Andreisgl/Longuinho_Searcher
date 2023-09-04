@@ -1,0 +1,24 @@
+Wikimedia PhabricatorPage MenuHomePhabricatorSearchConfigure Global SearchLog InWikimedia PhabricatorProject ManagementTasks & BugsProjects & TagsCodeSource RepositoriesGerrit Code Reviewgitlab.wikimedia.orgDeveloper BlogsWikimedia Tech blogCollaboratePaste (share text snippets)Pholio (design review)Event CalendarRecent ActivitySearchTask SearchWikimedia Code SearchPhabricator Global SearchDashboardsPortalsMore ApplicationsWelcome to Wikimedia Phabricator!New here?I need access or permissions to...Phabricator is a collaboration platform open to all Wikimedia contributors. It is mostly used for managing work in software projects. Non-technical initiatives are welcome as well.
+ Report a software bug (guidelines).
+ Report a security issue (guidelines).
+ Create a feature or enhancement request.
+ Create a generic task.
+ Learn what happens after reporting a ticket here.
+ Learn to use Phabricator (including videos) or ask questions about Phabricator itself.
+ For Wikimedia software maintainers: Request a project to use Phabricator for planning.
+ For general Wikimedia development questions, see Communication instead.
+ To test and experiment with Phabricator, go to phab.wmflabs.org instead.
+LDAP: an LDAP group (like ldap/wmf or ldap/nda, e.g. for Logstash)
+ Analytics: data, tools, dashboards (Superset, Turnilo, Kerberos, etc)
+Shell: shell / production access
+Gerrit: become owner of a project in Gerrit | create a new code repository in Gerrit
+GitLab: create an account in Wikimedia GitLab | create a project group in Wikimedia GitLab
+Phabricator:
+access Security tasks in Phabricator
+access NDA restricted tasks in Phabricator
+create a project tag or workboard
+create a custom task creation form
+editing projects and their workboards
+mass-edit tasks
+reset my Multi-Factor Authentication (2FA)
+Latest Blog PostsView AllLoading...Activity FeedView AllLoading...ActivityNew TasksClosed TasksLatest ProjectsGood first newcomer tasksLoading...Loading...Loading...Loading...Content licensed under Creative Commons Attribution-ShareAlike 4.0 (CC-BY-SA) unless otherwise noted; code licensed under GNU General Public License (GPL) or other open source licenses. By using this site, you agree to the Terms of Use, Privacy Policy, and Code of Conduct. · Wikimedia Foundation · Privacy Policy · Code of Conduct · Terms of Use · Disclaimer · CC-BY-SA · GPL

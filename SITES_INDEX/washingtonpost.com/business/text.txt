@@ -1,0 +1,181 @@
+ The most popular pizza style in every state, mapped - The Washington PostAccessibility statementSkip to main contentDemocracy Dies in DarknessSign inDepartment of Data The most popular pizza style in every state, mappedAnalysis by  Andrew Van Dam and Dylan MoriartySeptember 1, 2023 at 6:00 a.m. EDTA sampling of pizzas including the mashed potato with caramelized onions and bacon pie, center, at Next Door in New Haven, Conn. (Melissa Hom for the Washington Post)Listen11 minShareComment on this storyCommentAt first glance, pizza seems simple enough: Dough, sauce, melty cheese. Maybe some sausage or pepperoni. A few slices of fresh tomato. Or a thinner crust with bacon or basil. Or why not a double crust stuffed full of mozzarella and garlicky spinach?The best pizza in America, region by regionAnd now we’re down the rabbit hole of American pizza, which in fact turns out to be a bewilderingly diverse, complicated and contentious culinary crazy quilt. Identifying the most popular regional pizza styles, and the top-rated places for each style, wound up capturing our imagination (and spare time) for months.Look up the best regional pizza in your stateFirst, we struggled to map the fervid, feral American pizza landscape, from Sicilian to Creole to Chicago to Cuban. Because our data queries slammed into an inconvenient truth: American pizza is mostly just New York-style pizza. Or at least it tries to be.New York’s the top pizza style in 42 states and the District of Columbia. It’s about three times as popular as Neapolitan and its wood-fired and brick-oven relatives, which have now overtaken Chicago’s double-crusted deep-dish pizza to become America’s Second Pizza, according to our analysis of about 7.5 million Yelp reviews from tens of thousands of independent and small-chain pizzerias.
+Top pizza style, by state
+New York
+Neapolitan-ish
+Chicago
+Other
+Detroit
+New
+Haven
+St.Louis
+D.C.
+DEPARTMENT OF DATA
+/THE WASHINGTON POST
+Source: Yelp
+Top pizza style, by state
+New York
+Neapolitan-ish
+Chicago
+Other
+Detroit
+New
+Haven
+St.Louis
+D.C.
+Source: Yelp
+DEPARTMENT OF DATA/THE WASHINGTON POST
+Top pizza style, by state
+New York
+Neapolitan-ish
+Chicago
+Other
+Detroit
+New
+Haven
+St.Louis
+D.C.
+Source: Yelp
+DEPARTMENT OF DATA/THE WASHINGTON POST
+After reading thousands of reviews, and exchanging just about as many emails with our friends at Yelp, we found that the secret to measuring American pizza is a careful parsing of the review text. It’s hard to review a pizza without, at some point, letting it slip that the pizza in question is St. Louis style (cracker-thin crust and Provel cheese) or a classic New York slice.One complication: If you simply search for “Chicago” or “Detroit,” you’ll get a ton of reviews saying things like: “When Aunt Irma comes down from Detroit, she refuses to leave until we get her this aubergine anchovy pizza!” But then we discovered that focusing on reviews where Detroit is mentioned next to “style” or “pizza” helped eliminate those false positives and consistently identify pizzerias that sear their pies to a caramelized crisp in deep, square pans befitting the Motor City.Skip to end of carouselDepartment of DataWe here at the Department of Data are dedicated to exploring the weird and wondrous power of the data that defines our world. Read more.End of carouselBy this method, we identified about 35 distinct variations of pizza, from the Indian pies that are becoming popular on the West Coast to the square-cut Altoona style, which is topped with thick slices of American cheese. But in review after review, restaurant after restaurant, we found New York pizza — or at least what the local Pocatello place claims is New York pizza — remains ubiquitous. That single style has consistently dominated the American landscape since pizza made its way from the Bel Paese to Manhattan’s Little Italy somewhere around the Teddy Roosevelt administration.New York-ish pizza is literally iconic. If you look at the pizza emoji on your phone, it’s probably a firm-but-foldable New York slice (🍕). It’s what you’d expect if you earned a pizza party by reading six books last summer, or if your boss ordered pizzas because everyone was stuck late covering an election or meeting a quarterly revenue target or whatever it is non-journalists do to earn work pizza.And our data shows that New York City remains the undisputed pizza capital of the country. When we divided America into more than 2,300 blocks of at least 100,000 people and measured the number of pizzerias — leaving out the huge national chains — the top four blocks were all in Manhattan. The western swath of Midtown that includes Times Square and Penn Station, not to mention Chelsea and the theater district, led the way. The others all sat nearby, spanning the cheesy tourist heart of the Big Apple.The tourist heart of D.C., which stretches from Columbia Heights to Navy Yard, also ranks in the top five because, as a rule, tourists love pizza. Or at least they love the independent pizzerias we’re measuring here.“Today’s consumer palette is looking for a more localized take on pizzas and something you can’t find elsewhere when traveling,” said Brittany Smith, who directs community campaigns at Yelp and thus has a neighborhood-eye view of all that’s trendy or trending in the pizza universe.AdvertisementAmong states, New Jersey is the pizza capital. If we look at metros, Ocean City, N.J. (Cape May County) tops the pound-for-pound list, followed by the metro that contains Martha’s Vineyard in Massachusetts. These holiday hamlets rise to prominence partly because restaurants eat up more of the economy in tourist towns. We tried to adjust for that by calculating pizzerias relative to the total number of resident food-service workers, but even then certain tourist locales climbed to the top.At the other end of the scale, our maps emphatically paint the American South, especially the Deep South, as a pizza desert — though we’ll point out again that we’re ignoring Pizza Hut, Domino’s and other huge, national chains. It’s possible that Alabamians love pizza as much as Pennsylvanians — they just prefer it standardized, homogenized and delivered in 30 minutes or less.So those are our broad, top-level findings. But when we dug beyond the nation’s foldable surface layer of New York pizza, we found a whole new buried substratum of pizza allegiances.AdvertisementFor starters, we found that Neapolitan-ish pizzas — the thin-crust pies that are fired in minutes in blast furnace-like ovens — have risen to become the second-choice style across most of the country. After that, we start to see regional trends emerge.If Americans deviate from the Gotham Standard Slice or one of the many Neapolitan-ish options, they almost always go for their diametrical opposite: the local version of pan or deep-dish. In most of the country, that means deep-dish stuffed pizzas done Chicago-style, with a few Detroity exceptions.
+Top pizza style, when you leave out New York style
+Greek
+Neapolitan-ish
+Chicago
+Other
+Detroit
+New
+Haven
+St.Louis
+D.C.
+DEPARTMENT OF DATA
+/THE WASHINGTON POST
+Source: Yelp
+Top pizza style, when you leave out New York style
+Greek
+Neapolitan-ish
+Chicago
+Other
+Detroit
+New
+Haven
+St.Louis
+D.C.
+Source: Yelp
+DEPARTMENT OF DATA/THE WASHINGTON POST
+Top pizza style, when you leave out New York style
+Greek
+Neapolitan-ish
+Chicago
+Other
+Detroit
+New
+Haven
+St.Louis
+D.C.
+Source: Yelp
+DEPARTMENT OF DATA/THE WASHINGTON POST
+The areas of the country with the deepest Italian roots also have the most distinctive pizza traditions. Around New York, New Jersey and Pennsylvania, square, bready Sicilian pizza remains the dominant local alternative. In New England, it’s Greek style, an oily, old-school, round-pan pizza that’s not to be confused with the olive-and-feta Greek pizza topping found on diner and deli menus nationwide.Unfortunately or fortunately, depending on your perspective on greasy bread, our analysis suggests that both of these Northeast pan pizzas are a dying breed, challenged on one side by the more extreme and stylish deep-dishes, and on the other by healthier, hipper wood-fired options.A few places have already embraced these alternatives: Connecticut and Missouri have elevated local thin-and-crispy New Haven and St. Louis varieties, respectively.
+Top pizza style, when you leave out New York style and Neapolitan-ish
+Greek
+Detroit
+Sicilian
+Chicago
+Other
+New
+Haven
+St.Louis
+D.C.
+Boston
+DEPARTMENT OF DATA
+/THE WASHINGTON POST
+Source: Yelp
+Top pizza style, when you leave out New York style and Neapolitan-ish
+Greek
+Detroit
+Sicilian
+Chicago
+Other
+New
+Haven
+St.Louis
+D.C.
+Boston
+Source: Yelp
+DEPARTMENT OF DATA/THE WASHINGTON POST
+Top pizza style, when you leave out
+New York style and Neapolitan-ish
+Greek
+Detroit
+Sicilian
+Chicago
+Other
+New
+Haven
+St.Louis
+D.C.
+Boston
+Source: Yelp
+DEPARTMENT OF DATA/THE WASHINGTON POST
+So far, this analysis has ignored the proverbial pie in the ointment: pineapple. If we counted Hawaiian as a pizza style, rather than a topping — which would be wrong on so many levels — it would emerge as the dominant regional style in much of the Greater Northwest, from the Dakotas to the Pacific Coast, as well as a few Southern states.AdvertisementDespite being invented in Canada by a bespectacled Greek immigrant living just across Lake St. Clair from Detroit, Hawaiian pizza actually peaks in popularity in the U.S. in its namesake state, the erstwhile Sandwich Islands. Reviewers there are more likely to name-drop pineapple than in any mainland state — though, like so much in Hawaii, that could be an unwanted outside imposition. We sometimes waded through more than a dozen tourist opinions before hearing from the first local in Yelp reviews.
+Top pizza style, minus New York and Neapolitan and plus Hawaiian
+Greek
+Sicilian
+Chicago
+Detroit
+Hawaiian
+Other
+New
+Haven
+St.Louis
+D.C.
+DEPARTMENT OF DATA
+/THE WASHINGTON POST
+Source: Yelp
+Top pizza style, minus New York and Neapolitan and plus Hawaiian
+Greek
+Sicilian
+Hawaiian
+Chicago
+Detroit
+Other
+New
+Haven
+St.Louis
+D.C.
+Source: Yelp
+DEPARTMENT OF DATA/THE WASHINGTON POST
+Top pizza style, minus New York and
+Neapolitan and plus Hawaiian
+Greek
+Sicilian
+Hawaiian
+Chicago
+Detroit
+Other
+New
+Haven
+St.Louis
+D.C.
+Source: Yelp
+DEPARTMENT OF DATA/THE WASHINGTON POST
+And as one keyboard jockey hinted, the term might mean something different in Hawaii given that every pie in the archipelago is — by definition — Hawaiian pizza.At one of the most popular pizzerias in the state, Kona Brewing on the Big Island, ordering the Hawaii Kai will get you an ale-based barbecue sauce, goat cheese, mozzarella, kalua pork, sweet onion and pineapple. That’s a far cry from the Hawaiian pizza you’ll find in Idaho, the second-biggest state for the topping, according to our extensive firsthand empirical research (also known as a summer job slinging pizza outside Boise).AdvertisementInterestingly, if you exclude New York style and Hawaiian — which, again, we consider a mere topping, rather than a “style” of pizza — the most popular regional pizza in Hawaii comes from Boston. Greater Honolulu sports several spots serving pies transplanted from Boston’s historically and ostentatiously Italian North End.What is Boston pizza and how did it wind up on the shores of Oahu? A single Italian-American, vacationing from Boston, observed the island’s barren, chain-driven pizza landscape and swept in to found Boston’s North End Pizza Bakery in 1994, opening more than a dozen locations over the years. Now 84, Tom Rossi runs just one of them, not far from what he calls Pearl Hah-bah. He said the key elements of a Boston pie are Pillsbury flour, tomatoes and fresh mozzarella, plus his grandma’s garlic and spinach combo.But back to pineapple: Its popularity in Idaho and its Northwestern neighbors may be just one manifestation of America’s hidden pizza divide, a mysterious gap that began to emerge when we looked at the most common non-pizzeria restaurant types in each state that feel the need to include pizza on their menus. In most of the Pineapple Belt — Northern states outside the Northeast, from Michigan to Oregon, and including Hawaii — you’re most likely to get your non-pizzeria pizza at a bar. In the rest of the country, you’re probably getting it at an Italian restaurant.
+Most common dining spots for pizza, besides pizzerias
+Bars
+Italian food
+D.C.
+DEPARTMENT OF DATA
+/THE WASHINGTON POST
+Source: Yelp
+Most common dining spots for pizza, besides pizzerias
+Bars
+Italian food
+D.C.
+Source: Yelp
+DEPARTMENT OF DATA/THE WASHINGTON POST
+Most common dining spots for pizza, besides pizzerias
+Bars
+Italian food
+D.C.
+Source: Yelp
+DEPARTMENT OF DATA/THE WASHINGTON POST
+Folks in the Pineapple Belt seem to regard pizza not as Italian food but as pub fare. They’re way more likely in reviews to mention “beer” or “burger” than “slice” or “garlic knot,” fixtures in East Coast pizzerias. “Wine” is rare, and the venue is more likely to be a traditional American-style restaurant where “salad” is not on the menu.We won’t come right out and say that people take their pizza less seriously in bar-and-grillsville, but they do seem to treat it differently. Reviews are less likely to extol the essential elements of pizza (“cheese,” “sauce”) and more likely to mention “pineapple” and even “ranch.”The setting where pizza is served seems to have a substantial effect on its ratings. The non-pizzeria places that get the highest ratings on Yelp tend to be food trucks, vegetarian restaurants, cafes and pasta shops. Sports bars, service stations and buffets don’t get quite as much love.To be sure, almost every state is the capital of at least one pizza-related category, dubious though it may be. Based on Yelp ratings, New Hampshire has either the worst pizzas or the harshest reviewers — or both. Nevada has the best pizza, but perhaps because tourists tend to rate pizza more generously than locals — or because pizza tastes a bit better after a few comped drinks at the blackjack table. Chicago-style in Chicago can get lower ratings than Chicago-style in Colorado Springs simply because folks in Chicago are judging against stiffer competition.AdvertisementAlaskans are most likely to mention “beer” in a pizza review. Texans are tops for “wine” (followed by D.C. and California), and Ohio leads the nation in “pepperoni.” New Mexico rules “ranch” — we read the reviews, and they’re talking about the dressing and not cowpokes — while Nebraska and South Dakota are tops for eating pizza “with a fork.” D.C. leads in “anchovies.”But most reviews, whether regarding a big-city behemoth or a forgotten suburban chain, hit similar notes. No matter where they live, folks crowd into the pizzeria review section to express unbridled joy at how delicious the pies were, what a perfect place they’d found to celebrate their niece’s kickball participation trophy, and how they’re already looking forward to next year.From Delaware to Dallas, Tacoma to Tampa, Americans agree there’s no such thing as bad pizza.Hi! The Department of Data converts your curiosity to columns. What do you wonder about: Which stores and restaurants get the most economically diverse clientele? Which states have the hardest driver’s tests? Which states manufacture the most dog and cat food? Just ask!If your question inspires a column, we’ll send an official Department of Data button and ID card. To get the latest and greatest as soon as we publish, sign up here for updates. This week’s buttons go to Amanda Finnegan, editor of The Washington Post’s travel section, By the Way, and deputy editor Gabe Hiatt, who probably should get a lifetime supply based on how many hours they spent explaining the finer distinctions of regional pizza.Pizza in AmericaPizza regions: The best pizza in America, region by region | Look up the best pizza in your stateData analysis: America’s pizza capital, top pizza styles, and moreDishing on styles: Brooklyn’s best slice shops | Chicago’s deep dish debate | How pizza went fancy | America’s lesser-known pizzas | What is Maryland style? | Greatest pizza show on earthBest of the D.C. area: Readers’ favorite pizzerias | New York-style | Detroit-style | Chicago-style | New Haven-style D.C. area pizza reviews: Pizza Serata | Boogy and Peel | Martha Dear | Dumm’s Pizza and Subs | DC Chi Pie | Pupatella | Menomale NoMa | StellinaPizza recipes: FAQ for home cooks | Easy cheese pizza | No-knead pizza dough | Gluten-free pizza dough | Muffin-tin deep dish | Thin-crust pickle pizzaShare CommentsThe Department of DataHAND CURATED The most popular pizza style in every state, mappedSeptember 1, 2023 The most popular pizza style in every state, mappedSeptember 1, 2023The states that produce the most creative types, and moreAugust 18, 2023The states that produce the most creative types, and moreAugust 18, 2023The real reason the highest-paid doctors are in the DakotasAugust 11, 2023The real reason the highest-paid doctors are in the DakotasAugust 11, 2023View 3 more storiesLoading...View moreLoading...CompanyAbout The Post Newsroom Policies & Standards Diversity and Inclusion Careers Media & Community Relations WP Creative Group Accessibility Statement Get The PostGift Subscriptions Mobile & Apps Newsletters & Alerts Washington Post Live Reprints & Permissions Post Store Books & E-Books Newspaper in Education Print Archives (Subscribers Only) Today’s Paper Public Notices Coupons Contact UsContact the Newsroom Contact Customer Care Contact the Opinions team Advertise Licensing & Syndication Request a Correction Send a News Tip Report a Vulnerability Terms of UseDigital Products Terms of Sale Print Products Terms of Sale Terms of Service Privacy Policy Cookie Settings Submissions & Discussion Policy RSS Terms of Service Ad Choices washingtonpost.com  © 1996-2023 The Washington Postwashingtonpost.com © 1996-2023 The Washington PostAbout The Post Contact the Newsroom Contact Customer Care Request a Correction Send a News Tip Report a Vulnerability Download the Washington Post App Policies & Standards Terms of Service Privacy Policy Cookie Settings Print Products Terms of Sale Digital Products Terms of Sale Submissions & Discussion Policy RSS Terms of Service Ad Choices Coupons 

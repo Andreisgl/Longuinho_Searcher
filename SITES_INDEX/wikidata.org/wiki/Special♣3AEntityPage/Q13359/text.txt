@@ -1,0 +1,419 @@
+Mingrelian - Wikidata
+Mingrelian
+(Q13359)
+From Wikidata
+Jump to navigation
+Jump to search
+Kartvelian language spoken in Western GeorgiaMegrelian languageMegrelianxmfMingrelian language
+Language
+Label
+Description
+Also known as
+English
+Mingrelian
+Kartvelian language spoken in Western Georgia
+Megrelian languageMegrelianxmfMingrelian language
+Statements
+instance of
+language
+1 reference
+stated in
+Ethnologue
+modern language
+1 reference
+reference URL
+https://iso639-3.sil.org/code/xmf
+subclass of
+Zan
+0 references
+native label
+მარგალური ნინა (Mingrelian)
+0 references
+country
+Republic of Abkhazia
+0 references
+Georgia
+1 reference
+reference URL
+https://scriptsource.org/country/GE
+title
+ScriptSource - Georgia (English)
+retrieved
+21 August 2023
+Abkhazia
+1 reference
+imported from Wikimedia project
+Russian Wikipedia
+Wikimedia import URL
+https://ru.wikipedia.org/?oldid=99783841
+located in the administrative territorial entity
+Samegrelo-Zemo Svaneti
+1 reference
+imported from Wikimedia project
+Russian Wikipedia
+Wikimedia import URL
+https://ru.wikipedia.org/?oldid=113210411
+Autonomous Republic of Abkhazia
+1 reference
+imported from Wikimedia project
+Russian Wikipedia
+Wikimedia import URL
+https://ru.wikipedia.org/?oldid=113210411
+Imereti
+1 reference
+imported from Wikimedia project
+Russian Wikipedia
+Wikimedia import URL
+https://ru.wikipedia.org/?oldid=113210411
+Tbilisi
+1 reference
+imported from Wikimedia project
+Russian Wikipedia
+Wikimedia import URL
+https://ru.wikipedia.org/?oldid=113210411
+linguistic typology
+agglutinative language
+1 reference
+imported from Wikimedia project
+English Wikipedia
+has grammatical case
+Q1200952
+0 references
+writing system
+Georgian scripts
+0 references
+Asomtavruli
+0 references
+Nuskhuri
+0 references
+Mkhedruli
+0 references
+number of speakers, writers, or signers
+345,530
+point in time
+2015
+1 reference
+stated in
+Ethnologue
+UNESCO language status
+3 definitely endangered
+1 reference
+stated in
+Atlas of the World's Languages in Danger
+reference URL
+http://www.unesco.org/languages-atlas/en/atlasmap/language-id-1057.html
+retrieved
+24 June 2018
+Ethnologue language status
+6a Vigorous
+1 reference
+stated in
+Ethnologue
+retrieved
+10 May 2019
+reference URL
+https://www.ethnologue.com/language/xmf
+indigenous to
+Samegrelo-Zemo Svaneti
+0 references
+Tsageri Municipality
+0 references
+Abkhazia
+0 references
+Guria
+0 references
+Imereti
+0 references
+described by source
+Great Soviet Encyclopedia (1926–1947)
+statement is subject of
+Q109566987
+0 references
+Wikimedia language code
+xmf
+0 references
+exact match
+http://publications.europa.eu/resource/authority/language/XMF
+1 reference
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+Commons category
+Mingrelian language
+0 references
+topic's main category
+Category:Mingrelian language
+1 reference
+imported from Wikimedia project
+Russian Wikipedia
+Identifiers
+ISO 639-3 code
+xmf
+1 reference
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+Bibliothèque nationale de France ID
+145905940
+0 references
+GND ID
+4663035-1
+1 reference
+imported from Wikimedia project
+German Wikipedia
+FAST ID
+1022651
+0 references
+National Library of Israel J9U ID
+987007536227505171
+0 references
+Library of Congress authority ID
+sh85085637
+0 references
+Art & Architecture Thesaurus ID
+300388877
+0 references
+Encyclopædia Britannica Online ID
+topic/Mingrelian-language
+0 references
+endangeredlanguages.com ID
+10906
+subject named as
+Mingrelian
+0 references
+Enzyklopädie des europäischen Ostens ID
+eb40
+0 references
+Ethnologue.com language code
+xmf
+0 references
+Freebase ID
+/m/02ygx4
+1 reference
+stated in
+Freebase Data Dumps
+publication date
+28 October 2013
+Glottolog code
+ming1252
+2 references
+imported from Wikimedia project
+English Wikipedia
+stated in
+World Atlas of Language Structures
+reference URL
+http://wals.info/languoid/lect/wals_code_mgl
+retrieved
+2 November 2017
+GOST 7.75–97 code
+мег 450
+1 reference
+imported from Wikimedia project
+Russian Wikipedia
+Gran Enciclopèdia Catalana ID
+0194422
+0 references
+Great Russian Encyclopedia Online ID (old version)
+2196928
+reason for deprecated rank
+redirect
+0 references
+5230174
+subject named as
+МЕГРЕЛЬСКИЙ ЯЗЫК
+0 references
+IETF language tag
+xmf
+1 reference
+imported from Wikimedia project
+French Wikipedia
+OmegaWiki Defined Meaning
+566294
+0 references
+POSIX locale identifier
+xmf
+0 references
+Quora topic ID
+Mingrelian-Language
+1 reference
+stated in
+Quora
+Store norske leksikon ID
+mingrelsk
+0 references
+UNESCO Atlas of the World's Languages in Danger ID
+1057
+0 references
+WALS lect code
+mgl
+0 references
+YSO ID
+28624
+subject named as
+mingrelin kieli
+megrelska
+Mingrelian language
+1 reference
+stated in
+YSO-Wikidata mapping project
+retrieved
+7 February 2022
+ 
+Sitelinks
+Wikipedia(58 entries)
+abwiki
+Агыруа бызшәа
+arwiki
+اللغة المرغلانية
+arzwiki
+المنغرليه
+astwiki
+Megrelianu
+avwiki
+Мегрел мацӀ
+azbwiki
+مقرل دیلی
+azwiki
+Meqrel dili
+bgwiki
+Мегрелски език
+brwiki
+Megreleg
+cawiki
+Mingrelià
+cewiki
+Мегрелийн мотт
+cswiki
+Megrelština
+cvwiki
+Мегрел чĕлхи
+dewiki
+Mingrelische Sprache
+diqwiki
+Megrelki
+enwiki
+Mingrelian language
+eowiki
+Mingrela lingvo
+eswiki
+Idioma mingreliano
+etwiki
+Megreli keel
+euwiki
+Mingreliera
+fawiki
+زبان مگرلی
+fiwiki
+Mingrelin kieli
+frrwiki
+Mingreelisk Spriik
+frwiki
+Mingrélien
+glwiki
+Lingua mingreliana
+hewiki
+מגרלית
+hrwiki
+Mingrelski jezik
+huwiki
+Mingrél nyelv
+hywiki
+Մեգրելերեն
+idwiki
+Bahasa Mingrelia
+itwiki
+Lingua mengrelia
+jawiki
+メグレル語
+kawiki
+მეგრული ენა
+kowiki
+민그렐어
+kvwiki
+Мегрел кыв
+lawiki
+Lingua Mingrelica
+ltwiki
+Megrelų kalba
+mkwiki
+Мегрелски јазик
+mlwiki
+മിൻഗ്രേലിയൻ ഭാഷ
+nlwiki
+Mingreels
+nnwiki
+Mingrelsk
+nowiki
+Mingrelsk
+ocwiki
+Mingrelian
+plwiki
+Język megrelski
+pmswiki
+Lenga mingrelian
+ptwiki
+Língua mingrélia
+ruwiki
+Мегрельский язык
+satwiki
+ᱢᱤᱝᱜᱽᱨᱮᱞᱤᱭᱟᱱ ᱯᱟᱹᱨᱥᱤ
+svwiki
+Megreliska
+tawiki
+மிங்கிரெலி மொழி
+thwiki
+ภาษามิงเกรเลีย
+trwiki
+Megrelce
+ttwiki
+Мегрел теле
+ukwiki
+Мегрельська мова
+viwiki
+Tiếng Mingrelia
+wuuwiki
+明格列尔语
+xmfwiki
+მარგალური ნინა
+zhwiki
+明格列尔语
+Wikibooks(0 entries)
+Wikinews(0 entries)
+Wikiquote(0 entries)
+Wikisource(0 entries)
+Wikiversity(0 entries)
+Wikivoyage(0 entries)
+Wiktionary(0 entries)
+Multilingual sites(0 entries)
+Retrieved from "https://www.wikidata.org/w/index.php?title=Q13359&oldid=1960601830"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+ItemDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 25 August 2023, at 00:35.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

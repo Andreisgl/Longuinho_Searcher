@@ -1,0 +1,68 @@
+Documentation IdRef
+Aide en ligne
+Pour les utilisateurs
+
+IdRef (Identifiants et Référentiels) est une application Web permettant à des utilisateurs et à 
+des applications clientes d’interroger et consulter les autorités des catalogues Calames, Sudoc et theses.fr.
+
+Pour les catalogueurs
+
+IdRef (Identifiants et Référentiels) est une application Web permettant à des professionnels de la documentation et à
+des applications clientes de créer et enrichir les autorités des catalogues Calames, Sudoc et theses.fr.
+
+Pour les développeurs
+
+IdRef (Identifiants et Référentiels) propose un ensemble de web services destinés à des applications clientes 
+permettant de contribuer et d’exploiter les données d’autorité et de rendre interopérables les systèmes informatiques.
+
+Entrepôt OAI d'IdRef
+
+IdRef (Identifiants et Référentiels) met à disposition de l'ensemble de la communauté les données 
+d’autorité de ses référentiels au sein de son réservoir OAI-PMH.
+ 
+
+IdRef en RDF
+
+IdRef (Identifiants et Référentiels) rend accessible les données d’autorité sur le Web de données en RDF. 
+A partir de l'identifiant d'une notice d'autorité, obtenez la modélisation RDF des données de cette notice et 
+des références bibliographiques liées dans les catalogues Calames, Sudoc et theses.fr.
+
+data.idref.fr
+
+data.idref.fr est le triple store d'IdRef accessible librement. 
+Il offre des fonctionnalités de recherche synchronisées aux environnements de production Sudoc et IdRef 
+permettant d'obtenir des données bibliographiques, d'autorité et leurs relations (compte, filtre, facette) en RDF.
+
+AlgoLiens
+
+IdRef (Identifiants et Référentiels) propose aux professionnels des bibliothèques un service de repérage des notices 
+Sudoc non liées aux autorités afin d’améliorer la qualité du signalement documentaire.
+
+paprika.idref.fr
+
+Paprika est une application professionnelle de curation des données dédiée au contrôle qualité des liens entre notices bibliographiques 
+et notices d'autorité de type personnes physiques.
+ 
+
+AlgoDoublons
+
+IdRef (Identifiants et Référentiels) propose aux professionnels des bibliothèques un service de repérage des notices en doublon afin d'améliorer 
+la qualité du signalement documentaire.
+ 
+A propos
+
+  L’application IdRef permet d’interroger, d'enrichir et/ou de corriger des notices autorités existantes, de créer de nouvelles entités. IdRef est une
+interface connectée à différentes applications professionnelles.
+
+La recherche et l’utilisation des notices autorités pour l’indexation n'exigent aucune authentification préalable. 
+En revanche, un login est impératif pour modifier ou créer des notices.
+Applications
+Theses
+Calames
+Sudoc
+
+© 1999-2022 - contenu sous licence CC by NC SA
+  Accessibilité numérique
+  Mentions légales |
+  CGU |
+Données personnelles |

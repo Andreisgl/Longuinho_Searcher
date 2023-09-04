@@ -1,0 +1,777 @@
+novel - Wikidata
+novel
+(Q8261)
+From Wikidata
+Jump to navigation
+Jump to search
+narrative text, normally of a substantial length and in the form of prose describing a fictional and sequential storynovels
+Language
+Label
+Description
+Also known as
+English
+novel
+narrative text, normally of a substantial length and in the form of prose describing a fictional and sequential story
+novels
+Statements
+instance of
+literary form
+1 reference
+reference URL
+https://owlcation.com/humanities/What-is-the-Difference-Between-Genre-and-Form-Are-Genre-and-Form-the-Same
+literary genre
+1 reference
+reference URL
+https://www.merriam-webster.com/dictionary/novel
+subclass of
+literary work
+0 references
+narration
+0 references
+part of
+novel sequence
+0 references
+name in kana
+ちょうへんしょうせつ
+1 reference
+imported from Wikimedia project
+Japanese Wikipedia
+hashtag
+novels
+1 reference
+reference URL
+https://twitter.com/hashtag/novels?src=hashtag_click
+title
+#novels - Twitter Search / Twitter (English)
+retrieved
+1 January 2023
+practiced by
+novelist
+0 references
+described by source
+Brockhaus and Efron Encyclopedic Dictionary
+statement is subject of
+Q24484407
+0 references
+Small Brockhaus and Efron Encyclopedic Dictionary
+statement is subject of
+Q24736838
+0 references
+Explanatory Dictionary of the Living Great Russian Language
+statement is subject of
+Q30195102
+0 references
+Encyclopædia Britannica 11th edition
+statement is subject of
+1911 Encyclopædia Britannica/Novel
+0 references
+on focus list of Wikimedia project
+Wikipedia:List of articles all languages should have
+0 references
+WikiProject Narration
+0 references
+Wikipedia:Vital articles/Level/4
+point in time
+31 October 2022
+0 references
+category for eponymous categories
+Category:Wikipedia categories named after novels
+0 references
+equivalent class
+http://dbpedia.org/ontology/Novel
+described at URL
+http://mappings.dbpedia.org/index.php/OntologyClass:Novel
+retrieved
+16 June 2015
+1 reference
+imported from Wikimedia project
+DBpedia
+properties for this type
+genre
+0 references
+author
+0 references
+publisher
+0 references
+ISBN-13
+0 references
+different from
+short novel
+1 reference
+inferred from
+short novel
+novella
+1 reference
+inferred from
+novella
+xiaoshuo
+0 references
+Riwaya
+0 references
+Commons category
+Novels
+1 reference
+imported from Wikimedia project
+Spanish Wikipedia
+topic's main Wikimedia portal
+Portal:Novels
+0 references
+topic's main category
+Category:Novel
+0 references
+Category:Novels
+0 references
+Identifiers
+Biblioteca Nacional de España ID
+XX525790
+subject named as
+Novela
+0 references
+Bibliothèque nationale de France ID
+11940505s
+subject named as
+Roman
+1 reference
+stated in
+Nuovo soggettario
+reference URL
+https://thes.bncf.firenze.sbn.it/termine.php?id=3572
+retrieved
+13 June 2021
+GND ID
+4050479-7
+1 reference
+imported from Wikimedia project
+German Wikipedia
+FAST ID
+1921742
+1 reference
+stated in
+Library of Congress Authorities
+National Library of Latvia ID
+000277799
+0 references
+NDL Authority ID
+00572286
+0 references
+NL CR AUT ID
+ph116056
+subject named as
+román
+0 references
+ABC News topic ID
+novel
+0 references
+American Folklore Society Ethnographic Thesaurus ID
+afset012591
+subject named as
+novels
+0 references
+AniDB tag ID
+2799
+subject named as
+novel
+alternative name
+no value
+0 references
+Art & Architecture Thesaurus ID
+300202580
+subject named as
+novels
+scope note
+Invented prose narratives of considerable length and a certain complexity that deal imaginatively with human experience through a connected sequence of events involving a group of persons in a specific setting. (English)
+具相當長度與一定程度複雜性的虛構散文體記敘文，藉由與一群人，於一特定背景中相關聯的一連串事件，於想像中處理人類經驗。 (Traditional Chinese)
+Verzonnen prozaverhalen van aanzienlijke lengte en een zekere complexiteit die op verbeeldingsrijke wijze de menselijke ervaring behandelen aan de hand van een reeks onderling verbonden gebeurtenissen rond een groep personen in een specifieke omgeving. (Dutch)
+Fiktionale Prosaerzählung beträchtlichen Umfangs und einiger Komplexität, die auf fantasievolle Weise menschliche Erfahrungen durch eine verknüpfte Reihe von Ereignissen mit einer Gruppe von Personen in einem bestimmten Umfeld schildert. (German)
+Narraciones ficticias en prosa de considerable extensión y una cierta complejidad que tratan imaginativamente sobre experiencias humanas a través de una secuencia relacionada de sucesos que involucran a un grupo de personas en un escenario específico. (Spanish)
+0 references
+ASC Leiden Thesaurus ID
+294929134
+0 references
+294929126
+0 references
+Australian Educational Vocabulary ID
+scot/15070
+0 references
+Australian Thesaurus of Education Descriptors ID
+3586
+0 references
+Ávvir topic ID
+romana
+0 references
+BabelNet ID
+00058201n
+1 reference
+stated in
+BabelNet
+Banglapedia ID (Bengali)
+উপন্যাস
+0 references
+BBC Things ID
+3c2bef63-c511-43fe-9af9-f7a93cf71b47
+1 reference
+stated in
+BBC Things
+BNCF Thesaurus ID
+3572
+1 reference
+stated in
+National Central Library of Florence
+Catalan Vikidia ID
+Novel·la
+0 references
+Den Store Danske ID
+roman
+0 references
+Enciclopedia dei ragazzi ID
+romanzo
+subject named as
+romanzo
+author name string
+Emanuela Bufacchi
+publication date
+2006
+0 references
+Enciclopedia dell'Arte Medievale ID
+romanzo
+subject named as
+ROMANZO
+author name string
+P. D'Achille
+publication date
+1999
+0 references
+Encyclopædia Britannica Online ID
+art/romance-literature-and-performance
+subject named as
+romance
+0 references
+art/novel
+subject named as
+novel
+0 references
+Encyclopedia of Korean Culture ID
+E0048864
+0 references
+Encyclopedie berbere keyword ID
+361
+0 references
+FactGrid item ID
+Q246869
+0 references
+Freebase ID
+/m/05hgj
+1 reference
+stated in
+Freebase Data Dumps
+publication date
+28 October 2013
+Gran Enciclopèdia Catalana ID
+0126774
+0 references
+0196823
+0 references
+Great Russian Encyclopedia Online ID (old version)
+3513888
+subject named as
+РОМАН
+0 references
+Hrvatska enciklopedija ID
+53278
+0 references
+JSTOR topic ID
+novels
+0 references
+KBpedia ID
+Novel
+1 reference
+stated in
+KBpedia
+retrieved
+9 July 2020
+Klexikon article ID
+Roman
+0 references
+Krugosvet article
+kultura_i_obrazovanie/literatura/ROMAN.html
+0 references
+Library of Congress Genre/Form Terms ID
+gf2015026020
+subject named as
+Novels
+0 references
+LoC and MARC vocabularies ID
+marcgt/nov
+0 references
+Nomenclature for Museum Cataloging
+13551
+0 references
+Norwegian thesaurus on genre and form ID
+258
+1 reference
+Wikimedia import URL
+https://www.wikidata.org/wiki/Wikidata:Property_proposal/NTSF_ID
+ODLIS ID
+n.aspx#novel
+0 references
+OmegaWiki Defined Meaning
+463474
+0 references
+Online PWN Encyclopedia ID
+3961231
+subject named as
+powieść
+1 reference
+reference URL
+https://encyklopedia.pwn.pl/haslo/powiesc;3961231.html
+PACTOLS thesaurus ID
+pcrt7mBKKg4wNT
+0 references
+Pixiv Encyclopedia ID
+長編小説
+0 references
+Provenio UUID
+04b724a8-e921-4166-b5fb-1ddf19d37f6f
+0 references
+PSH ID
+6960
+0 references
+Quora topic ID
+Novels
+1 reference
+stated in
+Quora
+RBMS Controlled Vocabulary ID
+cv00221
+subject named as
+Novels
+0 references
+TED topic ID
+novel
+0 references
+Treccani ID
+romanzo
+subject named as
+romanzo
+1 reference
+reference URL
+https://www.treccani.it/enciclopedia/romanzo
+Treccani's Enciclopedia Italiana ID
+romanzo
+subject named as
+ROMANZO
+author name string
+Bruno Lavagnini, Ferdinando Neri, F. G., Emerico Varady
+publication date
+1936
+0 references
+romanzo_res-853f275e-a037-11e2-9d1b-00271042e8d9
+subject named as
+Romanzo
+volume
+VII Appendice
+author name string
+Massimo Fusillo
+publication date
+2007
+0 references
+romanzo_res-f250b1be-ffef-11e6-b5f4-00271042e8d9
+subject named as
+ROMANZO
+author name string
+Stefano Calabrese
+volume
+IX Appendice
+publication date
+2015
+0 references
+UNESCO Thesaurus ID
+concept10809
+0 references
+YSO ID
+1896
+1 reference
+stated in
+YSO-Wikidata mapping project
+retrieved
+27 March 2023
+Zhihu topic ID
+19550447
+subject named as
+小说
+0 references
+ 
+Sitelinks
+Wikipedia(144 entries)
+afwiki
+Roman
+alswiki
+Roman
+anwiki
+Novela
+arwiki
+رواية (أدب)
+arywiki
+رواية
+arzwiki
+روايه
+astwiki
+Novela
+aswiki
+উপন্যাস
+azbwiki
+رومان
+azwiki
+Roman
+bat_smgwiki
+Ruomans (literatūra)
+bawiki
+Роман
+bclwiki
+Nobela
+be_x_oldwiki
+Раман
+bewiki
+Раман
+bgwiki
+Роман
+bhwiki
+उपन्यास
+bnwiki
+উপন্যাস
+brwiki
+Romant
+bswiki
+Roman
+bxrwiki
+Роман
+cawiki
+Novel·la
+cebwiki
+Sugilambong
+cewiki
+Роман
+ckbwiki
+ڕۆمان
+crhwiki
+Roman
+csbwiki
+Pòwiesc
+cswiki
+Román
+cvwiki
+Роман
+cywiki
+Nofel
+dawiki
+Roman
+dewiki
+Roman
+diqwiki
+Roman
+elwiki
+Μυθιστόρημα
+enwiki
+Novel
+eowiki
+Romano
+eswiki
+Novela
+etwiki
+Romaan
+euwiki
+Eleberri
+fawiki
+رمان
+fiwiki
+Romaani
+fowiki
+Skaldsøga
+frwiki
+Roman (littérature)
+fywiki
+Roman
+ganwiki
+長篇小說
+gawiki
+Úrscéal
+gcrwiki
+Roman (litératir)
+gdwiki
+Nobhail
+glwiki
+Novela
+gnwiki
+Tembiasagua'u
+gomwiki
+कादंबरी
+guwiki
+નવલકથા
+gvwiki
+Noaskeeal
+hawiki
+Ƙagaggen Labari
+hewiki
+רומן
+hifwiki
+Novel
+hiwiki
+उपन्यास
+hrwiki
+Roman
+htwiki
+Woman
+huwiki
+Regény
+hywiki
+Վեպ
+hywwiki
+Վէպ
+idwiki
+Novel
+ilowiki
+Nobela
+iowiki
+Romano
+iswiki
+Skáldsaga
+itwiki
+Romanzo
+jamwiki
+Navl
+jawiki
+長編小説
+jvwiki
+Novèl
+kabwiki
+Ungal
+kawiki
+რომანი
+kkwiki
+Роман
+knwiki
+ಕಾದಂಬರಿ
+kowiki
+장편 소설
+kuwiki
+Roman (wêje)
+kwwiki
+Romans
+kywiki
+Роман
+lawiki
+Mythistoria
+lbwiki
+Roman
+liwiki
+Roman
+lldwiki
+Roman
+ltwiki
+Romanas
+lvwiki
+Romāns
+mkwiki
+Роман
+mlwiki
+നോവൽ
+mniwiki
+ꯋꯥꯔꯤ-ꯂꯤꯁꯥꯡ
+mnwiki
+Роман
+mrwiki
+कादंबरी
+mswiki
+Novel
+mwlwiki
+Remanse
+myvwiki
+Инеёвкс
+mywiki
+ဝတ္ထု
+mznwiki
+رمان
+nds_nlwiki
+Roman
+newiki
+उपन्यास
+nlwiki
+Roman (literatuur)
+nnwiki
+Roman
+nowiki
+Roman
+nqowiki
+ߞߊ߲߬ߝߐ
+ocwiki
+Roman
+pawiki
+ਨਾਵਲ
+plwiki
+Powieść
+pmswiki
+Romanz (literatura)
+pnbwiki
+ناول
+pswiki
+ناول
+ptwiki
+Romance
+quwiki
+Kawsay rikch'a
+rowiki
+Roman (literatură)
+ruewiki
+Роман
+ruwiki
+Роман
+sahwiki
+Арамаан
+scnwiki
+Rumanzu
+scowiki
+Novelle
+sdwiki
+ناول
+shwiki
+Roman
+simplewiki
+Novel
+siwiki
+නවකතාව
+skwiki
+Román
+slwiki
+Roman
+sqwiki
+Romani
+srwiki
+Роман
+suwiki
+Novel
+svwiki
+Roman
+swwiki
+Riwaya
+tawiki
+புதினம் (இலக்கியம்)
+tewiki
+నవలా సాహిత్యము
+tgwiki
+Роман
+thwiki
+นวนิยาย
+tlwiki
+Nobela
+trwiki
+Roman
+ttwiki
+Роман
+ukwiki
+Роман
+urwiki
+ناول
+uzwiki
+Roman
+viwiki
+Tiểu thuyết
+warwiki
+Nobela
+wawiki
+Roman
+wuuwiki
+长篇小说
+xmfwiki
+რომანი (პროზა)
+yiwiki
+ראמאן
+zh_min_nanwiki
+Tn̂g-phiⁿ siáu-soat
+zh_yuewiki
+長篇小說
+zhwiki
+長篇小說
+Wikibooks(1 entry)
+glwikibooks
+Novela
+Wikinews(0 entries)
+Wikiquote(21 entries)
+arwikiquote
+رواية
+azwikiquote
+Roman
+bswikiquote
+Roman
+cswikiquote
+Román
+dewikiquote
+Roman
+elwikiquote
+Μυθιστόρημα
+enwikiquote
+Novel
+eowikiquote
+Romano
+eswikiquote
+Novela
+etwikiquote
+Romaan
+fawikiquote
+رمان
+frwikiquote
+Roman
+hewikiquote
+רומן
+itwikiquote
+Romanzo
+plwikiquote
+Powieść
+ptwikiquote
+Romance
+ruwikiquote
+Роман
+skwikiquote
+Román
+tawikiquote
+புதினம்
+trwikiquote
+Roman
+ukwikiquote
+Роман (жанр)
+Wikisource(1 entry)
+eswikisource
+Portal:Novelas
+Wikiversity(0 entries)
+Wikivoyage(0 entries)
+Wiktionary(0 entries)
+Multilingual sites(0 entries)
+Retrieved from "https://www.wikidata.org/w/index.php?title=Q8261&oldid=1966571981"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+ItemDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 2 September 2023, at 11:50.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

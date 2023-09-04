@@ -1,0 +1,135 @@
+Skanwiki - Meta
+Skanwiki
+From Meta, a Wikimedia project coordination wiki
+Jump to navigation
+Jump to search
+Siste/senaste endringer/ändringarna på Skanwiki
+Skanwiki-forsiden/huvudsidan
+Tinget/Bybrunnen
+Opdater/Oppdater denne side/sida/sidan
+English: Welcome to Skanwiki, a project to promote integration and cooperation among the Scandinavian Wikipedias.
+Velkommen til Skanwiki
+Dette er hovedsiden til et sted/plats for diskusjon og utvikling på tvers/gemensam utveckling av de fire skandinaviske wikipediaene, svenskspråkiga (sv), norsk (bokmål) (no), dansk (da) og norsk (nynorsk) (nn). Vi hører gjerne også fra andre skandinaviskspråklige wikipedianere, og retter en spesiell invitasjon til dem som skriver på de islandske, færøyske, grønlandske, nord-samiske og finske Wikimedia-prosjektene.
+Den 30. desember 2015 fanns det 3 154 098 Wikipediaartiklar på skandinaviske språk (sv, no, da, nn), eller 3 205 916 dersom man räknar med islandsk og færøysk. Hade/Havde man räknat samman alla Wikipedior på nordiska språk till en enda hade/havde den blivit den nest största efter engelska. (Statistikgenvägar: sv no da nn is fo)
+Metasidene/Metasidorna kan brukes/användas til/till å/att:
+samle/samla ressurser/resurser som er av felles interesse for alle/alla tycker är intressant
+diskutere/diskutera samarbeidsløsninger/samarbeteslösningar
+skape/skapa et/ett skandinavisk/skandinaviskt wikipedia-nettverk/nätverk
+fremme en felles innsats i et felles/gemensamt mål, en samling av all menneskelig/mänsklig kunnskap skrevet/skriven på de skandinaviske/skandinaviska språk/språken.
+utvikle/utveckla standarder/standards
+Hva metasidene ikke er:
+en encyklopedi
+Språklige retningslinjer/Språkliga riktlinjer
+Alle språk, herunder alle skandinaviske språk/målformer, kan brukes på disse sidene. Språkene kan gjerne blandes, så lenge det blir forståelig for så mange som mulig. Bruk gjerne flere varianter av samme ord skilt med skråstrek/snedstreck (/) hvis de er fundamentalt forskjellige/ulike/avvikande fra språk til språk.
+Skanwiki retningslinjer
+Skanwiki-malen/skabelonen/mallen
+For at en side skal være del av Skanwiki, må/måste den ha {{Skanwiki}}-malen/skabelonen/mallen på TOPPEN av artikkelen! Den blir da automatisk kategorisert under Category:Skanwiki, og i tillegg får den en lenke øverst på siden til siste/senaste endringer på Skanwiki (ved hjelp av funskjonen Special:Recentchangeslinked/Category:Skanwiki), til denne forside og til "Tinget" - Skanwikis diskussionsforum.
+Alle Skanwiki-brukere oppfordres/uppmanas også til å legge inn [[Category:Skanwiki]] eller ovennevnte mal/skabelon/mall på brukersidene og brukerdiskusjonssidene slik at disse viser på "Siste/senaste endringer".
+Plassering av sider
+Det er en fordel hvis/om alle sider ligger lokalisert under denne siden, det vil si med tittelnavn Skanwiki etterfølgt av en skråstrek/snedstreck (/) og deretter navnet på artikkelen, som for eksempel Skanwiki/Tinget.
+Verktyg/Værktøj/Verktøy
+Tinget – Vårt diskusjonsforum
+Undersider – automatisk liste
+Skanwikibrukere – Medlemsliste
+Artikelkoordination – Et sted hvor man kan arbeide med artikkelkoordinasjon og -oversettelser
+Skanwikiprojekt – Wikiprojekt som spänner över språkgränserna
+Skandinaviske ressurser – En samling ressurser for skandinaviske encyklopediforfattere!
+Utvalgte artikler – Koordinasjon av utvalgte artikler
+Logoer – Oversikt over logone til de forskjellige Wikimedia-prosjektene i Norden
+Skanwiki for børn – Projektside for skanwiki for børn
+Wikinews – Meta-side for skandinavisk/svenska wikinews
+Interwikilenkjer – Ta ein titt på korleis Nynorsk Wikipedia prioriterer skandinaviske wikipediaer i rekkjefølga på interwikilenkjene – kanskje noko for dykkar wikipedia?
+Templates – en oversigt over alle skabeloner/mallar brugt på Skanwiki
+irc://irc.freenode.net/#wikipedia-nordic/
+SkandWikipedia Search – en Rollyo for søk i dansk, svensk og de to norske Wikipedia samtidig. Utvikla av norske bibliotekarer
+Skanwiki-nytt
+12 november 2014: Den islandske lokalafdeling af Wikimedia ble stiftet
+13 februar 2014: Islandsk Wikipedia passerer 37.000 artiklar
+14. november 2013: Bokmålswikipediaen passerar 400 000 artiklar
+21 augusti 2013: Svenskspråkiga Wikipedia passerar 1 500 000 artiklar
+4 juli 2013: Islandsk Wikipedia passerer 36.000 artiklar
+15 juni 2013 : Svenskspråkiga Wikipedia passerar 1 000 000 artiklar
+9. april 2013: Nynorskspråkiga Wikipedia passerar 100 000 artiklar.
+19 november 2012: Islandsk Wikipedia passerer 35.000 artiklar
+27 september 2012: Svenskspråkiga Wikipedia passerar 500 000 artiklar.
+22 mai 2012:  Islandsk Wikipedia passerer 34.000 artikler
+10. mars 2012: Dansk Wikipedia passerer 162.000 artikler
+6. januar 2012: Islandsk Wikipedia passerer 33.000 artikler
+12 augusti 2011: Islandsk Wikipedia passerer 32.000 artikler
+19 juni 2011: Svenskspråkiga Wikipedia passerar 400 000 artiklar.
+6. mai 2011: Bokmålswikipediaen passerer 300 000 artikler.
+4 april 2011: Islandsk Wikipedia passerer 31.000 artikler
+27. mars 2010: Bokmålswikipediaen passerer 250 000 artikler.
+14 mars 2010: Svenskspråkiga Wikipedia passerar 350 000 artiklar.
+29. december 2008: Dansk Wikipedia passerer 100 000 artikler.
+13. desember 2008: Bokmålswikipediaen passerer 200 000 artikler.
+13 december 2008: Svenskspråkiga Wikipedia passerar 300 000 artiklar.
+30. januar 2008: Bokmålswikipediaen passerer 150 000 artiklar.
+14 september 2007: Svenskspråkiga Wikipedia passerer 250 000 artiklar.
+28. juni 2007: Islandsk Wiktionary passerer 11 000 artiklar
+4. mai 2007: Islandsk Wikipedia passerer 15 000 artiklar
+20. mars 2007: Grønlandsk Wiktionary passerer 500 artiklar.
+24. februar 2007: Bokmålswikipediaen passerer 100 000 artikler.
+11. februar 2007: Finsk Wikipedia passerer 100 000 artiklar.
+3. februar 2007: Nynorsk Wikipedia passerer 20 000 artiklar.
+23. december 2006: Svenskspråkiga Wikipedia uppnår 200 000 artiklar.
+29. september 2006: Dansk Wikipedia passerer 50 000 artikler.
+26. juni 2006:  Svenska Wiktionary passerar 10 000 artiklar.
+6. mai 2006: Islandsk Wikipedia passerer 10 000 artiklar
+15. april 2006: Nynorsk Wikipedia passerer 15 000 artiklar.
+6 april 2006: Svenskspråkiga Wikipedia uppnår 150 000 artiklar.
+30 mars 2006: Svenska Wikibooks passerar 500 artiklar.
+6 februar 2006: Bokmålswikipediaen passerer 50 000 artikler.
+Arkiv
+Edit
+Utvald artikel på sv.wikipedia.org (Vecka 35)
+Kopiera wikitexten från sv:Wikipedia:Utvald artikel/Vecka 35, 2023/2
+Skanwiki/Utvald artikel/Vecka 35, 2023
+Ukens artikkel på no.wikipedia.org (Uke 35)
+Kopier kildekoden fra no:Wikipedia:Ukens artikkel/Uke 35, 2023
+Skanwiki/Ukens artikkel/Uke 35, 2023
+Ugens artikel på da.wikipedia.org (Uge 35)
+Kopiér kilden fra da:Wikipedia:Ugens artikel/Uge 35, 2023
+Skanwiki/Ugens artikel/Uge 35, 2023
+Vekas artikkel på nn.wikipedia.org (Veke 35)
+Kopier kjeldeteksten frå nn:Wikipedia:Vekas artikkel/Veke 35, 2023
+Skanwiki/Vekas artikkel/Veke 35, 2023
+Månedens artikkel is.wikipedia.org (Måned 09)
+Kopier kjeldeteksten frå is:Wikipedia:Grein mánaðarins/09, 2023
+Skanwiki/Grein mánaðarins/Maned 09, 2023
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Skanwiki&oldid=15201626"
+Categories: SkanwikiPortals/daPortals/nbPortals/nnPortals/sv
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Content pageDiscussion
+English
+Views
+ReadView sourceView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+In other languages
+Add links
+ This page was last edited on 30 December 2015, at 18:41.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

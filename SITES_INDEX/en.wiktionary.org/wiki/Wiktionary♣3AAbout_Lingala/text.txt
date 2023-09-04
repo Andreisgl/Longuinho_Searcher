@@ -1,0 +1,59 @@
+Wiktionary:About Lingala - Wiktionary, the free dictionary
+Wiktionary:About Lingala
+From Wiktionary, the free dictionary
+Jump to navigation
+Jump to search
+This is a Wiktionary policy, guideline or common practices page. Specifically it is a policy think tank, working to develop a formal policy.
+Policies – Entries: CFI - EL - NORM - NPOV - QUOTE - REDIR - DELETE. Languages: LT - AXX. Others: BLOCK - BOTS - VOTES.
+Shortcut:WT:ALN
+English Wikipedia has an article on:LingalaWikipedia 
+Lingala is an agglutinative Bantu language spoken in Central Africa. This page details standard practice to be followed on all Lingala pages.
+Contents
+1 Dialects and spellings
+2 Templates
+3 Attestation
+4 Tasks
+Dialects and spellings[edit]
+All dialectal and regional words should be marked as such; the default is for terms that will be understood throughout the DRC. Dialects do not get independent L2 headers, but instead are marked with {{label}} on the definition line and {{qualifier}} elsewhere.
+The orthography used on Wiktionary is still in a state of flux, due in large part to inconsistent use among other dictionaries and speakers writing in Lingala. Basic principles include always marking high tones with an acute accent (´) in the pagetitle itself (unlike our practice with most other Bantu languages), and writing loanwords according to how they are pronounced (unless it is an example of code-switching, in which case a Lingala entry should not be created at all). Good practice also includes using ɛ and ɔ, using appropriate diacritics for other tones, and writing prenasalised consonants with the nasal, even when not clearly pronounced. However, these practices may vary and have not yet been standardised fully on Wiktionary.
+Verbs should be given entries at the stem (e.g. -koma). They must be referred to and linked to with a hyphen preceding it, but the actual page it is located at should not have a hyphen in the title, but instead be (for example) koma#Lingala. Inflected forms should employ the relevant form of {{inflection of}}.
+Hyphens in entry titles should only be used when the entry is an affix that has no meaning unless attached to an inflected form, or a clitic that cannot be an independent word.
+Templates[edit]
+There are headword-line templates {{ln-noun}} and {{ln-verb}} to be used for those parts of speech. The infinitives of verbs should use as their headword-line template {{ln-inf}}. For all Lingala templates, see Category:Lingala templates.
+Attestation[edit]
+Only one use or mention is necessary to attest a word in Lingala, provided the source is primarily in Lingala or concerned with the language specifically. Any spelling can be used to attest a word in the standardised orthography used here as described above, but for the purpose of attesting any spellings that deviate from this standard, only that exact spelling counts.
+Tasks[edit]
+Import the reference template R:Kawata-ln as {{R:ln:Kawata}} from the French edition of Wiktionary.
+Retrieved from "https://en.wiktionary.org/w/index.php?title=Wiktionary:About_Lingala&oldid=73388057"
+Categories: Wiktionary think tank policiesLingala languageWiktionary language considerationsHidden category: Wiktionary pages with shortcuts
+Navigation menu
+Personal tools
+Not logged inTalkContributionsCreate accountLog in
+Namespaces
+Project pageDiscussion
+English
+Views
+ReadEditHistory
+More
+Search
+Navigation
+Main PageCommunity portalPreferencesRequested entriesRecent changesRandom entryHelpGlossaryDonationsContact us
+Tools
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+Wikimedia CommonsWikipedia
+In other languages
+DeutschEsperanto
+Edit links
+ This page was last edited on 9 June 2023, at 01:52.
+Definitions and other text are available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wiktionary
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

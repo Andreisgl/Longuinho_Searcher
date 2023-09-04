@@ -1,0 +1,115 @@
+HP Press Release: HP Contributes Source Code to Open Source Community to Advance Adoption of Linux
+summary of site-wide JavaScript functionality
+summary of site-wide JavaScript functionality
+United States-English
+» Contact HP
+Search:
+ 
+HP NewsroomAll of HP U.S.
+HP Newsroom  >  News releases
+News release
+» 
+
+                    Company information
+»
+Newsroom home
+ 
+News
+»
+News releases
+ 
+»
+Online press kits
+ 
+»
+Media relations contacts
+ 
+»
+Executive leadership
+ 
+»
+Newsroom archive
+ 
+Multimedia
+ 
+»
+Videos
+ 
+»
+B-roll
+ 
+»
+Blogs
+ 
+»
+RSS feeds
+ 
+Company info
+ 
+»
+Fast facts
+ 
+»
+Financial information
+ 
+»
+Global citizenship
+ 
+»
+HP Labs
+ 
+»
+Company history
+ 
+More info
+ 
+»
+In the news
+ 
+»
+Awards
+ 
+»
+Student inquiries
+ 
+»
+Recalls and replacement programs
+ 
+»
+Trademarks
+ 
+HP Contributes Source Code to Open Source Community to Advance Adoption of Linux
+
+
+PALO ALTO, Calif., June 23, 2008
+
+      
+Related Links
+»
+Linux
+»
+Open source
+Continuing its efforts to advance customer adoption of Linux, HP today announced the contribution of its Tru64 UNIX Advanced File System (AdvFS) source code to the open source community.
+The AdvFS source code includes capabilities that increase uptime, enhance security and help ensure maximum performance of Linux file systems. HP will contribute the code as a reference implementation of an enterprise Linux file system under the terms of General Public License Version 2 for compatibility with the Linux kernel, as well as provide design documentation, test suites and engineering resources.
+Linux is one of the most prominent examples of free software and open source development, and source code continues to draw interest from developers, the user community and customers. HP, which ships a Linux server at the rate of one per minute, has long provided open source alternatives to customers and contributed to the open source community to speed market development.
+The source code serves as a rich technology base to advance ongoing development of Linux by providing a comprehensive foundation for Linux kernel developers to leverage and improve Linux file system functionality. 
+Developed by HP, AdvFS has been deployed for more than 16 years by enterprises throughout the world. It simplifies file and storage management, enables online system backups and increases data availability. The integration of key AdvFS file system features also accelerates the roadmap of future solutions designed to strengthen Linux for enterprise customers.
+To ensure the highest levels of data security and availability, Linux customers need full and immediate access to established technology, said Martin Fink, senior vice president and general manager, Business Critical Systems, HP. We continue to invest our engineering resources in the development of that technology, while working with the open source community to ensure accessibility and seamless integration. 
+Increasing Linux performance and advancing productivity
+Business demands for improved solutions are driving the Linux kernel development community to focus on the advancement of file system functionality. Currently, file systems are being developed through an open community process. HPs contribution fuels these efforts. 
+HPs contribution of the Advanced File System code, coupled with their overall resource commitment to Linux, will greatly accelerate the development and commercial availability of improved system functionality for Linux, said Jim Zemlin, executive director, Linux Foundation. The technology and engineering resources being made available for next-generation file system projects are proof that HP is a true open source community leader.
+Linux market leader
+HP extended its worldwide lead in the Linux market with 38.6 percent of revenue market share for the first quarter of 2008, according to IDC. HP also holds the No. 1 Linux server market position in unit shipments, with 36.4 percent of market share worldwide.(1) 
+HPs contribution accelerates the development of future Linux file systems, ensuring enhanced system performance to meet our increasingly demanding needs, said Professor Giovanni Aloisio, chief executive officer of the Italian Southern Partnership for Advance Computational Infrastructures (SPACI) in southern Italy. Linux is playing a significant role in our building of a supercomputing grid environment running HP Integrity servers. We have used many technologies over the years, including Tru64 UNIX with the Advanced File System, and this announcement assures SPACI of continued Linux growth to conduct significant new research. 
+The Tru64 UNIX Advanced File System source code, design documentation and test suites are available by visiting http://advfs.sourceforge.net. More information on open source and Linux at HP is available at www.hp.com/go/linux. 
+About HP
+HP focuses on simplifying technology experiences for all of its customers  from individual consumers to the largest businesses. With a portfolio that spans printing, personal computing, software, services and IT infrastructure, HP is among the worlds largest IT companies, with revenue totaling $110.4 billion for the four fiscal quarters ended April 30, 2008. More information about HP (NYSE: HPQ) is available at http://www.hp.com.
+(1) IDC Worldwide Quarterly Server Tracker, May 2008.
+This news release contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to statements of the plans, strategies and objectives of management for future operations; any statements concerning expected development, performance or market share relating to products and services; anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the execution and performance of contracts by HP and its customers, suppliers and partners; the achievement of expected results; and other risks that are described in HPs Quarterly Report on Form 10-Q for the fiscal quarter ended April 30, 2008 and HPs other filings with the Securities and Exchange Commission, including but not limited to HPs Annual Report on Form 10-K for the fiscal year ended October 31, 2007. HP assumes no obligation and does not intend to update these forward-looking statements.
+© 2008 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.
+Printable version
+Privacy statement
+Using this site means you accept its terms
+Feedback to 
+                    webmaster
+© 2012 Hewlett-Packard Development Company, L.P.

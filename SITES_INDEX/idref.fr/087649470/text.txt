@@ -1,0 +1,82 @@
+ 
+
+Lamberti, Antonio (1757-1832)
+paprika.idref.fr
+data.idref.fr
+Documentation
+
+Bonjour ,
+Bienvenue sur IdRef, Identifiants et référentiels pour l'Enseignement supérieur et la Recherche.
+Lamberti, Antonio (1757-1832)
+Contrôle Paprika
+data.idref
+Export biblio
+Export XML
+Export RDF
+Améliorer la notice
+Signaler une erreur
+                  Identifiant pérenne de la notice : 087649470
+                     URI de l'entité :
+                     http://www.idref.fr/087649470/id
+Notice de type
+                  Personne
+                  
+Point d'accès autorisé
+Lamberti, Antonio (1757-1832)
+Variante de point d'accès
+Lamberti, Anton Maria[Nom de personne]
+Information
+ (par souci de protection des données à caractère personnel, le jour et le mois de naissance peuvent ne pas être affichés)
+Langue d'expression : italien
+Pays : Italie
+Date de naissance :   
+                                             1757
+Date de mort :   
+                                             1832
+Genre : Masculin
+Notes
+Note publique d'information : Poète vénitien, auteur notamment de "La biondina in gondoleta" et de textes sur Venise
+Source
+Ceti e classi nel '700 a Venezia / Antonio Lamberti ; inedito a cura di Manlio Dazzi,
+                     1959
+Internet, authorities.loc.gov/,LC,08-06-2005Information trouvée : [1757-1832]
+Memorie degli ultimi cinquant'anni della Repubblica di Venezia / Anton Maria Lamberti
+                     ; a cura di Manlio Pastore Stocchi e Marino Zorzi ; trascrizione di Laura Muraro,
+                     2019Information trouvée : Variante de prénom : Anton Maria
+Identifiants externes
+ Identifiant VIAF : http://viaf.org/viaf/51578618
+ Identifiant ARK BNF : http://catalogue.bnf.fr/ark:/12148/cb104412234
+ Identifiant ISNI : 0000000061374840
+Utilisation dans Rameau
+Le point d'accès peut être employé dans un point d'accès sujet
+Le point d'accès ne peut s'employer qu'en élément initial
+Informations sur la notice
+Identifiant de la notice : 087649470
+RCR créateur de la notice : 543952103
+Date de création : 08-06-2005
+RCR dernier modificateur de la notice : 991272301
+Date de dernière modification : 30-08-2021 à 20 h 45
+... Références liées : ...
+IdRef - Identifiants et Référentiels pour l'ESR
+L'interface publique IdRef permet la consultation des notices d'autorités produites par les établissements membres des réseaux documentaires de l'ESR (Sudoc, Calames, Star). 
+
+IdRef est à la disposition des usagers professionnels habilités à créer/corriger/enrichir les notices d'autorité (authentification requise). 
+A partir d'IdRef, une gamme de services (triple store data.idref.fr, entrepôt OAI-PMH, APIs) est disponible en accès libre pour faciliter la réutilisation des données.
+Pour les développeurs
+Documentation IdRef
+APIs et web services
+data.idref.fr
+OAI-PMH IdRef
+GitHub Abes
+Utilisation des données
+Libre et gratuite sous licence Etalab
+
+GitHub Etalab
+Assistance
+Guichet AbesSTP
+A propos |
+Partenaires |
+Données Personnelles |
+CGU |
+Mentions Légales |
+Accessibilité numérique

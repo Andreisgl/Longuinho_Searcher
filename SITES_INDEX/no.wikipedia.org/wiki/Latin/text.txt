@@ -1,0 +1,426 @@
+Latin – Wikipedia
+Latin
+Fra Wikipedia, den frie encyklopedi
+Hopp til navigering
+Hopp til søk
+Latinlingua latina 
+Brukt iVatikanstaten Antall brukereIngen med morsmål; rundt 5 000 som snakker det flytende, rundt 300 000 som kan lese detLingvistiskklassifikasjonIndoeuropeiskItaliskLatino-faliskiskLatinSkriftsystemDet latinske alfabetetOffisiell statusOffisielt i VatikanstatenNormert avOpus Fundatum LatinitasSpråkkoderISO 639-1laISO 639-2latISO 639-3latGlottologlati1261  Wikipedia på latin Latin på Wiktionary
+Latin er et indoeuropeisk språk i den italiske gruppen. Latin var opprinnelig dialekten i det antikke Latium (Roma med omegn), og ble senere dominerende i den vestlige del av Romerriket. Det latinske alfabetet, som ble utviklet fra det greske, har blitt verdens mest utbredte alfabet.
+Selv om latin nå er et utdødd språk, har det hatt stor påvirkning på mange levende språk, og brukes fortsatt i akademiske miljøer. Alle romanske språk nedstammer fra det folkelige språket eller dagligtalen som omtales som vulgærlatin (vulgær=folk(elig)), og en rekke latinske ord inngår i alle vestlige språk, herunder i norsk språk. I mer enn tusen år var latin et lingua franca i den vestlige verden, før det ble erstattet av fransk på 1700-tallet og engelsk på slutten av 1800-tallet. Kirkelatin er fremdeles det formelle språket i den katolske kirken, og dermed det offisielle språket i Vatikanet. Denne kirken brukte latin som sitt fremste liturgiske språk inntil Andre Vatikankonsil i 1960-årene. Latin brukes også til å danne nye vitenskapelige ord og navn, spesielt ved klassifisering av dyr og planter.
+Innhold
+1 Historie
+2 Lydsystem og uttale
+2.1 Uttalen i dag
+2.1.1 Vokaler i dagligdags uttale
+2.1.2 Diftonger i dagligdags uttale
+2.1.3 Konsonanter i dagligdags uttale
+2.1.4 Aksent i dagligdags uttale
+2.1.5 International Phonetic Alphabet Konosonanter
+2.2 Gammel/ Klassisk uttale
+2.3 Vokaler
+2.4 Diftonger
+2.5 Konsonanter
+2.6 Aksent
+3 Morfologi
+3.1 Nominalsystem
+3.1.1 Første deklinasjon (vanligvis hunkjønn)
+3.1.2 Andre deklinasjon (han-/intetkjønn)
+3.1.2.1 Tredje deklinasjon
+3.2 Verbalsystem
+4 Syntaks
+4.1 Kongruens (samsvarsbøyning)
+4.2 Kasuslære
+4.2.1 Nominativ
+4.2.2 Vokativ
+4.2.3 Akkusativ
+4.2.4 Genitiv
+4.2.5 Dativ
+4.2.6 Ablativ
+5 Eksempeltekst
+6 Se også
+7 Referanser
+8 Litteratur
+9 Eksterne lenker
+9.1 Generelle
+9.2 Uttale, mening og staving
+9.3 Kurs
+9.4 Ordbøker
+Historie[rediger | rediger kilde]
+Latin er et medlem av den italiske språkgruppen, og skrives i det latinske alfabetet, som er basert på det gammelitaliske alfabetet. Dette stammer igjen fra det greske alfabetet. Latin ble først bragt til den italienske halvøy ved innvandrere fra nord, som slo seg ned i Latium (nå kalt Lazio), spesielt rundt elven Tiber, hvor den romerske sivilisasjonen utviklet seg. Latin ble påvirket av keltiske dialekter og det ikke-indoeuropeiske språket etruskisk i Nord-Italia, og av gresk i Sør-Italia.
+Selv om det meste av den overlevende latinske litteraturen er skrevet på klassisk latin, et litterært språk fra 100-tallet f.Kr., var det egentlige talespråket i Romerriket vulgærlatin, som var forskjellig fra klassisk latin i grammatikk, ordforråd og etter hvert også i uttale. Vulgærlatin ser vi spor etter i for eksempel komediene og Petronius' Satyricon. Cicero gjaldt som språklig ideal, og hans samtidige, forfatteren Marcus Terentius Varro, fremholdt i sitt verk De lingua latina at å snakke latin godt, var å snakke «romersk». Man kjente igjen romeren på at han uttalte innledende h og de avsluttende s-ene. Catullus gjør i et dikt narr av en uskolert mann, Arrius, som prøver å virke dannet ved å uttale h der den ikke skal være, som hvis vi uttalte «oppe» som «hoppe». En gravstele fra Tarragona bærer innskriften Have Volusia (= Adjø, Volusia), der det skulle stått Ave Volusia. Ut fra alle språkfeilene han hørte hos sine samtidige, bekymret Varro seg for fremtiden til det latinske språket.[1]
+Latin ble utbredt i den vestlige delen av Romerriket, og gjennom tiden utviklet vulgærlatin seg og ble til dialekter i de forskjellige områdene. Det kompliserte kasussystemet brøt gradvis sammen i folkemålet, og ordstillingen istedenfor bøyningen kom til å avgjøre ordenes funksjon i setningen. (Lingvister kaller dette en overgang fra syntetisk språk til analytisk språk.) Da Romerriket brøt sammen, og de enkelte provinsene falt i hendene på ulike germanske konger, begynte det latinske språket å splittes opp i en rekke vulgærlatinske dialekter, som til slutt var så ulike at der var snakk om ulike språk, de romanske språkene, der man hadde sluttet å uttale innledende h. Latin habére (= å ha) ble etterhvert til italiensk avére og fransk avoir. Fra omkring 300 e.Kr. ble latin vestkirkens språk, en stilling det beholdt gjennom hele middelalderen. Latin ble dermed det internasjonale språket som Vestens lærde kommuniserte på. Latin opphørte å være morsmål ca. år 600.[2]
+Fresken i San Clemente-kirken i Roma med eldste bevarte replikk på vulgærlatin - fra 400-tallet.
+Vi har imidlertid svært få skriftlige kilder til vulgærlatins utvikling. Eldste skriftlige kilde til vulgærlatin er skrevet på en freske i kirken San Clemente i Roma, i 400-tallskirken to etasjer under gatenivå. Her ses replikken Fili de le pute, traite! (= Trekk hardere, dere horesønner!) skrevet på fresken som viser mirakelet da Sisinnius og hans tjenere Albertel og Carvoncelle lures til å surre tauet sitt rundt en søyle, i stedet for rundt helgenen Sankt Klemens som kirken er oppkalt etter, og som de prøver å redde. Sankt Klemens betrakter deres anstrengelser og kommenterer på høylatin: Duritiam cordis vestri saxa trahere meruisti (= Ut fra eders forherdete hjerter er dere fordømt til å bære en slik bør.)[3]
+Traktaten i Verdun fra 842, hvor Frankerriket ble delt, er den første kilde hvor en kan få innblikk i at vulgærlatin hadde utviklet seg til et nytt romansk språk (gammelfransk). I Italia ble det skapt et syntetisk språk basert på latinskættede dialekter først med Dante på 1200-tallet. Fra omkring 800-tallet ble dialektene etter hvert distinkte romanske språk. I flere århundrer var disse bare talespråk, siden latin ble brukt som skriftspråk. For eksempel var latin det offisielle språket i Portugal inntil 1296, da det ble erstattet med portugisisk. Latin har også blitt benyttet som offisielt språk når det nasjonale språket har vært forbudt. I Polen var latin offisielt språk frem til 1795, for å unngå at russisk eller tysk i stedet ble påtvunget befolkningen. I Ungarn var latin administrativt språk frem til 1844. Ungarsk var forbudt av myndighetene, og for å slippe å måtte bruke erobrernes språk, tysk, benyttet ungarerne seg heller av latin.[4]
+I Norge var latin-artium en forutsetning for nærmest enhver embetskarriere fra tidlig 1700-tall og til real-artium ble godtatt som alternativ grunnopplæring på 1880-tallet. Latin var også diplomatiets språk inntil fransk overtok denne posisjonen på midten av 1600-tallet. Inntil midten av 1700-tallet var latin også språket forskningsresultater og vitenskap ble publisert på.
+Kirkeordinansen fra 1537 la stor vekt på trening i den nye latinen. Det var stor prestisje knyttet til å kunne uttrykke seg elegant i klassiske vers, der kristne emner ble beskrevet i hedenske termer - Vårherre het Jupiter eller ble omtalt som tonans (= tordneren), supremus (= den høyeste) eller Deus optimus maximus (= Gud, den aller største - ofte forkortet DOM). Betegnelsen superi (= de høye) ble også brukt, som om kristendommen var blitt polyteistisk. Det ble populært å latinisere navnet sitt - «Berg» med Montanus, «Broby» ble Pontoppidan, «Smed» ble til Faber eller Fabricius.[5] «Biskop» ble kalt præsul (fordanseren blant de romerske prestene for Mars[6]), bispegården curia, og kirken ble kalt templum.[7]
+Fra omkring år 300 var latin den vestlige kirkes språk. Men det ble ikke kirkens offisielle språk før på 1900-tallet, da latin ble et internasjonalt språk som lærde og vitenskapsmenn i Europa utvekslet tanker og oppdagelser med. Først på midten av 1800-tallet begynte latin å miste fotfeste i skolene. Frem til Andre Vatikankonsil ble alle katolske messer feiret på latin. Messen feires nå i de fleste deler av verden på det lokale språket.
+I EU er alle medlemslandenes offisielle språk gjort til offisielle EU-språk. Dette medfører at minst 40 % av de administrative kostnadene i EU går til oversettelse og tolketjeneste. Den italienske representanten Mario Capanna har holdt en tale på latin i Europaparlamentet. Han ble oppfordret til å bruke et mer tidsmessig språk, men Capanna påpekte at ingen forskrifter forbød ham å bruke latin, og fikk støtte fra den tyske representanten Otto von Habsburg – på latin. Også den svenske latin-professoren Birger Bergh støtter tanken om latin som nytt fellesspråk i Europa, siden latin fungerte slik over lenger tid enn engelsk og fransk til sammen har gjort.
+Den danske vitenskapsmannen Ole Borch uttalte i 1680 at på samme måten som egyptiske mumier ødelegges hvis man rører ved dem, ødelegges latin av endringer. Etterligning, først og fremst av Cicero, var etter Borchs mening idealet. Men hvis man ikke kan skrive noe på latin som Cicero ikke kunne ha skrevet, er latin til liten nytte. Erasmus av Rotterdam protesterte mot sin tids ciceronianere ved å skrive om aktuelle temaer på latin. Den finske professoren Tuomo Pekkanen fra universitetet i Jyväskylä har oversatt de ca. 22.000 versene i Kalevala til latin, utarbeider sammen med en kollega nyheter på latin for finsk radio, og har tilrettelagt dikt av Horats til jazz-sanger. Likeså utkom en samling Catullus-dikt med tittelen Variationes Catullianae jazzicae.[8] Elvis Presleys sanger er også fremført på latin.[9]
+Lydsystem og uttale[rediger | rediger kilde]
+Selv om latin ikke lengre har morsmålsstatus noe sted i verden, betyr ikke det at det ikke fortsatt kan tales. Det finnes mange type uttaler, to av dem anses som offisielle: kirkelatin, og klassisk latin. Uttalen varierer fra land til land. Kirken har sin egen rettesnor, nemlig kirkelatin. Ingen vet hvordan romerne faktisk snakket latin til daglig, men man kjenner imidlertid den klassiske uttalen av latin temmelig nøyaktig, takket være de tallrike vitnesbyrdene de latinske forfatterne har etterlatt seg, og man kan rekonstruere den ved hjelp av sammenligningsmetoden.
+Nedenfor indikerer en linje over vokalen (en makron) at vokalen skal være lang. Symbolene i hakeparenteser og skråstreker følger IPA-standarden.
+Uttalen i dag[rediger | rediger kilde]
+Også kjent som Italiensk latin eller kirkelatin.
+Vokaler i dagligdags uttale[rediger | rediger kilde]
+Latin har korte og lange vokaler.
+Lange vokaler er: ā, ē, ī, ō, og ū.
+ā  /a:/
+ē  /e:/
+ī  /i:/
+ō  /o:/
+ū  /u:/
+Korte vokaler er: a, e, i, o, u, og y.
+a (ǎ)  /a/
+e (ě)  /e/ eller /ɛ/.
+i (ǐ)  /i/.
+o (ǒ)  /ɔ/.
+u (ǔ)  /u/.
+y  /i/.
+Diftonger i dagligdags uttale[rediger | rediger kilde]
+Latin har tre diftonger:
+au: aurum  /'aurum/.
+eu: Eurōpa  /eu'rɔːpa/.
+ui: huic  /'uik/ eller  /'wik/.
+Vokal gruppene ae og oe er ikke diftonger som i motsetning til den klassiske uttalen, men de leses alltid /e/.
+ae: maestus  /'mestus/.
+oe: poena  /'pe:na/.
+Finner mann to prikker over en o, som dette → ö i oe diftongen skal man uttale hver vokal.
+Pöeta  /po'eta/, ikke /'peta/.
+Konsonanter i dagligdags uttale[rediger | rediger kilde]
+Dobbeltkonsonanter skal uttales lange: mittere ['mit'tɛre], crassus ['kras'sus], reppěri ['repːpɛri].
+c:
+Foran de mørke vokalene a, o, u og foran konsonanter uttales  /k/: canis  /'kanis/, crassus  /'krasːsus.
+Den blir til /tʃ/ (som engelsk: chair) foran de lyse vokalene e, i og y: cinis  /'tʃinis/, cēdit  /'tʃeːdit/.
+f: Den er uttalet som labiodental  /f/.
+g:
+* Foran de mørke vokalene a, o, u og foran konsonanter (unntatt n) uttales  /g/ (som engelsk gasp): glǒbus  /'glɔ:bus/, gauděo  /'gau'deo/.
+Den blir /dʒ/ (som engelsk: gym) foran de lyse vokalene e, i og y:  /dʒ/.
+foran n uttales g som en velar (spansk: español eller italiensk spagnolo): ignis  /'iŋŋiss/.
+h blir aldri uttalt.
+i blir uttalt som  /j/: iūstus  /'jus'stus/, eius  /'e:jus, fīlius  /'fiːljus/, ēicere  /e:itʃɛre/.
+l representerer kun en lyd:  /l/.
+Deretter blir alle disse ordene uttalet på samme mote. Legere  /'le:dʒere/, lacus  /'lakus/, bellus  /'bɛl'lus/, sōl  /'sɔːl/, silva  /'sil'va/, alter  /'al'ter/, flāvus  /'fla:vus/, plēnus  /'pleːnus/.
+m uttales alltid som /m/: māter  /'maːter/, coma  /'kɔma/, summa  /'sum'ma/.multum ille  /'multum.'il'le:/, quantum erat  /'kwantum.ɛ:rat/, tum dīxit  /tum.dik'ksit/, numquam / nunquam  /'num'kwam/; sammenlign eandem fra eam + -dem.
+Ingen nasalisering: Rōmam  /'rɔːmam/.
+n er alltid  /n/: nāsus  /'naːsus/, annus  /'an'nus/, Pān  /'paːn/, ānser  /'an,ser/, īnsula  /'in,sula/, cōnfer  /'kon'fer/.
+qu (su): [k] og [w], og i noen ord [s] og [w]: quis  /'kwis/; suadēre  /swa:dere].
+r ble uttalt med tungespissen: Rōma ['rɔːma]; prae [pre].
+s er nesten alltid ustemt, den er stemt hvis den ligger imellom to vokaler: sōl  /'sɔːl/, īnsula  /'inːsula/, men rosa  /'roza/ og nīsus  /'ni:zus/.
+ss er alltid  /'s's/
+v er uttalt  /v/ hvis den er ikke etter q og s, ellers blir den uttalt  /w/: uespa (vespa) ['vɛspa], uīnum (vīnum) ['viːnum], quantum  /'kwantum/.
+z finnes bare i fremmede ord, og ble uttalt som [dz]: Zephyrus ['dze'firus].
+Aksent i dagligdags uttale[rediger | rediger kilde]
+Den Latinske aksent består av tre viktige regler:
+Trysillabism: aksenten kan ikke være lenger bak enn den antepenulten stavelsen (III siste) (stavelsen før den nest siste, nummer tre hvis man teller stavelsene baklengs).
+Penultreglen: er ordet med mer enn tre stavelser, blir aksenten på den III siste stavelsen hvis vokalen tilhørende den II nest siste stavelsen er kort, på den II nest siste stavelsen hvis vokalen er lang.
+Baritonesys: Aksenten kan ikke være på den siste stavelsen, dermed har ordene med to stavelser aksenten på den II nest siste stavelsen.
+Eksempler:
+Rōma  /'rɔːma/)
+Candēla  /kan'de:la/
+Incautus  /iŋ'kau:tus/
+Abesse  /a'bɛs'se/
+Exercitus  /egs'ɛrtʃitus/
+Integrī  /'in'tegriː/
+Latin har tonelagsaksent.
+International Phonetic Alphabet Konosonanter[rediger | rediger kilde]
+Artikulasjonssted
+Bilabial
+Labiodental
+Alveolar
+Postalveolar
+Palatal
+Velar
+Uvular
+Nasal
+m
+ɱ
+n
+ŋ
+Plosiv
+p b
+t d
+k g
+Frikativ
+f
+s z
+Vibrant
+r
+Lateral
+l
+Approksimant
+j
+w
+Gammel/ Klassisk uttale[rediger | rediger kilde]
+Den klassiske i bruk i Romerriket.
+Vokaler[rediger | rediger kilde]
+Latin har de korte vokalene a, e, i, o, u (og y), og de lange vokalene ā, ē, ī, ō, ū.
+ē (lang) er lukket: ēmī ['eːmiː].
+ī (lang) er også lukket: hīc ['hiːk].
+e (kort) er åpen: emere ['ɛmɛrɛ], men aldri som [ə].
+i (kort) er også åpen: it ['ɪt].
+Noen steder betegner i og u kanskje [ʏ]: māximus / māxumus ['maːksʏmʊs].
+ō (lang) og ū (lang) er lukkede: Rōma ['roːma] og fūr ['fuːr].
+o (kort) og u (kort) er åpne: bonus ['bɔnʊs] og humus ['hʊmʊs].
+y (kort) og y (lang) finnes bare i ord av gresk opprinnelse. I gresk var sannsynligvis kort y lukket og lang y åpen, men det er uvisst om romerne fulgte denne regelen.
+Diftonger[rediger | rediger kilde]
+Latin hadde fem diftonger:
+au: aurum ['aʊ̯rʊm].
+ae: maestus ['maɪ̯stʊs].
+eu: Eurōpa [ɛʊ̯'roːpa].
+oe: poena ['pɔɪ̯na].
+ui: huic ['hʊɪ̯k].
+Konsonanter[rediger | rediger kilde]
+Dobbeltkonsonanter skal uttales lange: mittere ['mɪtːɛrɛ], crassus ['krasːʊs], repperit ['rɛpːɛrɪt].
+c, p og t skal alltid uttales uten aspirasjon (slik det også er i moderne romanske språk).
+c:
+Uttales alltid som /k/: circum [ˈkir.kum], cīvitās ['kiːwi.taːs][10]. I Vulgærlatin og i senantikken ble c palatalisert foran lyse vokaler: cinis ['kʲɪnɪs], cēdit ['kʲeːdɪt].
+f:
+Det er usikkert om lyden ble uttalt som labiodental [f] eller bilabial [ɸ].
+g:
+Uttales alltid som /g/: gens [ɡens], pāgina ['paːgi.na]. I Vulgærlatin og i senantikken ble g palatalisert foran lyse vokaler generātim: ['gʲɛnɛraːtĩ(m)].
+foran n uttales g som en velar: ignis ['ɪŋnɪs][11].
+h ble uttalt som [h][12].
+i ble uttalt som [j] eller [jː] foran vokaler, men stavelsen ii skrives ikke: iūstus ['juːstʊs], eius ['ɛjːʊs], fīlius ['fiːljʊs], ēicere [e'jɪkɛrɛ].
+l representerer to eller tre lyder:
+Først i en stavelse [l] eller [lː] hvis den er dobbelt: legere ['lɛgɛrɛ], lacus ['lakʊs], bellus ['bɛlːʊs].
+Sist i en stavelse velarisert [ɫ]: sōl ['soːɫ], silva ['sɪɫʊa], alter ['aɫter].
+Etter en konsonant først i ordet kanskje en palatal: flāvus ['fʎaːwʊs], plēnus ['pʎeːnʊs].
+m:
+Hvis den ikke står sist i ordet, betegner den [m]: māter ['maːter], coma ['kɔma], summa ['sʊmːa].
+Når den står sist og følges av en vokal i det neste ordet, uttaltes verken m-en eller vokalen foran den, selv om den skrives: multum ille ['mʊl.t 'ɪlːɛ], quantum erat ['kwan.t 'ɛ.rat][13].
+Når den står sist og følges av en konsonant, ble den antagelig assimilert til konsonanten, selv om dette ikke synes i skrift: tum dīxit [tʊn'diːksɪt], numquam / nunquam ['nʊŋkwa(m)]; sammenlign eandem fra eam + -dem.
+Det er usikkert om en forutgående vokal skal nasaliseres: Rōmam ['roːmã(m)].
+n:
+I de fleste tilfeller betegner den [n]: nāsus ['naːsʊs], annus ['anːʊs], Pān ['paːn].
+Foran s og f uttales den ikke, men forutgående vokalen gjøres lengre og nasal: ānser ['ãːsɛr], īnsula [' ĩːsʊʟa], cōnfer ['kɔ̃ːfɛr].
+qu (su): [k] og [w], og i noen ord [s] og [w]: quis ['kwɪs]; suadēre [swa'deːrɛ].
+r ble uttalt med tungespissen (og en forutgående lukkelyden uttaltes kort): Rōma ['roːma]; prae [praɪ̯].
+s er alltid ustemt, og skal kanskje palataliseres: sōl ['soːɫ] eller ['ɕoːɫ], īnsula ['ĩːsʊɫa] eller ['ĩːɕʊɫa].
+u (v) betegner både en vokal og en konsonant. For vokalen, se over. u som konsonant skrives ofte v (men ikke etter q og s), og ble uttalt [w]: uespa (vespa) ['wɛspa] / ['wɛɕpa], uīnum (vīnum) ['wiːnʊ(m)].
+z finnes bare i fremmede ord, og ble uttalt som [z] eller [dz]: Zephyrus ['(d)zeɸyrʊs].
+Aksent[rediger | rediger kilde]
+Ord som består av flere stavelser, får aksent på penulten (den nest siste stavelsen) eller antepenulten (stavelsen før den nest siste). Aksenten skal stå på penulten hvis ordet bare har to stavelser (Rōma ['roːma]), eller hvis penulten er lang (av natur eller stilling: candēla [kan'deːla], incautus [ɪŋ'kaʊ.tʊs], abesse [a'bɛsːɛ]). For øvrig settes aksenten på antepenulten (en lukkelyd og en likvid regnes ikke som lange av stilling): exercitus [ɛk'sɛr.kɪ.tʊs], integrī ['ɪn.tɛ.griː].
+Det er usikkert om latin hadde trykkaksent eller tonelagsaksent.
+Morfologi[rediger | rediger kilde]
+Latin er et syntetisk bøyningsspråk. Affikser settes til stammer for å uttrykke kjønn, tall og kasus i adjektiver, substantiver og pronomen; dette kalles deklinasjon. I verb uttrykkes person, tall, tid, modus og aspekt; dette kalles konjugasjon.
+Nominalsystem[rediger | rediger kilde]
+Latin har:
+To tall: entall og flertall.
+Tre kjønn: maskulinum, femininum og nøytrum.
+Seks kasus: nominativ, vokativ, akkusativ, genitiv, dativ og ablativ. I tillegg har noen substantiver lokativ.
+Substantivene bøyes i fem forskjellige deklinasjoner. Adjektivene bøyes i to; den første tilsvarer substantivenes første og andre deklinasjon, den andre tilsvarer substantivenes tredje. Eksempel (puella, «pike»):
+Første deklinasjon (vanligvis hunkjønn)[rediger | rediger kilde]
+ 
+entall
+flertall
+Nominativ
+puella
+puellae
+Vokativ
+puella
+puellae
+Genitiv
+puellae
+puellārum
+Dativ
+puellae
+puellīs
+Akkusativ
+puellam
+puellās
+Ablativ
+puellā
+puellīs
+Andre deklinasjon (han-/intetkjønn)[rediger | rediger kilde]
+ 
+entall
+flertall
+Nominativ
+servus
+servī
+Vokativ
+serve
+servī
+Genitiv
+servī
+servōrum
+Dativ
+servō
+servīs
+Akkusativ
+servum
+servōs
+Ablativ
+servō
+servīs
+Tredje deklinasjon[rediger | rediger kilde]
+ 
+entall
+flertall
+Nominativ
+bellum
+bella
+Vokativ
+bellum
+bella
+Genitiv
+bellī
+bellōrum
+Dativ
+bellō
+bellīs
+Akkusativ
+bellum
+bella
+Ablativ
+bellō
+bellīs
+Verbalsystem[rediger | rediger kilde]
+Latin har et omfattende verbalsystem. Foruten obligatorisk kongruens i person og tall med setningens subjekt, karakteriseres det latinske finitte verbet av tre trekk: modus, tid og diatese. De tre modi er indikativ, konjunktiv og imperativ. Verbtidene deles som regel i et presenssystem og et perfektumsystem etter hvilken bøyningsstamme som brukes. Presenssystemet inneholder tidene presens, imperfektum og futurum, og perfektumsystemet perfektum, pluskvamperfektum og futurum exactum. Diatesene er aktiv og passiv, men passivformene i perfektumsystemet dannes perifrastisk. I tillegg mangler det latinske verbet formene futurum og futurum exactum i konjunktiv, og i imperativ bøyes verbet kun i presens og futurum.
+Av infinitte former har seks verbalsubstantiver og fire verbaladjektiver. Verbaladjektivene er de aktive presens og futurum partisipp, det passive perfektum partisipp, samt gerundiv som har et visst modalt innhold. Av verbalsubstantivene er tre infinitiver (presens aktiv og passiv, og perfektum aktiv). Disse suppleres av perifrastiske former for perfektum passiv og futurum aktiv og passiv, men siden den latinske infinitiven ikke kan bøyes i kasus brukes den såkalte gerundium som suppletiv i de tilfellene hvor man har bruk for infinitiver i en oblik kasus. Til slutt kommer 1. og 2. supinum (språkhistorisk henholdsvis akkusativ og ablativ av et bøyelig verbalsubstantiv etter fjerde deklinasjon).
+De latinske verbene deles som regel inn i fire grupper (konjugasjoner), avhengig av hvordan de bøyes i presenssystemet. Dessverre beskriver ikke denne inndelingen verbformene utenfor presenssystemet særlig godt, så det er tre former man trenger for å beskrive alle formene til et latinsk verb: presens indikativ aktiv, perfektum indikativ aktiv og 1. supinum eller perfektum partisipp nominativ entall hankjønn. Å bøye et verb i disse tre formene kalles gjerne å bøye verbet a verbo.
+Syntaks[rediger | rediger kilde]
+Det latinske språks komplekse fleksjonssystem har en sterk innvirkning på setningsoppbygningen.
+Kongruens (samsvarsbøyning)[rediger | rediger kilde]
+Et område av språket der bøyningsendelsene spiller en svært viktig rolle er i kongruens (samsvarsbøyning i kjønn, tall og eventuelt kasus). Kongruensen viser hvilke ord "som hører sammen" og er således viktig for å forstå en latinsk setning: Verbalet kongruerer med subjektet, subjektspredikativet kongruerer med subjektet, objektspredikativet med objektet, det påpekende, relative og spørrende pronemen kongruerer med predikativet i tillegg til adjektivets kongruens og apposisjon:
+Verbalets kongruens: "Brutus Caesarem interfecit" – Brutus drepte Cæsar. "Brutus" er subjektet i setningen og kongruerer med verbalet (3.PS sg.)
+Subjektspredikativ: "Brutus malus est" – Brutus er slem. "Malus" kongruerer med "Brutus" (Nom. m. sg.)
+Objektspredikativ: "Is me heredem fecit" – Han gjorde meg til arving. "Heredem" kongruerer med "me" (Akk. m. sg.)
+Påpekende og relativt pronomen: "Hic est Brutus, qui Caesarem interfecit" – Dette er Brutus, han som drepte Cæsar. "Hic" (påpekende pronomen) kongruerer med "Brutus". "qui" (relativt pronomen) kongruerer med "Brutus" (i kjønn og tall – ikke i kasus).
+Adjektiv: "Brutus Caesarem calvum interfecit" – Brutus drepte den skallede Cæsar. Adjektivet "calvum" kongruerer med "Caesarem". Legg merke til at adjektivet står i 2. dekl., selv om "Caesar, -aris" er et substantiv i 3. dekl.
+Apposisjon: "Brutus, senator romanus, Caesarem interfecit" -Brutus, en romersk senator, drepte Cæsar. "senator romanus" er apposisjon til "Brutus" og står i samme kjønn, tall og kasus (Nom., m., sg.).
+Kasuslære[rediger | rediger kilde]
+(Eitrem, S. Latinsk grammatikk, 3. utgave ved Tosterud B. og Kraggerud E., Aschehoug 2006)
+Latin har som nevnt seks kasus: Nominativ (og vokativ) kalles ofte "casus rectus" (den rette kasus), de andre "casus obliqui" (de skjeve kasus): Akkusativ, genitiv, dativ og ablativ.
+Nominativ[rediger | rediger kilde]
+Subjektet i setningen står i denne kasusen. Predikativer for blant andre disse verbene står også i nominativ: esse (være), fieri (bli, gjøres til), videri (synes å være), haberi (regnes som) creari (velges til):
+"Gaius senator est" – Gaius er senator. Subjektet "Gaius" står i nominativ.
+"Numa rex creatus est" – Numa ble valgt til konge. "rex" står i nominativ fordi det er predikativ til "Numa" (S. i Nom.).
+Vokativ[rediger | rediger kilde]
+Denne kasusen brukes bare i tiltale og utrop, og omfatter stort sett hankjønnsord i 2. dekl og noen pronomen og adjektiver.
+"Et tu, mi fili Brute" – Også du, min sønn Brutus. Her står de tre ordene etter komma alle i vokativ, fordi Brutus blir tiltalt.
+Akkusativ[rediger | rediger kilde]
+Denne kasusen brukes i langt flere sammenhenger enn nominativ og vokativ, og er én av de oblike kasusene. Foruten at akkusativ står sammen med en rekke preposisjoner, brukes den for å markere det direkte objekt, indre objekt, objektspredikativ, mål og retning, den brukes i konstruksjoner med upersonlige verb og i enkelte adverbielle sammenhenger:
+Direkte objekt: "Librum lego" – Jeg leser en bok/boken. "Librum" står i akkusativ fordi det er direkte objekt for verbet legere.
+Indre objekt: "Vitam felicem vivere" – Å leve et lykkelig liv. Indre objekter brukes ved intransitive verb og substantivet har samme stamme (eller lignenede betydning) som verbet. Denne type konstruksjon brukes for øvrig til å avgrense eller bestemme verbet nærmere.
+Upersonlige verb: "Miseret me. Piget me" – Jeg ynkes over/synes synd på. Du ergrer meg. – "Me" (i akkusativ) brukes ved noen upersonlige verb som uttrykker følelse. Personobjektet blir da den som logisk sett "utfører handlingen".
+Objektspredikativ: "Me regem fecit" – Han gjorde meg til konge. – Både "me" og "regem" står i akkusativ. "regem" er objektspredikativ for "me", som er direkte objekt for verbet "fecit".
+Målets akkusativ: Her brukes akkusativ for å angi lengde, høyde, bredde, dybde og avstand. Den kan også brukes for å angi tidsvarighet og alder: "Hasta sex pedes longa" – "En lanse seks fot lang". "sex pedes" står i akkusativ og angir lengde. "Troia decem annos oppugnata est" – Troia ble beleiret i ti år. – "decem annos" står i akkusativ og angid tidsvarighet.
+Retningens akkusativ: Her brukes akkusativ i tilstedsbetydning ved beveglesesverb. Den brukes særlig ved navn på byer og mindre øyer: "Domum ire" – Gå hjem. "Domum" står i akkusativ og har tilstedsbetydning. "Romam et Delum proficisci" – Å dra til Roma og Delos. "Romam" og "Delum" står begge i akkusativ og betegner retning. "Romam" er by og "Delum" går under "mindre øy."
+Genitiv[rediger | rediger kilde]
+Genitiv brukes til å bestemme et substantiv nærmere og til å angi samhørighet mellom substantiver. Den latinske genitiven har langt flere bruksområder en norsk genitivs-s:
+ Eiendomsgenitiv: "Villa Ciceronis" – Ciceros gård. Genitiv viser her et tilhørighetsforhold i vid forstand, og angir den eller det som noe tilhører.
+Definerende genitiv: "Arbor fici" – Fikentre. "Poena mortis" – Dødsstraff. "Ars scribendi" – Kunsten å skrive. Denne genitiven brukes får å spesialisere mer generelle begreper: Tre – type "fiken", straff – type "død" osv.
+Objektsgenitiv: "Amor patriae" – Fedrelandskjærlighet (kjærlighet til fedrelandet). "Studium philosophiae" – Filosofistudiet (studiet av filosofi). Objektsgenitiv betegner objektet for handlingen som ligger i substantivet (jfr. vanlig setning, der genitiven ville ha vært direkte objekt: "patriam amo"). Objektsgenitiv brukes svært sjelden i norsk.
+Partitiv genitiv: "Pars militum" – En del av soldatene. "Quod novi" – Hva nytt? Partitiv genitiv angir det det er en viss mengde av.
+Beskrivende genitiv: "Femina magnae prudentiae" – En meget klok kvinne (en kvinne av stor klokskap). Beskrivende genitiv består alltid av et substantiv og et adjektiv i genitiv som føyes til hovedordet.
+Genitiv ved adjektiv: Genitiv brukes ved adjektiver som betegner begjær etter, interesse for, kunnskap om, erindring om, makt over og delaktighet i noe, i tillegg til det motsatte av alle disse: "Cupidus belli" – Stridslysten (begjær etter noe). "Memor benificii" – En som husker en velgjerning (erindring om noe). Genitiv brukes også etter adjektivene proprius (tilhørende, eiendommelig for), communis (felles for), sacer (viet til) m. fl.: "Templum sacrum Iunonis" – Et tempel viet Juno. "Virtus propria populi Romani" – En dyd som kjennetegner det romerske folk.
+Genitiv ved verb: Genitiv kan stå adnominalt, men og predikativt til verbene esse, fieri og facere: "Villa est Ciceronis" – Gården tilhører Cicero. "Villa facta est Ciceronis" – Gården ble Ciceros. "Militis est parere" – Det er en soldats plikt å adlyde. Genitiv brukes også ved interest og refert (det er i ens interesse, av betydning for en): "Romanorum interest" – Det er i romernes interesse.
+Prisens genitiv: Den ubestemte verdien settes i genitiv (bestemt pris i ablativ) ved disse verbene: aestimare, ducere, facere og habere: "Aestimare nihili" – Ikke regne for noe verd.
+Genitiv ved rettsverb: Genitiv brukes om det en er skyldig i, dømt for, siktet for osv (jfr. tysk). Genitiv brukes ved rettsverbene accusare (anklage for), arcessere (innstevne for), convincere (finne skyldig i), damnare/condemnare (dømme skyldig i), absolvere (frikjenne for). Personen settes i akkusativ og forbrytelsen, forseelsen etc. settes i genitiv: "Accusatus est proditionis" – Han ble anklaget for forræderi. "Absolata furti" – Hun ble frikjent for tyveri.
+Dativ[rediger | rediger kilde]
+Kasusen dativ har i vid forstand den hensikt å angi at noe er til interesse eller fordel for noen, eller motsatt – til skade eller ulempe for noen:
+Dativ om hensynsledd: "Non scholae, sed vitae discimus" – Vi lærer ikke for skolens skyld, men for livets. Her er scholae og vitae hensynsledd – det er disse handlingen skjer til fordel/ulempe for – og settes i dativ (1. dekl.).
+Eiendomsdativ: "Liber mihi est" – Jeg har en bok. I eiendomsdativ har hensynsleddet (mihi) gått over til et eiendomsforhold, og settes i dativ.
+Dativ ved transitive verb: "Mater librum filio dat" – Moren gir sønnen en bok. Dativ brukes for å markere det indirekte objekt i setninger med transitive verb (dat betyr "gir" og herfra er navnet "dativ" avledet). Også i passivie setninger settes det indirekte objektet i dativ: "Liber filio (a matre) datur" – Boken blir gitt til sønnen (av moren).
+Dativ ved intransitive verb: "Nocere hosti" – Skade fienden. "Nobis parcitur" – Vi skånes. Ved intransitive verb som betyr "gagne" eller "skade" settes hensynsleddet i dativ. Mange av disse verbene er transitive på norsk. Her er noen av dem: irasci – være sint på, parcere – skåne, cedere – vike for, confidere – stole på, credere – tro på, og de upersonlige verbene licet – det er tillatt, og accidit – det skjer. De aller fleste av disse verbene er transitive på norsk.
+Dativ ved adjektiv: "Res tibi facilis et nobis utilis" – En sak som er lett for deg og nyttig for oss. Dativ styres av en del adjektiver som betegner vennlig og uvennlig forhold, likhet og ulikhet, nytte og unytte, sliktskap, nærhet o.l.
+Dativ om handlende person i passiv (Dativ som agens): "Litterae tibi scribendae sunt" – Brevet bør skrives av deg. – Spesielt i gerundivkonstruskjoner brukes dativ for å uttrykke hvem den handlende i setningen er.
+Final dativ: "Caesar duas legiones suis auxilio misit" – Cæsar sendte sine menn to legioner som hjelp. "Esse auxilio alcui" – Vær til hjelp for noen. Final dativ betegner hensikt og resultat og brukes stort sett bare ved esse og verb som uttrykker en bevegelse.
+Ablativ[rediger | rediger kilde]
+ Denne seksjonen er en stubb. Du kan bidra med å utvide den.
+Eksempeltekst[rediger | rediger kilde]
+Fra Cæsars Commentarii de Bello Gallico:
+Gallia est omnis divisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, tertiam qui ipsorum lingua Celtae, nostra Galli appellantur. Hi omnes lingua, institutis, legibus inter se differunt. Gallos ab Aquitanis Garumna flumen, a Belgis Matrona et Sequana dividit. Horum omnium fortissimi sunt Belgae, propterea quod a cultu atque humanitate provinciae longissime absunt, minimeque ad eos mercatores saepe commeant atque ea quae ad effeminandos animos pertinent important, proximique sunt Germanis, qui trans Rhenum incolunt, quibuscum continenter bellum gerunt.
+Gallia er delt i tre deler. I den ene bor belgierne, i en annen aquitanerne, og i den tredje de som kalles keltere på sitt eget språk, gallerne på vårt eget. Disse skiller seg fra hverandre med hensyn til språk, skikker og lover. Elven Garonne skiller gallerne fra aquitanerne, Marne og Seine fra belgierne. Av disse er belgierne de sterkeste, på grunn av at de er lengst fra provinsens menneskelighet og stas, at handelsmenn sjelden kommer til dem og importerer det som fører til at ånden blir kvinneliggjort, og at de er nærmest germanerne, som bor på andre siden av Rhinen, og som de fører uavbrutt krig med.
+Se også[rediger | rediger kilde]
+Romerske kongedømme
+Romerske republikk
+Romerriket
+Det latinske alfabet
+Latinsk litteratur
+Liste over latinske uttrykk brukt i norsk
+Referanser[rediger | rediger kilde]
+^ Vibeke Roggen m.fl.: Antikkens kultur (s. 184-5), forlaget Aschehoug, Oslo 2010, ISBN 978-82-03-33743-7
+^ Vibeke Roggen m.fl.: Antikkens kultur (s. 185)
+^ Fresken i 400-tallskirken
+^ Vibeke Roggen: "Latin – fortsatt god latin?", Gobelin Europa (s. 74-5), forlaget Sypress, Oslo 1995, ISBN 82-91224-12-9
+^ Minna Skafte Jensen: «Jens Beldenak», Renæssancen i svøb (s. 151), Syddansk universitetsforlag, Odense 2008, ISBN 978-87-7674-360-4
+^ Betydningen av præsul
+^ Minna Skafte Jensen: «Jens Beldenak», Renæssancen i svøb (s. 162)
+^ Vibeke Roggen: "Latin – fortsatt god latin?", Gobelin Europa (s. 76-7)
+^ Elvis Presley på latin
+^ https://jlong1.sites.luc.edu/L101pron.htm
+^ https://core.ac.uk/download/pdf/45272121.pdf
+^ http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3DH
+^ Vox Latina
+Litteratur[rediger | rediger kilde]
+Vibeke Roggen m.fl. Omnibus innføringskurs i Latin for NRK og NKS, omfatter Tekstbok og arbeidsbok 1996 ISBN 9788203322013
+Samson Eitrem Latinsk grammatikk 1. utgave 1926, 3. utvidet utgave 1996 ISBN 82-03-32251-4
+Eksterne lenker[rediger | rediger kilde]
+Wikipedia på latin
+ Wikiquote: Latin – sitater
+Generelle[rediger | rediger kilde]
+Ephemeris Nuntii Latini universi.
+The Perseus Project har mange nyttige sider for studie av klassisk språk og litteratur, blant annet:
+En interaktiv latinsk ordbok
+Denne siden kan analysere latinske ord for kjønn og kasus
+Ethnologue report for Latin
+Other Latin Resources on the Web
+Uttale, mening og staving[rediger | rediger kilde]
+Botanical Pronunciations and References Arkivert 24. februar 2004 hos Wayback Machine. Sitat: «... The following sites provide audio files (sound files) you can click on to hear the pronounciation of the botanical/Latin name of a plant or terminology. Feel free to link to this page for future reference …»
+American Guild of Organists, Pronunciation of Church Latin
+Latin pronunciation, by Gn. Dionysius Scorpio Invictus
+Latin Writing and Pronunciation
+Scientific Names: How do they work? by Francesco Zezza
+Spelling, Pronunciation, and Meaning of Scientific Names
+Pronunciation and spelling of scientific names, An article by Kalliope K. Bechraki and Andreas I. Iliopoulos Arkivert 15. april 2003 hos Wayback Machine.
+Kurs[rediger | rediger kilde]
+Free online course in Latin
+David Cramer: Latin 506 Correspondence
+* The Pronunciation of Latin
+Ordbøker[rediger | rediger kilde]
+Latinsk–engelsk ordbok
+vdrLatinsk språkhistorie—75 f. Kr.   75 f. Kr. – 1. årh.   2. årh. – 8. årh.   9. årh. – 15. årh.   15. årh. – 17. årh.   17. årh. – nåtiden
+Gammellatin   Klassisk latin   Senlatin   Middelalderlatin   Renessanselatin   Nylatin
+Oppslagsverk/autoritetsdataStore norske leksikon · Store norske leksikon · Store Danske Encyklopædi · Encyclopædia Britannica · Brockhaus Enzyklopädie · Brockhaus Enzyklopädie · Encyclopædia Universalis · GND · LCCN · BNF · BNF (data) · HDS · NDL · NKC · BNE · BBC Things
+Hentet fra «https://no.wikipedia.org/w/index.php?title=Latin&oldid=23760416»
+Kategorier: LatinItaliske språkSpråk i VatikanstatenSkjulte kategorier: Sider som bruker magiske ISBN-lenkerArtikler med seksjoner som behøver utvidelseArtikler med autoritetsdatalenker fra Wikidata1000 artikler enhver Wikipedia bør ha
+Navigasjonsmeny
+Personlig
+Ikke logget innBrukerdiskusjonBidragOpprett kontoLogg inn
+Navnerom
+ArtikkelDiskusjon
+norsk bokmål
+Visninger
+LesRedigerRediger kildeVis historikk
+Mer
+Søk
+Navigasjon
+ForsideSvaksynteUtmerkede artiklerHjelpSiste endringer
+Prosjekt
+StilmanualProsjektportalTingetTorgetNybegynnerforumNotiserKonkurranserTilfeldig side
+Wikipedia
+Kontakt WikipediaDonerWikimedia Norge
+Eksterne søk
+Lager
+På andre prosjekter
+Wikimedia CommonsWikibøkerWikiquote
+Skriv ut/eksporter
+Last ned som PDFUtskriftsvennlig versjon
+Verktøy
+Lenker hitRelaterte endringerSpesialsiderPermanent lenkeSideinformasjonSiter denne sidenWikidata-element
+På andre språk
+Norsk nynorskDanskSvenskaFøroysktÍslenskaАдыгэбзэAfrikaansAlemannischአማርኛअंगिकाÆngliscАԥсшәаالعربيةAragonésܐܪܡܝܐArmãneashtiArpetanঅসমীয়াAsturianuAvañe'ẽАварAzərbaycancaتۆرکجهBasa BaliBamanankanবাংলাBân-lâm-gúБашҡортсаБеларускаяБеларуская (тарашкевіца)भोजपुरीBikol CentralБългарскиBoarischབོད་ཡིགBosanskiBrezhonegБуряадCatalàЧӑвашлаCebuanoČeštinaChavacano de ZamboangaChi-ChewaChiShonaCorsuCymraegالدارجةDavvisámegiellaDeutschDolnoserbskiEestiΕλληνικάEmiliàn e rumagnòlEnglishЭрзяньEspañolEsperantoEstremeñuEuskaraفارسیFiji HindiFrançaisFryskFurlanGaeilgeGaelgGagauzGàidhligGalegoГӀалгӀай贛語𐌲𐌿𐍄𐌹𐍃𐌺客家語/Hak-kâ-ngîХальмг한국어HausaՀայերենहिन्दीHornjoserbsceHrvatskiIdoIlokanoBahasa IndonesiaInterlinguaInterlingueИронIsiZuluItalianoעבריתJawaKabɩyɛKalaallisutಕನ್ನಡКъарачай-малкъарქართულიकॉशुर / کٲشُرKaszëbscziҚазақшаKernowekIkinyarwandaKiswahiliКомиKongoKreyòl ayisyenKriyòl gwiyannenKurdîКыргызчаКырык марыLadinLadinoЛаккуລາວLatinaLatviešuLëtzebuergeschЛезгиLietuviųLigureLimburgsLingálaLingua Franca NovaLivvinkarjalaLombardMagyarМакедонскиMalagasyമലയാളംMaltiMāoriमराठीმარგალურიمصرىمازِرونیBahasa Melayuꯃꯤꯇꯩ ꯂꯣꯟ閩東語 / Mìng-dĕ̤ng-ngṳ̄MirandésМокшеньМонголမြန်မာဘာသာNederlandsNedersaksiesनेपालीनेपाल भाषा日本語NapulitanoНохчийнNordfriiskNorfuk / PitkernNouormandNovialOccitanОлык марийଓଡ଼ିଆOʻzbekcha / ўзбекчаਪੰਜਾਬੀPälzischPangasinanپنجابیPapiamentuپښتوPatoisភាសាខ្មែរPicardPiemontèisTok PisinPlattdüütschPolskiPortuguêsQaraqalpaqshaQırımtatarcaRipoarischRomânăRumantschRuna SimiРусиньскыйРусскийСаха тылаसंस्कृतम्ᱥᱟᱱᱛᱟᱲᱤسرائیکیSarduScotsSeelterskShqipSicilianuසිංහලSimple EnglishسنڌيSlovenčinaSlovenščinaСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟŚlůnskiSoomaaligaکوردیСрпски / srpskiSrpskohrvatski / српскохрватскиSundaSuomiTagalogதமிழ்TaclḥitTaqbaylitТатарча / tatarçaతెలుగుไทยТоҷикӣᏣᎳᎩTürkçeTürkmençeTyapТыва дылУдмуртУкраїнськаاردوئۇيغۇرچە / UyghurcheVènetoVepsän kel’Tiếng ViệtVolapükVõroWalon文言West-VlamsWinaray吴语ייִדישYorùbá粵語ZazakiZeêuwsŽemaitėška中文Tolışi
+Rediger lenker
+ Denne siden ble sist redigert 14. aug. 2023 kl. 12:41.
+Innholdet er tilgjengelig under Creative Commons-lisensen Navngivelse-DelPåSammeVilkår, men ytterligere betingelser kan gjelde. Se bruksvilkårene for detaljer.
+Personvern
+Om Wikipedia
+Forbehold
+Atferdsnorm
+Mobilvisning
+Utviklere
+Statistikk
+Erklæring om informasjonskapsler

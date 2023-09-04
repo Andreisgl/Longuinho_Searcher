@@ -1,0 +1,564 @@
+Guarani - Wikidata
+Guarani
+(Q35876)
+From Wikidata
+Jump to navigation
+Jump to search
+Tupian language of Paraguay, Argentina, Brazil and BoliviaParaguayan GuaraníGuarani languagegnParaguayan Guarani
+Language
+Label
+Description
+Also known as
+English
+Guarani
+Tupian language of Paraguay, Argentina, Brazil and Bolivia
+Paraguayan GuaraníGuarani languagegnParaguayan Guarani
+Statements
+instance of
+language
+1 reference
+stated in
+Ethnologue
+ISO 639-3 macrolanguage
+0 references
+modern language
+1 reference
+reference URL
+https://iso639-3.sil.org/code/grn
+subclass of
+Tupi–Guarani
+0 references
+native label
+Avañe'ẽ (Guarani)
+0 references
+country
+Paraguay
+1 reference
+reference URL
+https://scriptsource.org/country/PY
+title
+ScriptSource - Paraguay (English)
+retrieved
+21 August 2023
+Bolivia
+1 reference
+reference URL
+https://scriptsource.org/country/BO
+title
+ScriptSource - Bolivia (English)
+retrieved
+21 August 2023
+Argentina
+1 reference
+reference URL
+https://scriptsource.org/country/AR
+title
+ScriptSource - Argentina (English)
+retrieved
+21 August 2023
+Peru
+0 references
+Brazil
+2 references
+reference URL
+http://www.funai.gov.br/index.php/ascom/1947-historia-e-cultura-guarani
+retrieved
+16 July 2021
+archive URL
+https://web.archive.org/web/20210506130942/http://www.funai.gov.br/index.php/ascom/1947-historia-e-cultura-guarani
+archive date
+6 May 2021
+reference URL
+https://scriptsource.org/country/BR
+title
+ScriptSource - Brazil (English)
+retrieved
+21 August 2023
+linguistic typology
+subject–verb–object
+0 references
+agglutinative language
+2 references
+imported from Wikimedia project
+French Wikipedia
+imported from Wikimedia project
+English Wikipedia
+active–stative language
+1 reference
+imported from Wikimedia project
+French Wikipedia
+polysynthetic language
+0 references
+writing system
+Latin script
+statement is subject of
+Guarani alphabet
+0 references
+language regulatory body
+Guarani Language Academy
+0 references
+number of speakers, writers, or signers
+4,850,000
+point in time
+1995
+intended subject of deprecated statement
+Paraguayan Guaraní
+1 reference
+stated in
+Ethnologue
+Ethnologue.com language code
+gug
+Ethnologue language status
+1 National
+intended subject of deprecated statement
+Paraguayan Guaraní
+1 reference
+stated in
+Ethnologue
+retrieved
+10 May 2019
+Ethnologue.com language code
+gug
+distribution map
+Idioma guaraní.png394 × 332; 5 KB
+1 reference
+imported from Wikimedia project
+Czech Wikipedia
+Map-Guaraniphone World.svg2,754 × 1,397; 652 KB
+0 references
+indigenous to
+Guaraní adrian
+0 references
+category for films in this language
+Category:Guaraní-language films
+0 references
+Wikimedia language code
+gn
+0 references
+exact match
+http://publications.europa.eu/resource/authority/language/GRN
+1 reference
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+has part(s)
+Paraguayan Guaraní
+0 references
+Western Bolivian Guaraní
+0 references
+Eastern Bolivian Guaraní
+0 references
+Mbyá Guaraní
+0 references
+Ava Guarani
+0 references
+different from
+Guaraní adrian
+0 references
+Waorani
+0 references
+Commons category
+Guaraní language
+0 references
+topic's main category
+Category:Guarani languages
+1 reference
+imported from Wikimedia project
+Basque Wikipedia
+Identifiers
+ISO 639-1 code
+gn
+1 reference
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+ISO 639-2 code
+grn
+applies to part
+terminology
+bibliography
+1 reference
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+ISO 639-3 code
+grn
+1 reference
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+GND ID
+4158502-1
+1 reference
+imported from Wikimedia project
+German Wikipedia
+National Library of Israel J9U ID
+987007543310805171
+1 reference
+stated in
+National Library of Israel
+Library of Congress authority ID
+sh85057601
+subject named as
+Guarani language
+1 reference
+stated in
+Gemeinsame Normdatei
+NL CR AUT ID
+ph278598
+subject named as
+guaránština
+0 references
+Art & Architecture Thesaurus ID
+300388369
+0 references
+Den Store Danske ID
+guaraní_-_sproget
+0 references
+Encyclopædia Britannica Online ID
+topic/Guarani-language
+0 references
+Ethnologue.com language code
+gug
+intended subject of deprecated statement
+Paraguayan Guaraní
+0 references
+grn
+0 references
+EU Knowledge Graph item ID
+Q2634346
+0 references
+Freebase ID
+/m/0k3pq
+0 references
+French Vikidia ID
+Guarani_(langue)
+0 references
+Glottolog code
+tupi1282
+0 references
+GOST 7.75–97 code
+гуа 160
+1 reference
+imported from Wikimedia project
+Russian Wikipedia
+Great Russian Encyclopedia Online ID (old version)
+1934111
+subject named as
+ГУАРАНИ
+0 references
+IAB code
+1083
+0 references
+IETF language tag
+gn
+1 reference
+imported from Wikimedia project
+French Wikipedia
+KBpedia ID
+GuaraniLanguage
+1 reference
+stated in
+KBpedia
+retrieved
+9 July 2020
+Lingua Libre ID
+Q98
+0 references
+LoC and MARC vocabularies ID
+languages/grn
+0 references
+iso639-2/grn
+0 references
+iso639-1/gn
+0 references
+NE.se ID
+guarani-(språk)
+0 references
+POSIX locale identifier
+gn
+0 references
+UK Archival Thesaurus ID
+f3/mt335/1726/587
+subject named as
+Guarani
+0 references
+UNESCO Thesaurus ID
+concept2176
+0 references
+WordNet 3.1 Synset ID
+06930056-n
+1 reference
+stated in
+GF WordNet
+ 
+Sitelinks
+Wikipedia(105 entries)
+afwiki
+Guaraní
+angwiki
+Awaisc sprǣc
+anpwiki
+गुआरानी भाषा
+arwiki
+اللغة الغوارانية
+arzwiki
+غوارانيه
+astwiki
+Idioma guaraní
+aywiki
+Waraniyi aru
+azbwiki
+قوارانی دیلی
+azwiki
+Quarani dili
+bat_smgwiki
+Gvaraniu kalba
+bclwiki
+Tataramon na Guarani
+bewiki
+Гуарані (мова)
+bgwiki
+Гуарански език
+bnwiki
+গুয়ারানি ভাষা
+bowiki
+གུ་ཝ་ར་ནི་སྐད།
+brwiki
+Gwaranieg
+cawiki
+Guaraní
+ckbwiki
+زمانی گوارانی
+cswiki
+Guaranština
+cywiki
+Guaraní (iaith)
+dawiki
+Guaraní (sprog)
+dewiki
+Guaraní (Sprache)
+dsbwiki
+Guaranišćina
+elwiki
+Γλώσσα Γκουαρανί
+enwiki
+Guarani language
+eowiki
+Gvarania lingvo
+eswiki
+Idioma guaraní
+euwiki
+Guaraniera
+fawiki
+زبان گوارانی
+fiwiki
+Guaranin kieli
+frrwiki
+Guaraní (Spriak)
+frwiki
+Guarani (langue)
+gawiki
+An Ghuaráinis
+gdwiki
+Guaranaidh
+glwiki
+Lingua guaraní
+gnwiki
+Avañe'ẽ
+hewiki
+גוארני
+hifwiki
+Guarani bhasa
+hiwiki
+गुआरानी भाषा
+hrwiki
+Guarani (jezik)
+hsbwiki
+Guaranišćina
+huwiki
+Guarani nyelv
+iawiki
+Lingua guarani
+idwiki
+Bahasa Guarani
+ilowiki
+Pagsasao a Guarani
+iowiki
+Guarani-linguo
+iswiki
+Gvaraní
+itwiki
+Lingua guaraní
+jawiki
+グアラニー語
+kabwiki
+Tagwaranit
+kawiki
+გუარანის ენა
+kkwiki
+Гуарани тілі
+kowiki
+과라니어
+kvwiki
+Гуарани (кыв)
+kywiki
+Гуарани (тил)
+lawiki
+Lingua Guaranica
+lfnwiki
+Guarani (lingua)
+lijwiki
+Guaranì
+ltwiki
+Gvaranių kalba
+lvwiki
+Gvaranu valoda
+mgwiki
+Fiteny goarany
+mhrwiki
+Гуарани йылме
+mkwiki
+Гварански јазик
+mlwiki
+ഗ്വാരാനീ ഭാഷ
+mrwiki
+ग्वारानी भाषा
+mswiki
+Bahasa Guaraní
+mznwiki
+گوارانی (زوون)
+newwiki
+गुआरानी भाषा
+nlwiki
+Guaraní (taal)
+nnwiki
+Guaraní
+nowiki
+Guaraní (språk)
+ocwiki
+Guaraní (lenga)
+pawiki
+ਗੁਆਰਾਨੀ ਭਾਸ਼ਾ
+plwiki
+Język guarani
+pmswiki
+Lenga guaraní, paraguajan
+pnbwiki
+گورانی
+ptwiki
+Língua guarani
+quwiki
+Waraniyi simi
+rowiki
+Limba guarani
+ruewiki
+Ґуараньскый язык
+ruwiki
+Гуарани (язык)
+satwiki
+ᱜᱩᱣᱟᱨᱟᱱᱤ ᱯᱟᱹᱨᱥᱤ
+scowiki
+Guaraní leid
+simplewiki
+Guaraní language
+skwiki
+Guaraníjčina
+slwiki
+Gvaranščina
+sqwiki
+Gjuha guarani
+srwiki
+Гварани (језик)
+svwiki
+Guaraní
+tawiki
+குவாரனி மொழி
+tlwiki
+Wikang Guarani
+trwiki
+Guaranice
+ttwiki
+Гуарани теле
+ugwiki
+گۇئارانچە
+ukwiki
+Гуарані (мова)
+urwiki
+گوارانی زبان
+uzwiki
+Guarani tili
+vepwiki
+Guaranin kel'
+viwiki
+Tiếng Guaraní
+wawiki
+Gwarani
+wuuwiki
+瓜拉尼语
+xmfwiki
+გუარანი (ნინა)
+zh_min_nanwiki
+Guarani-gí
+zh_yuewiki
+瓜拉尼文
+zhwiki
+瓜拉尼語
+Wikibooks(2 entries)
+enwikibooks
+Guarani
+eswikibooks
+Guaraní
+Wikinews(1 entry)
+ruwikinews
+Категория:Гуарани (язык)
+Wikiquote(0 entries)
+Wikisource(0 entries)
+Wikiversity(0 entries)
+Wikivoyage(0 entries)
+Wiktionary(3 entries)
+dewiktionary
+Wiktionary:Guaraní
+eowiktionary
+Aldono:Gvarania
+eswiktionary
+Wikcionario:Referencia/GN
+Multilingual sites(2 entries)
+commonswiki
+Category:Guaraní language
+sourceswiki
+Category:Avañe'ẽ
+Retrieved from "https://www.wikidata.org/w/index.php?title=Q35876&oldid=1960637212"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+ItemDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 25 August 2023, at 01:39.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

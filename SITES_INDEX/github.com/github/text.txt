@@ -1,0 +1,447 @@
+GitHub · GitHub
+Skip to content
+Toggle navigation
+            Sign up
+          
+ 
+github
+        Product
+        
+Actions
+        Automate any workflow
+      
+Packages
+        Host and manage packages
+      
+Security
+        Find and fix vulnerabilities
+      
+Codespaces
+        Instant dev environments
+      
+Copilot
+        Write better code with AI
+      
+Code review
+        Manage code changes
+      
+Issues
+        Plan and track work
+      
+Discussions
+        Collaborate outside of code
+      
+Explore
+      All features
+    
+      Documentation
+    
+      GitHub Skills
+    
+      Blog
+    
+        Solutions
+        
+For
+      Enterprise
+    
+      Teams
+    
+      Startups
+    
+      Education
+    
+By Solution
+      CI/CD & Automation
+    
+      DevOps
+    
+      DevSecOps
+    
+Resources
+      Customer Stories
+    
+      White papers, Ebooks, Webinars
+    
+      Partners
+    
+        Open Source
+        
+GitHub Sponsors
+        Fund open source developers
+      
+The ReadME Project
+        GitHub community articles
+      
+Repositories
+      Topics
+    
+      Trending
+    
+      Collections
+    
+Pricing
+Search or jump to...
+Search code, repositories, users, issues, pull requests...
+ 
+        Search
+      
+Clear
+ 
+ 
+              Search syntax tips
+ 
+        Provide feedback
+      
+ 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+     Cancel
+    Submit feedback
+        Saved searches
+      
+Use saved searches to filter your results more quickly
+ 
+Name
+Query
+            To see all available qualifiers, see our documentation.
+          
+ 
+     Cancel
+    Create saved search
+              Sign in
+            
+              Sign up
+            
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.
+You switched accounts on another tab or window. Reload to refresh your session.
+ 
+ Dismiss alert
+          GitHub
+        
+How people build software.
+28.3k
+                    followers
+ 
+San Francisco, CA
+https://github.com/about
+        Verified
+            We've verified that the organization github controls the domain:
+          
+github.com
+Learn more about verified organizations
+Sponsor
+ 
+    Overview
+  
+    Repositories
+      
+    Projects
+      
+    Packages
+  
+    People
+      
+    Sponsoring
+      36
+ 
+More
+Overview
+Repositories
+Projects
+Packages
+People
+Sponsoring
+ 
+ 
+README.md
+Hey, this is us 👋
+Yes, we are building GitHub on GitHub. In fact, we’ve been doing this since October 19th, 2007. That's when we made our first commit. Since then we pushed over 2.5 million commits, opened over 1 million issues, submitted roughly 650k pull requests across 4357 repositories from over 50 countries 🤯. But that's just us. We are proud  to be part of the work of millions of developers, companies and robots across the solar system 🪐. Yes, Robots!
+🍿 An interconnected community
+The open source community is the 💗 heart of GitHub and fundamental to how we build software today. See for yourself:
+GitHub Sponsors helped support more than 5k individuals and projects around the world 🌍
+Open source projects on GitHub received a stunning 218 million contributions 🚀 in the last year alone
+Every minute a developer creates a new release 🏄 for a public project on GitHub
+Now that we are talking about the important things ☝️, are you contributing to open source? Yes? Okay, you rock! 🎸 If not, we can help you get started! Open source software is made by people just like you. Learn more about how to contribute.
+🦦 Contributing to the ecosystem
+We contribute to the tools 🔧 we rely on to build and run GitHub, while also maintaining 🧙‍♂️ our own open source projects like:
+GitHub CLI - A command line tool for GitHub
+Git Large File Storage - A git extension for versioning large files
+Primer - The GitHub design system
+👓 Appendix
+See what's next on our public roadmap ✨ and let us know if you have any suggestions 🙇‍♂️. Oh, and by the way, we are always hiring talented, passionate people to join our team 🙌.
+"Tell me more, I can't get enough!"
+GitHub is built using mighty 🔨 open source technologies like Ruby on Rails, Go, Primer, React and Kafka among others.
+The three open source projects GitHub members have most contributed 👩‍💻 to are:
+Visual Studio Code
+Ruby on Rails
+Homebrew
+By the way, our documentation 🤓 is also open sourced
+🤫 Psst! You can create your own organization README.
+        Pinned
+    
+training-kit
+Public
+        Open source courseware for Git and GitHub
+      
+HTML
+            4k
+          
+            4.5k
+          
+choosealicense.com
+Public
+        A site to provide non-judgmental guidance on choosing a license for your open source project
+      
+Ruby
+            3.4k
+          
+            1.5k
+          
+scientist
+Public
+        🔬 A Ruby library for carefully refactoring critical paths.
+      
+Ruby
+            7k
+          
+            517
+          
+gh-ost
+Public
+        GitHub's Online Schema-migration Tool for MySQL
+      
+Go
+            11.3k
+          
+            1.3k
+          
+covid-19-repo-data
+Public
+        Data archive of identifiable COVID-19 related public projects on GitHub 
+      
+            465
+          
+            233
+          
+        Repositories
+      
+ Type
+ 
+Select type
+All
+Public
+Sources
+Forks
+Archived
+Mirrors
+Templates
+ Language
+ 
+Select language
+All
+C
+C#
+C++
+Clojure
+CodeQL
+CoffeeScript
+CSS
+DIGITAL Command Language
+Dockerfile
+EJS
+Go
+Handlebars
+Haskell
+HTML
+Java
+JavaScript
+Jupyter Notebook
+Objective-C
+PowerShell
+Puppet
+Python
+Ruby
+Rust
+Scala
+Shell
+Swift
+TypeScript
+Vim Script
+Vue
+ Sort
+ 
+Select order
+Last updated
+Name
+Stars
+Showing 10 of 470 repositories
+ 
+          advisory-database
+          Public
+            Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
+          1,457
+CC-BY-4.0
+          241
+        46
+        41
+          Updated Sep 3, 2023
+ 
+          entitlements-github-plugin
+          Public
+            Entitlements plugin to manage GitHub Orgs and Team memberships and access
+Ruby
+          16
+MIT
+          5
+        1
+        1
+          Updated Sep 3, 2023
+ 
+          gitignore
+          Public
+            A collection of useful .gitignore templates
+          151,062
+CC0-1.0
+          84,116
+        5
+        437
+          Updated Sep 3, 2023
+ 
+          .github
+          Public
+            Community health files for the @github organization
+          705
+          2,392
+        0
+        0
+          Updated Sep 3, 2023
+ 
+          choosealicense.com
+          Public
+            A site to provide non-judgmental guidance on choosing a license for your open source project
+Ruby
+          3,365
+MIT
+          1,519
+        28
+          (8 issues need help)
+        5
+          Updated Sep 3, 2023
+ 
+          explore
+          Public
+            Community-curated topic and collection pages on GitHub
+Ruby
+          3,939
+CC-BY-4.0
+          13,111
+        2
+        6
+          Updated Sep 3, 2023
+ 
+          docs
+          Public
+            The open-source repo for docs.github.com
+JavaScript
+          14,360
+CC-BY-4.0
+          61,234
+        73
+          (28 issues need help)
+        32
+          Updated Sep 3, 2023
+ 
+          codeql
+          Public
+            CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security
+CodeQL
+          6,352
+MIT
+          1,458
+        648
+          (3 issues need help)
+        316
+          Updated Sep 3, 2023
+ 
+          haikus-for-codespaces
+          Public template
+EJS
+          1,370
+MIT
+          2,878
+        5
+        32
+          Updated Sep 3, 2023
+ 
+          opensource.guide
+          Public
+            📚 Community guides for open source creators
+HTML
+          12,946
+CC-BY-4.0
+          16,221
+        0
+        4
+          Updated Sep 2, 2023
+  View all repositories
+ 
+People
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            View all
+ 
+Sponsoring
+View all
+ 
+Top languages
+Ruby
+JavaScript
+Go
+TypeScript
+Shell
+Most used topics
+  custom-elements
+  web-components
+  ruby
+  actions
+  github
+ GitHub Sponsor
+ Developer Program Member
+ 
+Footer
+ 
+        © 2023 GitHub, Inc.
+        
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+    You can’t perform that action at this time.
+  

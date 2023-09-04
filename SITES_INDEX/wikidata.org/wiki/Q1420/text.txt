@@ -1,0 +1,1204 @@
+motor car - Wikidata
+motor car
+(Q1420)
+From Wikidata
+Jump to navigation
+Jump to search
+motorized road vehicle designed to carry one to eight people rather than primarily goodsautoautocarautomobilemotorcarcarmotor vehicleautomobilesmotor carscars
+Language
+Label
+Description
+Also known as
+English
+motor car
+motorized road vehicle designed to carry one to eight people rather than primarily goods
+autoautocarautomobilemotorcarcarmotor vehicleautomobilesmotor carscars
+Statements
+subclass of
+motor vehicle
+1 reference
+imported from Wikimedia project
+Russian Wikipedia
+retrieved
+13 December 2018
+multi-track vehicle
+0 references
+road vehicle
+0 references
+part of
+road transport
+0 references
+image
+Bundesarchiv Bild 183-J0711-0001-003, Warnemünde, Stau.jpg758 × 449; 57 KB
+0 references
+Capture d’écran 2016-10-14 à 21.26.28.png791 × 577; 371 KB
+0 references
+1903-ford-rc.jpg600 × 443; 62 KB
+0 references
+has use
+motorized private transport
+0 references
+taxi
+1 reference
+imported from Wikimedia project
+Russian Wikipedia
+retrieved
+13 December 2018
+transport
+0 references
+passenger transportation
+0 references
+writing system
+Latin script
+0 references
+has effect
+car collision
+nature of statement
+sometimes
+0 references
+travel
+0 references
+convenience
+0 references
+discoverer or inventor
+Ferdinand Verbiest
+0 references
+time of discovery or invention
+1884
+1 reference
+imported from Wikimedia project
+Russian Wikipedia
+retrieved
+13 December 2018
+contributing factor of
+carbon dioxide emissions
+0 references
+air pollution
+0 references
+physically interacts with
+road
+0 references
+pedestrian
+0 references
+designed to carry
+motor vehicle driver
+0 references
+passenger
+0 references
+cargo
+0 references
+maximum capacity
+8
+nature of statement
+often
+0 references
+described at URL
+https://neal.fun/earth-reviews/cars
+language of work or name
+English
+0 references
+hashtag
+car
+0 references
+has quality
+automobile model
+0 references
+source of energy
+gasoline
+0 references
+diesel
+0 references
+electricity
+0 references
+hydrogen
+0 references
+solar energy
+0 references
+ethanol
+0 references
+liquefied petroleum gas
+0 references
+used by
+motor vehicle driver
+0 references
+uses
+internal combustion engine
+0 references
+electric motor
+0 references
+history of topic
+history of the automobile
+0 references
+described by source
+Sytin Military Encyclopedia
+statement is subject of
+Q21282582
+0 references
+Great Soviet Encyclopedia (1926–1947)
+statement is subject of
+Q29020915
+0 references
+Small Brockhaus and Efron Encyclopedic Dictionary
+statement is subject of
+Q24728658
+0 references
+Brockhaus and Efron Encyclopedic Dictionary
+statement is subject of
+Q24327705
+0 references
+Metropolitan Museum of Art Tagging Vocabulary
+subject named as
+Cars
+point in time
+7 May 2021
+0 references
+The Nuttall Encyclopædia
+subject named as
+Motor Car
+0 references
+Meyers Konversations-Lexikon, 4th edition (1885–1890)
+statement is subject of
+Q112770732
+0 references
+Armenian Soviet Encyclopedia
+volume
+1
+page(s)
+646-647
+0 references
+on focus list of Wikimedia project
+Wikipedia:List of articles all languages should have
+0 references
+Wikipedia:Vital articles/Level/4
+point in time
+31 October 2022
+0 references
+Wikimedia outline
+outline of automobiles
+0 references
+less than
+truck
+criterion used
+mass
+length
+height
+capacity
+0 references
+bus
+criterion used
+mass
+length
+height
+capacity
+0 references
+maintained by WikiProject
+WikiProject Automobiles
+0 references
+maintenance method
+auto maintenance
+0 references
+label in sign language
+Swl-bil-spreadthesign-4014.ogv4.1 s, 320 × 240; 104 KB
+language of work or name
+Swedish Sign Language
+0 references
+OpenStreetMap tag or key
+Key:motorcar
+0 references
+Unicode character
+🚗
+0 references
+🚘
+0 references
+exact match
+http://purl.obolibrary.org/obo/ENVO_01000605
+1 reference
+stated in
+Environment Ontology
+reference URL
+https://raw.githubusercontent.com/INCATools/environments2wikidata/master/matches/curated-high-confidence-envo.tsv
+retrieved
+8 January 2023
+partially coincident with
+wheeled vehicle
+0 references
+has part(s)
+engine
+0 references
+steering wheel
+0 references
+axle
+0 references
+fuel tank
+0 references
+air filter
+0 references
+oxygen sensor
+0 references
+shock absorber
+0 references
+ball joint
+0 references
+carburetor
+0 references
+seat
+0 references
+vehicle door
+0 references
+dashboard
+0 references
+manual transmission
+0 references
+fuel door
+0 references
+car wheel
+0 references
+glove compartment
+0 references
+windshield
+0 references
+automatic transmission
+0 references
+reduction drive
+0 references
+clutch
+0 references
+differential
+0 references
+drive shaft
+0 references
+powertrain
+0 references
+hood
+0 references
+coach
+0 references
+rolling chassis
+0 references
+disjoint union of
+list of values as qualifiers
+list item
+concept car
+mass produced car
+0 references
+different from
+Auto
+0 references
+road vehicle
+criterion used
+use
+0 references
+motor vehicle
+criterion used
+use
+mass
+subject has role
+subclass
+0 references
+truck
+criterion used
+use
+mass
+driver's license
+0 references
+bus
+criterion used
+capacity
+mass
+driver's license
+0 references
+said to be the same as
+passenger car
+0 references
+permanent duplicated item
+Q96240179
+1 reference
+inferred from
+Q96240179
+Commons gallery
+Car
+0 references
+Commons category
+Automobiles
+0 references
+topic's main Wikimedia portal
+Portal:Cars
+1 reference
+imported from Wikimedia project
+English Wikipedia
+topic's main template
+Template:Infobox automobile
+0 references
+topic's main category
+Category:Cars
+1 reference
+imported from Wikimedia project
+Persian Wikipedia
+Identifiers
+Biblioteca Nacional de España ID
+XX525492
+1 reference
+stated in
+Spain open data portal
+title
+Registros de autoridad de "Materia" de la Biblioteca Nacional de España (Spanish)
+reference URL
+https://www.bne.es/media/datosgob/catalogo-autoridades/materia/materia-UTF8.zip
+retrieved
+21 July 2023
+Bibliothèque nationale de France ID
+11930996t
+0 references
+GND ID
+4129315-0
+subject named as
+Kraftwagen
+1 reference
+imported from Wikimedia project
+German Wikipedia
+National Library of Israel J9U ID
+987007295707005171
+1 reference
+stated in
+National Library of Israel
+Library of Congress authority ID
+sh85010201
+1 reference
+reference URL
+https://github.com/JohnMarkOckerbloom/ftl/blob/master/data/wikimap
+retrieved
+3 April 2019
+National Library of Latvia ID
+000055411
+0 references
+NDL Authority ID
+00574667
+0 references
+NL CR AUT ID
+ph114108
+subject named as
+automobily
+0 references
+MeSH descriptor ID
+D001336
+subject named as
+Automobiles
+0 references
+MeSH tree code
+J01.937.500.100
+0 references
+Analysis & Policy Observatory term ID
+54051
+0 references
+Art & Architecture Thesaurus ID
+300178739
+0 references
+ASC Leiden Thesaurus ID
+294899650
+1 reference
+stated in
+ASC Leiden Thesaurus dataset of 5 June 2018
+retrieved
+13 June 2018
+Australian Educational Vocabulary ID
+scot/932
+0 references
+BabelNet ID
+00007309n
+1 reference
+stated in
+BabelNet
+Baidu Tieba name
+汽车
+number of works
+54,302,140
+point in time
+3 March 2023
+0 references
+BNCF Thesaurus ID
+2431
+subject named as
+Automobili
+0 references
+Britannica Kids kids level article ID
+352807
+0 references
+Britannica Kids scholars level article ID
+110735
+0 references
+Britannica Kids students level article ID
+273028
+0 references
+Cyprus Bibliography ID
+11727
+0 references
+Den Store Danske ID
+bil
+0 references
+Encyclopædia Britannica Online ID
+technology/automobile
+0 references
+Encyclopædia Universalis ID
+automobile-technologie
+0 references
+automobile-vue-d-ensemble
+0 references
+Encyclopedia of China (Third Edition) ID
+554497
+0 references
+Encyclopedia of Greater Philadelphia ID
+automobiles
+0 references
+Encyclopedia of Korean Culture ID
+E0047885
+0 references
+Encyclopedia of Modern Ukraine ID
+42451
+0 references
+Encyclopedia of the Great Plains ID
+tra.002
+0 references
+English Vikidia ID
+Car
+0 references
+Environment Ontology ID
+01000605
+1 reference
+stated in
+Environment Ontology
+reference URL
+https://raw.githubusercontent.com/INCATools/environments2wikidata/master/matches/curated-high-confidence-envo.tsv
+retrieved
+8 January 2023
+EuroVoc ID
+4261
+0 references
+FISH Archaeological Objects Thesaurus ID
+167289
+subject named as
+Car
+0 references
+Freebase ID
+/m/0k4j
+0 references
+French Vikidia ID
+Automobile
+0 references
+Giant Bomb ID
+3055-322
+1 reference
+reference URL
+https://www.giantbomb.com/car/3055-322/
+title
+Car (Object) - Giant Bomb (English)
+retrieved
+22 June 2022
+Global Anabaptist Mennonite Encyclopedia Online ID
+Automobile
+0 references
+Google Arts & Culture entity ID
+m0k4j
+0 references
+Google News topics ID
+CAAqJAgKIh5DQkFTRUFvSEwyMHZNR3MwYWhJRlpXNHRSMElvQUFQAQ
+0 references
+Gran Enciclopèdia Catalana ID
+0222253
+1 reference
+imported from Wikimedia project
+Catalan Wikipedia
+Great Russian Encyclopedia Online ID (old version)
+1850034
+subject named as
+АВТОМОБИЛЬ
+0 references
+HDS ID
+013901
+0 references
+IAB code
+25
+0 references
+Iconclass notation
+46C161
+0 references
+Italian Vikidia ID
+Automobile
+0 references
+Joconde object type ID
+T505-3568
+0 references
+JSTOR topic ID
+automobiles
+0 references
+KBpedia ID
+Automobile
+1 reference
+stated in
+KBpedia
+retrieved
+9 July 2020
+Klexikon article ID
+Auto
+0 references
+Larousse ID
+divers/automobile/185956
+subject named as
+automobile (société)
+0 references
+Le Monde diplomatique subject ID
+sujet/automobile
+0 references
+Lemmy community ID
+fuckcars@lemmy.world
+1 reference
+reference URL
+https://startrek.website/c/fuckcars@lemmy.world
+title
+Fuck Cars - Star Trek: Website (English)
+retrieved
+14 August 2023
+fuck_cars@lemmy.ml
+1 reference
+reference URL
+https://startrek.website/c/fuck_cars@lemmy.ml
+title
+Fuck Cars - Star Trek: Website (English)
+retrieved
+14 August 2023
+cars@lemmy.world
+1 reference
+reference URL
+https://startrek.website/c/cars@lemmy.world
+title
+Cars - Star Trek: Website (English)
+retrieved
+14 August 2023
+Library of Congress Children's Subject Headings ID
+sj2021050385
+subject named as
+Automobiles
+0 references
+MIL-STD-2525 Symbol Identification Code
+10011500001601000000
+0 references
+NALT ID
+533
+0 references
+National Historical Museums of Sweden ID
+term/1835CAE7-B934-4678-8CC9-6DF0AC4FB762
+0 references
+New York Times topic ID
+subject/automobiles
+0 references
+Nomenclature for Museum Cataloging
+12173
+0 references
+OmegaWiki Defined Meaning
+482
+0 references
+Polignosi ID
+43950
+0 references
+PSH ID
+11023
+0 references
+Quora topic ID
+Cars-and-Automobiles
+0 references
+RKD thesaurus ID
+64000
+0 references
+Spanish Vikidia ID
+Coche
+0 references
+Store norske leksikon ID
+bil
+0 references
+subreddit
+cars
+language of work or name
+English
+start time
+20 March 2008
+subject named as
+r/Cars - For Car Enthusiasts
+1 reference
+retrieved
+6 May 2018
+carporn
+language of work or name
+English
+start time
+18 March 2010
+subject named as
+Red hot rides
+1 reference
+retrieved
+6 May 2018
+Autos
+language of work or name
+English
+start time
+5 April 2008
+subject named as
+r/Autos - Four Wheels and a Motor
+1 reference
+retrieved
+6 May 2018
+fuckcars
+language of work or name
+English
+subject named as
+fuck cars
+0 references
+Cartalk
+0 references
+EnculerLesVoitures
+language of work or name
+French
+0 references
+TED topic ID
+cars
+0 references
+TOPCMB ID
+carro
+0 references
+Treccani ID
+automobile
+subject named as
+automobile
+0 references
+U.S. National Archives Identifier
+10640181
+0 references
+UK Parliament thesaurus ID
+90457
+subject named as
+Cars
+0 references
+UMLS CUI
+C0004381
+1 reference
+based on heuristic
+inferred by common MeSH mappings on source and on Wikidata
+stated in
+UMLS 2023AA release
+retrieved
+24 May 2023
+UNBIS Thesaurus ID
+1000469
+0 references
+UNSPSC Code
+25101503
+0 references
+WIPO Pearl term ID
+17455
+0 references
+WordNet 3.1 Synset ID
+02961779-n
+0 references
+YSO ID
+1223
+1 reference
+stated in
+YSO-Wikidata mapping project
+Zhihu topic ID
+19551915
+subject named as
+汽车
+2 references
+reference URL
+https://www.zhihu.com/question/334216020/answer/744298419
+retrieved
+14 July 2019
+reference URL
+https://www.zhihu.com/search?q=13%E5%85%83%E4%B9%B0%E8%BD%A6&type=content#13_元买车引热议&大爷拿_13_元买车引热议
+retrieved
+14 July 2019
+ 
+Sitelinks
+Wikipedia(192 entries)
+afwiki
+Motorvoertuig
+alswiki
+Auto
+amwiki
+መኪና
+angwiki
+Selffērende wægn
+anpwiki
+गाड़ी
+anwiki
+Auto
+arcwiki
+ܪܕܝܬܐ
+arwiki
+سيارة
+arywiki
+طوموبيل
+arzwiki
+عربيه
+astwiki
+Automóvil
+atjwiki
+Otapan
+azbwiki
+اوتوموبیل
+azwiki
+Avtomobil
+barwiki
+Auto
+bat_smgwiki
+Automuobėlis
+bawiki
+Автомобиль
+bclwiki
+Kotse
+be_x_oldwiki
+Аўтамабіль
+bewiki
+Аўтамабіль
+bgwiki
+Автомобил
+bhwiki
+कार
+bnwiki
+গাড়ি
+brwiki
+Karr-tan
+bswiki
+Automobil
+bugwiki
+Oto
+bxrwiki
+Автомашина
+cawiki
+Automòbil
+cdowiki
+Ké-chiă
+cewiki
+Автомобиль
+chywiki
+Amâho'hestôtse
+ckbwiki
+ئۆتۆمۆبیل
+cowiki
+Vittura
+crhwiki
+Araba
+crwiki
+Wikipedia:Archives/ᐅᒑᐹᓂᔥ
+csbwiki
+Aùto
+cswiki
+Automobil
+cuwiki
+Аѵтокїнито
+cvwiki
+Автомобиль
+cywiki
+Car
+dawiki
+Bil
+dewiki
+Automobil
+diqwiki
+Ereba
+elwiki
+Αυτοκίνητο
+enwiki
+Car
+eowiki
+Aŭto
+eswiki
+Automóvil
+etwiki
+Auto
+euwiki
+Automobil
+extwiki
+Automóvil
+fawiki
+خودرو
+fiu_vrowiki
+Auto
+fiwiki
+Auto
+fowiki
+Bilar
+frpwiki
+Ôtomobila
+frrwiki
+Auto
+frwiki
+Automobile
+fywiki
+Auto
+ganwiki
+汽車
+gawiki
+Gluaisteán
+gcrwiki
+Lotomobil
+gdwiki
+Càr
+glkwiki
+ماشین
+glwiki
+Automóbil
+gnwiki
+Mba'yruguata
+guwiki
+મોટરગાડી
+gvwiki
+Gleashtan
+hakwiki
+Khi-chhâ
+hawiki
+Mota
+hewiki
+מכונית
+hifwiki
+Motar
+hiwiki
+मोटरवाहन
+hrwiki
+Automobil
+htwiki
+Machin
+huwiki
+Autó
+hywiki
+Ավտոմեքենա
+iawiki
+Automobile
+idwiki
+Mobil
+iewiki
+Automobile
+ikwiki
+Aksraktuaq
+iowiki
+Automobilo
+iswiki
+Bíll
+itwiki
+Autovettura
+jamwiki
+Kyaar
+jawiki
+自動車
+jvwiki
+Montor
+kaawiki
+Avtomobil
+kabwiki
+Ṭumubil
+kawiki
+ავტომობილი
+kbpwiki
+Lɔɔɖɩyɛ
+kcgwiki
+A̱da̱dei ma̱to
+kgwiki
+Tomabîlu
+kkwiki
+Автомобиль
+knwiki
+ಮೋಟಾರು ವಾಹನ
+kowiki
+자동차
+kuwiki
+Otomobîl
+kywiki
+Автомобиль
+ladwiki
+Otomobil
+lawiki
+Autocinetum
+lbwiki
+Auto
+lezwiki
+Автомобиль
+lmowiki
+Vetura
+lnwiki
+Mótuka
+lowiki
+ລົດ
+ltwiki
+Automobilis
+lvwiki
+Automašīna
+mgwiki
+Fiarakodia
+minwiki
+Oto
+miwiki
+Motokā
+mkwiki
+Автомобил
+mlwiki
+കാർ
+mnwiki
+Автомашин
+mrwiki
+मोटारवाहन
+mswiki
+Kereta
+mtwiki
+Karozza
+mywiki
+ကား
+mznwiki
+مشین
+nds_nlwiki
+Auto
+newiki
+मोटरगाडी
+newwiki
+अटोमोबाइल
+nlwiki
+Auto
+nnwiki
+Bil
+nowiki
+Bil
+nqowiki
+ߞߐ߲߬ߛߏ
+nrmwiki
+Qùérette
+nvwiki
+Chidí
+ocwiki
+Automobila
+olowiki
+Mašin
+omwiki
+Konkolaataa
+oswiki
+Хæдтулгæ
+pawiki
+ਕਾਰ
+pcdwiki
+Automobile
+pdcwiki
+Maschien
+plwiki
+Samochód
+pmswiki
+Automòbil
+pnbwiki
+کار
+pntwiki
+Αραπάν
+pswiki
+موټر
+ptwiki
+Automóvel
+quwiki
+Antawa
+rmywiki
+Vurdon
+roa_rupwiki
+Amaxi
+rowiki
+Automobil
+ruewiki
+Автомобіл
+ruwiki
+Автомобиль
+sahwiki
+Массыына (көлө)
+satwiki
+ᱜᱟᱹᱰᱤ
+scowiki
+Automobile
+sdwiki
+ڪار
+shiwiki
+Tamssudut
+shwiki
+Automobil
+simplewiki
+Automobile
+siwiki
+මෝටර් රථ
+skwiki
+Automobil
+slwiki
+Avtomobil
+snwiki
+Hambautare
+sowiki
+Baabuur
+sqwiki
+Automobili
+srwiki
+Аутомобил
+stqwiki
+Automobil
+stwiki
+Koloi
+suwiki
+Mobil
+svwiki
+Bil
+swwiki
+Motokaa
+szlwiki
+Auto
+tawiki
+தானுந்து
+tewiki
+కారు
+tgwiki
+Худрав
+thwiki
+รถยนต์
+tlwiki
+Kotse
+tpiwiki
+Ka
+trwiki
+Otomobil
+ttwiki
+Автомобиль
+twwiki
+Ɛhyɛn
+tyvwiki
+Автомобиль
+ugwiki
+ئاپتوموبىل
+ukwiki
+Автомобіль
+urwiki
+کار
+uzwiki
+Avtomobil
+vecwiki
+Automòbiłe
+vepwiki
+Avto
+viwiki
+Ô tô
+vowiki
+Tood
+warwiki
+Awto
+wawiki
+Oto
+wuuwiki
+汽车
+yiwiki
+אויטאמאביל
+zawiki
+Giceh
+zh_classicalwiki
+自動車
+zh_min_nanwiki
+Chū-tōng-chhia
+zh_yuewiki
+汽車
+zhwiki
+汽车
+Wikibooks(2 entries)
+ruwikibooks
+Автомобиль
+trwikibooks
+Otomobil
+Wikinews(3 entries)
+dewikinews
+Kategorie:Auto
+frwikinews
+Catégorie:Automobile
+nlwikinews
+Categorie:Auto
+Wikiquote(24 entries)
+azwikiquote
+Avtomobil
+bgwikiquote
+Автомобили
+bswikiquote
+Automobil
+cawikiquote
+Automòbil
+cswikiquote
+Auto
+dewikiquote
+Auto
+elwikiquote
+Αυτοκίνητο
+enwikiquote
+Car
+eowikiquote
+Aŭto
+eswikiquote
+Automóvil
+etwikiquote
+Auto
+fawikiquote
+خودرو
+fiwikiquote
+Auto
+frwikiquote
+Automobile
+hewikiquote
+מכונית
+itwikiquote
+Automobile
+ltwikiquote
+Automobilis
+plwikiquote
+Samochód
+ptwikiquote
+Automóveis
+ruwikiquote
+Автомобиль
+skwikiquote
+Automobil
+srwikiquote
+Аутомобили
+trwikiquote
+Otomobil
+ukwikiquote
+Автомобіль
+Wikisource(1 entry)
+dewikisource
+Automobil
+Wikiversity(0 entries)
+Wikivoyage(0 entries)
+Wiktionary(0 entries)
+Multilingual sites(1 entry)
+commonswiki
+Car
+Retrieved from "https://www.wikidata.org/w/index.php?title=Q1420&oldid=1964224776"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+ItemDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 29 August 2023, at 23:36.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

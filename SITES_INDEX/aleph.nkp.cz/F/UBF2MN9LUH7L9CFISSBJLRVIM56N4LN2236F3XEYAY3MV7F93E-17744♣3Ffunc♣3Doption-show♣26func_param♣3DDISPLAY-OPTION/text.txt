@@ -1,0 +1,100 @@
+AUT - Nastavení zobrazení a jazyka
+ 
+        Databáze Národní knihovny ČR 
+    
+ 
+      Aktuální báze:  AUT   
+    
+ 
+      Konec
+ 
+      | 
+    
+ 
+      Přihlášení
+ 
+      | 
+    
+ 
+      Databáze
+ 
+      | 
+    
+ 
+      Dílčí báze
+ 
+      | 
+    
+ 
+      Nastavení
+ 
+      | 
+    
+ 
+      Otázky
+ 
+      | 
+    
+ 
+      Nápověda
+ 
+      Vyhledávání / Rejstříky
+ 
+      | 
+    
+ 
+      Výsledky dotazu
+ 
+      | 
+    
+ 
+      Předchozí dotazy
+ 
+      | 
+    
+ 
+      Schránka
+ 
+      | 
+    
+ Historie
+ 
+      | 
+    
+ 
+        
+    
+ 
+ Nastavení zobrazení 
+ Počet záznamů na stránku:   
+5 
+     10 
+     15 
+     20 
+  
+ Maximální počet záznamů, které se po vyhledání zobrazí jako úplné:   
+0 
+      1   
+      5   
+      10 
+  
+Formát záznamů v seznamu:   
+Základní údaje v tabulce
+Stručný záznam  
+Katalogizační záznam 
+Zobrazovat v rejstříku i autoritní údaje?   
+Ano 
+       Ne 
+  
+   
+  
+ 
+  Nastavení jazyka komunikace 
+ Jazyk komunikace:   
+Čeština 
+   
+Angličtina 
+  
+   
+  
+ © 2014 Ex Libris, NK ČR

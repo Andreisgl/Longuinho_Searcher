@@ -1,0 +1,191 @@
+OCR-A - Wikipedia
+OCR-A
+Da Wikipedia, l'enciclopedia libera.
+Vai alla navigazione
+Vai alla ricerca
+OCR-A
+Stile
+Monospazio
+Data di creazione
+1966
+Disegnatore
+Produttore
+American Type Founders
+Esempio
+OCR-A (o anche USASI-A) è un set di caratteri monospazio, il primo ad essere specificatamente sviluppato per semplificare il processo di riconoscimento ottico (OCR) da parte di macchine.
+Indice
+1 Storia
+2 Forma
+3 Spazi, cifre e caratteri senza accenti
+3.1 Caratteri speciali
+4 OCR-A Extended
+5 Voci correlate
+6 Altri progetti
+7 Collegamenti esterni
+Storia[modifica | modifica wikitesto]
+Il progetto risale al 1966 quando l'American Type Founders lo sviluppò secondo le specifiche emanate dell'U.S. Bureau of Standards. Attualmente risponde anche allo standard statunitense ANSI X-3.17-1981 (size I) del 1981, allo standard tedesco DIN 66008 e l'ISO 1073-1:1976. Il suo set di caratteri comprende alcuni simboli (hook it. uncino, chair it. sedia, fork it. forchetta) per uso in ambito bancario le cui relative codifiche secondo l'Unicode 5.0 sono U+2440, U+2441 e U+2442.
+Caratteri speciali dell'OCR-A
+L'American National Standards Institute mette a disposizione a pagamento, tramite il suo sito, il documento X3.17-1977 che descrive tecnicamente le caratteristiche del font.
+Forma[modifica | modifica wikitesto]
+La struttura delle sue lettere è stata "distorta" per facilitarne il riconoscimento automatico, a tutto vantaggio degli apparati preposti; questo però rende più difficile il riconoscimento da parte dell'occhio umano. Anche se il suo ambito doveva essere originariamente limitato al campo bancario proprio grazie al fatto di avere un design "tecnologico" è stato spesso usato nella pubblicità.
+Un altro font che è stato sviluppato in Europa per gli stessi scopi è l'OCR-B.
+Spazi, cifre e caratteri senza accenti[modifica | modifica wikitesto]
+OCR-A usa le codifiche Unicode U+0020 per gli spazi, da U+0030 a U+0039 per i numeri decimali, da U+0041 a U+005A per le lettere maiuscole senza accento e da U+0061 a U+007A per le lettere minuscole senza accento.
+Caratteri speciali[modifica | modifica wikitesto]
+Oltre ai numeri e alle lettere ci sono altri caratteri compatibili con OCR-A
+Caratteri OCR-A aggiuntivi
+Nome
+Simbolo
+Unicode
+Punto Esclamativo
+U+0021
+Virgolette
+U+0022
+Numero
+U+0023
+Dollaro
+U+0024
+Percentuale
+U+0025
+E Commerciale
+U+0026
+Apostrofo
+U+0027
+Parentesi Sinistra
+U+0028
+Parentesi Destra
+U+0029
+Asterisco
+U+002A
+Più
+U+002B
+Virgola
+U+002C
+Trattino
+U+002D
+Punto
+U+002E
+Slash
+U+002F
+Due Punti
+U+003A
+Punto e Virgola
+U+003B
+Minore
+U+003C
+Uguale
+U+003D
+Maggiore
+U+003E
+Punto di Domanda
+U+003F
+Chiocciola
+U+0040
+Parentesi Quadra Sinistra
+U+005B
+Backslash
+U+005C
+Parentesi Quadra Destra
+U+005D
+Accento Circonflesso
+U+005E
+Tratto Basso
+U+005F
+Accento Grave
+U+0060
+Parentesi Graffa Sinistra
+U+007B
+Linea Verticale
+U+007C
+Parentesi Graffa Destra
+U+007D
+Tilde
+U+007E
+Lira
+U+00A3
+Yen
+U+00A5
+A maiuscola con Dieresi
+U+00C4
+A maiuscola con Anello
+U+00C5
+AE maiuscolo
+U+00C6
+N maiuscola con Tilde
+U+00D1
+O maiuscola con sbarra
+U+00D8
+O minuscola con dieresi
+U+00F6
+U minuscola con dieresi
+U+00FC
+OCR Hook
+U+2440
+OCR Chair
+U+2441
+OCR Fork
+U+2442
+OCR-A Extended[modifica | modifica wikitesto]
+OCR-A Extended è una versione estesa dei caratteri OCR-A con 251 simboli, di cui 62 composti. L'extended supporta le seguenti lingue:
+Francese
+Tedesco
+Italiano
+Portoghese
+Olandese
+Spagnolo
+Islandese
+Norvegese
+Danese
+Finlandese
+Svedese
+Albanese
+Voci correlate[modifica | modifica wikitesto]
+OCR-B
+Altri progetti[modifica | modifica wikitesto]
+Altri progetti
+Wikimedia Commons
+ Wikimedia Commons contiene immagini o altri file su OCR-A
+Collegamenti esterni[modifica | modifica wikitesto]
+(EN) Standard Unicode  5.0, codifica dell'Optical Character Recognition (PDF), su unicode.org.
+(EN) Pagina su OCR-A, OCR-B, MICR e la relativa codifica, su decodeunicode.org. URL consultato il 9 marzo 2008 (archiviato dall'url originale il 13 maggio 2008).
+(EN) Pagina da dove si può scaricare una versione gratuita dell'OCR-A, su ansuz.sooke.bc.ca.
+(EN) Pagina da dove si può scaricare un'altra versione gratuita dell'OCR-A, su sourceforge.net.
+(EN) Pagina su linotype.com su OCR-A, su linotype.com.
+(EN) Articolo sui font OCR da wordpress.com, su myfonts.wordpress.com.
+(EN) Link dello standard ANSI INCITS 17-1981 (R2002), su nssn.org (archiviato dall'url originale il 27 settembre 2007).
+ Portale Editoria Portale Informatica
+Estratto da "https://it.wikipedia.org/w/index.php?title=OCR-A&oldid=128512783"
+Categorie: Caratteri monospazioCaratteri liberiRiconoscimento ottico dei caratteri
+Menu di navigazione
+Strumenti personali
+Accesso non effettuatodiscussionicontributiregistratientra
+Namespace
+VoceDiscussione
+italiano
+Visite
+LeggiModificaModifica wikitestoCronologia
+Altro
+Ricerca
+Navigazione
+Pagina principaleUltime modificheUna voce a casoNelle vicinanzeVetrinaAiutoSportello informazioni
+Comunità
+Portale ComunitàBarIl WikipedianoFai una donazioneContatti
+Strumenti
+Puntano quiModifiche correlatePagine specialiLink permanenteInformazioni paginaCita questa voceElemento Wikidata
+Stampa/esporta
+Crea un libroScarica come PDFVersione stampabile
+In altri progetti
+Wikimedia Commons
+In altre lingue
+DeutschEnglishFrançais한국어TagalogYorùbá
+Modifica collegamenti
+ Questa pagina è stata modificata per l'ultima volta il 24 lug 2022 alle 11:46.
+Il testo è disponibile secondo la licenza Creative Commons Attribuzione-Condividi allo stesso modo; possono applicarsi condizioni ulteriori. Vedi le condizioni d'uso per i dettagli.
+Informativa sulla privacy
+Informazioni su Wikipedia
+Avvertenze
+Codice di condotta
+Versione mobile
+Sviluppatori
+Statistiche
+Dichiarazione sui cookie

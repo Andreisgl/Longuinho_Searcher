@@ -1,0 +1,124 @@
+            Glottolog 4.8 -
+            Central Oghuz
+        
+      Glottolog
+  
+Languages
+Families
+Language Search
+References
+Reference Search
+GlottoScope
+About
+htmlJSONRDF serialized as n3Newick formatRDF serialized as ntPhyloXMLRDF serialized as xmlSVG Classification TreeRDF serialized as turtle
+            Family: Central Oghuz
+                Classification
+            
+open Central Oghuz
+expand all
+collapse all
+Comments on subclassification
+Lars Johanson 2021 Talat Tekin 1990 
+                    Glottocode:
+                     azer1255
+ 
+show big map
+                Links
+            
+ Wikidata Wikipedia
+            References
+            ⇫
+Details
+Name
+Title
+Any field
+ca
+Year
+Pages
+Doctype
+ca
+Provider
+da
+--any--
+unknown
+bibliographical
+ethnographic
+overview
+dialectology
+socling
+minimal
+comparative
+wordlist
+new_testament
+text
+phonology
+specific_feature
+dictionary
+grammar_sketch
+grammar
+--any--
+anla
+apics
+asjp2010
+autotyp
+bahasa
+benjamins
+bibliolux
+bowern
+degruyter
+dplace
+eballiso2009
+elcat
+elpub
+evobib
+fabreall2009ann
+gilbertese
+gj
+glossa
+goba
+grambank
+guldemann
+haspelmath
+hedvig-tirailleur
+hh
+iso6393
+jocp
+langsci
+lapolla-tibeto-burman
+ldh
+lewinmanx
+ludger-paschen-germanic
+marctang
+mpieva
+ofdn
+otomanguean
+ozbib
+phoible
+pulotu
+sala
+schikowski_chintang
+seifart
+sil16
+silpng
+sn
+stampe
+wals
+weball
+zorcpapers
+zurich
+Glottolog 4.8
+                            edited by
+                            
+                                Hammarström, Harald & Forkel, Robert & Haspelmath, Martin & Bank, Sebastian
+                           
+                            is licensed under a
+                            
+                                Creative Commons Attribution 4.0 International License.
+                        
+Privacy Policy
+Disclaimer
+ 
+                                Application source
+                                    (v4.6-12-g4773988)
+                                on
+×

@@ -1,0 +1,47 @@
+            WALS Online -
+            Reference Oxotina 1961
+        
+Home
+Features
+Chapters
+Languages
+References
+Authors
+Oxotina 1961
+ 
+Text
+BibTeX
+Oxotina, N. V. 1961. Jazyk zulu. Moscow: Nauka.
+@book{Oxotina-1961,
+  address    = {Moscow},
+  author     = {Oxotina, N. V.},
+  publisher  = {Nauka},
+  title      = {Jazyk zulu},
+  year       = {1961},
+  iso_code   = {zul},
+  olac_field = {morphology; typology; general_linguistics},
+  wals_code  = {zul}
+}
+                Languages
+            
+Zulu
+                Datapoints
+            
+Zulu / Syncretism in Verbal Person/Number Marking
+Zulu / Case Syncretism
+WALS Online
+                            edited by
+                            
+                                Dryer, Matthew S. & Haspelmath, Martin
+                           
+                            is licensed under a
+                            
+                                Creative Commons Attribution 4.0 International License.
+                        
+Privacy Policy
+Disclaimer
+ 
+                                Application source
+                                    (v2014.2-199-ga9d1a68)
+                                on
+×

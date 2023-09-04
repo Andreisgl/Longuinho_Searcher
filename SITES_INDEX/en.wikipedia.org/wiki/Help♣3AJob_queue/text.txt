@@ -1,0 +1,298 @@
+Help:Job queue - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Languages
+Language links are at the top of the page across from the title.
+Search
+Search
+Create accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1Updating links tables when a template changes
+2HTML cache invalidation
+3Typical values
+4See also
+5References
+Toggle the table of contents
+Toggle the table of contents
+Help:Job queue
+Add languages
+Add links
+Help pageTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+Print/export
+Download as PDFPrintable version
+In other projects
+Wikimedia CommonsMediaWiki
+From Wikipedia, the free encyclopedia
+Wikipedia information pageThis is an information page.It is not one of Wikipedia's policies or guidelines, but rather intends to describe some aspect(s) of Wikipedia's norms, customs, technicalities, or practices. It may reflect varying levels of consensus and vetting.ShortcutWP:JQ
+In MediaWiki 1.6, a job queue was introduced to perform long-running tasks asynchronously. The job queue is designed to hold many short tasks using batch processing.
+Updating links tables when a template changes[edit]
+MediaWiki 1.6 adds a job to the job queue for each article using a template. Each job is a command to read an article, expand any templates, and update the link table accordingly. So null edits are no longer necessary, although it may take a while for big operations to complete. This can help to ease strain on users.
+HTML cache invalidation[edit]
+A wider class of operations can cause invalidation of the HTML cache for a large number of pages:
+Changing an image (all the thumbnails have to be re-rendered, and their sizes recalculated)
+Deleting a page (all the links to it from other pages need to change from blue to red)
+Creating or undeleting a page (like above, but from red to blue)
+Changing a template (all the pages that transclude the template need updating)
+Except for template changes and uploading a not previously existing file, these operations do not invalidate the links tables, but they do invalidate the HTML cache of all pages linking to that page, or using that image. Invalidating the cache of a page is a short operation; it only requires updating a single database field and sending a multicast packet to clear the caches. But if there are more than about 1000 to do, it takes a long time. By default, jobs are added when more than 500 pages need to be invalidated, one job per 500 operations.
+Typical values[edit]
+During a period of low loads, the job queue might be zero. At Wikimedia, the job queue is, in practice, almost never zero. In off-peak hours, it might be a few hundred to a thousand. During a busy day, it might be a few hundred thousand (values of several million are no cause for alarm), but it can quickly fluctuate by 10% or more.[1] Furthermore, several servers will have different estimates for this value so apparently more varying fluctuations can also be seen.
+See also[edit]
+mw:Redis
+mw:Manual:Job queue
+References[edit]
+^ "leŭksman » Blog Archive » So what's in the job queue anyway?". Leuksman.com. 2008-04-22. Retrieved 2019-10-14.
+vteWikipedia technical helpGet personal technical help at the Teahouse, help desk, village pump (technical), talk pages or IRC.Generaltechnical help
+Browser notes
+Bypass cache
+Keyboard shortcuts
+Editing
+CharInsert
+Edit conflict
+Edit toolbar
+Reverting
+How to create a page
+IRC
+Tutorial
+Mobile access
+Multilingual support
+Page history
+Page information
+Page name
+Help
+Printing
+Software notices
+Editnotice
+Special Characters
+Entering
+User access levels
+VisualEditor
+Help
+Specialpage-related
+Special page help
+Edit filter
+Emailing users
+Logging in
+Reset passwords
+Logs
+Moving a page
+History merging
+Non-admin and admin-only page moves
+Notifications/Echo
+FAQ
+Page Curation
+Page import
+Pending changes
+Random pages
+Recent changes
+Related changes
+Searching
+Linksearch
+Tags
+User contributions
+Watchlist
+What links here
+Wikitext
+Wikitext
+Cheatsheet
+Columns
+Line-break handling
+Lists
+Magic words
+For beginners
+Conditional expressions
+Switch parser function
+Time function
+Redirects
+Sections and TOCs
+Tables
+Introduction
+Basics
+Advanced table formatting
+Collapsing
+Conditional tables
+Sortable tables
+Using colours
+Links and diffs
+Links
+Interlanguage
+Interwiki
+Permanent
+Diffs
+Simplest diff guide
+Simple diff and link guide
+Complete diff and link guide
+Colon trick
+Link color
+Pipe trick
+URLs
+Media files: images,videos and sounds
+Media help
+Files
+Creation and usage
+Moving files to Commons
+Images
+Introduction to images
+Picture tutorial
+Preparing images for upload
+Uploading images
+Options to hide an image
+Extended image syntax
+SVG help
+Gallery tag
+Graphics tutorials
+Basic bitmap image editing
+How to improve image quality
+Graphics Lab resources
+Sound file markup
+Visual file markup
+Other graphics
+Family trees
+Graphs and charts
+How to create
+Barcharts
+To scale charts
+Math formulas
+Math symbols
+Musical scores
+Musical symbols
+Timeline
+EasyTimeline syntax
+WikiHiero syntax
+Templates andLua modules
+Templates
+Advanced template coding
+Template documentation
+Template index
+Template limits
+Template sandbox and test cases
+Citation templates
+Lua help
+Lua project
+Resources
+To do
+Substitution
+Purge
+Job queue
+Transclusion
+Labeled section
+Costs and benefits
+Guide to Scribbling
+Data structure
+Namespaces
+Main/Article
+Category
+Draft
+File
+File description page
+Help
+Portal
+Project/Wikipedia
+Talk
+Archiving
+Simple
+Template
+User
+User page design
+MediaWiki
+Bug reports and feature requests
+TimedMediaHandler extension
+Module
+Special
+HTML and CSS
+Cascading Style Sheets
+HTML in wikitext
+Catalogue of CSS classes
+Common.js and common.css
+User CSS for monospaced coding font
+Classes in microformats
+Markup validation
+Span tags
+Useful styles
+Customisationand tools
+Preferences
+Gadgets
+Skins
+Citation tools
+Cleaning up vandalism tools
+Customizing watchlists
+Hide pages
+IRC Scripts
+User scripts
+Guide
+List
+Techniques
+User style
+Tools
+Alternative browsing
+Browser tools
+Editing tools
+Navigation shortcuts
+Optimum tool set
+Wikimedia Cloud Services
+Beta Features at MediaWiki
+Automated editing
+AfC helper script
+AntiVandal
+AutoWikiBrowser
+Bots
+Creating
+history
+HotCat
+Huggle
+Navigation popups
+RedWarn
+Twinkle
+Ultraviolet
+WPCleaner
+Inactive
+igloo
+STiki
+See also: Category:Wikipedia how-to
+Category:Wikipedia information pagesFurther navigation at: Help pages
+Administrators
+Accessibility
+Accounts
+Bots
+Referencing
+Citation metadata
+Templates
+User scripts
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Help:Job_queue&oldid=1111332481"
+Categories: Wikipedia information pagesWikipedia link help
+ This page was last edited on 20 September 2022, at 12:56 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

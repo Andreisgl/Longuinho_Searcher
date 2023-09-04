@@ -1,0 +1,815 @@
+gravity - Wikidata
+gravity
+(Q11412)
+From Wikidata
+Jump to navigation
+Jump to search
+fundamental interaction affecting all mattergravitationgravitational interaction
+edit
+Language
+Label
+Description
+Also known as
+English
+gravity
+fundamental interaction affecting all matter
+gravitationgravitational interaction
+Statements
+instance of
+fundamental interaction
+0 references
+physical phenomenon
+0 references
+Q118193027
+reason for deprecated rank
+refers to Wikimedia internal entity
+1 reference
+stated in
+Gemeinsame Normdatei
+GND ID
+4021908-2
+language of work or name
+German
+retrieved
+7 May 2023
+image
+Solar sys.jpg1,440 × 904; 1.44 MB
+media legend
+A gravitação mantém os planetas em órbita ao redor do Sol. (Sem escala.) (Brazilian Portuguese)
+0 references
+video
+Schwerkraft als Krümmung des Raumes (CC BY 4.0).webm28 s, 1,280 × 720; 21.6 MB
+0 references
+studied by
+Newton's law of universal gravitation
+0 references
+general relativity
+0 references
+has cause
+spacetime curvature
+statement is subject of
+general relativity
+0 references
+matter
+0 references
+has effect
+fall
+0 references
+gravitational motion
+0 references
+has quality
+gravitational force
+statement is subject of
+Newton's law of universal gravitation
+0 references
+spacetime curvature
+statement is subject of
+general relativity
+0 references
+opposite of
+non-gravitational force
+1 reference
+inferred from
+non-gravitational force
+described by source
+Armenian Soviet Encyclopedia
+volume
+11
+page(s)
+712
+1 reference
+imported from Wikimedia project
+Armenian Wikipedia
+Brockhaus and Efron Encyclopedic Dictionary
+statement is subject of
+Q24497888
+0 references
+Small Brockhaus and Efron Encyclopedic Dictionary
+statement is subject of
+Q24752399
+0 references
+Encyclopædia Britannica 11th edition
+statement is subject of
+1911 Encyclopædia Britannica/Gravitation
+0 references
+on focus list of Wikimedia project
+Wikipedia:List of articles all languages should have
+0 references
+Wikipedia:Vital articles/Level/4
+point in time
+31 October 2022
+0 references
+WordLift URL
+http://data.thenextweb.com/tnw/entity/gravity
+1 reference
+reference URL
+https://thenextweb.com/vocabulary/gravity/
+Stack Exchange tag
+https://physics.stackexchange.com/tags/gravity
+0 references
+https://mathoverflow.net/tags/gravity-theory
+0 references
+https://space.stackexchange.com/tags/gravity
+0 references
+https://astronomy.stackexchange.com/tags/gravity
+0 references
+https://worldbuilding.stackexchange.com/tags/gravity
+0 references
+https://scifi.stackexchange.com/tags/gravity
+0 references
+different from
+Gravity
+criterion used
+descriptive page and disambiguation page have to be in different items
+applies to name of subject
+gravity (English)
+0 references
+Gravitation
+criterion used
+descriptive page and disambiguation page have to be in different items
+applies to name of subject
+Gravitation (English)
+0 references
+Q5478402
+criterion used
+descriptive page and disambiguation page have to be in different items
+applies to name of subject
+Schwerkraft (German)
+0 references
+Q3115788
+criterion used
+descriptive page and disambiguation page have to be in different items
+applies to name of subject
+gravité (French)
+0 references
+Gravitas
+criterion used
+descriptive page and disambiguation page have to be in different items
+applies to name of subject
+gravitas (Latin)
+0 references
+gravity of Earth
+0 references
+weight
+0 references
+gravitational acceleration
+0 references
+standard acceleration of free fall
+0 references
+acceleration of free fall
+0 references
+apparent weight
+0 references
+gravitational force
+0 references
+Commons category
+Gravitation
+0 references
+topic's main category
+Category:Gravity
+0 references
+Identifiers
+Biblioteca Nacional de España ID
+XX53092
+0 references
+Bibliothèque nationale de France ID
+11941885b
+0 references
+GND ID
+4021908-2
+subject named as
+Gravitation
+alternative name
+Massenanziehung
+0 references
+National Library of Israel J9U ID
+987007538558205171
+1 reference
+stated in
+National Library of Israel
+National Library of Korea ID
+KSH1998020785
+0 references
+Library of Congress authority ID
+sh85056558
+0 references
+NDL Authority ID
+00575134
+0 references
+NL CR AUT ID
+ph120611
+subject named as
+gravitace
+0 references
+IdRef ID
+027359921
+0 references
+Dewey Decimal Classification
+521.1
+1 reference
+stated in
+Gemeinsame Normdatei
+GND ID
+4021908-2
+language of work or name
+German
+retrieved
+7 May 2023
+531.14
+1 reference
+stated in
+Gemeinsame Normdatei
+GND ID
+4021908-2
+language of work or name
+German
+retrieved
+7 May 2023
+539.754
+1 reference
+stated in
+Gemeinsame Normdatei
+GND ID
+4021908-2
+language of work or name
+German
+retrieved
+7 May 2023
+629.4111
+1 reference
+stated in
+Gemeinsame Normdatei
+GND ID
+4021908-2
+language of work or name
+German
+retrieved
+7 May 2023
+MeSH descriptor ID
+D006112
+0 references
+Australian Educational Vocabulary ID
+scot/3389
+0 references
+BBC Things ID
+1ca90d55-e5aa-4f3e-bbdf-561e6228c73a
+1 reference
+stated in
+BBC Things
+BNCF Thesaurus ID
+7993
+1 reference
+stated in
+National Central Library of Florence
+Brilliant Wiki ID
+gravitation
+0 references
+Canadian Encyclopedia article ID
+gravity
+0 references
+Cultureel Woordenboek ID
+natuurkunde-scheikunde-en-sterrenkunde/zwaartekracht
+0 references
+Den Store Danske ID
+gravitation
+0 references
+Encyclopædia Britannica Online ID
+science/gravitation-physical-process
+subject named as
+gravitation
+0 references
+science/gravity-physics
+subject named as
+gravity
+alternative name
+gravitation
+0 references
+Encyclopædia Universalis ID
+interactions-physique-interaction-gravitationnelle
+0 references
+Encyclopedia of China (Third Edition) ID
+228163
+0 references
+Encyclopedia of Modern Ukraine ID
+26797
+0 references
+Freebase ID
+/m/09lw1
+1 reference
+stated in
+Freebase Data Dumps
+publication date
+28 October 2013
+French Vikidia ID
+Gravitation
+0 references
+Great Russian Encyclopedia Online ID (old version)
+4213641
+subject named as
+ТЯГОТЕНИЕ
+0 references
+Iconclass notation
+49E222
+0 references
+JSTOR topic ID
+gravity
+0 references
+KBpedia ID
+Gravitation
+1 reference
+stated in
+KBpedia
+retrieved
+9 July 2020
+Klexikon article ID
+Schwerkraft
+0 references
+Krugosvet article
+fizika/tyagotenie
+0 references
+Mathematics Subject Classification ID
+81V17
+0 references
+83F05
+0 references
+MetaSat ID
+gravity
+0 references
+Microsoft Academic ID
+124017977
+0 references
+NALT ID
+43766
+0 references
+OmegaWiki Defined Meaning
+8440
+0 references
+Online PWN Encyclopedia ID
+3907664
+0 references
+Open Library subject ID
+gravitation
+0 references
+OpenAlex ID
+C124017977
+1 reference
+stated in
+OpenAlex
+retrieved
+26 January 2022
+reference URL
+https://docs.openalex.org/download-snapshot/snapshot-data-format
+C2986771340
+1 reference
+stated in
+OpenAlex
+retrieved
+26 January 2022
+reference URL
+https://docs.openalex.org/download-snapshot/snapshot-data-format
+C2983487018
+1 reference
+stated in
+OpenAlex
+retrieved
+26 January 2022
+reference URL
+https://docs.openalex.org/download-snapshot/snapshot-data-format
+PSH ID
+3788
+0 references
+Quora topic ID
+Gravity
+0 references
+ScienceDirect topic ID
+physics-and-astronomy/gravitation
+0 references
+Spanish Vikidia ID
+Gravedad
+0 references
+Store norske leksikon ID
+gravitasjon
+0 references
+The Encyclopedia of Science Fiction ID
+gravity
+1 reference
+imported from Wikimedia project
+Mix'n'match
+UNESCO Thesaurus ID
+concept3238
+0 references
+Unified Astronomy Thesaurus ID
+661
+0 references
+YSO ID
+1175
+1 reference
+stated in
+YSO-Wikidata mapping project
+Zhihu topic ID
+19640490
+subject named as
+引力
+0 references
+ 
+Sitelinks
+Wikipedia(157 entries)
+edit
+afwiki
+Swaartekrag
+alswiki
+Gravitation
+amwiki
+ግስበት
+anpwiki
+गुरुत्वाकर्षण
+anwiki
+Gravedat
+arwiki
+جاذبية
+arywiki
+جابدية
+arzwiki
+جاذبيه
+astwiki
+Gravedá
+aswiki
+মহাকৰ্ষণ
+azbwiki
+جاذیبه
+azwiki
+Cazibə qüvvəsi
+barwiki
+Schwaakroft
+bat_smgwiki
+Gravitacėjė
+bawiki
+Гравитация
+bclwiki
+Grabidad
+be_x_oldwiki
+Гравітацыя
+bewiki
+Гравітацыя
+bgwiki
+Гравитация
+bjnwiki
+Gravitasi
+bnwiki
+মহাকর্ষ
+bpywiki
+অভিকর্ষ
+brwiki
+Gravitadur
+bswiki
+Gravitacija
+cawiki
+Gravetat
+chrwiki
+ᎠᏓᎾᏌᏁᏍᎩ
+ckbwiki
+ڕاکێشان (فیزیک)
+cswiki
+Gravitace
+cvwiki
+Гравитаци
+cywiki
+Disgyrchiant
+dawiki
+Gravitation
+dewiki
+Gravitation
+diqwiki
+Antışê erdi
+elwiki
+Βαρύτητα
+enwiki
+Gravity
+eowiki
+Gravito
+eswiki
+Gravedad
+etwiki
+Gravitatsioon
+euwiki
+Grabitazio
+extwiki
+Gravedá
+fawiki
+گرانش
+fiwiki
+Painovoima
+fjwiki
+Bibi
+frrwiki
+Swaarkrääft
+frwiki
+Gravitation
+fywiki
+Swiertekrêft
+gawiki
+Imtharraingt
+gcrwiki
+Gravitasyon
+gdwiki
+Iom-tharraing
+glwiki
+Gravidade
+gnwiki
+Mbaretepyte
+gorwiki
+Gravitasi
+guwiki
+ગુરુત્વાકર્ષણ
+gvwiki
+Ym-hayrn
+hewiki
+כבידה
+hifwiki
+Gravitation
+hiwiki
+गुरुत्वाकर्षण
+hrwiki
+Gravitacija
+huwiki
+Gravitáció
+hywiki
+Ձգողականություն
+iawiki
+Gravitation
+idwiki
+Gravitasi
+iewiki
+Gravitation
+iowiki
+Gravitado
+iswiki
+Þyngdarafl
+itwiki
+Interazione gravitazionale
+jamwiki
+Gravitieshan
+jawiki
+重力
+jbowiki
+maircpukai
+jvwiki
+Gravitasi
+kabwiki
+Taldayt
+kawiki
+გრავიტაცია
+kbpwiki
+Ɖama hɔm ɖoŋ (gravitation)
+kkwiki
+Гравитация
+knwiki
+ಗುರುತ್ವ
+kowiki
+중력
+kswiki
+گرٛٲنؠ
+kuwiki
+Rakêş
+kywiki
+Тартылуу
+lawiki
+Gravitas (physica)
+lbwiki
+Gravitatioun
+lgwiki
+Essikirizo (Gravity)
+liwiki
+Zwaordjekraf
+lmowiki
+Forza de gravità
+ltwiki
+Gravitacija
+lvwiki
+Gravitācija
+minwiki
+Gravitasi
+mkwiki
+Гравитација
+mlwiki
+ഗുരുത്വാകർഷണം
+mnwiki
+Гравитаци
+mrwiki
+गुरुत्वाकर्षण
+mswiki
+Graviti
+mwlwiki
+Grabidade
+mywiki
+ဒြပ်ဆွဲအား
+ndswiki
+Gravitatschoon
+newiki
+गुरुत्व बल
+newwiki
+गेँसु
+nlwiki
+Zwaartekracht
+nnwiki
+Gravitasjon
+novwiki
+Gravitatione
+nowiki
+Gravitasjon
+ocwiki
+Gravitacion
+omwiki
+Harkisoo
+pawiki
+ਗੁਰੂਤਾ ਖਿੱਚ
+plwiki
+Grawitacja
+pnbwiki
+گریویٹی
+pswiki
+د جاذبې قوه
+ptwiki
+Gravidade
+quwiki
+Llasaturaku
+rowiki
+Gravitație
+ruewiki
+Ґравітація
+ruwiki
+Гравитация
+sawiki
+गुरुत्वाकर्षणशक्तिः
+scnwiki
+Gravitazzioni univirsali
+scowiki
+Gravitation
+scwiki
+Gravidade
+sdwiki
+ڪشش ثقل
+shwiki
+Gravitacija
+simplewiki
+Gravity
+siwiki
+ගුරුත්වාකර්ෂණය
+skwiki
+Gravitácia
+slwiki
+Težnost
+smnwiki
+Tiädduvyeimi
+snwiki
+Gunganidzo
+sowiki
+Cufisjiidad
+sqwiki
+Graviteti
+srwiki
+Гравитација
+stqwiki
+Sweerkraft
+suwiki
+Gravitasi
+svwiki
+Gravitation
+swwiki
+Graviti
+tawiki
+ஈர்ப்பு விசை
+tewiki
+గురుత్వాకర్షణ
+tgwiki
+Гирониш
+thwiki
+ความโน้มถ่วง
+tlwiki
+Balani
+towiki
+Kalavite
+trwiki
+Kütleçekim
+ttwiki
+Гравитация
+tyvwiki
+Гравитация
+ugwiki
+ئالەملىك تارتىش كۈچى
+ukwiki
+Гравітація
+urwiki
+ثقالت
+uzwiki
+Gravitatsiya
+vecwiki
+Gravità
+vepwiki
+Gravitacii
+viwiki
+Tương tác hấp dẫn
+warwiki
+Hulog-bug-át
+wowiki
+Dooley ñoddi
+wuuwiki
+引力
+xmfwiki
+გრავიტაცია
+yiwiki
+גראוויטאציע
+zh_classicalwiki
+重力
+zh_min_nanwiki
+Tiōng-le̍k
+zh_yuewiki
+萬有引力
+zhwiki
+引力
+zuwiki
+UmNyondo
+Wikibooks(5 entries)
+edit
+enwikibooks
+Physics Study Guide/Gravity
+frwikibooks
+Gravitation
+itwikibooks
+Gravitazione
+kowikibooks
+물리학 연구 가이드/중력
+ltwikibooks
+Gravitacija
+Wikinews(1 entry)
+edit
+ruwikinews
+Категория:Гравитация
+Wikiquote(8 entries)
+edit
+enwikiquote
+Gravity
+eswikiquote
+Gravedad
+etwikiquote
+Gravitatsioon
+frwikiquote
+Gravité
+hewikiquote
+כבידה
+itwikiquote
+Interazione gravitazionale
+kowikiquote
+중력
+plwikiquote
+Grawitacja
+Wikisource(0 entries)
+edit
+Wikiversity(5 entries)
+edit
+arwikiversity
+جاذبية
+enwikiversity
+Gravity
+hiwikiversity
+गुरुत्वाकर्षण
+itwikiversity
+Gravitazione (superiori)
+kowikiversity
+중력
+Wikivoyage(0 entries)
+edit
+Wiktionary(0 entries)
+edit
+Multilingual sites(0 entries)
+edit
+Retrieved from "https://www.wikidata.org/w/index.php?title=Q11412&oldid=1965471584"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+ItemDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 31 August 2023, at 16:15.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

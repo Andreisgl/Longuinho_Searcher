@@ -1,0 +1,520 @@
+Navajo - Wikidata
+Navajo
+(Q13310)
+From Wikidata
+Jump to navigation
+Jump to search
+Athabaskan language of Na-Dené stock spoken in the southwestern United StatesNavahoNavajo languagenvNavah languageDiné bizaadNaabeehó bizaad
+edit
+Language
+Label
+Description
+Also known as
+English
+Navajo
+Athabaskan language of Na-Dené stock spoken in the southwestern United States
+NavahoNavajo languagenvNavah languageDiné bizaadNaabeehó bizaad
+Statements
+instance of
+natural language
+0 references
+language
+1 reference
+stated in
+Ethnologue
+modern language
+1 reference
+reference URL
+https://iso639-3.sil.org/code/nav
+subclass of
+Southern Athabaskan
+0 references
+image
+NavajoSigns.png774 × 424; 662 KB
+0 references
+Navajo Code Talkers.jpg363 × 262; 75 KB
+0 references
+native label
+Diné bizaad (Navajo)
+0 references
+Diné (Navajo)
+0 references
+country
+United States of America
+1 reference
+reference URL
+https://scriptsource.org/country/US
+title
+ScriptSource - United States (English)
+retrieved
+21 August 2023
+indigenous to
+Arizona
+0 references
+Colorado
+0 references
+New Mexico
+0 references
+Utah
+0 references
+located in the administrative territorial entity
+Navajo Nation
+0 references
+linguistic typology
+subject–object–verb
+0 references
+agglutinative language
+2 references
+imported from Wikimedia project
+French Wikipedia
+imported from Wikimedia project
+English Wikipedia
+polysynthetic language
+1 reference
+imported from Wikimedia project
+French Wikipedia
+tonal language
+0 references
+writing system
+Latin script
+0 references
+language regulatory body
+Navajo Language Academy
+0 references
+number of speakers, writers, or signers
+169,369
+point in time
+2011
+1 reference
+reference URL
+https://www.census.gov/prod/2013pubs/acs-22.pdf
+archive URL
+https://web.archive.org/web/20160205101044/http://www.census.gov/prod/2013pubs/acs-22.pdf
+archive date
+5 February 2016
+UNESCO language status
+2 vulnerable
+0 references
+Ethnologue language status
+6b Threatened
+1 reference
+stated in
+Ethnologue
+retrieved
+10 May 2019
+reference URL
+https://www.ethnologue.com/language/nav
+distribution map
+Navaho USC2000 PHS.svg959 × 593; 173 KB
+1 reference
+imported from Wikimedia project
+Czech Wikipedia
+page banner
+Navajo phrasebook banner Monument Valley.jpg2,048 × 293; 540 KB
+1 reference
+imported from Wikimedia project
+English Wikivoyage
+category for films in this language
+Category:Navajo-language films
+0 references
+related category
+Category:Navajo pronunciation
+category contains
+pronunciation
+0 references
+Wikimedia language code
+nv
+0 references
+exact match
+http://publications.europa.eu/resource/authority/language/NAV
+1 reference
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+Commons category
+Navajo language
+1 reference
+imported from Wikimedia project
+English Wikipedia
+topic's main category
+Category:Navajo language
+0 references
+Identifiers
+ISO 639-1 code
+nv
+2 references
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+imported from Wikimedia project
+English Wikipedia
+ISO 639-2 code
+nav
+applies to part
+terminology
+bibliography
+2 references
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+imported from Wikimedia project
+English Wikipedia
+ISO 639-3 code
+nav
+2 references
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+imported from Wikimedia project
+English Wikipedia
+Bibliothèque nationale de France ID
+11945144s
+1 reference
+imported from Wikimedia project
+French Wikipedia
+GND ID
+4126384-4
+0 references
+National Library of Israel J9U ID
+987007562906905171
+1 reference
+stated in
+National Library of Israel
+Library of Congress authority ID
+sh85090350
+1 reference
+imported from Wikimedia project
+French Wikipedia
+NDL Authority ID
+00567962
+0 references
+Dewey Decimal Classification
+497.26
+0 references
+Encyclopædia Britannica Online ID
+topic/Navajo-language
+0 references
+endangeredlanguages.com ID
+6085
+subject named as
+Diné Bizaad (Navajo)
+0 references
+Ethnologue.com language code
+nav
+1 reference
+imported from Wikimedia project
+Czech Wikipedia
+EU Knowledge Graph item ID
+Q239672
+0 references
+Freebase ID
+/m/017yph
+1 reference
+stated in
+Freebase Data Dumps
+publication date
+28 October 2013
+Glottolog code
+nava1243
+1 reference
+stated in
+World Atlas of Language Structures
+reference URL
+http://wals.info/languoid/lect/wals_code_nav
+retrieved
+2 November 2017
+GOST 7.75–97 code
+нав 470
+1 reference
+imported from Wikimedia project
+Russian Wikipedia
+Great Russian Encyclopedia Online ID (old version)
+2243244
+subject named as
+НАВАХО
+0 references
+Hrvatska enciklopedija ID
+68364
+0 references
+IAB code
+1150
+0 references
+IETF language tag
+nv
+1 reference
+imported from Wikimedia project
+French Wikipedia
+i-navajo
+0 references
+KBpedia ID
+NavajoLanguage
+1 reference
+stated in
+KBpedia
+retrieved
+9 July 2020
+Krugosvet article
+gumanitarnye_nauki/lingvistika/NAVAHO_YAZIK.html
+0 references
+Lingua Libre ID
+Q61
+0 references
+LoC and MARC vocabularies ID
+languages/nav
+0 references
+iso639-1/nv
+0 references
+iso639-2/nav
+0 references
+Microsoft Academic ID
+2781222102
+0 references
+Native Land language ID
+navajo-2
+0 references
+OmegaWiki Defined Meaning
+7611
+0 references
+Open Library subject ID
+navajo_language
+0 references
+OpenAlex ID
+C2781222102
+1 reference
+stated in
+OpenAlex
+retrieved
+26 January 2022
+reference URL
+https://docs.openalex.org/download-snapshot/snapshot-data-format
+POSIX locale identifier
+nv
+0 references
+Quora topic ID
+Navajo
+0 references
+UNESCO Atlas of the World's Languages in Danger ID
+784
+0 references
+WALS lect code
+nav
+0 references
+WordNet 3.1 Synset ID
+06932489-n
+0 references
+ 
+Sitelinks
+Wikipedia(76 entries)
+edit
+afwiki
+Navajo (taal)
+angwiki
+Dinegisc sprǣc
+arwiki
+نافاهو
+arzwiki
+نافاهو
+astwiki
+Idioma navajo
+azbwiki
+ناواهو دیلی
+bgwiki
+Навахо (език)
+brwiki
+Navac'hoeg
+cawiki
+Navaho
+cswiki
+Navažština
+cywiki
+Nafacho (iaith)
+dewiki
+Navajo (Sprache)
+elwiki
+Γλώσσα Ναβάχο
+enwiki
+Navajo language
+eowiki
+Navaha lingvo
+eswiki
+Idioma navajo
+etwiki
+Navaho keel
+euwiki
+Navajo (hizkuntza)
+fawiki
+زبان ناواهو
+fiwiki
+Navajo
+fowiki
+Navaho
+frrwiki
+Navajo spriak
+frwiki
+Navajo (langue)
+gawiki
+Navachóis
+gdwiki
+Navajo (cànan)
+glwiki
+Lingua navajo
+gvwiki
+Navajo (çhengey)
+hewiki
+נאוואחו (שפה)
+hifwiki
+Navajo language
+hiwiki
+नावाहो भाषा
+idwiki
+Bahasa Navajo
+iswiki
+Navahóíska
+itwiki
+Lingua navajo
+iuwiki
+ᓈᕙᐦᐅᑐᑦ
+jawiki
+ナバホ語
+jvwiki
+Basa Navajo
+kowiki
+나바호어
+kuwiki
+Zimanê navaho
+kvwiki
+Навахо (кыв)
+kwwiki
+Navaho (yeth)
+lfnwiki
+Navaho (lingua)
+liwiki
+Navajo (taol)
+ltwiki
+Navahų kalba
+lvwiki
+Navahu valoda
+mkwiki
+Навахо (јазик)
+mrjwiki
+Навахо йӹлмӹ
+mznwiki
+ناواخو
+nds_nlwiki
+Navajo (toal)
+nlwiki
+Navajo (taal)
+nnwiki
+Navaho
+nowiki
+Navajo (språk)
+nvwiki
+Diné Bizaad
+ocwiki
+Navaho
+plwiki
+Język nawaho
+pmswiki
+Lenga navajo
+pnbwiki
+نواجو بولی
+ptwiki
+Língua navaja
+quwiki
+Diné simi
+rowiki
+Limba navajo
+ruwiki
+Навахо (язык)
+sahwiki
+Наваахо тыла
+satwiki
+ᱱᱟᱵᱷᱟᱡᱳ ᱯᱟᱹᱨᱥᱤ
+scowiki
+Navajo leid
+simplewiki
+Navajo language
+smnwiki
+Navajokielâ
+stqwiki
+Navajo (Sproake)
+svwiki
+Navajo (språk)
+tawiki
+நாவஹோ மொழி
+tlwiki
+Wikang Navajo
+trwiki
+Navahoca
+ukwiki
+Навахо (мова)
+urwiki
+ناواہو زبان
+viwiki
+Tiếng Navajo
+wuuwiki
+纳瓦霍语
+zh_yuewiki
+拿華荷文
+zhwiki
+納瓦荷語
+Wikibooks(1 entry)
+edit
+enwikibooks
+Navajo
+Wikinews(0 entries)
+edit
+Wikiquote(1 entry)
+edit
+itwikiquote
+Lingua navajo
+Wikisource(0 entries)
+edit
+Wikiversity(0 entries)
+edit
+Wikivoyage(1 entry)
+edit
+enwikivoyage
+Navajo phrasebook
+Wiktionary(2 entries)
+edit
+enwiktionary
+Wiktionary:About Navajo
+eowiktionary
+Aldono:Navaha
+Multilingual sites(0 entries)
+edit
+Retrieved from "https://www.wikidata.org/w/index.php?title=Q13310&oldid=1962199883"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+ItemDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 27 August 2023, at 07:12.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

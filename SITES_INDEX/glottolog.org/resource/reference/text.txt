@@ -1,0 +1,56 @@
+            Glottolog 4.8 -
+            Oscar Bandle 1973
+        
+      Glottolog
+  
+Languages
+Families
+Language Search
+References
+Reference Search
+GlottoScope
+About
+Oscar Bandle 1973  
+ 
+Text
+BibTeX
+Oscar Bandle. 1973. Die Gliederung des Nordgermanischen. (Beiträge zur nordischen Philologie, 47.) Basel: Helbing & Lichtenhahn. 166pp.
+@book{547226,
+  address    = {Basel},
+  author     = {Oscar Bandle},
+  pages      = {166},
+  publisher  = {Helbing & Lichtenhahn},
+  series     = {Beiträge zur nordischen Philologie},
+  title      = {Die Gliederung des Nordgermanischen},
+  volume     = {47},
+  year       = {1973},
+  bestfn     = {eurasia\bandle_nordgermanischen1973v2_o.pdf},
+  besttxt    = {ptxt2\eurasia\bandle_nordgermanischen1973v2_o.txt},
+  fn         = {eurasia\bandle_nordgermanischen1973.pdf, eurasia\bandle_nordgermanischen1973v2_o.pdf, eurasia\bandle_nordgermanischen1973_o.pdf},
+  hhtype     = {overview;comparative},
+  inlg       = {German [deu]},
+  macro_area = {Eurasia},
+  src        = {hh}
+}
+Document types
+Handbook/overview
+Comparative-historical study
+Providers
+Harald Hammarström's bibliography
+hh:hv:Bandle:Nordgermanischen
+Glottolog 4.8
+                            edited by
+                            
+                                Hammarström, Harald & Forkel, Robert & Haspelmath, Martin & Bank, Sebastian
+                           
+                            is licensed under a
+                            
+                                Creative Commons Attribution 4.0 International License.
+                        
+Privacy Policy
+Disclaimer
+ 
+                                Application source
+                                    (v4.6-12-g4773988)
+                                on
+×

@@ -1,0 +1,280 @@
+Help:Interwiki linking/it - Meta
+Help:Interwiki linking/it
+From Meta, a Wikimedia project coordination wiki
+< Help:Interwiki linking
+Jump to navigation
+Jump to search
+Manuale di MediaWiki : Sommario generale —— sommario specifico per Lettori, Scrittori, Amministratori, Sviluppatori —— Altre pagine di aiuto (specifiche per questo progetto)
+Questa pagina è una traduzione della corrispondente pagina del manuale in inglese di MediaWiki.
+Puoi consultare (in inglese) le linee guida del manuale | la Politica editoriale
+modifica il testo prima del primo titolo di sezione
+ 
+{{{{{1}}}}}
+Aggiungendo un pefisso di un'altro progetto al formato dei collegamenti interni ("stile prefissato di un collegamento interno") è possibile collegarsi ad una pagina sita su un altro progetto. Nel contesto di collegamenti tra diversi progetti, un sistema di prefissi brevi viene utilizzato per riferirsi ai diversi progetti. Per esempio, it: si riferisce alla Wikipedia in italiano. Il codice [[it:Mela]] produce it:Mela, ovvero un "link" alla voce "Mela" sulla Wikipedia in italiano.
+Questo tipo di collegamenti si chiama interwiki (in inglese). Per ogni progetto è specificata una InterWiki map ("mappa InterWiki"; la InterWiki map riporta i prefissi dei collegamenti interwiki memorizzati nella tabella "interwiki" del database ("base di dati"); esempio dei record presenti nella tabella interwiki restituiti tramite interrogazione del database in inglese). Questi progetti obiettivo non necessitano dell'uso di MediaWiki né devono necessariamente essere un sito wiki.
+Contents
+1 Collegamenti Interwiki da ed all'interno di Wikimedia
+1.1 Titoli dei progetti e scorciatoie
+2 Tecnicamente
+2.1 Prefissi
+3 Wikia
+4 Collegamenti interlingua
+4.1 Collegamenti interlinga dentro una pagina
+4.2 Collegamenti interlingua nel senso più ampio
+5 Collegamenti interwiki verso collegamenti esterni
+6 Collegamenti interwiki allo stesso sito wiki verso collegamenti interni
+7 Vedi anche
+Collegamenti Interwiki da ed all'interno di Wikimedia[edit]
+All'interno di Wikimedia, allo scopo di collegarsi alle versioni in diverse lingue di una voce o pagina tramite interlink (interlanguage linkshttp://en.wikipedia.org/wiki/Wikipedia:Interlanguage links versione più completa in inglese; vedi più sotto), le famiglie di progetti sono Wikipedia, Wiktionary, Wikiquote, Wikibooks e Wikisource. Questo si applica per tutti i link come it:, en:, de:, ecc., da una Wikipedia ad un'altra, da un Wiktionary ad un altro, da un Wikiquote ad un altro, da un Wikibooks ad un altro o da una Wikisource ad un altro.
+La funzione di collegamento interlingua funziona anche su Wikimedia Commons e produce collegamenti alla Wikipedia nel linguaggio prefissato. Invece, non è vero il contrario, in quanto un collegamento da una Wikipedia a Commons è un collegamento ad una pagina di ingresso (o entrata) comune.
+Titoli dei progetti e scorciatoie[edit]
+Progetto
+Forma lunga
+Scorciatoia
+Wikipedia
+[[wikipedia:]]
+[[w:]]
+Wikizionario
+[[wiktionary:]]
+[[wikt:]]
+Wikinews
+[[wikinews:]]
+[[n:]]
+Wikibooks
+[[wikibooks:]]
+[[b:]]
+Wikiquote
+[[wikiquote:]]
+[[q:]]
+Wikisource
+[[wikisource:]]
+[[s:]]
+Wikispecies
+[[wikispecies:]]
+[[species:]]
+Wikiversità
+[[wikiversity:]]
+[[v:]]
+Wikimedia Foundation
+[[wikimedia:]][[foundation:]]
+[[wmf:]]
+Wikimedia Commons
+[[commons:]]
+Wikimedia local groups
+[[chapter:]]
+Wikimedia Meta-Wiki
+[[metawikipedia:]][[meta:]]
+[[m:]]
+Wikimedia Incubator
+[[incubator:]]
+MediaWiki
+[[mw:]]
+MediaZilla / Bugzilla
+[[mediazilla:]][[bugzilla:]]
+Testwiki
+[[testwiki:]]
+* Altri prefissi di Wikimedia sono: betawikiversity:, download:, dbdump:, mail:, mailarchive:, otrs:, OTRSwiki:, quality:, spcom:, tools:, tswiki:, svn:, rev:, wmania:, wm2005:, wm2006:, wm2007:, wm2008:, wm2009:.
+Alcune delle forme lunghe, quando utilizzate all'interno dello stesso progetto, non funzionano come ci potremmo aspettare; per esempio [[meta:]] non funziona su Meta, mentre [[metawikipedia:]] funziona (vedi nella tabella superiore). Questo dipende da come è configurato il sito wiki e dal posto ove i nomi sono memorizzati (vedi anche il paragrafo successivo). Le scorciatoie (o forme brevi), invece, funzionano ovunque. (Almeno questa sarebbe l'intenzione; attualmente (16-gen-2007), non tute le scorciatoie funzionano su tutti i progetti.)
+La mappa InterWiki ("InterWiki map") qui su Meta elenca molti prefissi, e, tra gli altri, [[wikipedia:]] (wikipedia:) per la Wikipedia in inglese, non solo funziona dai siti wiki di MediaWiki, ma anche da qualsiasi altro sito wiki che supporti la mappa InterWiki di Meta. Alcuni prefissi funzionano solo quando puntino ad una pagina; per esempio: wikipediawikipedia: fallisce, mentre wikipediawikipedia:Interwikimedia link funziona. Per tutti i prefissi non viene fatta distinzione tra caratteri in maiuscolo ed in minuscolo.
+Prefissi composti da una lettera attualmente disponibili (come controllo in tempo reale della tabella):  b: c: d: f: m: n: q: s: v: w:
+I codici interwiki non di Wikimedia hanno una limitazione, essi possono essere utilizzati solo tramite un link ("collegamento"). Per esempio, la voce di "John" sul Wiktionary in inglese, un progetto di Wikimedia, si può accedere tramite [[wikt:John]] o http://meta.wikimedia.org/wiki/wikt:John. Tuttavia, questo secondo metodo non funziona sui siti wiki che utilizzano software diversi da quello di Wikimedia. Per esempio, la pagina principale sul sito Wiki di Mozilla si può accedere tramite [[MozillaWiki:Main Page]], ma http://meta.wikimedia.org/wiki/MozillaWiki:Main_Page restituisce come risultato un errore.
+Tecnicamente[edit]
+Il prefisso del namespace (in italiano "spazio dei nomi", ma si usa la dizione in inglese anche nei progetti in italiano) di un progetto non può essere riutilizzato come codice per un progetto esterno. Tuttavia, il prefisso utilizzato per un progetto di destinazione può coincidere con il prefisso del namespace di un progetto nell'ambito di quel progetto stesso. Di conseguenza, per fare un collegamento ad una pagina presente in uno stesso namespace utilizzare lo stesso prefisso per due volte. Ad esempio per la pagina di discussione su Wikisource in inglese: en:Wikisource:Wikisource:Scriptorium.
+Per la portabilità tra i vari progetti, si può decidere di scegliere un codice per il collegamento che porti da tutti i progetti alla stessa destinazione finale. Per esempio: MetaWikipedia:Wikibooks:Main Page. Il codice apparentemente "superfluo" "MetaWikipedia:" impedisce che "Wikibooks:" possa essere interpretato come prefisso quando questo codice viene utilizzato su Wikibooks stesso, mentre su Meta "MetaWikipedia:" viene ignorato (non essendo un prefisso del namespace ed, anche su Meta stesso, viene riconosciuto come codice che identifica Meta). La sintassi per i codici appena mostrati funziona da tutti i progetti; tuttavia le funzioni di individuazione della pagina associata al link (vedi Wikilinks e Page existence in inglese) ed i link che puntano alla loro stessa pagina (vedi self-link feature in inglese) non funzionano nei collegamenti interwiki.
+Prefissi[edit]
+I collegamenti interwiki possono utilizzare i prefissi sia per identificare i diversi progetti che per identificarne le versioni in differenti linguaggi. Senza l'utilizzo di prefissi, i collegamenti sono locali (sullo e nello stesso progetto in una determinata lingua), per cui punteranno a pagine presenti su quello stesso progetto ed in una determinata lingua. Se viene fornito il prefisso di un linguaggio, allora il collegamento punterà alla pagina dello stesso progetto (o similare) per il linguaggio specificato:
+[[:de:]] de:
+[[:en:]] en:
+[[:es:]] es:
+[[:fr:]] fr:
+[[:it:]] it:
+[[:os:]] os:
+Se viene specificato solo il progetto, solitamente il collegamento punta al progetto nella stessa lingua del progetto sorgente (vedi sopra). Al massimo sono necessari due prefissi per raggiungere qualsiasi pagina in un qualsiasi progetto esistente ed in una delle lingue supportate dal progetto stesso:
+[[s:de:Hauptseite]]        s:de:Hauptseite
+[[b:en:Main page]]         b:en:Main page
+[[q:it:Pagina principale]] q:it:Pagina principale
+[[n:fr:Accueil]]           n:fr:Accueil
+Nel caso di più di un prefisso, il nome della pagina di destinazione deve essere obbligatoriamente specificato altrimenti produrrà un errore. Per esempio, mentre i collegamenti interwiki w: e en: qui da Meta portano alla pagina principale della Wikipedia in lingua inglese, un semplice collegamento come [[w:en:]] non funziona: w:en:. Il risultato sarà una pagina di errore che indicherà che il nome della pagina richiesta non è valido perché effettivamente non lo abbiamo fornito.
+Quando la lingua del progetto di destinazione è diversa da quella del progetto di partenza, allora è anche possibile specificare prima il linguaggio e poi il progetto: 
+[[:de:s:Hauptseite]]        de:s:Hauptseite
+[[s:de:Hauptseite]]         s:de:Hauptseite
+[[:en:n:Main page]]         en:n:Main page
+[[n:en:Main page]]          n:en:Main page
+[[:it:q:Pagina principale]] it:q:Pagina principale
+[[q:it:Pagina principale]]  q:it:Pagina principale
+[[:fr:n:Accueil]]           fr:n:Accueil
+[[n:fr:Accueil]]            n:fr:Accueil
+Il terzo esempio (:en:n:Main page) non funziona dalla Wikipedia in inglese. È sempre meglio specificare prima il prefisso del progetto e poi quello della lingua: w:en: (Wikipedia in inglese); w:it: (Wikipedia in italiano).
+Più di due prefissi non sono generalmente necessari, i due esempi che seguono dovrebbero funzionare su tutti i progetti:
+[[m:Help:Help]] m:Help:Help
+[[w:Interwiki]] w:Interwiki
+L'utilizzo di due prefeissi talvolta può avere effetti inattesi; per esempio, da Meta, i seguenti collegamenti portano su pagine differenti:
+[[m:en:About]]  m:en:About
+[[:en:m:About]] en:m:About
+[[m:About]]     m:About
+Nel primo caso Meta ignora il prefisso m:, perché è locale e, quindi, interpreta en: come w:en:, che è il prefisso (o, più precisamente, la coppia di prefissi progetto-linguaggio) della Wikipedia in inglese. Nel secondo caso, il prefisso principale en: porta ancora una volta alla Wikipedia in inglese, dove m: ci riporta indietro a Meta. Inoltre, sempre il secondo esempio non funziona per nulla dalla Wikipedia in inglese, e, solamente il terzo esempio funziona da e su tutti i progetti. 
+In altre parole, quando si usano prefissi multipli, questi vengono valutati da sinistra a destra dai relativi server di Wikimedia (progetto e linguaggio). Per progetti che non hanno differenti server per differenti linguaggi, come ad esempio Meta (perché il sito Meta è di per se stesso multilingue), i prefissi per i diversi linguaggi possono essere gestiti come abbreviazioni per w: più lo specifico linguaggio:
+[[:pl:2006]]   pl:2006
+[[w:pl:2006]]  w:pl:2006
+[[:pl:w:2006]] pl:w:2006
+Partendo da Meta, i primi due collegamenti arrivano alla pagina "2006" sulla Wikipedia in polacco. Il terzo arriva sulla Wikipedia in inglese, perché questo è il modo in cui il server selezionato dal prefisso ":pl:" interpreta il secondo prefisso "w:".
+Per un collegamento portabile su quel server, sarebbe una cattiva idea di utilizzare w:, ma :pl: funziona. Per testare questo effetto da Meta, i seguenti link dovrebbero portare sulla stessa pagina (l'articolo riguardante l'anno 2006 sulla Wikipedia in giapponese):
+[[:ja:2006]]    ja:2006
+[[:ja:ja:2006]] ja:ja:2006
+Un collegamento interwiki universale, cioè che funzioni a prescindere da quale Wikimedia wiki parta, può essere scritto nella forma: [[m:prefisso_del_progetto:prefisso_del_linguaggio:nome_della_pagina]] (esempi: m:b:nl:Wiskunde e m:b:it:Divina Commedia); questo reindirizza il parsing, cioè qul processo atto ad analizzare un flusso continuo di dati di ingresso, dei collegamenti via Meta: Meta→WikiBooks→versione in una lingua (olandese per il primo esempio ed italiano per il secondo)→la pagina del libro (Wiskunde nel primo esempio, e Divina Commedia nel secondo). (vedi: bug 4285 in inglese).
+Wikia[edit]
+Su Wikia (vedi anche Wikia sulla Wikipedia in inglese), per alcuni siti wiki più vecchi il prefisso è il nome interno del progetto. Per altri, "Wikia:c:" viene aggiunto nella parte sinistra del collegamento (esempio: [[Wikia:c:psychology]] o, nella sua forma breve, [[w:c:trains:locomotive]]) (dove il prefisso "c" sta per "city" ("città"), una eredità del nome originale di Wikia che era Wikicities).
+Per raggiungere Wikia dai progetti di Wikimedia, utilizzare per esempio [[wikiasite:psychology]] (wikiasite:psychology), [[wikia:trains:locomotive]] (wikia:trains:locomotive), oppure, per il sito Wikia centrale, centralwikia:About Wikia.
+Collegamenti interlingua[edit]
+Per un elenco completo delle lingue attualmente supportate e dei relativi codici di lingua, vedere: w:List of Wikipedias sulla Wikipedia in inglese, oppure Lista di Wikipedie qui su Meta.
+Per una famiglia multilingue di progetti simili aventi un progetto specifico per ogni linguaggio (come ad esempio Wikipedia), un sistema di collegamenti interlingua può essere configurato impostando le variabili di sitema $wgInterwikiMagic a vero ("true") e $wgHideInterlanguageLinks a falso ("false"). Se questo progetto appartiene ad una famiglia di progetti per cui quanto appena detto è applicabile, allora la pagina dimostrativa Help:Interlanguage link demo (in inglese) può esemplificare ciò che vien spiegato qui di seguito (questo dipende da quali codici di lingua vengono utilizzati). 
+Un collegamento interwiki all'interno di una stessa famiglia viene trattato in maniera differente, a meno che non si trovi su una pagina di discussione di qualsiasi namespace. Questo collegamento interlingua compare su uno o due dei margini della pagina Web (più esattamente a sinistra per chi utilizza come aspetto grafico ("skin") il "Monobook", nelle parti superiore ed inferiore per chi utilizza il "Classic"). 
+Quindi, un collegamento interlingua è principalmente adatto per il collegamento alla pagina corrispondente o più vicina esistenete in un'altra lingua. Mntre invece non è adatto per effettuare collegamenti multipli ad una medesima altra lingua. Per una discussione più approfondita sui problemi più comuni presenti quando si usa questo sistema e su ulteriori possibili implementazioni e sviluppi del sistema stesso vedi: Interlanguage use case (in inglese).
+Questa funzione può essere utilizzata anche in una pagina di descrizione di una immagini per collegarsi alla stessa (o simile) immagine presente su altri progetti. Altri collegamenti interwiki alle immagini richiedono l'utilizzo dei due punti. 
+Quando una pagina viene utilizzata come template (in inglese; pagina di aiuto sulla Wikipedia in italiano), anche quando il template non si trovi nel namespace, si dovrebbero sempre includere i collegamenti interlingua tra i tag <noinclude> e </noinclude> in modo tale che i collegamenti interlingua non vengano inclusi quando il template stesso viene renderizzato (mostrato) in una pagina. In pratica si tratta della stessa soluzione che viene adottata per le categorie (in inglese). (Nota: Aiuto:Categorie pagina non ancora tradotta dall'inglese all'italiano.)
+Comparazione:
+[[:en:link]] o [[:category:name]] sono collegamenti semplici.
+[[m:en:link]] o [[m:category:name]] sono collegamenti interwiki, vedi sopra.
+[[category:name]] senza i due punti iniziali, aggiunge una pagina ad una categoria.
+<noinclude>[[category:name]]</noinclude> aggiunge una pagina ad una categoria come nell'esempio precedente, ma lo limita a quella sola pagina.
+[[en:link]] senza i due punti iniziali, aggiunge un collegamento interlingua ad una pagina.
+<noinclude>[[en:link]]</noinclude> come nell'esempio precedente, aggiunge un collegamento interlingua ad una pagina, ma lo limita a quella sola pagina.
+Per progetti come Meta, i due punti iniziali mancanti non hanno alcun effetto perché Meta non supporta i collegamenti interlingua. Per Wikipedia (versione in inglese; versione in italiano) ed altri progetti similari, c'è una grande differenza tra l'uso o meno dei due punti iniziali. L'ordine reciproco dei collegamenti interlingua viene conservato, ma per il resto le posizioni all'interno del wikitext (testo wiki) sono ininfluenti, ed è la stessa regola che vale per le categorie. Di solito vengono posti alla fine. Quando si modifica una sezione e se sono presenti in questa sezione che si sta modificando, essi appaiono nell'anteprima. Un collegamento al progetto stesso (ed anche un collegamento alla stessa pagina), anche quando ci si riferisce utilizzando il prefisso del progetto, compare nella pagina stessa.
+Supponiamo di avere le pagine de:Zug, en:Train,  fr:Train, e it:Train, allora ci occorrerà:
+su de: en:Train, fr:Train, it:Treno
+su en: de:Zug, fr:Train, it:Treno
+su fr: de:Zug, en:Train, it:Treno
+su it: de:Zug, en:Train, fr:Train
+Di conseguenza non è possibile copiare semplicemente ciascuna lista, né è possibile utilizzare allo scopo un appropriato template, come invece si può fare quando differenti linguaggi fanno parte dello stesso progetto (come qui su Meta), con o senza namespace separati. Per ulteriori informazioni, vedere:
+m:Template:H-langs:Interwiki linking, utilizzato alla fine di questa stessa pagina su Meta
+wikisource:Template:InterLingvLigoj
+Template:About
+Collegamenti interlinga dentro una pagina[edit]
+Per creare un collegamento interlingua all'interno di una pagina, mettere come prefisso i due punti seguiti dal prefisso del linguaggio seguito da ulteriori due punti (esempio: [[:en:wiki|wiki]]). Questo sistema può ad esempio risultare utile per collegare una pagina in un'altra lingua, quando non è disponibile una sua versione in locale. Ci sono diversi template atti ad eseguire comodamente questi tipi di collegamenti:
+w:Template:nli [ talk edit history links     ] - [[:nl:{{{1}}}]] (in [[Dutch language|Dutch]])
+w:Template:nlil [ talk edit history links     ] - [[{{{1}}}]] ([[:nl:{{{2|{{{1}}}}}}|nl]])
+w:Template:nlii [ talk edit history links     ] - ''[[{{{1}}}]]'' ([[:nl:{{{2|{{{1}}}}}}|nl]])
+w:Template:nlis [ talk edit history links     ] - ([[:nl:{{{1|{{PAGENAME}}}}}|nl]])
+w:Template:nlinl [ talk edit history links     ] - {{{1}}} ([[:nl:{{{2|{{{1}}}}}}|nl]])
+Collegamenti interlingua nel senso più ampio[edit]
+Un collegamento interlingua nel senso più ampio include un collegamento ad una pagina corrispondente in un'altra lingua, la quale, per quanto riguarda il software, viene considerato come un collegamento regolare, anziché, come descritto precedentemente, quello che impiega la funzionalità del collegamento interlingua speciale. Questo può anche essere un collegamento interno su un progetto multilingue, ad esempio come su Meta:
+Meta:Interlanguage links
+Tra i possibili motivi per l'utilizzazione di "collegamenti interlingua" all'interno del corpo di una pagina ci sono:
+controllo sul suo posizionamento;
+controllo sull'etichetta (il testo da mostrare);
+la destinazione contiene un anchor.
+Collegamenti interwiki verso collegamenti esterni[edit]
+Alcuni degli svantaggi dei collegamenti interwiki sono:
+il wikitext (testo wiki) è meno portabile sui diversi siti wiki in quanto non tutti i siti wiki hanno un prefisso interwiki per gli altri siti ed anche quando li hanno, questi prefissi possono differire tra di loro;
+non esiste una funzione per trovare i collegamenti interwiki, mentre si può trovare un collegamento esterno utilizzando Special:Linksearch (quando quasta funzione speciale è installata). Ciò è dovuto al fatto che, mentre esite una tabella dei collegamenti esterni (external links table in inglese), non esiste nulla di simile per i collegamenti interwiki. La tabella interwiki memorizza solamente i prefissi interwiki con i loro obiettivi finali in funzione del parametro che viene passato, ma non tutte le istanze dei collegamenti esistenti. L'utilizzazione del modulo di ricerca di testo allo scopo di individuare i collegamenti interwiki è un lavoro piuttosto gravoso per il server e, di conseguenza, la risposta del server è, il più delle volte, molto lenta, non aggiornata, od, come nel caos delle ore di punta, quatsa funzione viene disabilitata. (Vedi anche: Finding external links to a page in inglese).
+Utilizzando template come ad esempio Template:h:mlw [ talk edit history links     ], i vantaggi dei collegamenti interwiki e dei collegamenti esterni vengono combinati. Quando una pagina, che utilizza questo tipo di template, che in questo caso è utilizzato per collegarsi alla Wikipedia inglese, viene copiata su quel sito, sarà necessario avere anche lì un medesimo template avente lo stesso nome. Grazie al template, w:Template:h:mlw [ talk edit history links     ], che reindirizza a w:Template:h:ml [ talk edit history links     ], i collegamenti interwiki vengono automaticamente convertiti in collegamenti interni. Di conseguenza, questi template consentono ai collegamenti interwiki trasformati in collegamenti interni di essere rilevati e, quindi, permettono l'utilizzo della funzione speciale "Puntano qui", così come di quella di Linksearch.
+Comparazione:
+[[imdbtitle:0389790|Bee Movie]] fornisce Bee Movie
+[http://www.imdb.com/title/tt0389790 Bee Movie] fornisce Bee Movie
+Linksearch funziona solo per quest'ultimo.
+Le classi CSS applicabili sono "extiw" e "external text". La scelta tra una o l'altra classe può essere determinata a seconda che si voglia mantenere una certa uniformità (o conformità) all'interno del documento in cui il collegamento è presente, oppure che lo si voglia distinguere dagli altri collegamenti (solitamente quelli interni che utilizzano la sintassi wiki) presenti nella pagina stessa. Un collegamento interwiki è più facile da digitare (scrivere tramite la tastiera), ma se uno comunque si deve recare sulla pagina web di cui si vuole creare un collegamento, allora può risultare molto conveniente e semplice copiare l'URL dalla barra degli indirizzi del browser che si sta utilizzando e poi incollarla. Quando un template viene creato, per esempio w:Template:Imdb title, il template può essere fatto in modo che utilizzi un collegamento interwiki e un parametro, come ad esempio "tt0389790" o "0389790", oppure che utilizzi un collegamento esterno ed un parametro come uno di quelli pecedenti, od ancora che utilizzi l'URL completo, a seconda dei casi e di cosa convenga di più.
+Collegamenti interwiki allo stesso sito wiki verso collegamenti interni[edit]
+Svantaggi dei collegamenti interwiki ai contenuti del sito stesso rispetto ai collegamenti interni:
+i collegamenti interwiki non vengono rilevati;
+"Puntano qui" funziona solo per i collegamenti interni.
+Vantaggi dei collegamenti interwiki ai contenuti del sito stesso rispetto ai collegamenti interni:
+maggiore portabilità su tutti i siti wiki, a condizione che si usi lo stesso prefisso e che questo non sia uguale ad un nome presente nel namespace.
+Quando si utilizzano template come ad esempio Template:h:ml [ talk edit history links     ], i vantaggi forniti dai collegamenti interni, dai collegamenti interwiki e dai collegamenti esterni vengono combinati assieme a condizione che un template con lo stesso nome e con contenuto adattato sia presente anche sull'altro sito.
+Vedi anche[edit]
+Wikimedia sister projects (in inglese)
+m:Templates for linking to sister projects (in inglese)
+mw:Manual:Guide to setting up interwiki linking (in inglese)
+Wikimedia interwiki map (in inglese)
+default interwiki prefixes (in inglese)
+Interwikimedia linkhttp://en.wikipedia.org/wiki/Wikipedia:InterWikimedia links su Wikipedia (in inglese)
+Wikipedia Interwiki-Link-Checker (in inglese)
+de:Benutzer:Flacus/Wikipedia Interwiki-Link-Checker/en (con l'Interwiki-Link-Checker, si può contribuire a migliorare l'internazionalizzazione di Wikipedia) (in inglese)
+MeatBall:InterWiki (in inglese)
+Sommario delle pagine di Aiuto -  Pagine nel namespace Aiuto  su: Meta b: n: w: q: wiktionary
+Per i lettori:
+Vai | 
+Ricerche | 
+URL | 
+Namespace |
+Nomi delle pagine | 
+Sezioni | 
+Collegamenti |
+Puntano qui |
+Piped link | 
+Collegamenti Interwiki | 
+Reindirizzamenti |
+Variabili | 
+Categorie |
+Pagine speciali
+Seguire i cambiamenti:
+Ultime modifiche | 
+(avanzate) | 
+Cambiamenti correlati | 
+Segui | 
+Cronologia | 
+Confronti | 
+Contributi utenti |
+Sommario delle modifiche |
+Modifiche minori |
+Modifiche sorvegliate
+Login e preferenze: Loggarsi |
+Preferenze | 
+Stile Utente
+Editing: Modifica | 
+Nuova pagina | 
+Immagini/file | 
+Pagina delle immagini | 
+Caratteri speciali | 
+Formule | 
+Tabelle | 
+EasyTimeline | 
+Template | 
+Rinominare (muovere) una pagina | 
+Scorciatoie modifiche | 
+Pagine discussioni | 
+Prove || mod_corr_meta | 
+Altri progetti:
+Wikibooks | 
+Wikinews | 
+Wikipedia | 
+Wikiquote | 
+Wiktionary 
+modifica questo piè di pagina
+Other languages:
+English · dansk · Deutsch · français · italiano · Nederlands · português · shqip · Tiếng Việt · 한국어 · 日本語 · 中文 · العربية
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Help:Interwiki_linking/it&oldid=19285169"
+Category: MediaWiki handbook/it
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Help pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+In other languages
+Add links
+ This page was last edited on 11 August 2019, at 19:28.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

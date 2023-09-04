@@ -1,0 +1,441 @@
+GitHub - HIPS/autograd: Efficiently computes derivatives of numpy code.
+Skip to content
+Toggle navigation
+            Sign up
+          
+ 
+        Product
+        
+Actions
+        Automate any workflow
+      
+Packages
+        Host and manage packages
+      
+Security
+        Find and fix vulnerabilities
+      
+Codespaces
+        Instant dev environments
+      
+Copilot
+        Write better code with AI
+      
+Code review
+        Manage code changes
+      
+Issues
+        Plan and track work
+      
+Discussions
+        Collaborate outside of code
+      
+Explore
+      All features
+    
+      Documentation
+    
+      GitHub Skills
+    
+      Blog
+    
+        Solutions
+        
+For
+      Enterprise
+    
+      Teams
+    
+      Startups
+    
+      Education
+    
+By Solution
+      CI/CD & Automation
+    
+      DevOps
+    
+      DevSecOps
+    
+Resources
+      Customer Stories
+    
+      White papers, Ebooks, Webinars
+    
+      Partners
+    
+        Open Source
+        
+GitHub Sponsors
+        Fund open source developers
+      
+The ReadME Project
+        GitHub community articles
+      
+Repositories
+      Topics
+    
+      Trending
+    
+      Collections
+    
+Pricing
+Search or jump to...
+Search code, repositories, users, issues, pull requests...
+ 
+        Search
+      
+Clear
+ 
+ 
+              Search syntax tips
+ 
+        Provide feedback
+      
+ 
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+     Cancel
+    Submit feedback
+        Saved searches
+      
+Use saved searches to filter your results more quickly
+ 
+Name
+Query
+            To see all available qualifiers, see our documentation.
+          
+ 
+     Cancel
+    Create saved search
+              Sign in
+            
+              Sign up
+            
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.
+You switched accounts on another tab or window. Reload to refresh your session.
+ 
+ Dismiss alert
+        HIPS
+ 
+/
+autograd
+Public
+ 
+Notifications
+ 
+Fork
+    888
+ 
+          Star
+ 6.4k
+  
+        Efficiently computes derivatives of numpy code.
+      
+License
+     MIT license
+    
+6.4k
+          stars
+ 
+888
+          forks
+ 
+Activity
+ 
+ 
+          Star
+  
+ 
+Notifications
+Code
+Issues
+154
+Pull requests
+22
+Actions
+Projects
+0
+Wiki
+Security
+Insights
+ 
+ 
+More
+                  Code
+ 
+                  Issues
+ 
+                  Pull requests
+ 
+                  Actions
+ 
+                  Projects
+ 
+                  Wiki
+ 
+                  Security
+ 
+                  Insights
+ 
+HIPS/autograd
+This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
+master
+Switch branches/tags
+Branches
+Tags
+View all branches
+View all tags
+Name already in use
+      A tag already exists with the provided branch name. Many Git commands accept both tag and branch names, so creating this branch may cause unexpected behavior. Are you sure you want to create this branch?
+    Cancel
+    Create
+39
+branches
+2
+tags
+ 
+Code
+Local
+ Codespaces
+  
+  Clone
+            HTTPS
+ 
+            GitHub CLI
+ 
+        Use Git or checkout with SVN using the web URL.
+    
+      Work fast with our official CLI.
+      Learn more about the CLI.
+    
+    Open with GitHub Desktop
+    Download ZIP
+ 
+Sign In Required
+                Please
+                sign in
+                to use Codespaces.
+              
+Launching GitHub Desktop
+    If nothing happens, download GitHub Desktop and try again.
+  
+Launching GitHub Desktop
+    If nothing happens, download GitHub Desktop and try again.
+  
+Launching Xcode
+    If nothing happens, download Xcode and try again.
+  
+Launching Visual Studio Code
+Your codespace will open once ready.
+There was a problem preparing your codespace, please try again.
+Latest commit
+ 
+j-towns
+Merge pull request #605 from bittner/fix/install-scipy-via-tox
+        …
+      
+        e18f656
+      
+Aug 2, 2023
+Merge pull request #605 from bittner/fix/install-scipy-via-tox
+Install extras for testing via Tox, test with SciPy+PyPy only on Ubuntu
+e18f656
+Git stats
+1,413
+                      commits
+                    
+Files
+Permalink
+    Failed to load latest commit information.
+  
+ 
+Type
+Name
+Latest commit message
+Commit time
+.github/workflows
+Run tests with SciPy on PyPy for Ubuntu only
+August 1, 2023 11:23
+autograd
+Modernize packaging and test automation
+July 6, 2023 13:54
+benchmarks
+BENCH: fix benchmarks for initialize_root changes in 3d84fab
+June 11, 2019 10:36
+conda_recipe
+BLD: conda recipe for anaconda.org support
+November 5, 2015 16:07
+docs
+Update tutorial.md
+May 22, 2023 09:16
+examples
+Modernize packaging and test automation
+July 6, 2023 13:54
+tests
+Re-add support for high precision types
+June 23, 2023 10:32
+.gitignore
+Modernize packaging and test automation
+July 6, 2023 13:54
+CONTRIBUTING.md
+Remove Black as a QA tool from both Tox and GHA
+July 24, 2023 19:05
+MANIFEST.in
+Modernize packaging and test automation
+July 6, 2023 13:54
+README.md
+Grammar in README.md
+July 26, 2023 15:29
+license.txt
+Added MIT license
+February 19, 2015 14:30
+pyproject.toml
+Install extras for testing via Tox
+August 1, 2023 11:10
+tox.ini
+Install extras for testing via Tox
+August 1, 2023 11:10
+    View code
+ 
+Autograd  
+Documentation
+End-to-end examples
+How to install
+Authors
+README.md
+Note: Autograd is still being maintained but is no longer actively developed.
+The main developers (Dougal Maclaurin, David Duvenaud, Matt Johnson, and Jamie
+Townsend) are now working on JAX, with Dougal and Matt
+working on it full-time. JAX combines a new version of Autograd with extra
+features such as jit compilation.
+Autograd     
+Autograd can automatically differentiate native Python and Numpy code. It can
+handle a large subset of Python's features, including loops, ifs, recursion and
+closures, and it can even take derivatives of derivatives of derivatives. It
+supports reverse-mode differentiation (a.k.a. backpropagation), which means it
+can efficiently take gradients of scalar-valued functions with respect to
+array-valued arguments, as well as forward-mode differentiation, and the two can
+be composed arbitrarily. The main intended application of Autograd is
+gradient-based optimization. For more information, check out the
+tutorial and the examples directory.
+Example use:
+>>> import autograd.numpy as np  # Thinly-wrapped numpy
+>>> from autograd import grad    # The only autograd function you may ever need
+>>>
+>>> def tanh(x):                 # Define a function
+...     y = np.exp(-2.0 * x)
+...     return (1.0 - y) / (1.0 + y)
+...
+>>> grad_tanh = grad(tanh)       # Obtain its gradient function
+>>> grad_tanh(1.0)               # Evaluate the gradient at x = 1.0
+0.41997434161402603
+>>> (tanh(1.0001) - tanh(0.9999)) / 0.0002  # Compare to finite differences
+0.41997434264973155
+We can continue to differentiate as many times as we like, and use numpy's
+vectorization of scalar-valued functions across many different input values:
+>>> from autograd import elementwise_grad as egrad  # for functions that vectorize over inputs
+>>> import matplotlib.pyplot as plt
+>>> x = np.linspace(-7, 7, 200)
+>>> plt.plot(x, tanh(x),
+...          x, egrad(tanh)(x),                                     # first  derivative
+...          x, egrad(egrad(tanh))(x),                              # second derivative
+...          x, egrad(egrad(egrad(tanh)))(x),                       # third  derivative
+...          x, egrad(egrad(egrad(egrad(tanh))))(x),                # fourth derivative
+...          x, egrad(egrad(egrad(egrad(egrad(tanh)))))(x),         # fifth  derivative
+...          x, egrad(egrad(egrad(egrad(egrad(egrad(tanh))))))(x))  # sixth  derivative
+>>> plt.show()
+See the tanh example file for the code.
+Documentation
+You can find a tutorial here.
+End-to-end examples
+Simple neural net
+Convolutional neural net
+Recurrent neural net
+LSTM
+Neural Turing Machine
+Backpropagating through a fluid simulation
+Variational inference in Bayesian neural network
+Gaussian process regression
+Sampyl, a pure Python MCMC package with HMC and NUTS
+How to install
+Install Autograd using Pip:
+pip install autograd
+Some features require SciPy, which you can install separately or as an
+optional dependency along with Autograd:
+pip install "autograd[scipy]"
+Authors
+Autograd was written by Dougal Maclaurin,
+David Duvenaud,
+Matt Johnson,
+Jamie Townsend
+and many other contributors. The package is currently still being maintained,
+but is no longer actively developed. Please feel free to submit any bugs or
+feature requests. We'd also love to hear about your experiences with autograd
+in general. Drop us an email!
+We want to thank Jasper Snoek and the rest of the HIPS group (led by Prof. Ryan
+P. Adams) for helpful contributions and advice; Barak Pearlmutter for
+foundational work on automatic differentiation and for guidance on our
+implementation; and Analog Devices Inc. (Lyric Labs) and Samsung Advanced Institute
+of Technology for their generous support.
+About
+      Efficiently computes derivatives of numpy code.
+    
+Resources
+      Readme
+ 
+License
+     MIT license
+    
+Activity
+Stars
+6.4k
+    stars
+Watchers
+214
+    watching
+Forks
+888
+    forks
+        Report repository
+ 
+    Releases
+      1
+1.0
+          Latest
+ 
+Mar 5, 2015
+    Packages
+      0
+        No packages published 
+        Used by 5.8k
+ 
+            + 5,837
+          
+    Contributors
+      51
+      + 40 contributors
+Languages
+Python
+99.7%
+Shell
+0.3%
+Footer
+ 
+        © 2023 GitHub, Inc.
+        
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+    You can’t perform that action at this time.
+  

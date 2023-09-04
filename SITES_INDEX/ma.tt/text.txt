@@ -1,0 +1,130 @@
+Matt Mullenweg | Unlucky in Cards
+Matt Mullenweg
+Unlucky in Cards
+WordPress.com just announced its hundred year plan. This was very fun to create and plan for, and I hope it gets people and other companies thinking about the long term. Very inspired by The Long Now Foundation and The Internet Archive. See also: Derek Siver’s Hundred Year Host.
+August 25, 2023 
+Open Sourcing Algorithmic Choice
+Jon Weeks from the Evening Standard interviewed me for their How to Be a CEO podcast about Tumblr, and as I often do we mostly talked about open source.
+  
+If you can’t listen Techcrunch’s Sarah Perez posted a really nice summary of the interview.
+August 23, 2023PodcastMatt
+I Love WordCamps!
+August 22, 2023WordCampMatt 
+One of the cooler things the WordPress community started doing in 2006 was putting on these events we called WordCamps. A big one is about to kick off in National Harbor, Maryland (which is basically Washington DC, but we’re calling it National Harbor for some reason).
+You might be wondering where the name came from: Tim O’Reilly, of the O’Reilly books that so many of us learned from, hosted a hacker event called Foo Camp but it had limited capacity, and was therefore something of an exclusive invite (one time I eventually went I slept in a sleeping bag in an office).  Tantek Çelik had been invited the year before, but not in 2005, and I had never been invited, so a group of us put together a more “open source” event in response called BarCamp. (The name was an allusion to the foo/bar concept in teaching programming, and the picture on that Wikipedia page was in the living room of my first apartment in San Francisco, as you can tell by the stand-up piano and Thelonious Monk poster.)
+Foo had the idea of a conference created on-the-fly by its organizers, and also had a radical event where there wasn’t even lodging but all that mattered was getting people together. Bar took that format and opened up the invite list, and did it quickly with just a few weeks of planning. They also open sourced the format so BarCamps could be hosted anywhere in the world, and many were. The following year I riffed on that and made the first WordCamp in San Francisco, at the Swedish American Music Hall, the same place Stewart Brand hosted the first hackers conference in the 70s. (We didn’t know that at the time, it was just a coincidence.)
+WordCamp took the everyone-is-welcome from Bar, mixed it with the attendees-create-the-conference from Foo, added a little more structure and planning so we ended up with these really groovy community-organized events all over the world where people come together to learn, contribute, get to know each other, and have fun. WordCamp San Francisco evolved into WordCamp US, our flagpole event for North America. (I like that US can mean “us” as well as United States.) There have been hundreds of WordCamps around the world, and when we were getting started I used to go to all of them; if someone put one together I’d cram into an economy seat and fly there. I can’t make it to all of them anymore, but I still go as many as I can, and they’re some of my favorite days of the entire year.
+It’s so cool to see a group of people from the eclectic backgrounds come together because we love making the thing that allows people to make the thing. (WordPress.) You’ll see CEOs of multi-hundred million ARR companies brushing shoulders with techno-anarchists, all brought together by a common hope and belief in the four freedoms of open source and the mission of WordPress—to democratize publishing, put the best tools in the world in the hands of everyone, for free and for freedom.
+This year’s WordCamp US is exciting to me for a bunch of reasons. One, I love spending time with other contributors to open source. Second, WordCamp organizers iterate and learn, and so every year I’m excited to see what’s being trialed and what’s improved, because they just keep getting better and better. Third, we’re doing a community summit beforehand for the first time in a while, which is why I’m already in Maryland. Finally, on the amazing schedule are two speakers I’ve invited to bring something new to our milieu.
+Ken Liu is one of my favorite sci-fi writers and will be giving an amazing talk weaving together the history of narrative craft and modern publishing and technology. I’ve read almost everything he’s written or translated, and seen him talk once before, and couldn’t be more curious to hear what he’s bringing to the WordPress community.
+Simon Willison is an engineer and blogger I’ve followed since the earliest days of WordPress, and recently he’s been one of the most interesting explorers in the new world of AI and LLMs. He’ll be sharing with us how to tap into this new alien intelligence, how it can accelerate our coding, security, and mission to democratize publishing.
+So if you ever have a chance to go to a WordCamp, take it! It may be too late for this one, but you can follow the livestream (visit the site once the conference starts), and plan for next year. We also make sure all the talks accessible on WordPress.tv later.
+Foo Camps still happen, by the way, and have branched into science and such, and who gets invited is a whole deal. They’re still awesome.
+I hope what people see here is that creativity and doing generates more creativity and doing.
+View all 3 comments 
+Version 6.3 is out! Time to fire up your updating engines. 😄 This is actually a really big one. (As a reminder, we do three major release of WP per year and each one is a +0.1, 7.0 will just be the next release after 6.9, so big things can happen in random version numbers.) We’ve made a release landing page to cover some of the new things in this one, check it out.
+August 10, 2023 
+Ottawa Can Bring It
+July 27, 2023TravelMatt 
+Ottawa reminds me a lot of Houston. A city that is a microcosm of Canada’s diversity and vibrance.
+When you visit Ottawa, I’d recommend checking out Aiana Restaurant Collective (powered by WordPress, natch!) and Stolen Goods Cocktail Bar to see craftspeople operating at the top of their game. Riviera was also nice.
+View all 4 comments 
+ 
+Chorus and WordPress
+July 18, 2023Switchers, WordPressMatt 
+I woke up this morning to a lot of people sending me the link to today’s Axios story reporting that Vox Media (which includes The Verge, New York Magazine, Polygon, and many other outlets) is moving from its proprietary CMS, Chorus, to WordPress VIP, Automattic’s open source solution for large publishers.
+This is very exciting—not just for the obvious reasons, but because I’ve been a fan and reader of Vox since they started. As a tool-maker, one of the greatest honors is when fantastic people choose your tools to practice their craft. I’m also sure their feedback will make WordPress better! Vox Media folks, if there were any Chorus features you loved, drop them in the comments and we’ll make sure they can become a plugin or get baked into WP core. And if anyone has built amazing features in other CMSes you’d like to see in WordPress, we’re hiring!
+As I said in my recent conversation with Dries Buytaert and Mike Little celebrating WordPress’ 20th anniversary, and with a hat tip to Fight Club, I believe that on a long enough timeline, the survival rate of proprietary software drops to zero. I don’t fault anyone for starting a CMS—I’ve been guilty of that myself a half-dozen times, not counting WordPress—but while something custom-built may seem better for your needs in the beginning, that never lasts. Unless you invest heavily in engineering (like tens of millions per year), the steady improvement of a healthy open source community, like the tens of thousands of developers working on WordPress every day, will eventually catch and surpass any proprietary system.
+Not all open source projects achieve the famed positive flywheel; it takes decades, and most will fail in the process. The ones that reach exit velocity, though, become part of the fabric of civilization. At that point, it makes more sense to build on top of them rather than recreate the wheel. You’ll still get where you’re going, it’ll just be a smoother, faster ride.
+(Midjourney prompt: A chorus of people using WordPress.)
+View all 7 comments 
+WordCamp Europe Keynote
+I had a great time at WordCamp Europe in Athens this year, here’s the keynote “Variations on a Theme” with presentations from Josepha Haden Chomphosy and Matías Ventura, and Q&A from all three of us.
+June 14, 2023WordPressMatt
+View all 2 comments 
+Julia Evans writes Some blogging myths.
+June 12, 2023 
+Whoop Podcast
+Whoop is an excellent biometrics bracelet I’ve been wearing for a few months since my friend Jaime Waydo joined as their CTO. After many years of being very in the Garmin 945 camp, I now do an Apple Ultra for all the smart stuff, and Whoop for all the great sleep, HRV, and recovery information that I use to be aware of my energy levels throughout the day, complemented by the Rise sleep and energy tracker app. This has been my ideal combo. 
+The founder and CEO of Whoop, Will Ahmed, interviewed me for their podcast, which we covered for a more mainstream audience my passion for open source and creating an open ecosystem for a web, how I got started as an entrepreneur, how Automattic hires, growth mindset and mental clarity, working with Joe Hudson as an executive coach, and day-to-day routine (or lack thereof, sometimes).
+  
+June 8, 2023Asides, PodcastMatt
+WordPress & AI
+I did an interview with Jamie Marsland where we talked a fair amount about AI.
+June 7, 2023WordPressMatt
+View all 3 comments 
+Apple Journals & Day One
+June 6, 2023AutomatticMatt 
+Apple almost never fails to wow, and they had a lot of cool announcements at WWDC yesterday. Apple’s previously favorite (app of the year!) journaling app was Day One, one of Automattic’s products, but they announced their own Journal app. One nice thing about competing with Apple is they only really interoperate with their own devices, and they’re usually not good at social. Day One is launching Shared Journals soon, a social feature so you can have fully end-to-end encrypted shared private journals with friends and family. It’s been the thing I’ve been most excited about since we bought the app. (Paul can attest how much I ask him about it!)
+That complements another advantage Day One has, which is being cross-platform. If you have a family member on Android, you don’t want to ostracize them from your Shared Journal. Apple doesn’t care, their priority is getting everyone on the Apple ecosystem. You care, and Day One/Automattic does too, that’s why it works great on all Apple devices, Android devices, and the web itself.
+Leave a comment 
+Check out this great article on an exciting discovery of John Coltrane and Eric Dolphy playing together. The album comes out July 14th. Hat tip: Aaron Wieczorek.
+June 5, 2023 
+Power of One
+May 29, 2023AsidesMatt 
+I think part of what Mike Little showed with his comment on my blog that led to the creation of WordPress, is that it’s not about how many views you have, how many likes, trying to max all your stats… sometimes a single connection to another human is all that matters. 
+All it takes is a spark. 
+That’s what is beautiful about blogging. It’s too bad the advertising and social media platforms got us all caught up in status games for the past 15 years.
+All you need is one view, one like, one comment, to change your life.
+View all 5 comments 
+WP20 & Audrey Scholars
+May 27, 2023WordPressMatt 
+Today is the 20th anniversary of the first release of WordPress. None of us knew what we were getting into when it started, but we had a shared conviction that the four freedoms of the GPL combined with a mission to democratize publishing was something worth spending our time on. There will be celebrations in cities around the world, please join if there’s one happening near you.
+Twenty years later, I am proud and humbled by what the community around WordPress has created, and jazzed about what we will create in the coming decades.
+I’m also excited to mark this milestone by publicly launching the Audrey Scholars program. It is, like all things, an experiment, but I’m curious to see how it unfolds and perhaps one day an Audrey Scholar could even take the responsibility of leading WordPress, when my capacity to do so has passed.
+View all 8 comments 
+With Mike Little and Dries Buytaert
+Last week I had the honor of being on stage at the Royal Society of Arts in London with Mike Little, the co-founder of WordPress, and Dries Buytaert, the founder of Drupal, which is one of the open source projects I have the most respect and admiration for. This is the conversation that ensued.
+May 26, 2023AsidesMatt
+View all 4 comments 
+On the Design Better Podcast
+I was on the Design Better podcast hosted by Aarron Walter and Eli Woolery, we talked about jazz, generative AI, distributed work, and my journey as an entrepreneur.
+  
+May 25, 2023AsidesMatt
+We just launched polls on Tumblr, and it’s been pretty fun. Cool to bring together the Crowdsignal (née Polldaddy) technology into a new world.
+January 18, 2023 
+Thirty-Nine
+January 11, 2023AsidesMatt 
+The last year of my thirties! WordPress turns twenty this year. Automattic is now ~2,000 people across 98 countries. There’s so much that has happened in the past decade yet it feels very much like we’re on the cusp of something even more exciting.
+This morning started well; I pulled the hammock out of the garage (it had been hiding from the rain) and read for a bit, trying to get my 5-10 minutes of sun in the first 30 minutes like Huberman suggests.
+Candidly, the last year was a really challenging one for me personally. There were some beautiful moments, and I consider myself the most lucky in my family, friends, and colleagues, yet among that same group there was a lot of loss, existential health challenges, and that weighed heavily on me. It’s also my last year to get on 40 under 40 lists! 😂
+Usually when people ask me what I want for my birthday I don’t have a good answer, but this year I do! As Heather Knight wrote about in the SF Chronicle, the beloved Bay Lights are coming down in March. This has to happen — the vibrations and corrosive environment of the Bay Bridge is taking lights out strand by strand. Fortunately it’s now been a decade since the lights first went up, and there’s much better technology both for the lights and how they’re mounted and attached to the suspension cables. Finally, the lights were not visible from Treasure Island or the East Bay before, but this new version 3.0 will be, which is why the artist behind the lights, Leo Villereal, is calling it Bay Lights 360.
+Like the Foundation series, we can’t stop the coming period of darkness from happening, but if we raise $11M we can bring the lights back. If we raise it soon we can shorten the time they’re down to just a few months, so I’m working with the 501c3 non-profit Illuminate to help fundraise. The idea is to find ten people or organizations to put one million each, and raise the final million in a broader crowdfunding campaign, to re-light the Bay Bridge and give an incredible gift to the people from every walk of life that see the bridge, and hopefully have their spirits lifted by the art. I’ve heard 25 million people see the Bay Lights every year.
+It’s a lot to raise, but every little bit helps so please donate here, and if you are interested to do a larger gift please get in touch. I’m committing a million dollars to the fundraise, and myself, Illuminate director Ben Davis, and the artist Leo Villereal are happy to personally connect with anyone considering a larger donation.
+Because of some family health reasons I’m back in lockdown, so going to try and throw an online party tonight in the “Matterverse.” We’re going to party like it’s late 2020. 🎉
+All birthday posts: 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39.
+View all 16 comments 
+State of the Word
+A few weeks ago, but what feels like a lifetime ago, I was in New York City with a few dozen extra special people from around the WordPress world. Alongside Josepha and the community we presented this review of how WordPress did in 2022, and vision for what’s coming:
+January 9, 2023AsidesMatt
+View all 4 comments 
+Fusion
+December 14, 2022AsidesMatt 
+This is a big deal. There are a lot of big deals happening right now, it’s honestly a very exciting time to be in tech. I feel like a sailor in a tumultuous sea, and they should have sent a poet. T. S. Eliot was actually the inspiration for WordPress’ tagline “Code is Poetry” and I’m reminded of this from The Dry Salvages:
+O voyagers, O seamen,You who came to port, and you whose bodiesWill suffer the trial and judgement of the sea,Or whatever event, this is your real destination.”So Krishna, as when he admonished ArjunaOn the field of battle.Not fare well,But fare forward, voyagers.
+View all 3 comments 
+Posts navigation
+← Older posts
+Proudly powered by WordPress
+Menu
+Skip to content
+Home
+About
+Contact
+Podcast
+Twitter
+Let’s Work Together
+ 
+Search for:
+ 
+ 
+ 
+Matt Mullenweg
+Proudly powered by WordPress Theme: Ma.tt.
+ 
+Loading Comments...
+ 
+Write a Comment...
+Email (Required)
+Name (Required)
+Website

@@ -1,0 +1,130 @@
+Projects  |  Google Open Source
+    Events
+  
+    
+    Projects
+  
+    
+    Programs and services
+  
+    
+                      Organizations we support
+                    
+    Documentation
+  
+    
+    About
+  
+    
+    Blog
+  
+    
+Sign in
+      Events
+   
+      Projects
+   
+      Programs and services
+   
+      More
+   
+      Documentation
+   
+      About
+   
+      Blog
+   
+      Organizations we support
+   
+    
+        Google Open Source
+      
+  
+    
+        Projects
+      
+  
+          
+          Stay organized with collections
+        
+          
+          Save and categorize content based on your preferences.
+        
+      
+    
+        Projects
+      
+  
+    
+At Google, we use open source to innovate and we release open source to share our innovations. We encourage you to browse through our featured projects to find work to use, share, and build on!
+      
+    
+        Featured projects
+      
+  
+    
+Mobile
+Java
+    
+        Android
+      
+  
+            Android is an operating system and software stack created for an array of devices with different form factors, including phones, tablets, wearables, TVs, automobiles, and connected devices. The primary purposes of Android are to create an open platform available for carriers, OEMs, and developers to make their ideas a reality and to provide a successful, real-world product that improves the mobile experience for users.
+          
+View project
+Cloud
+    
+        Kubernetes
+      
+  
+            Kubernetes is a cluster management system for managing containerized applications across multiple hosts, providing mechanisms for deployment, maintenance, and scaling of applications. It groups containers that make up an application into logical units for easy management and discovery.
+          
+View project
+All projects 
+Apps
+Cloud
+Containers
+Databases
+Data processing
+Developer tools
+Enterprise
+IoT
+Machine learning
+Mobile
+Networking
+Operating systems
+Programming
+Security
+Serverless
+Web
+Bazel
+C
+C#
+C++
+CSS
+D
+Dart
+Go
+HCL
+HTML
+Java
+JavaScript
+Jsonnet
+Kotlin
+Objective-C
+Python
+Rust
+Sass
+Scala
+Swift
+TypeScript
+          YouTube
+        
+          Twitter
+        
+          Facebook
+        
+          Terms
+        
+          Privacy
+        

@@ -1,0 +1,205 @@
+CNB - Základní vyhledávání
+ 
+        Databáze Národní knihovny ČR 
+    
+ 
+      Aktuální báze:  CNB   
+    
+ 
+      Konec
+ 
+      | 
+    
+ 
+      Přihlášení
+ 
+      | 
+    
+ 
+      Databáze
+ 
+      | 
+    
+ 
+      Dílčí báze
+ 
+      | 
+    
+ 
+      Nastavení
+ 
+      | 
+    
+ 
+      Otázky
+ 
+      | 
+    
+ 
+      MVS
+ 
+      | 
+    
+ 
+      Nápověda
+ 
+      Vyhledávání / Rejstříky
+ 
+      | 
+    
+ 
+      Výsledky dotazu
+ 
+      | 
+    
+ 
+      Předchozí dotazy
+ 
+      | 
+    
+ 
+      Schránka
+ 
+      | 
+    
+ Historie
+ 
+      | 
+    
+ 
+        
+    
+ 
+ 
+      
+  
+ 
+         Základní vyhledávání
+ 
+       |  
+  
+ 
+         Rozšířené vyhledávání
+ 
+       |  
+  
+ 
+         Z více bází
+ 
+       |  
+  
+ 
+      Vyhledávání CCL
+ 
+      
+  
+ 
+   CNB -  
+  
+ 
+   Česká národní bibliografie 
+  
+ 
+  Pro správné fungování stránek je nutné povolit skriptování v jazyce JavaScript !!! 
+ 
+ Základní vyhledávání 
+ Přehled novinek 
+   
+      Informace o České národní bibliografii 
+Vyberte údaj pro vyhledávání:  
+Všechny údaje
+Název
+Autor (osoba, korporace)
+Předmět (klíčová slova)
+Slova z obsahu (table of cont.)
+Nakladatel
+Místo vydání
+Rok vydání
+ISBN / ISMN / ISSN atd.
+Obsazení (hudební díla)
+Periodicita
+Kód země vydání
+Kód jazyka dokumentu
+Kód jazyka originálu
+Druh dokumentu
+Signatura
+Čárový kód
+Číslo národní bibl.
+Identifikační číslo
+Systémové číslo
+Zadejte slovo nebo slovní spojení:  
+Druh dokumentu:  
+ 
+Knihy
+Seriály (periodika)
+Mapy
+Hudebniny (tištěné)
+Elektronické zdroje
+Digitalizované dokumenty
+Mikrodokumenty
+Grafika
+Zvukové záznamy
+Videozáznamy
+     
+    
+ pouze dokumenty v češtině   
+  
+ Blízkost slov? 
+Ne 
+    Ano 
+  
+Pro další informace použijte tabulku kódů jazyků, 
+tabulku kódů zemí 
+a tabulku kódů druhů dokumentu. 
+ Prohlížení rejstříků 
+Vyberte rejstřík k prohlížení:  
+Názvy
+Předmětová hesla (od r.1995) 
+Předmětová hesla (do r.1994, inverze)
+Autoři (příjmení, jméno)
+Korporace / akce
+Nakladatelé
+Edice
+ISBN / ISMN
+ISSN
+Obsazení (hudební díla)
+Forma dokumentu
+Skupina Konspektu
+MDT
+Signatury
+Systémová čísla
+Zadejte heslo k otevření rejstříku:  
+   
+        
+ EBSCO Discovery Service NK ČR 
+ Klíčová slova 
+ Tematické termíny 
+ Název 
+ Autor 
+ Plné texty       
+     Dostupné v kolekci NK ČR       
+     Pouze katalogy NK ČR 
+  
+ Základní nápověda k vyhledávání: 
+ 
+Nezáleží na tom, zda použijete velká nebo malá písmena. V souladu s ČSN 976030 jsou za samostatná považována písmena č,ř,š,ž, ostatní písmena s diakritikou lze zapisovat i bez diakritiky 
+(t.j. zápisem capek se vyhledá capek i cápek, ale nikoli čapek). Cizí ženská příjmení je třeba zadávat v původní podobě, tj. bez koncovky "-ová". 
+ 
+Všechny údaje zahrnují slova z názvu, jména autorů a dalších původců, místo vydání, nakladatele, rok vydání, klíčová slova (předmět dokumentu). Slova se zapisují vedle sebe bez ohledu na druh údaje. Pro vyhledávání podle dalších údajů (např. ISBN / ISMN / ISSN, kód země vydání, kód jazyka atd.) si můžete vybrat z nabídky v menu. 
+ 
+ 
+Pro krácení (zleva i zprava) se  používá znak ? nebo * (např. zadáním geolog? se vyhledají záznamy, které obsahují slova geolog, geologie, geological, geologický atd.). 
+Znak ? slouží i jako zástupný znak, např. pro nalezení slov v různých pravopisech 
+(pre?ident vyhledá jak záznamy se slovem president, tak prezident). 
+Při vyhledávání je možno také použít logické operátory AND, OR a NOT. 
+Označením Ano pro Blízkost slov? se vyhledají pouze záznamy, kde jsou zadaná slova vedle sebe v příslušném pořadí. 
+ 
+ 
+Pro otevření rejstříku není třeba zadávat celá hesla, ale znaky pro krácení se nepoužívají. Kliknutím na heslo v rejstříku zobrazíte připojené záznamy. Kliknutím na autoritní záznam u příslušného hesla zobrazíte další údaje k heslu. 
+ 
+ 
+Pro složitější vyhledávací kombinace zvolte Rozšířené vyhledávání z nabídkové lišty. Podrobnější informace k vyhledávání nabízí Nápověda k používání systému. 
+ 
+ 
+Dotaz generovaný systémem do adresního řádku není po ukončení relace platný. Jak uložit přístup do katalogu nebo konkrétní dotaz mezi Oblíbené vám poradí návod k vytváření záložek. 
+ © 2014 Ex Libris, NK ČR

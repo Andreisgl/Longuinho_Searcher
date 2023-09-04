@@ -1,0 +1,36 @@
+BBC - Things
+ HomepageAccessibility linksSkip to contentAccessibility HelpBBC AccountNotificationsHomeNewsSportWeatheriPlayerSoundsBitesizeCBeebiesCBBCFoodHomeNewsSportReelWorklifeTravelFutureCultureTVWeatherSoundsMore menu Search BBC Search BBC HomeNewsSportWeatheriPlayerSoundsBitesizeCBeebiesCBBCFoodHomeNewsSportReelWorklifeTravelFutureCultureTVWeatherSoundsClose menu 
+ThingsBeta
+Copyright
+Legal right of creator
+http://www.bbc.co.uk/things/05beb2cf-0ea3-4455-8487-26875ab6c63b#id
+Wikipedia
+Properties
+rdf:type
+core:Theme
+core:Thing
+tagging:TagConcept
+core:disambiguationHint
+Legal right of creator
+                
+core:label
+en-gb: Copyright
+                
+core:preferredLabel
+Copyright
+                
+core:primaryTopicOf
+http://en.wikipedia.org/wiki/Copyright
+core:sameAs
+dbpedia:Copyright
+http://www.wikidata.org/entity/Q15687022
+core:shortLabel
+Copyright
+                
+View
+                    Turtle (.ttl)
+              The BBC does not offer a warranty for the quality and availability of the data nor does it endorse any of the explicit or implicit associations provided by the Things website.
+              Some of the information displayed is brought in from open data sources such as Wikipedia and MusicBrainz which may not have been reviewed by professional editors.
+              If you find any of the content factually incorrect or highly offensive you can edit the data at these original sources.
+            
+ Explore the BBCHomeNewsSportWeatheriPlayerSoundsBitesizeCBeebiesCBBCFoodHomeNewsSportReelWorklifeTravelFutureCultureTVWeatherSoundsTerms of UseAbout the BBCPrivacy PolicyPrivacy PolicyCookiesCookiesAccessibility HelpParental GuidanceContact the BBCMake an editorial complaintBBC emails for youAdvertise with usCopyright © 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.        

@@ -1,0 +1,643 @@
+Devanagari script - Wikidata
+Devanagari script
+(Q38592)
+From Wikidata
+Jump to navigation
+Jump to search
+writing system used to write most North Indian and Nepalese languagesDevaDeva Nagari LipiHindi scriptDevanagariNagari
+Language
+Label
+Description
+Also known as
+English
+Devanagari script
+writing system used to write most North Indian and Nepalese languages
+DevaDeva Nagari LipiHindi scriptDevanagariNagari
+Statements
+instance of
+abugida
+0 references
+unicase alphabet
+0 references
+natural writing system
+0 references
+subclass of
+Brahmic scripts
+0 references
+image
+Aum Om black.svg356 × 367; 3 KB
+0 references
+Devanagari letters.svg448 × 795; 23 KB
+0 references
+13th-century Shatapatha Brahmana 14th Khanda Prapathaka 3-4, page 1 front, Sanskrit, Devanagari script.jpg1,830 × 792; 525 KB
+0 references
+1765 Saka, 1843 CE, Jnanesvari Jnandeva Dnyaneshwar manuscript page 1 and 2, Devanagari Marathi.jpg1,694 × 2,074; 1.4 MB
+0 references
+inception
+11. century
+0 references
+name
+Devanagari (Nagari) (English)
+1 reference
+reference URL
+https://www.unicode.org/iso15924/iso15924-codes.html
+dévanâgarî (French)
+1 reference
+reference URL
+https://www.unicode.org/iso15924/iso15924-codes.html
+Devanagari (English)
+1 reference
+reference URL
+https://www.unicode.org/iso15924/iso15924-codes.html
+authority
+Unicode Consortium
+देवनागरी (Hindi)
+0 references
+native label
+देवनागरी (Hindi)
+0 references
+IPA transcription
+ˌdeɪvəˈnɑːɡəri
+language of work or name
+English
+pronunciation variety
+learned borrowing
+0 references
+ˌdɛvəˈnɑɡəri
+language of work or name
+English
+pronunciation variety
+spelling pronunciation
+0 references
+based on
+Nāgarī
+0 references
+country of origin
+India
+0 references
+language of work or name
+Prakrit
+0 references
+Awadhi
+0 references
+Bhili
+0 references
+Bhojpuri
+0 references
+Bodo
+0 references
+Braj Bhasha
+0 references
+Chhattisgarhi
+0 references
+Dogri
+0 references
+Gujarati
+0 references
+Haryanvi
+0 references
+Hindi
+0 references
+Hindustani
+0 references
+Kashmiri
+0 references
+Konkani
+0 references
+Magahi
+0 references
+Maithili
+0 references
+Marathi
+0 references
+Marwari
+0 references
+Mundari
+0 references
+Newar
+0 references
+Nepali
+0 references
+Pali
+0 references
+Punjabi
+0 references
+Rajasthani
+0 references
+Nagpuri
+0 references
+Sanskrit
+0 references
+Santali
+0 references
+Saraiki
+0 references
+Sherpa
+0 references
+Sindhi
+0 references
+Surjapuri
+0 references
+Angika
+0 references
+Fiji Hindi
+0 references
+Gondi
+0 references
+Kurukh
+0 references
+Saurashtra
+0 references
+script directionality
+left-to-right
+2 references
+reference URL
+https://babelstone.co.uk/Software/BabelMap.html
+reference URL
+https://www.unicode.org/versions/Unicode13.0.0/ch12.pdf
+location of creation
+Indian subcontinent
+0 references
+distribution map
+Devanagari Verbreitung.svg576 × 625; 335 KB
+0 references
+described by source
+Armenian Soviet Encyclopedia
+volume
+3
+page(s)
+353
+1 reference
+imported from Wikimedia project
+Armenian Wikipedia
+The Nuttall Encyclopædia
+subject named as
+Devanag`ari
+0 references
+Meyers Konversations-Lexikon, 4th edition (1885–1890)
+statement is subject of
+Q112773368
+0 references
+on focus list of Wikimedia project
+Wikipedia:Vital articles/Level/4
+point in time
+31 October 2022
+0 references
+related category
+Category:Devanagari pronunciation
+category contains
+pronunciation
+0 references
+Unicode range
+U+0900-097F
+2 references
+reference URL
+https://www.unicode.org/charts/PDF/U0900.pdf
+reference URL
+https://www.unicode.org/versions/Unicode13.0.0/ch12.pdf
+U+A8E0-A8FF
+2 references
+reference URL
+https://www.unicode.org/charts/PDF/UA8E0.pdf
+reference URL
+https://www.unicode.org/versions/Unicode13.0.0/ch12.pdf
+U+1CD0-1CFF
+1 reference
+reference URL
+https://www.unicode.org/versions/Unicode13.0.0/ch12.pdf
+has part(s)
+Devanagari letter
+quantity
+47
+0 references
+Commons category
+Devanagari
+0 references
+topic's main template
+Template:Lang-Deva
+1 reference
+inferred from
+Template:Lang-Deva
+topic's main category
+Category:Devanagari
+0 references
+Identifiers
+ISO 15924 alpha-4 code
+Deva
+1 reference
+reference URL
+https://www.unicode.org/iso15924/iso15924-codes.html
+ISO 15924 numeric code
+315
+1 reference
+reference URL
+https://www.unicode.org/iso15924/iso15924-codes.html
+Bibliothèque nationale de France ID
+12652802w
+subject named as
+Alphabet devanāgarī
+1 reference
+stated in
+Nuovo soggettario
+reference URL
+https://thes.bncf.firenze.sbn.it/termine.php?id=41850
+retrieved
+16 June 2021
+GND ID
+4149407-6
+1 reference
+imported from Wikimedia project
+German Wikipedia
+National Library of Israel J9U ID
+987007550790305171
+1 reference
+stated in
+National Library of Israel
+Library of Congress authority ID
+sh85037334
+1 reference
+reference URL
+https://github.com/JohnMarkOckerbloom/ftl/blob/master/data/wikimap
+retrieved
+3 April 2019
+Australian Educational Vocabulary ID
+scot/16845
+0 references
+BabelNet ID
+00026688n
+1 reference
+stated in
+BabelNet
+BNCF Thesaurus ID
+41850
+1 reference
+stated in
+National Central Library of Florence
+Brockhaus Enzyklopädie online ID
+devanagari
+0 references
+Den Store Danske ID
+devanagari
+0 references
+Encyclopædia Britannica Online ID
+topic/Devanagari
+0 references
+Encyclopedia of China (Third Edition) ID
+235355
+0 references
+366140
+0 references
+Freebase ID
+/m/02gy6
+1 reference
+stated in
+Freebase Data Dumps
+publication date
+28 October 2013
+Gran Enciclopèdia Catalana ID
+0098757
+0 references
+Hrvatska enciklopedija ID
+14859
+0 references
+KBpedia ID
+DevanagariWriting
+1 reference
+stated in
+KBpedia
+retrieved
+9 July 2020
+LoC and MARC vocabularies ID
+mscript/j
+scope note
+Original alphabet of the resource is Devanagari (English)
+0 references
+Microsoft Academic ID
+2780144916
+0 references
+Namuwiki ID
+데바나가리 문자
+0 references
+NicoNicoPedia ID
+デーヴァナーガリー
+0 references
+OpenAlex ID
+C2780144916
+1 reference
+stated in
+OpenAlex
+retrieved
+26 January 2022
+reference URL
+https://docs.openalex.org/download-snapshot/snapshot-data-format
+Proleksis enciklopedija ID
+17543
+0 references
+Quora topic ID
+Devanagari-1
+1 reference
+stated in
+Quora
+Devnagari-script-1
+0 references
+ScienceDirect topic ID
+biochemistry-genetics-and-molecular-biology/devanagari
+0 references
+medicine-and-dentistry/devanagari
+0 references
+Visuotinė lietuvių enciklopedija ID
+devanagari
+0 references
+ 
+Sitelinks
+Wikipedia(115 entries)
+afwiki
+Devanagari
+anpwiki
+देवनागरी
+arwiki
+ديوناكري
+astwiki
+Devanágari
+azwiki
+Devanaqari
+barwiki
+Devanagari
+bawiki
+Деванагари
+bewiki
+Дэванагары
+bgwiki
+Деванагари
+bhwiki
+देवनागरी
+bjnwiki
+Dewanagari
+bnwiki
+দেবনাগরী লিপি
+brwiki
+Devanāgarī
+bswiki
+Devanagari
+cawiki
+Devanagari
+ckbwiki
+دیڤاناگەری
+crhwiki
+Devanagari
+cswiki
+Dévanágarí
+cywiki
+Devanāgarī
+dawiki
+Devanagari
+dewiki
+Devanagari
+diqwiki
+Dêvenagerki
+dtywiki
+देवनागरी
+elwiki
+Δεβαναγαρικό αλφάβητο
+enwiki
+Devanagari
+eowiki
+Nagario
+eswiki
+Devanagari
+etwiki
+Devanaagari kiri
+euwiki
+Devanagari
+fawiki
+دیواناگری
+fiwiki
+Devanagari
+frrwiki
+Devanagari
+frwiki
+Devanagari
+gdwiki
+Devanāgarī
+glwiki
+Devanágari
+gomwiki
+देवनागरी लिपी
+guwiki
+દેવનાગરી
+hewiki
+אלפבית דוונאגרי
+hifwiki
+Devanagri
+hiwiki
+देवनागरी
+hrwiki
+Devanagari
+huwiki
+Dévanágari írás
+hywiki
+Դևանագարի
+idwiki
+Aksara Dewanagari
+iowiki
+Devanagari alfabeto
+iswiki
+Devanagarí
+itwiki
+Alfabeto devanagari
+jawiki
+デーヴァナーガリー
+jvwiki
+Aksara Déwanagari
+kawiki
+დევანაგარი
+kkwiki
+Деванагари
+kmwiki
+អក្សរទេវនាគរី
+knwiki
+ದೇವನಾಗರಿ ಲಿಪಿ
+kowiki
+데바나가리 문자
+kuwiki
+Devanagarî
+lawiki
+Devanagari
+lfnwiki
+Alfabeta devanagari
+ltwiki
+Devanagari raštas
+lvwiki
+Dēvanāgarī
+maiwiki
+देवनागरी
+mgwiki
+Devanagari
+mkwiki
+Деванагари
+mlwiki
+ദേവനാഗരി
+mniwiki
+ꯗꯦꯚꯅꯥꯒꯔꯤ ꯃꯌꯦꯛ
+mrwiki
+देवनागरी
+mswiki
+Aksara Dewanagari
+mywiki
+ဒေဝနာဂရီအက္ခရာ
+newiki
+देवनागरी लिपि
+newwiki
+देवनागरी लिपि
+nlwiki
+Devanagari
+nnwiki
+Devanagari
+nowiki
+Devanāgarī
+ocwiki
+Devanagari
+pamwiki
+Dewanágarî
+pawiki
+ਦੇਵਨਾਗਰੀ ਲਿਪੀ
+piwiki
+देवनागरी
+plwiki
+Pismo dewanagari
+pnbwiki
+دیو ناگری لپی
+pswiki
+دېوناگري
+ptwiki
+Devanágari
+quwiki
+Diwanaqri siq'i llumpa
+rmywiki
+Devnagrī
+rowiki
+Devanagari
+ruwiki
+Деванагари
+satwiki
+ᱫᱮᱵᱽᱱᱟᱜᱽᱨᱤ
+sawiki
+देवनागरी
+sdwiki
+ديوناگري اسڪرپٽ
+sewiki
+Devanagari
+shwiki
+Devanagari
+simplewiki
+Devanagari
+siwiki
+දේවනාගරී
+skrwiki
+دیوناگری
+skwiki
+Dévanágarí
+slwiki
+Devanagari
+sqwiki
+Devanagari
+srwiki
+Деванагари
+svwiki
+Devanāgarī
+swwiki
+Devanagari
+tawiki
+தேவநாகரி
+tewiki
+దేవనాగరి
+tgwiki
+Девоногарӣ
+thwiki
+อักษรเทวนาครี
+tlwiki
+Devanagari
+trwiki
+Devanagari
+ttwiki
+Деванагари
+ukwiki
+Деванаґарі
+urwiki
+دیوناگری
+uzwiki
+Devanagari
+viwiki
+Devanagari
+wuuwiki
+天城文
+xmfwiki
+დევანაგარი
+yiwiki
+דעוואנאגארי
+zh_classicalwiki
+天城體
+zh_yuewiki
+天城字
+zhwiki
+天城文
+Wikibooks(5 entries)
+dewikibooks
+Devanagari
+enwikibooks
+Devanagari
+frwikibooks
+Enseignement de l'hindi/Devanagari
+hiwikibooks
+देवनागरी
+urwikibooks
+دیوناگری
+Wikinews(1 entry)
+ruwikinews
+Категория:Деванагари
+Wikiquote(1 entry)
+hiwikiquote
+देवनागरी
+Wikisource(0 entries)
+Wikiversity(3 entries)
+enwikiversity
+Hindi Script
+frwikiversity
+Hindi/Grammaire/Alphabet
+kowikiversity
+데바나가리
+Wikivoyage(1 entry)
+enwikivoyage
+Learning Devanagari
+Wiktionary(0 entries)
+Multilingual sites(0 entries)
+Retrieved from "https://www.wikidata.org/w/index.php?title=Q38592&oldid=1961475098"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+ItemDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 26 August 2023, at 05:29.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

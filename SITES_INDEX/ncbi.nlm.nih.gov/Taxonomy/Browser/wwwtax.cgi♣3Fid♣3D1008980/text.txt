@@ -1,0 +1,73 @@
+ 
+Entrez
+PubMed
+Nucleotide
+Protein
+Genome
+Structure
+PMC
+Taxonomy
+BioCollections
+Search for 
+ as 
+complete name
+              wild card
+              token set
+              phonetic name
+              taxonomy id
+ lock 
+                 
+ levels 
+using filter: 
+      
+none
+has genome sequences
+Taxonomy browser (Citrus tankan)
+Citrus tankan
+Taxonomy ID: 1008980 (for references in articles please use NCBI:txid1008980)current name
+Citrus tankan Hayata
+NCBI BLAST name: eudicotsRank: speciesGenetic code: Translation table 1 (Standard)Mitochondrial genetic code: Translation table 1 (Standard)Plastid genetic code: Translation table 11 (Bacterial, Archaeal and Plant Plastid)Other names:heterotypic synonym
+Citrus reticulata 'Tankan'
+common name(s)
+jiaogan
+Lineage( full )
+cellular organisms; Eukaryota; Viridiplantae; Streptophyta; Streptophytina; Embryophyta; Tracheophyta; Euphyllophyta; Spermatophyta; Magnoliopsida; Mesangiospermae; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Sapindales; Rutaceae; Aurantioideae; Citrus
+   Entrez records   
+Database name
+Direct links
+Nucleotide
+1
+Protein
+1
+PubMed Central
+9
+Identical Protein Groups
+1
+Taxonomy
+1
+Comments and References:
+GRIN (Feb 11, 2021)Name accessed on 11 February 2021 in: USDA, ARS, National Genetic Resources Program. Germplasm Resources Information Network - (GRIN) [Online Database]. National Germplasm Resources Laboratory, Beltsville, Maryland. (https://npgsweb.ars-grin.gov/gringlobal/taxon/taxonomysearch.aspx)
+Tanaka T 1954Tanaka T. 1954. Species problem in Citrus: a critical study of wild and cultivated units of Citrus, based upon field studies in their native homes. Revisio Aurantiacearum IX. Japanese Society for the Promotion of Science, Tokyo. 152 pp.
+External Information Resources (NCBI LinkOut)
+LinkOut
+Subject
+LinkOut Provider
+search W3TROPICOS
+taxonomy/phylogenetic
+Vascular Tropicos
+Notes:
+Groups interested in participating in the LinkOut program should visit the LinkOut home page. A list of our current non-bibliographic LinkOut providers can be found here.
+Information from sequence entries
+Show organism modifiers
+Disclaimer: The NCBI taxonomy database is not an authoritative
+  source for nomenclature or classification - please consult the
+  relevant scientific literature for the most reliable information.
+Reference: How to cite this resource - Schoch CL, et al. NCBI Taxonomy: a comprehensive update on curation, resources and tools. Database (Oxford). 2020: baaa062. PubMed: 32761142 PMC: PMC7408187.
+  
+Comments and questions to
+  info@ncbi.nlm.nih.gov
+[Help]
+[Search]
+[NLM
+NIH]
+[Disclaimer]

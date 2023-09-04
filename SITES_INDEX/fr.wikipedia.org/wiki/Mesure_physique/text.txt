@@ -1,0 +1,651 @@
+Mesure physique — Wikipédia
+Aller au contenu
+Menu principal
+Menu principal
+déplacer vers la barre latérale
+masquer
+Navigation
+AccueilPortails thématiquesArticle au hasardContact
+Contribuer
+Débuter sur WikipédiaAideCommunautéModifications récentesFaire un don
+Langues
+Sur cette version linguistique de Wikipédia, les liens interlangues sont placés en haut à droite du titre de l’article.Aller en haut.
+Rechercher
+Rechercher
+Créer un compteSe connecter
+Outils personnels
+ Créer un compte Se connecter
+Pages pour les contributeurs déconnectés en savoir plus
+ContributionsDiscussion
+Sommaire
+déplacer vers la barre latérale
+masquer
+Début
+1Généralités
+Afficher / masquer la sous-section Généralités
+1.1Caractérisation de la mesure
+1.2Calcul d'incertitude
+1.3Problème de la mesure en mécanique quantique
+1.4Épistémologie de la mesure
+2Systèmes de mesures
+Afficher / masquer la sous-section Systèmes de mesures
+2.1Systèmes de mesures non métriques
+2.1.1Système impérial (GB, Commonwealth et US)
+2.2Système métrique
+2.3Système international
+2.3.1Généralités
+2.3.2Préfixes de conversion
+2.4Les grandeurs de base
+2.4.1Longueur
+2.4.2Masse
+2.4.3Temps
+2.4.4Courant électrique
+2.4.5Température
+2.4.6Quantité de matière
+2.4.7Intensité lumineuse
+2.5Grandeurs et unités secondaires
+2.5.1Grandeurs secondaires à dimensions non nulles et unités utilisées
+2.5.2Grandeurs à dimension nulle et unités utilisées
+2.6Moyens de mesure
+2.6.1Grandeurs étalons
+2.6.1.1Longueur
+2.6.1.2Temps
+2.6.1.3Masse
+2.6.1.4Température
+2.6.1.5Intensité électrique
+2.6.1.6Radiométrie et photométrie
+2.6.2Grandeurs dérivées
+2.6.2.1Force
+2.6.2.2Pression
+3Voir aussi
+Afficher / masquer la sous-section Voir aussi
+3.1Bibliographie
+3.2Articles connexes
+3.3Liens externes
+4Notes et références
+Basculer la table des matières
+Basculer la table des matières
+Mesure physique
+127 langues
+AfrikaansAlemannischAragonésالعربيةالدارجةঅসমীয়াAsturianuAzərbaycancaتۆرکجهБашҡортсаBoarischŽemaitėškaBikol CentralБеларускаяБеларуская (тарашкевіца)БългарскиभोजपुरीবাংলাBrezhonegBosanskiБуряадCatalàCebuanoکوردیČeštinaЧӑвашлаCymraegDanskDeutschΕλληνικάEnglishEsperantoEspañolEestiEuskaraEstremeñuفارسیSuomiNa Vosa VakavitiNordfriiskGaeilge贛語Kriyòl gwiyannenGalegoAvañe'ẽעבריתहिन्दीHrvatskiKreyòl ayisyenMagyarՀայերենInterlinguaBahasa IndonesiaIlokanoIdoÍslenskaItaliano日本語PatoisJawaҚазақшаಕನ್ನಡ한국어Къарачай-малкъарKernowekКыргызчаLatinaLombardLingálaLietuviųLatviešuМакедонскиമലയാളംМонголBahasa MelayuMirandésမြန်မာဘာသာनेपालीNederlandsNorsk nynorskNorsk bokmålNouormandOccitanਪੰਜਾਬੀPolskiPiemontèisپنجابیپښتوPortuguêsRomânăРусскийРусиньскыйसंस्कृतम्Саха тылаScotsسنڌيSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaChiShonaShqipСрпски / srpskiSvenskaKiswahiliSakizayaதமிழ்తెలుగుไทยTagalogTürkçeXitsongaУкраїнськаاردوOʻzbekcha / ўзбекчаTiếng ViệtVolapükWinaray吴语IsiXhosaייִדיש中文文言Bân-lâm-gú粵語IsiZulu
+Modifier les liens
+ArticleDiscussion
+français
+LireModifierModifier le codeVoir l’historique
+Outils
+Outils
+déplacer vers la barre latérale
+masquer
+Actions
+LireModifierModifier le codeVoir l’historique
+Général
+Pages liéesSuivi des pages liéesTéléverser un fichierPages spécialesLien permanentInformations sur la pageCiter cette pageÉlément Wikidata
+Imprimer / exporter
+Créer un livreTélécharger comme PDFVersion imprimable
+Dans d’autres projets
+Wikimedia CommonsWikiversité
+Un article de Wikipédia, l'encyclopédie libre.
+Pour les articles homonymes, voir Mesure.
+Mesure d'une profondeur d'eau par un ouvrier du réseau de métro de New York.
+La mesure physique est l'action de déterminer la ou les valeurs d'une grandeur (longueur, capacité, etc.), par comparaison avec une grandeur constante de même espèce prise comme terme de référence (étalon ou unité). Selon la définition canonique :
+Mesurer une grandeur, c'est la comparer à une autre grandeur de même espèce prise comme unité.
+La mesure physique vise à l'objectivité et à la reproductibilité. La comparaison est numérique ; on exprime une caractéristique bien définie de l'objet par un nombre rationnel multipliant l'unité. Un résultat de mesure physique complet comprend une estimation numérique de la grandeur, la désignation de l'unité de mesure, une expression de l'incertitude de mesure et les principales conditions de l'épreuve. L'incertitude est partie intégrante de la mesure, et peut même être son résultat principal.
+En physique, la mesure physique se définit comme la détermination de la valeur numérique d'une grandeur par l'interprétation du résultat d'une expérience ou d'une observation. Les conditions et les méthodes de cette expérience ou observation déterminent l'incertitude[1].
+Le Bureau international des poids et mesures a établi un Système international d'unités et des normes de publication des résultats de mesure permettant leur comparaison directe. 
+Généralités[modifier | modifier le code]
+« En sciences physiques, une première étape essentielle dans l'apprentissage d'un sujet est de trouver comment l'appréhender en chiffres, et des méthodes pour mesurer une qualité qui lui est liée. Je dis souvent que si vous pouvez mesurer ce dont vous parlez et l'exprimer en chiffres, vous en savez quelque chose ; mais si vous ne pouvez le mesurer, le quantifier, votre connaissance est d'une bien pauvre et insatisfaisante espèce : ce peut être le début de la connaissance, mais vous n'avez pas encore, dans vos pensées, avancé jusqu'au stade de science, quel que soit le sujet[2]. »
+— William Thomas Thomson, Lord Kelvin
+La mesure physique est fondamentale dans la plupart des champs scientifiques (chimie, physique, biologie, etc.). Elle est essentielle à un grand nombre d'applications industrielles et commerciales.
+En sciences naturelles, la mesure est une méthode de comparaison objective et reproductible d'une caractéristique des objets. Plutôt que de comparer les objets deux à deux, on indique le rapport de chacun d'eux à un objet défini par une convention appelé unité de mesure.
+Les méthodes les plus simples, en usage depuis l'Antiquité, utilisent un comptage de l'unité et une évaluation de la fraction, comme avec la chaîne d'arpenteur. L'instrument de mesure est une reproduction matérielle de l'unité, certifié par une autorité. Les appareils de mesure se sont perfectionnés en même temps que la physique s'établissait comme une science des modèles mathématiques des rapports entre les grandeurs. Ceux inventés depuis le XVIIe siècle se terminent souvent par le suffixe -mètre précédé d'un terme qui désigne le mesurande, comme dans  thermomètre, où thermo rappelle le nom de la chaleur en grec ancien, ou l'unité, comme dans voltmètre, mesurant la tension électrique entre ses bornes en volts.
+L'accès à une grandeur physique se fait souvent par l'intermédiaire d'une ou de plusieurs transductions dans une autre grandeur. L'ensemble des éléments de l'appareil constitue une chaîne de mesure du phénomène au résultat numérique[3].
+Le degré de confiance qu'on peut accorder à une mesure physique dépend de l'instrument et de la procédure. Bien qu'un résultat de mesure soit donné de manière usuelle par un nombre suivi d'une unité, elle possède au moins trois composantes : l'estimation, l'incertitude et la probabilité que la mesure soit comprise dans un intervalle donné. Par exemple, la mesure de la longueur d'une planche peut donner 9 mètres plus ou moins 0,01 mètre, avec une probabilité de 0,95. Autrement dit, si l'on procède 100 fois à la mesure de cette longueur, environ 95 fois on trouvera une valeur comprise entre 8,99 mètres et 9,01 mètres (on parle d'intervalle de confiance à 95 %).
+La métrologie est une science auxiliaire de la physique consacrée à l'étude de la mesure des grandeurs physiques[4], de la définition de leurs unités, et de la réalisation pratique des manipulations permettant d'arriver à un résultat numérique[5].
+Caractérisation de la mesure[modifier | modifier le code]
+L'expression numérique d'une grandeur se caractérise en premier lieu par la précision de l'écriture. Si l'on écrit que la mesure est de 592 unités, on dit qu'elle n'est ni de 591, ni de 593. Si l'on écrit que la mesure a donné 592,0 unités, on sous-entend qu'elle n'est ni de 591,9, ni de 592,1. Quand cette « précision » augmente, il se trouve un moment où deux mesurages du même objet donnent un résultat différent. Cette incertitude de mesure est partie intégrante d'un mesurage.
+Face à cette réalité pratique, plusieurs approches sont possibles. On peut considérer qu'il existe une valeur vraie, par définition inconnue, que la mesure entache d'une erreur de mesure. On peut penser qu'il existe un ensemble de valeurs « vraies », c'est-à-dire compatibles avec la définition de la grandeur. On peut se dispenser complètement de la notion de valeur vraie, et établir une compatibilité de mesure qui est un intervalle dans lequel la mesure doit être considérée comme valide[6].
+Calcul d'incertitude[modifier | modifier le code]
+Article détaillé : Propagation des incertitudes.
+L'une des caractéristiques principales de la mesure physique est l'incertitude qu'elle possède intrinsèquement.
+On peut améliorer la procédure de mesure et corriger les erreurs connues ou soupçonnées, le processus se termine toujours par une quantification, c'est-à-dire le choix d'une valeur prise dans un nombre fini de valeurs possibles. L'intervalle entre deux valeurs possibles est le minimum de l'incertitude ; souvent, on répète les mesures, et on obtient un jeu de résultats possédant une distribution statistique, expression élaborée de l'incertitude.
+La définition de certaines grandeurs, comme la fréquence, implique une incertitude de mesure, puisqu'elle n'est définie par une intégrale de moins l'infini à plus l'infini, et donc à condition de connaître le phénomène périodique concerné sans aucune limite, ce qui n'est pas le cas dans une mesure.
+Le processus de mesure comporte souvent des calculs qui peuvent faire intervenir plusieurs grandeurs, ou des fonctions de transfert qui ne sont pas nécessairement linéaires. On doit donc effectuer des calculs de propagation des incertitudes pour déterminer l'incertitude sur le résultat[7].
+Problème de la mesure en mécanique quantique[modifier | modifier le code]
+Articles détaillés : Observable, Mesure faible et Problème de la mesure quantique.
+En mécanique quantique, c'est-à-dire à l'échelle atomique, deux phénomènes font obstacle à la mesure :
+le principe d'incertitude énoncé par Werner Heisenberg, concernant notamment le couplage entre impulsion et position ;
+la fragilité de l'information quantique face aux mesures, qui fait que la mesure affecte l'objet mesuré.
+Ces particularités font de la mesure à l'échelle particulaire un domaine en toute rigueur séparé de celui des mesures physiques à l'échelle macroscopique, qui concerne des objets dont la taille minimale est celle d'un point matériel, d'une particule matérielle ou d'une particule fluide.
+Épistémologie de la mesure[modifier | modifier le code]
+Article détaillé : Mesure (épistémologie).
+L'épistémologie examine sur quel genre de connaissance débouche la mesure.
+Systèmes de mesures[modifier | modifier le code]
+Avant que les unités du Système international soient adoptées dans le monde entier, il existait (de manière simultanée ou non) de nombreux systèmes, plus ou moins pratiques et plus ou moins généralisés en termes d'aires d'expansions, d'utilisations professionnelles ou autres.
+Systèmes de mesures non métriques[modifier | modifier le code]
+Système impérial (GB, Commonwealth et US)[modifier | modifier le code]
+Article détaillé : Unités de mesure anglo-saxonnes.
+Les systèmes britanniques des unités anglaises, puis ultérieurement des unités impériales, étaient utilisées en Grande-Bretagne, dans le Commonwealth et aux États-Unis d'Amérique avant la généralisation du Système international d'unités. Le système vint à être connu comme « unités d'échange U.S. » aux États-Unis d'Amérique où il est toujours appliqué, ainsi que dans certains pays des Caraïbes. Ces systèmes de mesures variés ont été un temps appelés pied-livre-seconde (PLS) d'après les noms des unités impériales pour la distance, la masse et le temps. La plupart des unités impériales sont toujours utilisées en Grande-Bretagne en dépit du basculement général vers le système international. Les panneaux routiers sont toujours en miles, yards, miles par heure, etc., les gens tendent à indiquer leurs mesures en pied et pouces, et la bière est vendue en pintes, pour donner quelques exemples. Les unités impériales sont utilisées dans de nombreux autres lieux ; en particulier dans de nombreux pays du Commonwealth qui sont pourtant considérés comme « métriques », les surfaces de terrains sont mesurées en acres et les surfaces de sol en pieds carrés, particulièrement dans les transactions commerciales (plus que dans les statistiques gouvernementales). De manière similaire, le gallon impérial est utilisé dans de nombreux pays considérés comme « métriques » dans les stations d'essences et pétrolières, comme dans les Émirats arabes unis.
+Système métrique[modifier | modifier le code]
+Vue d'artiste de l'étalon kilogramme en platine iridié.
+Article détaillé : Système métrique.
+Le système métrique est un système d'unités décimalisé basé sur le mètre et le gramme. Il existe dans de nombreuses variantes, avec différents choix d'unités de base, bien que cela n'affecte en rien ses applications quotidiennes. Depuis les années 1960, le Système international d'unités (SI) - détaillé plus bas - est le système métrique standard internationalement reconnu. Les unités métriques de masse, de longueur, et d'électricité sont largement utilisées tant dans les applications quotidiennes que scientifiques. Le principal avantage du système métrique est qu'il possède une seule et unique unité de base pour chaque quantité physique. Toutes les autres unités sont des puissances de 10 de l'unité de base. Les conversions entre unités sont donc simples du fait qu'il suffit de multiplier (respectivement diviser) par 10, 100, 1000, etc. pour passer d'une unité à l'autre. Toutes les longueurs et distances sont, par exemple, mesurées en mètres, ou en millièmes de mètres (millimètres) ou en milliers de mètres (kilomètres) et ainsi de suite. Il n'y a donc pas profusion d'unités différentes avec des facteurs différents pour la conversion comme dans le système impérial. L'utilisation de fraction (par exemple 2/5 de mètre) n’est pas interdite mais est peu usuelle.
+Système international[modifier | modifier le code]
+Article détaillé : Système international d'unités.
+Généralités[modifier | modifier le code]
+Le Système international d'unités (abrégé en SI) est la forme moderne et révisée du système métrique. C'est le système d'unités le plus répandu dans le monde, à la fois dans la vie courante et dans les domaines scientifiques. Le SI a été développé dans les années 1960 à partir du système MKS (mètre-kilogramme-seconde) préférentiellement au système CGS (centimètre-gramme-seconde), qui possède de multiples variantes. Le SI introduit dès ses débuts de nombreuses et nouvelles unités ne faisant pas partie initialement du système métrique.
+Il y a deux types d'unités SI, les unités de base et les unités secondaires. Les unités de base sont les mesures correspondant au temps, à la longueur, à la masse, à la température, à la quantité (d'objets), au courant électrique, et l'intensité lumineuse. Les unités secondaires sont construites sur les unités de base ; par exemple la masse volumique qui s'exprime en kg/m3.
+Préfixes de conversion[modifier | modifier le code]
+Article détaillé : Préfixe du système international.
+Pour « éliminer » les préfixes, l'utilisation de la multiplication est le plus simple. Convertir les mètres en centimètres revient à multiplier les quantités en mètres par 100, puisqu'il y a 100 centimètres dans un mètre. Et inversement.
+Les grandeurs de base[modifier | modifier le code]
+La physique relie entre eux par des relations mathématiques les mesurandes, de sorte qu'on peut toujours les ramener, par l'analyse dimensionnelle, à un petit nombre de grandeurs de base.
+Grandeurs de base et dimensions du SI
+Grandeur de base
+Symbole de ladimension
+Longueur
+L
+{\displaystyle {\rm {L}}}
+Masse
+M
+{\displaystyle {\rm {M}}}
+Temps ou durée
+T
+{\displaystyle {\rm {T}}}
+Intensité électrique
+I
+{\displaystyle {\rm {I}}}
+Température thermodynamique
+Θ
+{\displaystyle {\rm {\Theta }}}
+Quantité de matière
+N
+{\displaystyle {\rm {N}}}
+Intensité lumineuse
+J
+{\displaystyle {\rm {J}}}
+Longueur[modifier | modifier le code]
+Articles détaillés : Longueur et Mètre.
+Les longueurs mesurées s'expriment dans le système international en mètres (symbole : m). Dans la vie courante, et selon les cas, on fait régulièrement usage des multiples courants que sont le kilomètre, le centimètre et le millimètre :
+les mesures de superficies sont « homogènes » à des longueurs au carré (L2), ce que l'on retrouve facilement dans l'expression des unités secondaires : kilomètre carré, mètre carré, etc. mais pas pour are (100 m2) ou hectare (10 000 m2).
+les mesures de volume sont « homogènes » à des longueurs au cube (L3). L'unité de base « dérivée » est donc le mètre cube. Cependant, on utilise de manière usuelle le litre qui est égal à un décimètre cube.
+Masse[modifier | modifier le code]
+Articles détaillés : Masse et Kilogramme.
+La masse est habituellement exprimée en kilogrammes (usuellement appelé "kilo", symbole : kg). Cette appellation rappelle que le kilogramme est à l'origine un multiple du gramme, unité de base du système CGS. On pourra noter que ceci a conduit à conserver un nom spécifique pour le multiple de mille kilogrammes qui n'est jamais appelé kilokilogramme mais est connu sous le nom de tonne (symbole : t).
+Temps[modifier | modifier le code]
+Articles détaillés : Temps et Seconde (temps).
+Les mesures du temps s'effectuent dans le système international en secondes. La seconde est la seule unité du système international dont l'usage conserve une référence au système de comptage sexagésimal, possédant des unités dérivées d'ordre supérieur qui ne sont pas multiples de 10 de l'unité de base, mais multiples de 60 (minute, heure), puis de 24 (jour), etc.
+Courant électrique[modifier | modifier le code]
+Articles détaillés : Courant électrique et Ampère (unité).
+L'intensité du courant électrique est mesurée en ampères (A) dans le système international, à partir duquel sont dérivées les autres unités appliquées pour les mesures de courant électrique (c'est-à-dire le volt (V) pour la différence de potentiel et l'ohm (Ω) pour la résistance, entre autres).
+Température[modifier | modifier le code]
+Articles détaillés : Température et Kelvin.
+L'unité de température absolue du système international est le kelvins (K), mesure directe de l'agitation thermique. Cette unité est utilisée de manière usuelle dans le domaine scientifique. Dans la vie courante (hors espace américain anglophone), l'unité utilisée est le degré Celsius (°C) (anciennement appelé centigrade) - dont l'échelle fut construite sur les phénomènes de fusion-ébullition de l'eau, qui se déduit de l'échelle Kelvin par la transformation suivante : température (°C) + 273,15 = température (K).
+Quantité de matière[modifier | modifier le code]
+Articles détaillés : Quantité de matière et Mole (unité).
+Une quantité de matière (Q) est exprimée selon l'échelle molaire dont l'unité est la mole (mol). Cette unité correspond à 6,02 × 1023 objets (nombre d'Avogadro). Elle est fréquemment utilisée en chimie, particulièrement pour les mesures de densité ("homogène" à Q/L3) qui rapportent la quantité de matière (ou d'objets chimiques) à un volume.
+Intensité lumineuse[modifier | modifier le code]
+Articles détaillés : Intensité lumineuse et Candela.
+Dans le système international, l'intensité lumineuse (sous-entendu perçue par l'œil humain) est mesurée par une échelle dont l'unité de base est la candela (cd, à ne pas confondre avec "Cd", symbole chimique du cadmium).
+Grandeurs et unités secondaires[modifier | modifier le code]
+Grandeurs secondaires à dimensions non nulles et unités utilisées[modifier | modifier le code]
+Dans le tableau ci-après sont présentées des grandeurs secondaires à dimensions non nulles et leurs unités[8], ainsi que quelques instruments de mesure.
+Dimension
+Unité secondaire
+Symbole SI)
+Homogène à
+Exemples d'unités dérivées
+Instruments de mesure
+Accélération
+mètre par seconde carrée
+m s−2
+L T-2
+Accéléromètre
+Masse volumique
+kilogramme par mètre cube
+kg m3
+M L-3
+Pycnomètre
+Énergie
+joule
+J
+M L2 T-2
+calorie
+Calorimètre
+Force
+newton
+N
+M L T-2
+Dynamomètre
+Fréquence
+hertz
+Hz
+T-1
+Fréquencemètre
+Pression
+pascal
+Pa
+M L-1 T-2
+bar, torr
+Manomètre
+Puissance
+watt
+W
+M L2 T-3
+Wattmètre
+Superficie
+mètre carré
+m2
+L2
+are, hectare
+Vitesse
+mètre par seconde
+m s−1
+L T-1
+kilomètre par heure
+Vélocimètre
+Volume
+mètre cube
+m3
+L3
+litre
+Grandeurs à dimension nulle et unités utilisées[modifier | modifier le code]
+Article détaillé : Grandeur sans dimension.
+Les grandeurs se présentant comme un rapport de grandeurs de mêmes dimensions sont adimensionnelles au sens mathématique du terme (leur dimension est nulle) et sont donc des scalaires. Leur unité est donc (généralement) le nombre 1 et ne porte pas de nom, bien que certaines grandeurs peuvent s'exprimer dans des unités portant des noms spécifiques[8] (elles restent cependant adimensionnelles). Parmi ces dernières, on peut trouver la mesure d'angle plan ou solide (respectivement radian et stéradian), la mesure de rapport entre deux puissances (en décibel ou bel), entre autres.
+Les échelles dans lesquelles ces mesures peuvent également être exprimées dans un système non décimal (comme le système sexagésimal pour une mesure d'angle exprimée en degrés, qui est calquée sur la mesure du temps) ou dans une échelle non linéaire (par exemple logarithmique pour la mesure du rapport entre deux puissances).
+Moyens de mesure[modifier | modifier le code]
+Grandeurs étalons[modifier | modifier le code]
+Longueur[modifier | modifier le code]
+Mètre pliant
+Une « règle » est un outil utilisé en géométrie, dessin technique, et autres afin de mesurer les distances ou tracer des lignes droites. Strictement parlant, un té est l'instrument utilisé pour tracer les lignes et l'instrument conçu pour la détermination des mesures est appelé "règle". De nombreuses et différentes formes d'instruments flexibles sont utilisées pour déterminer les longueurs, comme le mètre de charpentier, le mètre-ruban utilisé par les tailleurs, le mètre rétractable utilisé par les hommes de chantier, pied à coulisse, etc.
+Dans des contextes particuliers, on utilise d'autres instruments de mesure de longueur. À l'échelle microscopique, la profilométrie laser permet de mesurer un profil avec une précision de quelques dizaines de nanomètres. À l'échelle « humaine », on peut employer des télémètres.
+Temps[modifier | modifier le code]
+Les outils de mesure les plus communs pour la mesure du temps sont les horloges, pour des périodes inférieures au jour, et le calendrier pour des périodes supérieures. Les horloges se déclinent en genres plus ou moins exotiques allant des montres à l'Horloge de Long Now. Elles peuvent être pilotées par de nombreux mécanismes, comme le pendule par exemple. Il y a également une grande variété de calendriers, par exemple le calendrier lunaire et le calendrier solaire, bien que le plus utilisé soit le calendrier grégorien.
+Le chronomètre (maritime) est un outil de mesure du temps assez précis pour être utilisé comme standard de temps portable, habituellement utilisé pour la détermination des longitudes par le biais de la navigation astronomique.
+Le type le plus précis d'instruments de mesure du temps est l'horloge atomique. Elle est à comparer avec des instruments plus anciens et plus rudimentaires, comme le sablier, le cadran solaire ou la clepsydre.
+Masse[modifier | modifier le code]
+Une échelle de masse (et non de poids) est une référence pour la mesure de masse d'un corps. En dehors des outils numériques, le meilleur moyen de mesurer la masse est l'utilisation d'une balance. Dans sa forme conventionnelle, cette classe d'instruments de mesure compare l'échantillon, placé dans un plateau (de mesure) et suspendu à une extrémité d'un fléau, l'autre soutenant un plateau (de référence) suspendu dans lequel est placé une masse-étalon (ou une combinaison de masses-étalon). Afin de procéder à la mesure de la masse de l'objet placé dans le plateau, des masses (appelées couramment mais de manière inappropriée "poids") sont ajoutées dans le plateau de référence jusqu'à ce que le fléau soit autant en équilibre (mécanique) que possible. Une manière moins précise de procéder à une mesure de masse basée sur la déformation d'un ressort calibré qui se déforme linéairement en fonction de la masse supportée.
+La notion de masse peut aussi se référer à l'inertie d'un objet.
+Température[modifier | modifier le code]
+La température est une grandeur physique mesurée à l’aide d’un thermomètre et étudiée en thermométrie. Dans la vie courante, elle est reliée aux sensations de froid et de chaud, provenant du transfert thermique entre le corps humain et son environnement. En physique, elle se définit de plusieurs manières : comme fonction croissante du degré d’agitation thermique des particules (en théorie cinétique des gaz), par l’équilibre des transferts thermiques entre plusieurs systèmes ou à partir de l’entropie (en thermodynamique et en physique statistique). La température est une variable importante dans d’autres disciplines : météorologie et climatologie, médecine, et chimie.
+L’échelle de température la plus répandue est le degré Celsius, dans laquelle la glace (formée d'eau) fond à 0 °C et l'eau bout à environ 100 °C dans les conditions standard de pression. Dans les pays utilisant le système impérial (anglo-saxon) d’unités, on emploie le degré Fahrenheit où la glace fond à 32 °F et l'eau bout à 212 °F. L’unité du Système international d'unités (SI), d’utilisation scientifique et définie à partir du zéro absolu, est le kelvin dont la graduation est identique à celle des degrés Celsius.
+À partir de :
+Kelvin
+Celsius
+Fahrenheit
+Rankine
+Réaumur
+T
+Kelvin
+=
+{\displaystyle T_{\text{Kelvin}}=}
+T
+K
+{\displaystyle T_{K}}
+T
+C
++
+273
+,
+15
+{\displaystyle T_{C}+273{,}15}
+5
+9
+(
+T
+F
++
+459
+,
+67
+)
+{\displaystyle {\frac {5}{9}}(T_{F}+459{,}67)}
+5
+9
+T
+R
+a
+{\displaystyle {\frac {5}{9}}T_{Ra}}
+5
+4
+T
+R
+e
++
+273
+,
+15
+{\displaystyle {\frac {5}{4}}T_{Re}+273{,}15}
+T
+Celsius
+=
+{\displaystyle T_{\text{Celsius}}=}
+T
+K
+−
+273
+,
+15
+{\displaystyle T_{K}-273{,}15}
+T
+C
+{\displaystyle T_{C}}
+5
+9
+(
+T
+F
+−
+32
+)
+{\displaystyle {\frac {5}{9}}(T_{F}-32)}
+5
+9
+(
+T
+R
+a
+−
+491
+,
+67
+)
+{\displaystyle {\frac {5}{9}}(T_{Ra}-491{,}67)}
+5
+4
+T
+R
+e
+{\displaystyle {\frac {5}{4}}T_{Re}}
+T
+Fahrenheit
+=
+{\displaystyle T_{\text{Fahrenheit}}=}
+9
+5
+T
+K
+−
+459
+,
+67
+{\displaystyle {\frac {9}{5}}T_{K}-459{,}67}
+9
+5
+T
+C
++
+32
+{\displaystyle {\frac {9}{5}}T_{C}+32}
+T
+F
+{\displaystyle T_{F}}
+T
+R
+a
+−
+459
+,
+67
+{\displaystyle T_{Ra}-459{,}67}
+9
+5
+T
+R
+e
++
+32
+{\displaystyle {\frac {9}{5}}T_{Re}+32}
+T
+Rankine
+=
+{\displaystyle T_{\text{Rankine}}=}
+9
+5
+T
+K
+{\displaystyle {\frac {9}{5}}T_{K}}
+9
+5
+T
+C
++
+491
+,
+67
+{\displaystyle {\frac {9}{5}}T_{C}+491{,}67}
+T
+F
++
+459
+,
+67
+{\displaystyle T_{F}+459{,}67}
+T
+R
+a
+{\displaystyle T_{Ra}}
+9
+5
+T
+R
+e
++
+491
+,
+67
+{\displaystyle {\frac {9}{5}}T_{Re}+491{,}67}
+T
+Réaumur
+=
+{\displaystyle T_{\text{Réaumur}}=}
+4
+5
+(
+T
+K
+−
+273
+,
+15
+)
+{\displaystyle {\frac {4}{5}}(T_{K}-273{,}15)}
+4
+5
+T
+C
+{\displaystyle {\frac {4}{5}}T_{C}}
+4
+9
+(
+T
+F
+−
+32
+)
+{\displaystyle {\frac {4}{9}}(T_{F}-32)}
+4
+9
+(
+T
+R
+a
+−
+491
+,
+67
+)
+{\displaystyle {\frac {4}{9}}(T_{Ra}-491{,}67)}
+T
+R
+e
+{\displaystyle T_{Re}}
+Intensité électrique[modifier | modifier le code]
+Un courant électrique est un déplacement d'ensemble de porteurs de charges électriques, généralement des électrons, au sein d'un matériau conducteur. Ces déplacements sont imposés par l'action de la force électromagnétique, dont l'interaction avec la matière est le fondement de l'électricité.
+L'intensité du courant électrique (parfois désignée « ampérage » 3,4,5,6) est un nombre décrivant le débit de charge électrique à travers une surface donnée, notamment la section d'un fil électrique :
+i
+(
+t
+)
+=
+d
+q
+(
+t
+)
+d
+t
+{\displaystyle i(t)={\frac {\mathrm {d} q(t)}{\mathrm {d} t}}}
+.
+où :
+i
+{\displaystyle i}
+ est l'intensité du courant ;
+q
+{\displaystyle q}
+ la charge électrique ;
+t
+{\displaystyle t}
+ le temps.
+Dans le Système international d'unités, l'intensité du courant se mesure en ampères, une unité de base dont le symbole est A.
+Un ampère correspond à un débit de charge d'un coulomb par seconde.
+L'intensité se mesure à l'aide d'un ampèremètre qui doit être branché en série dans le circuit.
+Radiométrie et photométrie[modifier | modifier le code]
+Valeur photométrique
+Symbole
+Unité SI (symbole)
+Valeur radiométrique
+Symbole
+Unité SI (symbole)
+Dimension
+Quantité de lumière
+Q
+v
+{\displaystyle Q_{v}}
+lumen seconde (lm s)
+Énergie rayonnante
+Q
+e
+{\displaystyle Q_{e}}
+joule (J)
+M L2 T−2
+Flux lumineux
+ϕ
+v
+{\displaystyle \phi _{v}}
+lumen (lm)
+Flux rayonnant
+ϕ
+e
+{\displaystyle \phi _{e}}
+watt (W)
+M L2 T−3
+Intensité lumineuse
+I
+v
+{\displaystyle I_{v}}
+candela (cd)
+Intensité rayonnante
+I
+e
+{\displaystyle I_{e}}
+watt par stéradian (W sr−1)
+M L2 T−3
+Luminance
+L
+v
+{\displaystyle L_{v}}
+candela par mètre carré (cd m−2)
+Luminance énergétique
+L
+e
+{\displaystyle L_{e}}
+watt par mètre carré stéradian (W m−2 sr−1)
+M T−3
+Éclairement lumineux
+E
+v
+{\displaystyle E_{v}}
+lux (lx)
+Éclairement énergétique
+E
+e
+{\displaystyle E_{e}}
+watt par mètre carré (W m−2)
+M T−3
+Émittance lumineuse
+M
+v
+{\displaystyle M_{v}}
+lux (lx) ou lumen par mètre carré (lm m−2)
+Exitance
+M
+e
+{\displaystyle M_{e}}
+watt par mètre carré (W m−2)
+M T−3
+Exposition lumineuse
+H
+v
+{\displaystyle H_{v}}
+lux seconde (lx s)
+Exposition
+H
+e
+{\displaystyle H_{e}}
+joule par mètre carré (J m−2)
+M T−2
+Grandeurs dérivées[modifier | modifier le code]
+Force[modifier | modifier le code]
+Articles détaillés : Force (physique) et Dynamomètre.
+Une force (dont l'intensité est exprimée couramment en newtons qui a la dimension masse × longueur × temps-2) peut se mesurer avec différents instruments dont le plus simple est le dynamomètre, qui consiste en un ressort assorti de graduations. Certains des instruments de mesure de masse, ceux qui n'utilisent pas de masse de référence, mesurent en réalité une force, et convertissent en utilisant la valeur du champ de gravité terrestre. Ainsi, une balance à plateau serait aussi exacte sur la Lune que sur la Terre, tandis qu'une balance à ressort ou électronique se tromperait d'un facteur six.
+Pression[modifier | modifier le code]
+Articles détaillés : Pression, Baromètre et Manomètre.
+La pression se mesure à l'aide d'un baromètre dans le cadre météorologique (variations modérées autour d'un bar) ou d'un manomètre pour les variations plus grandes. La pression correspond à une force par unité de surface. Il existe plusieurs types d'instruments :
+Le baromètre de Torricelli consiste en une colonne renversée remplie de mercure, dont le sommet est à pression quasi nulle. On mesure alors la hauteur de liquide qui compense la pression atmosphérique (voir : poussée d'Archimède).
+Le baromètre à gaz utilise la variation de volume d'un gaz. Celle-ci dépend autant que de la température que de la pression, il faut donc utiliser en même temps un thermomètre pour effectuer une compensation.
+Le baromètre anéroïde utilise la déformation d'une capsule sous vide, principe repris en microtechnologie par les microsystèmes capacitifs de mesure de pression.
+Voir aussi[modifier | modifier le code]
+Il existe une catégorie consacrée à ce sujet : Mesure physique.
+Bibliographie[modifier | modifier le code]
+Bureau international des poids et mesures, Vocabulaire international de métrologie, 3, 2012 (lire en ligne).
+(en) Bureau international des poids et mesures, Évaluation des données de mesure —Guide pour l’expression de l’incertitude de mesure, 1, 2008 (lire en ligne).
+Jean Hladik, Unités de mesure : étalons et symboles des grandeurs physiques, Paris, Masson, coll. « Mesures physiques », 1992
+Albert Pérard, Les mesures physiques, Paris, PUF, coll. « Que sais-je ? » (no 244), 1968, 4e éd. (1re éd. 1947)
+Gérard Prieur (coord.), Mustapha Nadi (dir.), Long-Den Nguyen (dir.) et Gérard Tsalkovitch (dir.), La mesure et l'instrumentation : état de l'art et perspectives, Paris, Masson, coll. « Mesures physiques », 1995 préface de Georges Charpak.
+Jean Perdijon, La mesure, Paris, Flammarion, coll. « Dominos », 2012 (1re éd. 1998)
+Jean Perdijon, Pour faire bonne mesure, Les Ulis, EDP Sciences, 2020 (présentation en ligne)
+Articles connexes[modifier | modifier le code]
+Métrologie
+Conférence générale des poids et mesures
+Erreur de mesure
+Liens externes[modifier | modifier le code]
+Notices dans des dictionnaires ou encyclopédies généralistes : Britannica Store norske leksikon 
+Notices d'autorité : GND Tchéquie 
+Bureau International des Poids et Mesures
+(en) NIST Special Publication 330 - The International System of Units (SI)
+Le Système international d'unités, 9e édition, 2019, Bureau international des poids et mesures [PDF]
+Notes et références[modifier | modifier le code]
+↑ Richard Taillet, Loïc Villain et Pascal Febvre, Dictionnaire de physique, Bruxelles, De Boeck, 2013, p. 430 « Mesure » (1).
+↑ « In physical science a first essential step in the direction of learning any subject is to find principles of numerical reckoning and practicable methods for measuring some quality connected with it. I often say that when you can measure what you are speaking about and express it in numbers you know something about it; but when you cannot measure it, when you cannot express it in numbers, your knowledge is of a meager and unsatisfactory kind: it may be the beginning of knowledge, but you have scarcely, in your thoughts, advanced to the stage of science, whatever the matter may be. » William Thomas Thomson, Lord Kelvin Electrical Units of Measurement (1883), Popular Lectures and Addresses (1891), Vol. I, 80-I
+↑ VIM, p. 3.10. 
+↑ VIM, p. 2.2. 
+↑ Dic. Phys., p. 434 ; Trésor de la langue française, métrologie.
+↑ VIM, p. 2.11, 2.47. 
+↑ Marc Piel, « Incertitudes de mesure et tolérances », dans Techniques de l'ingénieur, Mesure et contrôle, 1999 (lire en ligne)
+↑ a et b Unités non SI sur le site du BIPM.
+ Portail de la physique   Portail de la chimie   Portail des technologies  
+Ce document provient de « https://fr.wikipedia.org/w/index.php?title=Mesure_physique&oldid=203255598 ».
+Catégories : Mesure physiqueMétrologiePhysique expérimentaleConcept en physiqueCatégories cachées : Page utilisant un modèle Bases inactifPage utilisant P1417Page utilisant P4342Page pointant vers des bases externesPage pointant vers des dictionnaires ou encyclopédies généralistesArticle de Wikipédia avec notice d'autoritéPortail:Physique/Articles liésPortail:Sciences/Articles liésPortail:Chimie/Articles liésPortail:Technologies/Articles liésBon article en japonais
+ La dernière modification de cette page a été faite le 12 avril 2023 à 20:39.
+Droit d'auteur : les textes sont disponibles sous licence Creative Commons attribution, partage dans les mêmes conditions ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
+Politique de confidentialité
+À propos de Wikipédia
+Avertissements
+Contact
+Code de conduite
+Version mobile
+Développeurs
+Statistiques
+Déclaration sur les témoins (cookies)
+Activer ou désactiver la limitation de largeur du contenu

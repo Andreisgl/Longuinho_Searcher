@@ -1,0 +1,528 @@
+machine gun - Wikidata
+machine gun
+(Q12800)
+From Wikidata
+Jump to navigation
+Jump to search
+fully automatic mounted or portable firearmmachinegun
+edit
+Language
+Label
+Description
+Also known as
+English
+machine gun
+fully automatic mounted or portable firearm
+machinegun
+Statements
+instance of
+weapon family
+0 references
+subclass of
+automatic firearm
+reason for deprecated rank
+item/value with less precision and/or accuracy
+0 references
+fully automatic firearm
+nature of statement
+often
+0 references
+selective fire firearm
+nature of statement
+often
+0 references
+image
+De Mitrailleur 7.62mm MAG geplaatst op een grondaffuit (2009 D050713-X1083).jpg2,500 × 1,656; 264 KB
+0 references
+M2 Browning, Musée de l'Armée.jpg3,072 × 2,048; 286 KB
+0 references
+described by source
+Brockhaus and Efron Encyclopedic Dictionary
+statement is subject of
+Q24495326
+0 references
+Small Brockhaus and Efron Encyclopedic Dictionary
+statement is subject of
+Q24817864
+0 references
+on focus list of Wikimedia project
+Wikipedia:List of articles all languages should have
+0 references
+Wikipedia:Vital articles/Level/4
+point in time
+31 October 2022
+0 references
+different from
+mitrailleuse
+0 references
+automatic firearm
+0 references
+fully automatic firearm
+0 references
+selective fire firearm
+0 references
+submachine gun
+0 references
+Commons category
+Machine guns
+0 references
+topic's main category
+Category:Machine guns
+0 references
+Identifiers
+Biblioteca Nacional de España ID
+XX525007
+subject named as
+Ametralladoras
+2 references
+stated in
+Nuovo soggettario
+reference URL
+https://thes.bncf.firenze.sbn.it/termine.php?id=17807
+retrieved
+14 June 2021
+stated in
+Spain open data portal
+title
+Registros de autoridad de "Materia" de la Biblioteca Nacional de España (Spanish)
+reference URL
+https://www.bne.es/media/datosgob/catalogo-autoridades/materia/materia-UTF8.zip
+retrieved
+21 July 2023
+Bibliothèque nationale de France ID
+11973245j
+1 reference
+imported from Wikimedia project
+French Wikipedia
+GND ID
+4169007-2
+1 reference
+imported from Wikimedia project
+German Wikipedia
+National Library of Israel J9U ID
+987007541156505171
+1 reference
+stated in
+National Library of Israel
+Library of Congress authority ID
+sh85079323
+subject named as
+Machine guns
+1 reference
+stated in
+Gemeinsame Normdatei
+National Library of Latvia ID
+000115486
+0 references
+NDL Authority ID
+01176754
+0 references
+NL CR AUT ID
+ph122005
+subject named as
+kulomety
+0 references
+AniDB tag ID
+1475
+subject named as
+machine gun
+alternative name
+machine guns
+machine-gun
+machinegun
+1 reference
+reference URL
+https://anidb.net/tag/1475/chartb
+title
+machine gun - Tag - Character - AniDB (English)
+retrieved
+25 January 2021
+BabelNet ID
+00052565nl
+1 reference
+stated in
+BabelNet
+BNCF Thesaurus ID
+17807
+1 reference
+stated in
+National Central Library of Florence
+Den Store Danske ID
+maskingevær
+0 references
+Encyclopædia Britannica Online ID
+technology/machine-gun
+0 references
+FISH Archaeological Objects Thesaurus ID
+163922
+subject named as
+Machine Gun
+0 references
+Freebase ID
+/m/04zjc
+1 reference
+stated in
+Freebase Data Dumps
+publication date
+28 October 2013
+French Vikidia ID
+Mitrailleuse
+0 references
+Google Knowledge Graph ID
+/g/120_rkk1
+0 references
+Gran Enciclopèdia Catalana ID
+0234870
+0 references
+Great Russian Encyclopedia Online ID (old version)
+3172946
+subject named as
+ПУЛЕМЁТ
+0 references
+JSTOR topic ID
+machine-guns
+0 references
+KBpedia ID
+MachineGun
+1 reference
+stated in
+KBpedia
+retrieved
+9 July 2020
+Latvian National Encyclopedia Online ID
+114442
+0 references
+MIL-STD-2525 Symbol Identification Code
+10011500001102000000
+0 references
+OmegaWiki Defined Meaning
+349994
+0 references
+Spanish Vikidia ID
+Ametralladora
+0 references
+Store norske leksikon ID
+maskingevær
+0 references
+TOPCMB ID
+metralhadora
+0 references
+Treccani ID
+mitragliatrice
+subject named as
+mitragliatrice
+1 reference
+imported from Wikimedia project
+Italian Wikipedia
+Treccani's Enciclopedia Italiana ID
+mitragliatrice
+subject named as
+MITRAGLIATRICE
+author name string
+Romeo Mella
+Carlo Manganoni
+publication date
+1934
+0 references
+mitragliatrice_res-74ef297e-8b74-11dc-8e9d-0016357eee51
+subject named as
+MITRAGLIATRICE
+author name string
+Alberto Baldini
+publication date
+1938
+volume
+I Appendice
+0 references
+mitragliatrice_res-6cabf9b2-87e6-11dc-8e9d-0016357eee51
+subject named as
+MITRAGLIATRICE
+author name string
+Roberto Boragine
+Sergio Pellegrini
+publication date
+1949
+volume
+II Appendice
+0 references
+U.S. National Archives Identifier
+10665147
+0 references
+WordNet 3.1 Synset ID
+03706725-n
+1 reference
+stated in
+GF WordNet
+YSO ID
+15101
+1 reference
+stated in
+YSO-Wikidata mapping project
+ 
+Sitelinks
+Wikipedia(105 entries)
+edit
+afwiki
+Masjiengeweer
+alswiki
+Maschinengewehr
+anwiki
+Metralladora
+arwiki
+رشاش (سلاح)
+arzwiki
+متريوز
+astwiki
+Ametralladora
+azbwiki
+اوتوماتیک توفنگ
+azwiki
+Pulemyot
+bawiki
+Пулемёт
+be_x_oldwiki
+Кулямёт
+bewiki
+Кулямёт
+bgwiki
+Картечница
+bnwiki
+মেশিন গান
+brwiki
+Mindrailherez
+bswiki
+Mitraljez
+bxrwiki
+Пулемёт
+cawiki
+Metralladora
+cdowiki
+Lòng-gĭ-ché̤ṳng
+cewiki
+Пулемёт
+ckbwiki
+ڕێژنگ
+cowiki
+Mitragliosa
+cswiki
+Kulomet
+cywiki
+Dryll peiriant
+dawiki
+Maskingevær
+dewiki
+Maschinengewehr
+elwiki
+Πολυβόλο
+enwiki
+Machine gun
+eowiki
+Maŝinpafilo
+eswiki
+Ametralladora
+etwiki
+Kuulipilduja
+euwiki
+Metrailadore
+fawiki
+مسلسل
+fiwiki
+Konekivääri
+frwiki
+Mitrailleuse
+fywiki
+Masinegewear
+ganwiki
+機關槍
+gawiki
+Meaisínghunna
+glwiki
+Metralladora
+guwiki
+મશીન ગન
+hewiki
+מקלע
+hiwiki
+मशीन गन
+hrwiki
+Strojnica
+huwiki
+Géppuska
+hywiki
+Գնդացիր
+iawiki
+Mitraliatrice
+idwiki
+Senapan mesin
+iowiki
+Mitralioso
+iswiki
+Vélbyssa
+itwiki
+Mitragliatrice
+jamwiki
+Mashiin gon
+jawiki
+機関銃
+kkwiki
+Пулемет
+kowiki
+기관총
+kywiki
+Пулемёт
+lawiki
+Sclopetum polybolicum
+lbwiki
+Maschinnegewier
+lijwiki
+Metraggiatrixe
+lmowiki
+Mitrajatris
+ltwiki
+Kulkosvaidis
+lvwiki
+Ložmetējs
+minwiki
+Sinapan masin
+mkwiki
+Митралез
+mlwiki
+യന്ത്രത്തോക്ക്
+mnwiki
+Пулемёт
+mswiki
+Mesingan
+mywiki
+စက်သေနတ်
+newwiki
+मेशिनगन
+nlwiki
+Machinegeweer
+nnwiki
+Maskingevær
+nowiki
+Maskingevær
+ocwiki
+Mitralhièra
+pawiki
+ਮਸ਼ੀਨ ਗੰਨ
+plwiki
+Karabin maszynowy
+pnbwiki
+مشین گن
+ptwiki
+Metralhadora
+quwiki
+Illapapayana
+rowiki
+Mitralieră
+ruwiki
+Пулемёт
+shwiki
+Mitraljez
+simplewiki
+Machine gun
+skwiki
+Guľomet
+slwiki
+Mitraljez
+sowiki
+Mishigaan
+sqwiki
+Mitralozi
+srwiki
+Митраљез
+svwiki
+Kulspruta
+swwiki
+Bombomu
+tawiki
+இயந்திரத் துப்பாக்கி
+tewiki
+మెషిన్ గన్
+thwiki
+ปืนกล
+tlwiki
+Masinggan
+trwiki
+Makineli silah
+ttwiki
+Уксибәр
+ukwiki
+Кулемет
+urwiki
+مشین گن
+uzwiki
+Pulemyot
+vepwiki
+Pul'kanloi
+viwiki
+Súng máy
+warwiki
+Machine gun
+wuuwiki
+机枪
+yiwiki
+מאשינביקס
+zh_classicalwiki
+機槍
+zh_min_nanwiki
+Ki-koan-chhèng
+zh_yuewiki
+機關槍
+zhwiki
+机枪
+Wikibooks(0 entries)
+edit
+Wikinews(0 entries)
+edit
+Wikiquote(4 entries)
+edit
+etwikiquote
+Kuulipilduja
+itwikiquote
+Mitragliatrice
+ruwikiquote
+Пулемёт
+skwikiquote
+Guľomet
+Wikisource(0 entries)
+edit
+Wikiversity(0 entries)
+edit
+Wikivoyage(0 entries)
+edit
+Wiktionary(0 entries)
+edit
+Multilingual sites(0 entries)
+edit
+Retrieved from "https://www.wikidata.org/w/index.php?title=Q12800&oldid=1966377284"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+ItemDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 2 September 2023, at 02:07.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

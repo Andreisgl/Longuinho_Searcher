@@ -1,0 +1,688 @@
+Zulu - Wikidata
+Zulu
+(Q10179)
+From Wikidata
+Revision as of 07:02, 28 August 2023 by Chiiiiing (talk | contribs) (‎Removed claim:  linguistic typology (P4132): V2 word order (Q1516105))(diff) ← Older revision | Latest revision (diff) | Newer revision → (diff)
+Jump to navigation
+Jump to search
+Nguni language of eastern South Africa and neighbouring countriesisiZuluZulu languagezuzul
+Language
+Label
+Description
+Also known as
+English
+Zulu
+Nguni language of eastern South Africa and neighbouring countries
+isiZuluZulu languagezuzul
+Statements
+instance of
+language
+1 reference
+stated in
+Ethnologue
+modern language
+1 reference
+reference URL
+https://iso639-3.sil.org/code/zul
+subclass of
+Nguni
+0 references
+Zunda
+0 references
+image
+Potgietersrus, South Africa - panoramio (14).jpg4,752 × 3,168; 6.02 MB
+0 references
+native label
+isiZulu (Zulu)
+0 references
+pronunciation audio
+LL-Q33890 (nso)-Mohau-Sezulu.wav1.3 s; 113 KB
+language of work or name
+Northern Sotho
+1 reference
+reference URL
+https://lingualibre.fr/wiki/Q21206
+country
+Lesotho
+1 reference
+reference URL
+https://scriptsource.org/country/LS
+title
+ScriptSource - Lesotho (English)
+retrieved
+21 August 2023
+Mozambique
+1 reference
+reference URL
+https://scriptsource.org/country/MZ
+title
+ScriptSource - Mozambique (English)
+retrieved
+21 August 2023
+South Africa
+1 reference
+reference URL
+https://scriptsource.org/country/ZA
+title
+ScriptSource - South Africa (English)
+retrieved
+21 August 2023
+indigenous to
+Gauteng
+1 reference
+imported from Wikimedia project
+Russian Wikipedia
+Wikimedia import URL
+https://ru.wikipedia.org/?oldid=97349960
+Mpumalanga
+1 reference
+imported from Wikimedia project
+Russian Wikipedia
+Wikimedia import URL
+https://ru.wikipedia.org/?oldid=97349960
+KwaZulu-Natal
+1 reference
+imported from Wikimedia project
+Russian Wikipedia
+Wikimedia import URL
+https://ru.wikipedia.org/?oldid=97349960
+linguistic typology
+subject–verb–object
+0 references
+agglutinative language
+1 reference
+imported from Wikimedia project
+English Wikipedia
+noun-adjective
+0 references
+stress
+0 references
+Meeussen's rule
+0 references
+synthetic language
+0 references
+pitch accent
+0 references
+pro-drop language
+0 references
+tonal language
+0 references
+has grammatical case
+vocative case
+0 references
+locative case
+0 references
+has tense
+present tense
+0 references
+past tense
+0 references
+future tense
+0 references
+writing system
+Latin script
+0 references
+language regulatory body
+Pan South African Language Board
+0 references
+number of speakers, writers, or signers
+12,100,000
+applies to part
+first language
+point in time
+2019
+1 reference
+stated in
+Ethnologue
+inferred from
+list of languages by number of native speakers
+retrieved
+23 April 2022
+11,969,100
+applies to part
+first language
+point in time
+2011
+1 reference
+stated in
+Ethnologue
+15,700,000
+applies to part
+second language
+point in time
+2011
+1 reference
+stated in
+Ethnologue
+Ethnologue language status
+1 National
+1 reference
+stated in
+Ethnologue
+retrieved
+10 May 2019
+reference URL
+https://www.ethnologue.com/language/zul
+distribution map
+South Africa 2011 Zulu speakers proportion map.svg809 × 709; 534 KB
+0 references
+page banner
+Zulu phrasebook banner.jpg3,295 × 470; 1.83 MB
+1 reference
+imported from Wikimedia project
+English Wikivoyage
+Wikimedia import URL
+https://en.wikivoyage.org/wiki/Zulu_phrasebook
+icon
+ISO 639 Icon zu.svg400 × 180; 602 bytes
+0 references
+on focus list of Wikimedia project
+Wikipedia:Vital articles/Level/4
+point in time
+31 October 2022
+0 references
+category for films in this language
+Category:Zulu-language films
+0 references
+schematic
+Zulu vowel chart.svg923 × 702; 17 KB
+0 references
+Wikimedia language code
+zu
+0 references
+exact match
+http://publications.europa.eu/resource/authority/language/ZUL
+1 reference
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+Commons category
+Zulu language
+1 reference
+imported from Wikimedia project
+English Wikipedia
+topic's main category
+Category:Zulu language
+0 references
+Identifiers
+ISO 639-1 code
+zu
+2 references
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+imported from Wikimedia project
+English Wikipedia
+ISO 639-2 code
+zul
+applies to part
+terminology
+bibliography
+2 references
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+imported from Wikimedia project
+English Wikipedia
+ISO 639-3 code
+zul
+2 references
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+imported from Wikimedia project
+English Wikipedia
+ISOCAT ID
+1003
+0 references
+Bibliothèque nationale de France ID
+121255923
+0 references
+GND ID
+4120405-0
+1 reference
+imported from Wikimedia project
+German Wikipedia
+FAST ID
+1184918
+0 references
+National Library of Israel J9U ID
+987007536538205171
+1 reference
+stated in
+National Library of Israel
+Library of Congress authority ID
+sh85150044
+0 references
+National Library of Latvia ID
+000312347
+0 references
+NL CR AUT ID
+ph241116
+subject named as
+zuluština
+0 references
+IdRef ID
+029684730
+1 reference
+imported from Wikimedia project
+French Wikipedia
+ABS ASCL 2011 code
+9213
+0 references
+Art & Architecture Thesaurus ID
+300389637
+0 references
+ASC Leiden Thesaurus ID
+294945644
+0 references
+Den Store Danske ID
+zulu
+0 references
+Encyclopædia Britannica Online ID
+topic/Zulu-language
+0 references
+Encyclopedia of China (Third Edition) ID
+27949
+0 references
+Ethnologue.com language code
+zul
+0 references
+EU Knowledge Graph item ID
+Q2473050
+0 references
+Freebase ID
+/m/0gndv
+1 reference
+stated in
+Freebase Data Dumps
+publication date
+28 October 2013
+French Vikidia ID
+Zoulou
+0 references
+GitHub topic
+zulu
+0 references
+Glottolog code
+zulu1248
+1 reference
+imported from Wikimedia project
+English Wikipedia
+GOST 7.75–97 code
+зул 195
+1 reference
+imported from Wikimedia project
+Russian Wikipedia
+Gran Enciclopèdia Catalana ID
+0218747
+0 references
+Great Russian Encyclopedia Online ID (old version)
+1996929
+subject named as
+ЗУЛУ
+0 references
+Guthrie code
+S42
+0 references
+IAB code
+1214
+0 references
+IETF language tag
+zu
+1 reference
+imported from Wikimedia project
+French Wikipedia
+KBpedia ID
+ZuluLanguage
+1 reference
+stated in
+KBpedia
+retrieved
+9 July 2020
+Krugosvet article
+gumanitarnye_nauki/lingvistika/ZULU.html
+0 references
+Library of Congress Children's Subject Headings ID
+sj97001136
+0 references
+Lingua Libre ID
+Q143
+0 references
+Linguasphere code
+99-AUT-fg
+0 references
+LoC and MARC vocabularies ID
+languages/zul
+0 references
+iso639-2/zul
+0 references
+iso639-1/zu
+0 references
+Microsoft Academic ID
+2778105672
+0 references
+Online PWN Encyclopedia ID
+4002205
+0 references
+Open Library subject ID
+zulu_language
+0 references
+OpenAlex ID
+C2778105672
+1 reference
+stated in
+OpenAlex
+retrieved
+26 January 2022
+reference URL
+https://docs.openalex.org/download-snapshot/snapshot-data-format
+archive URL
+https://web.archive.org/web/20220125070108/https://docs.openalex.org/download-snapshot/snapshot-data-format
+archive date
+25 January 2022
+POSIX locale identifier
+zu
+0 references
+Quora topic ID
+Zulu
+0 references
+Store norske leksikon ID
+zulu_-_språk
+0 references
+UNBIS Thesaurus ID
+1007138
+0 references
+WALS lect code
+zul
+0 references
+Wikidata language code
+zu
+0 references
+WordNet 3.1 Synset ID
+07007452-n
+0 references
+YSO ID
+29124
+0 references
+ 
+Sitelinks
+Wikipedia(110 entries)
+afwiki
+Zoeloe
+amwiki
+ዙሉኛ
+anpwiki
+ज़ुलु भाषा
+anwiki
+Idioma zulú
+arwiki
+اللغة الزولوية
+arzwiki
+الزولويه
+astwiki
+Idioma zulú
+azwiki
+Zulu dili
+barwiki
+IsiZulu
+bewiki
+Зулу
+bgwiki
+Зулуски език
+bnwiki
+জুলু ভাষা
+bowiki
+ཙོ་ལུའུའི་སྐད།
+brwiki
+Zouloueg
+cawiki
+Zulu
+ckbwiki
+زمانی زوولوو
+cswiki
+Zuluština
+cvwiki
+Зулу
+cywiki
+Swlŵeg
+dawiki
+Zulu (sprog)
+dewiki
+IsiZulu
+elwiki
+Ζουλού γλώσσα
+enwiki
+Zulu language
+eowiki
+Zulua lingvo
+eswiki
+Idioma zulú
+etwiki
+Suulu keel
+euwiki
+Zuluera
+fawiki
+زبان زولو
+fiwiki
+Zulun kieli
+fowiki
+Zulu mál
+frrwiki
+Zulu (Spriik)
+frwiki
+Zoulou
+fywiki
+Sûlû (taal)
+gawiki
+An tSúlúis
+gdwiki
+Zulu (cànan)
+glwiki
+Lingua zulú
+hewiki
+זולו (שפה)
+hifwiki
+Zulu bhasa
+hiwiki
+ज़ुलु भाषा
+hrwiki
+Zulu jezik
+huwiki
+Zulu nyelv
+idwiki
+Bahasa Zulu
+iewiki
+Zulu
+ilowiki
+Pagsasao a Zulu
+iswiki
+Súlú
+itwiki
+Lingua zulu
+jawiki
+ズールー語
+kbpwiki
+Suluu kʊnʊŋ
+kgwiki
+Kizulu
+kowiki
+줄루어
+kvwiki
+Зулу (кыв)
+kwwiki
+Zoulou
+lawiki
+Lingua Zuluana
+lnwiki
+Isizulu
+ltwiki
+Zulų kalba
+lvwiki
+Zulu valoda
+mgwiki
+Fiteny zolo
+mkwiki
+Зулу
+mlwiki
+സുലു ഭാഷ
+mrwiki
+झुलू भाषा
+mswiki
+Bahasa Zulu
+mznwiki
+زولو
+nahwiki
+Zulutlahtōlli
+newwiki
+जुलू भाषा
+nlwiki
+Zoeloe (taal)
+nnwiki
+Zulu
+nowiki
+Zulu (språk)
+nsowiki
+Sezulu
+ocwiki
+Zolo
+pawiki
+ਜ਼ੁਲੂ ਭਾਸ਼ਾ
+plwiki
+Język zulu
+pmswiki
+Lenga Zulu
+pnbwiki
+زولو
+pswiki
+زولو ژبه
+ptwiki
+Língua zulu
+quwiki
+Zulu simi
+rowiki
+Limba zulu
+ruwiki
+Зулу
+satwiki
+ᱡᱩᱞᱩ ᱯᱟᱹᱨᱥᱤ
+sewiki
+Zulugiella
+shwiki
+Zulu jezik
+simplewiki
+Zulu language
+snwiki
+Chizulu
+sowiki
+Af-Zulu
+sqwiki
+Gjuha zulu
+srwiki
+Зулу (језик)
+sswiki
+SíZulu
+stwiki
+Sezulu
+svwiki
+Zulu (språk)
+swwiki
+Kizulu
+tawiki
+சுலு மொழி
+tlwiki
+Wikang Zulu
+tnwiki
+Sezulu
+trwiki
+Zuluca
+ttwiki
+Зулу теле
+ugwiki
+زۇلۇچە
+ukwiki
+Зулу
+urwiki
+زولو زبان
+uzwiki
+Zulu
+vepwiki
+Zulun kel'
+vewiki
+IsiZulu
+viwiki
+Tiếng Zulu
+wuuwiki
+祖鲁语
+xhwiki
+IsiZulu
+xmfwiki
+ზულუ (ნინა)
+yowiki
+Èdè Zulu
+zh_min_nanwiki
+Zulu-gí
+zh_yuewiki
+祖魯文
+zhwiki
+祖鲁语
+zuwiki
+IsiZulu
+Wikibooks(3 entries)
+enwikibooks
+Zulu
+eowikibooks
+Zulua
+svwikibooks
+Språkkurser/Zulu
+Wikinews(0 entries)
+Wikiquote(0 entries)
+Wikisource(0 entries)
+Wikiversity(0 entries)
+Wikivoyage(1 entry)
+enwikivoyage
+Zulu phrasebook
+Wiktionary(4 entries)
+dewiktionary
+Wiktionary:isiZulu
+enwiktionary
+Wiktionary:About Zulu
+eowiktionary
+Aldono:Zulua
+lawiktionary
+Victionarium:Lingua Zuluana
+Multilingual sites(0 entries)
+Retrieved from "https://www.wikidata.org/w/index.php?title=Q10179&oldid=1962951182"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+ItemDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 28 August 2023, at 07:02.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

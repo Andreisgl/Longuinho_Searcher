@@ -1,0 +1,280 @@
+The Early History of Chavacano de Zamboanga: Chabacano versus related creoles
+Chabacano versus related creoles: Socio-linguistic Affinities and differences 
+ 
+by John Holm 
+University of Coimbra 
+Casa Nova Semide, Miranda do Corvo 3220-405, Portugal 
+jholm@mail.telepac.pt 
+ 
+Abstract: 
+ 
+This article compares Zamboangueño (the variety of Chabacano spoken in Zamboanga) with several other creole languages to evaluate the relative importance of superstrate versus substrate influence on their morphosyntax. The presence or absence of parallel morphosyntactic structures are noted in two creole languages that share Zamboangueño's superstrate but not its substrate (Papiamentu and Palenquero in the Caribbean). Parallels are also 
+noted in Tok Pisin, the restructured English of Papua New Guinea, which shares Zamboangueño's Austronesian substrate but not its superstrate. The results point to the importance of both superstrate and substrate as a source of creole grammatical features, but suggests that the former may be more influential. 
+ 
+Copyright © Estudios de Sociolingüística 2(2), 2001, pp. 69-93, JOHN HOLM 
+ 
+1. Introduction 
+ 
+One of the primary thrusts of creole linguistics over the past forty years has been to determine the defining characteristics of creole languages –what, if anything, makes them different from other languages. We know that they came into being during a linguistic crisis, when a community of people could no longer use their ancestral languages to serve their most pressing communicative needs and were forced to adopt another language for this purpose. We believe that language was a 
+pidgin, itself an emergency language to bridge the communication gap between two or more groups with no language in common, but unlike a creole, a pidgin is a rudimentary, makeshift language that is no one’s mother tongue. But something happened when such pidgins became the native language of an entire community: the creoles that grew out of them became much more structured and complex on every linguistic level. They became, in fact, not only native languages but also natural languages. However, the most difficult thing to explain about creoles is still 
+puzzling us: why do creole language that have never been in contact with one another have so many grammatical structures in common? What is the source of these affinities?
+ 
+ In fact, it was the first book-length study of Chabacano –Keith Whinnom’s Spanish Contact Vernaculars in the Philippine Islands (1956)– that began the modern debate on this topic that led to the monogenetic theory, the hypothesis that all of the world’s creoles based on European languages are derived from 15th and 16th-century Pidgin Portuguese (and ultimately the Mediterranean’s Lingua Franca, which goes back a thousand years to the 
+Crusades) –via relexification, or word-for-word translation into other languages. This theory is ultimately unprovable and was largely abandoned in the 1970s, but there is still a convincing case to be made for the relexification of the language that became modern Chabacano from Portuguese to Spanish vocabulary. A good case for relexification can also be made for the only two other creoles based on Spanish, which are found in the Caribbean area: Papiamentu in the Netherlands Antilles, and Palenquero in northern Colombia. 
+ 
+What I would like to do today is to compare these three creole languages that have drawn their lexicons from Spanish to see what they do and do not have in common in both their historical development and their modern linguistic structure. To do that, I’ll draw on my own research on their development (Holm, 1988–1989) and that of three linguists I worked with when they were doctoral students participating in a research project on comparative creole syntax that I organized when I 
+was at the City University of New York: Katherine Green, who studied Palenquero from written sources and fieldwork in Colombia; Abigail Michel, who studied her native language, Papiamentu; and Salvatore Santoro, who studied Zamboangueño, the variety of Chabacano described in his primary source of data, Forman (1972), as well as that of a native-speaker informant, Ms. Neile Martinez, whose contributions are indicated below as personal communications (henceforth ‘p.c.’). This paper would not have been possible without the conscientious scholarship of these 
+three linguists. 
+ 
+First we’ll look at the historical events that led up to the emergence of these three languages, and then we’ll compare their modern structure. 
+ 
+2. Chabacano: Its sociolinguistic history 
+ 
+In the 16th century Spain claimed both the Philippines and the spice-rich Molucca Islands in what is now eastern Indonesia by virtue of their discovery during Magellan’s expedition in 1521, but they fell within the half of the earth assigned to Portugal by Papal bull. Because of this, Spanish ships could approach these islands only by sailing west from Spanish America across the Pacific, a costly inconvenience that led to their neglect and isolation until the end of the 18th 
+century. However, in the 16th century interest in the spice trade led to the Spanish control of the Philippines by the 1570s. The Portuguese had earlier gained control of the source of much of the spice being traded: in 1522 they built a fort on Ternate, one of the small islands off the western coast of Halmahera in the Moluccas, where clove trees grew wild. Under the protection of a Portuguese garrison, the sultans of Ternate extended their control throughout the Moluccas until 1574, when an intrigue led them to expel the Portuguese. After the union of 
+Spain and Portugal in 1580, their fleets tried to regain Ternate, whose sultan was receiving the support of the Dutch in their attempt to extend their empire in the East Indies. The Spanish held Ternate from 1606 to 1663; the Dutch managed to destroy the clove trees in a 1655 raid, and finally the Spanish garrison was removed to Manila to defend the Philippines from attacking Chinese pirates. 
+ 
+At this time some 200 families were also brought from Ternate to Manila. This Christian community had resulted from the intermarriage of local women with Portuguese and later Spanish soldiers. It seems likely that this community originally used the Malayo-Portuguese Pidgin that had spread throughout the East Indies in the 16th century, eventually creolizing it. The 17th century Spanish troops evidently married into this community, beginning a relexification process that brought 
+about the adjustment –often minimal– of Portuguese vocabulary to Spanish. 
+ 
+Unlike Spain’s American colonies, the Philippines never saw a shift to Spanish among the general population. It remained confined to the relatively few Spanish colonists and their mixed progeny, who spoke a non-creolized variety (Lipski, 1986: 44), while Spanish missionaries dealt with the inhabitants in their own languages. However, there was a clear identification with the Spanish among the creole-speaking community from the Moluccas, who named their new settlement on Manila Bay 
+after their home island of Ternate and later spread to Cavite and Ermita. Their descendants spoke Tagalog as a second language, which influenced their creole, as did contact with non-creolized Spanish. They often joined the Spanish navy, which included Mexicans and other Spanish Americans until the independence of Spain’s American colonies in the 19th century. It seems likely that there developed a military pidgin influenced by the creole alongside a more general pidgin used in trade. Schuchardt (1883: 113-114) noted that Spanish-speakers in the 
+Philippines “use this ‘Kitchen Spanish’ and accommodate themselves to an intermediate manner of speech”. 
+ 
+The military pidgin –or possibly a vernacular variety of Spanish heavily influenced by local languages (Lipski, 1992)– may have been independently creolized after 1719, when a mixed Spanish ga rrison was re-established at Zamboanga (where an earlier fort had been built in 1636) to fend off attacks from Muslims on the southern island of Mindanao. 
+ 
+The garrison consisted, until Mexico became independent, of Spanish-speaking American Indians or mestizos married to Filipino women. Of the 11,600 inhabitants of the province about 1870, no less than 7,400 spoke Spanish; and the schools were conducted in that language. (Reinecke, 1937: 820) 
+ 
+Today the Zamboangueño creole is flourishing; it is used in primary instruction, broadcasting, and to a limited extent in the press, functioning as a lingua franca in the region (Reinecke et al., 1975: 210). Unlike the northern dialects, Zamboangueño has also been influenced by the local Visayan language, which –along with Tagalog– is the source of nearly 20% of its lexicon (Frake, 1971: 228-229). However, all of the creole dialects are “quite easily mutually intelligible” (Molony, 
+1977: 153). Zamboangueño has spread south to the islands of Basilan and Jolo, and northwest along the peninsula to Cotabato and Davao (Baxter, 1984; Lipski, 1986: 44). The Cotobato community began in the 1870s when Jesuits ransomed some 100 Muslim children from the local slave market in order to educate them to become “exemplary Catholic men and women who would win the Muslims to the Faith by sheer force of good example” (Riego de Dios, 1979: 276). The children lived in an orphanage where priests from Spain taught them Spanish, but it was noted that the 
+children spoke a mixed language, probably from contact with children from Zamboanga who had been orphaned in a cholera epidemic. During the confusion of the Spanish-American war the entire community retreated to Zamboanga, but some returned afterwards, re-establishing the present creole-speaking community. 
+ 
+3. Palenquero: Its sociolinguistic history 
+ 
+Palenquero is a variety of creolized Spanish spoken by the older members of 2,500 people living in an isolated village called El Palenque de San Basilio, located south of the city of Cartagena on the Caribbean coast of Colombia. It is descended from the language spoken by slaves employed in building the fortifications of Cartagena during the late 16th and early 17th century. According to Sandoval (1956[1627]), that language may well have been based on the restru c t u r e d 
+Portuguese of the Gulf of Guinea islands; Megenney (1982) has pointed out Palenquero’s lexical remnants from Portuguese despite its centuries of contact with local Spanish. In 1603 Domingo Bioho, said to have been a king in Africa, led some thirty escaped slaves into the swamps and jungles, where they built a fortified village or palenque (in reference to the sharpened palings of the stockade). Like maroon strongholds elsewhere, San Basilio became a refuge for other fugitive slaves and a base for raids on the European colonists. After more than a hundred 
+years of intermittent fighting, the Spanish recognized the palenque’s right to govern itself in exchange for an end to the raids and harboring of fugitives. A document of 1772 describes the Palenqueros as using a particular language among themselves but speaking Spanish fluently (quoted by Bickerton & Escalante, 1970: 255), suggesting that the community’s current diglossia dates from at least this period. However, the Palenqueros remained fairly isolated from the surrounding Hispanic culture until the beginning of the 20th century, when they were drawn 
+to work on sugar or banana plantations or even the Panama Canal. The village could be reached only by foot or horseback until 1967, when an unpaved road was constructed, leading to the discovery that its language was a creole (De Granda, 1968). Its primary school is taught only in Spanish, the language that younger people speak among themselves as well as with outsiders. While many understand the creole or even use it as a secret language outside their community, it is usually only older people who use it among themselves, suggesting that the creole is 
+unlikely to survive many more generations. 
+ 
+4. Papiamentu: Its sociolinguistic history 
+ 
+Papiamentu is spoken on several islands of the Netherlands Antilles just north of Venezuela: Curaçao, A ruba, and Bonaire. T h ey were originally inhabited by Amerindians who spoke an Arawakan language. Curaçao was settled in 1527 by some 25 Spaniards, who set about raising cattle. Over the next century the several hundred Indians on Curaçao probably learned Spanish from them and missionaries from the mainland, but the use of this language was disrupted in 1634 when the Dutch 
+seized Curaçao and Bonaire. The Spanish retreated to the mainland, leaving all but 75 of their Indian allies on Curaçao (Goodman, 1987). The 400 Dutchmen who settled the island kept some 23 of these Indians as servants, and other Indians remained on Bonaire and Aruba after the latter was taken by the Dutch in 1638. It is unclear what language the Dutch used for contact with the Indians during this early period; having broken away from the Spanish empire in 1581 (recently united with that of Portugal), the Dutch often understood Spanish and Portuguese and 
+used creoles based on the latter as the lingua franca in the Asian colonies they seized from Portugal in the early 17th century. They probably also used restructured Portuguese for contact in the part of northeastern Brazil that they seized in 1630. There they found allies in the Sephardic Jews who had fled the Inquisition in Spain and Portugal; the Dutch, more tolerant than the Portuguese, allowed them to revert openly to Judaism. When the Portuguese regained this part of Brazil in 1654, the Dutch and their Jewish allies had to leave. Some resettled in 
+Curaçao, which the Dutch had started using as an entrepôt for their trade in African slaves. Although it is unclear what the contact language of this trade was in the 1650s, it is clear that the Iberian languages of the Sephardim (whether Portuguese or Spanish or Judeo-Portuguese or Judeo-Spanish or Galician or other regional varieties –all of which were largely mutually intelligible) played an increasingly important role in the slave trade on Curaçao during the second half of the 17th century. Since the Dutch had captured many of the Portuguese trading 
+posts in West Africa, the Spanish granted them an asiento or monopoly in supplying their American colonies with slaves, which lasted until 1713. The Brazilian Jews, joined by other Sephardim from Amsterdam who also spoke Iberian languages, played a major role in the administration of the slave camps on Curaçao (Goodman, 1987). The slave trade was economically much more important than plantation agriculture, which was carried out mainly to provision the camps since the dry soil was unsuitable for raising sugar. 
+ 
+The restructured Portuguese that the Jews had probably used in Brazil seems likely to have been extended to use in contact with the new slaves arriving from Africa (Maurer, 1998), some of whom probably knew pidgin Portuguese from its use as a lingua franca there. However, as Spanish-speaking mainlanders came to Curaçao in increasing numbers to purchase slaves, there probably arose a makeshift trade koine based largely on common Iberian lexicon, not unlike what Brazilians often use 
+today in dealing with Spanish Americans. This seems likely to have drawn the language of Curaçao in the direction of Spanish from this early period onwards. In 1704 a Spanish-speaking priest described the language of the island’s slaves as “un español chapurreado” or ‘bad Spanish’(Van Wijk, 1958: 169). Although most of the slaves arriving from Africa were sent on to Spanish colonies, those remaining on Curaçao came to equal the white population in number by the 1680s (Maurer, 1986); of the 2,400 slaves, only a quarter worked on plantations while the rest 
+did domestic work (including work in the camps). The whites apparently learned the emerging creole for contact, beginning a long tradition of bilingualism; about half were from the Netherlands and maintained Dutch as their home language, while the other half of the white population consisted of Jews. It is unclear what the latter’s home language was, but their congregation used Portuguese until they changed to Spanish in the 19th century. The creole spoken on Curaçao apparently stabilized by around 1700, when it spread to Bonaire and then to Aruba. The 
+unusually high degree of European influence on the creole, which is evident in the modern grammar, probably stems in part from the long tradition of bilingualism in the creole among Europeans (leading to the transfer of language features) and closer contact between them and slaves than on the sugar islands of the English and French. 
+ 
+The oldest surviving document in Papiamentu is a 1776 letter; the language is very similar to the modern creole. The 1790 census reveals that nearly 60% of Curaçao’s population of 19,500 lived in the capital of Willemstad; African slaves made up only 47% of this urban population (with 30% whites and 23% free colored) but 91% of the rural population (with 7% whites and 2% free colored). During the course of the 19th century the white population decreased to 10%, apparently through 
+intermarriage (Reinecke, 1937: 370, 384). Although all groups speak Papiamentu today, there is still a significant correlation between ethnic group, religion and prestige language: Protestant whites attend services in Dutch, Jews tend to prefer Spanish, while the black and mixed population belong largely to the Catholic church, which uses Papiamentu (ibid.). 
+ 
+5. Superstrates and substrates 
+ 
+Before proceeding with the structural comparison of the three creoles discussed above, it should be noted that debates on the most likely sources of the grammatical and other features found in creoles have focused largely on their superstrates, substrates, adstrates, universals, creole-internal developments and the convergence of two or more of the above. It would be helpful at this point to identify each of these in turn. 
+ 
+As the terms are used in creole studies, superstrate and substrate refer to the languages that came into contact and formed the pidgin (with no native speakers) that became the creole (with an entire community of native speakers). Usually one group had more power (for example, the Europeans had guns) and their language, the superstrate, became the source of most of the pidgin’s vocabulary. People with less power tend to be more accommodating (and to do more of the work), so 
+usually the non-Europeans (speakers of the substrate languages) had to learn the European’s vocabulary. But what they ended up learning was not the native language of the Europeans, who soon gave up trying to speak it to the non-Europeans as they spoke it among themselves. First the substrate speakers imitated the superstrate speakers’ words, but then the superstrate speakers started imitating the substrate speakers’ pronunciation and grammar to make the compromise language easier for them to understand and use. 
+ 
+Obviously the superstrate language was an important source of vocabulary for the pidgin –and the ensuing creole, if there was one. It was also an important source of the pidgin’s sounds and grammar, although these were usually reinterpreted in terms of the structure of the substrate languages, so they were important sources of the pidgin’s phonology and syntax. Some substrate words also found their way into the pidgin (and later creole), but these could not exceed a relatively 
+small portion of the lexicon without impairing the pidgin’s primary function as a bridge to understanding as long as superstrate speakers were an important part of the equation. However, there were many other ways that the substrate languages influenced the pidgin lexicon through such language contact phenomena as loan translations or influence on the semantic range of words whose form was taken from the superstrate but whose range of meanings was actually that of the corresponding substrate word. Other sources of creole linguistic features include 
+adstrate languages, i.e. any languages other than the superstrate or substrate that the creole later came into contact with. Universals can refer to several different kinds of features common to many or most of the world’s languages, but the most obvious kind of linguistic universals (and those most likely to influence the structure of creoles) are the strategies that most adults use when they’re trying to learn another language; for example, there’s a strong tendency to express grammatical information in separate words (as in “I did go”) rather than 
+combined with another word (as in “I went”). Creole-internal innovation is simply the tendency of creoles, like all natural languages, to become more systematic, often through analogy (e.g. “light, lighted” rather than “light, lit”). Of course sometimes the same creole feature could well have come from two or more of these possible sources, in which case there is no need to choose: we can simply point to converging influence. 
+ 
+To return to the question of the superstrate of these three creoles based on Spanish (the only ones there are), it would seem obvious that their superstrate is Spanish. Yet relexification from Portuguese seems to have been a part of the history of each: in the case of Chabacano, developing out of what was originally Malayo-Portuguese; in the case of Palenquero, developing out of what was originally Gulf of Guinea pidgin Portuguese; and in the case of Papiamentu, developing out of 
+the restructured Portuguese used by Brazilian Jews –at least when talking to Africans. McWhorter (1995) explains the scarcity of Spanish-based creoles in the Atlantic area by pointing to the lack of known Spanish-based pidgins in the Americas or Africa: since it was the Portuguese who had been given Africa by Papal bull, they supplied the Spanish colonies in the Americas with African slaves and so it was Portuguese rather than Spanish that was pidginized in Africa. If Spanish-based creoles need to develop from Spanish-based pidgins, this would explain 
+why only two developed under circumstances that were quite unusual in Spanish America: Palenquero developed in a maroon stronghold out of restructured Portuguese that had been in contact with Spanish, and Papiamentu developed under the Dutch out of restructured Portuguese that was also in contact with Spanish. There were no Portuguese slavers involved in the development of Chabacano, but there were Portuguese soldiers on Ternate who contributed to the creation of the Malayo-Portuguese that later came into contact with Spanish. In all three cases, it is 
+the near mutual intelligibility of Portuguese and Spanish that gives the theory of relexification its plausibility, to say nothing of the most obvious evidence: the modern remnants of Portuguese in all three creoles. 
+ 
+As to their substrates, Whinnom (1956: 9) asserted that the similarities in grammar and syntax, and even of vocabulary, between the Spanish contact vernaculars in the Philippines and Indo-Portuguese are so many –and they are not attributable to a common substratum– that we can be quite certain that Ternateño did develop out of the common Portuguese pidgin of the Eastern Seas. Actually Malayo-Portuguese and Philippine Creole Spanish do have related substrates: the original 
+languages of Malaya, Indonesia, Melanesia and the Philippines all belong to the Austronesian family and share a number of structural traits, which would make it difficult to assign the precise source of many of the creoles’ substrate features with any certainty. 
+ 
+However, the two Caribbean varieties of creole Spanish are, as one might expect, quite different. Among the languages that made up Palenquero’s substrate, the Bantu languages of central Africa seem likely to have predominated. Not only does Palenquero have more words derived from Bantu than from west African languages (Bickerton & Escalante, 1970: 261), but it also has Bantu grammatical features like the prefix ma- to mark the plural form of nouns. Papiamentu, on the other hand, 
+tends to have features found in the Kwa languages of west Africa, such as the use of an affix that also means ‘they’after nouns to indicate plurality. 
+ 
+To evaluate the relative importance of superstrate versus substrate influence in the formation of creole languages, we will examine a number of syntactic features in Chabacano and note their presence or absence in those two creoles that share its superstrate (but not its substrate). However, we will also note the presence or absence of these features in Tok Pisin, a restructured variety of English that is both a pidgin and a creole, used in Papua New Guinea, a language that shares 
+Chabacano’s Austronesian substrate (but not its superstrate). For this information, I am indebted to Dr. Nicholas Faraclas of the University of Papua New Guinea (Fa r a c l a s , forthcoming). 
+ 
+6. The verb phrase 
+ 
+Instead of using verb endings to mark tense, creoles use particles (usually occurring before the verb) to mark tense (i.e. the time an action occurred) or aspect (i.e. whether the action was in progress, whether it occurred habitually, etc.). 
+ 
+6.1. The unmarked verb 
+ 
+The three Zamboangueño sentences below illustrate the possible time reference of unmarked verbs (i.e. those with no preverbal markers), depending on whether the verbs are stative (referring to states like ‘know’) or non-stative (referring to actions, like ‘jump’). In (1), the stative verb puede ‘to be able’is not preceded by any marker; it is clear from the context that the verb refers to the present or future (i.e. non-past). In (2), it is clear from the context that the unmarked 
+stative verb quiere does refer to the past. No examples of unmarked non-stative verbs referring to the past were found in the corpus (Forman, 1972). In (3), the unmarked non-stative verb anda refers to non-past tense. 
+ 
+(1) Con ese gente ___ puede ele come.2 
+(These people he –the dragon– can eat.) (Forman, 1972: 170) 
+(2) Todo aquel ___ quiere anda saca con ese mujer. 
+(Those who wanted to go to take that woman.) 
+(3) ___ anda eli alli na reino. 
+(He goes there to the kingdom.) (Valles-Akil, p.c.) 
+ 
+The table below summarizes these findings and compares them with the parallel grammatical features of the other creoles under discussion. Here, the vertical column under ZM (for Zamboangueño) indicates whether the indicated feature is known to be present (+), known to be absent (0), or whether its presence is rare (R) or unknown (?). The other languages are Tok Pisin (TP), which like Zamboangueño has an Austronesian substrate, and Palenquero (PL) and Papiamentu (PP), which like 
+Zamboangueño have Spanish as their superstrate. Constraints of space make it impossible to illustrate the grammatical features of these languages with sample sentences, but these can be found in the forthcoming book edited by Holm & Patrick. 
+ 
+2 Editor’s note: I have adapted the orthography of Chabacano examples to the widely followed Camins’ spelling rules,since questions of phonetics are not implied in Holm’s discussion. Forman,in his doctoral dissertation, used the phonetic conventions required by the Univ. of Cornell, and Holm’s original ms.reproduces them exactly; so, for instance, this citation is originally transcribed as Konése hénte pwéde éle komé. See also Forman’s discussion of Camins’orthography in his 
+contribution to this volume. 
+ 
+6.1. UNMARKED VERBS: ZM TP PL PP 
+6.1.1. Statives with non-past reference + + + + 
+6.1.2. Statives with past reference + R + 0 
+6.1.3. Non-stative with past reference ? + + 0 
+6.1.4. N o n - s t a t ives with non-past reference + R + 0 
+ 
+6.2. Past tense 
+ 
+The Zamboangueño preverbal marker ya indicates perfective aspect, which implies past tense; its use is optional before stative verbs (4) but required before non-stative verbs (5). There were no instances in the corpus of ya being used as a counterfactual (indicating an action that had not occurred) or before an adjective or locative phrase. 
+ 
+(4) YA puede le saca con el princesa gayot... 
+(He could seize the princess herself...) (Forman, 1972: 186) 
+(5) YA anda sila na Lamitan. 
+(They went to Lamitan.) (ibid.: 158) 
+6.2. PAST TENSE MARKER: ZM TP PL PP 
+6.2.1. Before statives with past reference + + + + 
+6.2.2. Before non-statives with past reference + + + + 
+6.2.3. Past = counterfactual ? R R + 
+6.2.4. Past with adjectival verb 0 + 0 0 
+6.2.5. Past with locative 0 + 0 0 
+ 
+6.3. Progressive aspect 
+ 
+The Zamboangueño preverbal marker ta indicates not only actions that are in progress but also those that are habitual (6). Context usually indicates whether it should be translated by the English present progressive or simple present tense. No examples were found in the corpus in which it indicated the future, nor did it co-occur with a past marker or an adjective. 
+ 
+(6) TA anda yo. 
+(I –usually– go / I am going.) (Forman, 1972: 160) 
+6.3. PROGRESSIVE ASPECT MARKER: ZM TP PL PP 
+6.3.1. Indicating progressive + + + + 
+6.3.2. Indicating future ? 0 R + 
+6.3.3. Anterior plus progressive 0 + + + 
+6.3.4. Progressive with adjectival verb 0 + + 0 
+ 
+6.4. Habitual aspect 
+ 
+As noted above, the progressive marker ta is used to indicate that an action occurs habitually, especially with appropriate time adverbials, but habitual aspect can also be indicated by the unmarked verb, as in (3) above. However, Zamboangueño has no preverbal marker that exclusively indicates habituality or one that can co-occur with the past marker. 
+ 
+6.4. HABITUAL ASPECT: ZM TP PL PP 
+ 
+6.4.1. Zero marker for habitual + 0 + + 
+6.4.2. Progressive marker for habitual + 0 0 + 
+6.4.3. Marker for habitual only 0 + + + 6.4.4. Past plus habitual 0 + + + 
+ 
+6.5. Completive aspect 
+ 
+Since the past marker ya also conveys punctual and perfective meaning, it can be used to show the completion of an action. Note that the preverbal marker ya can co-occur with a postverbal adverb of the same form meaning ‘already’ as in (7) below. Preverbal ya does not occur before adjectives or with any other preverbal markers. 
+ 
+(7) Cuando YA subi el chongo arriba, YA olvida YA ele con el tortuga. 
+(When the monkey had climbed up, he had already forgotten the turtle.) 
+(Forman, 1972: 148) 
+ 
+6.5. COMPLETIVE ASPECT: ZM TP PL PP 
+ 
+6.5.1. Completive only (before/after verb) + + + + 
+6.5.2. Completive + adjectival verb ? + 0 0 
+6.5.3. Anterior (or other) + Completive 0 + + + 
+ 
+6.6. Irrealis mode 
+ 
+The irrealis marker ay can express future or unrealized events that are predicted or promised (8), or –for some speakers– hypothetical (9). Other speakers, however, could only give (9) a definite future meaning (‘they will all drown’) and would have to use era to indicate a hypothetical situation (Valles-Akil, p.c.). The irrealis marker cannot co-occur with the past marker to indicate either the conditional or the future perfect, but can be used alone to convey the conditional (9) 
+or the future in the past (10). 
+ 
+(8) Muchu gente AY procura anda saca. 
+(A lot of people will try to go get –her.) (Valles-Akil, p.c.) 
+(9) AY man lumus sila todo... 
+(They all would have drowned...) (Forman, 1972: 46)?
+(10) Ya habla ele AY vene ele mañana. 
+(He said he would come tomorrow.) (Martinez, p.c.) 
+ 
+6.6. IRREALIS MODE: ZM TP PL PP 
+ 
+6.6.1. Future + + + + 
+6.6.2. Past + Irrealis = conditional 0 R + + 
+6.6.3. Past + Irrealis = future in the past 0 + + + 
+6.6.4. Past + Irrealis = future perfect 0 + 0 0 
+ 
+6.7. Other combinations of verbal markers 
+ 
+The preverbal markers ta (durative or present), ya (past, perfective) and ay (irrealis) cannot combine with one another. The modal verbs puede ‘can’ (1), and quiere ‘want’ (2), which are also main verbs, could be considered auxiliaries. 
+ 
+6.7 OTHER COMBINATIONS OF V E R BAL MARKERS: ZM TP PL PP 
+6.7.1. Irrealis + Progressive 0 + 0 + 
+6.7.2. Past + Irrealis + Pro gressive 0 0 + + 
+6.7.3. Other auxiliary-like elements + + + + 
+ 
+6.8. Negation 
+ 
+Zamboangueño uses different words to negate different kinds of predicates. Equational predicates (with nouns) take the negator jendeh (11). Nuay negates predicates that are locational or existential (12). In verbal predicates, nuay indicates the negation of past action, replacing the affirmative preverbal past marker ya (13). However, predications with the durative marker ta or the irrealis marker ay (or its allomorphs) are generally negated (but not replaced) with jendeh (14). 
+Unmarked verbs take nunca (15) while imperatives take no (16). Unlike some creoles, Zamboangueño has no discontinuous double negation, but like its superstrate it does have negative concord (17). 
+ 
+(11) JENDEH este leyen. 
+(This is not a legend.) (Forman, 1972: 163) 
+(12) NUAY mas ele (aqui). 
+(He is not here anymore.) (ibid.) 
+(13) NUAY sila anda na Karagasan. 
+(They did not go to Caragasan.) (ibid.) 
+(14) JENDEH ele ay deja (hasta ay casa sila dos). 
+(He will not leave –until they two are married.) (ibid.: 164) 
+(15) NUNCA yo quiere convos. 
+(I will never love you.) (ibid.: 225) 
+(16) NO vos anda. 
+(Don’t go!) (ibid.: 164) 
+(17) NO sabe NINGUNO. 
+(No one knows.) (ibid.: 226) 
+ 
+6.8. NEGATION: ZM TP PL PP 
+6.8.1. Single negation (verbal) + + + + 
+6.8.2. Discontinous double negation 0 0 + 0 
+6.8.3. Negative concord + 0 + + 
+ 
+6.9. Passive 
+ 
+While Zamboangueño has no syntactic construction parallel to the Spanish passive (Whinnom, 1956: 93), it does have a semantic equivalent with impersonal ‘they’ as the subject (18). 
+ 
+(18) Un clase de pescao ta llama SILA palit. 
+(A kind of fish (which) they call “palit”.) (Forman, 1972: 219) 
+ 
+6.9. PASSIVE: ZM TP PL PP 
+6.9.1. Passive construction 0 0 R + 
+6.9.2. Passive equivalent + + + + 
+ 
+6.10. Adjectives and other non-verbal predicates 
+ 
+Unlike some Caribbean creoles, Zamboangueño does not have adjectives that function like verbs. While Zamboangueño predicate adjectives and nouns do not take a copula, they do not take preverbal markers either. Both are fronted and then followed by the subject, despite Zamboangueño’s usual VSO order, as in (19) and (20). The predicate marker talla takes the position of a copula before locative predicates (21). Unlike some Caribbean creoles, Zamboangueño has no predicate clefting of 
+either adjectives or verbs. The comparison of adjectives is not accomplished with a serial verb construction with ‘pass’, but rather with constructions more similar to those of Spanish. The adjective compared may or may not be preceded by the adverb mas ‘more’and the second noun may be preceded by either que or contra in the sense of ‘than’ (cf. Spanish que only) (22, 23). 
+ 
+(19) ___ Daan el salaan. 
+COP old the strainer 
+(The strainer is old.) (Forman, 1972: 161) 
+(20) ___ Soltero el anak disuyo. 
+COP bachelor the son of-his 
+(His son is a bachelor.) (ibid.: 161) 
+(21) Ese dia, TALLA tamen el mujer na casa. 
+(That day the girl was there in the house.) (ibid.: 35) 
+(22) Tu el MAS bueno subi QUE conmigo. 
+(You climb better than I do.) (ibid.: 186) 
+(23) ___ Si Juan ____ alto CONTRA con el mujer. 
+COP EMPH John more tall than OBJ the girl 
+(John is taller than the girl.) (Martinez, p.c.) 
+ 
+6.10 ADJECTIVES AND OTHER NON-VERBAL PREDICAT E S: ZM TP PL PP 
+ 
+6.10.1. Preverbal markers before adjectives 0 + 0 0 
+6.10.2. Preverbal markers before nouns 0 + 0 0 
+6.10.3. Preverbal markers before locatives 0 + 0 0 
+6.10.4. Predicate clefting: adjectives 0 + 0 + 
+6.10.5. Predicate clefting: (other) verbs 0 + 0 + 
+6.10.6. Comparison with ‘PASS’ 0 + 0 R 6.10.7. Comparison as in superstrate + + + + 
+ 
+6.11. The copula 
+ 
+As noted above, there is no copula before a predicate consisting of an adjective (19) or a noun (20). Locative and existential predicates require the copula-like talla (24), which occurs in the initial verbal position. Existence is indicated by tiene (cf. Spanish tiene ‘(it) has’(25). A nonverbal predicator is also used to indicate existence in abundance: mucho (
+Copyright
+©1997-2011 
+Zamboanga.com®.  All Rights Reserved.
+Z-Wiki  |
+Z-Store

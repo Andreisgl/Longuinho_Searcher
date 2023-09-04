@@ -1,0 +1,121 @@
+Django Girls - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Languages
+Language links are at the top of the page across from the title.
+Search
+Search
+Create accountLog in
+Personal tools
+ Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1History
+2Tutorial
+3Django Girls workshops
+4External links
+5References
+Toggle the table of contents
+Toggle the table of contents
+Django Girls
+2 languages
+FrançaisРусский
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Download as PDFPrintable version
+In other projects
+Wikimedia Commons
+From Wikipedia, the free encyclopedia
+Django GirlsTypenot-for-profitKey people
+Ola Sitarska
+Ola Sendecka
+Websitedjangogirls.org
+Django Girls is an international non-profit organization started by two Polish women, Ola Sitarska and Ola Sendecka,[1] to inspire women from all backgrounds[2] to get interested in technology and to become programmers,[3] offering a safe and friendly environment.[4][5] It is known for the free workshops it hosts to help women to learn to program[6] and for its Django tutorial.[7] It is often supported by the Python Software Foundation,[8] and they often hold sessions at the Python Conference.[9]
+History[edit]
+The first Django Girls workshop, which kicked off Django Girls, happened during EuroPython 2014, in Berlin.[10]  Ola Sitarska and Ola Sendecka decided to use Django and Python because both are open source code platforms, which may help women developing their own ideas.[11] Since then, the initiative has spread worldwide,[12] reaching countries like Argentina,[13][14] Australia,[15] Bolivia,[16] Brazil,[17] Colombia,[18] Ecuador,[19][20][21] Ghana,[22] Nigeria,[23][24] United Kingdom,[4] Peru,[25][26] United States,[27][2] Zimbabwe[28][29] and many others.
+Tutorial[edit]
+The tutorial, which teaches how to create and deploy a blog application using Django, is maintained and updated by the Django Girls community, using  Github. As of May 2018, the Django Girls tutorial has been published online in 14 languages[30] besides its original English version. As of May 2018, more than 1,000,000 users have visited its website.[31]
+Django Girls workshops[edit]
+Using a manual provided by the organization,[4][11] Django Girls volunteers offer free[32] one[33] or two days workshops in many cities of the world, usually held during weekends.[2] It is aimed at complete beginners, teaching about HTML, CSS, Python and Django.[34] As of May 2018, 414 cities across 90 countries[35] have hosted Django Girls workshops, with Accra,[22] Athens,[36] Florence,[37] Kathmandu,[38] Lagos,[39] Lahore,[40] Oxford,[41] and São José dos Campos[42] among them. As of May 2018, over 14,000 women have attended Django Girls workshops held across the globe.[citation needed]
+External links[edit]
+Django Girls website
+References[edit]
+^ Proudfoot, Jenny (8 March 2016). "16 Women Doing Amazing Things in 2016". Marie Claire. Retrieved 9 July 2017.
+^ a b c "Falling in love with programming: Django Girls inspires women to join the tech world". Rapid Growth. Retrieved 9 July 2017.
+^ Dillon, Karen. "Lawrence-born Django, which revolutionized website construction, celebrating its 10th anniversary". Lawrence Journal-world. Retrieved 17 June 2017.
+^ a b c "Django Girls is coming to Cardiff to help women get into coding -TechSPARK.co". techspark.co. 12 July 2016. Retrieved 9 July 2017.
+^ "V&A · Django Girls – Tech activists". Victoria and Albert Museum. Retrieved 9 July 2017.
+^ "Django Girls teaches women to program [sic]". One News Page. Retrieved 9 July 2017.
+^ Chilabert, Hernán. "Django Tutorials and Courses". hackr.io. Retrieved 17 June 2017.
+^ Sushinsky, Mary Ann (15 April 2015). "PSF supports more Django Girls!". Python Software Foundation News. Retrieved 17 June 2017.
+^ "Django Girls invite would-be coders to PyCon this October". 12 September 2017.
+^ "Our next keynote: Ola & Ola (Django Girls)". EuroPython Blog. 25 April 2015. Retrieved 17 June 2017.
+^ a b "Django Girls make the male-dominated world of IT more accessible to women, By Matthaios Tsimitakis | Kathimerini". Retrieved 9 July 2017.
+^ "Lawrence-born Django, which revolutionized website construction, celebrating its 10th anniversary". LJWorld.com. Retrieved 9 July 2017.
+^ Panorama, Diario. "Invitan al taller "Django Girls" en Santiago del Estero - Diario Panorama". www.diariopanorama.com. Retrieved 17 July 2017.
+^ "Taller Django Girls en PyCon Argentina 2015 - Mendoza". www.frm.utn.edu.ar (in European Spanish). Retrieved 17 July 2017.
+^ "European coding workshop Django Girls comes to Brisbane to teach women tech skills - Startup Daily". Startup Daily. 4 July 2016. Retrieved 9 July 2017.
+^ "Taller Django Girls: Mujeres podrán aprender a programar gratis". Bolivia Emprende (in European Spanish). 21 August 2015. Retrieved 17 July 2017.
+^ "Django Girls realiza workshop gratuito de programação no Brasil - IDG Now!". IDG Now! (in Brazilian Portuguese). 15 February 2016. Retrieved 9 July 2017.
+^ "Programación web para mujeres en Barranquilla". El Heraldo (in Spanish). 28 May 2017. Retrieved 10 July 2017.
+^ "Mujeres se capacitan en programación". Diario El Mercurio - Cuenca Ecuador (in European Spanish). 1 May 2016. Retrieved 17 July 2017.
+^ "Taller gratuito de programación para mujeres en Guayaquil". Vistazo. 22 June 2016. Retrieved 17 July 2017.
+^ "Mujeres reciben un taller sobre programación". El Tiempo (in Spanish). 26 March 2017. Retrieved 17 July 2017.
+^ a b Kuuire, Joseph-Albert (19 June 2017). "Event: Django Girls Workshop At iSpace Foundation". Tech Nova. Retrieved 9 July 2017.
+^ "Django Girls will teach Nigerian women how to code for free". Techpoint.ng. 20 January 2016. Retrieved 9 July 2017.
+^ "Django Girls' free programming workshop to hold in Ota this August". Techpoint.ng. 8 July 2016. Retrieved 9 July 2017.
+^ "Jóvenes recorren Sudamérica promoviendo tecnológica". RPP Noticias (in Spanish). Retrieved 17 July 2017.
+^ "Taller gratuito de programación para mujeres con Django Girls – Pymex". pymex.pe (in European Spanish). Retrieved 17 July 2017.
+^ "Django Girls teaches women to program". Yahoo News. 25 April 2017. Retrieved 9 July 2017.
+^ Mazingaizo, Sharon (7 March 2016). "Django Girls brings coding skills to Harare". Harare News. Retrieved 9 July 2017.
+^ "Django Girls Harare to host 2nd workshop this November - Kaguvi Digital". Kaguvi Digital. 9 November 2016. Retrieved 9 July 2017.
+^ DjangoGirls. "Choose a language · Django Girls Tutorial". tutorial.DjangoGirls.org. Retrieved 9 July 2017.
+^ Newill, Cody. "Django Celebrates 10 Years Of Web Development In Lawrence". Retrieved 9 July 2017.
+^ "Coding and women: Where to learn to code for free?". PopArt Studio. 16 November 2015. Retrieved 9 July 2017.
+^ "Perth Web Girls: Blurring Boundaries and Beating the Gender Bias". Spacecubed. Retrieved 9 July 2017.
+^ Tysnicka, Agata. "Django Girls: How 10Clouds Helps Get More Women into IT". 10Clouds. Retrieved 17 June 2017.
+^ Gorey, Colm (18 March 2016). "First Irish Django Girls coding event taking place this April". Silicon Republic. Retrieved 9 July 2017.
+^ "Greek Girls Pave the Technology Path". WindyCity Greek. 4 November 2015. Retrieved 9 July 2017.
+^ Corvino, Nadia. "Django Girls a Firenze: workshop di programmazione per donne e ragazze". Soft Revolutionzine. Retrieved 17 June 2017.
+^ "Django Girls Workshop #3 Successfully Organized in Kathmandu | TechLekh". TechLekh. 10 October 2016. Retrieved 9 July 2017.
+^ Adeleke, David (18 January 2016). "Django Girls is coming to Lagos. Ready your laptops ladies". Techcabal. Retrieved 17 June 2017.
+^ "Django Girls workshop to be held in Lahore; apply before 20th May - More News". More News. 12 May 2016. Retrieved 9 July 2017.
+^ Keown, Callum. "Coding event gets more Oxford women into computer programming". Oxford Mail. Retrieved 17 June 2017.
+^ Kyoshy, Felipe. "Workshop promove inserção das mulheres na área de tecnologia". Meon. Retrieved 17 June 2017.
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Django_Girls&oldid=1140079175"
+Categories: Organizations for women in science and technologyPython (programming language)Women in science and technologyComputer science educationWomen in computingHidden categories: CS1 European Spanish-language sources (es-es)CS1 Brazilian Portuguese-language sources (pt-br)CS1 Spanish-language sources (es)Use dmy dates from April 2022All articles with unsourced statementsArticles with unsourced statements from April 2022
+ This page was last edited on 18 February 2023, at 09:07 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement
+Toggle limited content width

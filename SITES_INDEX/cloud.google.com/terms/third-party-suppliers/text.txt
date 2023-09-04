@@ -1,0 +1,4393 @@
+Google Cloud Platform Subprocessors
+    Overview
+  
+    
+close
+Accelerate your digital transformation
+Whether your business is early in its journey or well on its way to digital transformation, Google Cloud can help solve your toughest challenges.
+                      Learn more
+                    
+Key benefits
+                      Why Google Cloud
+                    
+                      Top reasons businesses choose us.
+                    
+                      AI and ML
+                    
+                      Get enterprise-ready AI.
+                    
+                      Multicloud
+                    
+                      Run your apps wherever you need them.
+                    
+                      Global infrastructure
+                    
+                      Build on the same infrastructure as Google.
+                    
+                      Data Cloud
+                    
+                      Make smarter decisions with unified data.
+                    
+                      Open cloud
+                    
+                      Scale with open, flexible technology.
+                    
+                      Trust and security
+                    
+                      Keep your data secure and compliant.
+                    
+                      Productivity and collaboration
+                    
+                      Connect your teams with AI-powered apps.
+                    
+Reports and insights
+                      Executive insights
+                    
+                      Curated C-suite perspectives.
+                    
+                      Analyst reports
+                    
+                      Read what industry analysts say about us.
+                    
+                      Whitepapers
+                    
+                      Browse and download popular whitepapers.
+                    
+                      Customer stories
+                    
+                      Explore case studies and videos.
+                    
+    Solutions
+  
+    
+close
+                      Industry Solutions
+                    
+                      Reduce cost, increase operational agility, and capture new market opportunities.
+                    
+                      Retail
+                    
+                      Analytics and collaboration tools for the retail value chain.
+                    
+                      Consumer Packaged Goods
+                    
+                      Solutions for CPG digital transformation and brand growth.
+                    
+                      Financial Services
+                    
+                      Computing, data management, and analytics tools for financial services.
+                    
+                      Healthcare and Life Sciences
+                    
+                      Advance research at scale and empower healthcare innovation.
+                    
+                      Media and Entertainment
+                    
+                      Solutions for content production and distribution operations.
+                    
+                      Telecommunications
+                    
+                      Hybrid and multi-cloud services to deploy and monetize 5G.
+                    
+                      Games
+                    
+                      AI-driven solutions to build and scale games faster.
+                    
+                      Manufacturing
+                    
+                      Migration and AI tools to optimize the manufacturing value chain.
+                    
+                      Supply Chain and Logistics
+                    
+                      Enable sustainable, efficient, and resilient data-driven operations across supply chain and logistics operations.
+                    
+                      Government
+                    
+                      Data storage, AI, and analytics solutions for government agencies.
+                    
+                      Education
+                    
+                      Teaching tools to provide more engaging learning experiences.
+                    
+Not seeing what you're looking for?
+                      See all industry solutions
+                    
+Not seeing what you're looking for?
+                      See all solutions
+                    
+                      Application Modernization
+                    
+                      Assess, plan, implement, and measure software practices and capabilities to modernize and simplify your organization’s business application portfolios.
+                    
+                      CAMP
+                    
+                      Program that uses DORA to improve your software delivery capabilities.
+                    
+                      Modernize Traditional Applications
+                    
+                      Analyze, categorize, and get started with cloud migration on traditional workloads.
+                    
+                      Migrate from PaaS: Cloud Foundry, Openshift
+                    
+                      Tools for moving your existing containers into Google's managed container services.
+                    
+                      Migrate from Mainframe
+                    
+                      Automated tools and prescriptive guidance for moving your mainframe apps to the cloud.
+                    
+                      Modernize Software Delivery
+                    
+                      Software supply chain best practices - innerloop productivity, CI/CD and S3C.
+                    
+                      DevOps Best Practices
+                    
+                      Processes and resources for implementing DevOps in your org.
+                    
+                      SRE Principles
+                    
+                      Tools and resources for adopting SRE in your org.
+                    
+                      Day 2 Operations for GKE
+                    
+                      Tools and guidance for effective GKE management and monitoring.
+                    
+                      FinOps and Optimization of GKE
+                    
+                      Best practices for running reliable, performant, and cost effective applications on GKE.
+                    
+                      Run Applications at the Edge
+                    
+                      Guidance for localized and low latency apps on Google’s hardware agnostic edge solution.
+                    
+                      Architect for Multicloud
+                    
+                      Manage workloads across multiple clouds with a consistent platform.
+                    
+                      Go Serverless
+                    
+                      Fully managed environment for developing, deploying and scaling apps.
+                    
+                      Artificial Intelligence
+                    
+                      Add intelligence and efficiency to your business with AI and machine learning.
+                    
+                      Contact Center AI
+                    
+                      AI model for speaking with customers and assisting human agents.
+                    
+                      Document AI
+                    
+                      Document processing and data capture automated at scale.
+                    
+                      Product Discovery
+                    
+                      Google-quality search and product recommendations for retailers.
+                    
+                      APIs and Applications
+                    
+                      Speed up the pace of innovation without coding, using APIs, apps, and automation.
+                    
+                      New Business Channels Using APIs
+                    
+                      Attract and empower an ecosystem of developers and partners.
+                    
+                      Unlocking Legacy Applications Using APIs
+                    
+                      Cloud services for extending and modernizing legacy apps.
+                    
+                      Open Banking APIx
+                    
+                      Simplify and accelerate secure delivery of open banking compliant APIs.
+                    
+                      Databases
+                    
+                      Migrate and manage enterprise data with security, reliability, high availability, and fully managed data services.
+                    
+                      Database Migration
+                    
+                      Guides and tools to simplify your database migration life cycle.
+                    
+                      Database Modernization
+                    
+                      Upgrades to modernize your operational database infrastructure.
+                    
+                      Databases for Games
+                    
+                      Build global, live games with Google Cloud databases.
+                    
+                      Google Cloud Databases
+                    
+                      Database services to migrate, manage, and modernize data.
+                    
+                      Migrate Oracle workloads to Google Cloud
+                    
+                      Rehost, replatform, rewrite your Oracle workloads.
+                    
+                      Open Source Databases
+                    
+                      Fully managed open source databases with enterprise-grade support.
+                    
+                      SQL Server on Google Cloud
+                    
+                      Options for running SQL Server virtual machines on Google Cloud.
+                    
+                      Data Cloud
+                    
+                      Unify data across your organization with an open and simplified approach to data-driven transformation that is unmatched for speed, scale, and security with AI built-in.
+                    
+                      Databases Solutions
+                    
+                      Migrate and manage enterprise data with security, reliability, high availability, and fully managed data services.
+                    
+                      Smart Analytics Solutions
+                    
+                      Generate instant insights from data at any scale with a serverless, fully managed analytics platform that significantly simplifies analytics.
+                    
+                      AI Solutions
+                    
+                      Add intelligence and efficiency to your business with AI and machine learning.
+                    
+                      Data Cloud for ISVs
+                    
+                      Innovate, optimize and amplify your SaaS applications using Google's data and machine learning solutions such as BigQuery, Looker, Spanner and Vertex AI.
+                    
+                      Data Cloud Alliance
+                    
+                      An initiative to ensure that global businesses have more seamless access and insights into the data required for digital transformation.
+                    
+Digital Transformation
+Accelerate business recovery and ensure a better future with solutions that enable hybrid and multi-cloud, generate intelligent insights, and keep your workers connected.
+                      Digital Innovation
+                    
+                      Reimagine your operations and unlock new opportunities.
+                    
+                      Operational Efficiency
+                    
+                      Prioritize investments and optimize costs.
+                    
+                      COVID-19 Solutions
+                    
+                      Get work done more safely and securely.
+                    
+                      COVID-19 Solutions for the Healthcare Industry
+                    
+                      How Google is helping healthcare meet extraordinary challenges.
+                    
+                      Infrastructure Modernization
+                    
+                      Migrate quickly with solutions for SAP, VMware, Windows, Oracle, and other workloads.
+                    
+                      Application Migration
+                    
+                      Discovery and analysis tools for moving to the cloud.
+                    
+                      SAP on Google Cloud
+                    
+                      Certifications for running SAP applications and SAP HANA.
+                    
+                      High Performance Computing
+                    
+                      Compute, storage, and networking options to support any workload.
+                    
+                      Windows on Google Cloud
+                    
+                      Tools and partners for running Windows workloads.
+                    
+                      Data Center Migration
+                    
+                      Migration solutions for VMs, apps, databases, and more.
+                    
+                      Active Assist
+                    
+                      Automatic cloud resource optimization and increased security.
+                    
+                      Virtual Desktops
+                    
+                      Remote work solutions for desktops and applications (VDI & DaaS).
+                    
+                      Rapid Assessment & Migration Program (RAMP)
+                    
+                      End-to-end migration program to simplify your path to the cloud.
+                    
+                      Backup and Disaster Recovery
+                    
+                      Ensure your business continuity needs are met.
+                    
+                      Productivity and Collaboration
+                    
+                      Change the way teams work with solutions designed for humans and built for impact.
+                    
+                      Google Workspace
+                    
+                      Collaboration and productivity tools for enterprises.
+                    
+                      Google Workspace Essentials
+                    
+                      Secure video meetings and modern collaboration for teams.
+                    
+                      Cloud Identity
+                    
+                      Unified platform for IT admins to manage user devices and apps.
+                    
+                      Chrome Enterprise
+                    
+                      ChromeOS, Chrome Browser, and Chrome devices built for business.
+                    
+                      Cloud Search
+                    
+                      Enterprise search for employees to quickly find company information.
+                    
+                      Security
+                    
+                      Detect, investigate, and respond to online threats to help protect your business.
+                    
+                      Security Analytics and Operations
+                    
+                      Solution for analyzing petabytes of security telemetry.
+                    
+                      Web App and API Protection
+                    
+                      Threat and fraud protection for your web applications and APIs.
+                    
+                      Security and Resilience Framework
+                    
+                      Solutions for each phase of the security and resilience life cycle.
+                    
+                      Risk and compliance as code (RCaC)
+                    
+                      Solution to modernize your governance, risk, and compliance function with automation.
+                    
+                      Software Supply Chain Security
+                    
+                      Solution for improving end-to-end software supply chain security.
+                    
+                      Security Foundation
+                    
+                      Recommended products to help achieve a strong security posture.
+                    
+                      Smart Analytics
+                    
+                      Generate instant insights from data at any scale with a serverless, fully managed analytics platform that significantly simplifies analytics.
+                    
+                      Data Warehouse Modernization
+                    
+                      Data warehouse to jumpstart your migration and unlock insights.
+                    
+                      Data Lake Modernization
+                    
+                      Services for building and modernizing your data lake.
+                    
+                      Spark on Google Cloud
+                    
+                      Run and write Spark where you need it, serverless and integrated.
+                    
+                      Stream Analytics
+                    
+                      Insights from ingesting, processing, and analyzing event streams.
+                    
+                      Business Intelligence
+                    
+                      Solutions for modernizing your BI stack and creating rich data experiences.
+                    
+                      Data Science
+                    
+                      Put your data to work with Data Science on Google Cloud.
+                    
+                      Marketing Analytics
+                    
+                      Solutions for collecting, analyzing, and activating customer data.
+                    
+                      Geospatial Analytics and AI
+                    
+                      Solutions for building a more prosperous and sustainable business.
+                    
+                      Datasets
+                    
+                      Data from Google, public, and commercial providers to enrich your analytics and AI initiatives.
+                    
+                      Startups and SMB
+                    
+                      Accelerate startup and SMB growth with tailored solutions and programs.
+                    
+                      Startup Solutions
+                    
+                      Grow your startup and solve your toughest challenges using Google’s proven technology.
+                    
+                      Startup Program
+                    
+                      Get financial, business, and technical support to take your startup to the next level.
+                    
+                      Small and Medium Business
+                    
+                      Explore solutions for web hosting, app development, AI, and analytics.
+                    
+                      Software as a Service
+                    
+                      Build better SaaS products, scale efficiently, and grow your business.
+                    
+    Products
+  
+    
+close
+Featured Products
+                      Compute Engine
+                    
+                      Virtual machines running in Google’s data center.
+                    
+                      Cloud Storage
+                    
+                      Object storage that’s secure, durable, and scalable.
+                    
+                      Cloud SDK
+                    
+                      Command-line tools and libraries for Google Cloud.
+                    
+                      Cloud SQL
+                    
+                      Relational database service for MySQL, PostgreSQL and SQL Server.
+                    
+                      Google Kubernetes Engine
+                    
+                      Managed environment for running containerized apps.
+                    
+                      BigQuery
+                    
+                      Data warehouse for business agility and insights.
+                    
+                      Cloud CDN
+                    
+                      Content delivery network for delivering web and video.
+                    
+                      Dataflow
+                    
+                      Streaming analytics for stream and batch  processing.
+                    
+                      Operations
+                    
+                      Monitoring, logging, and application performance suite.
+                    
+                      Cloud Run
+                    
+                      Fully managed environment for running containerized apps.
+                    
+                      Anthos
+                    
+                      Platform for modernizing existing apps and building new ones.
+                    
+Not seeing what you're looking for?
+                      See all products (100+)
+                    
+                      AI and Machine Learning
+                    
+                      Vertex AI
+                    
+                      Unified platform for training, running, and managing ML models.
+                    
+                      Vertex AI Workbench
+                    
+                      Single interface for the entire Data Science workflow.
+                    
+                      AI Infrastructure
+                    
+                      Options for training deep learning and ML models cost-effectively.
+                    
+                      AutoML
+                    
+                      Custom machine learning model development, with minimal effort.
+                    
+                      Natural Language AI
+                    
+                      Sentiment analysis and classification of unstructured text.
+                    
+                      Speech-to-Text
+                    
+                      Speech recognition and transcription across 125 languages.
+                    
+                      Text-to-Speech
+                    
+                      Speech synthesis in 220+ voices and 40+ languages.
+                    
+                      Translation AI
+                    
+                      Language detection, translation, and glossary support.
+                    
+                      Video AI
+                    
+                      Video classification and recognition using machine learning.
+                    
+                      Vision AI
+                    
+                      Custom and pre-trained models to detect emotion, text, and more.
+                    
+                      Dialogflow
+                    
+                      Lifelike conversational AI with state-of-the-art virtual agents.
+                    
+Not seeing what you're looking for?
+                      See all AI and machine learning products
+                    
+API Management
+                      Apigee API Management
+                    
+                      Manage the full life cycle of APIs anywhere with visibility and control.
+                    
+                      Apigee Integration
+                    
+                      API-first integration to connect existing data and applications.
+                    
+                      Cloud Healthcare API
+                    
+                      Solution to bridge existing care systems and apps on Google Cloud.
+                    
+                      AppSheet
+                    
+                      No-code development platform to build and extend applications.
+                    
+                      API Gateway
+                    
+                      Develop, deploy, secure, and manage APIs with a fully managed gateway.
+                    
+                      Compute
+                    
+                      Compute Engine
+                    
+                      Virtual machines running in Google’s data center.
+                    
+                      App Engine
+                    
+                      Serverless application platform for apps and back ends.
+                    
+                      Cloud GPUs
+                    
+                      GPUs for ML, scientific computing, and 3D visualization.
+                    
+                      Migrate to Virtual Machines
+                    
+                      Server and virtual machine migration to Compute Engine.
+                    
+                      Spot VMs
+                    
+                      Compute instances for batch jobs and fault-tolerant workloads.
+                    
+                      Batch
+                    
+                      Fully managed service for scheduling batch jobs.
+                    
+                      Sole-Tenant Nodes
+                    
+                      Dedicated hardware for compliance, licensing, and management.
+                    
+                      Bare Metal
+                    
+                      Infrastructure to run specialized workloads on Google Cloud.
+                    
+                      Recommender
+                    
+                      Usage recommendations for Google Cloud products and services.
+                    
+                      VMware Engine
+                    
+                      Fully managed, native VMware Cloud Foundation software stack.
+                    
+                      Cloud Run
+                    
+                      Fully managed environment for running containerized apps.
+                    
+Not seeing what you're looking for?
+                      See all compute products
+                    
+                      Containers
+                    
+                      Google Kubernetes Engine
+                    
+                      Managed environment for running containerized apps.
+                    
+                      Container Registry
+                    
+                      Registry for storing, managing, and securing Docker images.
+                    
+                      Container Security
+                    
+                      Container environment security for each stage of the life cycle.
+                    
+                      Cloud Build
+                    
+                      Solution for running build steps in a Docker container.
+                    
+                      Deep Learning Containers
+                    
+                      Containers with data science frameworks, libraries, and tools.
+                    
+                      Kubernetes Applications
+                    
+                      Containerized apps with prebuilt deployment and unified billing.
+                    
+                      Artifact Registry
+                    
+                      Package manager for build artifacts and dependencies.
+                    
+                      Knative
+                    
+                      Components to create Kubernetes-native cloud-based software.
+                    
+                      Cloud Run
+                    
+                      Fully managed environment for running containerized apps.
+                    
+                      Cloud Code
+                    
+                      IDE support to write, run, and debug Kubernetes applications.
+                    
+                      Google Cloud Deploy
+                    
+                      Fully managed continuous delivery to Google Kubernetes Engine and Cloud Run.
+                    
+                      Data Analytics
+                    
+                      BigQuery
+                    
+                      Data warehouse for business agility and insights.
+                    
+                      Looker
+                    
+                      Platform for BI, data applications, and embedded analytics.
+                    
+                      Dataflow
+                    
+                      Streaming analytics for stream and batch processing.
+                    
+                      Pub/Sub
+                    
+                      Messaging service for event ingestion and delivery.
+                    
+                      Dataproc
+                    
+                      Service for running Apache Spark and Apache Hadoop clusters.
+                    
+                      Cloud Data Fusion
+                    
+                      Data integration for building and managing data pipelines.
+                    
+                      Cloud Composer
+                    
+                      Workflow orchestration service built on Apache Airflow.
+                    
+                      Dataprep
+                    
+                      Service to prepare data for analysis and machine learning.
+                    
+                      Dataplex
+                    
+                      Intelligent data fabric for unifying data management across silos.
+                    
+                      Looker Studio
+                    
+                      Interactive data suite for dashboarding, reporting, and analytics.
+                    
+                      Analytics Hub
+                    
+                      Service for securely and efficiently exchanging data analytics assets.
+                    
+Not seeing what you're looking for?
+                      See all data analytics products
+                    
+                      Databases
+                    
+                      AlloyDB for PostgreSQL
+                    
+                      Fully managed, PostgreSQL-compatible database for demanding enterprise workloads.
+                    
+                      Cloud Bigtable
+                    
+                      Cloud-native wide-column database for large scale, low-latency workloads.
+                    
+                      Firestore
+                    
+                      Cloud-native document database for building rich mobile, web, and IoT apps.
+                    
+                      Memorystore
+                    
+                      In-memory database for managed Redis and Memcached.
+                    
+                      Cloud Spanner
+                    
+                      Cloud-native relational database with unlimited scale and 99.999% availability.
+                    
+                      Cloud SQL
+                    
+                      Fully managed database for MySQL, PostgreSQL, and SQL Server.
+                    
+                      Database Migration Service
+                    
+                      Serverless, minimal downtime migrations to the cloud.
+                    
+                      Bare Metal Solution for Oracle
+                    
+                      Infrastructure to run specialized Oracle workloads on Google Cloud.
+                    
+                      Firebase Realtime Database
+                    
+                      NoSQL database for storing and syncing data in real time.
+                    
+                      Datastream
+                    
+                      Serverless change data capture and replication service.
+                    
+                      Developer Tools
+                    
+                      Artifact Registry
+                    
+                      Universal package manager for build artifacts and dependencies.
+                    
+                      Cloud Code
+                    
+                      IDE support to write, run, and debug Kubernetes applications.
+                    
+                      Cloud Build
+                    
+                      Continuous integration and continuous delivery platform.
+                    
+                      Cloud Deploy
+                    
+                      Fully managed continuous delivery to Google Kubernetes Engine and Cloud Run.
+                    
+                      Cloud Deployment Manager
+                    
+                      Service for creating and managing Google Cloud resources.
+                    
+                      gcloud CLI
+                    
+                      Command line tools and libraries for Google Cloud.
+                    
+                      Cloud Scheduler
+                    
+                      Cron job scheduler for task automation and management.
+                    
+                      Cloud Source Repositories
+                    
+                      Private Git repository to store, manage, and track code.
+                    
+                      Cloud Tasks
+                    
+                      Task management service for asynchronous task execution.
+                    
+                      Cloud Workstations
+                    
+                      Managed and secure development environments in the cloud
+                    
+                      Tools for PowerShell
+                    
+                      Full cloud control from Windows PowerShell.
+                    
+Not seeing what you're looking for?
+                      See all developer tools
+                    
+Healthcare and Life Sciences
+                      Apigee Healthcare APIx
+                    
+                      FHIR API-based digital service production.
+                    
+                      Cloud Healthcare API
+                    
+                      Solution for bridging existing care systems and apps on Google Cloud.
+                    
+                      Cloud Life Sciences
+                    
+                      Tools for managing, processing, and transforming biomedical data.
+                    
+                      Device Connect for Fitbit
+                    
+                      Gain a 360-degree patient view with connected Fitbit data on Google Cloud.
+                    
+                      Healthcare Natural Language AI
+                    
+                      Real-time insights from unstructured medical text.
+                    
+                      Medical Imaging Suite
+                    
+                      Accelerate development of AI for medical imaging by making imaging data accessible, interoperable, and useful.
+                    
+                      Hybrid and Multicloud
+                    
+                      Anthos
+                    
+                      Platform for modernizing existing apps and building new ones.
+                    
+                      Looker
+                    
+                      Platform for BI, data applications, and embedded analytics.
+                    
+                      Cloud Run for Anthos
+                    
+                      Integration that provides a serverless development platform on GKE.
+                    
+                      Google Cloud Marketplace for Anthos
+                    
+                      Containerized apps with prebuilt deployment and unified billing.
+                    
+                      Migrate to Containers
+                    
+                      Tool to move workloads and existing applications to GKE.
+                    
+                      Operations
+                    
+                      Monitoring, logging, and application performance suite.
+                    
+                      Cloud Build
+                    
+                      Service for executing builds on Google Cloud infrastructure.
+                    
+                      Traffic Director
+                    
+                      Traffic control pane and management for open service mesh.
+                    
+                      Apigee API Management
+                    
+                      API management, development, and security platform.
+                    
+                      Google Distributed Cloud
+                    
+                      Fully managed solutions for the edge and data centers.
+                    
+                      Google Cloud Deploy
+                    
+                      Fully managed continuous delivery to Google Kubernetes Engine and Cloud Run.
+                    
+Internet of Things
+                      Cloud IoT Core
+                    
+                      IoT device management, integration, and  connection service.
+                    
+                      Edge TPU
+                    
+                      ASIC designed to run ML inference and AI at the edge.
+                    
+                      Management Tools
+                    
+                      Anthos Config Management
+                    
+                      Automate policy and security for your deployments.
+                    
+                      Carbon Footprint
+                    
+                      Dashboard to view and export Google Cloud carbon emissions reports.
+                    
+                      Cloud APIs
+                    
+                      Programmatic interfaces for  Google Cloud services.
+                    
+                      Cloud console
+                    
+                      Web-based interface for managing and monitoring cloud apps.
+                    
+                      Cloud Mobile App
+                    
+                      App to  manage Google Cloud services from your mobile device.
+                    
+                      Cloud Shell
+                    
+                      Interactive shell environment with a built-in command line.
+                    
+                      Config Connector
+                    
+                      Kubernetes add-on for managing Google Cloud resources.
+                    
+                      Cost Management
+                    
+                      Tools for monitoring, controlling, and optimizing your costs.
+                    
+                      Intelligent Management
+                    
+                      Tools for easily managing performance, security, and cost.
+                    
+                      Personalized Service Health
+                    
+                      Gain visibility into disruptive events impacting Google Cloud products.
+                    
+                      Private Catalog
+                    
+                      Service catalog for admins managing internal enterprise solutions.
+                    
+                      Terraform on Google Cloud
+                    
+                      Open source tool to provision Google Cloud resources with declarative configuration files.
+                    
+Media and Gaming
+                      Live Stream API
+                    
+                      Service to convert live video and package for streaming.
+                    
+                      OpenCue
+                    
+                      Open source render manager for visual effects and animation.
+                    
+                      Transcoder API
+                    
+                      Convert video files and package them for optimized delivery.
+                    
+                      Video Stitcher API
+                    
+                      Service for dynamic or server-side ad insertion.
+                    
+                      Migration
+                    
+                      Application Migration
+                    
+                      App migration to the cloud for low-cost refresh cycles.
+                    
+                      BigQuery Data Transfer Service
+                    
+                      Data import service for scheduling and moving data into BigQuery.
+                    
+                      Cloud Foundation Toolkit
+                    
+                      Reference templates for Deployment Manager and Terraform.
+                    
+                      Database Migration Service
+                    
+                      Serverless, minimal downtime migrations to the cloud.
+                    
+                      Migrate to Containers
+                    
+                      Components for migrating VMs into system containers on GKE.
+                    
+                      Migrate to Virtual Machines
+                    
+                      Components for migrating VMs and physical servers to Compute Engine.
+                    
+                      Migration Center
+                    
+                      Unified platform for migrating and modernizing with Google Cloud.
+                    
+                      Rapid Assessment & Migration Program (RAMP)
+                    
+                      End-to-end migration program to simplify your path to the cloud.
+                    
+                      Transfer Appliance
+                    
+                      Storage server for moving large volumes of data to Google Cloud.
+                    
+                      Storage Transfer Service
+                    
+                      Data transfers from online and on-premises sources to Cloud Storage.
+                    
+                      VMware Engine
+                    
+                      Migrate and run your VMware workloads natively on Google Cloud.
+                    
+                      Networking
+                    
+                      Cloud Armor
+                    
+                      Security policies and defense against web and DDoS attacks.
+                    
+                      Cloud CDN
+                    
+                      Content delivery network for serving web and video content.
+                    
+                      Cloud DNS
+                    
+                      Domain name system for reliable and low-latency name lookups.
+                    
+                      Cloud Load Balancing
+                    
+                      Service for distributing traffic across applications and regions.
+                    
+                      Cloud NAT
+                    
+                      NAT service for giving private instances internet access.
+                    
+                      Hybrid Connectivity
+                    
+                      Connectivity options for VPN, peering, and enterprise needs.
+                    
+                      Network Connectivity Center
+                    
+                      Connectivity management to help simplify and scale networks.
+                    
+                      Network Intelligence Center
+                    
+                      Network monitoring, verification, and optimization platform.
+                    
+                      Network Service Tiers
+                    
+                      Cloud network options  based on performance, availability, and cost.
+                    
+                      Traffic Director
+                    
+                      Traffic control pane and management for open service mesh.
+                    
+Not seeing what you're looking for?
+                      See all networking products
+                    
+                      Operations
+                    
+                      Cloud Logging
+                    
+                      Google Cloud audit, platform, and application logs management.
+                    
+                      Cloud Monitoring
+                    
+                      Infrastructure and application health with rich metrics.
+                    
+                      Error Reporting
+                    
+                      Application error identification and analysis.
+                    
+                      Kubernetes Engine Monitoring
+                    
+                      GKE app development and troubleshooting.
+                    
+                      Cloud Trace
+                    
+                      Tracing system collecting latency data from applications.
+                    
+                      Cloud Profiler
+                    
+                      CPU and heap profiler for analyzing application performance.
+                    
+                      Intelligent Operations
+                    
+                      Tools for easily optimizing performance, security, and cost.
+                    
+                      Security and Identity
+                    
+                      Cloud IAM
+                    
+                      Permissions management system for Google Cloud resources.
+                    
+                      Assured Workloads
+                    
+                      Compliance and security controls for sensitive workloads.
+                    
+                      Cloud Key Management
+                    
+                      Manage encryption keys on Google Cloud.
+                    
+                      Confidential Computing
+                    
+                      Encrypt data in use with Confidential VMs.
+                    
+                      Security Command Center
+                    
+                      Platform for defending against threats to your Google Cloud assets.
+                    
+                      Cloud Data Loss Prevention
+                    
+                      Sensitive data inspection, classification, and redaction platform.
+                    
+                      Mandiant Products and Services
+                    
+                      Cybersecurity technology and expertise from the frontlines.
+                    
+                      Chronicle SIEM
+                    
+                      Extract signals from your security telemetry to find threats instantly.
+                    
+                      Chronicle Security Operations
+                    
+                      Detect, investigate, and respond to cyber threats.
+                    
+                      VirusTotal Enterprise
+                    
+                      Unique visibility into threats.
+                    
+                      reCAPTCHA Enterprise
+                    
+                      Protect your website from fraudulent activity, spam, and abuse without friction.
+                    
+Not seeing what you're looking for?
+                      See all security and identity products
+                    
+                      Serverless Computing
+                    
+                      Cloud Run
+                    
+                      Fully managed environment for running containerized apps.
+                    
+                      Cloud Functions
+                    
+                      Platform for creating functions that respond to cloud events.
+                    
+                      App Engine
+                    
+                      Serverless application platform for apps and back ends.
+                    
+                      Workflows
+                    
+                      Workflow orchestration for serverless products and API services.
+                    
+                      Storage
+                    
+                      All Storage Products
+                    
+                      Cloud-based storage services for your business.
+                    
+                      Cloud Storage
+                    
+                      Object storage that’s secure, durable, and scalable.
+                    
+                      Filestore
+                    
+                      File storage that is highly scalable and secure.
+                    
+                      Persistent Disk
+                    
+                      Block storage for virtual machine instances running on Google Cloud.
+                    
+                      Cloud Storage for Firebase
+                    
+                      Object storage for storing and serving user-generated content.
+                    
+                      Local SSD
+                    
+                      Block storage that is locally attached for high-performance needs.
+                    
+                      Storage Transfer Service
+                    
+                      Data transfers from online and on-premises sources to Cloud Storage.
+                    
+                      Google Workspace Essentials
+                    
+                      Secure video meetings and modern collaboration for teams.
+                    
+                      Google Cloud Backup and DR
+                    
+                      Managed backup and disaster recovery for application-consistent data protection.
+                    
+                      Parallelstore
+                    
+                      High performance, managed parallel file service.
+                    
+                      Google Cloud NetApp Volumes
+                    
+                      File storage service that supports NFS, SMB, and multi-protocol environments.
+                    
+                      Web3
+                    
+                      Blockchain Node Engine
+                    
+                      Fully managed node hosting for developing on the blockchain.
+                    
+    Pricing
+  
+    
+close
+Save money with our transparent approach to pricing
+Google Cloud's pay-as-you-go pricing offers automatic savings based on monthly usage and discounted rates for prepaid resources. Contact us today to get a quote.
+                      Request a quote
+                    
+Pricing overview and tools
+                      Google Cloud pricing
+                    
+                      Pay only for what you use with no lock-in.
+                    
+                      Pricing calculator
+                    
+                      Calculate your cloud savings.
+                    
+                      Google Cloud free tier
+                    
+                      Explore products with free monthly usage.
+                    
+                      Cost optimization framework
+                    
+                      Get best practices to optimize workload costs.
+                    
+                      Cost management tools
+                    
+                      Tools to monitor and control your costs.
+                    
+Product-specific Pricing
+                      Compute Engine
+                    
+                      Cloud SQL
+                    
+                      Google Kubernetes Engine
+                    
+                      Cloud Storage
+                    
+                      BigQuery
+                    
+                      See full price list with 100+ products
+                    
+    Resources
+  
+    
+close
+Learn & build
+                      Google Cloud Free Program
+                    
+                      $300 in free credits and 20+ free products.
+                    
+                      Quickstarts
+                    
+                      Get tutorials and walkthroughs.
+                    
+                      Cloud computing basics
+                    
+                      Learn more about cloud computing topics.
+                    
+                      Blog
+                    
+                      Read our latest product news and stories.
+                    
+                      Learning Hub
+                    
+                      Grow your career with role-based learning.
+                    
+                      Training
+                    
+                      Enroll in on-demand or classroom training.
+                    
+                      Certification
+                    
+                      Prepare and register for certifications.
+                    
+                      Cloud Architecture Center
+                    
+                      Get reference architectures and best practices.
+                    
+Connect
+                      Innovators
+                    
+                      Join Google Cloud's developer program.
+                    
+                      Developer Center
+                    
+                      Stay in the know and stay connected.
+                    
+                      Events and webinars
+                    
+                      Browse upcoming and on demand events.
+                    
+                      Google Cloud Community
+                    
+                      Ask questions, find answers, and connect.
+                    
+Third-party tools and partners
+                      Google Cloud Marketplace
+                    
+                      Deploy ready-to-go solutions in a few clicks.
+                    
+                      Google Cloud partners
+                    
+                      Explore benefits of working with a partner.
+                    
+                      Become a partner
+                    
+                      Join the Partner Advantage program.
+                    
+    Docs
+  
+    
+    Support
+  
+    
+    Docs
+  
+    
+    Support
+  
+    
+English
+Deutsch
+Español – América Latina
+Français
+Português – Brasil
+中文 – 简体
+日本語
+한국어
+Sign in
+Contact Us
+Start free
+      Overview
+   
+      More
+   
+      Solutions
+   
+      More
+   
+      Products
+   
+      More
+   
+      Pricing
+   
+      More
+   
+      Resources
+   
+      More
+   
+      Docs
+   
+      Support
+   
+      Console
+   
+      Contact Us
+   
+      Start free
+   
+      Accelerate your digital transformation
+   
+      Learn more
+   
+      Key benefits
+   
+      Why Google Cloud
+   
+      AI and ML
+   
+      Multicloud
+   
+      Global infrastructure
+   
+      Data Cloud
+   
+      Open cloud
+   
+      Trust and security
+   
+      Productivity and collaboration
+   
+      Reports and insights
+   
+      Executive insights
+   
+      Analyst reports
+   
+      Whitepapers
+   
+      Customer stories
+   
+      Industry Solutions
+   
+      Retail
+   
+      Consumer Packaged Goods
+   
+      Financial Services
+   
+      Healthcare and Life Sciences
+   
+      Media and Entertainment
+   
+      Telecommunications
+   
+      Games
+   
+      Manufacturing
+   
+      Supply Chain and Logistics
+   
+      Government
+   
+      Education
+   
+      See all industry solutions
+   
+      See all solutions
+   
+      Application Modernization
+   
+      CAMP
+   
+      Modernize Traditional Applications
+   
+      Migrate from PaaS&#58; Cloud Foundry, Openshift
+   
+      Migrate from Mainframe
+   
+      Modernize Software Delivery
+   
+      DevOps Best Practices
+   
+      SRE Principles
+   
+      Day 2 Operations for GKE
+   
+      FinOps and Optimization of GKE
+   
+      Run Applications at the Edge
+   
+      Architect for Multicloud
+   
+      Go Serverless
+   
+      Artificial Intelligence
+   
+      Contact Center AI
+   
+      Document AI
+   
+      Product Discovery
+   
+      APIs and Applications
+   
+      New Business Channels Using APIs
+   
+      Unlocking Legacy Applications Using APIs
+   
+      Open Banking APIx
+   
+      Databases
+   
+      Database Migration
+   
+      Database Modernization
+   
+      Databases for Games
+   
+      Google Cloud Databases
+   
+      Migrate Oracle workloads to Google Cloud
+   
+      Open Source Databases
+   
+      SQL Server on Google Cloud
+   
+      Data Cloud
+   
+      Databases Solutions
+   
+      Smart Analytics Solutions
+   
+      AI Solutions
+   
+      Data Cloud for ISVs
+   
+      Data Cloud Alliance
+   
+      Digital Transformation
+   
+      Digital Innovation
+   
+      Operational Efficiency
+   
+      COVID-19 Solutions
+   
+      COVID-19 Solutions for the Healthcare Industry
+   
+      Infrastructure Modernization
+   
+      Application Migration
+   
+      SAP on Google Cloud
+   
+      High Performance Computing
+   
+      Windows on Google Cloud
+   
+      Data Center Migration
+   
+      Active Assist
+   
+      Virtual Desktops
+   
+      Rapid Assessment & Migration Program (RAMP)
+   
+      Backup and Disaster Recovery
+   
+      Productivity and Collaboration
+   
+      Google Workspace
+   
+      Google Workspace Essentials
+   
+      Cloud Identity
+   
+      Chrome Enterprise
+   
+      Cloud Search
+   
+      Security
+   
+      Security Analytics and Operations
+   
+      Web App and API Protection
+   
+      Security and Resilience Framework
+   
+      Risk and compliance as code (RCaC)
+   
+      Software Supply Chain Security
+   
+      Security Foundation
+   
+      Smart Analytics
+   
+      Data Warehouse Modernization
+   
+      Data Lake Modernization
+   
+      Spark on Google Cloud
+   
+      Stream Analytics
+   
+      Business Intelligence
+   
+      Data Science
+   
+      Marketing Analytics
+   
+      Geospatial Analytics and AI
+   
+      Datasets
+   
+      Startups and SMB
+   
+      Startup Solutions
+   
+      Startup Program
+   
+      Small and Medium Business
+   
+      Software as a Service
+   
+      Featured Products
+   
+      Compute Engine
+   
+      Cloud Storage
+   
+      Cloud SDK
+   
+      Cloud SQL
+   
+      Google Kubernetes Engine
+   
+      BigQuery
+   
+      Cloud CDN
+   
+      Dataflow
+   
+      Operations
+   
+      Cloud Run
+   
+      Anthos
+   
+      See all products (100+)
+   
+      AI and Machine Learning
+   
+      Vertex AI
+   
+      Vertex AI Workbench
+   
+      AI Infrastructure
+   
+      AutoML
+   
+      Natural Language AI
+   
+      Speech-to-Text
+   
+      Text-to-Speech
+   
+      Translation AI
+   
+      Video AI
+   
+      Vision AI
+   
+      Dialogflow
+   
+      See all AI and machine learning products
+   
+      API Management
+   
+      Apigee API Management
+   
+      Apigee Integration
+   
+      Cloud Healthcare API
+   
+      AppSheet
+   
+      API Gateway
+   
+      Compute
+   
+      Compute Engine
+   
+      App Engine
+   
+      Cloud GPUs
+   
+      Migrate to Virtual Machines
+   
+      Spot VMs
+   
+      Batch
+   
+      Sole-Tenant Nodes
+   
+      Bare Metal
+   
+      Recommender
+   
+      VMware Engine
+   
+      Cloud Run
+   
+      See all compute products
+   
+      Containers
+   
+      Google Kubernetes Engine
+   
+      Container Registry
+   
+      Container Security
+   
+      Cloud Build
+   
+      Deep Learning Containers
+   
+      Kubernetes Applications
+   
+      Artifact Registry
+   
+      Knative
+   
+      Cloud Run
+   
+      Cloud Code
+   
+      Google Cloud Deploy
+   
+      Data Analytics
+   
+      BigQuery
+   
+      Looker
+   
+      Dataflow
+   
+      Pub/Sub
+   
+      Dataproc
+   
+      Cloud Data Fusion
+   
+      Cloud Composer
+   
+      Dataprep
+   
+      Dataplex
+   
+      Looker Studio
+   
+      Analytics Hub
+   
+      See all data analytics products
+   
+      Databases
+   
+      AlloyDB for PostgreSQL
+   
+      Cloud Bigtable
+   
+      Firestore
+   
+      Memorystore
+   
+      Cloud Spanner
+   
+      Cloud SQL
+   
+      Database Migration Service
+   
+      Bare Metal Solution for Oracle
+   
+      Firebase Realtime Database
+   
+      Datastream
+   
+      Developer Tools
+   
+      Artifact Registry
+   
+      Cloud Code
+   
+      Cloud Build
+   
+      Cloud Deploy
+   
+      Cloud Deployment Manager
+   
+      gcloud CLI
+   
+      Cloud Scheduler
+   
+      Cloud Source Repositories
+   
+      Cloud Tasks
+   
+      Cloud Workstations
+   
+      Tools for PowerShell
+   
+      See all developer tools
+   
+      Healthcare and Life Sciences
+   
+      Apigee Healthcare APIx
+   
+      Cloud Healthcare API
+   
+      Cloud Life Sciences
+   
+      Device Connect for Fitbit
+   
+      Healthcare Natural Language AI
+   
+      Medical Imaging Suite
+   
+      Hybrid and Multicloud
+   
+      Anthos
+   
+      Looker
+   
+      Cloud Run for Anthos
+   
+      Google Cloud Marketplace for Anthos
+   
+      Migrate to Containers
+   
+      Operations
+   
+      Cloud Build
+   
+      Traffic Director
+   
+      Apigee API Management
+   
+      Google Distributed Cloud
+   
+      Google Cloud Deploy
+   
+      Internet of Things
+   
+      Cloud IoT Core
+   
+      Edge TPU
+   
+      Management Tools
+   
+      Anthos Config Management
+   
+      Carbon Footprint
+   
+      Cloud APIs
+   
+      Cloud console
+   
+      Cloud Mobile App
+   
+      Cloud Shell
+   
+      Config Connector
+   
+      Cost Management
+   
+      Intelligent Management
+   
+      Personalized Service Health
+   
+      Private Catalog
+   
+      Terraform on Google Cloud
+   
+      Media and Gaming
+   
+      Live Stream API
+   
+      OpenCue
+   
+      Transcoder API
+   
+      Video Stitcher API
+   
+      Migration
+   
+      Application Migration
+   
+      BigQuery Data Transfer Service
+   
+      Cloud Foundation Toolkit
+   
+      Database Migration Service
+   
+      Migrate to Containers
+   
+      Migrate to Virtual Machines
+   
+      Migration Center
+   
+      Rapid Assessment & Migration Program (RAMP)
+   
+      Transfer Appliance
+   
+      Storage Transfer Service
+   
+      VMware Engine
+   
+      Networking
+   
+      Cloud Armor
+   
+      Cloud CDN
+   
+      Cloud DNS
+   
+      Cloud Load Balancing
+   
+      Cloud NAT
+   
+      Hybrid Connectivity
+   
+      Network Connectivity Center
+   
+      Network Intelligence Center
+   
+      Network Service Tiers
+   
+      Traffic Director
+   
+      See all networking products
+   
+      Operations
+   
+      Cloud Logging
+   
+      Cloud Monitoring
+   
+      Error Reporting
+   
+      Kubernetes Engine Monitoring
+   
+      Cloud Trace
+   
+      Cloud Profiler
+   
+      Intelligent Operations
+   
+      Security and Identity
+   
+      Cloud IAM
+   
+      Assured Workloads
+   
+      Cloud Key Management
+   
+      Confidential Computing
+   
+      Security Command Center
+   
+      Cloud Data Loss Prevention
+   
+      Mandiant Products and Services
+   
+      Chronicle SIEM
+   
+      Chronicle Security Operations
+   
+      VirusTotal Enterprise
+   
+      reCAPTCHA Enterprise
+   
+      See all security and identity products
+   
+      Serverless Computing
+   
+      Cloud Run
+   
+      Cloud Functions
+   
+      App Engine
+   
+      Workflows
+   
+      Storage
+   
+      All Storage Products
+   
+      Cloud Storage
+   
+      Filestore
+   
+      Persistent Disk
+   
+      Cloud Storage for Firebase
+   
+      Local SSD
+   
+      Storage Transfer Service
+   
+      Google Workspace Essentials
+   
+      Google Cloud Backup and DR
+   
+      Parallelstore
+   
+      Google Cloud NetApp Volumes
+   
+      Web3
+   
+      Blockchain Node Engine
+   
+      Save money with our transparent approach to pricing
+   
+      Request a quote
+   
+      Pricing overview and tools
+   
+      Google Cloud pricing
+   
+      Pricing calculator
+   
+      Google Cloud free tier
+   
+      Cost optimization framework
+   
+      Cost management tools
+   
+      Product-specific Pricing
+   
+      Compute Engine
+   
+      Cloud SQL
+   
+      Google Kubernetes Engine
+   
+      Cloud Storage
+   
+      BigQuery
+   
+      See full price list with 100+ products
+   
+      Learn & build
+   
+      Google Cloud Free Program
+   
+      Quickstarts
+   
+      Cloud computing basics
+   
+      Blog
+   
+      Learning Hub
+   
+      Training
+   
+      Certification
+   
+      Cloud Architecture Center
+   
+      Connect
+   
+      Innovators
+   
+      Developer Center
+   
+      Events and webinars
+   
+      Google Cloud Community
+   
+      Third-party tools and partners
+   
+      Google Cloud Marketplace
+   
+      Google Cloud partners
+   
+      Become a partner
+   
+    
+        Home
+      
+  
+          
+          Stay organized with collections
+        
+          
+          Save and categorize content based on your preferences.
+        
+              Back to Google Cloud Terms Directory
+            
+ Current
+                      
+ Google Cloud Platform
+                      Subprocessors 
+Google and its affiliates engage the third-party entities
+                      in the table below to perform limited activities in
+                      connection with the Google Cloud Platform Services. The
+                      table shows what activity each entity performs and
+                      indicates if an entity is only relevant to a specific
+                      Service or Region. More information about each activity is
+                      provided directly below. This explains the limited
+                      processing of Customer Data the entity is authorized to
+                      perform.
+Data Labeling: Human labelers apply
+                      labels to datasets submitted by Customer based on
+                      instructions provided by Customer. See the
+                      AI Platform Data Labeling Service page,
+                      Document AI Service page,
+                      Human-in-the-Loop AI Service page,
+                      Vertex AI data labeling page
+                      and
+                      Vertex AI Vision Service page, Generative AI App Builder Service page
+                      for more information.
+Technical
+                        Support: Customer-initiated technical
+                      support:
+in the case of Apigee as described in
+                          the Apigee Technical Support Services Guidelines.
+                          The Subprocessor only has access to Customer Data if
+                          access is enabled in the Admin Console. See
+                          the Trace Overview page for
+                          more information.
+in the case of all other Google Cloud Platform
+                          Services as described in
+                          the Google Cloud Platform Technical Support Service Guidelines.
+                          The Subprocessor does not have access to Customer Data
+                          stored or processed by the Services. The Subprocessor
+                          only has access to Customer Data if Customer
+                          explicitly elects to share Customer Data in the course
+                          of a support case (e.g. screenshots).
+Voice Transcription: Human
+                      transcribers label and transcribe audio recordings. This
+                      activity only occurs if Customer elects to opt in to the
+                      Speech-to-Text data logging program. See
+                      the Speech-to-Text Data Logging page for
+                      more information.
+Managing Hosting Environment: Monitoring,
+                      troubleshooting and ongoing management of the hosting
+                      environment that stores Customer Data. Subprocessor
+                      personnel do not require access to Customer Data to
+                      perform this activity. See the
+                      Bare Metal Solution overview page
+                      for more information.
+Entity name
+Relevant Google Cloud Platform
+                                Service(s)
+Applicable Cloud Region(s)
+Activity
+Country where processing is
+                                performed
+Registered address
+Country of registration
+Company number
+Parent company
+Accenture International Limited
+Firebase Services, Firestore
+All
+Technical Support
+Philippines and United States of America
+1 Grand Canal Square, Grand Canal Harbour,
+                                Dublin 2, D02 P820
+Ireland
+620139
+Accenture plc
+Appen Butler Hill Inc.
+Speech-to-Text
+All
+Voice Transcription
+Australia and Philippines
+12131 113th Ave NE Suite #100 Kirkland, WA
+                              98034-6944
+United States of America
+35-2238395 (Tax ID)
+Appen Butler Hill Pty Ltd
+Atos IT Solutions and Services, Inc
+Bare Metal Solution
+Brazil, Canada, Germany, Japan, The
+                                Netherlands, Singapore, South Korea,
+                                Switzerland, United Kingdom, United States of
+                                America
+Managing Hosting Environment, Technical Support
+                              
+Brazil, Canada, Germany, Japan, The
+                                Netherlands, Singapore, South Korea,
+                                Switzerland, United Kingdom, United States of
+                                America
+4851 Regent Boulevard, Irving, TX 75063
+United States of America
+13-3715291
+Atos International, B.V.
+CallPoint New Europe EAD d/b/a Telus
+                              International Europe
+All Google Cloud Platform Services
+Speech-to-Text
+All
+Technical Support
+Voice Transcription
+Bulgaria
+1000 Sofia, Triaditsa district, 1 Alabin Str.,
+                                TELUS Tower Bulgaria
+Bulgaria
+175138361
+TELUS International (U.K.) Ltd.
+Canonical Group Limited
+Anthos
+All
+Technical Support
+Brazil, Canada, Japan, Isle of Man, Taiwan,
+                              United Kingdom, United States of America
+5 New Street Square, London, EC4A 3TW
+United Kingdom
+06870835
+Canonical Limited
+Cognizant Worldwide Limited
+All Google Cloud Platform Services
+Talent Solution, Retail Search, Generative AI
+                                App Builder
+All
+Technical Support
+Data Labeling
+Argentina, India and Ireland
+India
+280 Bishopsgate, Liverpool Street, London, EC2M
+                              4AG
+United Kingdom
+7195160
+Cognizant Technology Solutions Corporation
+CData Software, Inc.
+Apigee, Application Integration, Integration
+                              Connectors
+All
+Technical Support 
+India and United States of America
+101 Europa Drive, Suite 110 Chapel Hill, NC
+                              27517
+United States of America
+47-1860136 (Tax ID)
+N/A
+EPAM Systems, Inc.
+All Google Cloud Platform Services
+All
+Technical Support
+Australia, Mexico, Poland, Switzerland and
+                              United States of America
+41 University Dr #202, Newtown, PA 18940
+United States of America
+3604150
+N/A
+EPAM Systems Japan G.K.
+All Google Cloud Platform Services
+All
+Technical Support
+Japan
+Roppongi Denki Building 7F, 6-1-20 Roppongi,
+                              Minato-Ku, Tokyo 106-0032 Japan
+Japan
+0104-03-018863
+EPAM Systems, Inc.
+Fishtech Group LLC
+User Protection Services
+All
+Technical Support
+United States of America
+13333 Holmes Road, Kansas City, MO, 64145
+United States of America
+47-4959203
+N/A
+GlobalLogic Technologies Private Limited
+                              (formerly listed as GlobalLogic Technologies
+                              Limited)
+AI Platform Data Labeling, Human-in-the-Loop AI,
+                              Vertex AI Vision, Vertex AI Platform, Generative
+                              AI App Builder
+All
+Data Labeling
+India
+6th floor, Block 1, DLF Cyber city, Hyderabad,
+                              Telangana 500019, India
+India
+U72200TG2006PTC067980
+GlobalLogic Inc.
+GlobalLogic Inc.
+AI Platform Data Labeling, Human-in-the-Loop AI,
+                              Vertex AI Vision, Vertex AI Platform
+All
+Data Labeling
+Poland and United States of America
+1741 Technology Drive, Suite 400, San Jose, CA
+                              95110
+United States of America
+54-1986789 (Tax ID)
+GlobalLogic Holdings Inc.
+HCL America Inc.
+Transfer Appliance, Google Distributed Cloud
+                                Edge Appliance, Bare Metal Solution
+All
+Technical Support
+Mexico, Poland and United States of America
+330 Potrero Avenue Sunnyvale, California,
+                              94085-4113
+United States of America
+77-0205035 (Tax ID)
+HCL Technologies Limited
+Infosys Limited
+All Google Cloud Platform Services
+All
+Technical Support
+India, Japan, Mexico and United States of
+                              America
+2400 N Glenville Dr Suite C150 Richardson TX
+                              75082 United States
+United States of America
+58-1760235 (Tax ID)
+Infosys Limited
+LXT AI Inc.
+Speech-to-Text
+All
+Voice Transcription
+Canada, India
+4312 Village Centre Court, Mississauga, Ontario,
+                              Canada, L4Z 1S2
+Canada
+892607-7
+LXT AI GLOBAL
+NetApp, Inc.
+NetApp Volumes
+All
+Technical Support
+Iceland, India, United States of America
+3060 Olsen Drive San Jose, CA 95128 United
+                                States
+United States of America
+77-0307520 (Tax ID)
+N/A
+Persistent Systems, Inc.
+Google Cloud Backup and DR
+All
+Technical Support 
+India and United States of America
+2055 Laurelwood Rd Ste 210 Santa Clara CA-95054
+                            
+United States of America
+C2362913
+Persistent Systems Limited
+Productive Playhouse, Inc.
+Speech-to-Text
+All
+Voice Transcription
+India, Thailand and United States of America
+                            
+25231 Paseo de Alicia, Suite 205, Laguna Hills,
+                              CA 92653
+United States of America
+C3185390
+N/A
+PVP Inc
+All Google Cloud Platform Services
+All
+Technical Support
+Japan
+Shibadaimon 1F, 2-1-16.Shibadaimon, Minato-ku,
+                              Tokyo, 105-0012, Japan
+Japan
+0118-01-025525
+N/A
+Sigma.AI SLU
+Speech-to-Text
+All
+Voice Transcription
+Spain
+Avenida de Burgos, 114; First floor; 28050 -
+                              Madrid
+Spain
+B85405702 (Tax ID)
+Sigma AI Group LLC
+Simba Technologies Incorporated
+BigQuery
+All
+Technical Support
+Canada
+938 West 8th Ave, Vancouver, BC, V5Z 1E5
+Canada
+BC1085262
+insightsoftware, LLC.
+Taos Mountain LLC, an IBM Company (formerly
+                              listed as Taos Mountain, LLC)
+Transfer Appliance, Google Distributed Cloud
+                              Edge Appliance, Bare Metal Solution
+All
+Technical Support
+United States of America
+121 Daggett Dr., San Jose, CA, 95134
+United States of America
+77-0441371 (Tax ID)
+IBM Corp.
+Tata Consultancy Services Limited
+Document AI, Document AI Warehouse
+All
+Technical Support, Data Labeling
+United States of America, Canada, India, Mexico
+                            
+379 Thornall Street, 4th Floor, Edison, NJ 08837
+                            
+United States of America
+98-0429806
+Tata Consultancy Services Limited
+Teleperformance Global Services Private Limited
+                            
+AI Platform Data Labeling, Generative AI App
+                              Builder
+All
+Data Labeling
+India
+Teleperformance Towers, Plot CST No. 1406 - A /
+                              28, Mindspace, Goregaon (West), Mumbai – 400104,
+                              Maharashtra, India.
+India
+U72900MH2001PTC232120
+Dutch Contact Centers (DCC) B.V.
+TELUS International AI Inc. (formerly listed as
+                              Lionbridge Global Sourcing Solutions, Inc.
+Speech-to-Text
+All
+Voice Transcription
+Finland, India and Ireland
+2251 South Decatur Boulevard, Las Vegas, NV
+                              89102
+United States of America
+26-3123158(Tax ID)
+TELUS International AI Acquisition Inc.
+Telus International (CDA) Inc.
+All Google Cloud Platform Services
+All
+Technical Support
+Canada
+7th Floor, 510 West Georgia Street, Vancouver,
+                              BC V6B 0M3
+Canada
+BC1059858
+TELUS Communications Inc.
+TELUS International Services Limited
+All Google Cloud Platform Services
+All
+Technical Support
+El Salvador, Guatemala and the Philippines
+Voxpro House, Point Village, East Wall Road,
+                                Dublin 1, Ireland
+Ireland
+669282
+TELUS International (Cda) Inc.
+UJET, Inc.
+CCAI Platform
+All
+Technical Support
+United States of America 
+201 3rd Street, Suite 950 San Francisco, CA
+                              94103
+United States of America
+5783007
+N/A
+Webhelp Holding Germany GmbH
+All Google Cloud Platform Services
+All
+Technical Support
+Israel, Japan, Romania, Spain, Peru and United
+                              States of America
+Tullnaustrasse 20, 90402, Nuremberg
+Germany
+HRB 37006
+Webhelp SAS
+Webhelp Malaysia Sdn. Bhd (formerly listed as
+                              Sellbytel Services Malaysia Sdn. Bhd.) 
+All Google Cloud Platform Services
+All
+Technical Support
+Malaysia
+Menara Exchange 106, Level 6, Lingkaran TRX,
+                              Jalan Tun Razak Exchange 55188, Kuala Lumpur,
+                              Malaysia. 
+Malaysia
+976878-T
+Webhelp Holding Germany GmbH
+Affiliates of Third-Party Subprocessors
+Accenture International
+                                Limited Affiliates
+Entity name
+Relevant Google Cloud Platform
+                                Service(s)
+Applicable Cloud Region(s)
+Activity
+Country where processing is
+                                performed
+Registered address
+Country of registration
+Company number
+Parent company
+Accenture, Inc.
+Firebase Services, Firestore
+All
+Technical Support
+Philippines
+7th Floor, Robinsons Cybergate 1, Pioneer St.,
+                              Mandaluyong City
+Philippines
+ASO91-199207
+Accenture plc
+Accenture LLP
+Firebase Services, Firestore
+All
+Technical Support
+United States of America
+350 S. Northwest Highway, #300, Park Ridge,
+                              Cook, IL, 60068
+United States of America
+000-622
+Accenture plc
+Appen Butler Hill Inc.
+                                Affiliates
+Entity name
+Relevant Google Cloud Platform
+                                Service(s)
+Applicable Cloud Region(s)
+Activity
+Country where processing is
+                                performed
+Registered address
+Country of registration
+Company number
+Parent company
+Appen Butler Hill Pty Ltd
+Speech-to-Text
+All
+Voice Transcription
+Australia
+9 Help St, Chatswood NSW 2067 Australia
+Australia
+088 829 556
+Appen Limited
+Appen Services Philippines
+Speech-to-Text
+All
+Voice Transcription
+Philippines
+BPO Tower One Suntech iPark Advincula Ave.,
+                              Lancaster New City Alapan II-B Imus City, Cavite
+                              4103, Philippines
+Philippines
+FS201729470
+Appen Butler Hill Pty Ltd
+Atos IT Solutions and Services, Inc  Affiliates
+Entity name
+Relevant Google Cloud Platform
+                                Service(s)
+Applicable Cloud Region(s)
+Activity
+Country where processing is
+                                performed
+Registered address
+Country of registration
+Company number
+Parent company
+BULL LTDA – LE 960833
+Bare Metal Solution
+Brazil
+Managing Hosting Environment, Technical Support
+                              
+Brazil
+Avenida das Nações Unidas, 12901, Torre Norte
+                                19° - Brooklin Novo - São Paulo - SP, CEP:
+                                04578-910 – Brasil
+Brazil
+CNPJ : 21.649.280/0001-33
+Atos International, B.V.
+Atos Inc.
+Bare Metal Solution
+Canada
+Managing Hosting Environment, Technical Support
+                              
+Canada
+3 Church Street City, Suite 600-603, Toronto,
+                                Ontario, Canada M5E 1A
+Canada
+818558058RT0001
+Atos International, B.V.
+Atos Information Technology GmbH
+Bare Metal Solution
+Germany
+Managing Hosting Environment, Technical Support
+                              
+Germany
+Otto-Hahn-Ring 6, 81739 München
+Germany
+DE147861238
+N/A
+Atos KK
+Bare Metal Solution
+Japan
+Managing Hosting Environment, Technical Support
+                              
+Japan
+6F DaisanToranomon Denki Building   
+                                             
+                                             
+                                          1-2-20
+                                Minato-ku Tokyo
+Japan
+7011101037171
+Eviden (Singapore) Pte Ltd
+ATOS NEDERLAND BV
+Bare Metal Solution
+The Netherlands
+Managing Hosting Environment, Technical Support
+                              
+The Netherlands
+Burgemeester Rijnderslaan 30, 1185 MC
+                                Amstelveen
+The Netherlands
+NL8049.05.587.B01
+Atos International, B.V.
+Atos Information Technology (SG) Pte Ltd
+Bare Metal Solution
+Singapore
+Managing Hosting Environment, Technical Support
+                              
+Singapore
+988 TOA PAYOH NORTH #08-01,  Singapore ,
+                                319002
+Singapore
+M2-0052033-5
+Atos International, B.V.
+Atos Information Technology (SG) Pte Ltd (Korea
+                                Branch)
+Bare Metal Solution
+South Korea
+Managing Hosting Environment, Technical Support
+                              
+South Korea
+#904, 9th Floor, 94 Sambong-ro, Jongno-gu Seoul
+                                03158, Korea
+South Korea
+104-84-08925
+Atos Information Technology (SG) Pte Ltd
+Atos AG
+Bare Metal Solution
+Switzerland
+Managing Hosting Environment, Technical Support
+                              
+Switzerland
+Freilagerstrasse 28, 8047 Zürich Switzerland
+                              
+Switzerland
+CHE-106.105.537 MWST
+Atos International, B.V.
+Atos IT Services UK Ltd
+Bare Metal Solution
+United Kingdom
+Managing Hosting Environment, Technical Support
+                              
+United Kingdom
+Second Floor Mid City Place, London, 71 High
+                                Holborn, WC1V 6EA
+United Kingdom
+GB232327983
+N/A
+Canonical Group Limited
+                                  Affiliates
+Entity name
+Relevant Google Cloud Platform
+                                Service(s)
+Applicable Cloud Region(s)
+Activity
+Country where processing is
+                                performed
+Registered address
+Country of registration
+Company number
+Parent company
+Canonical Holdings Limited
+Anthos
+All
+Technical Support
+Isle of Man
+12-14 Finch Road, Douglas, IM1 2PT, Isle of Man
+                            
+Isle of Man
+014840V
+Canonical Group Limited
+Canonical Limited
+Anthos
+All
+Technical Support
+Isle of Man
+12-14 Finch Road, Douglas, IM1 2PT, Isle of Man
+                            
+Isle of Man
+014839V
+Canonical Holdings Limited
+Canonical Services Limited
+Anthos
+All
+Technical Support
+Isle of Man
+12-14 Finch Road, Douglas, IM1 2PT, Isle of Man
+                            
+Isle of Man
+003719V
+Canonical Holdings Limited
+Canonical UK Limited
+Anthos
+All
+Technical Support
+United Kingdom
+5th Floor, Blue Fin Building 110 Southwark
+                              Street London SE1 0SU United Kingdom
+United Kingdom
+05055134
+Canonical Group Limited
+Canonical USA Inc.
+Anthos
+All
+Technical Support
+United States of America
+9 E. Loockerman Street, Suite 311, Dover, DE
+                              19901
+United States of America
+26-1194348 (Tax ID)
+Canonical Group Limited
+Canonical Group Limited Taiwan
+Anthos
+All
+Technical Support
+Taiwan
+Room D, 46F, No. 7, Xin Yi Rd., Sec.5, Taipei
+                              101, 11049 Taiwan
+Taiwan
+24798961
+Canonical Group Limited
+Canonical Japan KK
+Anthos
+All
+Technical Support
+Japan
+c/o Mazars Japan K.K., ATT New Tower 11F,
+                              2-11-7, Akasaka, Minato-ku, Tokyo, Japan
+Japan
+2010401125558
+Canonical Group Limited
+Canonical Canada Ltd
+Anthos
+All
+Technical Support
+Canada
+1000 De la Gauchetière Street West, Suite 2500,
+                              Montreal, Quebec H3B 0A2
+Canada
+1166351081
+Canonical Group Limited
+Canonical Brasil Serviços de Software Ltda.
+Anthos
+All
+Technical Support
+Brazil
+Avenida Marquês de São Vicente, 230, Conjunto
+                              1218, sala 05, Barra Funda, Zip Code 01139-000 São
+                              Paulo
+Brazil
+CNPJ: 39.993.703/0001-01
+Canonical Group Limited
+CData Software Inc. Affiliate
+Entity name
+Relevant Google Cloud Platform Service(s)
+Applicable Cloud Region(s)
+Activity
+Country where processing is performed
+Registered address
+ Country of registration
+Company number 
+Parent company
+CData Software India Private Limited
+Apigee, Application Integration,
+                                Integration Connectors 
+All
+Technical Support
+India
+A09, Pride Crosswinds, Pride Vatika Layout,
+                                Bukkasagara Village, Bannerghatta Post,
+                                Bangalore, Karnataka, India, 560083
+India
+U72900KA2020PTC142412
+CData Software, Inc. 
+Cognizant Worldwide Limited
+                                  Affiliates
+Entity name
+Relevant Google Cloud Platform
+                                Service(s)
+Applicable Cloud Region(s)
+Activity
+Country where processing is
+                                performed
+Registered address
+Country of registration
+Company number
+Parent company
+Cognizant Technology Solutions Argentina S.R.L.
+                            
+All Google Cloud Platform Services
+All
+Technical Support
+Argentina
+Tucumán 3720, C1189 AAV, Buenos Aires, Argentina
+                            
+Argentina
+1780740
+Cognizant Technology Solutions Corporation
+Cognizant Technology Solutions India Private
+                              Limited
+All Google Cloud Platform Services
+Talent Solution, Retail Search, Generative AI
+                                App Builder
+All
+Technical Support
+Data Labeling
+India
+No. 5/535, Old Mahabalipuram Road, Okkiyam
+                              Thoraipakkam Chennai - 600 097, Tamil Nadu
+India
+U72300TN1994PTC026590
+Cognizant Technology Solutions Corporation
+Cognizant Technology Solutions Ireland Limited
+                            
+All Google Cloud Platform Services
+All
+Technical Support
+Ireland
+39/40 Upper Mount Street, Dublin 2, Ireland
+Ireland
+358105
+Cognizant Technology Solutions Corporation
+EPAM Systems, Inc.
+                                Affiliates
+Entity name
+Relevant Google Cloud Platform
+                                Service(s)
+Applicable Cloud Region(s)
+Activity
+Country where processing is
+                                performed
+Registered address
+Country of registration
+Company number
+Parent company
+EPAM Systems (Australia) Pty Ltd
+All Google Cloud Platform Services
+All
+Technical Support
+Australia
+Level 19, 68 Pitt Street, Sydney, NSW, 2000,
+                              Australia
+Australia
+166668293
+EPAM Systems, Inc.
+EPAM Systems Mexico S. de R.L. de C.V.
+All Google Cloud Platform Services
+All
+Technical Support
+Mexico
+Av. Americas 1254, 20th and 21st floors, Country
+                              Club, Guadalajara, Jalisco, Mexico 44610
+Mexico
+ESM1503137K9 (Tax ID)
+EPAM Systems, Inc.
+EPAM Systems (Poland) sp. z o.o.
+All Google Cloud Platform Services
+All
+Technical Support
+Poland
+ul. Opolska 114, Kraków, MAL 31-323, Poland
+Poland
+KRS 0000390124
+EPAM Systems, Inc.
+EPAM Systems (Switzerland) GmbH
+All Google Cloud Platform Services
+All
+Technical Support
+Switzerland
+Boulevard Lilienthal 2, Glattpark (Opfikon)
+                              8152, Switzerland
+Switzerland
+CHE-114.898.319
+EPAM Systems, Inc.
+GlobalLogic Inc.
+                                Affiliates
+Entity name
+Relevant Google Cloud Platform
+                                Service(s)
+Applicable Cloud Region(s)
+Activity
+Country where processing is
+                                performed
+Registered address
+Country of registration
+Company number
+Parent company
+GlobalLogic Poland Sp z o.o.
+AI Platform Data Labeling, Human-in-the-Loop AI,
+                              Vertex AI Vision, Vertex AI Platform
+All
+Data Labeling
+Poland
+Strzegomska 48A, 53-611,Wroclaw,Poland
+Poland
+PL894-29-24-978 (Tax ID)
+GlobalLogic Inc.
+HCL America Inc.
+                                Affiliate
+Entity name
+Relevant Google Cloud Platform
+                                Service(s)
+Applicable Cloud Region(s)
+Activity
+Country where processing is
+                                performed
+Registered address
+Country of registration
+Company number
+Parent company
+HCL Poland SP. Z.o.o.
+Transfer Appliance, Google Distributed Cloud
+                              Edge Appliance, Bare Metal Solution
+All
+Technical Support
+Poland
+Opolska Street no. 112, Krakow, Poland
+Poland
+6762347188 (Tax ID)
+HCL Technologies Austria GmbH
+HCL TECHNOLOGIES MÉXICO S. DE R.L. DE C.V.
+Transfer Appliance, Google Distributed Cloud
+                              Edge Appliance
+All
+Technical Support
+Mexico
+Boulevard Puerta de Hierro 5153, Piso 25, Fracc.
+                              Puerta de Hierro, C.P. 45116, Zapopan, Jalisco,
+                              México
+Mexico
+HTM081021S51
+HCL Technologies Limited
+Infosys Limited Affiliates
+Entity name
+Relevant Service(s)
+Applicable Cloud Region(s)
+Activity
+Country where processing is
+                                performed
+Registered address
+Country of registration
+Company number
+Parent company
+Infosys Limited
+All Google Cloud Platform Services
+All
+Technical Support
+Japan
+1-6-3 Roppongi, Minato-ku, Tokyo 106-0032 Izumi
+                              Garden Wing
+Japan
+470015006268
+Infosys Limited
+Infosys Limited
+All Google Cloud Platform Services
+All
+Technical Support
+India
+44, Infosys Avenue Electronics City, Hosur Road,
+                              Bengaluru 560 100, India
+India
+AAACI4798L
+Infosys Limited
+Infosys Technologies S. de R. L. de C. V
+All Google Cloud Platform Services
+All
+Technical Support
+Mexico
+Boulevard Díaz Ordaz # 130, Corporativo Santa
+                                María Piso 18
+Monterrey, Nuevo León,C.P. 64650, México
+Mexico
+ITE0706203X7 (Tax ID)
+Infosys Limited
+LXT AI Inc. Affiliates
+Entity name
+Relevant Service(s)
+Applicable Cloud Region(s)
+Activity
+Country where processing is performed
+Registered address
+ Country of registration
+Company number 
+Parent company
+LXT AI India Private Limited
+Speech-to-Text
+All
+Voice Transcription
+India
+F-12, THIRD FLOOR, JAGATPURI, PARWANA ROAD,
+                                Shahdara, Shahdara, Shahdara-110051, Delhi
+India
+U62013DL2023FTC414350
+LXT USA, Inc.
+NetApp, Inc.  Affiliates
+Entity name
+Relevant Service(s)
+Applicable Cloud Region(s)
+Activity
+Country where processing is performed
+Registered address
+ Country of registration
+Company number 
+Parent company
+NetApp Iceland ehf
+NetApp Volumes
+All
+Technical Support
+Iceland
+Kringlan 5, 103 Reykjavik, Iceland
+Iceland
+580210-0900
+NetApp, Inc.
+NetApp India Private Limited
+NetApp Volumes
+All
+Technical Support
+India
+NetApp Bangalore Campus ITPL Main Road, Hoodi,
+                                Bengaluru 560048 India
+India
+U72200KA2000PTC03230
+NetApp, Inc.
+Persistent Systems, Inc. Affiliate
+Entity name
+Relevant Service(s)
+Applicable Cloud Region(s)
+Activity
+Country where processing is performed
+Registered address
+ Country of registration
+Company number 
+Parent company
+Persistent Systems Limited
+Google Cloud Backup and DR
+All
+Technical Support 
+India
+Bhageerath, 402 E Senapati Bapat Road
+                                Pune-411016 Maharashtra, India.
+India
+U72300MH1990PLC056696
+N/A
+Productive Playhouse, Inc. Affiliates
+Entity name
+Relevant Google Cloud Platform
+                                Service(s)
+Applicable Cloud Region(s)
+Activity
+Country where processing is performed
+Registered address
+ Country of registration
+Company number 
+Parent company
+Productive Playhouse India Private Limited
+Speech-to-Text
+All
+Voice Transcription
+India
+274/4, Anna Private Industrial Estate,
+                                Vilankurichi Road, Coimbatore, Tamil Nadu 641035
+                              
+India
+U80902TZ2021FTC037635
+Productive Playhouse Inc.
+Productive Playhouse (Thailand) Ltd.
+Speech-to-Text
+All
+Voice Transcription
+Thailand
+281/19-23 NST One Building, Silom Rd. Bang Rak,
+                                Bangkok 10500
+Thailand
+0105564141856
+Productive Playhouse Inc.
+Sigma.AI SLU Affiliate
+Entity name
+Relevant Google Cloud Platform Service(s)
+Applicable Cloud Region(s)
+Activity
+Country where processing is performed
+Registered address
+ Country of registration
+Company number 
+Parent company
+Sigma.AI Data Ltd.
+Speech-to-Text
+All
+Voice Transcription
+United Kingdom 
+26-28 Hammersmith Grove, W6 7HA, London,
+                                Greater London (UK)
+United Kingdom
+14202863
+Sigma AI Group LLC
+Tata Consultancy Services Limited Affiliates
+Entity name
+Relevant Google Cloud Platform Service(s)
+Applicable Cloud Region(s)
+Activity
+Country where processing is performed
+Registered address
+ Country of registration
+Company number 
+Parent company
+Tata Consultancy Services Canada Inc
+Document AI, Document AI Warehouse
+All
+Technical Support, Data Labeling
+Canada 
+400 University Avenue, 25th Floor, Toronto,
+                                Ontario M5G 1S5, Canada
+Canada
+767594-1
+Tata Consultancy Services Limited
+Tata Consultancy Services de Mexico SA de CV
+                              
+Document AI
+All
+Technical Support, Data Labeling
+Mexico
+Av. Eugenia 197 piso 6A - Colonia Narvarte
+                                Poniente - Mexico City - CP 03020 - Mexico
+Mexico
+TCS030402UB7 (Tax ID)
+Tata Consultancy Services Limited
+Tata Consultancy Services Limited
+Document AI, Document AI Warehouse
+All
+Technical Support, Data Labeling
+India
+9th Floor, Nirmal Building, Nariman Point,
+                                Mumbai - 400021
+India
+L22210MH1995PLC084781
+N/A
+TELUS International AI Inc.
+                                Affiliates
+Entity name
+Relevant Google Cloud Platform
+                                Service(s)
+Applicable Cloud Region(s)
+Activity
+Country where processing is
+                                performed
+Registered address
+Country of registration
+Company number
+Parent company
+Lb Ai Finland Oy
+Speech-to-Text
+All
+Voice Transcription
+Finland
+Visiokatu 1 33720 Tampere, Finland
+Finland
+3170555-6
+TELUS International AI Inc.
+Xavient Infotech Private Limited
+Speech-to-Text
+All
+Voice Transcription
+India
+514 DLF Towers B Jasola New Delhi South Delhi –
+                              Delhi 110025, India
+India
+U72300DL2010PTC197821
+TELUS International AI Inc.
+Voxpro Limited
+Speech-to-Text
+All
+Voice Transcription
+Ireland
+Voxpro House, Unit 6 Riverview Business Park,
+                                Blackrock, Co Cork
+Ireland
+390162
+TELUS International Ireland Outsourcing
+                                Services Limited 
+TELUS International Services
+                                Limited Affiliates
+Entity name
+Relevant Google Cloud Platform
+                                Service(s)
+Applicable Cloud Region(s)
+Activity
+Country where processing is
+                                performed
+Registered address
+Country of registration
+Company number
+Parent company
+TELUS International Philippines, Inc.
+All Google Cloud Platform Services
+All
+Technical Support
+Philippines
+31. Floor Discovery Centre, 25 ADB Ave. Ortigas
+                              Center, Pasig City, Philippines
+Philippines
+A200105382
+Ambergris Solutions, Inc.
+Transactel El Salvador, S.A. de C.V.
+All Google Cloud Platform Services
+All
+Technical Support
+El Salvador
+Calle Chiltiupan y 17 Avenida Norte; Torre
+                              Transactel; Plaza Merliot; La Libertad; Santa
+                              Tecla; El Salvador
+El Salvador
+0614-310506-103-7 (Tax ID)
+TELUS International Services Limited
+Transactel, Sociedad Anonima
+All Google Cloud Platform Services
+All
+Technical Support
+Guatemala
+18 calle 25-86 zona 10 Edificio Torre Pradera
+                              nivel 2. Guatemala, Guatemala
+Guatemala
+4017225-2 (Tax ID)
+TELUS International Services Limited
+Webhelp Holding Germany GmbH
+                                Affiliates
+Entity name
+Relevant Google Cloud Platform
+                                Service(s)
+Applicable Cloud Region(s)
+Activity
+Country where processing is
+                                performed
+Registered address
+Country of registration
+Company number
+Parent company
+Webhelp Israel LTD
+All Google Cloud Platform Services
+All
+Technical Support
+Israel
+Herzog Tower, 6 Yitzhak Sadeh St., Tel Aviv
+                              6777506, Israel
+Israel
+516485745
+Webhelp SAS
+Webhelp Japan KK
+All Google Cloud Platform Services
+All
+Technical Support
+Japan
+Tokyo Building Club, 11F, 3-2-6 Kasumigaseki,
+                              Chiyudo-ku, Tokyo
+Japan
+0100-01-207779
+Webhelp SAS
+Webhelp SAC Peru
+All Google Cloud Platform Services
+All
+Technical Support
+Peru
+Calle Santa Inés 115, Urbanización Industrial
+                              Santa Rosa, distrito Ate, 15023, Perú
+Peru
+20606433329
+Webhelp Spain Holding S.l
+WEBHELP ROMANIA SRL
+All Google Cloud Platform Services
+All
+Technical Support
+Romania
+Str. Dr. Iacob Felix, nr.63-69, et.2, sector 1,
+                              București
+Romania
+J40/14080/04.09.2006
+Webhelp SAS
+Webhelp Spain Business Process Outsourcing,
+                              S.L.U. (formerly known as SELLBYTEL GROUP S.L.)
+                            
+All Google Cloud Platform Services
+All
+Technical Support
+Spain
+Avenida Diagonal 197, 08018 Barcelona
+Spain
+B59829382
+Webhelp Spain Holding S.l.
+Webhelp Americas LLC
+All Google Cloud Platform Services
+All
+Technical Support
+United States of America
+80 SW 8th Street, Suite 2900, Miami, FL 33130
+                            
+United States of America
+83-1454340 (Tax ID)
+Webhelp USA Group Inc.
+Google engages the Google Affiliates in the table below
+                      to perform limited activities in connection with the
+                      Google Cloud Platform Services. The table shows what
+                      activity each entity performs and indicates if an entity
+                      is only relevant to a specific Service or Region. More
+                      information about each activity is provided directly
+                      below. This explains the limited processing of Customer
+                      Data the entity is authorized to perform.
+Data Center Operations: Operates and
+                      maintains the Google data center and equipment that stores
+                      Customer Data. Subprocessor personnel do not require
+                      access to Customer Data to perform this activity.
+Service Maintenance: Software and
+                      systems engineering, maintenance and troubleshooting. In
+                      the course of performing this activity the Subprocessor
+                      may require limited, authorized access to Customer Data
+                      e.g. to remediate technical issues.
+Technical
+                        Support: Customer-initiated technical
+                      support:
+in the case of Apigee as described in
+                          the Apigee Technical Support Services Guidelines
+in the case of all other Google Cloud Platform
+                          Services as described in
+                          the Google Cloud Platform Technical Support Service Guidelines
+In the course of performing this activity, the
+                      Subprocessor may require limited, authorized access to
+                      Customer Data to respond to Customer-initiated requests.
+                    
+The ultimate parent company for all Google Group
+                      Subprocessors listed below is Google LLC, which is itself
+                      a subsidiary of Alphabet Inc.
+Entity name
+Relevant Google Cloud Platform
+                                Service(s)
+Applicable Cloud Region(s)
+Activity
+Country where processing is
+                                performed
+Registered address
+Country of registration
+Company number
+Google Argentina S.R.L.
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+Argentina
+Alicia M. De Justo 350, 2º Floor Dique IV,
+                              Puerto Madero Buenos Aires, Argentina, C1107AAH
+                            
+Argentina
+IGJ 1766627
+Google Australia Pty Ltd.
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+Australia
+Tower One - International Towers Sydney Level
+                              46, 100 Barangaroo Avenue Barangaroo, Australia,
+                              NSW 2000
+Australia
+102 417 032
+Google Cloud Australia Pty Ltd
+All Google Cloud Platform Services
+Australia
+Data Center Operations
+Australia
+Tower One - International Towers Sydney Level
+                              46, 100 Barangaroo Avenue Barangaroo, Australia,
+                              NSW 2000
+Australia
+610 798 466
+Google Austria GmbH
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+Austria
+Graben 19/9 Vienna, Austria, 1010
+Austria
+FN 265694b
+Crystal Computing SRL
+All Google Cloud Platform Services
+Belgium
+All
+Data Center Operations
+Service Maintenance
+Technical Support
+Belgium
+Zone Industrielle de Ghlin Baudour Sud Rue de
+                              Ghlin 100 Baudour, Belgium, 7331
+Belgium
+0883.073.944
+Google Belgium NV
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+Belgium
+Etterbeekstesteenweg 180 Brussels, Belgium, 1040
+                            
+Belgium
+878 065 378
+Google Brasil Internet LTDA.
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+Brazil
+Avenida Brigadeiro Faria Lima nº 3.477 17º, 18º,
+                              19º e 20º andares Torre Sul Itaim Bibi, São Paulo,
+                              Estado de São Paulo, Brazil, Cep 04538-133
+Brazil
+35.219.399.204
+Google Cloud Brasil Computação e Serviços de
+                              Dados Ltda.
+All Google Cloud Platform Services
+Brazil
+All
+Data Center Operations
+Service Maintenance
+Technical Support
+Brazil
+Avenida Brigadeiro Faria Lima 3729, 4o e 5o
+                              andares Itaim Bibi, São Paulo, SP, Brazil, CEP
+                              04538-905
+Brazil
+35.229.923.517
+Google Canada Corporation
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+Canada
+1741 Lower Street, Suite 600 Halifax, CAN_NS,
+                              Canada, B3J 0J2
+Canada
+33336763323461
+Google Cloud Canada Corporation
+All Google Cloud Platform Services
+Canada
+All
+Data Center Operations
+Service Maintenance
+Technical Support
+Canada
+1741 Lower Street, Suite 600 Halifax, CAN_NS,
+                              Canada, B3J 0J2
+Canada
+3300181
+Google Chile Limitada
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+Chile
+Avda. Andres Bello 2711 Suite 1701 Las Condes,
+                              Santiago, Chile
+Chile
+76.714.140-8 (Tax ID)
+Inversiones y Servicios Dataluna Limitada
+All Google Cloud Platform Services
+Chile
+Data Center Operations
+Chile
+Avda. Andres Bello 2711 Suite 1701 Las Condes,
+                              Santiago, Chile
+Chile
+76.117.026-0 (Tax ID)
+Google Denmark ApS
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+Denmark
+Sankt Petri Passage 5, 2 København K, Denmark,
+                              1165
+Denmark
+28866984
+Google Finland Oy
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+Finland
+Mannerheimintie 12 B Helsinki, Finland, 00100
+                            
+Finland
+0907346-8
+Tuike Finland Oy
+All Google Cloud Platform Services
+Finland
+Data Center Operations
+Finland
+Ensontie 1 Hamina, Finland, 49420
+Finland
+2206071-7
+Google Cloud France SARL
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+France
+8 Rue de Londres Paris, France, 75009
+France
+881 721 583
+Google France SARL
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+France
+8 Rue de Londres Paris, France, 75009
+France
+443 061 841
+Tricolore Computing SARL
+All Google Cloud Platform Services
+France
+Data Center Operations
+France
+8 Rue de Londres Paris, France, 75009
+France
+881 735 245
+Google Germany GmbH
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+Germany
+ABC-Strasse 19 Hamburg, Germany, 20354
+Germany
+HRB 86891
+Redtec Computing GmbH
+All Google Cloud Platform Services
+Germany
+Data Center Operations
+Germany
+ABC-Strasse 19 Hamburg, Germany, 20354
+Germany
+HRB 141935
+Allied Trade Holdings Limited
+All Google Cloud Platform Services
+Hong Kong
+Data Center Operations
+Hong Kong
+14th Floor, One Taikoo Place 979 King's Road
+                              Quarry Bay Hong Kong, Hong Kong
+Hong Kong
+1432445
+GOC Services India Private Limited
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+India
+Meenakshi Technova Survey No.116,117,119,128/AA,
+                              129, Road No.2, Financial District, Nanakramguda
+                              Serilingampally Mandal Hyderabad (TG), India,
+                              500032
+India
+U72900TG2019FTC129995
+Google Cloud India Private Limited
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+India
+5th Floor, DLF Centre, Block-124 Narindra
+                                Place, Sansad Marg New Delhi 110001 India
+India
+U72900DL2016FTC376206
+Google India Pvt. Ltd.
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+India
+No. 3, RMZ Infinity – Tower E Old Madras Road
+                              4th & 5th Floors Bangalore, India, 560 016
+                            
+India
+U72900KA2003PTC033028
+Google IT Services India Private Limited
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+India
+Bagmane Constellation Business Park 11th-12th
+                                Floor, Carina-West Tower Bangalore 560048 India
+                              
+India
+U72900KA2020FTC131867
+Raiden Infotech India Private Limited
+All Google Cloud Platform Services
+India
+All
+Data Center Operations
+Service Maintenance
+Technical Support
+India
+Unit No. 9, Corporate Park II, 9th Floor VN
+                                Purav Marg Regus Chembur, Maharashtra Mumbai,
+                                India, 400071
+India
+U72502MH2020FTC346777
+PT Google Cloud Indonesia
+All Google Cloud Platform Services
+Indonesia
+All
+Data Center Operations
+Service Maintenance
+Technical Support
+Indonesia
+45th Floor, Pacific Century Place SCBD, Lot 10,
+                              Jl. Jenderal Sudirman Kavling 52-53 Jakarta,
+                              Indonesia
+Indonesia
+8120216211091
+Google Cloud EMEA Limited
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+Ireland
+70 Sir John Rogersons Quay Dublin , Ireland, 2
+                            
+Ireland
+660412
+Google Ireland Ltd.
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+Ireland
+Gordon House, Barrow Street Dublin, Ireland, 4
+                            
+Ireland
+368047
+Google Israel Ltd.
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+Israel
+Electra Tower 98 Yigal Alon Street Tel Aviv,
+                              Israel, 6789141
+Israel
+513695478
+Google Cloud Israel Ltd.
+All Google Cloud Platform Services
+Israel
+Data Center Operations
+Israel
+Electra Tower 98 Yigal Alon Street Tel Aviv,
+                                Israel, 6789141
+Israel
+516371432
+Google Italy S.r.l.
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+Italy
+Via Federico Confalonieri 4, 20124, Milan, Italy
+                            
+Italy
+3660670963
+Google Cloud Italy S.r.l.
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+Italy
+Via Federico Confalonieri 4, 20124, Milan,
+                                Italy
+Italy
+MI- 2590058
+Turquoise Computing S.r.l.
+All Google Cloud Platform Services
+Italy
+Data Center Operations
+Italy
+Via Federico Confalonieri 4, 20124, Milan,
+                                Italy
+Italy
+MI- 2590068
+Google Cloud Japan G.K.
+All Google Cloud Platform Services
+Japan
+All
+Data Center Operations
+Service Maintenance
+Technical Support
+Japan
+Roppongi Hills Mori Tower, 10-1 Roppongi
+                              6-chome, Minato-ku Tokyo, Japan, 106-6126
+Japan
+0100-03-022051
+Google Japan G.K.
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+Japan
+Shibuya Stream, 21-3, Shibuya 3-chome,
+                              Shibuya-ku Tokyo, Japan, 150-0002
+Japan
+0104-01-089234
+Google Cloud Arabia Limited
+All Google Cloud Platform Services
+Saudi Arabia
+Data Center Operations
+Saudi Arabia
+Kingdom Centre 28th Floor PO Box 230888 Riyadh
+                                Saudi Arabia
+Saudi Arabia
+1010734675
+Google Cloud Korea LLC
+All Google Cloud Platform Services
+South Korea
+All
+Data Center Operations
+Service Maintenance
+Technical Support
+South Korea
+20th Floor Yeoksam-dong Gangnam Finance Center
+                              152 Teheran-ro, Gangnam-gu Seoul, South Korea
+South Korea
+110114 - 0217817
+Google Korea, LLC.
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+South Korea
+22nd Floor Gangnam Finance Center 152
+                              Teheran-ro, Gangnam-gu Seoul, Korea, 06236
+South Korea
+110114-0047545
+Google Malaysia Sdn. Bhd.
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+Malaysia
+Level 21, Suite 21.01, The Gardens South Tower
+                              Mid Valley City, Lingkaran Syed Putra Kuala
+                              Lumpur, Malaysia, 59200
+Malaysia
+822412-M
+Google Netherlands B.V.
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+Netherlands
+Claude Debussylaan 34, 15th Floor Amsterdam,
+                              Netherlands, 1082 MD
+Netherlands
+34198589
+Green Box Computing B.V.
+All Google Cloud Platform Services
+Netherlands
+Data Center Operations
+Netherlands
+Oostpolder 4 Eemshaven, Netherlands, 9979 XT
+                            
+Netherlands
+58465197
+Google New Zealand Limited
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+New Zealand
+Level 27, Lumley Centre 88 Shortland Street
+                              Auckland, New Zealand
+New Zealand
+1786635
+GOC Philippines, Inc.
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+Philippines
+Unit 25-B Net Lima, 5th Avenue Corner 26th
+                              Street, Fort Bonifacio, Taguig City, NCR, Fourth
+                              District Taguig, Philippines
+Philippines
+CS201901344
+Google Cloud Poland Sp. z o.o.
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+Poland
+ul. Emilii Plater no. 53 Warsaw, Poland, 00-113
+                            
+Poland
+0000840059
+Google Poland SP. z.o.o.
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+Poland
+ul. Emilii Plater no. 53 Warsaw, Poland, 00-113
+                            
+Poland
+0000240611
+Topaz Computing Sp. z o.o.
+All Google Cloud Platform Services
+Poland
+Data Center Operations
+Poland
+ul. Emilii Plater no. 53 Warsaw, Poland, 00-113
+                            
+Poland
+384963399
+GGLE Portugal Lda
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+Portugal
+Rua Duque de Palmela 37 Level 4 Lisbon ,
+                              Portugal, 1250-097
+Portugal
+508099978
+Google Cloud Qatar QFZ LLC
+All Google Cloud Platform Services
+Qatar
+Data Center Operations
+Qatar
+Coworking space 34 Business and Innovation Park
+                                Ras Bufontas Free Zone Doha, Qatar
+Qatar
+001
+Google Asia Pacific Pte Ltd.
+All Google Cloud Platform Services
+Singapore
+All
+Data Center Operations
+Service Maintenance
+Technical Support
+Singapore
+8 Marina Boulevard #05-02 Marina Bay Financial
+                              Centre Singapore, Singapore, 018981
+Singapore
+200817984R
+Google Slovakia, s.r.o.
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+Slovakia
+Karadzicova 8/A 821 08 Bratislava, Slovakia
+Slovakia
+45 947 597
+Google Cloud South Africa (Pty) Limited
+All Google Cloud Platform Services
+All
+Data Center Operations
+South Africa
+Ballyoaks Office Park 35 Ballyclare Drive,
+                                Building E Bryanston Johannesburrg Gauteng, 2191
+                                South Africa
+South Africa
+2017/538394/07
+Google Spain S.L.
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+Spain
+Plaza Pablo Ruiz Picasso 1 Torre Picasso, Planta
+                              26 Madrid, Spain, 28020
+Spain
+B-63272603
+Yeso Computing, S.L.U.
+All Google Cloud Platform Services
+Spain
+Data Center Operations
+Spain
+Plaza Pablo Ruiz Picasso 1 Torre Picasso, Planta
+                              26 Madrid, Spain, 28020
+Spain
+B01917020
+Google Sweden AB
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+Sweden
+Kungsbron 2 Stockholm, Sweden, 111 22
+Sweden
+556656 – 6880
+Citrine Computing GmbH
+All Google Cloud Platform Services
+Switzerland
+Data Center Operations
+Switzerland
+Brandschenkestrasse 110 Zurich, Switzerland,
+                                8002
+Switzerland
+CHE-238.548.365
+Google Switzerland GmbH.
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+Switzerland
+Brandschenkestrasse 110 Zurich, Switzerland,
+                              8002
+Switzerland
+CHE-110.474.423
+Charter Investments Limited
+All Google Cloud Platform Services
+Taiwan
+Data Center Operations
+Taiwan
+15/F, 168 Dunhua North Road, Songshan District
+                              Taipei, Taiwan, 105
+Taiwan
+53104757
+Google Taiwan Limited
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+Taiwan
+15F., No. 168, Dunhua N. Rd. Songshan Dist.
+                              Taipei City, Taiwan R.O.C., 105
+Taiwan
+54670929
+Global Infrastructure UK Limited
+All Google Cloud Platform Services
+United Kingdom
+Data Center Operations
+United Kingdom
+5 New Street Square London, United Kingdom, EC4A
+                              3TW
+United Kingdom
+10031299
+Google UK Ltd.
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+United Kingdom
+Belgrave House, 76 Buckingham Palace Road
+                              London, United Kingdom, SW1W 9TQ
+United Kingdom
+3977902
+Apigee Corporation
+Apigee
+All
+Service Maintenance
+Technical Support
+United States of America
+Corporation Service Company 251 Little Falls
+                              Drive Wilmington, DE, United States, 19808
+United States of America
+3810517
+Design, LLC
+All Google Cloud Platform Services
+United States of America
+Data Center Operations
+United States of America
+Corporation Service Company 251 Little Falls
+                              Drive Wilmington DE, 19808 United States
+United States of America
+3888193
+Firebase, Inc.
+Firebase Services
+All
+Service Maintenance
+Technical Support
+United States of America
+Corporation Service Company 251 Little Falls
+                              Drive Wilmington, DE, United States, 19808
+United States of America
+4871239
+GOC International LLC
+All Google Cloud Platform Services
+All
+Service Maintenance
+Technical Support
+United States of America
+251 Little Falls Drive Wilmington DE, 19808
+                              United States
+United States of America
+7119843
+Google LLC
+All Google Cloud Platform Services
+United States of America
+All
+Data Center Operations
+Service Maintenance
+Technical Support
+United States of America
+Corporation Service Company 251 Little Falls
+                              Drive Wilmington, DE, United States, 19808
+United States of America
+3582691
+Looker Data Sciences, Inc.
+Looker Services
+All
+Service Maintenance
+Technical Support
+United States of America
+Corporation Service Company 251 Little Falls
+                              Drive Wilmington, DE, United States, 19808
+United States of America
+5092908
+Orbitera Inc.
+Orbitera Services
+All
+Service Maintenance
+Technical Support
+United States of America
+Corporation Service Company 251 Little Falls
+                              Drive Wilmington, DE, United States, 19808
+United States of America
+5198177
+Subprocessors for Cloud Identity Services are listed
+                      at https://workspace.google.com/intl/en/terms/subprocessors.html.
+                    
+Previous versions
+ (Last modified August 16, 2023) 
+        July 19, 2023
+      
+        June 13, 2023
+      
+        June 8, 2023
+      
+        June 5, 2023
+      
+        May 25, 2023
+      
+        April 20, 2023
+      
+        March 23, 2023
+      
+        March 16, 2023
+      
+        March 2, 2023
+      
+        February 7, 2023
+      
+        January 26, 2023
+      
+        January 12, 2023
+      
+        December 13, 2022
+      
+        September 8, 2022
+      
+        August 31, 2022
+      
+        August 4, 2022
+      
+        June 13, 2022
+      
+        May 5, 2022
+      
+        April 26, 2022
+      
+        March 31, 2022
+      
+        March 24, 2022
+      
+        January 20, 2022
+      
+        December 9, 2021
+      
+        November 9, 2021
+      
+        October 8, 2021
+      
+        January 26, 2023
+      
+        September 21, 2021
+      
+        September 2, 2021
+      
+        August 12, 2021
+      
+        July 8, 2021
+      
+        June 10, 2021
+      
+        May 11, 2021
+      
+        May 4, 2021
+      
+        April 15, 2021
+      
+        March 25, 2021
+      
+        February 11, 2021
+      
+        February 4, 2021
+      
+        December 10, 2020
+      
+        December 3, 2020
+      
+        November 12, 2020
+      
+        October 26, 2020
+      
+        October 1, 2020
+      
+        September 14, 2020
+      
+        April 27, 2020
+      
+        February 27, 2020
+      
+        January 30, 2020
+      
+        January 6, 2020
+      
+        December 9, 2019
+      
+        November 20, 2019
+      
+        September 16, 2019
+      
+        March 7, 2019
+      
+        February 5, 2019
+      
+        December 6, 2018
+      
+        September 3, 2018
+      
+        August 2, 2018
+      
+        May 24, 2018
+      
+        May 15, 2018
+      
+        March 29, 2018
+      
+        December 14, 2017
+      
+        November 23, 2017
+      
+        November 8, 2017
+      
+        September 13, 2017
+      
+        June 20, 2017
+      
+Why Google
+            
+          
+            Choosing Google Cloud
+          
+          
+            
+          
+            Trust and security
+          
+          
+            
+          
+            Open cloud
+          
+          
+            
+          
+            Multicloud
+          
+          
+            
+          
+            Global infrastructure
+          
+          
+            
+          
+            Customers and case studies
+          
+          
+            
+          
+            Analyst reports
+          
+          
+            
+          
+            Whitepapers
+          
+          
+            
+              
+              
+            
+          
+            Blog
+          
+          
+Products and pricing
+            
+          
+            Google Cloud pricing
+          
+          
+            
+          
+            Google Workspace pricing
+          
+          
+            
+              
+              
+            
+          
+            See all products
+          
+          
+Solutions
+            
+          
+            Infrastructure modernization
+          
+          
+            
+          
+            Databases
+          
+          
+            
+          
+            Application modernization
+          
+          
+            
+          
+            Smart analytics
+          
+          
+            
+          
+            Artificial Intelligence
+          
+          
+            
+          
+            Security
+          
+          
+            
+          
+            Productivity & work transformation
+          
+          
+            
+          
+            Industry solutions
+          
+          
+            
+          
+            DevOps solutions
+          
+          
+            
+          
+            Small business solutions
+          
+          
+            
+              
+              
+            
+          
+            See all solutions
+          
+          
+Resources
+            
+          
+            Google Cloud documentation
+          
+          
+            
+          
+            Google Cloud quickstarts
+          
+          
+            
+          
+            Google Cloud Marketplace
+          
+          
+            
+          
+            Learn about cloud computing
+          
+          
+            
+          
+            Support
+          
+          
+            
+          
+            Code samples
+          
+          
+            
+          
+            Cloud Architecture Center
+          
+          
+            
+          
+            Training
+          
+          
+            
+          
+            Certifications
+          
+          
+            
+          
+            Google for Developers
+          
+          
+            
+          
+            Google Cloud for Startups
+          
+          
+            
+          
+            System status
+          
+          
+            
+              
+              
+            
+          
+            Release Notes
+          
+          
+Engage
+            
+          
+            Contact sales
+          
+          
+            
+          
+            Find a Partner
+          
+          
+            
+          
+            Become a Partner
+          
+          
+            
+          
+            Events
+          
+          
+            
+          
+            Podcasts
+          
+          
+            
+          
+            Developer Center
+          
+          
+            
+          
+            Press Corner
+          
+          
+            
+          
+            Google Cloud on YouTube
+          
+          
+            
+          
+            Google Cloud Tech on YouTube
+          
+          
+            
+          
+            Follow on Twitter
+          
+          
+            
+          
+            Join User Research
+          
+          
+            
+          
+            We're hiring. Join Google Cloud!
+          
+          
+            
+              
+              
+            
+          
+            Google Cloud Community
+          
+          
+          Cookie Settings
+        
+          About Google
+        
+          Privacy
+        
+          Site terms
+        
+          Google Cloud terms
+        
+          Our third decade of climate action: join us
+        
+Sign up for the Google Cloud newsletter
+          Subscribe
+        
+English
+Deutsch
+Español – América Latina
+Français
+Português – Brasil
+中文 – 简体
+日本語
+한국어

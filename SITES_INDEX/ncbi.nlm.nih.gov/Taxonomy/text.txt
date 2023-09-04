@@ -1,0 +1,75 @@
+ 
+Entrez
+PubMed
+Nucleotide
+Protein
+Genome
+Structure
+PMC
+Taxonomy
+BioCollections
+Search for 
+ as 
+complete name
+              wild card
+              token set
+              phonetic name
+              taxonomy id
+ lock 
+                 
+ levels 
+using filter: 
+      
+none
+has genome sequences
+Taxonomy browser (Citrus sulcata)
+Citrus sulcata
+Taxonomy ID: 237573 (for references in articles please use NCBI:txid237573)current name
+Citrus sulcata hort. ex I.Takah.
+NCBI BLAST name: eudicotsRank: speciesGenetic code: Translation table 1 (Standard)Mitochondrial genetic code: Translation table 1 (Standard)Plastid genetic code: Translation table 11 (Bacterial, Archaeal and Plant Plastid)Other names:common name(s)
+sanbokan
+Lineage( full )
+cellular organisms; Eukaryota; Viridiplantae; Streptophyta; Streptophytina; Embryophyta; Tracheophyta; Euphyllophyta; Spermatophyta; Magnoliopsida; Mesangiospermae; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Sapindales; Rutaceae; Aurantioideae; Citrus
+   Entrez records   
+Database name
+Direct links
+Nucleotide
+1
+Popset
+1
+PubMed Central
+1
+Taxonomy
+1
+Comments and References:
+Tanaka T 1954Tanaka T. 1954. Species problem in Citrus: a critical study of wild and cultivated units of Citrus, based upon field studies in their native homes. Revisio Aurantiacearum IX. Japanese Society for the Promotion of Science, Tokyo. 152 pp.
+External Information Resources (NCBI LinkOut)
+LinkOut
+Subject
+LinkOut Provider
+Citrus sulcata
+taxonomy/phylogenetic
+Plants of the World Online
+Citrus sulcata
+taxonomy/phylogenetic
+The International Plant Names Index
+Citrus sulcata hort. ex I. Takah.
+taxonomy/phylogenetic
+USDA-ARS GRIN Taxonomy
+search W3TROPICOS
+taxonomy/phylogenetic
+Vascular Tropicos
+Notes:
+Groups interested in participating in the LinkOut program should visit the LinkOut home page. A list of our current non-bibliographic LinkOut providers can be found here.
+Disclaimer: The NCBI taxonomy database is not an authoritative
+  source for nomenclature or classification - please consult the
+  relevant scientific literature for the most reliable information.
+Reference: How to cite this resource - Schoch CL, et al. NCBI Taxonomy: a comprehensive update on curation, resources and tools. Database (Oxford). 2020: baaa062. PubMed: 32761142 PMC: PMC7408187.
+  
+Comments and questions to
+  info@ncbi.nlm.nih.gov
+[Help]
+[Search]
+[NLM
+NIH]
+[Disclaimer]

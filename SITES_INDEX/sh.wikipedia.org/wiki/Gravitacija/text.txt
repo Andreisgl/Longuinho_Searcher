@@ -1,0 +1,259 @@
+Gravitacija – Wikipedija / Википедија
+Gravitacija
+Izvor: Wikipedija
+Prijeđi na navigaciju
+Prijeđi na pretragu
+Klasična mehanika
+F
+=
+d
+d
+t
+(
+m
+v
+)
+{\displaystyle \mathbf {F} ={\frac {\mathrm {d} }{\mathrm {d} t}}(m\mathbf {v} )}
+drugi Newtonov zakon
+povijest klasične mehanikekronologija klasične mehanike
+Grane
+statika • dinamika/kinetika • kinematika • primjenjena mehanika • nebeska mehanika • mehanika kontinuuma • statistička mehanika
+Formulacije
+Newtonova mehanika (vektorska mehanika)
+analitička mehanika:
+Lagrangeova mehanika
+Hamiltonova mehanika
+Osnovni koncepti
+prostor • vrijeme • brzina • masa • ubrzanje • gravitacija • sila • impuls sile • spreg sila/moment sile • količina gibanja • kutna količina gibanja • tromost • moment tromosti • referentni okvir • energija • kinetička energija • potencijalna energija • rad • virtualni rad • D'Alembertovo načelo
+Ključne teme
+kruto tijelo • dinamika krutog tijela • Eulerove jednadžbe gibanja • gibanje • Newtonovi zakoni gibanja • Newtonov zakon gravitacije • jednadžbe gibanja • inercijski referentni okvir • neinercijski referentni okvir • rotirajući referentni okvir • fiktivna sila • mehanika ravninskog gibanja krutog tijela • pomak (vektor) • relativna brzina • trenje • jednostavno harmonijsko gibanje • harmonijski oscilator • vibracije • prigušenje • koeficijent prigušenja • Rotacijsko gibanje • Kružno gibanje • jednoliko kružno gibanje • nejednoliko kružno gibanje • centripetalna sila • centrifugalna sila • centrifugalna sila (rotacijski referentni okvir) • reaktivna centrifugalna sila • Coriolisov učinak • fizičko njihalo • rotacijska brzina • kutno ubrzanje • kutna brzina • kutna frekvencija • kutni pomak
+Znanstvenici
+Isaac Newton • Jeremiah Horrocks • Leonhard Euler • Jean le Rond d'Alembert • Alexis Clairaut • Joseph Louis Lagrange • Pierre-Simon Laplace • William Rowan Hamilton • Siméon-Denis Poisson
+Dva tijela se privlače uzajamno silom koja je proporcionalna (u skladu) umnošku njihovih masa, a obrnuto proporcionalna kvadratu njihove međusobne udaljenosti.
+Gravitacija odnosno sila teže (od lat. gravitas - težina) je fizička interakcija koja izaziva privlačenje između tela, usled njihove mase. To je jedna od četiri osnovne sile koje deluju u prirodi, predstavlja silu privlačenja između materijalnih tela svih veličina - od atoma do planeta u galaksijama, zvezda u univerzumu, itd. Sila teže kojom planeta Zemlja privlači i drži sva tela na svojoj površini, naziva se Zemljina teža. Sva materijalna tela poseduju silu gravitacije, ali su te sile daleko manje nego sila Zemljine teže, koja se oseća i na 80.000 km udaljenosti od Zemlje. Gravitaciona sila Sunca još je veća, jer Sunce pomoću nje drži na okupu sve planete Sunčevog sistema koje, usled ove sile, u svom kretanju kruže oko Sunca. Ceo poredak svemira zasniva se na gravitaciji.
+Tokom istorije pojavile su se mnoge teorije koje su pokušale da objasne ovaj fenomen. Univerzalni zakon gravitacije koji je Isak Njutn definisao krajem 17. veka izuzetno je jednostavan i odlično aproksimira proračun sila gravitacije (izuzev za brzine bliske svetlosnoj), tako da se i danas koristi. Newtonov zakon gravitacije iskazuje da se svaka dva tijela privlače uzajamno silom koja je razmjerna umnošku njihovih masa, a obrnuto proporcionalna kvadratu njihove međusobne udaljenosti.[1] Po Njutnu se jedinica sile naziva „Njutn“ i obeležava velikim slovom N što je ekvivalentno sa kg·m/s².
+Danas prihvaćena teorija gravitacije je ona koju je 1915. predložio Albert Ajnštajn, a to je opšta teorija relativnosti.  Ajnšajnova teorija relativnosti, između ostalog, predviđa da gravitacija usporava vreme. Ajnštajn je izračunao da jedna sekunda na Zemlji traje 1,000002 Sunčevih sekundi.[2]
+U svetu mikroskopskih veličina, gravitacija je najslabija od četiri osnovne sile prirode. U makroskopskom svetu deluju jedino gravitaciona i elektromagnetna sila. Za razliku od elektromagnetne, gravitacione je uvek privlačna. Jedna od popularnih oblasti proučavanja u 21. veku je kvantna teorija gravitacije.
+Sadržaj
+1 Povijest
+1.1 Aristotelove pretpostavke
+1.2 Eksperimenti Galileo Galileja
+1.3 Newtonov zakon gravitacije
+1.4 Gaussov zakon gravitacije
+1.5 Einsteinova teorija gravitacije
+1.6 Gravitacija i kvantna mehanika
+2 Teorija
+2.1 Ubrzanje zemljine sile teže
+2.2 Gravitacijska konstanta
+2.3 Brzina gravitacije
+2.4 Gravitacijsko polje
+2.5 Osnovne sile
+3 Anomalije i neslaganja
+4 Dodatne činjenice
+5 Literatura
+6 Izvori
+7 Poveznice
+8 Vanjske veze
+Povijest[uredi | uredi kod]
+Iako je sila teža stalno prisutna, a već je i Ptolemej (oko 150.) naslućivao da postoji neka sila koja je uzrok održavanju planeta na njihovim stazama (planetarnim putanjama), trebalo je više od 15 stoljeća da se te dvije pojave međusobno povežu i izgradi pojam gravitacije. Prvi korak u rješavanju problema padanja tijela učinio je u 17. stoljeću Galileo Galilei.[3] Matematičkom analizom pokusa napravljenih u Pisi, Galilei je utvrdio da je ubrzanje zemljine sile teže bilo kojega padajućeg tijela na površini Zemlje konstantno i da je jednako za sva tijela.[4]
+Aristotelove pretpostavke[uredi | uredi kod]
+Aristotel je bio ubeđen da je do svih zakona koji upravljaju Prirodom moguće doći samo razmišljanjem, a izvedene zaključke nije bilo potrebno proveravati posmatranjima, tj. eksperimentalno. On je smatrao da „teža tela padaju brže nego lakša.“[5]
+Time je stvorena konfuzija oko kvaliteta i kvantiteta među narednim misliocima:
+Kvantitet : uzmimo u ruku jedno telo koje Zemlja privlači. Razdrobimo ga (misaono) u hiljade fragmenata. Svaki fragment ima osobinu težine, što je posledica Zemljinog privlačenja. Težina velikog tela je suma težine svih fragmenata. Dakle, težina zavisi od kvantiteta.
+Kvalitet : pustimo telo da padne na zemlju. Svaki fragment tela pada jer ga Zemlja privlači, on stiče brzinu nezavisno od ostalih fragmenata. Brzina pada ne zavisi od broja fragmenata, jer su svi oni identični. Ne zavisi ni od ukupne mase tela jer svi fragmenti padaju istovremeno. Brzina pada je dakle kvalitet tela nezavisan od njegovog kvantiteta.
+Otuda, iako su intuitivno bliski, pojmovi težine i brzine pada se razlikuju. Kada se ispuštaju predmeti različitog oblika, recimo lopta od pene i od metala istih dimenzija, i kada je putanja pada dovoljno duga, postaće primetno da usled otpora vazduha dolazi do razlike u brzini pada. Galilej je bio prvi naučnik koji je shvatio ovaj razlog.
+Eksperimenti Galileo Galileja[uredi | uredi kod]
+Glavni članak: Slobodan pad
+Kosi toranj u Pisi gdje je Galileo Galilei utvrdio da je ubrzanje bilo kojega padajućeg tijela konstantno i jednako za sva tijela.
+Galileo Galilej je za svoje oglede koristio teške metalne klikere. Ispuštajući ove klikere sa tornja u Pizi zaključio je da nema razlike u brzini pada težih i lakših klikera.
+Oko 1604. godine, Galilej uočio činjenicu: kada se predmet ispusti, njegova početna brzina je nula, a kada padne na Zemlju, ima brzinu. Zaključak je da se brzina menja tokom pada. Galilej je predložio jednostavan zakon: brzina tela je proporcionlna vremenu koje je prošlo od početka pada: brzina = konstanta × vreme.[6]
+Dalje je zaključio (računom koji liči na integralni račun koji će kasnije otkriti Njutn i Lajbnic) da je rastojanje koju telo pređe pri padu: rastojanje = konstanta × 0,5 × vreme²
+Ovu teoriju je potvrdio eksperimentalno koristeći strmu ravan na kojoj su zvona označavala prolazak klikera.
+Konstanta koja se pojavljuje u formulama dobiće oznaku g, a njena eksperimentalno utvrđena vrednost je g = 9,81 m/s².
+Danas je ovaj model primenljiv na slobodan pad tela u nivou Zemljine površine.
+Newtonov zakon gravitacije[uredi | uredi kod]
+Glavni članak: Newtonov zakon gravitacije
+Isaac Newton je povezao Galilejeve zakone gibanja s Keplerovim zakonima o kretanju planeta i, uvevši mehaničku silu u astronomiju, 1681. izveo opći zakon gravitacije.[7] Prema tom zakonu, svaka čestica materije privlači svaku drugu česticu materije silom koja je razmjerna umnošku njihovih masa, a obrnuto razmjerna kvadratu njihovih udaljenosti i usmjerena prema njihovoj spojnici. To je bio temelj Newtonove ili klasične teorije gravitacije, koju su dalje matematički razradili Siméon Denis Poisson, Pierre-Simon Laplace, Joseph-Louis Lagrange i Jean le Rond d'Alembert.
+U nebeskoj mehanici dovoljno je pretpostaviti da su nebeska tijela materijalne točke, koje prema veličini svojih masa uzajamno djeluju jedna na drugu. Međutim, može se dokazati, a to je već i Newton učinio, da svaka kuglasta homogena masa djeluje na bilo koje drugo tijelo istom silom kojom bi djelovala da je sva njezina masa koncentrirana u središtu kugle. Tako se dobiva da je sila kojom Zemlja privlači neko tijelo mase m jednaka F = m ∙ g, gdje je m masa tog tijela, a g ubrzanje sile teže:
+g
+=
+G
+M
+m
+r
+0
+2
+ 
+{\displaystyle g=G{\frac {Mm}{r_{0}^{2}}}\ }
+gdje je:
+G - univerzalna gravitacijska konstanta koja otprilike iznosi 6,67428 × 10−11 N m2 kg−2,
+M - masa Zemlje (kg),
+m - masa tijela na Zemlji (kg), i
+r0 - polumjer Zemlje (m).
+Gaussov zakon gravitacije[uredi | uredi kod]
+Glavni članak: Gaussov zakon gravitacije
+Gaussov je zakon u biti isti Newtonovom zakonu univerzalne gravitacije. Premda je fizički istovrijedan Newtonovom, brojne su situacije gdje Gaussov zakon gravitacije nudi pogodniji i jednostavniji način izračunavanja nego Newtonov.
+Einsteinova teorija gravitacije[uredi | uredi kod]
+Glavni članci: Opća teorija relativnosti, Prostor-vreme, i Zakrivljenost
+Dvodimenzionalna analogija zakrivljenosti prostorvremena
+U Newtonovoj teoriji gravitacije osnovni postulati jesu apsolutni prostor i vrijeme. Međutim, razradivši (1905.) svoju teoriju relativnosti, Albert Einstein je uvidio da je pojam apsolutnoga vremena, koji je na prvi pogled potpuno logičan, zapravo neodrživ. Da bi se usporedilo vrijeme između dvaju promatrača u različitim sustavima referencije, potrebno je poslužiti se nekim signalom. Jedini je fizikalno moguć način upotreba svjetlosnoga signala. No kako je brzina svjetlosti konstantna i neovisna o sustavu promatranja, Einstein je pokazao da vrijeme mora zavisiti o sustavu. Vrijeme je, a prema tome i pojam istodobnosti dvaju događaja, relativno. Tretirajući vrijeme kao varijablu ekvivalentnu prostornim varijablama, Einstein je, slijedeći put što ga je pokazao Hermann Minkowski, izgradio pojam četverodimenzionalnoga prostora – prostorno vremenskoga kontinuuma. Geometriju takva prostora određuje materija, a gravitacija je samo posljedica geometrije fizikalnoga prostora. Drugim riječima, gravitacija je samo posljedica činjenice da kontinuum prostorvrijeme nije ravan, nego zakrivljen. Čestica materije ubačena u svemir ne bi se gibala po pravcu, kako to traže Newtonove jednadžbe, nego po geodetskoj liniji, koja predstavlja vremenski najkraću stazu između bilo kojih dviju točaka u svemiru. Zrake svjetlosti također se ne šire pravocrtno, nego se i one savijaju u gravitacijskom polju (gravitacijske leće).
+Einsteinova teorija gravitacije prelazi u aproksimaciji u klasičnu teoriju, a kako su posljedice teorije relativnosti vrlo malene, to je pokusom teško dokazati njezinu ispravnost.[8][9] Dosadašnji eksperimentalno dobiveni podatci, kao npr. oni o odstupanju stvarne putanje Merkura oko Sunca od putanje koju daje klasična teorija, ili pak oni o savijanju zraka svjetlosti u gravitacijskom polju Sunca (pomak prema crvenomu dijelu spektra), u skladu su s Einsteinovom teorijom gravitacije. Einsteinova teorija gravitacije je složena, pa je bilo više pokušaja da se nađu jednostavniji principi na kojima bi se mogla izgraditi teorija gravitacije. Najviše uspjeha postigli su George David Birkhoff i Edward Arthur Milne. Također se radi na tzv. unificiranoj teoriji polja, kojoj je i Einstein posvetio dugi niz godina istraživanja. Ta teorija trebala bi istim jednadžbama obuhvatiti i gravitacijsko i elektromagnetsko polje, ali dosadašnji pokušaji nisu dali zadovoljavajuće rezultate.
+Gravitacija i kvantna mehanika[uredi | uredi kod]
+Nekoliko decenije posle objavljivanja opšte teorije relativnosti, naučnici su zaključili da je ona nepodudarna sa kvantnom mehanikom. U teoriji kvantnih polja gravitacija se opisuje kao posledica razmene virtuelnih gravitona, slično kao što elektromagnetna sila nastaje razmenom virtuelnih fotona. Ovaj pristup još nije objasnio gravitacione sile na rastojanjima manjim od Plankove dužine. Još neostvareni cilj savremene nauke je da stvori sveobuhvatnu teoriju kvantne gravitacije.[10][11][12]
+Teorija[uredi | uredi kod]
+Ubrzanje zemljine sile teže[uredi | uredi kod]
+Glavni članak: Ubrzanje zemljine sile teže
+Newtonovo đule: ako bi top na uzvisini ispalio kuglu s brzinom manjom od brzine kruženja (vk = 7,9 km/s) ona bi imala putanju A ili B i pala bi na Zemlju; ako bi kugla išla brzinom kruženja ona bi imala kružnu putanju C i gibala bi se stalnom brzinom; ako bi kugla krenula brzinom većom od brzine kruženja ona bi putovala po elipsi D; ako bi kugla krenula brzinom većom od brzine oslobađanja (vo = 11,2 km/s) ona bi putovala po hiperboli E i napustila bi Zemlju.
+Ubrzanje zemljine sile teže (oznaka: g) je ubrzanje slobodnog pada u gravitacijskom polju Zemlje. Srednja vrijednost na površini Zemlje (razini mora) iznosi oko 9,81 m/s², a zbog vrtnje i spljoštenosti Zemlje (geoid) mijenja se sa zemljopisnom širinom. Dogovorom utvrđena standardna vrijednost od 9,80665 m·s−2 koristi se kao fizikalna konstanta i mjerna jedinica, a označava se kao gn, g0  ili g.
+Gravitacijska konstanta[uredi | uredi kod]
+Glavni članak: Gravitacijska konstanta
+Dok je mjerenje ubrzanja sile teže razmjerno lako izvedivo, to nije slučaj s gravitacijskom konstantom. Ipak, do danas su razrađene mnoge metode kojima se G može više ili manje točno odrediti. Pierre Bouguer prvi je pokušao (1740.) pokusom odrediti veličinu G, ali je njegov rezultat bio prilično netočan. Najpreciznije rezultate daje metoda koju je prvi upotrijebio Henry Cavendish (1798.) u poznatom pokusu s torzijskom vagom, koju je izradio John Michell. Danas je prihvaćena vrijednost za gravitacijsku konstantu G:[13]
+G
+=
+6
+,
+67259
+×
+10
+−
+11
+ 
+N
+(
+m
+/
+k
+g
+)
+2
+{\displaystyle G=6,67259\times 10^{-11}\ {\rm {N}}\,{\rm {(m/kg)^{2}}}}
+Brzina gravitacije[uredi | uredi kod]
+Utjecaj je gravitacije u Newtonovoj teoriji gravitacije trenutačan. Međutim u posebnoj teoriji relativnosti pojam istovremenosti gubi smisao, a i nemoguće je slati informacije brže od svjetlosti jer bi to dovelo do paradoksa, pa se prema općoj teoriji relativnosti utjecaj prostorom širi brzinom svjetlosti. Eksperimentalno je potvrđeno da je brzina gravitacije jednaka brzini svjetlosti unutar eksperimentalne pogreške od 1 %.[14]
+Gravitacijsko polje[uredi | uredi kod]
+Glavni članak: Gravitaciono polje
+Gravitacijsko polje je potencijalno vektorsko polje koje se za svaku točku definira kao sila gravitacije na točkasto tijelo u toj točki podijeljena masom tog tijela. Gravitacijsko polje oko mase m1 je dano s:
+g
+(
+r
+)
+=
+F
+g
+m
+2
+=
+G
+m
+1
+r
+3
+r
+{\displaystyle \mathbf {g} (\mathbf {r} )={\frac {\mathbf {F} _{g}}{m_{2}}}=G{\frac {m_{1}}{r^{3}}}\mathbf {r} }
+Ova veličina govori kojom silom po jedinici gravitacijsko polje privlači tijelo u nekoj točki prostora određenoj radijvektorom r. Mjerna jedinica je njutn po kilogramu (N/kg), a lako se može pokazati da je njutn po kilogramu isto što i metar u sekundi na kvadrat (m/s2), što je mjerna jedinica ubrzanja. Gravitacijska akceleracija Zemlje iznosi prosječno 9,80665 m/s2 na površini Zemǉe. Stoga je jakost gravitacijskog polja u nekoj točki prostora jednaka gravitacijskom ubrzanju u toj točki. To je zbog činjenice da su teška i troma masa linearno razmjerne. Ta činjenica se naziva principom ekvivalencije.
+Osnovne sile[uredi | uredi kod]
+Glavni članak: Osnovne sile
+Od četiriju poznatih osnovnih sila u prirodi, gravitacija je najslabija, pa je u području atoma i molekula potpuno zanemariva prema elektromagnetskim i nuklearnim silama. U svemirskim prostranstvima, gdje međusobno djeluju velike nakupine masa, međuzvjezdani plinovi, zvijezde, galaktike, gravitacija igra važnu ulogu. Astronomska otkrića pulsara i kvazara i teorije o razvoju zvijezda stavljaju teoriju gravitacije pred nove probleme, kao što su pitanje stalnosti gravitacijske konstante tijekom vremena, mehanizam gravitacijskoga kolapsa koji uzrokuje energetsku degeneraciju zvijezda. Kod gravitacijskoga kolapsa, sile zvjezdane gravitacije posve nadjačaju sile pritiska zračenja i zvijezda se sve više sažimlje. Nakon porasta gravitacije iznad neke veličine, zvijezda postane za promatrača nevidljivom (crna rupa), jer kvanti zračenja više ne mogu napustiti zvijezdu. Za objašnjenje tih pojava može se pokazati nužnim da se u gravitacijskoj teoriji provede kvantizacija (kvantna mehanika). Energija gravitacijskoga polja bila bi kvantizirana i širila bi se kroz polje u gravitacijskim valovima. Kvant gravitacijskoga polja zove se graviton.
+Moderni pokusi usmjereni su na precizno određivanje izobličenja prostorno-vremenskoga kontinuuma koji Zemlja svojom gravitacijom uzrokuje i prema preciziranju, odnosno mogućem proširenju Einsteinove teorije gravitacije. U tu svrhu konstruiraju se sateliti (npr. gravitacijska sonda B) koji vrlo osjetljivim žiroskopima, kojih je vlastito odstupanje manje od 10−11 stupnja na sat, mjere deformacije gravitacijskoga polja. Također se izvode pokusi međudjevovanja elektromagnetskog i gravitacijskog polja, zasjenjivanja gravitacije štitovima, pokušaji bilježenja gravitacijskoga zračenja itd. Svi ti pokusi daju početne rezultate, zasad nedovoljne za ozbiljniju teorijsku obradbu, ali oni pokazuju da će postojeće teorije trebati dopunjavati. Uostalom, sam Albert Einstein, govoreći o svojoj jednadžbi u kojoj je u općoj teoriji relativnosti obuhvaćena gravitacija, rekao je da je lijeva strana jednadžbe čvrsta kao stijena, ali da je desna pijesak od kojega nešto tek treba oblikovati.
+Anomalije i neslaganja[uredi | uredi kod]
+Postoje izvesna opažanja koja nisu adekvatno objašnjena, što može da ukazuje na potrebu za boljim teorijama ili možda drugačijim pristupima objašnjavanju.
+Kriva rotacije tipične spiralne galaksije: predviđena (A) i uočena (B). Raskorak između ovih krivih se pripisuje tamnoj materiji.
+Prebrze zvezde: Zvezde u galaksijama slede distribuciju brzina, pri čemu se zvezde na periferiji kreću brže nego što bi kretale kad sledele uočenu distribuciju normalne materije. Galaksije unutar galaktičkih klastera ispoljavaju isti obrazac. Tamna materija, koja bi formirala gravitacione interakcije ali ne i elektromagnetne, bi mogla da objasni ovaj raskorak. Razne modifikacije Njutnove dinamike su takođe bile predložene.
+Anomalija preletanja: Razne svemirske letilice su iskusile veća ubrzanja od očekivanih tokom gravitacijom potpomognutih manuvara.
+Ubrzavajuća ekspanzija: Postoje indikacije da dolazi do ubrzavanja metričke ekspanzije prostora. Postojanje tamne energije je predloženo kao moguće objašnjenje. Nedavno je izneseno alternativno objašnjenje, po kome geometrija prostora nije homogena (usled postojanja klastera galaksija), te kad se podaci reinterpretiraju uzimajući taj faktor u obzir, pokazuje se da ne dolazi do ubrzavanja ekspanzije.[15] Međutim, taj zakljčak je osporen.[16]
+Anomalno povećanje astronomske jedinice: Nedavna merenja pokazuju da se planetarne orbite proširuju brže nego kad bi jedini uzrok toga bio gubitak Sunčeve mase usled radijacije energije.
+Prekomerno energetični fotoni: Fotoni koji putuju kroz galaktičke klastere bi trebalo da steknu energiju pri ulazu i da je zatim izgube pri izlazu. Ubrzana ekspanzija svemira bi trebala da onemogući potpuno vraćanje energije fotona. Međutim, čak i ako se to uzme u obzir, fotoni iz kozmičkog mikrotalasnog pozadinskog zračenja stiču dva puta više energije od očekivane količine. Ovo možda ukazuje na to gravitacija opada sporije od inverznog kvadrata na izvesnim skalama rastojanja.[17]
+Eksesivno masivni vodonični oblaci: Spektralne linije šume Lajman-alfa sugerišu da su vodonični oblaci zgusnutiji na pojedinim skalama nego što bi se očekivalo, i to je poput tamnog protoka moguća indikacija sporijeg opadanja gravitacije od inverznog-kvadrata na izvesnim skalama rastojanja.[17]
+Dodatne činjenice[uredi | uredi kod]
+Gravitacijsko polje svake čestice širi se u beskonačnost, ali njegova jakost slabi s kvadratom udaljenosti.
+Za dobivanje jakosti g svejedno je kojom će se masom m2 vršiti dijeljenje jer će ukupna sila uvijek biti proporcionalno veća ili manja.
+Koristeći zakon o gravitaciji dobivena je masa Zemlje od 5,98×1024 kg
+Definicija jakosti gravitacijskog polja se matematički može dobiti i na drugi način, uvrštavanjem jedinične mase u drugi Newtonov zakon.
+Ako neko tijelo promijeni položaj u prostoru, jakost njegovog gravitacijskog polja u proizvoljnoj točki prostora će se promijeniti u skladu s tim pomakom tek nakon onoliko vremena koliko je potrebno da svjetlost dođe od tijela do te točke.
+Literatura[uredi | uredi kod]
+Halliday, David; Robert Resnick; Kenneth S. Krane (2001). Physics v. 1. New York: John Wiley & Sons. ISBN 0-471-32057-9. 
+Serway, Raymond A.; Jewett, John W. (2004). Physics for Scientists and Engineers (6th izd.). Brooks/Cole. ISBN 0-534-40842-7. 
+Tipler, Paul (2004). Physics for Scientists and Engineers: Mechanics, Oscillations and Waves, Thermodynamics (5th izd.). W. H. Freeman. ISBN 0-7167-0809-4. 
+Unused ref: Proposition 75, Theorem 35: p. 956 - I.Bernard Cohen and Anne Whitman, translators: Isaac Newton, The Principia: Mathematical Principles of Natural Philosophy. Preceded by A Guide to Newton's Principia, by I. Bernard Cohen. University of California Press 1999 ISBN 0-520-08816-6 ISBN 0-520-08817-4
+Thorne, Kip S.; Misner, Charles W.; Wheeler, John Archibald (1973). Gravitation. W.H. Freeman. ISBN 0-7167-0344-0. 
+Gravitation; In: Sterne und Weltraum, Special 6, 2001, ISSN 1434-2057
+Claus Kiefer: Gravitation, Fischer, 2002, ISBN 3-596-15357-3.
+Ephraim Fischbach, Carrick L. Talmadge: The search for non-Newtonian gravity, Springer, New York 1999, ISBN 0-387-98490-9.
+Gilles Clément, Angie Bukley (Hrsg.): Artificial gravity, Springer, New York 2007, ISBN 978-0-387-70712-9.
+David Darling: Gravity's arc-the story of gravity from Aristotle to Einstein and beyond, Wiley, Hoboken N. J. 2006, ISBN 978-0-471-71989-2.
+Richard L. Amoroso: Gravitation and cosmology – from the Hubble radius to the Planck scale, Kluwer Academic, Dordrecht 2002, ISBN 1-4020-0885-6.
+Roberto de Andrade Martins: The search for gravitational absorption in the early 20th century Arhivirano 2010-08-09 na Wayback Machine-u; In: H. Goemmer, J. Renn, J. Ritter (Hrsg.): The Expanding Worlds of General Relativity, Einstein Studies, Band 7, Birkhäuser, Boston 1999, S. 3–44.
+Roman Sexl, Helmuth Urbantke: Gravitation und Kosmologie: Eine Einführung in die Allgemeine Relativitätstheorie, Spektrum Akademischer Verlag, 2008, ISBN 978-3827421098
+Vizgin V. P. Relяtivistskaя teoriя tяgoteniя (istoki i formirovanie, 1900—1915). — M.: Nauka, 1981. — 352c.
+Vizgin V. P. Edinыe teorii v 1-й treti HH v. — M.: Nauka, 1985. — 304c.
+Ivanenko, Dmitriй Dmitrievič, Sardanašvili, Gennadiй Aleksandrovič Gravitaciя. 3-e izd. — M.: URSS, 2008. — 200s.
+Mizner Č., Torn K., Uiler Dž. Gravitaciя. — M.: Mir, 1977.
+Torn K. Černыe dыrы i skladki vremeni. Derzkoe nasledie Эйnšteйna. — M.: Gosudarstvennoe izdatelьstvo fiziko-matematičeskoй literaturы, 2009.
+Izvori[uredi | uredi kod]
+↑ "Tehnička enciklopedija", glavni urednik Hrvoje Požar, Grafički zavod Hrvatske, 1987.
+↑ Ajnštajn za početnike
+↑ Ball, Phil (June 2005). „Tall Tales”. Nature News. DOI:10.1038/news050613-10. 
+↑ M.C.W.Sandford (2008). „STEP: Satellite Test of the Equivalence Principle”. Rutherford Appleton Laboratory. Arhivirano iz originala na datum 2011-07-16. Pristupljeno 2011-10-14. 
+↑ http://static.astronomija.org.rs/teorije/relativnost/teorije/prostoraristotel.htm
+↑ Galileo (1638), Two New Sciences, First Day Salviati speaks: "If this were what Aristotle meant you would burden him with another error which would amount to a falsehood; because, since there is no such sheer height available on earth, it is clear that Aristotle could not have made the experiment; yet he wishes to give us the impression of his having performed it when he speaks of such an effect as one which we see."
+↑ *Chandrasekhar, Subrahmanyan (2003). Newton's Principia for the common reader. Oxford: Oxford University Press.  (pp.1–2).  The quotation comes from a memorandum thought to have been written about 1714. As early as 1645 Ismaël Bullialdus had argued that any force exerted by the Sun on distant objects would have to follow an inverse-square law.  However, he also dismissed the idea that any such force did exist. See, for example,
+Linton, Christopher M. (2004). From Eudoxus to Einstein—A History of Mathematical Astronomy. Cambridge: Cambridge University Press. str. 225. ISBN 978-0-521-82750-8. 
+↑ „Gravity and Warped Spacetime”. black-holes.org. Arhivirano iz originala na datum 2011-06-21. Pristupljeno 2010-10-16. 
+↑ Dmitri Pogosyan. „Lecture 20: Black Holes—The Einstein Equivalence Principle”. University of Alberta. Pristupljeno 2011-10-14. 
+↑ Randall, Lisa (2005). Warped Passages: Unraveling the Universe's Hidden Dimensions. Ecco. ISBN 0-06-053108-8. 
+↑ Feynman, R. P.; Morinigo, F. B.; Wagner, W. G.; Hatfield, B. (1995). Feynman lectures on gravitation. Addison-Wesley. ISBN 0-201-62734-5. 
+↑ Zee, A. (2003). Quantum Field Theory in a Nutshell. Princeton University Press. ISBN 0-691-01019-6. 
+↑ Gravitacija, [1] "Hrvatska enciklopedija", Leksikografski zavod Miroslav Krleža, www.enciklopedija.hr, 2014.
+↑ C. Will (2001). „The confrontation between general relativity and experiment”. Living Rev. Relativity 4:  4. 
+↑ Dark energy may just be a cosmic illusion Arhivirano 2008-05-05 na Wayback Machine-u, New Scientist, issue 2646, 7 March 2008.
+↑ Swiss-cheese model of the cosmos is full of holes Arhivirano 2008-10-24 na Wayback Machine-u, New Scientist, issue 2678, 18 October 2008.
+↑ 17,0 17,1 Chown, Marcus (16 March 2009). „Gravity may venture where matter fears to tread”. New Scientist. Pristupljeno 4 August 2013. 
+Poveznice[uredi | uredi kod]
+Gravitacijski metar
+Gravitacijski potencijal
+Gravitacijski crveni pomak
+Vanjske veze[uredi | uredi kod]
+Potraži značenje riječi Gravitacija u W(j)ečniku, slobodnom rječniku.
+Gravitacija na Wikimedijinoj ostavi
+p • r • uOsnovne sile u fizicijaka sila • slaba sila • elektromagnetska • gravitacijska
+pruHistorija fizikePojmovi
+ Svetlost •  Val •  Osnovne sile •  Energija •  Materija •  Masa •  Etar •  Kretanje •  Gravitacija •  Elektricitet •  Sila •  Tromost •  Valno-čestični dualizam •  Prostorvreme •  EntropijaPodručja
+ Astronomija •  Kosmologija •  Optika •  Mehanika •  Elektrostatika  •  Elektromagnetizam •  Termodinamika •  Kvantna fizika Pokusi i  otkrićaAntičkaTeorija atoma •  Udaljenost Sunca i Meseca •  Arhimedov zakon •  Obim zemlje •  Teorija impetusa •  Alhazenova optikaKlasičnaKopernikov sustav •  Snellov zakon •  Keplerovi zakoni planetarnog kretanja •  Slobodni pad •  Kretanje hica •  Galileijeva relativnost •  Pascalov zakon •  Hookeov zakon •  Boyleov zakon •  Brzina svjetlosti •  Njutnova teorija boja •  Newtonovi zakoni kretanja •  Newtonov zakon gravitacije •  Huygensov princip •  Zakon održanja mase •  Kulonov zakon •  Valna teorija svetla •  Atomska teorija •  Ampèreov zakon •  Ohmov zakon •  Faradayev zakon indukcije •  Gaussov zakon •  Zakon očuvanja energije •  Dopplerov efekat •  Drugi zakon termodinamike •  Foucaultovo klatno •  Maxwellove jednadžbe •  Michelson–Morleyjev eksperiment •  Elektromagnetsko zračenjeModernaLorentzove transformacije •  Kvant •  Fotoelektrični efekt •  Brownovo kretanje •  X-zrake •  Elektron •  Specijalna relativnost (ekvivalentnost mase i energije) •  Foton •  Atomsko jezgro •  Bohrov model atoma •  Opšta relativnost •  Valovi tvari •  Širenje svemira •  Šredingerova jednačina •  Načelo neodređenosti •  Neutron •  Nuklearna fisija i fuzija •  Pulsar •  Kvark •  Standardni model čestica •  Efekt staklenika •  Kozmičko pozadinsko zračenje  •  Higgsov bozon  •  Gravitacijski valoviFizičari
+ Tales •  Empedokle •  Demokrit •  Aristotel •  Aristarh •  Arhimed •  Eratosten •  Filopon •  Al Haitam •  Oresme •  Kopernik •  Tycho Brahe •  Kepler •  Galilei •  Torricelli •  Boyle •  Hooke •  Huygens •  Newton •  Franklin •  Lomonosov •  Coulomb •  Laplace •  Ørsted •  Ohm •  Faraday •  Doppler •  Foucault •  Maxwell •  Thomson •  Röntgen •  Planck •  Einstein •  Bohr •  Schrödinger •  Heisenberg •  De Broglie •  Rutherford •  Fermi  •  Higgs Kategorija
+Izvor: https://sh.wikipedia.org/w/index.php?title=Gravitacija&oldid=41398493
+Kategorije: GravitacijaRelativnostKlasična mehanikaNebeska mehanikaSakrivena kategorija: Webarchive template wayback links
+Navigacija
+Osobne alatke
+Niste prijavljeniRazgovorDoprinosIzradi računPrijavi me
+Imenski prostori
+StranicaRazgovor
+Latinica
+LatinicaЋирилица
+Teme
+PrikažiUrediUredi kodHistorija
+Više
+Pretraga
+Navigacija
+Glavna stranicaIstaknuti članciNedavne izmjeneNasumični članak
+Interakcija
+PomoćPijacaRadionicaMeđuprojektni forumNovostiKontakt
+Alatke
+Šta vodi ovamoPovezane izmjenePosebne straniceTrajni linkPodaci o straniciCitiraj stranicuStavka na Wikipodacima
+Štampanje/izvoz
+Napravi knjiguPreuzmi kao PDFZa štampanje
+Na drugim projektima
+Wikimedia Commons
+Na drugim jezicima
+AfrikaansAlemannischአማርኛAragonésअंगिकाالعربيةالدارجةمصرىঅসমীয়াAsturianuAzərbaycancaتۆرکجهБашҡортсаBoarischŽemaitėškaBikol CentralБеларускаяБеларуская (тарашкевіца)БългарскиBanjarবাংলাবিষ্ণুপ্রিয়া মণিপুরীBrezhonegBosanskiCatalàᏣᎳᎩکوردیČeštinaЧӑвашлаCymraegDanskDeutschZazakiΕλληνικάEnglishEsperantoEspañolEestiEuskaraEstremeñuفارسیSuomiNa Vosa VakavitiFrançaisNordfriiskFryskGaeilgeKriyòl gwiyannenGàidhligGalegoAvañe'ẽBahasa HulontaloગુજરાતીGaelgעבריתहिन्दीFiji HindiHrvatskiMagyarՀայերենInterlinguaBahasa IndonesiaInterlingueIdoÍslenskaItaliano日本語PatoisLa .lojban.JawaქართულიTaqbaylitKabɩyɛҚазақшаಕನ್ನಡ한국어कॉशुर / کٲشُرKurdîКыргызчаLatinaLëtzebuergeschLugandaLimburgsLombardLietuviųLatviešuMinangkabauМакедонскиമലയാളംМонголमराठीBahasa MelayuMirandésမြန်မာဘာသာPlattdüütschनेपालीनेपाल भाषाNederlandsNorsk nynorskNorsk bokmålNovialOccitanOromooਪੰਜਾਬੀPolskiپنجابیپښتوPortuguêsRuna SimiRomânăРусскийРусиньскыйसंस्कृतम्SarduSicilianuScotsسنڌيසිංහලSimple EnglishSlovenčinaSlovenščinaAnarâškielâChiShonaSoomaaligaShqipСрпски / srpskiSeelterskSundaSvenskaKiswahiliதமிழ்తెలుగుТоҷикӣไทยTagalogLea faka-TongaTürkçeТатарча / tatarçaТыва дылئۇيغۇرچە / UyghurcheУкраїнськаاردوOʻzbekcha / ўзбекчаVènetoVepsän kel’Tiếng ViệtWinarayWolof吴语მარგალურიייִדיש中文文言Bân-lâm-gú粵語IsiZulu
+Uredi veze
+ Datum i vrijeme posljednje izmjene stranice: 23 januar 2023 u 13:56
+Tekst je dostupan pod licencom Creative Commons Attribution-ShareAlike;
+mogu se primijeniti i dodatni uslovi.
+Za više informacija pogledajte Uslove korištenja.
+Pravila o privatnosti
+O projektu
+Odricanje odgovornosti
+Kodeks ponašanja
+Mobilni prikaz
+Programeri
+Statistika
+Izjava o kolačićima

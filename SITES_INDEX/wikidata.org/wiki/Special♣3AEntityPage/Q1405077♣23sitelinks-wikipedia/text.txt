@@ -1,0 +1,342 @@
+Kwanyama - Wikidata
+Kwanyama
+(Q1405077)
+From Wikidata
+Jump to navigation
+Jump to search
+language of Angola and NamibiaOshikwanyamaCuanhamakjKwanyama dialectKwanyama Oshiwambo
+edit
+Language
+Label
+Description
+Also known as
+English
+Kwanyama
+language of Angola and Namibia
+OshikwanyamaCuanhamakjKwanyama dialectKwanyama Oshiwambo
+Statements
+instance of
+modern language
+1 reference
+reference URL
+https://iso639-3.sil.org/code/kua
+dialect
+0 references
+standard language
+0 references
+subclass of
+Ovambo
+0 references
+native label
+Kwanyama (Kuanyama)
+0 references
+Oshikwanyama (Kuanyama)
+0 references
+Oshiwambo (Kuanyama)
+0 references
+country
+Angola
+1 reference
+reference URL
+https://scriptsource.org/country/AO
+title
+ScriptSource - Angola (English)
+retrieved
+21 August 2023
+Namibia
+1 reference
+reference URL
+https://scriptsource.org/country/NA
+title
+ScriptSource - Namibia (English)
+retrieved
+21 August 2023
+dialect of
+Ovambo
+0 references
+writing system
+Latin script
+1 reference
+reference URL
+http://www.ikuska.com/Africa/Lenguas/kwanyama/vocabulario.htm
+number of speakers, writers, or signers
+247,000
+point in time
+2006
+2 references
+reference URL
+http://www.ethnologue.com/language/kua
+imported from Wikimedia project
+Russian Wikipedia
+Wikimedia import URL
+https://ru.wikipedia.org/?oldid=112454456
+Ethnologue language status
+3 Wider Communication
+1 reference
+stated in
+Ethnologue
+retrieved
+9 May 2019
+reference URL
+https://www.ethnologue.com/language/kua
+indigenous to
+Cunene Province
+0 references
+Kunene Region
+0 references
+Kavango West Region
+0 references
+Oshana Region
+0 references
+Omusati Region
+0 references
+Oshikoto Region
+0 references
+Ohangwena Region
+0 references
+Wikimedia language code
+kj
+0 references
+exact match
+http://publications.europa.eu/resource/authority/language/KUA
+1 reference
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+different from
+Ndonga
+1 reference
+imported from Wikimedia project
+Polish Wikipedia
+Wikimedia import URL
+https://pl.wikipedia.org/w/index.php?title=Język_kwanyama&oldid=60987449
+topic's main category
+Category:Kwanyama language
+0 references
+Identifiers
+ISO 639-1 code
+kj
+2 references
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+imported from Wikimedia project
+Russian Wikipedia
+ISO 639-2 code
+kua
+applies to part
+terminology
+bibliography
+2 references
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+imported from Wikimedia project
+Russian Wikipedia
+ISO 639-3 code
+kua
+2 references
+stated in
+Language
+reference URL
+https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language
+imported from Wikimedia project
+Russian Wikipedia
+ISOCAT ID
+766
+0 references
+Bibliothèque nationale de France ID
+11940926v
+0 references
+National Library of Israel J9U ID
+987007548339705171
+1 reference
+stated in
+National Library of Israel Names and Subjects Authority File
+Library of Congress authority ID
+sh85073346
+1 reference
+reference URL
+https://github.com/JohnMarkOckerbloom/ftl/blob/master/data/wikimap
+retrieved
+3 April 2019
+IdRef ID
+027347958
+1 reference
+imported from Wikimedia project
+French Wikipedia
+ASC Leiden Thesaurus ID
+294920749
+1 reference
+stated in
+ASC Leiden Thesaurus dataset of 5 June 2018
+retrieved
+13 June 2018
+294920730
+0 references
+Ethnologue.com language code
+kua
+0 references
+EU Knowledge Graph item ID
+Q2632162
+0 references
+Freebase ID
+/m/082xxb
+1 reference
+stated in
+Freebase Data Dumps
+publication date
+28 October 2013
+Glottolog code
+kuan1247
+1 reference
+imported from Wikimedia project
+English Wikipedia
+GOST 7.75–97 code
+кия 303
+1 reference
+imported from Wikimedia project
+Russian Wikipedia
+IAB code
+1110
+0 references
+IETF language tag
+kj
+1 reference
+imported from Wikimedia project
+French Wikipedia
+Lingua Libre ID
+Q114
+0 references
+LoC and MARC vocabularies ID
+languages/kua
+0 references
+iso639-1/kj
+0 references
+OmegaWiki Defined Meaning
+812184
+0 references
+POSIX locale identifier
+kj
+0 references
+ 
+Sitelinks
+Wikipedia(34 entries)
+edit
+astwiki
+Idioma kuanyama
+azbwiki
+کوانیاما دیلی
+brwiki
+Kwanyamaeg
+cawiki
+Kwanyama
+cswiki
+Kuanyama
+dewiki
+OshiKwanyama
+enwiki
+Kwanyama dialect
+eowiki
+Kuanjama lingvo
+eswiki
+Idioma kuanyama
+fawiki
+زبان کوانیاما
+frwiki
+Kuanyama
+glwiki
+Lingua kwanyama
+hifwiki
+Kwanyama
+hiwiki
+क्वान्यामा भाषा
+itwiki
+Lingua kwanyama
+jawiki
+クワニャマ語
+mgwiki
+Fiteny koaniama
+mkwiki
+Квањама
+mswiki
+Bahasa Kwanyama
+mznwiki
+کوانیاما
+nlwiki
+Kwanyama
+plwiki
+Język kwanyama
+pmswiki
+Lenga Kwanyama
+ptwiki
+Língua cuanhama
+rowiki
+Dialectul Kwanyama
+ruwiki
+Кваньяма (язык)
+satwiki
+ᱠᱚᱣᱟᱱᱟᱭᱟᱢᱟ ᱪᱟᱸᱜᱟ ᱯᱟᱹᱨᱥᱤ
+simplewiki
+Kwanyama
+svwiki
+Kwanyama
+swwiki
+Kikwanyama
+tawiki
+குவான்மய மொழி
+trwiki
+Kuanyama Dili
+ukwiki
+Кваньяма
+zhwiki
+寬亞瑪語
+Wikibooks(0 entries)
+edit
+Wikinews(0 entries)
+edit
+Wikiquote(0 entries)
+edit
+Wikisource(0 entries)
+edit
+Wikiversity(0 entries)
+edit
+Wikivoyage(0 entries)
+edit
+Wiktionary(0 entries)
+edit
+Multilingual sites(0 entries)
+edit
+Retrieved from "https://www.wikidata.org/w/index.php?title=Q1405077&oldid=1961136423"
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+ItemDiscussion
+English
+Views
+ReadView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+ This page was last edited on 25 August 2023, at 18:46.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

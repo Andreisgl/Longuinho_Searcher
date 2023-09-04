@@ -1,0 +1,2122 @@
+Wiktionary - Meta
+Wiktionary
+From Meta, a Wikimedia project coordination wiki
+Jump to navigation
+Jump to search
+Translate this pageOther languages:Acèh
+Afrikaans
+Avañe'ẽ
+Bahasa Indonesia
+Bahasa Melayu
+Basa Bali
+Betawi
+Bikol Central
+Boarisch
+Bân-lâm-gú
+Cymraeg
+Deutsch
+English
+Esperanto
+Frysk
+Gaeilge
+Gaelg
+Gagana Samoa
+Hawaiʻi
+Ido
+Interlingue
+Ladino
+Limburgs
+Lingua Franca Nova
+Lëtzebuergesch
+Malagasy
+Malti
+Minangkabau
+Mirandés
+Na Vosa Vakaviti
+Nederlands
+Norfuk / Pitkern
+Oromoo
+Runa Simi
+Scots
+Sunda
+Tiếng Việt
+Türkmençe
+Türkçe
+Volapük
+Zazaki
+aragonés
+asturianu
+azərbaycanca
+brezhoneg
+català
+corsu
+dansk
+eesti
+español
+español de América Latina
+euskara
+français
+føroyskt
+galego
+hornjoserbsce
+interlingua
+italiano
+kurdî
+la .lojban.
+latviešu
+lietuvių
+magyar
+norsk bokmål
+occitan
+polski
+português
+português do Brasil
+română
+sardu
+sicilianu
+slovenčina
+slovenščina
+suomi
+svenska
+vèneto
+walon
+Ænglisc
+íslenska
+čeština
+Ελληνικά
+алтай тил
+беларуская
+беларуская (тарашкевіца)
+български
+ирон
+кыргызча
+македонски
+монгол
+русский
+українська
+қазақша
+հայերեն
+עברית
+ئۇيغۇرچە
+ئۇيغۇرچە / Uyghurche
+اردو
+الدارجة
+العربية
+بهاس ملايو
+تۆرکجه
+سرائیکی
+سنڌي
+فارسی
+مصرى
+پښتو
+کوردی
+ދިވެހިބަސް
+ߒߞߏ
+अंगिका
+डोटेली
+नेपाली
+भोजपुरी
+मराठी
+मैथिली
+हिन्दी
+বাংলা
+ਪੰਜਾਬੀ
+ગુજરાતી
+ଓଡ଼ିଆ
+தமிழ்
+తెలుగు
+ಕನ್ನಡ
+മലയാളം
+ไทย
+བོད་ཡིག
+ပအိုဝ်ႏဘာႏသာႏ
+ဖၠုံလိက်
+ဘာသာ မန်
+မြန်မာဘာသာ
+მარგალური
+ქართული
+አማርኛ
+ᬩᬲᬩᬮᬶ
+ᱥᱟᱱᱛᱟᱲᱤ
+Ἀρχαία ἑλληνικὴ
+ⵜⴰⵎⴰⵣⵉⵖⵜ
+ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ
+中文
+日本語
+粵語
+ꯃꯤꯇꯩ ꯂꯣꯟ
+한국어
+Wikimedia projects
+MediaWiki
+Meta-Wiki
+Wikibooks
+Wikidata
+Wikifunctions
+Wikimedia Commons
+Wikinews
+Wikiquote
+Wikipedia
+Wikisource
+Wikispecies
+Wiktionary
+Wikiversity
+Wikivoyage
+Complete list of Wikimedia projects — List of Wikimedia projects by size
+Wiktionary (a portmanteau of “wiki” and “dictionary”) is a project to create open-content dictionaries in every language.
+The first Wiktionary was the English language Wiktionary, created by Brion Vibber on December 12, 2002. French and Polish language Wiktionaries followed over a year later, on March 22, 2004.
+On May 1, 2004, Tim Starling initialized Wiktionaries in every language for which there was an existing Wikipedia, leading to 143 new Wiktionaries.
+The page “Requests for Wiktionary permissions” was created on May 2 so that stewards could deal with increase in permission requests by users needing administrator access on these new projects. This was later merged with “Requests for permissions”.
+The list of ISO codes can be found on Wikipedia.
+Contents
+1 User Group and discussions
+2 Recent changes for all Wiktionaries
+3 List of Wiktionaries
+3.1 Table
+4 Case sensitivity
+5 Active Wiktionaries
+5.1 Languages that use Wikipedia to serve their Wiktionary
+5.2 Test Wiktionaries
+6 See also
+User Group and discussions[edit]
+A set of multilingual pages on Meta are dedicated to Wiktionary and supported by the Tremendous Wiktionary User Group.
+Recent changes for all Wiktionaries[edit]
+Moved to Meta:Recentchanges/All languages
+List of Wiktionaries[edit]
+In the following table, "Entries" is the count of content pages, while "All pages" counts all pages including redirects, talk pages, etc. (explanation). "Wiki" links to the Wiktionary and is labeled with Wikimedia's abbreviation for the language name.
+Other sources of similar statistics for Wiktionaries:
+List of Wiktionaries by language family.
+Wikistats table, dynamically sortable to any criteria, self-updating every 24 hours by cronjob.
+Raw wiki markup of same Wikistats table.
+Table[edit]
+These statistics are updated four times a day. See commons:Data:Wikipedia statistics/data.tab for the date/time of last update.
+№
+Language
+Wiki
+Entries
+All pages
+Edits
+Admins
+Users
+Active users
+Files
+1
+English
+en
+7,534,029
+8,837,977
+75,936,141
+84
+4,102,423
+2,167
+22
+2
+French
+fr
+4,748,420
+5,337,881
+32,680,563
+34
+356,125
+518
+6
+3
+Malagasy
+mg
+3,650,898
+3,714,567
+31,715,482
+2
+10,728
+17
+3
+4
+Chinese
+zh
+1,362,702
+1,956,130
+7,824,798
+10
+114,741
+78
+1
+5
+Russian
+ru
+1,296,652
+2,778,029
+13,119,271
+14
+301,871
+235
+186
+6
+Greek
+el
+1,110,944
+1,164,959
+6,024,230
+10
+56,883
+51
+23
+7
+German
+de
+1,090,444
+1,267,571
+9,866,707
+14
+229,777
+203
+104
+8
+Spanish
+es
+917,325
+974,407
+5,141,580
+9
+158,679
+105
+14
+9
+Serbo-Croatian
+sh
+914,769
+916,497
+1,470,190
+3
+8,429
+9
+3
+10
+Swedish
+sv
+900,324
+942,528
+3,949,819
+13
+55,200
+58
+1
+11
+Dutch
+nl
+872,055
+1,156,492
+4,687,297
+8
+57,816
+69
+7
+12
+Kurdish
+ku
+852,649
+914,931
+5,425,990
+7
+11,251
+32
+15
+13
+Polish
+pl
+782,496
+819,937
+8,193,034
+14
+100,205
+115
+46
+14
+Lithuanian
+lt
+618,864
+692,339
+1,809,263
+4
+11,577
+10
+18
+15
+Catalan
+ca
+578,862
+597,664
+2,187,117
+5
+21,937
+33
+3
+16
+Italian
+it
+564,903
+602,026
+3,946,810
+5
+93,644
+61
+31
+17
+Hungarian
+hu
+554,143
+656,187
+3,240,891
+3
+30,097
+35
+0
+18
+Finnish
+fi
+444,908
+521,158
+4,455,165
+8
+32,800
+53
+16
+19
+Tamil
+ta
+407,773
+420,348
+1,992,124
+7
+22,296
+38
+243
+20
+Portuguese
+pt
+390,003
+516,569
+2,923,204
+6
+92,801
+59
+0
+21
+Turkish
+tr
+358,243
+462,016
+4,113,984
+4
+59,657
+44
+1
+22
+Japanese
+ja
+347,604
+399,115
+1,813,051
+5
+101,448
+88
+36
+23
+Ido
+io
+315,026
+346,238
+2,854,746
+2
+8,242
+15
+4
+24
+Armenian
+hy
+303,644
+316,387
+1,777,773
+2
+12,588
+17
+16
+25
+Korean
+ko
+298,756
+423,994
+4,057,713
+1
+29,723
+32
+17
+26
+Kannada
+kn
+264,372
+268,336
+673,314
+2
+6,972
+15
+0
+27
+Vietnamese
+vi
+258,226
+278,651
+2,122,492
+10
+54,444
+58
+5
+28
+Serbian
+sr
+226,827
+256,707
+695,621
+4
+14,874
+14
+0
+29
+Thai
+th
+220,779
+321,590
+1,766,486
+4
+15,158
+30
+0
+30
+Hindi
+hi
+184,193
+206,780
+480,185
+1
+16,478
+25
+6
+31
+Romanian
+ro
+166,701
+197,725
+987,607
+3
+22,380
+22
+12
+32
+Indonesian
+id
+157,543
+237,239
+1,023,821
+6
+38,049
+50
+3
+33
+Norwegian
+no
+156,463
+169,766
+1,172,880
+5
+16,941
+17
+9
+34
+Estonian
+et
+155,251
+169,077
+1,164,674
+5
+10,930
+20
+2
+35
+Saraiki
+skr
+147,863
+149,895
+229,814
+4
+753
+8
+0
+36
+Czech
+cs
+145,314
+219,448
+1,275,736
+4
+48,127
+47
+1
+37
+Malayalam
+ml
+131,251
+138,979
+554,466
+4
+9,178
+12
+4
+38
+Burmese
+my
+125,009
+129,917
+935,324
+2
+9,084
+20
+0
+39
+Uzbek
+uz
+117,174
+155,297
+609,721
+4
+9,298
+18
+0
+40
+Limburgish
+li
+116,873
+124,224
+811,030
+3
+4,753
+9
+13
+41
+Esperanto
+eo
+109,599
+138,549
+1,182,839
+1
+9,077
+16
+20
+42
+Odia
+or
+108,634
+110,827
+227,702
+2
+2,776
+4
+1
+43
+Telugu
+te
+106,485
+122,466
+967,061
+2
+6,005
+11
+931
+44
+Persian
+fa
+104,554
+187,440
+860,256
+3
+38,693
+35
+3
+45
+Galician
+gl
+80,208
+97,378
+723,782
+2
+6,717
+16
+74
+46
+Sango
+sg
+70,570
+80,950
+256,473
+2
+2,723
+9
+1
+47
+Arabic
+ar
+67,609
+125,797
+968,278
+5
+34,506
+25
+1
+48
+Occitan
+oc
+67,418
+83,201
+382,661
+2
+4,899
+22
+2
+49
+Javanese
+jv
+61,075
+72,793
+114,542
+2
+4,040
+9
+1
+50
+Icelandic
+is
+58,147
+63,769
+325,103
+4
+8,089
+12
+4
+51
+Azerbaijani
+az
+56,005
+65,685
+369,058
+3
+10,147
+16
+1
+52
+Ukrainian
+uk
+55,467
+75,138
+550,332
+5
+27,674
+26
+11
+53
+Basque
+eu
+54,656
+63,337
+409,581
+2
+6,043
+9
+3
+54
+Asturian
+ast
+53,561
+61,438
+304,710
+1
+4,942
+11
+0
+55
+Breton
+br
+48,359
+58,386
+337,279
+1
+4,906
+8
+39
+56
+Mon
+mnw
+43,446
+61,621
+80,824
+1
+1,146
+10
+0
+57
+Danish
+da
+42,306
+56,424
+313,090
+3
+12,754
+15
+0
+58
+Simple English
+simple
+41,058
+49,342
+509,483
+3
+45,622
+39
+2
+59
+Bangla
+bn
+40,397
+62,658
+188,671
+3
+9,837
+27
+8
+60
+Lao
+lo
+37,793
+62,897
+460,755
+2
+3,792
+8
+1
+61
+Latin
+la
+35,982
+49,020
+223,478
+1
+13,923
+11
+66
+62
+Shan
+shn
+33,341
+38,344
+83,965
+2
+665
+10
+0
+63
+Croatian
+hr
+32,875
+40,909
+267,792
+2
+9,657
+7
+5
+64
+Slovak
+sk
+32,092
+35,080
+170,576
+4
+6,598
+10
+2
+65
+Fijian
+fj
+31,356
+32,194
+178,237
+1
+5,149
+3
+0
+66
+Walloon
+wa
+30,361
+46,536
+384,129
+4
+4,034
+15
+126
+67
+Kyrgyz
+ky
+30,309
+76,901
+192,049
+1
+4,401
+7
+0
+68
+Bulgarian
+bg
+29,431
+866,172
+1,134,907
+4
+20,210
+17
+22
+69
+Lombard
+lmo
+28,306
+30,239
+256,945
+3
+661
+8
+0
+70
+Urdu
+ur
+26,589
+33,533
+111,556
+2
+5,047
+11
+2
+71
+Welsh
+cy
+26,342
+29,562
+165,547
+1
+6,881
+9
+7
+72
+Pashto
+ps
+25,575
+28,681
+81,908
+1
+2,647
+3
+2
+73
+Tajik
+tg
+25,314
+36,961
+121,007
+1
+3,174
+9
+0
+74
+Kabardian
+kbd
+24,750
+28,941
+81,049
+1
+202
+6
+0
+75
+Hebrew
+he
+24,357
+47,915
+472,421
+7
+40,090
+54
+290
+76
+Volapük
+vo
+23,451
+25,888
+204,058
+1
+3,047
+5
+1
+77
+Oromo
+om
+23,372
+24,378
+40,552
+1
+2,871
+7
+0
+78
+Slovenian
+sl
+23,208
+33,553
+170,069
+2
+7,167
+10
+0
+79
+Afrikaans
+af
+22,776
+30,149
+214,840
+2
+7,569
+14
+966
+80
+Min Nan Chinese
+nan
+22,041
+24,221
+161,442
+1
+4,289
+10
+1
+81
+Sicilian
+scn
+18,786
+27,921
+165,825
+2
+5,143
+6
+22
+82
+Malay
+ms
+18,628
+30,185
+144,875
+3
+6,660
+43
+3
+83
+Tagalog
+tl
+16,129
+26,949
+160,767
+1
+4,978
+6
+15
+84
+Punjabi
+pa
+15,450
+16,575
+34,912
+1
+2,519
+4
+0
+85
+Western Frisian
+fy
+14,529
+20,274
+155,605
+1
+3,612
+6
+13
+86
+Swahili
+sw
+14,376
+17,123
+133,047
+1
+4,103
+5
+0
+87
+Kazakh
+kk
+12,890
+15,644
+105,713
+1
+3,764
+6
+8
+88
+Georgian
+ka
+12,604
+17,190
+115,608
+3
+5,773
+10
+8
+89
+Norwegian Nynorsk
+nn
+12,190
+14,113
+80,342
+2
+3,455
+5
+1
+90
+Minangkabau
+min
+11,419
+12,179
+29,852
+2
+842
+7
+0
+91
+Latvian
+lv
+11,311
+14,733
+93,202
+1
+5,516
+6
+1
+92
+Gorontalo
+gor
+10,114
+10,550
+23,232
+3
+333
+0
+0
+93
+Low German
+nds
+10,112
+38,285
+141,034
+2
+3,803
+3
+16
+94
+Albanian
+sq
+10,104
+46,332
+150,774
+2
+6,408
+7
+0
+95
+Luxembourgish
+lb
+9,863
+17,152
+129,773
+3
+3,309
+6
+107
+96
+Bosnian
+bs
+9,588
+13,202
+70,755
+4
+3,493
+8
+0
+97
+Corsican
+co
+9,516
+11,381
+75,581
+2
+4,225
+5
+17
+98
+Mongolian
+mn
+9,410
+47,215
+249,687
+1
+6,713
+6
+113
+99
+Western Punjabi
+pnb
+9,313
+10,284
+24,686
+1
+1,890
+2
+0
+100
+Nāhuatl
+nah
+7,058
+9,957
+71,634
+1
+2,789
+4
+1
+101
+Cantonese
+yue
+7,004
+9,841
+25,285
+1
+3,255
+8
+0
+102
+Central Kurdish
+ckb
+6,081
+8,051
+19,344
+2
+337
+11
+0
+103
+Sanskrit
+sa
+6,024
+263,451
+508,819
+1
+6,346
+4
+4
+104
+Khmer
+km
+5,814
+47,597
+111,883
+3
+4,682
+10
+107
+105
+Belarusian
+be
+5,034
+9,115
+52,342
+2
+4,664
+10
+0
+106
+Zazaki
+diq
+5,009
+8,351
+68,236
+2
+616
+7
+0
+107
+Venetian
+vec
+4,953
+6,795
+37,545
+2
+2,568
+5
+1
+108
+Turkmen
+tk
+4,692
+5,774
+27,405
+1
+2,753
+3
+0
+109
+Nias
+nia
+4,640
+6,985
+25,268
+3
+674
+9
+0
+110
+Macedonian
+mk
+4,570
+6,622
+50,922
+2
+2,967
+8
+0
+111
+Samoan
+sm
+4,315
+8,415
+63,951
+1
+3,453
+4
+0
+112
+Upper Sorbian
+hsb
+4,217
+5,484
+16,416
+1
+2,638
+2
+0
+113
+Kashmiri
+ks
+3,902
+5,976
+28,076
+3
+3,393
+5
+0
+114
+Shawiya
+shy
+3,858
+4,233
+17,759
+1
+862
+5
+0
+115
+Sundanese
+su
+3,334
+4,468
+19,403
+1
+2,233
+4
+1
+116
+Central Bikol
+bcl
+3,303
+8,862
+31,167
+2
+802
+20
+0
+117
+Irish
+ga
+3,091
+6,225
+58,667
+2
+9,486
+9
+28
+118
+Batak Mandailing
+btm
+3,027
+3,115
+11,096
+2
+164
+7
+0
+119
+Scottish Gaelic
+gd
+2,928
+12,277
+85,440
+1
+3,589
+5
+0
+120
+Aragonese
+an
+2,760
+6,119
+32,348
+1
+3,119
+3
+2
+121
+Goan Konkani
+gom
+2,720
+3,058
+24,673
+2
+724
+3
+0
+122
+Marathi
+mr
+2,715
+6,067
+28,685
+2
+3,522
+5
+3
+123
+Wolof
+wo
+2,619
+4,297
+26,526
+1
+2,356
+4
+5
+124
+Manipuri
+mni
+2,571
+2,962
+7,810
+2
+467
+2
+0
+125
+Interlingua
+ia
+2,339
+9,387
+45,426
+1
+3,294
+4
+5
+126
+Banjar
+bjn
+2,266
+2,607
+8,314
+2
+338
+7
+0
+127
+Old English
+ang
+2,196
+3,909
+54,251
+1
+6,051
+6
+2
+128
+Maltese
+mt
+2,182
+3,627
+20,788
+1
+2,288
+4
+2
+129
+Sindhi
+sd
+2,171
+6,800
+28,691
+1
+2,215
+3
+43
+130
+Tatar
+tt
+2,162
+9,182
+79,151
+1
+2,911
+6
+1
+131
+Faroese
+fo
+2,155
+3,589
+24,493
+1
+2,585
+3
+0
+132
+Hausa
+ha
+2,148
+5,824
+29,418
+3
+3,579
+20
+0
+133
+Pa'O
+blk
+2,022
+2,718
+9,528
+1
+127
+18
+0
+134
+Somali
+so
+1,898
+5,978
+24,651
+1
+4,500
+8
+0
+135
+Sinhala
+si
+1,789
+10,032
+38,922
+2
+2,936
+7
+8
+136
+Guarani
+gn
+1,786
+2,720
+14,663
+1
+2,619
+2
+1
+137
+Interlingue
+ie
+1,715
+3,263
+15,942
+1
+2,422
+2
+0
+138
+Māori
+mi
+1,714
+2,965
+16,948
+1
+6,132
+11
+0
+139
+Kashubian
+csb
+1,680
+2,735
+35,698
+1
+2,648
+3
+0
+140
+Uyghur
+ug
+1,575
+3,716
+31,006
+1
+2,695
+3
+0
+141
+Gun
+guw
+1,421
+1,813
+16,581
+2
+308
+2
+0
+142
+Southern Sotho
+st
+1,374
+2,318
+16,248
+1
+4,902
+4
+2
+143
+Fiji Hindi
+hif
+1,324
+1,983
+14,590
+2
+1,019
+4
+0
+144
+Lojban
+jbo
+1,309
+2,231
+13,742
+1
+3,119
+3
+0
+145
+Aromanian
+roa-rup
+1,308
+2,026
+15,946
+1
+2,400
+4
+0
+146
+Kalaallisut
+kl
+1,173
+2,783
+24,184
+1
+2,386
+4
+2
+147
+Zulu
+zu
+1,133
+1,985
+14,467
+1
+3,411
+4
+0
+148
+Aymara
+ay
+1,048
+1,956
+16,354
+1
+2,839
+2
+0
+149
+Lingala
+ln
+765
+1,435
+11,428
+1
+4,062
+6
+0
+150
+Yiddish
+yi
+716
+3,176
+17,264
+1
+16,686
+7
+20
+151
+Gujarati
+gu
+690
+6,248
+28,464
+2
+3,074
+3
+0
+152
+Nauru
+na
+620
+1,620
+13,589
+1
+3,479
+3
+0
+153
+Manx
+gv
+588
+1,538
+14,063
+1
+2,593
+4
+1
+154
+Cornish
+kw
+522
+1,160
+13,107
+1
+2,766
+3
+0
+155
+Tok Pisin
+tpi
+506
+2,183
+13,497
+1
+4,129
+5
+0
+156
+Tyap
+kcg
+497
+759
+27,059
+2
+180
+4
+0
+157
+Amharic
+am
+450
+2,111
+20,708
+1
+3,192
+5
+0
+158
+Nepali
+ne
+432
+16,733
+63,551
+1
+4,508
+4
+25
+159
+Kinyarwanda
+rw
+399
+1,190
+12,596
+1
+4,381
+5
+0
+160
+Tsonga
+ts
+392
+1,040
+9,284
+1
+2,880
+2
+0
+161
+Igbo
+ig
+349
+4,324
+20,050
+1
+589
+3
+0
+162
+Quechua
+qu
+343
+1,561
+13,476
+1
+2,150
+3
+2
+163
+Swati
+ss
+325
+1,365
+10,279
+2
+3,824
+3
+0
+164
+Inuktitut
+iu
+324
+1,062
+10,900
+1
+4,880
+6
+0
+165
+Cherokee
+chr
+313
+1,288
+778,822
+1
+10,270
+6
+1
+166
+Divehi
+dv
+226
+1,288
+9,184
+1
+2,342
+3
+2
+167
+Tigrinya
+ti
+149
+1,176
+9,285
+1
+2,248
+4
+0
+168
+Tswana
+tn
+131
+983
+8,569
+2
+3,201
+2
+0
+Totals
+Entries
+All pages
+Edits
+Admins
+Users
+Active users
+Files
+All active Wiktionaries
+36,042,646
+44,038,622
+275,210,268
+558
+7,045,183
+5,574
+4,057
+Case sensitivity[edit]
+For all Wiktionaries, the first character of the page name (after the namespace prefix) is case-sensitive (like all other letters of this name).
+Active Wiktionaries[edit]
+Ænglisc (ang) ·
+Afrikaans (af) ·
+Alemannisch (als) ·
+aragonés (an) ·
+armãneashti (roa-rup) ·
+asturianu (ast) ·
+Avañe'ẽ (gn) ·
+Aymar aru (ay) ·
+azərbaycanca (az) ·
+Bahasa Indonesia (id) ·
+Bahasa Melayu (ms) ·
+Bân-lâm-gú (zh-min-nan) ·
+Jawa (jv) ·
+Sunda (su) ·
+bosanski (bs) ·
+brezhoneg (br) ·
+català (ca) ·
+čeština (cs) ·
+corsu (co) ·
+Cymraeg (cy) ·
+dansk (da) ·
+Deutsch (de) ·
+Dorerin Naoero (na) ·
+eesti (et) ·
+English (en) ·
+español (es) ·
+Esperanto (eo) ·
+euskara (eu) ·
+føroyskt (fo) ·
+français (fr) ·
+Frysk (fy) ·
+Gaeilge (ga) ·
+Gaelg (gv) ·
+Gagana Samoa (sm) ·
+Gàidhlig (gd) ·
+galego (gl) ·
+gungbe (guw) ·
+Hausa (ha) ·
+hrvatski (hr) ·
+Ido (io) ·
+interlingua (ia) ·
+Interlingue (ie) ·
+Iñupiatun (ik) ·
+isiZulu (zu) ·
+íslenska (is) ·
+italiano (it) ·
+kalaallisut (kl) ·
+kaszëbsczi (csb) ·
+kernowek (kw) ·
+Ikinyarwanda (rw) ·
+Kiswahili (sw) ·
+kurdî (ku) ·
+Latina (la) ·
+latviešu (lv) ·
+Lëtzebuergesch (lb) ·
+lietuvių (lt) ·
+Limburgs (li) ·
+lingála (ln) ·
+la .lojban. (jbo) ·
+magyar (hu) ·
+Malagasy (mg) ·
+Malti (mt) ·
+Māori (mi) ·
+Na Vosa Vakaviti (fj) ·
+Nāhuatl (nah) ·
+Nederlands (nl) ·
+norsk (no) ·
+norsk nynorsk (nn) ·
+occitan (oc) ·
+Oromoo (om) ·
+oʻzbekcha / ўзбекча (uz) ·
+Plattdüütsch (nds) ·
+polski (pl) ·
+português (pt) ·
+română (ro) ·
+Runa Simi (qu) ·
+Sängö (sg) ·
+Sesotho (st) ·
+Setswana (tn) ·
+shqip (sq) ·
+sicilianu (scn) ·
+Simple English (simple) ·
+SiSwati (ss) ·
+slovenčina (sk) ·
+slovenščina (sl) ·
+Soomaaliga (so) ·
+srpskohrvatski / српскохрватски (sh) ·
+suomi (fi) ·
+svenska (sv) ·
+Tagalog (tl) ·
+Tiếng Việt (vi) ·
+Tok Pisin (tpi) ·
+Türkçe (tr) ·
+Türkmençe (tk) ·
+Vahcuengh (za) ·
+Volapük (vo) ·
+walon (wa) ·
+Wolof (wo) ·
+Xitsonga (ts) ·
+Ελληνικά (el) ·
+беларуская (be) ·
+български (bg) ·
+кыргызча (ky) ·
+қазақша (kk) ·
+македонски (mk) ·
+монгол (mn) ·
+русский (ru) ·
+српски / srpski (sr) ·
+татарча / tatarça (tt) ·
+тоҷикӣ (tg) ·
+українська (uk) ·
+հայերեն (hy) ·
+ქართული (ka) ·
+गोंयची कोंकणी / Gõychi Konknni (gom) ·
+कॉशुर / کٲشُر (ks) ·
+नेपाली (ne) ·
+मराठी (mr) ·
+संस्कृतम् (sa) ·
+हिन्दी (hi) ·
+Fiji Hindi (hif) ·
+hornjoserbsce (hsb) ·
+বাংলা (bn) ·
+ਪੰਜਾਬੀ (pa) ·
+ગુજરાતી (gu) ·
+ଓଡ଼ିଆ (or) ·
+தமிழ் (ta) ·
+తెలుగు (te) ·
+ಕನ್ನಡ (kn) ·
+Minangkabau (min) ·
+മലയാളം (ml) ·
+සිංහල (si) ·
+ไทย (th) ·
+မြန်မာဘာသာ (my) ·
+བོད་ཡིག (bo) ·
+ລາວ (lo) ·
+ភាសាខ្មែរ (km) ·
+ᐃᓄᒃᑎᑐᑦ / inuktitut (iu) ·
+ᏣᎳᎩ (chr) ·
+ትግርኛ (ti) ·
+አማርኛ (am) ·
+한국어 (ko) ·
+日本語 (ja) ·
+中文 (zh) ·
+粵語 (yue) ·
+ייִדיש (yi) ·
+עברית (he) ·
+اردو (ur) ·
+العربية (ar) ·
+پښتو (ps) ·
+پنجابی (pnb) ·
+سنڌي (sd) ·
+ၽႃႇသႃႇတႆး (shn) ·
+tacawit (shy) ·
+vèneto (vec) ·
+فارسی (fa) ·
+ئۇيغۇرچە / Uyghurche (ug) ·
+ދިވެހިބަސް (dv) ·
++/-
+Languages that use Wikipedia to serve their Wiktionary[edit]
+The Alemannic Wiktionary has been created as separate namespace within Alemannic Wikipedia.
+The Bavarian Wiktionary has been created as separate namespace within Bavarian Wikipedia.
+The Literary Chinese Wiktionary has been created as separate namespace within Literary Chinese Wikipedia.
+The Rhine Franconian Wiktionary has been created as separate namespace within Rhine Franconian Wikipedia.
+The Scots Wiktionary has been created as separate namespace within Scots Wikipedia. For historical reasons, the incubator:Wt/sco test project co-exists, but it is planned to migrate to scowiki.
+Test Wiktionaries[edit]
+Please visit the Wikimedia Incubator project for new language versions.
+Manually maintained list of test-Wiktionaries
+Manual for creating new tests
+See also[edit]
+The Wiktionary logos, see also c:Wiktionary
+Capitalization of Wiktionaries and languages names
+OmegaWiki / Ultimate Wiktionary
+Wikabulary
+www.wiktionary.org template
+Wiktionary and dicologos
+Transwiki, a namespace for moving articles from Wikipedia to Wiktionary.
+Wikipedia article about Wiktionary
+Multilingual statistics
+THEwikiStics – lists most accessed pages for each project
+Wiktionary Statistics
+Wiktionary Statistics (plots)
+List of Wikipedias
+Complete lists of Wikimedia projects (separate lists | table)
+Retrieved from "https://meta.wikimedia.org/w/index.php?title=Wiktionary&oldid=25551346"
+Categories: Wikimedia projectsWiktionaryLists of Wikimedia projects
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+Content pageDiscussion
+English
+Views
+ReadEditView history
+More
+Search
+Navigation
+Main pageWikimedia NewsTranslationsRecent changesRandom pageHelpBabel
+Community
+Wikimedia Resource CenterWikimedia ForumMailing listsRequestsBabylonReportsResearchPlanet Wikimedia
+Beyond the Web
+Meet WikimediansEventsMovement affiliatesDonate
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this pageWikidata item
+Print/export
+Create a bookDownload as PDFPrintable version
+In other projects
+Wikimedia CommonsWikibooksWikipediaWikiquoteWikiversity
+In other languages
+AfrikaansAlemannischAragonésالعربيةالدارجةمصرىঅসমীয়াAsturianuАварAzərbaycancaتۆرکجهBasa BaliBoarischBikol CentralБеларускаяБеларуская (тарашкевіца)БългарскиBanjarပအိုဝ်ႏဘာႏသာႏবাংলাBrezhonegCatalà閩東語 / Mìng-dĕ̤ng-ngṳ̄کوردیČeštinaKaszëbscziЧӑвашлаCymraegDanskDeutschΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFrançaisGaeilgeAvañe'ẽગુજરાતીGungbeHausa客家語/Hak-kâ-ngîעבריתहिन्दीHrvatskiKreyòl ayisyenMagyarՀայերենInterlinguaBahasa IndonesiaIgboÍslenskaItaliano日本語JawaქართულიTyapGĩkũyũភាសាខ្មែរಕನ್ನಡ한국어कॉशुर / کٲشُرKurdîLatinaLadinoLimburgsLombardລາວLietuviųLatviešuMalagasyМакедонскиമലയാളംဘာသာ မန်मराठीBahasa MelayuMaltiမြန်မာဘာသာNedersaksiesनेपालीNederlandsNorsk nynorskNorskOccitanଓଡ଼ିଆਪੰਜਾਬੀPolskiپنجابیPortuguêsRomânăArmãneashtiРусскийSicilianuScotsسنڌيSängöSrpskohrvatski / српскохрватскиၽႃႇသႃႇတႆး සිංහලSimple EnglishSlovenčinaSlovenščinaChiShonaShqipСрпски / srpskiSundaSvenskaKiswahiliதமிழ்తెలుగుТоҷикӣไทยTagalogTok PisinTürkçeТатарча / tatarçaУкраїнськаاردوOʻzbekcha / ўзбекчаVènetoTiếng ViệtWalonWinarayWolof吴语ייִדישVahcuengh中文文言Bân-lâm-gú粵語
+Edit links
+ This page was last edited on 2 September 2023, at 03:46.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Privacy policy
+About Meta
+Disclaimers
+Code of Conduct
+Mobile view
+Developers
+Statistics
+Cookie statement

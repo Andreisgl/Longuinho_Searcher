@@ -1,0 +1,185 @@
+  
+KBpedia: Novel Reference Concept
+ 
+ 
+Toggle navigation
+             
+          
+           
+        
+Home
+knowledge Graph
+SPARQL
+Background
+Overview
+Features & Benefits
+Data and Knowledge Structures
+Technology
+Machine Learning
+Uses
+Use Cases
+Knowledge Graph (KG)
+Browse the Knowledge Graph
+Search the Knowledge Graph
+Expand Queries Using Semsets
+Uses and Control of Inferencing
+Machine Learning (KBAI)
+Create Supervised Learning Training Sets
+Create Word Embedding Corpuses
+Create Graph Embedding Corpuses
+Classify Text
+Create 'Gold Standards' for Tuning Learners
+Disambiguate KG Concepts
+Dynamic Machine Learning Using the KG
+Mapping
+Map Concepts
+Extend KBpedia with Wikipedia
+Extend KBpedia for Domains
+General Use of the Mapper
+Resources
+Download KBpedia
+About KBpedia
+KBpedia FAQ
+News About KBpedia
+KBpedia Statistics
+Additional Documentation
+Support for KBpedia.
+           
+        
+           
+        
+version 2.50 (6/15/2020)
+See a problem? Tell us.
+Reference Concepts
+Search
+Toggle Dropdown
+Reference Concepts
+Entities
+           
+        
+           
+        
+           
+        
+ 
+           
+        
+Core Structure
+                    These are the structural linkages among the core knowledge bases for this RC: ... more
+                      The core structure for KBpedia is derived from six (6) main knowledge bases — OpenCyc, UMBEL, GeoNames, DBpedia, Wikipedia and Wikidata. The conceptual relationships in the KBpedia Knowledge Ontology (KKO) are largely drawn from OpenCyc and UMBEL, though any of the other four sources may contribute local knowledge graph structure. Additional reference concepts (RCs) are contributed primarily from GeoNames and Wikipedia. Wikidata contributes the bulk of the instance data, though instance records are actually drawn from all sources. DBpedia and Wikidata are also the primary sources for attribute characterizations of the instances.
+                      Two characteristics define what is a core contributor to the KBpedia structure: 1) the scale and completeness of the source; and 2) its contribution of a large number of RCs to the overall KKO knowledge graph. The KBs in the core structure play a central role in the scope and definition of KBpedia. This core structure of KBpedia is supplemented by mappings to about 20 additional external linkages, which are highly useful for interoperability purposes, but do not themselves contribute to the same extent to the RC scope of the KKO graph.
+                      Instances (or entities) are related to the KKO graph via the rdfs:type predicate, which assigns an entity to one or more parental classes. RCs within the KKO graph may be equivalent (owl:equivalentClass), a parent super class (kko:superClassOf), a child sub class (rdfs:subClassOf), or a closely related concept (kko:isCloselyRelated). These relationships define the edges between the nodes in the graph structure, and are also the basis for logical inferencing. 
+                    
+Sub-Classes
+Direct
+Inferred
+Show all
+Super-Classes
+Direct
+Inferred
+Show all
+Equivalent Classes
+Same As
+Is Related To
+           
+        
+ 
+           
+        
+External Linkages
+                    The Novel concept has these mappings to external knowledge graphs: ... more
+                      KBpedia reference concepts (RCs) are linked to thousands of classes defined in nearly 20 external ontologies used to describe all kinds of public and private datasets. Some of the prominent external vocabularies include schema.org, the major structured data system for search engines, and Dublin Core, a key vocabulary from the library community. Other external vocabularies cover music, organizations, projects, social media, and the like.
+                    
+Sub-Classes
+Direct
+Inferred
+Super-Classes
+Direct
+Inferred
+Equivalent Classes
+Same As
+Is Related To
+           
+        
+ 
+           
+        
+Entities
+                    Here are some entities for this reference concept: ... more
+Entities are distinct, nameable, individual things. Entities may be physical objects or conceptual works or discrete ideas, so long as they may be characterized by attributes shared by other instances. Entities may be parts of other things, so long as they have a distinct identity and character. Entities with shared attributes that are the essence of the things may be grouped into natural types, called entity types. These entity types may be further related to other entity types in natural groupings or hierarchies depending on the attributes and their essences that are shared among them.
+                      For the current RC, which is by definition an entity type, we are displaying a small portion of its entities. You can browse all entities for this RC by clicking the Browse all entities button. 
+                    
+Number of entities
+Entity examples
+           
+        
+ 
+           
+        
+Aspect-related Entities
+                    Here are some aspect-related entities for this reference concept: ... more
+           
+        
+ 
+           
+        
+Typologies
+                    The Novel concept is a member of these typologies: ... more
+                      About 3/4 of all of the reference concepts (RCs) in KBpedia represent classes of entities, which themselves are organized into about 30 typologies. Most of these typologies are disjoint (lack overlap) from one another, which provides an efficient mechanism for testing subsets and filtering entities into smaller groups for computational purposes.
+                      The major groupings of types reside in core typologies, which is where the largest degree of disjointedness occurs. There are some upper typologies (such as Living Things over Plants, Animals, etc.) that are used mostly for organizational purposes. The core typologies are the key ones to focus upon for distinguishing large groupings of entities. 
+                    
+Core
+Extended
+           
+        
+ 
+           
+        
+Broader Concepts
+                    Learn ... more
+Broader concepts represent the parents (or grandparental lineage in the case of inference) for the current reference concept (RC). The broader concept relationship is expressed using the transitive kko:superClassOf property. This property is the inverse of the rdfs:subClassOf property.
+                    
+Direct
+Inferred
+Narrower Concepts
+                    Learn ... more
+Narrower concepts represent the children (or grandchild lineages in the case of inference) for the current reference concept (RC). The narrower concept relationship is expressed using the transitive rdfs:subClassOf property. This property is the inverse of the kko:superClassOf property. 
+                    
+Direct
+Inferred
+           
+        
+                      KBpedia
+                    
+                KBpedia exploits large-scale knowledge bases and semantic technologies for machine learning, data interoperability and mapping, and fact extraction and tagging.
+              
+                    Latest News
+                  
+KBpedia Adds Major eCommerce Capabilities
+06/15/2020
+KBpedia Continues Quality Improvements
+12/04/2019
+Wikidata Coverage Nearly Complete (98%)
+04/08/2019
+                  Other Resources
+                
+About
+FAQ
+News
+Use Cases
+Documentation
+Privacy
+Terms of Use
+                  Contact Us
+                
+                c/o Michael K. Bergman
+                380 Knowling Drive
+                
+                Coralville, IA 52241
+                
+                U.S.A.
+                
+                Voice: +1 319 621 5225
+              
+                2016-2022 © Michael K. Bergman. All Rights Reserved.
+              

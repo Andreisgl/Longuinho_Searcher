@@ -1,0 +1,149 @@
+AUT - Full View of Record 
+ 
+        Databases of the National Library CR 
+    
+ 
+      Base:  AUT   
+    
+ 
+      Logout
+ 
+      | 
+    
+ 
+      Login
+ 
+      | 
+    
+ 
+      Databases
+ 
+      | 
+    
+ 
+      Preferences
+ 
+      | 
+    
+ 
+      Feedback
+ 
+      | 
+    
+ 
+      Help
+ 
+      Search / Browse
+ 
+      | 
+    
+ 
+      Results list
+ 
+      | 
+    
+ 
+      Previous searches
+ 
+      | 
+    
+ 
+      My e-Shelf
+ 
+      | 
+    
+ 
+      History
+ 
+      | 
+    
+ 
+        
+    
+ 
+ 
+      
+  
+ 
+               Add to Basket
+ 
+                |  
+  
+ 
+               Save / Mail
+ 
+      
+  
+ AUT - Full View of Record 
+ 
+    Choose format:   
+  
+ 
+       Standard
+ 
+       --   
+       MARC
+ Record         1 out of         1 
+   
+LDR  
+-----cz--a22-----n--4500 
+FMT  
+VA 
+001  
+ph124318 
+003  
+CZ-PrNK 
+005  
+20170726152507.0 
+008  
+000811|n|anznnbabn-----------n-a|a------ 
+040  
+|a ABA001 |b cze |d ABA001 
+072 7  
+|a 811.162 |x Západoslovanské jazyky |2 Konspekt |9 11 
+080  
+|a 811.162.1 |2 MRF_2003 
+150  
+|a polština |7 ph124318 
+550  
+|a kašubština |7 ph172903 
+550  
+|a polská filologie |7 ph124280 
+550  
+|w h |a hovorová polština |7 ph120844 
+550  
+|w h |a jazykové vlivy (polské) |7 ph276813 
+550  
+|w h |a překlady do polštiny |7 ph124896 
+550  
+|w h |a překlady z polštiny |7 ph138241 
+550  
+|w h |a spisovná polština |7 ph487773 
+550  
+|w h |a stará polština |7 ph126051 
+550  
+|w g |a západoslovanské jazyky |7 ph127744 
+75007  
+|a Polish language |2 eczenas 
+906  
+|a wp20010608 |b zdpr 
+906  
+|a wu20030401 |b veka 
+906  
+|a wu20031008 |b veka 
+906  
+|a wu20040121 |b veka 
+906  
+|a wu20050318 |b maba 
+906  
+|a wu20071005 |b veka 
+906  
+|a wu20081128 |b irpi 
+906  
+|a wu20170726 |b maba 
+SYS  
+000124318 
+More info: 
+ 
+  
+ © 2014 Ex Libris, NL CR

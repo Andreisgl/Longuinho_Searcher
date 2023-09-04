@@ -1,0 +1,106 @@
+Template:Databox/doc/mk - Wikidata
+Template:Databox/doc/mk
+From Wikidata
+< Template:Databox
+Jump to navigation
+Jump to search
+This page is a translated version of the page Template:Databox/doc and the translation is 93% complete.Other languages:Bahasa Indonesia
+Deutsch
+English
+Esperanto
+Nederlands
+asturianu
+dansk
+español
+français
+polski
+svenska
+беларуская (тарашкевіца)
+македонски
+русский
+العربية
+বাংলা
+ไทย
+中文
+日本語
+Uses Lua:
+Module:Databox
+Овој модул дава што е можно попрост систем за инфокутии врз основа на Википодатоците.
+An introductory presentation of Databox, given at the Wikidata Reuse Days 2022
+Тој е целосно автоматизиран, не бара поставување и нагодување за да се користи и нема збороизмена зависна од  видот на единица (личност, место...).
+Contents
+1 Како работи?
+1.1 Белешки
+2 Како би се користела на вашето вики?
+3 Примери
+4 Поврзано
+Како работи?
+Овој модел е заднински код на предлошката Databox.
+Го користи предметот на Википедија поврзан со тековната страница или предметот чија назнака е укажана во параметарот item за автоматско градење на инфокутија.
+Неговиот основен алгоритам е:
+Користете го натписот на предметот или, ако го нема, насловот на страницата како наслов на инфокутијата.
+Користете ја вредноста на image (P18) за главната слика.
+Користете ја вредноста (или вредностите) на instance of (P31) за наслов на податотечната табела.
+Take all the properties used by the item, sort them according to MediaWiki:Wikibase-SortedProperties, and for each one:
+Ако својството нема податочен тип External identifier, Commons media file или Quantity[a 1], не прикажувај ништо.
+Ако својството е во низата property_blacklist од модулот, не прикажувај ништо (се врши за филтрирање на својства кои не се многу релевантни за приказ во инфокутии).
+Ако својството има повеќе од 5 вредности, не прикажувај ништо (за да се избегнат долги списоци во инфокутиите).
+Користете основно зададен исписен систем од Викибазата а приказ на вредности кои го имаат рангот „best“  (на пр. вредностите со рангот „претпочитано“, ако некои постојат, а ако не, оние со рангот „нормално“).
+Ако има вредност за coordinate location (P625), тогаш прикажи карта користејќи го Картограф.
+Белешки
+↑ Тековниот приказ на количини од Викибазата е многу ограничен, овој филтер треба да се отстрани по подобрувања
+Како би се користела на вашето вики?
+Прекопирајте го кодот на Module:Databox во модул на вашето вики наречен Module:Databox.
+Додајте го создадениот модул во викиврските во Q53931871.
+Создајте Template:Databox во вашето вики со викитекстот: {{#invoke:Databox|databox}}.
+Додајте ја создадената предлошка во викиврските на Q20702632.
+Сега, ако ставите {{Databox}} во постоечка статија поврзана со предмет на Википодатоците, би требало да работи.
+Напишете страница за помош на вашиот јазик
+Примери
+Early Modern SwedishLanguage Dead language Subclass of• North Germanic • East Scandinavian  • Modern Swedish Chronology• Runic Swedish• Early Old Swedish• Late Old Swedish• Early Modern Swedish • Late Modern Swedish• Contemporary Swedish Start time1526 End time1750  LucyFemale given name Feminine given name Part ofLucy Latvian transc­rip­tionLūsija IPA transc­rip­tionˈluːsi Language of work or nameEnglish, Dutch Writing systemLatin script SoundexL200 Cologne phonetics58 Caverp­ho­neLS1111 Name dayDecember 13 Family name identical to this given nameLucy Given name version for other genderLucius Attested infrequency of first names in the Netherlands, 2010 
+EthanolChemical compound Type of a chemical entity Subclass offatty alcohol, alkanol Has usepolar protic solvent, medication, solvent Mass46.042 dalton Has effectethanol exposure, intoxication Conjugate baseethoxide Chemical formulaC₂H₆O Canonical SMILESCCO Ioni­za­tion energy10.47±0.01 electronvolt Electric dipole moment1.69 debye Specific heat capacity13.444 joule per mole kelvin Standard enthalpy of formation−277.6±0.1 kilojoule per mole, −234.8±0.1 kilojoule per mole Com­bus­tion enthalpy−1,367 kilojoule per mole Standard molar entropy160.7±0.1 joule per mole kelvin, 281.6±0.1 joule per mole kelvin Density790±10 kilogram per cubic metre Melting point−173±1 degree Fahrenheit, −114.1 degree Celsius Boiling point173±1 degree Fahrenheit, 79 degree Celsius, 78.29 degree Celsius Vapor pressure44±1 millimetre of mercury, 58 hectopascal Speed of sound1,162±1 metre per second PKa16±0.01 Ref­rac­ti­ve index1.3611 Crystal systemmonoclinic crystal system Point groupmonoclinic-domatic Space groupspace group Pn Flash point55±1 degree Fahrenheit, 12 degree Celsius Autoig­ni­tion tem­pe­ra­tu­re363 degree Celsius Lower flammable limit3.3±0.1 volume percent Upper flammable limit19±1 volume percent Safety clas­si­fi­ca­tion and labellingNFPA 704: Standard System for the Identification of the Hazards of Materials for Emergency Response, Regulation (EC) No. 1272/2008 UN class3 UN packaging groupII NIOSH Pocket Guide ID0262 TWAEL1,900±1 milligram per cubic metre Imme­dia­te­ly dangerous to life or health6,237±1 milligram per cubic metre Active ing­re­dient inalcoholic beverage Phy­si­cal­ly interacts with5-hydroxytryptamine (serotonin) receptor 3A, Potassium inwardly-rectifying channel, subfamily J, member 3, Potassium inwardly-rectifying channel, subfamily J, member 5 Has qualityhygroscopy, Class IB flammable liquid Subject has rolelocal anti-infective agent, depressant 
+Hubble Space TelescopeNASA/ESA space telescope (launched 1990) Hubble after release from Space Shuttle Atlantis during STS-125/Servicing Mission 4. Space telescope Part ofGreat Observatories program Native labelHubble Space Telescope Short nameHST Mass12,247 kilogram Named afterEdwin Hubble Followed byCompton Gamma Ray Observatory, James Webb Space Telescope Country of originUnited States of America Start pointKennedy Space Center Launch Complex 39B Space launch vehicleSpace Shuttle OperatorGoddard Space Flight Center, Space Telescope Science Institute Launch cont­rac­torRockwell International UTC date of spa­cec­raft launch24 April 1990 Time of object orbit decay2030s Parent ast­ro­no­mi­cal bodyEarth Apoapsis532.2 kilometre Periapsis530.5 kilometre Type of orbitlow Earth orbit Orbital eccent­ri­ci­ty0.0002465 Orbital inc­li­na­tion28.4706 degree Orbital period95.247 minute Semi-ma­jor axis of an orbit6,908.7 kilometre Manu­fac­tu­rerLockheed Martin Missiles and Space, PerkinElmer Powered byspacecraft solar array, nickel–hydrogen battery Focal length57.6 metre DeveloperMarshall Space Flight Center, Goddard Space Flight Center Service entry20 May 1990 Length13.25 metre Area4.525 square metre, 0.0754 square metre Diameter4.2 metre, 2.40 metre, 0.31 metre Official websitehubblesite.org EpochFebruary 6, 2023 FunderNational Aeronautics and Space Administration, European Space Agency 
+4 VestaSecond largest asteroid of the main asteroid belt Asteroid Mass2,590.76±0.01 exagram Named afterVesta Chronology• Ceres• 2 Pallas• 3 Juno• 4 Vesta • 5 Astraea• 6 Hebe• 7 Iris Sig­ni­fi­cant eventnaming Dis­co­ve­rer or inventorHeinrich Wilhelm Olbers Time of discovery or invention29 March 1807 Site of ast­ro­no­mi­cal discoveryBremen Minor planet groupasteroid belt Parent ast­ro­no­mi­cal bodySun Apoapsis2.571730930812±0.000000001335 astronomical unit Periapsis2.15209537061275±0.000000023879 astronomical unit Argument of periapsis151.1885040095781±0.0000075781 degree Orbital eccent­ri­ci­ty0.08906673774017462±0.000000010292 Orbital inc­li­na­tion7.14009592261772±0.0000014092 degree, 5.56 degree Orbital period1,325.84975662254±0.0000010324 day Rotation period5.342±0.001 hour Semi-ma­jor axis of an orbit2.36191315071237±0.0000000012261 astronomical unit Longitude of ascending node103.849635131052±0.0000027664 degree Mean anomaly75.17267586111595±0.0000054951 degree Asteroid familyVesta family Asteroid spectral typeV-type asteroid Apparent magnitude5.1 Absolute magnitude3.2 Albedo0.4228 Density3.456±0.035 gram per cubic centimetre Tem­pe­ra­tu­re85 kelvin, 270 kelvin Length572.6±0.2 kilometre Width557.2±0.2 kilometre Height446.4±0.2 kilometre Area866,000±20,000 square kilometre Volume as quantity74,600,000±3,000,000 cubic kilometre Radius262.7±0.1 kilometre Diameter525.4±0.2 kilometre Surface gravity0.22 metre per square second 
+AtheismAbsence of belief in the existence of deities; the opposite of theism World view, philosophical movement, doxastic attitude Subclass ofirreligion Has qualityunbelief Opposite oftheism Practiced byatheist Has part(s)Marxist‒Leninist atheism, New Atheism 
+Iron Man2008 film directed by Jon Favreau Film TitleIron Man Based onIron Man SeriesMarvel Cinematic Universe Main subjectterrorism, business ethics, computer, industrialist, inventor, ammunition, technology, business magnate Genreaction film, science fiction film, adventure film, superhero film PerformerLauren Scyphers, Stacy Stas Hurst Country of originUnited States of America Original language of film or TV showEnglish Pub­li­ca­tion date2 May 2008 Sig­ni­fi­cant eventprincipal photography, première DirectorJon Favreau Screenw­ri­terMark Fergus, Hawk Ostby, Art Marcum, Matt Holloway Executive producerPeter Billingsley, Jon Favreau, Stan Lee, David Maisel, Louis D'Esposito, Ari Arad Director of pho­tog­rap­hyMatthew Libatique Film editorDan Lebental Pro­duc­tion designerJ. Michael Riva Costume designerLaura Jean Shannon, Rebecca Bentjen ComposerRamin Djawadi ProducerAvi Arad, Kevin Feige Pro­duc­tion companyMarvel Studios, Paramount Pictures Dist­ri­bu­ted byParamount Pictures, Disney+, Walt Disney Studios Motion Pictures Soundt­rack releaseIron Man Narrative locationAfghanistan, Los Angeles, Kunar Duration126 minute Aspect ratio (W:H)2.39:1 Colorcolor Review score79/100, 94%, 7.7/10 Box office585,366,247 United States dollar Cost140,000,000 United States dollar Takes place in fictional universeMarvel Cinematic Universe Atten­dan­ce1,315,743 Dist­ri­bu­tion formatdigital download, video on demand BBFC rating12A certificate ClassInd rating12 CNC film rating (France)no age restriction Filmiroda ratingCategory II FPB rating10 FSK film ratingFSK 12 ICAA ratingNot recommended for children under 7 JMK film ratingfree from 12 years Kijk­wij­zer rating12 MPA film ratingPG-13 RTC film ratingB Official websitewww.marvel.com/movies/iron-man Assess­mentBechdel test, reverse Bechdel Test IMDA ratingPG Medie­rå­det ratingFor ages 11 and up RCQ clas­si­fi­ca­tionG IFCO rating12A MTRCB ratingParental Guidance IMDb IDtt0371746 
+AirbusEuropean aircraft manufacturer Business, enterprise Industryaircraft and space construction Inception18 December 1969, 1970 Official nameAirbus SE Founded byRoger Béteille, Felix Kracht, Henri Ziegler, Franz Josef Strauß CEOGuillaume Faury Motto textWe make it fly CountryNetherlands Member ofAerospace Valley, GIFAS, Linux Foundation, CVE Numbering Authorities, Association of German Airports Legal formsociété par actions simplifiée Total assets111,130,000,000 euro Total equity3,650,000,000 euro Total revenue11,050,000,000 United States dollar Net profit2,873,000,000 Operating income4,253,000,000 euro Location of formationFrance Parent orga­ni­za­tionAirbus Group Head­quar­ters locationBlagnac, Toulouse Employees80,895 IPv6 routing prefix2a00:6fc0:10::/44, 2a00:6fc0:690::/44, 2a00:6fc0:c010::/44 Official websitelink Egapro gender equality index89, 88, 88 ICAO airline desig­na­torAIB 
+EsperantoInternational auxiliary language designed by L. L. Zamenhof Planned language, international auxiliary language, agglutinative language, a posteriori language, constructed language, modern language Inception26 July 1887 Has usesecond language, lingua franca Named afterDoktoro Esperanto MovementEsperanto movement AnthemLa Espero CultureEsperanto culture CountryEsperantujo Location of formationWarsaw Studied byEsperantology, interlinguistics Foun­da­tio­nal textUnua Libro Chronology• Proto-Esperanto• Esperanto CreatorL. L. Zamenhof Country of originRussian Empire, Poland Inf­luen­ced byGreek, Latin, English, Polish, Yiddish, Russian, German, French Sig­ni­fi­cant eventWorld Esperanto Congress 1905, World Esperanto Congress 1987 Lin­guis­tic typologyfree-order language, nominative–accusative language, agglutinative language, isolating language, subject–verb–object Has gram­ma­ti­cal caseaccusative case, nominative case Has tensepresent tense, past tense, future tense Has gram­ma­ti­cal moodinfinitive, conditional, volitive Writing systemLatin script Uses capi­ta­li­za­tion forfull name, toponym Language regu­la­to­ry bodyAcademy of Esperanto Signed formSignuno Number of speakers, writers, or signers2,000,000±1,000,000 Eth­no­lo­gue language status3 Wider Communication Dis­co­ve­rer or inventorL. L. Zamenhof Flagflag of Esperanto Used byEsperantist Dedicated heritage entityMuseo de Esperanto de Subirats, International Esperanto Museum in Zaozhuang, Department of Planned Languages and Esperanto Museum, Hungarian Museum of Esperanto, Esperanto Museum in Svitavy, Nacia Esperanto-Muzeo, Gray Wikimedia language codeeo 
+BerlinFederal state, capital and largest city of Germany Part ofBerlin-Brandenburg Metropolitan Region, agglomeration of Berlin Inception1244 IPA transc­rip­tionbərˈlɪn, bɛʁ.lɛ̃ Ranking9 Archives atLandesarchiv Berlin Official languageGerman ContinentEurope CountryGermany Capital ofGermany Admi­nis­tra­ti­ve unitGermany Enclave withinBrandenburg Coor­di­na­tes52°31′0″N 13°23′0″E Coor­di­na­tes of eas­tern­most point52°26′16″N 13°45′40″E Coor­di­na­tes of nort­hern­most point52°40′31″N 13°28′46″E Coor­di­na­tes of sout­hern­most point52°20′19″N 13°38′53″E Coor­di­na­tes of wes­tern­most point52°25′11″N 13°5′18″E Geoshapelink Highest pointArkenberge Office held by head of govern­mentGoverning Mayor of Berlin Head of govern­mentKai Wegner Legis­la­ti­ve bodyAbgeordnetenhaus of Berlin Highest judicial authorityConstitutional Court of the State of Berlin Member ofClimate Alliance, Mayors for Peace, IT-Planungsrat, Creative Cities Network Public holidayInternational Women's Day Popu­la­tion3,677,472 Male popu­la­tion1,792,801 Female popu­la­tion1,852,025 Elevation above sea level34±1 metre Located in time zoneCentral European Standard Time (GMT+1) Shares border withBrandenburg ReplacesAlt-Berlin, East Berlin Sig­ni­fi­cant eventLandesbank Berlin scandal, fall of the Berlin Wall, Battle of Berlin, Soviet Airstrike Against Berlin in 1941, 1936 Summer Olympics, Fall of Berlin Award receivedPrincess of Asturias Award for Concord, City of Design, Führerstadt Budget28,000,000,000 euro Connects withEuropean route E55 Area891.12 square kilometre Postal code10115–14199 Official websitelink Flagflag of Berlin Coat of armscoat of arms of Berlin Geography of topicgeography of Berlin Open data portalBerlin Open Data Economy of topiceconomy of Berlin Demog­rap­hics of topicdemographics of Berlin District heating gridBerliner Fernwärmenetz Category for honorary citizens of entityCategory:Honorary citizens of Berlin Time of earliest written record1237, 1244 Vehicles per thousand people344 Local dialing code030 Licence plate codeB 
+Douglas AdamsEnglish science fiction writer and humourist Portrait of Douglas Adams Human Sex or gendermale Country of citi­zens­hipUnited Kingdom Birth nameDouglas Noël Adams Given nameDouglas, Noël Family nameAdams PseudonymDavid Agnew Short nameDouglas Adams Date of birth11 March 1952 Place of birthCambridge Date of death11 May 2001 Place of deathSanta Barbara Manner of deathnatural causes Cause of deathmyocardial infarction Place of burialHighgate Cemetery FatherChristopher Douglas Adams MotherJanet Adams SiblingSusan Adams SpouseJane Belson ChildPolly Adams Native languageEnglish Languages spoken, written or signedEnglish Writing languageEnglish Occu­pa­tionplaywright, screenwriter, novelist, children's writer, science fiction writer, comedian, writer, musician FOWscience fiction literature EmployerBBC, The Digital Village Educated atBrentwood School, St John's College ResidenceLondon, Brentwood Work locationLondon Ethnic groupWhite British Religion or worldviewatheism Eye colorbrown Inst­ru­mentguitar Notable workThe Hitchhiker's Guide to the Galaxy pentalogy, Dirk Gently series, The Private Life of Genghis Khan Archives atSt John's College Library Member ofFootlights, Groucho Club Genrescience fiction, comedy, satire Award receivedInkpot Award, Ditmar Award Nominated forHugo Award for Best Dramatic Presentation, Locus Award for Best Science Fiction Novel Height1.96 metre Official websitedouglasadams.com IMDb IDnm0010930 Douglas Adams' gravestone 
+Поврзано
+ru:Template:Универсальная карточка — слична, но поразработена предлошка на Википедија на руски
+en:Template:Infobox person/Wikidata — слична, само за личности, на Википедија на англиски
+commons:Template:Wikidata Infobox — истоветник на Ризницата; претежно наменет за категории
+Retrieved from "https://www.wikidata.org/w/index.php?title=Template:Databox/doc/mk&oldid=1767301035"
+Category: Lua-based templatesHidden category: Pages with maps
+Navigation menu
+Personal tools
+EnglishNot logged inTalkContributionsCreate accountLog in
+Namespaces
+TemplateDiscussion
+македонски
+Views
+ReadTranslateView history
+More
+Search
+Navigation
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+Lexicographical data
+Create a new LexemeRecent changesRandom Lexeme
+Tools
+What links hereRelated changesSpecial pagesPermanent linkPage information
+Print/export
+Download as PDFPrintable version
+In Wikipedia
+Add links
+ This page was last edited on 8 November 2022, at 11:20.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Mobile view
+Data access
+Developers
+Statistics
+Cookie statement

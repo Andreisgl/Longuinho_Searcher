@@ -1,0 +1,58 @@
+Linked Data - Object Viewer
+Linked Data API
+ANZSRC 2020 Fields of Research
+(more information)
+html
+json
+rdf
+text
+ttl
+xml
+Find Concepts
+Use this form to find concepts by 1) having the exact same text as input 2) having
+                        words containing the text input.
+                        
+                     
+                                 Exact label 
+                                 Text within label
+View
+Choose what information you want to view about each item. There are some pre-defined
+                        views, but starred properties are always present no matter what the view. You can
+                        star properties by clicking on the  icon. The currently starred icons have a  icon; clicking on it will unstar the property.
+                     
+all
+basic
+description
+ pref label
+ broader transitive › narrower transitive
+ notation
+ type
+ broader › narrower
+ broader › narrower transitive
+ in scheme
+Statistics not elsewhere classified
+https://linked.data.gov.au/def/anzsrc-for/2020/490599
+broader transitive
+https://linked.data.gov.au/def/anzsrc-for/2020/49 original
+narrower transitive
+490599 original
+https://linked.data.gov.au/def/anzsrc-for/2020/4905
+notation
+490599
+type
+Concept original
+broader
+https://linked.data.gov.au/def/anzsrc-for/2020/4905 original
+narrower
+490599 original
+narrower transitive
+490599 original
+in scheme
+1297.0 ANZSRC - Australian and New Zealand Standard Research Classification, 2020:
+                                 Fields of Research (FoR) original
+                      SISSVoc was developed by
+                      CSIRO.Powered by an implementation of the Linked Data API.Icons by Axialis.Double-click HERE to stay onsite.
+                      This installation is operated and maintained
+                      by the
+                      Australian Research Data Commons.
+                      Contact ARDC Services.
