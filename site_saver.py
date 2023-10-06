@@ -80,19 +80,24 @@ def save_new_meta_file(meta_list, link_list, text_list, raw_data, path):
 
 
         # Assemble data to file
+        final_data = b''
         with open(path, 'w+b') as file:
             offset_list = []
             for sector in all_data:
-                offset_list.append(file.tell())
+                #offset_list.append(file.tell())
+                offset_list.append(len(final_data))
                 if type(sector) == list:
                     for index, line in enumerate(sector):
                         aux = line.encode('utf-8')
-                        file.write(aux)
+                        #file.write(aux)
+                        final_data += aux
                         if index != len(sector)-1:
-                            file.write(b'\n')
+                            #file.write(b'\n')
+                            final_data += b'\n'
                 else:
-                    file.write(sector)
-                file.write(b'\n')
+                    #file.write(sector)
+                    final_data += sector
+                final_data += b'\n'
         
             # CREATE HEADER
             # In how many bytes each offset in the header will be represented with
@@ -106,9 +111,9 @@ def save_new_meta_file(meta_list, link_list, text_list, raw_data, path):
             offset_list = [x + extra_bytes_in_offsets for x in offset_list]
 
             # Write header
-            file.seek(0, 0)
-            read_data = file.read()
-            file.seek(0, 0)
+            #file.seek(0, 0)
+            #read_data = file.read()
+            #file.seek(0, 0)
 
             write_data = int.to_bytes(number_of_offsets, bytes_per_offset, 'little')
             file.write(write_data)
@@ -117,7 +122,8 @@ def save_new_meta_file(meta_list, link_list, text_list, raw_data, path):
                 file.write(write_data)
 
             # Write previous data
-            file.write(read_data)
+            #file.write(read_data)
+            file.write(final_data)
 
 def website_path(name):
     global META_LIST_FILENAME
