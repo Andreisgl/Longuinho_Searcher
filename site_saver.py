@@ -85,8 +85,8 @@ def save_new_meta_file(meta_list, link_list, text_list, raw_data, path):
             for sector in all_data:
                 offset_list.append(file.tell())
                 if type(sector) == list:
-                    for index in range(len(sector)):
-                        aux = sector[index].encode('utf-8')
+                    for index, line in enumerate(sector):
+                        aux = line.encode('utf-8')
                         file.write(aux)
                         if index != len(sector)-1:
                             file.write(b'\n')
@@ -137,9 +137,8 @@ def website_path(name):
     if not os.path.exists(page_path):
         os.mkdir(page_path)
     
-    final_file_name = ''
 
-    def get_next_filename(dir_path, extension):
+    def autoincrement_filename(dir_path, extension):
         ''' Implements autoincrement.
         Returns the next number the filename can have'''
         name_list = os.listdir(dir_path)
@@ -151,9 +150,26 @@ def website_path(name):
         
         return '{}.{}'.format(smallest_missing, extension)
 
-    final_file_name = get_next_filename(page_path, file_extension)
+    def url_filename(dir_path, extension):
+        file_name = ''
+        separator_char = '.'
+        if len(aux) >= 3:
+            workset = aux[2:]
+            interval = enumerate(workset)
+            for index, level in interval:
+                file_name += level
+                if index != len(workset)-1:
+                    file_name += separator_char
+        else:
+            file_name = aux[1]
 
-    meta_list_file = os.path.join(page_path, final_file_name)
+        file_name = '{}.{}'.format(file_name, file_extension)
+        return file_name
+    
+    #final_filename = url_filename(page_path, file_extension)
+    final_filename = meta_list_file = autoincrement_filename(page_path, file_extension)
+
+    meta_list_file = os.path.join(page_path, final_filename)
 
     return meta_list_file
 
