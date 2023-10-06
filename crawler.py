@@ -352,16 +352,16 @@ def pathfinder(ammount_to_search):
 
         data_pack = data_pack_bundle[number_of_pages_searched] # Indexes url and returns important data
         
-        old_url = data_pack[5]
-        real_url = data_pack[6]
-        intermediate_url_list.append(data_pack[7]) # Get link list
+        old_url = data_pack[1]
+        real_url = data_pack[2]
+        intermediate_url_list.append(data_pack[3]) # Get link list
 
         # Print current URL
         #display_url = textwrap.wrap(current_url, no_terminal_columns-1)
         #print('{}'.format(display_url[0]))
 
         # Save to history
-        if data_pack[4]:
+        if data_pack[0]:
             # If there was a redirection
             # Append searched_url with marker
             url_history_list.append(redirector_flag + old_url)
@@ -369,7 +369,7 @@ def pathfinder(ammount_to_search):
             url_history_list.append(real_url)
         else:
             # Just append it normally
-            url_history_list.append(data_pack[6])
+            url_history_list.append(data_pack[2])
         
         number_of_pages_searched += 1
     # Remove current URL from queue

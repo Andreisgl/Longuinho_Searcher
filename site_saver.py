@@ -67,61 +67,99 @@ def load_list_from_file(in_file):
             pass
         return ''
 
+def save_new_meta_file(meta_list, link_list, text_list, raw_data, path):
+        # Put all data in meta file
+        # Offsets indicate where each sector starts
+
+        all_data = []
+        all_data.append(meta_list)
+        all_data.append(link_list)
+        all_data.append(text_list)
+
+        all_data.append(raw_data)
+
+
+        # Assemble data to file
+        with open(path, 'w+b') as file:
+            offset_list = []
+            for sector in all_data:
+                offset_list.append(file.tell())
+                if type(sector) == list:
+                    for index in range(len(sector)):
+                        aux = sector[index].encode('utf-8')
+                        file.write(aux)
+                        if index != len(sector)-1:
+                            file.write(b'\n')
+                else:
+                    file.write(sector)
+                file.write(b'\n')
+        
+            # CREATE HEADER
+            # In how many bytes each offset in the header will be represented with
+            bytes_per_offset = 8
+            number_of_offsets = len(offset_list)
+            # +1 to include number of sectors in the first entry
+            number_of_entries_in_header = number_of_offsets + 1
+            extra_bytes_in_offsets = number_of_entries_in_header * bytes_per_offset
+
+            # Add extra bytes to all offsets
+            offset_list = [x + extra_bytes_in_offsets for x in offset_list]
+
+            # Write header
+            file.seek(0, 0)
+            read_data = file.read()
+            file.seek(0, 0)
+
+            write_data = int.to_bytes(number_of_offsets, bytes_per_offset, 'little')
+            file.write(write_data)
+            for offset in offset_list:
+                write_data = int.to_bytes(offset, bytes_per_offset, 'little')
+                file.write(write_data)
+
+            # Write previous data
+            file.write(read_data)
+
 def website_path(name):
-    global DATA_FILENAME
-    global LINK_LIST_FILENAME
-    global TEXT_LIST_FILENAME
     global META_LIST_FILENAME
+    file_extension = 'longsp'
 
     aux = name
-    data_file, link_list_file, text_list_file, meta_list_file = '', '', '', ''
+    meta_list_file = ''
     if '/' in aux:
         aux = aux.split('/')
     else:
         aux = [aux]
     aux.insert(0, ALL_WEBSITES_FOLDER)
-    website_folder = aux[0]
-
-    error = False
-    level_counter = 0
-    for level in range(len(aux)-1):
-        website_folder = os.path.join(website_folder, aux[level+1])
-        level_counter += 1
-
-        if(not os.path.exists(website_folder)):
-            try:
-                os.mkdir(website_folder)
-            except FileNotFoundError:
-                print('FileNotFoundError EXCEPTION!')
-                error = True
-            except OSError:
-                print('OSError EXCEPTION! Unable to index page.')
-                error = True
-            break
+    all_websites_folder = aux[0]
+    website_folder = aux[1]
+    page_path = os.path.join(all_websites_folder, website_folder)
     
-    #Undo the file creation if it failed
-    if error:
-        for i in range(level_counter-1):
-            website_folder = os.path.split(website_folder)[0]
-            try:
-                os.rmdir(website_folder)
-            except OSError:
-                break
-        return data_file, link_list_file, text_list_file, meta_list_file
+    if not os.path.exists(page_path):
+        os.mkdir(page_path)
+    
+    final_file_name = ''
+
+    def get_next_filename(dir_path, extension):
+        ''' Implements autoincrement.
+        Returns the next number the filename can have'''
+        name_list = os.listdir(dir_path)
+        name_list = [int(x.split('.')[0]) for x in name_list]
+        print(name_list)
+        smallest_missing = 1
+
+        while smallest_missing in name_list:
+            smallest_missing += 1
         
+        return '{}.{}'.format(smallest_missing, extension)
 
-    data_file = os.path.join(website_folder, DATA_FILENAME)
-    link_list_file = os.path.join(website_folder, LINK_LIST_FILENAME)
-    text_list_file = os.path.join(website_folder, TEXT_LIST_FILENAME)
-    meta_list_file = os.path.join(website_folder, META_LIST_FILENAME)
+    final_file_name = get_next_filename(page_path, file_extension)
 
-    return data_file, link_list_file, text_list_file, meta_list_file
+    meta_list_file = os.path.join(page_path, final_file_name)
+
+    return meta_list_file
 
 def save_website(search_url): # Rename later to 'save_website'
     # Saves important data from the website, returns paths for the data.
-    data_file = ''
-    link_list_file = ''
-    text_list_file = ''
     meta_list_file = ''
 
     #(website_name, raw_file_data, link_list, text_list, real_url) = site_ex.get_data_from_url(search_url)
@@ -163,37 +201,26 @@ def save_website(search_url): # Rename later to 'save_website'
     # I'm giving you the option to.
     # Be aware: Not having text or links does not mean it is surely an image
     i_really_want_to_index_images_and_whatnot = False
+    index_condition = is_page or i_really_want_to_index_images_and_whatnot
 
-    
-    if is_page or i_really_want_to_index_images_and_whatnot:
-        # Get paths
-        data_file, link_list_file, text_list_file, meta_list_file = website_path(website_name)
-    
-    
-    return_data = (data_file, link_list_file, text_list_file, meta_list_file,
-            was_redirected, search_url, real_url,
-            link_list, text_list)
 
-    if len(raw_file_data) == 0: # If it has no data, there is nothing to index
-        return return_data
+    return_data = (was_redirected, search_url, real_url,
+                   link_list, text_list)
     
-    # Save data in folder
-    if not is_page: # If the link is a page, do not save raw data
-        save_html_to_file(raw_file_data, data_file) # Save raw html/data
-    if len(link_list) != 0:
-        save_list_to_file(link_list, link_list_file) # Save links
-    if len(text_list) != 0:
-        save_list_to_file(text_list, text_list_file) # Save text
+
+    if not index_condition:
+        return return_data # Return without saving page
     
-    
-    save_list_to_file(meta_list, meta_list_file)
+
+    # Get paths for saving
+    meta_list_file = website_path(website_name)
+    # Save page
+    save_new_meta_file(meta_list, link_list, text_list, raw_file_data, meta_list_file)
 
     return return_data
 
 
-DATA_FILENAME = 'data.txt'
-LINK_LIST_FILENAME = 'links.txt'
-TEXT_LIST_FILENAME = 'text.txt'
+
 META_LIST_FILENAME = 'meta.txt'
 
 
