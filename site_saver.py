@@ -144,7 +144,6 @@ def website_path(name):
         Returns the next number the filename can have'''
         name_list = os.listdir(dir_path)
         name_list = [int(x.split('.')[0]) for x in name_list]
-        print(name_list)
         smallest_missing = 1
 
         while smallest_missing in name_list:
