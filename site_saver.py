@@ -76,7 +76,7 @@ def save_new_meta_file(meta_list, link_list, text_list, raw_data, path):
         all_data.append(link_list)
         all_data.append(text_list)
 
-        all_data.append(raw_data)
+        #all_data.append(raw_data) # Don't save raw html data. TODO: Add option to toogle the saving of raw html
 
 
         # Assemble data to file
