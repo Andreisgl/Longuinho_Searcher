@@ -274,6 +274,9 @@ def clean_incoming():
         print('Blacklist: {} seconds'.format(blacklist_time))
     return removed_counter
 
+# HISTORY LIST CLEANING
+
+
 # STATISTICS:
 def count_pages_crawled():
     global url_history_list
@@ -348,28 +351,33 @@ def pathfinder(ammount_to_search):
     number_of_new_pages_found = 0
     for data_pack in data_pack_bundle:
         # Set up URL, get data
-        current_url = incoming_url_list[0]
-
-        data_pack = data_pack_bundle[number_of_pages_searched] # Indexes url and returns important data
-        
+        #current_url = incoming_url_list[0]
         old_url = data_pack[1]
         real_url = data_pack[2]
         intermediate_url_list.append(data_pack[3]) # Get link list
 
-        # Print current URL
-        #display_url = textwrap.wrap(current_url, no_terminal_columns-1)
-        #print('{}'.format(display_url[0]))
+        data_pack = data_pack_bundle[number_of_pages_searched] # Indexes url and returns important data
+        
+        if real_url == '':# or data_pack[2] == '': ## If URL's are invalid
+            continue
+
+
+
+
 
         # Save to history
-        if data_pack[0]:
-            # If there was a redirection
+        if data_pack[0]: # If there was a redirection
             # Append searched_url with marker
-            url_history_list.append(redirector_flag + old_url)
-            # Append final_url unaltered
+            if old_url != '':
+                url_history_list.append(redirector_flag + old_url)
+        else:
+            print('{}: OLDURL EMPTY!!!'.format(old_url))
+        # Append final_url unaltered
+        if real_url != '':
             url_history_list.append(real_url)
         else:
-            # Just append it normally
-            url_history_list.append(data_pack[2])
+            print('{}: NEWURL EMPTY!!!'.format(real_url))
+
         
         number_of_pages_searched += 1
     # Remove current URL from queue
@@ -455,6 +463,9 @@ def expand_index(number_to_expand):
     finish_time = time.perf_counter()
 
     print('{} pages added to index.'.format(pages_searched))
+
+
+
 
     total_seconds = finish_time - start_time
     seconds = round(total_seconds%60, 3)
