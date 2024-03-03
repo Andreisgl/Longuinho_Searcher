@@ -185,16 +185,47 @@ def translate_list_of_list(in_list, encode_flag):
         pass
     return out_list
 
+
+# LIST CLEANING
+def remove_duplicates_from_list(input_list):
+    '''Returns the list without duplicates
+    and ammount of entries removed.'''
+
+    process_list = input_list # Assign to avoid reference passes
+    initial_length = len(process_list)
+    # Transforming to 'dictionary removes duplicates
+    process_list = list(dict.fromkeys(process_list))
+    final_length = len(process_list)
+
+    return process_list, (initial_length - final_length)
+def remove_entries_from_another_list(target_list, tool_list):
+    '''Returns the 'target_list' without 'tool_list' entries
+    and ammount of entries removed.'''
+
+    initial_length = len(target_list)
+
+    target_set = set(target_list)
+    tool_set = set(tool_list)
+
+    final_set = target_set.difference(tool_set)
+    final_list = list(final_set)
+    
+    final_length = len(final_list)
+
+    return final_list, (initial_length - final_length)
+
 # MAIN LIST MANAGEMENT AND CLEANING
 def remove_duplicates_from_incoming():
     # Removes duplicates from 'incoming',
     # returns ammount of URLs removed.
     # Only use when 'incoming_link_queue' is already loaded
     global incoming_url_list
-    initial_length = len(incoming_url_list)
-    incoming_url_list = list(dict.fromkeys(incoming_url_list))
-    final_length = len(incoming_url_list)
-    return initial_length - final_length
+
+    (incoming_url_list,
+     amt_removed
+     ) = remove_duplicates_from_list(incoming_url_list)
+    
+    return amt_removed
 def removed_links_in_history_from_incoming():
     # Removes from 'incoming' URLs already present in 'history',
     # returns ammount of URLs removed
@@ -202,10 +233,11 @@ def removed_links_in_history_from_incoming():
     global incoming_url_list
     global url_history_list
 
-    initial_length = len(incoming_url_list)
-    incoming_url_list = list(set(incoming_url_list).difference(url_history_list))
-    final_length = len(incoming_url_list)
-    return initial_length - final_length
+    (incoming_url_list,
+     amt_removed
+     ) = remove_entries_from_another_list(incoming_url_list, url_history_list)
+
+    return amt_removed
 def remove_blacklisted_sites_from_incoming():
     # Some sites just take too long to load, like the web.archive.
     # This allows to remove them from the incoming list.
@@ -227,6 +259,7 @@ def remove_blacklisted_sites_from_incoming():
     for site in blacklist_list:
         for prefix in prefixes:
             full_terms.append(prefix + site)
+    
     for index, url in enumerate(incoming_url_list):
         for site in full_terms:
             if url.startswith(site):
@@ -272,8 +305,6 @@ def clean_incoming():
         print('Existing: {} seconds'.format(existing_time))
         print('Blacklist: {} seconds'.format(blacklist_time))
     return removed_counter
-
-# HISTORY LIST CLEANING
 
 
 # STATISTICS:
