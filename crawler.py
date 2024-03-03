@@ -3,7 +3,7 @@
 
 import os
 import shutil
-import time
+from time import perf_counter
 
 import textwrap
 from multiprocessing import Pool
@@ -317,9 +317,10 @@ def clean_incoming():
                        + existing_counter
                        + blacklisted_counter)
     
-    print('\nINPUT:Removed {} pages:\n{} duplicates,\n{} existing\n{} blacklisted'
-          .format(removed_counter, duplicate_counter,
-                  existing_counter, blacklisted_counter))
+    if False:
+        print('\nINPUT:Removed {} pages:\n{} duplicates,\n{} existing\n{} blacklisted'
+            .format(removed_counter, duplicate_counter,
+                    existing_counter, blacklisted_counter))
     
     return removed_counter
 
@@ -344,20 +345,32 @@ def clean_output():
                        + existing_counter
                        + blacklisted_counter)
     
-    print('\nOUTPUT: Removed {} pages:\n{} duplicates,\n{} existing\n{} blacklisted'
-          .format(removed_counter, duplicate_counter,
-                  existing_counter, blacklisted_counter))
+    if False:
+        print('\nOUTPUT: Removed {} pages:\n{} duplicates,\n{} existing\n{} blacklisted'
+            .format(removed_counter, duplicate_counter,
+                    existing_counter, blacklisted_counter))
     
     return removed_counter
 
 # STATISTICS:
 def count_pages_crawled():
+    '''Count how many pages in history'''
     global url_history_list
     global redirector_flag
     load_history_from_file()
-    real_indexed_list = [x for x in url_history_list if redirector_flag not in x]
-    return len(real_indexed_list)
+    #real_indexed_list = [x for x in url_history_list if redirector_flag not in x]
+    real_indexed_list = url_history_list[:]
 
+    amt_crawled = len(real_indexed_list)
+    print('Ammount of pages already crawled: {}'.format(amt_crawled))
+    return amt_crawled
+def count_pages_available():
+    '''Count how many pages in incoming'''
+    global incoming_url_list
+    amt_available = len(incoming_url_list)
+    
+    print('URLs available: {}'.format(amt_available))
+    return amt_available
 # CRAWLING
 def plant_seed():
     global incoming_url_list
@@ -370,8 +383,8 @@ def plant_seed():
         incoming_url_list.append(seed)
     save_incoming_to_file()
 
-def pathfinder(input_list, output_list, history_list, amt_to_search=-1, parallel_search=False):
-    '''Crawls a list
+def pathfinder(input_list, output_list, history_list, amt_to_search=-1, parallel_search=True):
+    '''Crawls a list, returns ammount of pages crawled
     - input_list: List to be crawled
     - output_list: All URLs found in this crawl
     - history_list: All URLs ever crawled
@@ -380,12 +393,16 @@ def pathfinder(input_list, output_list, history_list, amt_to_search=-1, parallel
     '''
 
     amt_available = len(input_list)
-    #print('URLs available: {}'.format(amt_available))
-
+    # Crawls are only saved after the pathfinder closes.
+    # Max ammount of URLs per crawl.
+    max_amt = 200 
+    
     # Define ammount of URLs to crawl
-    # Cap search to available number
+    # Cap search to available number or the max ammount per crawl
     if amt_to_search <= 0 or amt_to_search > amt_available:
         amt_to_search = amt_available
+    if amt_to_search > max_amt:
+        amt_to_search = max_amt
 
     sample = input_list[:amt_to_search] # Search just this ammount
     
@@ -401,6 +418,7 @@ def pathfinder(input_list, output_list, history_list, amt_to_search=-1, parallel
 
     # Manage recovered data
     recovered_urls = [] # Will be passed on to 'output_list' later
+    visited_urls_counter = 0 # Redirections count as URLs, so count them too!
     for pack in data_pack_bundle:
         success_flag = pack[0]
         was_redirected = pack[1]
@@ -415,26 +433,59 @@ def pathfinder(input_list, output_list, history_list, amt_to_search=-1, parallel
         if was_redirected: # If there is a redirection, append origin link with a marker
             # TODO: Make this a field in the .csv when I switch to .csv saving
             history_list.append(redirector_flag + searched_url)
+            visited_urls_counter += 1 # Count redirector URL as visited too
         
         if success_flag:
             history_list.append(final_url)
         else: # Failed URLs will have an empty 'final_url'. Mark them too.
             history_list.append(fail_flag + searched_url)
         
+        visited_urls_counter += 1 # Count URL as visited
         
         # Removed visited pages from 'input_list'
         del input_list[:amt_to_search]
-
-
+        
         # Append recovered URLs to 'output_list'
         output_list += recovered_urls
 
-    return len(output_list) # Return number of crawled pages
+    return visited_urls_counter # Return number of crawled pages
 
-#def expand_index(amt_to_search)
-#{
-#
-#}
+def expand_index(amt_to_search):
+    '''Covers many pathfindings to crawl desired ammount of pages.
+    Returns ammount of pages crawled and time to do so.'''
+    start_time = perf_counter() # Start counting execution time
+
+    amt_searched = 0
+
+    if amt_to_search <= 0: # This is a call to crawl all available pages
+        amt_searched += pathfinder(incoming_url_list, output_url_list, url_history_list, amt_to_search, True)
+
+    while amt_searched < amt_to_search:
+        amt_searched += pathfinder(incoming_url_list, output_url_list, url_history_list, amt_to_search, True)
+        amt_to_search -= amt_searched
+    
+    end_time = perf_counter() # Stop counting execution time
+
+
+    time_taken = end_time - start_time
+
+    # Statistics:
+    secs = time_taken
+    mins = time_taken//60
+    hrs = mins//60
+    days = hrs//24
+
+    secs %= 60
+    mins %= 60
+    hrs %= 24
+
+    formatted_time = f'{days}-{hrs}:{mins}:{secs:2f}'
+
+    print(f'\nCrawled {amt_searched} pages in {formatted_time}')
+    print(f'{time_taken/amt_searched:2f}s per page')
+
+    return amt_searched, time_taken
+
 
 
 # MAIN
@@ -454,11 +505,9 @@ def main():
     # Clean input
     clean_incoming()
 
-    amt_pages_crawled = count_pages_crawled()
-    print('Ammount of pages already crawled: {}'.format(amt_pages_crawled))
-
-    amt_available = len(incoming_url_list)
-    print('URLs available: {}'.format(amt_available))
+    # Show simple statistics
+    count_pages_crawled()
+    count_pages_available()
 
     if len(incoming_url_list) <= 0:
         plant_seed()
@@ -471,7 +520,7 @@ def main():
             continue
         break
 
-    pathfinder(incoming_url_list, output_url_list, url_history_list, answer, True)
+    expand_index(answer)
     
     
     # Move output to input
@@ -489,7 +538,11 @@ def main():
     save_output_to_file()
     save_history_to_file()
 
-    print('Ammount of pages already crawled: {}'.format(count_pages_crawled()))
+    # Show simple statistics
+    count_pages_crawled()
+    count_pages_available()
+    
+
     input('Done! Press ENTER to exit')
 
 MAIN_FOLDER = 'crawler_data'
