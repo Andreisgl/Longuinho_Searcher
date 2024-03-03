@@ -24,44 +24,43 @@ def main_paths_manager():
     # This function creates and completes the paths
     # for important files and folders
     
+    def check_file(path):
+        # Creates file it it does not exis already
+        if not os.path.exists(path): # Create file if it does not exist
+            with open(path, 'w'):
+                pass
+
+    def check_folder(path):
+        # Creates folder it it does not exis already
+        if not os.path.exists(path):
+            os.mkdir(path)
+
     # Main folder
     global MAIN_FOLDER
-    if not os.path.exists(MAIN_FOLDER):
-        os.mkdir(MAIN_FOLDER)
+    check_folder(MAIN_FOLDER)
 
     # incoming_url_list_file
     global incoming_url_list_file
     incoming_url_list_file = os.path.join(MAIN_FOLDER, incoming_url_list_file)
-    if not os.path.exists(incoming_url_list_file): # Create file if it does not exist
-        with open(incoming_url_list_file, 'w'):
-            pass
+    check_file(incoming_url_list_file)
 
     # url_history_list_file
     global url_history_list_file
     url_history_list_file = os.path.join(MAIN_FOLDER, url_history_list_file)
-    if not os.path.exists(url_history_list_file): # Create file if it does not exist
-        with open(url_history_list_file, 'w'):
-            pass
+    check_file(url_history_list_file)
     
     #seed_list_file
     global seed_list_file
     seed_list_file = os.path.join(MAIN_FOLDER, seed_list_file)
-    if not os.path.exists(seed_list_file): # Create file if it does not exist
-        with open(seed_list_file, 'w'):
-            pass
+    check_file(seed_list_file)
     
     #blacklist_list_file
     global blacklist_list_file
     blacklist_list_file = os.path.join(MAIN_FOLDER, blacklist_list_file)
-    if not os.path.exists(blacklist_list_file): # Create file if it does not exist
-        with open(blacklist_list_file, 'w'):
-            pass
-
-# DISPLAY STUFF
-def get_terminal_columns():
-    return shutil.get_terminal_size().columns
-no_terminal_columns = get_terminal_columns()
-
+    #if not os.path.exists(blacklist_list_file): # Create file if it does not exist
+    #    with open(blacklist_list_file, 'w'):
+    #        pass
+    check_file(blacklist_list_file)
 
 # LIST SAVING MANAGEMENT
 def save_list_in_file(in_list, filepath):
