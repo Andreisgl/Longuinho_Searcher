@@ -197,9 +197,9 @@ def save_website(search_url): # Rename later to 'save_website'
     # Save to history
     if was_redirected:
         # Print final URL
-        print('REDIRECTED TO:')
+        
         display_url = textwrap.wrap(real_url, no_terminal_columns-1)
-        print('{}'.format(display_url[0]))
+        print('REDIRECTED TO: {}'.format(display_url[0]))
 
 
     # CREATE METADATA
@@ -225,7 +225,7 @@ def save_website(search_url): # Rename later to 'save_website'
     index_condition = is_page or i_really_want_to_index_images_and_whatnot
 
 
-    return_data = (was_redirected, search_url, real_url,
+    return_data = (success_flag, was_redirected, search_url, real_url,
                    link_list, text_list)
     
 

@@ -33,7 +33,7 @@ def page_extractor(search_url):
     except:
         success_flag = False
         error_code = '?'
-        print('UNKNOWN ERROR')
+        print('UNKNOWN ERROR: {}\t{}'.format(search_url, final_url))
             
 
     if success_flag:

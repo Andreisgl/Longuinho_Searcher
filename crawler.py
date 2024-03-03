@@ -48,6 +48,11 @@ def main_paths_manager():
     global url_history_list_file
     url_history_list_file = os.path.join(MAIN_FOLDER, url_history_list_file)
     check_file(url_history_list_file)
+
+    # output_url_list
+    global output_url_list_file
+    output_url_list_file = os.path.join(MAIN_FOLDER, output_url_list_file)
+    check_file(output_url_list_file)
     
     #seed_list_file
     global seed_list_file
@@ -57,9 +62,6 @@ def main_paths_manager():
     #blacklist_list_file
     global blacklist_list_file
     blacklist_list_file = os.path.join(MAIN_FOLDER, blacklist_list_file)
-    #if not os.path.exists(blacklist_list_file): # Create file if it does not exist
-    #    with open(blacklist_list_file, 'w'):
-    #        pass
     check_file(blacklist_list_file)
 
 # LIST SAVING MANAGEMENT
@@ -101,6 +103,20 @@ def load_incoming_from_file():
     incoming_url_list = load_list_from_file(incoming_url_list_file)
     if incoming_url_list == '':
         incoming_url_list = []
+
+# OUTPUT LIST MANAGEMENT
+def save_output_to_file():
+    # Saves 'incoming_url_list' to its respective file
+    global output_url_list
+    global output_url_list_file
+    save_list_in_file(output_url_list, output_url_list_file)
+def load_output_from_file():
+    # Saves 'incoming_url_list' from its respective file
+    global output_url_list
+    global output_url_list_file
+    output_url_list = load_list_from_file(output_url_list_file)
+    if output_url_list == '':
+        output_url_list = []
 
 # HISTORY LIST MANAGEMENT
 def save_history_to_file():
@@ -213,8 +229,39 @@ def remove_entries_from_another_list(target_list, tool_list):
     final_length = len(final_list)
 
     return final_list, (initial_length - final_length)
+def remove_blacklisted_sites_from_list(target_list):
+    # Some sites just take too long to load, like the web.archive.
+    # Returns cleansed list and number of excluded terms.
+    # Only use when 'incoming_link_queue' is already loaded
 
-# MAIN LIST MANAGEMENT AND CLEANING
+    #global incoming_url_list
+    global blacklist_list
+    
+    load_blacklist_from_file()
+
+    process_list = target_list
+    
+    # Add prefixes to each website so they reflect their counterparts
+    # in 'incoming'
+    prefixes = ['', 'http://', 'https://']
+    full_terms = []
+
+    initial_length = len(process_list)
+
+    for site in blacklist_list:
+        for prefix in prefixes:
+            full_terms.append(prefix + site)
+    
+    for index, url in enumerate(process_list):
+        for site in full_terms:
+            if url.startswith(site):
+                process_list.pop(index)
+    
+    final_length = len(process_list)
+
+    return process_list, (initial_length - final_length)
+
+# INCOMING CLEANING
 def remove_duplicates_from_incoming():
     # Removes duplicates from 'incoming',
     # returns ammount of URLs removed.
@@ -245,67 +292,63 @@ def remove_blacklisted_sites_from_incoming():
     # Only use when 'incoming_link_queue' is already loaded
 
     global incoming_url_list
-    global blacklist_list
-    
-    load_blacklist_from_file()
-    
-    # Add prefixes to each website so they reflect their counterparts
-    # in 'incoming'
-    prefixes = ['', 'http://', 'https://']
-    full_terms = []
+    load_incoming_from_file()
 
-    initial_length = len(incoming_url_list)
-
-    for site in blacklist_list:
-        for prefix in prefixes:
-            full_terms.append(prefix + site)
+    (incoming_url_list,
+     amt_removed
+     ) = remove_blacklisted_sites_from_list(incoming_url_list)
     
-    for index, url in enumerate(incoming_url_list):
-        for site in full_terms:
-            if url.startswith(site):
-                incoming_url_list.pop(index)
+    return amt_removed
     
-    final_length = len(incoming_url_list)
-
-    return initial_length - final_length
 def clean_incoming():
-    # Unifies all cleaning methos into a single call
+    # Unifies all cleaning methods into a single call
     # Returns total ammount of URLs removed
     # Only use when 'incoming_link_queue' is already loaded
 
     removed_counter = 0
-    duplicate_start_time = time.perf_counter()
-    duplicate_counter = remove_duplicates_from_incoming()
-    duplicate_finish_time = time.perf_counter()
-    
-    existing_start_time = time.perf_counter()
-    existing_counter = removed_links_in_history_from_incoming()
-    existing_finish_time = time.perf_counter()
 
-    blacklist_start_time = time.perf_counter()
+    duplicate_counter = remove_duplicates_from_incoming()
+    
+    existing_counter = removed_links_in_history_from_incoming()
+
     blacklisted_counter = remove_blacklisted_sites_from_incoming()
-    blacklist_finish_time = time.perf_counter()
 
     removed_counter = (duplicate_counter
                        + existing_counter
                        + blacklisted_counter)
     
-    print('\nRemoved {} pages:\n{} duplicates,\n{} existing\n{} blacklisted'
+    print('\nINPUT:Removed {} pages:\n{} duplicates,\n{} existing\n{} blacklisted'
           .format(removed_counter, duplicate_counter,
                   existing_counter, blacklisted_counter))
     
-    show_debugging_timings = False
-    if show_debugging_timings:
-        duplicate_time = duplicate_finish_time - duplicate_start_time
-        existing_time = existing_finish_time - existing_start_time
-        blacklist_time = blacklist_finish_time - blacklist_start_time
-
-        print('Incoming Cleaning: Time per section:')
-        print('Duplicates: {} seconds'.format(duplicate_time))
-        print('Existing: {} seconds'.format(existing_time))
-        print('Blacklist: {} seconds'.format(blacklist_time))
     return removed_counter
 
+# OUTPUT CLEANING
+def clean_output():
+    # Returns total ammount of URLs removed
+
+    global output_url_list
+
+    removed_counter = 0
+
+    (output_url_list, duplicate_counter
+     ) = remove_duplicates_from_list(output_url_list)
+    
+    (output_url_list, existing_counter
+     ) = remove_entries_from_another_list(output_url_list, url_history_list)
+
+    (output_url_list, blacklisted_counter
+     ) = remove_blacklisted_sites_from_list(output_url_list)
+
+    removed_counter = (duplicate_counter
+                       + existing_counter
+                       + blacklisted_counter)
+    
+    print('\nOUTPUT: Removed {} pages:\n{} duplicates,\n{} existing\n{} blacklisted'
+          .format(removed_counter, duplicate_counter,
+                  existing_counter, blacklisted_counter))
+    
+    return removed_counter
 
 # STATISTICS:
 def count_pages_crawled():
@@ -327,26 +370,124 @@ def plant_seed():
         incoming_url_list.append(seed)
     save_incoming_to_file()
 
-def pathfinder():
-    '''Crawls a list and'''
-    pass
+def pathfinder(input_list, output_list, history_list, amt_to_search=-1, parallel_search=False):
+    '''Crawls a list
+    - input_list: List to be crawled
+    - output_list: All URLs found in this crawl
+    - history_list: All URLs ever crawled
+    - parallel_search: If 'True', crawling will use multithreading.
+        If 'False', crawling will be serial.
+    '''
+
+    amt_available = len(input_list)
+    #print('URLs available: {}'.format(amt_available))
+
+    # Define ammount of URLs to crawl
+    # Cap search to available number
+    if amt_to_search <= 0 or amt_to_search > amt_available:
+        amt_to_search = amt_available
+
+    sample = input_list[:amt_to_search] # Search just this ammount
     
+    # Bundle URL packages
+    print('Start Bundling')
+    data_pack_bundle = []
+    if parallel_search:
+        with Pool() as pool:
+            data_pack_bundle = pool.map(save_website, sample, chunksize=5)
+    else:
+        for url in sample:
+            data_pack_bundle.append(save_website(url))
+
+    # Manage recovered data
+    recovered_urls = [] # Will be passed on to 'output_list' later
+    for pack in data_pack_bundle:
+        success_flag = pack[0]
+        was_redirected = pack[1]
+        searched_url = pack[2]
+        final_url = pack[3]
+        found_urls = pack[4]
+
+        # Recover URLs
+        for rec_url in found_urls:
+            recovered_urls.append(rec_url)
+        # Add to history
+        if was_redirected: # If there is a redirection, append origin link with a marker
+            # TODO: Make this a field in the .csv when I switch to .csv saving
+            history_list.append(redirector_flag + searched_url)
+        
+        if success_flag:
+            history_list.append(final_url)
+        else: # Failed URLs will have an empty 'final_url'. Mark them too.
+            history_list.append(fail_flag + searched_url)
+        
+        
+        # Removed visited pages from 'input_list'
+        del input_list[:amt_to_search]
+
+
+        # Append recovered URLs to 'output_list'
+        output_list += recovered_urls
+
+    return len(output_list) # Return number of crawled pages
+
+#def expand_index(amt_to_search)
+#{
+#
+#}
 
 
 # MAIN
 
 def main():
     print('This is the Longin Crawler!')
+    
+    # Assign main lists
+    global incoming_url_list
+    global output_url_list
+    global url_history_list
+    # Load from main files
+    load_incoming_from_file()
+    load_output_from_file()
     load_history_from_file()
-    print('Ammount of pages already crawled: {}'.format(count_pages_crawled()))
-    while True:
+
+    # Clean input
+    clean_incoming()
+
+    amt_pages_crawled = count_pages_crawled()
+    print('Ammount of pages already crawled: {}'.format(amt_pages_crawled))
+
+    amt_available = len(incoming_url_list)
+    print('URLs available: {}'.format(amt_available))
+
+    if len(incoming_url_list) <= 0:
+        plant_seed()
+    
+    while True: # Input desired amount of pages to crawl
         try:
             answer = int(input('How many pages do you want to index? '))
         except ValueError:
             print('Input a valid number!')
             continue
-        ##expand_index(answer)
         break
+
+    pathfinder(incoming_url_list, output_url_list, url_history_list, answer, True)
+    
+    
+    # Move output to input
+    clean_output()
+
+    # Interesting note: Assigning two list bind them, as they are reference passed.
+    # This makes clearing 'output_url_list' clear 'incoming_url_list' too!
+    # Assign with a full slice '[:]' to make a copy of the list and avoid this
+    incoming_url_list += output_url_list
+    output_url_list.clear()
+    print('Outputed values moved to input!')
+    
+    # Save main files
+    save_incoming_to_file()
+    save_output_to_file()
+    save_history_to_file()
 
     print('Ammount of pages already crawled: {}'.format(count_pages_crawled()))
     input('Done! Press ENTER to exit')
@@ -354,10 +495,13 @@ def main():
 MAIN_FOLDER = 'crawler_data'
 
 incoming_url_list = []
-incoming_url_list_file = 'queue.txt'
+incoming_url_list_file = 'input.txt'
 
 url_history_list = []
 url_history_list_file = 'history.txt'
+
+output_url_list = []
+output_url_list_file = 'output.txt'
 
 seed_list = []
 seed_list_file = 'seeds.txt'
@@ -369,6 +513,8 @@ blacklist_list_file = 'blacklist.txt'
 # Mark it so it is included in history,
 # but not counted as an indexed page
 redirector_flag = '´'
+
+fail_flag = '#'
 
 
 main_paths_manager()
