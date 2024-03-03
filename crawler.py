@@ -329,6 +329,7 @@ def plant_seed():
 
 def pathfinder():
     '''Crawls a list and'''
+    pass
     
 
 
@@ -344,7 +345,7 @@ def main():
         except ValueError:
             print('Input a valid number!')
             continue
-        expand_index(answer)
+        ##expand_index(answer)
         break
 
     print('Ammount of pages already crawled: {}'.format(count_pages_crawled()))
