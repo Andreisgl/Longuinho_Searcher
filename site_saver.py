@@ -22,7 +22,7 @@ no_terminal_columns = get_terminal_columns()
 
 
 def get_pages_database_path():
-    # The indexer will need to know where the pages are located
+    '''The indexer will need to know where the pages are located'''
     return ALL_WEBSITES_FOLDER
 
 def get_filenames():
@@ -68,8 +68,8 @@ def load_list_from_file(in_file):
         return ''
 
 def save_new_meta_file(meta_list, link_list, text_list, raw_data, path):
-        # Put all data in meta file
-        # Offsets indicate where each sector starts
+        '''Put all data in meta file
+        Offsets indicate where each sector starts'''
 
         all_data = []
         all_data.append(meta_list)
@@ -180,7 +180,7 @@ def website_path(name):
     return meta_list_file
 
 def save_website(search_url): # Rename later to 'save_website'
-    # Saves important data from the website, returns paths for the data.
+    '''Saves important data from the website, returns paths for the data.'''
     meta_list_file = ''
 
     #(website_name, raw_file_data, link_list, text_list, real_url) = site_ex.get_data_from_url(search_url)
