@@ -5,13 +5,14 @@ import os
 import shutil
 from time import perf_counter
 
-import textwrap
+#import textwrap
 from multiprocessing import Pool
-import csv
+#import csv
 
-from website_extractor import get_data_from_url
+#from website_extractor import get_data_from_url
 from site_saver import save_website
 
+from modules import csv_methods as csvm
 
 # DISPLAY STUFF
 def get_terminal_columns():
@@ -95,7 +96,8 @@ def save_incoming_to_file():
     # Saves 'incoming_url_list' to its respective file
     global incoming_url_list
     global incoming_url_list_file
-    save_list_in_file(incoming_url_list, incoming_url_list_file)
+    #save_list_in_file(incoming_url_list, incoming_url_list_file)
+
 def load_incoming_from_file():
     # Saves 'incoming_url_list' from its respective file
     global incoming_url_list
