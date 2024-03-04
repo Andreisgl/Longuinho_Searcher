@@ -454,7 +454,7 @@ def pathfinder(input_list, output_list, history_list, amt_to_search=-1, parallel
 
     return visited_urls_counter # Return number of crawled pages
 
-def expand_index(amt_to_search):
+def expand_index(amt_to_search, cycle_data=False):
     '''Covers many pathfindings to crawl desired ammount of pages.
     Returns ammount of pages crawled and time to do so.'''
     
@@ -470,10 +470,11 @@ def expand_index(amt_to_search):
         global url_history_list
         global output_url_list
 
-        # Transfer output data to input
-        incoming_url_list += output_url_list
-        output_url_list.clear()
-        print('Outputted values moved to input!')
+        if cycle_data:
+            # Transfer output data to input
+            incoming_url_list += output_url_list
+            output_url_list.clear()
+            print('Outputted values moved to input!')
 
     
     start_time = perf_counter() # Start counting execution time
