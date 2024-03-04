@@ -8,7 +8,7 @@ def read_csv(path):
     '''Returns all rows in the file a tuple of tuples.
     - path: Path of the desired file'''
     alldata = []
-    with open(path, newline='') as file:
+    with open(path, encoding='UTF8', newline='') as file:
         csvreader = csv.reader(file, delimiter=DELIMITER, quotechar=QUOTECHAR)
         for row in csvreader:
             alldata.append(tuple(row))
@@ -23,7 +23,7 @@ def write_csv(path, data, many_rows=True, mode='w'):
     - mode: Mode to use opening the file.
         'w' for overwriting writes, 'a' for appending writes
     '''
-    with open(path, 'w', newline='') as csvfile:
+    with open(path, 'w', encoding='UTF8', newline='') as csvfile:
         csvreader = csv.writer(csvfile, delimiter=DELIMITER, quotechar=QUOTECHAR, quoting=csv.QUOTE_MINIMAL)
         
         if many_rows:
