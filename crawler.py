@@ -66,29 +66,21 @@ def main_paths_manager():
     check_file(blacklist_list_file)
 
 # LIST SAVING MANAGEMENT
-def save_list_in_file(in_list, filepath):
+def save_list_in_file(in_list, filepath, many_rows=True, mode='w'):
     # Saves a list as lines in a file
     # Returns 'True' if succeeded,
     # 'False' if failed.
 
+    write_data = [(x,) for x in in_list]
     try:
-        with open(filepath, 'wb') as file:
-            for index, item in enumerate(in_list):
-                file.write(item.encode('utf-8'))
-                if index < len(in_list)-1:
-                    file.write('\n'.encode('utf-8'))
+        csvm.write_csv(filepath, write_data, many_rows, mode)
         return True
     except:
         return False
 def load_list_from_file(file_path):
     # Returns a list containing all lines in a file
-
-    data = ''
-    with open(file_path, 'rb') as file:
-        data = (file.read()).decode('utf-8')
-    if data != '':
-        data = data.split('\n')
-    
+    data = csvm.read_csv(file_path)
+    data = [x[0] for x in data]
     return data
 
 # INCOMING LIST MANAGEMENT
@@ -96,8 +88,8 @@ def save_incoming_to_file():
     # Saves 'incoming_url_list' to its respective file
     global incoming_url_list
     global incoming_url_list_file
-    #save_list_in_file(incoming_url_list, incoming_url_list_file)
-
+    save_list_in_file(incoming_url_list, incoming_url_list_file)
+    #csvm.write_csv(incoming_url_list_file, incoming_url_list, True)
 def load_incoming_from_file():
     # Saves 'incoming_url_list' from its respective file
     global incoming_url_list
@@ -125,12 +117,15 @@ def save_history_to_file():
     # Saves 'history_list' to its respective file
     global url_history_list
     global url_history_list_file
-    save_list_in_file(url_history_list, url_history_list_file)
+    history_header = ('URL', 'SUCCESS', 'REDIRECTOR')
+    data_write = url_history_list[:]
+    data_write.insert(0, history_header)
+    csvm.write_csv(url_history_list_file, data_write, True)
 def load_history_from_file():
     # Saves 'history_list' from its respective file
     global url_history_list
     global url_history_list_file
-    url_history_list = load_list_from_file(url_history_list_file)
+    url_history_list = list(csvm.read_csv(url_history_list_file))[1:]
     if url_history_list == '':
         url_history_list = []
 
@@ -434,13 +429,20 @@ def pathfinder(input_list, output_list, history_list, amt_to_search=-1, parallel
         # Add to history
         if was_redirected: # If there is a redirection, append origin link with a marker
             # TODO: Make this a field in the .csv when I switch to .csv saving
-            history_list.append(redirector_flag + searched_url)
+            #history_list.append(redirector_flag + searched_url)
+            history_list.append(
+                (searched_url, success_flag, True)
+                )
             visited_urls_counter += 1 # Count redirector URL as visited too
         
-        if success_flag:
-            history_list.append(final_url)
-        else: # Failed URLs will have an empty 'final_url'. Mark them too.
-            history_list.append(fail_flag + searched_url)
+        #if success_flag:
+        #    history_list.append(final_url)
+        #else: # Failed URLs will have an empty 'final_url'. Mark them too.
+        #    history_list.append(fail_flag + searched_url)
+        
+        history_list.append(
+                (searched_url, success_flag, False)
+                )
         
         visited_urls_counter += 1 # Count URL as visited
         
@@ -455,17 +457,40 @@ def pathfinder(input_list, output_list, history_list, amt_to_search=-1, parallel
 def expand_index(amt_to_search):
     '''Covers many pathfindings to crawl desired ammount of pages.
     Returns ammount of pages crawled and time to do so.'''
+    
+    global incoming_url_list
+    global url_history_list
+    global output_url_list
+
+    def call_pathfinder():
+        return pathfinder(incoming_url_list, output_url_list, url_history_list, amt_to_search)
+
+    def feedback_data():
+        global incoming_url_list
+        global url_history_list
+        global output_url_list
+
+        # Transfer output data to input
+        incoming_url_list += output_url_list
+        output_url_list.clear()
+        print('Outputted values moved to input!')
+
+    
     start_time = perf_counter() # Start counting execution time
 
     amt_searched = 0
 
     if amt_to_search <= 0: # This is a call to crawl all available pages
-        amt_searched += pathfinder(incoming_url_list, output_url_list, url_history_list, amt_to_search, True)
+        amt_searched += call_pathfinder()
+        feedback_data()
 
     while amt_searched < amt_to_search:
-        amt_searched += pathfinder(incoming_url_list, output_url_list, url_history_list, amt_to_search, True)
+        amt_searched += call_pathfinder()
         amt_to_search -= amt_searched
+        feedback_data()
     
+    
+
     end_time = perf_counter() # Stop counting execution time
 
 
@@ -531,9 +556,8 @@ def main():
     # Interesting note: Assigning two list bind them, as they are reference passed.
     # This makes clearing 'output_url_list' clear 'incoming_url_list' too!
     # Assign with a full slice '[:]' to make a copy of the list and avoid this
-    incoming_url_list += output_url_list
-    output_url_list.clear()
-    print('Outputed values moved to input!')
+    
+    
     
     # Save main files
     save_incoming_to_file()
@@ -550,19 +574,19 @@ def main():
 MAIN_FOLDER = 'crawler_data'
 
 incoming_url_list = []
-incoming_url_list_file = 'input.txt'
+incoming_url_list_file = 'input.csv'
 
 url_history_list = []
-url_history_list_file = 'history.txt'
+url_history_list_file = 'history.csv'
 
 output_url_list = []
-output_url_list_file = 'output.txt'
+output_url_list_file = 'output.csv'
 
 seed_list = []
-seed_list_file = 'seeds.txt'
+seed_list_file = 'seeds.csv'
 
 blacklist_list = []
-blacklist_list_file = 'blacklist.txt'
+blacklist_list_file = 'blacklist.csv'
 
 # If the called link redirected to somewhere else,
 # Mark it so it is included in history,
