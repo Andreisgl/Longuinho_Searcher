@@ -14,12 +14,6 @@ from site_saver import save_website
 
 from modules import csv_methods as csvm
 
-# DISPLAY STUFF
-def get_terminal_columns(): ##### DELETE
-    return shutil.get_terminal_size().columns
-no_terminal_columns = get_terminal_columns()
-
-
 # MAIN PATHS MANAGER
 def main_paths_manager():
     # This function creates and completes the paths
@@ -136,67 +130,6 @@ def load_blacklist_from_file():
     blacklist_list = load_list_from_file(blacklist_list_file)
     if blacklist_list == '':
         blacklist_list = []
-
-# MORE LIST STUFF
-def translate_list_of_list(in_list, encode_flag): ##### DELETE
-    # This functions translate lists of lists to a file-saveable format
-    # encode_flag:
-    #   if 'True', it encodes from normal list to saveable list
-    #   if 'False', it encodes from saveable list to normal list
-    # END FORMAT:
-    #   normal_list = [['a', 'b', 'c'], [['apple', 'banana'], '2', '3']]
-    #   saveable_list = ['a|b|c','apple^banana|2|3']
-    #   This method suports up to a triple-nested list
-    #   A list inside a list inside a list: [ [ [] ] ]
-    # This is messy, I know. That's how I was able to do it.
-    
-    separation_char1 = '|*|'
-    separation_char2 = '^*^'
-    out_list = []
-    intermediate_list = []
-    if encode_flag: # Normal to saveable
-        for pack in in_list:
-            pack_substring = ''
-            for index, item in enumerate(pack):
-                if type(item) == str:
-                    pack_substring += item
-                if type(item) == bytes:
-                    item = item.decode('utf-8')
-                if type(item) == bool:
-                    # Convert bool values to string
-                    if item:
-                        item = 'True'
-                    else:
-                        item = 'False'
-                if type(item) == int:
-                    item = str(item)
-                if type(item) == list:
-                    sub_substring = ''
-                    for index2, subitem in enumerate(item):
-                        if type(subitem) == str:
-                            sub_substring += subitem
-                        if index2 < len(item)-1:
-                            sub_substring += separation_char2
-                    item = sub_substring
-
-                pack_substring += item
-
-                if index < len(pack)-1:
-                    pack_substring += separation_char1
-                pass
-            out_list.append(pack_substring)
-    else: # Saveable to normal:
-        for pack in in_list:
-            # Divide into normal structure
-            pack = pack.split(separation_char1)
-            # Unpack link and text lists
-            pack[5] = pack[5].split(separation_char2)
-            pack[6] = pack[6].split(separation_char2)
-            out_list.append(pack)
-
-        pass
-    return out_list
-
 
 # LIST CLEANING
 def remove_duplicates_from_list(input_list):
