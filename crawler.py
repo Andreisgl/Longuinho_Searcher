@@ -25,7 +25,7 @@ redirector_flag = '´'
 fail_flag = '#'
 
 class Crawler:
-    def __init___(self, root_dir):
+    def __init__(self, root_dir):
 
         self.dir = root_dir
         
@@ -487,7 +487,7 @@ class Crawler:
 def main():
     print('This is the Longin Crawler!')
     
-    crawler = Crawler()
+    crawler = Crawler('.')
     crawler.main_paths_manager()
 
     
