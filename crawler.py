@@ -317,20 +317,7 @@ def pathfinder(input_list, output_list, history_list, parallel_search=True):
         If 'False', crawling will be serial.
     '''
 
-    amt_available = len(input_list)
-    # Crawls are only saved after the pathfinder closes.
-    # Max ammount of URLs per crawl.
-    #max_amt = 200 
-    #
-    ## Define ammount of URLs to crawl
-    ## Cap search to available number or the max ammount per crawl
-    #if amt_to_search <= 0 or amt_to_search > amt_available:
-    #    amt_to_search = amt_available
-    #if amt_to_search > max_amt:
-    #    amt_to_search = max_amt
-
-    #sample = input_list[:amt_to_search] # Search just this ammount
-    sample = input_list # Search just this ammount
+    sample = input_list
     
     # Bundle URL packages
     print('Start Bundling')
@@ -355,34 +342,15 @@ def pathfinder(input_list, output_list, history_list, parallel_search=True):
         # Recover URLs
         for rec_url in found_urls:
             recovered_urls.append(rec_url)
+
         # Add to history
         internal_history = []
         if was_redirected: # If there is a redirection, append origin link with a marker
-            internal_history.append(
-                (searched_url, success_flag, True)
-                )
+            internal_history.append((searched_url, success_flag, True))
             visited_urls_counter += 1 # Count redirector URL as visited too
-        
-        
-        internal_history.append(
-                (searched_url, success_flag, False)
-                )
+        internal_history.append((searched_url, success_flag, False))
         visited_urls_counter += 1 # Count URL as visited
-        
-        # Removed visited pages from 'input_list'
-        #del input_list[:amt_to_search]
-        # Update ammount of links available
-        amt_available = len(input_list)
-        
-        # Append recovered URLs to 'output_list'
-        #output_list += recovered_urls
 
-        # Append visited URLs to 'history_list'
-        #history_list += internal_history
-
-    recovered_urls = recovered_urls
-    internal_history = internal_history
-    
     # Return number of crawled and available pages
     return visited_urls_counter, recovered_urls, internal_history
 
@@ -409,7 +377,7 @@ def expand_index(input_list, output_list, history_list, amt_to_search, cycle_dat
     history_list = returned_data[2]
 
     amt_searched_total += amt_searched
-        
+
 
     end_time = perf_counter() # Stop counting execution time
 
