@@ -312,7 +312,7 @@ def pathfinder(input_list, output_list, history_list, parallel_search=True):
     and ammount of pages available to crawl.
     - input_list: List to be crawled
     - output_list: All URLs found in this crawl
-    - history_list: All URLs ever crawled
+    - history_list: All URLs crawled in this iteration
     - parallel_search: If 'True', crawling will use multithreading.
         If 'False', crawling will be serial.
     '''
