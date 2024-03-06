@@ -15,7 +15,7 @@ from site_saver import save_website
 from modules import csv_methods as csvm
 
 # DISPLAY STUFF
-def get_terminal_columns():
+def get_terminal_columns(): ##### DELETE
     return shutil.get_terminal_size().columns
 no_terminal_columns = get_terminal_columns()
 
@@ -67,9 +67,8 @@ def main_paths_manager():
 
 # LIST SAVING MANAGEMENT
 def save_list_in_file(in_list, filepath, many_rows=True, mode='w'):
-    # Saves a list as lines in a file
-    # Returns 'True' if succeeded,
-    # 'False' if failed.
+    '''Saves a list as lines in a file
+    Returns 'True' if succeeded, 'False' if failed.'''
 
     write_data = [(x,) for x in in_list]
     try:
@@ -78,20 +77,20 @@ def save_list_in_file(in_list, filepath, many_rows=True, mode='w'):
     except:
         return False
 def load_list_from_file(file_path):
-    # Returns a list containing all lines in a file
+    '''Returns a list containing all lines in a file'''
     data = csvm.read_csv(file_path)
     data = [x[0] for x in data]
     return data
 
 # INCOMING LIST MANAGEMENT
 def save_incoming_to_file():
-    # Saves 'incoming_url_list' to its respective file
+    '''Saves 'incoming_url_list' to its respective file'''
     global incoming_url_list
     global incoming_url_list_file
     save_list_in_file(incoming_url_list, incoming_url_list_file)
     #csvm.write_csv(incoming_url_list_file, incoming_url_list, True)
 def load_incoming_from_file():
-    # Saves 'incoming_url_list' from its respective file
+    '''Saves 'incoming_url_list' from its respective file'''
     global incoming_url_list
     global incoming_url_list_file
     incoming_url_list = load_list_from_file(incoming_url_list_file)
@@ -100,12 +99,12 @@ def load_incoming_from_file():
 
 # OUTPUT LIST MANAGEMENT
 def save_output_to_file():
-    # Saves 'incoming_url_list' to its respective file
+    '''Saves 'incoming_url_list' to its respective file'''
     global output_url_list
     global output_url_list_file
     save_list_in_file(output_url_list, output_url_list_file)
 def load_output_from_file():
-    # Saves 'incoming_url_list' from its respective file
+    '''Saves 'incoming_url_list' from its respective file'''
     global output_url_list
     global output_url_list_file
     output_url_list = load_list_from_file(output_url_list_file)
@@ -114,7 +113,7 @@ def load_output_from_file():
 
 # HISTORY LIST MANAGEMENT
 def save_history_to_file():
-    # Saves 'history_list' to its respective file
+    '''Saves 'history_list' to its respective file'''
     global url_history_list
     global url_history_list_file
     history_header = ('URL', 'SUCCESS', 'REDIRECTOR')
@@ -122,7 +121,7 @@ def save_history_to_file():
     data_write.insert(0, history_header)
     csvm.write_csv(url_history_list_file, data_write, True)
 def load_history_from_file():
-    # Saves 'history_list' from its respective file
+    '''Saves 'history_list' from its respective file'''
     global url_history_list
     global url_history_list_file
     url_history_list = list(csvm.read_csv(url_history_list_file))[1:]
@@ -131,7 +130,7 @@ def load_history_from_file():
 
 # BLACKLIST LIST MANAGEMENT
 def load_blacklist_from_file():
-    # Saves 'history_list' from its respective file
+    '''Saves 'history_list' from its respective file'''
     global blacklist_list
     global blacklist_list_file
     blacklist_list = load_list_from_file(blacklist_list_file)
@@ -139,7 +138,7 @@ def load_blacklist_from_file():
         blacklist_list = []
 
 # MORE LIST STUFF
-def translate_list_of_list(in_list, encode_flag):
+def translate_list_of_list(in_list, encode_flag): ##### DELETE
     # This functions translate lists of lists to a file-saveable format
     # encode_flag:
     #   if 'True', it encodes from normal list to saveable list
@@ -201,8 +200,7 @@ def translate_list_of_list(in_list, encode_flag):
 
 # LIST CLEANING
 def remove_duplicates_from_list(input_list):
-    '''Returns the list without duplicates
-    and ammount of entries removed.'''
+    '''Returns the list without duplicates and ammount of entries removed.'''
 
     process_list = input_list # Assign to avoid reference passes
     initial_length = len(process_list)
@@ -227,9 +225,9 @@ def remove_entries_from_another_list(target_list, tool_list):
 
     return final_list, (initial_length - final_length)
 def remove_blacklisted_sites_from_list(target_list):
-    # Some sites just take too long to load, like the web.archive.
-    # Returns cleansed list and number of excluded terms.
-    # Only use when 'incoming_link_queue' is already loaded
+    '''Some sites just take too long to load, like the web.archive.
+    Returns cleansed list and number of excluded terms.
+    Only use when 'incoming_link_queue' is already loaded'''
 
     #global incoming_url_list
     global blacklist_list
@@ -260,9 +258,9 @@ def remove_blacklisted_sites_from_list(target_list):
 
 # INCOMING CLEANING
 def remove_duplicates_from_incoming():
-    # Removes duplicates from 'incoming',
-    # returns ammount of URLs removed.
-    # Only use when 'incoming_link_queue' is already loaded
+    '''Removes duplicates from 'incoming',
+    returns ammount of URLs removed.
+    Only use when 'incoming_link_queue' is already loaded'''
     global incoming_url_list
 
     (incoming_url_list,
@@ -271,9 +269,9 @@ def remove_duplicates_from_incoming():
     
     return amt_removed
 def removed_links_in_history_from_incoming():
-    # Removes from 'incoming' URLs already present in 'history',
-    # returns ammount of URLs removed
-    # Only use when both lists are already loaded
+    '''Removes from 'incoming' URLs already present in 'history',
+    returns ammount of URLs removed
+    Only use when both lists are already loaded'''
     global incoming_url_list
     global url_history_list
 
@@ -283,11 +281,10 @@ def removed_links_in_history_from_incoming():
 
     return amt_removed
 def remove_blacklisted_sites_from_incoming():
-    # Some sites just take too long to load, like the web.archive.
-    # This allows to remove them from the incoming list.
-    # Returns number of excluded terms.
-    # Only use when 'incoming_link_queue' is already loaded
-
+    '''Some sites just take too long to load, like the web.archive.
+    This allows to remove them from the incoming list.
+    Returns number of excluded terms.
+    Only use when 'incoming_link_queue' is already loaded'''
     global incoming_url_list
     load_incoming_from_file()
 
@@ -298,9 +295,9 @@ def remove_blacklisted_sites_from_incoming():
     return amt_removed
     
 def clean_incoming():
-    # Unifies all cleaning methods into a single call
-    # Returns total ammount of URLs removed
-    # Only use when 'incoming_link_queue' is already loaded
+    '''Unifies all cleaning methods into a single call
+    Returns total ammount of URLs removed
+    Only use when 'incoming_link_queue' is already loaded'''
 
     removed_counter = 0
 
@@ -323,7 +320,7 @@ def clean_incoming():
 
 # OUTPUT CLEANING
 def clean_output():
-    # Returns total ammount of URLs removed
+    '''Returns total ammount of URLs removed'''
 
     global output_url_list
 
