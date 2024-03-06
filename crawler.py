@@ -2,16 +2,11 @@
 # and appends those to the list
 
 import os
-import shutil
 from time import perf_counter
 
-#import textwrap
 from multiprocessing import Pool
-#import csv
 
-#from website_extractor import get_data_from_url
 from site_saver import save_website
-
 from modules import csv_methods as csvm
 
 # MAIN PATHS MANAGER
