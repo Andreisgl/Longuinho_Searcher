@@ -64,32 +64,26 @@ class Crawler:
                 os.mkdir(path)
 
         # Main folder
-        #global MAIN_FOLDER
         self.MAIN_FOLDER = os.path.join(self.dir, self.MAIN_FOLDER)
         check_folder(self.MAIN_FOLDER)
 
         # incoming_url_list_file
-        #global incoming_url_list_file
         self.incoming_url_list_file = os.path.join(self.MAIN_FOLDER, self.incoming_url_list_file)
         check_file(self.incoming_url_list_file)
 
         # url_history_list_file
-        #global url_history_list_file
         self.url_history_list_file = os.path.join(self.MAIN_FOLDER, self.url_history_list_file)
         check_file(self.url_history_list_file)
 
         # output_url_list
-        #global output_url_list_file
         self.output_url_list_file = os.path.join(self.MAIN_FOLDER, self.output_url_list_file)
         check_file(self.output_url_list_file)
         
         #seed_list_file
-        #global seed_list_file
         self.seed_list_file = os.path.join(self.MAIN_FOLDER, self.seed_list_file)
         check_file(self.seed_list_file)
         
         #blacklist_list_file
-        #global blacklist_list_file
         self.blacklist_list_file = os.path.join(self.MAIN_FOLDER, self.blacklist_list_file)
         check_file(self.blacklist_list_file)
 
@@ -113,13 +107,9 @@ class Crawler:
     # INCOMING LIST MANAGEMENT
     def save_incoming_to_file(self):
         '''Saves 'incoming_url_list' to its respective file'''
-        #global incoming_url_list
-        #global incoming_url_list_file
         self.save_list_in_file(self.incoming_url_list, self.incoming_url_list_file)
     def load_incoming_from_file(self):
         '''Saves 'incoming_url_list' from its respective file'''
-        #global incoming_url_list
-        #global incoming_url_list_file
         self.incoming_url_list = self.load_list_from_file(self.incoming_url_list_file)
         if self.incoming_url_list == '':
             self.incoming_url_list = []
@@ -127,13 +117,9 @@ class Crawler:
     # OUTPUT LIST MANAGEMENT
     def save_output_to_file(self):
         '''Saves 'incoming_url_list' to its respective file'''
-        #global output_url_list
-        #global output_url_list_file
         self.save_list_in_file(self.output_url_list, self.output_url_list_file)
     def load_output_from_file(self):
         '''Saves 'incoming_url_list' from its respective file'''
-        #global output_url_list
-        #global output_url_list_file
         self.output_url_list = self.load_list_from_file(self.output_url_list_file)
         if self.output_url_list == '':
             self.output_url_list = []
@@ -141,16 +127,12 @@ class Crawler:
     # HISTORY LIST MANAGEMENT
     def save_history_to_file(self):
         '''Saves 'history_list' to its respective file'''
-        #global url_history_list
-        #global url_history_list_file
         history_header = ('URL', 'SUCCESS', 'REDIRECTOR')
         data_write = self.url_history_list[:]
         data_write.insert(0, history_header)
         csvm.write_csv(self.url_history_list_file, data_write, True)
     def load_history_from_file(self):
         '''Saves 'history_list' from its respective file'''
-        #global url_history_list
-        #global url_history_list_file
         self.url_history_list = list(csvm.read_csv(self.url_history_list_file))[1:]
         if self.url_history_list == '':
             self.url_history_list = []
@@ -158,8 +140,6 @@ class Crawler:
     # BLACKLIST LIST MANAGEMENT
     def load_blacklist_from_file(self):
         '''Saves 'history_list' from its respective file'''
-        #global blacklist_list
-        #global blacklist_list_file
         self.blacklist_list = self.load_list_from_file(self.blacklist_list_file)
         if self.blacklist_list == '':
             self.blacklist_list = []
@@ -195,8 +175,6 @@ class Crawler:
         Returns cleansed list and number of excluded terms.
         Only use when 'incoming_link_queue' is already loaded'''
 
-        #global blacklist_list
-        
         self.load_blacklist_from_file()
 
         process_list = target_list
@@ -226,7 +204,6 @@ class Crawler:
         '''Removes duplicates from 'incoming',
         returns ammount of URLs removed.
         Only use when 'incoming_link_queue' is already loaded'''
-        #global incoming_url_list
 
         (self.incoming_url_list,
         amt_removed
@@ -237,8 +214,6 @@ class Crawler:
         '''Removes from 'incoming' URLs already present in 'history',
         returns ammount of URLs removed
         Only use when both lists are already loaded'''
-        #global incoming_url_list
-        #global url_history_list
 
         (self.incoming_url_list,
         amt_removed
@@ -250,7 +225,6 @@ class Crawler:
         This allows to remove them from the incoming list.
         Returns number of excluded terms.
         Only use when 'incoming_link_queue' is already loaded'''
-        #global incoming_url_list
         self.load_incoming_from_file()
 
         (self.incoming_url_list,
@@ -287,8 +261,6 @@ class Crawler:
     def clean_output(self):
         '''Returns total ammount of URLs removed'''
 
-        #global output_url_list
-
         removed_counter = 0
 
         (self.output_url_list, duplicate_counter
@@ -314,8 +286,6 @@ class Crawler:
     # STATISTICS:
     def count_pages_crawled(self):
         '''Count how many pages in history'''
-        #global url_history_list
-        #global redirector_flag
         self.load_history_from_file()
         real_indexed_list = self.url_history_list[:]
 
@@ -324,17 +294,12 @@ class Crawler:
         return amt_crawled
     def count_pages_available(self):
         '''Count how many pages in incoming'''
-        #global incoming_url_list
         amt_available = len(self.incoming_url_list)
         
         print('URLs available: {}'.format(amt_available))
         return amt_available
     # CRAWLING
     def plant_seed(self):
-        #global incoming_url_list
-        #global seed_list
-        #global seed_list_file
-
         self.seed_list = self.load_list_from_file(self.seed_list_file)
         
         for seed in self.seed_list:
@@ -417,10 +382,6 @@ class Crawler:
         '''Covers many pathfindings to crawl desired ammount of pages.
         Returns ammount of pages crawled and time to do so.'''
         
-        #global incoming_url_list
-        #global url_history_list
-        #global output_url_list
-
         def call_pathfinder():
             return self.pathfinder(self.incoming_url_list, self.output_url_list, self.url_history_list, amt_to_search)
 
@@ -483,7 +444,6 @@ class Crawler:
 
 
 # MAIN
-
 def main():
     print('This is the Longin Crawler!')
     
@@ -493,9 +453,6 @@ def main():
     
 
     # Assign main lists
-    #global incoming_url_list
-    #global output_url_list
-    #global url_history_list
     # Load from main files
     crawler.load_incoming_from_file()
     crawler.load_output_from_file()
@@ -508,8 +465,9 @@ def main():
     crawler.count_pages_crawled()
     crawler.count_pages_available()
 
-    #if len(incoming_url_list) <= 0:
-    #    crawler.plant_seed()
+    if False:
+        if len(incoming_url_list) <= 0:
+            crawler.plant_seed()
     
     while True: # Input desired amount of pages to crawl
         try:
@@ -539,14 +497,8 @@ def main():
     input('Done! Press ENTER to exit')
 
 
-
-
-
-
 if __name__ == '__main__':
     main()
-
-
 
 
 pass
