@@ -1,5 +1,5 @@
-# This script crawls a list of URLs, gets all links present in them
-# and appends those to the list
+'''This script crawls a list of URLs, gets all links present in them
+and appends those to the list'''
 
 import os
 from time import perf_counter
