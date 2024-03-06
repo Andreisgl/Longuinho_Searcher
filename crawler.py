@@ -82,7 +82,6 @@ def save_incoming_to_file():
     global incoming_url_list
     global incoming_url_list_file
     save_list_in_file(incoming_url_list, incoming_url_list_file)
-    #csvm.write_csv(incoming_url_list_file, incoming_url_list, True)
 def load_incoming_from_file():
     '''Saves 'incoming_url_list' from its respective file'''
     global incoming_url_list
@@ -162,7 +161,6 @@ def remove_blacklisted_sites_from_list(target_list):
     Returns cleansed list and number of excluded terms.
     Only use when 'incoming_link_queue' is already loaded'''
 
-    #global incoming_url_list
     global blacklist_list
     
     load_blacklist_from_file()
@@ -285,7 +283,6 @@ def count_pages_crawled():
     global url_history_list
     global redirector_flag
     load_history_from_file()
-    #real_indexed_list = [x for x in url_history_list if redirector_flag not in x]
     real_indexed_list = url_history_list[:]
 
     amt_crawled = len(real_indexed_list)
@@ -358,17 +355,11 @@ def pathfinder(input_list, output_list, history_list, amt_to_search=-1, parallel
             recovered_urls.append(rec_url)
         # Add to history
         if was_redirected: # If there is a redirection, append origin link with a marker
-            # TODO: Make this a field in the .csv when I switch to .csv saving
-            #history_list.append(redirector_flag + searched_url)
             history_list.append(
                 (searched_url, success_flag, True)
                 )
             visited_urls_counter += 1 # Count redirector URL as visited too
         
-        #if success_flag:
-        #    history_list.append(final_url)
-        #else: # Failed URLs will have an empty 'final_url'. Mark them too.
-        #    history_list.append(fail_flag + searched_url)
         
         history_list.append(
                 (searched_url, success_flag, False)
@@ -484,11 +475,6 @@ def main():
     # Move output to input
     clean_output()
 
-    # Interesting note: Assigning two list bind them, as they are reference passed.
-    # This makes clearing 'output_url_list' clear 'incoming_url_list' too!
-    # Assign with a full slice '[:]' to make a copy of the list and avoid this
-    
-    
     
     # Save main files
     save_incoming_to_file()
