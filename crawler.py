@@ -45,7 +45,7 @@ class Crawler:
 
 
     # MAIN PATHS MANAGER
-    def main_paths_manager():
+    def main_paths_manager(self):
         '''This function creates and completes the paths
         for important files and folders'''
         
@@ -90,7 +90,7 @@ class Crawler:
         check_file(blacklist_list_file)
 
     # LIST SAVING MANAGEMENT
-    def save_list_in_file(in_list, filepath, many_rows=True, mode='w'):
+    def save_list_in_file(self, in_list, filepath, many_rows=True, mode='w'):
         '''Saves a list as lines in a file
         Returns 'True' if succeeded, 'False' if failed.'''
 
@@ -100,7 +100,7 @@ class Crawler:
             return True
         except:
             return False
-    def load_list_from_file(file_path):
+    def load_list_from_file(self, file_path):
         '''Returns a list containing all lines in a file'''
         data = csvm.read_csv(file_path)
         data = [x[0] for x in data]
@@ -135,7 +135,7 @@ class Crawler:
             output_url_list = []
 
     # HISTORY LIST MANAGEMENT
-    def save_history_to_file():
+    def save_history_to_file(self):
         '''Saves 'history_list' to its respective file'''
         global url_history_list
         global url_history_list_file
@@ -143,7 +143,7 @@ class Crawler:
         data_write = url_history_list[:]
         data_write.insert(0, history_header)
         csvm.write_csv(url_history_list_file, data_write, True)
-    def load_history_from_file():
+    def load_history_from_file(self):
         '''Saves 'history_list' from its respective file'''
         global url_history_list
         global url_history_list_file
@@ -161,7 +161,7 @@ class Crawler:
             blacklist_list = []
 
     # LIST CLEANING
-    def remove_duplicates_from_list(input_list):
+    def remove_duplicates_from_list(self, input_list):
         '''Returns the list without duplicates and ammount of entries removed.'''
 
         process_list = input_list # Assign to avoid reference passes
@@ -171,7 +171,7 @@ class Crawler:
         final_length = len(process_list)
 
         return process_list, (initial_length - final_length)
-    def remove_entries_from_another_list(target_list, tool_list):
+    def remove_entries_from_another_list(self, target_list, tool_list):
         '''Returns the 'target_list' without 'tool_list' entries
         and ammount of entries removed.'''
 
@@ -318,7 +318,7 @@ class Crawler:
         amt_crawled = len(real_indexed_list)
         print('Ammount of pages already crawled: {}'.format(amt_crawled))
         return amt_crawled
-    def count_pages_available():
+    def count_pages_available(self):
         '''Count how many pages in incoming'''
         global incoming_url_list
         amt_available = len(incoming_url_list)
@@ -337,7 +337,7 @@ class Crawler:
             incoming_url_list.append(seed)
         self.save_incoming_to_file()
 
-    def pathfinder(input_list, output_list, history_list, amt_to_search=-1, parallel_search=True):
+    def pathfinder(self, input_list, output_list, history_list, amt_to_search=-1, parallel_search=True):
         '''Crawls a list, returns ammount of pages crawled
         and ammount of pages available to crawl.
         - input_list: List to be crawled
