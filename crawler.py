@@ -37,6 +37,20 @@ class Crawler:
         self.blacklist_list = []
         self.blacklist_list_file = 'blacklist.csv'
 
+    # ENCAPSULATION
+    # INPUT
+    def get_input_path(self):
+        '''Retrieve path to input file'''
+        return self.incoming_url_list_file
+    def get_input_data(self):
+        '''Retrieve input data'''
+        ### return data TODO: Adapt functions
+    def write_input_data(self, overwrite=True):
+        '''Write input data
+        - overwrite: If 'True', overwrites file
+            If 'False', appends to file.
+            Defaults 'True'.'''
+
 
     # MAIN PATHS MANAGER
     def main_paths_manager(self):
