@@ -15,15 +15,6 @@ from site_saver import save_website
 from modules import csv_methods as csvm
 
 
-
-
-# If the called link redirected to somewhere else,
-# Mark it so it is included in history,
-# but not counted as an indexed page
-redirector_flag = '´'
-
-fail_flag = '#'
-
 class Crawler:
     def __init__(self, root_dir):
 
