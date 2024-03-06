@@ -394,8 +394,11 @@ def expand_index(input_list, output_list, history_list, amt_to_search=0, cycle_d
 
     formatted_time = f'{days}-{hrs}:{mins}:{secs:2f}'
 
+    divider = 1 # Avoid dividing by zero
+    if amt_searched != 0:
+        divider = amt_searched
     print(f'\nCrawled {amt_searched} pages in {formatted_time}')
-    print(f'{time_taken/amt_searched:2f}s per page')
+    print(f'{time_taken/divider:2f}s per page')
 
     return amt_searched, time_taken
 
