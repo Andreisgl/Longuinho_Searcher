@@ -16,8 +16,8 @@ from modules import csv_methods as csvm
 
 # MAIN PATHS MANAGER
 def main_paths_manager():
-    # This function creates and completes the paths
-    # for important files and folders
+    '''This function creates and completes the paths
+    for important files and folders'''
     
     def check_file(path):
         # Creates file it it does not exis already
