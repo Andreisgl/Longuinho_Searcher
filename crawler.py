@@ -281,7 +281,6 @@ def clean_output():
 def count_pages_crawled():
     '''Count how many pages in history'''
     global url_history_list
-    global redirector_flag
     load_history_from_file()
     real_indexed_list = url_history_list[:]
 
@@ -476,14 +475,6 @@ seed_list_file = 'seeds.csv'
 
 blacklist_list = []
 blacklist_list_file = 'blacklist.csv'
-
-# If the called link redirected to somewhere else,
-# Mark it so it is included in history,
-# but not counted as an indexed page
-redirector_flag = '´'
-
-fail_flag = '#'
-
 
 main_paths_manager()
 
