@@ -470,9 +470,12 @@ class Crawler:
         hrs %= 24
 
         formatted_time = f'{days}-{hrs}:{mins}:{secs:2f}'
-
         print(f'\nCrawled {amt_searched} pages in {formatted_time}')
-        print(f'{time_taken/amt_searched:2f}s per page')
+        if amt_searched > 0:
+            divider = amt_searched
+        else:
+            divider = 1
+        print(f'{time_taken/divider:2f}s per page')
 
         return amt_searched, time_taken
 
