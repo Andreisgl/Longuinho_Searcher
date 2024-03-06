@@ -354,7 +354,7 @@ def pathfinder(input_list, output_list, history_list, parallel_search=True):
     # Return number of crawled and available pages
     return visited_urls_counter, recovered_urls, internal_history
 
-def expand_index(input_list, output_list, history_list, amt_to_search, cycle_data=True):
+def expand_index(input_list, output_list, history_list, amt_to_search=0, cycle_data=True):
     '''Covers many pathfindings to crawl desired ammount of pages.
     Returns ammount of pages crawled and time to do so.'''
         
@@ -362,11 +362,11 @@ def expand_index(input_list, output_list, history_list, amt_to_search, cycle_dat
 
     amt_searched_total = 0 # Ammount searched in total
     amt_searched = 0 # Ammount searched in iteration
-    amt_available = 1 # Start as > 0 to not trigger termination
+    amt_available = len(input_list) # Start as > 0 to not trigger termination
 
     # This is a call to crawl all available URLs at once
     crawl_set = []
-    if amt_to_search <= 0: 
+    if amt_to_search <= 0 or amt_to_search > amt_available: 
         crawl_set = input_list[:]
     else:
         crawl_set = input_list[:amt_to_search]
@@ -380,8 +380,6 @@ def expand_index(input_list, output_list, history_list, amt_to_search, cycle_dat
 
 
     end_time = perf_counter() # Stop counting execution time
-
-
     time_taken = end_time - start_time
 
     # Statistics:
