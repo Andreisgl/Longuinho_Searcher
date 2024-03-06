@@ -317,16 +317,16 @@ def pathfinder(input_list, output_list, history_list, parallel_search=True):
         If 'False', crawling will be serial.
     '''
 
-    sample = input_list
+    workset = input_list
     
     # Bundle URL packages
     print('Start Bundling')
     data_pack_bundle = []
     if parallel_search:
         with Pool() as pool:
-            data_pack_bundle = pool.map(save_website, sample, chunksize=5)
+            data_pack_bundle = pool.map(save_website, workset, chunksize=5)
     else:
-        for url in sample:
+        for url in workset:
             data_pack_bundle.append(save_website(url))
 
     # Manage recovered data
