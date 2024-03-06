@@ -38,13 +38,16 @@ class Crawler:
         self.blacklist_list_file = 'blacklist.csv'
 
     # ENCAPSULATION
+    # TODO: Move seeds and blacklist to node manager
+        # Consider moving only history file to node manager as well
+            # No. Async history transmission is necessary.
     # INPUT
     def get_input_path(self):
         '''Retrieve path to input file'''
         return self.incoming_url_list_file
     def get_input_data(self):
         '''Retrieve input data'''
-        ### return data TODO: Adapt functions
+        return self.load_incoming_from_file()
     def write_input_data(self, overwrite=True):
         '''Write input data
         - overwrite: If 'True', overwrites file
