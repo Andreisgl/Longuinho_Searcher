@@ -309,6 +309,7 @@ def plant_seed():
 
 def pathfinder(input_list, output_list, history_list, amt_to_search=-1, parallel_search=True):
     '''Crawls a list, returns ammount of pages crawled
+    and ammount of pages available to crawl.
     - input_list: List to be crawled
     - output_list: All URLs found in this crawl
     - history_list: All URLs ever crawled
@@ -369,11 +370,14 @@ def pathfinder(input_list, output_list, history_list, amt_to_search=-1, parallel
         
         # Removed visited pages from 'input_list'
         del input_list[:amt_to_search]
+        # Update ammount of links available
+        amt_available = len(input_list)
         
         # Append recovered URLs to 'output_list'
         output_list += recovered_urls
 
-    return visited_urls_counter # Return number of crawled pages
+    # Return number of crawled and available pages
+    return visited_urls_counter, amt_available
 
 def expand_index(amt_to_search, cycle_data=False):
     '''Covers many pathfindings to crawl desired ammount of pages.
@@ -400,16 +404,23 @@ def expand_index(amt_to_search, cycle_data=False):
     
     start_time = perf_counter() # Start counting execution time
 
-    amt_searched = 0
+    amt_searched_total = 0 # Ammount searched in total
+    amt_searched = 0 # Ammount searched in iteration
+    amt_available = 1 # Start as > 0 to not trigger termination
 
     if amt_to_search <= 0: # This is a call to crawl all available pages
         amt_searched += call_pathfinder()
         feedback_data()
 
-    while amt_searched < amt_to_search:
-        amt_searched += call_pathfinder()
+    print('Crawl cycle START')
+    while (amt_searched_total < amt_to_search
+    and amt_available > 0):
+        amt_searched, amt_available = call_pathfinder()
         amt_to_search -= amt_searched
+        amt_searched_total += amt_searched
         feedback_data()
+    else:
+        print('Crawl cycle END')
     
     
 
