@@ -504,8 +504,8 @@ def main():
     crawler.count_pages_crawled()
     crawler.count_pages_available()
 
-    if len(incoming_url_list) <= 0:
-        crawler.plant_seed()
+    #if len(incoming_url_list) <= 0:
+    #    crawler.plant_seed()
     
     while True: # Input desired amount of pages to crawl
         try:
