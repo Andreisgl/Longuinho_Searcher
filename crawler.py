@@ -382,6 +382,7 @@ def expand_index(input_list, output_list, history_list, amt_to_search=0, cycle_d
     end_time = perf_counter() # Stop counting execution time
     time_taken = end_time - start_time
 
+
     # Statistics:
     secs = time_taken
     mins = time_taken//60
@@ -400,7 +401,7 @@ def expand_index(input_list, output_list, history_list, amt_to_search=0, cycle_d
     print(f'\nCrawled {amt_searched} pages in {formatted_time}')
     print(f'{time_taken/divider:2f}s per page')
 
-    return amt_searched, time_taken
+    return output_list, history_list, amt_searched, time_taken
 
 
 
@@ -436,7 +437,11 @@ def main():
             continue
         break
 
-    expand_index(incoming_url_list, output_url_list, url_history_list, answer)
+    returned_data = expand_index(
+        incoming_url_list, output_url_list, url_history_list, answer)
+    
+    output_url_list = returned_data[0][:]
+    url_history_list = returned_data[1][:]
     
     
     # Move output to input
