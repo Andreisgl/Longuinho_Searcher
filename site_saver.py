@@ -26,13 +26,8 @@ def get_pages_database_path():
     return ALL_WEBSITES_FOLDER
 
 def get_filenames():
-    global DATA_FILENAME
-    global LINK_LIST_FILENAME
-    global TEXT_LIST_FILENAME
     global META_LIST_FILENAME
-
-    return (DATA_FILENAME, LINK_LIST_FILENAME,
-            TEXT_LIST_FILENAME, META_LIST_FILENAME)
+    return (META_LIST_FILENAME)
 
 
 def save_html_to_file(html, filepath):
