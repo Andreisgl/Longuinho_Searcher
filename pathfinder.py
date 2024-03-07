@@ -49,7 +49,11 @@ def pathfinder(input_list, output_list, history_list, parallel_search=True):
         if was_redirected: # If there is a redirection, append origin link with a marker
             internal_history.append((searched_url, success_flag, True))
             visited_urls_counter += 1 # Count redirector URL as visited too
-        internal_history.append((final_url, success_flag, False))
+        
+        display_url = final_url
+        if not success_flag:
+            display_url = searched_url
+        internal_history.append((display_url, success_flag, False))
         visited_urls_counter += 1 # Count URL as visited
 
     # Return number of crawled and available pages
