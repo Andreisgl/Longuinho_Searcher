@@ -336,9 +336,14 @@ def main():
     returned_data = patf.expand_index(
         incoming_url_list, output_url_list, url_history_list, answer)
     
-    output_url_list = returned_data[0][:]
-    url_history_list = returned_data[1][:]
+    # Move new data to global variables
+    output_url_list += returned_data[0]
+    url_history_list += returned_data[1]
     
+    # Move output to input
+    incoming_url_list = output_url_list[:]
+    output_url_list.clear()
+
     
     # Move output to input
     clean_output()

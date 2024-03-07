@@ -31,6 +31,7 @@ def pathfinder(input_list, output_list, history_list, parallel_search=True):
             data_pack_bundle.append(save_website(url))
 
     # Manage recovered data
+    internal_history = []
     recovered_urls = [] # Will be passed on to 'output_list' later
     visited_urls_counter = 0 # Redirections count as URLs, so count them too!
     for pack in data_pack_bundle:
@@ -45,11 +46,10 @@ def pathfinder(input_list, output_list, history_list, parallel_search=True):
             recovered_urls.append(rec_url)
 
         # Add to history
-        internal_history = []
         if was_redirected: # If there is a redirection, append origin link with a marker
             internal_history.append((searched_url, success_flag, True))
             visited_urls_counter += 1 # Count redirector URL as visited too
-        internal_history.append((searched_url, success_flag, False))
+        internal_history.append((final_url, success_flag, False))
         visited_urls_counter += 1 # Count URL as visited
 
     # Return number of crawled and available pages
