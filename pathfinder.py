@@ -8,7 +8,7 @@ from multiprocessing import Pool
 from site_saver import save_website
 
 
-def pathfinder(input_list, output_list, history_list, parallel_search=True):
+def pathfinder(input_list, parallel_search=True):
     '''Crawls a list, returns ammount of pages crawled
     and ammount of pages available to crawl.
     - input_list: List to be crawled
@@ -32,7 +32,7 @@ def pathfinder(input_list, output_list, history_list, parallel_search=True):
 
     # Manage recovered data
     internal_history = []
-    recovered_urls = [] # Will be passed on to 'output_list' later
+    recovered_urls = []
     visited_urls_counter = 0 # Redirections count as URLs, so count them too!
     for pack in data_pack_bundle:
         success_flag = pack[0]
@@ -59,7 +59,7 @@ def pathfinder(input_list, output_list, history_list, parallel_search=True):
     # Return number of crawled and available pages
     return visited_urls_counter, recovered_urls, internal_history
 
-def expand_index(input_list, output_list, history_list, amt_to_search=0, cycle_data=True):
+def expand_index(input_list, amt_to_search=0):
     '''Covers many pathfindings to crawl desired ammount of pages.
     Returns ammount of pages crawled and time to do so.'''
         
@@ -76,7 +76,7 @@ def expand_index(input_list, output_list, history_list, amt_to_search=0, cycle_d
     else:
         crawl_set = input_list[:amt_to_search]
     
-    returned_data = pathfinder(crawl_set, output_list, history_list, amt_to_search)
+    returned_data = pathfinder(crawl_set, amt_to_search)
     amt_searched = returned_data[0]
     output_list = returned_data[1]
     history_list = returned_data[2]
