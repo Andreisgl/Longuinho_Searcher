@@ -322,7 +322,7 @@ def main():
     count_pages_crawled()
     count_pages_available()
 
-    if len(incoming_url_list) <= 0:
+    if len(incoming_url_list) <= 0 and len(output_url_list) <= 0:
         plant_seed()
     
     while True: # Input desired amount of pages to crawl
@@ -334,15 +334,17 @@ def main():
         break
 
     returned_data = patf.expand_index(
-        incoming_url_list, output_url_list, url_history_list, answer)
+        incoming_url_list, answer)
     
     # Move new data to global variables
     output_url_list += returned_data[0]
     url_history_list += returned_data[1]
     
-    # Move output to input
-    incoming_url_list = output_url_list[:]
-    output_url_list.clear()
+    # Move output to input to cycle the data
+    data_cycle = False
+    if data_cycle:
+        incoming_url_list = output_url_list[:]
+        output_url_list.clear()
 
     
     # Move output to input
