@@ -16,23 +16,25 @@ no_terminal_columns = get_terminal_columns()
 class PageSaver:
     def __init__(self, DB_DIR):
         '''- DB_DIR is the directory of the websites database'''
-        self.ALL_WEBSITES_FOLDER = DB_DIR
+        self.DB_DIR = DB_DIR
+        self.ALL_WEBSITES_FOLDER = 'SITES_INDEX'
         pass
 
     def main_folders_manager(self):
-        global ALL_WEBSITES_FOLDER
+        #global ALL_WEBSITES_FOLDER
+        self.ALL_WEBSITES_FOLDER
         #database_dir = os.path.dirname(os.path.dirname(__file__))
-        database_dir = ''
-        ALL_WEBSITES_FOLDER = os.path.join(database_dir, ALL_WEBSITES_FOLDER)
-        if(not os.path.exists(ALL_WEBSITES_FOLDER)):
-            os.mkdir(ALL_WEBSITES_FOLDER)
+        database_dir = self.DB_DIR
+        self.ALL_WEBSITES_FOLDER = os.path.join(database_dir, self.ALL_WEBSITES_FOLDER)
+        if(not os.path.exists(self.ALL_WEBSITES_FOLDER)):
+            os.mkdir(self.ALL_WEBSITES_FOLDER)
 
     
 
 
     def get_pages_database_path(self):
         '''The indexer will need to know where the pages are located'''
-        return ALL_WEBSITES_FOLDER
+        return self.ALL_WEBSITES_FOLDER
 
     def get_filenames(self): ### UNUSED IN THIS FILE
         global META_LIST_FILENAME
@@ -139,10 +141,10 @@ class PageSaver:
             aux = aux.split('/')
         else:
             aux = [aux]
-        aux.insert(0, ALL_WEBSITES_FOLDER)
-        all_websites_folder = aux[0]
+        aux.insert(0, self.ALL_WEBSITES_FOLDER)
+        all_web_folder = aux[0]
         website_folder = aux[1]
-        page_path = os.path.join(all_websites_folder, website_folder)
+        page_path = os.path.join(all_web_folder, website_folder)
         
         if not os.path.exists(page_path):
             os.mkdir(page_path)
@@ -249,7 +251,7 @@ class PageSaver:
     META_LIST_FILENAME = 'meta.txt'
 
 
-    ALL_WEBSITES_FOLDER = 'SITES_INDEX'
+    
     main_folders_manager()
 
     pass
