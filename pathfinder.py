@@ -5,10 +5,10 @@ import os
 
 from time import perf_counter
 from multiprocessing import Pool
-from site_saver import save_website
+from site_saver import PageSaver
 
 
-def pathfinder(input_list, parallel_search=True):
+def pathfinder(input_list, pg_svr:PageSaver, parallel_search=True):
     '''Crawls a list, returns ammount of pages crawled
     and ammount of pages available to crawl.
     - input_list: List to be crawled
@@ -25,10 +25,10 @@ def pathfinder(input_list, parallel_search=True):
     data_pack_bundle = []
     if parallel_search:
         with Pool() as pool:
-            data_pack_bundle = pool.map(save_website, workset, chunksize=5)
+            data_pack_bundle = pool.map(pg_svr.save_website, workset, chunksize=5)
     else:
         for url in workset:
-            data_pack_bundle.append(save_website(url))
+            data_pack_bundle.append(pg_svr.save_website(url))
 
     # Manage recovered data
     internal_history = []
@@ -59,7 +59,7 @@ def pathfinder(input_list, parallel_search=True):
     # Return number of crawled and available pages
     return visited_urls_counter, recovered_urls, internal_history
 
-def expand_index(input_list, amt_to_search=0):
+def expand_index(input_list, pg_svr:PageSaver, amt_to_search=0):
     '''Covers many pathfindings to crawl desired ammount of pages.
     Returns ammount of pages crawled and time to do so.'''
         
@@ -76,7 +76,7 @@ def expand_index(input_list, amt_to_search=0):
     else:
         crawl_set = input_list[:amt_to_search]
     
-    returned_data = pathfinder(crawl_set, amt_to_search)
+    returned_data = pathfinder(crawl_set, pg_svr, amt_to_search)
     amt_searched = returned_data[0]
     output_list = returned_data[1]
     history_list = returned_data[2]

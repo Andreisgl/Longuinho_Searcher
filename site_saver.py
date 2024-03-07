@@ -18,6 +18,7 @@ class PageSaver:
         '''- DB_DIR is the directory of the websites database'''
         self.DB_DIR = DB_DIR
         self.ALL_WEBSITES_FOLDER = 'SITES_INDEX'
+        self.main_folders_manager()
         pass
 
     def main_folders_manager(self):
@@ -252,6 +253,6 @@ class PageSaver:
 
 
     
-    main_folders_manager()
+   
 
     pass

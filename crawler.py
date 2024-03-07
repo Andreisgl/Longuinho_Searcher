@@ -5,6 +5,7 @@ import os
 
 from modules import csv_methods as csvm
 import pathfinder as patf
+from site_saver import PageSaver
 
 # MAIN PATHS MANAGER
 def main_paths_manager():
@@ -327,19 +328,24 @@ def main():
     
     while True: # Input desired amount of pages to crawl
         try:
-            answer = int(input('How many pages do you want to index? '))
+            number_answer = int(input('How many pages do you want to index? '))
         except ValueError:
             print('Input a valid number!')
             continue
         break
+    
+    # Create PageSaver instance, with desired database folder
+    pg_svr = PageSaver(MAIN_FOLDER)
 
     returned_data = patf.expand_index(
-        incoming_url_list, answer)
+        incoming_url_list, pg_svr, number_answer)
     
     # Move new data to global variables
     output_url_list += returned_data[0]
     url_history_list += returned_data[1]
     
+    # Delete searched URLs from 'incoming'
+    del incoming_url_list[:number_answer]
     # Move output to input to cycle the data
     data_cycle = False
     if data_cycle:
