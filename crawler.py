@@ -2,12 +2,10 @@
 and appends those to the list'''
 
 import os
-from time import perf_counter
 
-from multiprocessing import Pool
-
-from site_saver import save_website
 from modules import csv_methods as csvm
+import pathfinder as patf
+from site_saver import PageSaver
 
 # MAIN PATHS MANAGER
 def main_paths_manager():
@@ -15,7 +13,7 @@ def main_paths_manager():
     for important files and folders'''
     
     def check_file(path):
-        # Creates file it it does not exis already
+        # Creates file it it does not exist already
         if not os.path.exists(path): # Create file if it does not exist
             with open(path, 'w'):
                 pass
@@ -289,6 +287,7 @@ def count_pages_available():
     
     print('URLs available: {}'.format(amt_available))
     return amt_available
+
 # CRAWLING
 def plant_seed():
     global incoming_url_list
@@ -300,104 +299,6 @@ def plant_seed():
     for seed in seed_list:
         incoming_url_list.append(seed)
     save_incoming_to_file()
-
-def pathfinder(input_list, output_list, history_list, parallel_search=True):
-    '''Crawls a list, returns ammount of pages crawled
-    and ammount of pages available to crawl.
-    - input_list: List to be crawled
-    - output_list: All URLs found in this crawl
-    - history_list: All URLs crawled in this iteration
-    - parallel_search: If 'True', crawling will use multithreading.
-        If 'False', crawling will be serial.
-    '''
-
-    workset = input_list
-    
-    # Bundle URL packages
-    print('Start Bundling')
-    data_pack_bundle = []
-    if parallel_search:
-        with Pool() as pool:
-            data_pack_bundle = pool.map(save_website, workset, chunksize=5)
-    else:
-        for url in workset:
-            data_pack_bundle.append(save_website(url))
-
-    # Manage recovered data
-    recovered_urls = [] # Will be passed on to 'output_list' later
-    visited_urls_counter = 0 # Redirections count as URLs, so count them too!
-    for pack in data_pack_bundle:
-        success_flag = pack[0]
-        was_redirected = pack[1]
-        searched_url = pack[2]
-        final_url = pack[3]
-        found_urls = pack[4]
-
-        # Recover URLs
-        for rec_url in found_urls:
-            recovered_urls.append(rec_url)
-
-        # Add to history
-        internal_history = []
-        if was_redirected: # If there is a redirection, append origin link with a marker
-            internal_history.append((searched_url, success_flag, True))
-            visited_urls_counter += 1 # Count redirector URL as visited too
-        internal_history.append((searched_url, success_flag, False))
-        visited_urls_counter += 1 # Count URL as visited
-
-    # Return number of crawled and available pages
-    return visited_urls_counter, recovered_urls, internal_history
-
-def expand_index(input_list, output_list, history_list, amt_to_search=0, cycle_data=True):
-    '''Covers many pathfindings to crawl desired ammount of pages.
-    Returns ammount of pages crawled and time to do so.'''
-        
-    start_time = perf_counter() # Start counting execution time
-
-    amt_searched_total = 0 # Ammount searched in total
-    amt_searched = 0 # Ammount searched in iteration
-    amt_available = len(input_list) # Start as > 0 to not trigger termination
-
-    # This is a call to crawl all available URLs at once
-    crawl_set = []
-    if amt_to_search <= 0 or amt_to_search > amt_available: 
-        crawl_set = input_list[:]
-    else:
-        crawl_set = input_list[:amt_to_search]
-    
-    returned_data = pathfinder(crawl_set, output_list, history_list, amt_to_search)
-    amt_searched = returned_data[0]
-    output_list = returned_data[1]
-    history_list = returned_data[2]
-
-    amt_searched_total += amt_searched
-
-
-    end_time = perf_counter() # Stop counting execution time
-    time_taken = end_time - start_time
-
-
-
-
-    # Statistics:
-    secs = time_taken
-    mins = time_taken//60
-    hrs = mins//60
-    days = hrs//24
-
-    secs %= 60
-    mins %= 60
-    hrs %= 24
-
-    formatted_time = f'{days}-{hrs}:{mins}:{secs:2f}'
-
-    divider = 1 # Avoid dividing by zero
-    if amt_searched != 0:
-        divider = amt_searched
-    print(f'\nCrawled {amt_searched} pages in {formatted_time}')
-    print(f'{time_taken/divider:2f}s per page')
-
-    return output_list, history_list, amt_searched, time_taken
 
 
 
@@ -422,23 +323,35 @@ def main():
     count_pages_crawled()
     count_pages_available()
 
-    if len(incoming_url_list) <= 0:
+    if len(incoming_url_list) <= 0 and len(output_url_list) <= 0:
         plant_seed()
     
     while True: # Input desired amount of pages to crawl
         try:
-            answer = int(input('How many pages do you want to index? '))
+            number_answer = int(input('How many pages do you want to index? '))
         except ValueError:
             print('Input a valid number!')
             continue
         break
+    
+    # Create PageSaver instance, with desired database folder
+    pg_svr = PageSaver(MAIN_FOLDER)
 
-    returned_data = expand_index(
-        incoming_url_list, output_url_list, url_history_list, answer)
+    returned_data = patf.expand_index(
+        incoming_url_list, pg_svr, number_answer)
     
-    output_url_list += returned_data[0][:]
-    url_history_list += returned_data[1][:]
+    # Move new data to global variables
+    output_url_list += returned_data[0]
+    url_history_list += returned_data[1]
     
+    # Delete searched URLs from 'incoming'
+    del incoming_url_list[:number_answer]
+    # Move output to input to cycle the data
+    data_cycle = False
+    if data_cycle:
+        incoming_url_list = output_url_list[:]
+        output_url_list.clear()
+
     
     # Move output to input
     clean_output()
