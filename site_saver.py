@@ -249,7 +249,7 @@ class PageSaver:
 
 
 
-    META_LIST_FILENAME = 'meta.txt'
+    META_LIST_FILENAME = 'meta.txt' # TODO: Seems unused. Consider deleting this variable
 
 
     
