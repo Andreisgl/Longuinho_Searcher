@@ -78,7 +78,9 @@ def parse_urls(raw_data):
         is_present = any(char in link for char in dangerous_chars)
         if not is_present:
             clean_list.append(link)
-
+    
+    # Remove duplicates from list
+    clean_list = list(set(clean_list))
     return clean_list
 # TEXT
 def parse_text(raw_data):
