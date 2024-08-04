@@ -347,7 +347,7 @@ def main():
     # Delete searched URLs from 'incoming'
     del incoming_url_list[:number_answer]
     # Move output to input to cycle the data
-    data_cycle = False
+    data_cycle = True
     if data_cycle:
         incoming_url_list = output_url_list[:]
         output_url_list.clear()
