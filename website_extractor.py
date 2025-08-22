@@ -1,6 +1,7 @@
 # This module extracts data from websites. It also parses it by text and links.
 
 import os
+import re
 
 import urllib.request
 from bs4 import BeautifulSoup
@@ -91,10 +92,13 @@ def parse_text(raw_data):
         return []
     text = text_soup.get_text()
 
-    text = text.split('\n') # Split into lines
-    text = [x.replace('\t', '') for x in text] # Remove '\t'
+    #text = text.split('\n') # Split into lines
+    text = text.split() # Split into lines
+    #text = [x.replace('\t', '') for x in text] # Remove '\t'
     text = [x for x in text if x != ''] # Remove empty elements
+    text = [re.sub('[^A-Za-z0-9]+ ', '', x) for x in text if x != ''] # Remove empty elements
 
+    
     return text
 
 # WEBSITE NAME
