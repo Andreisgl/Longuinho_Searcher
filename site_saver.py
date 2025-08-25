@@ -37,9 +37,9 @@ class PageSaver:
         '''The indexer will need to know where the pages are located'''
         return self.ALL_WEBSITES_FOLDER
 
-    def get_filenames(self): ### UNUSED IN THIS FILE
-        global META_LIST_FILENAME
-        return (META_LIST_FILENAME)
+    #def get_filenames(self): ### UNUSED IN THIS FILE
+    #    global META_LIST_FILENAME
+    #    return (META_LIST_FILENAME)
 
 
     def save_html_to_file(self, html, filepath): ### UNUSED IN THIS FILE
@@ -210,13 +210,13 @@ class PageSaver:
 
 
         # CREATE METADATA
-        meta_url = 'URL\{}'.format(real_url)
+        meta_url = 'URL:{}'.format(real_url)
         now = time.time()
         meta_datetime_local=time.strftime('%Y-%m-%d %H:%M %Z',time.localtime(now))
         meta_datetime_gmt = time.strftime('%Y-%m-%d %H:%M %Z', time.gmtime(now))
         
-        meta_datetime_local = 'DATEINDEXEDLOCAL\{}'.format(meta_datetime_local)
-        meta_datetime_gmt = 'DATEINDEXEDGMT\{}'.format(meta_datetime_gmt[:16])
+        meta_datetime_local = 'DATEINDEXEDLOCAL:{}'.format(meta_datetime_local)
+        meta_datetime_gmt = 'DATEINDEXEDGMT:{}'.format(meta_datetime_gmt[:16])
         meta_list = [meta_url,
                     meta_datetime_local,
                     meta_datetime_gmt]
